@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Medicine</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4 年（须先有大学学习）</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>St. George campus · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>St. George、Scarborough、Mississauga 医学教学社区 · <strong>授课语言：</strong>英语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,9 +38,22 @@ hide:
 
 <p><strong>项目类别：</strong>Professional / Second-Entry</p>
 
+<p class="catalog-fact"><strong>所属学科课程内容：</strong>四年MD医学课程通过综合医学学习及临床网络培养医生，课程位于圣乔治、士嘉堡和密西沙加三个社区；这是需另核既往大学学习资格的专业医学入口。</p>
+<p class="fact-sources"><a href="#source-p-toronto-detail-143">官方依据</a></p>
+
+<p class="catalog-fact"><strong>教学语言：</strong>学校说明教学与考试语言为英语；具体外语学习及临床沟通要求须查看专业规定。</p>
+<p class="fact-sources"><a href="#source-p-toronto-language">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学制与教学地点：</strong>MD课程4年，医学官网列三个校区教学社区及其临床教学网络；此前目录的St. George地点不能代表全部教学安排。</p>
+<p class="fact-sources"><a href="#source-p-toronto-detail-143">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>医学并非高中直入：</strong>加拿大大学申请者至少完成3年／15.0 FCE本科教育；在加拿大以外完成学业者须具备相当于加拿大4年非医学本科学位，按要求提交WES评估。通常须生命科学2.0 FCE、人文／社科／语言1.0 FCE；本科GPA最低3.6并须MCAT各部分125、允许一项124。最低要求不保证录取。</p>
+<p class="fact-sources"><a href="#source-p-toronto-md-academic">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际身份限制：</strong>医学学院当前MD/PhD招生说明明确写明MD目前不接受国际学生申请。海外受教育资格不等于国际学生身份可申请；本轮未取得改变这一限制的2027政策，须由MD招生办确认个人身份与入学年。</p>
+<p class="fact-sources"><a href="#source-p-md-international-current">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -61,5 +74,9 @@ hide:
 - [官方项目页面或项目所在目录](https://applymd.utoronto.ca)
 - [官方目录](https://www.utoronto.ca/academics/undergraduate-programs)
 
+<div class="catalog-source" id="source-p-toronto-detail-143"><div><a href="https://applymd.utoronto.ca">多伦多大学官方资料：toronto-detail-143 ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-toronto-language"><div><a href="https://future.utoronto.ca/english-language-requirements">多伦多大学官方资料：toronto-language ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-toronto-md-academic"><div><a href="https://applymd.utoronto.ca/academic-requirements">多伦多大学官方资料：toronto-md-academic ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-md-international-current"><div><a href="https://md.utoronto.ca/mdphd-admissions-0">多伦多大学官方资料：md-international-current ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/toronto/">← 返回多伦多大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -1,0 +1,3697 @@
+{
+  "university_id": "ntu-taiwan",
+  "programs": [
+    {
+      "raw_key": "Department of Chinese Literature",
+      "name_en": "Department of Chinese Literature",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "http://www.cl.ntu.edu.tw/home.jsp?lang=en",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-chinese-literature-d875646dfa",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Chinese Literature"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Foreign Languages & Literatures",
+      "name_en": "Department of Foreign Languages & Literatures",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "http://www.forex.ntu.edu.tw/?lang=en",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-foreign-languages-literatures-b2cac1af9e",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          },
+          {
+            "label": "课程内容示例",
+            "text": "该本科课程区列示的学习内容包括：语言学、文学。这是页面中课程与课程说明的摘取示例，含可能的选修或基础课；本轮未逐项确认全部必修、先修链及2027修读规则。",
+            "source_ids": [
+              "ASREN-bbf33f2a1d1a08"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Foreign Languages & Literatures"
+        },
+        {
+          "id": "ASREN-bbf33f2a1d1a08",
+          "title": "官方本科课程结构",
+          "url": "https://www.forex.ntu.edu.tw/undergraduate-curriculum/?lang=en",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "120d263f00408d17df97a23d2465d164bafb86628cf97374e444458ca27819ce",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of History",
+      "name_en": "Department of History",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "http://www.history.ntu.edu.tw/english/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-history-2aabfd54b4",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of History"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Philosophy",
+      "name_en": "Department of Philosophy",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://philo.ntu.edu.tw/home.jsp?lang=en",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-philosophy-fc37f4b4e8",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Philosophy"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Anthropology",
+      "name_en": "Department of Anthropology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://anthro.ntu.edu.tw/en/home-2/?lang=en",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-anthropology-4a9c384bdc",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Anthropology"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Library & Information Science",
+      "name_en": "Department of Library & Information Science",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "http://www.lis.ntu.edu.tw/en",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-library-information-science-856c0a40ca",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Library & Information Science"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Japanese Language & Literature",
+      "name_en": "Department of Japanese Language & Literature",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://japan.ntu.edu.tw/en/news",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-japanese-language-literature-cb94ce97e5",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Japanese Language & Literature"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Drama & Theatre",
+      "name_en": "Department of Drama & Theatre",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "http://theatre.ntu.edu.tw/?lang=en",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-drama-theatre-12d6b09795",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Drama & Theatre"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Mathematics",
+      "name_en": "Department of Mathematics",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.math.ntu.edu.tw/en/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-mathematics-a54cb29d71",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Mathematics"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Physics",
+      "name_en": "Department of Physics",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://phys.ntu.edu.tw/enphysics/Default.html",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-physics-9d067c5ab2",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Physics"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Chemistry",
+      "name_en": "Department of Chemistry",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.ch.ntu.edu.tw/en/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-chemistry-6e53597fc9",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Chemistry"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Geosciences",
+      "name_en": "Department of Geosciences",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "http://eng.gl.ntu.edu.tw/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-geosciences-b25d58d8a5",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Geosciences"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Psychology",
+      "name_en": "Department of Psychology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "http://www.psy.ntu.edu.tw/index.php/eng",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-psychology-73913db9a5",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Psychology"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Geography",
+      "name_en": "Department of Geography",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.geog.ntu.edu.tw/index.php/en/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-geography-aa4d1c65df",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Geography"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Atmospheric Sciences",
+      "name_en": "Department of Atmospheric Sciences",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.as.ntu.edu.tw/index.php/eng",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-atmospheric-sciences-1eaf7a9a3f",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Atmospheric Sciences"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Political Science",
+      "name_en": "Department of Political Science",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://politics.ntu.edu.tw/english/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-political-science-96f0a5a41d",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Political Science"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Economics",
+      "name_en": "Department of Economics",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://econ.ntu.edu.tw/en/home-en",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-economics-22fc90ca0e",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          },
+          {
+            "label": "课程结构与学分",
+            "text": "2023及以后入学课程表毕业需128学分：通识27、必修36、系内选修30、其他选修35；专业内容包括个体／总体经济与计量经济。2027若修订仍以新版为准。",
+            "source_ids": [
+              "ASREN-76450a3237e0f8"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Economics"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        },
+        {
+          "id": "ASREN-76450a3237e0f8",
+          "title": "台湾大学本科课程结构",
+          "url": "https://econ.ntu.edu.tw/en/archives/9141",
+          "checked_at": "2026-09-12",
+          "supports": "明确列示的课程与学分，不替代大陆招生资格",
+          "sha256": "0da13eec17812ffae45941cfcc6c551afc88cc41d06cd6354b3d72ed7829fa77",
+          "locator": "Undergraduate / Core Required Courses"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Sociology",
+      "name_en": "Department of Sociology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://sociology.ntu.edu.tw/en/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-sociology-a04be295ae",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Sociology"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Social Work",
+      "name_en": "Department of Social Work",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://ntusw.ntu.edu.tw/?locale=en",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-social-work-37e6a1e54c",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Social Work"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Dentistry",
+      "name_en": "Department of Dentistry",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://dent.mc.ntu.edu.tw/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-dentistry-2c02de6705",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Dentistry"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Pharmacy",
+      "name_en": "Department of Pharmacy",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://rx.mc.ntu.edu.tw/index.php?malangue=EN",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-pharmacy-d995829b9f",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Pharmacy"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "School of Medicine",
+      "name_en": "School of Medicine",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.mc.ntu.edu.tw/med/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-school-of-medicine-76d2452304",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "School of Medicine"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "School of Nursing",
+      "name_en": "School of Nursing",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.mc.ntu.edu.tw/nursing/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-school-of-nursing-0a790fe172",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "School of Nursing"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Second Degree Bachelor Of Science In Nursing",
+      "name_en": "Second Degree Bachelor Of Science In Nursing",
+      "degree_label": "Bachelor's degree",
+      "official_url": "https://www.mc.ntu.edu.tw/bsnursing/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-second-degree-bachelor-of-science-in-nursing-b3d817908f",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Second Degree Bachelor Of Science In Nursing"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Clinical Laboratory Sciences & Medical Biotechnology",
+      "name_en": "Department of Clinical Laboratory Sciences & Medical Biotechnology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.mc.ntu.edu.tw/clsmb/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-clinical-laboratory-sciences-medical-biotechnology-a961887058",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Clinical Laboratory Sciences & Medical Biotechnology"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "School & Graduate Institute of Physical Therapy",
+      "name_en": "School & Graduate Institute of Physical Therapy",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.mc.ntu.edu.tw/ntupt/Index.action?l=en_US",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-school-graduate-institute-of-physical-therapy-18f44eb4fe",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "School & Graduate Institute of Physical Therapy"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "School of Occupation Therapy",
+      "name_en": "School of Occupation Therapy",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.mc.ntu.edu.tw/otntu/Index.action?l=en_US",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-school-of-occupation-therapy-cd32d1c7ff",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "School of Occupation Therapy"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Biomedical Engineering",
+      "name_en": "Department of Biomedical Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://bme.ntu.edu.tw/ntudbmeEN/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-biomedical-engineering-a4bc0de3c4",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Biomedical Engineering"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Bachelor’s Degree Program in Biotechnology and Pharmaceutical Sciences",
+      "name_en": "Bachelor’s Degree Program in Biotechnology and Pharmaceutical Sciences",
+      "degree_label": "Bachelor's degree",
+      "official_url": "https://sp.mc.ntu.edu.tw/biopharma/index_4.php",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-bachelor-s-degree-program-in-biotechnology-and-pharmaceutical-sci-d9bf12350b",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Bachelor’s Degree Program in Biotechnology and Pharmaceutical Sciences"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Civil Engineering",
+      "name_en": "Department of Civil Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.ce.ntu.edu.tw/en/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-civil-engineering-4339965eca",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Civil Engineering"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Mechanical Engineering",
+      "name_en": "Department of Mechanical Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "http://www.me.ntu.edu.tw/main.php?site_id=1",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-mechanical-engineering-c7bc2d3792",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Mechanical Engineering"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Chemical Engineering",
+      "name_en": "Department of Chemical Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://che.ntu.edu.tw/che/en",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-chemical-engineering-a8b8adee35",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Chemical Engineering"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Engineering Science & Ocean Engineering",
+      "name_en": "Department of Engineering Science & Ocean Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://homepage.ntu.edu.tw/~ntuesoe/en/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-engineering-science-ocean-engineering-ce8aa86c93",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Engineering Science & Ocean Engineering"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Materials Science & Engineering",
+      "name_en": "Department of Materials Science & Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "http://www.mse.ntu.edu.tw/index.php?lang=en",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-materials-science-engineering-d98cc024b2",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Materials Science & Engineering"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "English-Taught Intelligent Engineering and Technology Undergraduate Program",
+      "name_en": "English-Taught Intelligent Engineering and Technology Undergraduate Program",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.eng.ntu.edu.tw/iet/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-english-taught-intelligent-engineering-and-technology-undergradua-a43b7c628f",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "English-Taught Intelligent Engineering and Technology Undergraduate Program"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Veterinary Medicine",
+      "name_en": "Department of Veterinary Medicine",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.vm.ntu.edu.tw/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-veterinary-medicine-845e508ecb",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Veterinary Medicine"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Agronomy",
+      "name_en": "Department of Agronomy",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://agron.ntu.edu.tw/AgronomyEN/Default.html",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-agronomy-5879d9454d",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Agronomy"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Bioenvironmental Systems Engineering",
+      "name_en": "Department of Bioenvironmental Systems Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.bse.ntu.edu.tw/lang/set?lang=en",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-bioenvironmental-systems-engineering-1058e4a363",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Bioenvironmental Systems Engineering"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Agricultural Chemistry",
+      "name_en": "Department of Agricultural Chemistry",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://ac.ntu.edu.tw/EN",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-agricultural-chemistry-6cb4b0f27c",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Agricultural Chemistry"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "School of Forestry & Resource Conservation",
+      "name_en": "School of Forestry & Resource Conservation",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.fo.ntu.edu.tw/?locale=en",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-school-of-forestry-resource-conservation-1d40f9eea2",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "School of Forestry & Resource Conservation"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Animal Science & Technology",
+      "name_en": "Department of Animal Science & Technology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "http://www.ansc.ntu.edu.tw/mainEN/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-animal-science-technology-107ffec45c",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Animal Science & Technology"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Agricultural Economics",
+      "name_en": "Department of Agricultural Economics",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.agec.ntu.edu.tw/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-agricultural-economics-0663e8068f",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Agricultural Economics"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Horticulture & Landscape Architecture",
+      "name_en": "Department of Horticulture & Landscape Architecture",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "http://www.hort.ntu.edu.tw",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-horticulture-landscape-architecture-6d37fd4955",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Horticulture & Landscape Architecture"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Bio-industry Communication & Development",
+      "name_en": "Department of Bio-industry Communication & Development",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://bicd.ntu.edu.tw/?locale=en",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-bio-industry-communication-development-df471d9472",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Bio-industry Communication & Development"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Biomechatronics Engineering",
+      "name_en": "Department of Biomechatronics Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.bime.ntu.edu.tw/English",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-biomechatronics-engineering-cb1341177d",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Biomechatronics Engineering"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Entomology",
+      "name_en": "Department of Entomology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://entomol.ntu.edu.tw/en/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-entomology-21249ced2e",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Entomology"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Plant Pathology & Microbiology",
+      "name_en": "Department of Plant Pathology & Microbiology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://ppm.ntu.edu.tw/en/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-plant-pathology-microbiology-b214e91e80",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Plant Pathology & Microbiology"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Bachelor Program of Biotechnology and Food Nutrition",
+      "name_en": "Bachelor Program of Biotechnology and Food Nutrition",
+      "degree_label": "Bachelor's degree",
+      "official_url": "https://bfn.ntu.edu.tw/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-bachelor-program-of-biotechnology-and-food-nutrition-61457671db",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Bachelor Program of Biotechnology and Food Nutrition"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Business Administration",
+      "name_en": "Department of Business Administration",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://management.ntu.edu.tw/en/BA/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-business-administration-9b48280a84",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Business Administration"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Accounting",
+      "name_en": "Department of Accounting",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://management.ntu.edu.tw/en/Acc",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-accounting-ce30f444ee",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          },
+          {
+            "label": "课程内容示例",
+            "text": "该本科课程区列示的学习内容包括：概率统计、会计、金融。这是页面中课程与课程说明的摘取示例，含可能的选修或基础课；本轮未逐项确认全部必修、先修链及2027修读规则。",
+            "source_ids": [
+              "ASREN-4e21c2eebd4281"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Accounting"
+        },
+        {
+          "id": "ASREN-4e21c2eebd4281",
+          "title": "官方本科课程结构",
+          "url": "https://management.ntu.edu.tw/en/Acc/curriculum/undergraduate",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "cde1e8c4c46b5bf1070f3465348445d9104e20d94150e0eaaf914f333b380f1a",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Finance",
+      "name_en": "Department of Finance",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://management.ntu.edu.tw/en/Fin",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-finance-704371663b",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Finance"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of International Business",
+      "name_en": "Department of International Business",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://management.ntu.edu.tw/en/IB",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-international-business-97bee43f54",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          },
+          {
+            "label": "课程内容示例",
+            "text": "该本科课程区列示的学习内容包括：微积分、概率统计、微观经济、宏观经济、会计、金融。这是页面中课程与课程说明的摘取示例，含可能的选修或基础课；本轮未逐项确认全部必修、先修链及2027修读规则。",
+            "source_ids": [
+              "ASREN-71ffe5f98e887a"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of International Business"
+        },
+        {
+          "id": "ASREN-71ffe5f98e887a",
+          "title": "官方本科课程结构",
+          "url": "https://management.ntu.edu.tw/en/IB/curriculum/undergraduate",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "06dc5001afac4a9aec3f2580925ba4a27eee7b78d16b6a429996ead96fdbbf70",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Information Management",
+      "name_en": "Department of Information Management",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://management.ntu.edu.tw/en/IM",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-information-management-ce8a240af1",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          },
+          {
+            "label": "课程内容示例",
+            "text": "该本科课程区列示的学习内容包括：微积分、概率统计、编程、数据结构、算法、操作系统。这是页面中课程与课程说明的摘取示例，含可能的选修或基础课；本轮未逐项确认全部必修、先修链及2027修读规则。",
+            "source_ids": [
+              "ASREN-778f1c6fd64f46"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Information Management"
+        },
+        {
+          "id": "ASREN-778f1c6fd64f46",
+          "title": "官方本科课程结构",
+          "url": "https://management.ntu.edu.tw/en/IM/curriculum/undergraduate",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "1340c0876072ca088c1a0a237cba844d752e7b2a4e874c3768d30089d03329b9",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Public Health",
+      "name_en": "Department of Public Health",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://dph.ntu.edu.tw/web/index/index.jsp?lang=en",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-public-health-c168f67720",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          },
+          {
+            "label": "课程结构与学分",
+            "text": "公共卫生核心分自然科学、社会科学、医学与公共卫生四组；专业表列微积分、生理学、生物统计、流行病学和公共卫生田野实践，并须完成专长模块。本轮未取得完整且一致的毕业学分核算。",
+            "source_ids": [
+              "ASREN-494a0e1de00c64"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Public Health"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        },
+        {
+          "id": "ASREN-494a0e1de00c64",
+          "title": "台湾大学本科课程结构",
+          "url": "https://dph.ntu.edu.tw/web/curriculum/curriculum.jsp?lang=en",
+          "checked_at": "2026-09-12",
+          "supports": "明确列示的课程与学分，不替代大陆招生资格",
+          "sha256": "aded4acb57b11dd647690939cc4765ff8ec9c70801953b663718cc5eb2e50bd1",
+          "locator": "Undergraduate / Core Required Courses"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Electrical Engineering",
+      "name_en": "Department of Electrical Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://web.ee.ntu.edu.tw/eng/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-electrical-engineering-a4a04cd4ff",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Electrical Engineering"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Computer Science & Information Engineering",
+      "name_en": "Department of Computer Science & Information Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.csie.ntu.edu.tw/?locale=en",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-computer-science-information-engineering-432fb243ea",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Computer Science & Information Engineering"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Law",
+      "name_en": "Department of Law",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.law.ntu.edu.tw/index.php/eng-new#gsc.tab=0",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-law-a31aed35ca",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Law"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Life Science",
+      "name_en": "Department of Life Science",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://homepage.ntu.edu.tw/~deptlifesci/index_en.html",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-life-science-db7143e70a",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Life Science"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Department of Biochemical Science & Technology",
+      "name_en": "Department of Biochemical Science & Technology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://bst.ntu.edu.tw/BST2023EN/Default.html",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-department-of-biochemical-science-technology-34e1452c12",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Department of Biochemical Science & Technology"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Global Undergraduate Program in Semiconductors",
+      "name_en": "Global Undergraduate Program in Semiconductors",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://gups.ntu.edu.tw/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-global-undergraduate-program-in-semiconductors-c8a0f6a4c3",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Global Undergraduate Program in Semiconductors"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Trans-disciplinary Bachelor Degree Program",
+      "name_en": "Trans-disciplinary Bachelor Degree Program",
+      "degree_label": "Bachelor's degree",
+      "official_url": "https://tbd.ntu.edu.tw/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-trans-disciplinary-bachelor-degree-program-f1b4e5f26e",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Trans-disciplinary Bachelor Degree Program"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    },
+    {
+      "raw_key": "Bachelor Program of International Sports Affairs",
+      "name_en": "Bachelor Program of International Sports Affairs",
+      "degree_label": "Bachelor's degree",
+      "official_url": "https://bpisa.ntu.edu.tw/",
+      "university_id": "ntu-taiwan",
+      "inventory_id": "ntu-taiwan-bachelor-program-of-international-sports-affairs-7ea28bd3ab",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-e83917d4813c71"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆申请通道尚未闭合",
+            "text": "本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。",
+            "source_ids": [
+              "ASREN-236d3efaa4c82e"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-e83917d4813c71",
+          "title": "官方本科目录",
+          "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+          "locator": "Bachelor Program of International Sports Affairs"
+        },
+        {
+          "id": "ASREN-236d3efaa4c82e",
+          "title": "台湾大学境外学位生身份类别",
+          "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+          "checked_at": "2026-09-12",
+          "supports": "陆生身份、8省市、独立通道及收费区别",
+          "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+          "locator": "陸生／學生身分別"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "coverage_notes": [
+        "课程或学科信息与大陆招生开放状态分开；学校规则中的陆生身份核验优先。"
+      ]
+    }
+  ],
+  "profile": {
+    "university_id": "ntu-taiwan",
+    "checked_at": "2026-09-12",
+    "scope": "面向中国大陆籍申请者，先核陆生身份；不默认按国际生、侨生或港澳生处理。",
+    "sections": {
+      "admissions": [
+        {
+          "label": "大陆身份与申请渠道",
+          "text": "台大把国际、侨生、港澳和陆生分开，适用规定、申请通道与学费均不同。页面陆生资格列大陆籍且设籍京、沪、苏、浙、闽、粤、鄂、辽八省市；一律经陆联会申请。国际课程证书本身不改变这种身份分类。",
+          "source_ids": [
+            "ASREN-236d3efaa4c82e"
+          ]
+        },
+        {
+          "label": "医学等不能套用国际生规则",
+          "text": "身份页给医学／牙医等部分国际／侨港澳身份额外居留年限，但这些条款不能直接当成大陆普通高中生有可申请通道的证据。每个目录专业是否向当前陆生开放仍须当期本科简章确认。",
+          "source_ids": [
+            "ASREN-236d3efaa4c82e"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "label": "2027大陆高中本科通道缺口",
+          "text": "本轮读取陆联会当前入口只有2026硕博士相关简章与报名链接，未取得可用的2027大陆高中本科招生简章及日期。不能把台大国际生或侨港澳申请期作为陆生可申请期限。",
+          "source_ids": [
+            "ASREN-99fb5240fc8f2d"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "label": "陆生收费待核",
+          "text": "台大明确不同境外身份适用学杂费不同；本轮未取得当前陆生本科按专业、学年列明的有效费用表和奖学金资格，暂不套用一般国际生收费或自动折算为人民币。",
+          "source_ids": [
+            "ASREN-236d3efaa4c82e"
+          ]
+        }
+      ],
+      "outcomes": []
+    },
+    "sources": [
+      {
+        "id": "ASREN-236d3efaa4c82e",
+        "title": "台湾大学境外学位生身份类别",
+        "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+        "checked_at": "2026-09-12",
+        "supports": "陆生身份、8省市、独立通道及收费区别",
+        "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+        "locator": "陸生／學生身分別"
+      },
+      {
+        "id": "ASREN-99fb5240fc8f2d",
+        "title": "大陆地区学生联合招生委员会现行入口",
+        "url": "https://rusen.stust.edu.tw/cpx/",
+        "checked_at": "2026-09-12",
+        "supports": "本轮读取为2026硕博士招生链接；不证明可报本科",
+        "sha256": "5ba4f9a137a68c081ceb8090a664f5de9d840b7d8198767b74bb49f9704ca9ea",
+        "locator": "26線上簡章"
+      }
+    ]
+  }
+}

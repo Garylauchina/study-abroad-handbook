@@ -23,95 +23,144 @@ hide:
 
 ## 专业与申请资料
 
-84 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+84 个专业条目 · 0 个含详细资料 · 84 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=psl#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-3e-ann-e-de-licence-double-dipl-me-franco-allemand-b137d13309/">3e année de Licence - double diplôme franco-allemand</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-action-publique-3e-ann-e-de-licence-0443fcc409/">Action publique - 3e année de Licence</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-art-espace-b2302bb10c/">Art-Espace</a><small>Diplôme de premier cycle ENSAD — spécialisation · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-cpes-sciences-des-donn-es-arts-et-cultures-a7bb56dfb2/">CPES - Sciences des données, arts et cultures</a><small>Licence Sciences, Humanités et Société — CPES · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-cin-ma-d-animation-cdbd59a364/">Cinéma d’Animation</a><small>Diplôme de premier cycle ENSAD — spécialisation · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-comptabilit-contr-le-audit-3e-ann-e-de-licence-ac21f02923/">Comptabilité, Contrôle, Audit - 3e année de Licence</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-cycle-pluridisciplinaire-d-tudes-sup-rieures-cpes-67032c8fb5/">Cycle Pluridisciplinaire d&#x27;Études Supérieures (CPES)</a><small>Licence Sciences, Humanités et Société — CPES · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-design-architecture-milieu-2f5d2c1878/">Design Architecture Milieu</a><small>Diplôme de premier cycle ENSAD — spécialisation · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-design-graphique-02f8a8c67e/">Design Graphique</a><small>Diplôme de premier cycle ENSAD — spécialisation · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-design-objet-61c59bb4bb/">Design Objet</a><small>Diplôme de premier cycle ENSAD — spécialisation · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-design-textile-et-mati-re-dea34eb60f/">Design Textile et Matière</a><small>Diplôme de premier cycle ENSAD — spécialisation · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-design-v-tement-1d3d3a6c88/">Design Vêtement</a><small>Diplôme de premier cycle ENSAD — spécialisation · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-dipl-me-de-premier-cycle-de-l-ensad-psl-3e57e41bb0/">Diplôme de premier cycle de l&#x27;ENSAD - PSL</a><small>Diplôme de premier cycle de l&#x27;ENSAD - PSL — grade de licence · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-dipl-me-d-tudes-en-architecture-premier-cycle-b10e75bcad/">Diplôme d’études en architecture (premier cycle)</a><small>Diplôme d’études en architecture (premier cycle) — grade de licence · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-double-licence-intelligence-artificielle-et-sciences-des-organisa-04da605677/">Double Licence Intelligence Artificielle et Sciences des Organisations</a><small>Double licence · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-droit-8ec6e36e91/">Droit</a><small>Licence / grade de licence · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-droit-gouvernance-publique-a224e6d445/">Droit &amp; gouvernance publique</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-droit-philosophie-d35ca0a650/">Droit + Philosophie</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-droit-et-gouvernance-publique-3e-ann-e-de-licence-bf7ce6f9e6/">Droit et gouvernance publique - 3e année de licence</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-droit-management-et-gestion-des-organisations-double-licence-3e-a-7c5c503a03/">Droit-Management et gestion des organisations (double licence) - 3e année de Licence</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-environnement-sociologie-science-politique-7014cbc58f/">Economie &amp; environnement + Sociologie &amp; science politique</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-environnement-vivant-soci-t-78700a7653/">Economie &amp; environnement + Vivant &amp; société</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-soci-t-1891b410b7/">Economie &amp; société</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-droit-e827c0f975/">Economie + Droit</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-philosophie-d6a25fc764/">Economie + Philosophie</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-sociologie-science-politique-e840833185/">Economie + Sociologie &amp; science politique</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-3e-ann-e-de-licence-9800148ceb/">Economie - 3e année de Licence</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-soci-t-droit-7a38294415/">Economie, société &amp; droit</a><small>Licence Sciences, Humanités et Société — parcours CPES · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-vivant-soci-t-8a87df8899/">Economie, vivant &amp; société</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-formation-du-com-dien-1er-cycle-a11fc72008/">Formation du comédien (1er cycle)</a><small>Licence / grade de licence · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-gestion-b4e6af3cc8/">Gestion</a><small>Licence / grade de licence · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-gestion-de-patrimoine-3e-ann-e-de-licence-42cd4b7f4f/">Gestion de patrimoine - 3e année de Licence</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-grandes-ecoles-3e-ann-e-de-licence-62d3cfd083/">Grandes Ecoles - 3e année de licence</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-histoire-9b0d46be1f/">Histoire</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-histoire-droit-c8e5c9be66/">Histoire + Droit</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-histoire-philosophie-a556cee9ed/">Histoire + Philosophie</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-histoire-sociologie-science-politique-3116e4b515/">Histoire + Sociologie &amp; science politique</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-humanit-s-soci-t-306c238839/">Humanités &amp; société</a><small>Licence Sciences, Humanités et Société — parcours CPES · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-image-imprim-e-4055d69e5a/">Image Imprimée</a><small>Diplôme de premier cycle ENSAD — spécialisation · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-informatique-428cddd11d/">Informatique</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-informatique-des-organisations-0ba2e79eb0/">Informatique des organisations</a><small>Licence / grade de licence · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-informatique-et-math-matiques-pour-la-d-cision-et-les-donn-es-3e-c99888fcc0/">Informatique et Mathématiques pour la Décision et les Données - 3e année de Licence</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-international-bachelor-of-environmentally-engaged-engineering-i-b-7839670967/">International Bachelor of Environmentally Engaged Engineering (I-BE³)</a><small>Bachelor / grade de licence · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-international-bachelor-of-science-in-ai-6731898a42/">International Bachelor of Science in AI</a><small>Bachelor / grade de licence · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-international-management-3e-ann-e-de-licence-a3d2e33a69/">International Management - 3e année de licence</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-miage-3e-ann-e-de-licence-524a882fa9/">MIAGE - 3e année de Licence</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-magist-re-banque-finance-assurance-1re-ann-e-c14e0c519f/">Magistère Banque, Finance, Assurance - 1re année</a><small>Grade de licence — première année du Magistère (L3) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-magist-re-sciences-de-gestion-1re-ann-e-0dfb4bd44b/">Magistère Sciences de Gestion - 1re année</a><small>Grade de licence — première année du Magistère (L3) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-management-et-gestion-des-organisations-3e-ann-e-de-licence-campu-1237274188/">Management et Gestion des organisations - 3e année de Licence, campus de Tunis</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-management-et-gestion-des-organisations-3e-ann-e-de-licence-335f17d433/">Management et gestion des organisations - 3e année de Licence</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-math-matiques-physique-9b043d69ef/">Mathématiques + Physique</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-math-matiques-appliqu-es-4b12877e34/">Mathématiques appliquées</a><small>Licence / grade de licence · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-math-matiques-appliqu-es-24949c7422/">Mathématiques appliquées</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-math-matiques-appliqu-es-3e-ann-e-de-licence-15825a0e9e/">Mathématiques appliquées - 3e année de Licence</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-math-matiques-informatique-1re-ann-e-de-licence-e9920413a3/">Mathématiques-Informatique - 1re année de Licence</a><small>Licence — portail/parcours d’entrée L1 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-philosophie-b4eac47981/">Philosophie</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-philosophie-droit-925b251881/">Philosophie + Droit</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-philosophie-sociologie-science-politique-1043dadbcd/">Philosophie + Sociologie &amp; science politique</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-photo-vid-o-9ff25fecdb/">Photo/Vidéo</a><small>Diplôme de premier cycle ENSAD — spécialisation · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-professorat-des-ecoles-601673263b/">Professorat des Ecoles</a><small>Licence / grade de licence · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-05e50fe0f8/">Sciences</a><small>Licence Sciences, Humanités et Société — parcours CPES · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-de-la-mati-re-88f9885e17/">Sciences de la matière</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-des-donn-es-sciences-de-la-culture-b2dca9a752/">Sciences des données &amp; Sciences de la culture</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-des-donn-es-environment-economics-social-sciences-8845228d64/">Sciences des données + Environment: economics &amp; social sciences</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-des-donn-es-histoire-7b4e044a93/">Sciences des données + Histoire</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-des-donn-es-sciences-de-la-culture-246d640c33/">Sciences des données + Sciences de la culture</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-des-organisations-madrid-1re-ann-e-de-licence-31b328b69f/">Sciences des organisations Madrid - 1re année de Licence</a><small>Licence — portail/parcours d’entrée L1 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-des-organisations-paris-1re-ann-e-de-licence-d8df3eba85/">Sciences des organisations Paris - 1re année de Licence</a><small>Licence — portail/parcours d’entrée L1 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-des-organisations-double-dipl-me-franco-allemand-1re-ann-24df6e68ee/">Sciences des organisations, double diplôme franco-allemand - 1re année</a><small>Licence — portail/parcours d’entrée L1 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-du-vivant-24ea936a93/">Sciences du vivant</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-exp-rimentales-math-matiques-5a3de72bbe/">Sciences expérimentales + Mathématiques</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-pour-un-monde-durable-c9cab18591/">Sciences pour un monde durable</a><small>Licence Sciences, Humanités et Société · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-sociales-aedc315b55/">Sciences sociales</a><small>Licence / grade de licence · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sc-nographie-1e9222c225/">Scénographie</a><small>Diplôme de premier cycle ENSAD — spécialisation · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sociologie-science-politique-824c4de573/">Sociologie &amp; science politique</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sociologie-science-politique-droit-af970feb93/">Sociologie &amp; science politique + Droit</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sociologie-science-politique-philosophie-73d7b029b4/">Sociologie &amp; science politique + Philosophie</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sociologie-et-science-politique-3e-ann-e-de-licence-ab85f756aa/">Sociologie et Science politique - 3e année de Licence</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-talents-1re-ann-e-de-licence-730f3ca3e6/">Talents - 1re année de Licence</a><small>Licence — portail/parcours d’entrée L1 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-terre-environnement-vivant-soci-t-182530a0c4/">Terre &amp; environnement + Vivant &amp; société</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-terre-vivant-soci-t-3e36f499b7/">Terre, vivant &amp; société</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-conomie-appliqu-e-9d8fa386c1/">Économie appliquée</a><small>Licence / grade de licence · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-conomie-et-ing-nierie-financi-re-3e-ann-e-de-licence-39150b1fe8/">Économie et ingénierie financière - 3e année de licence</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-conomie-internationale-et-d-veloppement-3e-ann-e-de-licence-8b950c41d9/">Économie internationale et développement - 3e année de licence</a><small>Licence — parcours de spécialisation L3 · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-3e-ann-e-de-licence-double-dipl-me-franco-allemand-b137d13309/">法德双学位（L3，法兰克福）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-action-publique-3e-ann-e-de-licence-0443fcc409/">公共行动（L3）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-art-espace-b2302bb10c/">空间艺术（ENSAD 分流）</a><small>Diplôme de premier cycle ENSAD — spécialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-cpes-sciences-des-donn-es-arts-et-cultures-a7bb56dfb2/">数据科学、艺术与文化（CPES）</a><small>Licence Sciences, Humanités et Société — CPES · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-cin-ma-d-animation-cdbd59a364/">动画电影（ENSAD 分流）</a><small>Diplôme de premier cycle ENSAD — spécialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-comptabilit-contr-le-audit-3e-ann-e-de-licence-ac21f02923/">会计、管理控制与审计（L3）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-cycle-pluridisciplinaire-d-tudes-sup-rieures-cpes-67032c8fb5/">跨学科高等教育（Henri-IV CPES）</a><small>Licence Sciences, Humanités et Société — CPES · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-design-architecture-milieu-2f5d2c1878/">建筑与环境设计（ENSAD 分流）</a><small>Diplôme de premier cycle ENSAD — spécialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-design-graphique-02f8a8c67e/">平面设计（ENSAD 分流）</a><small>Diplôme de premier cycle ENSAD — spécialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-design-objet-61c59bb4bb/">产品设计（ENSAD 分流）</a><small>Diplôme de premier cycle ENSAD — spécialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-design-textile-et-mati-re-dea34eb60f/">纺织与材料设计（ENSAD 分流）</a><small>Diplôme de premier cycle ENSAD — spécialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-design-v-tement-1d3d3a6c88/">服装与配饰设计（ENSAD 分流）</a><small>Diplôme de premier cycle ENSAD — spécialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-dipl-me-de-premier-cycle-de-l-ensad-psl-3e57e41bb0/">装饰艺术（ENSAD 第一周期）</a><small>Diplôme de premier cycle de l&#x27;ENSAD - PSL — grade de licence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-dipl-me-d-tudes-en-architecture-premier-cycle-b10e75bcad/">建筑学（Malaquais 第一周期）</a><small>Diplôme d’études en architecture (premier cycle) — grade de licence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-double-licence-intelligence-artificielle-et-sciences-des-organisa-04da605677/">人工智能与组织科学（双 Licence）</a><small>Double licence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-droit-8ec6e36e91/">法学（Dauphine）</a><small>Licence / grade de licence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-droit-gouvernance-publique-a224e6d445/">法律与公共治理（CPES L3）</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-droit-philosophie-d35ca0a650/">法律与哲学（CPES L2，经济社会入口）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-droit-et-gouvernance-publique-3e-ann-e-de-licence-bf7ce6f9e6/">法律与公共治理（L3）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-droit-management-et-gestion-des-organisations-double-licence-3e-a-7c5c503a03/">法律与组织管理（双 Licence，L3）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-environnement-sociologie-science-politique-7014cbc58f/">经济与环境、社会学与政治学（CPES L2）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-environnement-vivant-soci-t-78700a7653/">经济与环境、生命与社会（CPES L2）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-soci-t-1891b410b7/">经济与社会（CPES L3）</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-droit-e827c0f975/">经济与法律（CPES L2）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-philosophie-d6a25fc764/">经济与哲学（CPES L2）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-sociologie-science-politique-e840833185/">经济与社会学、政治学（CPES L2）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-3e-ann-e-de-licence-9800148ceb/">经济学（社会科学 Licence，L3）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-soci-t-droit-7a38294415/">经济、社会与法律（CPES L1）</a><small>Licence Sciences, Humanités et Société — parcours CPES · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-economie-vivant-soci-t-8a87df8899/">经济、生命与社会（CPES L3）</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-formation-du-com-dien-1er-cycle-a11fc72008/">戏剧表演（CNSAD 第一周期）</a><small>Licence / grade de licence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-gestion-b4e6af3cc8/">管理学（Dauphine）</a><small>Licence / grade de licence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-gestion-de-patrimoine-3e-ann-e-de-licence-42cd4b7f4f/">财富管理（L3）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-grandes-ecoles-3e-ann-e-de-licence-62d3cfd083/">应用经济学（Grandes Écoles，L3）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-histoire-9b0d46be1f/">历史（CPES L3）</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-histoire-droit-c8e5c9be66/">历史与法律（CPES L2）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-histoire-philosophie-a556cee9ed/">历史与哲学（CPES L2）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-histoire-sociologie-science-politique-3116e4b515/">历史与社会学、政治学（CPES L2）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-humanit-s-soci-t-306c238839/">人文与社会（CPES L1）</a><small>Licence Sciences, Humanités et Société — parcours CPES · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-image-imprim-e-4055d69e5a/">印刷图像（ENSAD 分流）</a><small>Diplôme de premier cycle ENSAD — spécialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-informatique-428cddd11d/">计算机科学（CPES L3）</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-informatique-des-organisations-0ba2e79eb0/">组织信息学（Dauphine）</a><small>Licence / grade de licence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-informatique-et-math-matiques-pour-la-d-cision-et-les-donn-es-3e-c99888fcc0/">决策与数据的计算机和数学（L3）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-international-bachelor-of-environmentally-engaged-engineering-i-b-7839670967/">环境责任工程国际学士（I-BE³）</a><small>Bachelor / grade de licence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-international-bachelor-of-science-in-ai-6731898a42/">人工智能国际理学学士</a><small>Bachelor / grade de licence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-international-management-3e-ann-e-de-licence-a3d2e33a69/">国际管理（L3）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-miage-3e-ann-e-de-licence-524a882fa9/">企业管理信息方法 MIAGE（L3）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-magist-re-banque-finance-assurance-1re-ann-e-c14e0c519f/">银行、金融与保险 Magistère 第一阶段（L3）</a><small>Grade de licence — première année du Magistère (L3) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-magist-re-sciences-de-gestion-1re-ann-e-0dfb4bd44b/">管理科学 Magistère 第一阶段（L3）</a><small>Grade de licence — première année du Magistère (L3) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-management-et-gestion-des-organisations-3e-ann-e-de-licence-campu-1237274188/">组织管理（L3，突尼斯）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-management-et-gestion-des-organisations-3e-ann-e-de-licence-335f17d433/">组织管理（L3）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-math-matiques-physique-9b043d69ef/">数学与物理（CPES L2）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-math-matiques-appliqu-es-4b12877e34/">应用数学（Dauphine）</a><small>Licence / grade de licence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-math-matiques-appliqu-es-24949c7422/">应用数学（CPES L3）</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-math-matiques-appliqu-es-3e-ann-e-de-licence-15825a0e9e/">应用数学（L3）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-math-matiques-informatique-1re-ann-e-de-licence-e9920413a3/">数学与计算机科学（L1）</a><small>Licence — portail/parcours d’entrée L1 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-philosophie-b4eac47981/">哲学（CPES L3）</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-philosophie-droit-925b251881/">哲学与法律（CPES L2，人文入口）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-philosophie-sociologie-science-politique-1043dadbcd/">哲学与社会学、政治学（CPES L2，人文入口）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-photo-vid-o-9ff25fecdb/">摄影与影像（ENSAD 分流）</a><small>Diplôme de premier cycle ENSAD — spécialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-professorat-des-ecoles-601673263b/">小学教育 Licence</a><small>Licence / grade de licence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-05e50fe0f8/">科学（CPES L1）</a><small>Licence Sciences, Humanités et Société — parcours CPES · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-de-la-mati-re-88f9885e17/">物质科学（CPES L3）</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-des-donn-es-sciences-de-la-culture-b2dca9a752/">数据科学与文化科学（CPES L3）</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-des-donn-es-environment-economics-social-sciences-8845228d64/">数据科学与环境经济、社会科学（CPES L2）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-des-donn-es-histoire-7b4e044a93/">数据科学与历史（CPES L2）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-des-donn-es-sciences-de-la-culture-246d640c33/">数据科学与文化科学（CPES L2）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-des-organisations-madrid-1re-ann-e-de-licence-31b328b69f/">组织科学（L1，马德里）</a><small>Licence — portail/parcours d’entrée L1 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-des-organisations-paris-1re-ann-e-de-licence-d8df3eba85/">组织科学（L1，巴黎）</a><small>Licence — portail/parcours d’entrée L1 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-des-organisations-double-dipl-me-franco-allemand-1re-ann-24df6e68ee/">组织科学（法德双学位，L1）</a><small>Licence — portail/parcours d’entrée L1 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-du-vivant-24ea936a93/">生命科学（CPES L3）</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-exp-rimentales-math-matiques-5a3de72bbe/">实验科学与数学（CPES L2）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-pour-un-monde-durable-c9cab18591/">可持续世界科学 Licence</a><small>Licence Sciences, Humanités et Société · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sciences-sociales-aedc315b55/">社会科学（Dauphine）</a><small>Licence / grade de licence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sc-nographie-1e9222c225/">舞台与展陈设计（ENSAD 分流）</a><small>Diplôme de premier cycle ENSAD — spécialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sociologie-science-politique-824c4de573/">社会学与政治学（CPES L3）</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sociologie-science-politique-droit-af970feb93/">社会学、政治学与法律（CPES L2）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sociologie-science-politique-philosophie-73d7b029b4/">社会学、政治学与哲学（CPES L2，经济社会入口）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-sociologie-et-science-politique-3e-ann-e-de-licence-ab85f756aa/">社会学与政治学（L3）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-talents-1re-ann-e-de-licence-730f3ca3e6/">Talents 特殊培养路径（L1）</a><small>Licence — portail/parcours d’entrée L1 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-terre-environnement-vivant-soci-t-182530a0c4/">地球与环境、生命与社会（CPES L2）</a><small>Licence Sciences, Humanités et Société — double majeure L2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-terre-vivant-soci-t-3e36f499b7/">地球、生命与社会（CPES L3）</a><small>Licence Sciences, Humanités et Société — spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-conomie-appliqu-e-9d8fa386c1/">应用经济学（Dauphine）</a><small>Licence / grade de licence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-conomie-et-ing-nierie-financi-re-3e-ann-e-de-licence-39150b1fe8/">经济与金融工程（L3）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/psl/psl-conomie-internationale-et-d-veloppement-3e-ann-e-de-licence-8b950c41d9/">国际经济与发展（L3）</a><small>Licence — parcours de spécialisation L3 · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 专业说明
+
+<p class="catalog-fact"><strong>同校共用：成员与培养阶段：</strong>PSL 本科由成员院校及 Collège 办学。Dauphine L3、CPES 双主修/分流和 ENSAD 领域均保留在目录，但不能理解为各自独立的三年高中直申学位；海外校区另核政策。</p>
+<p class="fact-sources"><a href="#source-u-psl-international">官方依据</a></p>
+
+### 入学条件
+
+<p class="catalog-fact"><strong>同校共用：中国高中申请路径：</strong>中国居住、非欧盟公民持外国高中资格者：CPES 走 Parcoursup；可持续世界科学及国际 AI Bachelor 走 Études en France；I-BE³ 走专门平台；Dauphine 按外国高中资格办理 DAP/Études en France。高中资格等值、选科和语言按项目审查，本轮未取得统一高考分数线。</p>
+<p class="fact-sources"><a href="#source-u-psl-international">官方依据</a> · <a href="#source-u-psl-dauphine-faq">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：授课与语言证明：</strong>PSL 无可覆盖所有成员的同一语言门槛：戏剧、艺术和多数法国 Licence 以法语为主，国际 Bachelor 有英语路线；海外 Dauphine 还涉及德语或西班牙语。各项门槛见本专业，不能以英语项目条件替代法语项目。</p>
+<p class="fact-sources"><a href="#source-u-psl-international">官方依据</a> · <a href="#source-u-psl-dauphine-faq">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>同校共用：年度边界：</strong>本轮取得的2026 Parcoursup参考：1月19日开放、3月12日志愿截止、4月1日确认，均已结束。中国申请者的2027各项目完整窗口本轮未取得；DAP、学校平台和比赛可能早于统一志愿日期。</p>
+<p class="fact-sources"><a href="#source-u-psl-apply">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：Dauphine 高年级：</strong>组织科学 L2/L3/Magistère 最多申请三个项目；适用 Études en France 者须同时提交该系统与 MyCandidature，缺一不审。录取后须在通知起八天内确认；具体专业测试和年度截止另查。</p>
+<p class="fact-sources"><a href="#source-u-psl-dauphine-l23">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>同校共用：费用不能跨成员使用：</strong>2026/27 Dauphine 按学科及税务居住地收费，国际 AI 与 I-BE³ 有独立收费；法国国家 Licence 标准不能套到所有 PSL 本科。2027/28 各项目收费本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-psl-dauphine-fees">官方依据</a> · <a href="#source-u-psl-ibe3">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：奖助与减免：</strong>Dauphine 对已获 CROUS 或法国政府奖学金者在指定学位凭证明减免；I-BE³ 列收入型资助。大陆申请者不能仅凭国际生身份取得这些减免，须核具体奖项资格与结果。</p>
+<p class="fact-sources"><a href="#source-u-psl-dauphine-fees">官方依据</a> · <a href="#source-u-psl-ibe3">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>同校共用：去向资料口径：</strong>本轮课程页主要提供升学及职业方向。未核实可覆盖本目录、并分清届次和中国学生范围的本科就业率或薪资调查；不把课程宣传及继续读硕士的方向当作就业统计。</p>
+<p class="fact-sources"><a href="#source-u-psl-programme-7">官方依据</a> · <a href="#source-u-psl-programme-15">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-psl-international"><div><a href="https://psl.eu/formation/procedure-dadmission-internationale-psl">PSL international admission procedure ↗</a><p>中国居住、非欧盟学历的渠道分类</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-psl-apply"><div><a href="https://psl.eu/formation/candidater-en-licence">Candidater en licence ↗</a><p>2026 Parcoursup 参考日程与特殊院校</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-psl-dauphine-l23"><div><a href="https://dauphine.psl.eu/formations/licences/candidatures-et-procedures-d-admissions/licence-sciences-des-organisations">Dauphine L2 L3 Sciences des Organisations ↗</a><p>双平台申请、八天答复与高年级程序</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-psl-dauphine-fees"><div><a href="https://dauphine.psl.eu/formations/scolarite/droits-et-tarifs">Dauphine tuition 2026-2027 ↗</a><p>非欧盟税务居民各本科收费及资助</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-psl-dauphine-faq"><div><a href="https://dauphine.psl.eu/faq">Dauphine FAQ ↗</a><p>外国高中资格分类、海外路线语言与校区</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-psl-ibe3"><div><a href="https://www.minesparis.psl.eu/formations/i-be3/">Mines Paris I-BE3 ↗</a><p>2026资格、关闭状态、学制校区、20000欧元费</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-psl-programme-7"><div><a href="https://psl.eu/formation/licence-economie-appliquee">Économie appliquée ↗</a><p>课程身份、结构、语言及页面所列专门要求</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-psl-programme-15"><div><a href="https://psl.eu/formation/licence-sciences-sociales">Sciences sociales ↗</a><p>课程身份、结构、语言及页面所列专门要求</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

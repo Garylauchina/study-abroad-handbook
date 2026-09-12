@@ -21,12 +21,12 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Seoul / International campuses (programme campus unverified) · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Seoul / International campuses (programme campus unverified) · <strong>授课语言：</strong>韩语为主</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,17 +42,58 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-3397c5c9fb2da4">官方依据</a></p>
+
+<p class="catalog-fact"><strong>授课语言：</strong>2027普通国际生简章说明课程主要为韩语，部分专业课程可用英语；用英语证明申请不能保证全程英语修读。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-93d379000b9ad1">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>医牙护理药韩语门槛：</strong>2027春本学院国际申请者须TOPIK5或延世KLI5级以上；不适用普通项目英语替代，且不进入GBED一年通道。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-93d379000b9ad1">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国籍及高中资格：</strong>申请人和双亲均须非韩国籍；含韩国籍的双重国籍不符，转换国籍须在申请人高中阶段前完成。须于2027年2月前高中毕业（日本高中为3月）；不接受GED、家庭或远程学历替代。普高及国际课程均须正式学历与成绩材料；本轮未取得统一高考分数线。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-93d379000b9ad1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语可用于申请，韩语用于培养：</strong>普通专业可用韩语／英语考试、相应授课证明或指定语言教育材料。课程主要用韩语、部分英语；2027普通国际生入专业前须TOPIK3、毕业前4，或延世认可等值语言课程／测试；体育入专业要求有例外。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-93d379000b9ad1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>医牙护理药另有韩语条件：</strong>医学、牙医、护理、药学申请须TOPIK5或延世KLI5级以上，不能用普通专业英语材料替代。具体项目和面试安排见专业事实。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-93d379000b9ad1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>GBED和校区：</strong>常规国际新生通常先在国际校区GBED学习一年，再进入专业；医／牙／护理／药不属GBED，体育两专业仅一学期。故不能把目标学院学费直接当所有新生第一年账单。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-93d379000b9ad1">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>2027春现场面试：</strong>医学预科、牙科预科及药学申请者面试为2026-10-31，在新村校区现场进行；具体通知另发。护理不在本条面试列举范围。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-93d379000b9ad1">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027春申请正在开放：</strong>在线申请2026-09-01 10:00至09-17 17:00韩国时间；纸质材料必须09-30 17:00前寄达。结果12-04 17:00公布、2027年1月缴费；以2026-09-12为准尚可申请。UIC与Mirae有各自日程。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-93d379000b9ad1">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026国际生费用参考：</strong>2026收费表按学期：GBED/GLC首学期KRW7,388,000、后续7,174,000；普通人文首学期4,770,000、后续4,556,000，工程6,218,000／6,004,000。专业金额与GBED身份须分开；本轮未核得2027定价。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-af361a73cceae5">官方依据</a></p>
+
+<p class="catalog-fact"><strong>资助条款缺口：</strong>2027普通国际生简章提供学生事务奖学金咨询入口，但本轮未取得适用于所有普通中国本科新生的统一金额、自动获奖或续领标准，不能套用UIC奖学金。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-93d379000b9ad1">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -65,5 +106,9 @@ hide:
 - [官方项目页面或项目所在目录](http://pharmacy.yonsei.ac.kr/)
 - [官方目录](https://yonsei.ac.kr/en_sc/1849/subview.do)
 
+<div class="catalog-source" id="source-p-ASREN-3397c5c9fb2da4"><div><a href="https://yonsei.ac.kr/en_sc/1849/subview.do">官方本科目录 ↗</a><p>目录列名、学院或校区身份，不证明本轮开放招生</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-93d379000b9ad1"><div><a href="https://admission.yonsei.ac.kr/seoul/upload/guide/20260529144906YVFHLB.PDF">延世大学首尔2027春国际生招生简章 ↗</a><p>2027申请、国籍、语言、医学特殊要求及GBED路径</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-93d379000b9ad1"><div><a href="https://admission.yonsei.ac.kr/seoul/upload/guide/20260529144906YVFHLB.PDF">延世大学首尔2027春国际生招生简章 ↗</a><p>2027申请、国籍、语言、医学特殊要求及GBED路径</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-af361a73cceae5"><div><a href="https://www.yonsei.ac.kr/sites/en_sc/down/2026_fee1.pdf">延世大学2026国际本科收费表 ↗</a><p>2026每学期、GBED与专业学院不同收费</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/">← 返回延世大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

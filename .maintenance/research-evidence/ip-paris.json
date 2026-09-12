@@ -1,0 +1,65 @@
+{
+  "university_id": "ip-paris",
+  "sources": [
+    {
+      "url": "https://www.ip-paris.fr/en/education/bachelor-science",
+      "sha256": "7ac1992691cee9bfc2f2c04a8e0d4df96caef2c0dc1aa37b43019250964ea994",
+      "raw_file": "scratch/full-catalog/france/ip-paris/bachelor-science.html",
+      "locator": null
+    },
+    {
+      "url": "https://programmes.polytechnique.edu/en/bachelor/admissions/admissions-criteria-and-procedure",
+      "sha256": "4a2661b116aefa760ed69261f63de5a9bdbe32f2de9a98e4de83d3808f0b7d10",
+      "raw_file": "scratch/full-catalog/france-enrichment/ip-paris/admissions.html",
+      "locator": null
+    },
+    {
+      "url": "https://programmes.polytechnique.edu/en/bachelor/admissions/faq",
+      "sha256": "41261927f09c23cc37e6fbf41aab5e3fb214e3f903c4b0934aeb532757d05a7f",
+      "raw_file": "scratch/full-catalog/france-enrichment/ip-paris/faq.html",
+      "locator": null
+    },
+    {
+      "url": "https://programmes.polytechnique.edu/en/bachelor/about-the-bachelor/bachelor-of-science",
+      "sha256": "cfc6db183b356eafb25184efd0ec513612d7b2baffb8db3fd4585c904fc58277",
+      "raw_file": "scratch/full-catalog/france-enrichment/ip-paris/about.html",
+      "locator": null
+    },
+    {
+      "url": "https://programmes.polytechnique.edu/en/bachelor/costs-and-funding/tuition-fees",
+      "sha256": "2d6966d98e48b493773db6e41901e2e366d2125af5b096665125b2f193b2e7ce",
+      "raw_file": "scratch/full-catalog/france-enrichment/ip-paris/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://programmes.polytechnique.edu/en/bachelor/costs-and-funding/scholarships-and-financial-aid",
+      "sha256": "b3b973fbd2d1f594661a6da4d16cc3c07b466bd8dfc660b0789c3766d70751f1",
+      "raw_file": "scratch/full-catalog/france-enrichment/ip-paris/funding.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polytechnique.edu/en/news/bx2022-first-job-survey-impact-selectivity-and-internationalization",
+      "sha256": "0213638429d6054bf39873f9a7b11f22bdbd511462f98bfce929f35e5f5961db",
+      "raw_file": "scratch/full-catalog/france-enrichment/ip-paris/survey.html",
+      "locator": null
+    },
+    {
+      "url": "https://programmes.polytechnique.edu/en/bachelor/program-details/double-major-in-mathematics-physics",
+      "sha256": "eea0db1947b9ed611b327b534646e5bf94f6d37f5eb9cc5e120c7f31f306a826",
+      "raw_file": "scratch/full-catalog/france-enrichment/ip-paris/physics.html",
+      "locator": null
+    },
+    {
+      "url": "https://programmes.polytechnique.edu/en/bachelor/program-details/double-major-in-mathematics-computer-science",
+      "sha256": "c56106a34934c8da5e7469b067433bec215ac162ba69cc8f606d77225a32132c",
+      "raw_file": "scratch/full-catalog/france-enrichment/ip-paris/computer.html",
+      "locator": null
+    },
+    {
+      "url": "https://programmes.polytechnique.edu/en/bachelor/program-details/double-major-in-mathematics-economics",
+      "sha256": "235c88b96b0d294267eda8f4f3b352ad7b35d09d9031e7121b9b18c320d83f07",
+      "raw_file": "scratch/full-catalog/france-enrichment/ip-paris/economics.html",
+      "locator": null
+    }
+  ]
+}

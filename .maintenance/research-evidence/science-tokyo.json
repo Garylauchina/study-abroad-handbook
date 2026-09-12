@@ -1,0 +1,131 @@
+{
+  "university_id": "science-tokyo",
+  "sources": [
+    {
+      "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+      "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/se-international.html",
+      "locator": "出願資格／選抜方法"
+    },
+    {
+      "url": "https://admissions.isct.ac.jp/plugins/cms/component_download_file.php?type=1&pageId=3088&contentsId=&contentsDataId=&prevId=&key=b3e79856233972df2ebabe76281ccad5.pdf&fileName=【公開版】令和9 (2027) 年度私費外国人留学生特別選抜学生募集要項",
+      "sha256": "9c80be01c5db580308423b5e2ece68692e441b950a56bc78d7e335dbae17cafe",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/md2027-international.pdf",
+      "locator": "PDF pages9–12"
+    },
+    {
+      "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+      "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/tuition.html",
+      "locator": "理工学系／医歯学系"
+    },
+    {
+      "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+      "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+      "raw_file": "scratch/full-catalog/asia/science-tokyo/raw/science-engineering.html",
+      "locator": "https://educ.titech.ac.jp/tse/eng/"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/math/eng/education/math_undergraduate/curriculum.html",
+      "sha256": "39cd239a1439100c2da672a1cd6387fe33d8c5be134aa6d5d326cc26e559838b",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-cce3a581dcf5a0e8b1.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/phys/eng/education/phys_undergraduate/curriculum.html",
+      "sha256": "96e1429ef6d308c926a4125889b205481717cdec48520bddb622f609ca4ad7a2",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-422737692ec56101c1.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/chem/eng/education/chem_undergraduate/curriculum.html",
+      "sha256": "2fe330b96c6f6f85b4f906ad9c723691f173bfd928cb15ea8f704eb2793fa8bb",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-c966c0c1f5e5310fff.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/eps/eng/education/eps_undergraduate/curriculum.html",
+      "sha256": "b21643361c27c607899f66fdaf9c2f000d86074bd5d26fb3a7da830d8c946c5f",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-127a5593d8d9d629a5.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/mech/eng/education/mech_undergraduate/curriculum.html",
+      "sha256": "cfe31ca893cb834bae1e5687bb39d198fd0e8d2803738ba673814bd56440dbb3",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-1d51b4d5cf26bba492.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/sc/eng/education/sc_undergraduate/curriculum.html",
+      "sha256": "a5ddc21c4b9e22a65a2e9e2ab74e2c3f4cfd97a8e2bda225b4a1bfa6cd55d4e3",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-fd0a6c5329d72aaf9b.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/ee/eng/education/ee_undergraduate/curriculum.html",
+      "sha256": "b22763d3fca62ddbc188333af1bb95f1b14cc281b8706411a5d383d80ae18a5b",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-241d182b5517a69228.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/ict/eng/education/ict_undergraduate/curriculum.html",
+      "sha256": "1b01b99e24f4492f47faaafef52f18fb21ce90e5173c3e890079747b3d3168c2",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-ea34934a743af14baa.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/iee/eng/education/iee_undergraduate/curriculum.html",
+      "sha256": "26c07545bc348a2bc124bc6885c0a70f9fc20fcc42747bbaae8b2ca92bc5aa84",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-bbc4e03ceeb2d0d6c1.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/mat/eng/education/mat_undergraduate/curriculum.html",
+      "sha256": "d50e85a8645785ed187ad25f366a3c181c1e75bb4b3952c750ad2347ef33710a",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-0614865c18af2b0156.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/cap/eng/education/cap_undergraduate/curriculum.html",
+      "sha256": "68ecd760bdf0bdc419d05d5c820db4421014bc6d4aab3a88e9780dd6198d78d6",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-e707ac3d4e47356e03.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/is/eng/education/is_undergraduate/curriculum.html",
+      "sha256": "017c84293d6929260663714698bef20da8d91198d801a07bcc889daf1bb4cea1",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-5c369bbcf4855d5d92.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/cs/eng/education/cs_undergraduate/curriculum.html",
+      "sha256": "98ddc607843f941ccc5e8029d69dae6a025e5897a7b78d3eff163694b6abe4c9",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-d5d111ba51df356549.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/bio/eng/education/bio_undergraduate/curriculum.html",
+      "sha256": "b8d9ad42da6694ad3cd991838e503940d98bcf6c2e2515300ca63ab6f809333b",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-ef8a2f2257668b7813.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/cv/eng/education/cv_undergraduate/curriculum.html",
+      "sha256": "9a70e76d15773ca83e9cad5d7467dee05e8dfa577e8209a4390a86e9672d28be",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-577d2bf4918b979701.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://educ.titech.ac.jp/tse/eng/education/tse_undergraduate/curriculum.html",
+      "sha256": "eecb4610a12a56ba9c5f8f1233ce24a847a1f09a9005d82a13ae3f4fa98780e1",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/science-tokyo/raw/curriculum-e27e7571416daefc87.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-md",
+      "sha256": "fe4bf6a08a8760fcd016cf0a71ecab66a31312f383ed91c9c2311bc1f51ee454",
+      "raw_file": "scratch/full-catalog/asia/science-tokyo/raw/directory.html",
+      "locator": "https://www.dent.tmd.ac.jp/ohe/en.html"
+    }
+  ]
+}

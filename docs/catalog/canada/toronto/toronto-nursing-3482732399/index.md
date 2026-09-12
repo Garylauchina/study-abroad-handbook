@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Nursing</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>2 年（须先有大学学习）</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>St. George campus · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>St. George 或 Mississauga（偏好不保证） · <strong>授课语言：</strong>英语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,13 +38,24 @@ hide:
 
 <p><strong>项目类别：</strong>Professional</p>
 
+<p class="catalog-fact"><strong>所属学科课程内容：</strong>加速护理BScN为两年本科课程，训练护理与健康服务能力；2026起提供圣乔治及密西沙加两个校区，入学需另核既往大学学习资格。</p>
+<p class="fact-sources"><a href="#source-p-toronto-detail-155">官方依据</a></p>
+
+<p class="catalog-fact"><strong>教学语言：</strong>学校说明教学与考试语言为英语；具体外语学习及临床沟通要求须查看专业规定。</p>
+<p class="fact-sources"><a href="#source-p-toronto-language">官方依据</a></p>
+
+<p class="catalog-fact"><strong>护理学制与新校区：</strong>护理为全日制2年加速BScN，课堂、模拟实验室和临床训练按固定顺序完成；第二年含连续11周综合临床实习。2026年9月起提供St. George及UTM教学选择，校园偏好不保证。</p>
+<p class="fact-sources"><a href="#source-p-toronto-detail-155">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>大学学习及2026起先修：</strong>至少2年大学／10.0学分，其中4.0在一年级以上；最近5.0学分平均约75%或GPA3.0，学校也审查全部大学成绩。2026起先修包括人体生理／解剖、微生物、统计、生命或自然科学及社会科学／人文组合；先修通常至少60%且不得仅记通过。国际身份资格本轮尚未单独核实。</p>
+<p class="fact-sources"><a href="#source-p-nursing-admissions">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>申请渠道及周期：</strong>2027校级申请表列护理截止为2027年1月15日。学院说明未在多大注册者用OUAC，在校或曾注册者用内部申请；补充申请惯常2月1日，但本轮页面仍夹有2026文书题目，不将其视为2027最终题目。</p>
+<p class="fact-sources"><a href="#source-p-toronto-dates">官方依据</a> · <a href="#source-p-nursing-admissions">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
@@ -61,5 +72,9 @@ hide:
 - [官方项目页面或项目所在目录](https://bloomberg.nursing.utoronto.ca/learn-with-us/bachelor-of-science-in-nursing/)
 - [官方目录](https://www.utoronto.ca/academics/undergraduate-programs)
 
+<div class="catalog-source" id="source-p-toronto-detail-155"><div><a href="https://bloomberg.nursing.utoronto.ca/learn-with-us/bachelor-of-science-in-nursing/">多伦多大学官方资料：toronto-detail-155 ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-toronto-language"><div><a href="https://future.utoronto.ca/english-language-requirements">多伦多大学官方资料：toronto-language ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-nursing-admissions"><div><a href="https://bloomberg.nursing.utoronto.ca/how-to-apply-bachelor-of-science-in-nursing-bscn/">多伦多大学官方资料：nursing-admissions ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-toronto-dates"><div><a href="https://future.utoronto.ca/deadlines">多伦多大学官方资料：toronto-dates ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/toronto/">← 返回多伦多大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -21,12 +21,12 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,9 +42,16 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-93a463da79ad8a">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学校授课语言：</strong>NUS2026年9月官方英语要求表明确英语为教学语言；特定语言专业所学语言另依课程。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-dd5861bce6faef">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>在职注册护士路径：</strong>本项是面向已在职护理文凭毕业生、注册护士的兼读Nursing Practice。课程涉及病理药理、健康评估、卫生政策、临终照护与循证实践；不作为中国高中应届生直入项目。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-93a463da79ad8a">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -65,5 +72,7 @@ hide:
 - [官方项目页面或项目所在目录](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-loo-lin-school-of-medicine-including-nursing/undergraduate-education/)
 - [官方目录](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-loo-lin-school-of-medicine-including-nursing/undergraduate-education/)
 
+<div class="catalog-source" id="source-p-ASREN-93a463da79ad8a"><div><a href="https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-loo-lin-school-of-medicine-including-nursing/undergraduate-education/">官方本科目录 ↗</a><p>目录列名、学院或校区身份，不证明本轮开放招生</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-dd5861bce6faef"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf">NUS英语要求（2026年9月版） ↗</a><p>英语教学、IELTS/TOEFL成绩有效期</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/singapore/nus/">← 返回新加坡国立大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

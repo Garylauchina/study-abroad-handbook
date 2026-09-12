@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,17 +42,51 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-188ea7d544e0ce">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>不参加iUP2027：</strong>2027 iUP列明医学部、六年制Pharmacy及Food Science and Biotechnology不参加。目录保留本项，但须另核普通日语或其他适用招生通道。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-76bd1a747d0a9a">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>中国高中及普通入学：</strong>普通本科通常要求海外12年正规学校教育完成或认可等价／IB等资格，且各学院另设资格与选拔。一般选拔需日本大学入学共通测试加学院考试；工学有私费外国人特选，法／经有外国学校毕业生选考，不能把高考分数当全校统一直录标准。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-37bc59373dfd4b">官方依据</a></p>
+
+<p class="catalog-fact"><strong>日语与iUP不同：</strong>普通日语本科需较高日语能力；iUP入学时不要求日语，先读6个月预备加4年本科，最迟大三进入主要或全部日语专业课。iUP不是4年全英语学位。土木相关另有独立全英语课程，不能泛化至整个工学部。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-37bc59373dfd4b">官方依据</a></p>
+
+<p class="catalog-fact"><strong>iUP2027资格与成绩：</strong>iUP要求非日本国籍及入学时留学在留资格，并于2027-09-30前完成认可12年教育或IB／A-Level等。可交高考等标准化考试；按目标学院核相应科目。本轮未列全套分科门槛。英语IELTS6.5、TOEFL90／新制4.5是成功申请者典型值，不是明定最低线；可按条件交学校Form C。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-76bd1a747d0a9a">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027 iUP，尚未开放：</strong>2027年10月iUP在线申请为2026-11-02至12-03 17:00日本时间，申请费JPY9,800；特殊同等学历资格预审须10-19前提交。普通日语路径2027确切日期本轮未完整取得，不能复制iUP日期。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-76bd1a747d0a9a">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>本科现行学费：</strong>普通本科年学费JPY535,800、入学金282,000、考试费17,000；这是现行标准，2027如调整以正式账单为准，不采用研究生法科大学院费。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-34db28889ded34">官方依据</a></p>
+
+<p class="catalog-fact"><strong>iUP专属资助：</strong>2027 iUP简章列入学金全免及4.5年全额／部分学费减免；6个月预备期间所有iUP学生每月最高JPY120,000，进入本科后的生活资助为择优条件性项目。不能把最高金额和后续资助当人人固定领取，也不适用普通日语通道。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-76bd1a747d0a9a">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -65,5 +99,10 @@ hide:
 - [官方项目页面或项目所在目录](http://www.pharm.kyoto-u.ac.jp/en/)
 - [官方目录](https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2)
 
+<div class="catalog-source" id="source-p-ASREN-188ea7d544e0ce"><div><a href="https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2">官方本科目录 ↗</a><p>目录列名、学院或校区身份，不证明本轮开放招生</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-76bd1a747d0a9a"><div><a href="https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf">Kyoto iUP 2027年10月申请简章 ↗</a><p>iUP可选专业、资格、语言、日期及资助</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-37bc59373dfd4b"><div><a href="https://www.kyoto-u.ac.jp/ja/international/students1/study1/undergraduate/addmissions">京都大学本科国际学生入学说明 ↗</a><p>普通12年资格、日语考试与iUP区别</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-76bd1a747d0a9a"><div><a href="https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf">Kyoto iUP 2027年10月申请简章 ↗</a><p>iUP可选专业、资格、语言、日期及资助</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-34db28889ded34"><div><a href="https://www.kyoto-u.ac.jp/en/current/how-to/tuition/tuition-and-fees">京都大学现行学费 ↗</a><p>本科年费和入学金，不采用法科大学院费</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/japan/kyoto/">← 返回京都大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

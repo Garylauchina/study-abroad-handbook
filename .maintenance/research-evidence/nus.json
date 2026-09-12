@@ -1,0 +1,131 @@
+{
+  "university_id": "nus",
+  "sources": [
+    {
+      "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination",
+      "sha256": "0abafbe12c137a089e798d233685c31ca6ecada98c71c1c1cc0d42248a537de1",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/requirements-web.json",
+      "locator": "Gaokao table and notes"
+    },
+    {
+      "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+      "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/english-dates-subjects-web.json",
+      "locator": "PDF page1"
+    },
+    {
+      "url": "https://www.nus.edu.sg/oam/admissions/important-dates",
+      "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/english-dates-subjects-web.json",
+      "locator": "AY2027/2028 International Qualifications"
+    },
+    {
+      "url": "https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
+      "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/fees-scholarship-web.json",
+      "locator": "PDF page2 AY2026/27 new entrants"
+    },
+    {
+      "url": "https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees",
+      "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/fees-scholarship-web.json",
+      "locator": "Fees/Tuition Grant"
+    },
+    {
+      "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship",
+      "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/fees-scholarship-web.json",
+      "locator": "Eligibility/Benefits/Terms"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-arts-and-social-sciences/undergraduate-education/",
+      "sha256": "a0de25b1f030762539bb2c68e164c9af3c87a8605466146f8f78d2b161400cbd",
+      "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-arts-and-social-sciences-ug-dom.html",
+      "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-arts-and-social-sciences/undergraduate-education/:Theatre and Performance Studies"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-business/undergraduate-education/",
+      "sha256": "328ba484e1207aa3bfb10a8b7ecf9b399265c1eef2eec31d01c16043a781b611",
+      "raw_file": "scratch/full-catalog/asia/nus/raw/school-of-business-ug-dom.html",
+      "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-business/undergraduate-education/:Business Administration — Real Estate"
+    },
+    {
+      "url": "https://www.nus.edu.sg/oam/docs/default-source/international-qualifications/cat-d-sdp.pdf",
+      "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/english-dates-subjects-web.json",
+      "locator": "PDF pages1–3"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/college-of-design-and-engineering/undergraduate-education/",
+      "sha256": "41f41dbba78fedbbcc87259e62d4aab34df8f5921858f353b94ebdadb2be2bc8",
+      "raw_file": "scratch/full-catalog/asia/nus/raw/cde-bulletin-dom.html",
+      "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/college-of-design-and-engineering/undergraduate-education/:Bachelor of Landscape Architecture"
+    },
+    {
+      "url": "https://ceg.nus.edu.sg/curriculum/",
+      "sha256": "2f84fff5eb525ce1cf2b8fc82315a8f62dff2419b767106c6cff78378540ec0d",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/curriculum-ea69ed119046645b1f.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-science/undergraduate-education/",
+      "sha256": "8814764676c1737f40b5d778934423b7001be11f50882cacbdf09fff320da8ba",
+      "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-science-ug-dom.html",
+      "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-science/undergraduate-education/:Pharmacy"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-computing/undergraduate-education/",
+      "sha256": "ef03a0da87cdbb109f4f3733e3717a33c73a71db6455491dac59625db0bfe2a5",
+      "raw_file": "scratch/full-catalog/asia/nus/raw/school-of-computing-ug-dom.html",
+      "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-computing/undergraduate-education/:Bachelor of Computing in Artificial Intelligence"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-continuing-lifelong-education/undergraduate-education/",
+      "sha256": "dc03e0868ce486cfcd22dbba1f278c181fb4b3de3e01dff9a48d3b7812ac9e2e",
+      "raw_file": "scratch/full-catalog/asia/nus/raw/school-of-continuing-lifelong-education-ug-dom.html",
+      "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-continuing-lifelong-education/undergraduate-education/:Bachelor of Information Technology"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-loo-lin-school-of-medicine-including-nursing/undergraduate-education/",
+      "sha256": "19c77495d1fc245284a9daa55a34eec08774470b473dc7f7410b5a6342a502fc",
+      "raw_file": "scratch/full-catalog/asia/nus/raw/yong-loo-lin-school-of-medicine-including-nursing-ug-dom.html",
+      "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-loo-lin-school-of-medicine-including-nursing/undergraduate-education/:Nursing Practice"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-law/undergraduate-education/",
+      "sha256": "15abf2d15df6bb4f89f7f054082df7b3dcd881a8df9ec4e145d6e65892d42c12",
+      "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-law-ug-dom.html",
+      "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-law/undergraduate-education/:Law"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-dentistry/undergraduate-education/",
+      "sha256": "18d00d086475c480d3c8f044deaeadfd8a87d5676b073e47e3a43a7bba02c5a2",
+      "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-dentistry-ug-dom.html",
+      "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-dentistry/undergraduate-education/:Dental Surgery"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-siew-toh-conservatory-of-music/undergraduate-education/",
+      "sha256": "9c804f00d91de74ebafc4612be7a07bf0aed0ca9d39c796b27f0195d42d7b10e",
+      "raw_file": "scratch/full-catalog/asia/nus/raw/yong-siew-toh-conservatory-of-music-ug-dom.html",
+      "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-siew-toh-conservatory-of-music/undergraduate-education/:Music, Collaboration and Production"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/double-degree-programmes/",
+      "sha256": "5e5e7066c6828318af49f50f3b4ec5c795d4ba2e80f791e1bcf0e5e8dc9ab9a6",
+      "raw_file": "scratch/full-catalog/asia/nus/raw/double-degree-programmes-dom.html",
+      "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/double-degree-programmes/:Bachelor with Honours Degree from NUS and Bachelor of Arts in International Liberal Studies from Waseda University"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/joint-degree-programmes/",
+      "sha256": "d5b53898476638aa7291194ccd1942ca16a59f038ffb80eaa225a070dc5970d2",
+      "raw_file": "scratch/full-catalog/asia/nus/raw/joint-degree-programmes-dom.html",
+      "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/joint-degree-programmes/:Joint Bachelor of Science (Honours) in Life Sciences, NUS and Bachelor of Science (Honours) in Biological Sciences/Biomedical Sciences from University of Dundee"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/concurrent-degree-programmes/",
+      "sha256": "8e5cfcb3cf2ab4196705a2940db5c53f908525da4f224d4efa2dfa3b61f31366",
+      "raw_file": "scratch/full-catalog/asia/nus/raw/concurrent-degree-programmes-dom.html",
+      "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/concurrent-degree-programmes/:Concurrent Programme in Bachelor of Computing (Information Systems) and Master of Science (Engineering and Technology Innovation Management) of Carnegie Mellon University"
+    }
+  ]
+}

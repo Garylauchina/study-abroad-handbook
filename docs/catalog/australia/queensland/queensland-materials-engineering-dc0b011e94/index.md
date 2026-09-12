@@ -32,11 +32,13 @@ hide:
 
 <p><strong>官方名称：</strong>Materials Engineering</p>
 
-<p><strong>授予学位 / 项目类型：</strong>Undergraduate major within named bachelor</p>
+<p><strong>授予学位 / 项目类型：</strong>Bachelors of Engineering (Honours)  /  Computer Science · Major</p>
 
 <p><strong>目录适用期：</strong>current official study finder; no entry year stated</p>
 
 <p><strong>目录条目类别：</strong>major</p>
+
+<p><strong>所属学位：</strong>Bachelors of Engineering (Honours)  /  Computer Science</p>
 
 ## 入学条件 {#admissions}
 

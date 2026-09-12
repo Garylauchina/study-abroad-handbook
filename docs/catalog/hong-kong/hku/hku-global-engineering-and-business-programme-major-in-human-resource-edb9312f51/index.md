@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Global Engineering and Business Programme (Major in Human Resource Management)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>5-year</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>5 年</strong></div><div><span>国际生学费</span><strong>HK$249,000/年（2026/27非本地参考）</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语为主；具体科目另核</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,21 +42,77 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>所属学位课程内容：</strong>将工程与商科组合，工程领域包括土木、计算机、系统、电气电子和机械，商科包括金融、信息系统、市场等；须完成海外交换。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-b758a2dc40713bb00941">官方依据</a></p>
+
+<p class="catalog-fact"><strong>标准学制：</strong>课程主页列修读期5年；特殊衔接阶段、学分豁免或跨校安排另按该项目说明。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-b758a2dc40713bb00941">官方依据</a></p>
+
+<p class="catalog-fact"><strong>授课语言范围：</strong>大学说明以英语为教学语言；个别科目及涉及中文、粤语临床/专业实践的要求须另核。</p>
+<p class="fact-sources"><a href="#source-p-hku-medium">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>主修与招生入口：</strong>本条是所属学位内主修名称；本轮核实共同课程页，尚未逐主修读取完整必修表/分流标准，不能将主修名称当作独立新生网申学位。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-b758a2dc40713bb00941">官方依据</a></p>
+
+<p class="catalog-fact"><strong>专业要求缺口：</strong>本轮未逐项取得2027国际学历先修、专业最低成绩及全部实践语言要求；大学最低英语或高考通则不代表专业录取保证。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-b758a2dc40713bb00941">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>内地高考独立招生：</strong>2026内地本科生计划以独立网申招生，综合高考总分、英语、面试及其他表现。该年公告说明各专业无文理/新高考选科限制，牙医学士亦招非本地生。此为2026规则参考，本轮未取得2027高考完整公告。</p>
+<p class="fact-sources"><a href="#source-u-hku-policy-0">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际学历与英语：</strong>国际/Non-JUPAS入口适用于非本地国际学历等申请者，明确排除以当年内地高考申请者。英语页当前注明2026参考：IELTS Academic同次6.5或TOEFL iBT同次93，并有其他学历替代；2027英语表及新制TOEFL本轮未核实。</p>
+<p class="fact-sources"><a href="#source-u-hku-policy-4">官方依据</a> · <a href="#source-u-hku-policy-2">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>申请年份核验范围：</strong>普通本科共同窗口见学校资料；本轮未取得本条2027专业面试、材料及分流完整日历。2026信息仅作已结束周期参考。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-b758a2dc40713bb00941">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027国际学历窗口：</strong>2026年9月23日开始申请，2026年11月25日香港时间中午为首轮截止；之后滚动考虑，2027年8月25日中午最终关闭。各专业可有更早材料/面试时间，跨校联合课程另有程序。</p>
+<p class="fact-sources"><a href="#source-u-hku-policy-4">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026高考参考与未来缺口：</strong>2026高考网申截止为2026年6月28日中午12时，申请费港币600元，该周期已结束；2027高考日期本轮未核实。申请阶段可同时报内地高校，接受港大录取后不再参加内地高招录取。</p>
+<p class="fact-sources"><a href="#source-u-hku-policy-0">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>2026/27非本地年费：</strong>按课程所属学院及大学2026–27届收费分类，该年非本地年学费港币249,000元；不含生活住宿及后续硕士/跨校阶段，本轮未取得2027/28报价。</p>
+<p class="fact-sources"><a href="#source-p-hku-policy-5">官方依据</a></p>
+
+<p class="catalog-fact"><strong>收费分类依据：</strong>课程页列学院/学校：HKU Business School Faculty of Engineering。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-b758a2dc40713bb00941">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026/27非本地学费：</strong>2026–27入学届非STEM学院年费港币224,000元；牙医、工程、医学、理学及官方列明的生物医学工程、计算机与数据科学、创新学院/学校年费249,000元（含STEM费用）。跨校/自资项目另核，2027/28金额本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-hku-policy-5">官方依据</a></p>
+
+<p class="catalog-fact"><strong>奖学金入口与条件：</strong>国际学历招生页提供按学术表现择优的入学奖学金入口，可为一次性或可续领的学费/生活支持；实际金额、资格及续领条件须看对应奖项和录取通知。不能将只面向本地生的奖项用于内地非本地生。</p>
+<p class="fact-sources"><a href="#source-u-hku-policy-4">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>毕业结果范围：</strong>本轮未取得本专业、具体毕业届次及内地/非本地学生分母口径的就业率；课程中列举的职业方向不等于就业统计。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-b758a2dc40713bb00941">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>统计口径缺口：</strong>本轮尚未取得覆盖各专业、毕业届次及内地/非本地学生口径的就业统计，不以大学或学院宣传数字代替。</p>
+<p class="fact-sources"><a href="#source-u-hku-policy-4">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -65,5 +121,12 @@ hide:
 - [官方项目页面或项目所在目录](https://admissions.hku.hk/programmes/undergraduate-programmes/global-engineering-and-business-programme)
 - [官方目录](https://admissions.hku.hk/programmes/undergraduate-programmes?page=11)
 
+<div class="catalog-source" id="source-p-hku-detail-b758a2dc40713bb00941"><div><a href="https://admissions.hku.hk/programmes/undergraduate-programmes/global-engineering-and-business-programme">hku 官方本科资料：detail-b758a2dc40713bb00941 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-hku-medium"><div><a href="https://admissions.hku.hk/node/893">hku 官方本科资料：medium ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-hku-policy-5"><div><a href="https://www.hku.hk/en/admission-aid/tuition-fee-scholarships">hku 官方本科资料：policy-5 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-hku-policy-0"><div><a href="https://www.admissions.hku.hk/zh-hans/apply/mainland">hku 官方本科资料：policy-0 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-hku-policy-4"><div><a href="https://admissions.hku.hk/apply/international-qualifications">hku 官方本科资料：policy-4 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-hku-policy-2"><div><a href="https://admissions.hku.hk/apply/international-qualifications/english-language-requirement">hku 官方本科资料：policy-2 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-hku-policy-5"><div><a href="https://www.hku.hk/en/admission-aid/tuition-fee-scholarships">hku 官方本科资料：policy-5 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/hong-kong/hku/">← 返回香港大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

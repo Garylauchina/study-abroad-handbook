@@ -67,7 +67,7 @@
     },
     {
       "raw_key": "Matematical Sciences",
-      "name_en": "Matematical Sciences",
+      "name_en": "Mathematical Sciences",
       "degree_label": "本科项目（学位名称尚未核实）",
       "official_url": "https://natsci.kaist.ac.kr/eng/sub0202",
       "university_id": "kaist",
@@ -1120,6 +1120,150 @@
         "language": "英语为主"
       },
       "research_status": "directory_only"
+    },
+    {
+      "university_id": "kaist",
+      "raw_key": "2027 College of AI|AI Computing",
+      "inventory_id": "kaist-ai-computing-4c437076d8",
+      "name_en": "AI Computing",
+      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
+      "checked_at": "2026-09-12",
+      "research_status": "directory_only",
+      "display_fields": {
+        "name": "人工智能计算",
+        "intake": "2027",
+        "entry_summary": "2027简章列AI学院方向；先按未定专业入学，后选专业。"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "2027目录确认",
+            "text": "2027国际本科简章第4页在College of AI下列出本方向。其专属课程、授予学位名称和独立毕业数据本轮尚未取得；下方招生及费用属于学校共用规则。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ]
+    },
+    {
+      "university_id": "kaist",
+      "raw_key": "2027 College of AI|AI Systems",
+      "inventory_id": "kaist-ai-systems-ad630c0308",
+      "name_en": "AI Systems",
+      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
+      "checked_at": "2026-09-12",
+      "research_status": "directory_only",
+      "display_fields": {
+        "name": "人工智能系统",
+        "intake": "2027",
+        "entry_summary": "2027简章列AI学院方向；先按未定专业入学，后选专业。"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "2027目录确认",
+            "text": "2027国际本科简章第4页在College of AI下列出本方向。其专属课程、授予学位名称和独立毕业数据本轮尚未取得；下方招生及费用属于学校共用规则。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ]
+    },
+    {
+      "university_id": "kaist",
+      "raw_key": "2027 College of AI|AX",
+      "inventory_id": "kaist-ax-80a1c34e4f",
+      "name_en": "AX",
+      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
+      "checked_at": "2026-09-12",
+      "research_status": "directory_only",
+      "display_fields": {
+        "name": "AX（官方专业名称）",
+        "intake": "2027",
+        "entry_summary": "2027简章列AI学院方向；先按未定专业入学，后选专业。"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "2027目录确认",
+            "text": "2027国际本科简章第4页在College of AI下列出本方向。其专属课程、授予学位名称和独立毕业数据本轮尚未取得；下方招生及费用属于学校共用规则。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ]
+    },
+    {
+      "university_id": "kaist",
+      "raw_key": "2027 College of AI|AI and Future Studies",
+      "inventory_id": "kaist-ai-and-future-studies-23efee9a28",
+      "name_en": "AI and Future Studies",
+      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
+      "checked_at": "2026-09-12",
+      "research_status": "directory_only",
+      "display_fields": {
+        "name": "人工智能与未来研究",
+        "intake": "2027",
+        "entry_summary": "2027简章列AI学院方向；先按未定专业入学，后选专业。"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "2027目录确认",
+            "text": "2027国际本科简章第4页在College of AI下列出本方向。其专属课程、授予学位名称和独立毕业数据本轮尚未取得；下方招生及费用属于学校共用规则。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ]
     }
   ],
   "profile": {

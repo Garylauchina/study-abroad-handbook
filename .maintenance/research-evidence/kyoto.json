@@ -1,0 +1,29 @@
+{
+  "university_id": "kyoto",
+  "sources": [
+    {
+      "url": "https://www.kyoto-u.ac.jp/ja/international/students1/study1/undergraduate/addmissions",
+      "sha256": "462600c6c6ffbfdd2d3aea23634984846ac444c1d0e2f1471ed192555c42e2f2",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/kyoto/raw/international.html",
+      "locator": "出願資格／選抜方法"
+    },
+    {
+      "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+      "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/kyoto/raw/iup-guide2027.pdf",
+      "locator": "PDF pages4–7,13,16,20"
+    },
+    {
+      "url": "https://www.kyoto-u.ac.jp/en/current/how-to/tuition/tuition-and-fees",
+      "sha256": "5c4aa86485cdc28462731b2f3ef8b3032a00f23d6875156724d92a4708c475c5",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/kyoto/raw/tuition.html",
+      "locator": "Tuition fees"
+    },
+    {
+      "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+      "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+      "raw_file": "scratch/full-catalog/asia/kyoto/raw/directory.html",
+      "locator": "Agriculture:Food Science and Biotechnology"
+    }
+  ]
+}

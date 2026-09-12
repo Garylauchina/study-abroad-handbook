@@ -1,0 +1,53 @@
+{
+  "university_id": "snu",
+  "sources": [
+    {
+      "url": "https://en.snu.ac.kr/webdata/uploads/eng/file/2026/06/Admissions_for_Undergraduate_Spring_2027.pdf",
+      "sha256": "efd6a4de95f1c3c292bb27e69f052fe31b1c0ce15dede730dbea3793ec8e4dd6",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/spring2027.pdf",
+      "locator": "English pages4–7,18,24"
+    },
+    {
+      "url": "https://en.snu.ac.kr/admission/overview/faq/admission",
+      "sha256": "3e90140cad060488c44167035d6aea19d4459a642029b78a1e9d5acaec3b7cd4",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/faq.html",
+      "locator": "Language/Transfer/Scholarships"
+    },
+    {
+      "url": "https://en.snu.ac.kr/academics/resources/registration",
+      "sha256": "6630cfae984e4fcc14018e73c1a2a5919585576d8da4bade28b8004f272c9743",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/registration.html",
+      "locator": "Tuition payment"
+    },
+    {
+      "url": "https://en.snu.ac.kr/academics/programs/undergraduate",
+      "sha256": "67688fbd3dc4b814c4a2d060fafb4cdaec985bff3f65b6537f06cccc5d743a40",
+      "raw_file": "scratch/full-catalog/asia/snu/raw/directory.html",
+      "locator": "School of Transdisciplinary Innovations snuti.snu.ac.kr:School of Transdisciplinary Innovations"
+    },
+    {
+      "url": "https://physics.snu.ac.kr/en/academics/undergraduate/curriculum",
+      "sha256": "24f36f5af69f657fc199015180c8971f29e08e5729de2e360e9f800e33ddca65",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/curriculum-fb5189fdbeac508960.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://biosci.snu.ac.kr/en/academics/curriculum/undergraduate",
+      "sha256": "249261f9ac01aa8e1622a4034c7779359a9551cd2558672eef31261152d05bed",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/curriculum-182028d78cf69aec51.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://cba.snu.ac.kr/en/academics/undergraduate/curriculum/01",
+      "sha256": "4cbd159d004c22bd396b766d42c9317b78096e4ea7458814769dc7a22563f33b",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/curriculum-28f6a4e05afbd407d7.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://nucleng.snu.ac.kr/en/undergraduate/curriculum",
+      "sha256": "e293142c3eeed9115d106987cef3d1fb4656dbc826d7051e7b0d58b86804fbe0",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/curriculum-f5e18eadaa7ec9753a.html",
+      "locator": "undergraduate curriculum / course list"
+    }
+  ]
+}

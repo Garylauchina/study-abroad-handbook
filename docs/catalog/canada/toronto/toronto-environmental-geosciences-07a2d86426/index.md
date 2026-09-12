@@ -21,12 +21,12 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Mississauga campus · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Mississauga campus · <strong>授课语言：</strong>英语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -37,6 +37,9 @@ hide:
 <p><strong>目录适用期：</strong>官网当前目录；未标明确入学年度，核对于2026-09-12</p>
 
 <p><strong>项目类别：</strong>Specialist</p>
+
+<p class="catalog-fact"><strong>资料缺口：</strong>本条原目录项目链接本轮返回404，未取得该方向当前课程内容和开放情况。相关地球科学系目录可作为继续查找入口，但不能据此认定课程仍开放或将其他专业替代本条。</p>
+<p class="fact-sources"><a href="#source-p-toronto-detail-064">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -61,5 +64,6 @@ hide:
 - [官方项目页面或项目所在目录](https://utm.calendar.utoronto.ca/section/Environmental-Geosciences)
 - [官方目录](https://www.utoronto.ca/academics/undergraduate-programs)
 
+<div class="catalog-source" id="source-p-toronto-detail-064"><div><a href="https://utm.calendar.utoronto.ca/section/Earth-Science">多伦多大学官方资料：toronto-detail-064 ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/toronto/">← 返回多伦多大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

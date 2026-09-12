@@ -19,7 +19,7 @@ hide:
 
 <p class="program-title-en">Dental Surgery</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>2026入学参考 每年CAD 118,713.64（教学学费）</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>4年牙医专业；至少2年大学先修另计</strong></div><div><span>国际生学费</span><strong>2026入学参考 每年CAD 118,713.64（教学学费）</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>North Campus (Edmonton) · <strong>授课语言：</strong>尚未核实</p>
 

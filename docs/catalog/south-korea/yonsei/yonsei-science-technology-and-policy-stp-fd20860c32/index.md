@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,6 +42,9 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-ae1afe8bffbada">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
@@ -52,7 +55,8 @@ hide:
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>UIC2026学费：</strong>2026国际本科收费表UIC一栏首学期KRW8,416,000，第2至8学期各8,202,000。未当作2027定价；招生时间与普通GBED另行核实。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-af361a73cceae5">官方依据</a></p>
 
 ## 毕业生情况 {#outcomes}
 
@@ -65,5 +69,7 @@ hide:
 - [官方项目页面或项目所在目录](https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_02_07)
 - [官方目录](https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_01_01)
 
+<div class="catalog-source" id="source-p-ASREN-ae1afe8bffbada"><div><a href="https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_01_01">官方本科目录 ↗</a><p>目录列名、学院或校区身份，不证明本轮开放招生</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-af361a73cceae5"><div><a href="https://www.yonsei.ac.kr/sites/en_sc/down/2026_fee1.pdf">延世大学2026国际本科收费表 ↗</a><p>2026每学期、GBED与专业学院不同收费</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/">← 返回延世大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

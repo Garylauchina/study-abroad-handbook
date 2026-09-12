@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：已补学校共用资料，专业专属详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,17 +42,44 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-77d7fb65eaf5dc">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>普通国际本科范围：</strong>大阪大学单设私费外国人本科选拔；须依学院核日本留学试验与校内测试。2027详细简章页面预告2026年9月下旬发布，本轮尚未取得各学院2027中国学历与EJU分科完整表，故不填统一高考门槛。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-05b043aab17410">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027普通路径日期缺口：</strong>官网已发布2027选拔概要，但普通私费外国人详细申请材料和日期预告9月下旬公布；本轮未取得可据此执行的完整2027提交期，不沿用英语Human Sciences日程。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-05b043aab17410">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>现行本科费用：</strong>本科年学费JPY535,800，分两次各267,900；入学金282,000、考试费17,000另计。页面为现行标准，非研究生法科大学院价，2027有调整以正式账单为准。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-beb65bcd304e94">官方依据</a></p>
+
+<p class="catalog-fact"><strong>资助缺口：</strong>本轮未取得可对普通中国本科新生明确承诺金额及续领标准的奖学金条款；须另查对应本科路径。收费页给出的学费不应自动扣除未获批资助。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-beb65bcd304e94">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -65,5 +92,8 @@ hide:
 - [官方项目页面或项目所在目录](https://www.phs.osaka-u.ac.jp/en/)
 - [官方目录](https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree)
 
+<div class="catalog-source" id="source-p-ASREN-77d7fb65eaf5dc"><div><a href="https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree">官方本科目录 ↗</a><p>目录列名、学院或校区身份，不证明本轮开放招生</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-05b043aab17410"><div><a href="https://www.osaka-u.ac.jp/ja/admissions/faculty/expense">大阪大学2027私费外国人特选 ↗</a><p>普通本科2027详细简章发布进度</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-beb65bcd304e94"><div><a href="https://www.osaka-u.ac.jp/en/campus/tuition/tuition.html">大阪大学本科现行学费 ↗</a><p>本科年费与入学金</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/japan/osaka/">← 返回大阪大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

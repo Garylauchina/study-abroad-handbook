@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Veterinary Medicine</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>5 Years</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027 年 9 月（2026-10-01 开放申请）</strong></div><div><span>学制</span><strong>5 年</strong></div><div><span>国际生学费</span><strong>2026/27 non-EU：EUR 38,000.00 / 年</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,89 @@ hide:
 
 <p><strong>条目类型：</strong>undergraduate programme/major</p>
 
+<p class="catalog-fact"><strong>本专业：课程与培养：</strong>兽医学五年课程先学习动物结构、福利与饲养，进展至疾病、内外科及公共健康，最后一年主要在 UCD 兽医医院临床轮转。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-147">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：学位与学制：</strong>授予资格：Bachelor of Veterinary Medicine；页面学制为5 年。入口代码：VTS1。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-147">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：授课语言：</strong>UCD一般教学语言为英语；目标语言训练、海外交换及实习安排依本专业说明。</p>
+<p class="fact-sources"><a href="#source-p-ucd-english">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>本专业：直接或共同入口：</strong>课程页列入口代码VTS1；此为页面列出的直接申请入口，仍须满足相应资格和专业条件。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-147">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：IB类别参考：</strong>当前入口面板列IB总分40，不同入口可能不同；仍有单科及英语要求。面板同时含2026 CAO信息，本轮未取得单独标年2027的完整IB表；此分数不可换算为高考要求。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-147">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：2026中国兽医路径：</strong>2026中国表列高考83%，数学会考C或高中成绩60，化学会考B或高中成绩80；通常需近三年60小时动物接触经验且涵盖至少两类动物。中国页资料截止为2026年7月5日，已过；CAO页另有不同日期，不混用于中国类别。</p>
+<p class="fact-sources"><a href="#source-p-ucd-china">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：中国高中与高考：</strong>中国普高申请通常需经地方教育主管部门认可的全日制高中毕业证及高考；个别情形能否使用会考须联系学校。2026表中的总体百分比指高考总分比例，单科栏则按会考或高中毕业资格成绩，不能混用。IB、A-level另按各自类别，最低要求仅用于竞争性审查。</p>
+<p class="fact-sources"><a href="#source-u-ucd-china">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：英语证明：</strong>学校通常用英语教学，语言类课程另按专业说明。IELTS Academic总分6.5、各项6.0，须一次考试同时达标且不接受重考拼分；成绩通常须在近两年内取得。2026年新版TOEFL要求总分及每项4.5。特殊课程可另要求面试，2027线上测试认可情况本轮未核实。</p>
+<p class="fact-sources"><a href="#source-u-ucd-english">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：预科与转学：</strong>不满足直接本科要求者可咨询一年国际预科，包含学术、英语及学习技能训练，须另核可升专业。非欧盟申请人通常先申请一年级；已有大学学习可申请RPL学分认可，由课程委员会结合名额决定，不保证直接插班。</p>
+<p class="fact-sources"><a href="#source-u-ucd-apply">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>本专业：2027国际本科入口：</strong>页面普通non-EU路径列2027年9月入学，2026年10月1日开放。准确截止日期本轮未取得；请使用Undergraduate Degree (Non EU)，仅受邀的Access Progression不能作为普通申请。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-147">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：2026参考批次：</strong>页面2026年9月non-EU普通入口标Closed，已结束；不把该入口当作未来申请批次。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-147">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：申请身份与程序：</strong>申请渠道按学校认定的费用身份选择：EU收费身份本科须经CAO；普通non-EU申请从UCD课程在线入口提交。上传成绩和所需文件，非英语文件附正式译文；等待最终成绩者可能获得条件录取。</p>
+<p class="fact-sources"><a href="#source-u-ucd-apply">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：时间边界：</strong>本科FAQ通常在10月1日开放翌年9月申请，建议需签证者在7月1日前提交；建议日不等于所有专业的统一截止日。具体2027入口开放时间按下列课程原页，准确截止、容量及可否晚申请仍须逐项核查。</p>
+<p class="fact-sources"><a href="#source-u-ucd-apply">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>本专业：2026/27 non-EU费用：</strong>官方表对应VTS1：EUR38,000.00（每年 zv1）。这是2026/27参考，不是2027/28报价。</p>
+<p class="fact-sources"><a href="#source-p-ucd-fees-table">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：兽医年度上涨：</strong>non-EU直入及毕业后入学兽医学自2019/20起受年度费用上涨影响，不能按首年费用固定乘全部学年。</p>
+<p class="fact-sources"><a href="#source-p-ucd-fees-table">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：2026/27非欧盟费用：</strong>Registry官方2026/27表使用EUR，已包含Student Centre Levy。普通多学年non-EU课程自2014/15起通常维持入学年度费用，前提是留在同一课程；兽医学直入及毕业后入学自2019/20起另有逐年上涨。2027/28金额本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-ucd-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：申请费与附加费用：</strong>本科FAQ目前列申请费EUR70，未付一般不送审。部分健康专业收费表脚注另列EUR330健康筛查；心理学第二年non-EU另加EUR2,000。生活、住宿和其他费用不由学费表覆盖。</p>
+<p class="fact-sources"><a href="#source-u-ucd-apply">官方依据</a> · <a href="#source-u-ucd-fees-table">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：国际生奖学金入口：</strong>UCD Global奖学金仅适用non-EU收费身份并须先获适用课程offer。Global Excellence需另申请，可减免50%或100%学费；International Student Scholarship通常随offer自动评估，页面列10%—35%减免且排除部分课程。各课程资格、2027申请日期及续领条件本轮未逐项核实，不视为保证获奖。</p>
+<p class="fact-sources"><a href="#source-u-ucd-scholarships">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>本专业：官方职业方向介绍：</strong>课程页提及研究、临床等工作或进一步学习方向。这是课程职业介绍，不是本届毕业生就业率或薪资调查。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-147">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：职业资料边界：</strong>课程页的Career &amp; Graduate Study Opportunities属于升学和职业方向介绍。本轮尚未核实各专业可比的毕业就业率、薪资及调查口径，不将介绍中的职业可能性写成实际就业统计。</p>
+<p class="fact-sources"><a href="#source-u-ucd-career-example">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +129,16 @@ hide:
 - [官方项目页面或项目所在目录](https://www.ucd.ie/courses/mvb-veterinary-medicine)
 - [官方目录](https://www.ucd.ie/myucd/courses/a-z-course-list/)
 
+<div class="catalog-source" id="source-p-ucd-program-147"><div><a href="https://www.ucd.ie/courses/mvb-veterinary-medicine">Veterinary Medicine ↗</a><p>学位与入口面板、课程培养、申请路线和职业说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ucd-english"><div><a href="https://www.ucd.ie/registry/prospectivestudents/admissions/policiesandgeneralregulations/generalrequirements/minimumenglishlanguagerequirements/">Minimum English Language Requirements ↗</a><p>英语教学和证明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ucd-china"><div><a href="https://www.ucd.ie/global/study-at-ucd/undergraduate/entryrequirements/china/">China entry requirements: 2026 ↗</a><p>中国高中、高考与分科标准</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ucd-fees-table"><div><a href="https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?ACYR=2026&amp;DGLEV=UG&amp;RESD=NONEU&amp;p_tag=FEESLEVEL">2026 non-EU undergraduate fee table ↗</a><p>各课程代码欧元收费及脚注</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-china"><div><a href="https://www.ucd.ie/global/study-at-ucd/undergraduate/entryrequirements/china/">China entry requirements: 2026 ↗</a><p>中国高中、高考与分科标准</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-english"><div><a href="https://www.ucd.ie/registry/prospectivestudents/admissions/policiesandgeneralregulations/generalrequirements/minimumenglishlanguagerequirements/">Minimum English Language Requirements ↗</a><p>英语教学和证明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-apply"><div><a href="https://www.ucd.ie/global/study-at-ucd/faqs/">Undergraduate application FAQs ↗</a><p>身份、渠道、材料和申请费</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-fees"><div><a href="https://www.ucd.ie/students/fees/noneucoursefees/internationalnon-euundergraduatefees202627/">Non-EU Undergraduate Fees 2026/27 ↗</a><p>年度、收费固定与附加费规则</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-fees-table"><div><a href="https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?ACYR=2026&amp;DGLEV=UG&amp;RESD=NONEU&amp;p_tag=FEESLEVEL">2026 non-EU undergraduate fee table ↗</a><p>各课程代码欧元收费及脚注</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-scholarships"><div><a href="https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/">Scholarships for international students ↗</a><p>奖学金资格与申请方式</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-career-example"><div><a href="https://www.ucd.ie/courses/bsc-actuarial-and-financial-studies">Actuarial and Financial Studies: career opportunities ↗</a><p>官方课程职业方向介绍；未声明就业调查数字</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/ireland/ucd/">← 返回都柏林大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

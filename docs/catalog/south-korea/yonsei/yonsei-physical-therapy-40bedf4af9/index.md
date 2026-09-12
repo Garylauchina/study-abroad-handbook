@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：已补学校共用资料，专业专属详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -41,6 +41,9 @@ hide:
 <p><strong>申请路径：</strong>Undergraduate listing; detailed admission route not yet verified</p>
 
 <p><strong>目录状态：</strong>listed_current</p>
+
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-06e03b27f6f758">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -65,5 +68,6 @@ hide:
 - [官方项目页面或项目所在目录](http://yspt.yonsei.ac.kr)
 - [官方目录](https://mirae.yonsei.ac.kr/en_wj/2099/subview.do)
 
+<div class="catalog-source" id="source-p-ASREN-06e03b27f6f758"><div><a href="https://mirae.yonsei.ac.kr/en_wj/2099/subview.do">官方本科目录 ↗</a><p>目录列名、学院或校区身份，不证明本轮开放招生</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/">← 返回延世大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

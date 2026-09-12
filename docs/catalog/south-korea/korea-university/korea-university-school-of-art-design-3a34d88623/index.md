@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：已补学校共用资料，专业专属详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,17 +42,50 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-252d1d00256651">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>中国申请者身份：</strong>申请人及双亲须均为非韩国籍；转换国籍者须在高中阶段前取得外国籍。2027春须于2027年2月前完成正规12年学校教育；GED、家庭／网络教育及语学院不替代正式高中资格。高考、IB、A-Level不自动构成录取保证，本轮未取得中国统一分数线。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-e443484d864582">官方依据</a></p>
+
+<p class="catalog-fact"><strong>语言材料：</strong>可按简章提交TOPIK／被认可韩国语学院材料、TOEFL iBT／IELTS Academic，或全中等教育韩语／英语授课证明；International Studies必须有英语材料。2027起不再提供KU线上韩语水平测试作为申请替代。不得将普通语言材料要求误写为所有专业统一TOPIK5。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-e443484d864582">官方依据</a></p>
+
+<p class="catalog-fact"><strong>入学后韩语与选课：</strong>通常韩语5级可免强化课程限制；4级须一学期韩语训练且专业课每学期最多6学分，3级及以下须两学期训练、期间不修专业课。部分英语能力突出且英语课程适配者可按学院审核豁免，不能全校自动豁免。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-e443484d864582">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027春已结束／秋季日期未完整：</strong>首尔2027春在线申请2026-08-03 10:00至08-31 17:00，原件09-07 17:00截止；当前已结束。2027秋页面仅列2027年3月申请、6月结果，具体日期TBA；不能将春季截止复制给秋季或世宗。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-3bc2a750dff830">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026学年首尔学费概算：</strong>官网按每学期列：人文社科约KRW5,800,000、自然科学约6,700,000、工程约7,700,000、艺术约7,800,000；开放专业和University College约7,700,000。是学院类别概算且可调整，未当作各专业2027精确报价。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-bba9c659132670">官方依据</a></p>
+
+<p class="catalog-fact"><strong>新生奖学金条件：</strong>无需单独申请、按入学评价竞争选拔：Global Leader A新生4学期全额，续领上一学期至少12学分且GPA≥3.5；B为4学期50%，至少12学分且GPA≥3.0。Anam Global可达8学期全额，仍须至少12学分及GPA≥3.5；自动进入评审不等于人人获奖。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-6b0adc3b1c6c18">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -65,5 +98,10 @@ hide:
 - [官方项目页面或项目所在目录](https://and.korea.edu/kuand_en/index.do)
 - [官方目录](https://www.korea.ac.kr/en/1037/subview.do)
 
+<div class="catalog-source" id="source-p-ASREN-252d1d00256651"><div><a href="https://www.korea.ac.kr/en/1037/subview.do">官方本科目录 ↗</a><p>目录列名、学院或校区身份，不证明本轮开放招生</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-e443484d864582"><div><a href="https://oia.korea.ac.kr/_attach/file/2026/08/lpZzpFXiuEfpfIZPBrYB.pdf">高丽大学首尔2027春国际新生简章 ↗</a><p>身份、语言及课程注册限制</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-3bc2a750dff830"><div><a href="https://oia.korea.ac.kr/oia2026/Admission-Guide.do">高丽大学首尔国际本科申请日程 ↗</a><p>2027春秋申请日期</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-bba9c659132670"><div><a href="https://oia.korea.ac.kr/oia2026/Tuition.do">高丽大学首尔国际本科学费 ↗</a><p>2026学年每学期学院概算</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-6b0adc3b1c6c18"><div><a href="https://oia.korea.ac.kr/oia2026/KU-Scholarships.do">高丽大学国际本科奖学金 ↗</a><p>Global Leader及Anam资助期限、学分和GPA条件</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/">← 返回高丽大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

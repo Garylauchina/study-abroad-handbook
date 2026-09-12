@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">HKU-Geneva Graduate Institute Dual Degree Programme</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>跨校/自资分段收费待核</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,9 +42,16 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>课程内容：</strong>港大社会科学本科在读学生可申请日内瓦研究院硕士衔接；先读港大三年，获录取后在日内瓦修读并将学分转回完成本科。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-8a4f2cadc2f2f08a2ff3">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>在读本科衔接：</strong>申请者为港大社会科学在读学生，通常要求累计GPA3.5及完成相关学分；较低GPA可综合考虑。网页申请参考日为2025年10月24日，2027衔接窗口本轮未核实。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-8a4f2cadc2f2f08a2ff3">官方依据</a></p>
+
+<p class="catalog-fact"><strong>专业要求缺口：</strong>本轮未逐项取得2027国际学历先修、专业最低成绩及全部实践语言要求；大学最低英语或高考通则不代表专业录取保证。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-8a4f2cadc2f2f08a2ff3">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -52,11 +59,13 @@ hide:
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>特殊收费范围：</strong>本条为跨校、在读衔接或自资项目，学费须按各阶段和实际录取身份确定；本轮不以港大普通本科年费作为全项目报价。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-8a4f2cadc2f2f08a2ff3">官方依据</a></p>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>毕业结果范围：</strong>本轮未取得本专业、具体毕业届次及内地/非本地学生分母口径的就业率；课程中列举的职业方向不等于就业统计。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-8a4f2cadc2f2f08a2ff3">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -65,5 +74,6 @@ hide:
 - [官方项目页面或项目所在目录](https://web.socsc.hku.hk/hkugeneva-bsocsc-ma/)
 - [官方目录](https://admissions.hku.hk/programmes/undergraduate-programmes?page=12)
 
+<div class="catalog-source" id="source-p-hku-detail-8a4f2cadc2f2f08a2ff3"><div><a href="https://web.socsc.hku.hk/hkugeneva-bsocsc-ma/">hku 官方本科资料：detail-8a4f2cadc2f2f08a2ff3 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/hong-kong/hku/">← 返回香港大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

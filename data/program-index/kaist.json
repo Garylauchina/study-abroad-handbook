@@ -3,9 +3,9 @@
   "checked_at": "2026-09-12",
   "coverage": {
     "status": "partial",
-    "count": 18,
+    "count": 22,
     "scope": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
-    "method": "[{\"named_department_entries\": 17, \"school_level_entries\": 1}]",
+    "method": "[{\"named_department_entries\": 17, \"school_level_entries\": 1}] 对照2027国际本科简章第4页补AI学院四方向，并纠正Mathematical Sciences旧拼写。",
     "exclusions": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
     "sources": [
       {
@@ -14,11 +14,16 @@
         "bytes": 47299,
         "raw_file": "scratch/full-catalog/asia/kaist/raw/directory.html",
         "meta_file": "scratch/full-catalog/asia/kaist/raw/directory.meta.json"
+      },
+      {
+        "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+        "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/kaist/raw/guide2027.pdf",
+        "bytes": 5060683
       }
     ],
     "gaps": [
-      "Admissions page includes School of AI heading but does not enumerate its current individual degree routes; newer AI reorganisation needs reconciliation with undergraduate-specific current catalogue.",
-      "Freshman guide has stale English copy (Chemical/Biomolecular Engineering mistranslated as Biological Sciences); admissions names retained verbatim with original source typo Matematical Sciences."
+      "2027简章已补齐AI学院四方向；各方向具体学位名称、课程结构和校历完整性仍待核对。"
     ]
   },
   "programs": [
@@ -40,7 +45,7 @@
       "id": "kaist-physics-2419871986"
     },
     {
-      "name_en": "Matematical Sciences",
+      "name_en": "Mathematical Sciences",
       "degree_label": "本科项目（学位名称尚未核实）",
       "official_url": "https://natsci.kaist.ac.kr/eng/sub0202",
       "intake": null,
@@ -54,7 +59,8 @@
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-matematical-sciences-cc7733c3d1"
+      "id": "kaist-matematical-sciences-cc7733c3d1",
+      "identity_note": "2027正式简章纠正旧页面拼写，稳定ID与raw_key保留。"
     },
     {
       "name_en": "Chemistry",
@@ -327,6 +333,62 @@
       "status": "listed_current",
       "record_type": "undergraduate_school",
       "id": "kaist-school-of-transdisciplinary-studies-b0970b7881"
+    },
+    {
+      "name_en": "AI Computing",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
+      "discovery_source_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+      "source_period": "2027国际本科招生简章第4页",
+      "raw_key": "2027 College of AI|AI Computing",
+      "intake": "2027",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "program_type": "本科专业，入学后选定",
+      "id": "kaist-ai-computing-4c437076d8"
+    },
+    {
+      "name_en": "AI Systems",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
+      "discovery_source_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+      "source_period": "2027国际本科招生简章第4页",
+      "raw_key": "2027 College of AI|AI Systems",
+      "intake": "2027",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "program_type": "本科专业，入学后选定",
+      "id": "kaist-ai-systems-ad630c0308"
+    },
+    {
+      "name_en": "AX",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
+      "discovery_source_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+      "source_period": "2027国际本科招生简章第4页",
+      "raw_key": "2027 College of AI|AX",
+      "intake": "2027",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "program_type": "本科专业，入学后选定",
+      "id": "kaist-ax-80a1c34e4f"
+    },
+    {
+      "name_en": "AI and Future Studies",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
+      "discovery_source_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+      "source_period": "2027国际本科招生简章第4页",
+      "raw_key": "2027 College of AI|AI and Future Studies",
+      "intake": "2027",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "program_type": "本科专业，入学后选定",
+      "id": "kaist-ai-and-future-studies-23efee9a28"
     }
   ]
 }

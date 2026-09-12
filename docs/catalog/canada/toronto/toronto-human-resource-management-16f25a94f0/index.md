@@ -21,12 +21,12 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Mississauga campus · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Mississauga campus · <strong>授课语言：</strong>英语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,13 +38,21 @@ hide:
 
 <p><strong>项目类别：</strong>Specialist</p>
 
+<p class="catalog-fact"><strong>所属学科课程内容：</strong>所属管理学科将组织管理或会计金融与商业分析结合；不同BBA Specialist及Major分别列要求，人力资源Specialist已自2025秋行政暂停。</p>
+<p class="fact-sources"><a href="#source-p-toronto-detail-107">官方依据</a></p>
+
+<p class="catalog-fact"><strong>教学语言：</strong>学校说明教学与考试语言为英语；具体外语学习及临床沟通要求须查看专业规定。</p>
+<p class="fact-sources"><a href="#source-p-toronto-language">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>校内专业选择与高中录取不同：</strong>本条来自正式课程目录中的Major或Specialist学科。完成校级入学申请后，校内专业仍可能要求大学先修课、成绩和再次选拔；本轮课程内容摘要不代表已经逐一核完所有分支的校内门槛。</p>
+<p class="fact-sources"><a href="#source-p-toronto-detail-107">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>暂停开放提示：</strong>管理系目录注明Human Resources Management Specialist自2025年秋起行政暂停。本条保留正式目录身份，但不将其展示为已经核实可申请的2027新生入口。</p>
+<p class="fact-sources"><a href="#source-p-toronto-detail-107">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
@@ -61,5 +69,7 @@ hide:
 - [官方项目页面或项目所在目录](https://utm.calendar.utoronto.ca/section/Management)
 - [官方目录](https://www.utoronto.ca/academics/undergraduate-programs)
 
+<div class="catalog-source" id="source-p-toronto-detail-107"><div><a href="https://utm.calendar.utoronto.ca/section/Management">多伦多大学官方资料：toronto-detail-107 ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-toronto-language"><div><a href="https://future.utoronto.ca/english-language-requirements">多伦多大学官方资料：toronto-language ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/toronto/">← 返回多伦多大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -3,9 +3,9 @@
   "checked_at": "2026-09-12",
   "coverage": {
     "status": "partial",
-    "count": 286,
+    "count": 285,
     "scope": "Paris-Saclay central Licence/BUT/LP/LDD and terminal-year branches, healthcare first-cycle degrees, Evry Licence/BUT/LP and genuine curriculum paths, UVSQ four licence domains and BUT list.",
-    "method": "Four central lists are static and fully read:19 Licence,7 BUT,18 LP,13 LDD. Central child pages read except explicitly recorded timeout; all L3/BUT3/LP3 cards from fetched pages retained. Evry three full static sitemap trees read:20 Licence,8 BUT,12 LP. UVSQ all4 domain list pages read and URL-deduplicated. No unvisited pagination in these captured lists.",
+    "method": "Four central lists are static and fully read:19 Licence,7 BUT,18 LP,13 LDD. Central child pages read except explicitly recorded timeout; all L3/BUT3/LP3 cards from fetched pages retained. Evry three full static sitemap trees read:20 Licence,8 BUT,12 LP. UVSQ all4 domain list pages read and URL-deduplicated. No unvisited pagination in these captured lists. 经官方正文核实移除1项通向两个已收录Licence的共同入口总览。",
     "exclusions": "Exclude Master/DU/DEUST and individual UE/ELP/average/competency blocks. Ordinary L1/L2 curriculum stages stored under parent; terminal L3/BUT3/LP3 branches retained as specialisations. Member identities preserved with provider rather than claiming every provider row is a separate university-wide award.",
     "sources": [
       {
@@ -5604,23 +5604,6 @@
       "awarding_member": "UVSQ",
       "catalogue_scope_note": "Member catalogue entry; cross-member award/alias reconciliation incomplete",
       "id": "paris-saclay-licence-musicologie-parcours-formation-sup-rieure-de-musicien-int-5942d79cb1"
-    },
-    {
-      "name_en": "Licence Economie-gestion et licence gestion : un système de \"portail\"",
-      "degree_label": "Licence",
-      "official_url": "https://www.uvsq.fr/le-portail-economie-et-gestion-gestion",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.uvsq.fr/les-licences-du-domaine-droit-economie-gestion",
-      "source_period": "Current official catalogue; checked 2026-09-12",
-      "raw_key": "paris-saclay-b075a0624065f556",
-      "record_type": "degree_pathway",
-      "checked_at": "2026-09-12",
-      "awarding_member": "UVSQ",
-      "catalogue_scope_note": "Member catalogue entry; cross-member award/alias reconciliation incomplete",
-      "id": "paris-saclay-licence-economie-gestion-et-licence-gestion-un-syst-me-de-portail-eeebdbe3c0"
     },
     {
       "name_en": "Licence Administration Économique et Sociale",

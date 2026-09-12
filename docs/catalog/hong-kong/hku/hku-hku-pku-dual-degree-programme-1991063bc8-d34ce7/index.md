@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">HKU-PKU Dual Degree Programme</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>2 years at HKU, 2 years at PKU</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4 年</strong></div><div><span>国际生学费</span><strong>跨校/自资分段收费待核</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>北京大学／香港大学 · <strong>授课语言：</strong>北大中英混合；港大英语为主</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,9 +42,19 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>课程内容：</strong>港大社会科学院与北京大学元培学院开办政治、哲学与经济双学位，前两年在北大，后两年在港大；本轮未取得全部单元培养表。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-d34ce7218f10eeb792a8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>跨校语言及地点：</strong>前两年北京大学以中英混合授课，后两年香港大学以英语授课（中文科目除外）。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-d34ce7218f10eeb792a8">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>港大申请通道身份限制：</strong>页面要求有效回乡证、非澳门学生及在香港完成高中；明确在内地取得IB/A-level等国际学历的内地学生不合资格。高考生须经北京大学申请，该通道的2027具体窗口本轮未核实。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-d34ce7218f10eeb792a8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>专业要求缺口：</strong>本轮未逐项取得2027国际学历先修、专业最低成绩及全部实践语言要求；大学最低英语或高考通则不代表专业录取保证。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-d34ce7218f10eeb792a8">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -52,11 +62,16 @@ hide:
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>特殊收费范围：</strong>本条为跨校、在读衔接或自资项目，学费须按各阶段和实际录取身份确定；本轮不以港大普通本科年费作为全项目报价。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-d34ce7218f10eeb792a8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>专门页面的暂定收费：</strong>该双学位页列港大修读阶段2027–28非本地年费暂定港币198,000元，后续年度可调整；这是该特殊页面的暂定信息，与普通本科收费表不同，本轮未核实跨校全程收费及该数字的最终确认。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-d34ce7218f10eeb792a8">官方依据</a></p>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>毕业结果范围：</strong>本轮未取得本专业、具体毕业届次及内地/非本地学生分母口径的就业率；课程中列举的职业方向不等于就业统计。</p>
+<p class="fact-sources"><a href="#source-p-hku-detail-d34ce7218f10eeb792a8">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -65,5 +80,6 @@ hide:
 - [官方项目页面或项目所在目录](https://web.socsc.hku.hk/hku-pku-dual-degree-programme-in-politics-philosophy-and-economics/)
 - [官方目录](https://admissions.hku.hk/programmes/undergraduate-programmes?page=12)
 
+<div class="catalog-source" id="source-p-hku-detail-d34ce7218f10eeb792a8"><div><a href="https://web.socsc.hku.hk/hku-pku-dual-degree-programme-in-politics-philosophy-and-economics/">hku 官方本科资料：detail-d34ce7218f10eeb792a8 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/hong-kong/hku/">← 返回香港大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

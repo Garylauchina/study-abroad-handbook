@@ -23,166 +23,204 @@ hide:
 
 ## 专业与申请资料
 
-151 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+140 个专业条目 · 0 个含详细资料 · 140 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=ucd#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-actuarial-financial-studies-cacae62af2/">Actuarial &amp; Financial Studies</a><small>Bachelor of Actuarial and Financial Studies · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-agri-environmental-sciences-1b7a03ba08/">Agri-Environmental Sciences</a><small>Bachelor of Agricultural Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-agricultural-systems-technology-ca6894328a/">Agricultural Systems Technology</a><small>Bachelor of Agricultural Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-an-ghaeilge-an-cult-r-628aec8544/">An Ghaeilge &amp; An Cultúr</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-animal-crop-production-4e74aa3dd0/">Animal &amp; Crop Production</a><small>Bachelor of Agricultural Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-animal-science-c9086e1a31/">Animal Science</a><small>Bachelor of Agricultural Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-animal-science-equine-9545f8b32c/">Animal Science – Equine</a><small>Bachelor of Agricultural Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-applied-computational-mathematics-071c32b54e/">Applied &amp; Computational Mathematics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-applied-mathematics-mathematics-education-d078447e75/">Applied Mathematics, Mathematics &amp; Education</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-archaeology-4511e2e6c2/">Archaeology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-archaeology-c30663b71c/">Archaeology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-architecture-3af1a11fad/">Architecture</a><small>Bachelor Architectural Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-art-history-5ac217c23d/">Art History</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-art-history-8163ee6583/">Art History</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-bachelor-of-commerce-26da6063ce/">Bachelor of Commerce</a><small>Bachelor of Commerce · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-biochemistry-molecular-biology-811409920a/">Biochemistry &amp; Molecular Biology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-biology-mathematics-education-fcbfb272c4/">Biology, Mathematics &amp; Education</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-biomedical-engineering-eb189b3004/">Biomedical Engineering</a><small>Bachelor of Engineering · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-biomedical-health-life-sciences-4d3373091d/">Biomedical, Health &amp; Life Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-business-law-c7e31310b3/">Business &amp; Law</a><small>Bachelor of Business &amp; Law · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-business-studies-bachelor-continuation-6d8001d1a1/">Business Studies (Bachelor continuation)</a><small>Bachelor of Business Studies · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-cell-molecular-biology-ff0fa2f7f8/">Cell &amp; Molecular Biology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-celtic-civilisation-d390f412c8/">Celtic Civilisation</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-celtic-civilisation-2a8ba0de2e/">Celtic Civilisation</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-chemical-bioprocess-engineering-5f21d0b721/">Chemical &amp; Bioprocess Engineering</a><small>Bachelor of Engineering · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-chemistry-4b6737e475/">Chemistry</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-chemistry-with-environmental-sustainable-chemistry-7fa8ed6f99/">Chemistry with Environmental &amp; Sustainable Chemistry</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-chemistry-mathematics-education-fe9fd7e277/">Chemistry, Mathematics &amp; Education</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-city-planning-environmental-policy-c51b80d594/">City Planning &amp; Environmental Policy</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-civil-engineering-66b6e46705/">Civil Engineering</a><small>Bachelor of Engineering · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-classics-greek-roman-civilization-latin-greek-382b67af69/">Classics (Greek &amp; Roman Civilization, Latin &amp; Greek)</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-classics-greek-roman-civilization-latin-greek-d36d146802/">Classics (Greek &amp; Roman Civilization, Latin &amp; Greek)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-classics-art-history-archaeology-310939b150/">Classics, Art History &amp; Archaeology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-classics-english-history-248fa13a29/">Classics, English &amp; History</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-commerce-international-37f2dbf108/">Commerce International</a><small>Bachelor of Commerce · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-computational-social-science-69d1760e92/">Computational Social Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-computer-science-605697afd7/">Computer Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-computer-science-with-data-science-artificial-intelligence-0a21d89554/">Computer Science with Data Science &amp; Artificial Intelligence</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-computer-science-mathematics-education-a1602caa49/">Computer Science, Mathematics &amp; Education</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-creative-cultural-industries-dc7e4ad522/">Creative &amp; Cultural Industries</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-criminology-with-psychology-692314afa9/">Criminology with Psychology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-crop-science-6ba493f267/">Crop Science</a><small>Bachelor of Agricultural Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-dairy-business-a6d475e35a/">Dairy Business</a><small>Bachelor of Agricultural Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-diagnostic-radiography-graduate-entry-c905860779/">Diagnostic Radiography (Graduate Entry)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-drama-studies-45ef26f1be/">Drama Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-earth-sciences-b55cf97bc3/">Earth Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-economics-05ef534b69/">Economics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-economics-finance-d00db46ca3/">Economics &amp; Finance</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-economics-mathematics-statistics-c65a1482ca/">Economics, Mathematics &amp; Statistics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-education-with-gaeilge-modern-languages-3b89885d94/">Education with Gaeilge &amp; Modern Languages</a><small>Bachelor of Education · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-electrical-electronic-engineering-1c01c917e7/">Electrical/Electronic Engineering</a><small>Bachelor of Engineering · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-engineering-518e6b51c8/">Engineering</a><small>Bachelor of Engineering · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-english-b289bf10cf/">English</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-english-e1b0219eb2/">English</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-english-literature-a9d01b6c33/">English Literature</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-english-with-creative-writing-e85859369f/">English with Creative Writing</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-english-drama-film-4d55aae444/">English, Drama &amp; Film</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-environmental-biology-a3e44fe6d5/">Environmental Biology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-european-studies-eaf74214f3/">European Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-film-studies-b728cd6049/">Film Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-financial-mathematics-6a1a7535c0/">Financial Mathematics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-food-agribusiness-management-a77baaad67/">Food &amp; Agribusiness Management</a><small>Bachelor of Agricultural Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-food-business-with-chinese-studies-f0bfd70ad0/">Food Business with Chinese Studies</a><small>Bachelor of Agricultural Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-food-science-4eff61b98c/">Food Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-forestry-225aaaaed3/">Forestry</a><small>Bachelor of Agricultural Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-french-e0613fbef3/">French</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-french-b97e21dc9c/">French</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-genetics-72a3441d78/">Genetics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-geography-14a1f6851b/">Geography</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-geography-3cfcad5c57/">Geography</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-german-8bc992288c/">German</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-german-2122b79143/">German</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-global-studies-6f4927dc61/">Global Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-history-a3a086d9f7/">History</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-history-politics-6ae4aea4b4/">History &amp; Politics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-horticulture-f6866bed2e/">Horticulture</a><small>Bachelor of Agricultural Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-human-nutrition-2b205f9e43/">Human Nutrition</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-information-communication-studies-93c49128ea/">Information &amp; Communication Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-information-communication-studies-1799a0ea71/">Information &amp; Communication Studies</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-irish-folklore-d200a2ff66/">Irish Folklore</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-irish-folklore-9a192e5277/">Irish Folklore</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-irish-studies-d9feebf00b/">Irish Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-irish-gaeilge-a9817c2b16/">Irish/Gaeilge</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-irish-gaeilge-acc88997b0/">Irish/Gaeilge</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-italian-d78bc85c12/">Italian</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-italian-e486f8bed6/">Italian</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-landscape-architecture-dbc341b1f3/">Landscape Architecture</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-languages-linguistics-cultures-8fb63fcad6/">Languages, Linguistics &amp; Cultures</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-bcl-6c70b6ead3/">Law (BCL)</a><small>Bachelor of Civil Law · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-dual-degree-bcl-ma-trise-42c8456fb4/">Law Dual Degree – BCL/Maîtrise</a><small>Bachelor of Civil Law · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-with-economics-205125c7e4/">Law with Economics</a><small>Bachelor of Civil Law · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-with-french-law-293bc9f7a0/">Law with French Law</a><small>Bachelor of Civil Law · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-with-history-f3dcf961f2/">Law with History</a><small>Bachelor of Civil Law · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-with-irish-5fadafe71d/">Law with Irish</a><small>Bachelor of Civil Law · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-with-philosophy-1c632773f0/">Law with Philosophy</a><small>Bachelor of Civil Law · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-with-politics-6143fef4ee/">Law with Politics</a><small>Bachelor of Civil Law · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-with-social-justice-bd0343d73d/">Law with Social Justice</a><small>Bachelor of Civil Law · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-linguistics-96d8667c08/">Linguistics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-linguistics-5556965d3c/">Linguistics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-mathematics-c2796d07d9/">Mathematics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-mathematics-through-arts-humanities-social-sciences-e7db0e2fe6/">Mathematics (through Arts &amp; Humanities/Social Sciences)</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-mathematics-through-arts-humanities-social-sciences-66271b9906/">Mathematics (through Arts &amp; Humanities/Social Sciences)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-mechanical-engineering-c7054387ed/">Mechanical Engineering</a><small>Bachelor of Engineering · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-medicinal-chemistry-chemical-biology-aeb03c7a06/">Medicinal Chemistry &amp; Chemical Biology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-medicine-2f132069d0/">Medicine</a><small>Bachelor of Medicine,Bachelor of Surgery,Bachelor of Obstetrics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-medicine-graduate-entry-faf74a6342/">Medicine (Graduate Entry)</a><small>Bachelor of Medicine,Bachelor of Surgery,Bachelor of Obstetrics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-microbiology-2950bc3368/">Microbiology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-midwifery-6f0b26e9a9/">Midwifery</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-modern-languages-7cc403cff1/">Modern Languages</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-music-ba-humanities-c91b773494/">Music (BA Humanities)</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-music-film-drama-7f0725002f/">Music, Film &amp; Drama</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-neuroscience-119de04faf/">Neuroscience</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-nursing-children-s-general-e5d4d6bd92/">Nursing (Children’s &amp; General)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-nursing-general-3c325858e3/">Nursing (General)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-nursing-mental-health-3f97dcb41a/">Nursing (Mental Health)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-pharmacology-6e68d40723/">Pharmacology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-philosophy-c2dc2d06df/">Philosophy</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-philosophy-5fa56af547/">Philosophy</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-philosophy-politics-and-economics-5cfeb1cc8f/">Philosophy, Politics and Economics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-physics-930d524cec/">Physics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-physics-with-astronomy-space-science-b0e564fa66/">Physics with Astronomy &amp; Space Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-physics-mathematics-education-6880c2178d/">Physics, Mathematics &amp; Education</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-physiology-acb7463ddf/">Physiology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-physiotherapy-ca30736cc7/">Physiotherapy</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-physiotherapy-graduate-entry-0c55021641/">Physiotherapy (Graduate Entry)</a><small>Bachelor of Science (Physiotherapy) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-plant-biology-b64f076f3b/">Plant Biology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-politics-international-relations-80a021aa61/">Politics &amp; International Relations</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-portuguese-fd807c07ee/">Portuguese</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-psychology-24da9eaa60/">Psychology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-radiography-03d24e178a/">Radiography</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-social-justice-ae1c5f917a/">Social Justice</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-social-policy-sociology-f6a9fae48b/">Social Policy &amp; Sociology</a><small>Bachelor of Social Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sociology-83a902bc58/">Sociology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sociology-38a918e923/">Sociology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-spanish-ff63559365/">Spanish</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-spanish-4d9d1d0d85/">Spanish</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sport-exercise-management-ab35056fc1/">Sport &amp; Exercise Management</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sport-health-exercise-science-1335401291/">Sport, Health &amp; Exercise Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-statistics-data-science-6c0d434dec/">Statistics &amp; Data Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-statistics-through-arts-humanities-social-sciences-e6a385168e/">Statistics (through Arts &amp; Humanities/Social Sciences)</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-statistics-through-arts-humanities-social-sciences-5718b489b5/">Statistics (through Arts &amp; Humanities/Social Sciences)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-structural-engineering-with-architecture-c1d62101f2/">Structural Engineering with Architecture</a><small>BSc / ME · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sustainability-with-business-economics-13768ced08/">Sustainability with Business &amp; Economics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sustainability-with-environmental-sciences-70471b1698/">Sustainability with Environmental Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sustainability-with-social-sciences-policy-law-bd452be5c2/">Sustainability with Social Sciences, Policy &amp; Law</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sustainable-food-systems-9def967a6f/">Sustainable Food Systems</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-theoretical-physics-a9884bb1fc/">Theoretical Physics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-veterinary-medicine-c7f9bcbb85/">Veterinary Medicine</a><small>Bachelor of Veterinary Medicine · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-veterinary-medicine-graduate-entry-ebf552bbb7/">Veterinary Medicine (Graduate Entry)</a><small>Bachelor of Veterinary Medicine · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-veterinary-nursing-88ccbc1e12/">Veterinary Nursing</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-zoology-bcef5c68f9/">Zoology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-actuarial-financial-studies-cacae62af2/">Actuarial &amp; Financial Studies</a><small>Bachelor of Actuarial and Financial Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-agri-environmental-sciences-1b7a03ba08/">Agri-Environmental Sciences</a><small>Bachelor of Agricultural Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-agricultural-systems-technology-ca6894328a/">Agricultural Systems Technology</a><small>Bachelor of Agricultural Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-an-ghaeilge-an-cult-r-628aec8544/">An Ghaeilge &amp; An Cultúr</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-animal-crop-production-4e74aa3dd0/">Animal &amp; Crop Production</a><small>Bachelor of Agricultural Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-animal-science-c9086e1a31/">Animal Science</a><small>Bachelor of Agricultural Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-animal-science-equine-9545f8b32c/">Animal Science – Equine</a><small>Bachelor of Agricultural Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-applied-computational-mathematics-071c32b54e/">Applied &amp; Computational Mathematics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-applied-mathematics-mathematics-education-d078447e75/">Applied Mathematics, Mathematics &amp; Education</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-archaeology-4511e2e6c2/">Archaeology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-archaeology-c30663b71c/">Archaeology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-architecture-3af1a11fad/">Architecture</a><small>Bachelor Architectural Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-art-history-5ac217c23d/">Art History</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-bachelor-of-commerce-26da6063ce/">Bachelor of Commerce</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-biochemistry-molecular-biology-811409920a/">Biochemistry &amp; Molecular Biology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-biology-mathematics-education-fcbfb272c4/">Biology, Mathematics &amp; Education</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-biomedical-engineering-eb189b3004/">Biomedical Engineering</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-biomedical-health-life-sciences-4d3373091d/">Biomedical, Health &amp; Life Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-business-law-c7e31310b3/">Business &amp; Law</a><small>Bachelor of Business &amp; Law · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-business-studies-bachelor-continuation-6d8001d1a1/">Business Studies (Bachelor continuation)</a><small>Bachelor of Business Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-cell-molecular-biology-ff0fa2f7f8/">Cell &amp; Molecular Biology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-celtic-civilisation-d390f412c8/">Celtic Civilisation</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-chemical-bioprocess-engineering-5f21d0b721/">Chemical &amp; Bioprocess Engineering</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-chemistry-4b6737e475/">Chemistry</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-chemistry-with-environmental-sustainable-chemistry-7fa8ed6f99/">Chemistry with Environmental &amp; Sustainable Chemistry</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-chemistry-mathematics-education-fe9fd7e277/">Chemistry, Mathematics &amp; Education</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-city-planning-environmental-policy-c51b80d594/">City Planning &amp; Environmental Policy</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-civil-engineering-66b6e46705/">Civil Engineering</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-classics-greek-roman-civilization-latin-greek-382b67af69/">Classics (Greek &amp; Roman Civilization, Latin &amp; Greek)</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-classics-art-history-archaeology-310939b150/">Classics, Art History &amp; Archaeology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-classics-english-history-248fa13a29/">Classics, English &amp; History</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-commerce-international-37f2dbf108/">Commerce International</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-computational-social-science-69d1760e92/">Computational Social Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-computer-science-605697afd7/">Computer Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-computer-science-with-data-science-artificial-intelligence-0a21d89554/">Computer Science with Data Science &amp; Artificial Intelligence</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-computer-science-mathematics-education-a1602caa49/">Computer Science, Mathematics &amp; Education</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-creative-cultural-industries-dc7e4ad522/">Creative &amp; Cultural Industries</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-criminology-with-psychology-692314afa9/">Criminology with Psychology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-crop-science-6ba493f267/">Crop Science</a><small>Bachelor of Agricultural Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-dairy-business-a6d475e35a/">Dairy Business</a><small>Bachelor of Agricultural Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-diagnostic-radiography-graduate-entry-c905860779/">Diagnostic Radiography (Graduate Entry)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-drama-studies-45ef26f1be/">Drama Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-earth-sciences-b55cf97bc3/">Earth Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-economics-05ef534b69/">Economics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-economics-finance-d00db46ca3/">Economics &amp; Finance</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-economics-mathematics-statistics-c65a1482ca/">Economics, Mathematics &amp; Statistics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-education-with-gaeilge-modern-languages-3b89885d94/">Education with Gaeilge &amp; Modern Languages</a><small>Bachelor of Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-electrical-electronic-engineering-1c01c917e7/">Electrical/Electronic Engineering</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-engineering-518e6b51c8/">Engineering</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-english-b289bf10cf/">English</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-english-literature-a9d01b6c33/">English Literature</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-english-with-creative-writing-e85859369f/">English with Creative Writing</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-english-drama-film-4d55aae444/">English, Drama &amp; Film</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-environmental-biology-a3e44fe6d5/">Environmental Biology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-european-studies-eaf74214f3/">European Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-film-studies-b728cd6049/">Film Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-financial-mathematics-6a1a7535c0/">Financial Mathematics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-food-agribusiness-management-a77baaad67/">Food &amp; Agribusiness Management</a><small>Bachelor of Agricultural Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-food-business-with-chinese-studies-f0bfd70ad0/">Food Business with Chinese Studies</a><small>Bachelor of Agricultural Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-food-science-4eff61b98c/">Food Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-forestry-225aaaaed3/">Forestry</a><small>Bachelor of Agricultural Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-french-e0613fbef3/">French</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-genetics-72a3441d78/">Genetics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-geography-14a1f6851b/">Geography</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-geography-3cfcad5c57/">Geography</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-german-8bc992288c/">German</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-global-studies-6f4927dc61/">Global Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-history-a3a086d9f7/">History</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-history-politics-6ae4aea4b4/">History &amp; Politics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-horticulture-f6866bed2e/">Horticulture</a><small>Bachelor of Agricultural Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-human-nutrition-2b205f9e43/">Human Nutrition</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-information-communication-studies-93c49128ea/">Information &amp; Communication Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-information-communication-studies-1799a0ea71/">Information &amp; Communication Studies</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-irish-folklore-d200a2ff66/">Irish Folklore</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-irish-studies-d9feebf00b/">Irish Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-irish-gaeilge-a9817c2b16/">Irish/Gaeilge</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-italian-d78bc85c12/">Italian</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-landscape-architecture-dbc341b1f3/">Landscape Architecture</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-languages-linguistics-cultures-8fb63fcad6/">Languages, Linguistics &amp; Cultures</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-bcl-6c70b6ead3/">Law (BCL)</a><small>Bachelor of Civil Law · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-dual-degree-bcl-ma-trise-42c8456fb4/">Law Dual Degree – BCL/Maîtrise</a><small>Bachelor of Civil Law · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-with-economics-205125c7e4/">Law with Economics</a><small>Bachelor of Civil Law · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-with-french-law-293bc9f7a0/">Law with French Law</a><small>Bachelor of Civil Law · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-with-history-f3dcf961f2/">Law with History</a><small>Bachelor of Civil Law · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-with-irish-5fadafe71d/">Law with Irish</a><small>Bachelor of Civil Law · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-with-philosophy-1c632773f0/">Law with Philosophy</a><small>Bachelor of Civil Law · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-with-politics-6143fef4ee/">Law with Politics</a><small>Bachelor of Civil Law · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-law-with-social-justice-bd0343d73d/">Law with Social Justice</a><small>Bachelor of Civil Law · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-linguistics-96d8667c08/">Linguistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-mathematics-c2796d07d9/">Mathematics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-mathematics-through-arts-humanities-social-sciences-e7db0e2fe6/">Mathematics (through Arts &amp; Humanities/Social Sciences)</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-mathematics-through-arts-humanities-social-sciences-66271b9906/">Mathematics (through Arts &amp; Humanities/Social Sciences)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-mechanical-engineering-c7054387ed/">Mechanical Engineering</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-medicinal-chemistry-chemical-biology-aeb03c7a06/">Medicinal Chemistry &amp; Chemical Biology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-medicine-2f132069d0/">Medicine</a><small>Bachelor of Medicine,Bachelor of Surgery,Bachelor of Obstetrics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-medicine-graduate-entry-faf74a6342/">Medicine (Graduate Entry)</a><small>Bachelor of Medicine,Bachelor of Surgery,Bachelor of Obstetrics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-microbiology-2950bc3368/">Microbiology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-midwifery-6f0b26e9a9/">Midwifery</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-modern-languages-7cc403cff1/">Modern Languages</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-music-ba-humanities-c91b773494/">Music (BA Humanities)</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-music-film-drama-7f0725002f/">Music, Film &amp; Drama</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-neuroscience-119de04faf/">Neuroscience</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-nursing-children-s-general-e5d4d6bd92/">Nursing (Children’s &amp; General)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-nursing-general-3c325858e3/">Nursing (General)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-nursing-mental-health-3f97dcb41a/">Nursing (Mental Health)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-pharmacology-6e68d40723/">Pharmacology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-philosophy-c2dc2d06df/">Philosophy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-philosophy-5fa56af547/">Philosophy</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-philosophy-politics-and-economics-5cfeb1cc8f/">Philosophy, Politics and Economics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-physics-930d524cec/">Physics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-physics-with-astronomy-space-science-b0e564fa66/">Physics with Astronomy &amp; Space Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-physics-mathematics-education-6880c2178d/">Physics, Mathematics &amp; Education</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-physiology-acb7463ddf/">Physiology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-physiotherapy-ca30736cc7/">Physiotherapy</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-physiotherapy-graduate-entry-0c55021641/">Physiotherapy (Graduate Entry)</a><small>Bachelor of Science (Physiotherapy) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-plant-biology-b64f076f3b/">Plant Biology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-politics-international-relations-80a021aa61/">Politics &amp; International Relations</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-portuguese-fd807c07ee/">Portuguese</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-psychology-24da9eaa60/">Psychology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-radiography-03d24e178a/">Radiography</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-social-justice-ae1c5f917a/">Social Justice</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-social-policy-sociology-f6a9fae48b/">Social Policy &amp; Sociology</a><small>Bachelor of Social Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sociology-83a902bc58/">Sociology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sociology-38a918e923/">Sociology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-spanish-ff63559365/">Spanish</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sport-exercise-management-ab35056fc1/">Sport &amp; Exercise Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sport-health-exercise-science-1335401291/">Sport, Health &amp; Exercise Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-statistics-data-science-6c0d434dec/">Statistics &amp; Data Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-statistics-through-arts-humanities-social-sciences-e6a385168e/">Statistics (through Arts &amp; Humanities/Social Sciences)</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-statistics-through-arts-humanities-social-sciences-5718b489b5/">Statistics (through Arts &amp; Humanities/Social Sciences)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-structural-engineering-with-architecture-c1d62101f2/">Structural Engineering with Architecture</a><small>BSc / ME · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sustainability-with-business-economics-13768ced08/">Sustainability with Business &amp; Economics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sustainability-with-environmental-sciences-70471b1698/">Sustainability with Environmental Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sustainability-with-social-sciences-policy-law-bd452be5c2/">Sustainability with Social Sciences, Policy &amp; Law</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-sustainable-food-systems-9def967a6f/">Sustainable Food Systems</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-theoretical-physics-a9884bb1fc/">Theoretical Physics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-veterinary-medicine-c7f9bcbb85/">Veterinary Medicine</a><small>Bachelor of Veterinary Medicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-veterinary-medicine-graduate-entry-ebf552bbb7/">Veterinary Medicine (Graduate Entry)</a><small>Bachelor of Veterinary Medicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-veterinary-nursing-88ccbc1e12/">Veterinary Nursing</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/ucd-zoology-bcef5c68f9/">Zoology</a><small>Bachelor of Science · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>同校共用：中国高中与高考：</strong>中国普高申请通常需经地方教育主管部门认可的全日制高中毕业证及高考；个别情形能否使用会考须联系学校。2026表中的总体百分比指高考总分比例，单科栏则按会考或高中毕业资格成绩，不能混用。IB、A-level另按各自类别，最低要求仅用于竞争性审查。</p>
+<p class="fact-sources"><a href="#source-u-ucd-china">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：英语证明：</strong>学校通常用英语教学，语言类课程另按专业说明。IELTS Academic总分6.5、各项6.0，须一次考试同时达标且不接受重考拼分；成绩通常须在近两年内取得。2026年新版TOEFL要求总分及每项4.5。特殊课程可另要求面试，2027线上测试认可情况本轮未核实。</p>
+<p class="fact-sources"><a href="#source-u-ucd-english">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：预科与转学：</strong>不满足直接本科要求者可咨询一年国际预科，包含学术、英语及学习技能训练，须另核可升专业。非欧盟申请人通常先申请一年级；已有大学学习可申请RPL学分认可，由课程委员会结合名额决定，不保证直接插班。</p>
+<p class="fact-sources"><a href="#source-u-ucd-apply">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>同校共用：申请身份与程序：</strong>申请渠道按学校认定的费用身份选择：EU收费身份本科须经CAO；普通non-EU申请从UCD课程在线入口提交。上传成绩和所需文件，非英语文件附正式译文；等待最终成绩者可能获得条件录取。</p>
+<p class="fact-sources"><a href="#source-u-ucd-apply">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：时间边界：</strong>本科FAQ通常在10月1日开放翌年9月申请，建议需签证者在7月1日前提交；建议日不等于所有专业的统一截止日。具体2027入口开放时间按下列课程原页，准确截止、容量及可否晚申请仍须逐项核查。</p>
+<p class="fact-sources"><a href="#source-u-ucd-apply">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>同校共用：2026/27非欧盟费用：</strong>Registry官方2026/27表使用EUR，已包含Student Centre Levy。普通多学年non-EU课程自2014/15起通常维持入学年度费用，前提是留在同一课程；兽医学直入及毕业后入学自2019/20起另有逐年上涨。2027/28金额本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-ucd-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：申请费与附加费用：</strong>本科FAQ目前列申请费EUR70，未付一般不送审。部分健康专业收费表脚注另列EUR330健康筛查；心理学第二年non-EU另加EUR2,000。生活、住宿和其他费用不由学费表覆盖。</p>
+<p class="fact-sources"><a href="#source-u-ucd-apply">官方依据</a> · <a href="#source-u-ucd-fees-table">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：国际生奖学金入口：</strong>UCD Global奖学金仅适用non-EU收费身份并须先获适用课程offer。Global Excellence需另申请，可减免50%或100%学费；International Student Scholarship通常随offer自动评估，页面列10%—35%减免且排除部分课程。各课程资格、2027申请日期及续领条件本轮未逐项核实，不视为保证获奖。</p>
+<p class="fact-sources"><a href="#source-u-ucd-scholarships">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>同校共用：职业资料边界：</strong>课程页的Career &amp; Graduate Study Opportunities属于升学和职业方向介绍。本轮尚未核实各专业可比的毕业就业率、薪资及调查口径，不将介绍中的职业可能性写成实际就业统计。</p>
+<p class="fact-sources"><a href="#source-u-ucd-career-example">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-ucd-china"><div><a href="https://www.ucd.ie/global/study-at-ucd/undergraduate/entryrequirements/china/">China entry requirements: 2026 ↗</a><p>中国高中、高考与分科标准</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-english"><div><a href="https://www.ucd.ie/registry/prospectivestudents/admissions/policiesandgeneralregulations/generalrequirements/minimumenglishlanguagerequirements/">Minimum English Language Requirements ↗</a><p>英语教学和证明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-apply"><div><a href="https://www.ucd.ie/global/study-at-ucd/faqs/">Undergraduate application FAQs ↗</a><p>身份、渠道、材料和申请费</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-fees"><div><a href="https://www.ucd.ie/students/fees/noneucoursefees/internationalnon-euundergraduatefees202627/">Non-EU Undergraduate Fees 2026/27 ↗</a><p>年度、收费固定与附加费规则</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-fees-table"><div><a href="https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?ACYR=2026&amp;DGLEV=UG&amp;RESD=NONEU&amp;p_tag=FEESLEVEL">2026 non-EU undergraduate fee table ↗</a><p>各课程代码欧元收费及脚注</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-scholarships"><div><a href="https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/">Scholarships for international students ↗</a><p>奖学金资格与申请方式</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-career-example"><div><a href="https://www.ucd.ie/courses/bsc-actuarial-and-financial-studies">Actuarial and Financial Studies: career opportunities ↗</a><p>官方课程职业方向介绍；未声明就业调查数字</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 151 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 140 项；这不是全字段详情的完成状态。
 
 <p><strong>统计范围：</strong>本科官方目录；条目类型及排除规则见证据记录。</p>
 

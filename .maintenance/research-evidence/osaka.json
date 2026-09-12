@@ -1,0 +1,71 @@
+{
+  "university_id": "osaka",
+  "sources": [
+    {
+      "url": "https://www.osaka-u.ac.jp/ja/admissions/faculty/expense",
+      "sha256": "ecf87af97b9e4b56c7ffed2361697869060d9875c4b336751040f2ef5db20968",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/ordinary2027.html",
+      "locator": "2027年度"
+    },
+    {
+      "url": "https://www.osaka-u.ac.jp/en/campus/tuition/tuition.html",
+      "sha256": "c4dfdee38fe2a7650ca0bccedf48fb57e97f1e2ae1931796b14ec67554b99343",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/tuition.html",
+      "locator": "Undergraduate student row"
+    },
+    {
+      "url": "https://www.let.osaka-u.ac.jp/en",
+      "sha256": "bcf8446acd5bc8019971b29513fab08c004cf188ac6b6bda20a2cafed896ed02",
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/school-1.html",
+      "locator": "Letters:Art History"
+    },
+    {
+      "url": "https://www.hus.osaka-u.ac.jp/en/",
+      "sha256": "1165297c43c76856173d337fcae26c55d859a56672b9ab5037cfa1f065445f77",
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/school-2.html",
+      "locator": "Human Sciences:Human Sciences All-English Undergraduate Programme"
+    },
+    {
+      "url": "https://iudp.hus.osaka-u.ac.jp/wp-content/uploads/2026/07/2027-HUS-Application-Guidelines.pdf",
+      "sha256": "ec31f076fcd2a3949ce14b487dc2b97c9a1ab7ccaadd82fca239e6e878b22016",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/human-guide2027.pdf",
+      "locator": "PDF pages3–7,11,16"
+    },
+    {
+      "url": "https://iudp.hus.osaka-u.ac.jp/wp-content/uploads/2026/06/20260626Revised_HUS-IUDP-Admission-schedule-change-notice.pdf",
+      "sha256": "31fdfe17575313b8832b8bcd83515d4bb5720ca5dac7fc2340f1d8082ab407ec",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/human-datechange.pdf",
+      "locator": "page1"
+    },
+    {
+      "url": "https://www.sfs.osaka-u.ac.jp/en/",
+      "sha256": "172f1cd1175aee950682c89eed863bfd1a7f31581e803bc7db23972ef11f0fb3",
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/school-3.html",
+      "locator": "Foreign Studies:Japanese"
+    },
+    {
+      "url": "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree",
+      "sha256": "597649c743924cc0f5b46dd33edecc06babac1aca55aa9f0d9ed7a2687e3d7fa",
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/degrees.html",
+      "locator": "Pharmaceutical Sciences:Pharmaceutical Sciences"
+    },
+    {
+      "url": "https://www.sci.osaka-u.ac.jp/en/",
+      "sha256": "da1a20892e6bea0ec90b410dc380589a40178b223c14ab723e321e7f9b7e9c21",
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/school-6.html",
+      "locator": "Science:Department of Biological Sciences"
+    },
+    {
+      "url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/",
+      "sha256": "77cf845d8eb6cd0f69a7699a89fd3faabafa8a9aed65819e18bed35c55d130d1",
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/engineering-divisions.html",
+      "locator": "Engineering:Division of Global Architecture"
+    },
+    {
+      "url": "https://www.es.osaka-u.ac.jp/en/",
+      "sha256": "35f9da3d589137673a00afffb6023d03f3091c54cb231f00eecc01b098af18aa",
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/school-11.html",
+      "locator": "Engineering Science:Department of Information and Computer Sciences"
+    }
+  ]
+}

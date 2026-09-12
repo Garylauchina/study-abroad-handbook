@@ -3,9 +3,9 @@
   "checked_at": "2026-09-12",
   "coverage": {
     "status": "partial",
-    "count": 54,
-    "scope": "KFUPM Undergraduate Bulletin全部本科专业及独立Internship/Summer Training项目变体。",
-    "method": "单页54个/program?program_id本科课程链接，无分页；每个独立program_id保留。",
+    "count": 98,
+    "scope": "正式本科学位、实习变体、学位内CX方向及预医衔接；所有条目不等于独立高中招生学位数。",
+    "method": "单页54个/program?program_id本科课程链接，无分页；每个独立program_id保留。 另对账主站与CX目录均43项本科在读选修方向，并补部门PreMed入口；CX不是独立学位，PreMed仅沙特公民。",
     "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
     "sources": [
       {
@@ -13,10 +13,293 @@
         "sha256": "f26ddaef486306c961b697018fe2c895b4b827f5b29603ba68fd1637e7ba3332",
         "raw_file": "scratch/full-catalog/root/kfupm.html",
         "bytes": 29365
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#artificial-intelligence-and-machine-learning",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://kfupm.edu.sa/study/undergraduate-concentrations-%28cx%29",
+        "sha256": "efde2332fb5062e6d7c5e05d59d9fc597755f98de0e352219919078049e161c4",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx-main.html",
+        "bytes": 75697
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#automated-construction-management",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#bioinformatics",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#building-and-construction-safety",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#business-analytics",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#climate-change-adaptation",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#cloud-computing",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#communication-systems",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#computer-networks",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#corrosion-and-materials-degradation-(new)",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#cybersecurity-and-blockchain",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#data-science-and-analytics",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#decision-analytics",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#drone-design-and-application",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#electronic-defense-systems",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#energy-efficiency",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#enhanced-oil-recovery",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#game-design-and-development-(new)",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#human-resources-management",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#hydrogen-mobility",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://che.kfupm.edu.sa/academic-programs/undergraduate-program/che-undergraduate-concentrations-%28cx%29",
+        "sha256": "15645286b7fe489c181eac95d561bffc28b3a4285d1ce69e6394fd4133982bfe",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx-chemical.html",
+        "bytes": 32610
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#ic-design-and-fabrication",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#innovation-by-design-(new)",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#intelligent-energy-systems-management",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#internet-of-things",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#mechatronics-(new)",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#mining-geoscience-(new)",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#non-metallic-materials",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#nuclear-power-engineering",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#polymer-science-&-technology",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#process-safety",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#quantum-information-&-computing",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#refining-and-petrochemicals",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#renewable-energy-and-energy-storage",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#research-concentration",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#resilient-marine-infrastructures-(new)",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#robotics-and-autonomous-systems",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#smart-and-sustainable-buildings",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#supply-chain-management",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#sustainability-in-petroleum-industry-(new)",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#thermal-systems",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#traffic-engineering",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#unconventional-hydrocarbon-resources",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://cx.kfupm.edu.sa/#waste-management",
+        "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+        "bytes": 268705
+      },
+      {
+        "url": "https://bioe.kfupm.edu.sa/academic-programs/undergraduate-programs/premed/faqs",
+        "sha256": "ae9c54cdd10d7673e4428c67452d4eac7167a0895a0622be401718af4617b678",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/premed-faq.html",
+        "bytes": 22303
+      },
+      {
+        "url": "https://bioe.kfupm.edu.sa/academic-programs/undergraduate-programs/premed",
+        "sha256": "79182f8f4dfd52e39347a40e4c2c54cf6e7506550bad7ce59e8f3151390e41c2",
+        "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/premed.html",
+        "bytes": 25000
       }
     ],
     "gaps": [
-      "尚需将独立本科Concentration目录与54个主专业/实习变体对齐，不能把每个CX方向都当作独立学位。"
+      "现行中央与主站均列43项CX；个别研究方向文字仍称over45，未证明历史或临时方向均包含。",
+      "核电方向未取得课程表；目录完备性和2027开放状态继续核验。"
     ]
   },
   "programs": [
@@ -721,6 +1004,666 @@
       "language": null,
       "raw_key": "https://bulletin.kfupm.edu.sa/program?program_id=119&title=bachelor-of-science-in-software-engineering",
       "id": "kfupm-bachelor-of-science-in-software-engineering-b8f61b611e"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#artificial-intelligence-and-machine-learning",
+      "name_en": "Artificial Intelligence and Machine Learning",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#artificial-intelligence-and-machine-learning",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-artificial-intelligence-and-machine-learning-a4c6259f7f"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#automated-construction-management",
+      "name_en": "Automated Construction Management",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#automated-construction-management",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-automated-construction-management-46b1c95da3"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#bioinformatics",
+      "name_en": "Bioinformatics",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#bioinformatics",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-bioinformatics-b9913bf1f2"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#building-and-construction-safety",
+      "name_en": "Building and Construction Safety",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#building-and-construction-safety",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-building-and-construction-safety-7a06970d2a"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#business-analytics",
+      "name_en": "Business Analytics",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#business-analytics",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-business-analytics-1a3a6cf5ee"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#climate-change-adaptation",
+      "name_en": "Climate Change Adaptation",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#climate-change-adaptation",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-climate-change-adaptation-c82e6fb09a"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#cloud-computing",
+      "name_en": "Cloud Computing",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#cloud-computing",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-cloud-computing-c361a69fc4"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#communication-systems",
+      "name_en": "Communication Systems",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#communication-systems",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-communication-systems-e91a2ab480"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#computer-networks",
+      "name_en": "Computer Networks",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#computer-networks",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-computer-networks-b0724b635a"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#corrosion-and-materials-degradation-(new)",
+      "name_en": "Corrosion and Materials Degradation (NEW)",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#corrosion-and-materials-degradation-(new)",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-corrosion-and-materials-degradation-new-2e4be7243c"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#cybersecurity-and-blockchain",
+      "name_en": "Cybersecurity and Blockchain",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#cybersecurity-and-blockchain",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-cybersecurity-and-blockchain-fcaa7acc7c"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#data-science-and-analytics",
+      "name_en": "Data Science and Analytics",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#data-science-and-analytics",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-data-science-and-analytics-08ccc02b17"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#decision-analytics",
+      "name_en": "Decision Analytics",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#decision-analytics",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-decision-analytics-f087da76d1"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#drone-design-and-application",
+      "name_en": "Drone Design and Application",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#drone-design-and-application",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-drone-design-and-application-5a68376733"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#electronic-defense-systems",
+      "name_en": "Electronic Defense Systems",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#electronic-defense-systems",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-electronic-defense-systems-741f2da6db"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#energy-efficiency",
+      "name_en": "Energy Efficiency",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#energy-efficiency",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-energy-efficiency-7887696ac5"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#enhanced-oil-recovery",
+      "name_en": "Enhanced Oil Recovery",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#enhanced-oil-recovery",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-enhanced-oil-recovery-a5047c54f9"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#game-design-and-development-(new)",
+      "name_en": "Game Design and Development (NEW)",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#game-design-and-development-(new)",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-game-design-and-development-new-955963471c"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#human-resources-management",
+      "name_en": "Human Resources Management",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#human-resources-management",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-human-resources-management-0bee6da61f"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#hydrogen-mobility",
+      "name_en": "Hydrogen Mobility",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#hydrogen-mobility",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-hydrogen-mobility-e8d63a92ce"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#ic-design-and-fabrication",
+      "name_en": "IC Design and Fabrication",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#ic-design-and-fabrication",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-ic-design-and-fabrication-1e5740e206"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#innovation-by-design-(new)",
+      "name_en": "Innovation by Design (NEW)",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#innovation-by-design-(new)",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-innovation-by-design-new-be550489bc"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#intelligent-energy-systems-management",
+      "name_en": "Intelligent Energy Systems Management",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#intelligent-energy-systems-management",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-intelligent-energy-systems-management-f23e21468d"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#internet-of-things",
+      "name_en": "Internet of Things",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#internet-of-things",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-internet-of-things-b5b675f9d4"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#mechatronics-(new)",
+      "name_en": "Mechatronics (NEW)",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#mechatronics-(new)",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-mechatronics-new-52112da597"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#mining-geoscience-(new)",
+      "name_en": "Mining Geoscience (NEW)",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#mining-geoscience-(new)",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-mining-geoscience-new-ff720854f2"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#non-metallic-materials",
+      "name_en": "Non-Metallic Materials",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#non-metallic-materials",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-non-metallic-materials-a2814777c8"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#nuclear-power-engineering",
+      "name_en": "Nuclear Power Engineering",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#nuclear-power-engineering",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-nuclear-power-engineering-d4f19a6d4c"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#polymer-science-&-technology",
+      "name_en": "Polymer Science & Technology",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#polymer-science-&-technology",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-polymer-science-technology-8117623d34"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#process-safety",
+      "name_en": "Process Safety",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#process-safety",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-process-safety-39cfbc26d9"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#quantum-information-&-computing",
+      "name_en": "Quantum Information & Computing",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#quantum-information-&-computing",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-quantum-information-computing-5da0ffb2df"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#refining-and-petrochemicals",
+      "name_en": "Refining and Petrochemicals",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#refining-and-petrochemicals",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-refining-and-petrochemicals-d1ca4d561c"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#renewable-energy-and-energy-storage",
+      "name_en": "Renewable Energy and Energy Storage",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#renewable-energy-and-energy-storage",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-renewable-energy-and-energy-storage-c0f4de7e6a"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#research-concentration",
+      "name_en": "Research Concentration",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#research-concentration",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "至少 2 学期，4 门课共 12 学分",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-research-concentration-586e0591c6"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#resilient-marine-infrastructures-(new)",
+      "name_en": "Resilient Marine Infrastructures (NEW)",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#resilient-marine-infrastructures-(new)",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-resilient-marine-infrastructures-new-1827657477"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#robotics-and-autonomous-systems",
+      "name_en": "Robotics and Autonomous Systems",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#robotics-and-autonomous-systems",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-robotics-and-autonomous-systems-1afd30d62b"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#smart-and-sustainable-buildings",
+      "name_en": "Smart and Sustainable Buildings",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#smart-and-sustainable-buildings",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-smart-and-sustainable-buildings-cd37fbd9de"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#supply-chain-management",
+      "name_en": "Supply Chain Management",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#supply-chain-management",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-supply-chain-management-27d970de86"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#sustainability-in-petroleum-industry-(new)",
+      "name_en": "Sustainability in Petroleum Industry (NEW)",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#sustainability-in-petroleum-industry-(new)",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-sustainability-in-petroleum-industry-new-b07ac73d33"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#thermal-systems",
+      "name_en": "Thermal Systems",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#thermal-systems",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-thermal-systems-e3aec334c9"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#traffic-engineering",
+      "name_en": "Traffic Engineering",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#traffic-engineering",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-traffic-engineering-f0787da8ad"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#unconventional-hydrocarbon-resources",
+      "name_en": "Unconventional Hydrocarbon Resources",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#unconventional-hydrocarbon-resources",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-unconventional-hydrocarbon-resources-01ead30434"
+    },
+    {
+      "raw_key": "https://cx.kfupm.edu.sa/#waste-management",
+      "name_en": "Waste Management",
+      "degree_label": "Undergraduate concentration (CX)",
+      "official_url": "https://cx.kfupm.edu.sa/#waste-management",
+      "discovery_source_url": "https://cx.kfupm.edu.sa/",
+      "source_period": "官网当前清单；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常 2 学期内修 4 门课（12 学分）；研究方向可 2 学期以上",
+      "campus": null,
+      "language": null,
+      "entry_route": "current_kfupm_undergraduate_only",
+      "program_type": "本科在读生集中选修方向（CX，非独立学位）",
+      "id": "kfupm-waste-management-661acd5890"
+    },
+    {
+      "raw_key": "https://bioe.kfupm.edu.sa/academic-programs/undergraduate-programs/premed",
+      "name_en": "Bachelor of Science in Bioengineering – PreMed option",
+      "degree_label": "BS Bioengineering + MBBS pathway",
+      "official_url": "https://bioe.kfupm.edu.sa/academic-programs/undergraduate-programs/premed",
+      "discovery_source_url": "https://bioe.kfupm.edu.sa/academic-programs/undergraduate-programs/premed/faqs",
+      "source_period": "部门2025年6月FAQ，2026-09-12当前可读",
+      "intake": null,
+      "duration": "8 年学业＋1 年医学实习；须免预科",
+      "campus": "KFUPM Dhahran；KSAU-HS Riyadh",
+      "language": null,
+      "entry_route": "saudi_citizen_only_bioengineering_premed",
+      "program_type": "生物工程预医衔接（仅沙特公民）",
+      "id": "kfupm-bachelor-of-science-in-bioengineering-premed-option-2c60f28e5a"
     }
   ]
 }

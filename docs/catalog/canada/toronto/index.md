@@ -23,335 +23,395 @@ hide:
 
 ## 专业与申请资料
 
-316 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+320 个专业条目 · 0 个含详细资料 · 320 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=toronto#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-accounting-2d5e27b96f/">Accounting</a><small>Bachelor of Commerce · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-accounting-9588af8123/">Accounting</a><small>Bachelor of Commerce · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-actuarial-science-90d0c39ac9/">Actuarial Science</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-african-studies-98c82ec487/">African Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-american-studies-7ab8a6178b/">American Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-animal-physiology-e12f67770e/">Animal Physiology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-anthropology-arts-1af1d53076/">Anthropology (Arts)</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-anthropology-science-14712b882f/">Anthropology (Science)</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-anthropology-evolutionary-5582a92954/">Anthropology: Evolutionary</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-anthropology-evolutionary-0b45b08e7a/">Anthropology: Evolutionary</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-anthropology-general-arts-09c666709c/">Anthropology: General (Arts)</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-anthropology-society-culture-and-language-97b127f2f8/">Anthropology: Society, Culture and Language</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-anthropology-socio-cultural-25c717472c/">Anthropology: Socio-Cultural</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-applied-mathematics-a6a57b4c0c/">Applied Mathematics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-applied-statistics-f93dee9ea5/">Applied Statistics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-archaeology-658d26622c/">Archaeology</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-architectural-studies-57b05f3d61/">Architectural Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-art-history-864ddc7be4/">Art History</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-art-history-0d52e4e44a/">Art History</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-art-history-and-visual-culture-f5202453c2/">Art History and Visual Culture</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-art-and-art-history-f9b7bfd1df/">Art and Art History</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-arts-management-eb956c7e63/">Arts Management</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-arts-and-media-management-bd80cea44c/">Arts and Media Management</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-astronomical-sciences-40f26a93a4/">Astronomical Sciences</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-astronomy-f78d152292/">Astronomy</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-astronomy-and-astrophysics-9c134b88ac/">Astronomy and Astrophysics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-astronomy-and-physics-6d6ebf1601/">Astronomy and Physics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biochemistry-e4f4dbb408/">Biochemistry</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biochemistry-9f806a7e9b/">Biochemistry</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biodiversity-and-conservation-biology-09244b5643/">Biodiversity and Conservation Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-bioethics-f359915fe5/">Bioethics</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-bioinformatics-and-computational-biology-d51b597bbc/">Bioinformatics and Computational Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biological-chemistry-4c2fd32859/">Biological Chemistry</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biological-chemistry-6bbaac4942/">Biological Chemistry</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biological-physics-1d8775b74d/">Biological Physics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biology-f4779d8654/">Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biology-cdc000d860/">Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biology-d2ba2ceed7/">Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biology-for-health-sciences-9d4ae3d507/">Biology for Health Sciences</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biomedical-toxicology-4d25e7afe5/">Biomedical Toxicology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biophysics-f406df2b1c/">Biophysics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biotechnology-f665fe27c2/">Biotechnology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-book-and-media-studies-212dc3d058/">Book and Media Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-buddhist-studies-14eed701e0/">Buddhist Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-canadian-studies-3681d3aa45/">Canadian Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-canadian-studies-5304e9295a/">Canadian Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-caribbean-studies-592837e629/">Caribbean Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-cell-and-molecular-biology-32f8880a01/">Cell and Molecular Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-celtic-studies-afb2e1ea1c/">Celtic Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-chemical-engineering-81cc8ea29e/">Chemical Engineering</a><small>Bachelor of Applied Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-chemical-physics-cf65e68e9f/">Chemical Physics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-chemistry-c16cbe031d/">Chemistry</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-chemistry-a84d3b072e/">Chemistry</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-chemistry-abc9daa92b/">Chemistry</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-christianity-and-culture-cb2cc2fbdf/">Christianity and Culture</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-cinema-studies-81a66f6268/">Cinema Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-cinema-studies-3794df080b/">Cinema Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-city-studies-067eb2972d/">City Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-civil-engineering-036db35fbf/">Civil Engineering</a><small>Bachelor of Applied Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-classical-civilization-0f3def6c47/">Classical Civilization</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-classical-civilization-78b2218b5c/">Classical Civilization</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-classics-greek-and-latin-e18612d584/">Classics (Greek and Latin)</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-cognitive-science-arts-6adbd370c1/">Cognitive Science (Arts)</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-cognitive-science-science-4b7b5255c6/">Cognitive Science (Science)</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-commerce-36ca70c120/">Commerce</a><small>Bachelor of Commerce · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-commerce-arts-16ab0ae4fb/">Commerce (Arts)</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-communication-culture-information-and-technology-437ed867e4/">Communication, Culture, Information and Technology</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-comparative-physiology-1a74b860e1/">Comparative Physiology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-composition-music-d240e31435/">Composition (Music)</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-engineering-b6210b3fd5/">Computer Engineering</a><small>Bachelor of Applied Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-science-801bd9872e/">Computer Science</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-science-b63fa6912c/">Computer Science</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-science-d3a05d0a7f/">Computer Science</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-science-comprehensive-stream-9e2a84e3f0/">Computer Science: Comprehensive Stream</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-science-entrepreneurship-stream-a9cefab9de/">Computer Science: Entrepreneurship Stream</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-science-information-systems-stream-944c448bbd/">Computer Science: Information Systems Stream</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-science-software-engineering-stream-a049c48c94/">Computer Science: Software Engineering Stream</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-conservation-and-biodiversity-dd619b9573/">Conservation and Biodiversity</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-contemporary-asian-studies-dr-david-chu-program-in-84316a9e04/">Contemporary Asian Studies, Dr. David Chu Program in</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-creative-writing-132cde9cdd/">Creative Writing</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-criminology-and-sociolegal-studies-cba6a77849/">Criminology and Sociolegal Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-criminology-law-and-society-4a497f2d90/">Criminology, Law and Society</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-critical-studies-in-equity-and-solidarity-ed2887b48b/">Critical Studies in Equity and Solidarity</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-data-science-0e51179e41/">Data Science</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-diaspora-and-transnational-studies-79c7e2341c/">Diaspora and Transnational Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-diaspora-and-transnational-studies-c74b655bc2/">Diaspora and Transnational Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-digital-enterprise-management-b9931cdf03/">Digital Enterprise Management</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-drama-e997b63962/">Drama</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-dramaturgy-and-drama-studies-40dd038e8c/">Dramaturgy and Drama Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-earth-science-14951702d2/">Earth Science</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-earth-and-environmental-systems-eeb3daeb85/">Earth and Environmental Systems</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-east-asian-studies-e875424e32/">East Asian Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-ecology-and-evolution-a54b7534e1/">Ecology and Evolution</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-ecology-and-evolutionary-biology-a4fa52f540/">Ecology and Evolutionary Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-economics-arts-424c62eb9d/">Economics (Arts)</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-economics-arts-ec18955e8b/">Economics (Arts)</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-economics-commerce-d481462225/">Economics (Commerce)</a><small>Bachelor of Commerce · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-economics-and-mathematics-a98c74a0b9/">Economics and Mathematics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-economics-and-political-science-d362646571/">Economics and Political Science</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-economics-for-management-studies-arts-ab123e8bb8/">Economics for Management Studies (Arts)</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-economics-for-management-studies-business-0bf3b46e62/">Economics for Management Studies (Business)</a><small>Bachelor of Business Administration · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-electrical-engineering-2d877c0baf/">Electrical Engineering</a><small>Bachelor of Applied Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-engineering-science-b6b3b1a5e7/">Engineering Science</a><small>Bachelor of Applied Science in Engineering Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-english-f6f967c588/">English</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-english-58a5412f14/">English</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-english-ae4a5b2599/">English</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environment-and-health-1826256f6c/">Environment and Health</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environment-and-toxicology-f88c9dd279/">Environment and Toxicology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-biology-1f32722bf0/">Environmental Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-chemistry-ebf5fe65b7/">Environmental Chemistry</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-chemistry-50e1596433/">Environmental Chemistry</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-ethics-c6e3bcd757/">Environmental Ethics</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-geography-ba910e118d/">Environmental Geography</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-geoscience-93b2b942f4/">Environmental Geoscience</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-geosciences-33ec3df3aa/">Environmental Geosciences</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-geosciences-07a2d86426/">Environmental Geosciences</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-management-46212f13ef/">Environmental Management</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-physics-f690d53ab3/">Environmental Physics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-science-34ac7f0c34/">Environmental Science</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-science-f963d69455/">Environmental Science</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-science-e27886e457/">Environmental Science</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-studies-6b6b9b2abd/">Environmental Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-studies-b5b8ed4438/">Environmental Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-ethics-society-and-law-4a0d212828/">Ethics, Society and Law</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-european-affairs-1f400274bc/">European Affairs</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-exceptionality-in-human-learning-dc237b0275/">Exceptionality in Human Learning</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-finance-2589d756b9/">Finance</a><small>Bachelor of Commerce · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-finance-and-economics-ee3dcb9121/">Finance and Economics</a><small>Bachelor of Commerce · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-financial-economics-fcbee19ee2/">Financial Economics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-financial-economics-1d6d410ea9/">Financial Economics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-forensic-anthropology-a9ddb822a3/">Forensic Anthropology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-forensic-biology-b6546995af/">Forensic Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-forensic-chemistry-d5ae39086b/">Forensic Chemistry</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-forensic-psychology-a2fcd2eb5c/">Forensic Psychology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-forensic-science-0d6a9cbbc2/">Forensic Science</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-forest-conservation-a102b1a8cd/">Forest Conservation</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-forest-conservation-science-5d96ab17a1/">Forest Conservation Science</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-french-e27bb3b011/">French</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-french-language-learning-2a69a301bf/">French Language Learning</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-french-language-and-french-linguistics-e35601314e/">French Language and French Linguistics</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-french-language-and-literature-94d1dfa1d2/">French Language and Literature</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-french-studies-6e5252a061/">French Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-genome-biology-16ea3dac17/">Genome Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geospatial-data-science-7290c8f007/">GeoSpatial Data Science</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geography-arts-92d701e18f/">Geography (Arts)</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geography-science-9260aa010c/">Geography (Science)</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geography-human-be8a31a458/">Geography: Human</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geography-physical-and-human-5d73f48cc7/">Geography: Physical and Human</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geology-9dd4ab4339/">Geology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geophysics-d06d33add3/">Geophysics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geoscience-232e548761/">Geoscience</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-german-studies-ae0200e187/">German Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-global-asia-studies-c8717daef7/">Global Asia Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-global-environmental-change-91a1de587f/">Global Environmental Change</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-greek-9af29bde08/">Greek</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-health-policy-6de4594d6b/">Health Policy</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-history-e3799468e1/">History</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-history-f08383c816/">History</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-history-79523433c2/">History</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-history-and-philosophy-of-science-and-technology-4f160aadde/">History and Philosophy of Science and Technology</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-history-and-political-science-93ffb92709/">History and Political Science</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-history-of-religions-262cffc18e/">History of Religions</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-history-culture-and-theory-music-ba3d36938f/">History, Culture and Theory (Music)</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-biology-0efd500263/">Human Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-biology-12a06044a6/">Human Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-biology-fundamental-genetics-and-its-applications-d9706148c9/">Human Biology: Fundamental Genetics and its Applications</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-biology-global-health-cadde9d5b2/">Human Biology: Global Health</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-biology-health-and-disease-c5ad874ecf/">Human Biology: Health and Disease</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-biology-neuroscience-04cf244354/">Human Biology: Neuroscience</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-geography-e8d0df6737/">Human Geography</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-resource-management-16f25a94f0/">Human Resource Management</a><small>Bachelor of Business Administration · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-immunology-c080092eba/">Immunology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-indigenous-studies-f06b55130a/">Indigenous Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-industrial-engineering-0cafc4217a/">Industrial Engineering</a><small>Bachelor of Applied Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-industrial-relations-and-human-resources-9e4f2df531/">Industrial Relations and Human Resources</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-information-419be20d1d/">Information</a><small>Bachelor of Information · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-information-security-e0f52cc61c/">Information Security</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-integrative-biology-ac7bfb6c8c/">Integrative Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-interdisciplinary-music-studies-classical-or-jazz-5dc810d07b/">Interdisciplinary Music Studies: Classical or Jazz</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-international-affairs-e762d1fb23/">International Affairs</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-international-development-studies-arts-67d8a20b1b/">International Development Studies (Arts)</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-international-development-studies-science-8c7901d537/">International Development Studies (Science)</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-international-relations-5d779bfc02/">International Relations</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-islamic-studies-07eedcf43b/">Islamic Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-italian-6add8bb77c/">Italian</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-italian-ff33831732/">Italian</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-jewish-studies-4b22a97c63/">Jewish Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-journalism-86a9881d7e/">Journalism</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-kinesiology-and-physical-education-65debd35fd/">Kinesiology and Physical Education</a><small>Bachelor of Kinesiology · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-language-teaching-and-learning-french-c193472bcb/">Language Teaching and Learning: French</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-language-teaching-and-learning-french-and-italian-594624586f/">Language Teaching and Learning: French and Italian</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-language-teaching-and-learning-italian-64a922823d/">Language Teaching and Learning: Italian</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-latin-0db98a5442/">Latin</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-latin-american-studies-8919230ba1/">Latin American Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-linguistic-studies-89a0aec832/">Linguistic Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-linguistics-09c4268183/">Linguistics</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-linguistics-14b8a04fb6/">Linguistics</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-literature-and-critical-theory-df10e9c039/">Literature and Critical Theory</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-arts-477a6bc2dd/">Management (Arts)</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-business-90b9420348/">Management (Business)</a><small>Bachelor of Business Administration · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-business-4e4c505480/">Management (Business)</a><small>Bachelor of Business Administration · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-commerce-b12d6f1c61/">Management (Commerce)</a><small>Bachelor of Commerce · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-and-accounting-b9644c11f6/">Management and Accounting</a><small>Bachelor of Business Administration · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-and-finance-821a9afac6/">Management and Finance</a><small>Bachelor of Business Administration · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-and-finance-statistics-quantitative-finance-stream-4a9f242b39/">Management and Finance + Statistics: Quantitative Finance Stream</a><small>Bachelor of Business Administration + Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-and-human-resources-ad636c0af0/">Management and Human Resources</a><small>Bachelor of Business Administration · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-and-information-technology-a52360d9a1/">Management and Information Technology</a><small>Bachelor of Business Administration · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-and-international-business-23b0318ebe/">Management and International Business</a><small>Bachelor of Business Administration · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-and-marketing-388988e66f/">Management and Marketing</a><small>Bachelor of Business Administration · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-marketing-9d3752c760/">Marketing</a><small>Bachelor of Commerce · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-materials-engineering-ac0fa44ba2/">Materials Engineering</a><small>Bachelor of Applied Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-materials-science-2af9c84235/">Materials Science</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematical-applications-in-economics-and-finance-e74ac4c54a/">Mathematical Applications in Economics and Finance</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematical-sciences-60c2923f5b/">Mathematical Sciences</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-dfc3480226/">Mathematics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-8dfe96e817/">Mathematics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-and-philosophy-a4df15393c/">Mathematics and Philosophy</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-and-physics-3ad8a30024/">Mathematics and Physics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-and-its-applications-physical-science-9b2c109d9b/">Mathematics and its Applications: Physical Science</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-and-its-applications-probability-statistics-fa08062b64/">Mathematics and its Applications: Probability/Statistics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-and-its-applications-teaching-b60e8cd2ff/">Mathematics and its Applications: Teaching</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-comprehensive-stream-7c8c02fec8/">Mathematics: Comprehensive Stream</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-statistics-stream-b0f26fb55a/">Mathematics: Statistics Stream</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-teaching-stream-c9c354b461/">Mathematics: Teaching Stream</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mechanical-engineering-5808aa4979/">Mechanical Engineering</a><small>Bachelor of Applied Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-media-and-communication-studies-journalism-studies-stream-88db86260b/">Media and Communication Studies: Journalism Studies Stream</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-media-and-communication-studies-media-studies-stream-d77dddf980/">Media and Communication Studies: Media Studies Stream</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mediaeval-studies-02e5e51f1a/">Mediaeval Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-medical-radiation-sciences-059f8b3f70/">Medical Radiation Sciences</a><small>Bachelor of Science in Medical Radiation Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-medicinal-and-biological-chemistry-d64bb65b0e/">Medicinal and Biological Chemistry</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-medicine-a31766468a/">Medicine</a><small>Doctor of Medicine · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mental-health-studies-81ab0caf02/">Mental Health Studies</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mineral-engineering-7006abd09a/">Mineral Engineering</a><small>Bachelor of Applied Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-molecular-biology-e956607c58/">Molecular Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-molecular-biology-and-biotechnology-4992cc51dd/">Molecular Biology and Biotechnology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-molecular-biology-immunology-and-disease-765615571e/">Molecular Biology, Immunology and Disease</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-molecular-genetics-and-microbiology-4b3c1c4571/">Molecular Genetics and Microbiology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-music-f0579e45e3/">Music</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-music-860b516dd0/">Music</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-music-education-classical-or-jazz-43dc8421c2/">Music Education: Classical or Jazz</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-music-industry-and-technology-37cf233120/">Music Industry and Technology</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-music-with-ensemble-option-136d106bd4/">Music with Ensemble Option</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-near-and-middle-eastern-civilizations-113757bb19/">Near and Middle Eastern Civilizations</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-neuroscience-04943ff6bd/">Neuroscience</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-neuroscience-f1514b5178/">Neuroscience</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-nursing-3482732399/">Nursing</a><small>Bachelor of Science in Nursing · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-nutritional-sciences-e856cb58c3/">Nutritional Sciences</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-paleontology-f9260f5652/">Paleontology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-paramedicine-b660428a52/">Paramedicine</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-pathobiology-fb7f238a4b/">Pathobiology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-peace-conflict-and-justice-12297f12c5/">Peace, Conflict and Justice</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-performance-classical-or-jazz-9831790592/">Performance: Classical or Jazz</a><small>Bachelor of Music in Performance · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-pharmaceutical-chemistry-c4a5210bf5/">Pharmaceutical Chemistry</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-pharmacology-2a0277dc93/">Pharmacology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-pharmacology-and-biomedical-toxicology-47fad6dfc0/">Pharmacology and Biomedical Toxicology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-philosophy-bbe3167770/">Philosophy</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-philosophy-b7ddd534f7/">Philosophy</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-philosophy-7c0dcf1ff6/">Philosophy</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physical-sciences-b7541d7842/">Physical Sciences</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physical-and-environmental-geography-af17d20639/">Physical and Environmental Geography</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physical-and-mathematical-sciences-5a9829bbf9/">Physical and Mathematical Sciences</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physician-assistant-8be740b64e/">Physician Assistant</a><small>Bachelor of Science Physician Assistant · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physics-a4ecce1f0c/">Physics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physics-bc974b7e86/">Physics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physics-and-astrophysics-40cf77a672/">Physics and Astrophysics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physics-and-philosophy-ba24164bb5/">Physics and Philosophy</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physiology-b7dd94ffa6/">Physiology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-planetary-science-d6f9094b76/">Planetary Science</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-plant-biology-338c9f9b80/">Plant Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-political-science-132f019709/">Political Science</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-political-science-d7a592720c/">Political Science</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-political-science-5e5c29f753/">Political Science</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-population-health-98b00fa90f/">Population Health</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-portuguese-d08038dc3d/">Portuguese</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-professional-writing-and-communication-d3b0385bec/">Professional Writing and Communication</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-psycholinguistics-6950e6ea02/">Psycholinguistics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-psychology-6a0236bce7/">Psychology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-psychology-3a4f1cceb2/">Psychology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-psychology-22dbcf3634/">Psychology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-psychology-research-6addff2f50/">Psychology Research</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-public-health-73235b97dd/">Public Health</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-public-law-7c9a6cd572/">Public Law</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-public-policy-7ee89a086a/">Public Policy</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-public-policy-3495099216/">Public Policy</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-quantitative-biology-4ab8fb34b0/">Quantitative Biology</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-religion-a7377bfebe/">Religion</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-renaissance-studies-be63264aba/">Renaissance Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-sexual-diversity-studies-c96def07e8/">Sexual Diversity Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-slavic-and-east-european-languages-and-cultures-fe0a3954f9/">Slavic and East European Languages and Cultures</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-sociology-74a175e6df/">Sociology</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-sociology-92fc3a892f/">Sociology</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-sociology-af22e44830/">Sociology</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-spanish-13e8df06ba/">Spanish</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-statistical-science-methods-and-practice-c85e2bb843/">Statistical Science: Methods and Practice</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-statistical-science-theory-and-methods-f84f04bb94/">Statistical Science: Theory and Methods</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-statistics-7fec29f0b6/">Statistics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-statistics-13020a9b2b/">Statistics</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-statistics-quantitative-finance-stream-551983f1d5/">Statistics: Quantitative Finance Stream</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-statistics-statistical-machine-learning-and-data-science-stream-60c631705b/">Statistics: Statistical Machine Learning and Data Science Stream</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-statistics-statistical-sciences-stream-9622e16210/">Statistics: Statistical Sciences Stream</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-strategic-management-026f97aad9/">Strategic Management</a><small>Bachelor of Business Administration · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-studio-art-b096a5f40a/">Studio Art</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-synthetic-and-catalytic-chemistry-8d1a052597/">Synthetic and Catalytic Chemistry</a><small>Honours Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-technology-coding-and-society-ab4595ca2a/">Technology, Coding and Society</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-theatre-and-drama-studies-b840b67b33/">Theatre and Drama Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-theatre-and-performance-a3822cda36/">Theatre and Performance</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-track-one-undeclared-engineering-a292e1ea34/">Track One: Undeclared Engineering</a><small>Bachelor of Applied Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-urban-studies-0f29c025a6/">Urban Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-visual-culture-and-communication-cec00ecc8f/">Visual Culture and Communication</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-visual-studies-design-49dda16ff7/">Visual Studies (Design)</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-women-and-gender-studies-f37568febf/">Women and Gender Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-women-s-and-gender-studies-41353dcc4b/">Women&#x27;s and Gender Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-women-gender-and-sexuality-studies-f42aa9d21e/">Women, Gender and Sexuality Studies</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-work-and-organizations-humanities-contexts-2b1fd94860/">Work and Organizations: Humanities Contexts</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-work-and-organizations-sciences-contexts-b57db4ecc8/">Work and Organizations: Sciences Contexts</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-work-and-organizations-social-sciences-contexts-769841b091/">Work and Organizations: Social Sciences Contexts</a><small>Honours Bachelor of Arts · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-accounting-2d5e27b96f/">Accounting</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-accounting-9588af8123/">Accounting</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-actuarial-science-90d0c39ac9/">Actuarial Science</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-african-studies-98c82ec487/">African Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-american-studies-7ab8a6178b/">American Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-animal-physiology-e12f67770e/">Animal Physiology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-anthropology-arts-1af1d53076/">Anthropology (Arts)</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-anthropology-science-14712b882f/">Anthropology (Science)</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-anthropology-evolutionary-5582a92954/">Anthropology: Evolutionary</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-anthropology-evolutionary-0b45b08e7a/">Anthropology: Evolutionary</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-anthropology-general-arts-09c666709c/">Anthropology: General (Arts)</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-anthropology-society-culture-and-language-97b127f2f8/">Anthropology: Society, Culture and Language</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-anthropology-socio-cultural-25c717472c/">Anthropology: Socio-Cultural</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-applied-mathematics-a6a57b4c0c/">Applied Mathematics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-applied-statistics-f93dee9ea5/">Applied Statistics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-archaeology-658d26622c/">Archaeology</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-architectural-studies-57b05f3d61/">Architectural Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-art-history-864ddc7be4/">Art History</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-art-history-0d52e4e44a/">Art History</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-art-history-and-visual-culture-f5202453c2/">Art History and Visual Culture</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-art-and-art-history-f9b7bfd1df/">Art and Art History</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-arts-management-eb956c7e63/">Arts Management</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-arts-and-media-management-bd80cea44c/">Arts and Media Management</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-astronomical-sciences-40f26a93a4/">Astronomical Sciences</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-astronomy-f78d152292/">Astronomy</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-astronomy-and-astrophysics-9c134b88ac/">Astronomy and Astrophysics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-astronomy-and-physics-6d6ebf1601/">Astronomy and Physics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biochemistry-e4f4dbb408/">Biochemistry</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biochemistry-9f806a7e9b/">Biochemistry</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biodiversity-and-conservation-biology-09244b5643/">Biodiversity and Conservation Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-bioethics-f359915fe5/">Bioethics</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-bioinformatics-and-computational-biology-d51b597bbc/">Bioinformatics and Computational Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biological-chemistry-4c2fd32859/">Biological Chemistry</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biological-chemistry-6bbaac4942/">Biological Chemistry</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biological-physics-1d8775b74d/">Biological Physics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biology-f4779d8654/">Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biology-cdc000d860/">Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biology-d2ba2ceed7/">Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biology-for-health-sciences-9d4ae3d507/">Biology for Health Sciences</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biomedical-toxicology-4d25e7afe5/">Biomedical Toxicology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biophysics-f406df2b1c/">Biophysics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-biotechnology-f665fe27c2/">Biotechnology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-book-and-media-studies-212dc3d058/">Book and Media Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-buddhist-studies-14eed701e0/">Buddhist Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-canadian-studies-3681d3aa45/">Canadian Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-canadian-studies-5304e9295a/">Canadian Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-caribbean-studies-592837e629/">Caribbean Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-cell-and-molecular-biology-32f8880a01/">Cell and Molecular Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-celtic-studies-afb2e1ea1c/">Celtic Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-chemical-engineering-81cc8ea29e/">Chemical Engineering</a><small>Bachelor of Applied Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-chemical-physics-cf65e68e9f/">Chemical Physics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-chemistry-c16cbe031d/">Chemistry</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-chemistry-a84d3b072e/">Chemistry</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-chemistry-abc9daa92b/">Chemistry</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-christianity-and-culture-cb2cc2fbdf/">Christianity and Culture</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-cinema-studies-81a66f6268/">Cinema Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-cinema-studies-3794df080b/">Cinema Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-city-studies-067eb2972d/">City Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-civil-engineering-036db35fbf/">Civil Engineering</a><small>Bachelor of Applied Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-classical-civilization-0f3def6c47/">Classical Civilization</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-classical-civilization-78b2218b5c/">Classical Civilization</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-classics-greek-and-latin-e18612d584/">Classics (Greek and Latin)</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-cognitive-science-arts-6adbd370c1/">Cognitive Science (Arts)</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-cognitive-science-science-4b7b5255c6/">Cognitive Science (Science)</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-commerce-36ca70c120/">Commerce</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-commerce-arts-16ab0ae4fb/">Commerce (Arts)</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-communication-culture-information-and-technology-437ed867e4/">Communication, Culture, Information and Technology</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-comparative-physiology-1a74b860e1/">Comparative Physiology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-composition-music-d240e31435/">Composition (Music)</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-engineering-b6210b3fd5/">Computer Engineering</a><small>Bachelor of Applied Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-science-801bd9872e/">Computer Science</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-science-b63fa6912c/">Computer Science</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-science-d3a05d0a7f/">Computer Science</a><small>Bachelor of Computer Science (BCS) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-science-comprehensive-stream-9e2a84e3f0/">Computer Science: Comprehensive Stream</a><small>Bachelor of Computer Science (BCS) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-science-entrepreneurship-stream-a9cefab9de/">Computer Science: Entrepreneurship Stream</a><small>Bachelor of Computer Science (BCS) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-science-information-systems-stream-944c448bbd/">Computer Science: Information Systems Stream</a><small>Bachelor of Computer Science (BCS) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-computer-science-software-engineering-stream-a049c48c94/">Computer Science: Software Engineering Stream</a><small>Bachelor of Computer Science (BCS) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-conservation-and-biodiversity-dd619b9573/">Conservation and Biodiversity</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-contemporary-asian-studies-dr-david-chu-program-in-84316a9e04/">Contemporary Asian Studies, Dr. David Chu Program in</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-creative-writing-132cde9cdd/">Creative Writing</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-criminology-and-sociolegal-studies-cba6a77849/">Criminology and Sociolegal Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-criminology-law-and-society-4a497f2d90/">Criminology, Law and Society</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-critical-studies-in-equity-and-solidarity-ed2887b48b/">Critical Studies in Equity and Solidarity</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-data-science-0e51179e41/">Data Science</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-dentistry-doctor-of-dental-surgery-d4240057f5/">牙医学（DDS，本科后入口）</a><small>Doctor of Dental Surgery (DDS) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-diaspora-and-transnational-studies-79c7e2341c/">Diaspora and Transnational Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-diaspora-and-transnational-studies-c74b655bc2/">Diaspora and Transnational Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-digital-enterprise-management-b9931cdf03/">Digital Enterprise Management</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-drama-e997b63962/">Drama</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-dramaturgy-and-drama-studies-40dd038e8c/">Dramaturgy and Drama Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-earth-science-14951702d2/">Earth Science</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-earth-and-environmental-systems-eeb3daeb85/">Earth and Environmental Systems</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-east-asian-studies-e875424e32/">East Asian Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-ecology-and-evolution-a54b7534e1/">Ecology and Evolution</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-ecology-and-evolutionary-biology-a4fa52f540/">Ecology and Evolutionary Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-economics-arts-424c62eb9d/">Economics (Arts)</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-economics-arts-ec18955e8b/">Economics (Arts)</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-economics-commerce-d481462225/">Economics (Commerce)</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-economics-and-mathematics-a98c74a0b9/">Economics and Mathematics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-economics-and-political-science-d362646571/">Economics and Political Science</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-economics-for-management-studies-arts-ab123e8bb8/">Economics for Management Studies (Arts)</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-economics-for-management-studies-business-0bf3b46e62/">Economics for Management Studies (Business)</a><small>Bachelor of Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-electrical-engineering-2d877c0baf/">Electrical Engineering</a><small>Bachelor of Applied Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-engineering-science-b6b3b1a5e7/">Engineering Science</a><small>Bachelor of Applied Science in Engineering Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-english-f6f967c588/">English</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-english-58a5412f14/">English</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-english-ae4a5b2599/">English</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environment-and-health-1826256f6c/">Environment and Health</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environment-and-toxicology-f88c9dd279/">Environment and Toxicology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-biology-1f32722bf0/">Environmental Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-chemistry-ebf5fe65b7/">Environmental Chemistry</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-chemistry-50e1596433/">Environmental Chemistry</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-ethics-c6e3bcd757/">Environmental Ethics</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-geography-ba910e118d/">Environmental Geography</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-geoscience-93b2b942f4/">Environmental Geoscience</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-geosciences-33ec3df3aa/">Environmental Geosciences</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-geosciences-07a2d86426/">Environmental Geosciences</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-management-46212f13ef/">Environmental Management</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-physics-f690d53ab3/">Environmental Physics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-science-34ac7f0c34/">Environmental Science</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-science-f963d69455/">Environmental Science</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-science-e27886e457/">Environmental Science</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-studies-6b6b9b2abd/">Environmental Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-environmental-studies-b5b8ed4438/">Environmental Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-ethics-society-and-law-4a0d212828/">Ethics, Society and Law</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-european-affairs-1f400274bc/">European Affairs</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-exceptionality-in-human-learning-dc237b0275/">Exceptionality in Human Learning</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-finance-2589d756b9/">Finance</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-finance-and-economics-ee3dcb9121/">Finance and Economics</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-financial-economics-fcbee19ee2/">Financial Economics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-financial-economics-1d6d410ea9/">Financial Economics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-forensic-anthropology-a9ddb822a3/">Forensic Anthropology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-forensic-biology-b6546995af/">Forensic Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-forensic-chemistry-d5ae39086b/">Forensic Chemistry</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-forensic-psychology-a2fcd2eb5c/">Forensic Psychology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-forensic-science-0d6a9cbbc2/">Forensic Science</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-forest-conservation-a102b1a8cd/">Forest Conservation</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-forest-conservation-science-5d96ab17a1/">Forest Conservation Science</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-french-e27bb3b011/">French</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-french-language-learning-2a69a301bf/">French Language Learning</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-french-language-and-french-linguistics-e35601314e/">French Language and French Linguistics</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-french-language-and-literature-94d1dfa1d2/">French Language and Literature</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-french-studies-6e5252a061/">French Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-genome-biology-16ea3dac17/">Genome Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geospatial-data-science-7290c8f007/">GeoSpatial Data Science</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geography-arts-92d701e18f/">Geography (Arts)</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geography-science-9260aa010c/">Geography (Science)</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geography-human-be8a31a458/">Geography: Human</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geography-physical-and-human-5d73f48cc7/">Geography: Physical and Human</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geology-9dd4ab4339/">Geology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geophysics-d06d33add3/">Geophysics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-geoscience-232e548761/">Geoscience</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-german-studies-ae0200e187/">German Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-global-asia-studies-c8717daef7/">Global Asia Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-global-environmental-change-91a1de587f/">Global Environmental Change</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-greek-9af29bde08/">Greek</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-health-policy-6de4594d6b/">Health Policy</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-history-e3799468e1/">History</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-history-f08383c816/">History</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-history-79523433c2/">History</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-history-and-philosophy-of-science-and-technology-4f160aadde/">History and Philosophy of Science and Technology</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-history-and-political-science-93ffb92709/">History and Political Science</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-history-of-religions-262cffc18e/">History of Religions</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-history-culture-and-theory-music-ba3d36938f/">History, Culture and Theory (Music)</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-biology-0efd500263/">Human Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-biology-12a06044a6/">Human Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-biology-fundamental-genetics-and-its-applications-d9706148c9/">Human Biology: Fundamental Genetics and its Applications</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-biology-global-health-cadde9d5b2/">Human Biology: Global Health</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-biology-health-and-disease-c5ad874ecf/">Human Biology: Health and Disease</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-biology-neuroscience-04cf244354/">Human Biology: Neuroscience</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-geography-e8d0df6737/">Human Geography</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-human-resource-management-16f25a94f0/">Human Resource Management</a><small>Bachelor of Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-immunology-c080092eba/">Immunology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-indigenous-studies-f06b55130a/">Indigenous Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-industrial-engineering-0cafc4217a/">Industrial Engineering</a><small>Bachelor of Applied Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-industrial-relations-and-human-resources-9e4f2df531/">Industrial Relations and Human Resources</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-information-419be20d1d/">Information</a><small>Bachelor of Information · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-information-security-e0f52cc61c/">Information Security</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-integrative-biology-ac7bfb6c8c/">Integrative Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-interdisciplinary-music-studies-classical-or-jazz-5dc810d07b/">Interdisciplinary Music Studies: Classical or Jazz</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-international-affairs-e762d1fb23/">International Affairs</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-international-development-studies-arts-67d8a20b1b/">International Development Studies (Arts)</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-international-development-studies-science-8c7901d537/">International Development Studies (Science)</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-international-relations-5d779bfc02/">International Relations</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-islamic-studies-07eedcf43b/">Islamic Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-italian-6add8bb77c/">Italian</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-italian-ff33831732/">Italian</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-jewish-studies-4b22a97c63/">Jewish Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-journalism-86a9881d7e/">Journalism</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-kinesiology-and-physical-education-65debd35fd/">Kinesiology and Physical Education</a><small>Bachelor of Kinesiology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-language-teaching-and-learning-french-c193472bcb/">Language Teaching and Learning: French</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-language-teaching-and-learning-french-and-italian-594624586f/">Language Teaching and Learning: French and Italian</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-language-teaching-and-learning-italian-64a922823d/">Language Teaching and Learning: Italian</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-latin-0db98a5442/">Latin</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-latin-american-studies-8919230ba1/">Latin American Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-law-juris-doctor-3c603e30be/">法学（JD，本科后入口）</a><small>Juris Doctor (JD) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-linguistic-studies-89a0aec832/">Linguistic Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-linguistics-09c4268183/">Linguistics</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-linguistics-14b8a04fb6/">Linguistics</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-literature-and-critical-theory-df10e9c039/">Literature and Critical Theory</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-arts-477a6bc2dd/">Management (Arts)</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-business-90b9420348/">Management (Business)</a><small>Bachelor of Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-business-4e4c505480/">Management (Business)</a><small>Bachelor of Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-commerce-b12d6f1c61/">Management (Commerce)</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-and-accounting-b9644c11f6/">Management and Accounting</a><small>Bachelor of Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-and-finance-821a9afac6/">Management and Finance</a><small>Bachelor of Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-and-finance-statistics-quantitative-finance-stream-4a9f242b39/">Management and Finance + Statistics: Quantitative Finance Stream</a><small>Bachelor of Business Administration + Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-and-human-resources-ad636c0af0/">Management and Human Resources</a><small>Bachelor of Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-and-information-technology-a52360d9a1/">Management and Information Technology</a><small>Bachelor of Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-and-international-business-23b0318ebe/">Management and International Business</a><small>Bachelor of Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-management-and-marketing-388988e66f/">Management and Marketing</a><small>Bachelor of Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-marketing-9d3752c760/">Marketing</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-materials-engineering-ac0fa44ba2/">Materials Engineering</a><small>Bachelor of Applied Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-materials-science-2af9c84235/">Materials Science</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematical-applications-in-economics-and-finance-e74ac4c54a/">Mathematical Applications in Economics and Finance</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematical-sciences-60c2923f5b/">Mathematical Sciences</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-dfc3480226/">Mathematics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-8dfe96e817/">Mathematics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-and-philosophy-a4df15393c/">Mathematics and Philosophy</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-and-physics-3ad8a30024/">Mathematics and Physics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-and-its-applications-physical-science-9b2c109d9b/">Mathematics and its Applications: Physical Science</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-and-its-applications-probability-statistics-fa08062b64/">Mathematics and its Applications: Probability/Statistics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-and-its-applications-teaching-b60e8cd2ff/">Mathematics and its Applications: Teaching</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-comprehensive-stream-7c8c02fec8/">Mathematics: Comprehensive Stream</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-statistics-stream-b0f26fb55a/">Mathematics: Statistics Stream</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mathematics-teaching-stream-c9c354b461/">Mathematics: Teaching Stream</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mechanical-engineering-5808aa4979/">Mechanical Engineering</a><small>Bachelor of Applied Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-media-and-communication-studies-journalism-studies-stream-88db86260b/">Media and Communication Studies: Journalism Studies Stream</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-media-and-communication-studies-media-studies-stream-d77dddf980/">Media and Communication Studies: Media Studies Stream</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mediaeval-studies-02e5e51f1a/">Mediaeval Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-medical-radiation-sciences-059f8b3f70/">Medical Radiation Sciences</a><small>Bachelor of Science in Medical Radiation Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-medicinal-and-biological-chemistry-d64bb65b0e/">Medicinal and Biological Chemistry</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-medicine-a31766468a/">Medicine</a><small>Doctor of Medicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mental-health-studies-81ab0caf02/">Mental Health Studies</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-mineral-engineering-7006abd09a/">Mineral Engineering</a><small>Bachelor of Applied Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-molecular-biology-e956607c58/">Molecular Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-molecular-biology-and-biotechnology-4992cc51dd/">Molecular Biology and Biotechnology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-molecular-biology-immunology-and-disease-765615571e/">Molecular Biology, Immunology and Disease</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-molecular-genetics-and-microbiology-4b3c1c4571/">Molecular Genetics and Microbiology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-music-f0579e45e3/">Music</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-music-860b516dd0/">Music</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-music-education-classical-or-jazz-43dc8421c2/">Music Education: Classical or Jazz</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-music-industry-and-technology-37cf233120/">Music Industry and Technology</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-music-with-ensemble-option-136d106bd4/">Music with Ensemble Option</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-near-and-middle-eastern-civilizations-113757bb19/">Near and Middle Eastern Civilizations</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-neuroscience-04943ff6bd/">Neuroscience</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-neuroscience-f1514b5178/">Neuroscience</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-nursing-3482732399/">Nursing</a><small>Bachelor of Science in Nursing · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-nutritional-sciences-e856cb58c3/">Nutritional Sciences</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-paleontology-f9260f5652/">Paleontology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-paramedicine-b660428a52/">Paramedicine</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-pathobiology-fb7f238a4b/">Pathobiology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-peace-conflict-and-justice-12297f12c5/">Peace, Conflict and Justice</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-performance-classical-or-jazz-9831790592/">Performance: Classical or Jazz</a><small>Bachelor of Music in Performance · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-pharmd-for-pharmacists-78b84a7e96/">药师PharmD进阶学位（2027最后一期）</a><small>Doctor of Pharmacy (PharmD) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-pharmaceutical-chemistry-c4a5210bf5/">Pharmaceutical Chemistry</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-pharmacology-2a0277dc93/">Pharmacology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-pharmacology-and-biomedical-toxicology-47fad6dfc0/">Pharmacology and Biomedical Toxicology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-pharmacy-doctor-of-pharmacy-908a6e7e51/">药学（PharmD，本科后入口）</a><small>Doctor of Pharmacy (PharmD) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-philosophy-bbe3167770/">Philosophy</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-philosophy-b7ddd534f7/">Philosophy</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-philosophy-7c0dcf1ff6/">Philosophy</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physical-sciences-b7541d7842/">Physical Sciences</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physical-and-environmental-geography-af17d20639/">Physical and Environmental Geography</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physical-and-mathematical-sciences-5a9829bbf9/">Physical and Mathematical Sciences</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physician-assistant-8be740b64e/">Physician Assistant</a><small>Bachelor of Science Physician Assistant · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physics-a4ecce1f0c/">Physics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physics-bc974b7e86/">Physics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physics-and-astrophysics-40cf77a672/">Physics and Astrophysics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physics-and-philosophy-ba24164bb5/">Physics and Philosophy</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-physiology-b7dd94ffa6/">Physiology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-planetary-science-d6f9094b76/">Planetary Science</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-plant-biology-338c9f9b80/">Plant Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-political-science-132f019709/">Political Science</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-political-science-d7a592720c/">Political Science</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-political-science-5e5c29f753/">Political Science</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-population-health-98b00fa90f/">Population Health</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-portuguese-d08038dc3d/">Portuguese</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-professional-writing-and-communication-d3b0385bec/">Professional Writing and Communication</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-psycholinguistics-6950e6ea02/">Psycholinguistics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-psychology-6a0236bce7/">Psychology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-psychology-3a4f1cceb2/">Psychology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-psychology-22dbcf3634/">Psychology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-psychology-research-6addff2f50/">Psychology Research</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-public-health-73235b97dd/">Public Health</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-public-law-7c9a6cd572/">Public Law</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-public-policy-7ee89a086a/">Public Policy</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-public-policy-3495099216/">Public Policy</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-quantitative-biology-4ab8fb34b0/">Quantitative Biology</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-religion-a7377bfebe/">Religion</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-renaissance-studies-be63264aba/">Renaissance Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-sexual-diversity-studies-c96def07e8/">Sexual Diversity Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-slavic-and-east-european-languages-and-cultures-fe0a3954f9/">Slavic and East European Languages and Cultures</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-sociology-74a175e6df/">Sociology</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-sociology-92fc3a892f/">Sociology</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-sociology-af22e44830/">Sociology</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-spanish-13e8df06ba/">Spanish</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-statistical-science-methods-and-practice-c85e2bb843/">Statistical Science: Methods and Practice</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-statistical-science-theory-and-methods-f84f04bb94/">Statistical Science: Theory and Methods</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-statistics-7fec29f0b6/">Statistics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-statistics-13020a9b2b/">Statistics</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-statistics-quantitative-finance-stream-551983f1d5/">Statistics: Quantitative Finance Stream</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-statistics-statistical-machine-learning-and-data-science-stream-60c631705b/">Statistics: Statistical Machine Learning and Data Science Stream</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-statistics-statistical-sciences-stream-9622e16210/">Statistics: Statistical Sciences Stream</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-strategic-management-026f97aad9/">Strategic Management</a><small>Bachelor of Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-studio-art-b096a5f40a/">Studio Art</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-synthetic-and-catalytic-chemistry-8d1a052597/">Synthetic and Catalytic Chemistry</a><small>Honours Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-technology-coding-and-society-ab4595ca2a/">Technology, Coding and Society</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-theatre-and-drama-studies-b840b67b33/">Theatre and Drama Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-theatre-and-performance-a3822cda36/">Theatre and Performance</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-track-one-undeclared-engineering-a292e1ea34/">Track One: Undeclared Engineering</a><small>Bachelor of Applied Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-urban-studies-0f29c025a6/">Urban Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-visual-culture-and-communication-cec00ecc8f/">Visual Culture and Communication</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-visual-studies-design-49dda16ff7/">Visual Studies (Design)</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-women-and-gender-studies-f37568febf/">Women and Gender Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-women-s-and-gender-studies-41353dcc4b/">Women&#x27;s and Gender Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-women-gender-and-sexuality-studies-f42aa9d21e/">Women, Gender and Sexuality Studies</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-work-and-organizations-humanities-contexts-2b1fd94860/">Work and Organizations: Humanities Contexts</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-work-and-organizations-sciences-contexts-b57db4ecc8/">Work and Organizations: Sciences Contexts</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/toronto/toronto-work-and-organizations-social-sciences-contexts-769841b091/">Work and Organizations: Social Sciences Contexts</a><small>Honours Bachelor of Arts · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>大陆普通高中资格：</strong>中国普通高中路线须提供省级教育部门或认可机构颁发的高中毕业文凭、学业水平／会考和高考成绩。双课程体系按其认可的高中毕业资格对应要求申请；各课程先修仍须另行满足。工程申请者须完整披露已有考试成绩。</p>
+<p class="fact-sources"><a href="#source-u-toronto-china-specific">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语与豁免：</strong>大学教学及考试使用英语。一般英语要求 IELTS Academic 总分6.5、单项6.0；不接受 One Skill Retake，须同次达标。获准豁免者另论，高年级英语课程要求与语言测试要求分别审核，部分专业可能有额外条件。</p>
+<p class="fact-sources"><a href="#source-u-toronto-language">官方依据</a></p>
+
+<p class="catalog-fact"><strong>TOEFL 考试版本：</strong>2026年1月21日起的 TOEFL iBT 按新尺度要求总分4.5、写作4.5、口语4.0；此前考试要求89分，写作及口语各22。须同次达标，不使用MyBest。不可将旧分制数字套在新考试上。</p>
+<p class="fact-sources"><a href="#source-u-toronto-language">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>2027 普通本科申请时间：</strong>2027年全日制第一本科的多数学院及三个校区申请截止为2027年1月15日，建议提早申请。工程支持文件及Online Student Profile同为1月15日；多数其他学院支持文件为2月1日。音乐申请建议提前至2026年12月1日，正式申请、问卷和支持文件为2027年1月15日。专业专门要求优先。</p>
+<p class="fact-sources"><a href="#source-u-toronto-dates">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请后的补充材料：</strong>建筑One Idea、Rotman商科、St. George计算机科学、运动学的指定补充申请，以及UTSC部分方向的补充表截止为2027年2月1日。须在申请门户逐项确认所申方向；入学后Major/Specialist的选拔另有要求。</p>
+<p class="fact-sources"><a href="#source-u-toronto-dates">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请渠道与周期：</strong>按学校官网选择适合申请者身份的申请类型，国际高中生通常经OUAC申请；只申请多伦多大学等情形可能使用学校国际申请表。2027申请截止尚未到，但是否已可提交须以具体入口状态为准；旧2026课程页日期不能替代2027校级截止。</p>
+<p class="fact-sources"><a href="#source-u-application-types">官方依据</a> · <a href="#source-u-toronto-dates">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2026/27 费用参考的范围：</strong>2027/28国际招生手册列出的金额仍为2026/27秋冬学年参考：文理商科与管理三个校区合计为CAD69,130.13–69,900.93；工程CAD76,074.83；建筑与设计CAD69,105.31；运动学CAD54,460.31；音乐学院CAD54,053.31。包括学术及附加费用、国际生UHIP医疗保险CAD948；不等于住宿等全部生活费用。部分专业第二年提高费用。</p>
+<p class="fact-sources"><a href="#source-u-toronto-international-bulletin-link">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027/28 金额待核：</strong>同一官方手册说明2027/28更新收费将于2027年夏季提供。本轮不把预算报告中的拟议金额作为最终报价，也不以第一年参考金额乘学制推算全程费用。</p>
+<p class="fact-sources"><a href="#source-u-toronto-international-bulletin-link">官方依据</a></p>
+
+<p class="catalog-fact"><strong>一般国际生奖学金：</strong>大多数入学奖学金随申请自动评估；UTM与UTSC的国际高中申请者有校区奖项，UTSC鼓励填写国际资助资料表。工程国际奖要求按时完成Online Student Profile的财务信息部分。奖项、续领条件与专业范围仍按各奖学金规定。</p>
+<p class="fact-sources"><a href="#source-u-scholarships">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027 Pearson 奖学金：</strong>适用2027年9月开始第一本科的合资格国际学生：须为2026/27高中毕业年在读或不早于2026年6月毕业，已经就读大专／大学者不适用。高中每年提名1人；学校提名截止2026年10月9日，大学入学申请须在10月16日前提交，奖学金申请及材料截止11月6日。奖项覆盖4年学费、书籍、附加费用与住宿，竞争选拔。</p>
+<p class="fact-sources"><a href="#source-u-pearson">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>现有调查仅代表 UTSC 特定答卷：</strong>已取得的官方调查为UTSC于2025年8–9月收集的445份2020–2025届毕业生答卷，其中126份来自2025届、11%为国际学生。答卷就业状态为全职64%、兼职17%、求职11%、未求职8%；不能视为三个校区、某专业、中国学生或单届应届毕业生就业率。继续深造可与就业重叠，不能合并为就业率。</p>
+<p class="fact-sources"><a href="#source-u-toronto-outcomes">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-toronto-china-specific"><div><a href="https://future.utoronto.ca/international-high-school-requirements-country?title=China">多伦多大学官方资料：toronto-china-specific ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-toronto-language"><div><a href="https://future.utoronto.ca/english-language-requirements">多伦多大学官方资料：toronto-language ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-toronto-dates"><div><a href="https://future.utoronto.ca/deadlines">多伦多大学官方资料：toronto-dates ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-application-types"><div><a href="https://future.utoronto.ca/applications">多伦多大学官方资料：application-types ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-toronto-international-bulletin-link"><div><a href="https://future.utoronto.ca/media/1081">多伦多大学官方资料：toronto-international-bulletin-link ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-scholarships"><div><a href="https://future.utoronto.ca/scholarships-international-students">多伦多大学官方资料：scholarships ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-pearson"><div><a href="https://future.utoronto.ca/pearson-scholarships">多伦多大学官方资料：pearson ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-toronto-outcomes"><div><a href="https://www.utsc.utoronto.ca/aacc/sites/utsc.utoronto.ca.aacc/files/docs/Graduate%20Outcome%20Survey%202025.pdf">多伦多大学官方资料：toronto-outcomes ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 316 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 320 项；这不是全字段详情的完成状态。
 
 <p><strong>统计范围：</strong>大学本科招生目录三校区的 Major、Specialist、Professional、Second-Entry 项目；相同专业不同校区分别保留。</p>
 
-<p><strong>对账方法：</strong>完整静态目录378张课程卡，排除仅Minor与Artist Diploma，按名称、学位、校区识别。</p>
+<p><strong>对账方法：</strong>完整静态目录378张课程卡，排除仅Minor与Artist Diploma，按名称、学位、校区识别。 已补DDS、JD、三年制PharmD及已有药师PharmD四个专业学位入口；2027士嘉堡计算机学位更正为BCS，稳定ID保留。</p>
 
 <p><strong>排除项：</strong>排除独立辅修、证书及非本科项目；具体边界见统计范围。</p>
 
@@ -360,5 +420,21 @@ hide:
 - 需与各院校历交叉核对第二学历和本科后专业课程，中央招生目录不能独立证明所有院系学位变体齐全。
 
 - [官方目录来源](https://www.utoronto.ca/academics/undergraduate-programs)
+- [官方目录来源](https://future.utoronto.ca/english-language-requirements)
+- [官方目录来源](https://www.dentistry.utoronto.ca/prospective-students/undergraduate/DDS)
+- [官方目录来源](https://www.dentistry.utoronto.ca/prospective-students/undergraduate/what-next/fees-financial-aid)
+- [官方目录来源](https://www.law.utoronto.ca/jd-program/handbook-webversion)
+- [官方目录来源](https://www.law.utoronto.ca/jd-program/first-year-jd-program-applicants)
+- [官方目录来源](https://www.law.utoronto.ca/jd-program/how-apply)
+- [官方目录来源](https://www.law.utoronto.ca/jd-admissions-policies)
+- [官方目录来源](https://www.law.utoronto.ca/jd-program/tuition-and-fees)
+- [官方目录来源](https://www.pharmacy.utoronto.ca/programs/doctor-pharmacy-pharmd)
+- [官方目录来源](https://www.pharmacy.utoronto.ca/programs/doctor-pharmacy-pharmd/frequently-asked-questions)
+- [官方目录来源](https://www.pharmacy.utoronto.ca/programs/doctor-pharmacy-pharmd/admissions-overview)
+- [官方目录来源](https://www.pharmacy.utoronto.ca/programs/doctor-pharmacy-pharmd/pharmd-application-process-timelines)
+- [官方目录来源](https://pharmacy.calendar.utoronto.ca/section/Doctor-of-Pharmacy-%283~year%29)
+- [官方目录来源](https://www.pharmacy.utoronto.ca/current-students/pharmd/pharmd-awards-financial-assistance)
+- [官方目录来源](https://www.pharmacy.utoronto.ca/programs/pharmd-pharmacists/pharmd-pharmacists-faq)
+- [官方目录来源](https://www.pharmacy.utoronto.ca/programs/pharmd-pharmacists/pharmd-pharmacists-admission-requirements)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

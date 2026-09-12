@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">BSocSc Criminology and Sociology</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>2 年 (高年级入学)</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,21 +42,34 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>课程内容：</strong>结合犯罪学与社会学，使用定量和定性研究解释社会问题及犯罪，并讨论预防、再犯与刑事司法。</p>
+<p class="fact-sources"><a href="#source-p-cityuhk-detail-dom-f98517adf1876a47dc05">官方依据</a></p>
+
+<p class="catalog-fact"><strong>官方学制与入口：</strong>2 年 (高年级入学)。这是本页对应入学资格的修读长度。</p>
+<p class="fact-sources"><a href="#source-p-cityuhk-detail-dom-f98517adf1876a47dc05">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>Advanced Standing入口：</strong>本页为Advanced Standing／高年级入口，所列两至三年不是普通高考高中直入完整本科年数。须按IB/A-level、大学修读或副学位等实际资格申请对应入口。</p>
+<p class="fact-sources"><a href="#source-p-cityuhk-detail-dom-f98517adf1876a47dc05">官方依据</a></p>
+
+<p class="catalog-fact"><strong>尚待核实：</strong>除本条明确列出的条件，本轮未逐项核实2027专业先修、面试与竞争分数；香港DSE选科不直接套用大陆高考。</p>
+<p class="fact-sources"><a href="#source-p-cityuhk-detail-dom-f98517adf1876a47dc05">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>2027及特别路线日期：</strong>本轮未取得本项目2027独立课程材料期限；Advanced Standing、JUPAS及跨校路线按相应申请系统办理，不能混用普通高考日历。</p>
+<p class="fact-sources"><a href="#source-p-cityuhk-detail-dom-f98517adf1876a47dc05">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>高年级费用缺口：</strong>本轮未逐项取得该入口非本地资格与适用收费确认，暂不将普通一年级金额及高考申请时间套入。</p>
+<p class="fact-sources"><a href="#source-p-cityuhk-detail-dom-f98517adf1876a47dc05">官方依据</a></p>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>就业统计范围：</strong>本轮未取得本专业按毕业届次、调查分母及内地/非本地学生范围说明的就业率；课程网页的雇主例子和职业方向不等于就业保证。</p>
+<p class="fact-sources"><a href="#source-p-cityuhk-detail-dom-f98517adf1876a47dc05">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -65,5 +78,6 @@ hide:
 - [官方项目页面或项目所在目录](https://www.cityu.edu.hk/admo/programmes/bsocsc-criminology-and-sociology-advance-standing)
 - [官方目录](https://www.cityu.edu.hk/admo/programmes?page=7)
 
+<div class="catalog-source" id="source-p-cityuhk-detail-dom-f98517adf1876a47dc05"><div><a href="https://www.cityu.edu.hk/admo/programmes/bsocsc-criminology-and-sociology-advance-standing">cityuhk 官方本科资料：detail-dom-f98517adf1876a47dc05 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/hong-kong/cityuhk/">← 返回香港城市大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -1,0 +1,437 @@
+{
+  "university_id": "hku",
+  "sources": [
+    {
+      "url": "https://www.admissions.hku.hk/zh-hans/apply/mainland",
+      "sha256": "51ca20131dc2450ccd0c3dc380efd4a7067ea69b5871c42b8d11171187251763",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/policy-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/apply/international-qualifications",
+      "sha256": "937b828e4b9a2f9093fc367d2c698525864a29691d9b74a25dfdc354fbcc5357",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/policy-4.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/apply/international-qualifications/english-language-requirement",
+      "sha256": "8bfbf8cb1c57b15a22f31469f30ba04cc9dbe42614e9408bea73a4634a138825",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/policy-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.hku.hk/en/admission-aid/tuition-fee-scholarships",
+      "sha256": "314da874fc1c55532d25d696463d9c21c71e87352899bf5bcb49d1d8e219fd16",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/policy-5.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-arts-architectural-studies",
+      "sha256": "143b4ac3ae5e127f2de29293b8353212b9a45cbf2a881169e68a882a1128bb67",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-66261718fc21fcd9e574.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/node/893",
+      "sha256": "764e7a49833f6e6359e01c247c6debd382901d76da742594244cce10d0810507",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/medium.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-science-surveying",
+      "sha256": "d506f408838fe53742ca976aaae1b8ffd975c206d5e7b0263acc0d5d40721033",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-1a9e77e51b15488d7eb0.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-arts-landscape-studies",
+      "sha256": "6ef28d3f69d6444b0cfa2e3a90917b6a43c93a1a3225c7c14b7b4f932cc7cb17",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-b1736924a5855f0f4816.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-arts-urban-studies",
+      "sha256": "9e3b0b189620d011a7244185fc5e08ea06b5350d1e14970d056fbb0bfd592b22",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-f3e7d37827aef4f5410f.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-arts",
+      "sha256": "f06c53481437a1b4d609e17dca346784cb6f88ca316bc704b5ef244445dca4d4",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-aaf4cf60f1f840e470c0.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-arts-and-bachelor-of-education-language-education",
+      "sha256": "97962ec93b33d27556cad8217570e26fef6b9e75ae9e57293c3e4dbe6d29daec",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-c90e9d9d334e40e5cc0f.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-arts-and-bachelor-of-laws",
+      "sha256": "b3d2a4bb9bbf59e98f2c06fcc7b5596fc0b2b1dc0ec1b7bcf9e99dee1ab6791b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-aee71b69fca816702c32.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-arts-and-bachelor-of-education-language-education-0",
+      "sha256": "85b266d39a2965c114132425aa916c0423cf9c8d8814dc80e3da06d7eb0c5e1d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-20fb7e9707aa7bf951e9.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-education-early-childhood-education-and-special",
+      "sha256": "4110c376b553e44e9b8796373db0894eabd9ad25e9402346462895b1560ce0bd",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-e4c3457d46a34897e7dd.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-dental-surgery",
+      "sha256": "db5ca81cf206e6a882ca49fe280d6458a6fd6bbdc14d3ddd3c929d49b2b02a56",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-e75d08db82574c4d5637.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-education-and-bachelor-of-science",
+      "sha256": "cc5fee1dfea58d17ac1a7a3141217db68e4a301301e4b6a6bd781346106c81de",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-7af5af8402fb45aa4797.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-science-speech-language-pathology",
+      "sha256": "6a46275e6a67a5f6b6ddbb4f551d50042920d97ccf22d6b2a7eef7d3c477382d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-aaa087bf17ae5e51d548.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-arts-and-sciences-design",
+      "sha256": "18d100afc13076a1613a91ca242a6c187a02d6243dc1225aca535e6364d1b8b2",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-b1c1ba9eb28dbf5201f3.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-arts-and-sciences-financial-technology",
+      "sha256": "22fbdb1e15deb55525d0a9995fe88aa52299b46fd9c9cf6f538090c3e7be98e5",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-bf8e88fc15fa36443310.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-arts-and-sciences-global-health-and-development",
+      "sha256": "c0d1d9870dded30e74ef963629cc5c10ce17e2883084f673011bcf6ba32abf66",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-9ac02590394e1ebba54b.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-arts-global-creative-industries",
+      "sha256": "5f423e1c15a368a8ae0f8a83e884496bb3ddd6bcecb6d83e48fe99af2fa1f3a8",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-823225a7fbb11accd46c.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-arts-humanities-and-digital-technologies",
+      "sha256": "a31809055440df671ac8846bde1c08f1720270ceee84a412bbc5ab506817b94a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-ea6d19d6f03d90c9a18c.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-arts-and-bachelor-of-engineering-artificial",
+      "sha256": "9ef375c141ca640bc184731a95bd8994f85baeff6e2cc56aa00b8bacf99bebb5",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-fa3c732e1f6ab4299b07.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-engineering-elite-programme",
+      "sha256": "7df0f6fc30a45c47b27aab51dc1f94a7b9088325917ecbd91d6a5dda9422a87e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-883036bf5c2c9f8960c7.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-engineering-data-and-systems-engineering",
+      "sha256": "072d249222f9544948842d684f45f7189594ef7722bd954d7c916352147005f7",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-a1221954bb5b7ff31339.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-engineering-mechanical-engineering",
+      "sha256": "67f46a112335c5b48e68a697676bedbbb70b02c39bdb67ab5fced8c153a8071b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-a75fdb4061bf12ed5830.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-engineering-civil-engineering",
+      "sha256": "ccf18ae789a4e1e91ea3f9a120dfbb7eda60d921fce22dae5271d4fa301bcf0d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-ca0bfc78f088462807a4.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-engineering-and-master-of-science-engineering",
+      "sha256": "e0687f4022d855107c5af11e0941aca1999c42ded87b914add3bd475017f67db",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-5797621cc56929f9b0b7.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-laws",
+      "sha256": "f36950f3c3ec4394f40b86eee53b386074556e21a444da9162347f3fa87ded25",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-d86dc9977a0e2938675f.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-nursing-advanced-leadership-track",
+      "sha256": "ac9f92b79fa3b1639c58f4336a22e93df5a6e8f3c8c3637c9a6dc6b99fe56ee2",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-39fe173dfaf90b89f754.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-medicine-and-bachelor-of-surgery",
+      "sha256": "42f5d8c678f5d240e23b2ecd86d8ea657eaacdc39b8210a1b05705ba33c3ad16",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-09dede3078726803bb49.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-medicine-and-bachelor-of-surgery-distinguished",
+      "sha256": "df1d2ca2ccf5b92292f437a85392cb89893a1cee0930cd34fc07b321046b3bb5",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-8d794340416e28f45f8c.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-nursing",
+      "sha256": "ee29a9a20868e3a432d82abee31e1079754745a86a55d6a06c904d4ac5d3a310",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-5031c9eb04c737c2a60c.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-chinese-medicine",
+      "sha256": "0df17df2a3ca11406e0ce1d8baf8e806d5462ccbef5fe7eb9d3b162daee0410e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-c7c97a6182abde260f55.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-pharmacy",
+      "sha256": "f154931099c01e2933fa6ceb4cdc0ec9ceffc238a7cca6f8543c6e327b9a3498",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-13bf2a0d7a64c359e432.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-science-innovation-and-technology",
+      "sha256": "3defbc8f1d661a9f7a8b224f789daa3ffe96d753cd4bc40f8b550f675291a59c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-bac3980286dec462af86.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/science-master-class",
+      "sha256": "1d984d03f1c7c99dc8f28992c5fe5968202849f5419aaff80733de3a52065673",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-d5827ef79bc4e35009fd.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-psychology",
+      "sha256": "f5ed86072a406ea4dcaf002e7bc81fc33bba3d2f2e403b6c05d0b5532ee2275f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-7761557ad3b4211612ca.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-social-sciences",
+      "sha256": "91f7d0147345d8d1ae720da0a4c39a9038a94b1b36977d13eb85498102f578af",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-e650939677001b7db6ac.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-science-actuarial-science",
+      "sha256": "27f166bf007d393bd555ec58f97d4df9343a2d587e9789c33681428a152a8e59",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-ca7844b6d34eaf563a63.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-social-work",
+      "sha256": "c3a3bb6c9843b8ff599837d3b5eaa68b4c84400ef2b1ec7fd066edae9e7c1e47",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-5ec801a8abfed49d47d9.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-business-administration",
+      "sha256": "10140b7ac9018d2078b84172c614f929bf14b07b954eeac1c82c409da46c5515",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-156eb24dc32f99e9410a.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-economics-bachelor-of-economics-and-finance",
+      "sha256": "c5ed549286cadcc4282c9c7517a28162eae5cce3d2255f3aed51914c5b5cc0eb",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-2465c5651842b2314d5e.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/statistical-decision-sciences",
+      "sha256": "41b8b80f4122681a5f3539d2bd3e67311298317d7692cdd963f6284870357ab7",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-58fac53b5ae5ee961bf3.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-business-administration-accounting-and-finance",
+      "sha256": "ef86346a6a65bd0e7c14462ff2ec0dac2d31160796d1b04cc5fdf9be6ba2a2ba",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-3d5f26c96857c3eaa803.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-business-administration-business-analytics",
+      "sha256": "cf5eef88d779f77f7af7ed839c980150461ae3fb24265a4f076cfa86673ad5b7",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-7ae210356e8075dca665.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-business-administration-law-and-bachelor-of-laws",
+      "sha256": "87efcaffddebefca237753bf29e4df3342fad7e7670e39035f3fe7a77cc17e5e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-a242d0e7ec7f21b71d06.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-social-sciences-government-and-laws-and-bachelor-of",
+      "sha256": "d2edc9d9b99ef52833e7cd90eb8d96e8b317bd6dde280cb20ad15118f4bf5247",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-2470b282e39722d7763b.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-journalism-media-and-artificial-intelligence",
+      "sha256": "3437adc45f53f86f13ad3da89d1333180d84d0c756918f92ef36e61470631c9f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-03920fd64c2915fadfe4.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-science-marketing-analytics-and-technology",
+      "sha256": "c7be9c4ab6988075f18a37f90e852786eec094968ef9f3244981d683200b8e7f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-2fca4656a3062f2cc3a4.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-science-and-bachelor-of-laws",
+      "sha256": "48eb32f5c299b8161e974cfbaa268d2c82c59bd7bb2fdaca31f5babad30771dd",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-4a70fece22a2b857d18c.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-finance-asset-management-and-private-banking",
+      "sha256": "a91553b4c93b111fddb8dc69f025cbe932831de0e365d99eb4caf075bb54f643",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-a1526d62eba9707bcafb.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-science-quantitative-finance",
+      "sha256": "ac6764773e93bcd6d94c8a333cfeccbfb8c7cbe738c57ca084275bfa995fc3e1",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-e954e905e77cf3ef82f5.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-business-administration-international-business-and",
+      "sha256": "60f118a6843cf22ad4a188fc4f4d5374069a6ac5399cb5de81d812ceecb140ed",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-8a94b0638f43b6aca680.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-science",
+      "sha256": "45a7e113c12406f1170191afff2a012e5a37f8f6ff9f5eecab4e14a10dee6603",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-f8c624e010d61c7b5dda.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-engineering-biomedical-engineering",
+      "sha256": "53e682ee7db4a570d2c89a772a0c1c24cc929b5be85dde5a74aaf649f9b8b022",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-86e9c5c39d4f86810bd4.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-global-leadership-innovation-and-society-self",
+      "sha256": "0a3ed420712272852017d837d3a82e524714462eed53eaa76ecb518bc298a497",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-5c43b8d7b58eb5b46e90.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/global-engineering-and-business-programme",
+      "sha256": "2bce238959383567e7b1f81c32fb45801a12bc4cc3d3720c4eb74abc23c38330",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-b758a2dc40713bb00941.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-biomedical-sciences",
+      "sha256": "e6b23c9e739d924940546065f5869c9734913e00f77b0460be67f915c2373c86",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-871e0f4e34b0fb4e8186.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-engineering-computer-engineering-electrical",
+      "sha256": "998caae77395d2267d855db91643a5df3d44396521c8134d315b63ed219a6689",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-11c6ed13b968a1468350.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/computing-and-data-science",
+      "sha256": "bc4503351e870de178d0b08a384d9636e8a99a0639657015cf7df01aeee128ed",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-15a4e362b83e467e0c8a.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/computing-and-data-science-delta",
+      "sha256": "3432f19eebc162aeadba75a13d5ba688a5dfacc094d3e7ecbc7eac63c84c571d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-e2944b7af6eb1bacbee3.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-engineering-computer-engineering-bachelor-of-0",
+      "sha256": "998caae77395d2267d855db91643a5df3d44396521c8134d315b63ed219a6689",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-99be507b5a44e9e8bb94.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes/hku-cambridge-joint-recruitment-scheme-engineering",
+      "sha256": "f75831795468298157aa96264c6d9d143dd1168b34e2740009975d1407b2746c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-af686e19bf7657bfab44.html",
+      "locator": null
+    },
+    {
+      "url": "https://web.socsc.hku.hk/hkugeneva-bsocsc-ma/",
+      "sha256": "d10cc0622dfc567ee73265e99b25cda01c2ecbb3763bcb6eee96cfbf966e6a47",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-8a4f2cadc2f2f08a2ff3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.law.hku.hk/prospective-students/ug-hku-pku-dual-degree-programme-in-law",
+      "sha256": "ec3930f691836a6b2ef4486992ead776dbdb15c411862095774eef41ac95c533",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-46e89657b458482d777e.html",
+      "locator": null
+    },
+    {
+      "url": "https://web.socsc.hku.hk/hku-pku-dual-degree-programme-in-politics-philosophy-and-economics/",
+      "sha256": "1b24633ba0448c24a55ec522cc191643ff1239fc046c8cb86663e2320523d52a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-d34ce7218f10eeb792a8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fbe.hku.hk/ug/hku-pku-future-leaders-dual-degree",
+      "sha256": "e5c2c8235b9061fa9d5d345b3577304295a068f9d89a621d9395510c81806893",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-2b490690719f6ef0f899.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/university-collaborative-programmes/hku-sciences-po-dual-degree-programme",
+      "sha256": "c8fe6d085f186508d48100c06d9164f6ba339ac372c623e7bd2581befaeae170",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-c18ccfe54f4c01cd0d4b.html",
+      "locator": null
+    },
+    {
+      "url": "https://hkuucl.law.hku.hk/",
+      "sha256": "f29d8ef9922ff738a10e9f6c289a77ceaf0e8acc31f452ed4393dbe96b7ae1bb",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-ac9f08b3a1f8972cfb39.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/university-collaborative-programmes/hku-university-of-british-columbia-dual-degree-programme",
+      "sha256": "38cefcf967e121aa74ecc331fb5bfd8da2297031738a2fb4b96b75d3dfeab816",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-06698b9b467ba8e9918a.html",
+      "locator": null
+    },
+    {
+      "url": "http://hku.berkeley.edu/",
+      "sha256": "6c4a1f31df998647b55aadc0a27b24c50d2916cf8dd7a9004375f726be056b99",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hku/detail-1a04544cde55909bcf30.html",
+      "locator": null
+    }
+  ]
+}

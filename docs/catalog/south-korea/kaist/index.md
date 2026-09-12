@@ -23,11 +23,15 @@ hide:
 
 ## 专业与申请资料
 
-18 个专业条目 · 0 个含详细资料 · 14 个补有专业资料 · 4 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+22 个专业条目 · 0 个含详细资料 · 14 个补有专业资料 · 8 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=kaist#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-ai-computing-4c437076d8/">人工智能计算</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-ai-systems-ad630c0308/">人工智能系统</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-ai-and-future-studies-23efee9a28/">人工智能与未来研究</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-ax-80a1c34e4f/">AX（官方专业名称）</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-aerospace-engineering-9e987282eb/">Aerospace Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-bio-brain-engineering-49fd408108/">Bio &amp; Brain Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-biological-sciences-622772b938/">Biological Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
@@ -40,8 +44,8 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-electrical-engineering-f656749a23/">Electrical Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-industrial-systems-engineering-e4dc63c861/">Industrial &amp; Systems Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-industrial-design-11dc9682ab/">Industrial Design</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-matematical-sciences-cc7733c3d1/">Matematical Sciences</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-materials-science-engineering-4032c64e9c/">Materials Science &amp; Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-matematical-sciences-cc7733c3d1/">Mathematical Sciences</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-mechanical-engineering-1cf311b5df/">Mechanical Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-nuclear-quantum-engineering-a12393b491/">Nuclear &amp; Quantum Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/kaist-physics-2419871986/">Physics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
@@ -90,19 +94,19 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 18 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 22 项；这不是全字段详情的完成状态。
 
 <p><strong>统计范围：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
 
-<p><strong>对账方法：</strong>[{&quot;named_department_entries&quot;: 17, &quot;school_level_entries&quot;: 1}]</p>
+<p><strong>对账方法：</strong>[{&quot;named_department_entries&quot;: 17, &quot;school_level_entries&quot;: 1}] 对照2027国际本科简章第4页补AI学院四方向，并纠正Mathematical Sciences旧拼写。</p>
 
 <p><strong>排除项：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
 
 **尚未解决的目录缺口：**
 
-- Admissions page includes School of AI heading but does not enumerate its current individual degree routes; newer AI reorganisation needs reconciliation with undergraduate-specific current catalogue.
-- Freshman guide has stale English copy (Chemical/Biomolecular Engineering mistranslated as Biological Sciences); admissions names retained verbatim with original source typo Matematical Sciences.
+- 2027简章已补齐AI学院四方向；各方向具体学位名称、课程结构和校历完整性仍待核对。
 
 - [官方目录来源](https://admission.kaist.ac.kr/intl-undergraduate/before/sub01)
+- [官方目录来源](https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

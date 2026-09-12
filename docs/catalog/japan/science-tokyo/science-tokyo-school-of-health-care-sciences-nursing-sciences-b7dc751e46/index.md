@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">School of Health Care Sciences Nursing Sciences</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>4 年</strong></div><div><span>国际生学费</span><strong>现行 JPY642,960/年；可调整</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,17 +42,36 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-b6d916def8d1ff">官方依据</a></p>
+
+<p class="catalog-fact"><strong>官方学制：</strong>2027医齿国际本科简章列本项学制4年。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-778dd10e16a077">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>医齿身份与EJU科目：</strong>2027医齿私费国际特选要求非日本籍且无日本永住、不属日本高中毕业者，并完成认可海外12年教育或IB／A-Level等。EJU须日语、数学1、物化生选2，全部用日语卷；可用2025或2026年6／11月其中一次，另参加校内考试及面试。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-778dd10e16a077">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>2027医齿申请：</strong>网页预开放2026-12-21 10:00；正式注册2027-01-04至01-08 15:00日本时间，纸质材料同日17:00前寄达。笔试02-25、面试03-13；当前尚未开放。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-778dd10e16a077">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>对应学系现行本科费：</strong>本项所在医齿学系当前年学费JPY642,960。入学金282,000另计；官方可调整，未作2027锁定价。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-04b77268a51668">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>两学系现行年费不同：</strong>理工本科自2019起年学费JPY635,400；医齿本科自2020起年学费642,960；两类普通新生入学金均282,000、考试费17,000。是官网当前标准且可调整，不把合并后的大学写成统一学费。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-04b77268a51668">官方依据</a></p>
+
+<p class="catalog-fact"><strong>资助边界：</strong>官方收费页分别提供学费／入学金减免与奖学金入口；本轮未核得2027中国普通本科新生可保证的奖项金额或续领标准。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-04b77268a51668">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -65,5 +84,9 @@ hide:
 - [官方项目页面或项目所在目录](https://www.tmd.ac.jp/english/faculties/igaku/school_of_health_care_sciences/nursing/)
 - [官方目录](https://www.isct.ac.jp/en/001/education/departments/undergraduate-md)
 
+<div class="catalog-source" id="source-p-ASREN-b6d916def8d1ff"><div><a href="https://www.isct.ac.jp/en/001/education/departments/undergraduate-md">官方本科目录 ↗</a><p>目录列名、学院或校区身份，不证明本轮开放招生</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-778dd10e16a077"><div><a href="https://admissions.isct.ac.jp/plugins/cms/component_download_file.php?type=1&amp;pageId=3088&amp;contentsId=&amp;contentsDataId=&amp;prevId=&amp;key=b3e79856233972df2ebabe76281ccad5.pdf&amp;fileName=【公開版】令和9 (2027) 年度私費外国人留学生特別選抜学生募集要項">东京科学大学医齿学2027国际生简章 ↗</a><p>6个本科的学制、EJU、考试及申请时间</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-04b77268a51668"><div><a href="https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition">东京科学大学两学系本科学费 ↗</a><p>理工及医齿分别年费</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-04b77268a51668"><div><a href="https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition">东京科学大学两学系本科学费 ↗</a><p>理工及医齿分别年费</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/">← 返回东京科学大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

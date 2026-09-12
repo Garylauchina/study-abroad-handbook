@@ -23,34 +23,68 @@ hide:
 
 ## 专业与申请资料
 
-23 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+23 个专业条目 · 0 个含详细资料 · 23 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=science-tokyo#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-architecture-and-building-engineering-d2ecdccc7b/">Architecture and Building Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-chemical-science-and-engineering-261f9e4050/">Chemical Science and Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-chemistry-bbe034dbc7/">Chemistry</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-civil-and-environmental-engineering-4d9d18ae38/">Civil and Environmental Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-computer-science-0ffecb5972/">Computer Science</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-course-for-oral-health-care-sciences-cdc9662477/">Course for Oral Health Care Sciences</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-course-for-oral-health-engineering-fd818f2c3e/">Course for Oral Health Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-earth-and-planetary-sciences-4184dabffb/">Earth and Planetary Sciences</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-electrical-and-electronic-engineering-a0a15278e4/">Electrical and Electronic Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-industrial-engineering-and-economics-4af62709ea/">Industrial Engineering and Economics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-information-and-communications-engineering-1834d64745/">Information and Communications Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-life-science-and-technology-0d51b9c20a/">Life Science and Technology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-materials-science-and-engineering-3c78e0374a/">Materials Science and Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-mathematical-and-computing-science-6697a63d91/">Mathematical and Computing Science</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-mathematics-e93184862c/">Mathematics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-mechanical-engineering-65f62ed54b/">Mechanical Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-physics-9635c4b43b/">Physics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-school-of-dentistry-d83f8623a4/">School of Dentistry</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-school-of-health-care-sciences-medical-technology-55a5ebca6f/">School of Health Care Sciences Medical Technology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-school-of-health-care-sciences-nursing-sciences-b7dc751e46/">School of Health Care Sciences Nursing Sciences</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-school-of-medicine-bfd94200ec/">School of Medicine</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-systems-and-control-engineering-f904854e0f/">Systems and Control Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-transdisciplinary-science-and-engineering-5f723397a5/">Transdisciplinary Science and Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-architecture-and-building-engineering-d2ecdccc7b/">Architecture and Building Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-chemical-science-and-engineering-261f9e4050/">Chemical Science and Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-chemistry-bbe034dbc7/">Chemistry</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-civil-and-environmental-engineering-4d9d18ae38/">Civil and Environmental Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-computer-science-0ffecb5972/">Computer Science</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-course-for-oral-health-care-sciences-cdc9662477/">Course for Oral Health Care Sciences</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-course-for-oral-health-engineering-fd818f2c3e/">Course for Oral Health Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-earth-and-planetary-sciences-4184dabffb/">Earth and Planetary Sciences</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-electrical-and-electronic-engineering-a0a15278e4/">Electrical and Electronic Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-industrial-engineering-and-economics-4af62709ea/">Industrial Engineering and Economics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-information-and-communications-engineering-1834d64745/">Information and Communications Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-life-science-and-technology-0d51b9c20a/">Life Science and Technology</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-materials-science-and-engineering-3c78e0374a/">Materials Science and Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-mathematical-and-computing-science-6697a63d91/">Mathematical and Computing Science</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-mathematics-e93184862c/">Mathematics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-mechanical-engineering-65f62ed54b/">Mechanical Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-physics-9635c4b43b/">Physics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-school-of-dentistry-d83f8623a4/">School of Dentistry</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-school-of-health-care-sciences-medical-technology-55a5ebca6f/">School of Health Care Sciences Medical Technology</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-school-of-health-care-sciences-nursing-sciences-b7dc751e46/">School of Health Care Sciences Nursing Sciences</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-school-of-medicine-bfd94200ec/">School of Medicine</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-systems-and-control-engineering-f904854e0f/">Systems and Control Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/science-tokyo-transdisciplinary-science-and-engineering-5f723397a5/">Transdisciplinary Science and Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>理工2027国际资格：</strong>理工特选要求无日本国籍（含日本双重国籍不符），日本高中毕业者或日本永住者不适用；须于2027-03-31完成认可海外12年教育或所列IB／A-Level等资格。中国普高、高考或国际课程均不免除本途径EJU和校内考试。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-54c3cc87b6a451">官方依据</a></p>
+
+<p class="catalog-fact"><strong>理工EJU明确下限：</strong>使用2026年6月或11月其中一次EJU：日语含写作至少290/450，物理、化学与数学2合计至少310/400；不得跨两次拼分。校内还考数学、物理、化学、英语、日语，再面试；这些是申请／筛选要求，不是保证录取分。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-54c3cc87b6a451">官方依据</a></p>
+
+<p class="catalog-fact"><strong>医齿2027独立路径：</strong>医齿六个本科另用2027私费外国人简章；日本国籍、永住或日本高中毕业者不适用，须认可海外12年教育或列明国际资格。EJU可用2025或2026年6／11月一次成绩，专业科目见本项记录；不采用理工290/310门槛。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-778dd10e16a077">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>理工2027时间：</strong>页面说明完整2027特选简章拟10月中旬发布，本轮未取得申请提交截止。页面已列2027-01-20笔试、02-10面试；不可沿用旧2026简章申请期。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-54c3cc87b6a451">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>两学系现行年费不同：</strong>理工本科自2019起年学费JPY635,400；医齿本科自2020起年学费642,960；两类普通新生入学金均282,000、考试费17,000。是官网当前标准且可调整，不把合并后的大学写成统一学费。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-04b77268a51668">官方依据</a></p>
+
+<p class="catalog-fact"><strong>资助边界：</strong>官方收费页分别提供学费／入学金减免与奖学金入口；本轮未核得2027中国普通本科新生可保证的奖项金额或续领标准。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-04b77268a51668">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-ASREN-54c3cc87b6a451"><div><a href="https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international">东京科学大学理工学2027私费外国人特别选拔 ↗</a><p>2027资格、EJU下限和考试；完整简章拟10月中旬</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-778dd10e16a077"><div><a href="https://admissions.isct.ac.jp/plugins/cms/component_download_file.php?type=1&amp;pageId=3088&amp;contentsId=&amp;contentsDataId=&amp;prevId=&amp;key=b3e79856233972df2ebabe76281ccad5.pdf&amp;fileName=【公開版】令和9 (2027) 年度私費外国人留学生特別選抜学生募集要項">东京科学大学医齿学2027国际生简章 ↗</a><p>6个本科的学制、EJU、考试及申请时间</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-04b77268a51668"><div><a href="https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition">东京科学大学两学系本科学费 ↗</a><p>理工及医齿分别年费</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

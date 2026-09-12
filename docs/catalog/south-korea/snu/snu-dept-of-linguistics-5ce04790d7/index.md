@@ -21,12 +21,12 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>韩语为主</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：已补学校共用资料，专业专属详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,17 +42,56 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-4946a696bbdd31">官方依据</a></p>
+
+<p class="catalog-fact"><strong>授课语言边界：</strong>多数课程使用韩语，英语材料申请不等于本专业全英语完成；FAQ提示毕业可能仍需韩语课程。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-17e0fc82254cd6">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国籍与高中资格：</strong>International I要求申请人及双亲均为外国籍，并在申请人高中阶段开始前取得外国籍；如曾为韩国籍，还须于2026-07-09申请截止前退籍。须于2027-02-28前高中毕业，学校资格须获政府认可；不接受GED、家庭学校或纯网络学历。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-f258a72f9d56fc">官方依据</a></p>
+
+<p class="catalog-fact"><strong>语言材料与成绩：</strong>可用TOPIK／TOPIK iBT3级、韩国大学语学院4级，或TOEFL80（2026-01-21起新制4.0）、IELTS Academic6、TEPS269等所列材料；亦可用全高中韩语／英语授课官方证明。考试成绩须符合简章有效期。本轮未取得高考统一分数线或A-Level分科线。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-f258a72f9d56fc">官方依据</a></p>
+
+<p class="catalog-fact"><strong>实际授课语言：</strong>FAQ明确多数课程用韩语，且无论专业可能都需修韩语课程才能毕业；不能把允许交英语成绩等同于全英语培养。国际本科没有转学通道，其他高校既修学分不据此自动转入。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-17e0fc82254cd6">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027春申请已结束：</strong>在线申请于2026-07-06 10:00至07-09 17:00韩国时间；推荐信至07-10 17:00。申请费KRW70,000。以2026-09-12为准本周期已经结束；本轮未取得2027秋时间，不沿用春季日期。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-f258a72f9d56fc">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026收费参考与周期边界：</strong>2027春简章附2026学费表：人文／经营2,442,000、工程2,998,000、护理2,975,000韩元等，均为学院类别参考；附表未在表题标明年／学期，故本摘要不直接年化。另注册页说明通常每年开学前分两学期缴费。2027医学改为六年一贯制，不能沿用旧2+4年收费结构。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-f258a72f9d56fc">官方依据</a></p>
+
+<p class="catalog-fact"><strong>缴费方式与资助入口：</strong>通常每年两次、各学期开学前缴费；具体账单以注册通知为准。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-e6c8c2711274a7">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际新生资助边界：</strong>FAQ列Global Talent Scholarship等录取后选择性资助，可涉及部分学费或生活费；本轮未核到可作为2027中国申请者保证金额和续领标准的完整资助条款。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-17e0fc82254cd6">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -65,5 +104,10 @@ hide:
 - [官方项目页面或项目所在目录](http://linguist.snu.ac.kr/?page_id=182)
 - [官方目录](https://en.snu.ac.kr/academics/programs/undergraduate)
 
+<div class="catalog-source" id="source-p-ASREN-4946a696bbdd31"><div><a href="https://en.snu.ac.kr/academics/programs/undergraduate">官方本科目录 ↗</a><p>目录列名、学院或校区身份，不证明本轮开放招生</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-17e0fc82254cd6"><div><a href="https://en.snu.ac.kr/admission/overview/faq/admission">首尔大学国际招生FAQ ↗</a><p>授课语言、无国际转学及奖学金信息</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-f258a72f9d56fc"><div><a href="https://en.snu.ac.kr/webdata/uploads/eng/file/2026/06/Admissions_for_Undergraduate_Spring_2027.pdf">首尔大学2027春国际本科简章 ↗</a><p>国际I身份、语言材料、2027时间、艺术特殊要求、2026收费及医学变化</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-17e0fc82254cd6"><div><a href="https://en.snu.ac.kr/admission/overview/faq/admission">首尔大学国际招生FAQ ↗</a><p>授课语言、无国际转学及奖学金信息</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-e6c8c2711274a7"><div><a href="https://en.snu.ac.kr/academics/resources/registration">首尔大学注册缴费 ↗</a><p>每年通常分两学期缴费</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/south-korea/snu/">← 返回首尔大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

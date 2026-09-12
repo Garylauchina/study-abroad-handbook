@@ -1,0 +1,869 @@
+{
+  "university_id": "sorbonne",
+  "sources": [
+    {
+      "url": "https://www.sorbonne-universite.fr/formation-et-vie-etudiante/candidater-et-sinscrire/modalites-dinscription-et-couts-des-etudes",
+      "sha256": "a33759676331a8ec89fc8e01fbbbcd5a4dd44b456ff90bcfd6237c273ff685ae",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.sorbonne-universite.fr/actualites/le-conseil-dadministration-de-sorbonne-universite-vote-lunanimite-le-7-juillet-2026-sa",
+      "sha256": "b203d42b29dd5cc9fa68ca732b2aaccc5ceb03cb6ed5b680e8fd9bb1b2955527",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/exemption.html",
+      "locator": null
+    },
+    {
+      "url": "https://lettres.sorbonne-universite.fr/international/venir-etudier-a-la-faculte-des-lettres",
+      "sha256": "b2d0c27556778450450e70a8933f91c87842a4be123107666516587d04d807bf",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/letters-international.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/en/apply/licences/first-year-licence-l1",
+      "sha256": "d7d4bc458e709ab5bda63e8432dd0a2f119a77ec801f5ccddd3a5cdcc0327676",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/science-l1.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/international-1/venir-la-faculte/etudiantes-et-etudiants-internationaux/venir-titre-individuel-0",
+      "sha256": "c8d46a3e80b31e4abfc64dfe5df70787ceedc97c02414a93cb766f502f2828b5",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/science-foreign-l1.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/licences-gen-appr-l2-l3",
+      "sha256": "dc2eac5f322f95ee0f03d3b3595e8b2cd81f2652202b00e34944d5859da4b087",
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-licences-gen-appr-l2-l3.html",
+      "locator": null
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/sites/default/files/media/2025-07/mcc_medecine_second_cycle_2025-2026.pdf",
+      "sha256": "6174962949897bdd8b4082deef842f1df131daa277d43f76a31a2805ef98cc67",
+      "raw_file": "scratch/full-catalog/france/sorbonne/medical-mcc-2025-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/sciences-humaines-et-sociales-SHS/licence-geographie-et-amenagement-LGEAM1L_601.html",
+      "sha256": "dff6a1db1dce8a2c63b397dfa4dbbd2925cf8ad6525791a59bc8a6dcc97abf7e",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-17.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences-0/ma-licence-enrichie-la-carte-bidisciplinaire-6/bio",
+      "sha256": "60e1c106ec4a5f6e40345ababc9f4e0e507400ca97f9404ef90c2c4e187e0a32",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-113.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-lettres-sciences-du-langage-LILUWCHM.html",
+      "sha256": "ce83f5ffced2175c1c7d6601fae8203d66c36311709a5ce2eeb0e4d6e49ef0e4",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-allemand-LLLCE1L_601.html",
+      "sha256": "4b384566da5030db9efc7b87d0df8373af35dd9b3743079c9c6ce151d4d591e6",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-professionnelle-DP/sciences-humaines-et-sociales-SHS/licence-pro-urbanisme-environnement-geomatique-ueg-PATUR1L_601.html",
+      "sha256": "70c45185fe6f3a186ac9748780b7b5020c9bb50d8cb1c3809d06a0098ac41827",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-portugais-LLLCR1L_603.html",
+      "sha256": "b2918b4b0ee510f45fdac90e9e4329406b6dbbe067f19b39bdaab96d2743d0a2",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-3.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-anglais-LLLCE1L_609.html",
+      "sha256": "a48376eb79f4175d7ee6378cd8fc10b8fa84cc2a58d0daaf98d5189eb639e7c3",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-4.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-neerlandais-LLLCE1L_602.html",
+      "sha256": "846ebddd8f0f0035ef7278218a777387f18d79b9cfbe112c48fb1e300a5e59b9",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-5.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-hebreu-etudes-juives-LLLCE1L_614.html",
+      "sha256": "a17923571cf01676a3e22742f37b6dbfe4062821794daf49b646b25d64825f03",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-6.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-italien-LLLCR1L_606.html",
+      "sha256": "171ed57279275d47d000e616d1b9409f5566bbc02880d7f0ff4081f10cd1deb7",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-7.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-llcer-allemand-sciences-avec-la-faculte-des-sciences-et-ingenierie-LLLCE1L_663.html",
+      "sha256": "cbb057673df1aa4c1f2402ccaf384e8812f0ba0b3f0a6a232b5622a398c35294",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-8.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-professionnelle-DP/arts-lettres-langues-ALL/licence-pro-metiers-du-commerce-international-collaborateur-des-activites-internationales-PCOIN1L_601.html",
+      "sha256": "996baa4e323b6fe4bf4cb7341ff7a1f6151abd1828a8856eb776385f7b1577ea",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-9.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/sciences-humaines-et-sociales-SHS/double-licence-sciences-philosophie-avec-la-faculte-des-sciences-et-ingenierie-LPHIL1L_662.html",
+      "sha256": "6a9b7d4933ec93887594ad036accec700a7fd4658cf0a7fd4943a9d4532db920",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-10.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-professionnelle-DP/arts-lettres-langues-ALL/licence-pro-metiers-du-commerce-international-metiers-du-textile-habillement-de-la-distribution-et-de-l-organisation-internationales-PCOIN1L_602.html",
+      "sha256": "498ba8fb622089ac30dbdb472ab2bb0aba19cd973629a188dbb79f751285d67b",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-11.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/sciences-humaines-et-sociales-SHS/double-licence-histoire-medias-avec-pantheon-assas-LHIST1L_668.html",
+      "sha256": "255a929dd790565aa37eccb7a2f618c1c97ff6845d4e03e51828ae42dadba4b1",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-12.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-diplome-DD/sciences-humaines-et-sociales-SHS/double-diplome-humanites-litteraires-et-sciences-sociales-filiere-histoire-LHIST1L_670.html",
+      "sha256": "b92931ce2627dec0b62d892e5bde131e5d06d74156deae45424a23fcfe57c7fc",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-13.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-diplome-DD/sciences-humaines-et-sociales-SHS/double-diplome-humanites-litteraires-et-sciences-sociales-filiere-philosophie-LPHIL1L_661.html",
+      "sha256": "b15c6c2b3c3cfafdc53912c5139b74b229dbb4b199e7ff1e60bc1889da82e105",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-14.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-diplome-DD/sciences-humaines-et-sociales-SHS/double-diplome-humanites-litteraires-et-sciences-sociales-filiere-lettres-LLETT1L_666.html",
+      "sha256": "127827dea51b90d699aca763c764c5c825841d3c3a03d684129fb517f0d6ec87",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-15.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-italien-bologne-LLLCR1L_617.html",
+      "sha256": "345c0fad93f9689e20658af80ad20b501a95ff06e314c4c6365dbe39c0235a50",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-16.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-arabe-LLLCE1L_612.html",
+      "sha256": "c228fbec5ffc63b9c07100d1af8e509a83139e5a047d0bb4297254be28b22b4b",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-18.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-bosniaque-croate-montenegrin-serbe-bcms-a-distance-LLLCR1L_616.html",
+      "sha256": "91fbc6aec8198564f256d5076d46926737e46afd812a1893031ad8caca3facaf",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-19.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-anglais-lettres-sciences-humaines-parcours-bilingue-LLLCE1L_511.html",
+      "sha256": "6d708eeb5c69fa15392d0ce1f61d7c5d206da1ea39e81abbb607c45447186095",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-20.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/sciences-humaines-et-sociales-SHS/licence-histoire-LHIST1L_601.html",
+      "sha256": "ea137370215c192e129f989863a89193d16b044ac03a3f89890734e7706d70c2",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-21.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-langues-etrangeres-appliquees-anglais-autre-langue-LLEAP1L_601.html",
+      "sha256": "9d019909fecc05525a3efe665f1f0045e43ff1f9f5fcac56e45658e2a157300e",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-22.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-italien-numerique-traduction-edition-et-culture-M4L2UTVQ.html",
+      "sha256": "f204aa8c49cf6268e30c114fc9aa63ac483dc9b31b76bcfd41f477f3b5403cb0",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-23.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-lettres-edition-scenario-et-medias-lesem-LLETT1L_613.html",
+      "sha256": "0a493fb83d31809aa385e4211b0f46e98af8ce586692262ca5016aa3e712c91c",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-24.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-llcer-allemand-lettres-modernes-LLETT1L_662.html",
+      "sha256": "5664b176ccd043ccffa7a600d7a93e90131f52a67b27daffba2d56674e7b2b04",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-25.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-musicologie-parcours-enseignement-a-distance-LMUSI1L_604.html",
+      "sha256": "6534f4fc1944524ab48655f17fec623d04c8546f8188d64c74a06d2fe09e3433",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-26.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-sciences-musicologie-avec-la-faculte-des-sciences-et-ingenierie-LMUSI1L_606.html",
+      "sha256": "564251f256d85db038a19949fd2d522ab92d76ca03086ffaaf494eac0fb774b0",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-27.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-musicologie-musique-et-interpretation-parcours-pspbb-LMUSI1L_602.html",
+      "sha256": "454526648995e72c3b50394b16988f5ece0fb17071bcb349ed8932b3e984ecf8",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-28.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-musicologie-parcours-cnsmdp-LMUSI1L_603.html",
+      "sha256": "00966a9f2a7762db41f3378a3ea715c625a897654647fa6ab24cf876794e4670",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-29.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-langues-litteratures-et-civilisations-d-europe-centrale-LLLCE1L_607.html",
+      "sha256": "09ec6f6e434d9b236229687bf69493111b5f173da4fdcc7be429e9bb7f4242f7",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-30.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-musicologie-italien-LMUSI1L_662.html",
+      "sha256": "92a098a1bdf6479f43a7a06e31ea2a5dbf419f5ab950129604c4a318de1cd6a0",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-31.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-musicologie-LMUSI1L_601.html",
+      "sha256": "bb4ac9efe3cd279e3407a623bf8246fa192c05b4e6619c04ccebc981201612b0",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-32.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-lettres-lettres-modernes-LLETT1L_603.html",
+      "sha256": "112ee444692bd36db4380f16effcdc56e54b08a24d48a9fa55d21c39cf76a23c",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-33.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-polonais-LLLCR1L_608.html",
+      "sha256": "847c385d02673a3e0f8aaa93e2eb6a8249712bbabf33b26719fe3728a17c72f6",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-34.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-etudes-nordiques-LLLCE1L_604.html",
+      "sha256": "2ab1f2ea72f135997651394eb14ec5337c2f61762c7636c56ffeb42f7921530a",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-35.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-bosniaque-croate-montenegrin-serbe-bcms-LLLCR1L_612.html",
+      "sha256": "f8242b0919372d6a807d49734052bd893af391021f4de1f9765ee7e725afb1f9",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-36.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-espagnol-LLLCR1L_601.html",
+      "sha256": "9261b61633fb751ce01c36582e84d4829ae5394816dded9b498f25095bdc8328",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-37.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-llcer-russe-LLLCR1L_610.html",
+      "sha256": "2f2fbb715048dc58b8608b5d7ce51947f231ce5b91277ada81e0b7fb2be75872",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-38.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-langues-etrangeres-appliquees-2-langues-hors-anglais-M4MMJXGI.html",
+      "sha256": "e80a89d42bfe73b61a9d597590f5a453dc27184343a88774e63f9834dc374f86",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-39.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-langues-etrangeres-appliquees-anglais-espagnol-M4MMDKD7.html",
+      "sha256": "b1d7ee167cfdd3b40508c2a6e9fff9341dbceddc4dacb6610f0300f0e5c186bf",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-40.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/arts-lettres-langues-ALL/licence-lettres-lettres-classiques-LLETT1L_601.html",
+      "sha256": "6f1a28ab1719b4edaefba28070f24a0d748a3befd90db76e844b5d605261b3d3",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-41.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/sciences-humaines-et-sociales-SHS/licence-histoire-de-l-art-et-archeologie-LAHAR1L_601.html",
+      "sha256": "13c51f1f5fb18285f8beb09af92a1b849fbd4f41b6e2f541d43730d4dbd768e0",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-42.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/sciences-humaines-et-sociales-SHS/licence-humanites-culture-antique-et-monde-contemporain-camc-LLETT1L_602.html",
+      "sha256": "6cdb9ae1f142f1dd1179ce23828b9729579a11973044ab8cc99be7e9622793bb",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-43.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/sciences-humaines-et-sociales-SHS/licence-philosophie-LPHIL1L_601.html",
+      "sha256": "3aa4f2a04823767e598f72c12d84103b25d23afb8a45770cf221626ad0bc6820",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-44.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/sciences-humaines-et-sociales-SHS/licence-humanites-sciences-de-l-antiquite-M4GULHYA.html",
+      "sha256": "69245568abf8f5277389997a71ffbedb3a1c10f82c0b2bca188d66f7d8f5a64d",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-45.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/sciences-humaines-et-sociales-SHS/licence-humanites-espagnol-traduction-edition-media-M4KEP30Z.html",
+      "sha256": "060f054890ace094a98f519c20add389410cb1e2846543a40a25bbb8312d6974",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-46.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/sciences-humaines-et-sociales-SHS/licence-sociologie-LSOCI1L_601.html",
+      "sha256": "103c131465a39d7f0beaafdb79e5d562116d13f9ab7a8722cddee4fc62e7560b",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-47.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-llcer-allemand-etudes-nordiques-M4L3GSYM.html",
+      "sha256": "81da9cdbace5baadeb1cc387f485ae6e3311ee63d9094e26e55de2ebb5954855",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-48.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-acces-sante-LAS/arts-lettres-langues-ALL/licence-lettres-edition-scenario-et-medias-lesem-acces-sante-las-LLETT1L_522.html",
+      "sha256": "e071453e1a3fa1953966bb3e2e9aee9623c7221b22b34f7cceb4bf9d31a20a80",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-49.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-acces-sante-LAS/arts-lettres-langues-ALL/licence-lettres-sciences-du-langage-acces-sante-las-LLETT1L_523.html",
+      "sha256": "bb6da575386b0f72add72da702569d691256da3a55ee7e2fb11575274919ae9c",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-50.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-llcer-anglais-neerlandais-LLLCE1L_669.html",
+      "sha256": "6f59e9ff468f0a894a9a01c033e5ee8fc5a00afcfc4cb07a7ce04c46180fc485",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-51.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-acces-sante-LAS/arts-lettres-langues-ALL/licence-llcer-anglais-acces-sante-las-LLLCE1L_526.html",
+      "sha256": "cb764f466f4a2dbc2337eeea950ef727a0420f3a2055d52ee0b06e0da750f16a",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-52.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-acces-sante-LAS/sciences-humaines-et-sociales-SHS/licence-philosophie-acces-sante-las-LPHIL1L_526.html",
+      "sha256": "89f98b2fa55c5894a066b3f27b52a4b060dd0d509be2a4ad6a437f6d5be6803f",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-53.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-acces-sante-LAS/arts-lettres-langues-ALL/licence-llcer-espagnol-acces-sante-las-LLLCR1L_523.html",
+      "sha256": "cb7d5ee58fed24d7edb8d1a350f88b821236b8adda0e81a5e5b516c74f495c06",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-54.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-acces-sante-LAS/arts-lettres-langues-ALL/licence-llcer-italien-acces-sante-las-LLLCR1L_524.html",
+      "sha256": "e898b72a92c0bdc4d58867a610c783fed86ea7c15ff36ff86f565be3f9242bc4",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-55.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/sciences-humaines-et-sociales-SHS/double-licence-geographie-et-amenagement-geographie-etudes-nordiques-M4L3PYXT.html",
+      "sha256": "2c8964722446120ff91e4e73d78f025e0135aa1a57728fd6ff8beff6c08b530a",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-56.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-acces-sante-LAS/arts-lettres-langues-ALL/licence-llcer-allemand-acces-sante-las-LLLCE1L_525.html",
+      "sha256": "0585dc0feb3ea59acf0caf794cf73745d356b28dc5659a9c8ef51420f0d0a671",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-57.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-acces-sante-LAS/sciences-humaines-et-sociales-SHS/licence-histoire-acces-sante-las-LHIST1L_537.html",
+      "sha256": "6bc88804e07a725737ded603bae8ee2fc485d3b4fea047986c4699d4f27e226f",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-58.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/sciences-humaines-et-sociales-SHS/double-licence-histoire-etudes-slaves-LHIST1L_667.html",
+      "sha256": "52735b03f9dc0d58d260890a64b3cb0c4b98ca833412a57b137c27cbce9b138a",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-59.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/sciences-humaines-et-sociales-SHS/double-licence-histoire-arabe-LHIST1L_663.html",
+      "sha256": "8deca50cc8477c35a37168584e62907c97e4890137788f2393aa8987a35a5e96",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-60.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/sciences-humaines-et-sociales-SHS/double-licence-histoire-droit-avec-pantheon-assas-LHIST1L_671.html",
+      "sha256": "4b1fd0b1f17d215d4e6f24b89bcb6754c8a037dccd59e30402e90b4341a84f93",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-61.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/sciences-humaines-et-sociales-SHS/double-licence-histoire-allemand-LHIST1L_661.html",
+      "sha256": "c12df834b9226ace73d91b00856c3b84484c231362675b2afe4adef080b5fe1f",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-62.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/sciences-humaines-et-sociales-SHS/double-licence-histoire-geographie-LHIST1L_665.html",
+      "sha256": "4e6d4aa958e1b5dc4092a1a93d081bb49bb84997fbfdba7b4ab29c1b3ad0f48e",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-63.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/sciences-humaines-et-sociales-SHS/double-licence-histoire-de-l-art-droit-avec-pantheon-assas-LAHAR1L_662.html",
+      "sha256": "ccee34a91752d874e0194f8f5e7cb454d4658f89ed57c79a4617328f468cc495",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-64.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/sciences-humaines-et-sociales-SHS/double-licence-philosophie-russe-LPHIL1L_664.html",
+      "sha256": "2c146bcd2c4c0dee109fad2412b0f2a37f95fdbfc411ef978fec67f857768570",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-65.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/sciences-humaines-et-sociales-SHS/double-licence-philosophie-sociologie-LPHIL1L_663.html",
+      "sha256": "35946b30e120b29b2d475b46ff8c10a409cfc085520728e7aadea364d52b8f18",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-66.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/sciences-humaines-et-sociales-SHS/double-licence-histoire-sciences-avec-la-faculte-des-sciences-et-ingenierie-LHIST1L_669.html",
+      "sha256": "f422ac444523466cb11f8b33e41667091b8c5a565b23f39c44d7edf7924a1e4b",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-67.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-majeure-mineure-MAJ/arts-lettres-langues-ALL/licence-llcer-italien-majeure-mineure-philosophie-LLLCR1L_622.html",
+      "sha256": "c157dd2e8a28c6e7ee0024d0ba5abf73469f6375eb68f1e10177656ddac996df",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-68.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-majeure-mineure-MAJ/sciences-humaines-et-sociales-SHS/licence-philosophie-majeure-mineure-tt-innovation-sante-LPHIL1L_623.html",
+      "sha256": "594e5ba83dd6b6eee0e67e68ec75efddce4cd16c77f78e50b056889182f534e2",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-69.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-majeure-mineure-MAJ/sciences-humaines-et-sociales-SHS/licence-histoire-majeure-mineure-tt-environnement-fac-des-sciences-M4L5IWHC.html",
+      "sha256": "7e71d211023fc65652a27d699feafb94b9ca166af6965b706fd73f12a151e815",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-70.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-majeure-mineure-MAJ/sciences-humaines-et-sociales-SHS/licence-histoire-majeure-mineure-tt-histoire-et-philosophie-des-sciences-et-techniques-fac-sciences-LHIST1L_533.html",
+      "sha256": "9f08ea579f979929bd11648c115e46a53b0143649a6251235d2ad265cd5646d0",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-71.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-majeure-mineure-MAJ/sciences-humaines-et-sociales-SHS/licence-philosophie-majeure-mineure-italien-LPHIL1L_625.html",
+      "sha256": "cff2ef7cd04d26a0f127d1db14c24a622ef1daa80867824102c3c06d22858f60",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-72.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-majeure-mineure-MAJ/sciences-humaines-et-sociales-SHS/licence-philosophie-majeure-mineure-tt-environnement-L1XDOFIF.html",
+      "sha256": "6a7ebd75a3de94ed5408b5f607bffd8f4ab5a5879b9dadb8dafb644500c64c66",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-73.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-majeure-mineure-MAJ/sciences-humaines-et-sociales-SHS/licence-histoire-majeure-mineure-tt-histoire-naturelle-fac-des-sciences-LHIST1L_536.html",
+      "sha256": "f83de4059c3f6fb3cd10908371eac2b321aaaf28cec7afb2ba4ffec5a659557b",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-74.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-majeure-mineure-MAJ/sciences-humaines-et-sociales-SHS/licence-philosophie-majeure-mineure-tt-histoire-et-philosophie-des-sciences-et-techniques-KZ8AAUB2.html",
+      "sha256": "8fc28f7f2eda8b717c5dabca71480e52951b993eb2b3515f0cd1559933184365",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-75.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-lettres-espagnol-LLETT1L_664.html",
+      "sha256": "c3b00083dd16c905d0efca320abbcd71dd521a0b1414bcf3b14ee2a875b1e579",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-76.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-llcer-allemand-philosophie-LLLCE1L_664.html",
+      "sha256": "3ed618b030da3ba7f3eda175fc13ef870ab7b822bda1b3f7f19e5a9e4c439b95",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-77.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-lettres-informatique-LLETT1L_667.html",
+      "sha256": "efc2fcb908dba1575da021859016ce97b0cb36f38f20aa66300d31128af583cf",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-78.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/licence-XA/sciences-humaines-et-sociales-SHS/licence-information-communication-LCOMM1L_601.html",
+      "sha256": "f68b1f8b53fd39c83443207c98db5f3761c74f7a2dfef2e0931d60db1cd9e7ea",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-79.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-llcer-espagnol-portugais-LLLCR1L_661.html",
+      "sha256": "7a1bf73c3e810adbdaae56ad591f97ae18f79f1fad0662671205bfc43b580175",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-80.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-lettres-anglais-LLETT1L_663.html",
+      "sha256": "e90d20f802590e4bf7ee8514eef25723a0e9537b8f529f4182de3fc871900ca0",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-81.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-llcer-espagnol-histoire-LHIST1L_664.html",
+      "sha256": "92d71f637e0759cbcf4efc3ffd5ee92fb0089d6fba968e0c34b29b91c4727cd7",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-82.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/sciences-humaines-et-sociales-SHS/double-licence-archeologie-geographie-LAHAR1L_661.html",
+      "sha256": "655d1a36cb7f395f922e724aaa89fc62b3f764fbe690d9cdbaa003b0063d6d02",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-83.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-llcer-anglais-espagnol-LLLCE1L_678.html",
+      "sha256": "7a49d8f7fb5a3afa08e5d3067d9cb98e232058d97454e52afd5449e95ae74bcb",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-84.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-llcer-italien-lettres-LLETT1L_665.html",
+      "sha256": "166e330cea689c8547536c765f8f46413cb4ac6eca6c326a3b01a2bf7117b06f",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-85.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-llcer-italien-histoire-LHIST1L_666.html",
+      "sha256": "9d4a98a4b948c8f1db6cae25b33a8ff13a9057e3508e61127fd5a9a3f61fc938",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-86.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/arts-lettres-langues-ALL/double-licence-llcer-anglais-allemand-LLLCE1L_677.html",
+      "sha256": "79938f6ffaf9758dbfd44ec43cd3dec081f1c1cea9d073f171ad92f4617905c4",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-87.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/double-licence-XD/sciences-humaines-et-sociales-SHS/double-licence-histoire-anglais-LHIST1L_662.html",
+      "sha256": "a579f68e5c99196785eb63d15a962ba62f8d1b6f1f37b0d2eeb64af7b2593c8e",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-88.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/les-l2-l3-nos-huit-disciplines-de-licence/licence-3",
+      "sha256": "b41cbcd022239ad2d7f9455f5beac16a28695c5fde7566c10f78cf39abb688d0",
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-3.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/les-l2-l3-nos-huit-disciplines-de-licence/licence-2",
+      "sha256": "8b5d7f362d1fd39c692074fb969833cffa1a8b22d1c62d6a726ace8dd70d2af3",
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/les-l2-l3-nos-huit-disciplines-de-licence/licence-4",
+      "sha256": "1ac3fecde3b69e0d4670e097378711fbf1605cb49ff4976163f84b42ec9c9df4",
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-4.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/les-l2-l3-nos-huit-disciplines-de-licence/licence-0",
+      "sha256": "3430fe42741b6313cb61ec72cfc66bf93f341f8033a078a66d562601af5aa17f",
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/les-l2-l3-nos-huit-disciplines-de-licence/licence-1",
+      "sha256": "e5991fe414c264f8e1c2f379538ceff4fee54d5f9e7eab048e5f5362f72b32b0",
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/les-l2-l3-nos-huit-disciplines-de-licence/licence-de",
+      "sha256": "34aec04d041f20ef15676e769bdb483529669a857308c3acb069b304261b56ee",
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-de.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licences-generales-l2-l3/licence-sciences-de-la",
+      "sha256": "60ed36bf01aa87441630c0a277d2f58a068d0dbeac7d0db8cbac9406d9469c39",
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-sciences-de-la.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/les-l2-l3-nos-huit-disciplines-de-licence/licence",
+      "sha256": "99110613e2c5307e4272a7a07fd554741c8a149887f3ecf3d813e375cab14bbc",
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3/double-3",
+      "sha256": "32d86888e6f0c34195f0a44bfe2bad49ef800139005776be1c2f48d4793afd31",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-97.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3",
+      "sha256": "19342411ed428b48742068760c96f650560c9ef2e8d43870d534db80620ca45d",
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-doubles-licences-l2-l3.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3/double-licence",
+      "sha256": "e3fc96d21fd971efe3e20c1bd4cb62c8bb96f4d68b972c462cf4120ea4b2613b",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-98.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3/double-0",
+      "sha256": "fa06695d1a253012176046ff6940853e7d3f1d22f5a501037dd7a6f0e96628ea",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-99.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3/double-1",
+      "sha256": "8792b3687296f310255b447b60fcfe4f64469e30230841c2153d4b4c02fe6343",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-100.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3/double-4",
+      "sha256": "5f7127e85c922e40557d227672b191af3322fda09db4f09659947b07f3f4410f",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-101.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3/double-11",
+      "sha256": "c7fdbc2861b26a19982f3885deb8660f6e91b778d8a853aaad5a46ea3248b420",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-102.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3/double-9",
+      "sha256": "9ca8d6e353afc310e085e8b68a310ca124b06283596ee01a915be8d446fcb2b5",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-103.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/doubles-licences/double-licence-electronique-0",
+      "sha256": "2d648d3d096e953f37b8cf74774720e2f09ad1cc6fca26585c68d4eefb2a203e",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-104.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3/double-10",
+      "sha256": "da95f6dfa78e6b1135d03f6ad94f45f9ffec0ad7aedeb43982a560b7c6626605",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-105.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3/double-5",
+      "sha256": "90bf067c4a1cd9e49cff7d6bc3fc7d482889943cb5d0970b62c5e3e641286e8f",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-106.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3/double-2",
+      "sha256": "6d90c27756abd4ee3f898cececee9603cebab348d1b7e175fd81de660cbe2cc1",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-107.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/doubles-licences/double-licence-mathematiques",
+      "sha256": "e34a96a5c8128deba303a83d761337fac5e42ea23b0ae76c215c4bf4e3a57c49",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-108.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3/double-6",
+      "sha256": "73970953a2361f4719f237a8569aeba35cb6baab6fc1963bfef67eab67173b4d",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-109.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3/double-7",
+      "sha256": "c86273fad747216ecca94148457c13bb28f84ad58ccca37191e0ae0a855b3433",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-110.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3/double-12",
+      "sha256": "4c6efb2e01477bb2717872e67e0cec62b0b74690d3fdc5083fed2f62fbd69b5a",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-111.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3/double-8",
+      "sha256": "bc1263af2893f05b29636db71e4f22481707ab8072b79b636e604dd21bcd205a",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-112.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licences-professionnelles-l3/licence-professionnelle",
+      "sha256": "d907f02765e075799571cbd77589b475c61c593de75b188d74fd85e0e147cc94",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-114.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licences-professionnelles-l3/licence-0",
+      "sha256": "b0f455f78500e3cee3076cf7bf7263ad43f525b7f947a1bd7a37e5ba0ff2b33f",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-115.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licences-professionnelles-l3/licence-3",
+      "sha256": "1b374bdf47f0a8fae288f6c9a7d54e79a876e59a161a5df58e840468549cd2bd",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-116.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licences-professionnelles-l3/licence-2",
+      "sha256": "a863cec4a4a81b467268ae48ea07c416107809c2434f4d1a70f9b10a923d00b9",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-117.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licences-professionnelles-l3/licence-1",
+      "sha256": "9699c6ba1b20e023d99a4f9d5b820ca8cef9fb2de3897368835f0768725744df",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-118.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences-0/ma-licence-enrichie-la-carte-bidisciplinaire-6-1",
+      "sha256": "66158462e8a64beae60072ca377675309140678c3ef375bc8ac2570541571ec8",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-119.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/double-cursus-licences-schumaines/scjournalisme",
+      "sha256": "87249fb56204e6148cac80ecacec35b413b9ff97600a9c82f277a6f2440de8e8",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-120.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/double-cursus-licences-schumaines/scdesign",
+      "sha256": "bb11aae670cd80a224a15e0346a008d0c4dd0e9f87096ca60bc1091371139dda",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-121.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/double-cursus-licences-schumaines/scdroit",
+      "sha256": "4f03cbf5b4b467e6e31ba905af93aa8cd70dc3618cb1c9ceafdb8602f3284ede",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-122.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/formations-intensives-L1/sprint",
+      "sha256": "322aeecf51858ff6cc95ec1abe6e9607df18fc3fad65a18e4a828f500720bcbb",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-123.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/ma-licence-enrichie-la-carte-bidisciplinaire-0-3-0",
+      "sha256": "10050857e8efd8db77bc82da8514a37a12ab8313834cd82902fe2d6c662f892e",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-124.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/licences-intensives-mono",
+      "sha256": "ec9f41c10ead83a5fda5ae3ed518a8e276db3bc822dacc1959ae762d3ca2e1b2",
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-licences-intensives-mono.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/ma-licence-enrichie-la-carte-bidisciplinaire-0-3-1",
+      "sha256": "aa7cfee3a5e8c3956b0c201895bc6edb8cd7d134d3b6d4514ee67a01e46714fb",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-125.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/ma-licence-enrichie-la-carte-bidisciplinaire-0-3-2",
+      "sha256": "f7e7eb472982e894b94daaec2b97d97723482755bb9479bc754889f0be379e3b",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-126.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/formations-intensives-L1/licence",
+      "sha256": "263851714ffc371ed7624bcbec1072f8adf8456a7a7ff7ee6a864ae707dec23e",
+      "raw_file": "scratch/full-catalog/france-enrichment/sorbonne/detail-127.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/ma-licence-enrichie-la-carte-bidisciplinaire/entree-en-L1/licence-acces-sante-las",
+      "sha256": "870495f14861c5c9292de77d3f2b3b6365f7b6a6af5d4cc1c5da914aada14a21",
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-licence-acces-sante-las.html",
+      "locator": null
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/sciences-chinois",
+      "sha256": "6ae2a800d015ba8e8dcf5e0addc5204e6f8bac0a3bc7c84256db96342fd52886",
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-sciences-chinois.html",
+      "locator": null
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/sites/default/files/media/2025-11/Sorbonne%20Universit%C3%A9_%20Formation%20Ma%C3%AFeutique%20Fiche%20descriptive.pdf",
+      "sha256": "f01f20d5b7f424a7d4dfe169ef63973ab35c0cebbae3c4ed7fc2a664d8224e8d",
+      "raw_file": "scratch/full-catalog/france/sorbonne/midwifery-first-cycle.html",
+      "locator": null
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations/etudes-paramedicales/orthoptie",
+      "sha256": "e10addf6cf00ba2346cf812478f54d288e6f21eccb9bd871b2e6ec0ac9a0e08d",
+      "raw_file": "scratch/full-catalog/france/sorbonne/health-orthoptie.html",
+      "locator": null
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations/formations-universitarisees/infirmieres-et-infirmiers-ifsi",
+      "sha256": "d599798a2106b8a3204a244b00d945dd0e637f0ce14af0355e411cbd4f105452",
+      "raw_file": "scratch/full-catalog/france/sorbonne/health-infirmieres-et-infirmiers-ifsi.html",
+      "locator": null
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations/formations-universitarisees/ergotherapie",
+      "sha256": "54aaa3cc8585e93e9921f39f9cc9fc9188684fe92525f5d538d8a971fdde698d",
+      "raw_file": "scratch/full-catalog/france/sorbonne/health-ergotherapie.html",
+      "locator": null
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations/etudes-paramedicales/orthophonie",
+      "sha256": "b207ad0bf3cea4ab8434b742b2cc1236a132a28d65d45ac12f7e321b57762819",
+      "raw_file": "scratch/full-catalog/france/sorbonne/health-orthophonie.html",
+      "locator": null
+    }
+  ]
+}

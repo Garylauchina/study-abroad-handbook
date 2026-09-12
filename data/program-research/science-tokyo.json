@@ -1,0 +1,2281 @@
+{
+  "university_id": "science-tokyo",
+  "programs": [
+    {
+      "raw_key": "https://educ.titech.ac.jp/math/eng/",
+      "name_en": "Mathematics",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/math/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-mathematics-e93184862c",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "前三年建立微积分、线性代数及数学基础；大三后期深入代数、几何、分析，大四通过专业文献研读与研讨展示训练，不把technical literature误译成文学课程。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-f77b64033b5131"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "前三年建立微积分、线性代数及数学基础；大三后期深入代数、几何、分析，大四通过专业文献研读与研讨展示训练。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-f77b64033b5131"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/math/eng/"
+        },
+        {
+          "id": "ASREN-f77b64033b5131",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/math/eng/education/math_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "39cd239a1439100c2da672a1cd6387fe33d8c5be134aa6d5d326cc26e559838b",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/phys/eng/",
+      "name_en": "Physics",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/phys/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-physics-9635c4b43b",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "大二开始200／300级物理课程，把讲授、习题与实验相连；基础内容包括力学、电磁学和量子物理，后续实验与独立研究训练问题求解。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-411e14b55fac75"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "大二开始200／300级物理课程，把讲授、习题与实验相连；基础内容包括力学、电磁学和量子物理，后续实验与独立研究训练问题求解。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-411e14b55fac75"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/phys/eng/"
+        },
+        {
+          "id": "ASREN-411e14b55fac75",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/phys/eng/education/phys_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "96e1429ef6d308c926a4125889b205481717cdec48520bddb622f609ca4ad7a2",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/chem/eng/",
+      "name_en": "Chemistry",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/chem/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-chemistry-bbe034dbc7",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "大一学习数学、物理、化学基础；大二必修物理化学、无机与分析化学、有机化学，之后通过选修和必修实验深化，末段完成独立研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-eb8a908be56708"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "大一学习数学、物理、化学基础；大二必修物理化学、无机与分析化学、有机化学，之后通过选修和必修实验深化，末段完成独立研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-eb8a908be56708"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/chem/eng/"
+        },
+        {
+          "id": "ASREN-eb8a908be56708",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/chem/eng/education/chem_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "2fe330b96c6f6f85b4f906ad9c723691f173bfd928cb15ea8f704eb2793fa8bb",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/eps/eng/",
+      "name_en": "Earth and Planetary Sciences",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/eps/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-earth-and-planetary-sciences-4184dabffb",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "前两年构建地球行星科学、数学物理化学和实验基础；从大三学习专门领域，课程包含地球物理、地球物质与天文学，含野外观察和实验。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-33eb687fb59b2c"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "前两年构建地球行星科学、数学物理化学和实验基础；从大三学习专门领域，课程包含地球物理、地球物质与天文学，含野外观察和实验。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-33eb687fb59b2c"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/eps/eng/"
+        },
+        {
+          "id": "ASREN-33eb687fb59b2c",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/eps/eng/education/eps_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "b21643361c27c607899f66fdaf9c2f000d86074bd5d26fb3a7da830d8c946c5f",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/mech/eng/",
+      "name_en": "Mechanical Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/mech/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-mechanical-engineering-65f62ed54b",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "基础含工程力学、材料力学、热力学、流体、机械动力与制图；后续选控制机器人、精密工程、设计制造等，并有必修机械系统创意设计及研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-20bd647c4272d3"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "基础含工程力学、材料力学、热力学、流体、机械动力与制图；后续选控制机器人、精密工程、设计制造等，并有必修机械系统创意设计及研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-20bd647c4272d3"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/mech/eng/"
+        },
+        {
+          "id": "ASREN-20bd647c4272d3",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/mech/eng/education/mech_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "cfe31ca893cb834bae1e5687bb39d198fd0e8d2803738ba673814bd56440dbb3",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/sc/eng/",
+      "name_en": "Systems and Control Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/sc/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-systems-and-control-engineering-f904854e0f",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "学习数学、控制、系统表示、测量、电子和力学；机电一体化与创意系统练习整合不同领域，再通过研究机会制作实际运行系统。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-1626fe582d168b"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "学习数学、控制、系统表示、测量、电子和力学；机电一体化与创意系统练习整合不同领域，再通过研究机会制作实际运行系统。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-1626fe582d168b"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/sc/eng/"
+        },
+        {
+          "id": "ASREN-1626fe582d168b",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/sc/eng/education/sc_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "a5ddc21c4b9e22a65a2e9e2ab74e2c3f4cfd97a8e2bda225b4a1bfa6cd55d4e3",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/ee/eng/",
+      "name_en": "Electrical and Electronic Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/ee/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-electrical-and-electronic-engineering-a0a15278e4",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "必修工程数学、电磁学和电路；选修可涉电磁波通信、电力、器件及材料性能，另有必修实验与独立研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-ac55f9f6ed5a3f"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "必修工程数学、电磁学和电路；选修可涉电磁波通信、电力、器件及材料性能，另有必修实验与独立研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-ac55f9f6ed5a3f"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/ee/eng/"
+        },
+        {
+          "id": "ASREN-ac55f9f6ed5a3f",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/ee/eng/education/ee_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "b22763d3fca62ddbc188333af1bb95f1b14cc281b8706411a5d383d80ae18a5b",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/ict/eng/",
+      "name_en": "Information and Communications Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/ict/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-information-and-communications-engineering-1834d64745",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "课程分通信网络安全、基础数学、信号处理、集成电路与计算机、人本信息系统；编程与实验是必修训练，后续完成独立研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-d1d120abe241c3"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "课程分通信网络安全、基础数学、信号处理、集成电路与计算机、人本信息系统；编程与实验是必修训练，后续完成独立研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-d1d120abe241c3"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/ict/eng/"
+        },
+        {
+          "id": "ASREN-d1d120abe241c3",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/ict/eng/education/ict_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "1b01b99e24f4492f47faaafef52f18fb21ce90e5173c3e890079747b3d3168c2",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/iee/eng/",
+      "name_en": "Industrial Engineering and Economics",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/iee/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-industrial-engineering-and-economics-4af62709ea",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "跨数学、经济、经营管理与管理技术学习；数学基础包括概率统计和运筹方法，最后通过独立研究整合与应用所学。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-f77b2e68528d3c"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "跨数学、经济、经营管理与管理技术学习；数学基础包括概率统计和运筹方法，最后通过独立研究整合与应用所学。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-f77b2e68528d3c"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/iee/eng/"
+        },
+        {
+          "id": "ASREN-f77b2e68528d3c",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/iee/eng/education/iee_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "26c07545bc348a2bc124bc6885c0a70f9fc20fcc42747bbaae8b2ca92bc5aa84",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/mat/eng/",
+      "name_en": "Materials Science and Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/mat/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-materials-science-and-engineering-3c78e0374a",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "从基础科学进入材料专业的200／300级课程，综合学习不同材料领域；配合实验与独立研究训练材料知识的应用和研究能力。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-1851fd6570624f"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "从基础科学进入材料专业的200／300级课程，综合学习不同材料领域；配合实验与独立研究训练材料知识的应用和研究能力。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-1851fd6570624f"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/mat/eng/"
+        },
+        {
+          "id": "ASREN-1851fd6570624f",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/mat/eng/education/mat_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "d50e85a8645785ed187ad25f366a3c181c1e75bb4b3952c750ad2347ef33710a",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/cap/eng/",
+      "name_en": "Chemical Science and Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/cap/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-chemical-science-and-engineering-261f9e4050",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "大二三年学习反应工程、无机有机与物理化学；可选应用分子化学、化学系统工程及高分子科技，配合必修实验与独立研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-5f46a2309bd1b9"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "大二三年学习反应工程、无机有机与物理化学；可选应用分子化学、化学系统工程及高分子科技，配合必修实验与独立研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-5f46a2309bd1b9"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/cap/eng/"
+        },
+        {
+          "id": "ASREN-5f46a2309bd1b9",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/cap/eng/education/cap_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "68ecd760bdf0bdc419d05d5c820db4421014bc6d4aab3a88e9780dd6198d78d6",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/is/eng/",
+      "name_en": "Mathematical and Computing Science",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/is/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-mathematical-and-computing-science-6697a63d91",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "从数学科学与计算机基础进阶至应用数学及计算理论技术；通过毕业独立研究训练解决问题、交流与研究能力。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-bc0ce77bcbab32"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "从数学科学与计算机基础进阶至应用数学及计算理论技术；通过毕业独立研究训练解决问题、交流与研究能力。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-bc0ce77bcbab32"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/is/eng/"
+        },
+        {
+          "id": "ASREN-bc0ce77bcbab32",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/is/eng/education/is_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "017c84293d6929260663714698bef20da8d91198d801a07bcc889daf1bb4cea1",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/cs/eng/",
+      "name_en": "Computer Science",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/cs/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-computer-science-0ffecb5972",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "大二学计算模型、概率统计、数据结构算法及多种编程范式；大三含数据库、系统编程、网络，大四进行独立研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-bf8fee8ab59d45"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "大二学计算模型、概率统计、数据结构算法及多种编程范式；大三含数据库、系统编程、网络，大四进行独立研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-bf8fee8ab59d45"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/cs/eng/"
+        },
+        {
+          "id": "ASREN-bf8fee8ab59d45",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/cs/eng/education/cs_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "98ddc607843f941ccc5e8029d69dae6a025e5897a7b78d3eff163694b6abe4c9",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/bio/eng/",
+      "name_en": "Life Science and Technology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/bio/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-life-science-and-technology-0d51b9c20a",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "大二基础含物理化学、有机化学、生物化学和分子生物；后续专业选修、生命伦理、实验与数据分析，再设计并完成独立研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-f3148e93ddb66c"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "大二基础含物理化学、有机化学、生物化学和分子生物；后续专业选修、生命伦理、实验与数据分析，再设计并完成独立研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-f3148e93ddb66c"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/bio/eng/"
+        },
+        {
+          "id": "ASREN-f3148e93ddb66c",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/bio/eng/education/bio_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "b8d9ad42da6694ad3cd991838e503940d98bcf6c2e2515300ca63ab6f809333b",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/arch/eng/",
+      "name_en": "Architecture and Building Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/arch/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-architecture-and-building-engineering-d2ecdccc7b",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/arch/eng/"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/cv/eng/",
+      "name_en": "Civil and Environmental Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/cv/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-civil-and-environmental-engineering-4d9d18ae38",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "专业课涵盖结构、水力与水工程、岩土、建筑材料及基础设施规划；项目与实验训练技术规划设计和团队协作，之后完成独立研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-8e1288bf707a4f"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "专业课涵盖结构、水力与水工程、岩土、建筑材料及基础设施规划；项目与实验训练技术规划设计和团队协作，之后完成独立研究。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-8e1288bf707a4f"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/cv/eng/"
+        },
+        {
+          "id": "ASREN-8e1288bf707a4f",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/cv/eng/education/cv_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "9a70e76d15773ca83e9cad5d7467dee05e8dfa577e8209a4390a86e9672d28be",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://educ.titech.ac.jp/tse/eng/",
+      "name_en": "Transdisciplinary Science and Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://educ.titech.ac.jp/tse/eng/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-transdisciplinary-science-and-engineering-5f723397a5",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-bd08c6a652de9a"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "必修数学基础、工程基础和共创基础；选修涉及国际发展、资源能源、环境政策、社会系统等。共创课用项目学习，部分必修数学及工程课并用日语与英语。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-af9d5cb7646199"
+            ]
+          },
+          {
+            "label": "本科培养内容",
+            "text": "必修数学基础、工程基础和共创基础；选修涉及国际发展、资源能源、环境政策、社会系统等。共创课用项目学习，部分必修数学及工程课并用日语与英语。本轮未核2027新版逐门必修表。",
+            "source_ids": [
+              "ASREN-af9d5cb7646199"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "普通理工国际选考",
+            "text": "本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。",
+            "source_ids": [
+              "ASREN-54c3cc87b6a451"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-bd08c6a652de9a",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+          "locator": "https://educ.titech.ac.jp/tse/eng/"
+        },
+        {
+          "id": "ASREN-af9d5cb7646199",
+          "title": "官方本科课程结构",
+          "url": "https://educ.titech.ac.jp/tse/eng/education/tse_undergraduate/curriculum.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程区中明确出现的内容示例；未把这些示例视为完整必修表",
+          "sha256": "eecb4610a12a56ba9c5f8f1233ce24a847a1f09a9005d82a13ae3f4fa98780e1",
+          "locator": "undergraduate curriculum / course list"
+        },
+        {
+          "id": "ASREN-54c3cc87b6a451",
+          "title": "东京科学大学理工学2027私费外国人特别选拔",
+          "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+          "checked_at": "2026-09-12",
+          "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+          "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+          "locator": "出願資格／選抜方法"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027",
+        "tuition_summary": "现行 JPY635,400/年；可调整",
+        "language": "日语与英语（普通课程）"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "https://www.tmd.ac.jp/english/faculties/igaku/school_of_medicine/",
+      "name_en": "School of Medicine",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.tmd.ac.jp/english/faculties/igaku/school_of_medicine/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-school-of-medicine-bfd94200ec",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-b6d916def8d1ff"
+            ]
+          },
+          {
+            "label": "官方学制",
+            "text": "2027医齿国际本科简章列本项学制6年。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "医齿身份与EJU科目",
+            "text": "2027医齿私费国际特选要求非日本籍且无日本永住、不属日本高中毕业者，并完成认可海外12年教育或IB／A-Level等。EJU须日语、数学2、物化生选2，全部用日语卷；可用2025或2026年6／11月其中一次，另参加校内考试及面试。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027医齿申请",
+            "text": "网页预开放2026-12-21 10:00；正式注册2027-01-04至01-08 15:00日本时间，纸质材料同日17:00前寄达。笔试02-25、面试03-13；当前尚未开放。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在医齿学系当前年学费JPY642,960。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-b6d916def8d1ff",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-md",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "fe4bf6a08a8760fcd016cf0a71ecab66a31312f383ed91c9c2311bc1f51ee454",
+          "locator": "https://www.tmd.ac.jp/english/faculties/igaku/school_of_medicine/"
+        },
+        {
+          "id": "ASREN-778dd10e16a077",
+          "title": "东京科学大学医齿学2027国际生简章",
+          "url": "https://admissions.isct.ac.jp/plugins/cms/component_download_file.php?type=1&pageId=3088&contentsId=&contentsDataId=&prevId=&key=b3e79856233972df2ebabe76281ccad5.pdf&fileName=【公開版】令和9 (2027) 年度私費外国人留学生特別選抜学生募集要項",
+          "checked_at": "2026-09-12",
+          "supports": "6个本科的学制、EJU、考试及申请时间",
+          "sha256": "9c80be01c5db580308423b5e2ece68692e441b950a56bc78d7e335dbae17cafe",
+          "locator": "PDF pages9–12"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "duration": "6 年",
+        "intake": "2027",
+        "tuition_summary": "现行 JPY642,960/年；可调整"
+      },
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications"
+      ]
+    },
+    {
+      "raw_key": "https://www.tmd.ac.jp/english/faculties/igaku/school_of_health_care_sciences/nursing/",
+      "name_en": "School of Health Care Sciences Nursing Sciences",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.tmd.ac.jp/english/faculties/igaku/school_of_health_care_sciences/nursing/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-school-of-health-care-sciences-nursing-sciences-b7dc751e46",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-b6d916def8d1ff"
+            ]
+          },
+          {
+            "label": "官方学制",
+            "text": "2027医齿国际本科简章列本项学制4年。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "医齿身份与EJU科目",
+            "text": "2027医齿私费国际特选要求非日本籍且无日本永住、不属日本高中毕业者，并完成认可海外12年教育或IB／A-Level等。EJU须日语、数学1、物化生选2，全部用日语卷；可用2025或2026年6／11月其中一次，另参加校内考试及面试。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027医齿申请",
+            "text": "网页预开放2026-12-21 10:00；正式注册2027-01-04至01-08 15:00日本时间，纸质材料同日17:00前寄达。笔试02-25、面试03-13；当前尚未开放。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在医齿学系当前年学费JPY642,960。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-b6d916def8d1ff",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-md",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "fe4bf6a08a8760fcd016cf0a71ecab66a31312f383ed91c9c2311bc1f51ee454",
+          "locator": "https://www.tmd.ac.jp/english/faculties/igaku/school_of_health_care_sciences/nursing/"
+        },
+        {
+          "id": "ASREN-778dd10e16a077",
+          "title": "东京科学大学医齿学2027国际生简章",
+          "url": "https://admissions.isct.ac.jp/plugins/cms/component_download_file.php?type=1&pageId=3088&contentsId=&contentsDataId=&prevId=&key=b3e79856233972df2ebabe76281ccad5.pdf&fileName=【公開版】令和9 (2027) 年度私費外国人留学生特別選抜学生募集要項",
+          "checked_at": "2026-09-12",
+          "supports": "6个本科的学制、EJU、考试及申请时间",
+          "sha256": "9c80be01c5db580308423b5e2ece68692e441b950a56bc78d7e335dbae17cafe",
+          "locator": "PDF pages9–12"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "duration": "4 年",
+        "intake": "2027",
+        "tuition_summary": "现行 JPY642,960/年；可调整"
+      },
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications"
+      ]
+    },
+    {
+      "raw_key": "https://www.tmd.ac.jp/english/faculties/igaku/school_of_health_care_sciences/medical_technology/",
+      "name_en": "School of Health Care Sciences Medical Technology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.tmd.ac.jp/english/faculties/igaku/school_of_health_care_sciences/medical_technology/",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-school-of-health-care-sciences-medical-technology-55a5ebca6f",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-b6d916def8d1ff"
+            ]
+          },
+          {
+            "label": "官方学制",
+            "text": "2027医齿国际本科简章列本项学制4年。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "医齿身份与EJU科目",
+            "text": "2027医齿私费国际特选要求非日本籍且无日本永住、不属日本高中毕业者，并完成认可海外12年教育或IB／A-Level等。EJU须日语、数学2、物化生选2，全部用日语卷；可用2025或2026年6／11月其中一次，另参加校内考试及面试。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027医齿申请",
+            "text": "网页预开放2026-12-21 10:00；正式注册2027-01-04至01-08 15:00日本时间，纸质材料同日17:00前寄达。笔试02-25、面试03-13；当前尚未开放。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在医齿学系当前年学费JPY642,960。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-b6d916def8d1ff",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-md",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "fe4bf6a08a8760fcd016cf0a71ecab66a31312f383ed91c9c2311bc1f51ee454",
+          "locator": "https://www.tmd.ac.jp/english/faculties/igaku/school_of_health_care_sciences/medical_technology/"
+        },
+        {
+          "id": "ASREN-778dd10e16a077",
+          "title": "东京科学大学医齿学2027国际生简章",
+          "url": "https://admissions.isct.ac.jp/plugins/cms/component_download_file.php?type=1&pageId=3088&contentsId=&contentsDataId=&prevId=&key=b3e79856233972df2ebabe76281ccad5.pdf&fileName=【公開版】令和9 (2027) 年度私費外国人留学生特別選抜学生募集要項",
+          "checked_at": "2026-09-12",
+          "supports": "6个本科的学制、EJU、考试及申请时间",
+          "sha256": "9c80be01c5db580308423b5e2ece68692e441b950a56bc78d7e335dbae17cafe",
+          "locator": "PDF pages9–12"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "duration": "4 年",
+        "intake": "2027",
+        "tuition_summary": "现行 JPY642,960/年；可调整"
+      },
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications"
+      ]
+    },
+    {
+      "raw_key": "https://www.dent.tmd.ac.jp/dentistry/en.html",
+      "name_en": "School of Dentistry",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.dent.tmd.ac.jp/dentistry/en.html",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-school-of-dentistry-d83f8623a4",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-b6d916def8d1ff"
+            ]
+          },
+          {
+            "label": "官方学制",
+            "text": "2027医齿国际本科简章列本项学制6年。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "医齿身份与EJU科目",
+            "text": "2027医齿私费国际特选要求非日本籍且无日本永住、不属日本高中毕业者，并完成认可海外12年教育或IB／A-Level等。EJU须日语、数学2、物化生选2，全部用日语卷；可用2025或2026年6／11月其中一次，另参加校内考试及面试。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027医齿申请",
+            "text": "网页预开放2026-12-21 10:00；正式注册2027-01-04至01-08 15:00日本时间，纸质材料同日17:00前寄达。笔试02-25、面试03-13；当前尚未开放。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在医齿学系当前年学费JPY642,960。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-b6d916def8d1ff",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-md",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "fe4bf6a08a8760fcd016cf0a71ecab66a31312f383ed91c9c2311bc1f51ee454",
+          "locator": "https://www.dent.tmd.ac.jp/dentistry/en.html"
+        },
+        {
+          "id": "ASREN-778dd10e16a077",
+          "title": "东京科学大学医齿学2027国际生简章",
+          "url": "https://admissions.isct.ac.jp/plugins/cms/component_download_file.php?type=1&pageId=3088&contentsId=&contentsDataId=&prevId=&key=b3e79856233972df2ebabe76281ccad5.pdf&fileName=【公開版】令和9 (2027) 年度私費外国人留学生特別選抜学生募集要項",
+          "checked_at": "2026-09-12",
+          "supports": "6个本科的学制、EJU、考试及申请时间",
+          "sha256": "9c80be01c5db580308423b5e2ece68692e441b950a56bc78d7e335dbae17cafe",
+          "locator": "PDF pages9–12"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "duration": "6 年",
+        "intake": "2027",
+        "tuition_summary": "现行 JPY642,960/年；可调整"
+      },
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications"
+      ]
+    },
+    {
+      "raw_key": "https://www.dent.tmd.ac.jp/sohc/en.html",
+      "name_en": "Course for Oral Health Care Sciences",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.dent.tmd.ac.jp/sohc/en.html",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-course-for-oral-health-care-sciences-cdc9662477",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-b6d916def8d1ff"
+            ]
+          },
+          {
+            "label": "官方学制",
+            "text": "2027医齿国际本科简章列本项学制4年。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "医齿身份与EJU科目",
+            "text": "2027医齿私费国际特选要求非日本籍且无日本永住、不属日本高中毕业者，并完成认可海外12年教育或IB／A-Level等。EJU须日语、数学1、物化生选2，全部用日语卷；可用2025或2026年6／11月其中一次，另参加校内考试及面试。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027医齿申请",
+            "text": "网页预开放2026-12-21 10:00；正式注册2027-01-04至01-08 15:00日本时间，纸质材料同日17:00前寄达。笔试02-25、面试03-13；当前尚未开放。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在医齿学系当前年学费JPY642,960。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-b6d916def8d1ff",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-md",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "fe4bf6a08a8760fcd016cf0a71ecab66a31312f383ed91c9c2311bc1f51ee454",
+          "locator": "https://www.dent.tmd.ac.jp/sohc/en.html"
+        },
+        {
+          "id": "ASREN-778dd10e16a077",
+          "title": "东京科学大学医齿学2027国际生简章",
+          "url": "https://admissions.isct.ac.jp/plugins/cms/component_download_file.php?type=1&pageId=3088&contentsId=&contentsDataId=&prevId=&key=b3e79856233972df2ebabe76281ccad5.pdf&fileName=【公開版】令和9 (2027) 年度私費外国人留学生特別選抜学生募集要項",
+          "checked_at": "2026-09-12",
+          "supports": "6个本科的学制、EJU、考试及申请时间",
+          "sha256": "9c80be01c5db580308423b5e2ece68692e441b950a56bc78d7e335dbae17cafe",
+          "locator": "PDF pages9–12"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "duration": "4 年",
+        "intake": "2027",
+        "tuition_summary": "现行 JPY642,960/年；可调整"
+      },
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications"
+      ]
+    },
+    {
+      "raw_key": "https://www.dent.tmd.ac.jp/ohe/en.html",
+      "name_en": "Course for Oral Health Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://www.dent.tmd.ac.jp/ohe/en.html",
+      "university_id": "science-tokyo",
+      "inventory_id": "science-tokyo-course-for-oral-health-engineering-fd818f2c3e",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-b6d916def8d1ff"
+            ]
+          },
+          {
+            "label": "官方学制",
+            "text": "2027医齿国际本科简章列本项学制4年。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "医齿身份与EJU科目",
+            "text": "2027医齿私费国际特选要求非日本籍且无日本永住、不属日本高中毕业者，并完成认可海外12年教育或IB／A-Level等。EJU须日语、数学1、物化生选2，全部用日语卷；可用2025或2026年6／11月其中一次，另参加校内考试及面试。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027医齿申请",
+            "text": "网页预开放2026-12-21 10:00；正式注册2027-01-04至01-08 15:00日本时间，纸质材料同日17:00前寄达。笔试02-25、面试03-13；当前尚未开放。",
+            "source_ids": [
+              "ASREN-778dd10e16a077"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "对应学系现行本科费",
+            "text": "本项所在医齿学系当前年学费JPY642,960。入学金282,000另计；官方可调整，未作2027锁定价。",
+            "source_ids": [
+              "ASREN-04b77268a51668"
+            ]
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-b6d916def8d1ff",
+          "title": "官方本科目录",
+          "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-md",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "fe4bf6a08a8760fcd016cf0a71ecab66a31312f383ed91c9c2311bc1f51ee454",
+          "locator": "https://www.dent.tmd.ac.jp/ohe/en.html"
+        },
+        {
+          "id": "ASREN-778dd10e16a077",
+          "title": "东京科学大学医齿学2027国际生简章",
+          "url": "https://admissions.isct.ac.jp/plugins/cms/component_download_file.php?type=1&pageId=3088&contentsId=&contentsDataId=&prevId=&key=b3e79856233972df2ebabe76281ccad5.pdf&fileName=【公開版】令和9 (2027) 年度私費外国人留学生特別選抜学生募集要項",
+          "checked_at": "2026-09-12",
+          "supports": "6个本科的学制、EJU、考试及申请时间",
+          "sha256": "9c80be01c5db580308423b5e2ece68692e441b950a56bc78d7e335dbae17cafe",
+          "locator": "PDF pages9–12"
+        },
+        {
+          "id": "ASREN-04b77268a51668",
+          "title": "东京科学大学两学系本科学费",
+          "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+          "checked_at": "2026-09-12",
+          "supports": "理工及医齿分别年费",
+          "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+          "locator": "理工学系／医歯学系"
+        }
+      ],
+      "display_fields": {
+        "duration": "4 年",
+        "intake": "2027",
+        "tuition_summary": "现行 JPY642,960/年；可调整"
+      },
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications"
+      ]
+    }
+  ],
+  "profile": {
+    "university_id": "science-tokyo",
+    "checked_at": "2026-09-12",
+    "scope": "理工学系与医齿学系分别招生；以下两类规则标明范围，不把GSEP英语项目等同普通理工特选。",
+    "sections": {
+      "admissions": [
+        {
+          "label": "理工2027国际资格",
+          "text": "理工特选要求无日本国籍（含日本双重国籍不符），日本高中毕业者或日本永住者不适用；须于2027-03-31完成认可海外12年教育或所列IB／A-Level等资格。中国普高、高考或国际课程均不免除本途径EJU和校内考试。",
+          "source_ids": [
+            "ASREN-54c3cc87b6a451"
+          ]
+        },
+        {
+          "label": "理工EJU明确下限",
+          "text": "使用2026年6月或11月其中一次EJU：日语含写作至少290/450，物理、化学与数学2合计至少310/400；不得跨两次拼分。校内还考数学、物理、化学、英语、日语，再面试；这些是申请／筛选要求，不是保证录取分。",
+          "source_ids": [
+            "ASREN-54c3cc87b6a451"
+          ]
+        },
+        {
+          "label": "医齿2027独立路径",
+          "text": "医齿六个本科另用2027私费外国人简章；日本国籍、永住或日本高中毕业者不适用，须认可海外12年教育或列明国际资格。EJU可用2025或2026年6／11月一次成绩，专业科目见本项记录；不采用理工290/310门槛。",
+          "source_ids": [
+            "ASREN-778dd10e16a077"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "label": "理工2027时间",
+          "text": "页面说明完整2027特选简章拟10月中旬发布，本轮未取得申请提交截止。页面已列2027-01-20笔试、02-10面试；不可沿用旧2026简章申请期。",
+          "source_ids": [
+            "ASREN-54c3cc87b6a451"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "label": "两学系现行年费不同",
+          "text": "理工本科自2019起年学费JPY635,400；医齿本科自2020起年学费642,960；两类普通新生入学金均282,000、考试费17,000。是官网当前标准且可调整，不把合并后的大学写成统一学费。",
+          "source_ids": [
+            "ASREN-04b77268a51668"
+          ]
+        },
+        {
+          "label": "资助边界",
+          "text": "官方收费页分别提供学费／入学金减免与奖学金入口；本轮未核得2027中国普通本科新生可保证的奖项金额或续领标准。",
+          "source_ids": [
+            "ASREN-04b77268a51668"
+          ]
+        }
+      ],
+      "outcomes": []
+    },
+    "sources": [
+      {
+        "id": "ASREN-54c3cc87b6a451",
+        "title": "东京科学大学理工学2027私费外国人特别选拔",
+        "url": "https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international",
+        "checked_at": "2026-09-12",
+        "supports": "2027资格、EJU下限和考试；完整简章拟10月中旬",
+        "sha256": "ccdbc5250d9b3f9bf4a20c0959766b97c464259080fa8d4fd625039d78189e82",
+        "locator": "出願資格／選抜方法"
+      },
+      {
+        "id": "ASREN-778dd10e16a077",
+        "title": "东京科学大学医齿学2027国际生简章",
+        "url": "https://admissions.isct.ac.jp/plugins/cms/component_download_file.php?type=1&pageId=3088&contentsId=&contentsDataId=&prevId=&key=b3e79856233972df2ebabe76281ccad5.pdf&fileName=【公開版】令和9 (2027) 年度私費外国人留学生特別選抜学生募集要項",
+        "checked_at": "2026-09-12",
+        "supports": "6个本科的学制、EJU、考试及申请时间",
+        "sha256": "9c80be01c5db580308423b5e2ece68692e441b950a56bc78d7e335dbae17cafe",
+        "locator": "PDF pages9–12"
+      },
+      {
+        "id": "ASREN-04b77268a51668",
+        "title": "东京科学大学两学系本科学费",
+        "url": "https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition",
+        "checked_at": "2026-09-12",
+        "supports": "理工及医齿分别年费",
+        "sha256": "200a45bad1c808d306470d1910dda2b85398cf476285ae5118370f5a31165219",
+        "locator": "理工学系／医歯学系"
+      }
+    ]
+  }
+}

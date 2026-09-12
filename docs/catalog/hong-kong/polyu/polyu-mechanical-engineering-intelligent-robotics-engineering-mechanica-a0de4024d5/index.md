@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Mechanical Engineering (Intelligent Robotics Engineering / Mechanical Engineering)  - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>HK$200,000/年（2026/27非本地参考）</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>一般英语；临床/语言课程另列</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,21 +42,77 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>课程内容：</strong>机械工程组合课程提供智能机器人工程和机械工程两个方向，涉及工程系统、机器人、自动化与设计。</p>
+<p class="fact-sources"><a href="#source-p-polyu-detail-31dce941e0744032a1e6">官方依据</a></p>
+
+<p class="catalog-fact"><strong>授课语言：</strong>大学2026高考FAQ说明本科一般以英语授课；语言类科目及临床实习可能另有沟通语言要求。</p>
+<p class="fact-sources"><a href="#source-p-polyu-gaokao-faq">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>2026高考选科：</strong>官方本课程高考页要求：理科新高考不分文理考生：须修读生物、化学或物理科目。。2027要求本轮未取得。</p>
+<p class="fact-sources"><a href="#source-p-polyu-jee-js3741">官方依据</a></p>
+
+<p class="catalog-fact"><strong>核验边界：</strong>本轮仅列已读取的课程要求，未逐项补齐2027各学历先修、竞争分数与材料格式；普通最低资格不等于录取。</p>
+<p class="fact-sources"><a href="#source-p-polyu-detail-31dce941e0744032a1e6">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>内地高考独立招生：</strong>2026内地高考申请独立于统招，直接通过理大系统提交。须使用当年高考成绩并英语良好；复读生可用当年成绩申请。课程另有选科、作品、材料或面试要求，本轮未取得统一高考录取分数线。</p>
+<p class="fact-sources"><a href="#source-u-polyu-gaokao-faq">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际学历要求：</strong>A-level/IAL至少3门B；IB要求取得文凭，官网说明近年录取者通常32/45以上，预测30以上可能获面试。这些参考不能换算为高考录取线；个别课程先修另列。</p>
+<p class="fact-sources"><a href="#source-u-polyu-intl-requirements">官方依据</a></p>
+
+<p class="catalog-fact"><strong>非本地英语要求：</strong>通常IELTS Academic同次总分6.0或TOEFL iBT同次80，成绩有效期两年；不接受IELTS Online、Indicator、One Skill Retake或TOEFL Home Edition。页面另列学历替代资格；2027新制TOEFL对照本轮未取得，专业可有更高要求。</p>
+<p class="fact-sources"><a href="#source-u-polyu-english">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>高考志愿顺序：</strong>2026本课程考虑第二志愿申请，但须满足全部条件。</p>
+<p class="fact-sources"><a href="#source-p-polyu-jee-js3741">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026高考截止：</strong>本课程高考页列2026年6月22日截止，已结束；2027日期本轮未取得。</p>
+<p class="fact-sources"><a href="#source-p-polyu-jee-js3741">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026高考窗口已结束：</strong>2026入学自2025年10月3日开放，高考申请延长截止至2026年6月22日；6月下旬补成绩，结果于6月下旬至7月7日公布。3D综合评估早轮2月5日、常规5月15日截止。2027完整日程本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-polyu-jee">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际学历与路线范围：</strong>本轮读取的国际目录为2026年9月入学，所列课程截止2026年5月15日，已结束。2027国际申请日历及高年级独立期限本轮未取得；不能将本地JUPAS/Non-JUPAS日期用于内地高考。</p>
+<p class="fact-sources"><a href="#source-u-polyu-international">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>2026/27非本地费用：</strong>政府资助全日制本科年学费港币200,000元（2026/27），不含食宿；2027费用本轮未取得。</p>
+<p class="fact-sources"><a href="#source-p-polyu-gaokao-fees">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026/27政府资助非本地费用：</strong>2026/27政府资助全日制本科年学费港币200,000元，分两学期缴付；接受录取留位费20,000元抵首学期学费。本轮未取得2027新生费用，不适用于未核身份的本地高年级或自资课程。</p>
+<p class="fact-sources"><a href="#source-u-polyu-gaokao-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>奖学金入口与条件：</strong>优秀全日制本科申请人自动获考虑成绩型入学奖学金，一般无须另申请，外部机构奖学金除外。各奖项按本地/非本地及学历类别区分；未逐项核实本项目2027金额和续领条件，不把DSE奖项套给高考生。</p>
+<p class="fact-sources"><a href="#source-u-polyu-scholarships">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>课程就业数据缺口：</strong>本轮未取得本专业说明届次、调查分母及内地/非本地身份的就业率；职业资格须另满足当时适用的注册或实践要求。</p>
+<p class="fact-sources"><a href="#source-p-polyu-detail-31dce941e0744032a1e6">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>毕业统计范围：</strong>本轮未取得各专业按届次、调查分母及内地/非本地身份区分的就业率；课程职业方向属于培养或行业说明，不是毕业统计。</p>
+<p class="fact-sources"><a href="#source-u-polyu-international">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -65,5 +121,16 @@ hide:
 - [官方项目页面或项目所在目录](https://www.polyu.edu.hk/study/ug/jee/2026/js3741)
 - [官方目录](https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=2)
 
+<div class="catalog-source" id="source-p-polyu-detail-31dce941e0744032a1e6"><div><a href="https://www.polyu.edu.hk/study/ug/jee/2026/js3741">polyu 官方本科资料：detail-31dce941e0744032a1e6 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-polyu-gaokao-faq"><div><a href="https://www.polyu.edu.hk/study/ug/admissions/jee/frequently-asked-questions">polyu 官方本科资料：gaokao-faq ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-polyu-jee-js3741"><div><a href="https://www.polyu.edu.hk/study/ug/jee/2026/js3741">polyu 官方本科资料：jee-js3741 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-polyu-gaokao-fees"><div><a href="https://www.polyu.edu.hk/study/ug/admissions/jee/tuition-fees-for-government-funded-programmes">polyu 官方本科资料：gaokao-fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polyu-gaokao-faq"><div><a href="https://www.polyu.edu.hk/study/ug/admissions/jee/frequently-asked-questions">polyu 官方本科资料：gaokao-faq ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polyu-intl-requirements"><div><a href="https://www.polyu.edu.hk/study/ug/admissions/international-other-qualifications/international-other-qualifications-general">polyu 官方本科资料：intl-requirements ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polyu-english"><div><a href="https://www.polyu.edu.hk/study/ug/admissions/international-other-qualifications/international-other-qualifications-english">polyu 官方本科资料：english ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polyu-jee"><div><a href="https://www.polyu.edu.hk/study/ug/admissions/jee">polyu 官方本科资料：jee ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polyu-international"><div><a href="https://www.polyu.edu.hk/study/ug/admissions/international-other-qualifications">polyu 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polyu-gaokao-fees"><div><a href="https://www.polyu.edu.hk/study/ug/admissions/jee/tuition-fees-for-government-funded-programmes">polyu 官方本科资料：gaokao-fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polyu-scholarships"><div><a href="https://www.polyu.edu.hk/study/ug/fees-and-scholarships/scholarships">polyu 官方本科资料：scholarships ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/hong-kong/polyu/">← 返回香港理工大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

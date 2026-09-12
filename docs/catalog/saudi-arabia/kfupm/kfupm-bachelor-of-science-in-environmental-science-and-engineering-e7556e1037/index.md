@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Bachelor of Science in Environmental Science and Engineering</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4 年；通常另有 1 年预科</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语（学校本科说明）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -36,17 +36,77 @@ hide:
 
 <p><strong>目录适用期：</strong>官网当前目录；未标明确入学年度，核对于2026-09-12</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>Bachelor of Science in Environmental Science and Engineering；为本科目录独立项目，保留官方实习／暑期训练变体。</p>
+<p class="fact-sources"><a href="#source-p-KFREN-69044521a51bf8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学制与预科：</strong>课程页列4年本科，通常另需1年预科；SkipPrep可按另行条件跳过全部或部分预科。本轮未核定个人免预科资格。</p>
+<p class="fact-sources"><a href="#source-p-KFREN-69044521a51bf8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>授课语言：</strong>学校国际本科说明采用英语授课；课程计划另含Islamic &amp; Arabic Studies通识科目，不能推断这些通识课全部为英语。</p>
+<p class="fact-sources"><a href="#source-p-KFREN-d6ac49bf8a3c7e">官方依据</a> · <a href="#source-p-KFREN-69044521a51bf8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>专业课程举例：</strong>当前课程计划包括：水处理与回用（ESE 431）；固体与危险废物管理（ESE 432）；工艺空气污染控制（CHE 470）；环境影响评价（GEO 466）。所列为实例，完整选修与先修关系须看课程计划。</p>
+<p class="fact-sources"><a href="#source-p-KFREN-69044521a51bf8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>当前逐学期学分：</strong>完整逐学期表标129学分，逐行课程学分相加亦为129；不包含另行预科。</p>
+<p class="fact-sources"><a href="#source-p-KFREN-69044521a51bf8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>实践环节：</strong>逐学期表列：ESE 399（暑期训练，1学分）。本轮未从课程代码推算实习周数。</p>
+<p class="fact-sources"><a href="#source-p-KFREN-69044521a51bf8">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>中国高中与SAT路线：</strong>境外国际本科入口接受自然科学取向高中毕业生，SAT至少1350并须通过大学数学测评；达到最低分仅能参与竞争，不能保证录取。不要求Qudrat或Tahsili。本轮未取得中国高考直录分数或普通高中等效资格细则，不能把高考替代SAT。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-f9658c5ea78dad">官方依据</a> · <a href="#source-u-KFREN-a953fb40d9ad96">官方依据</a></p>
+
+<p class="catalog-fact"><strong>毕业年份存在来源差异：</strong>招生办SAT条件页写入学当年或前两年高中毕业，国际学生概览仍写当年或前一年。2027资格适用年尚未完整取得，往届生须按下一轮SAT正式条件核实；不将其中任一窗口静默视为2027保证。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-a953fb40d9ad96">官方依据</a> · <a href="#source-u-KFREN-f9658c5ea78dad">官方依据</a></p>
+
+<p class="catalog-fact"><strong>IGCSE／A-Level附加要求：</strong>招生办现行IGCSE条款要求10、11年级正规在校成绩；12年级列三种组合：8门GCSE；或5门GCSE加1门A-Level；或5门GCSE加2门AS-Level，各门最低B，并由学校换算百分制。仍须符合所选招生路线；这不是免SAT资格。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-20ab76f9757805">官方依据</a></p>
+
+<p class="catalog-fact"><strong>授课语言与英语成绩边界：</strong>学校国际资助页说明课程以英语授课。当前本科SAT专节未列独立IELTS／TOEFL最低分，本轮不把同网页研究生IELTS6.0或其他本地通道分数当本科SAT标准。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-d6ac49bf8a3c7e">官方依据</a> · <a href="#source-u-KFREN-20ab76f9757805">官方依据</a> · <a href="#source-u-KFREN-f9658c5ea78dad">官方依据</a></p>
+
+<p class="catalog-fact"><strong>预医身份限制：</strong>Bioengineering PreMed与King Saud bin Abdulaziz University for Health Sciences（KSAU-HS）合作；部门FAQ明确只收沙特公民、不对国际学生开放。普通Bioengineering本科不因此自动获得医学衔接资格。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-fd1d7df8003f80">官方依据</a></p>
+
+<p class="catalog-fact"><strong>CX为入学后方向：</strong>CX仅供KFUPM在读本科生：最低GPA2.0，一般已修79–115学分，商学院50–110学分，并完成相应初级专业课程及先修；Applied major和计划Internship／Co-op者不可选。具体方向还有允许主修代码。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-a6bad1e95f12b0">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>最近已核日期与2027缺口：</strong>SAT途径最近明确申请期为2026-02-01至02-15，已结束；当前首页为Closed／To be Announced。本轮未取得2027本科SAT申请开放及截止日，不能把2026日期改年。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-a953fb40d9ad96">官方依据</a> · <a href="#source-u-KFREN-5f975665642f92">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请与考核材料：</strong>通过大学在线招生入口申请，SAT成绩由College Board直送；交推荐信与个人陈述，参加大学数学考核，可能面试。境外国际入口说明录取后启动签证办理。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-a953fb40d9ad96">官方依据</a> · <a href="#source-u-KFREN-f9658c5ea78dad">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>境外国际本科免学费：</strong>学校现行国际本科页面写：居住沙特境外的国际生获免学费及全额奖学金。页面未标2027单届保障或续领细则；录取和资助仍须落实至本人正式通知。此身份与沙特境内持居留证的非沙特自费通道不同。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-d6ac49bf8a3c7e">官方依据</a> · <a href="#source-u-KFREN-6b322a49f760f1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>生活资助范围：</strong>本科资助页将校内住宿、教材借用、月津贴和校内医疗列为可能福利；本轮未取得本科津贴金额、2027续领GPA或覆盖全部生活费的证明，不将研究生机票／津贴条款混用。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-d6ac49bf8a3c7e">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -59,5 +119,15 @@ hide:
 - [官方项目页面或项目所在目录](https://bulletin.kfupm.edu.sa/program?program_id=122&title=bachelor-of-science-in-environmental-science-and-engineering)
 - [官方目录](https://bulletin.kfupm.edu.sa/programs/undergraduate-programs/)
 
+<div class="catalog-source" id="source-p-KFREN-69044521a51bf8"><div><a href="https://bulletin.kfupm.edu.sa/program?program_id=122&amp;title=bachelor-of-science-in-environmental-science-and-engineering">Bachelor of Science in Environmental Science and Engineering官方本科课程计划 ↗</a><p>项目名称、学制、预科说明、完整逐学期课程表、学分和实习形式；Description职业方向</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-KFREN-d6ac49bf8a3c7e"><div><a href="https://www.kfupm.edu.sa/study/international-students/fees-and-scholarships">KFUPM境外国际学生学费与资助 ↗</a><p>本科境外居住国际生免学费/资助范围；学校英语授课说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KFREN-f9658c5ea78dad"><div><a href="https://kfupm.edu.sa/study/international-students/apply-as-an-international-student">KFUPM境外国际学生申请 ↗</a><p>海外高中自然科学取向；SAT路线；年度资格存在来源差异</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KFREN-a953fb40d9ad96"><div><a href="https://admissions.kfupm.edu.sa/en/important-dates/track-detail/sat-track">KFUPM SAT招生途径2026 ↗</a><p>SAT最低1350、数学考核、材料和2026申请时间</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KFREN-20ab76f9757805"><div><a href="https://admissions.kfupm.edu.sa/en/new-admission/admissions-tracks">KFUPM现行招生途径与IGCSE要求 ↗</a><p>SAT路线及IGCSE条件；本科SAT未列独立英语分数</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KFREN-d6ac49bf8a3c7e"><div><a href="https://www.kfupm.edu.sa/study/international-students/fees-and-scholarships">KFUPM境外国际学生学费与资助 ↗</a><p>本科境外居住国际生免学费/资助范围；学校英语授课说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KFREN-5f975665642f92"><div><a href="https://admissions.kfupm.edu.sa/en">KFUPM招生首页 ↗</a><p>当前招生关闭和待公布状态</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KFREN-6b322a49f760f1"><div><a href="https://admissions.kfupm.edu.sa/en/new-admission/fee-study-program">KFUPM在沙非沙特学生申请 ↗</a><p>当地居留身份限制，不能套给中国境外申请者</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KFREN-fd1d7df8003f80"><div><a href="https://bioe.kfupm.edu.sa/academic-programs/undergraduate-programs/premed/faqs">KFUPM预医FAQ（2025年6月） ↗</a><p>KSAU-HS合作、沙特公民专属、学制、继续医学条件</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KFREN-a6bad1e95f12b0"><div><a href="https://cx.kfupm.edu.sa/">KFUPM当前本科CX目录 ↗</a><p>43项方向、主修适用代码、在读限制与课程先修</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/">← 返回法赫德国王石油与矿业大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

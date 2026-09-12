@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Public History</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026</strong></div><div><span>学制</span><strong>2 years</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026</strong></div><div><span>学制</span><strong>2 年</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,21 +42,37 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>课程内容：</strong>公共历史将历史知识应用于文化旅游、遗产保护、历史场所和公众参与。</p>
+<p class="fact-sources"><a href="#source-p-cuhk-detail-84b42f85cdc97d2ac722">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学制：</strong>本页2026课程信息列标准修读期2年；高年级衔接年数不可当作高中直入完整本科年数。</p>
+<p class="fact-sources"><a href="#source-p-cuhk-detail-84b42f85cdc97d2ac722">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>高年级衔接入口：</strong>官方目录本条仅列Non-JUPAS Senior Year；不直接作为内地高中毕业生一年级申请入口。具体副学位及身份条件须再核。</p>
+<p class="fact-sources"><a href="#source-p-cuhk-route-directory">官方依据</a></p>
+
+<p class="catalog-fact"><strong>官方目录资格备注：</strong>2-year curriculum for Senior Year Entry only</p>
+<p class="fact-sources"><a href="#source-p-cuhk-route-directory">官方依据</a></p>
+
+<p class="catalog-fact"><strong>专业先修与未来年缺口：</strong>本轮未逐项核实2027各学历专业先修、选科及面试分数。2026路线/资格仅作参考，不能以大学最低成绩推定录取。</p>
+<p class="fact-sources"><a href="#source-p-cuhk-detail-84b42f85cdc97d2ac722">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>2027窗口核验范围：</strong>本轮未取得本项目2027具体申请及材料截止；高年级/跨校/校内分流须查独立程序，不套普通国际新生窗口。</p>
+<p class="fact-sources"><a href="#source-p-cuhk-detail-84b42f85cdc97d2ac722">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>非本地资格及费用缺口：</strong>本轮未确认该高年级入口是否接受内地非本地申请者及相应收费，不直接套普通非本地新生费用。</p>
+<p class="fact-sources"><a href="#source-p-cuhk-detail-84b42f85cdc97d2ac722">官方依据</a></p>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>就业统计范围：</strong>本轮未取得按本专业、届次及内地/非本地学生范围并说明分母的就业率；毕业方向不等于就业统计。</p>
+<p class="fact-sources"><a href="#source-p-cuhk-detail-84b42f85cdc97d2ac722">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -65,5 +81,7 @@ hide:
 - [官方项目页面或项目所在目录](https://admission.cuhk.edu.hk/programme/histn-puh/)
 - [官方目录](https://admission.cuhk.edu.hk/programmes/list/)
 
+<div class="catalog-source" id="source-p-cuhk-detail-84b42f85cdc97d2ac722"><div><a href="https://admission.cuhk.edu.hk/programme/histn-puh/">cuhk 官方本科资料：detail-84b42f85cdc97d2ac722 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-cuhk-route-directory"><div><a href="https://admission.cuhk.edu.hk/programmes/list/">CUHK 2026本科课程及申请路线一览 ↗</a><p>申请类别、资格限制与条目身份</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/">← 返回香港中文大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

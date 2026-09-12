@@ -23,15 +23,69 @@ hide:
 
 ## 专业与申请资料
 
-4 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+4 个专业条目 · 0 个含详细资料 · 4 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=ip-paris#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/france/ip-paris/ip-paris-bachelor-of-science-f165a14cde/">Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/ip-paris/ip-paris-mathematics-and-computer-science-1c98e8a849/">Mathematics and Computer Science</a><small>Bachelor of Science — double specialisation · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/ip-paris/ip-paris-mathematics-and-economics-f5ecf79918/">Mathematics and Economics</a><small>Bachelor of Science — double specialisation · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/france/ip-paris/ip-paris-mathematics-and-physics-64582f1af7/">Mathematics and Physics</a><small>Bachelor of Science — double specialisation · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/france/ip-paris/ip-paris-bachelor-of-science-f165a14cde/">理学学士（共同招生）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/ip-paris/ip-paris-mathematics-and-computer-science-1c98e8a849/">数学与计算机科学（双主修）</a><small>Bachelor of Science — double specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/ip-paris/ip-paris-mathematics-and-economics-f5ecf79918/">数学与经济学（双主修）</a><small>Bachelor of Science — double specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/france/ip-paris/ip-paris-mathematics-and-physics-64582f1af7/">数学与物理（双主修）</a><small>Bachelor of Science — double specialisation · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 专业说明
+
+<p class="catalog-fact"><strong>同校共用：实际办学单位：</strong>本目录是IP Paris成员École Polytechnique开设的Bachelor of Science及三个双主修方向，不能把其他成员的工程师、硕士或博士项目当作这一学位。</p>
+<p class="fact-sources"><a href="#source-u-ip-paris-central-bachelor">官方依据</a></p>
+
+### 入学条件
+
+<p class="catalog-fact"><strong>同校共用：中国高中资格边界：</strong>可凭在读或已获、受本国或国际认可的高中毕业/科学类大学入学资格申请；要求高水平数学及至少另一门高水平理科。学校未设统一申请最低总分，但强调优秀成绩和综合选拔；本轮未取得中国高考专门分数或豁免规则。</p>
+<p class="fact-sources"><a href="#source-u-ip-paris-admissions">官方依据</a> · <a href="#source-u-ip-paris-faq">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：英语与法语：</strong>IELTS总分6.5、每项6.0，成绩入学时须未满两年；可先申请后补达标英语。无需先懂法语，但毕业须达到法语B2。不接受二、三年级转入。</p>
+<p class="fact-sources"><a href="#source-u-ip-paris-admissions">官方依据</a> · <a href="#source-u-ip-paris-faq">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>同校共用：申请渠道：</strong>每学年只可申请一次，选学校在线系统或适用的Parcoursup，不能两边重复；Campus France提交的本学位录取申请不予审查。材料含成绩、动机、CV、证件与两位推荐人，至少一位为当前数学教师；短名单须英文远程面试。</p>
+<p class="fact-sources"><a href="#source-u-ip-paris-admissions">官方依据</a> · <a href="#source-u-ip-paris-faq">官方依据</a></p>
+
+<p class="catalog-fact"><strong>下一轮申请日程：</strong>官网表列第一轮2026-09-17至10-20 23:59 CEST；第二轮2026-10-21至2027-01-06 23:59 CET；第三轮2027-01-07至02-08 14:00 CET，结果在2027年1—4月。表前仍残留“2026 intakes”，本轮按表内具体日期记录此冲突；2026-09-12尚未开放。</p>
+<p class="fact-sources"><a href="#source-u-ip-paris-admissions">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2027非欧盟学费：</strong>FAQ明确2027入学non-EU/non-EEA为EUR19,600/年，专门收费页同额，并说明本学程内学费保持不变。总览页仍列未标年的EUR19,200，不作2027报价；Columbia后续硕士阶段适用其另行收费。</p>
+<p class="fact-sources"><a href="#source-u-ip-paris-faq">官方依据</a> · <a href="#source-u-ip-paris-fees">官方依据</a> · <a href="#source-u-ip-paris-about">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请费与押金：</strong>当前申请费EUR105；FAQ列两笔各EUR1,500不可退押金，可抵首年学费。支付期限按录取后的Enrollment Guidelines，不自行推定。</p>
+<p class="fact-sources"><a href="#source-u-ip-paris-admissions">官方依据</a> · <a href="#source-u-ip-paris-faq">官方依据</a></p>
+
+<p class="catalog-fact"><strong>奖助学金条件：</strong>学校按成绩和经济需要提供有限资助，建议需资助者优先早轮。Excellence奖学金限with honors录取者，及格进展与良好行为关系续领；国际生可申请校方需求型减免/贷款，不等同自动取得法国CROUS。奖助页还列每年EUR1,500管理费不予减免，是否计入总报价须按账单核对。</p>
+<p class="fact-sources"><a href="#source-u-ip-paris-funding">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>2022届本科在2025年受访情况：</strong>校方2025-12-16报告：2025年2—5月调查2022届79名毕业生，回应率63%，共50名受访者。毕业约30个月时，54%仍学习、36%受雇、2%求职、4%创业、4%其他。此为受访状态分布，包含法国和国际毕业生，不是大陆学生或各双主修的就业率。</p>
+<p class="fact-sources"><a href="#source-u-ip-paris-survey">官方依据</a></p>
+
+<p class="catalog-fact"><strong>薪资统计边界：</strong>同报告已受雇群体跨国平均税前年薪为不含奖金EUR57,000、含奖金EUR74,000；不能当作毕业即刻起薪、全部受访者平均或中国学生预期收入。各双主修独立结果本轮未核实。</p>
+<p class="fact-sources"><a href="#source-u-ip-paris-survey">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-ip-paris-central-bachelor"><div><a href="https://www.ip-paris.fr/en/education/bachelor-science">IP Paris: Bachelor of Science ↗</a><p>授予成员、三年英文双主修</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ip-paris-admissions"><div><a href="https://programmes.polytechnique.edu/en/bachelor/admissions/admissions-criteria-and-procedure">Admissions criteria and procedures ↗</a><p>资格、英语、程序、2026-2027申请轮次</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ip-paris-faq"><div><a href="https://programmes.polytechnique.edu/en/bachelor/admissions/faq">Bachelor FAQ ↗</a><p>法语毕业标准、2027费用、押金和推荐人</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ip-paris-about"><div><a href="https://programmes.polytechnique.edu/en/bachelor/about-the-bachelor/bachelor-of-science">Bachelor of Science overview ↗</a><p>三年180ECTS、分流与研究</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ip-paris-fees"><div><a href="https://programmes.polytechnique.edu/en/bachelor/costs-and-funding/tuition-fees">Annual tuition fees ↗</a><p>国际生收费与保持不变规则</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ip-paris-funding"><div><a href="https://programmes.polytechnique.edu/en/bachelor/costs-and-funding/scholarships-and-financial-aid">Scholarships and financial aid ↗</a><p>奖学金及助学资格</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ip-paris-survey"><div><a href="https://www.polytechnique.edu/en/news/bx2022-first-job-survey-impact-selectivity-and-internationalization">BX2022 first job survey, published 16 December 2025 ↗</a><p>2022届在2025年调查的状态及受访已就业者薪资</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

@@ -23,80 +23,223 @@ hide:
 
 ## 专业与申请资料
 
-54 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+98 个专业条目 · 0 个含详细资料 · 98 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=kfupm#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-architecture-67bd7b133d/">Bachelor of Architecture</a><small>Bachelor of Architecture · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-accounting-internship-option-3b06ba7df6/">Bachelor of Science in Accounting - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-accounting-summer-training-option-1472340091/">Bachelor of Science in Accounting - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-actuarial-science-and-financial-mathematic-a9238a7716/">Bachelor of Science in Actuarial Science and Financial Mathematics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-aerospace-engineering-internship-option-048e596738/">Bachelor of Science in Aerospace Engineering - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-aerospace-engineering-summer-training-opti-20e431a760/">Bachelor of Science in Aerospace Engineering - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-applied-mathematics-and-ai-67c925b2e7/">Bachelor of Science in Applied Mathematics and AI</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-architectural-engineering-internship-optio-501cdab2d0/">Bachelor of Science in Architectural Engineering - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-architectural-engineering-summer-training-f644575de3/">Bachelor of Science in Architectural Engineering - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-artificial-intelligence-and-cybersecurity-1c140d9316/">Bachelor of Science in Artificial Intelligence and Cybersecurity - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-artificial-intelligence-and-cybersecurity-a9a2ca4883/">Bachelor of Science in Artificial Intelligence and Cybersecurity - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-bioengineering-internship-option-a4ac634af5/">Bachelor of Science in Bioengineering - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-bioengineering-summer-training-option-d55d21bc3e/">Bachelor of Science in Bioengineering - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-chemical-engineering-internship-option-0c81199fe3/">Bachelor of Science in Chemical Engineering - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-chemical-engineering-summer-training-optio-f252448bb7/">Bachelor of Science in Chemical Engineering - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-chemistry-eb382ba17f/">Bachelor of Science in Chemistry</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-civil-engineering-internship-option-0d4e71539d/">Bachelor of Science in Civil Engineering - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-civil-engineering-summer-training-option-8bd2469475/">Bachelor of Science in Civil Engineering - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-computer-engineering-internship-option-0125ae1070/">Bachelor of Science in Computer Engineering - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-computer-engineering-summer-training-optio-5ddd114c65/">Bachelor of Science in Computer Engineering - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-computer-science-internship-option-d2bb349792/">Bachelor of Science in Computer Science - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-computer-science-summer-training-option-2140d43c1c/">Bachelor of Science in Computer Science - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-control-and-instrumentation-engineering-in-73962be63a/">Bachelor of Science in Control and Instrumentation Engineering - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-control-and-instrumentation-engineering-su-dfd4ec083a/">Bachelor of Science in Control and Instrumentation Engineering - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-data-science-and-engineering-111b379b6a/">Bachelor of Science in Data Science and Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-electrical-engineering-internship-option-ec780db464/">Bachelor of Science in Electrical Engineering - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-electrical-engineering-summer-training-opt-e5227bff5f/">Bachelor of Science in Electrical Engineering - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-electrical-engineering-and-physics-b1d37768d7/">Bachelor of Science in Electrical Engineering and Physics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-environmental-science-and-engineering-e7556e1037/">Bachelor of Science in Environmental Science and Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-finance-internship-option-ad8198957d/">Bachelor of Science in Finance - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-finance-summer-training-option-965d895bee/">Bachelor of Science in Finance - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-geology-69fac2b5c7/">Bachelor of Science in Geology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-geophysics-6a5e92838b/">Bachelor of Science in Geophysics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-human-resource-management-internship-optio-1e445897cf/">Bachelor of Science in Human Resource Management - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-human-resource-management-summer-training-331374fcd2/">Bachelor of Science in Human Resource Management - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-industrial-and-systems-engineering-interns-8dd41b1b65/">Bachelor of Science in Industrial and Systems Engineering - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-industrial-and-systems-engineering-summer-3a3da8224c/">Bachelor of Science in Industrial and Systems Engineering - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-integrated-design-5d337325d5/">Bachelor of Science in Integrated Design</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-management-internship-option-f211ddb6f8/">Bachelor of Science in Management - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-management-summer-training-option-2d6e6d89e3/">Bachelor of Science in Management - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-management-information-system-internship-o-beffc1b58a/">Bachelor of Science in Management Information System - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-management-information-system-summer-train-41054d61ae/">Bachelor of Science in Management Information System - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-marketing-internship-option-a1836c8047/">Bachelor of Science in Marketing - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-marketing-summer-training-option-813033077e/">Bachelor of Science in Marketing - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-materials-science-and-engineering-ed5a574531/">Bachelor of Science in Materials Science and Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-mathematics-8f0d7ecc05/">Bachelor of Science in Mathematics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-mechanical-engineering-internship-option-d69894d4bd/">Bachelor of Science in Mechanical Engineering - Internship Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-mechanical-engineering-summer-training-opt-3a7f6bc55b/">Bachelor of Science in Mechanical Engineering - Summer Training Option</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-mining-science-and-engineering-0875512e2e/">Bachelor of Science in Mining Science and Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-petroleum-engineering-0ad22cc172/">Bachelor of Science in Petroleum Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-physics-e7602a6530/">Bachelor of Science in Physics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-semiconductor-design-and-engineering-91f79e187e/">Bachelor of Science in Semiconductor Design and Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-smart-and-sustainable-cities-395b7e3190/">Bachelor of Science in Smart and Sustainable Cities</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-software-engineering-b8f61b611e/">Bachelor of Science in Software Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-artificial-intelligence-and-machine-learning-a4c6259f7f/">人工智能与机器学习</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-automated-construction-management-46b1c95da3/">自动化施工管理</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-architecture-67bd7b133d/">Bachelor of Architecture</a><small>Bachelor of Architecture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-accounting-internship-option-3b06ba7df6/">Bachelor of Science in Accounting - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-accounting-summer-training-option-1472340091/">Bachelor of Science in Accounting - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-actuarial-science-and-financial-mathematic-a9238a7716/">Bachelor of Science in Actuarial Science and Financial Mathematics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-aerospace-engineering-internship-option-048e596738/">Bachelor of Science in Aerospace Engineering - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-aerospace-engineering-summer-training-opti-20e431a760/">Bachelor of Science in Aerospace Engineering - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-applied-mathematics-and-ai-67c925b2e7/">Bachelor of Science in Applied Mathematics and AI</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-architectural-engineering-internship-optio-501cdab2d0/">Bachelor of Science in Architectural Engineering - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-architectural-engineering-summer-training-f644575de3/">Bachelor of Science in Architectural Engineering - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-artificial-intelligence-and-cybersecurity-1c140d9316/">Bachelor of Science in Artificial Intelligence and Cybersecurity - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-artificial-intelligence-and-cybersecurity-a9a2ca4883/">Bachelor of Science in Artificial Intelligence and Cybersecurity - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-bioengineering-internship-option-a4ac634af5/">Bachelor of Science in Bioengineering - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-bioengineering-summer-training-option-d55d21bc3e/">Bachelor of Science in Bioengineering - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-bioengineering-premed-option-2c60f28e5a/">生物工程预医衔接</a><small>BS Bioengineering + MBBS pathway · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-chemical-engineering-internship-option-0c81199fe3/">Bachelor of Science in Chemical Engineering - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-chemical-engineering-summer-training-optio-f252448bb7/">Bachelor of Science in Chemical Engineering - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-chemistry-eb382ba17f/">Bachelor of Science in Chemistry</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-civil-engineering-internship-option-0d4e71539d/">Bachelor of Science in Civil Engineering - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-civil-engineering-summer-training-option-8bd2469475/">Bachelor of Science in Civil Engineering - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-computer-engineering-internship-option-0125ae1070/">Bachelor of Science in Computer Engineering - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-computer-engineering-summer-training-optio-5ddd114c65/">Bachelor of Science in Computer Engineering - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-computer-science-internship-option-d2bb349792/">Bachelor of Science in Computer Science - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-computer-science-summer-training-option-2140d43c1c/">Bachelor of Science in Computer Science - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-control-and-instrumentation-engineering-in-73962be63a/">Bachelor of Science in Control and Instrumentation Engineering - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-control-and-instrumentation-engineering-su-dfd4ec083a/">Bachelor of Science in Control and Instrumentation Engineering - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-data-science-and-engineering-111b379b6a/">Bachelor of Science in Data Science and Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-electrical-engineering-internship-option-ec780db464/">Bachelor of Science in Electrical Engineering - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-electrical-engineering-summer-training-opt-e5227bff5f/">Bachelor of Science in Electrical Engineering - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-electrical-engineering-and-physics-b1d37768d7/">Bachelor of Science in Electrical Engineering and Physics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-environmental-science-and-engineering-e7556e1037/">Bachelor of Science in Environmental Science and Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-finance-internship-option-ad8198957d/">Bachelor of Science in Finance - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-finance-summer-training-option-965d895bee/">Bachelor of Science in Finance - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-geology-69fac2b5c7/">Bachelor of Science in Geology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-geophysics-6a5e92838b/">Bachelor of Science in Geophysics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-human-resource-management-internship-optio-1e445897cf/">Bachelor of Science in Human Resource Management - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-human-resource-management-summer-training-331374fcd2/">Bachelor of Science in Human Resource Management - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-industrial-and-systems-engineering-interns-8dd41b1b65/">Bachelor of Science in Industrial and Systems Engineering - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-industrial-and-systems-engineering-summer-3a3da8224c/">Bachelor of Science in Industrial and Systems Engineering - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-integrated-design-5d337325d5/">Bachelor of Science in Integrated Design</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-management-internship-option-f211ddb6f8/">Bachelor of Science in Management - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-management-summer-training-option-2d6e6d89e3/">Bachelor of Science in Management - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-management-information-system-internship-o-beffc1b58a/">Bachelor of Science in Management Information System - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-management-information-system-summer-train-41054d61ae/">Bachelor of Science in Management Information System - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-marketing-internship-option-a1836c8047/">Bachelor of Science in Marketing - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-marketing-summer-training-option-813033077e/">Bachelor of Science in Marketing - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-materials-science-and-engineering-ed5a574531/">Bachelor of Science in Materials Science and Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-mathematics-8f0d7ecc05/">Bachelor of Science in Mathematics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-mechanical-engineering-internship-option-d69894d4bd/">Bachelor of Science in Mechanical Engineering - Internship Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-mechanical-engineering-summer-training-opt-3a7f6bc55b/">Bachelor of Science in Mechanical Engineering - Summer Training Option</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-mining-science-and-engineering-0875512e2e/">Bachelor of Science in Mining Science and Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-petroleum-engineering-0ad22cc172/">Bachelor of Science in Petroleum Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-physics-e7602a6530/">Bachelor of Science in Physics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-semiconductor-design-and-engineering-91f79e187e/">Bachelor of Science in Semiconductor Design and Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-smart-and-sustainable-cities-395b7e3190/">Bachelor of Science in Smart and Sustainable Cities</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bachelor-of-science-in-software-engineering-b8f61b611e/">Bachelor of Science in Software Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-bioinformatics-b9913bf1f2/">生物信息学</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-building-and-construction-safety-7a06970d2a/">建筑与施工安全</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-business-analytics-1a3a6cf5ee/">商业分析</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-climate-change-adaptation-c82e6fb09a/">气候变化适应</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-cloud-computing-c361a69fc4/">云计算</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-communication-systems-e91a2ab480/">通信系统</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-computer-networks-b0724b635a/">计算机网络</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-corrosion-and-materials-degradation-new-2e4be7243c/">腐蚀与材料退化</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-cybersecurity-and-blockchain-fcaa7acc7c/">网络安全与区块链</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-data-science-and-analytics-08ccc02b17/">数据科学与分析</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-decision-analytics-f087da76d1/">决策分析</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-drone-design-and-application-5a68376733/">无人机设计与应用</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-electronic-defense-systems-741f2da6db/">电子防御系统</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-energy-efficiency-7887696ac5/">能源效率</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-enhanced-oil-recovery-a5047c54f9/">提高石油采收率</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-game-design-and-development-new-955963471c/">游戏设计与开发</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-human-resources-management-0bee6da61f/">人力资源管理</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-hydrogen-mobility-e8d63a92ce/">氢能交通</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-ic-design-and-fabrication-1e5740e206/">集成电路设计与制造</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-innovation-by-design-new-be550489bc/">设计创新</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-intelligent-energy-systems-management-f23e21468d/">智能能源系统管理</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-internet-of-things-b5b675f9d4/">物联网</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-mechatronics-new-52112da597/">机电一体化</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-mining-geoscience-new-ff720854f2/">采矿地球科学</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-non-metallic-materials-a2814777c8/">非金属材料</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-nuclear-power-engineering-d4f19a6d4c/">核电工程</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-polymer-science-technology-8117623d34/">高分子科学与技术</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-process-safety-39cfbc26d9/">过程安全</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-quantum-information-computing-5da0ffb2df/">量子信息与计算</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-refining-and-petrochemicals-d1ca4d561c/">炼油与石油化工</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-renewable-energy-and-energy-storage-c0f4de7e6a/">可再生能源与储能</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-research-concentration-586e0591c6/">研究方向</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-resilient-marine-infrastructures-new-1827657477/">海洋基础设施韧性</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-robotics-and-autonomous-systems-1afd30d62b/">机器人与自主系统</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-smart-and-sustainable-buildings-cd37fbd9de/">智能与可持续建筑</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-supply-chain-management-27d970de86/">供应链管理</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-sustainability-in-petroleum-industry-new-b07ac73d33/">石油行业可持续发展</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-thermal-systems-e3aec334c9/">热系统</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-traffic-engineering-f0787da8ad/">交通工程</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-unconventional-hydrocarbon-resources-01ead30434/">非常规油气资源</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/saudi-arabia/kfupm/kfupm-waste-management-661acd5890/">废物管理</a><small>Undergraduate concentration (CX) · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>中国高中与SAT路线：</strong>境外国际本科入口接受自然科学取向高中毕业生，SAT至少1350并须通过大学数学测评；达到最低分仅能参与竞争，不能保证录取。不要求Qudrat或Tahsili。本轮未取得中国高考直录分数或普通高中等效资格细则，不能把高考替代SAT。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-f9658c5ea78dad">官方依据</a> · <a href="#source-u-KFREN-a953fb40d9ad96">官方依据</a></p>
+
+<p class="catalog-fact"><strong>毕业年份存在来源差异：</strong>招生办SAT条件页写入学当年或前两年高中毕业，国际学生概览仍写当年或前一年。2027资格适用年尚未完整取得，往届生须按下一轮SAT正式条件核实；不将其中任一窗口静默视为2027保证。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-a953fb40d9ad96">官方依据</a> · <a href="#source-u-KFREN-f9658c5ea78dad">官方依据</a></p>
+
+<p class="catalog-fact"><strong>IGCSE／A-Level附加要求：</strong>招生办现行IGCSE条款要求10、11年级正规在校成绩；12年级列三种组合：8门GCSE；或5门GCSE加1门A-Level；或5门GCSE加2门AS-Level，各门最低B，并由学校换算百分制。仍须符合所选招生路线；这不是免SAT资格。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-20ab76f9757805">官方依据</a></p>
+
+<p class="catalog-fact"><strong>授课语言与英语成绩边界：</strong>学校国际资助页说明课程以英语授课。当前本科SAT专节未列独立IELTS／TOEFL最低分，本轮不把同网页研究生IELTS6.0或其他本地通道分数当本科SAT标准。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-d6ac49bf8a3c7e">官方依据</a> · <a href="#source-u-KFREN-20ab76f9757805">官方依据</a> · <a href="#source-u-KFREN-f9658c5ea78dad">官方依据</a></p>
+
+<p class="catalog-fact"><strong>预医身份限制：</strong>Bioengineering PreMed与King Saud bin Abdulaziz University for Health Sciences（KSAU-HS）合作；部门FAQ明确只收沙特公民、不对国际学生开放。普通Bioengineering本科不因此自动获得医学衔接资格。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-fd1d7df8003f80">官方依据</a></p>
+
+<p class="catalog-fact"><strong>CX为入学后方向：</strong>CX仅供KFUPM在读本科生：最低GPA2.0，一般已修79–115学分，商学院50–110学分，并完成相应初级专业课程及先修；Applied major和计划Internship／Co-op者不可选。具体方向还有允许主修代码。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-a6bad1e95f12b0">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>最近已核日期与2027缺口：</strong>SAT途径最近明确申请期为2026-02-01至02-15，已结束；当前首页为Closed／To be Announced。本轮未取得2027本科SAT申请开放及截止日，不能把2026日期改年。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-a953fb40d9ad96">官方依据</a> · <a href="#source-u-KFREN-5f975665642f92">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请与考核材料：</strong>通过大学在线招生入口申请，SAT成绩由College Board直送；交推荐信与个人陈述，参加大学数学考核，可能面试。境外国际入口说明录取后启动签证办理。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-a953fb40d9ad96">官方依据</a> · <a href="#source-u-KFREN-f9658c5ea78dad">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>境外国际本科免学费：</strong>学校现行国际本科页面写：居住沙特境外的国际生获免学费及全额奖学金。页面未标2027单届保障或续领细则；录取和资助仍须落实至本人正式通知。此身份与沙特境内持居留证的非沙特自费通道不同。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-d6ac49bf8a3c7e">官方依据</a> · <a href="#source-u-KFREN-6b322a49f760f1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>生活资助范围：</strong>本科资助页将校内住宿、教材借用、月津贴和校内医疗列为可能福利；本轮未取得本科津贴金额、2027续领GPA或覆盖全部生活费的证明，不将研究生机票／津贴条款混用。</p>
+<p class="fact-sources"><a href="#source-u-KFREN-d6ac49bf8a3c7e">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-KFREN-f9658c5ea78dad"><div><a href="https://kfupm.edu.sa/study/international-students/apply-as-an-international-student">KFUPM境外国际学生申请 ↗</a><p>海外高中自然科学取向；SAT路线；年度资格存在来源差异</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KFREN-a953fb40d9ad96"><div><a href="https://admissions.kfupm.edu.sa/en/important-dates/track-detail/sat-track">KFUPM SAT招生途径2026 ↗</a><p>SAT最低1350、数学考核、材料和2026申请时间</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KFREN-20ab76f9757805"><div><a href="https://admissions.kfupm.edu.sa/en/new-admission/admissions-tracks">KFUPM现行招生途径与IGCSE要求 ↗</a><p>SAT路线及IGCSE条件；本科SAT未列独立英语分数</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KFREN-d6ac49bf8a3c7e"><div><a href="https://www.kfupm.edu.sa/study/international-students/fees-and-scholarships">KFUPM境外国际学生学费与资助 ↗</a><p>本科境外居住国际生免学费/资助范围；学校英语授课说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KFREN-5f975665642f92"><div><a href="https://admissions.kfupm.edu.sa/en">KFUPM招生首页 ↗</a><p>当前招生关闭和待公布状态</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KFREN-6b322a49f760f1"><div><a href="https://admissions.kfupm.edu.sa/en/new-admission/fee-study-program">KFUPM在沙非沙特学生申请 ↗</a><p>当地居留身份限制，不能套给中国境外申请者</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KFREN-fd1d7df8003f80"><div><a href="https://bioe.kfupm.edu.sa/academic-programs/undergraduate-programs/premed/faqs">KFUPM预医FAQ（2025年6月） ↗</a><p>KSAU-HS合作、沙特公民专属、学制、继续医学条件</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KFREN-a6bad1e95f12b0"><div><a href="https://cx.kfupm.edu.sa/">KFUPM当前本科CX目录 ↗</a><p>43项方向、主修适用代码、在读限制与课程先修</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 54 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 98 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>KFUPM Undergraduate Bulletin全部本科专业及独立Internship/Summer Training项目变体。</p>
+<p><strong>统计范围：</strong>正式本科学位、实习变体、学位内CX方向及预医衔接；所有条目不等于独立高中招生学位数。</p>
 
-<p><strong>对账方法：</strong>单页54个/program?program_id本科课程链接，无分页；每个独立program_id保留。</p>
+<p><strong>对账方法：</strong>单页54个/program?program_id本科课程链接，无分页；每个独立program_id保留。 另对账主站与CX目录均43项本科在读选修方向，并补部门PreMed入口；CX不是独立学位，PreMed仅沙特公民。</p>
 
 <p><strong>排除项：</strong>排除独立辅修、证书及非本科项目；具体边界见统计范围。</p>
 
 **尚未解决的目录缺口：**
 
-- 尚需将独立本科Concentration目录与54个主专业/实习变体对齐，不能把每个CX方向都当作独立学位。
+- 现行中央与主站均列43项CX；个别研究方向文字仍称over45，未证明历史或临时方向均包含。
+- 核电方向未取得课程表；目录完备性和2027开放状态继续核验。
 
 - [官方目录来源](https://bulletin.kfupm.edu.sa/programs/undergraduate-programs/)
+- [官方目录来源](https://cx.kfupm.edu.sa/#artificial-intelligence-and-machine-learning)
+- [官方目录来源](https://kfupm.edu.sa/study/undergraduate-concentrations-%28cx%29)
+- [官方目录来源](https://cx.kfupm.edu.sa/#automated-construction-management)
+- [官方目录来源](https://cx.kfupm.edu.sa/#bioinformatics)
+- [官方目录来源](https://cx.kfupm.edu.sa/#building-and-construction-safety)
+- [官方目录来源](https://cx.kfupm.edu.sa/#business-analytics)
+- [官方目录来源](https://cx.kfupm.edu.sa/#climate-change-adaptation)
+- [官方目录来源](https://cx.kfupm.edu.sa/#cloud-computing)
+- [官方目录来源](https://cx.kfupm.edu.sa/#communication-systems)
+- [官方目录来源](https://cx.kfupm.edu.sa/#computer-networks)
+- [官方目录来源](https://cx.kfupm.edu.sa/#corrosion-and-materials-degradation-(new))
+- [官方目录来源](https://cx.kfupm.edu.sa/#cybersecurity-and-blockchain)
+- [官方目录来源](https://cx.kfupm.edu.sa/#data-science-and-analytics)
+- [官方目录来源](https://cx.kfupm.edu.sa/#decision-analytics)
+- [官方目录来源](https://cx.kfupm.edu.sa/#drone-design-and-application)
+- [官方目录来源](https://cx.kfupm.edu.sa/#electronic-defense-systems)
+- [官方目录来源](https://cx.kfupm.edu.sa/#energy-efficiency)
+- [官方目录来源](https://cx.kfupm.edu.sa/#enhanced-oil-recovery)
+- [官方目录来源](https://cx.kfupm.edu.sa/#game-design-and-development-(new))
+- [官方目录来源](https://cx.kfupm.edu.sa/#human-resources-management)
+- [官方目录来源](https://cx.kfupm.edu.sa/#hydrogen-mobility)
+- [官方目录来源](https://che.kfupm.edu.sa/academic-programs/undergraduate-program/che-undergraduate-concentrations-%28cx%29)
+- [官方目录来源](https://cx.kfupm.edu.sa/#ic-design-and-fabrication)
+- [官方目录来源](https://cx.kfupm.edu.sa/#innovation-by-design-(new))
+- [官方目录来源](https://cx.kfupm.edu.sa/#intelligent-energy-systems-management)
+- [官方目录来源](https://cx.kfupm.edu.sa/#internet-of-things)
+- [官方目录来源](https://cx.kfupm.edu.sa/#mechatronics-(new))
+- [官方目录来源](https://cx.kfupm.edu.sa/#mining-geoscience-(new))
+- [官方目录来源](https://cx.kfupm.edu.sa/#non-metallic-materials)
+- [官方目录来源](https://cx.kfupm.edu.sa/#nuclear-power-engineering)
+- [官方目录来源](https://cx.kfupm.edu.sa/#polymer-science-&-technology)
+- [官方目录来源](https://cx.kfupm.edu.sa/#process-safety)
+- [官方目录来源](https://cx.kfupm.edu.sa/#quantum-information-&-computing)
+- [官方目录来源](https://cx.kfupm.edu.sa/#refining-and-petrochemicals)
+- [官方目录来源](https://cx.kfupm.edu.sa/#renewable-energy-and-energy-storage)
+- [官方目录来源](https://cx.kfupm.edu.sa/#research-concentration)
+- [官方目录来源](https://cx.kfupm.edu.sa/#resilient-marine-infrastructures-(new))
+- [官方目录来源](https://cx.kfupm.edu.sa/#robotics-and-autonomous-systems)
+- [官方目录来源](https://cx.kfupm.edu.sa/#smart-and-sustainable-buildings)
+- [官方目录来源](https://cx.kfupm.edu.sa/#supply-chain-management)
+- [官方目录来源](https://cx.kfupm.edu.sa/#sustainability-in-petroleum-industry-(new))
+- [官方目录来源](https://cx.kfupm.edu.sa/#thermal-systems)
+- [官方目录来源](https://cx.kfupm.edu.sa/#traffic-engineering)
+- [官方目录来源](https://cx.kfupm.edu.sa/#unconventional-hydrocarbon-resources)
+- [官方目录来源](https://cx.kfupm.edu.sa/#waste-management)
+- [官方目录来源](https://bioe.kfupm.edu.sa/academic-programs/undergraduate-programs/premed/faqs)
+- [官方目录来源](https://bioe.kfupm.edu.sa/academic-programs/undergraduate-programs/premed)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

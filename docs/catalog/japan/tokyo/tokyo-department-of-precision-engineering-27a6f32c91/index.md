@@ -21,12 +21,12 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>日语为主</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：已补学校共用资料，专业专属详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,17 +42,56 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-788a5ff4f89ede">官方依据</a></p>
+
+<p class="catalog-fact"><strong>授课语言：</strong>传统本科大部分课程为日语，不能将英文官网视为全英语项目。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-8a5a2aa8eebc73">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>中国高中与国际课程资格：</strong>第1种要求2022-04-01至2027-03-31间首次取得规定基础资格，并在申请及入学时无日本国籍、无日本永住许可。接受合规海外12年教育、指定国际课程等；原则上须在海外居住并在最终高中至少学习一年。中国普高或A-Level／IB并不能免除EJU及英语要求。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-e392d891c361c1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>EJU与英语：</strong>须参加2026年6月或11月EJU：文科为日语、综合科目、数学1；理科为日语、数学2、物化生选2。另交规定有效期TOEFL iBT或IELTS Academic；允许TOEFL Home、不用MyBest和IELTS One Skill Retake。本轮未取得统一最低高考、TOEFL或IELTS数值。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-e392d891c361c1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>授课与前后期衔接：</strong>传统本科大部分课程日语授课，需高水平日语。特别选考第1种先修教养学部两年前期，后期学院／学科按申请志愿决定，但必须满足进学条件；并非入学后可任意改专业。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-8a5a2aa8eebc73">官方依据</a> · <a href="#source-u-ASREN-e392d891c361c1">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027第1种申请：</strong>申请材料须2026-12-01至12-07 17:00日本时间寄达；网络生成志愿表并不等于已申请。校内测试2027-02-25及03-04。当前尚未开放；资格疑问须2026-09-18前询问招生办。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-e392d891c361c1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>不可混用其他入口日程：</strong>2027简章已发布；网页下方仍有2026申请表格，不作为2027时间。第1种不能与本校一般选拔或College of Design同时申请（资格审查判无资格情况除外）。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-e392d891c361c1">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>现行本科年费：</strong>官网普通本科现行年学费JPY642,960，入学金282,000；535,800仅适用于2024及以前入学者。通常按半年缴两次。本轮未把此现行价称作全学程或2027不变价。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-ac4ae099c01219">官方依据</a></p>
+
+<p class="catalog-fact"><strong>资助范围：</strong>费用页注明日本政府MEXT奖学生可免学费及部分费用，并链接学费／入学金减免。此类资助须另获资格与批准，本轮未核得2027普通中国新生自动减免标准。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-ac4ae099c01219">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -65,5 +104,10 @@ hide:
 - [官方项目页面或项目所在目录](https://www.u-tokyo.ac.jp/en/academics/facultyofengineering.html)
 - [官方目录](https://www.u-tokyo.ac.jp/en/academics/facultyofengineering.html)
 
+<div class="catalog-source" id="source-p-ASREN-788a5ff4f89ede"><div><a href="https://www.u-tokyo.ac.jp/en/academics/facultyofengineering.html">官方本科目录 ↗</a><p>目录列名、学院或校区身份，不证明本轮开放招生</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-8a5a2aa8eebc73"><div><a href="https://www.u-tokyo.ac.jp/en/prospective-students/traditional.html">东京大学日语传统本科 ↗</a><p>大部分课程为日语</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-e392d891c361c1"><div><a href="https://www.u-tokyo.ac.jp/content/400291798.pdf">东京大学2027外国学校毕业生特别选考 ↗</a><p>第1种私费留学生资格、EJU、英语、申请和前后期衔接</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-8a5a2aa8eebc73"><div><a href="https://www.u-tokyo.ac.jp/en/prospective-students/traditional.html">东京大学日语传统本科 ↗</a><p>大部分课程为日语</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-ac4ae099c01219"><div><a href="https://www.u-tokyo.ac.jp/en/prospective-students/tuition_fees.html">东京大学本科收费 ↗</a><p>现行本科年费及2024以前旧价区分</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/japan/tokyo/">← 返回东京大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

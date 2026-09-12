@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Medical Radiation Sciences</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>32 个月（须先有大学学习）</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>St. George campus · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>St. George campus · <strong>授课语言：</strong>英语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,13 +38,24 @@ hide:
 
 <p><strong>项目类别：</strong>Professional</p>
 
+<p class="catalog-fact"><strong>所属学科课程内容：</strong>医学放射科学结合大学理学学位与Michener高级文凭，学习以辐射设备进行诊断影像或治疗，并重视病人与家庭照护。</p>
+<p class="fact-sources"><a href="#source-p-toronto-detail-141">官方依据</a></p>
+
+<p class="catalog-fact"><strong>教学语言：</strong>学校说明教学与考试语言为英语；具体外语学习及临床沟通要求须查看专业规定。</p>
+<p class="fact-sources"><a href="#source-p-toronto-language">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学位与学制：</strong>这是多伦多大学与Michener联合提供的首个专业本科入口，授予BSc及高级文凭，课程32个月；可选择核医学与分子影像、放射治疗或放射技术。</p>
+<p class="fact-sources"><a href="#source-p-toronto-detail-141">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>本科后／高年级入口：</strong>至少1年大学学习（5.0 full-course equivalents），生物、数学、物理与社会科学各至少0.5学分。海外或非加拿大身份申请者可以申请，由学院评估等同性；页面建议B−／70%／GPA2.7作为竞争范围，达到该范围不保证录取。须参加面试等评估。</p>
+<p class="fact-sources"><a href="#source-p-toronto-mrs-admissions">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>2027 申请周期：</strong>2027秋入学预计2026年9月中下旬开启；申请截止2027年2月1日、文件截止2月15日。按身份选择OUAC、校内或国际申请；未完成先修者须按要求提交在读证明并在7月15日前满足条件。</p>
+<p class="fact-sources"><a href="#source-p-toronto-mrs-admissions">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
@@ -52,7 +63,8 @@ hide:
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>职业资格方向：</strong>毕业生可申请参加相关放射医学技师认证考试；实际执业须通过考试并满足工作地区监管要求。课程安排临床实习，但实习或考试资格不等于已经取得执照或就业。</p>
+<p class="fact-sources"><a href="#source-p-toronto-mrs-admissions">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +73,8 @@ hide:
 - [官方项目页面或项目所在目录](https://radonc.utoronto.ca/bachelor-science-medical-radiation-sciences)
 - [官方目录](https://www.utoronto.ca/academics/undergraduate-programs)
 
+<div class="catalog-source" id="source-p-toronto-detail-141"><div><a href="https://radonc.utoronto.ca/bachelor-science-medical-radiation-sciences">多伦多大学官方资料：toronto-detail-141 ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-toronto-language"><div><a href="https://future.utoronto.ca/english-language-requirements">多伦多大学官方资料：toronto-language ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-toronto-mrs-admissions"><div><a href="https://radonc.utoronto.ca/application-requirements-deadlines-and-procedures-mrs">多伦多大学官方资料：toronto-mrs-admissions ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/toronto/">← 返回多伦多大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

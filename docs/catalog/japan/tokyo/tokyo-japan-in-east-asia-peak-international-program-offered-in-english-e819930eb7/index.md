@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Japan in East Asia (PEAK): International program offered in English</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026最后入学；2027停止新招生</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>English</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语为主</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,13 +42,18 @@ hide:
 
 <p><strong>目录状态：</strong>retiring_last_intake_2026</p>
 
+<p class="catalog-fact"><strong>英语路径：</strong>本条是PEAK英文项目，官方将其与主要使用日语的传统本科入口区分；PEAK学生主要修读英语课程。</p>
+<p class="fact-sources"><a href="#source-p-TOKYO-peak-home">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>2027停止新招生：</strong>2026年9月为PEAK最后一届招生；此后不再招收新生，因此2027申请者不能把本条作为仍开放的高中本科入口。原有项目保留用于说明已入学学生的培养路径。</p>
+<p class="fact-sources"><a href="#source-p-TOKYO-peak-end">官方依据</a> · <a href="#source-p-TOKYO-peak-home">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>最后一届申请已结束：</strong>最后一届（2026年9月入学）申请为2025-11-11至12-09；官方于2025-12-10确认关闭，明确以后不再接受申请。这些是历史周期，不能平移为2027日期。</p>
+<p class="fact-sources"><a href="#source-p-TOKYO-peak-home">官方依据</a> · <a href="#source-p-TOKYO-peak-dates">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
@@ -65,5 +70,8 @@ hide:
 - [官方项目页面或项目所在目录](https://www.u-tokyo.ac.jp/en/academics/cas.html)
 - [官方目录](https://www.u-tokyo.ac.jp/en/academics/cas.html)
 
+<div class="catalog-source" id="source-p-TOKYO-peak-home"><div><a href="https://www.peak.c.u-tokyo.ac.jp/">PEAK 官方主页：最后一届申请关闭及英语路径 ↗</a><p>英语路径；2027停止新招生；最后一届申请已结束</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-TOKYO-peak-end"><div><a href="https://peak.c.u-tokyo.ac.jp/apply/l3/Vcms3_00000439.html">PEAK 官方停止新招生公告 ↗</a><p>2027停止新招生</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-TOKYO-peak-dates"><div><a href="https://peak.c.u-tokyo.ac.jp/apply/l3/Vcms3_00000252.html">PEAK 2026最后一届申请时间表 ↗</a><p>最后一届申请已结束</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/japan/tokyo/">← 返回东京大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

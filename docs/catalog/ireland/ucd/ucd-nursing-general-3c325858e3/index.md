@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Nursing (General)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4 Years</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4 年</strong></div><div><span>国际生学费</span><strong>本路径国际新生费用本轮未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Belfield（实践地点另按课程） · <strong>授课语言：</strong>英语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,13 +38,27 @@ hide:
 
 <p><strong>条目类型：</strong>undergraduate programme/major</p>
 
+<p class="catalog-fact"><strong>本专业：课程与培养：</strong>普通护理把 Belfield 校区理论与临床技能训练同医院实践结合，逐年学习内外科护理、药理、老年健康及护理管理。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-113">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：学位与学制：</strong>授予资格：Bachelor of Science；页面学制为4 年。入口代码：NSS1。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-113">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：授课语言：</strong>UCD一般教学语言为英语；目标语言训练、海外交换及实习安排依本专业说明。</p>
+<p class="fact-sources"><a href="#source-p-ucd-english">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：教学地点：</strong>课程正文明确Belfield校区，临床、工作实践或交换可在其他地点。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-113">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>本专业：非欧盟申请限制：</strong>课程页明确本入口不向International (non-EU)申请者开放。仍保留本科专业身份；中国申请者如具有其他费用/居留资格，应先请学校评估，不直接套用普通高考申请路径。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-113">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>本专业：当前入口：</strong>页面2026/2027栏明确非欧盟申请不可用；本轮未取得改变这一限制的2027单独安排。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-113">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
@@ -52,7 +66,15 @@ hide:
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>本专业：官方职业方向介绍：</strong>课程页提及研究、临床等工作或进一步学习方向。这是课程职业介绍，不是本届毕业生就业率或薪资调查。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-113">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：职业资料边界：</strong>课程页的Career &amp; Graduate Study Opportunities属于升学和职业方向介绍。本轮尚未核实各专业可比的毕业就业率、薪资及调查口径，不将介绍中的职业可能性写成实际就业统计。</p>
+<p class="fact-sources"><a href="#source-u-ucd-career-example">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +83,8 @@ hide:
 - [官方项目页面或项目所在目录](https://www.ucd.ie/courses/bsc-nursing-general)
 - [官方目录](https://www.ucd.ie/myucd/courses/a-z-course-list/)
 
+<div class="catalog-source" id="source-p-ucd-program-113"><div><a href="https://www.ucd.ie/courses/bsc-nursing-general">Nursing (General) ↗</a><p>学位与入口面板、课程培养、申请路线和职业说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ucd-english"><div><a href="https://www.ucd.ie/registry/prospectivestudents/admissions/policiesandgeneralregulations/generalrequirements/minimumenglishlanguagerequirements/">Minimum English Language Requirements ↗</a><p>英语教学和证明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-career-example"><div><a href="https://www.ucd.ie/courses/bsc-actuarial-and-financial-studies">Actuarial and Financial Studies: career opportunities ↗</a><p>官方课程职业方向介绍；未声明就业调查数字</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/ireland/ucd/">← 返回都柏林大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

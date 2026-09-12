@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">French Horn Performance</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4 years</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4 年</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,17 +42,50 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-7e412e8452f21b">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学校授课语言：</strong>NUS2026年9月官方英语要求表明确英语为教学语言；特定语言专业所学语言另依课程。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-dd5861bce6faef">官方依据</a></p>
+
+<p class="catalog-fact"><strong>音乐学位共同结构：</strong>2026/27音乐学院本项属于BMus(Hons)主修，标准8学期／4年、至少160学分；毕业顶点演奏／创作／项目须达到规定成绩。演出、室内乐及大型合奏依相应主修安排，不把单一乐器作品表套到全部主修。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-7e412e8452f21b">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>高考与高中在读：</strong>当前高考资格页仍以2026为例：已考者交高考，未考者可交高二第二学期成绩，要求高考good pass但未给统一百分比。未于申请截止取得最终成绩者不具医、牙、法律、护理资格。高三若不参加高考应按Other High School Qualifications交标准化考试及高中成绩，不能仍选高考类别。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-91c45582176a42">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语要求及授课：</strong>2026年9月英语表明确NUS用英语教学。高考类别须额外英语证明：IELTS Academic总分、阅读、写作均6.5；TOEFL新制总分、阅读、写作均4.5，须同一次考试。成绩一般须至学年开始仍在2年有效期；不接受IELTS Indicator／One Skill Retake或TOEFL MyBest。旧制TOEFL表仅说明另行评估，本轮不虚设旧制换算线。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-dd5861bce6faef">官方依据</a></p>
+
+</details>
+
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>音乐学院独立申请：</strong>国际学历专业表要求音乐直接向音乐学院申请并参加选拔。本轮未核得2027音乐学院完整截止日期，不能使用普通NUS申请期作为这一独立入口的唯一期限。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-dcc8aa412ca466">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026/27新生年费参考：</strong>费用表列含GST的非ASEAN国际新生：Computing和普通Engineering获TG为SGD21,400／年、不获TG39,700；Humanities and Sciences为21,400／36,650；Business为22,200／33,400。是明确2026/27类别价，联合／本硕及2027新入学费不能照搬。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-52f7218d62748f">官方依据</a></p>
+
+<p class="catalog-fact"><strong>Tuition Grant及医牙义务：</strong>国际生须获得并申请签署TG才付补助后价格，接受者通常毕业后为新加坡实体服务3年；不接受TG须自付全费。医学国际生另有卫生部6年服务、牙科5年服务义务，不用一般3年替代。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-a7c9f06a434aa5">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际本科奖学金：</strong>面向非新加坡籍、申请全日制本科新生，转学生不适用；通过录取申请择优，不保证获奖。获奖者须接受TG，覆盖补助后学费，年生活SGD5,800、住宿5,000及一次电脑1,750。普通续领须GPA≥3.5且品行良好；医牙法为同届前80%。NUS本科+墨尔本DVM本硕路径不在此奖项覆盖内。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-411c00b1e61446">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -65,5 +98,13 @@ hide:
 - [官方项目页面或项目所在目录](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-siew-toh-conservatory-of-music/undergraduate-education/)
 - [官方目录](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-siew-toh-conservatory-of-music/undergraduate-education/)
 
+<div class="catalog-source" id="source-p-ASREN-7e412e8452f21b"><div><a href="https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-siew-toh-conservatory-of-music/undergraduate-education/">官方本科目录 ↗</a><p>目录列名、学院或校区身份，不证明本轮开放招生</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-dd5861bce6faef"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf">NUS英语要求（2026年9月版） ↗</a><p>英语教学、IELTS/TOEFL成绩有效期</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-dcc8aa412ca466"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/international-qualifications/cat-d-sdp.pdf">NUS国际学历单学位专业先修表 ↗</a><p>Year12学科与附加选拔；原表标注2025年12月</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-91c45582176a42"><div><a href="https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination">NUS高考申请资格（页面仍为2026） ↗</a><p>高考／在读申请材料及受限专业；不用其2026日期替代2027</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-dd5861bce6faef"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf">NUS英语要求（2026年9月版） ↗</a><p>英语教学、IELTS/TOEFL成绩有效期</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-52f7218d62748f"><div><a href="https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf">NUS2026/27新生年学费表 ↗</a><p>非ASEAN国际生TG及未TG的学院费用</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-a7c9f06a434aa5"><div><a href="https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees">NUS Tuition Grant和服务义务 ↗</a><p>国际生补助需申请签署及医牙特殊服务</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-411c00b1e61446"><div><a href="https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship">NUS International Undergraduate Scholarship ↗</a><p>全日制国际新生资助、续领及排除</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/singapore/nus/">← 返回新加坡国立大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

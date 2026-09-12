@@ -1,0 +1,1278 @@
+{
+  "university_id": "kyoto",
+  "programs": [
+    {
+      "raw_key": "Integrated Human Studies:Integrated Human Studies",
+      "name_en": "Integrated Human Studies",
+      "degree_label": "Bachelor's degree",
+      "official_url": "https://www.h.kyoto-u.ac.jp/en/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-integrated-human-studies-5abb7fc26e",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Integrated Human Studies:Integrated Human Studies"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Letters:Letters",
+      "name_en": "Letters",
+      "degree_label": "Bachelor's degree",
+      "official_url": "https://www.bun.kyoto-u.ac.jp/en/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-letters-2ecb39f23d",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。文学部在iUP只可选哲学或伦理学，不能扩展至全部文学方向。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Letters:Letters"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Education:Educational Sciences",
+      "name_en": "Educational Sciences",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.educ.kyoto-u.ac.jp/en/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-educational-sciences-3cb9de0f4d",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Education:Educational Sciences"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Law:Law",
+      "name_en": "Law",
+      "degree_label": "Bachelor's degree",
+      "official_url": "https://law.kyoto-u.ac.jp/english/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-law-8c560846b7",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Law:Law"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Economics:Economics and Management",
+      "name_en": "Economics and Management",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.econ.kyoto-u.ac.jp/en/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-economics-and-management-b5d4595038",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Economics:Economics and Management"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Science:Science",
+      "name_en": "Science",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.sci.kyoto-u.ac.jp/en/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-science-65edf8d32a",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。Science须从数学、物理天文、地球行星、化学、生物中选择。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Science:Science"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Medicine:Medical Science (six-year program)",
+      "name_en": "Medical Science (six-year program)",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.med.kyoto-u.ac.jp/en/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-medical-science-six-year-program-4d81aaf02a",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "不参加iUP2027",
+            "text": "2027 iUP列明医学部、六年制Pharmacy及Food Science and Biotechnology不参加。目录保留本项，但须另核普通日语或其他适用招生通道。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Medicine:Medical Science (six-year program)"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Medicine:Human Health Sciences",
+      "name_en": "Human Health Sciences",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.med.kyoto-u.ac.jp/en/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-human-health-sciences-f681078f2c",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "不参加iUP2027",
+            "text": "2027 iUP列明医学部、六年制Pharmacy及Food Science and Biotechnology不参加。目录保留本项，但须另核普通日语或其他适用招生通道。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Medicine:Human Health Sciences"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Pharmaceutical Sciences:Pharmaceutical Sciences",
+      "name_en": "Pharmaceutical Sciences",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.pharm.kyoto-u.ac.jp/en/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-pharmaceutical-sciences-62f8590195",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Pharmaceutical Sciences:Pharmaceutical Sciences"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Pharmaceutical Sciences:Pharmacy (six-year program)",
+      "name_en": "Pharmacy (six-year program)",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.pharm.kyoto-u.ac.jp/en/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-pharmacy-six-year-program-66d3035f3f",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "不参加iUP2027",
+            "text": "2027 iUP列明医学部、六年制Pharmacy及Food Science and Biotechnology不参加。目录保留本项，但须另核普通日语或其他适用招生通道。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Pharmaceutical Sciences:Pharmacy (six-year program)"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Engineering:Civil, Environmental, and Resources Engineering",
+      "name_en": "Civil, Environmental, and Resources Engineering",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.t.kyoto-u.ac.jp/en/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-civil-environmental-and-resources-engineering-270e0aa3f4",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Engineering:Civil, Environmental, and Resources Engineering"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Engineering:Architecture",
+      "name_en": "Architecture",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.t.kyoto-u.ac.jp/en/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-architecture-e3a8858139",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Engineering:Architecture"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Engineering:Engineering Science",
+      "name_en": "Engineering Science",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.t.kyoto-u.ac.jp/en/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-engineering-science-e28ecdb7fb",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Engineering:Engineering Science"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Engineering:Electrical and Electronic Engineering",
+      "name_en": "Electrical and Electronic Engineering",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.t.kyoto-u.ac.jp/en/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-electrical-and-electronic-engineering-2991038010",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Engineering:Electrical and Electronic Engineering"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Engineering:Informatics and Mathematical Science",
+      "name_en": "Informatics and Mathematical Science",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.t.kyoto-u.ac.jp/en/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-informatics-and-mathematical-science-536baec574",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Engineering:Informatics and Mathematical Science"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Engineering:Chemical Science and Technology",
+      "name_en": "Chemical Science and Technology",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.t.kyoto-u.ac.jp/en/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-chemical-science-and-technology-e1c515ca94",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Engineering:Chemical Science and Technology"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Agriculture:Bioresource Science",
+      "name_en": "Bioresource Science",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.kais.kyoto-u.ac.jp/english/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-bioresource-science-a39b0d86fd",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Agriculture:Bioresource Science"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Agriculture:Applied Life Sciences",
+      "name_en": "Applied Life Sciences",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.kais.kyoto-u.ac.jp/english/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-applied-life-sciences-8b5749a1b4",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Agriculture:Applied Life Sciences"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Agriculture:Agricultural and Environmental Engineering",
+      "name_en": "Agricultural and Environmental Engineering",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.kais.kyoto-u.ac.jp/english/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-agricultural-and-environmental-engineering-5b37028276",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Agriculture:Agricultural and Environmental Engineering"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Agriculture:Food and Environmental Economics",
+      "name_en": "Food and Environmental Economics",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.kais.kyoto-u.ac.jp/english/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-food-and-environmental-economics-da8d80744f",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Agriculture:Food and Environmental Economics"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Agriculture:Forest and Biomaterials Science",
+      "name_en": "Forest and Biomaterials Science",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.kais.kyoto-u.ac.jp/english/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-forest-and-biomaterials-science-59d967ed61",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "iUP2027可选范围",
+            "text": "本项所对应学院／分支列在2027 iUP可选表中。完成预备课程后仍须通过学院Qualifying Test才正式进入本科；不等于直接进入无条件的全英语四年课程。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Agriculture:Forest and Biomaterials Science"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Agriculture:Food Science and Biotechnology",
+      "name_en": "Food Science and Biotechnology",
+      "degree_label": "Bachelor's degree",
+      "official_url": "http://www.kais.kyoto-u.ac.jp/english/",
+      "university_id": "kyoto",
+      "inventory_id": "kyoto-food-science-and-biotechnology-d52dcc5984",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。",
+            "source_ids": [
+              "ASREN-188ea7d544e0ce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "不参加iUP2027",
+            "text": "2027 iUP列明医学部、六年制Pharmacy及Food Science and Biotechnology不参加。目录保留本项，但须另核普通日语或其他适用招生通道。",
+            "source_ids": [
+              "ASREN-76bd1a747d0a9a"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-188ea7d544e0ce",
+          "title": "官方本科目录",
+          "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+          "checked_at": "2026-09-12",
+          "supports": "目录列名、学院或校区身份，不证明本轮开放招生",
+          "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+          "locator": "Agriculture:Food Science and Biotechnology"
+        },
+        {
+          "id": "ASREN-76bd1a747d0a9a",
+          "title": "Kyoto iUP 2027年10月申请简章",
+          "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "iUP可选专业、资格、语言、日期及资助",
+          "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+          "locator": "PDF pages4–7,13,16,20"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched"
+    }
+  ],
+  "profile": {
+    "university_id": "kyoto",
+    "checked_at": "2026-09-12",
+    "scope": "普通本科入学与Kyoto iUP是不同路径；iUP仅限简章列出的学院及分支，医学、六年药学等不参加。",
+    "sections": {
+      "admissions": [
+        {
+          "label": "中国高中及普通入学",
+          "text": "普通本科通常要求海外12年正规学校教育完成或认可等价／IB等资格，且各学院另设资格与选拔。一般选拔需日本大学入学共通测试加学院考试；工学有私费外国人特选，法／经有外国学校毕业生选考，不能把高考分数当全校统一直录标准。",
+          "source_ids": [
+            "ASREN-37bc59373dfd4b"
+          ]
+        },
+        {
+          "label": "日语与iUP不同",
+          "text": "普通日语本科需较高日语能力；iUP入学时不要求日语，先读6个月预备加4年本科，最迟大三进入主要或全部日语专业课。iUP不是4年全英语学位。土木相关另有独立全英语课程，不能泛化至整个工学部。",
+          "source_ids": [
+            "ASREN-37bc59373dfd4b"
+          ]
+        },
+        {
+          "label": "iUP2027资格与成绩",
+          "text": "iUP要求非日本国籍及入学时留学在留资格，并于2027-09-30前完成认可12年教育或IB／A-Level等。可交高考等标准化考试；按目标学院核相应科目。本轮未列全套分科门槛。英语IELTS6.5、TOEFL90／新制4.5是成功申请者典型值，不是明定最低线；可按条件交学校Form C。",
+          "source_ids": [
+            "ASREN-76bd1a747d0a9a"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "label": "2027 iUP，尚未开放",
+          "text": "2027年10月iUP在线申请为2026-11-02至12-03 17:00日本时间，申请费JPY9,800；特殊同等学历资格预审须10-19前提交。普通日语路径2027确切日期本轮未完整取得，不能复制iUP日期。",
+          "source_ids": [
+            "ASREN-76bd1a747d0a9a"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "label": "本科现行学费",
+          "text": "普通本科年学费JPY535,800、入学金282,000、考试费17,000；这是现行标准，2027如调整以正式账单为准，不采用研究生法科大学院费。",
+          "source_ids": [
+            "ASREN-34db28889ded34"
+          ]
+        },
+        {
+          "label": "iUP专属资助",
+          "text": "2027 iUP简章列入学金全免及4.5年全额／部分学费减免；6个月预备期间所有iUP学生每月最高JPY120,000，进入本科后的生活资助为择优条件性项目。不能把最高金额和后续资助当人人固定领取，也不适用普通日语通道。",
+          "source_ids": [
+            "ASREN-76bd1a747d0a9a"
+          ]
+        }
+      ],
+      "outcomes": []
+    },
+    "sources": [
+      {
+        "id": "ASREN-37bc59373dfd4b",
+        "title": "京都大学本科国际学生入学说明",
+        "url": "https://www.kyoto-u.ac.jp/ja/international/students1/study1/undergraduate/addmissions",
+        "checked_at": "2026-09-12",
+        "supports": "普通12年资格、日语考试与iUP区别",
+        "sha256": "462600c6c6ffbfdd2d3aea23634984846ac444c1d0e2f1471ed192555c42e2f2",
+        "locator": "出願資格／選抜方法"
+      },
+      {
+        "id": "ASREN-76bd1a747d0a9a",
+        "title": "Kyoto iUP 2027年10月申请简章",
+        "url": "https://www.iup.kyoto-u.ac.jp/Application_Guidelines_for_October_2027_Enrollment.pdf",
+        "checked_at": "2026-09-12",
+        "supports": "iUP可选专业、资格、语言、日期及资助",
+        "sha256": "9381e596d4421c817d1e69f2b5676c2e62767048a125c2601d3c49d36127cc9b",
+        "locator": "PDF pages4–7,13,16,20"
+      },
+      {
+        "id": "ASREN-34db28889ded34",
+        "title": "京都大学现行学费",
+        "url": "https://www.kyoto-u.ac.jp/en/current/how-to/tuition/tuition-and-fees",
+        "checked_at": "2026-09-12",
+        "supports": "本科年费和入学金，不采用法科大学院费",
+        "sha256": "5c4aa86485cdc28462731b2f3ef8b3032a00f23d6875156724d92a4708c475c5",
+        "locator": "Tuition fees"
+      }
+    ]
+  }
+}

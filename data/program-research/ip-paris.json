@@ -1,0 +1,698 @@
+{
+  "university_id": "ip-paris",
+  "programs": [
+    {
+      "university_id": "ip-paris",
+      "raw_key": "ip-paris-2f7f68fb5c91",
+      "name_en": "Bachelor of Science",
+      "official_url": "https://www.ip-paris.fr/en/education/bachelor-science",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "ip-paris",
+      "sections": {
+        "overview": [
+          {
+            "label": "本专业：课程内容",
+            "text": "第一年建立数学与科学基础并探索学科，第二、三年选数学搭配物理、计算机或经济的双主修；第三年可交换并完成八周研究实习及论文。",
+            "source_ids": [
+              "ip-paris-about"
+            ]
+          },
+          {
+            "label": "本专业：学位与语言",
+            "text": "授予成员为École Polytechnique；完整本科三年、180ECTS，英语教学。后续硕士不是三年本科的一部分。",
+            "source_ids": [
+              "ip-paris-central-bachelor",
+              "ip-paris-about"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业：共同入口",
+            "text": "本条共用Bachelor申请程序；只收一年级申请，后续方向在课程内选择。申请年度与精确轮次见同校共用规则。",
+            "source_ids": [
+              "ip-paris-admissions"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本专业：2027收费",
+            "text": "共用本科的2027 non-EU/non-EEA学费EUR19,600/年，奖助学金须另行取得；后续Columbia硕士费用不在此数中。",
+            "source_ids": [
+              "ip-paris-faq",
+              "ip-paris-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "本专业：结果适用范围",
+            "text": "已取得2022届整个Bachelor的2025追踪调查，不能把全学位36%受雇状态分布或已就业者跨国薪资当作本双主修的独立统计。",
+            "source_ids": [
+              "ip-paris-survey"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ip-paris-central-bachelor",
+          "title": "IP Paris: Bachelor of Science",
+          "url": "https://www.ip-paris.fr/en/education/bachelor-science",
+          "checked_at": "2026-09-12",
+          "supports": "授予成员、三年英文双主修",
+          "raw_sha256": "7ac1992691cee9bfc2f2c04a8e0d4df96caef2c0dc1aa37b43019250964ea994",
+          "sha256": "7ac1992691cee9bfc2f2c04a8e0d4df96caef2c0dc1aa37b43019250964ea994"
+        },
+        {
+          "id": "ip-paris-about",
+          "title": "Bachelor of Science overview",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/about-the-bachelor/bachelor-of-science",
+          "checked_at": "2026-09-12",
+          "supports": "三年180ECTS、分流与研究",
+          "raw_sha256": "cfc6db183b356eafb25184efd0ec513612d7b2baffb8db3fd4585c904fc58277",
+          "sha256": "cfc6db183b356eafb25184efd0ec513612d7b2baffb8db3fd4585c904fc58277"
+        },
+        {
+          "id": "ip-paris-admissions",
+          "title": "Admissions criteria and procedures",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/admissions/admissions-criteria-and-procedure",
+          "checked_at": "2026-09-12",
+          "supports": "资格、英语、程序、2026-2027申请轮次",
+          "raw_sha256": "4a2661b116aefa760ed69261f63de5a9bdbe32f2de9a98e4de83d3808f0b7d10",
+          "sha256": "4a2661b116aefa760ed69261f63de5a9bdbe32f2de9a98e4de83d3808f0b7d10"
+        },
+        {
+          "id": "ip-paris-faq",
+          "title": "Bachelor FAQ",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/admissions/faq",
+          "checked_at": "2026-09-12",
+          "supports": "法语毕业标准、2027费用、押金和推荐人",
+          "raw_sha256": "41261927f09c23cc37e6fbf41aab5e3fb214e3f903c4b0934aeb532757d05a7f",
+          "sha256": "41261927f09c23cc37e6fbf41aab5e3fb214e3f903c4b0934aeb532757d05a7f"
+        },
+        {
+          "id": "ip-paris-fees",
+          "title": "Annual tuition fees",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/costs-and-funding/tuition-fees",
+          "checked_at": "2026-09-12",
+          "supports": "国际生收费与保持不变规则",
+          "raw_sha256": "2d6966d98e48b493773db6e41901e2e366d2125af5b096665125b2f193b2e7ce",
+          "sha256": "2d6966d98e48b493773db6e41901e2e366d2125af5b096665125b2f193b2e7ce"
+        },
+        {
+          "id": "ip-paris-survey",
+          "title": "BX2022 first job survey, published 16 December 2025",
+          "url": "https://www.polytechnique.edu/en/news/bx2022-first-job-survey-impact-selectivity-and-internationalization",
+          "checked_at": "2026-09-12",
+          "supports": "2022届在2025年调查的状态及受访已就业者薪资",
+          "raw_sha256": "0213638429d6054bf39873f9a7b11f22bdbd511462f98bfce929f35e5f5961db",
+          "sha256": "0213638429d6054bf39873f9a7b11f22bdbd511462f98bfce929f35e5f5961db"
+        }
+      ],
+      "display_fields": {
+        "name": "理学学士（共同招生）",
+        "duration": "3 年",
+        "language": "英语",
+        "intake": "下一轮 2026-09-17 开放；2027 年公布结果",
+        "entry_summary": "认可高中资格；高水平数学及至少一门理科，综合选拔",
+        "tuition_summary": "2027 non-EU：EUR 19,600 / 年",
+        "outcomes_summary": "2022届在2025年追踪：36%受雇、54%仍学习；非专业独立就业率"
+      },
+      "gaps": [
+        "大陆普高/高考专属分数及细则本轮未取得。",
+        "招生表前年度标题与具体日期不一致，已保留说明。",
+        "各双主修单独就业和薪资调查本轮未核实。"
+      ],
+      "inventory_id": "ip-paris-bachelor-of-science-f165a14cde"
+    },
+    {
+      "university_id": "ip-paris",
+      "raw_key": "ip-paris-f474086e7e72",
+      "name_en": "Mathematics and Physics",
+      "official_url": "https://www.ip-paris.fr/en/education/bachelor-science",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "ip-paris",
+      "sections": {
+        "overview": [
+          {
+            "label": "本专业：课程内容",
+            "text": "第二、三年将数学工具与物理结合，学习力学、相对论、光学、电磁、热力学及物质结构，配合实验室和毕业研究。",
+            "source_ids": [
+              "ip-paris-physics"
+            ]
+          },
+          {
+            "label": "本专业：学位与语言",
+            "text": "授予成员为École Polytechnique；完整本科三年、180ECTS，英语教学。此条是同一Bachelor内的双主修方向，第二年起分流，并非另一个独立本科招生学位。",
+            "source_ids": [
+              "ip-paris-central-bachelor",
+              "ip-paris-about"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业：共同入口",
+            "text": "本条共用Bachelor申请程序；只收一年级申请，后续方向在课程内选择。申请年度与精确轮次见同校共用规则。",
+            "source_ids": [
+              "ip-paris-admissions"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本专业：2027收费",
+            "text": "共用本科的2027 non-EU/non-EEA学费EUR19,600/年，奖助学金须另行取得；后续Columbia硕士费用不在此数中。",
+            "source_ids": [
+              "ip-paris-faq",
+              "ip-paris-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "本专业：结果适用范围",
+            "text": "已取得2022届整个Bachelor的2025追踪调查，不能把全学位36%受雇状态分布或已就业者跨国薪资当作本双主修的独立统计。",
+            "source_ids": [
+              "ip-paris-survey"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ip-paris-central-bachelor",
+          "title": "IP Paris: Bachelor of Science",
+          "url": "https://www.ip-paris.fr/en/education/bachelor-science",
+          "checked_at": "2026-09-12",
+          "supports": "授予成员、三年英文双主修",
+          "raw_sha256": "7ac1992691cee9bfc2f2c04a8e0d4df96caef2c0dc1aa37b43019250964ea994",
+          "sha256": "7ac1992691cee9bfc2f2c04a8e0d4df96caef2c0dc1aa37b43019250964ea994"
+        },
+        {
+          "id": "ip-paris-physics",
+          "title": "Mathematics and Physics",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/program-details/double-major-in-mathematics-physics",
+          "checked_at": "2026-09-12",
+          "supports": "物理双主修课程",
+          "raw_sha256": "eea0db1947b9ed611b327b534646e5bf94f6d37f5eb9cc5e120c7f31f306a826",
+          "sha256": "eea0db1947b9ed611b327b534646e5bf94f6d37f5eb9cc5e120c7f31f306a826"
+        },
+        {
+          "id": "ip-paris-about",
+          "title": "Bachelor of Science overview",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/about-the-bachelor/bachelor-of-science",
+          "checked_at": "2026-09-12",
+          "supports": "三年180ECTS、分流与研究",
+          "raw_sha256": "cfc6db183b356eafb25184efd0ec513612d7b2baffb8db3fd4585c904fc58277",
+          "sha256": "cfc6db183b356eafb25184efd0ec513612d7b2baffb8db3fd4585c904fc58277"
+        },
+        {
+          "id": "ip-paris-admissions",
+          "title": "Admissions criteria and procedures",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/admissions/admissions-criteria-and-procedure",
+          "checked_at": "2026-09-12",
+          "supports": "资格、英语、程序、2026-2027申请轮次",
+          "raw_sha256": "4a2661b116aefa760ed69261f63de5a9bdbe32f2de9a98e4de83d3808f0b7d10",
+          "sha256": "4a2661b116aefa760ed69261f63de5a9bdbe32f2de9a98e4de83d3808f0b7d10"
+        },
+        {
+          "id": "ip-paris-faq",
+          "title": "Bachelor FAQ",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/admissions/faq",
+          "checked_at": "2026-09-12",
+          "supports": "法语毕业标准、2027费用、押金和推荐人",
+          "raw_sha256": "41261927f09c23cc37e6fbf41aab5e3fb214e3f903c4b0934aeb532757d05a7f",
+          "sha256": "41261927f09c23cc37e6fbf41aab5e3fb214e3f903c4b0934aeb532757d05a7f"
+        },
+        {
+          "id": "ip-paris-fees",
+          "title": "Annual tuition fees",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/costs-and-funding/tuition-fees",
+          "checked_at": "2026-09-12",
+          "supports": "国际生收费与保持不变规则",
+          "raw_sha256": "2d6966d98e48b493773db6e41901e2e366d2125af5b096665125b2f193b2e7ce",
+          "sha256": "2d6966d98e48b493773db6e41901e2e366d2125af5b096665125b2f193b2e7ce"
+        },
+        {
+          "id": "ip-paris-survey",
+          "title": "BX2022 first job survey, published 16 December 2025",
+          "url": "https://www.polytechnique.edu/en/news/bx2022-first-job-survey-impact-selectivity-and-internationalization",
+          "checked_at": "2026-09-12",
+          "supports": "2022届在2025年调查的状态及受访已就业者薪资",
+          "raw_sha256": "0213638429d6054bf39873f9a7b11f22bdbd511462f98bfce929f35e5f5961db",
+          "sha256": "0213638429d6054bf39873f9a7b11f22bdbd511462f98bfce929f35e5f5961db"
+        }
+      ],
+      "display_fields": {
+        "name": "数学与物理（双主修）",
+        "duration": "3 年",
+        "language": "英语",
+        "intake": "下一轮 2026-09-17 开放；2027 年公布结果",
+        "entry_summary": "认可高中资格；高水平数学及至少一门理科，综合选拔",
+        "tuition_summary": "2027 non-EU：EUR 19,600 / 年",
+        "outcomes_summary": "2022届在2025年追踪：36%受雇、54%仍学习；非专业独立就业率"
+      },
+      "gaps": [
+        "大陆普高/高考专属分数及细则本轮未取得。",
+        "招生表前年度标题与具体日期不一致，已保留说明。",
+        "各双主修单独就业和薪资调查本轮未核实。"
+      ],
+      "inventory_id": "ip-paris-mathematics-and-physics-64582f1af7"
+    },
+    {
+      "university_id": "ip-paris",
+      "raw_key": "ip-paris-b355e8db347d",
+      "name_en": "Mathematics and Computer Science",
+      "official_url": "https://www.ip-paris.fr/en/education/bachelor-science",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "ip-paris",
+      "sections": {
+        "overview": [
+          {
+            "label": "本专业：课程内容",
+            "text": "从编程和计算数学基础进展到C++、算法、逻辑证明、机器学习、计算机体系与网络；第二、三年以数学和计算机为双主修。",
+            "source_ids": [
+              "ip-paris-computer"
+            ]
+          },
+          {
+            "label": "本专业：学位与语言",
+            "text": "授予成员为École Polytechnique；完整本科三年、180ECTS，英语教学。此条是同一Bachelor内的双主修方向，第二年起分流，并非另一个独立本科招生学位。",
+            "source_ids": [
+              "ip-paris-central-bachelor",
+              "ip-paris-about"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业：共同入口",
+            "text": "本条共用Bachelor申请程序；只收一年级申请，后续方向在课程内选择。申请年度与精确轮次见同校共用规则。",
+            "source_ids": [
+              "ip-paris-admissions"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本专业：2027收费",
+            "text": "共用本科的2027 non-EU/non-EEA学费EUR19,600/年，奖助学金须另行取得；后续Columbia硕士费用不在此数中。",
+            "source_ids": [
+              "ip-paris-faq",
+              "ip-paris-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "本专业：结果适用范围",
+            "text": "已取得2022届整个Bachelor的2025追踪调查，不能把全学位36%受雇状态分布或已就业者跨国薪资当作本双主修的独立统计。",
+            "source_ids": [
+              "ip-paris-survey"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ip-paris-central-bachelor",
+          "title": "IP Paris: Bachelor of Science",
+          "url": "https://www.ip-paris.fr/en/education/bachelor-science",
+          "checked_at": "2026-09-12",
+          "supports": "授予成员、三年英文双主修",
+          "raw_sha256": "7ac1992691cee9bfc2f2c04a8e0d4df96caef2c0dc1aa37b43019250964ea994",
+          "sha256": "7ac1992691cee9bfc2f2c04a8e0d4df96caef2c0dc1aa37b43019250964ea994"
+        },
+        {
+          "id": "ip-paris-computer",
+          "title": "Mathematics and Computer Science",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/program-details/double-major-in-mathematics-computer-science",
+          "checked_at": "2026-09-12",
+          "supports": "计算机双主修课程",
+          "raw_sha256": "c56106a34934c8da5e7469b067433bec215ac162ba69cc8f606d77225a32132c",
+          "sha256": "c56106a34934c8da5e7469b067433bec215ac162ba69cc8f606d77225a32132c"
+        },
+        {
+          "id": "ip-paris-about",
+          "title": "Bachelor of Science overview",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/about-the-bachelor/bachelor-of-science",
+          "checked_at": "2026-09-12",
+          "supports": "三年180ECTS、分流与研究",
+          "raw_sha256": "cfc6db183b356eafb25184efd0ec513612d7b2baffb8db3fd4585c904fc58277",
+          "sha256": "cfc6db183b356eafb25184efd0ec513612d7b2baffb8db3fd4585c904fc58277"
+        },
+        {
+          "id": "ip-paris-admissions",
+          "title": "Admissions criteria and procedures",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/admissions/admissions-criteria-and-procedure",
+          "checked_at": "2026-09-12",
+          "supports": "资格、英语、程序、2026-2027申请轮次",
+          "raw_sha256": "4a2661b116aefa760ed69261f63de5a9bdbe32f2de9a98e4de83d3808f0b7d10",
+          "sha256": "4a2661b116aefa760ed69261f63de5a9bdbe32f2de9a98e4de83d3808f0b7d10"
+        },
+        {
+          "id": "ip-paris-faq",
+          "title": "Bachelor FAQ",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/admissions/faq",
+          "checked_at": "2026-09-12",
+          "supports": "法语毕业标准、2027费用、押金和推荐人",
+          "raw_sha256": "41261927f09c23cc37e6fbf41aab5e3fb214e3f903c4b0934aeb532757d05a7f",
+          "sha256": "41261927f09c23cc37e6fbf41aab5e3fb214e3f903c4b0934aeb532757d05a7f"
+        },
+        {
+          "id": "ip-paris-fees",
+          "title": "Annual tuition fees",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/costs-and-funding/tuition-fees",
+          "checked_at": "2026-09-12",
+          "supports": "国际生收费与保持不变规则",
+          "raw_sha256": "2d6966d98e48b493773db6e41901e2e366d2125af5b096665125b2f193b2e7ce",
+          "sha256": "2d6966d98e48b493773db6e41901e2e366d2125af5b096665125b2f193b2e7ce"
+        },
+        {
+          "id": "ip-paris-survey",
+          "title": "BX2022 first job survey, published 16 December 2025",
+          "url": "https://www.polytechnique.edu/en/news/bx2022-first-job-survey-impact-selectivity-and-internationalization",
+          "checked_at": "2026-09-12",
+          "supports": "2022届在2025年调查的状态及受访已就业者薪资",
+          "raw_sha256": "0213638429d6054bf39873f9a7b11f22bdbd511462f98bfce929f35e5f5961db",
+          "sha256": "0213638429d6054bf39873f9a7b11f22bdbd511462f98bfce929f35e5f5961db"
+        }
+      ],
+      "display_fields": {
+        "name": "数学与计算机科学（双主修）",
+        "duration": "3 年",
+        "language": "英语",
+        "intake": "下一轮 2026-09-17 开放；2027 年公布结果",
+        "entry_summary": "认可高中资格；高水平数学及至少一门理科，综合选拔",
+        "tuition_summary": "2027 non-EU：EUR 19,600 / 年",
+        "outcomes_summary": "2022届在2025年追踪：36%受雇、54%仍学习；非专业独立就业率"
+      },
+      "gaps": [
+        "大陆普高/高考专属分数及细则本轮未取得。",
+        "招生表前年度标题与具体日期不一致，已保留说明。",
+        "各双主修单独就业和薪资调查本轮未核实。"
+      ],
+      "inventory_id": "ip-paris-mathematics-and-computer-science-1c98e8a849"
+    },
+    {
+      "university_id": "ip-paris",
+      "raw_key": "ip-paris-28c9a75c3e0b",
+      "name_en": "Mathematics and Economics",
+      "official_url": "https://www.ip-paris.fr/en/education/bachelor-science",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "ip-paris",
+      "sections": {
+        "overview": [
+          {
+            "label": "本专业：课程内容",
+            "text": "用数学模型和实证方法学习微观、宏观、计量及金融，再进入博弈、贸易、公共政策与发展等专题，并完成研究论文。",
+            "source_ids": [
+              "ip-paris-economics"
+            ]
+          },
+          {
+            "label": "本专业：学位与语言",
+            "text": "授予成员为École Polytechnique；完整本科三年、180ECTS，英语教学。此条是同一Bachelor内的双主修方向，第二年起分流，并非另一个独立本科招生学位。",
+            "source_ids": [
+              "ip-paris-central-bachelor",
+              "ip-paris-about"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业：共同入口",
+            "text": "本条共用Bachelor申请程序；只收一年级申请，后续方向在课程内选择。申请年度与精确轮次见同校共用规则。",
+            "source_ids": [
+              "ip-paris-admissions"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本专业：2027收费",
+            "text": "共用本科的2027 non-EU/non-EEA学费EUR19,600/年，奖助学金须另行取得；后续Columbia硕士费用不在此数中。",
+            "source_ids": [
+              "ip-paris-faq",
+              "ip-paris-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "本专业：结果适用范围",
+            "text": "已取得2022届整个Bachelor的2025追踪调查，不能把全学位36%受雇状态分布或已就业者跨国薪资当作本双主修的独立统计。",
+            "source_ids": [
+              "ip-paris-survey"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ip-paris-central-bachelor",
+          "title": "IP Paris: Bachelor of Science",
+          "url": "https://www.ip-paris.fr/en/education/bachelor-science",
+          "checked_at": "2026-09-12",
+          "supports": "授予成员、三年英文双主修",
+          "raw_sha256": "7ac1992691cee9bfc2f2c04a8e0d4df96caef2c0dc1aa37b43019250964ea994",
+          "sha256": "7ac1992691cee9bfc2f2c04a8e0d4df96caef2c0dc1aa37b43019250964ea994"
+        },
+        {
+          "id": "ip-paris-economics",
+          "title": "Mathematics and Economics",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/program-details/double-major-in-mathematics-economics",
+          "checked_at": "2026-09-12",
+          "supports": "经济双主修课程",
+          "raw_sha256": "235c88b96b0d294267eda8f4f3b352ad7b35d09d9031e7121b9b18c320d83f07",
+          "sha256": "235c88b96b0d294267eda8f4f3b352ad7b35d09d9031e7121b9b18c320d83f07"
+        },
+        {
+          "id": "ip-paris-about",
+          "title": "Bachelor of Science overview",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/about-the-bachelor/bachelor-of-science",
+          "checked_at": "2026-09-12",
+          "supports": "三年180ECTS、分流与研究",
+          "raw_sha256": "cfc6db183b356eafb25184efd0ec513612d7b2baffb8db3fd4585c904fc58277",
+          "sha256": "cfc6db183b356eafb25184efd0ec513612d7b2baffb8db3fd4585c904fc58277"
+        },
+        {
+          "id": "ip-paris-admissions",
+          "title": "Admissions criteria and procedures",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/admissions/admissions-criteria-and-procedure",
+          "checked_at": "2026-09-12",
+          "supports": "资格、英语、程序、2026-2027申请轮次",
+          "raw_sha256": "4a2661b116aefa760ed69261f63de5a9bdbe32f2de9a98e4de83d3808f0b7d10",
+          "sha256": "4a2661b116aefa760ed69261f63de5a9bdbe32f2de9a98e4de83d3808f0b7d10"
+        },
+        {
+          "id": "ip-paris-faq",
+          "title": "Bachelor FAQ",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/admissions/faq",
+          "checked_at": "2026-09-12",
+          "supports": "法语毕业标准、2027费用、押金和推荐人",
+          "raw_sha256": "41261927f09c23cc37e6fbf41aab5e3fb214e3f903c4b0934aeb532757d05a7f",
+          "sha256": "41261927f09c23cc37e6fbf41aab5e3fb214e3f903c4b0934aeb532757d05a7f"
+        },
+        {
+          "id": "ip-paris-fees",
+          "title": "Annual tuition fees",
+          "url": "https://programmes.polytechnique.edu/en/bachelor/costs-and-funding/tuition-fees",
+          "checked_at": "2026-09-12",
+          "supports": "国际生收费与保持不变规则",
+          "raw_sha256": "2d6966d98e48b493773db6e41901e2e366d2125af5b096665125b2f193b2e7ce",
+          "sha256": "2d6966d98e48b493773db6e41901e2e366d2125af5b096665125b2f193b2e7ce"
+        },
+        {
+          "id": "ip-paris-survey",
+          "title": "BX2022 first job survey, published 16 December 2025",
+          "url": "https://www.polytechnique.edu/en/news/bx2022-first-job-survey-impact-selectivity-and-internationalization",
+          "checked_at": "2026-09-12",
+          "supports": "2022届在2025年调查的状态及受访已就业者薪资",
+          "raw_sha256": "0213638429d6054bf39873f9a7b11f22bdbd511462f98bfce929f35e5f5961db",
+          "sha256": "0213638429d6054bf39873f9a7b11f22bdbd511462f98bfce929f35e5f5961db"
+        }
+      ],
+      "display_fields": {
+        "name": "数学与经济学（双主修）",
+        "duration": "3 年",
+        "language": "英语",
+        "intake": "下一轮 2026-09-17 开放；2027 年公布结果",
+        "entry_summary": "认可高中资格；高水平数学及至少一门理科，综合选拔",
+        "tuition_summary": "2027 non-EU：EUR 19,600 / 年",
+        "outcomes_summary": "2022届在2025年追踪：36%受雇、54%仍学习；非专业独立就业率"
+      },
+      "gaps": [
+        "大陆普高/高考专属分数及细则本轮未取得。",
+        "招生表前年度标题与具体日期不一致，已保留说明。",
+        "各双主修单独就业和薪资调查本轮未核实。"
+      ],
+      "inventory_id": "ip-paris-mathematics-and-economics-f5ecf79918"
+    }
+  ],
+  "profile": {
+    "university_id": "ip-paris",
+    "checked_at": "2026-09-12",
+    "scope": "École Polytechnique Bachelor of Science，共同招生与三双主修；非IP Paris所有成员统一政策",
+    "sections": {
+      "overview": [
+        {
+          "label": "同校共用：实际办学单位",
+          "text": "本目录是IP Paris成员École Polytechnique开设的Bachelor of Science及三个双主修方向，不能把其他成员的工程师、硕士或博士项目当作这一学位。",
+          "source_ids": [
+            "ip-paris-central-bachelor"
+          ]
+        }
+      ],
+      "admissions": [
+        {
+          "label": "同校共用：中国高中资格边界",
+          "text": "可凭在读或已获、受本国或国际认可的高中毕业/科学类大学入学资格申请；要求高水平数学及至少另一门高水平理科。学校未设统一申请最低总分，但强调优秀成绩和综合选拔；本轮未取得中国高考专门分数或豁免规则。",
+          "source_ids": [
+            "ip-paris-admissions",
+            "ip-paris-faq"
+          ]
+        },
+        {
+          "label": "同校共用：英语与法语",
+          "text": "IELTS总分6.5、每项6.0，成绩入学时须未满两年；可先申请后补达标英语。无需先懂法语，但毕业须达到法语B2。不接受二、三年级转入。",
+          "source_ids": [
+            "ip-paris-admissions",
+            "ip-paris-faq"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "label": "同校共用：申请渠道",
+          "text": "每学年只可申请一次，选学校在线系统或适用的Parcoursup，不能两边重复；Campus France提交的本学位录取申请不予审查。材料含成绩、动机、CV、证件与两位推荐人，至少一位为当前数学教师；短名单须英文远程面试。",
+          "source_ids": [
+            "ip-paris-admissions",
+            "ip-paris-faq"
+          ]
+        },
+        {
+          "label": "下一轮申请日程",
+          "text": "官网表列第一轮2026-09-17至10-20 23:59 CEST；第二轮2026-10-21至2027-01-06 23:59 CET；第三轮2027-01-07至02-08 14:00 CET，结果在2027年1—4月。表前仍残留“2026 intakes”，本轮按表内具体日期记录此冲突；2026-09-12尚未开放。",
+          "source_ids": [
+            "ip-paris-admissions"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "label": "2027非欧盟学费",
+          "text": "FAQ明确2027入学non-EU/non-EEA为EUR19,600/年，专门收费页同额，并说明本学程内学费保持不变。总览页仍列未标年的EUR19,200，不作2027报价；Columbia后续硕士阶段适用其另行收费。",
+          "source_ids": [
+            "ip-paris-faq",
+            "ip-paris-fees",
+            "ip-paris-about"
+          ]
+        },
+        {
+          "label": "申请费与押金",
+          "text": "当前申请费EUR105；FAQ列两笔各EUR1,500不可退押金，可抵首年学费。支付期限按录取后的Enrollment Guidelines，不自行推定。",
+          "source_ids": [
+            "ip-paris-admissions",
+            "ip-paris-faq"
+          ]
+        },
+        {
+          "label": "奖助学金条件",
+          "text": "学校按成绩和经济需要提供有限资助，建议需资助者优先早轮。Excellence奖学金限with honors录取者，及格进展与良好行为关系续领；国际生可申请校方需求型减免/贷款，不等同自动取得法国CROUS。奖助页还列每年EUR1,500管理费不予减免，是否计入总报价须按账单核对。",
+          "source_ids": [
+            "ip-paris-funding"
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "label": "2022届本科在2025年受访情况",
+          "text": "校方2025-12-16报告：2025年2—5月调查2022届79名毕业生，回应率63%，共50名受访者。毕业约30个月时，54%仍学习、36%受雇、2%求职、4%创业、4%其他。此为受访状态分布，包含法国和国际毕业生，不是大陆学生或各双主修的就业率。",
+          "source_ids": [
+            "ip-paris-survey"
+          ]
+        },
+        {
+          "label": "薪资统计边界",
+          "text": "同报告已受雇群体跨国平均税前年薪为不含奖金EUR57,000、含奖金EUR74,000；不能当作毕业即刻起薪、全部受访者平均或中国学生预期收入。各双主修独立结果本轮未核实。",
+          "source_ids": [
+            "ip-paris-survey"
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": "ip-paris-central-bachelor",
+        "title": "IP Paris: Bachelor of Science",
+        "url": "https://www.ip-paris.fr/en/education/bachelor-science",
+        "checked_at": "2026-09-12",
+        "supports": "授予成员、三年英文双主修",
+        "raw_sha256": "7ac1992691cee9bfc2f2c04a8e0d4df96caef2c0dc1aa37b43019250964ea994",
+        "sha256": "7ac1992691cee9bfc2f2c04a8e0d4df96caef2c0dc1aa37b43019250964ea994"
+      },
+      {
+        "id": "ip-paris-admissions",
+        "title": "Admissions criteria and procedures",
+        "url": "https://programmes.polytechnique.edu/en/bachelor/admissions/admissions-criteria-and-procedure",
+        "checked_at": "2026-09-12",
+        "supports": "资格、英语、程序、2026-2027申请轮次",
+        "raw_sha256": "4a2661b116aefa760ed69261f63de5a9bdbe32f2de9a98e4de83d3808f0b7d10",
+        "sha256": "4a2661b116aefa760ed69261f63de5a9bdbe32f2de9a98e4de83d3808f0b7d10"
+      },
+      {
+        "id": "ip-paris-faq",
+        "title": "Bachelor FAQ",
+        "url": "https://programmes.polytechnique.edu/en/bachelor/admissions/faq",
+        "checked_at": "2026-09-12",
+        "supports": "法语毕业标准、2027费用、押金和推荐人",
+        "raw_sha256": "41261927f09c23cc37e6fbf41aab5e3fb214e3f903c4b0934aeb532757d05a7f",
+        "sha256": "41261927f09c23cc37e6fbf41aab5e3fb214e3f903c4b0934aeb532757d05a7f"
+      },
+      {
+        "id": "ip-paris-about",
+        "title": "Bachelor of Science overview",
+        "url": "https://programmes.polytechnique.edu/en/bachelor/about-the-bachelor/bachelor-of-science",
+        "checked_at": "2026-09-12",
+        "supports": "三年180ECTS、分流与研究",
+        "raw_sha256": "cfc6db183b356eafb25184efd0ec513612d7b2baffb8db3fd4585c904fc58277",
+        "sha256": "cfc6db183b356eafb25184efd0ec513612d7b2baffb8db3fd4585c904fc58277"
+      },
+      {
+        "id": "ip-paris-fees",
+        "title": "Annual tuition fees",
+        "url": "https://programmes.polytechnique.edu/en/bachelor/costs-and-funding/tuition-fees",
+        "checked_at": "2026-09-12",
+        "supports": "国际生收费与保持不变规则",
+        "raw_sha256": "2d6966d98e48b493773db6e41901e2e366d2125af5b096665125b2f193b2e7ce",
+        "sha256": "2d6966d98e48b493773db6e41901e2e366d2125af5b096665125b2f193b2e7ce"
+      },
+      {
+        "id": "ip-paris-funding",
+        "title": "Scholarships and financial aid",
+        "url": "https://programmes.polytechnique.edu/en/bachelor/costs-and-funding/scholarships-and-financial-aid",
+        "checked_at": "2026-09-12",
+        "supports": "奖学金及助学资格",
+        "raw_sha256": "b3b973fbd2d1f594661a6da4d16cc3c07b466bd8dfc660b0789c3766d70751f1",
+        "sha256": "b3b973fbd2d1f594661a6da4d16cc3c07b466bd8dfc660b0789c3766d70751f1"
+      },
+      {
+        "id": "ip-paris-survey",
+        "title": "BX2022 first job survey, published 16 December 2025",
+        "url": "https://www.polytechnique.edu/en/news/bx2022-first-job-survey-impact-selectivity-and-internationalization",
+        "checked_at": "2026-09-12",
+        "supports": "2022届在2025年调查的状态及受访已就业者薪资",
+        "raw_sha256": "0213638429d6054bf39873f9a7b11f22bdbd511462f98bfce929f35e5f5961db",
+        "sha256": "0213638429d6054bf39873f9a7b11f22bdbd511462f98bfce929f35e5f5961db"
+      }
+    ]
+  }
+}

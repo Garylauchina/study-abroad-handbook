@@ -1,0 +1,1799 @@
+{
+  "university_id": "paris-saclay",
+  "sources": [
+    {
+      "url": "https://www.universite-paris-saclay.fr/admissions/etudiants-internationaux-candidater-en-premier-cycle-licences",
+      "sha256": "abc2690ca2df3893d15d904ab87484b2fab7d093705b6a3f435da26e124f5524",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/entry.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/admission/droits-dinscription-de-luniversite-paris-saclay",
+      "sha256": "69d54882c8c0a52110e3c55590cbbbbb4e99f1d0f80738b77707115403e7d73a",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/fees-fr.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/sites/default/files/2026-06/tableau_di_2026-2027_0.pdf",
+      "sha256": "96d1c799a70c1c68b9210705c63492155fd69efea23773193c57f6d0e26c1dbc",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/fees-table.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.univ-evry.fr/toute-lactualite/application-des-droits-differencies-pour-la-rentree-2026-2027.html",
+      "sha256": "1e41bf1e89a5d9e4e018c409164f361d1c849b562654a3f9c25adc9f84b25a59",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/evry-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.univ-evry.fr/vie-de-campus/aides-sociales-etudiantes/exoneration-des-frais-dinscription.html",
+      "sha256": "16f4e5837d7b27cb827d4ca4dd4c45ad75da111af162521f4d72f441824d1891",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/evry-exempt.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.univ-evry.fr/formation/comment-sinscrire/lyceen-ou-etudiant-etranger-jamais-inscrit-dans-lenseignement-superieur-en-france/non-ressortissant-de-lue/candidature-l1.html",
+      "sha256": "33ff3a153c54eba22bffd9d59e0b178afa9be286a3591d309b3bfb97f513e4b4",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/evry-entry.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/mobilite-individuelle",
+      "sha256": "4fd013404cc3062c60bf37dc64db1bcdc6b19ceb958d16369f29eaa346d4691d",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/uvsq-individual.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/les-droits-universitaires",
+      "sha256": "82e83e763c0c256a98359730943711f5a27f4f52e0084010026ca2d16af9ace7",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/uvsq-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/medias/fichier/droits-universitaires-2026-2027-web_1782391736148-pdf?ID_FICHE=183511&INLINE=FALSE",
+      "sha256": "89d1ec38f24488290ddcabb80d8f9c6bfcdd3718b97b916c111a3d753df84fcd",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/uvsq-fees-table.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/le-test-de-connaissance-du-francais-tcf",
+      "sha256": "488f9ceda03133370382aa2f2086a5622a796600f083ce771b414aaeefa25308",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/uvsq-tcf.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/vie-de-campus/accueil-des-publics-internationaux/apprendre-le-francais",
+      "sha256": "ac1751e494a1ba134c8f3af9b572da20d98a3244edb7a80bbae9e0e8f19cdf43",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/language.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/qualite-logistique-industrielle-et-organisation-KUZCHNRN.html",
+      "sha256": "eeed753ed23bbabc22f7835f037412ffe6fd3cecd6801d1785988cb1b839e2e6",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-206.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/but-techniques-de-commercialisation-tc-1",
+      "sha256": "85d94926daaf666aad5a7adeebb7b51c8da170c5e2f47578ee1b88aa93fc8f2a",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-285.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/administration-economique-et-sociale",
+      "sha256": "58b54f42ec0ba9d9f3d16b984026ed922753b138b91940de8e3e84e06250f656",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-administration-economique-et-sociale.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/administration-economique-et-sociale/l3-aes-achats-logistiques-site-evry",
+      "sha256": "42c1709b940ee3c632ff9436398e7db2869aa3377a6de8ebfa91e2e7c12aaed0",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/administration-economique-et-sociale/l3-aes-administration-des-echanges-internationaux",
+      "sha256": "4d8a81b891987f7c39fda2345dee9147c83a3a823945616f07b19196d4b946e8",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/administration-economique-et-sociale/l3-aes-comptabilite-et-controle-de-gestion-site-evry",
+      "sha256": "62e05b3e5ada980b7df8316c3eabf10bebeee55c63d090b5ca3dc458684b28e3",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/administration-economique-et-sociale/l3-aes-ressources-humaines-affaires-sociales-et-environnementales-site-evry",
+      "sha256": "f0148a623ed36697b877cc94ec2f2514b51c8c784d5a9aad238b19344b7afacb",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/administration-economique-et-sociale/l3-tesse-territoires-economie-sociale-sante-et-enseignement",
+      "sha256": "fce331f38dcfceccfba4e9e18b33223672fbb7e3ad46f4d4fce04bed2955df81",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/chimie",
+      "sha256": "28c5e9c884949edba1466c7e2c427f4b57a305e5418a04d4c87ab990dfb23054",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-chimie.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/chimie/l3-chimie-0",
+      "sha256": "0aa96c66962b5b4b14aee9681dd9845af48b00445907a0cd289f9cad1599b2b9",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sciences-de-la-vie/l3-interface-biologie-chimie",
+      "sha256": "f1620a3900dd1c7470ec6febdb0f60145c6fe7310988b678ccb1135f08ae9514",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-52.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/physique/l3-interfaces-physique-chimie",
+      "sha256": "ffebf46ea3b972613ea1679487591606c1807ed864c7dd451022da82df0360e8",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-34.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/droit",
+      "sha256": "6d3e29f61fb4494702aa6e94594615060f0ef95a2e14e13ab2d9de131563307c",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-droit.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/droit/l3-droit",
+      "sha256": "16bb183c4efc3fdac281dbad76735275cf4d74360463f3c1786216b98aa1a619",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-12.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/economie-et-gestion",
+      "sha256": "336f03aec181cda602ea711c0c2d748f9eda56937f08337c3a64d04a72f3f234",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-economie-et-gestion.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/economie-et-gestion/l3-comptabilite-controle-audit",
+      "sha256": "1b7394382e3e2b28d72128be474984330e287d44e52bb39ab49f7437f126e011",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-14.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/economie-et-gestion/l3-economie-analyse-et-donnees",
+      "sha256": "e9aad0539dca41a1e14db14728f6ee804a822df5effab3f15f8a30c65029574d",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-15.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/economie-et-gestion/l3-gestion-des-entreprises-et-des-organisations",
+      "sha256": "4b54e4a9150e05ac1cc9ebf6703359eb5b6a00b28fbb03ab3c266fb76b48471c",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-16.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/histoire",
+      "sha256": "a61a9d4722875d2897fb060e9c3fb6363a8eda828d957a948efbdfb22eee15d7",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-histoire.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/histoire/l3-histoire-culture-et-patrimoine",
+      "sha256": "516079656b49469751013365a39ac14f7cf219a93458ca0c1e582e3a8aaa2023",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-18.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/histoire/l3-histoire-enseignement-et-sciences-pluridisciplinaires",
+      "sha256": "346ea6d20a4c436c9271c5d6af795650d891eb2ead735d28008ae5b238212809",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-19.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/histoire/l3-histoire-enseignement",
+      "sha256": "907711f986f22c320af0f098b51d2c9023d36de6a9e6c2f174b4c9f0cbebf349",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-20.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/histoire/l3-histoire-histoire-et-societes",
+      "sha256": "20966d3b6722c580b80926bdc88a3812cecc5a784d0243ad4c9a9533a0cdfe35",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-21.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/histoire/l3-histoire-histoire-geographie-et-dynamiques-politiques",
+      "sha256": "2692f02c869f97ef57e4def36313cad402836a73ea6c4f3b748bff60d62c10a8",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-22.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/histoire/l3-histoire-journalisme-et-monde-contemporain",
+      "sha256": "97b097af86eb51f176a7c028addbcc73f27530fc3ad7d95d7b800708e90858c8",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-23.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/informatique",
+      "sha256": "6b7ca3c91305f59ed1c87bce5195df7d67cb1cedb07ec30a1362b7701d6b7cdb",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-informatique.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/informatique/l3-informatique-miage-par-alternance",
+      "sha256": "19d97f8ae8055d25e8833079b0e8188acbb89934c185a7a9562e6d479fc415df",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-25.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/informatique/l3-informatique",
+      "sha256": "04ad01495ef6b900a234346fd0b42661e421a24bc6f154b1122949235f95f03f",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-26.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/informatique/l3-methodes-informatiques-appliquees-la-gestion-des-entreprises-miage",
+      "sha256": "421e1535de2c92461ef84a90f20e140cdd960e21fd8ad6d890d2365c9d71e807",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-27.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/langues-etrangeres-appliquees",
+      "sha256": "5c1967ee381d42a39a91a66f6809148ba6b22c92b10e538c718bc190ca57ee57",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-langues-etrangeres-appliquees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/langues-etrangeres-appliquees/l3-langues-etrangeres-appliquees",
+      "sha256": "71d02ff9a8a11a8e0b2d2a728e54b19a0cb75506b3001e6faa022775c898dced",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-29.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/mathematiques",
+      "sha256": "ba62368952e5c7179d673d1269749e167787d3b20d86d152fc0050efe4445236",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-mathematiques.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/mathematiques/l3-mathematiques",
+      "sha256": "166564e46ac5059f5840a74ec975edee491c3cd92e8f54c0cadd6ffd7beb050e",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-31.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/physique",
+      "sha256": "979554f730ea15016ac3555ad97bc2449974a3f922a39ed9338a7d7dd0e8a8fc",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-physique.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/physique/l3-ingenierie-electronique-energie-electrique-automatique-e3a",
+      "sha256": "17902df4790845a22bc3adaa3783779d8f40d38bccc66474bd147216ac84b3a6",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-33.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/physique/l3-physique-0",
+      "sha256": "5a59c446c87a3011bec8c3559c94d5ebf531471364c95fb0e3e4099776ff14dc",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-35.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/professorat-des-ecoles",
+      "sha256": "b0332519d2028e85230c7b5ce917faba18d8616626bdfc53634d78baab269a79",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professorat-des-ecoles.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/staps-activite-physique-adaptee-sante",
+      "sha256": "5d0310911d1a5312e7e86f828c56c124aa1426c4e7a12e1c227c564a384a5d54",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-staps-activite-physique-adaptee-sante.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/staps-activite-physique-adaptee-sante/l3-staps-activites-physiques-adaptees-et-sante",
+      "sha256": "08ae33bb95ad95033f65e00de61957061d6213acc939b077ed3822f3d733d14d",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-38.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/staps-education-et-motricite",
+      "sha256": "e32523a757ba8c766ea20fcdf9b6f90a546ee091fcbc25c9f43e135bc328a9db",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-staps-education-et-motricite.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/staps-education-et-motricite/l3-education-et-motricite-premier-degre",
+      "sha256": "8bf3666a2f5607d2e2eb40129f28abc7f793083811c97f8e584d2302f1fca496",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-40.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/staps-education-et-motricite/l3-education-et-motricite-second-degre",
+      "sha256": "e320d0164d7a0f6f6ecdf19429db5c468760fb7c904ba567a42c692858be19b0",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-41.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/staps-entrainement-sportif",
+      "sha256": "50b9fe77b4514a50f06cb90873285022218da6507b807dee677c311f47834622",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-staps-entrainement-sportif.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/staps-entrainement-sportif/l3-staps-entrainement-sportif",
+      "sha256": "556f3c83f58cef905ee023ad64c737b0393d2a109c3fff7c6649461844edbe56",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-43.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/staps-management-du-sport",
+      "sha256": "ebb8d76ba27960fe5f72f88059a84c3d25697e2b777d4c12f95768750833cf77",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-staps-management-du-sport.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/staps-management-du-sport/l3-staps-management-du-sport",
+      "sha256": "7b27698421129ff57e620336018bed2ff8774aa617411cd4ef2f9fc9f583fbe5",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-45.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sciences-de-la-terre",
+      "sha256": "4b00b0f1498fd0de45f666ef5e032f40de4c534eac98f50cba8999b5633415e8",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-sciences-de-la-terre.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sciences-de-la-terre/l3-sciences-de-la-terre",
+      "sha256": "02cfb52ac914606c47defd03e89696f11f1baf85798860f92182e3a885f86bed",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-47.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sciences-de-la-vie",
+      "sha256": "ca03a0d5e44502e13768bd986ea00e118d5783b6b0d0b50b2bcc3cfb5eaaeb63",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-sciences-de-la-vie.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sciences-de-la-vie/l3-aspects-moleculaires-et-cellulaires-du-vivant",
+      "sha256": "bc6db35b175b3b950d1e1f521487113a4ae468806974447f741135758215aab6",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-49.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sciences-de-la-vie/l3-biologie-des-organismes-et-ecologie-0",
+      "sha256": "718e8410c081f6067d80b1af10f9e62dd624ea2109aebdddc9c5870a1b43dc45",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-50.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sciences-et-technologies",
+      "sha256": "32654ce3b261283db0d79983914d1555bbe127a315c19cea096196020415f515",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-53.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sciences-enseignement-mediation",
+      "sha256": "f197a65b437fd67bb428ece494b9c275a230e96f86e874747304fd31f359bb9e",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-sciences-enseignement-mediation.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sciences-enseignement-mediation/l3-sciences-enseignement-mediation-professeur-des-ecoles-sem-pe",
+      "sha256": "ca4933de3a3b61567dd058d191927a56efdf4c2196bbcc0ee9aa556e24395442",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-55.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sociologie",
+      "sha256": "3b370502ace84f4c73fdac6f22c350b328e0cb5376ffc922696d5d251ea264ff",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-sociologie.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sociologie/l3-sociologie-site-evry",
+      "sha256": "a2141e10dfcdc714e46117a1271139f51207e865f0618ba0fe036775896812e0",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-57.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sociologie/l3-sociologie-site-guyancourt",
+      "sha256": "c8abb92921bb3d648867e1ea47cfa52b2e48f67013953b9f9763219e285399fb",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-58.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sociologie/l3-sociologie-enseignement-et-sciences-pluridisciplinaires",
+      "sha256": "033d78bb8bc2ff0d2b9bc8ee5dc91c4926c2a46fb2c2534afa09eb5d77189b36",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-59.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/but/chimie",
+      "sha256": "53b225d66c40fddceedcc84add8640d498d3dd8ad3570cbe6c5084caa1a54544",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-but-chimie.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/chimie/but3-chimie-analyse-controle-qualite-environnement",
+      "sha256": "616df3581b13641cd247edf832e746d57ca87420bcaa546e9774b8ba897fdbe4",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-61.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/chimie/but3-chimie-chimie-industrielle",
+      "sha256": "fc743c1cc9ac8e02b203fad5a04d887e45d092900c140f7614b12390420aef4c",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-62.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/chimie/but3-chimie-materiaux-et-produits-formules",
+      "sha256": "4e581804dd697972686e784473dba7ee0be0d43626616bb90184fb4f60e541bc",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-63.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/chimie/but3-chimie-synthese",
+      "sha256": "5d4ac07413d137511e0e172228301841967fe42709b5b7342a1032bbf6271a78",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-64.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/but/gestion-des-entreprises-et-des-administrations",
+      "sha256": "cc8f16b6dabb8873a66a6b2a8f46a0f9354138c10c956769027ac59b68b8aec9",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-but-gestion-des-entreprises-et-des-administrations.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/gestion-des-entreprises-et-des-administrations/but3-gestion-des-entreprises-et-administrations-gestion-comptable-fiscale-et-financiere",
+      "sha256": "0b2e6fae3a2c5463e022b81b56709be05f57411266c013fee6cf4b1293026c1e",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-67.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/gestion-des-entreprises-et-des-administrations/but3-gestion-des-entreprises-et-administrations-gestion-entrepreneuriat-et-management-des-activites",
+      "sha256": "becd9d953ee80c3610faf6f98abdbfea625327962035845802f7865909f03a7e",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-68.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/gestion-des-entreprises-et-des-administrations/but3-gestion-des-entreprises-et-administrations-gestion-et-pilotage-des-ressources-humaines",
+      "sha256": "90c7d2c3d06868f5f7b03662318b95d9fb4350ca5a715ca357828c7570a575da",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-69.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/but/genie-mecanique-et-productique",
+      "sha256": "35f3289cedc1951c5e17ce472082c1bfc87e504750135d01659a30e3210abe44",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-but-genie-mecanique-et-productique.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/genie-mecanique-et-productique/but3-genie-mecanique-et-productique-innovation-pour-lindustrie",
+      "sha256": "8d0bf5476d6befffbd9d418cd324ba6f4cfcb2cfd7343cc5cfe820e7a9125b43",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-71.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/genie-mecanique-et-productique/but3-genie-mecanique-et-productique-management-de-process-industriel",
+      "sha256": "a10481c5247e857ce74893645827d9a547788c74d1819bff619254b0efe25ecc",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-72.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/genie-mecanique-et-productique/but3-genie-mecanique-et-productique-simulation-numerique-et-realite-virtuelle",
+      "sha256": "28d96fd016ec8420056094e1dea169651cdc16c509923783062f83c87b5aaac9",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-73.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/but/genie-electrique-et-informatique-industrielle",
+      "sha256": "85f73d4e8ae496786efed94d6895dc7af6b2d788f269683576942cfda18da00c",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-but-genie-electrique-et-informatique-industrielle.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/genie-electrique-et-informatique-industrielle/but3-genie-electrique-et-informatique-industrielle-automatisme-et-informatique-industrielle-all",
+      "sha256": "fc4a940b59d054c61d407b62ec7506ee5a79862dd69ec26ece6dbb480fb3d509",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-75.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/genie-electrique-et-informatique-industrielle/but3-genie-electrique-et-informatique-industrielle-electricite-et-maitrise-de-lenergie-eme",
+      "sha256": "ca406d178abf854e2a53420682fd5c5233389a5997e46d48697f37597aed6bc2",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-76.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/genie-electrique-et-informatique-industrielle/but3-genie-electrique-et-informatique-industrielle-electronique-et-systemes-embarques-ese",
+      "sha256": "0b824ebe09d3b3fda1a83a1a24e13ef09c45bbd8b2307b557b579b2fb54d526c",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-77.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/but/informatique",
+      "sha256": "d54041a62a5d77e5a6e2bece520576e42c8fa4269f5882960e5d760149e0b356",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-but-informatique.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/informatique/but3-informatique-deploiement-dapplications-communicantes-et-securisees",
+      "sha256": "757159c5ee7b8504ce7d8b1a5ec246ca2e5cd01f9d5dce0819eb1b8a98863e11",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-80.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/informatique/but3-informatique-realisation-dapplicationconception-developpement-validation",
+      "sha256": "62abf18dedd1d20baf4feebada28c16b224c9a084ad548d5e5b86c2c98257d43",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-81.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/but/mesures-physiques",
+      "sha256": "4193e25d4ddc51c1ae38d871fcd982d4883491cf1b0e9b9d329a65470130534e",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-but-mesures-physiques.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/mesures-physiques/but3-mesures-physiques-parcours-materiaux-et-controles-physico-chimiques",
+      "sha256": "5c2a65571c4b471899f69a7d024078e1c9a87d7a7392f122cb1a8d5759c54879",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-83.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/mesures-physiques/but3-mesures-physiques-parcours-mesures-et-analyses-environnementales",
+      "sha256": "61f732c3c8e917da6e226a59f401d019a46f7ad4c79b8fa0b45c15eda5faf1a0",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-84.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/mesures-physiques/but3-mesures-physiques-parcours-techniques-dinstrumentation",
+      "sha256": "2a7c6800b67c34244725e21d17f28d0b874a894a667f9aa92daeb48470cb8e60",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-85.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/but/techniques-de-commercialisation",
+      "sha256": "f32fa11571b65e400786ebe9661a2017ef817bb2f17673b13567879e1126ecda",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-but-techniques-de-commercialisation.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/techniques-de-commercialisation/but3-techniques-de-commercialisation-business-international-achat-et-vente",
+      "sha256": "40e9e53c2e2ad3c61ae34c540ff0d8a880a2eb8d9cab965e77724b6669e8c34d",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-87.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/techniques-de-commercialisation/but3-techniques-de-commercialisation-business-developpement-et-management-de-la-relation-client",
+      "sha256": "569620186a3779497669568275ab3a59e3b79c20bcbe2e192f51a457c85c65a6",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-88.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/techniques-de-commercialisation/but3-techniques-de-commercialisation-marketing-digital-e-business-et-entrepreneuriat",
+      "sha256": "0fb56787669032ea23b4e8f38001cc8b0431828ace83230f5895ca80c64f5031",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-89.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/techniques-de-commercialisation/but3-techniques-de-commercialisation-marketing-et-management-du-point-de-vente",
+      "sha256": "bece25a1305e68a15961155e4c0b58ca9d94cdba15275644b447792b258137f8",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-90.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/techniques-de-commercialisation/but3-techniques-de-commercialisation-strategie-de-la-marque-evenementiel",
+      "sha256": "4593d145618e84f7326148f487c6445f0809c972ae7d8593ebf97314731875f1",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-91.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/amenagement-paysager-conception-gestion-entretien",
+      "sha256": "139e161eae29bb122951c93f38f6f863a969b853551ef3a0e73507a09e7fbc59",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-amenagement-paysager-conception-gestion-entretien.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/bio-industries-et-biotechnologies",
+      "sha256": "1ca1fcd1cd928b04f3118217697f7891fed6c801860f3f6715a826c844bfe9c2",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-bio-industries-et-biotechnologies.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/bio-industries-et-biotechnologies/lp3-biotechnologies-pour-la-sante-lalimentaire-et-lenvironnement-bsae",
+      "sha256": "619015b24fe7386ec69289c74733e1020af0dce57c0ac2d1de6b3af20ff02bae",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-94.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/energie-et-propulsion",
+      "sha256": "89799434d5508467e48f18d45dc69007ced92d81a566bf1f1ca3e6db0cb021ad",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-energie-et-propulsion.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/industries-pharmaceutiques-cosmetologiques-et-de-sante-gestion-production-et-valorisation",
+      "sha256": "0fe2659328a19803b5eb70a21695d56310d3c6ad26419c0f84774e4f5871cdcf",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-industries-pharmaceutiques-cosmetologiques-et-de-sante-gestion-production-et-valorisation.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/maintenance-et-technologie-electronique-instrumentation",
+      "sha256": "ab2d6676d47beba15bb64a18d24e56cbbf4f8a3807e008e75211607bb1276431",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-maintenance-et-technologie-electronique-instrumentation.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/metiers-de-lindustrie-industrie-aeronautique",
+      "sha256": "0db4f0ed9a132392cf4a55b26a8ae6e05cf6aecf51ec3817c47483d57062a937",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-de-lindustrie-industrie-aeronautique.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/metiers-de-lelectricite-et-de-lenergie",
+      "sha256": "368296dd4d5e643e73a9c82c701f0faccc5b079fb0f01169c7a620fc0921d548",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-de-lelectricite-et-de-lenergie.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/metiers-de-lelectronique-communication-systemes-embarques",
+      "sha256": "6dbed9dd00a17f715732c02875c0eaf3fe8ee384f8417d5bc2b9c1119ba11b91",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-de-lelectronique-communication-systemes-embarques.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/metiers-de-la-forme",
+      "sha256": "f18cfb804c4c8c35cc3ccccdc9c9448b1715bcd633d062f005e050fc31253744",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-de-la-forme.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/metiers-de-la-forme/lp3-metiers-de-la-forme-responsable-dequipes-et-de-projets",
+      "sha256": "331fca598d37763c9cb12cca12b2148c01eed075b09551355505c395e2ed5539",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-102.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/metiers-de-la-protection-et-de-la-gestion-de-lenvironnement",
+      "sha256": "9e50fb64101c82e0cba871c761f54a9acb64b8ca69feb41a363bada82fcb688b",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-de-la-protection-et-de-la-gestion-de-lenvironnement.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/metiers-des-administrations-et-collectivites-territoriales",
+      "sha256": "aafe08bdb5b6ee584813b621ef4d455ba4b65a8af67e550f7801afa9b7cfc4bf",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-des-administrations-et-collectivites-territoriales.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/metiers-des-reseaux-informatiques-et-telecommunications",
+      "sha256": "c491ea2a016effdd9100c25bf1d8745aff1d196c1e76c75a25b0f436fb625b7d",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/optique-professionnelle",
+      "sha256": "93794632d3e1efe6fe6185a41ae1f27696865578fafe35ed5821eb85fca4dc89",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-optique-professionnelle.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/protection-et-valorisation-du-patrimoine-historique-et-culturel",
+      "sha256": "44d9b282892272d26783efadfe3ecfde88ad0b6d8b9966e3138f4269e4e81052",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-protection-et-valorisation-du-patrimoine-historique-et-culturel.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/qualite-hygiene-securite-sante-environnement",
+      "sha256": "1fe2de8929cdf2f4b2b537c44ea302ba5b25f2f07cf9ee2926fa7a68ffa6f481",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-qualite-hygiene-securite-sante-environnement.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/systemes-automatises-reseaux-et-informatique-industrielle",
+      "sha256": "836e620336c8b0524d3202d597955203b8342467efee786d6a4bf084581c3180",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-systemes-automatises-reseaux-et-informatique-industrielle.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/technico-commercial",
+      "sha256": "4d5ce547f607add1c256d2cbf1be151cfc719173f4465ab0857f654e59799a2d",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-technico-commercial.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/techniques-du-son-et-de-limage",
+      "sha256": "b4173ba9d34078aa115c399fcc09d51ffa0eecc9e5bd2fd7687fbdf036d80292",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-techniques-du-son-et-de-limage.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/ldd-chimie-sciences-de-la-vie",
+      "sha256": "a5c261234dcf25e497dcb7319b703485b1a5fc082fe0ead08b23b52a755d2ace",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-ldd-chimie-sciences-de-la-vie.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome",
+      "sha256": "fd19b06d6a51ce20d91980cb8760cee112c78fcae2cc8e401b12c604ab861716",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/double.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/ldd-physique-chimie",
+      "sha256": "4725c20b90dd19abac5e0520b1a9d29fb2166178e26be7555ed2df19244c6eee",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-ldd-physique-chimie.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/droit-economie",
+      "sha256": "abe9375e6d558a80df214f70f4f3d3a9352722479399426c26338481d08c1795",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-droit-economie.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/droit-informatique",
+      "sha256": "3c0f7631bfcf51b45f58b6456681bc440950a1364ae8dd52ea311f2974cc08f0",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-droit-informatique.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/droit-sciences-et-innovation",
+      "sha256": "a5cd819d981a49323290678268529fb502893ab70794c5644ea1b1cd4448128f",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-droit-sciences-et-innovation.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/economie-mathematiques",
+      "sha256": "a7c296c9e14b70f4ffa4d5ff1849b6555731c9c7bc77a7b71b9999090cdd1915",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-economie-mathematiques.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/informatique-mathematiques",
+      "sha256": "ce56fabc55553015c0986f1012df034395f602765744a50906aead208ce1a7b0",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-informatique-mathematiques.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/informatique-sciences-de-la-vie",
+      "sha256": "cdd5a75ddd50b1c21667364181b23881b0ba372bd94a7313cd1b315dfc40ef6a",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-informatique-sciences-de-la-vie.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/mathematiques-physique-et-sciences-pour-lingenieur",
+      "sha256": "8351ff9f273e772058797ac7bfca40405e3290c07b2cafcc3d95a8785b14bf78",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-mathematiques-physique-et-sciences-pour-lingenieur.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/mathematiques-sciences-de-la-vie",
+      "sha256": "82ca3a634050c8ec1990772659867705cc11f820c5fc1bf845229bb5fbd04520",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-mathematiques-sciences-de-la-vie.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/staps-sciences-pour-lingenieur",
+      "sha256": "e8c1cf9d1b736bd49fd5f0be1dc85bb926052758adc3d6bcd86999c533ceb7a3",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-staps-sciences-pour-lingenieur.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/sciences-de-la-terre-et-sciences-physique",
+      "sha256": "2dc6cff8a4011c0eb41da64e7a46553b0aa5d0d54450bdc1fc2b9abb52163d1b",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-sciences-de-la-terre-et-sciences-physique.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/sociologie-science-politique",
+      "sha256": "967c74e12a129eda68d158b3656d9a295ec64eaf7342e3a5fe223966e73a51c9",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-sociologie-science-politique.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/etudes-de-sante",
+      "sha256": "8f165b6999d5e977db1f36486801afbfe1cdaafe3b3b462722605758e342c3d7",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/health.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/etudes-de-sante#pharmacie",
+      "sha256": "8f165b6999d5e977db1f36486801afbfe1cdaafe3b3b462722605758e342c3d7",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-126.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.medecine.universite-paris-saclay.fr/formations/formations-paramedicales/formation-en-sciences-infirmieres",
+      "sha256": "dfb4e0df3b104fa01462536d179564036da191f39a60124791e669fcbc2e067a",
+      "raw_file": "scratch/full-catalog/france/paris-saclay/nursing.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/administration-economique-et-sociale-J85KFQ4H.html",
+      "sha256": "da617c9de8f33dc23b50d35adacff8278a51cb3b507506e460f08d747021c7e5",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-128.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/administration-economique-et-sociale-J85KFQ4H/troisieme-annee-parcours-rh-affaires-sociales-et-environnementales-JYGZ3AQU.html",
+      "sha256": "e4699537e1ff39bc2ade42c50446f970a2e37fa1e8ffeef0ba416b9833474786",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-129.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/administration-economique-et-sociale-J85KFQ4H/troisieme-annee-parcours-comptabilite-controle-de-gestion-JYGZ67ZV.html",
+      "sha256": "48d7299830c45d263c6a852bebdf05029c7ee995f822c8fbb438245e5b5ef0b9",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-130.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/administration-economique-et-sociale-J85KFQ4H/troisieme-annee-parcours-achats-et-logistiques-JYGZ722C.html",
+      "sha256": "987b5a81560c991e84871e743a60567cca45de484155295588299bfd5e6b5ef7",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-131.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/chimie-JYFUOGJI.html",
+      "sha256": "d10c52733f3f4acef541d0e18bad6a79e54973ff3c890ee5f6e942783953ad04",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-132.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/chimie-JYFUOGJI/parcours-chimie-a-partir-de-la-deuxieme-annee-JYFUP6I6.html",
+      "sha256": "7214d8d8d054e112e9f1a00644e938584089ce2afcc1376e2c6ee55f79ef48ef",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-133.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/chimie-JYFUOGJI/parcours-interface-biologie-chimie-a-partir-de-la-deuxieme-annee-JYFUQ260.html",
+      "sha256": "7a9642132be9d98bd7caaf433ca8d662f4ff2915d9f62b759b5196bee089e980",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-134.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/chimie-JYFUOGJI/troisieme-annee-parcours-enseignement-et-sciences-pluridisciplinaires-esp-JYFUSRZF.html",
+      "sha256": "09d0ae6a807a90d99dfe09bb1c243106ba651019401bf0609736517cb0ab1702",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-135.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/double-diplome-arts-du-spectacle-et-du-humanites-J7W4FLPY.html",
+      "sha256": "5920a3e791fb1df70be74f84f2b105eb0e0353a7efd55a3dc483ab2a968828f5",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-136.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/droit-J85KVND8.html",
+      "sha256": "51566e536ed8291932bc7675236a1ecd2d7f73b50b17130f3dd31196d8be45cd",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-137.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/economie-et-gestion-J85L16R4.html",
+      "sha256": "b63d952f641809cc265ff75ad6958c1c4267d22d8ee4705d6a4711c3b580fc2c",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-138.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/economie-et-gestion-J85L16R4/troisieme-annee-parcours-management-J85L4VJK.html",
+      "sha256": "cbaf04e394f8cbd88246ddd8616711a5b38b94f4bb86fe3d1df5184daa404cdc",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-139.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/economie-et-gestion-J85L16R4/troisieme-annee-parcours-economie-et-finance-MKB93B3M.html",
+      "sha256": "635c54227a0f113ab679b5c41cf8bca9803aa8afc247bf8c0650d9435132fec7",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-140.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/economie-et-gestion-J85L16R4/double-licence-mathematiques-economie-et-gestion-PAR3.html",
+      "sha256": "2fc939bcca199e00b779e4fad9aeaa8ee796ca6b53785c7dd24d542c5b5c20f3",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-141.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/histoire-J7W4EABE.html",
+      "sha256": "90cf116a6fc6b42638d59cd4f284e00acdd14f4c8a05012445d5573754d87cd2",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-142.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/histoire-J7W4EABE/troisieme-annee-parcours-histoire-geographie-et-dynamiques-politiques-J85LBSNE.html",
+      "sha256": "3e538a471cbd3a65123388f03444e5686a5d51e9c56b1d5f2e98a6e47c24d5c7",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-143.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/histoire-J7W4EABE/troisieme-annee-parcours-enseignement-et-sciences-pluridisciplinaires-J85LDC4U.html",
+      "sha256": "9a6708fa89ea22da0c5eb278108451ae8ed9089c570f6249c5d4627c223a9053",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-144.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/histoire-J7W4EABE/troisieme-annee-parcours-histoire-et-societes-J85LANVP.html",
+      "sha256": "fd0fdd08c0271102f93294bde21ffa01cf9f10045a8263a746243985c0e8f089",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-145.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/informatique-J7W4814F.html",
+      "sha256": "6a43162cd28d9a49e024f28b50d197f587e2cd136af8c101adca05cea851fcda",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-146.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/informatique-J7W4814F/troisieme-annee-parcours-systeme-en-reseaux-J833VUEH.html",
+      "sha256": "e60f2df926d83a45b04fef9da002b3fb1f3191608e1680e3d3fd07bd563a9365",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-147.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/informatique-J7W4814F/troisieme-annee-parcours-systemes-autonomiques-J833W3GQ.html",
+      "sha256": "e9b5639df3d9acbfb1c576daec014226f28b2338169a16026a796a2052d2b823",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-148.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/informatique-J7W4814F/troisieme-annee-parcours-methodes-informatiques-appliquees-a-la-gestion-des-entreprises-miage-J833WBXF.html",
+      "sha256": "197b1eab5ddae67705e3d81bd422b7a7867d5d1dc533e51c83132b67821cf6c1",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-149.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/informatique-J7W4814F/troisieme-annee-parcours-international-francophone-KQJJC280.html",
+      "sha256": "12ddf07e4f72a9e49610b58eaf67206dded1caf344034f614f1e14540659fe24",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-150.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/langues-etrangeres-appliquees-lea-anglais-espagnol-J7W4G8D8.html",
+      "sha256": "bf10e4a6f89601937ca106d5f8662aee93fe562b5f8f864b315e9b200a68ede0",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-151.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/licence-double-diplome-droit-economie-JYFTJLJE.html",
+      "sha256": "76398295e88f26a03a14e80642050fefeb47343a063fe3d688e3acab82c2feae",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-152.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/licence-double-diplome-droit-informatique-JYFTKZ2X.html",
+      "sha256": "dc9df598e8195ba493e8e5f3174b178951413bd51f6d4d2fd5ad41be423c2c94",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-153.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/licence-double-diplome-droit-informatique-JYFTKZ2X/troisieme-annee-parcours-droit-informatique-renforcement-droit-JYFTOKXR.html",
+      "sha256": "51c6a09638782b258d1f252d93b754f73737644d388710bcbfbc1cec3947698a",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-154.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/licence-double-diplome-droit-informatique-JYFTKZ2X/troisieme-annee-parcours-droit-informatique-renforcement-informatique-JYFTQ8TW.html",
+      "sha256": "ba61e8316075a943e99596b897e1a742ced5b28e78a1329d4e1d9b24645c747e",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-155.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/licence-double-diplome-informatique-sciences-de-la-vie-JYFY1X6X.html",
+      "sha256": "46bd839edeabb822bb3090f77080295f3a6f978fe8d7e5efc2990b380c6f2769",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-156.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/mathematiques-J7W48QZT.html",
+      "sha256": "7887fbebf2e6f73fd06fb7d879b299b2eb1e4fcf81c48aa987a5e5e67d4c8e84",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-157.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/mathematiques-J7W48QZT/troisieme-annee-mathematiques-et-applications-ma-J85M5XEB.html",
+      "sha256": "37cc3608580957275748b38eb373f562dcda480771375ab4ea0338fdd99a6c48",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-158.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/mathematiques-J7W48QZT/troisieme-annee-parcours-enseignement-et-sciences-pluridisciplinaires-esp-J85M8Y2S.html",
+      "sha256": "5312efda7c64dbb14ff773b8fdf9c69e1f4510df1439c094fe6a7c322457a6ce",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-159.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/mathematiques-J7W48QZT/troisieme-annee-enseignement-du-2nd-degre-e2d-MKBAQUJ9.html",
+      "sha256": "096aa690f8ad4ec0399ef2e1caf632362f5706657e27c5698740a7087ff491f4",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-160.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/mathematiques-J7W48QZT/troisieme-annee-parcours-double-cursus-ensiie-JSBFZ8P3.html",
+      "sha256": "3b048756cd21b0ee9fd2d004fb151b411e445d05980638ac4f3b94f6ab038e40",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-161.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/mathematiques-J7W48QZT/double-licence-mathematiques-economie-et-gestion-J85M511R.html",
+      "sha256": "93b85c9162d2424fc2e96e05678ef40ecac78978053d71bb2068391710886e36",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-162.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/musicologie-J7W4GZHB.html",
+      "sha256": "8fd6b10984072f0fa115582be6ad2d7cf510cf7df003ebb9a4113c68ed29fa89",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-163.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/physique-JYFX96EZ.html",
+      "sha256": "1626744b4a8dfba46c1ee712ea06902beda74aa63efacca55482d7c153136c4f",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-164.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/physique-JYFX96EZ/troisieme-annee-parcours-enseignement-et-sciences-pluridisciplinaires-JYFXIMVC.html",
+      "sha256": "b8c310f20f55c3b9abd7c3f210741961de41a979128347fdc71623fb295d6d55",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-165.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/physique-JYFX96EZ/troisieme-annee-parcours-physique-JYFXFZM9.html",
+      "sha256": "80aaf123faa9df600f9d96bd72ab799ffa43ebbaebc1bf624072f832c5d7bc8c",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-166.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/professorat-des-ecoles-MIFQ3GGE.html",
+      "sha256": "155539bd8e17e580a00194b2ab9e77b555666c7fa0674b418d30d5d4f1406e15",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-167.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sciences-de-la-vie-J7VYO31D.html",
+      "sha256": "1ee5424bcf485a09e348fecba9c73ba7b6b4e33ddc8698917540e5e610693a30",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-168.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sciences-de-la-vie-J7VYO31D/parcours-genomique-biologie-et-sante-a-partir-de-la-deuxieme-annee-K34RH4TM.html",
+      "sha256": "df14d746aa20ecbc4d97e160aaeea83a87f6b8cd897865df129fcc6d70e7a2c6",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-169.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sciences-de-la-vie-J7VYO31D/parcours-interface-biologie-chimie-a-partir-de-la-deuxieme-annee-KN5Y56QG.html",
+      "sha256": "28f83dc46321f55a0811336c4b9628ce19d9e00e3b47ee9d0df281b65bd85b34",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-170.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sciences-de-la-vie-J7VYO31D/parcours-genomique-biologie-et-informatique-a-partir-de-la-deuxieme-annee-K34RD9PF.html",
+      "sha256": "d023297fa229c1a97360624a618e9be0043e2dc78092bb1b9f7c5d7e2f28ed73",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-171.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sciences-de-la-vie-J7VYO31D/troisieme-annee-parcours-enseignement-et-sciences-pluridisciplinaires-K34RIU2H.html",
+      "sha256": "27bb24b488b39e43b0bb95fa7f9853726c116c544931711b37e10c881f974ef0",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-172.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sciences-de-la-vie-J7VYO31D/life-sciences-in-china-KXEO6004.html",
+      "sha256": "a9d6eb3bebb7682a560c9705f2b3b58dc64afe1ec6d03cbe0a94787061d16bd1",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-173.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sciences-de-la-vie-J7VYO31D/las-sciences-de-la-vie-KYUAVDRK.html",
+      "sha256": "d1ec57f4a310532aa2600d458b68669a791c5abb76b58eb97592dd3de70bc8da",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-174.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sciences-et-technologies-institut-villebon-georges-charpak-JMHVPRR2.html",
+      "sha256": "36bff53d859ab9de6804db421cf73a227185399bee8e1314a25ec17e0e83cece",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-175.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sciences-pour-l-ingenieur-J7W49XR4.html",
+      "sha256": "0578fbba3bd835af86871dd601291afc4f6f3deaadf8e7cbe0d39e07abff5138",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-176.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sciences-pour-l-ingenieur-J7W49XR4/troisieme-annee-parcours-genie-mecanique-J85N3MCA.html",
+      "sha256": "8c3674d9221f5ba452aa98da0c526f00c69229c21f845d36464f6fe96e9fae71",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-177.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sciences-pour-l-ingenieur-J7W49XR4/troisieme-annee-parcours-electronique-automatique-et-traitement-de-l-information-JYH0ISLL.html",
+      "sha256": "b9112f87091c34adf65d5fbc61a99f837cdcf89a02d6cb32835d698c4707c728",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-178.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sciences-pour-l-ingenieur-J7W49XR4/troisieme-annee-parcours-ingenierie-des-systemes-industriels-JYH0JKSG.html",
+      "sha256": "3d4dfaf67fa70180912be246ab95db2ef1f6327034568248bd2a84e99635bfe0",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-179.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sciences-pour-l-ingenieur-J7W49XR4/troisieme-annee-parcours-sciences-pour-l-ingenieur-apprentissage-JYH0KCWZ.html",
+      "sha256": "f9c9426ed4747f03ff4ef6a1cf99a13a4d43fe1121266d33ccaae0325a6bf7ff",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-180.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sociologie-J7W4F1AE.html",
+      "sha256": "e399b695f053efd53401831a51a1ca4ea7a86bcbe58d914b71932f5d6396f41f",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-181.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sociologie-J7W4F1AE/troiseme-annee-parcours-sociologie-JYGZJEEU.html",
+      "sha256": "953290f58bbb6dd13b085812986294b1188ea2bf552d8cf9afd4974b07d8b23c",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-182.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/sociologie-J7W4F1AE/troisieme-annee-parcours-enseignement-et-sciences-pluridisciplinaires-J7ZTEFHY.html",
+      "sha256": "e752d4fd216d9749c77acb90e5c827ed0b0350314af811f870f6cfe6f122ac7e",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-183.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/staps-K24U4863.html",
+      "sha256": "db6397c2a7f66c926b00ab371b0e5e84e18c4bb642a49745de598ce814760941",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-184.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/staps-K24U4863/activites-physiques-adaptees-et-sante-apas-K24XZ2V0.html",
+      "sha256": "9fd256365002751cceb5935bcc28d49bcc59c9e517bf127a9b376a6497cc43a2",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-185.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/staps-K24U4863/education-motricite-em-K24Y0XAL.html",
+      "sha256": "2f533b9ad8c272e18ea06ba38953e381516893dc79c4c3954e8c75b1f8c1c1ef",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-186.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA/staps-K24U4863/entrainement-sportif-ensp-K24Y2TZY.html",
+      "sha256": "4cec150b62b6f36526739deb6bc3054d2c9e4d4d66ae7dc024526083f4ebb966",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-187.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/genie-electrique-et-informatique-industrielle-KUZ7Z4V1.html",
+      "sha256": "4c81c7b0a0680f793030c193561cca4178887b1383506498dd5d30dbcc083bb9",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-188.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.iut-evry.fr/nos-formations/but/but-genie-electrique-et-informatique-industrielle/",
+      "sha256": "83e844da50ece91ae20257e87211654d0779ae3822227658bb77a6eac4b8908d",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/iut-188.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/genie-electrique-et-informatique-industrielle-KUZ7Z4V1/parcours-electricite-et-maitrise-de-l-energie-LAASN2MQ.html",
+      "sha256": "4efc738dd9f4499258ed73be878ed58a5f4ac1ad3b7b9406dd8b4be6437efba2",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-189.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/genie-electrique-et-informatique-industrielle-KUZ7Z4V1/parcours-automatisme-et-informatique-industrielle-LAASO6BJ.html",
+      "sha256": "69c0f132d4ca32a044e4e12532e61dfb3e4765bce67b172245f4b9608cb6835f",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-190.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/genie-electrique-et-informatique-industrielle-KUZ7Z4V1/parcours-electronique-et-systeme-embarque-LAASQ56S.html",
+      "sha256": "da9e3714abfd4cc2b4ab054b6ba89710d6758aa73c4c8b446640033102f9bf35",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-191.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/genie-mecanique-et-productique-KUZC6R3P.html",
+      "sha256": "84e230a1fde03192d30b55d7ddd214b0f7f0d934d72bd1f8090f18241e6d4fa1",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-192.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.iut-evry.fr/nos-formations/but/but-genie-mecanique-et-productique/",
+      "sha256": "ce0c60a12dd356efbc0e4b4d731efbc0d66aef7886d9ad080ac01cd445597e73",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/iut-192.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/genie-mecanique-et-productique-KUZC6R3P/parcours-conception-et-production-durable-LAASB9YE.html",
+      "sha256": "c52b9719a84cc49a5f3e446633a254879c088f9a198e469a11f25750212bcb49",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-193.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/genie-mecanique-et-productique-KUZC6R3P/parcours-simulation-numerique-et-realite-virtuelle-LAASCWY6.html",
+      "sha256": "57b16a99138f4e9271171924aeea063c5bb1fbf56e636328941464baef400611",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-194.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/gestion-des-entreprises-et-des-administrations-KUZ75MPK.html",
+      "sha256": "67c3db47648dc16a2cd5b13956c9d2684a37aea6ca36c11669de0a179bda0f46",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-195.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.iut-evry.fr/nos-formations/but/but-gestion-des-entreprises-et-des-administrations/",
+      "sha256": "a7841de839ec3debd582b8cc8859ece47992dc13f1d2329da83744c0869e3190",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/iut-195.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/gestion-des-entreprises-et-des-administrations-KUZ75MPK/controle-de-gestion-et-pilotage-de-la-performance-LAAQK6T3.html",
+      "sha256": "dc585ba016bb769df5e2733e91684c47d42c5f583296e2a5b300e9160917f133",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-196.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/gestion-des-entreprises-et-des-administrations-KUZ75MPK/gestion-comptable-fiscale-et-financiere-LAAQLCU0.html",
+      "sha256": "f001d273d6d0ca1eba69cb59b3fbb26ab1e27ea798e0198a4ae2756fe82822d8",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-197.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/gestion-des-entreprises-et-des-administrations-KUZ75MPK/gestion-entreprenariat-et-management-d-activites-LAAQOFIK.html",
+      "sha256": "da6e72a4c6c6d492f53218ebcec1509f216b304e45e1a39f3970fca3ff223667",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-198.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/gestion-des-entreprises-et-des-administrations-KUZ75MPK/gestion-et-pilotage-des-ressources-humaines-LAAR4DXJ.html",
+      "sha256": "f0eca261792a9e03f5893ad74e4e5a93f13af05898fb23b794412a885ece3802",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-199.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/management-de-la-logistique-et-des-transports-KUZ84NDJ.html",
+      "sha256": "2373fd0dde1fb42e00760b6dc21235c3e39d427692b88f85dbe4ce6585babdd1",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-200.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.iut-evry.fr/nos-formations/but/but-management-de-la-logistique-et-des-transports/",
+      "sha256": "7ea7adf3b7c419e028530d5ddfcda39831695c8a6ec8f45eb9123a99e88248f6",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/iut-200.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/management-de-la-logistique-et-des-transports-KUZ84NDJ/parcours-mobilite-et-supply-chain-durables-LAARHDLH.html",
+      "sha256": "82e02edcc5d6e9eeb2a62a99b4e90aa8053f0b61951878b1b8b34c7e0b4545b0",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-201.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/management-de-la-logistique-et-des-transports-KUZ84NDJ/parcours-mobilite-et-supply-chain-connectees-LAARINR6.html",
+      "sha256": "28c96cc34863c97928a00dcb356c569f61c8aaa3bbc38a8e562b37474fad5adf",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-202.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/metiers-de-la-transition-et-de-l-efficacite-energetiques-KUZCCR5F.html",
+      "sha256": "a3f27a4b18691723c1679ad40b9afbf78821dba6d0b27e165bade09b2f101f72",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-203.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.iut-evry.fr/nos-formations/but/but-metiers-de-la-transition-et-de-lefficacite-energetiques/",
+      "sha256": "3db2fbdf80a778a627f549e5afd1b23edfafefeaff442c1d239fa12e6ac4aebe",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/iut-203.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/metiers-de-la-transition-et-de-l-efficacite-energetiques-KUZCCR5F/parcours-optimisation-energetique-pour-le-batiment-et-l-industrie-LAASIX0N.html",
+      "sha256": "cd4f2a4ad164c0f5860b6c66ad3322aeb40d92cb6a1e7a7f71df9169feae5789",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-204.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/metiers-de-la-transition-et-de-l-efficacite-energetiques-KUZCCR5F/parcours-management-de-l-energie-pour-le-batiment-et-l-industrie-LAASKDWF.html",
+      "sha256": "1d21cdfaabd4026aaa2acdd0382cef0c2b9a77443628f3deefc047721632398d",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-205.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.iut-evry.fr/nos-formations/but/but-qualite-logistique-industrielle-et-organisation/",
+      "sha256": "2ee324a254736e5d10352490aad4b04344145c424c9677640e285a59ffb118b1",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/iut-206.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/qualite-logistique-industrielle-et-organisation-KUZCHNRN/parcours-organisation-et-supply-chain-LAASTPKA.html",
+      "sha256": "62dfdbc00c88da8e026cf98c3f476ee9c274a275e7143833364eaa9be7d49d9f",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-207.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/qualite-logistique-industrielle-et-organisation-KUZCHNRN/parcours-qualite-et-management-integre-LAASUZYN.html",
+      "sha256": "7a4a3386b36d2374467b675c02eda2d212df3ddee54010b59e95e9e36285b9c8",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-208.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/qualite-logistique-industrielle-et-organisation-KUZCHNRN/parcours-management-de-la-transformation-digitale-LAASW85M.html",
+      "sha256": "fbca21d46c00ca92ffabecffb889a080cc42ba02b291a52d3d9ebf8485045f3c",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-209.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/sciences-et-genie-des-materiaux-KUZCP79R.html",
+      "sha256": "e5dccb5a38afb6d70ce5886155ce9754bec41ca62ed4348d7e91f941128f6195",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-210.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.iut-evry.fr/nos-formations/but/but-science-et-genie-des-materiaux/",
+      "sha256": "a65f075f2e4522e90e27ebf0b36efe212bd4d82493764db6f8b16a70900ff9b0",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/iut-210.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/sciences-et-genie-des-materiaux-KUZCP79R/parcours-metiers-de-l-ingenierie-des-materiaux-et-des-produits-LAASZDTZ.html",
+      "sha256": "bca134bdd884fe5238d7ba747c6a739b8538fa26c09053e249d1bf3c49b38423",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-211.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/sciences-et-genie-des-materiaux-KUZCP79R/parcours-metiers-de-la-caracterisation-et-de-l-expertise-des-materiaux-et-des-produits-LAAT195Z.html",
+      "sha256": "e52588beb21749704f35b2ebdb5a83d7b33f7f2c6d4fd3870c40d2d3bf77cf3d",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-212.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/technique-de-commercialisation-KUZCXV64.html",
+      "sha256": "a9ff4f53c60f0f783d215b7883659d8924e5ff622e8a6d9a83b77aed338375ef",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-213.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.iut-evry.fr/nos-formations/but/but-techniques-de-commercialisation-evry/",
+      "sha256": "e598f28d8c96df7d807d8fc4cfc033c07e82c8b4a5afd0f5675e68bf4e5fa91e",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/iut-213.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/technique-de-commercialisation-KUZCXV64/business-international-achat-et-vente-LABABHE0.html",
+      "sha256": "dc67b506fad408c4296397c591961bd8c4f4978d014ed2146ff42d6f6b1b48d8",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-214.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/technique-de-commercialisation-KUZCXV64/marketing-digital-e-business-et-entrepreneuriat-LABAEGY0.html",
+      "sha256": "521e00789b08ab52ebdc3559c481efd5730e45fcd2f59e6297af0f7d34154691",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-215.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/technique-de-commercialisation-KUZCXV64/business-developpement-et-management-de-la-relation-client-LABAFGTG.html",
+      "sha256": "c545b322b201a085b10f796c6dd95b4b546b7be2265c49183e7d863eebdcf644",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-216.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/but-BUT/technique-de-commercialisation-KUZCXV64/strategie-de-marque-et-evenementiel-MHCCDPEW.html",
+      "sha256": "251f09bb56aed13c62e6ac5eff0864d3f5470edec86a7775859e4f465f514f15",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-217.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/activites-juridiques-mandataire-judiciaire-a-la-protection-des-majeurs-MKBC9VLG.html",
+      "sha256": "d87996203209ef4882303e36b78db7d083ea15f4f15fec069ab0492ecc093a32",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-218.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/assurance-banque-finance-charge-de-clientele-banque-J85NFCY9.html",
+      "sha256": "14357bd6243649b9751a48980c23de1f943f1462303b551b4339916a4c66d462",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-219.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/management-et-gestion-des-organisations-entreprenariat-reprenariat-intraprenariat-J85UKF0T.html",
+      "sha256": "06a996d9eff4e08fb1a25bc488f930be0a167dc5f77ad12437fc736dae97983b",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-220.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/metiers-de-l-immobilier-transaction-et-commercialisation-de-biens-immobiliers-transactions-et-gestion-de-biens-immobiliers-MKF7D4P5.html",
+      "sha256": "e1367cf6b663d83800d4d72b776dd32035f9e479c2efccdfac85720105c570f7",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-221.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/metiers-de-l-industrie-conception-de-produits-industriels-J85VWVII.html",
+      "sha256": "0467f673405445a3fb9458c28b3446d55e92e270478b270ae0f89dcd241091eb",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-222.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/metiers-de-l-industrie-conception-de-produits-industriels-J85VWVII/parcours-ingenierie-mecanique-et-environnement-ime-K0WDBA2H.html",
+      "sha256": "47f026f4c33e0d78180ac8cb01f26e04ffded0fe48dfa8d7d1cb0769c756c3a7",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-223.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/metiers-de-l-industrie-conception-de-produits-industriels-J85VWVII/parcours-ingenierie-et-management-environnemental-des-productions-industrielles-imepi-K0WDTGP4.html",
+      "sha256": "89fc23a1e2afe7dd6151ad5ab38910bb1a4bbe1a350bc3e7aadf9c559aa0630c",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-224.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/metiers-de-l-industrie-industrie-aeronautique-techniques-et-maintenance-aeronautique-J85WPQX4.html",
+      "sha256": "92a3628c1b819c000a35be7aca312ef29da566def0302870c303e2ba6d067c9d",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-225.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/metiers-de-l-informatique-applications-web-J85XHX17.html",
+      "sha256": "65f7fc8ec42be5760d345a8239ccf0f80e8564b12275333f4bdb005a0f7d4c39",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-226.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/metiers-de-l-informatique-applications-web-J85XHX17/parcours-administration-et-securisation-des-reseaux-et-services-intranet-et-internet-asrii-K0WEM6RB.html",
+      "sha256": "9f1be0f562759608f6191fe5c2705afd8f4d70a22b3cd98609333e1b669ed2b8",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-227.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/metiers-de-l-informatique-applications-web-J85XHX17/parcours-developpement-avance-d-applications-web-intranet-et-internet-dawii-K0WET0SR.html",
+      "sha256": "7c3718ab0e625bd04589738254c63fd34bd10d1952b0968b7bb4079b0af84c3c",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-228.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/metiers-de-la-communication-charge-de-communication-charge-de-communication-institutionnelle-et-corporate-J85UZ9RL.html",
+      "sha256": "cb01febdd59998d7c7ebf6f64b488de41310457de8e1217be37c37f7fe8a7aeb",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-229.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/metiers-des-reseaux-informatiques-et-telecommunications-cybersecurite-et-devops-J85Y0QPM.html",
+      "sha256": "7c4add70bc29d0a8b4581a00e89cf809f6cb6bb77500ccfa7845053de8497a08",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-230.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/protection-et-valorisation-du-patrimoine-historique-et-culturel-protection-et-valorisation-du-patrimoine-historique-culturel-et-naturel-J85YT0EP.html",
+      "sha256": "860d9b013fbd524182c9d5f1094a74fc765bccc3d9da9a56b25b40425cf499ba",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-231.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/services-a-la-personne-J85YY7RR.html",
+      "sha256": "5b0d823ae7c1c820a1e16b7c3f30eaf279832f5fdd1bad0810b52c9a98abb532",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-232.html",
+      "locator": null
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP/technico-commercial-vente-et-commercialisation-de-produits-industriels-J85Z06QW.html",
+      "sha256": "71da15e9e78df4bcf43e8b63f4d8ed100fbbfa4610c63c908732edc65934b4af",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-233.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-lettres",
+      "sha256": "b33219ba0e51a181aeefb9129653bdc64e6363ba0544f2b6f13efefc4f85656b",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-234.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/double-diplomation-de-licence-mentions-droit-et-llcer-anglais",
+      "sha256": "fb828d05868695caa84ed2a97986a646a617cffc0234e01d908ec9a267ef63ac",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-235.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-llcer-parcours-anglais",
+      "sha256": "cb8dfc3868063da51416358b9cfe7a4b2467fd5316151c1d75a792a18350f0d0",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-236.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-llcer-parcours-espagnol",
+      "sha256": "fc911152fb2cec8df6b3bdabb7ff0c1cc00e3e4da20fcaba556fa579d3f91f6a",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-237.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-llcer-parcours-etudes-europeennes-et-internationales",
+      "sha256": "18c7c3d3c8d092b1a2e9082926ea5093915033dc4a4d8576f81d0fdb841515e2",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-238.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-musicologie-parcours-musique-interpretation-et-patrimoine",
+      "sha256": "58fd1184ed716d698d0613ead69a546ebf92e68bfbd47b5bb1a89002db55e8d3",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-239.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-administration-economique-et-sociale",
+      "sha256": "532374aec291815b3fcbce47cd2b98c0df86052973f7e05bdbfed5ec9971261d",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-241.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-double-diplome-sociologie-et-science-politique",
+      "sha256": "061e38eca3b0035e0aceba6cbb5c42b510d9ebd15b04bbd849d5cf8291f97325",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-242.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-droit",
+      "sha256": "53623c616fdc3aaa7aafd300eec82aa58a4280ebef047e5e99c23e4d86969dac",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-243.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-droit-parcours-international",
+      "sha256": "76d8712802c92711b9148d071124ec5dc36e7ec22743383987ff0c9eee39ca58",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-244.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-economie-gestion",
+      "sha256": "cbf61b8e5063053d5676e20ce8b0e637949396bb93959904b91a159a8292749a",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-245.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-economie-gestion-parcours-sciences-et-techniques-du-genie-logistique",
+      "sha256": "4dc8eccd93436dd133f7aa2bccae23781dab104e4f471f30352b0681f3241edd",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-246.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-economie-gestion-parcours-gestion-et-management-responsable",
+      "sha256": "488cfcd8bf76227f070cb1cad43b38af7fd973e41f5a611e7e956ea59a2d8ddd",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-247.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-science-politique",
+      "sha256": "a95e7a1240cae23087da4de280417f3035e773f14a827f03980f477c28fb3682",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-248.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-professionnelle-amenagement-paysager-conception-gestion-entretien-parcours-gestion-et-management-de-chantiers-damenagement-de-lespace",
+      "sha256": "683c1bda4fc40924c6d41c2fd6081efd4f17c954b5acf5d196f1f3af20f1b08f",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-249.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-professionnelle-assurance-banque-finance-charge-de-clientele-parcours-conseiller-de-clientele-sur-le-marche-des-particuliers-fa",
+      "sha256": "71720d469f8e2eba2deab9c1157b2d46bb1914f6745ce830afa577471d032304",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-250.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-professionnelle-assurance-banque-finance-charge-de-clientele-parcours-gestionnaire-back-et-middle-office-en-banque-de-financement-et-dinvestissement",
+      "sha256": "056172f76177c01e68968f4975bafd4f7d8ec1de252d60e13aba8546cd009c14",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-251.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-professionnelle-metiers-de-la-gestion-des-ressources-humaines-assistant-parcours-formation-competences-et-emploi",
+      "sha256": "8f69bd1395d232287895584ca80967b4edeefe014d0d24fe84993a87e437d7f0",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-252.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-professionnelle-metiers-de-la-gestion-des-ressources-humaines-assistant-parcours-generaliste-en-ressources-humaines",
+      "sha256": "9d6405170cbcde79d0bb6a4928f143a992bd4e561cf90151210e88f81768c9e0",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-253.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-professionnelle-organisation-management-des-services-de-lautomobile",
+      "sha256": "ee8095c3c6011515015382ca508bfcb72c8ffa5414ec21538b25d0a89fb14b63",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-254.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-geographie-et-amenagement",
+      "sha256": "5e49ad7fe905bb9f7814fff1fa1b6b525f152a3679ddeb82f9e1c0d4b81a3765",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-255.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-histoire",
+      "sha256": "ea128d42dec77e3ee839655f4a3affc97958228775c324462932e8b4638f2603",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-256.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-sociologie",
+      "sha256": "91792ce1df30264d301b2a08e0271f411489fcba8fab1452cf23826a320082f3",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-257.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-chimie",
+      "sha256": "d650e84c3454e0f2a5ea67e16e7e9910b00bb984497ab04ccc112ffc69425b00",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-258.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-de-sciences-de-la-vie",
+      "sha256": "ec83eb23a3d81703da15e200e23ab33b9071ac681a3a3a4563129af19c738ef6",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-259.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-de-sciences-de-la-vie-et-de-la-terre",
+      "sha256": "74076e6ecd74125ac7a78aeb217ddb70214dfdb4a29db938d49bab06c8d93aae",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-260.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-double-diplome-chimie-sciences-de-la-vie",
+      "sha256": "f288ad58b1e010b4c5d2e11fd1e8069217ded660ef793539d919d54c2b1862f5",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-261.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-double-diplome-informatique-sciences-de-la-vie",
+      "sha256": "020e9ca9674a04a48c672826f9d0697f67713ebc9b7e4278a24efbc4be3829a7",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-262.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-double-diplome-mathematiques-physique-et-applications",
+      "sha256": "55224abb75e9a60e6db651aac05d462a8f85176f61869c7d4017d1ed3f494e40",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-263.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-informatique",
+      "sha256": "337f9bcac42cc81570d00f3ae6025f4cafbe830469e89fe6598c00caa0328753",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-264.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-mathematiques",
+      "sha256": "9e375398decb53b18771f083c857674b328f36478fb3f1569e2f0e4718e15492",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-265.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales-miashs",
+      "sha256": "bdc3c593d553e7b102a935c82ca13852bef00dfbbeb0909af5debdcae9a51b60",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-266.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-physique",
+      "sha256": "f0c99cdbf4bfe99976245d1058def0c8dd4a6c8011d060fd1c56919aeb4f6892",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-267.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-reeducation-readaptation",
+      "sha256": "a8829d572e0d13d93689649b924befda6abd56c7f8ab3500ada6e708c7ed86c0",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-268.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-sciences-pour-la-sante-parcours-reeducation-readaptation",
+      "sha256": "adc1a0bfa4f5d1284a70d8836e927f4a6eecedd30bf9f07b05cd685b70289d28",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-270.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-parcours-preparatoire-au-professorat-des-ecoles-pppe",
+      "sha256": "c001bc19b01b844367963b489dd90a7c1037cc8e7b8b700f185bf5981cb01037",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-269.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-professionnelle-chimie-formulation-formulation-et-performance-a-lere-de-lia",
+      "sha256": "779f7099db51564d5332309784e675975de3ad22bb955fded54a5bada3b7d6c9",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-271.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications-parcours-administration-et-securite-des-reseaux",
+      "sha256": "0d748883b76fd5569ed148eeb4bffd184311d656b727d0c28e4c9447f7bf37fb",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-272.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/licence-professionnelle-reseaux-et-telecommunications-parcours-administration-et-securite-des-reseaux-formation-en-ligne",
+      "sha256": "fb407c1d51c3068b645edcd317709bb5d8ed6974fc74825aa62faf7525e11871",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-273.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/but-genie-chimique-genie-des-procedes-option-bio-procedes-gcgp",
+      "sha256": "b1e26ac6ac83b272a0801e2185cc63d5c76050bf2fb820f35fa794a7e11442a0",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-274.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/but-genie-electrique-et-informatique-industrielle-geii",
+      "sha256": "617d308bcf35ac78af530e99ba477faa9b04a211dc6ad47b20f4e75ebc655d64",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-275.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/but-gestion-administrative-et-commerciale-des-organisations-gaco",
+      "sha256": "117f8f8f046ffc9b2480d9bf5e0ac4c34ac490cc4066ccac1f7aa768d0bda0fd",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-276.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/but-informatique-info",
+      "sha256": "5f8a4ec4cc18a0c5556f80c02d03f89a8cfcb86db5aa53b3b406de74b9c6bdb6",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-277.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/but-metiers-du-multimedia-et-de-linternet-mmi",
+      "sha256": "58f0d732d9bd7611800fe1bb70e81e5a2f44bc174d3b0b8a9ed461b9653aac57",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-278.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/but-reseaux-et-telecommunications-rt",
+      "sha256": "2857023c392bb7fd3844832effff4179e79dc321974fc7d199b8c19d7a55438c",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-279.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/but-techniques-de-commercialisation-tc-2",
+      "sha256": "b99ca78d165dfddb0069ae4cc05bcabc70b4e9b2aad218976fef12c46bf13804",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-280.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/but-genie-civil-construction-durable-gc-cd-1",
+      "sha256": "6968fdb833702bd73845200d169af7b479ce5a511de2d326bb2b3bd5007ff244",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-281.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/but-genie-industriel-et-maintenance-gim-1",
+      "sha256": "043d7c5f58a77e3c6d6869f6fb94abbf6be7f95e9a1077805c91b0b79a4fc727",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-282.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/but-genie-mecanique-et-productique-gmp-1",
+      "sha256": "22a419b883bccaf0f45df080e6248a02a7153303b240c40a89c0794ef99f5ee5",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-283.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uvsq.fr/but-gestion-des-entreprises-et-des-administrations-gea-1",
+      "sha256": "4affbba7b656ac734f05d1e4e111cc6bbf1ad81fe2e06274ac7d259492665bd0",
+      "raw_file": "scratch/full-catalog/france-enrichment/paris-saclay/detail-284.html",
+      "locator": null
+    }
+  ]
+}

@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Transdisciplinary Science and Engineering</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>现行 JPY635,400/年；可调整</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>日语与英语（普通课程）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,17 +42,58 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-bd08c6a652de9a">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本科培养内容：</strong>必修数学基础、工程基础和共创基础；选修涉及国际发展、资源能源、环境政策、社会系统等。共创课用项目学习，部分必修数学及工程课并用日语与英语。本轮未核2027新版逐门必修表。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-af9d5cb7646199">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本科培养内容：</strong>必修数学基础、工程基础和共创基础；选修涉及国际发展、资源能源、环境政策、社会系统等。共创课用项目学习，部分必修数学及工程课并用日语与英语。本轮未核2027新版逐门必修表。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-af9d5cb7646199">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>普通理工国际选考：</strong>本学系普通国际通道须EJU日语290/450、物理化学数学2合计310/400，另校内五科及面试；院系分配条件须另查。GSEP有独立资格，不自动覆盖本项所有学生。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-54c3cc87b6a451">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>理工2027国际资格：</strong>理工特选要求无日本国籍（含日本双重国籍不符），日本高中毕业者或日本永住者不适用；须于2027-03-31完成认可海外12年教育或所列IB／A-Level等资格。中国普高、高考或国际课程均不免除本途径EJU和校内考试。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-54c3cc87b6a451">官方依据</a></p>
+
+<p class="catalog-fact"><strong>理工EJU明确下限：</strong>使用2026年6月或11月其中一次EJU：日语含写作至少290/450，物理、化学与数学2合计至少310/400；不得跨两次拼分。校内还考数学、物理、化学、英语、日语，再面试；这些是申请／筛选要求，不是保证录取分。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-54c3cc87b6a451">官方依据</a></p>
+
+<p class="catalog-fact"><strong>医齿2027独立路径：</strong>医齿六个本科另用2027私费外国人简章；日本国籍、永住或日本高中毕业者不适用，须认可海外12年教育或列明国际资格。EJU可用2025或2026年6／11月一次成绩，专业科目见本项记录；不采用理工290/310门槛。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-778dd10e16a077">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>理工2027时间：</strong>页面说明完整2027特选简章拟10月中旬发布，本轮未取得申请提交截止。页面已列2027-01-20笔试、02-10面试；不可沿用旧2026简章申请期。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-54c3cc87b6a451">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>对应学系现行本科费：</strong>本项所在理工学系当前年学费JPY635,400。入学金282,000另计；官方可调整，未作2027锁定价。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-04b77268a51668">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>两学系现行年费不同：</strong>理工本科自2019起年学费JPY635,400；医齿本科自2020起年学费642,960；两类普通新生入学金均282,000、考试费17,000。是官网当前标准且可调整，不把合并后的大学写成统一学费。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-04b77268a51668">官方依据</a></p>
+
+<p class="catalog-fact"><strong>资助边界：</strong>官方收费页分别提供学费／入学金减免与奖学金入口；本轮未核得2027中国普通本科新生可保证的奖项金额或续领标准。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-04b77268a51668">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -65,5 +106,12 @@ hide:
 - [官方项目页面或项目所在目录](https://educ.titech.ac.jp/tse/eng/)
 - [官方目录](https://www.isct.ac.jp/en/001/education/departments/undergraduate-se)
 
+<div class="catalog-source" id="source-p-ASREN-bd08c6a652de9a"><div><a href="https://www.isct.ac.jp/en/001/education/departments/undergraduate-se">官方本科目录 ↗</a><p>目录列名、学院或校区身份，不证明本轮开放招生</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-af9d5cb7646199"><div><a href="https://educ.titech.ac.jp/tse/eng/education/tse_undergraduate/curriculum.html">官方本科课程结构 ↗</a><p>本科课程区中明确出现的内容示例；未把这些示例视为完整必修表</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-54c3cc87b6a451"><div><a href="https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international">东京科学大学理工学2027私费外国人特别选拔 ↗</a><p>2027资格、EJU下限和考试；完整简章拟10月中旬</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-04b77268a51668"><div><a href="https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition">东京科学大学两学系本科学费 ↗</a><p>理工及医齿分别年费</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-54c3cc87b6a451"><div><a href="https://admissions.isct.ac.jp/ja/013/undergraduate/entrance-examination/se-international">东京科学大学理工学2027私费外国人特别选拔 ↗</a><p>2027资格、EJU下限和考试；完整简章拟10月中旬</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-778dd10e16a077"><div><a href="https://admissions.isct.ac.jp/plugins/cms/component_download_file.php?type=1&amp;pageId=3088&amp;contentsId=&amp;contentsDataId=&amp;prevId=&amp;key=b3e79856233972df2ebabe76281ccad5.pdf&amp;fileName=【公開版】令和9 (2027) 年度私費外国人留学生特別選抜学生募集要項">东京科学大学医齿学2027国际生简章 ↗</a><p>6个本科的学制、EJU、考试及申请时间</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-04b77268a51668"><div><a href="https://admissions.isct.ac.jp/ja/013/student-life-and-careers/tuition">东京科学大学两学系本科学费 ↗</a><p>理工及医齿分别年费</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/japan/science-tokyo/">← 返回东京科学大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

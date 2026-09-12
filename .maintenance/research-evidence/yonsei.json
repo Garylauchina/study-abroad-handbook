@@ -1,0 +1,83 @@
+{
+  "university_id": "yonsei",
+  "sources": [
+    {
+      "url": "https://admission.yonsei.ac.kr/seoul/upload/guide/20260529144906YVFHLB.PDF",
+      "sha256": "e2f657573b63677041d8910b36ff3619c03f5a443dcff44db29aae9b7259e642",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/spring2027.pdf",
+      "locator": "English pages1–2,11–12,26–28"
+    },
+    {
+      "url": "https://www.yonsei.ac.kr/sites/en_sc/down/2026_fee1.pdf",
+      "sha256": "8f4d1db0466ab3d2e17e89a8b66dd622812cec9d91cba9793b90cdfcf5661107",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/tuition2026.pdf",
+      "locator": "PDF page1"
+    },
+    {
+      "url": "https://yonsei.ac.kr/en_sc/1849/subview.do",
+      "sha256": "50ba0b5d1ea59608c41f18a2e65dc970fc02b15332c9cc3089f5d6042cc85b24",
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/degrees.html",
+      "locator": "degrees:College of Pharmacy"
+    },
+    {
+      "url": "https://devcms.yonsei.ac.kr/engkoreanlit/curriculum.do",
+      "sha256": "3864d5748747990b584333dadbf64b9003399336f9d8fa55d4e6832805bea108",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/curriculum-c6b1f14ccfd27c5223.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://ysgerman.yonsei.ac.kr/ysgerman/undergraduate/curriculum.do",
+      "sha256": "e076bb7db5f9dcb10e00e985e8337338b64f377ccbbe8b38c63514bf614e5bd2",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/curriculum-939e807028aa425e2e.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://franys.yonsei.ac.kr/franys/subject/subject.do",
+      "sha256": "74326920464189e2b89c68ca3d0a5929411bab516eaf7403a1904ecf1a24eb7d",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/curriculum-340940f7b4cc6f2382.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://devcms.yonsei.ac.kr/economics_en/department/curriculum.do",
+      "sha256": "78f224a93e577e7f18af44d03ed1bc5160aef7f41b5c080cdfca50fd4c0e3789",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/curriculum-e426e8201af7b18b3c.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://physics.yonsei.ac.kr/en/faculty/curriculum",
+      "sha256": "56e759e3e671e61b4f48e7549617cde4b7eb56bb78b3578c056733a25905667a",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/curriculum-63dae7ceda527cb2c5.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://mirae.yonsei.ac.kr/en_wj/2099/subview.do",
+      "sha256": "6c5eed6547947c1e51f05bdb8cde247adad43352cb85266843acf9b9122397df",
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/mirae-degrees.html",
+      "locator": "mirae-degrees:Wonju College of Nursing"
+    },
+    {
+      "url": "https://engys.yonsei.ac.kr/engys/undergraduate/curriculum_undergraduate_basic_sophomore.do",
+      "sha256": "20cab94af9dde8928d717683c7593d7fd96ecba090d024281f78359b54cedc7b",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/curriculum-9e5eaad85b1cc768c7.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://vd.yonsei.ac.kr/vd/curriculum/bachelor.do",
+      "sha256": "599d6684caebb210204f64d8a5014b3836aed99e6056f5bdaced12b5a2544a4e",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/curriculum-40c46db711a260e61f.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_01_01",
+      "sha256": "5ef94fd532f1c062c4d8d6782dba8d201ed34061ee728e1c8bfc0fb5649beffa",
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/detail-underwood-division-ud-.html",
+      "locator": "UIC:Bio-Convergence (BC)"
+    },
+    {
+      "url": "https://glc.yonsei.ac.kr/en/homeen/",
+      "sha256": "d228ebcde2c7fe6d8ce4abf42e670ea608b05b10d28f6f34381391b3a8f47801",
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/group-global-leaders-college.html",
+      "locator": "GLC:Applied Information Engineering"
+    }
+  ]
+}

@@ -21,12 +21,12 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>St. George campus · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>St. George campus · <strong>授课语言：</strong>英语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,13 +38,24 @@ hide:
 
 <p><strong>项目类别：</strong>Professional</p>
 
+<p class="catalog-fact"><strong>所属学科课程内容：</strong>医师助理课程面向在执业医生监督下参与医疗工作的PA职业，包含理论及临床训练；不能理解为独立执业医生本科或普通高中直入。</p>
+<p class="fact-sources"><a href="#source-p-toronto-detail-165">官方依据</a></p>
+
+<p class="catalog-fact"><strong>教学语言：</strong>学校说明教学与考试语言为英语；具体外语学习及临床沟通要求须查看专业规定。</p>
+<p class="fact-sources"><a href="#source-p-toronto-language">官方依据</a></p>
+
+<p class="catalog-fact"><strong>职业角色：</strong>医师助理在医生监督下进行临床工作，课程要求全日制参与校园、远程和临床环节。该学位并非医学MD，也不等于独立执业医师资格。</p>
+<p class="fact-sources"><a href="#source-p-toronto-detail-165">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>高年级入口与更新缺口：</strong>该专业要求已有大学学习，下一招生周期的通用要求区目前写待公布。页面下方仍保留10.0 full-year课程、GPA3.0及350小时医疗经历等旧条件，本轮未把这些混用为已经确认的2027标准，也未核实国际身份的本轮开放资格。</p>
+<p class="fact-sources"><a href="#source-p-toronto-pa-admissions">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>2027 时间与专业条件分开：</strong>校级2027表列Physician Assistant申请截止为2027年1月15日；专门页面仍待更新本轮完整要求，应在提交前确认开放资格、材料和面试安排。</p>
+<p class="fact-sources"><a href="#source-p-toronto-dates">官方依据</a> · <a href="#source-p-toronto-pa-admissions">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
@@ -61,5 +72,9 @@ hide:
 - [官方项目页面或项目所在目录](https://paconsortium.ca/overview-prospective-students)
 - [官方目录](https://www.utoronto.ca/academics/undergraduate-programs)
 
+<div class="catalog-source" id="source-p-toronto-detail-165"><div><a href="https://paconsortium.ca/overview-prospective-students">多伦多大学官方资料：toronto-detail-165 ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-toronto-language"><div><a href="https://future.utoronto.ca/english-language-requirements">多伦多大学官方资料：toronto-language ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-toronto-pa-admissions"><div><a href="https://paconsortium.ca/admission-requirements">多伦多大学官方资料：toronto-pa-admissions ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-toronto-dates"><div><a href="https://future.utoronto.ca/deadlines">多伦多大学官方资料：toronto-dates ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/toronto/">← 返回多伦多大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

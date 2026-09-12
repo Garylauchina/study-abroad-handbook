@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Law Dual Degree – BCL/Maîtrise</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4 Years</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027 年 9 月（2026-10-01 开放申请）</strong></div><div><span>学制</span><strong>4 年</strong></div><div><span>国际生学费</span><strong>本路径国际新生费用本轮未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语、法语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,21 +40,49 @@ hide:
 
 <p><strong>申请路径：</strong>Published major/subject accessed through named common-entry programme(s); see entry_routes.</p>
 
+<p class="catalog-fact"><strong>本专业：课程与培养：</strong>双学位先在 UCD 学习爱尔兰与法国法律，一年级后凭成绩申请面试选拔，第三、四年赴法国伙伴大学；UCD 的法国法课程以法语授课。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-89">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：学位与学制：</strong>授予资格：Bachelor of Civil Law；页面学制为4 年。入口代码：LWS6。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-89">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：语言：</strong>UCD的法国法模块以法语授课；英语与法语学习要求均需满足。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-89">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>本专业：直接或共同入口：</strong>课程页列入口代码LWS6；需经共同招生入口及后续选科/分流，不能把方向名称当作保证直入的独立招生代码。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-89">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：IB类别参考：</strong>当前入口面板列IB总分33，不同入口可能不同；仍有单科及英语要求。面板同时含2026 CAO信息，本轮未取得单独标年2027的完整IB表；此分数不可换算为高考要求。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-89">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：双学位分流：</strong>正文要求先读Law with French Law，一年级末凭良好成绩申请面试转入双学位；课程通用面板仅列LWS6 Law入口，申请时须确认法国法方向及转入程序。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-89">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>本专业：2027国际本科入口：</strong>页面普通non-EU路径列2027年9月入学，2026年10月1日开放。准确截止日期本轮未取得；请使用Undergraduate Degree (Non EU)，仅受邀的Access Progression不能作为普通申请。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-89">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：2026参考入口：</strong>页面仍列2026年9月Apply入口；本轮未确认当下是否仍有名额或接受迟交，不能仅凭按钮认定仍可申请。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-89">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>本专业：跨校收费缺口：</strong>第三、四年赴法国伙伴校，完整双学位分年费用和伙伴校费用本轮未核实；不把UCD普通法律学费直接乘四。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-89">官方依据</a></p>
 
 ## 毕业生情况 {#outcomes}
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：职业资料边界：</strong>课程页的Career &amp; Graduate Study Opportunities属于升学和职业方向介绍。本轮尚未核实各专业可比的毕业就业率、薪资及调查口径，不将介绍中的职业可能性写成实际就业统计。</p>
+<p class="fact-sources"><a href="#source-u-ucd-career-example">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -63,5 +91,7 @@ hide:
 - [官方项目页面或项目所在目录](https://www.ucd.ie/courses/law-dual-degree-bclmaitrise)
 - [官方目录](https://www.ucd.ie/myucd/courses/a-z-course-list/)
 
+<div class="catalog-source" id="source-p-ucd-program-89"><div><a href="https://www.ucd.ie/courses/law-dual-degree-bclmaitrise">Law Dual Degree – BCL/Maîtrise ↗</a><p>学位与入口面板、课程培养、申请路线和职业说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-career-example"><div><a href="https://www.ucd.ie/courses/bsc-actuarial-and-financial-studies">Actuarial and Financial Studies: career opportunities ↗</a><p>官方课程职业方向介绍；未声明就业调查数字</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/ireland/ucd/">← 返回都柏林大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Human Movement Science and Health Studies</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026</strong></div><div><span>学制</span><strong>4 年</strong></div><div><span>国际生学费</span><strong>HK$214,000/年（2026/27非本地参考）</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,21 +42,80 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>课程内容：</strong>结合人体运动科学与健康研究，探讨运动障碍、康复、运动预防及科研。</p>
+<p class="fact-sources"><a href="#source-p-cuhk-detail-2997a749325daa30f2bd">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学制：</strong>本页2026课程信息列标准修读期4年；高年级衔接年数不可当作高中直入完整本科年数。</p>
+<p class="fact-sources"><a href="#source-p-cuhk-detail-2997a749325daa30f2bd">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>申请路线：</strong>官方目录列可用路线：内地高考；国际学历；高考按大类及选主修规则入读，不表示本条可直接填报为独立高考志愿。</p>
+<p class="fact-sources"><a href="#source-p-cuhk-route-directory">官方依据</a></p>
+
+<p class="catalog-fact"><strong>官方目录资格备注：</strong>Knowledge of Chinese required</p>
+<p class="fact-sources"><a href="#source-p-cuhk-route-directory">官方依据</a></p>
+
+<p class="catalog-fact"><strong>专业先修与未来年缺口：</strong>本轮未逐项核实2027各学历专业先修、选科及面试分数。2026路线/资格仅作参考，不能以大学最低成绩推定录取。</p>
+<p class="fact-sources"><a href="#source-p-cuhk-detail-2997a749325daa30f2bd">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026内地高考通道：</strong>2026年中大在内地按省招生计划、统招提前批录取，分人文、理科、工科、商科大类；高考外语须为英语，英语至少120/150，实际总分须达到本科批/特控线并按成绩竞争。各专业与省份选科另看招生表，不能用国际Non-JUPAS申请替代。</p>
+<p class="fact-sources"><a href="#source-u-cuhk-policy-8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际学历最低资格：</strong>国际学历一般要求IB文凭至少30/45，或3门A-level及格／2门A-level加2门AS及格；专业可能有指定科目和更高竞争要求。须在入学年9月1日前达到所列资格。</p>
+<p class="fact-sources"><a href="#source-u-cuhk-policy-10">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语与2027更新范围：</strong>当前本科英语最低IELTS Academic总分6.0。TOEFL页明确2026入学参考：旧制80；2026年1月21日起考试4.5/6或80/120，2027及以后待复核。接受其他学历替代；线上版/单项重考等限制须按原页。</p>
+<p class="fact-sources"><a href="#source-u-cuhk-policy-10">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>2027窗口核验范围：</strong>本轮未取得本项目2027具体申请及材料截止；高年级/跨校/校内分流须查独立程序，不套普通国际新生窗口。</p>
+<p class="fact-sources"><a href="#source-p-cuhk-detail-2997a749325daa30f2bd">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>高考申请与专业分流：</strong>高考申请按各省提前批志愿系统及当年计划办理，无全省统一日期；2026周期已结束，2027省计划和期限本轮未取得。录取大类后按专业规则在第一或第二年确定主修。</p>
+<p class="fact-sources"><a href="#source-u-cuhk-policy-8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际学历2026窗口参考：</strong>2026入学提前轮截止2025年11月13日、常规轮2026年1月8日，延长截止2026年5月29日，均已结束。本轮读取的重要日期页仍标2026，未取得2027完整日历。</p>
+<p class="fact-sources"><a href="#source-u-cuhk-policy-13">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>2026/27非本地年费：</strong>普通非本地本科年费港币214,000元（2026/27），不含食宿；2027新生费用本轮未取得。</p>
+<p class="fact-sources"><a href="#source-p-cuhk-policy-6">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>非本地年学费：</strong>2026/27非本地普通本科年学费港币214,000元；2026届以后年度调整上限3%。双校/双学位收费可能不同；本轮未取得2027新生完整收费表。</p>
+<p class="fact-sources"><a href="#source-u-cuhk-policy-6">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考奖学金条件：</strong>2026奖学金最低资格为理工/物理630分，文史/历史/综合600分（以750满分），或所属应考组别全省前0.5%；另须英语130/150。须满足志愿及名额规则，最低资格不保证获奖；通常最多四年，续领年度GPA要求3.0。</p>
+<p class="fact-sources"><a href="#source-u-cuhk-policy-9">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际学历资助边界：</strong>录取全日制本科的国际学历申请人会自动获考虑入学奖学金，无须另申请；FAQ说明国际生不提供一般经济援助。不得将高考奖学金规则套到国际学历入口。</p>
+<p class="fact-sources"><a href="#source-u-cuhk-policy-6">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>就业统计范围：</strong>本轮未取得按本专业、届次及内地/非本地学生范围并说明分母的就业率；毕业方向不等于就业统计。</p>
+<p class="fact-sources"><a href="#source-p-cuhk-detail-2997a749325daa30f2bd">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>专业就业率缺口：</strong>本轮未取得可逐专业说明届次、调查分母及内地/非本地范围的就业率，毕业方向与统计分开。</p>
+<p class="fact-sources"><a href="#source-u-cuhk-policy-6">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -65,5 +124,13 @@ hide:
 - [官方项目页面或项目所在目录](https://admission.cuhk.edu.hk/programme/hmshn/)
 - [官方目录](https://admission.cuhk.edu.hk/programmes/list/)
 
+<div class="catalog-source" id="source-p-cuhk-detail-2997a749325daa30f2bd"><div><a href="https://admission.cuhk.edu.hk/programme/hmshn/">cuhk 官方本科资料：detail-2997a749325daa30f2bd ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-cuhk-route-directory"><div><a href="https://admission.cuhk.edu.hk/programmes/list/">CUHK 2026本科课程及申请路线一览 ↗</a><p>申请类别、资格限制与条目身份</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-cuhk-policy-6"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/">cuhk 官方本科资料：policy-6 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-policy-8"><div><a href="https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/regulation/">cuhk 官方本科资料：policy-8 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-policy-10"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/">cuhk 官方本科资料：policy-10 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-policy-13"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/">cuhk 官方本科资料：policy-13 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-policy-6"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/">cuhk 官方本科资料：policy-6 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-policy-9"><div><a href="https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/scholarship/">cuhk 官方本科资料：policy-9 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/">← 返回香港中文大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

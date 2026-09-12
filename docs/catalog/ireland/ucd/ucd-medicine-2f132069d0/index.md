@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Medicine</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>6 Years</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027 年 9 月（2026-10-01 开放申请）</strong></div><div><span>学制</span><strong>6 年</strong></div><div><span>国际生学费</span><strong>MDSA 新代码费用待核；旧 MDS2 金额不可直接套用</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,47 @@ hide:
 
 <p><strong>条目类型：</strong>undergraduate programme/major</p>
 
+<p class="catalog-fact"><strong>本专业：课程与培养：</strong>Medicine 2030 医学课程结合生物医学基础、临床轮转、研究、数字医疗及病人安全，目标是培养可继续接受临床培训的医学毕业生。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-104">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：学位与学制：</strong>授予资格：Bachelor of Medicine,Bachelor of Surgery,Bachelor of Obstetrics；页面学制为6 年。入口代码：MDSA。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-104">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：授课语言：</strong>UCD一般教学语言为英语；目标语言训练、海外交换及实习安排依本专业说明。</p>
+<p class="fact-sources"><a href="#source-p-ucd-english">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>本专业：直接或共同入口：</strong>课程页列入口代码MDSA；此为页面列出的直接申请入口，仍须满足相应资格和专业条件。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-104">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：医学代码与年度差异：</strong>现课程页为Medicine 2030、代码MDSA；2026中国资格页及收费表使用MDS2。旧表列高考81%及面试，但本轮未核实其与新MDSA代码的正式衔接及2027完整要求，不能直接当作确定的2027标准。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-104">官方依据</a> · <a href="#source-p-ucd-china">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>本专业：2027国际本科入口：</strong>页面普通non-EU路径列2027年9月入学，2026年10月1日开放。准确截止日期本轮未取得；请使用Undergraduate Degree (Non EU)，仅受邀的Access Progression不能作为普通申请。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-104">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：2026参考批次：</strong>页面2026年9月non-EU普通入口标Closed，已结束；不把该入口当作未来申请批次。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-104">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>本专业：医学收费缺口：</strong>2026/27官方表MDS2 Medicine列EUR63,890/年；本课程当前代码MDSA未在已取得表中对应，须确认新课程实际账单，不把旧代码金额当作2027报价。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-104">官方依据</a> · <a href="#source-p-ucd-fees-table">官方依据</a></p>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>本专业：官方职业方向介绍：</strong>课程页提及研究、临床等工作或进一步学习方向。这是课程职业介绍，不是本届毕业生就业率或薪资调查。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-104">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：职业资料边界：</strong>课程页的Career &amp; Graduate Study Opportunities属于升学和职业方向介绍。本轮尚未核实各专业可比的毕业就业率、薪资及调查口径，不将介绍中的职业可能性写成实际就业统计。</p>
+<p class="fact-sources"><a href="#source-u-ucd-career-example">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +87,10 @@ hide:
 - [官方项目页面或项目所在目录](https://www.ucd.ie/courses/medicine)
 - [官方目录](https://www.ucd.ie/myucd/courses/a-z-course-list/)
 
+<div class="catalog-source" id="source-p-ucd-program-104"><div><a href="https://www.ucd.ie/courses/medicine">Medicine ↗</a><p>学位与入口面板、课程培养、申请路线和职业说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ucd-english"><div><a href="https://www.ucd.ie/registry/prospectivestudents/admissions/policiesandgeneralregulations/generalrequirements/minimumenglishlanguagerequirements/">Minimum English Language Requirements ↗</a><p>英语教学和证明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ucd-china"><div><a href="https://www.ucd.ie/global/study-at-ucd/undergraduate/entryrequirements/china/">China entry requirements: 2026 ↗</a><p>中国高中、高考与分科标准</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ucd-fees-table"><div><a href="https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?ACYR=2026&amp;DGLEV=UG&amp;RESD=NONEU&amp;p_tag=FEESLEVEL">2026 non-EU undergraduate fee table ↗</a><p>各课程代码欧元收费及脚注</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-career-example"><div><a href="https://www.ucd.ie/courses/bsc-actuarial-and-financial-studies">Actuarial and Financial Studies: career opportunities ↗</a><p>官方课程职业方向介绍；未声明就业调查数字</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/ireland/ucd/">← 返回都柏林大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

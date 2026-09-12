@@ -1,0 +1,125 @@
+{
+  "university_id": "korea-university",
+  "sources": [
+    {
+      "url": "https://oia.korea.ac.kr/_attach/file/2026/08/lpZzpFXiuEfpfIZPBrYB.pdf",
+      "sha256": "0a2274fd829fccdf548df783be1df1d5e9a4c89b0018232d8c9c9bf36840b82a",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/spring2027-freshman-en.pdf",
+      "locator": "Eligibility/Language requirements"
+    },
+    {
+      "url": "https://oia.korea.ac.kr/oia2026/Admission-Guide.do",
+      "sha256": "dcff633d673b85d2bf29ed69aacc9c7913181e64015ca932a34a5bd6e30325f5",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/admissions.html",
+      "locator": "Admission Schedule"
+    },
+    {
+      "url": "https://oia.korea.ac.kr/oia2026/Tuition.do",
+      "sha256": "de31b0d1cca052716a6ff763b9d04d3d7696e5c49e4d9a65e67ef72f33b51836",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/tuition.html",
+      "locator": "Tuition"
+    },
+    {
+      "url": "https://oia.korea.ac.kr/oia2026/KU-Scholarships.do",
+      "sha256": "5fea2b5652c75b9df350b943b730b18acbf5fbe16c145c76a196a9002655a133",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/scholarships.html",
+      "locator": "Newly Admitted Students"
+    },
+    {
+      "url": "https://www.korea.ac.kr/en/1037/subview.do",
+      "sha256": "2b4c1f7b1533e5763afefc6493225747a12f5f70f5386c12479c073d06020829",
+      "raw_file": "scratch/full-catalog/asia/korea-university/raw/schools.html",
+      "locator": "University College"
+    },
+    {
+      "url": "https://socio.korea.edu/socio_en/undergraduate/curriculum.do",
+      "sha256": "640aa0d4537776f7e3054ad9cb3dec536a6700fdd1b734587cccd39148e65758",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-0405a8da755f4d0ebe.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://sinolit.korea.edu/clschn_en/curriculum/under_intro.do",
+      "sha256": "cdcb460cdd90453c0868f8f3810eaf4bc0bf39869dfc14d5ab81299de2910694",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-2b510e386077d225a7.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://foodscience.korea.edu/foodscience_en/undergraduate/curriculum.do",
+      "sha256": "7737f45f3b8ccbbc14f2cc01ab7f96b4606b6acd4c6b4c94cd41a06859833fff",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-eb1dc142ee044fe01a.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://frecon.korea.edu/frecon_en/info/faculty/curriculum.do",
+      "sha256": "e7021b0bc41c80ccf34daf8b30d37b4f10a57eb34accf303ba33676f5515ddd5",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-17a8685af11f596706.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://math.korea.edu/math_en/undergraduate/curriculum.do",
+      "sha256": "f2f904ca7a50b8810ad56708af2b4d6d8449c50505268e6352d634ceedd13095",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-b4fba337fde8e67ca6.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://me.korea.ac.kr/eng/undergraduate/curriculum.html",
+      "sha256": "d182809c8bf3cac9238cc034a9a0366f1961beec1329741d1c1322104fbce074",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-dcb14c6f9472758e82.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://koredu.korea.edu/koredu_eng/Undergraduate/curriculum.do",
+      "sha256": "396b834f02748b6954caa3cd7d31bdba11761d683ce16f4f095fae7a21cf1c25",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-e0c4418f1b342de91b.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://psy.korea.edu/UnderGraduate/Curriculum",
+      "sha256": "4d09de0bc9e2d56b8212a230fe114c39ea3f738da39d414309ce048ad44b38f0",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-127cab964b5cde1195.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://mobility.korea.ac.kr/curriculum/undergraduate1.php",
+      "sha256": "b7fefd580af6e840022ab71dd7b87e82ed069e94ee1ef32bb85a967583dad159",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-e4c818ed604782025d.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/eng/10288/subview.do",
+      "sha256": "1b8258a69fc62ca5042f4f47b90f7af6fa12981a144a5904c807c2e358eebb33",
+      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10288.html",
+      "locator": "sejong:Dept. of Advanced Convergence Pharmaceutical Sciences"
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/eng/10289/subview.do",
+      "sha256": "d8cf82517f6f778dd639aa4a894fdf0cac6a367e540c292aaf3de74cc32d8864",
+      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10289.html",
+      "locator": "sejong:Dept. of Standards and Intelligence"
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/eng/10290/subview.do",
+      "sha256": "5c0392eb4762b27cdd77e6464d8d71e4fd66a5f63365d1da1c48cbdb63a32cab",
+      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10290.html",
+      "locator": "sejong:Division of Big Data Science"
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/eng/10291/subview.do",
+      "sha256": "3306f718a7cb95bd206993e22ab893116ad31974ba442b17abb53de7b8a0aaf2",
+      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10291.html",
+      "locator": "sejong:Division of Culture Creativity (Culture Contents)"
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/eng/10292/subview.do",
+      "sha256": "78c3988c47bf37b5a668b006578384aceeb763dbb8e494438c6dcbd5ffba7b5b",
+      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10292.html",
+      "locator": "sejong:Division of Smart Cities"
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/eng/10287/subview.do",
+      "sha256": "6d4e0cae8374e5af6828a4aa751c28b85a0ef7aa6ffcda7440862f730eac4fef",
+      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong.html",
+      "locator": "sejong:Dept. of Digital Healthcare Engineering"
+    }
+  ]
+}

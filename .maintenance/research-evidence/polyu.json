@@ -1,0 +1,965 @@
+{
+  "university_id": "polyu",
+  "sources": [
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/admissions/jee/frequently-asked-questions",
+      "sha256": "7e357b8cc0629d1706b9d02aab54177e5ea066b688266d57721df06fcfb2ef6d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/gaokao-faq.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/admissions/international-other-qualifications/international-other-qualifications-general",
+      "sha256": "3d2e52e0122ca00703487ddd6e24aa85f40d47e91033f1e13fb718d82dfea608",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/intl-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/admissions/international-other-qualifications/international-other-qualifications-english",
+      "sha256": "32c20189ca76ca2259b3fd26b9c85bde553149b1855a947c7364ebf1fcee6f0f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/english.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/admissions/jee",
+      "sha256": "4d2c9c1460c448b794e3e4eec58879c17bae09be02bdb73267111211ca566437",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/admissions/international-other-qualifications",
+      "sha256": "f3578904e03fe37d7c53b37433100c32d43c80a03f31404d6c7ad08b288d7a8b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/international.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/admissions/jee/tuition-fees-for-government-funded-programmes",
+      "sha256": "acaf6cb2e90e1e55f1545ff249e333d62bd9279b549a133d8ceba9bbee4a7b46",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/gaokao-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/fees-and-scholarships/scholarships",
+      "sha256": "175ea6cb043cd2cfbfef232d0e341e514ea41e7c29c038216e23637de0984ef3",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/scholarships.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3060",
+      "sha256": "cb383dfb6a42bd397558ad77d0f3b103f065e5c21f882f0a6fa86fa0ab5c0469",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-004ae684fccd1902436d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3060",
+      "sha256": "cc3346d0424d3a5232d0b1d831e9a3f5f830f3b59b314cad0b37eab56a91a5ad",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3060.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3220",
+      "sha256": "d55e26cb88e7ab3b37c7229e5cd46a9fec4d32fecaaf56ef8989fcb44d401c26",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-9c2a44f076cd573e5c92.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3220",
+      "sha256": "a8b275255daeab570980e07e311a07768b4116d053f26afd41c774d08a435b02",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3220.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3250",
+      "sha256": "c1e64d05f366886cbfd7002f185eeae8cc79f28693f8fe779620ea46d7f20228",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-3cb146ae341b85902990.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3250",
+      "sha256": "db9f3feeb4347349ad943485d543512f77136540e897c0128bc27cd676c0ac74",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3250.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3214",
+      "sha256": "7c043f794808d21a07ff291de7086bf928941f652f28e81ba936520a82e07ba0",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-2130d17718b3c160663b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3214",
+      "sha256": "758654b2a6ddd197a20c29d424ecc7dad82c99310f35f320e485bee0676b3885",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3214.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3140",
+      "sha256": "fd1eeda253d30f7ca9faacd226aaf229ac5da1e407312e32af830eace44fd365",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-330333d029384376215b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3140",
+      "sha256": "f29eaa8abdcebbea141924b8f6076aba6380b3f3d3f8949984fe01ea50c46dd1",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3140.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3150",
+      "sha256": "eb4d79532e346330371e2107662cbc749d4649e0c7644b26e84327dc652431d8",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-7d3d0c2151057099e1c5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3150",
+      "sha256": "c0cdf84a511d93f5f13c915bdde2dbbe0c523369d0d694feef7caa73e1815009",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3150.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3011",
+      "sha256": "ef87da25d4a6231a9c9d455b2d6273c3c5b3c0c3aad79b38a2caf721162836b1",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-d930b934de97fe109a6b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3011",
+      "sha256": "4618d8c66425da7a72f4b5da5322015ebb843398bfe3544e023b2748e25b16aa",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3011.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3791",
+      "sha256": "a11fe9b9b16b3f6d3b7dddfa8710decfa1120e532fe2e18e5bf0e4ffb19ced0d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-c9ac7c8a65137b3ca6c6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3791",
+      "sha256": "e00553d69466153886bb1f31cff64f96af0e2530ef7637effb09e5e4a28013df",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3791.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3211",
+      "sha256": "100a287588fe984e22173d35d5901e5fce42e0ca4429bd0e76714524d55a66bb",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-fb6f919891691d82bb50.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3211",
+      "sha256": "84d31bf6dbcb2fd9cfd937803f80ab0357e3ecd3228d5f49214e40916a9dbfc8",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3211.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3003",
+      "sha256": "107ac38f8e3ed32de47d1d1f22e058696f70ee6e94d1dd8136a001e7d888f820",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-1572429df148269c2c05.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3003",
+      "sha256": "7f73a5723a66627d9312c3cc23d758c03bacb0ea933b4ea7f6c053dbe8b50d8c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3003.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3320",
+      "sha256": "f6a4cbb838f3d4e8239aa66ba98617b31506c7da7f3af02d19fcae98d81b5f95",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-e56830f13c4d1f82eb69.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3320",
+      "sha256": "d590129f81a790ccb466cbdef0bf6da2cceae0ed0235d9714a96524078d5f430",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3320.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3739",
+      "sha256": "c30cf9afaadbc42b3b03071c7c7f0476bcf35650aa2d2e3de9279d980b28e1a9",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-2d8b8e19901e0892a66b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3739",
+      "sha256": "0484ffb3e0f90228bc264811f2a4829679fbba6ee77f12f67a1f775dcf414723",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3739.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3006",
+      "sha256": "9518f43f123c083d1bfde2a345ac63ba6a786bdc99efe6776d477b00fbbde24f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-10691b930ba420ac2488.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3006",
+      "sha256": "136b51ebc0ea3a145d4cbce01cc781df1904af8eaedc331c8d34f4edf2ec587e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3006.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3868",
+      "sha256": "8140680116cceebe2e3caa0138a0b932c1ea88809c4dfd272ecaa2fe25af7678",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-f46983c4a8105db95d46.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3868",
+      "sha256": "cb3fe61992a27edb5a83f7a73e62efd6381b7fbf50ed42e829ab6da97a64b509",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3868.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3004",
+      "sha256": "135452109250dfb7878e3cbb0cca73a16f6ef6dab388d6a967fd4a19310bc267",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-024514c2653129fb1233.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3004",
+      "sha256": "4d638521da86fbdf941dc9710f7535a9c3543e60f2ed25bfa67b59de00ed148b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3004.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3223",
+      "sha256": "2fe45c45480502eb9e490594edce2d8cc7c5d1be9e64aca3a2af1da9ffb8aaa4",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-13107b44559d4bc7d70e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3223",
+      "sha256": "66bbc5c2b5416def0fc5f922d3acd34fd33c595e3204eb5782cbf0b0d64d219e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3223.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3569",
+      "sha256": "516173c3f75b07cadfe23a4107b73e876f49f07f0e60fd24c60cebb935df2319",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-70c5b4d6f3277906f81e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3569",
+      "sha256": "e285ed6379b1ae99288c227000c789b23ccfc4bf26662f86600ce1c88f3aad5f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3569.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/admissions/jee/general-entrance-requirements",
+      "sha256": "38c5e341dbe5759b0bcdaa198d7a4bb23f2c1de51c4925bc4301bdaa847622a0",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/gaokao-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3170",
+      "sha256": "14a3160c7c3521a14ad47c0b934e43ad9ce24a53b1eb5a0a127557456e464dc1",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-d8b19e61de618a29ba7d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3170",
+      "sha256": "fd3bad3abe2bcca2a277df4078417c86a0e55fc2e4a79ed01a48e23d825a86a3",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3170.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3005",
+      "sha256": "ae377dcd64957c476810957e3916338461456ca9ec4d22df8a14505342ad90e1",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-d6371d40c5a5cd6c3709.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3005",
+      "sha256": "f791b3b3b1596615f6d0bd699eeff208a3aa69cf5428df2745e1f12f9b4487f8",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3005.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3240",
+      "sha256": "4f9610d55ee76d09758e581c2cd9134459b449ad1f2a26342d865eda6c5b94f0",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-185dbca2b9911121bb19.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3240",
+      "sha256": "e2dacc73c372bb000af1a5d666f23bd58305b1ecfaecf2e41ed649d6c77103e4",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3240.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3375",
+      "sha256": "29f0dd4ad012d46f79eb985203e2006554b789569e528a704f71a8b6df6e63d4",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-cb2551b2b8a7232fb8b0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3375",
+      "sha256": "1fe97fce19f45fcd3a5b0ef5dfb3595c2177e58a86a165cbb674b66ba026c800",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3375.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3050",
+      "sha256": "78e68b082911fc73e02991ca2f678f50e4762d5414c9b430202420bec3db6699",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-1722f9966eaf3c406b1d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3050",
+      "sha256": "d5237e32fbca9b4e768704e12682cf71b0f2158e6262e5cb092838f88e477aa9",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3050.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3255",
+      "sha256": "2976be34e05290ed22f0b1fcc375edeb14afae24883946f348b19a535a786993",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-6a49d1d303a2eac5cce7.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3255",
+      "sha256": "4ecc309ff0ef0cdc359026b60c6fa8f12652c2d0f2d1428d2b0dac4ecb3840f2",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3255.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3070",
+      "sha256": "c9646483db141a330c19350e5def53de73fa11671d212be6ef7edfb1ccfee0ee",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-f1a8060682e80366d5cb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3070",
+      "sha256": "13f97bb1723fbc07462270a4ee16f9a46bcf8d7f5de625de1963ad5598e43cb8",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3070.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3310",
+      "sha256": "7b6c809fee9eb9c0da3c2d633a3423ec7b795ba00df2c0e28e166a8f1cd0949a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-5185e74c6126ed37ba87.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3310",
+      "sha256": "b4bcbdac351dea1f8763ff436989a211674ac56b11b19ec745463a6a38a004e7",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3310.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3007",
+      "sha256": "47400e5859420367ba8533b1dcd114b744cb6937e05f3743a7ca902bda08be70",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-601ef068449e23d78444.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3007",
+      "sha256": "64bd4acb6325c1a21a2262daa4c1f3502796c35d582bd6e3b303937cb426a3ea",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3007.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3180",
+      "sha256": "4bf2865f04d255b252dedff568aa4b1558cbdc0605765c8306df04c16ef7b519",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-c4cbbb09bc62dc4f73b8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3180",
+      "sha256": "08e603b3367c9f9c5820c336c7c4cf4db190d48c32d6d8604636a48ab2d08257",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3180.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3237",
+      "sha256": "4a5d3fe3a04ccaadff8d59cce46c1b6f7de7f0fbd537da9313081b95f010aa58",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-8912bbd9cfd3f0f7bd7c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3237",
+      "sha256": "3ec73e5eee844a153c7900ad0a2842f57a13dc69368725c8b1f698a9fcf72e8a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3237.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3000",
+      "sha256": "0c878117a145e9ce67c2d78625f09d8ee8c4903b2adfc259a1cbfcd594f67f01",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-f2ce2cb50bd49bd4cb86.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3000",
+      "sha256": "edc85ea68d0e69280796726589a7b900faddf2993cb90eef6dde64f3a4985ea2",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3000.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3243",
+      "sha256": "91c4f6ad455a4ecbbb90a0567de277f9146f3bb01d78be3df3a5c9ea921a28f2",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-04cf77fbb780b6ef255a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3243",
+      "sha256": "81a1d67d9009d2e4c43976e09dd2bac9b535e4225fd5b556f2e02f378bb7e36d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3243.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3080",
+      "sha256": "370b1c1d4f018ee72ef081726890e21830065ffafa47aef2e88f13e1e1acc025",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-62bd6c884b6a4f4cb4b1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3080",
+      "sha256": "ec1841f428b0c0b57993ea3a5e04dc396a0ef60d096d79004553d542f9bbbc0b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3080.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3741",
+      "sha256": "a9f94d3f7443d35de0042963a44d1e627a698325a739ae0f8f63d3f7ff2724d7",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-51b8669cff0ecef107be.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3741",
+      "sha256": "225c90f20d91f9af0e2367c18fdb003c57c4a5345cbc371d5cc7a48c6a6e031d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3741.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3478",
+      "sha256": "836d805429b520c5fd76bb69d47c92370f0296a73602d6f8a91d0550ad197d4f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-3fd7bfc8e77c81c54a41.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3478",
+      "sha256": "47bfd0575ddf9409176726f988971a8be4ce81a303412f9a1c51d8e442b2fc10",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3478.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3337",
+      "sha256": "60fcc91a64cc9bd6873f7c7335e6a6f60bda807abe8fa69b0cab05be531c73c9",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-b0542e327fec1308746b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3337",
+      "sha256": "c29ae746f3c7d733b790d36742aa2e662aa1443660491c31930923b20cd38ffa",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3337.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3648",
+      "sha256": "48d59ad56de46cd79bd957ff0a9bc5f8d4eb2fb015d2252cfec783c52c7abde4",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-223ade8917ec271d2c88.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3648",
+      "sha256": "9b82c4908a788ee411fb8012eaf182a78de1b5f85c63e892927238f858a792a3",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3648.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3624",
+      "sha256": "c24c3671fa90e6e6b62110bc3bcbd7f82a15a7fb85f3057fe88151a136546635",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-493e17495a928b85fdee.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3624",
+      "sha256": "954099918b3519147725779818f3c82887fe3ab458acac8b5c608b53ffb2f13d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3624.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3290",
+      "sha256": "6362f1f2c22cd74e694b1a17b3df2197048ee0a1f7226192e8400cb53afa7bd7",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-b7e3921521ecdd0ff050.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3290",
+      "sha256": "1f324926191b42bcbd7c4c4736e6664fc0ff282ddb1a7519890c77f741f66539",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3290.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3030",
+      "sha256": "7093887520f01e231e29f5d04e7d7f4a8e374e3d0f3bdc8b696b9bf5787515c7",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-070e7f3da1abc4953ca4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3030",
+      "sha256": "e9d9d6ac51ea3280a7ba8ca0c13a76262dea88de96e9d533bb6284e456afadf1",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3030.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3636",
+      "sha256": "e430c06c492bb13371521442957246cd11a630c63a91623fbd6a86b7844ccabf",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-706c007c500a49453efb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3636",
+      "sha256": "cbf182beaf9e30e5ddafa8603e3a8d6137e680c40ee5207ed54bb67dc85453fb",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3636.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3236",
+      "sha256": "3c2a615ae8d54048231c58bf1be7f4e7ed5a4edda8d177338957a5dfad390f9c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-925179501e2dc32a6cd4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3236",
+      "sha256": "013f3e65f94fdd8a89a938da81e4f7137131032258c5afec61f5b27aacb4b058",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3236.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3612",
+      "sha256": "8f9c0a5ac3ec70aa21894c5cbd5724c700f30ffb8ea9b63107d55b6960d9ea6a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-084ba7220dd417091772.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3612",
+      "sha256": "8f5915df9738fe58276bf4995f189b6e38d7d2182839101fd431f61573af8e80",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3612.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3008",
+      "sha256": "f36853057ecccf3ee99a29b1294016bbe9431a59b3e8c6b25ee3ec89f0078c7b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-106d4749c2da5b7152c7.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3008",
+      "sha256": "729b57f9c2e6b08ff64b0fef342f31a280573ebf8d58487a6bf4a3c2ce4157f6",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3008.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3130",
+      "sha256": "3b7de678cdee248e8a8aab519e35666e8e1d258897dd637d176191a185a28ab4",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-627bb349af01b14e43b1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3130",
+      "sha256": "1c558206baa5f49505a34beaf44d13b8c70a81738bcfd78c481a94fd592156e8",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3130.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3242",
+      "sha256": "7a9e93dace032a574e49538521c97f408fac9f39079e39de29b7d03e86404363",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-ad64c8f0cd6a73435c5e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3242",
+      "sha256": "8a42a8465f0d6403938ca57fcd14dda250c5808bcb3c8ddeca5823c41f028e80",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3242.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3160",
+      "sha256": "ebd20027d82a9dbf88906337b5a2cdb55c7bafba5303371ed800c9efecea139d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-01c4a818095b26b14cbf.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3160",
+      "sha256": "9a1abdc5bffed7ac7a241506b4e721d170f341212cfb7097266aff27742982b1",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3160.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3789",
+      "sha256": "0d6bdb6c173be3440c13aaaf1ae5df4fefcb114cc9cdaec3c9f4da79658815a4",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-249c1b8ad25d4a0e8ad5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3789",
+      "sha256": "a09e6df8d6ada95fbcce49b4048d25cbe4b5bd442223dafdb18900832feb4958",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/jee-js3789.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3170",
+      "sha256": "fac2b2a5512a310b2bab13bfa97a115131e72bd89ba2e076b4185fa0c14fb885",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-947b56a95cefd49a5002.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3250",
+      "sha256": "b6ebf873d3270b9906587567b2c643bc2ffb35b934079a87e64e5702de7c23be",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-d0f70135e1e75a6ff512.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3791",
+      "sha256": "0e9aca9aafc72e7746f839cd6bb87f37a84f0eb1a8f8c9cc3bc53d9d06334f89",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-6bcd3683933dac86f050.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3006",
+      "sha256": "935fe739cb2ddbf409fdb2aedb2db981af86387ed2435d5ab061540102c2bc5b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-976b4640bfb4f26de1f3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3337",
+      "sha256": "76347d26a4089e2eab9b4b736313760ab7c0422a3151347cb783fa9b77b108d7",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-2d0addc176bd0debbe9f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3648",
+      "sha256": "ad5a0eb70e7f7bb192f91ba180e99e82f9c6c3470399c808a82c9a7b388fa48e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-a578455b958e91caf6d6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/21453-sya",
+      "sha256": "91cbdf7be81a07028e373f7e3fb2764376073d744acf0c0d4a41bb9c051b4ad3",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-b61711b26655acf1b85e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/21453-syb",
+      "sha256": "ad0858147ac3c054994ac1cff55c54a634d118ddde7a2256392ce829a18dafee",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-60551d435b61f85ac68c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/12456",
+      "sha256": "bbbdf175510b066f09050e14f868dc5d979d2d39aef63571e0aeac4ad677377a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-9da0cda253c8583b5f64.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/54458",
+      "sha256": "c01458440fb86c8230a1cc4151f6b8d41abcf5f9136cc89004eaf761cb8a984b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-5d3423afdf88fcd88b0f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/12461-sya",
+      "sha256": "5436cf4e3b32a81d92e9478a05fc09ae2644183b33126e42eb4ab939405a6f6a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-cec96e58f99654da863a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/46409-sya",
+      "sha256": "347f89a6cdc5894138bb5cb6c9568bf2bc7ff5b668ef6f1a37102dde70153b4d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-dd7edc9b7deab21fb37f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/48403-sy",
+      "sha256": "bb1b6f78c6b3891092c8f0def71d8351151937c4d7ee64636d536511f2c9644c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-99ee3567cb1112651b30.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/44493-sya",
+      "sha256": "9398b88abe3b8f406c3c367c65838d276bedd5734c1e730626e343ff73e27822",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-342519bf4931ddf8992b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/45497",
+      "sha256": "8fa4b1360f3d845955a035f805e5e3d67e7c30641ac6c26d1163a285ea7abad6",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-3816796328663f695049.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/12461-syc",
+      "sha256": "13d3d4b3b71a2ac58060021877092b7dad5e3d1d9062b04dbcd2343c461fa567",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-4aca478dbfd1afbdff6b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/61435-sy",
+      "sha256": "2a3abc0bec5d4c075b475f4c75559a4d6518c9b0b7073aa3397749e333a2bf94",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-5eaeca9006a933da16ee.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/62401-syd",
+      "sha256": "f169e5496b80199488e77c7f7aa7febbe6f05c51db5903ed53439a87a6405989",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-c5cdcf6e5df659d2a6e5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syv",
+      "sha256": "fb5dddb2671c547ee770ec23cf493eb439a9a767c854a10e56cfe8b50c666a03",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-8d6e4a2d2e43b8844533.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syr",
+      "sha256": "dadfc66c4bbf79e8d8e3e852e4254eb2d12ab515261e7ad02a421a6ee10927a4",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-78375c906a33ab1b8526.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syf",
+      "sha256": "20ab4ab4616f2e8493b558fe01818d12337c4b65cabc82217916ed10e3a51e13",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-ee5c2cf4a65a74a1be19.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syt",
+      "sha256": "e657c6fb836e28001d799582c42c7e42b51e05711cf0455e9635bedfcf290a8f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-aca0a19805641ba1a4f1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syi",
+      "sha256": "8be1ea43ad0bea9cf6928a007e17df62f1131200cb265969ee49c9c8f95b9305",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-3af84002779f10624c54.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-sym",
+      "sha256": "84011e866ff296bd5653d0293115f48cadaad27cb681727624bc2fb0c584b474",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-085b8a2b86446d531778.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syd",
+      "sha256": "4ebfe1a1e8aceba28f86d474267969656244a0bf607866664060feb3ff1d8a3f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-34c27bd0ec5a1f75263c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-sys",
+      "sha256": "00afc3ba431818d04af75061e96343e0958a06191209385dc51ca34eabce513d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-32214574c6c60bb14dfb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syo",
+      "sha256": "19632f6e756e02ef612ac363ad79b636ec36b509579733963b9f95585c4bf11d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-327f94dcf9fb2d4106c0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/21453-syd",
+      "sha256": "1214f28de89586ba08d8fdf59c0523d202f60f9a6f185b80d9e23913f0207196",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-bb7f433cf94f43a0c4c6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/46408-sye",
+      "sha256": "ebdf18ffcd34257645e0b6236016cfcab4b0880c4a61f8e9ff803cc02757e13f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-61f8605ea4957f9c1b20.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/46409-sye",
+      "sha256": "9c2c2f345ffe98f212072ea1159e112360d41384e2f5d849389f80e04c052036",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-a5dc2eed1d5829d9bf76.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/45499-sye",
+      "sha256": "98d5bcdf5dc2c6b5f5e9971f858e10122d39e1fd7239b13f94e3aad4f598b1f0",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-d72bf47266f5f01a1ef4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/31470",
+      "sha256": "be09d0a8d117b07d8215a6e4043ed362d050ac10ff9fdf2270dad4076dd91041",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-4f86f6583431f7a9f453.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/14406-sy",
+      "sha256": "f419bde73fed33c8d7b13462dbae13e1929153d297dc4ff26b84e98ba7125297",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-e5ecd627e5255154d068.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/62401-syf",
+      "sha256": "bafc88e51fd5c77fa9f54156311e277405523bd973ed883cc66a7cf785a1fa3a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-8c710d9ae4781c310821.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/15455-syf",
+      "sha256": "613933b2ace0813b90870a3164b6f5c0871ff8f1d112f04d576651d4273a1468",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-d724a81e0b3c8db79664.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/24446-sy",
+      "sha256": "54b33f8e091188d2ed7a77ecc1218df350bf0ff247d44d86f34cca374018b9f3",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-1a006418f26d48b1e796.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/45498-syi",
+      "sha256": "cc3492834e57b29d25e92603e4aed1d3ee2732d9b86a12c8d9480a876a234b56",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-aaaade4f417bdbebd5e8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/46409-syi",
+      "sha256": "81d43ef8d36cb5e33b0350032c7d583c16be87991a658e7230f52799418507d0",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-5b146d48cad4114c4e7b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/44493-syi",
+      "sha256": "474ad26fa2bd7fe4e072a7ece8480088cd2cc11c608a9d49fba50b4a6490e545",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-0570dbc3e48139f75edd.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/63428-syf",
+      "sha256": "2eeb9e86f723b7b9132594be0cb3f86e49147f1ef36923fcc4b235543e200248",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-fddeca4438f954db79aa.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/34480-syl",
+      "sha256": "16ca4e8b896f70a0b974973812d9d1d4686854cf7d5a07f6bbc956fedf8d5225",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-cb05556dc1ea196c7a6e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/72425-sya",
+      "sha256": "e9a3b5f82de055676b73ec28000099679cc78ab6395e30422f5e2883bf530311",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-ad85f41744446ea12d43.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/72425-syl",
+      "sha256": "6b008dd64dc357e1b5a08d7fc2540cc87fbca72ee244afbfa5a9918889c86b47",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-80759b42915e758875fd.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/45499-syl",
+      "sha256": "2040406344b019e6e0c89d81845c79b1fea47bc127a2fd4c219391e3291ede80",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-19e81223a77956f0177b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/23492-sym",
+      "sha256": "56ab409aa33ff0b40b1823f94d7d2a4bcc26bedc0beb8d1f4a2931caeb0ebeb4",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-89835d313a5750889c07.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/23492-syk",
+      "sha256": "2faafdd3252d5ee6f1bf20f2624ccb2ca1aad9104748ed5a504ef96eeab5013d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-350aabdb6f94a7d2cefd.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/43499-sym",
+      "sha256": "a75eb7e2ef93fe2d95ce66770abc29a457765c1c95c49ed258c70908deb6ce4a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-e96bc8020f4eb48d964e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/43499-syp",
+      "sha256": "5faa20f1c5bd552ad72942ee41a6a1e94a75883d05fb873d6f00f98c9180ea68",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-e23067d22dad0dffb605.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/45498-syp",
+      "sha256": "51d12207e2b6574e95467bef7b3a9cf827cc9328ce702b43434c480b367ec0c1",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-fab3367b20ee52658581.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/32405-syp",
+      "sha256": "437318e22a1bf976873582536b03e8aa5eae91754be9f4316c8b0413a031cf98",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-f10a2be286301560384f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/54439-sye",
+      "sha256": "6e18b2fd71c9368f8425bf9370ae6d1d6f843381df451a5b9d3302e507270a8b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-a568b755ca2d5f542173.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/54439-syw",
+      "sha256": "aa719d54a60a1611c8b123e7edcfe2e063c973204349f62be31a93dbe3e7986a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-b4f2941e54dce1b246ff.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/44493-sys",
+      "sha256": "4cdc0a0a0ad9a1bc887f33d825eec611a63c13caf383a64771339f4e75414591",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-79fbdb0556aa333cac29.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/46408-syt",
+      "sha256": "d65ee4f3202ef1e0191ae58b50d81344095caf1da9de7e47508f4a321113101b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-04c3b7ceb8721ab2b670.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/34480-syu",
+      "sha256": "ddba9f5420d0b8d1d8bb76b56bd68f434dc0fcb072987665261f84667556c00f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-e5e6905d851d70906aff.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/international/2026/js3569",
+      "sha256": "42c204b6ca994936b7f7a1e751131c8cd6405f5f742b66a667253978bc5de6b6",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-2093980d08a4ceaf87b6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/international/2026/js3255",
+      "sha256": "79d2a266b086549bf871bcc5eb7bb9c380cc37b992a0b08643e009398e55654c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-149562c3d810077fb11d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/international/2026/js3237",
+      "sha256": "1f2802b8a686e56251157afb1e89ce38dd53c305a7286b5f31e763ded33ff72d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-def549b72bb9d3211811.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/international/2026/js3624",
+      "sha256": "1de9c93f7f042233d7fb2696db9a481b5f5b05ca15490dfcbe1d55a6d6588aca",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-3e69c2eab01ce3080bdc.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/international/2026/js3030",
+      "sha256": "87b1145186639063039b630fc5f61638164424083e95be8bfe856ddfe2538ddd",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/polyu/detail-fc8119ffc6851191114d.html",
+      "locator": null
+    }
+  ]
+}

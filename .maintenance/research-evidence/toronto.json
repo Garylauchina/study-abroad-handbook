@@ -1,0 +1,1367 @@
+{
+  "university_id": "toronto",
+  "sources": [
+    {
+      "url": "https://future.utoronto.ca/international-high-school-requirements-country?title=China",
+      "sha256": "e15fc72304cd5503ffa12ee19458bfe05f8f418cd3e61e0df71556836a401c22",
+      "raw_file": "scratch/full-catalog/root/toronto-china-specific.html",
+      "locator": null
+    },
+    {
+      "url": "https://future.utoronto.ca/english-language-requirements",
+      "sha256": "4964a9340ec0768907f0976d5085bfd58996a27801c967155016b94cc9ede5e3",
+      "raw_file": "scratch/full-catalog/root/toronto-language.html",
+      "locator": null
+    },
+    {
+      "url": "https://future.utoronto.ca/deadlines",
+      "sha256": "f5d07be937da24038f5418829e819457957ab2e68020d66fd5d6285a534ffabb",
+      "raw_file": "scratch/full-catalog/root/toronto-dates.html",
+      "locator": null
+    },
+    {
+      "url": "https://future.utoronto.ca/applications",
+      "sha256": "df49d77ea11a7dd006cfd2e89cfba2b1284b976be25d25d8231f4a0a280e04ec",
+      "raw_file": "scratch/full-catalog/toronto-enrichment/raw/application-types.html",
+      "locator": null
+    },
+    {
+      "url": "https://future.utoronto.ca/media/1081",
+      "sha256": "e81748f810dbf1e1a24729d8e08c175540248ca5f470a9c24e9d81d93b7dba6c",
+      "raw_file": "scratch/full-catalog/root/toronto-international-bulletin-link.html",
+      "locator": null
+    },
+    {
+      "url": "https://future.utoronto.ca/scholarships-international-students",
+      "sha256": "4275a78da7e9048c5ed95f4e03fab8367bd3a02ede9d5cf8401905236a786a0f",
+      "raw_file": "scratch/full-catalog/toronto-enrichment/raw/scholarships.html",
+      "locator": null
+    },
+    {
+      "url": "https://future.utoronto.ca/pearson-scholarships",
+      "sha256": "6ac2027204ba335d05d530a5edafa35338a9c91598279099287e17b696bfda87",
+      "raw_file": "scratch/full-catalog/toronto-enrichment/raw/pearson.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/aacc/sites/utsc.utoronto.ca.aacc/files/docs/Graduate%20Outcome%20Survey%202025.pdf",
+      "sha256": "fcf9c0d2bc59022554cf2501427b0f6f0303cfac7368161e108f14a6b020331d",
+      "raw_file": "scratch/full-catalog/root/toronto-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Rotman-Commerce",
+      "sha256": "2d96d3a3b00cd6e9e9fec26063a4d72018448f42738c3decc33d59ae638018d3",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-000.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Commerce",
+      "sha256": "d85a87ba62d2e0e86a201d8c5a7288dbb72ee6fd43b3726b56f2b6d5171bad52",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-001.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Actuarial-Science",
+      "sha256": "462c8b6f0a94a8c023266f90ab069cde637f2f80a586780f25d625ba67591d61",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-002.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/African-Studies",
+      "sha256": "1831cd05ba3089e0a577f1f62dc7626a249c545e8e1624769839342784ab6b6f",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-003.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/American-Studies",
+      "sha256": "ec0c3f1f4699129b051a8c387a2312870f1a54286c2afd0350bfbf4594dc935c",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-004.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Cell-and-Systems-Biology",
+      "sha256": "453a35be694c76bb5233bd36474c3e6f3682fed926d31247bd61fbb47d20a220",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-005.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Anthropology",
+      "sha256": "3956cfe6c0c017fc44146b4d1d1be5c97b8e18d5d7640615f4a5ce016ae21d3b",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-006.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Anthropology",
+      "sha256": "c69e509e443f81134154e22e733b651e04b50b172aa70b8cc065abaff3741d12",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-007.html",
+      "locator": null
+    },
+    {
+      "url": "https://utsc.utoronto.ca/admissions/programs/anthropology-evolutionary",
+      "sha256": "69a3aed3b9f898f3336730be63be135a96e365d3e6e4bc3b05461f06b03353d1",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-008.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/anthropology-socio-cultural",
+      "sha256": "e0e9f0d29f1d93299eadc0177b20bcea9d841f34a4617799f8f48ee71d5cb5ce",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-009.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Mathematics",
+      "sha256": "540bd78ddca5877c3ea83543efea8646d59eeeba51a4a8d30b3e80f14589ed9e",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-010.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Statistics,-Applied",
+      "sha256": "1b2ba191e3ba73205c9faab70416c47fca1dedf5196799bbe3a468c1dee461df",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-011.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Archaeology",
+      "sha256": "651cfc46d9693e7fd13034d7ba1581961a8e41c60d40b707cc3da04383c9f974",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-012.html",
+      "locator": null
+    },
+    {
+      "url": "https://daniels.calendar.utoronto.ca/section/Architectural-Studies",
+      "sha256": "30d2b2c93411268d4d18dc82b8170c4148ec400cca643a9ac1e4d485fab88c8f",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-013.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Art",
+      "sha256": "4bf2bd0318ad4ae98e8c8b87463bc9552e1913ef46c7357b63d1a6bb6e85d65e",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-014.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Art-History",
+      "sha256": "464a660f06996b11aa75220442e8ca0f95ca3ec4bbcf805521bc9360dbbe4dda",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-015.html",
+      "locator": null
+    },
+    {
+      "url": "https://utsc.calendar.utoronto.ca/section/Art-History-and-Visual-Culture",
+      "sha256": "6ea06cab0755fa30f634ceb2f136cf4c3bc5d15616910e97cacba4e9ecc10e6e",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-016.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/arts-and-media-management",
+      "sha256": "0a2623d98c4523ba7dbdb09774d8fcfc17b9bdb0ec8c71289c0196314fae7246",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-017.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/arts-management",
+      "sha256": "d79c17b0130a5022d139d6e11cf3ece63de94f08945372a1b5c8f4c461684d97",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-018.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Astronomy",
+      "sha256": "97c2399c6945a892c8b51c59a2f30735a7fe2e7f5a3b8fd209998f77e419634b",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-019.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Astronomy-and-Astrophysics",
+      "sha256": "be771b9391de5511b7f8fd71c2bb47ac1e8400b368d7e68cbfed6c9dac97561e",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-020.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Biochemistry",
+      "sha256": "f4643ff3319fa029eda8a9ed6670e3d4bc6f7482becdb146ba061a1521bd7cd4",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-021.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/biochemistry",
+      "sha256": "5b5aeaa09db62ec44a142dbc3adc0f413dde62e8e53467dab495e0ef0e6f699d",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-022.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Ecology-and-Evolutionary-Biology",
+      "sha256": "5e7cddff2dbff77fe8be763eeb55ac255755a25cc4891332b3a72809e4d21a06",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-023.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Philosophy",
+      "sha256": "feaa9ea0416ff574632ecd0732716810f443266cbea3a9886311ab62e04690df",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-024.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Chemistry",
+      "sha256": "d97bcae173cc99b8f8cfb6e68fd60618ddd5a4fc6041b416a38da227f767eea1",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-025.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Chemistry",
+      "sha256": "b835e1844b5a4ff9a52acb85031c0fb340089052a7b50f877088722a50d9340b",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-026.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Physics",
+      "sha256": "9859ca800bae6f99b8fe6e77272110b7fb09975af0c977727a32b19305ebac62",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-027.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Biology",
+      "sha256": "96b4b7909e3a5a019f60fce04a329fd222d69ca5fe81879a8c30aafb1671bd89",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-028.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Biology",
+      "sha256": "318d6e1a610fccaa582f955564d48b15a069e471801a4f361d897bb63933b41d",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-029.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/biology",
+      "sha256": "5b2748d077dfa65c730fe63106ba30be9e8acce5eef250ef8fbd9f9dc3243282",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-030.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Pharmacology-and-Toxicology",
+      "sha256": "b341e65ddf01f8d7e8a252c0f77f36a9f893bc986d0ce7b50c5c991fff31e9cc",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-031.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Physics",
+      "sha256": "eca9fea82d042bb8fe14ec81e50fd88447607ae09525e9d0a0f1b540c924b4a7",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-032.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/St.-Michael's-College",
+      "sha256": "adb818dfea3570727403ebf55b25f44a5d0e6b0bf7d337bda1fc81418cb87181",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-033.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Religion",
+      "sha256": "8fd2c23274a381c0588db2fe483f211fc9a57e562cdbcfd6ef225d1e716c9998",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-034.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/University-College",
+      "sha256": "c58f925dec2461feaa8378071ed4041e8e8d54bc0a3c4bd76cf940c0830ab6ca",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-035.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Canadian-Studies",
+      "sha256": "db366f1d27575a2e17e214efa65cba2a0f4c9d069c5be1db3d97824146adc9e9",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-036.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Centre-for-Caribbean-Studies",
+      "sha256": "872e85ad358b92f575d4124cbd8dba202f24f92a6ba8f0dd1756993d7ef66847",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-037.html",
+      "locator": null
+    },
+    {
+      "url": "https://engineering.calendar.utoronto.ca/section/Chemical-Engineering-and-Applied-Chemistry",
+      "sha256": "89c0496fc22b84723921587008204fef0f562f0b0804bcaf0c0bfcccc86f080d",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-038.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/chemistry",
+      "sha256": "cdfbfe3a073b3c58a663bde8857b0984a26e5f4d81073a452e64e8f531614400",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-039.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Cinema-Studies-Institute",
+      "sha256": "c502426df1fafd6f694990b642c2bd514391567340eda39a8bef4164a8c9b5e8",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-040.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Cinema-Studies",
+      "sha256": "bad9bc9cd091e21a4522e55fc2d3fb1130ac65cdb536f4b00e831fac767ed7be",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-041.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/city-studies",
+      "sha256": "e9a161c5216634ff49bc2e52d44676b1cc980f4db6776d5c670b8a3675691652",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-042.html",
+      "locator": null
+    },
+    {
+      "url": "https://engineering.calendar.utoronto.ca/section/Civil-Engineering",
+      "sha256": "b424ab3cb95a1faaee47eee7e882ed62be9761f63d95dc9f872f607e4dd67811",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-043.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Classics",
+      "sha256": "7a7d25b82a4108492a8334df7f9ec65c88de4a1af123060339f2afc03611dde0",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-044.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Classical-Civilization",
+      "sha256": "1326b05d149cda246e87281b447d50e4e63a5981d6449187a585de28845cf2d6",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-045.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Communication,-Culture,-Information-and-Technology",
+      "sha256": "f8035d66b94f71e7a9a537459ec017d97e6239e1240a903228145411116f16cc",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-046.html",
+      "locator": null
+    },
+    {
+      "url": "https://music.calendar.utoronto.ca/section/Bachelor-of-Music",
+      "sha256": "78a9174eb61dac042bc5ed7b323c39052aee0bb909d90ccd41a3a360614415ae",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-047.html",
+      "locator": null
+    },
+    {
+      "url": "https://engineering.calendar.utoronto.ca/section/Electrical-and-Computer-Engineering",
+      "sha256": "14a8af53cee0dbaf9ee475e976e84dcee15e51a5ac4536739cb175897524ab38",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-048.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Computer-Science",
+      "sha256": "ae479f1a1c3ce8a722972a10b9298989e33248eccb47286d0b620987d4a16444",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-049.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Computer-Science",
+      "sha256": "8cb84b9efb57141fc3c67176c1e18da99af0f3682f20cb2876ecd10ae72a07fc",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-050.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/computer-science",
+      "sha256": "6a76cbe585418d867ccdf9f3c4447f6c3594f5c4873c590a64b17823b8732176",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-051.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/conservation-biodiversity",
+      "sha256": "33bbda189a035bcaa08069585d5b4b7d91c589ddd7c616d1d435d01b6056cc00",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-052.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Contemporary-Asian-Studies",
+      "sha256": "b552a7e5ededcce5b4ff457bac4cf3531ad2f22be9ee2b1bda1d89de357d2744",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-053.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/creative-writing",
+      "sha256": "b1e77506e855625f21480c7d960c518f1744637de1e17a78249c24dab59bdb97",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-054.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Criminology-and-Sociolegal-Studies",
+      "sha256": "f7a4b746a534f7a56a56a7b83deee592898ec02d5e1c48c2bbf0146faafbd923",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-055.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Criminology,-Law-and-Society",
+      "sha256": "04be5d02c6ba30a8bbd6bac3d25c315ec30953be77fede8d81feaa2949ff5e0c",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-056.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/New-College",
+      "sha256": "fcddf336c1979711ceebdb0f4126c4021324d346933bbe3857afa872beadce17",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-057.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Data-Science",
+      "sha256": "38f39e99bfaf095f486c2cf75e5448bbb08aac966af967f79ab9879c1ee95512",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-058.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Diaspora-and-Transnational-Studies",
+      "sha256": "03e24cf278beb0bd58f4eca214c81f6a93c22af5e5d7915fd782c59d6bc9c59c",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-059.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Diaspora-and-Transnational-Studies",
+      "sha256": "6de2b3236dcac8df8a358967e21674c090e5837e6861b86a75ebedc2f25b0d30",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-060.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Drama,-Theatre-and-Performance-Studies",
+      "sha256": "1e19e028b585919bcd7380e86b8ab167c49f255a77642246e29e477a4f76a9f6",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-061.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Theatre,-Drama-and-Performance-Studies",
+      "sha256": "0c59cf9a62e1af5a780b852266dddfd19ed7078b7b805a778083cbd6fc156a48",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-062.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Earth-Sciences",
+      "sha256": "750ae032934170c2cd4bd84d601c917736d4edeae78385361869e25dfe091a0e",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-063.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Earth-Science",
+      "sha256": "5b9883e91ccc6dc134aa44c8602a89382c7cce4b0800d52cbbe0ae16c34f5425",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-064.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/East-Asian-Studies",
+      "sha256": "67ba5ebb23637a6a7a705b7f9284ced4181942accc122be015c2cad5b01278fc",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-065.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Economics",
+      "sha256": "9be5139a95b5f9e692869398c4f949dc5b3eae81b9cb7e4d8f7a073257add9de",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-066.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Economics",
+      "sha256": "4a9f1731e241125b4fb6ef8a2d6940c7bbc5088a8929f11fd6d9ef67991875b4",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-067.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/economics-management-studies-hba",
+      "sha256": "95d0845a068b414860b21b614e4cd1fb3fe809a5a2bb4d91b5603ec8145a849f",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-068.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/economics-management-studies-bba",
+      "sha256": "e0963a5254ba642cc893629bba55463fa5472b3cb2878e45f8b3aea891874d2f",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-069.html",
+      "locator": null
+    },
+    {
+      "url": "https://engineering.calendar.utoronto.ca/section/Engineering-Science",
+      "sha256": "25002caf29ac0f223bb28db257f7b5f2518bc20dedcdbaf32ab4e8e012c14480",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-070.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/English",
+      "sha256": "3fb06afb0986f6ad248075ad02a3b7a1ef5d7615cec92ecdef54c6e8fb4771b1",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-071.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/English",
+      "sha256": "c9b83679f6a32bbdbe5664223a8c0ce323fbfe50e9e2eea4be1acf8a2559e47f",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-072.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/english",
+      "sha256": "a1b5c781661c8cacc1d48d8123b624d3f901a22ffc8bdf9aeacfaea5340bfe77",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-073.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment",
+      "sha256": "a9acbef67dca2a600ef6461f919130695c8442151c1b475c6a5e1cbfed1b2320",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-074.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/environmental-chemistry",
+      "sha256": "d0955aca657951fd0eb183276bbbe1fe197f91e3d956dad277a864a230ee7518",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-075.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/environmental-geoscience",
+      "sha256": "a3ceff01a27d9879952e0fef79e9b1a690ef498f9dee48f01422cc503064bb34",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-076.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Environmental-Management",
+      "sha256": "a4c2b9b9d31f67ff47fe737b78a504e5c713766916e1a0c935a55d42d53aa6b5",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-078.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/environmental-physics",
+      "sha256": "bc0cc530ff994b92d68b88016cb8fd49986a5d86441f815a4ce9b87e11cb8cfc",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-079.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Environmental-Science",
+      "sha256": "bcb5ace7c1cc0261b9665101964429c8e6d1bb67ddafc6a1689118cdfc012ac1",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-080.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/environmental-science",
+      "sha256": "454fe89e9ed0afd9ef1689010e106bf0534bf0640c7034a95c309036281f1043",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-081.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/environmental-studies",
+      "sha256": "3c53393d65fe050959f5d9141f6f7a573e289c50400cc5e0723908ac28d00003",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-082.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Trinity-College",
+      "sha256": "9d773013f39641ee168da990c91c25d8209b0651656b3cdfdd0de8f36e374bc2",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-083.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/European-Affairs",
+      "sha256": "9f54131c7c4ac3493bcb0cf1f17c66a255347b4a6dc34c89354da9b4ecd46b50",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-084.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Exceptionality-in-Human-Learning",
+      "sha256": "fcabb5187adbf06d8de9bb95ea3e5f5158a14d481900c7e22e3d79db5aeaa020",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-085.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Forensic-Sciences",
+      "sha256": "2521ac0f66b65d5174ef4f373ca927de2ac264be47e46b76e8572ace8f3a040d",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-086.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Forest-Conservation-and-Forest-Biomaterials-Science",
+      "sha256": "d3bdd247a3dad884ff645cad0c442ae8122b46040a296c1f276751f7097f510c",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-087.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/french",
+      "sha256": "7ac1e9e359d9cd0828fdf835cb893dac5fd5f772c7ca86503fe7fb74262528b7",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-088.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/French",
+      "sha256": "c637f51c5bd8df7a898bee8db11984e8b0a3a688d38c3b6d81681d05c4e1184a",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-089.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/French",
+      "sha256": "d83afbb5ac35c3467f2ff05bb4927384aab6e6e9979a8d4a713b7f7c5e61d2cb",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-090.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Geography",
+      "sha256": "d79df1d4e544c40d79911921e53946c098e554cc721c2af3233d801b8208c3bc",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-091.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/geography-human-geography",
+      "sha256": "e6fa3b4d10205d35b7c82aa9c1bd776df07e832f53a91ad1a9245c0c9cc7738f",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-092.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/geography-physical-human",
+      "sha256": "044696e320ad59454948468956740326a5b16e250017fe22649c6002b02df576",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-093.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/GeoSpatial-Data-Science",
+      "sha256": "e073aea086e5a547169cc568be39bea5517c1b74ea5bf3037efbd1f9cfa9fab4",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-094.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/German",
+      "sha256": "389b0ce040862da80c1dae892a605475f59da2c3cea892eb3c95410aa6fe0aa0",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-095.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/global-asia-studies",
+      "sha256": "ee92e48f61c0684b371c82111bb6ec263b2ef2924a3a730607c0ba622de42256",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-096.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/global-environmental-change",
+      "sha256": "505d0050467dad702e37e6e7cb637368be3198f55425b152f1381baa1997da28",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-097.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/health-policy",
+      "sha256": "88028b206ce597541bf0719e62562d9c7bc95bc43eba71a3a2166aed3cafa2fb",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-098.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/History",
+      "sha256": "5bd4d12dfd5c3ef1d55e911e0ff7469f9fc26eb384adebb898bc10dfb22bd5e2",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-099.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/History",
+      "sha256": "5e28173f541aa59e9a0a8703e15d931594400a241fd918446cb90703b40d9fc4",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-100.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/history",
+      "sha256": "6f386d0c6c6eafe1d8a6c9bd53cb9bda63411f794a4c41ddcf9ace03496864df",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-101.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/History-and-Philosophy-of-Science-and-Technology",
+      "sha256": "c3893605fc8adc318ab7a7bb4eaecbd14f3dad83d9fda9aa418e0bca2113e33d",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-102.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/History-of-Religions",
+      "sha256": "8356b41ac2aabda48b72956c52db67e28ea45f7d97b6b929dbe072cbf2d2e398",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-103.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Human-Biology",
+      "sha256": "30f1e1fe7846fc7a334644d8909a05c36237a0a3d4f96cbc1774996df08aa07e",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-104.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/human-biology",
+      "sha256": "8846b090d27deca1f389bfd20b9e6792c65518c406996baedf28942cc437b6e8",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-105.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Geography-and-Planning",
+      "sha256": "110e4f73b431ea9a70b11f5553e32c1443450b177f87f7676e205fe1fbb1de01",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-106.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Management",
+      "sha256": "6c8fa2a100eb044ced20a58a16be001169bb0fe5f94e22d32e5f9f83a0f60bbe",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-107.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Immunology",
+      "sha256": "82e3248e9a4950f8dec3f0c5a4d3f9cdcda97e6c17328fa302a39f22955ad095",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-108.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Indigenous-Studies",
+      "sha256": "d5f55b993ba34c4037bf5034635d309f6158d8e490007190b8f6aaecc24f316d",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-109.html",
+      "locator": null
+    },
+    {
+      "url": "https://engineering.calendar.utoronto.ca/section/Industrial-Engineering",
+      "sha256": "eceee2fbf91b8ddce0c247b712fa1e416644ea2dd382d1b06e993dbc97c86146",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-110.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Industrial-Relations-and-Human-Resources",
+      "sha256": "f124df97210cc70c9a45e9484b4c685cc322ff4ffbcc843aa0e1317318b8a603",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-111.html",
+      "locator": null
+    },
+    {
+      "url": "https://ischool.utoronto.ca/bachelor-of-information/",
+      "sha256": "c411daa30ceb941b79d04302011bfee0c058a706d403f6516a44e17fff25f0f3",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-112.html",
+      "locator": null
+    },
+    {
+      "url": "https://ischool.utoronto.ca/future-students/apply-to-the-new-four-year-bachelor-of-information/",
+      "sha256": "8ef7b17e59714b3a464c217d27cf66b313057409f3373a531ccc5f054214c4d5",
+      "raw_file": "scratch/full-catalog/root/toronto-bi-admissions.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/integrative-biology",
+      "sha256": "3157465ecd71c7b63bb6c4d2a76de48f2bf944373467bdc39f9f2eeed6df0335",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-113.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/International-Affairs",
+      "sha256": "959452c1b3ec150c665c68073f2bf0b1ef689302e0bab098eaf58dccfb1413c3",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-114.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/international-development-studies-co-op",
+      "sha256": "e8f5f37f2b9521b765980e3621d70cf02bd87361213da783aea64d923c679f40",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-115.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Italian",
+      "sha256": "6a4f24e82590498656aeb8f5c2e79ef1cc164a9d3b8b6a0c3ddcd41da7f8780f",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-116.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Italian",
+      "sha256": "ef3d7e692a6e02b853b0481516291eee287c6a7d2b4a82597def5e62cbc78eaa",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-117.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Centre-for-Jewish-Studies",
+      "sha256": "46ed5e17913e7a15f28721f10ba2544cd53224e8d5ced13daa18b90ef283f806",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-118.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/journalism-joint-centennial",
+      "sha256": "69eb555b7cc7bea2847fad4c38770a2d331be52f9d9e88118324f9e4782f2981",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-119.html",
+      "locator": null
+    },
+    {
+      "url": "https://kpe.utoronto.ca/academics-researchfuture-students/bachelor-kinesiology-bkin",
+      "sha256": "6e18820370ef05cc9d5d9449217533720a5e0e93cb2834c86f157f2ec85a450e",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-120.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/french",
+      "sha256": "b92ece125522492849ac96292b01f832f8632bd29122d7ebdcb408ea167e99ad",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-121.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Latin-American-Studies",
+      "sha256": "d73b319d9130c743ce41871e45e5be932b45a88236b6c2958ade5f678441af03",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-122.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Linguistics",
+      "sha256": "3b8c3ab242ba2c4f3674b35cc0603ff0d4042e9c4705e3f82e5318dc02aaf99c",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-123.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Linguistics",
+      "sha256": "8cae4d0b670f0d0d4ed69ba52fa3167d864b1254161cf45cfe241b62c691c31b",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-124.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/linguistics",
+      "sha256": "133cc6a0fd5164ff924b235fb39318d088236ae7a995134b581a5cba18e2d6d1",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-125.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Victoria-College",
+      "sha256": "6eeeee426c90f966c25e5dccdec56c55685650aa77aafe539544277a4360703b",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-126.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/management",
+      "sha256": "d92f88f0c7346873a5ad5c9f1e1fb7576b85b41a9704f2c811356c4649b8f0d8",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-127.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/management-accounting",
+      "sha256": "7d473295e067ead87bb1f7bd4acad2a0ac9d6783328c9798afd95b56cfa99610",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-128.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/management-finance",
+      "sha256": "0be3845414f14ece25b1ec07942ec9e36372938f38c27becf2d3661da857aba4",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-129.html",
+      "locator": null
+    },
+    {
+      "url": "https://utsc.calendar.utoronto.ca/section/Double-Degree-Programs",
+      "sha256": "7b39a9c348af11257c608822b18e1692967bce38f4737ee6e8401e684121c59a",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-130.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/management-human-resources",
+      "sha256": "1b4fe33cdc2665abc1ded4b8be64a338cb4075f34dbdc2a3feb293d54f1f6c9c",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-131.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/management-information-technology",
+      "sha256": "d26981db09c684961747323a0f665593244da24ec3454f5d88d8e2e9e9b655f0",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-132.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/management-international-business-co-op",
+      "sha256": "054543064bb858bcca7214573ce17ba521c01a896b9cec2e27350cfd15254e18",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-133.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/management-marketing",
+      "sha256": "200abf8f8213a7068e51a1bc2f52d7ad39d0bfb79a4e4818b66fa579d8469e12",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-134.html",
+      "locator": null
+    },
+    {
+      "url": "https://engineering.calendar.utoronto.ca/section/Materials-Science-and-Engineering",
+      "sha256": "de53174e863d59c4902931bc51168d1d4c5eae1a81eab8993edbbd5b112990fd",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-135.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Materials-Science",
+      "sha256": "fbbbd126369f434c79249eb9ef6d2e319d77b6268013fcb9380e5e7686db75c5",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-136.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Mathematical-Sciences",
+      "sha256": "6efbc76ad9f53efa5446bb5c95fee786cbbf236c0d1d95314d473b3de404338b",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-137.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/mathematics",
+      "sha256": "c9e0a5f3e6b8b80a745b614b4fc2ae1d6ef4e0d6129bc784f9625a8767625755",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-138.html",
+      "locator": null
+    },
+    {
+      "url": "https://engineering.calendar.utoronto.ca/section/Mechanical-Engineering",
+      "sha256": "96699e1a5a9d9401fdc08d03eecf7df7a81e6e39a0bcaa9e1daee8a11d84c3d8",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-139.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/media-communication-studies",
+      "sha256": "3234cd378afdbe43bfd0abc6f4120df796103eceb384fa26c0a852f09e4049bb",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-140.html",
+      "locator": null
+    },
+    {
+      "url": "https://radonc.utoronto.ca/bachelor-science-medical-radiation-sciences",
+      "sha256": "5224d8a9a829bfc72ca5b471f854651ce728904069b6dcfe099966c83b5c851a",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-141.html",
+      "locator": null
+    },
+    {
+      "url": "https://radonc.utoronto.ca/application-requirements-deadlines-and-procedures-mrs",
+      "sha256": "9d9aeef36d13c5bdc2a5fa80d5f2981fcb6e1a9477249ed36b1c324fd238f5f6",
+      "raw_file": "scratch/full-catalog/root/toronto-mrs-admissions.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/medicinal-biological-chemistry",
+      "sha256": "f816f0f2a4691fb70bf3309d61ee1e4dcee381db81771e3d6182b06a464b5598",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-142.html",
+      "locator": null
+    },
+    {
+      "url": "https://applymd.utoronto.ca",
+      "sha256": "46c7897a5e1e526707edc7cf093a0daf014c1e4ba37aa9cbf2f062b5493f4cbf",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-143.html",
+      "locator": null
+    },
+    {
+      "url": "https://applymd.utoronto.ca/academic-requirements",
+      "sha256": "6b31425292d92d41844962d8deb9eacb864d18266e6ca66d2b3d0b5e2c4f8f5f",
+      "raw_file": "scratch/full-catalog/root/toronto-md-academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://md.utoronto.ca/mdphd-admissions-0",
+      "sha256": "3fb1f8d09c6c70d1ee39a80e1c72efb8e1dbba0f70e462edba751ac01da21814",
+      "raw_file": "scratch/full-catalog/toronto-enrichment/raw/md-international-current.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/mental-health-studies",
+      "sha256": "203131f4281f4d0be27b4f747c651b8b71b5ac9a671492d17d8baab5a897e134",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-144.html",
+      "locator": null
+    },
+    {
+      "url": "https://engineering.calendar.utoronto.ca/section/Mineral-Engineering",
+      "sha256": "96eefceba19c082d76707987e230f6aeb49d27e7092276ffa5348c1a0fd88f88",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-145.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/molecular-biology-biotechnology",
+      "sha256": "46cc43cabe90e95318bcd0735e4d86714e4113e2111f9f54018dbdd944edc8ac",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-146.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/molecular-biology-immunology-disease",
+      "sha256": "e2b9d6d7618b136d284582b1ca7cb4c9e1b090848dd15197f85400923f0035fe",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-147.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Molecular-Genetics-and-Microbiology",
+      "sha256": "0a534701b9e2d5250c3716ae608be96c10ecc37ff3483d001fcd5c12310d4d48",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-148.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Music",
+      "sha256": "68e1a140512721a5b49349243d4acce6e7b01a92ff77d54f57f00f0a3d8948f7",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-149.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/music",
+      "sha256": "d1b36e3e180c0d8e954401803c870a9e7c1a783bd555764e6556017fb9a659de",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-150.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/music-industry-technology-joint-centennial",
+      "sha256": "6657421850791c1e9f3f4211b0a8c4ac7c957ebbd5be8f14c89e7c6382cd6a2a",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-151.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Near-and-Middle-Eastern-Civilizations",
+      "sha256": "c89ca7ddd7a09061770d655fbad104da64e61f1a49b7bf3881834a9b8f8e679f",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-152.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Psychology",
+      "sha256": "513e9661a83fffb4a75e242d5bef84a5b6906d46512bcb21901155b5aaa15bf8",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-153.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/neuroscience",
+      "sha256": "7f77cd69015e87ffd9ee4a97b310320bdc011b8fcb8c6fe11490dc8520bbcdc1",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-154.html",
+      "locator": null
+    },
+    {
+      "url": "https://bloomberg.nursing.utoronto.ca/learn-with-us/bachelor-of-science-in-nursing/",
+      "sha256": "4177fa5428b16e1014406bcab9bd80274494c7408873cc0f79ac3d52fc246c7b",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-155.html",
+      "locator": null
+    },
+    {
+      "url": "https://bloomberg.nursing.utoronto.ca/how-to-apply-bachelor-of-science-in-nursing-bscn/",
+      "sha256": "2cfc8aadfa8b1bb0ec65c9764b43fac5b32aa83bbd0c408785a903481ec63328",
+      "raw_file": "scratch/full-catalog/toronto-enrichment/raw/nursing-admissions.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Nutritional-Sciences",
+      "sha256": "eb76bee78b7b4a20dd7c882ea7b5e7ad89873c782776a9e228e3aaf8eeb22417",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-156.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/paramedicine-joint-centennial",
+      "sha256": "b49f0416fbe8b28eea733b7ccf009a7ed83ae7e4466d8f274abe4b7d5032ece6",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-157.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Laboratory-Medicine-and-Pathobiology",
+      "sha256": "b63ad4bc62467e5713c31569864c059751275b7dcaec47f8098313c5f0a0a55a",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-158.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Peace,-Conflict-and-Justice",
+      "sha256": "5bd8aa2e979d2bab3e6a0095c26f60e23345b37f758dadc292f6bbfb9b901ce7",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-159.html",
+      "locator": null
+    },
+    {
+      "url": "https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance",
+      "sha256": "9c5585883dd7f0fa616e13c1f83eb29aa1c8190bd45df51245852bba12950fd1",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-160.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Philosophy",
+      "sha256": "cc5dad8e95ec3cc19f2f1ec3d62a33fd69c728c6ee859068b6bc707d7f2501a6",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-161.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/philosophy",
+      "sha256": "9b2ab810dd039391cbe9eebe1bf0a94ea3b8c95d496d94f8f606a5af7847a944",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-162.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/physical-mathematical-sciences",
+      "sha256": "bd7f0bd89d7aa48aa9b5af4c21fe35dd42414f37ab1f46d03236fabec7813651",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-163.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/physical-sciences",
+      "sha256": "33e954193e86ef7f4ae361d6fe69a09bbe6d044f95d3912fed0492341dec1352",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-164.html",
+      "locator": null
+    },
+    {
+      "url": "https://paconsortium.ca/overview-prospective-students",
+      "sha256": "b3a3bc5f24c1f71e475c233654270cbfd02c9e3ff948e276d37cad60bc2abcd0",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-165.html",
+      "locator": null
+    },
+    {
+      "url": "https://paconsortium.ca/admission-requirements",
+      "sha256": "bfd591a434eb76e0d0c78200864391becfb6df4c1ab6030d70656bcea4e2ce7f",
+      "raw_file": "scratch/full-catalog/root/toronto-pa-admissions.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/physics-astrophysics",
+      "sha256": "00297e3e5881cbe18875d270e293a2516fac613aca6ad040f2552c803697caa1",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-166.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Physiology",
+      "sha256": "35ed6a0068ca3e6cd50f38931d4708f530e2d397789c5f3d9b6b9379472db628",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-167.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Planetary-Science",
+      "sha256": "394918329e65f5114d7eca5fbf4d1eab34302d53c143719f79cbf2a170185874",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-168.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/plant-biology",
+      "sha256": "1de459628acd3947c6dc5279d916513ebe777839d3423464394e5d3d92a3399e",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-169.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Political-Science",
+      "sha256": "5a45a74c0a9ec85149853b7468705630a2e608c13cedba09caa0e4d34f16fcc3",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-170.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Political-Science",
+      "sha256": "46bbf0efe43f3ef9de87c513662124d2a5d71b3d991da06828420e2c4f479e82",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-171.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/political-science",
+      "sha256": "d545b657848b55f8ad77468025405888770bf9cef5c6c4125f5b4f7afb00b439",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-172.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/population-health",
+      "sha256": "b52b71c5f2f3f0454fbe9f003e63836db6dffcfca237d2bcf0d45c3b5a159f35",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-173.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Portuguese",
+      "sha256": "7156608bc9699002c8ec56c2521adcabffc13bf49b8837f322fe141594330544",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-174.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/psycholinguistics",
+      "sha256": "a514b2cb963ca53f3d172f5ec9088bfb3cc13f39efecff184e36d65a94178d77",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-175.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Psychology",
+      "sha256": "603f0ce6910e01e06a99b3847aac57795b5561d5e1f246c77a2ee6bd59b25334",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-176.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/psychology",
+      "sha256": "8a4b7d78d2b5ffbb24b68f87457c072c08f3d9b6600f828b968b5945229f454b",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-177.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/public-law",
+      "sha256": "69e3fbad6678fc80878259de27c7aa72e79eec677af59e55f6a22cf0d48b183a",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-178.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Public-Policy",
+      "sha256": "9e4df2ba63bacecd0f0ceaccde64edf78e25d0c7011a4b640f39afdc9adf19c9",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-179.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/public-policy",
+      "sha256": "9349b2fe9b6777afd786796794af156d219746f87647ec632c57c8fa76914d72",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-180.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Sexual-Diversity-Studies",
+      "sha256": "8756e8449bc4653bdee384b246f7a9a80bc8332115d988f4fb1d86704184a3b7",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-181.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Slavic-and-East-European-Languages-and-Cultures",
+      "sha256": "b5ef9b304f438e9e78eb21b3f384d40868bf3d8df9640ec6ebbbcc84e263e0a6",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-182.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Sociology",
+      "sha256": "a9f4e9c674bb3c9133fb2c14421c09998eb0424def1fa4963aeb485a8ca80da5",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-183.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Sociology",
+      "sha256": "ce110fcbe160e51942e30414ef52800febabf509148e86e3858797209d1151a7",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-184.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/sociology",
+      "sha256": "12f46bc38d6e6b53c969496a3b37de513ab85d68410a93deaabceb96dcabf464",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-185.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Spanish",
+      "sha256": "46236836129d7197fd92a49724b8cc81ba331471eaa5dcef09a88327d8adbd66",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-186.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Statistical-Sciences",
+      "sha256": "6941e2e3e77b18a66f4e9c72c2b27581f21ae39e3a2b201a18169d4ccf566ec4",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-187.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/statistics",
+      "sha256": "c49e74ee0d3b4cdcced515f8db22d728134b6330499152a596e126c9d4cee63e",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-188.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/strategic-management",
+      "sha256": "a94f6a0ee10f835fc3b23d7c62fee450e7cea71d1af4bc6f5cfc00b278edaef0",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-189.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/studio-art",
+      "sha256": "565af7f767d2f8757f571852af7785c80d89e1c861bd36d962ca2ae4516de56b",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-190.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/theatre-performance-studies",
+      "sha256": "fee099cf73d9fd2ca132354c2f0bc0a12bffe9d6d2f1278ac464155c2cb01432",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-191.html",
+      "locator": null
+    },
+    {
+      "url": "https://engineering.calendar.utoronto.ca/section/Track-One",
+      "sha256": "068aa89a09a84ca8af6123701182179314a9a66877adfb6da07fc648187ce086",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-192.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Innis-College",
+      "sha256": "f8a0d50de94812c5967d701674d9c29cbad85d3b0eabf55ebdbf8c47d43da169",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-193.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Visual-Culture-and-Communication",
+      "sha256": "7ac30bdea07ca77ed15dae0f5079a3a2d45ecadd82bbb122e8c1ab8763b85408",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-194.html",
+      "locator": null
+    },
+    {
+      "url": "https://daniels.calendar.utoronto.ca/section/Visual-Studies",
+      "sha256": "0ec0e6c9e38cfbb4b44f178fabf927ca2965aac2c8c1c9c4dfc78e204a8dc760",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-195.html",
+      "locator": null
+    },
+    {
+      "url": "https://artsci.calendar.utoronto.ca/section/Women-and-Gender-Studies",
+      "sha256": "73a3528c5ba531a2643b608acfe7914ab2ce5b3af5d90bb90a4c44e3304acb63",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-196.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.utsc.utoronto.ca/admissions/programs/womens-gender-studies",
+      "sha256": "7d7f94bb5a78713a1a3eb0b4cc27eff469bfcf9b6e036c522e78ec8b1581abf4",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-197.html",
+      "locator": null
+    },
+    {
+      "url": "https://utm.calendar.utoronto.ca/section/Women,-Gender-and-Sexuality-Studies",
+      "sha256": "8ae6ae175e1bdcdc263885f6d613b531a800f5f78d3953f285ece9cb5d87642b",
+      "raw_file": "scratch/full-catalog/root/toronto-detail-198.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.dentistry.utoronto.ca/prospective-students/undergraduate/DDS",
+      "sha256": "9ca34cea21d3967406a135e210db5c51b419ed9fb8e70385d4d4df8ef69d52f7",
+      "raw_file": "scratch/full-catalog/root/toronto-dds.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.dentistry.utoronto.ca/prospective-students/undergraduate/what-next/fees-financial-aid",
+      "sha256": "36f5f13f171014fed4bc5e2806be81d47458250eff8a2a51a3ba5f5894be5d0b",
+      "raw_file": "scratch/full-catalog/toronto-enrichment/raw/dds-aid.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.law.utoronto.ca/jd-program/handbook-webversion",
+      "sha256": "22c18fe7319c24d10cf4ef2711b808d6a8ac248e32eee10aa1377017293ad2cb",
+      "raw_file": "scratch/full-catalog/toronto-enrichment/raw/jd-handbook-full.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.law.utoronto.ca/jd-program/first-year-jd-program-applicants",
+      "sha256": "01aed868bb176a4f81881731cc193b73145497b4f340016a9108dab0b825b766",
+      "raw_file": "scratch/full-catalog/toronto-enrichment/raw/jd-first-year.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.law.utoronto.ca/jd-program/how-apply",
+      "sha256": "ca96a51a094c1b7c338a970f6defc3f5c748a97ce735a69b8ac3bf76b67f53ea",
+      "raw_file": "scratch/full-catalog/toronto-enrichment/raw/jd-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.law.utoronto.ca/jd-admissions-policies",
+      "sha256": "6204f99cc598c7bbd296126f901368564e89a9e39e7522185dbd919e890c115b",
+      "raw_file": "scratch/full-catalog/root/toronto-jd-policy.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.law.utoronto.ca/jd-program/tuition-and-fees",
+      "sha256": "ddad96ca63436adbe5c296220f37bb0fa7e7517966633a0fd37117b4f3175ea8",
+      "raw_file": "scratch/full-catalog/toronto-enrichment/raw/jd-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.pharmacy.utoronto.ca/programs/doctor-pharmacy-pharmd",
+      "sha256": "7de99daecca05236a8152fbb9d9b62a85b1832b9e777357bae9858973fe70295",
+      "raw_file": "scratch/full-catalog/root/toronto-pharmd.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.pharmacy.utoronto.ca/programs/doctor-pharmacy-pharmd/frequently-asked-questions",
+      "sha256": "48c8a87ce32cf30ce761a480e8cf4b2fdbf4006c987d4c22a8461b91cb1ea501",
+      "raw_file": "scratch/full-catalog/root/toronto-pharmd-faq.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.pharmacy.utoronto.ca/programs/doctor-pharmacy-pharmd/admissions-overview",
+      "sha256": "770e9c12ba4d3262560f8fdd3fdc3594bd1bae9a8b8f45f2c13c81145f94173e",
+      "raw_file": "scratch/full-catalog/root/toronto-pharmd-admissions.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.pharmacy.utoronto.ca/programs/doctor-pharmacy-pharmd/pharmd-application-process-timelines",
+      "sha256": "e2fc69fbeaf350dcd6861ac1eb2f60aeaf03003a57f8dc394a3d484e892ae375",
+      "raw_file": "scratch/full-catalog/root/toronto-pharmd-dates.html",
+      "locator": null
+    },
+    {
+      "url": "https://pharmacy.calendar.utoronto.ca/section/Doctor-of-Pharmacy-%283~year%29",
+      "sha256": "53a7cfabbfec92a5dc59313f7b9ca437ddbc0514e44f3aa8d01aa13c386a3c5d",
+      "raw_file": "scratch/full-catalog/toronto-enrichment/raw/pharmd-calendar.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.pharmacy.utoronto.ca/current-students/pharmd/pharmd-awards-financial-assistance",
+      "sha256": "ef7dbcd8ed55c92cff74144517cc149e9b8a0290bc4c754101dd31c1d5fd4a77",
+      "raw_file": "scratch/full-catalog/toronto-enrichment/raw/pharmd-awards.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.pharmacy.utoronto.ca/programs/pharmd-pharmacists/pharmd-pharmacists-faq",
+      "sha256": "8f87b4d4d3cf49517e4397628b6f9164301e985863e40ebed13ab4777e057bdd",
+      "raw_file": "scratch/full-catalog/root/toronto-pharmd-pharmacists.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.pharmacy.utoronto.ca/programs/pharmd-pharmacists/pharmd-pharmacists-admission-requirements",
+      "sha256": "7a1b54ea2848d129e0486cf6a08ad89af97abc9c4855a731685921f8b417ca07",
+      "raw_file": "scratch/full-catalog/toronto-enrichment/raw/pharmd-completion-admissions.html",
+      "locator": null
+    }
+  ]
+}

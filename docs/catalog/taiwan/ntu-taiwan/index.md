@@ -23,73 +23,100 @@ hide:
 
 ## 专业与申请资料
 
-62 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+62 个专业条目 · 0 个含详细资料 · 6 个补有专业资料 · 56 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=ntu-taiwan#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-bachelor-program-of-biotechnology-and-food-nutrition-61457671db/">Bachelor Program of Biotechnology and Food Nutrition</a><small>Bachelor&#x27;s degree · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-bachelor-program-of-international-sports-affairs-7ea28bd3ab/">Bachelor Program of International Sports Affairs</a><small>Bachelor&#x27;s degree · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-bachelor-s-degree-program-in-biotechnology-and-pharmaceutical-sci-d9bf12350b/">Bachelor’s Degree Program in Biotechnology and Pharmaceutical Sciences</a><small>Bachelor&#x27;s degree · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-accounting-ce30f444ee/">Department of Accounting</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-agricultural-chemistry-6cb4b0f27c/">Department of Agricultural Chemistry</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-agricultural-economics-0663e8068f/">Department of Agricultural Economics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-agronomy-5879d9454d/">Department of Agronomy</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-animal-science-technology-107ffec45c/">Department of Animal Science &amp; Technology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-anthropology-4a9c384bdc/">Department of Anthropology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-atmospheric-sciences-1eaf7a9a3f/">Department of Atmospheric Sciences</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-bio-industry-communication-development-df471d9472/">Department of Bio-industry Communication &amp; Development</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-biochemical-science-technology-34e1452c12/">Department of Biochemical Science &amp; Technology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-bioenvironmental-systems-engineering-1058e4a363/">Department of Bioenvironmental Systems Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-biomechatronics-engineering-cb1341177d/">Department of Biomechatronics Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-biomedical-engineering-a4bc0de3c4/">Department of Biomedical Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-business-administration-9b48280a84/">Department of Business Administration</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-chemical-engineering-a8b8adee35/">Department of Chemical Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-chemistry-6e53597fc9/">Department of Chemistry</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-chinese-literature-d875646dfa/">Department of Chinese Literature</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-civil-engineering-4339965eca/">Department of Civil Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-clinical-laboratory-sciences-medical-biotechnology-a961887058/">Department of Clinical Laboratory Sciences &amp; Medical Biotechnology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-computer-science-information-engineering-432fb243ea/">Department of Computer Science &amp; Information Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-dentistry-2c02de6705/">Department of Dentistry</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-drama-theatre-12d6b09795/">Department of Drama &amp; Theatre</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-economics-22fc90ca0e/">Department of Economics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-electrical-engineering-a4a04cd4ff/">Department of Electrical Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-engineering-science-ocean-engineering-ce8aa86c93/">Department of Engineering Science &amp; Ocean Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-entomology-21249ced2e/">Department of Entomology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-finance-704371663b/">Department of Finance</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-foreign-languages-literatures-b2cac1af9e/">Department of Foreign Languages &amp; Literatures</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-geography-aa4d1c65df/">Department of Geography</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-geosciences-b25d58d8a5/">Department of Geosciences</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-history-2aabfd54b4/">Department of History</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-horticulture-landscape-architecture-6d37fd4955/">Department of Horticulture &amp; Landscape Architecture</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-information-management-ce8a240af1/">Department of Information Management</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-international-business-97bee43f54/">Department of International Business</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-japanese-language-literature-cb94ce97e5/">Department of Japanese Language &amp; Literature</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-law-a31aed35ca/">Department of Law</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-library-information-science-856c0a40ca/">Department of Library &amp; Information Science</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-life-science-db7143e70a/">Department of Life Science</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-materials-science-engineering-d98cc024b2/">Department of Materials Science &amp; Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-mathematics-a54cb29d71/">Department of Mathematics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-mechanical-engineering-c7bc2d3792/">Department of Mechanical Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-pharmacy-d995829b9f/">Department of Pharmacy</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-philosophy-fc37f4b4e8/">Department of Philosophy</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-physics-9d067c5ab2/">Department of Physics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-plant-pathology-microbiology-b214e91e80/">Department of Plant Pathology &amp; Microbiology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-political-science-96f0a5a41d/">Department of Political Science</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-psychology-73913db9a5/">Department of Psychology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-public-health-c168f67720/">Department of Public Health</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-social-work-37e6a1e54c/">Department of Social Work</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-sociology-a04be295ae/">Department of Sociology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-veterinary-medicine-845e508ecb/">Department of Veterinary Medicine</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-english-taught-intelligent-engineering-and-technology-undergradua-a43b7c628f/">English-Taught Intelligent Engineering and Technology Undergraduate Program</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-global-undergraduate-program-in-semiconductors-c8a0f6a4c3/">Global Undergraduate Program in Semiconductors</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-graduate-institute-of-physical-therapy-18f44eb4fe/">School &amp; Graduate Institute of Physical Therapy</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-forestry-resource-conservation-1d40f9eea2/">School of Forestry &amp; Resource Conservation</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-medicine-76d2452304/">School of Medicine</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-nursing-0a790fe172/">School of Nursing</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-occupation-therapy-cd32d1c7ff/">School of Occupation Therapy</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-second-degree-bachelor-of-science-in-nursing-b3d817908f/">Second Degree Bachelor Of Science In Nursing</a><small>Bachelor&#x27;s degree · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-trans-disciplinary-bachelor-degree-program-f1b4e5f26e/">Trans-disciplinary Bachelor Degree Program</a><small>Bachelor&#x27;s degree · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-bachelor-program-of-biotechnology-and-food-nutrition-61457671db/">Bachelor Program of Biotechnology and Food Nutrition</a><small>Bachelor&#x27;s degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-bachelor-program-of-international-sports-affairs-7ea28bd3ab/">Bachelor Program of International Sports Affairs</a><small>Bachelor&#x27;s degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-bachelor-s-degree-program-in-biotechnology-and-pharmaceutical-sci-d9bf12350b/">Bachelor’s Degree Program in Biotechnology and Pharmaceutical Sciences</a><small>Bachelor&#x27;s degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-accounting-ce30f444ee/">Department of Accounting</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-agricultural-chemistry-6cb4b0f27c/">Department of Agricultural Chemistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-agricultural-economics-0663e8068f/">Department of Agricultural Economics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-agronomy-5879d9454d/">Department of Agronomy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-animal-science-technology-107ffec45c/">Department of Animal Science &amp; Technology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-anthropology-4a9c384bdc/">Department of Anthropology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-atmospheric-sciences-1eaf7a9a3f/">Department of Atmospheric Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-bio-industry-communication-development-df471d9472/">Department of Bio-industry Communication &amp; Development</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-biochemical-science-technology-34e1452c12/">Department of Biochemical Science &amp; Technology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-bioenvironmental-systems-engineering-1058e4a363/">Department of Bioenvironmental Systems Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-biomechatronics-engineering-cb1341177d/">Department of Biomechatronics Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-biomedical-engineering-a4bc0de3c4/">Department of Biomedical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-business-administration-9b48280a84/">Department of Business Administration</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-chemical-engineering-a8b8adee35/">Department of Chemical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-chemistry-6e53597fc9/">Department of Chemistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-chinese-literature-d875646dfa/">Department of Chinese Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-civil-engineering-4339965eca/">Department of Civil Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-clinical-laboratory-sciences-medical-biotechnology-a961887058/">Department of Clinical Laboratory Sciences &amp; Medical Biotechnology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-computer-science-information-engineering-432fb243ea/">Department of Computer Science &amp; Information Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-dentistry-2c02de6705/">Department of Dentistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-drama-theatre-12d6b09795/">Department of Drama &amp; Theatre</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-economics-22fc90ca0e/">Department of Economics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-electrical-engineering-a4a04cd4ff/">Department of Electrical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-engineering-science-ocean-engineering-ce8aa86c93/">Department of Engineering Science &amp; Ocean Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-entomology-21249ced2e/">Department of Entomology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-finance-704371663b/">Department of Finance</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-foreign-languages-literatures-b2cac1af9e/">Department of Foreign Languages &amp; Literatures</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-geography-aa4d1c65df/">Department of Geography</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-geosciences-b25d58d8a5/">Department of Geosciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-history-2aabfd54b4/">Department of History</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-horticulture-landscape-architecture-6d37fd4955/">Department of Horticulture &amp; Landscape Architecture</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-information-management-ce8a240af1/">Department of Information Management</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-international-business-97bee43f54/">Department of International Business</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-japanese-language-literature-cb94ce97e5/">Department of Japanese Language &amp; Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-law-a31aed35ca/">Department of Law</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-library-information-science-856c0a40ca/">Department of Library &amp; Information Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-life-science-db7143e70a/">Department of Life Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-materials-science-engineering-d98cc024b2/">Department of Materials Science &amp; Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-mathematics-a54cb29d71/">Department of Mathematics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-mechanical-engineering-c7bc2d3792/">Department of Mechanical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-pharmacy-d995829b9f/">Department of Pharmacy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-philosophy-fc37f4b4e8/">Department of Philosophy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-physics-9d067c5ab2/">Department of Physics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-plant-pathology-microbiology-b214e91e80/">Department of Plant Pathology &amp; Microbiology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-political-science-96f0a5a41d/">Department of Political Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-psychology-73913db9a5/">Department of Psychology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-public-health-c168f67720/">Department of Public Health</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-social-work-37e6a1e54c/">Department of Social Work</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-sociology-a04be295ae/">Department of Sociology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-veterinary-medicine-845e508ecb/">Department of Veterinary Medicine</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-english-taught-intelligent-engineering-and-technology-undergradua-a43b7c628f/">English-Taught Intelligent Engineering and Technology Undergraduate Program</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-global-undergraduate-program-in-semiconductors-c8a0f6a4c3/">Global Undergraduate Program in Semiconductors</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-graduate-institute-of-physical-therapy-18f44eb4fe/">School &amp; Graduate Institute of Physical Therapy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-forestry-resource-conservation-1d40f9eea2/">School of Forestry &amp; Resource Conservation</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-medicine-76d2452304/">School of Medicine</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-nursing-0a790fe172/">School of Nursing</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-occupation-therapy-cd32d1c7ff/">School of Occupation Therapy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-second-degree-bachelor-of-science-in-nursing-b3d817908f/">Second Degree Bachelor Of Science In Nursing</a><small>Bachelor&#x27;s degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-trans-disciplinary-bachelor-degree-program-f1b4e5f26e/">Trans-disciplinary Bachelor Degree Program</a><small>Bachelor&#x27;s degree · 仅补学校共用资料</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>大陆身份与申请渠道：</strong>台大把国际、侨生、港澳和陆生分开，适用规定、申请通道与学费均不同。页面陆生资格列大陆籍且设籍京、沪、苏、浙、闽、粤、鄂、辽八省市；一律经陆联会申请。国际课程证书本身不改变这种身份分类。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-236d3efaa4c82e">官方依据</a></p>
+
+<p class="catalog-fact"><strong>医学等不能套用国际生规则：</strong>身份页给医学／牙医等部分国际／侨港澳身份额外居留年限，但这些条款不能直接当成大陆普通高中生有可申请通道的证据。每个目录专业是否向当前陆生开放仍须当期本科简章确认。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-236d3efaa4c82e">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>2027大陆高中本科通道缺口：</strong>本轮读取陆联会当前入口只有2026硕博士相关简章与报名链接，未取得可用的2027大陆高中本科招生简章及日期。不能把台大国际生或侨港澳申请期作为陆生可申请期限。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-99fb5240fc8f2d">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>陆生收费待核：</strong>台大明确不同境外身份适用学杂费不同；本轮未取得当前陆生本科按专业、学年列明的有效费用表和奖学金资格，暂不套用一般国际生收费或自动折算为人民币。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-236d3efaa4c82e">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-ASREN-236d3efaa4c82e"><div><a href="https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/">台湾大学境外学位生身份类别 ↗</a><p>陆生身份、8省市、独立通道及收费区别</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-99fb5240fc8f2d"><div><a href="https://rusen.stust.edu.tw/cpx/">大陆地区学生联合招生委员会现行入口 ↗</a><p>本轮读取为2026硕博士招生链接；不证明可报本科</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

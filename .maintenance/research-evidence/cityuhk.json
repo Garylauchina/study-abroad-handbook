@@ -1,0 +1,653 @@
+{
+  "university_id": "cityuhk",
+  "sources": [
+    {
+      "url": "https://www.cityu.edu.hk/admo/mainland/admissions",
+      "sha256": "b8ca45ad3b00273f9ef73f52c53bb6f6cf24dc45bcd036d17e95ca3f85e1a319",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/mainland-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/admissions/mainland-non-gaokao-admission",
+      "sha256": "69b846d5b74acf41d5e4555d26af792106f0d740705e5a5e2e95da755fab76d7",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/nongao-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/mainland/scholarship_admission",
+      "sha256": "56b70d6817e92875d0f6f47a25990d33be5cfa1109f44905a19db74c7d2c97d4",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/fees-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/mainland/aboutcityu_graduation",
+      "sha256": "15f3034b89e4ca1a070653b24b7c12d7462355d9315215e76710eaf239ed9fbe",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/outcomes-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-biomedical-engineering",
+      "sha256": "1f9b38f362ca766a9848ac94274d95623b45963b10120b5529a1b1c54d773988",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-ff00fceacc8628314f04.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/integrative-bioscience-bioengineering-programme-bio3",
+      "sha256": "c25f2dce44700a0b48cb792aa822ba53a56706e87942df48170a07db2e8bf834",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-ec5f60e26affe8b7bc58.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-biomedical-engineering-0",
+      "sha256": "dc5ad8fef565d776ad1038b6349c095076232954d59fbf8ae620ac5dce5ae464",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-0c28506f45495b63ff60.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-biological-sciences-0",
+      "sha256": "5679f96fac89e60abd72db76f46ee69adb42f99ceb8821dd819a5bdac64ab22f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-d38b8f6a1a9f871cd2be.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/department-biomedical-sciences-options-bsc-biological-sciences-bsc-biomedical-sciences",
+      "sha256": "3c894282ab783df38188562c85239e6f6377828a5e278d5d88828ffccf1ef8fa",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-c00e6ac1c88b76d0b1fd.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-biological-sciences",
+      "sha256": "a1555edf3080f176d52fd9946bea0a9482b4bf166c65ad252a6242702da54a60",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-37e94a520c308fe42d18.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-biomedical-sciences",
+      "sha256": "5880f096e49d4967f4f28252d05cfd8afbbdf3cdda588c5dd305203b76e526f7",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-e1f4b19c77fb4a150953.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-computational-finance-and-financial-technology",
+      "sha256": "052a593937b648b876b0e746670a99e45023f239eb639458af49bbf7b058b405",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-dbad27812b1eb3ef8f54.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-global-business",
+      "sha256": "fb0e4f8da7241f59aefb422f17a14c2895df4fb373d3b4786dc65f152988433f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-cc3f6982e82bfbadbf21.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-accountancy",
+      "sha256": "f53834b1fdfe7fa3c786a18e19dac73f161325993aef2cc5841ac7778776c398",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-1e0af816d440f0764515.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-management",
+      "sha256": "65400fc3caf762263429c31e969e3d7cc2c8adc786ddad77240a82f5905a04fe",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-d0151619d7d359c0d0c2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-marketing",
+      "sha256": "5b2a690b739a37ba5400893dcf5d7830749abdbc94a38ed4bc32db4f27787582",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-3d9a89d66b598a8090b4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/economics-and-finance-majors-bba-business-economics-bba-finance",
+      "sha256": "480345743f26b979b0f12637d21ff652de02714eafadbbb63cf5f31596773bf1",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-722542070ae752b6fb76.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-business-economics",
+      "sha256": "322eb9ca27b9fd3fc2b8bfaec1ff6bf52913634477ce7601a5004390b1c14db2",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-a045889a8e79d230f61c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-finance",
+      "sha256": "ac084d21a60c23938af3aace03a9c0bbae6bc5a8337f368941a946e4ce0c8b70",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-62a2d0b0150826c8793a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-accountancy-0",
+      "sha256": "4cc437e9e3fc78aed6ba02fc66cc28f9a11b207a369d89185d79f2486b7161ac",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-8cfef1764c63af296da6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/department-information-systems-options-bba-global-business-systems-management-bba",
+      "sha256": "871de1b719c6049535d5a4e38ec26ee8d929569a521bf5ea390ae145e38d75c8",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-db4a9ba1c33c467a6ef6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-global-business-systems-management",
+      "sha256": "ede2740038a8d15d3436563e180c6847da47168b881d4674df181121b9efb7a2",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-5e9855688e25c09c9d89.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-information-management",
+      "sha256": "b6e975826410ed75fbb900dfd40d56aed3ef477416275cbb20a79faa1d51b5e1",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-4836f28e49c0fb98dafb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-business-decision-analytics",
+      "sha256": "a4d093107aa1799449b9d342ddac5594b9568fac7756d1a538f9d2f09ec76bdb",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-846505bdb038d44b1f80.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-global-operations-management",
+      "sha256": "5edfcc5cec7be048f23ce2d605cfcb49de47e36583e3675182b377bbac1d6a22",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-ce11cf19beec8c030ebf.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-global-operations-management-0",
+      "sha256": "3a8a8fb3a14d794e7f7cf99addec642f6919f113a774780a4ea5d0cb175f5eaa",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-bd2b0d18b301b172d2fc.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-business-economics-0",
+      "sha256": "d2a5654a415015dfdf63430ad1a3a334d1d399288d500abafa01487ba97daef0",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-77d2a1e398181300af31.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-finance-0",
+      "sha256": "1e0c4ff791c76cb05298c82acf55050e24f27c40ef7737fd89f69ffaff569fab",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-73b0b7efaa16aa66a80c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-information-management-0",
+      "sha256": "0ab1a4aee9f6ac9367f0919de0c7c494642e9d1f30ccba698b36ede288db0b72",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-21cc7665c0a61c8cfffd.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-marketing-0",
+      "sha256": "cc12ff797031e77fdcbcab3ff7e2d7d4a2efb4104078c5040b16cfe42498794f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-db4250b9214cd1edafce.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-global-business-systems-management-0",
+      "sha256": "09d448537c5ea84c57ef55732a5080b08233da6b75e977a98729191cb2ef7425",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-b7fd246950268927fdb6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-business-decision-analytics-0",
+      "sha256": "1d8713ec4da18cfd28ed78e27d71f3d1299e7cd304fac7ebd633c879d9bf5c9f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-df7aee81941df50a57b8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bba-management-0",
+      "sha256": "6b7de5ea7a1ddc6fdf23d7b31c44dc4d491149c42baaabdf0acc3f423e84b396",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-ac25e5c7edc609d0b276.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bachelor-science-computer-science-and-bachelor-science-computational-finance-and",
+      "sha256": "32780fae214a0ce041e84f36c1ee13e291c586483a09ccca64286156df1c7cca",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-6f0d37d2e62ff74c15a2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-environment-and-sustainable-business",
+      "sha256": "99383bc0bdfcb461565306e0cf0577ecf9fcfcfa34e1a5a0be0382abf6e4015e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-762f64f2e89689e7a8d3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bachelor-engineering-environmental-science-and-engineering-and-bachelor-business",
+      "sha256": "ed58ab8af24dad4640123976ae35d981a958155684701c6fe3a6f3fcdf352f8a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-d06dcbe8f1cae72692c3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/ACT",
+      "sha256": "26c3121c3f0880e72991a22050e6c8255cec220d52fd4cf966ecdda6ada20211",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-f1367c3d2f1f0c0d97a2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/school-data-science-options-bsc-data-science-bsc-data-and-systems-engineering",
+      "sha256": "553f60113be22310ca65e056d150c38b9cd915a23177474394636cbd4a94114a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-7e0fd2953dcdb5d1877f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-data-science",
+      "sha256": "8e10539f95a8fcbf7367806424d243b9d1f04a41191ee6eb03854998c92a82ea",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-3b3523842285296ad577.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-data-and-systems-engineering",
+      "sha256": "3cea8a1e026900e433cfb4806add52fc26d8b90720771122261050c76fed6221",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-0416e89265121dd8c5a0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-computer-science",
+      "sha256": "6864b4e262388718da6b3561d463c201c266298cb88e1bc76e3beaaa8b1d3841",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-f5be0afa9ddbd148ce68.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-cybersecurity",
+      "sha256": "dacdda5e09f43a2d80fe7f0b881e900d17d4492e62cc22bedd783aa45845d6b6",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-5d33dded36360f5a8698.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-computer-science-0",
+      "sha256": "3c1c19830107e89d45f103643fa46b0ca1909efc8f8271fc352f005a94f84679",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-13407621c0556d0629eb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-cybersecurity-0",
+      "sha256": "ae3f5803a74aa7a0c5806aab399ac648bbe54b49bd080eb8772052ef5dc7c0c9",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-9ed55ce8a8aac25c8a40.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-data-science-0",
+      "sha256": "45c9cf62bb40df1fc55dea8137e0c900b00219481206ee49d15ee02618e4ffee",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-a4bce654d6c366ed14c6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-data-and-systems-engineering-0",
+      "sha256": "4a8371220daf1bf034bc8bd55f13cb8a403f9f70c7e046b182e8c316cc67dde8",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-8c79e84562433b739236.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/department-architecture-and-civil-engineering-options-beng-architectural-engineering",
+      "sha256": "67dffb90afc5f111f21ffc859cb54f87b6ae9a80d34dab4d1e4ce14f17164e34",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-b012e8460f6cebb03f3d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/department-electrical-engineering-options-beng-computer-and-data-engineering-beng",
+      "sha256": "585b93634fde64bd159c2cfa2e8b2e866a94bbc6ca296275398c1640da01afe6",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-6e286f164f6493a2740d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/department-mechanical-engineering-options-beng-aerospace-engineering-beng-mechanical",
+      "sha256": "86f79e01e31e26c5cb35c1dd14c78b5eb20db8b473e2a0502c7c54ec57b3cda6",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-9cfe804642ceb067a1ae.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-materials-science-and-engineering",
+      "sha256": "7a6b3f6cf48193a2efde60afdab159349305d5ca86283a8cfce2c2654d9a79ba",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-2b98bb1d435097f3a60b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-intelligent-manufacturing-engineering",
+      "sha256": "653ba9a966f8b9ef58ba123551a2c2dc4b0dc9fc2107d2d964c28e5c4aaa80f6",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-b78749ca75e5106bc266.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/pathway-research-innovation-and-multinational-engineering-prime",
+      "sha256": "2ed3ffd1d93096ffb5866d6ac21c5bcca5c747a54ffa704829d0771168c1a5ff",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-fd08e43adb7e6770b5e9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-innovation-and-enterprise-engineering",
+      "sha256": "a2eb557a4a0f2d1599826aadeb4bfce9707d0824c64f4b23313e85a00aa7c814",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-8d88487570c5c4419176.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-computer-and-data-engineering",
+      "sha256": "f9bb38bc2825568cc7a6d81ea6f469731c4b52c59b88b3b85c365971b2e0a77c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-d94a5ac76d63b370e308.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-electronic-and-electrical-engineering",
+      "sha256": "7a0de0c2d37a179ab04d63f9bd9907316d5861ffb3bdf85242621a1ca72c0610",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-198283a314226911504b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-information-engineering",
+      "sha256": "37ec9bd2fdbc68d3a2742c7c446378241af12ed223e419aeea2131c9a6193e06",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-8840ec9c9d0fa6bb966b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-materials-science-and-engineering-0",
+      "sha256": "347cd0ac7a7c5a9ed9faa84835fca768517f7ad017d7e7a0256b58bc0e41917b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-81c1bbd39873686d4b18.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-mechanical-engineering",
+      "sha256": "de6f84ff1e7db739fa0d88bac3c43863d107b20271e64a173fb072b3c68d166d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-d71fa2965ab6563746da.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-architectural-engineering",
+      "sha256": "f33d39668d049d3c5ac553a7320148c7250a37aeb446a613c66ff387e79c2c3f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-4cfdad9407b3fa06ae85.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-civil-engineering",
+      "sha256": "0785b61d269343899a33163f80f7729d949730b4b725c8d822641b2bfb33b16c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-1126c9bf27597e84022e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-nuclear-and-risk-engineering",
+      "sha256": "f94e11d74d37c82d0a785757c39e722fd48199289221cbfc4d9eef6d77399b10",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-e1cfaef1bb9393c3c5dc.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-microelectronics-engineering",
+      "sha256": "19c3debecbc2ee494c2476a1fcea53250f9c82db5f1336de16ba6c0ca3359993",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-84e460697c702d798119.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-aerospace-engineering",
+      "sha256": "2d231ae065790516e3f0206c184808aa0effd199c22d57230e2b86ef4564fab7",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-c81b60bc2ac5d264d194.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-intelligent-manufacturing-engineering-0",
+      "sha256": "e73e1b27e01b847c891cb0e6cfff9800b888a2f658a330bb593ffa5f6599f0dd",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-fb34282a6c2974fedb3c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-architecture-and-surveying",
+      "sha256": "6b13623ce0993d682442d1c63737087bc02557b99b269264b68f542eb67529da",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-1916f935acecf1d99519.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsocsc-international-relations-and-global-affairs",
+      "sha256": "2db0a2a641d642845dac4021f106ebde105162e47f3d63a956e8ee1ada1da22e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-089512ad0a0404e3bf14.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/ba-chinese-and-history",
+      "sha256": "df973d2520a28fc6049c078da54543536882904c4ac0226a375af702fbdcc7eb",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-f2fc936c6c0b4b9e59f1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/ba-english",
+      "sha256": "f24acedda08370a237c6c4a0450756dd3e1d8096121a02008cd482639c05dad1",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-779bc4ec2accd0799957.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/department-media-and-communication-options-ba-digital-television-and-broadcasting-ba",
+      "sha256": "22468c6f360927b08854d90fe8fdba8d7ead20a89cdcf99ed096906349d6a122",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-f3be6ae96d357f1d205f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsocsc-public-affairs-and-management",
+      "sha256": "5bc888ba380c5485a4e122e0b0c8204628a9a7d74631f1172e60788f73140c45",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-c5d7f465e5ef2451b99c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/ba-linguistics-and-language-applications",
+      "sha256": "2f10d0722633efeb8ccaf90a8ef00f4fe44d45838ba939d8917b4e81d3d586ea",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-f1e1612e91dc04483716.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsocsc-crime-science",
+      "sha256": "76555dc955045aefcce44657740f9a2bedb81b08d93400e930e5496d8e4fc2b4",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-3bdd92ab6fe1e6e8aa10.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsocsc-psychology",
+      "sha256": "36f81bf71fca2a69d2e44577b1df59c9fc7ad59ce9d18decbb42dc18e588b26a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-1a88290333305a124cb8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsocsc-social-work",
+      "sha256": "93facd3570f991518fa10f1ad523fc7c5059bebc63f7e64616b638fc8b730034",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-8322343bfda9566eba7f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/ba-linguistics-and-language-applications-0",
+      "sha256": "9ffc7c808af7d8fdadf6f0d0cb3bf79e9f71afe4119218f65b8718a4e7506658",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-b507f9196d016498c2f5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/ba-english-0",
+      "sha256": "12cd2061e8b1b5a5c8ed3fb2cca86f0c1e07838fa5a49bf2e88d0d4396390830",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-4f452f825ce7ecd73608.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsocsc-public-affairs-and-management-0",
+      "sha256": "73d0316c71c3dc41ff390a68cb33c76621a3ee0ce986396932b57ef78623239b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-6739c006252f7206c0c9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsocsc-psychology-advance-standing",
+      "sha256": "c892f43fef889b01d2e71ef4d587a3555c4c1db89b83387cc706ebf3e15a7784",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-85ebf353f2a1a5f20570.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsocsc-social-work-advance-standing",
+      "sha256": "382b93a1ac1c58bd6676bdde98fd32dbcaf67bd8b57824cf1b5373d923271384",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-f52cfd1d9cee7d668b75.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsocsc-international-relations-and-global-affairs-0",
+      "sha256": "b279387608f7ed8e1e12d77c7c39070aa79fcb7d30c06c1e476c65b5f1f21a98",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-6010388d350c8ce71f88.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/ba-media-and-communication",
+      "sha256": "53ce7275820bdabf2923b3e255db20553a5ae03cb30a9cdae1e3a5158599a004",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-422e9b24ac7de7280e4f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/ba-digital-television-and-broadcasting",
+      "sha256": "d5fd6ae900e4600c73dd33cca3c81ef004e0aae6e03d8eec79d60d23a16355d3",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-f40a328390738e596cf9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/ba-chinese-and-history-0",
+      "sha256": "140450e9fddad013859415971ea49b682cf6b0dba2a643119f89111973c56f91",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-16d374a61812b33270ae.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsocsc-criminology-and-sociology-advance-standing",
+      "sha256": "2e037f58c99a185fcb151f9237fbc5a8a300e57474d8248f99fd3a00ecd6aa64",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-f98517adf1876a47dc05.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsocsc-crime-science-0",
+      "sha256": "86bff9f1483dba70704216f175429747c855ffe0f5d0b8aeb9616b2a1f4b30de",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-39ea12bb25ebf4ba7733.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsocsc-crime-science-and-bachelor-laws",
+      "sha256": "3320b8e967b491701989efef509886efe6f172c38eadf1e92402c1697750d673",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-cb8bde5bb5f06d36d7cf.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/global-research-enrichment-and-technopreneurship-great",
+      "sha256": "a0cb4d445d8e1fcb3b1e29839bfeb90d76ed9af238b5a6e38467f23d10c64677",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-7452a6d50003f1c65cbf.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-chemistry",
+      "sha256": "ad434c12dad330f5c0c60c853af853fb42c65b2ba7d0eb78ba0804165646f39f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-c23904b63d790c545d61.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-computing-mathematics",
+      "sha256": "119ab4c2e50ecb91971cf23b17cc303a479e6ddd4910f3d0c3dbc1bf0dd46843",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-8324c1bb183d7e23a8d1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-physics",
+      "sha256": "86cb497428b81bffe6170e9aa5dc48a71532fc880f7cf712e0388cccf4502bed",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-be573d15b09323120c76.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-chemistry-0",
+      "sha256": "bd46d1edfc0133f33a32d14f6a7a2e8d1f547652fb58f572990a5b6e2739cc8f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-7c3d60ae6fabbb536e05.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-computing-mathematics-0",
+      "sha256": "3aba1b4af4ae4623a0bd7a7268443722946cf2831a33e79ea02aa75a10ea4a0b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-7f16984c04a6d5dbc05b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-physics-0",
+      "sha256": "efb1fa45a2423b6fb3babe19a53f127007458d347696b76933b951fe27b26c34",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-dd5450b9b27076af170d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bachelor-veterinary-medicine",
+      "sha256": "c75d4925dd3bbff3d642a8f1b6dabb0fa5b76a2d4782ff1bc453685db818a2f2",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-f30ba2eac75e8eb377e7.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/creative-arts-and-technology-excellence-create",
+      "sha256": "0848cfa43e52f82b0986c61ef815138f3917036a36d3bd50f30a85a6623f7265",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-0b1ef366a8bd091daadd.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/school-creative-media-options-ba-creative-media-bsc-creative-media-bas-new-media",
+      "sha256": "b26538f84ee36770d86241d49705df6ebcfa0ef53bd370cc3eeb973d9bf987ce",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-34093116b798adcec6d8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/ba-creative-media",
+      "sha256": "194bc349b81a981314d601ee4c2c19bd5e70b84b2edb380c9fe38aa99cc416b0",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-15a6fb70a3ba2978257f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-creative-media",
+      "sha256": "93c3db96262ef7ae35a020ca1ce6097de77abbe31f6d69886e5ffcd3d8701ec3",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-f95752e965a464756e16.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bas-new-media",
+      "sha256": "815a1865352ff7e2b880b27392569d995a0b3d11c2d144308c2ebb01bb0e8cba",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-3f094236299ac8acafd5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/ba-creative-media-0",
+      "sha256": "b2882746f828343f3a3aabc467c2f2d3256ccdface5fc1f0ea33fb50dfe1f4f5",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-f3edaa63d9962c0bb2fe.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bsc-creative-media-0",
+      "sha256": "036a3d973ab5393887ff23182eee258aa768f8f1aadbae795fc91c0e0126abd3",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-05d6d8a4620c7842ae91.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bas-new-media-0",
+      "sha256": "edeeda68b3f5d9fe9f380e24dd44b4b9d23dbb03717f888ba3576a6c3caa1074",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-45373de4cd812c4df553.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/international-sustainability-programme-innovation-research-entrepreneurship_inspire",
+      "sha256": "53836b46f2c932251a3f9a1c24bf6871a8846d11321932857e6becc0f2b5363f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-5501de53c9195a86bb9b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/school-energy-and-environment-options-beng-energy-science-and-engineering-beng",
+      "sha256": "aab5a50a83376010d6d942fc0ecb6b3a323f0005b1ef668d9995c59e9de8b81f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-79d1cbbf69896f691521.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-energy-science-and-engineering",
+      "sha256": "e5e2d6a5ee4e9f369888b3ce33e674e42f119c1d1994839ee46c048f6dc4f4a2",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-8d98251ca0069b9c2b2f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/beng-environmental-science-and-engineering",
+      "sha256": "4ed61c4402cb9821ec4c39fd04f7a85f8a50453a89bb98530d8c4214468b08cc",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-ed336ad428763ddf2d48.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bachelor-laws",
+      "sha256": "54c45f5b081dccc15f28a33dcfd066542878e236141b20c7a47ad85957d678cd",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-748c57cc4133ba6d8f63.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes/bachelor-laws-and-bachelor-business-administration-accountancy",
+      "sha256": "d561695392e86bba8722335c4af4ad380117202bf4efcbef6e967c76d51c3a98",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cityuhk/detail-dom-1cd50ffddd3fbc95d6dd.html",
+      "locator": null
+    }
+  ]
+}

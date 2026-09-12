@@ -1,0 +1,551 @@
+{
+  "university_id": "cuhk",
+  "sources": [
+    {
+      "url": "https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/regulation/",
+      "sha256": "84ddc8bb17df4b78a282603611c1c0ff68d4f9cb957e322fec281c0149515567",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/policy-8.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/",
+      "sha256": "b7b166c872106dfe815add0504476f036111c6600f4e7a5904f571b1ef3423c3",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/policy-10.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/",
+      "sha256": "159bc1cb6c0185391e85984182de54526ce55e3a9de84dcf235a389b3f3545d0",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/policy-13.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/",
+      "sha256": "618f4d507b9f59ad6824f158f69349275a246df380169410db5776a1e4658590",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/policy-6.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/scholarship/",
+      "sha256": "c2fe3cf0e52974895c34e3bc63adcd952a91df91610063009df0676ceff222e6",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/policy-9.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/anthn/",
+      "sha256": "566c817cd767818aebf4afdff8495e3b5b5059c54224cacb4e53cc90d7931e53",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-087fbfe03c7c3e8be2c4.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "sha256": "27c2d33578d6c242baeadd2562aef9afb96bb2c717bb72e5813b6e2657241945",
+      "raw_file": "scratch/full-catalog/asia/cuhk/raw/directory-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/bmbln/",
+      "sha256": "cb2947f0cfd5dbd8bf41b832ce33c4da9dcb41c8b83ea2be799a49ec51515b77",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-de163fbf75ca26fd97f0.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/chlln/",
+      "sha256": "ae781929f94911fbc8011d7cb8f62ee43c41821340f21726fafcf4e819983ad5",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-15b142472d0e0716a4a0.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/chesb/",
+      "sha256": "81163ad87c5c3ec30edbacd5fee74324a870b47bb9e1232b66bdb02dfde8b56c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-39c36caa477c72d86753.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/engen/",
+      "sha256": "73e527b836323372d8715b94487f87e5f488fd2d65e9e628037000d4aa70613d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-62b484d063528a9d8956.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/faasn/",
+      "sha256": "cdb1ccc2a5dcd2498f4a2513e8b2ae82f49bda7cb1a2993310a536fcd54ae3b1",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-821a25e03c626ffe59e3.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/histn/",
+      "sha256": "4bf13a3bdcede2beafeb527a4b4340a8b5fe96aef8012f44ea2111871629aed3",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-0ea6636bf64547fa969d.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/jaspn/",
+      "sha256": "9e8d13ef5828f3a1ba25f672ef479e1e854f5b186955d4f93eaacaae5aa6a841",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-628cba50179486afc1c0.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/lingn/",
+      "sha256": "39616eebfc1a79c0b50085b2a16a15de750fb286ee5659f4b0bdedc8424f030d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-90a6bead312662f14da3.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/muscn/",
+      "sha256": "23eebc6b8a49ef251d915ca9978dbb052934ebca92106d8a92a76b010f42240c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-339c80655de45384ee62.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/philn/",
+      "sha256": "61d106407612c520e823f211f1114c7c450a9b3a3ae47837afc5522c53c43412",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-86a69f717ec004b30525.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/histn-puh/",
+      "sha256": "bb0b8957139d4196f690aef780a12cabbc34dfaf6af804a12cac092ade3099b3",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-84b42f85cdc97d2ac722.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/puhsn/",
+      "sha256": "5bea898221ecd817197be29dffc224adb5306684668326abb089e7b2d85e6eb8",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-338df48862ab6d78d8e1.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/relsn/",
+      "sha256": "303a9856d3973e99ffce1098f26975875294f7acca571cc13f4625f3d73cab87",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-e0660cbc3e496adc2606.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/theon/",
+      "sha256": "e528500667a084afac9a3ef871ca35faf2f8e9ee90d35ca87e832a0fffb6dc76",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-051d182eeedad0bf9215.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/trann/",
+      "sha256": "826ef890810c0ea24bc673537de063d97a829d8ada112de9847ab277ff4fa8ff",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-22167453218595fae5f3.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/bajdn/",
+      "sha256": "c1ab737d546163ed664f788a8075f898af7f13d9ff0bb342437e37c234750a41",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-dbb0954f14836adae530.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/behmn/",
+      "sha256": "e55d56622a33200189e241af5b8e7f2f6eb4b7e8988b01f837948f5a0153f41c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-6b370cabcb05e04f0280.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/ibbac-gbs/",
+      "sha256": "444bdb3a075faa3b36fabb71a9533e22b1415b319213aea5010784dadca2a1be",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-5d8108e667ccfc1007ac.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/glefn/",
+      "sha256": "45f64700c1d743d190afdc277746746d6c0a61fcf410b414ed7196a4da4bef52",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-939a15e4e97366f8686a.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/htmgb/",
+      "sha256": "038a125001e4a5845fedbfb9de327c98b4d0963f1652cf14461c039bb04a3c93",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-3143e610e14825f0a5a8.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/ifaab/",
+      "sha256": "82e652e3f57af8783086ac9f12244462220c1d8bce902c051257b43ce7f43d21",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-68e2a2dcbfbed7180996.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/ibbac/",
+      "sha256": "e9036a2fbb3a55281d6f23266497d24d808187768aa34378577232fac5f28699",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-a8d1f9c90a92d15ea94a.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/indan/",
+      "sha256": "2f97f4d85574ab45d2cc6613452497cbff509a0cde59a0cfc5dc5813aabed59d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-87807b32ca1bb6ec8fe4.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/paccn/",
+      "sha256": "7bafd2f15a40ecec649bff661c4472fbaff9fb7b03ac06251fe0682f1bc054cb",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-fb8759b1281e1a85aca5.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/qfinn/",
+      "sha256": "f9e1f305675d4c99658cff698e58cbad669c89a3e769b274ae4e8260c4a6dd79",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-c5f3e5df805b62cc557a.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/qfrmn/",
+      "sha256": "411ad0005b08f37248ddfb6fa7fbd0bb59ee8d42f69a0750d6b17f113ade6d2b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-344cd9bc72b46c974f93.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/cledn/",
+      "sha256": "ef20ed645591c5d9a5ffc4dd5667a4e8a12a80b7d6b2d3d5eaab9a121ad6af82",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-2c976212583166d1b01c.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/becen/",
+      "sha256": "b3737a5cf565f8213336cbb2fa7767854ae54d3d4ebf90f262a00cafb267f072",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-657ed1407944f8c7ad11.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/chedn/",
+      "sha256": "08740ab7d376a3441b62fe8d3e008598f4d57f3db6d12b38945de1d04d00b898",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-0edbe9421a566cbc15c8.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/eledn/",
+      "sha256": "6e08975a8d85c6413270254c3874f124ed8eec552d39b8d2d3ee09f2c54b33b9",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-db5fcdf38e3d139f0e98.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/eshen/",
+      "sha256": "4a25fea7b87f2418d7afb5d37502d42f86ad0b867fb5e7bee5812be023c1224b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-d6886452ddef46ee5fa4.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/hmshn/",
+      "sha256": "41708bfa94133af298c60f87d67ff15da652101202eddbd72d813748ee7e8f50",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-2997a749325daa30f2bd.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/ldten/",
+      "sha256": "85c5a0b4a6d220a0aa392184913ecd57b1622ec49988dcda4a616c37b6ff7342",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-e5417956cfc206df29ca.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/bmedn/",
+      "sha256": "a2b0b80d19aabf10824d26ed3251b3310c44dc8b799b3a5fb0623e347421af7f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-d60a4d69fbc435107cd2.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/peshn/",
+      "sha256": "0f7a2f7954562b76cec77a6829857b784f1ee0e018772e362b132536a4dcd89b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-3c0fc0523cc009817489.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/asein/",
+      "sha256": "43c4d1172306d951f5bd0fe6d7ea6ce90b32def4bcb581b39a07bb8f01d7f883",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-9bf81fb356813f5e6910.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/aistn/",
+      "sha256": "42de695a5a7a4bc9c62b8b86186002ceac84c97715a981a294ee39eb0219155d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-03b1655e7a72595d4b4b.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/bmegn/",
+      "sha256": "e3a0a7f37801587e7294c4c3fbb1bdf35643b0471a6a9de31b401664b527325a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-ae72a12ca378258f4e4c.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/cdasn/",
+      "sha256": "2788f0e6a735891697622f4ea8189c3fc22aec6a559fce79bbc14ec5c9e5065d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-5eb09fc19cb9f30eda85.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/cengn/",
+      "sha256": "9d22333b4f6a9b48ccfce56f5b64daf2a0b36a4a9b3f6a68dc77372d983b7289",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-f664632975960f3adfce.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/bcsen/",
+      "sha256": "fc3a19bfd98e2ca4b4a576747149538997e57d47dd57ea6edc97aef5d3b238c5",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-cd110478b38c23989a97.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/cscin/",
+      "sha256": "2753887483555d15c5bd4acd483aa7c7463374c314deb88dff9b136f96bb79d9",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-e8629425e35b7dd7fada.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/elegn/",
+      "sha256": "595f0d96f6615ff9dbab143478bf55e1110e2c0bf00786a92f3b138b356c208d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-bd2a4701952751aa7fdf.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/eeenn/",
+      "sha256": "49a63791e8caa06d81d11cda5ef5f4fff7897198ef5f45ae04eef9e199d26b0e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-5ad2d893711cf96e71d9.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/ftecn/",
+      "sha256": "c0956814ff71cc5c33506e7c853a60825fab3f670ac36520c73ea442c2f469fa",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-8e9ae35dc9689dfd589b.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/iergn/",
+      "sha256": "6907073948b07364f0cec7f0772be36a89b769014ed4988dc82c43b03bd6fe02",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-f172cd0ba28ba62ed900.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/masen/",
+      "sha256": "9e4aed8d1bdd97df6f1658f1b04f343d97b133c484a44b9b1e8ced9de26bf3a1",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-fd9aa4c9664a1f6b5396.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/miegn/",
+      "sha256": "7ce093ba9484e224d9f41388ca69b9cf05cfdc6d6d4de2bd2d3caa3c7d0a560e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-7b803e4659af6c9ded24.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/maegn/",
+      "sha256": "60480e8ec4e766ce81a52926fbf842449395928617a234e11985c70bff012f7f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-a3c395364c9d991c4699.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/seemn/",
+      "sha256": "aa8ce96d5771a99797c0e178c45537632bcbddfe72dd750c924ce7601c773d9a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-556e6360e87f0c94abe4.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/lawsn/",
+      "sha256": "8e65285874c2881b7e4f72d411aa09581674ef63c830cc48940c7f81f7b09b75",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-b5e30bfb75bdc2ee480d.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/list/",
+      "sha256": "e54396e26dfca341f451dc79a95a0cd06af6d83ebb9c8938e0ceeb41823e5847",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/policy-7.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/dipln/",
+      "sha256": "2af3ac1ebef0b7861cf7c139ec8844df613924ca10378dac024c42061104acaa",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-15268c95a69da1e2c1ce.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/medun-gps/",
+      "sha256": "6cf5067707cc7ab56ecbae84c0b7e8a0d8bc1e27a40302e888054c4fc008f807",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-16910a79841f130bf02c.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/medun/",
+      "sha256": "c3bd73b511b026fca42b1f9e6113b83612013431cf3fb10f35d47893a304b911",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-e390bfe3c0651c7ecc63.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/bmscn/",
+      "sha256": "31f951d3cbf70d212550992ead7f24d8e8d5e4cf3d936137a69e60e4d5e37715",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-12eb65fc472f085ec4d1.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/bcmen/",
+      "sha256": "fe912bae9d84d2322ca3d3448528da9bda5946b6a03066181717aa0100e28275",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-21259b5c65796af06361.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/chprn/",
+      "sha256": "0db9e3e109f14fb79b379ed8e4635a34dfd90a263fd963c0ad5c701548b40c8b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-dfede6bf32eb86edb3f0.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/bscgb/",
+      "sha256": "6ca0d7848cb80f51b1b41f23771c2e850fe6edbbf0a855f29218e34b7f7aa4f0",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-328ff5df5a4f6fa2e07c.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/nursn/",
+      "sha256": "494df73092af4719c1a7e7e8b2f9bd3babce64b67bf0b36097b71fdd7490478c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-aad1e1b5d033182c4c0f.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/pharn/",
+      "sha256": "3a6c12383c0e639e65765c683b13959c285aea010aec9a637ac3cb8a6d7a2aa8",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-d92314170b7dad26760a.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/phpcn/",
+      "sha256": "5a0aa56db1f63f217c1cb476bd2e5ca5e1769eb72cc66d9c7c2dc73f7b8a4ed5",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-532f6a5000d08aa27f3f.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/eescn/",
+      "sha256": "6450578a66a02b1bf0bfd0193e11410dc80ec041abda9301a4d9b40316b20a3e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-992029734f4ab4df1c9e.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/mathn/",
+      "sha256": "26cc98c57d98ca29790d67713a2b6354b09513544af5ce208b338be859e1a746",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-5da9314c3e72fdb8754e.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/physn%e2%80%90erp/",
+      "sha256": "b321a4137abe6ac5d4257b73061cc17f937177263c079c2a88b04d5c027af979",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-4828a5a421d4d7a245c5.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/nscin/",
+      "sha256": "f9fe0c9bff8c6f4e68e21a2a5e9fbbcde7037a06c9d6634e8dc21d4c6ebfcc7f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-e250ab1ddf82c55b89e2.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/rmscn/",
+      "sha256": "08d95209c93246ac766beb0b4703b17e6aca319d2c538165489ec5dd920c7b63",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-1a71ddb2d2ccf5a1fa67.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/bscin/",
+      "sha256": "d3b71c5e007eee5830ed93df1d4fe31fcd7dc8eea3e56d8f91898ed4533f6765",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-10b5acc3cc56caacf804.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/archn/",
+      "sha256": "e92768ee041ae745d927096c0bc79f0a50f63bd46006f0aab9a72fdbc5b7da0b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-791a5d97271c9930480b.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/dspsn/",
+      "sha256": "5264e7e9844ea737beb4de66a32af1017bdaea17dbc0b92086ecf563e47b8a89",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-a47d983aa5bfb27562bc.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/econn/",
+      "sha256": "1ffc1a23220037e71b27256f9abc48af3f094a9ffe076b671b7c9dfe488fa296",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-85f75702c5d5b3f7c131.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/ecotu/",
+      "sha256": "b4695b089ca08ad23f7b859fa07e40c93c271651bd910ae5a0afabe859552067",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-7d5d553c0fedcf4306ac.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/gdrsn/",
+      "sha256": "f699ebacdefee426680b5213e9102aa556c0941414c2de0f85614f03f9c230b3",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-5d94bd800a1a1b3a6c1c.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/grmdn/",
+      "sha256": "423ac825bb284ee25f563e2785806964242b513b8546f55bda28baead7d45e72",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-ee316659e593c30fe44d.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/gcomn/",
+      "sha256": "3f9502ca5b6eb5453f8fbf59c7e980e185529b0cbe1d16a24a37edddb583697e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-285ba79b2efd1e4b1fba.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/glsdn/",
+      "sha256": "3de7dba203e71a213cc41492c487300e97ac89f50871d365d16b5f6259532e73",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-300d324ac09bac3be6f0.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/gpadn/",
+      "sha256": "5753cf540a17cabec5737c2fe3310d7d379696db7479b437004c78c1b484cbaa",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-eab066bb071973aaeea6.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/commn/",
+      "sha256": "a51de5bbaaf100abfbd63becafc9706438ef1e98ee9b9420a321d9084cd7e159",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-348f919d5f60ef27c5a7.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/psycn/",
+      "sha256": "4da467afa8d64d44905d2ad1541ea8a22a20f13c7b86f770aca1ee3d65194e24",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-a07dbbca11e69cea2e28.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/bsscn/",
+      "sha256": "fa47a19e8a75628e2e129338502f256324c678929877bb04325a4b7956cdd069",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-94e4b0e488c5baf78d1f.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/sowkn/",
+      "sha256": "3536ca55e0815e48014ccf669bd4a475c0a9a8b420f53b8e6f140dfc223ee953",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-da2c21d56fc5b8ad7d45.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/socin-ssd/",
+      "sha256": "96f2c4fdfd147c3515d089f4e97b41c531ed370f81c146d1bd40ac70146d41b4",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-2a6c653c948404d6d221.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/socin/",
+      "sha256": "679057811fdfacbcef6006ce1e9875861cae0dbccf67b5172d5a7ad37e00056b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-3523aa41113e55f6e322.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.cuhk.edu.hk/programme/urspn/",
+      "sha256": "918afa85b24cd25f99f74b8a166a1ee4028d47e8892ee8b2d8a3f7b20f3cf7c1",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-059c489116bb34e70360.html",
+      "locator": null
+    }
+  ]
+}

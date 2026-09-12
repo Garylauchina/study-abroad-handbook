@@ -14,10 +14,298 @@
       "locator": "2027 entry application deadlines"
     },
     {
-      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/undergraduate-course-listing-a-z",
-      "sha256": "e7febaa16161a495407d08a64e299c5b9c4d606e1b5d31e66cb74ec371bb402c",
-      "raw_file": "scratch/full-catalog/uk/oxford/raw/directory-dom.html",
-      "locator": "Theology and Religion"
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/applying/for-international-students/english-language-requirements-visas",
+      "sha256": "07d7483e9c28deaccff4a320c0f7aac667152e182b80c58396d7c5ab6889bc8d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/english.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/archaeology-and-anthropology",
+      "sha256": "d6740622e25bd118c49962807166fe095b46a271911450538436f599cbeec6a3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-000.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies",
+      "sha256": "2756b6e294b39bb1a6a8e4f90f4af8f69da1b26861a7491ac820f5eff3d1ef04",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-001.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/biochemistry-molecular-and-cellular",
+      "sha256": "d66462b810bdaff46630db22540c244e45a2fa521b9f151b7dc688a29daa7f23",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-002.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/biology",
+      "sha256": "c5f5b692d108a75e49ead7eb8335d57bb5b25b32bec65400ad995e9562a09775",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-003.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/biomedical-sciences",
+      "sha256": "addd3794607aa613c42d88ba8d3c87f18ccf11a5b0e0f54b250f506350a481c7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-004.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/chemistry",
+      "sha256": "55397213df9e7d642c2cc586d19ffaf373a515cc0d30a95c336c5ddef7bfbb56",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-005.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classical-archaeology-and-ancient-history",
+      "sha256": "3387c188222978af32d45bd86fe87f5c7285a1afcb8b4753f6d4a0e683ce9582",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-006.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics",
+      "sha256": "c68ee16f8dde33f8a451032acdbe133f8596adbff22f2349d6e4c0125d166b3c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-007.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-asian-and-middle-eastern-studies",
+      "sha256": "8aeced64fc4a5718d98a461c62a2a71053c7fe465ac37d7b757e8f7bfb7a55c8",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-008.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-english",
+      "sha256": "b903d5c05c69f650620a5816db2d64cccb3c79d9d8ecca0caa3100a6c9ef718a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-009.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-modern-languages",
+      "sha256": "0846509a316eb847eb5360b1c7c75b2ab7c30658216d35ec400e2ea2e1d0f98c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-010.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/computer-science",
+      "sha256": "813d1b0de05b1634a7eb3eb3fb2831cb9f9e41aaa31f3f9dd6464456226cfe67",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-011.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/computer-science-and-philosophy",
+      "sha256": "9c5e855f34df5c1559069b8f392d0161dd819032949afe6ebe07b591db9dda47",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-012.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/earth-sciences-geology",
+      "sha256": "6bc956745b2144a6b9c8f297c7887f62eb943232e12c8c61433165d393ce6cf1",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-013.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/economics-and-management",
+      "sha256": "a04db8f2cdccb39f5a10a2017a2b29f6dbb75bf2137b3ce3e5b3510d9aa88116",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-014.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/engineering-science",
+      "sha256": "811b726d3e8c0f9044162bd9959c16bffef46197fabd265ce01ed53c0090a242",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-015.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/english-language-and-literature",
+      "sha256": "daa3b241e52bf53864bdf7f85d8c6df6cfd7d612749477dbd6949955a6bf57b8",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-016.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/english-and-modern-languages",
+      "sha256": "1729cceb9ef6a03968f01f63509eda151c3caf9896d262dcde2c1f4971391359",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-017.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/european-and-middle-eastern-languages",
+      "sha256": "47a587a00b8dcb15e18b5420a7a5d3a7d931791e4b2e03209acda06b1f5768ef",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-018.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/fine-art",
+      "sha256": "3bb69af6919bd83f1472138aed446bbc553e5705d9fbca2088e54804ae35e58c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-019.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/geography",
+      "sha256": "1e715e719e217ba7b7a343b1b0782982301b722651d9f3f8b525d5158fd7ecaa",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-024.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history",
+      "sha256": "32ad8304be91c367c0bf0901eed2e8a9016bdf4d2496de97e4af4dbfe3157043",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-025.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-ancient-and-modern",
+      "sha256": "bc3fc76f009d9eb3df05ac3e921804e8d2abfffccbd94b37d00c778c83811c80",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-026.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-economics",
+      "sha256": "2837cdc813aaf12d783237f09374d68454d64553118eef048573b668cc02a135",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-english",
+      "sha256": "d3c7ea05ea1cd82353fc96db4020ca24e54600df646926b9cf7ee46f11276cc3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-028.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-modern-languages",
+      "sha256": "91730be77eeb2f6fb75075bf5fb156ddaba6cc8456e8c87a34a60d6c501e6ff5",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-029.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-politics",
+      "sha256": "835cd0d7dcef8d9910bb84b59ed32eb3cd5e7e36588b0f32d378cb8ca5637ac9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-030.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-of-art",
+      "sha256": "7ea582c937fc20beb49fbfcf361f3a89de91e874b9189b6ba02222abf7407754",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-031.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/human-sciences",
+      "sha256": "4256870b24e4f7075a9435237a251ed97dd3d6d5e345e52ffb6370106a289b49",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-032.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/law-jurisprudence",
+      "sha256": "8043da3986509ace144e0634644f1cafb86e66c7a629f2ecd827ddd278af9605",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-033.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/materials-science",
+      "sha256": "d152d8d247cf7d45e55f8a2225b66c6515a4f00db66f60f5d8a47960f850a66b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-034.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics",
+      "sha256": "6f63c1729da606bd385004c5086a0bacb24a758ad55c93162d37671ae7cb8f02",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-035.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics-and-computer-science",
+      "sha256": "055ac899a222d9a832938e2e27f02a17f03e502bdeed5011c8e4c0c12a22267b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-036.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics-and-philosophy",
+      "sha256": "3688e39d31f9cc097bce241ada3e3dc8f8c716467679752725eb48a5540712a7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-037.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/medicine",
+      "sha256": "94c32ecb3c8dca32867606ba3837754e508b5bb17b2cdbaf3160f2464e075776",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-038.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/medicine-graduate-entry",
+      "sha256": "46348e12290e58ad5a035afdaa2e931063edd4955e788215d5f5eb6b9be0e607",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-039.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/modern-languages",
+      "sha256": "165e1e5aa8c980cab3fcd8f8a901bdb8358f685b9fcb3255f6dca2781140a6b3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-040.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/modern-languages-and-linguistics",
+      "sha256": "ed936c6e95ef41eaa800b25848a4a3626917a8b38237d937fc3361c7c0f9c761",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-041.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/music",
+      "sha256": "56554e257bb76d4bbbb5c6649664e81107a756807966c06ffe3614d119fb1e18",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-042.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/philosophy-and-modern-languages",
+      "sha256": "5c66fd45c480ecf3b83b74bceb3a7da61537610180b8f973be0754091bfaef18",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-043.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/philosophy-politics-and-economics",
+      "sha256": "07fe88dc839b0d1957adca20be96d204fb9df5e293bf785f90b26bb78a297596",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-044.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/philosophy-and-theology",
+      "sha256": "21ce961aef9004b4cb153aa5ac5421c8327b84025b443d338076aa9cbd83d0af",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-045.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/physics",
+      "sha256": "d8d6d118a7584bdb32a9f5dc87de78f47ae83af091b18dc16116b5092252f190",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-046.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/physics-and-philosophy",
+      "sha256": "aface881b31781d3e14b468b68b6b0b9655332bc4f0507aa12a2707649b1914e",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-047.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-experimental",
+      "sha256": "7152b4610201ecb6cfc810844285aed8b353c4ae38d7d33f087ad06866f6dbb3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-048.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics",
+      "sha256": "6496106e62361d7eb0ca28a4196c58bd9de54ed0a9625b0cde5ab99f46cbb980",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-049.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/religion-and-asian-and-middle-eastern-studies",
+      "sha256": "4bf2f37d3f9907a137cc60e937646962ce6cc33d1f52eef3187e89452898fa36",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-050.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/theology-and-religion",
+      "sha256": "097af7def798c5a9e76964f809ebef273cc0c103ab59b66b8d518b209a6294e8",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-051.html",
+      "locator": null
     }
   ]
 }

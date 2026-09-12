@@ -1,0 +1,59 @@
+{
+  "university_id": "ntu-taiwan",
+  "sources": [
+    {
+      "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+      "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/identity.html",
+      "locator": "陸生／學生身分別"
+    },
+    {
+      "url": "https://rusen.stust.edu.tw/cpx/",
+      "sha256": "5ba4f9a137a68c081ceb8090a664f5de9d840b7d8198767b74bb49f9704ca9ea",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/rusen.html",
+      "locator": "26線上簡章"
+    },
+    {
+      "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+      "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+      "raw_file": "scratch/full-catalog/asia/ntu-taiwan/raw/directory.html",
+      "locator": "Bachelor Program of International Sports Affairs"
+    },
+    {
+      "url": "https://www.forex.ntu.edu.tw/undergraduate-curriculum/?lang=en",
+      "sha256": "120d263f00408d17df97a23d2465d164bafb86628cf97374e444458ca27819ce",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/curriculum-7c5a86646438e03cd9.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://econ.ntu.edu.tw/en/archives/9141",
+      "sha256": "0da13eec17812ffae45941cfcc6c551afc88cc41d06cd6354b3d72ed7829fa77",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/curriculum-4072bfc4bf1762b02c.html",
+      "locator": "Undergraduate / Core Required Courses"
+    },
+    {
+      "url": "https://management.ntu.edu.tw/en/Acc/curriculum/undergraduate",
+      "sha256": "cde1e8c4c46b5bf1070f3465348445d9104e20d94150e0eaaf914f333b380f1a",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/curriculum-c130249e78a476b08b.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://management.ntu.edu.tw/en/IB/curriculum/undergraduate",
+      "sha256": "06dc5001afac4a9aec3f2580925ba4a27eee7b78d16b6a429996ead96fdbbf70",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/curriculum-5f880767ed34bbdadb.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://management.ntu.edu.tw/en/IM/curriculum/undergraduate",
+      "sha256": "1340c0876072ca088c1a0a237cba844d752e7b2a4e874c3768d30089d03329b9",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/curriculum-716fc5f6687e878e66.html",
+      "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://dph.ntu.edu.tw/web/curriculum/curriculum.jsp?lang=en",
+      "sha256": "aded4acb57b11dd647690939cc4765ff8ec9c70801953b663718cc5eb2e50bd1",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/curriculum-1e991d92536a2009c9.html",
+      "locator": "Undergraduate / Core Required Courses"
+    }
+  ]
+}

@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Design (Interaction Design) - BA (Hons) - Bachelor of Arts (Honours)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026</strong></div><div><span>学制</span><strong>2 年</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,21 +42,34 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>课程内容：</strong>交互设计衔接方向结合人文与技术，设计互动体验、智能产品及服务，并训练对新兴需求的判断。</p>
+<p class="fact-sources"><a href="#source-p-polyu-detail-aca0a19805641ba1a4f1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本入口标准学制：</strong>2 年。高年级年数仅对应衔接入学，不能当作高中直入完整长度。</p>
+<p class="fact-sources"><a href="#source-p-polyu-detail-aca0a19805641ba1a4f1">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>本地高年级衔接：</strong>本页明确为Non-JUPAS Local Senior Year Admissions，面向具相应副学位等资格的本地高年级申请；不能作为内地高考生一年级直入入口。</p>
+<p class="fact-sources"><a href="#source-p-polyu-detail-aca0a19805641ba1a4f1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>核验边界：</strong>本轮仅列已读取的课程要求，未逐项补齐2027各学历先修、竞争分数与材料格式；普通最低资格不等于录取。</p>
+<p class="fact-sources"><a href="#source-p-polyu-detail-aca0a19805641ba1a4f1">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>2026本地高年级参考：</strong>本页所列2026年9月入学申请截止2026-02-05，已结束；2027窗口本轮未取得。</p>
+<p class="fact-sources"><a href="#source-p-polyu-detail-aca0a19805641ba1a4f1">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>身份与收费适用边界：</strong>此条为本地高年级入口，本轮未取得非本地申请资格及收费，不套普通非本地200,000元年费。</p>
+<p class="fact-sources"><a href="#source-p-polyu-detail-aca0a19805641ba1a4f1">官方依据</a></p>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>课程就业数据缺口：</strong>本轮未取得本专业说明届次、调查分母及内地/非本地身份的就业率；职业资格须另满足当时适用的注册或实践要求。</p>
+<p class="fact-sources"><a href="#source-p-polyu-detail-aca0a19805641ba1a4f1">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -65,5 +78,6 @@ hide:
 - [官方项目页面或项目所在目录](https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syt)
 - [官方目录](https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1)
 
+<div class="catalog-source" id="source-p-polyu-detail-aca0a19805641ba1a4f1"><div><a href="https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syt">polyu 官方本科资料：detail-aca0a19805641ba1a4f1 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/hong-kong/polyu/">← 返回香港理工大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

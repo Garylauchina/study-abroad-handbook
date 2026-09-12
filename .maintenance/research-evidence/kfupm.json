@@ -1,0 +1,653 @@
+{
+  "university_id": "kfupm",
+  "sources": [
+    {
+      "url": "https://kfupm.edu.sa/study/international-students/apply-as-an-international-student",
+      "sha256": "edeba5471fa4de36a82d092c5815f8cfc1474b1f9f698b46d62c833e7142d6eb",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/international.html",
+      "locator": "Undergraduate Students only — excludes Graduate English Test Scores"
+    },
+    {
+      "url": "https://admissions.kfupm.edu.sa/en/important-dates/track-detail/sat-track",
+      "sha256": "86bfcf091e087b00973659919af1a2f3efef00ff50f2a9119561a1d09bc8775e",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/sat.html",
+      "locator": "Admission Requirements; Registration starts/ends"
+    },
+    {
+      "url": "https://admissions.kfupm.edu.sa/en/new-admission/admissions-tracks",
+      "sha256": "c55bddd54a404a2db29334d286db7015fdacdeb3f0945e893c7076b1357f5604",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/tracks-current.html",
+      "locator": "Applying to SAT Admission Track; Additional requirements for IGCSE Students"
+    },
+    {
+      "url": "https://www.kfupm.edu.sa/study/international-students/fees-and-scholarships",
+      "sha256": "c7c2f2bfaaf9757b0c707e7078a4b99b766f5914de4a1fd3c4750432522c9ec0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/international-fees.html",
+      "locator": "For Undergraduate International Students; opening language statement"
+    },
+    {
+      "url": "https://admissions.kfupm.edu.sa/en",
+      "sha256": "48e67e06c5d35f8505f1793b14b33f94ca4eb95df094f041d5b81a74a6a97522",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/admissions.html",
+      "locator": "SAT Track Closed To be Announced"
+    },
+    {
+      "url": "https://admissions.kfupm.edu.sa/en/new-admission/fee-study-program",
+      "sha256": "582e7dee7e3ccd82679cf8f2ac5754f6076ccc3527688394f75e3ed47cae8333",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/fees.html",
+      "locator": "valid resident identity"
+    },
+    {
+      "url": "https://bioe.kfupm.edu.sa/academic-programs/undergraduate-programs/premed/faqs",
+      "sha256": "ae9c54cdd10d7673e4428c67452d4eac7167a0895a0622be401718af4617b678",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/premed-faq.html",
+      "locator": "Questions1,3–7,9,13,14"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "programs-acc > cx-1 through cx-43; General Requirements"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=1153&title=bachelor-of-science-in-accounting---internship-option",
+      "sha256": "61c0abb818f241d0911350e9c842665f681b9e63a48360354231047417c34390",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-042.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=84&title=bachelor-of-science-in-accounting---summer-training-option",
+      "sha256": "4b0e03cda53fdfb21d149c57f6e16d407ce43cdb542591bcb4a9b036efd8adc8",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-043.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=85&title=bachelor-of-science-in-actuarial-science-and-financial-mathematics",
+      "sha256": "fd810044965be50a6badf015f39ef69f8266aa0c044235112db9e45b30a7b66e",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-044.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=87&title=bachelor-of-science-in-aerospace-engineering---internship-option",
+      "sha256": "369ab4d726300ff3c45d71386b3b8feddf70dc5fb5ac62f7f3bee56f24107b3c",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-045.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=86&title=bachelor-of-science-in-aerospace-engineering---summer-training-option",
+      "sha256": "bb3a8b9e4dcd05ac59330038e0d73e771cafb9a76b62e3a8cb2e92c750ee4a2f",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-046.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=1164&title=bachelor-of-science-in-applied-mathematics-and-ai",
+      "sha256": "670ab6d653c051d19ca5cc34821f5e5e4b2890ce8fe81903650ed227f2745ba2",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-047.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=92&title=bachelor-of-science-in-architectural-engineering---internship-option",
+      "sha256": "1f4e98871f2392d467bb221831b8f3a14d5c55066c00d0618610f119105c9718",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-048.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=93&title=bachelor-of-science-in-architectural-engineering---summer-training-option",
+      "sha256": "3bcb07bc9aa36773cd01fa609e9d800521a9ab7e96aab719d0b01645ba7bf1e3",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-049.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=83&title=bachelor-of-architecture",
+      "sha256": "2a2414e17f5865c94c5afc49caf6cda98f1064196eb4bd4a0f2225f4238ef23d",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-050.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=1161&title=bachelor-of-science-in-artificial-intelligence-and-cybersecurity---internship-option",
+      "sha256": "959d55393d7ce04e7aeef2a0d1aeed2583528dc2b442015b23c1f4ff2b970b64",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-051.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=1160&title=bachelor-of-science-in-artificial-intelligence-and-cybersecurity---summer-training-option",
+      "sha256": "80d72ee8c4d6beede71baf2101e1c49f3da1e0f9cb03799d0f592e142a00fd65",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-052.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=94&title=bachelor-of-science-in-bioengineering---internship-option",
+      "sha256": "11ab0ba428ddc09bf41327632a693227459182ed7425bee894223d0cbdd5c362",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-053.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=95&title=bachelor-of-science-in-bioengineering---summer-training-option",
+      "sha256": "2c9ee642333f227f01174272cee66bf36f2df080c00dfc32a57bb460b6722929",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-054.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=88&title=bachelor-of-science-in-chemical-engineering---internship-option",
+      "sha256": "f4673341989787bbf467e688aa78c4a5282a8366609861549094d36a081841ec",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-055.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=96&title=bachelor-of-science-in-chemical-engineering---summer-training-option",
+      "sha256": "06e4bc3e8bd21202ed6d649298a45c86ac6d493dce75e2df1a98f8ebbce58b15",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-056.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=97&title=bachelor-of-science-in-chemistry",
+      "sha256": "f4ce4b005ade53902f75c7cfa11ef8fa8aacb723effbbe73ec326b3b09bb49ef",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-057.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=89&title=bachelor-of-science-in-civil-engineering---internship-option",
+      "sha256": "0ea55c453f6a46b167227234050e2448849adafd8d400b6e74227b4d4367a3d0",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-058.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=98&title=bachelor-of-science-in-civil-engineering---summer-training-option",
+      "sha256": "c330c31a25089fbc23d615d0e1fe78df1358434542b8fb65253041dee4c2a3df",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-059.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=99&title=bachelor-of-science-in-computer-engineering---internship-option",
+      "sha256": "cbefced69a8b4cc60a98898036a138e827c31edd01a051d35d8492aefdf20da9",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-060.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=100&title=bachelor-of-science-in-computer-engineering---summer-training-option",
+      "sha256": "614c46d2f2597241e2b2d42e4372e8971b6a2c1a30a881f9c12d1dd5cff01fd6",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-061.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=101&title=bachelor-of-science-in-computer-science---internship-option",
+      "sha256": "c60cbeaebb9897eb9ad5160dfef4e2fbc20c752265a062ea43015ae21ad380ad",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-062.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=102&title=bachelor-of-science-in-computer-science---summer-training-option",
+      "sha256": "92c5b1d9b7a405d8bf3a4b3416ae6116e98a0333f053e16525b06d8623e68fbf",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-063.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=103&title=bachelor-of-science-in-control-and-instrumentation-engineering---internship-option",
+      "sha256": "568534f757befcccd977dc6399cc15c8848e4b234a2f377abef273a6893bad48",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-064.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=104&title=bachelor-of-science-in-control-and-instrumentation-engineering---summer-training-option",
+      "sha256": "8275111acd637d9b6580205701ebcb76e6cbc17782b5b64500545753dea06cd7",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-065.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=1157&title=bachelor-of-science-in-data-science-and-engineering",
+      "sha256": "00e653e409238b839c0a67d4f5bfe7886a3c3b2553b61eba5e6c5058261580ba",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-066.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=90&title=bachelor-of-science-in-electrical-engineering---internship-option",
+      "sha256": "da4341e1fd40063dd1ed2b87e1e7dc1a2227bcbb53f248e6636a153ad94ec05b",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-067.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=105&title=bachelor-of-science-in-electrical-engineering---summer-training-option",
+      "sha256": "cc374bae48185b4f030771633aeb73707b110db2b2de5309eb5fa90ac9e8e021",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-068.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=120&title=bachelor-of-science-in-electrical-engineering-and-physics",
+      "sha256": "b67e17f3c2c3751f32d85cc9d123fa9ee894fe3309ef0fea72502331949d2b13",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-069.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=122&title=bachelor-of-science-in-environmental-science-and-engineering",
+      "sha256": "20149e57b8dd2539f474111522a19f1758eb61adcab6a364579c4ff0aecf5248",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-070.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=1152&title=bachelor-of-science-in-finance---internship-option",
+      "sha256": "5d0dc0b29c00c3f6d236a7029c381790f82a0072839d091697b3e72a39796b66",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-071.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=106&title=bachelor-of-science-in-finance---summer-training-option",
+      "sha256": "253a5b00fd2ffb1caddaae7f0a1089a208b593b963a1b5703de72baf88986f18",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-072.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=107&title=bachelor-of-science-in-geology",
+      "sha256": "404736e19fd61a262d2d643bcfbb51f2f94e336156df5fbdf82f3bf8c784dbc8",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-073.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=108&title=bachelor-of-science-in-geophysics",
+      "sha256": "6d0ecc4194e8d00955df99dbe2334b72d396f6835f2362351eff0e54e27ac36a",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-074.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=1149&title=bachelor-of-science-in-human-resource-management---internship-option",
+      "sha256": "4af11042eb3ceea53af8bf87e22219b7e8046f029ad16ce07bb767780b9cd998",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-075.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=1148&title=bachelor-of-science-in-human-resource-management---summer-training-option",
+      "sha256": "b640660a8c7ad9bef71b5e7b6dd5c9364baa4717b716220b0d821753071d7f09",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-076.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=109&title=bachelor-of-science-in-industrial-and-systems-engineering---internship-option",
+      "sha256": "8a105dd348caa1322f4bcfa02791aa10b19e01093aa96789702b36e34350d7bc",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-077.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=110&title=bachelor-of-science-in-industrial-and-systems-engineering---summer-training-option",
+      "sha256": "2759cc7511355da62c2ce050c6ee4b448163f3cd83c555c7bf4a2f90914a2803",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-078.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=121&title=bachelor-of-science-in-integrated-design",
+      "sha256": "cce7bd935bb3a6c105652abaa8ebacee2b9527c6866b4c456e95948e7cd807c0",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-079.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=1150&title=bachelor-of-science-in-management---internship-option",
+      "sha256": "fbe0cdd1096fa28b6bf33555b11dce9f29fd0ceca1b4c065e0f71f18831c91be",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-080.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=111&title=bachelor-of-science-in-management---summer-training-option",
+      "sha256": "a649b952977f3640938624d0d4d551692b12c0d70afc2e280ec2437510056e88",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-081.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=1154&title=bachelor-of-science-in-management-information-system---internship-option",
+      "sha256": "d160a55c2f1fe5deb25c526e5cb45e7b36c1baf314b2f66335d22fdfe914d62b",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-082.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=112&title=bachelor-of-science-in-management-information-system---summer-training-option",
+      "sha256": "9069f1219a46dd1d71c2e8ef28f46c88709e7e22c98ca0cf27a948c40adf77d5",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-083.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=1151&title=bachelor-of-science-in-marketing---internship-option",
+      "sha256": "37105d0850ad575c82044cb57c32de0ab7311640231ac6553cd3aa2e603d8acd",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-084.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=113&title=bachelor-of-science-in-marketing---summer-training-option",
+      "sha256": "0dfcdeced179af0de678af163e358e361855a5a38f97592c17a86b74e3985d91",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-085.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=114&title=bachelor-of-science-in-materials-science-and-engineering",
+      "sha256": "b2d3ca8714eab1e8746ec8b7441f315c84cc615f8e1ac6ab37ffb5e018e34641",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-086.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=115&title=bachelor-of-science-in-mathematics",
+      "sha256": "70a199a7e717ad2455ccc7c577edb4a3951891b661bb3a821f002cb0e5639e91",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-087.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=91&title=bachelor-of-science-in-mechanical-engineering---internship-option",
+      "sha256": "585db782f9866f2a819822434de162f8265a607f4562c20ce7dbcdc7be43a061",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-088.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=116&title=bachelor-of-science-in-mechanical-engineering---summer-training-option",
+      "sha256": "2a712ff75fbd4ff4c32381bdafab56cb8bf0a306301fad809be2bb9f1dced1f9",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-089.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=1132&title=bachelor-of-science-in-mining-science-and-engineering",
+      "sha256": "a93c09a226d7c0be5be653aaf6a6f428c95b5f45cba4c24d3e482563fa019585",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-090.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=117&title=bachelor-of-science-in-petroleum-engineering",
+      "sha256": "2aeed4ba17a4360c89268a3549e4b2fd464d3d54667ec5952eedab028a1d5b24",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-091.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=118&title=bachelor-of-science-in-physics",
+      "sha256": "e5e4900d75829f301a8bd151b327fc64d92bd1e8260e0a6cd8d2111b39d8cfd3",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-092.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=1159&title=bachelor-of-science-in-semiconductor-design-and-engineering",
+      "sha256": "89d7f390c1f1933d6b72bd8ca5d8c6d464e0acd35dd32d8cc178ff9a5f8a9475",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-093.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=123&title=bachelor-of-science-in-smart-and-sustainable-cities",
+      "sha256": "673849d9f083bb815f5e9035b93ad3de4260b3de033880206f8d7f88263f379f",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-094.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://bulletin.kfupm.edu.sa/program?program_id=119&title=bachelor-of-science-in-software-engineering",
+      "sha256": "545eef8bcd270690670a2348ce9d6fbbff85c62f75d9c46e02baaa2df4f52e93",
+      "raw_file": "scratch/full-catalog/root/kfupm-detail-095.html",
+      "locator": "h3.text-primary; Duration; #tab-buggy full Degree Plan; Description"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#artificial-intelligence-and-machine-learning",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-1; General Requirements"
+    },
+    {
+      "url": "https://kfupm.edu.sa/study/undergraduate-concentrations-%28cx%29",
+      "sha256": "efde2332fb5062e6d7c5e05d59d9fc597755f98de0e352219919078049e161c4",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx-main.html",
+      "locator": "Degree list; Sharpen Your Competitive Edge"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#automated-construction-management",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-2; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#bioinformatics",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-3; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#building-and-construction-safety",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-4; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#business-analytics",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-5; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#climate-change-adaptation",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-6; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#cloud-computing",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-7; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#communication-systems",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-8; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#computer-networks",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-9; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#corrosion-and-materials-degradation-(new)",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-10; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#cybersecurity-and-blockchain",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-11; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#data-science-and-analytics",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-12; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#decision-analytics",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-13; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#drone-design-and-application",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-14; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#electronic-defense-systems",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-15; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#energy-efficiency",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-16; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#enhanced-oil-recovery",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-17; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#game-design-and-development-(new)",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-18; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#human-resources-management",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-19; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#hydrogen-mobility",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-20; General Requirements"
+    },
+    {
+      "url": "https://che.kfupm.edu.sa/academic-programs/undergraduate-program/che-undergraduate-concentrations-%28cx%29",
+      "sha256": "15645286b7fe489c181eac95d561bffc28b3a4285d1ce69e6394fd4133982bfe",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx-chemical.html",
+      "locator": "Concentrations Hosted by Chemical Engineering"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#ic-design-and-fabrication",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-21; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#innovation-by-design-(new)",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-22; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#intelligent-energy-systems-management",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-23; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#internet-of-things",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-24; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#mechatronics-(new)",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-25; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#mining-geoscience-(new)",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-26; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#non-metallic-materials",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-27; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#nuclear-power-engineering",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-28; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#polymer-science-&-technology",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-29; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#process-safety",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-30; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#quantum-information-&-computing",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-31; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#refining-and-petrochemicals",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-32; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#renewable-energy-and-energy-storage",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-33; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#research-concentration",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-34; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#resilient-marine-infrastructures-(new)",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-35; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#robotics-and-autonomous-systems",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-36; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#smart-and-sustainable-buildings",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-37; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#supply-chain-management",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-38; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#sustainability-in-petroleum-industry-(new)",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-39; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#thermal-systems",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-40; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#traffic-engineering",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-41; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#unconventional-hydrocarbon-resources",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-42; General Requirements"
+    },
+    {
+      "url": "https://cx.kfupm.edu.sa/#waste-management",
+      "sha256": "367517b3bc0c7c2fb8453c66f7de0627c0b84baed07146bfb7baf4c269cefff0",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/cx.html",
+      "locator": "#cx-43; General Requirements"
+    },
+    {
+      "url": "https://bioe.kfupm.edu.sa/academic-programs/undergraduate-programs/premed",
+      "sha256": "79182f8f4dfd52e39347a40e4c2c54cf6e7506550bad7ce59e8f3151390e41c2",
+      "raw_file": "scratch/full-catalog/kfupm-enrichment/raw/premed.html",
+      "locator": "Program Admission and Requirements"
+    }
+  ]
+}

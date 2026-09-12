@@ -23,134 +23,170 @@ hide:
 
 ## 专业与申请资料
 
-123 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+123 个专业条目 · 0 个含详细资料 · 27 个补有专业资料 · 96 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=yonsei#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-ai-semiconductor-027539a80a/">AI Semiconductor</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-applied-information-engineering-47a76e83c3/">Applied Information Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-applied-statistics-ad9a79ec3c/">Applied Statistics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-architecture-architectural-engineering-23f2ddacd9/">Architecture &amp; Architectural Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-artificial-intelligence-44d732a909/">Artificial Intelligence</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-artificial-intelligence-systems-3b0c9126ba/">Artificial Intelligence Systems</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-asian-studies-as-2c58abef89/">Asian Studies (AS)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-astronomy-71f49d3830/">Astronomy</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-atmospheric-sciences-5f98e26e1a/">Atmospheric Sciences</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-battery-engineering-cba2b62b5e/">Battery Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-bio-living-engineering-6f2465ee67/">Bio &amp; Living Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-bio-convergence-bc-4c08a72049/">Bio-Convergence (BC)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-biochemistry-f87a83999d/">Biochemistry</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-biological-science-and-technology-abbe71ac92/">Biological Science and Technology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-biomedical-engineering-e4edbe7db9/">Biomedical Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-biomedical-laboratory-science-a4caeaf33d/">Biomedical Laboratory Science</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-biotechnology-14bbbd6272/">Biotechnology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-business-administration-2344c2cfcb/">Business Administration</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-business-administration-1f3db69870/">Business Administration</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-chemical-and-biomolecular-engineering-08b787bc86/">Chemical and Biomolecular Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-chemistry-c754051717/">Chemistry</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-chemistry-and-medical-chemistry-6dda2d5a4c/">Chemistry and Medical Chemistry</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-child-and-family-studies-c6048342b2/">Child and Family Studies</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-chinese-language-and-literature-de5ffc5991/">Chinese Language and Literature</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-church-music-d3a288147d/">Church Music</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-civil-environmental-engineering-5e91eeadbb/">Civil Environmental Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-clothing-and-textiles-2e5759c7d1/">Clothing and Textiles</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-cognitive-science-6ae355e015/">Cognitive Science</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-college-of-dentistry-4bc86548fd/">College of Dentistry</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-college-of-medicine-bd855ee6f3/">College of Medicine</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-college-of-nursing-92bb7ff7b8/">College of Nursing</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-college-of-pharmacy-2cdb7b8fe2/">College of Pharmacy</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-communication-239a6fd61d/">Communication</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-comparative-literature-and-culture-clc-308a2b81b8/">Comparative Literature and Culture (CLC)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-composition-e89a2d96f6/">Composition</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-computer-science-and-engineering-b4cfe665c2/">Computer Science and Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-creative-technology-management-ctm-678086806e/">Creative Technology Management (CTM)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-cultural-anthropology-b18b07973d/">Cultural Anthropology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-cultural-media-d626a55fa5/">Cultural Media</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-culture-and-design-management-cdm-81f522ee4e/">Culture and Design Management (CDM)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-data-science-9d24dc8a3b/">Data Science</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-dental-hygiene-420da713b4/">Dental Hygiene</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-digital-art-c80034c1e7/">Digital Art</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-digital-healthcare-2e8a6d48c6/">Digital Healthcare</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-digital-integration-engineering-7dd4784a49/">Digital Integration Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-division-of-semiconductor-system-engineering-85832451e2/">Division of Semiconductor System Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-earth-system-sciences-8487a65c7e/">Earth System Sciences</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-east-asian-politics-and-culture-9f1d21c320/">East Asian Politics and Culture</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-economics-d3194223ba/">Economics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-economics-57103f96e4/">Economics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-economics-econ-0892904d15/">Economics (ECON)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-education-3ded0382f0/">Education</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-electrical-and-electronic-engineering-efa105db24/">Electrical and Electronic Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-energy-and-environmental-science-and-engineering-eese-697d2f7654/">Energy and Environmental Science and Engineering (EESE)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-english-language-and-literature-59b244a74b/">English Language and Literature</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-english-language-and-literature-94093e68bd/">English Language and Literature</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-environment-and-energy-engineering-924bf4fd28/">Environment and Energy Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-food-and-nutrition-87dd79b8be/">Food and Nutrition</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-french-language-and-literature-925bc4da1c/">French Language and Literature</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-german-language-and-literature-8d7c77de0f/">German Language and Literature</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-global-elite-division-ed1c2d4e3f/">Global Elite Division</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-global-public-administration-26e7e0d60d/">Global Public Administration</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-health-administration-12672b02a1/">Health Administration</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-health-sciences-31493b8ce4/">Health Sciences</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-history-a50d63ff49/">History</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-history-and-culture-76f0b1b5b7/">History and Culture</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-industrial-design-1d56255917/">Industrial Design</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-industrial-engineering-cb66c97733/">Industrial Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-information-and-interaction-design-iid-b76b30a37f/">Information and Interaction Design (IID)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-instrumental-music-ff7fea0447/">Instrumental Music</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-integrated-design-a8c626c1b0/">Integrated Design</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-integrated-display-engineering-0222f13b03/">Integrated Display Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-integrated-information-technology-c91718f14c/">Integrated Information Technology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-intelligent-data-and-optimization-0edba89ca0/">Intelligent Data and Optimization</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-intelligent-semiconductor-technology-2cbef82fa9/">Intelligent Semiconductor Technology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-interior-architecture-built-environment-66f1e795f6/">Interior Architecture &amp; Built Environment</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-international-commerce-a0599087d1/">International Commerce</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-international-relations-f2b9f16e84/">International Relations</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-international-studies-is-a875ab1721/">International Studies (IS)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-justice-and-civil-leadership-jcl-b3c187dccf/">Justice and Civil Leadership (JCL)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-korean-language-culture-education-1d2c532b0e/">Korean Language &amp; Culture Education</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-korean-language-and-literature-c18a75b903/">Korean Language and Literature</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-korean-language-and-literature-e2886a9507/">Korean Language and Literature</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-library-and-information-science-958a5ad4b8/">Library and Information Science</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-life-science-and-biotechnology-lsbt-0839516a57/">Life Science and Biotechnology (LSBT)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-materials-science-and-engineering-fe978e4dba/">Materials Science and Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-mathematics-440d626fe4/">Mathematics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-mechanical-engineering-c081699f00/">Mechanical Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-mobility-systems-5cb6626d31/">Mobility Systems</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-nano-science-and-engineering-nse-7b49375252/">Nano Science and Engineering (NSE)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-occupational-therapy-ba2969921a/">Occupational Therapy</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-packaging-and-logistics-b6779fc179/">Packaging and Logistics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-philosophy-a1cf3252cc/">Philosophy</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-philosophy-16a4220879/">Philosophy</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-physical-education-d460c9c714/">Physical Education</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-physical-therapy-40bedf4af9/">Physical Therapy</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-physics-c5d91acab5/">Physics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-physics-and-engineering-physics-4f483813f8/">Physics and Engineering Physics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-piano-bef4141260/">Piano</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-political-science-and-diplomacy-d6071f15b3/">Political Science and Diplomacy</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-political-science-and-international-relations-psir-a4c1159d75/">Political Science and International Relations (PSIR)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-psychology-1a6da9013e/">Psychology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-public-policy-and-management-70c1cdc92b/">Public Policy and Management</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-quantitative-risk-management-qrm-fca6c66db7/">Quantitative Risk Management (QRM)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-radiological-science-e1aa4fd223/">Radiological Science</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-russian-language-and-literature-119e9b81a3/">Russian Language and Literature</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-satellite-systems-682a860abd/">Satellite Systems</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-school-of-computing-b8c5ede7eb/">School of Computing</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-school-of-integrated-technology-3c700109f1/">School of Integrated Technology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-science-technology-and-policy-stp-fd20860c32/">Science, Technology, and Policy (STP)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-social-welfare-6441c2540f/">Social Welfare</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-sociology-d17481388f/">Sociology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-software-c440601fbc/">Software</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-sport-industry-studies-dfb3065244/">Sport Industry Studies</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-sustainable-development-and-cooperation-sdc-6efc2dcdb1/">Sustainable Development and Cooperation (SDC)</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-systems-biology-d9c602703c/">Systems Biology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-systems-semiconductor-engineering-eb5ce11c87/">Systems Semiconductor Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-theology-ec652a8960/">Theology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-urban-planning-and-engineering-475f028ac2/">Urban Planning and Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-visual-communication-design-1f9c5b1835/">Visual Communication Design</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-voice-d906963b8c/">Voice</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-wonju-college-of-medicine-ba9ce7e0b7/">Wonju College of Medicine</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-wonju-college-of-nursing-d60fe85cef/">Wonju College of Nursing</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-ai-semiconductor-027539a80a/">AI Semiconductor</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-applied-information-engineering-47a76e83c3/">Applied Information Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-applied-statistics-ad9a79ec3c/">Applied Statistics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-architecture-architectural-engineering-23f2ddacd9/">Architecture &amp; Architectural Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-artificial-intelligence-44d732a909/">Artificial Intelligence</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-artificial-intelligence-systems-3b0c9126ba/">Artificial Intelligence Systems</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-asian-studies-as-2c58abef89/">Asian Studies (AS)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-astronomy-71f49d3830/">Astronomy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-atmospheric-sciences-5f98e26e1a/">Atmospheric Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-battery-engineering-cba2b62b5e/">Battery Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-bio-living-engineering-6f2465ee67/">Bio &amp; Living Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-bio-convergence-bc-4c08a72049/">Bio-Convergence (BC)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-biochemistry-f87a83999d/">Biochemistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-biological-science-and-technology-abbe71ac92/">Biological Science and Technology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-biomedical-engineering-e4edbe7db9/">Biomedical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-biomedical-laboratory-science-a4caeaf33d/">Biomedical Laboratory Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-biotechnology-14bbbd6272/">Biotechnology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-business-administration-2344c2cfcb/">Business Administration</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-business-administration-1f3db69870/">Business Administration</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-chemical-and-biomolecular-engineering-08b787bc86/">Chemical and Biomolecular Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-chemistry-c754051717/">Chemistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-chemistry-and-medical-chemistry-6dda2d5a4c/">Chemistry and Medical Chemistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-child-and-family-studies-c6048342b2/">Child and Family Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-chinese-language-and-literature-de5ffc5991/">Chinese Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-church-music-d3a288147d/">Church Music</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-civil-environmental-engineering-5e91eeadbb/">Civil Environmental Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-clothing-and-textiles-2e5759c7d1/">Clothing and Textiles</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-cognitive-science-6ae355e015/">Cognitive Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-college-of-dentistry-4bc86548fd/">College of Dentistry</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-college-of-medicine-bd855ee6f3/">College of Medicine</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-college-of-nursing-92bb7ff7b8/">College of Nursing</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-college-of-pharmacy-2cdb7b8fe2/">College of Pharmacy</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-communication-239a6fd61d/">Communication</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-comparative-literature-and-culture-clc-308a2b81b8/">Comparative Literature and Culture (CLC)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-composition-e89a2d96f6/">Composition</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-computer-science-and-engineering-b4cfe665c2/">Computer Science and Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-creative-technology-management-ctm-678086806e/">Creative Technology Management (CTM)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-cultural-anthropology-b18b07973d/">Cultural Anthropology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-cultural-media-d626a55fa5/">Cultural Media</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-culture-and-design-management-cdm-81f522ee4e/">Culture and Design Management (CDM)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-data-science-9d24dc8a3b/">Data Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-dental-hygiene-420da713b4/">Dental Hygiene</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-digital-art-c80034c1e7/">Digital Art</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-digital-healthcare-2e8a6d48c6/">Digital Healthcare</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-digital-integration-engineering-7dd4784a49/">Digital Integration Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-division-of-semiconductor-system-engineering-85832451e2/">Division of Semiconductor System Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-earth-system-sciences-8487a65c7e/">Earth System Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-east-asian-politics-and-culture-9f1d21c320/">East Asian Politics and Culture</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-economics-d3194223ba/">Economics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-economics-57103f96e4/">Economics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-economics-econ-0892904d15/">Economics (ECON)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-education-3ded0382f0/">Education</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-electrical-and-electronic-engineering-efa105db24/">Electrical and Electronic Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-energy-and-environmental-science-and-engineering-eese-697d2f7654/">Energy and Environmental Science and Engineering (EESE)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-english-language-and-literature-59b244a74b/">English Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-english-language-and-literature-94093e68bd/">English Language and Literature</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-environment-and-energy-engineering-924bf4fd28/">Environment and Energy Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-food-and-nutrition-87dd79b8be/">Food and Nutrition</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-french-language-and-literature-925bc4da1c/">French Language and Literature</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-german-language-and-literature-8d7c77de0f/">German Language and Literature</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-global-elite-division-ed1c2d4e3f/">Global Elite Division</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-global-public-administration-26e7e0d60d/">Global Public Administration</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-health-administration-12672b02a1/">Health Administration</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-health-sciences-31493b8ce4/">Health Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-history-a50d63ff49/">History</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-history-and-culture-76f0b1b5b7/">History and Culture</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-industrial-design-1d56255917/">Industrial Design</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-industrial-engineering-cb66c97733/">Industrial Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-information-and-interaction-design-iid-b76b30a37f/">Information and Interaction Design (IID)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-instrumental-music-ff7fea0447/">Instrumental Music</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-integrated-design-a8c626c1b0/">Integrated Design</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-integrated-display-engineering-0222f13b03/">Integrated Display Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-integrated-information-technology-c91718f14c/">Integrated Information Technology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-intelligent-data-and-optimization-0edba89ca0/">Intelligent Data and Optimization</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-intelligent-semiconductor-technology-2cbef82fa9/">Intelligent Semiconductor Technology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-interior-architecture-built-environment-66f1e795f6/">Interior Architecture &amp; Built Environment</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-international-commerce-a0599087d1/">International Commerce</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-international-relations-f2b9f16e84/">International Relations</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-international-studies-is-a875ab1721/">International Studies (IS)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-justice-and-civil-leadership-jcl-b3c187dccf/">Justice and Civil Leadership (JCL)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-korean-language-culture-education-1d2c532b0e/">Korean Language &amp; Culture Education</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-korean-language-and-literature-c18a75b903/">Korean Language and Literature</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-korean-language-and-literature-e2886a9507/">Korean Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-library-and-information-science-958a5ad4b8/">Library and Information Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-life-science-and-biotechnology-lsbt-0839516a57/">Life Science and Biotechnology (LSBT)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-materials-science-and-engineering-fe978e4dba/">Materials Science and Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-mathematics-440d626fe4/">Mathematics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-mechanical-engineering-c081699f00/">Mechanical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-mobility-systems-5cb6626d31/">Mobility Systems</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-nano-science-and-engineering-nse-7b49375252/">Nano Science and Engineering (NSE)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-occupational-therapy-ba2969921a/">Occupational Therapy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-packaging-and-logistics-b6779fc179/">Packaging and Logistics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-philosophy-a1cf3252cc/">Philosophy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-philosophy-16a4220879/">Philosophy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-physical-education-d460c9c714/">Physical Education</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-physical-therapy-40bedf4af9/">Physical Therapy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-physics-c5d91acab5/">Physics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-physics-and-engineering-physics-4f483813f8/">Physics and Engineering Physics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-piano-bef4141260/">Piano</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-political-science-and-diplomacy-d6071f15b3/">Political Science and Diplomacy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-political-science-and-international-relations-psir-a4c1159d75/">Political Science and International Relations (PSIR)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-psychology-1a6da9013e/">Psychology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-public-policy-and-management-70c1cdc92b/">Public Policy and Management</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-quantitative-risk-management-qrm-fca6c66db7/">Quantitative Risk Management (QRM)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-radiological-science-e1aa4fd223/">Radiological Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-russian-language-and-literature-119e9b81a3/">Russian Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-satellite-systems-682a860abd/">Satellite Systems</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-school-of-computing-b8c5ede7eb/">School of Computing</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-school-of-integrated-technology-3c700109f1/">School of Integrated Technology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-science-technology-and-policy-stp-fd20860c32/">Science, Technology, and Policy (STP)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-social-welfare-6441c2540f/">Social Welfare</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-sociology-d17481388f/">Sociology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-software-c440601fbc/">Software</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-sport-industry-studies-dfb3065244/">Sport Industry Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-sustainable-development-and-cooperation-sdc-6efc2dcdb1/">Sustainable Development and Cooperation (SDC)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-systems-biology-d9c602703c/">Systems Biology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-systems-semiconductor-engineering-eb5ce11c87/">Systems Semiconductor Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-theology-ec652a8960/">Theology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-urban-planning-and-engineering-475f028ac2/">Urban Planning and Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-visual-communication-design-1f9c5b1835/">Visual Communication Design</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-voice-d906963b8c/">Voice</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-wonju-college-of-medicine-ba9ce7e0b7/">Wonju College of Medicine</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/yonsei/yonsei-wonju-college-of-nursing-d60fe85cef/">Wonju College of Nursing</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>国籍及高中资格：</strong>申请人和双亲均须非韩国籍；含韩国籍的双重国籍不符，转换国籍须在申请人高中阶段前完成。须于2027年2月前高中毕业（日本高中为3月）；不接受GED、家庭或远程学历替代。普高及国际课程均须正式学历与成绩材料；本轮未取得统一高考分数线。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-93d379000b9ad1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语可用于申请，韩语用于培养：</strong>普通专业可用韩语／英语考试、相应授课证明或指定语言教育材料。课程主要用韩语、部分英语；2027普通国际生入专业前须TOPIK3、毕业前4，或延世认可等值语言课程／测试；体育入专业要求有例外。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-93d379000b9ad1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>医牙护理药另有韩语条件：</strong>医学、牙医、护理、药学申请须TOPIK5或延世KLI5级以上，不能用普通专业英语材料替代。具体项目和面试安排见专业事实。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-93d379000b9ad1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>GBED和校区：</strong>常规国际新生通常先在国际校区GBED学习一年，再进入专业；医／牙／护理／药不属GBED，体育两专业仅一学期。故不能把目标学院学费直接当所有新生第一年账单。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-93d379000b9ad1">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>2027春申请正在开放：</strong>在线申请2026-09-01 10:00至09-17 17:00韩国时间；纸质材料必须09-30 17:00前寄达。结果12-04 17:00公布、2027年1月缴费；以2026-09-12为准尚可申请。UIC与Mirae有各自日程。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-93d379000b9ad1">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2026国际生费用参考：</strong>2026收费表按学期：GBED/GLC首学期KRW7,388,000、后续7,174,000；普通人文首学期4,770,000、后续4,556,000，工程6,218,000／6,004,000。专业金额与GBED身份须分开；本轮未核得2027定价。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-af361a73cceae5">官方依据</a></p>
+
+<p class="catalog-fact"><strong>资助条款缺口：</strong>2027普通国际生简章提供学生事务奖学金咨询入口，但本轮未取得适用于所有普通中国本科新生的统一金额、自动获奖或续领标准，不能套用UIC奖学金。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-93d379000b9ad1">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-ASREN-93d379000b9ad1"><div><a href="https://admission.yonsei.ac.kr/seoul/upload/guide/20260529144906YVFHLB.PDF">延世大学首尔2027春国际生招生简章 ↗</a><p>2027申请、国籍、语言、医学特殊要求及GBED路径</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-af361a73cceae5"><div><a href="https://www.yonsei.ac.kr/sites/en_sc/down/2026_fee1.pdf">延世大学2026国际本科收费表 ↗</a><p>2026每学期、GBED与专业学院不同收费</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

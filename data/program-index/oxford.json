@@ -3,9 +3,9 @@
   "checked_at": "2026-09-12",
   "coverage": {
     "status": "partial",
-    "count": 52,
+    "count": 48,
     "scope": "All official A–Z table course links only; no subject guessing or arbitrary joint combinations；Retain graduate entry medicine; distinguish foundation pathways；Do not assume BA for science courses or entry year without individual source",
-    "method": "[{\"page\": \"single A–Z table\", \"count\": 52, \"first\": \"Archaeology and Anthropology\", \"last\": \"Theology and Religion\", \"paging\": null}]",
+    "method": "[{\"page\": \"single A–Z table\", \"count\": 52, \"first\": \"Archaeology and Anthropology\", \"last\": \"Theology and Religion\", \"paging\": null}] 逐页核对2027课程学位标签，排除4个独立CertHE基础年；语言等分组仍保留原目录结构。",
     "exclusions": "All official A–Z table course links only; no subject guessing or arbitrary joint combinations；Retain graduate entry medicine; distinguish foundation pathways；Do not assume BA for science courses or entry year without individual source",
     "sources": [
       {
@@ -24,7 +24,7 @@
   "programs": [
     {
       "name_en": "Archaeology and Anthropology",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/archaeology-and-anthropology",
       "intake": null,
       "duration": null,
@@ -36,11 +36,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-archaeology-and-anthropology-42615644e2"
+      "id": "oxford-archaeology-and-anthropology-42615644e2",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Asian and Middle Eastern Studies",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies",
       "intake": null,
       "duration": null,
@@ -52,11 +53,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-asian-and-middle-eastern-studies-5f57825d88"
+      "id": "oxford-asian-and-middle-eastern-studies-5f57825d88",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Biochemistry (Molecular and Cellular)",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "MBiochem",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/biochemistry-molecular-and-cellular",
       "intake": null,
       "duration": null,
@@ -68,11 +70,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-biochemistry-molecular-and-cellular-a78d53c522"
+      "id": "oxford-biochemistry-molecular-and-cellular-a78d53c522",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Biology",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "MBiol or BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/biology",
       "intake": null,
       "duration": null,
@@ -84,11 +87,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-biology-910a04ae1d"
+      "id": "oxford-biology-910a04ae1d",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Biomedical Sciences",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "MBiomedSci or BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/biomedical-sciences",
       "intake": null,
       "duration": null,
@@ -100,11 +104,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-biomedical-sciences-0a6fde1eb6"
+      "id": "oxford-biomedical-sciences-0a6fde1eb6",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Chemistry",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "MChem",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/chemistry",
       "intake": null,
       "duration": null,
@@ -116,11 +121,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-chemistry-da9fa4f72a"
+      "id": "oxford-chemistry-da9fa4f72a",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Classical Archaeology and Ancient History",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classical-archaeology-and-ancient-history",
       "intake": null,
       "duration": null,
@@ -132,11 +138,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-classical-archaeology-and-ancient-history-50620b71be"
+      "id": "oxford-classical-archaeology-and-ancient-history-50620b71be",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Classics",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics",
       "intake": null,
       "duration": null,
@@ -148,11 +155,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-classics-32225ffd09"
+      "id": "oxford-classics-32225ffd09",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Classics and Asian and Middle Eastern Studies",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-asian-and-middle-eastern-studies",
       "intake": null,
       "duration": null,
@@ -164,11 +172,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-classics-and-asian-and-middle-eastern-studies-ab5d8c1e8c"
+      "id": "oxford-classics-and-asian-and-middle-eastern-studies-ab5d8c1e8c",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Classics and English",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-english",
       "intake": null,
       "duration": null,
@@ -180,11 +189,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-classics-and-english-aeaeed46e3"
+      "id": "oxford-classics-and-english-aeaeed46e3",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Classics and Modern Languages",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-modern-languages",
       "intake": null,
       "duration": null,
@@ -196,11 +206,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-classics-and-modern-languages-1ea0e08d2e"
+      "id": "oxford-classics-and-modern-languages-1ea0e08d2e",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Computer Science",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA or MCompSci",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/computer-science",
       "intake": null,
       "duration": null,
@@ -212,11 +223,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-computer-science-a07a5a19fd"
+      "id": "oxford-computer-science-a07a5a19fd",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Computer Science and Philosophy",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA or MCompPhil",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/computer-science-and-philosophy",
       "intake": null,
       "duration": null,
@@ -228,11 +240,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-computer-science-and-philosophy-7e9f9fdb36"
+      "id": "oxford-computer-science-and-philosophy-7e9f9fdb36",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Earth Sciences (Geology)",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA Geology or MEarthSci",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/earth-sciences-geology",
       "intake": null,
       "duration": null,
@@ -244,11 +257,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-earth-sciences-geology-342cedcfef"
+      "id": "oxford-earth-sciences-geology-342cedcfef",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Economics and Management",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/economics-and-management",
       "intake": null,
       "duration": null,
@@ -260,11 +274,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-economics-and-management-9c76187931"
+      "id": "oxford-economics-and-management-9c76187931",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Engineering Science",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "MEng",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/engineering-science",
       "intake": null,
       "duration": null,
@@ -276,11 +291,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-engineering-science-01b5996fc4"
+      "id": "oxford-engineering-science-01b5996fc4",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "English Language and Literature",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/english-language-and-literature",
       "intake": null,
       "duration": null,
@@ -292,11 +308,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-english-language-and-literature-c90df2440a"
+      "id": "oxford-english-language-and-literature-c90df2440a",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "English and Modern Languages",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/english-and-modern-languages",
       "intake": null,
       "duration": null,
@@ -308,11 +325,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-english-and-modern-languages-28fb787691"
+      "id": "oxford-english-and-modern-languages-28fb787691",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "European and Middle Eastern Languages",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/european-and-middle-eastern-languages",
       "intake": null,
       "duration": null,
@@ -324,11 +342,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-european-and-middle-eastern-languages-17a4cafbb9"
+      "id": "oxford-european-and-middle-eastern-languages-17a4cafbb9",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Fine Art",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BFA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/fine-art",
       "intake": null,
       "duration": null,
@@ -340,75 +359,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-fine-art-918485d0cc"
-    },
-    {
-      "name_en": "Foundation Year (Chemistry, Engineering and Materials Science)",
-      "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/foundation-year-in-chemistry-engineering-and-materials-science",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/undergraduate-course-listing-a-z",
-      "source_period": "current A–Z checked 2026-09-12; listing does not explicitly state entry year",
-      "entry_route": "foundation_pathway",
-      "requires_prior_degree": null,
-      "status": "listed_current",
-      "record_type": "course_group",
-      "id": "oxford-foundation-year-chemistry-engineering-and-materials-science-e78aac9093"
-    },
-    {
-      "name_en": "Foundation Year (Humanities)",
-      "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/foundation-year-in-humanities",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/undergraduate-course-listing-a-z",
-      "source_period": "current A–Z checked 2026-09-12; listing does not explicitly state entry year",
-      "entry_route": "foundation_pathway",
-      "requires_prior_degree": null,
-      "status": "listed_current",
-      "record_type": "course_group",
-      "id": "oxford-foundation-year-humanities-1d992a0808"
-    },
-    {
-      "name_en": "Foundation Year (Law)",
-      "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/foundation-year-in-law",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/undergraduate-course-listing-a-z",
-      "source_period": "current A–Z checked 2026-09-12; listing does not explicitly state entry year",
-      "entry_route": "foundation_pathway",
-      "requires_prior_degree": null,
-      "status": "listed_current",
-      "record_type": "course_group",
-      "id": "oxford-foundation-year-law-9c9b1dd30d"
-    },
-    {
-      "name_en": "Foundation Year (PPE)",
-      "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/foundation-year-in-philosophy-politics-and-economics-ppe",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/undergraduate-course-listing-a-z",
-      "source_period": "current A–Z checked 2026-09-12; listing does not explicitly state entry year",
-      "entry_route": "foundation_pathway",
-      "requires_prior_degree": null,
-      "status": "listed_current",
-      "record_type": "course_group",
-      "id": "oxford-foundation-year-ppe-9010d8d107"
+      "id": "oxford-fine-art-918485d0cc",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Geography",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/geography",
       "intake": null,
       "duration": null,
@@ -420,11 +376,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-geography-efe957984e"
+      "id": "oxford-geography-efe957984e",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "History",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history",
       "intake": null,
       "duration": null,
@@ -436,11 +393,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-history-04ce621893"
+      "id": "oxford-history-04ce621893",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "History (Ancient and Modern)",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-ancient-and-modern",
       "intake": null,
       "duration": null,
@@ -452,11 +410,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-history-ancient-and-modern-76a4499b14"
+      "id": "oxford-history-ancient-and-modern-76a4499b14",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "History and Economics",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-economics",
       "intake": null,
       "duration": null,
@@ -468,11 +427,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-history-and-economics-56fe13b78b"
+      "id": "oxford-history-and-economics-56fe13b78b",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "History and English",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-english",
       "intake": null,
       "duration": null,
@@ -484,11 +444,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-history-and-english-50c0f835ea"
+      "id": "oxford-history-and-english-50c0f835ea",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "History and Modern Languages",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-modern-languages",
       "intake": null,
       "duration": null,
@@ -500,11 +461,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-history-and-modern-languages-14a81cc983"
+      "id": "oxford-history-and-modern-languages-14a81cc983",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "History and Politics",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-politics",
       "intake": null,
       "duration": null,
@@ -516,11 +478,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-history-and-politics-1033d4a308"
+      "id": "oxford-history-and-politics-1033d4a308",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "History of Art",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-of-art",
       "intake": null,
       "duration": null,
@@ -532,11 +495,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-history-of-art-8e74981f83"
+      "id": "oxford-history-of-art-8e74981f83",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Human Sciences",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/human-sciences",
       "intake": null,
       "duration": null,
@@ -548,11 +512,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-human-sciences-8e9bd34321"
+      "id": "oxford-human-sciences-8e9bd34321",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Law (Jurisprudence)",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA in Jurisprudence",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/law-jurisprudence",
       "intake": null,
       "duration": null,
@@ -564,11 +529,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-law-jurisprudence-c4019eb6b6"
+      "id": "oxford-law-jurisprudence-c4019eb6b6",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Materials Science",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "MEng",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/materials-science",
       "intake": null,
       "duration": null,
@@ -580,11 +546,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-materials-science-c8b2524506"
+      "id": "oxford-materials-science-c8b2524506",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Mathematics / Mathematics and Statistics",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "MMath or BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics",
       "intake": null,
       "duration": null,
@@ -596,11 +563,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "course_group",
-      "id": "oxford-mathematics-mathematics-and-statistics-a0009a57fd"
+      "id": "oxford-mathematics-mathematics-and-statistics-a0009a57fd",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Mathematics and Computer Science",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA or MMathCompSci",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics-and-computer-science",
       "intake": null,
       "duration": null,
@@ -612,11 +580,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-mathematics-and-computer-science-cc5f858f87"
+      "id": "oxford-mathematics-and-computer-science-cc5f858f87",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Mathematics and Philosophy",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA / MMathPhil",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics-and-philosophy",
       "intake": null,
       "duration": null,
@@ -628,11 +597,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-mathematics-and-philosophy-87e999890d"
+      "id": "oxford-mathematics-and-philosophy-87e999890d",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Medicine",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA / BM BCh",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/medicine",
       "intake": null,
       "duration": null,
@@ -644,11 +614,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-medicine-59b3b8c367"
+      "id": "oxford-medicine-59b3b8c367",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Medicine (graduate entry)",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BM BCh",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/medicine-graduate-entry",
       "intake": null,
       "duration": null,
@@ -660,11 +631,12 @@
       "requires_prior_degree": true,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-medicine-graduate-entry-fabd05ad60"
+      "id": "oxford-medicine-graduate-entry-fabd05ad60",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Modern Languages",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/modern-languages",
       "intake": null,
       "duration": null,
@@ -676,11 +648,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-modern-languages-a8d277daf4"
+      "id": "oxford-modern-languages-a8d277daf4",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Modern Languages and Linguistics",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/modern-languages-and-linguistics",
       "intake": null,
       "duration": null,
@@ -692,11 +665,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-modern-languages-and-linguistics-2914e751d3"
+      "id": "oxford-modern-languages-and-linguistics-2914e751d3",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Music",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/music",
       "intake": null,
       "duration": null,
@@ -708,11 +682,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-music-629c2c0f04"
+      "id": "oxford-music-629c2c0f04",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Philosophy and Modern Languages",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/philosophy-and-modern-languages",
       "intake": null,
       "duration": null,
@@ -724,11 +699,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-philosophy-and-modern-languages-6d57f472e2"
+      "id": "oxford-philosophy-and-modern-languages-6d57f472e2",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Philosophy, Politics and Economics (PPE)",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/philosophy-politics-and-economics",
       "intake": null,
       "duration": null,
@@ -740,11 +716,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-philosophy-politics-and-economics-ppe-526af50487"
+      "id": "oxford-philosophy-politics-and-economics-ppe-526af50487",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Philosophy and Theology",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/philosophy-and-theology",
       "intake": null,
       "duration": null,
@@ -756,11 +733,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-philosophy-and-theology-62cab4189a"
+      "id": "oxford-philosophy-and-theology-62cab4189a",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Physics",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "MPhys / BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/physics",
       "intake": null,
       "duration": null,
@@ -772,11 +750,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-physics-eeb61c03d3"
+      "id": "oxford-physics-eeb61c03d3",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Physics and Philosophy",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "MPhysPhil / BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/physics-and-philosophy",
       "intake": null,
       "duration": null,
@@ -788,11 +767,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-physics-and-philosophy-64edf47523"
+      "id": "oxford-physics-and-philosophy-64edf47523",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Psychology (Experimental)",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "MSci / BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-experimental",
       "intake": null,
       "duration": null,
@@ -804,11 +784,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-psychology-experimental-229dd43b5e"
+      "id": "oxford-psychology-experimental-229dd43b5e",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Psychology, Philosophy and Linguistics",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "MSci / BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics",
       "intake": null,
       "duration": null,
@@ -820,11 +801,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-psychology-philosophy-and-linguistics-4b858690e7"
+      "id": "oxford-psychology-philosophy-and-linguistics-4b858690e7",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Religion and Asian and Middle Eastern Studies",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/religion-and-asian-and-middle-eastern-studies",
       "intake": null,
       "duration": null,
@@ -836,11 +818,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-religion-and-asian-and-middle-eastern-studies-e5ab4bcbc5"
+      "id": "oxford-religion-and-asian-and-middle-eastern-studies-e5ab4bcbc5",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     },
     {
       "name_en": "Theology and Religion",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BA",
       "official_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/theology-and-religion",
       "intake": null,
       "duration": null,
@@ -852,7 +835,8 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "programme_entry",
-      "id": "oxford-theology-and-religion-3db2fabbb7"
+      "id": "oxford-theology-and-religion-3db2fabbb7",
+      "identity_note": "按2027课程页面补充学位名称；保留原稳定ID及分组。"
     }
   ]
 }

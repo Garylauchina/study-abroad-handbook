@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Human Biology: Health and Disease</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>2026/27类别参考 CAD 69,130.13–69,900.93（含附加费及UHIP）；2027/28待核</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>St. George campus · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>St. George campus · <strong>授课语言：</strong>英语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,78 @@ hide:
 
 <p><strong>项目类别：</strong>Major / Specialist</p>
 
+<p class="catalog-fact"><strong>所属学科课程内容：</strong>人类生物学跨生命与医学、社会科学和人文研究人类，结合社区学习及本科研究，并可在特定领域深入。</p>
+<p class="fact-sources"><a href="#source-p-toronto-detail-104">官方依据</a></p>
+
+<p class="catalog-fact"><strong>教学语言：</strong>学校说明教学与考试语言为英语；具体外语学习及临床沟通要求须查看专业规定。</p>
+<p class="fact-sources"><a href="#source-p-toronto-language">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>校内专业选择与高中录取不同：</strong>本条来自正式课程目录中的Major或Specialist学科。完成校级入学申请后，校内专业仍可能要求大学先修课、成绩和再次选拔；本轮课程内容摘要不代表已经逐一核完所有分支的校内门槛。</p>
+<p class="fact-sources"><a href="#source-p-toronto-detail-104">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>大陆普通高中资格：</strong>中国普通高中路线须提供省级教育部门或认可机构颁发的高中毕业文凭、学业水平／会考和高考成绩。双课程体系按其认可的高中毕业资格对应要求申请；各课程先修仍须另行满足。工程申请者须完整披露已有考试成绩。</p>
+<p class="fact-sources"><a href="#source-u-toronto-china-specific">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语与豁免：</strong>大学教学及考试使用英语。一般英语要求 IELTS Academic 总分6.5、单项6.0；不接受 One Skill Retake，须同次达标。获准豁免者另论，高年级英语课程要求与语言测试要求分别审核，部分专业可能有额外条件。</p>
+<p class="fact-sources"><a href="#source-u-toronto-language">官方依据</a></p>
+
+<p class="catalog-fact"><strong>TOEFL 考试版本：</strong>2026年1月21日起的 TOEFL iBT 按新尺度要求总分4.5、写作4.5、口语4.0；此前考试要求89分，写作及口语各22。须同次达标，不使用MyBest。不可将旧分制数字套在新考试上。</p>
+<p class="fact-sources"><a href="#source-u-toronto-language">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027 普通本科申请时间：</strong>2027年全日制第一本科的多数学院及三个校区申请截止为2027年1月15日，建议提早申请。工程支持文件及Online Student Profile同为1月15日；多数其他学院支持文件为2月1日。音乐申请建议提前至2026年12月1日，正式申请、问卷和支持文件为2027年1月15日。专业专门要求优先。</p>
+<p class="fact-sources"><a href="#source-u-toronto-dates">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请后的补充材料：</strong>建筑One Idea、Rotman商科、St. George计算机科学、运动学的指定补充申请，以及UTSC部分方向的补充表截止为2027年2月1日。须在申请门户逐项确认所申方向；入学后Major/Specialist的选拔另有要求。</p>
+<p class="fact-sources"><a href="#source-u-toronto-dates">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请渠道与周期：</strong>按学校官网选择适合申请者身份的申请类型，国际高中生通常经OUAC申请；只申请多伦多大学等情形可能使用学校国际申请表。2027申请截止尚未到，但是否已可提交须以具体入口状态为准；旧2026课程页日期不能替代2027校级截止。</p>
+<p class="fact-sources"><a href="#source-u-application-types">官方依据</a> · <a href="#source-u-toronto-dates">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>2026/27 国际生参考：</strong>官方手册所列三个校区文理、商科与管理2026/27秋冬学年学术、附加费用及UHIP合计为CAD69,130.13–69,900.93。这是所属费用类别参考，非2027最终专业报价；不含全部生活费用，部分专业高年级费率更高。</p>
+<p class="fact-sources"><a href="#source-p-toronto-international-bulletin-link">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026/27 费用参考的范围：</strong>2027/28国际招生手册列出的金额仍为2026/27秋冬学年参考：文理商科与管理三个校区合计为CAD69,130.13–69,900.93；工程CAD76,074.83；建筑与设计CAD69,105.31；运动学CAD54,460.31；音乐学院CAD54,053.31。包括学术及附加费用、国际生UHIP医疗保险CAD948；不等于住宿等全部生活费用。部分专业第二年提高费用。</p>
+<p class="fact-sources"><a href="#source-u-toronto-international-bulletin-link">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027/28 金额待核：</strong>同一官方手册说明2027/28更新收费将于2027年夏季提供。本轮不把预算报告中的拟议金额作为最终报价，也不以第一年参考金额乘学制推算全程费用。</p>
+<p class="fact-sources"><a href="#source-u-toronto-international-bulletin-link">官方依据</a></p>
+
+<p class="catalog-fact"><strong>一般国际生奖学金：</strong>大多数入学奖学金随申请自动评估；UTM与UTSC的国际高中申请者有校区奖项，UTSC鼓励填写国际资助资料表。工程国际奖要求按时完成Online Student Profile的财务信息部分。奖项、续领条件与专业范围仍按各奖学金规定。</p>
+<p class="fact-sources"><a href="#source-u-scholarships">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027 Pearson 奖学金：</strong>适用2027年9月开始第一本科的合资格国际学生：须为2026/27高中毕业年在读或不早于2026年6月毕业，已经就读大专／大学者不适用。高中每年提名1人；学校提名截止2026年10月9日，大学入学申请须在10月16日前提交，奖学金申请及材料截止11月6日。奖项覆盖4年学费、书籍、附加费用与住宿，竞争选拔。</p>
+<p class="fact-sources"><a href="#source-u-pearson">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>现有调查仅代表 UTSC 特定答卷：</strong>已取得的官方调查为UTSC于2025年8–9月收集的445份2020–2025届毕业生答卷，其中126份来自2025届、11%为国际学生。答卷就业状态为全职64%、兼职17%、求职11%、未求职8%；不能视为三个校区、某专业、中国学生或单届应届毕业生就业率。继续深造可与就业重叠，不能合并为就业率。</p>
+<p class="fact-sources"><a href="#source-u-toronto-outcomes">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +118,16 @@ hide:
 - [官方项目页面或项目所在目录](https://artsci.calendar.utoronto.ca/section/Human-Biology)
 - [官方目录](https://www.utoronto.ca/academics/undergraduate-programs)
 
+<div class="catalog-source" id="source-p-toronto-detail-104"><div><a href="https://artsci.calendar.utoronto.ca/section/Human-Biology">多伦多大学官方资料：toronto-detail-104 ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-toronto-language"><div><a href="https://future.utoronto.ca/english-language-requirements">多伦多大学官方资料：toronto-language ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-toronto-international-bulletin-link"><div><a href="https://future.utoronto.ca/media/1081">多伦多大学官方资料：toronto-international-bulletin-link ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-toronto-china-specific"><div><a href="https://future.utoronto.ca/international-high-school-requirements-country?title=China">多伦多大学官方资料：toronto-china-specific ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-toronto-language"><div><a href="https://future.utoronto.ca/english-language-requirements">多伦多大学官方资料：toronto-language ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-toronto-dates"><div><a href="https://future.utoronto.ca/deadlines">多伦多大学官方资料：toronto-dates ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-application-types"><div><a href="https://future.utoronto.ca/applications">多伦多大学官方资料：application-types ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-toronto-international-bulletin-link"><div><a href="https://future.utoronto.ca/media/1081">多伦多大学官方资料：toronto-international-bulletin-link ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-scholarships"><div><a href="https://future.utoronto.ca/scholarships-international-students">多伦多大学官方资料：scholarships ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-pearson"><div><a href="https://future.utoronto.ca/pearson-scholarships">多伦多大学官方资料：pearson ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-toronto-outcomes"><div><a href="https://www.utsc.utoronto.ca/aacc/sites/utsc.utoronto.ca.aacc/files/docs/Graduate%20Outcome%20Survey%202025.pdf">多伦多大学官方资料：toronto-outcomes ↗</a><p>所引课程内容、入学路径、年度政策及范围说明</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/toronto/">← 返回多伦多大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

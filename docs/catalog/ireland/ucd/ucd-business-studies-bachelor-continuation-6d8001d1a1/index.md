@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Business Studies (Bachelor continuation)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>Third and fourth years follow the two-year diploma stage</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>Third and fourth 年s follow the two-年 diploma stage</strong></div><div><span>国际生学费</span><strong>本路径国际新生费用本轮未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,13 +40,24 @@ hide:
 
 <p><strong>申请路径：</strong>Part-time mature-student route: minimum age23 in admission year; prior diploma/degree stage. Official course page explicitly excludes international non-EEA applicants.</p>
 
+<p class="catalog-fact"><strong>本专业：课程与培养：</strong>面向有工作经验者的兼职商科衔接，前两年文凭基础后继续三四年级取得学士；家庭学习配合每月到校及在线课，不适用非EEA国际申请者。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-20">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本专业：学位与学制：</strong>授予资格：Bachelor of Business Studies；页面学制为Third and fourth 年s follow the two-年 diploma stage。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-20">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：授课语言：</strong>UCD一般教学语言为英语；目标语言训练、海外交换及实习安排依本专业说明。</p>
+<p class="fact-sources"><a href="#source-p-ucd-english">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>本专业：在职本科续读：</strong>此路径面向有工作经历的成人，先完成文凭阶段后读学位阶段；不是普通全日制高中毕业生直入。页面申请表明确不向International applicants开放。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-20">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>本专业：时间与适用身份：</strong>页面2026入口已关闭；2027入口标2026年10月1日开放，但同时注明国际申请者不适用。不可据开放日期理解为大陆学生可申请。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-20">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
@@ -54,7 +65,15 @@ hide:
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>本专业：官方职业方向介绍：</strong>课程页提及金融、市场营销等工作或进一步学习方向。这是课程职业介绍，不是本届毕业生就业率或薪资调查。</p>
+<p class="fact-sources"><a href="#source-p-ucd-program-20">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：职业资料边界：</strong>课程页的Career &amp; Graduate Study Opportunities属于升学和职业方向介绍。本轮尚未核实各专业可比的毕业就业率、薪资及调查口径，不将介绍中的职业可能性写成实际就业统计。</p>
+<p class="fact-sources"><a href="#source-u-ucd-career-example">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -63,5 +82,8 @@ hide:
 - [官方项目页面或项目所在目录](https://www.ucd.ie/courses/diploma-bachelor-of-business-studies)
 - [官方目录](https://www.ucd.ie/myucd/courses/a-z-course-list/)
 
+<div class="catalog-source" id="source-p-ucd-program-20"><div><a href="https://www.ucd.ie/courses/diploma-bachelor-of-business-studies">Business Studies (Bachelor continuation) ↗</a><p>学位与入口面板、课程培养、申请路线和职业说明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ucd-english"><div><a href="https://www.ucd.ie/registry/prospectivestudents/admissions/policiesandgeneralregulations/generalrequirements/minimumenglishlanguagerequirements/">Minimum English Language Requirements ↗</a><p>英语教学和证明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucd-career-example"><div><a href="https://www.ucd.ie/courses/bsc-actuarial-and-financial-studies">Actuarial and Financial Studies: career opportunities ↗</a><p>官方课程职业方向介绍；未声明就业调查数字</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/ireland/ucd/">← 返回都柏林大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

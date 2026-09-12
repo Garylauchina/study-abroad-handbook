@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Human Sciences All-English Undergraduate Programme</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>4 年</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>English</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语；同时学习日语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,21 +42,40 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-8eadab81b8120a">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027学位与培养：</strong>该项目授Bachelor of Human Sciences，标准2027-10-01至2031-09-30共4年；前三学期共同基础，自第四学期选多样性与包容、日本研究、政治与全球研究方向，再完成本科论文。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-6dc2b6bb90e888">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>中国高中／国际课程与英语：</strong>须2027-09-30前满足认可12年学校教育或IB／A-Level等所列资格。中国高考列为可交标准化成绩，但未给保证录取分数。IELTS最低6.5（通常各项≥6.0），TOEFL旧制85／新制4.5；亦可按简章以符合条件的英语授课经历等证明。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-6dc2b6bb90e888">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>2027英语项目申请：</strong>在线注册和缴费2026-12-01 10:00至2027-01-05 23:59日本时间；纸质材料01-08前寄达。本周期尚未开放。提前至11月申请的新安排仅2028年10月入学适用，不能据网页置顶2027字样误改此日期。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-6dc2b6bb90e888">官方依据</a> · <a href="#source-p-ASREN-b203597ec51341">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>现行本科费用：</strong>本科年学费JPY535,800，分两次各267,900；入学金282,000、考试费17,000另计。页面为现行标准，非研究生法科大学院价，2027有调整以正式账单为准。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-beb65bcd304e94">官方依据</a></p>
+
+<p class="catalog-fact"><strong>资助缺口：</strong>本轮未取得可对普通中国本科新生明确承诺金额及续领标准的奖学金条款；须另查对应本科路径。收费页给出的学费不应自动扣除未获批资助。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-beb65bcd304e94">官方依据</a></p>
+
+</details>
+
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>方向及统计边界：</strong>项目简章给出的职业方向包括国际组织／非营利部门、日本相关机构与国际政治领域；属培养与职业方向说明。本轮未取得这一英语项目按毕业届和群体区分的就业率或薪酬调查。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-6dc2b6bb90e888">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -65,5 +84,9 @@ hide:
 - [官方项目页面或项目所在目录](https://www.hus.osaka-u.ac.jp/en/undergraduate/276.html)
 - [官方目录](https://www.hus.osaka-u.ac.jp/en/)
 
+<div class="catalog-source" id="source-p-ASREN-8eadab81b8120a"><div><a href="https://www.hus.osaka-u.ac.jp/en/">官方本科目录 ↗</a><p>目录列名、学院或校区身份，不证明本轮开放招生</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-6dc2b6bb90e888"><div><a href="https://iudp.hus.osaka-u.ac.jp/wp-content/uploads/2026/07/2027-HUS-Application-Guidelines.pdf">大阪大学Human Sciences英语本科2027简章 ↗</a><p>4年学位、课程方向、资格、语言及时间</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-b203597ec51341"><div><a href="https://iudp.hus.osaka-u.ac.jp/wp-content/uploads/2026/06/20260626Revised_HUS-IUDP-Admission-schedule-change-notice.pdf">大阪人类科学申请日程变更说明 ↗</a><p>2028入学才改变；2027入学仍原日期</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-beb65bcd304e94"><div><a href="https://www.osaka-u.ac.jp/en/campus/tuition/tuition.html">大阪大学本科现行学费 ↗</a><p>本科年费与入学金</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/japan/osaka/">← 返回大阪大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

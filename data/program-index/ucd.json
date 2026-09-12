@@ -3,7 +3,7 @@
   "checked_at": "2026-09-12",
   "coverage": {
     "status": "partial",
-    "count": 151,
+    "count": 140,
     "scope": "本科官方目录；条目类型及排除规则见证据记录。",
     "method": "All133li[data-az-id] from complete static A–Z page captured. Alldetailredirects followed; six obsolete keyword/major redirects checked against current official hub replacements. Separate current-student programme list raw captured for scope comparison.",
     "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
@@ -433,33 +433,6 @@
       "id": "ucd-art-history-5ac217c23d"
     },
     {
-      "name_en": "Art History",
-      "degree_label": "Bachelor of Science",
-      "official_url": "https://www.ucd.ie/courses/ba-art-history",
-      "intake": null,
-      "duration": "4 Years",
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
-      "source_period": "Current official directory, checked 2026-09-12",
-      "raw_key": "detail-836216|Bachelor of Science",
-      "entity_type": "undergraduate programme/major",
-      "entry_routes": [
-        {
-          "degree": "Bachelor of Science",
-          "duration": "4 Years",
-          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
-          "nfq": "8 (240 credits)",
-          "delivery": "On Campus",
-          "attendance": "Full Time",
-          "next_intake": "September"
-        }
-      ],
-      "catalogue_name": "Art History",
-      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
-      "id": "ucd-art-history-8163ee6583"
-    },
-    {
       "name_en": "Bachelor of Commerce",
       "degree_label": "Bachelor of Commerce",
       "official_url": "https://www.ucd.ie/courses/bcomm-commerce",
@@ -724,33 +697,6 @@
       "id": "ucd-celtic-civilisation-d390f412c8"
     },
     {
-      "name_en": "Celtic Civilisation",
-      "degree_label": "Bachelor of Science",
-      "official_url": "https://www.ucd.ie/courses/ba-celtic-civilisation",
-      "intake": null,
-      "duration": "4 Years",
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
-      "source_period": "Current official directory, checked 2026-09-12",
-      "raw_key": "detail-836220|Bachelor of Science",
-      "entity_type": "undergraduate programme/major",
-      "entry_routes": [
-        {
-          "degree": "Bachelor of Science",
-          "duration": "4 Years",
-          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
-          "nfq": "8 (240 credits)",
-          "delivery": "On Campus",
-          "attendance": "Full Time",
-          "next_intake": "September"
-        }
-      ],
-      "catalogue_name": "Celtic Civilisation",
-      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
-      "id": "ucd-celtic-civilisation-2a8ba0de2e"
-    },
-    {
       "name_en": "Chemical & Bioprocess Engineering",
       "degree_label": "Bachelor of Engineering",
       "official_url": "https://www.ucd.ie/courses/be-chemical-bioprocess-engineering",
@@ -964,33 +910,6 @@
       "catalogue_name": "Classics (Greek & Roman Civilization, Latin & Greek)",
       "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
       "id": "ucd-classics-greek-roman-civilization-latin-greek-382b67af69"
-    },
-    {
-      "name_en": "Classics (Greek & Roman Civilization, Latin & Greek)",
-      "degree_label": "Bachelor of Science",
-      "official_url": "https://www.ucd.ie/courses/ba-classics-greek-roman-civilization-latin-greek",
-      "intake": null,
-      "duration": "4 Years",
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
-      "source_period": "Current official directory, checked 2026-09-12",
-      "raw_key": "detail-836232|Bachelor of Science",
-      "entity_type": "undergraduate programme/major",
-      "entry_routes": [
-        {
-          "degree": "Bachelor of Science",
-          "duration": "4 Years",
-          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
-          "nfq": "8 (240 credits)",
-          "delivery": "On Campus",
-          "attendance": "Full Time",
-          "next_intake": "September"
-        }
-      ],
-      "catalogue_name": "Classics (Greek & Roman Civilization, Latin & Greek)",
-      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
-      "id": "ucd-classics-greek-roman-civilization-latin-greek-d36d146802"
     },
     {
       "name_en": "Classics, Art History & Archaeology",
@@ -1623,33 +1542,6 @@
       "id": "ucd-english-b289bf10cf"
     },
     {
-      "name_en": "English",
-      "degree_label": "Bachelor of Science",
-      "official_url": "https://www.ucd.ie/courses/ba-english",
-      "intake": null,
-      "duration": "4 Years",
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
-      "source_period": "Current official directory, checked 2026-09-12",
-      "raw_key": "detail-836288|Bachelor of Science",
-      "entity_type": "undergraduate programme/major",
-      "entry_routes": [
-        {
-          "degree": "Bachelor of Science",
-          "duration": "4 Years",
-          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
-          "nfq": "8 (240 credits)",
-          "delivery": "On Campus",
-          "attendance": "Full Time",
-          "next_intake": "September"
-        }
-      ],
-      "catalogue_name": "English",
-      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
-      "id": "ucd-english-e1b0219eb2"
-    },
-    {
       "name_en": "English Literature",
       "degree_label": "Bachelor of Arts",
       "official_url": "https://www.ucd.ie/courses/ba-english-literature",
@@ -2023,33 +1915,6 @@
       "id": "ucd-french-e0613fbef3"
     },
     {
-      "name_en": "French",
-      "degree_label": "Bachelor of Science",
-      "official_url": "https://www.ucd.ie/courses/ba-french",
-      "intake": null,
-      "duration": "4 Years",
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
-      "source_period": "Current official directory, checked 2026-09-12",
-      "raw_key": "detail-836314|Bachelor of Science",
-      "entity_type": "undergraduate programme/major",
-      "entry_routes": [
-        {
-          "degree": "Bachelor of Science",
-          "duration": "4 Years",
-          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
-          "nfq": "8 (240 credits)",
-          "delivery": "On Campus",
-          "attendance": "Full Time",
-          "next_intake": "September"
-        }
-      ],
-      "catalogue_name": "French",
-      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
-      "id": "ucd-french-b97e21dc9c"
-    },
-    {
       "name_en": "Genetics",
       "degree_label": "Bachelor of Science",
       "official_url": "https://www.ucd.ie/courses/genetics",
@@ -2165,33 +2030,6 @@
       "catalogue_name": "German",
       "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
       "id": "ucd-german-8bc992288c"
-    },
-    {
-      "name_en": "German",
-      "degree_label": "Bachelor of Science",
-      "official_url": "https://www.ucd.ie/courses/ba-german",
-      "intake": null,
-      "duration": "4 Years",
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
-      "source_period": "Current official directory, checked 2026-09-12",
-      "raw_key": "detail-836318|Bachelor of Science",
-      "entity_type": "undergraduate programme/major",
-      "entry_routes": [
-        {
-          "degree": "Bachelor of Science",
-          "duration": "4 Years",
-          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
-          "nfq": "8 (240 credits)",
-          "delivery": "On Campus",
-          "attendance": "Full Time",
-          "next_intake": "September"
-        }
-      ],
-      "catalogue_name": "German",
-      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
-      "id": "ucd-german-2122b79143"
     },
     {
       "name_en": "Global Studies",
@@ -2415,33 +2253,6 @@
       "id": "ucd-irish-folklore-d200a2ff66"
     },
     {
-      "name_en": "Irish Folklore",
-      "degree_label": "Bachelor of Science",
-      "official_url": "https://www.ucd.ie/courses/ba-irish-folklore",
-      "intake": null,
-      "duration": "4 Years",
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
-      "source_period": "Current official directory, checked 2026-09-12",
-      "raw_key": "detail-836328|Bachelor of Science",
-      "entity_type": "undergraduate programme/major",
-      "entry_routes": [
-        {
-          "degree": "Bachelor of Science",
-          "duration": "4 Years",
-          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
-          "nfq": "8 (240 credits)",
-          "delivery": "On Campus",
-          "attendance": "Full Time",
-          "next_intake": "September"
-        }
-      ],
-      "catalogue_name": "Irish Folklore",
-      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
-      "id": "ucd-irish-folklore-9a192e5277"
-    },
-    {
       "name_en": "Irish Studies",
       "degree_label": "Bachelor of Arts",
       "official_url": "https://www.ucd.ie/courses/ba-irish-studies",
@@ -2505,33 +2316,6 @@
       "id": "ucd-irish-gaeilge-a9817c2b16"
     },
     {
-      "name_en": "Irish/Gaeilge",
-      "degree_label": "Bachelor of Science",
-      "official_url": "https://www.ucd.ie/courses/ba-irish",
-      "intake": null,
-      "duration": "4 Years",
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
-      "source_period": "Current official directory, checked 2026-09-12",
-      "raw_key": "detail-836330|Bachelor of Science",
-      "entity_type": "undergraduate programme/major",
-      "entry_routes": [
-        {
-          "degree": "Bachelor of Science",
-          "duration": "4 Years",
-          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
-          "nfq": "8 (240 credits)",
-          "delivery": "On Campus",
-          "attendance": "Full Time",
-          "next_intake": "September"
-        }
-      ],
-      "catalogue_name": "Irish/Gaeilge",
-      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
-      "id": "ucd-irish-gaeilge-acc88997b0"
-    },
-    {
       "name_en": "Italian",
       "degree_label": "Bachelor of Arts",
       "official_url": "https://www.ucd.ie/courses/ba-italian",
@@ -2557,33 +2341,6 @@
       "catalogue_name": "Italian",
       "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
       "id": "ucd-italian-d78bc85c12"
-    },
-    {
-      "name_en": "Italian",
-      "degree_label": "Bachelor of Science",
-      "official_url": "https://www.ucd.ie/courses/ba-italian",
-      "intake": null,
-      "duration": "4 Years",
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
-      "source_period": "Current official directory, checked 2026-09-12",
-      "raw_key": "detail-836331|Bachelor of Science",
-      "entity_type": "undergraduate programme/major",
-      "entry_routes": [
-        {
-          "degree": "Bachelor of Science",
-          "duration": "4 Years",
-          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
-          "nfq": "8 (240 credits)",
-          "delivery": "On Campus",
-          "attendance": "Full Time",
-          "next_intake": "September"
-        }
-      ],
-      "catalogue_name": "Italian",
-      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
-      "id": "ucd-italian-e486f8bed6"
     },
     {
       "name_en": "Landscape Architecture",
@@ -2959,33 +2716,6 @@
       "catalogue_name": "Linguistics",
       "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
       "id": "ucd-linguistics-96d8667c08"
-    },
-    {
-      "name_en": "Linguistics",
-      "degree_label": "Bachelor of Science",
-      "official_url": "https://www.ucd.ie/courses/ba-linguistics",
-      "intake": null,
-      "duration": "4 Years",
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
-      "source_period": "Current official directory, checked 2026-09-12",
-      "raw_key": "detail-836348|Bachelor of Science",
-      "entity_type": "undergraduate programme/major",
-      "entry_routes": [
-        {
-          "degree": "Bachelor of Science",
-          "duration": "4 Years",
-          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
-          "nfq": "8 (240 credits)",
-          "delivery": "On Campus",
-          "attendance": "Full Time",
-          "next_intake": "September"
-        }
-      ],
-      "catalogue_name": "Linguistics",
-      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
-      "id": "ucd-linguistics-5556965d3c"
     },
     {
       "name_en": "Mathematics",
@@ -4042,33 +3772,6 @@
       "catalogue_name": "Spanish",
       "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
       "id": "ucd-spanish-ff63559365"
-    },
-    {
-      "name_en": "Spanish",
-      "degree_label": "Bachelor of Science",
-      "official_url": "https://www.ucd.ie/courses/ba-spanish",
-      "intake": null,
-      "duration": "4 Years",
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
-      "source_period": "Current official directory, checked 2026-09-12",
-      "raw_key": "detail-836428|Bachelor of Science",
-      "entity_type": "undergraduate programme/major",
-      "entry_routes": [
-        {
-          "degree": "Bachelor of Science",
-          "duration": "4 Years",
-          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
-          "nfq": "8 (240 credits)",
-          "delivery": "On Campus",
-          "attendance": "Full Time",
-          "next_intake": "September"
-        }
-      ],
-      "catalogue_name": "Spanish",
-      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
-      "id": "ucd-spanish-4d9d1d0d85"
     },
     {
       "name_en": "Sport & Exercise Management",

@@ -23,63 +23,59 @@ hide:
 
 ## 专业与申请资料
 
-52 个专业条目 · 0 个含详细资料 · 0 个补有专业资料 · 52 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+48 个专业条目 · 0 个含详细资料 · 48 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=oxford#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-archaeology-and-anthropology-42615644e2/">Archaeology and Anthropology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-asian-and-middle-eastern-studies-5f57825d88/">Asian and Middle Eastern Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-biochemistry-molecular-and-cellular-a78d53c522/">Biochemistry (Molecular and Cellular)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-biology-910a04ae1d/">Biology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-biomedical-sciences-0a6fde1eb6/">Biomedical Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-chemistry-da9fa4f72a/">Chemistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classical-archaeology-and-ancient-history-50620b71be/">Classical Archaeology and Ancient History</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-32225ffd09/">Classics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-asian-and-middle-eastern-studies-ab5d8c1e8c/">Classics and Asian and Middle Eastern Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-english-aeaeed46e3/">Classics and English</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-modern-languages-1ea0e08d2e/">Classics and Modern Languages</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-computer-science-a07a5a19fd/">Computer Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-computer-science-and-philosophy-7e9f9fdb36/">Computer Science and Philosophy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-earth-sciences-geology-342cedcfef/">Earth Sciences (Geology)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-economics-and-management-9c76187931/">Economics and Management</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-engineering-science-01b5996fc4/">Engineering Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-language-and-literature-c90df2440a/">English Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-modern-languages-28fb787691/">English and Modern Languages</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-european-and-middle-eastern-languages-17a4cafbb9/">European and Middle Eastern Languages</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-fine-art-918485d0cc/">Fine Art</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-foundation-year-chemistry-engineering-and-materials-science-e78aac9093/">Foundation Year (Chemistry, Engineering and Materials Science)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-foundation-year-humanities-1d992a0808/">Foundation Year (Humanities)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-foundation-year-law-9c9b1dd30d/">Foundation Year (Law)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-foundation-year-ppe-9010d8d107/">Foundation Year (PPE)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-geography-efe957984e/">Geography</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-04ce621893/">History</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-ancient-and-modern-76a4499b14/">History (Ancient and Modern)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-economics-56fe13b78b/">History and Economics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-english-50c0f835ea/">History and English</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-modern-languages-14a81cc983/">History and Modern Languages</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-politics-1033d4a308/">History and Politics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-of-art-8e74981f83/">History of Art</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-human-sciences-8e9bd34321/">Human Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-law-jurisprudence-c4019eb6b6/">Law (Jurisprudence)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-materials-science-c8b2524506/">Materials Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-mathematics-mathematics-and-statistics-a0009a57fd/">Mathematics / Mathematics and Statistics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-mathematics-and-computer-science-cc5f858f87/">Mathematics and Computer Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-mathematics-and-philosophy-87e999890d/">Mathematics and Philosophy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-medicine-59b3b8c367/">Medicine</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-medicine-graduate-entry-fabd05ad60/">Medicine (graduate entry)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-languages-a8d277daf4/">Modern Languages</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-languages-and-linguistics-2914e751d3/">Modern Languages and Linguistics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-music-629c2c0f04/">Music</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-modern-languages-6d57f472e2/">Philosophy and Modern Languages</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-theology-62cab4189a/">Philosophy and Theology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-politics-and-economics-ppe-526af50487/">Philosophy, Politics and Economics (PPE)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-physics-eeb61c03d3/">Physics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-physics-and-philosophy-64edf47523/">Physics and Philosophy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-psychology-experimental-229dd43b5e/">Psychology (Experimental)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-psychology-philosophy-and-linguistics-4b858690e7/">Psychology, Philosophy and Linguistics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-religion-and-asian-and-middle-eastern-studies-e5ab4bcbc5/">Religion and Asian and Middle Eastern Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-theology-and-religion-3db2fabbb7/">Theology and Religion</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-archaeology-and-anthropology-42615644e2/">考古学与人类学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-asian-and-middle-eastern-studies-5f57825d88/">亚洲与中东研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-biochemistry-molecular-and-cellular-a78d53c522/">生物化学（分子与细胞）</a><small>MBiochem · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-biology-910a04ae1d/">生物学</a><small>MBiol or BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-biomedical-sciences-0a6fde1eb6/">生物医学科学</a><small>MBiomedSci or BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-chemistry-da9fa4f72a/">化学</a><small>MChem · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classical-archaeology-and-ancient-history-50620b71be/">古典考古与古代史</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-32225ffd09/">古典学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-asian-and-middle-eastern-studies-ab5d8c1e8c/">古典学与亚洲及中东研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-english-aeaeed46e3/">古典学与英语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-modern-languages-1ea0e08d2e/">古典学与现代语言</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-computer-science-a07a5a19fd/">计算机科学</a><small>BA or MCompSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-computer-science-and-philosophy-7e9f9fdb36/">计算机科学与哲学</a><small>BA or MCompPhil · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-earth-sciences-geology-342cedcfef/">地球科学（地质学）</a><small>BA Geology or MEarthSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-economics-and-management-9c76187931/">经济学与管理学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-engineering-science-01b5996fc4/">工程科学</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-language-and-literature-c90df2440a/">英语语言与文学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-modern-languages-28fb787691/">英语与现代语言</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-european-and-middle-eastern-languages-17a4cafbb9/">欧洲与中东语言</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-fine-art-918485d0cc/">纯艺术</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-geography-efe957984e/">地理学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-04ce621893/">历史学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-ancient-and-modern-76a4499b14/">古代与现代史</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-economics-56fe13b78b/">历史与经济学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-english-50c0f835ea/">历史与英语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-modern-languages-14a81cc983/">历史与现代语言</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-politics-1033d4a308/">历史与政治学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-of-art-8e74981f83/">艺术史</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-human-sciences-8e9bd34321/">人类科学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-law-jurisprudence-c4019eb6b6/">法律（法理学）</a><small>BA in Jurisprudence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-materials-science-c8b2524506/">材料科学</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-mathematics-mathematics-and-statistics-a0009a57fd/">数学／数学与统计</a><small>MMath or BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-mathematics-and-computer-science-cc5f858f87/">数学与计算机科学</a><small>BA or MMathCompSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-mathematics-and-philosophy-87e999890d/">数学与哲学</a><small>BA / MMathPhil · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-medicine-59b3b8c367/">医学</a><small>BA / BM BCh · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-medicine-graduate-entry-fabd05ad60/">医学（毕业生加速入口）</a><small>BM BCh · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-languages-a8d277daf4/">现代语言</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-languages-and-linguistics-2914e751d3/">现代语言与语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-music-629c2c0f04/">音乐</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-modern-languages-6d57f472e2/">哲学与现代语言</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-theology-62cab4189a/">哲学与神学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-politics-and-economics-ppe-526af50487/">哲学、政治与经济（PPE）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-physics-eeb61c03d3/">物理学</a><small>MPhys / BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-physics-and-philosophy-64edf47523/">物理与哲学</a><small>MPhysPhil / BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-psychology-experimental-229dd43b5e/">实验心理学</a><small>MSci / BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-psychology-philosophy-and-linguistics-4b858690e7/">心理学、哲学与语言学</a><small>MSci / BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-religion-and-asian-and-middle-eastern-studies-e5ab4bcbc5/">宗教与亚洲及中东研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-theology-and-religion-3db2fabbb7/">神学与宗教</a><small>BA · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -90,6 +86,12 @@ hide:
 <p class="catalog-fact"><strong>中国普通高中／高考：</strong>Oxford官方国际资格表的China条目将Senior High School Diploma及Gaokao均列为不接受。需要使用学校另行认可的资格；不能自行按高考百分比折算。</p>
 <p class="fact-sources"><a href="#source-u-UKENR-9ca54d07a0bc53">官方依据</a></p>
 
+<p class="catalog-fact"><strong>英语考试标准：</strong>IELTS Academic总分7.5且每项至少7.0，不接受IELTS Online或跨场次拼分。英语授课IB或符合连续全日制英语教育等条件者可向录取学院申请豁免；不等于所有大陆国际学校学生自动豁免。</p>
+<p class="fact-sources"><a href="#source-u-OXG-English">官方依据</a></p>
+
+<p class="catalog-fact"><strong>TOEFL版本及英语达标时间：</strong>截至2026-09-12，官网仅接受2026-01-20及以前参加的TOEFL：总分110，听22、读24、说25、写24；自2026-01-21起的新版尚不满足该校英语条件。获录取者须在收到offer当年7月31日前证明达标。</p>
+<p class="fact-sources"><a href="#source-u-OXG-English">官方依据</a></p>
+
 ### 申请安排
 
 <p class="catalog-fact"><strong>2027 UCAS申请：</strong>2027入学的牛津／剑桥本科平等审理截止为2026年10月15日英国18:00；考试注册及学院补充材料另有期限。2026年9月12日核验时该截止尚未到。</p>
@@ -99,14 +101,15 @@ hide:
 
 <div class="catalog-source" id="source-u-UKENR-9ca54d07a0bc53"><div><a href="https://www.ox.ac.uk/admissions/undergraduate/courses/admissions-requirements/international-qualifications">Oxford 国际学历：中国条目 ↗</a><p>不接受高考或普通高中毕业证</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-f5da9307fd5b4a"><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS 2026／2027申请日历 ↗</a><p>2027申请提交、牛剑和医学早截止、常规平等审理截止</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-OXG-English"><div><a href="https://www.ox.ac.uk/admissions/undergraduate/applying/for-international-students/english-language-requirements-visas">Oxford 英语语言要求 ↗</a><p>较高英语标准、IELTS、TOEFL版本限制与豁免</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 52 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 48 项；这不是全字段详情的完成状态。
 
 <p><strong>统计范围：</strong>All official A–Z table course links only; no subject guessing or arbitrary joint combinations；Retain graduate entry medicine; distinguish foundation pathways；Do not assume BA for science courses or entry year without individual source</p>
 
-<p><strong>对账方法：</strong>[{&quot;page&quot;: &quot;single A–Z table&quot;, &quot;count&quot;: 52, &quot;first&quot;: &quot;Archaeology and Anthropology&quot;, &quot;last&quot;: &quot;Theology and Religion&quot;, &quot;paging&quot;: null}]</p>
+<p><strong>对账方法：</strong>[{&quot;page&quot;: &quot;single A–Z table&quot;, &quot;count&quot;: 52, &quot;first&quot;: &quot;Archaeology and Anthropology&quot;, &quot;last&quot;: &quot;Theology and Religion&quot;, &quot;paging&quot;: null}] 逐页核对2027课程学位标签，排除4个独立CertHE基础年；语言等分组仍保留原目录结构。</p>
 
 <p><strong>排除项：</strong>All official A–Z table course links only; no subject guessing or arbitrary joint combinations；Retain graduate entry medicine; distinguish foundation pathways；Do not assume BA for science courses or entry year without individual source</p>
 

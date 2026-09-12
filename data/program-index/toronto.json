@@ -3,9 +3,9 @@
   "checked_at": "2026-09-12",
   "coverage": {
     "status": "partial",
-    "count": 316,
+    "count": 320,
     "scope": "大学本科招生目录三校区的 Major、Specialist、Professional、Second-Entry 项目；相同专业不同校区分别保留。",
-    "method": "完整静态目录378张课程卡，排除仅Minor与Artist Diploma，按名称、学位、校区识别。",
+    "method": "完整静态目录378张课程卡，排除仅Minor与Artist Diploma，按名称、学位、校区识别。 已补DDS、JD、三年制PharmD及已有药师PharmD四个专业学位入口；2027士嘉堡计算机学位更正为BCS，稳定ID保留。",
     "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
     "sources": [
       {
@@ -13,6 +13,102 @@
         "sha256": "85c543add0d960545c9f5970a7bf939af94985da693cb31e034a105093ede98d",
         "raw_file": "scratch/full-catalog/root/toronto.html",
         "bytes": 618346
+      },
+      {
+        "url": "https://future.utoronto.ca/english-language-requirements",
+        "sha256": "4964a9340ec0768907f0976d5085bfd58996a27801c967155016b94cc9ede5e3",
+        "raw_file": "scratch/full-catalog/root/toronto-language.html",
+        "bytes": 118233
+      },
+      {
+        "url": "https://www.dentistry.utoronto.ca/prospective-students/undergraduate/DDS",
+        "sha256": "9ca34cea21d3967406a135e210db5c51b419ed9fb8e70385d4d4df8ef69d52f7",
+        "raw_file": "scratch/full-catalog/root/toronto-dds.html",
+        "bytes": 54222
+      },
+      {
+        "url": "https://www.dentistry.utoronto.ca/prospective-students/undergraduate/what-next/fees-financial-aid",
+        "sha256": "36f5f13f171014fed4bc5e2806be81d47458250eff8a2a51a3ba5f5894be5d0b",
+        "raw_file": "scratch/full-catalog/toronto-enrichment/raw/dds-aid.html",
+        "bytes": 27875
+      },
+      {
+        "url": "https://www.law.utoronto.ca/jd-program/handbook-webversion",
+        "sha256": "22c18fe7319c24d10cf4ef2711b808d6a8ac248e32eee10aa1377017293ad2cb",
+        "raw_file": "scratch/full-catalog/toronto-enrichment/raw/jd-handbook-full.html",
+        "bytes": 309324
+      },
+      {
+        "url": "https://www.law.utoronto.ca/jd-program/first-year-jd-program-applicants",
+        "sha256": "01aed868bb176a4f81881731cc193b73145497b4f340016a9108dab0b825b766",
+        "raw_file": "scratch/full-catalog/toronto-enrichment/raw/jd-first-year.html",
+        "bytes": 172236
+      },
+      {
+        "url": "https://www.law.utoronto.ca/jd-program/how-apply",
+        "sha256": "ca96a51a094c1b7c338a970f6defc3f5c748a97ce735a69b8ac3bf76b67f53ea",
+        "raw_file": "scratch/full-catalog/toronto-enrichment/raw/jd-apply.html",
+        "bytes": 168461
+      },
+      {
+        "url": "https://www.law.utoronto.ca/jd-admissions-policies",
+        "sha256": "6204f99cc598c7bbd296126f901368564e89a9e39e7522185dbd919e890c115b",
+        "raw_file": "scratch/full-catalog/root/toronto-jd-policy.html",
+        "bytes": 193791
+      },
+      {
+        "url": "https://www.law.utoronto.ca/jd-program/tuition-and-fees",
+        "sha256": "ddad96ca63436adbe5c296220f37bb0fa7e7517966633a0fd37117b4f3175ea8",
+        "raw_file": "scratch/full-catalog/toronto-enrichment/raw/jd-fees.html",
+        "bytes": 155102
+      },
+      {
+        "url": "https://www.pharmacy.utoronto.ca/programs/doctor-pharmacy-pharmd",
+        "sha256": "7de99daecca05236a8152fbb9d9b62a85b1832b9e777357bae9858973fe70295",
+        "raw_file": "scratch/full-catalog/root/toronto-pharmd.html",
+        "bytes": 87078
+      },
+      {
+        "url": "https://www.pharmacy.utoronto.ca/programs/doctor-pharmacy-pharmd/frequently-asked-questions",
+        "sha256": "48c8a87ce32cf30ce761a480e8cf4b2fdbf4006c987d4c22a8461b91cb1ea501",
+        "raw_file": "scratch/full-catalog/root/toronto-pharmd-faq.html",
+        "bytes": 98887
+      },
+      {
+        "url": "https://www.pharmacy.utoronto.ca/programs/doctor-pharmacy-pharmd/admissions-overview",
+        "sha256": "770e9c12ba4d3262560f8fdd3fdc3594bd1bae9a8b8f45f2c13c81145f94173e",
+        "raw_file": "scratch/full-catalog/root/toronto-pharmd-admissions.html",
+        "bytes": 57995
+      },
+      {
+        "url": "https://www.pharmacy.utoronto.ca/programs/doctor-pharmacy-pharmd/pharmd-application-process-timelines",
+        "sha256": "e2fc69fbeaf350dcd6861ac1eb2f60aeaf03003a57f8dc394a3d484e892ae375",
+        "raw_file": "scratch/full-catalog/root/toronto-pharmd-dates.html",
+        "bytes": 58398
+      },
+      {
+        "url": "https://pharmacy.calendar.utoronto.ca/section/Doctor-of-Pharmacy-%283~year%29",
+        "sha256": "53a7cfabbfec92a5dc59313f7b9ca437ddbc0514e44f3aa8d01aa13c386a3c5d",
+        "raw_file": "scratch/full-catalog/toronto-enrichment/raw/pharmd-calendar.html",
+        "bytes": 196396
+      },
+      {
+        "url": "https://www.pharmacy.utoronto.ca/current-students/pharmd/pharmd-awards-financial-assistance",
+        "sha256": "ef7dbcd8ed55c92cff74144517cc149e9b8a0290bc4c754101dd31c1d5fd4a77",
+        "raw_file": "scratch/full-catalog/toronto-enrichment/raw/pharmd-awards.html",
+        "bytes": 82880
+      },
+      {
+        "url": "https://www.pharmacy.utoronto.ca/programs/pharmd-pharmacists/pharmd-pharmacists-faq",
+        "sha256": "8f87b4d4d3cf49517e4397628b6f9164301e985863e40ebed13ab4777e057bdd",
+        "raw_file": "scratch/full-catalog/root/toronto-pharmd-pharmacists.html",
+        "bytes": 69297
+      },
+      {
+        "url": "https://www.pharmacy.utoronto.ca/programs/pharmd-pharmacists/pharmd-pharmacists-admission-requirements",
+        "sha256": "7a1b54ea2848d129e0486cf6a08ad89af97abc9c4855a731685921f8b417ca07",
+        "raw_file": "scratch/full-catalog/toronto-enrichment/raw/pharmd-completion-admissions.html",
+        "bytes": 49402
       }
     ],
     "gaps": [
@@ -1030,73 +1126,78 @@
     },
     {
       "name_en": "Computer Science",
-      "degree_label": "Honours Bachelor of Science",
+      "degree_label": "Bachelor of Computer Science (BCS)",
       "official_url": "https://www.utsc.utoronto.ca/admissions/programs/computer-science",
       "discovery_source_url": "https://www.utoronto.ca/academics/undergraduate-programs",
       "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
+      "intake": "2027",
+      "duration": "4年",
       "campus": "Scarborough campus",
       "language": null,
       "raw_key": "Computer Science|Honours Bachelor of Science|Scarborough campus",
       "program_type": "Major / Minor / Specialist",
-      "id": "toronto-computer-science-d3a05d0a7f"
+      "id": "toronto-computer-science-d3a05d0a7f",
+      "identity_note": "当前项目页2027 BCS；保留旧目录raw_key及链接以追踪更正。"
     },
     {
       "name_en": "Computer Science: Comprehensive Stream",
-      "degree_label": "Honours Bachelor of Science",
+      "degree_label": "Bachelor of Computer Science (BCS)",
       "official_url": "https://www.utsc.utoronto.ca/admissions/programs/computer-science",
       "discovery_source_url": "https://www.utoronto.ca/academics/undergraduate-programs",
       "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
+      "intake": "2027",
+      "duration": "4年",
       "campus": "Scarborough campus",
       "language": null,
       "raw_key": "Computer Science: Comprehensive Stream|Honours Bachelor of Science|Scarborough campus",
       "program_type": "Specialist",
-      "id": "toronto-computer-science-comprehensive-stream-9e2a84e3f0"
+      "id": "toronto-computer-science-comprehensive-stream-9e2a84e3f0",
+      "identity_note": "当前项目页2027 BCS；保留旧目录raw_key及链接以追踪更正。"
     },
     {
       "name_en": "Computer Science: Entrepreneurship Stream",
-      "degree_label": "Honours Bachelor of Science",
+      "degree_label": "Bachelor of Computer Science (BCS)",
       "official_url": "https://www.utsc.utoronto.ca/admissions/programs/computer-science",
       "discovery_source_url": "https://www.utoronto.ca/academics/undergraduate-programs",
       "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
+      "intake": "2027",
+      "duration": "4年",
       "campus": "Scarborough campus",
       "language": null,
       "raw_key": "Computer Science: Entrepreneurship Stream|Honours Bachelor of Science|Scarborough campus",
       "program_type": "Specialist",
-      "id": "toronto-computer-science-entrepreneurship-stream-a9cefab9de"
+      "id": "toronto-computer-science-entrepreneurship-stream-a9cefab9de",
+      "identity_note": "当前项目页2027 BCS；保留旧目录raw_key及链接以追踪更正。"
     },
     {
       "name_en": "Computer Science: Information Systems Stream",
-      "degree_label": "Honours Bachelor of Science",
+      "degree_label": "Bachelor of Computer Science (BCS)",
       "official_url": "https://www.utsc.utoronto.ca/admissions/programs/computer-science",
       "discovery_source_url": "https://www.utoronto.ca/academics/undergraduate-programs",
       "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
+      "intake": "2027",
+      "duration": "4年",
       "campus": "Scarborough campus",
       "language": null,
       "raw_key": "Computer Science: Information Systems Stream|Honours Bachelor of Science|Scarborough campus",
       "program_type": "Specialist",
-      "id": "toronto-computer-science-information-systems-stream-944c448bbd"
+      "id": "toronto-computer-science-information-systems-stream-944c448bbd",
+      "identity_note": "当前项目页2027 BCS；保留旧目录raw_key及链接以追踪更正。"
     },
     {
       "name_en": "Computer Science: Software Engineering Stream",
-      "degree_label": "Honours Bachelor of Science",
+      "degree_label": "Bachelor of Computer Science (BCS)",
       "official_url": "https://www.utsc.utoronto.ca/admissions/programs/computer-science",
       "discovery_source_url": "https://www.utoronto.ca/academics/undergraduate-programs",
       "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
+      "intake": "2027",
+      "duration": "4年",
       "campus": "Scarborough campus",
       "language": null,
       "raw_key": "Computer Science: Software Engineering Stream|Honours Bachelor of Science|Scarborough campus",
       "program_type": "Specialist",
-      "id": "toronto-computer-science-software-engineering-stream-a049c48c94"
+      "id": "toronto-computer-science-software-engineering-stream-a049c48c94",
+      "identity_note": "当前项目页2027 BCS；保留旧目录raw_key及链接以追踪更正。"
     },
     {
       "name_en": "Conservation and Biodiversity",
@@ -4443,6 +4544,66 @@
       "raw_key": "Work and Organizations: Social Sciences Contexts|Honours Bachelor of Arts|St. George campus",
       "program_type": "Major",
       "id": "toronto-work-and-organizations-social-sciences-contexts-769841b091"
+    },
+    {
+      "name_en": "Dentistry — Doctor of Dental Surgery",
+      "degree_label": "Doctor of Dental Surgery (DDS)",
+      "official_url": "https://www.dentistry.utoronto.ca/prospective-students/undergraduate/DDS",
+      "discovery_source_url": "https://www.dentistry.utoronto.ca/prospective-students/undergraduate/DDS",
+      "source_period": "2027招生资料；课程及费用年份在事实中分别标明",
+      "intake": "2027",
+      "duration": "4 年（须先完成大学学习）",
+      "campus": null,
+      "language": "英语",
+      "raw_key": "Dentistry — Doctor of Dental Surgery|Doctor of Dental Surgery (DDS)|Professional entry",
+      "program_type": "专业本科／本科后入口",
+      "entry_route": "须已有大学教育／专业资格；非高中直入",
+      "id": "toronto-dentistry-doctor-of-dental-surgery-d4240057f5"
+    },
+    {
+      "name_en": "Law — Juris Doctor",
+      "degree_label": "Juris Doctor (JD)",
+      "official_url": "https://www.law.utoronto.ca/jd-program/first-year-jd-program-applicants",
+      "discovery_source_url": "https://www.law.utoronto.ca/jd-program/first-year-jd-program-applicants",
+      "source_period": "2027招生资料；课程及费用年份在事实中分别标明",
+      "intake": "2027",
+      "duration": "3 年（全日制，须先有大学学习）",
+      "campus": null,
+      "language": "英语",
+      "raw_key": "Law — Juris Doctor|Juris Doctor (JD)|Professional entry",
+      "program_type": "第一专业学位／本科后入口",
+      "entry_route": "须已有大学教育／专业资格；非高中直入",
+      "id": "toronto-law-juris-doctor-3c603e30be"
+    },
+    {
+      "name_en": "Pharmacy — Doctor of Pharmacy",
+      "degree_label": "Doctor of Pharmacy (PharmD)",
+      "official_url": "https://www.pharmacy.utoronto.ca/programs/doctor-pharmacy-pharmd",
+      "discovery_source_url": "https://www.pharmacy.utoronto.ca/programs/doctor-pharmacy-pharmd",
+      "source_period": "2027招生资料；课程及费用年份在事实中分别标明",
+      "intake": "2027",
+      "duration": "3 年（须先有大学教育）",
+      "campus": null,
+      "language": "英语",
+      "raw_key": "Pharmacy — Doctor of Pharmacy|Doctor of Pharmacy (PharmD)|Professional entry",
+      "program_type": "第二入口专业本科",
+      "entry_route": "须已有大学教育／专业资格；非高中直入",
+      "id": "toronto-pharmacy-doctor-of-pharmacy-908a6e7e51"
+    },
+    {
+      "name_en": "PharmD for Pharmacists",
+      "degree_label": "Doctor of Pharmacy (PharmD)",
+      "official_url": "https://www.pharmacy.utoronto.ca/programs/pharmd-pharmacists/pharmd-pharmacists-faq",
+      "discovery_source_url": "https://www.pharmacy.utoronto.ca/programs/pharmd-pharmacists/pharmd-pharmacists-faq",
+      "source_period": "2027招生资料；课程及费用年份在事实中分别标明",
+      "intake": "2027",
+      "duration": "最多4 年（最后一期须2031夏完成）",
+      "campus": null,
+      "language": "英语",
+      "raw_key": "PharmD for Pharmacists|Doctor of Pharmacy (PharmD)|Professional entry",
+      "program_type": "已有药师／药学学历的学位完成路径",
+      "entry_route": "须已有大学教育／专业资格；非高中直入",
+      "id": "toronto-pharmd-for-pharmacists-78b84a7e96"
     }
   ]
 }

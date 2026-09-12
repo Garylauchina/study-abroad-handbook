@@ -32,7 +32,7 @@ hide:
 
 <p><strong>官方名称：</strong>German</p>
 
-<p><strong>授予学位 / 项目类型：</strong>Undergraduate major within named bachelor</p>
+<p><strong>授予学位 / 项目类型：</strong>Bachelors of Music  /  Arts · Major</p>
 
 <p><strong>目录适用期：</strong>2027</p>
 

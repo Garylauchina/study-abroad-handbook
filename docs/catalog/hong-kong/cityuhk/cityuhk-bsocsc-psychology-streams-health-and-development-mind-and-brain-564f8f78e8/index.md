@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">BSocSc Psychology (Streams: Health and Development / Mind and Brain)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4 年</strong></div><div><span>国际生学费</span><strong>HK$190,000/年（2026/27非本地参考）</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语（个别课程/实践另核）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,21 +42,77 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>课程内容：</strong>涵盖发展、人格、生物、认知和社会心理学，结合行为研究方法、统计分析及毕业研究项目。</p>
+<p class="fact-sources"><a href="#source-p-cityuhk-detail-dom-1a88290333305a124cb8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>官方学制与入口：</strong>4 年。这是本页对应入学资格的修读长度。</p>
+<p class="fact-sources"><a href="#source-p-cityuhk-detail-dom-1a88290333305a124cb8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>授课语言边界：</strong>大学非高考招生说明以英语教学；个别语言、社会服务或临床活动的用语要求须再看专业规定。</p>
+<p class="fact-sources"><a href="#source-p-cityuhk-nongao-dom">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>高考与国际资格分轨：</strong>课程页列Chinese Mainland Non-Gaokao入口；内地高考申请另查大学2026独立招生专业及选科表，不能以Non-JUPAS规则替代。</p>
+<p class="fact-sources"><a href="#source-p-cityuhk-mainland-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>尚待核实：</strong>除本条明确列出的条件，本轮未逐项核实2027专业先修、面试与竞争分数；香港DSE选科不直接套用大陆高考。</p>
+<p class="fact-sources"><a href="#source-p-cityuhk-detail-dom-1a88290333305a124cb8">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026高考改为独立招生：</strong>城大自2026年起在内地独立招收高考生，不再通过统招志愿录取。2026基本要求为实际高考总分达一本/特殊类型招生线（不计加分），英语至少110/150；个别课程另有科目、面试或材料要求，基本线不保证录取。</p>
+<p class="fact-sources"><a href="#source-u-cityuhk-mainland-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>内地国际学历另轨：</strong>持IB、A-level等非高考资格的内地申请人走Chinese Mainland Non-Gaokao入口。普通一年级资格包括IB文凭或3门A-level至少E；Advanced Standing I的IB要求另为至少30分，不能把后者当作普通一年级分数。</p>
+<p class="fact-sources"><a href="#source-u-cityuhk-nongao-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>非高考英语要求：</strong>页面列IELTS Academic总分6.5，入学前两年内；不接受Indicator、Online及One Skill Retake。法律和兽医等有更高要求。旧制TOEFL页仍列79，本轮未取得新制2027完整对照。</p>
+<p class="fact-sources"><a href="#source-u-cityuhk-nongao-dom">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>2027及特别路线日期：</strong>本轮未取得本项目2027独立课程材料期限；Advanced Standing、JUPAS及跨校路线按相应申请系统办理，不能混用普通高考日历。</p>
+<p class="fact-sources"><a href="#source-p-cityuhk-detail-dom-1a88290333305a124cb8">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026高考已结束窗口：</strong>网上最多两项课程志愿且按顺序审理；2026申请及支持材料截止6月11日，高考成绩补交截至6月26日中午。申请费港币450元；接受录取并缴留位费后，不再继续内地统招录取。2027完整日程本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-cityuhk-mainland-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026国际学历窗口参考：</strong>非高考入口2026入学于2025年9月25日开放，优先轮11月15日、主要截止2026年1月15日；此周期已结束，本轮未取得2027完整期限。</p>
+<p class="fact-sources"><a href="#source-u-cityuhk-nongao-dom">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>2026/27非本地年学费：</strong>港币190,000元／年，属于2026/27参考，不含食宿；2027金额本轮未取得。</p>
+<p class="fact-sources"><a href="#source-p-cityuhk-fees-dom">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>普通及兽医费用分开：</strong>2026/27非本地政府资助普通本科年费港币190,000元；兽医学年费392,000元。双学位额外学分、延长学期及自资阶段须另查；2027费用本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-cityuhk-fees-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考奖学金条件：</strong>高考申请人自动获考虑入学奖学金，类别包括全额、全学费及半学费。最高档要求实际总分所属省前0.1%并英语优异，续领须达到校方学业要求；获奖不由达到基本录取线保证。</p>
+<p class="fact-sources"><a href="#source-u-cityuhk-fees-dom">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>就业统计范围：</strong>本轮未取得本专业按毕业届次、调查分母及内地/非本地学生范围说明的就业率；课程网页的雇主例子和职业方向不等于就业保证。</p>
+<p class="fact-sources"><a href="#source-p-cityuhk-detail-dom-1a88290333305a124cb8">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>毕业去向证据范围：</strong>内地招生毕业去向页列举雇主及升学学校，本轮未取得带毕业届次、调查分母和各课程非本地范围的就业率，不能用公司名单推算就业率。</p>
+<p class="fact-sources"><a href="#source-u-cityuhk-outcomes-dom">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -65,5 +121,13 @@ hide:
 - [官方项目页面或项目所在目录](https://www.cityu.edu.hk/admo/programmes/bsocsc-psychology)
 - [官方目录](https://www.cityu.edu.hk/admo/programmes?page=6)
 
+<div class="catalog-source" id="source-p-cityuhk-detail-dom-1a88290333305a124cb8"><div><a href="https://www.cityu.edu.hk/admo/programmes/bsocsc-psychology">cityuhk 官方本科资料：detail-dom-1a88290333305a124cb8 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-cityuhk-mainland-dom"><div><a href="https://www.cityu.edu.hk/admo/mainland/admissions">cityuhk 官方本科资料：mainland-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-cityuhk-fees-dom"><div><a href="https://www.cityu.edu.hk/admo/mainland/scholarship_admission">cityuhk 官方本科资料：fees-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-cityuhk-nongao-dom"><div><a href="https://www.cityu.edu.hk/admo/admissions/mainland-non-gaokao-admission">cityuhk 官方本科资料：nongao-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cityuhk-mainland-dom"><div><a href="https://www.cityu.edu.hk/admo/mainland/admissions">cityuhk 官方本科资料：mainland-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cityuhk-nongao-dom"><div><a href="https://www.cityu.edu.hk/admo/admissions/mainland-non-gaokao-admission">cityuhk 官方本科资料：nongao-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cityuhk-fees-dom"><div><a href="https://www.cityu.edu.hk/admo/mainland/scholarship_admission">cityuhk 官方本科资料：fees-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cityuhk-outcomes-dom"><div><a href="https://www.cityu.edu.hk/admo/mainland/aboutcityu_graduation">cityuhk 官方本科资料：outcomes-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/hong-kong/cityuhk/">← 返回香港城市大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

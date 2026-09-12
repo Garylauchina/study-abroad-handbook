@@ -3,9 +3,9 @@
   "checked_at": "2026-09-12",
   "coverage": {
     "status": "partial",
-    "count": 392,
+    "count": 390,
     "scope": "2026–2027本科及专业学位校历中可识别学位名称的正式专业、主修、荣誉、联合荣誉组件与专项方向。",
-    "method": "完整A–Z共1396节点；读取167个本科院系programs节点并合并校历导航的605个含本科/专业学位标签条目，按URL去重后排除辅修、基础年及聚合入口。",
+    "method": "完整A–Z共1396节点；读取167个本科院系programs节点并合并校历导航的605个含本科/专业学位标签条目，按URL去重后排除辅修、基础年及聚合入口。 逐页核验后再合并3处学院间重复条目，并移除1处院系总览。 另据现行招生页补Music BA，以及音乐学院明确列出的在读后BMus+BSc双学位路径；旧Faculty Program按实际队列合并至MusicStudies。",
     "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
     "sources": [
       {
@@ -13,6 +13,26 @@
         "sha256": "948a5916cd853a68c2bcfc7ec5f0138416c87a62579bb25e2388a2877bd5b590",
         "raw_file": "scratch/full-catalog/root/mcgill-dept-057.html",
         "bytes": 475043
+      },
+      {
+        "url": "https://www.mcgill.ca/undergraduate-admissions/program/music",
+        "sha256": "2088a7607215f14efef5adb85fec2a5c8ad033e7b532c160a9e7f2d54de90ac5",
+        "raw_file": "scratch/full-catalog/root/mcgill-ba-music-current.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=67&field_fee_residency_status_tid=141",
+        "sha256": "757f02fa074150375707c0d8d99f485e08ebdc40adddeb24ebd351eed6db548e",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-67.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/international/china",
+        "sha256": "4af01c61efc2dd46ea23e04e5eb6a9668b4c20d44f7a5e9c3f5fcf89e15f5e73",
+        "raw_file": "scratch/full-catalog/root/mcgill-china.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/music/programs/double",
+        "sha256": "7734aab9de298cbb0e3fff9f097483271d1925f501f098767efdb35e73ace56f",
+        "raw_file": "scratch/full-catalog/root/mcgill-music-double.html"
       }
     ],
     "gaps": [
@@ -2986,19 +3006,6 @@
       "id": "mcgill-major-education-in-global-contexts-b-a-education-b4dc01baa4"
     },
     {
-      "name_en": "Music Education / Music Elementary and Secondary Concurrent Major (B.Mus./B.Ed.)",
-      "degree_label": "B.Mus./B.Ed.",
-      "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/music-bmus-elementary-secondary-bed/",
-      "discovery_source_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/physical-occupational-therapy/student-evaluation-promotion/course-change-withdrawal/",
-      "source_period": "2026–2027 Course Catalogue",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "raw_key": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/music-bmus-elementary-secondary-bed/",
-      "id": "mcgill-music-education-music-elementary-and-secondary-concurrent-major-b-0e1516caac"
-    },
-    {
       "name_en": "Secondary English (B.Ed.)",
       "degree_label": "B.Ed.",
       "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-english-bed/",
@@ -3389,19 +3396,6 @@
       "id": "mcgill-faculty-program-environment-environment-and-development-b-a-54-cr-509930da20"
     },
     {
-      "name_en": "Environment Interfaculty Program (B.A. & Sc.) (54 credits)",
-      "degree_label": "B.A. & Sc.",
-      "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/bachelor-arts-science-interfaculty-programs/interfaculty-program-environment-basc/",
-      "discovery_source_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/physical-occupational-therapy/student-evaluation-promotion/course-change-withdrawal/",
-      "source_period": "2026–2027 Course Catalogue",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "raw_key": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/bachelor-arts-science-interfaculty-programs/interfaculty-program-environment-basc/",
-      "id": "mcgill-environment-interfaculty-program-b-a-sc-54-credits-69a86fa764"
-    },
-    {
       "name_en": "Environment Major - Biodiversity and Conservation (B.Sc.(Ag.Env.Sc.)) or (B.Sc.) (63 credits)",
       "degree_label": "B.Sc.(Ag.Env.Sc.)",
       "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/environment-bscagenvsc-bsc/environment-major-biodiversity-conservation-bscagenvsc-bsc/",
@@ -3530,19 +3524,6 @@
       "language": null,
       "raw_key": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/major-environment-bsc/environment-major-earth-sciences-economics-bsc/",
       "id": "mcgill-environment-major-earth-sciences-and-economics-b-sc-66-credits-b42a9d156a"
-    },
-    {
-      "name_en": "Environment Honours (B.A. & Sc.) (60 credits)",
-      "degree_label": "B.A. & Sc.",
-      "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/honours-program-environment/environment-honours-basc/",
-      "discovery_source_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/physical-occupational-therapy/student-evaluation-promotion/course-change-withdrawal/",
-      "source_period": "2026–2027 Course Catalogue",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "raw_key": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/honours-program-environment/environment-honours-basc/",
-      "id": "mcgill-environment-honours-b-a-sc-60-credits-7d008efa99"
     },
     {
       "name_en": "Environment Honours (B.A.) (60 credits)",
@@ -5285,17 +5266,32 @@
       "id": "mcgill-psychology-honours-b-sc-e09421b725"
     },
     {
-      "name_en": "Bachelor of Engineering (Bioresource) - (B.Eng.(Bioresource))",
-      "degree_label": "B.Eng.(Bioresource)",
-      "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/bioresource-engineering/",
-      "discovery_source_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/other-programs/",
-      "source_period": "2026–2027 Course Catalogue",
-      "intake": null,
+      "raw_key": "https://www.mcgill.ca/undergraduate-admissions/program/music",
+      "name_en": "Music (Bachelor of Arts)",
+      "degree_label": "B.A.",
+      "official_url": "https://www.mcgill.ca/undergraduate-admissions/program/music",
+      "discovery_source_url": "https://www.mcgill.ca/undergraduate-admissions/program/music",
+      "source_period": "当前官方招生/音乐学院页面；与2026/27校历核对",
+      "intake": "2027学位入口；专业网页未标年度",
       "duration": null,
       "campus": null,
       "language": null,
-      "raw_key": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/bioresource-engineering/",
-      "id": "mcgill-bachelor-of-engineering-bioresource-b-eng-bioresource-4358b19a75"
+      "program_type": "本科主修",
+      "id": "mcgill-music-bachelor-of-arts-e493345ad0"
+    },
+    {
+      "raw_key": "https://www.mcgill.ca/music/programs/double",
+      "name_en": "Bachelor of Music + Bachelor of Science double degree",
+      "degree_label": "B.Mus. + B.Sc.",
+      "official_url": "https://www.mcgill.ca/music/programs/double",
+      "discovery_source_url": "https://www.mcgill.ca/music/programs/double",
+      "source_period": "当前官方招生/音乐学院页面；与2026/27校历核对",
+      "intake": null,
+      "duration": "通常总共5至6年；以批准计划为准",
+      "campus": null,
+      "language": null,
+      "program_type": "本科在读后申请双学位",
+      "id": "mcgill-bachelor-of-music-bachelor-of-science-double-degree-6c79422879"
     }
   ]
 }

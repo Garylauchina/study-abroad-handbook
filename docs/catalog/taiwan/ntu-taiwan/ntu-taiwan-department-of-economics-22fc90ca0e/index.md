@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,17 +42,48 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录列有此本科院系／专业；目录列名本身不代表当前申请者一定可报读。具体学位、招生开放状态和先修要求以相应招生路径为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-e83917d4813c71">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程结构与学分：</strong>2023及以后入学课程表毕业需128学分：通识27、必修36、系内选修30、其他选修35；专业内容包括个体／总体经济与计量经济。2027若修订仍以新版为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-76450a3237e0f8">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>大陆申请通道尚未闭合：</strong>本项在官方学科目录列名，但本轮未取得2027陆生本科当期开放专业表；不能凭目录存在推断中国大陆高中生当前可申请。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-236d3efaa4c82e">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>大陆身份与申请渠道：</strong>台大把国际、侨生、港澳和陆生分开，适用规定、申请通道与学费均不同。页面陆生资格列大陆籍且设籍京、沪、苏、浙、闽、粤、鄂、辽八省市；一律经陆联会申请。国际课程证书本身不改变这种身份分类。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-236d3efaa4c82e">官方依据</a></p>
+
+<p class="catalog-fact"><strong>医学等不能套用国际生规则：</strong>身份页给医学／牙医等部分国际／侨港澳身份额外居留年限，但这些条款不能直接当成大陆普通高中生有可申请通道的证据。每个目录专业是否向当前陆生开放仍须当期本科简章确认。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-236d3efaa4c82e">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027大陆高中本科通道缺口：</strong>本轮读取陆联会当前入口只有2026硕博士相关简章与报名链接，未取得可用的2027大陆高中本科招生简章及日期。不能把台大国际生或侨港澳申请期作为陆生可申请期限。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-99fb5240fc8f2d">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>陆生收费待核：</strong>台大明确不同境外身份适用学杂费不同；本轮未取得当前陆生本科按专业、学年列明的有效费用表和奖学金资格，暂不套用一般国际生收费或自动折算为人民币。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-236d3efaa4c82e">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -65,5 +96,10 @@ hide:
 - [官方项目页面或项目所在目录](https://econ.ntu.edu.tw/en/home-en)
 - [官方目录](https://www.ntu.edu.tw/english/academics/academics.html)
 
+<div class="catalog-source" id="source-p-ASREN-e83917d4813c71"><div><a href="https://www.ntu.edu.tw/english/academics/academics.html">官方本科目录 ↗</a><p>目录列名、学院或校区身份，不证明本轮开放招生</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-236d3efaa4c82e"><div><a href="https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/">台湾大学境外学位生身份类别 ↗</a><p>陆生身份、8省市、独立通道及收费区别</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-76450a3237e0f8"><div><a href="https://econ.ntu.edu.tw/en/archives/9141">台湾大学本科课程结构 ↗</a><p>明确列示的课程与学分，不替代大陆招生资格</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-236d3efaa4c82e"><div><a href="https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/">台湾大学境外学位生身份类别 ↗</a><p>陆生身份、8省市、独立通道及收费区别</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-99fb5240fc8f2d"><div><a href="https://rusen.stust.edu.tw/cpx/">大陆地区学生联合招生委员会现行入口 ↗</a><p>本轮读取为2026硕博士招生链接；不证明可报本科</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/">← 返回台湾大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>
