@@ -14,6 +14,6 @@ hide:
 先选择大学，再进入专业查看入学条件、国际生学费和毕业生情况。当前收录 1 所 QS 2027 前 100 名大学；“=”表示并列。专业详情收录情况见学校卡片。
 
 <div class="university-grid">
-<article class="university-card" data-university-id="uba"><span class="qs-rank">QS 2027 · <strong>84</strong></span><p class="catalog-eyebrow">阿根廷 · Ciudad Autónoma de Bs. A.</p><h2><a class="" href="/study-abroad-handbook/catalog/argentina/uba/">布宜诺斯艾利斯大学</a></h2><p class="university-english">Universidad de Buenos Aires (UBA)</p><p class="university-coverage">101 个专业条目 · 0 个含详细资料</p><a class="program-open" href="/study-abroad-handbook/catalog/argentina/uba/">查看学校与专业入口 →</a></article></div>
+<article class="university-card" data-university-id="uba"><span class="qs-rank">QS 2027 · <strong>84</strong></span><p class="catalog-eyebrow">阿根廷 · Ciudad Autónoma de Bs. A.</p><h2><a class="" href="/study-abroad-handbook/catalog/argentina/uba/">布宜诺斯艾利斯大学</a></h2><p class="university-english">Universidad de Buenos Aires (UBA)</p><p class="university-coverage">101 个专业条目 · 0 个含详细资料 · 99 个补有专业资料 · 2 个仅补学校共用资料</p><a class="program-open" href="/study-abroad-handbook/catalog/argentina/uba/">查看学校与专业入口 →</a></article></div>
 
 <a class="md-button" href="/study-abroad-handbook/?country=argentina#program-finder">筛选这里的大学与专业 →</a>

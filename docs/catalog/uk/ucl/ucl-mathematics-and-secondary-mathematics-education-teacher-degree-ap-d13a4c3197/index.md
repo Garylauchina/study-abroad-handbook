@@ -40,24 +40,64 @@ hide:
 
 <p><strong>目录状态：</strong>coming_soon</p>
 
-<p class="catalog-fact"><strong>目录学习安排：</strong>学位 Bachelor of Science (BSc)。</p>
-<p class="fact-sources"><a href="#source-p-UKENR-a38676a09799ad">官方依据</a></p>
-
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>中国大陆及国际资格：</strong>须按专业页面选择实际持有资格的国家或体系；例如本批主课程的 China 查询列认可中国大学本科前两年、加权均分 90% 且相关科目作为替代资格。它不是高考分数门槛或保证高年级转入。持 A-level／IB 者按该资格申请，专业科目和额外考试另核。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-C000">官方依据</a> · <a href="#source-u-UCLG-International">官方依据</a></p>
+
+<p class="catalog-fact"><strong>A-level 选科范围：</strong>常规课程页面还说明至少两门 A-level 应取自 UCL 的 preferred subjects 清单；专业指定科目及等级须同时满足，不能只核对三科总等级。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-C000">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语等级与豁免：</strong>本科课程分别指定 Level 1—5，逐专业已列 IELTS 对照。学校接受 IELTS Academic Online，不接受 One Skill Retake；教育经历或国籍豁免有列明条件，不能仅因大陆学校使用英语教学就视作自动豁免。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-English">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026 后 TOEFL 版本：</strong>UCL 接受 2026-01-21 起新版 TOEFL iBT，但必须符合对应新分制全部条件；此前考试依旧分制及两年有效期规则。接受 Home Edition，不接受 MyBestScore；勿照搬其他大学的版本限制。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-English">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语条件日期缺口：</strong>本轮读取的英语政策仍使用 2026 入学的提交日期例子，未取得 2027 统一最终期限；应遵守本人 offer／Portico 条件，不能把旧日期平移一年。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-English">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国际申请渠道：</strong>国际学生通过 UCAS 申请，与英国学生使用同一系统；本批常规课程 2027-01-13 英国时间 18:00 为平等审理截止，医学为 2026-10-15 英国时间 18:00。额外测试、作品集和特殊入口有独立安排，见逐专业条目。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-International">官方依据</a> · <a href="#source-u-UCLG-C000">官方依据</a> · <a href="#source-u-UCLG-C410">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国际费用边界：</strong>费用身份按个人情况由学校评估。课程页面的 2027/28 国际年度学费与本地学费分列；大多数国际课程设同届学费保证，但政府征费和页面例外须另看。海外、产业、双校学位和生活费不应按普通年费直接相乘。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-International">官方依据</a> · <a href="#source-u-UCLG-C000">官方依据</a></p>
+
+<p class="catalog-fact"><strong>奖学金入口：</strong>国际申请指南提供 Scholarships and awards 入口；本轮未核实面向 2027 入学大陆申请者的具体奖额、资格与截止，不将英国学生家庭收入助学金当成国际生资助。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-International">官方依据</a> · <a href="#source-u-UCLG-C000">官方依据</a></p>
+
+</details>
+
 ## 毕业生情况 {#outcomes}
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>统计范围：</strong>本轮未取得可统一代表全校或中国大陆本科毕业生的就业率。逐专业页面区分课程、学科或院系合并去向及新课程的预期职业；不得把工作加升学指标或雇主案例解释为录取后的就业保证。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-C000">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -66,6 +106,9 @@ hide:
 - [官方目录中的项目记录（尚无独立详情页）](https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=15)
 - [官方目录](https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=15)
 
-<div class="catalog-source" id="source-p-UKENR-a38676a09799ad"><div><a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=15">ucl 官方本科目录 ↗</a><p>目录中的课程名称、学位和已明确的学制／入学年份／校区</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-UCLG-International"><div><a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/guidance-international-applicants">UCL guidance for international undergraduate applicants ↗</a><p>国际申请渠道、资格查询、费用身份和资助入口</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-UCLG-English"><div><a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/english-language-requirements">UCL undergraduate English language requirements ↗</a><p>英语等级、IELTS及TOEFL版本、有效期和达标证据</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-UCLG-C000"><div><a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/ancient-history-ba">Ancient History BA — UCL 2027 course ↗</a><p>2027课程内容、标准资格、China资格查询、申请及方向条件、国际学费和毕业介绍</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-UCLG-C410"><div><a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/medicine-mbbs-bsc">Medicine MBBS BSc — UCL 2027 course ↗</a><p>2027课程内容、标准资格、China资格查询、申请及方向条件、国际学费和毕业介绍</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/ucl/">← 返回伦敦大学学院</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

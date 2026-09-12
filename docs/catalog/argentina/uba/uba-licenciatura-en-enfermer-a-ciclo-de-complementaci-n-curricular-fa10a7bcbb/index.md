@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Licenciatura en Enfermería (Ciclo de Complementación Curricular)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>2年补读（前置资格另核）</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -36,11 +36,20 @@ hide:
 
 <p><strong>目录适用期：</strong>官网当前目录；未标明确入学年度，核对于2026-09-12</p>
 
+<p><strong>申请路径：</strong>官网CCC标题下“入学前置条件”正文为空；作为护理补读项目，不把中国高中毕业＋CBC视为足够资格。具体可接受护理学历、课时及外校等值须学院确认。</p>
+
 <p>官方列于Ciencias Médicas</p>
+
+<p class="catalog-fact"><strong>培养内容：</strong>这是已有护理基础后的另一种Lic补读路径，官网列2年；所附课表包括护理研究、重症护理、团队领导、护理教学方法、生物统计、管理和研究工作坊。</p>
+<p class="fact-sources"><a href="#source-p-uba-img-90-7">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学制及路径：</strong>护理学院把正常Lic第二阶段（1.5年）和CCC（2年）分列；本条采用CCC年数。</p>
+<p class="fact-sources"><a href="#source-p-uba-follow-90-28">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>实际入学入口：</strong>官网CCC标题下“入学前置条件”正文为空；作为护理补读项目，不把中国高中毕业＋CBC视为足够资格。具体可接受护理学历、课时及外校等值须学院确认。</p>
+<p class="fact-sources"><a href="#source-p-uba-follow-90-28">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -49,6 +58,19 @@ hide:
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>外籍本科教学费用：</strong>CBC现行公开招生组件明确UBA本科对阿根廷人与外国人均免教学费用；大学FAQ说明不收本科报名、学习和考试费用。这不等于住宿、生活、教材器材或行政证明全部免费，也不能由国家允许收费的法规推定UBA已对外籍本科开始收费。</p>
+<p class="fact-sources"><a href="#source-u-uba-cbc-alumnos-js">官方依据</a> · <a href="#source-u-uba-university-faq">官方依据</a></p>
+
+<p class="catalog-fact"><strong>文件与证明行政收费：</strong>UBA CBC收费规范将无DNI外国学生电子证书、身份／学历核验等行政项目按módulo计价，例如身份核验2模块、外国中学等值文件核验3模块。模块随薪级基准定期更新，本轮未取得可用于人民币或ARS预算的现行模块金额。</p>
+<p class="fact-sources"><a href="#source-u-uba-cbc-admin-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>Sarmiento资助身份边界：</strong>Sarmiento面向经济困难学生；外国申请者须有永久居留身份，不能把普通新到中国留学生视为自动符合。CBC类别通常不超过23岁，本科院系类别不超过30岁，并有成绩、既有学历及其他助学金限制；本轮未核得当前发放金额与下一轮截止。</p>
+<p class="fact-sources"><a href="#source-u-uba-scholarships">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -61,5 +83,11 @@ hide:
 - [官方项目页面或项目所在目录](https://fmed.uba.ar/carreras/licenciatura-en-enfermeria/informacion-general)
 - [官方目录](https://www.uba.ar/carreras/11)
 
+<div class="catalog-source" id="source-p-uba-img-90-7"><div><a href="https://fmed.uba.ar/sites/default/files/2024-08/CCL%201.PNG">UBA医学院官方课程表图片：CCL%201.PNG ↗</a><p>培养内容</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-uba-follow-90-28"><div><a href="https://fmed.uba.ar/index.php/carreras/licenciatura-en-enfermeria/plan-de-estudios">Plan de Estudios | Facultad de Medicina UBA ↗</a><p>学制及路径；实际入学入口</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-cbc-alumnos-js"><div><a href="https://www.cbc.uba.ar/js/group-alumnos.js">UBA CBC：学生招生常见问题公开组件 ↗</a><p>外国高中与中国学历；中国高中对应路线；报名流程与身份；外籍本科教学费用</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-university-faq"><div><a href="https://www.uba.ar/preguntasfrecuentes">UBA Universidad de Buenos Aires ↗</a><p>CBC及专业入口；外籍本科教学费用</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-cbc-admin-fees"><div><a href="https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-j-aranceles/">CAPÍTULO J: ARANCELES - Codigo Uba ↗</a><p>文件与证明行政收费</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-scholarships"><div><a href="https://www.uba.ar/becas-grado">UBA Universidad de Buenos Aires ↗</a><p>Sarmiento资助身份边界</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/argentina/uba/">← 返回布宜诺斯艾利斯大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

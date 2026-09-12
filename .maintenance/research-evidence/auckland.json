@@ -1,0 +1,1109 @@
+{
+  "university_id": "auckland",
+  "sources": [
+    {
+      "url": "https://www.auckland.ac.nz/en/study/fees-and-money-matters/tuition-fees/international-student-fees/undergraduate-international-fees.html",
+      "sha256": "3ceb26be1277ce936d8b7216757207cdbcc29a41a9f823b45c14135a34ae9db6",
+      "raw_file": "scratch/full-catalog/auckland-enrichment/raw/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/undergraduate-application-closing-dates.html",
+      "sha256": "3528c6166c2c6966d5d5b5b638941e54826c5f29b7156902360dcc98c4fbbbb1",
+      "raw_file": "scratch/full-catalog/auckland-enrichment/raw/closing.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/entry-requirements/undergraduate-entry-requirements/overseas-secondary-school-applicants.html",
+      "sha256": "1c3ab8266f881ecf740d589a747bd0b0619cfa812e3b16f881567ae7027e0bdd",
+      "raw_file": "scratch/full-catalog/auckland-enrichment/raw/overseas-entry.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/entry-requirements/undergraduate-entry-requirements/undergraduate-english-language-requirements.html",
+      "sha256": "f6e00acab3aef6a8503922cedaf3705c5e78aec2c44b461df728919b4a4bfd47",
+      "raw_file": "scratch/full-catalog/auckland-enrichment/raw/english.html",
+      "locator": null
+    },
+    {
+      "url": "https://international.auckland.ac.nz/how-to-apply/",
+      "sha256": "daacd7be90932eeeb868215240831935b975e3a8e0592cdc7950022ce925f962",
+      "raw_file": "scratch/full-catalog/auckland-enrichment/raw/how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/scholarships-for-international-students/undergraduate-scholarships-for-international-students.html",
+      "sha256": "8f56a28854e748726bc27eb9b2f1b8b261e5f8e1728092b66a9fb8aef69483e6",
+      "raw_file": "scratch/full-catalog/auckland-enrichment/raw/ug-scholarships.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/assets/study/applications-and-admissions/entry-requirements/undergraduate-entry-requirements/overseas-secondary-school-applicants/2027+Undergraduate-programme-specific-entry-requirements-A-I.pdf",
+      "sha256": "7fda9075ae527644e014eb618c8dc851d997891d98e9d8befcf1bbf61ec92d76",
+      "raw_file": "scratch/full-catalog/auckland-enrichment/raw/entry-2027.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-bsc.html",
+      "sha256": "ac39e75793e274fd50714b9bf55783138eb283fe0d5cbd1de229c7036fe64e94",
+      "raw_file": "scratch/full-catalog/root/auckland-subject-421.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-architectural-studies-bas.html",
+      "sha256": "23320b3a7436e41c342ddf83f7a88b7eaa2342da67f132e7c3a7171496e9aef8",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-000.html",
+      "locator": null
+    },
+    {
+      "url": "https://uoa.custhelp.com/app/answers/detail/a_id/7483/~/are-all-courses-taught-in-english",
+      "sha256": "d6a80444e634a66789e8600bd158355db2848d183a9c7bdc0d67d45d467548fb",
+      "raw_file": "scratch/full-catalog/auckland-enrichment/raw/language.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-arts-ba.html",
+      "sha256": "82c3d3a4a69677bc4b4cd141bf2aa8f0ac336c0b7f74a241643809ec95c4886b",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-001.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-arts-honours-bahons.html",
+      "sha256": "eb4733de979ce9afd9d33da0885776bdd65113cc2809e11aab0d0df4f7424340",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-002.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-biomedical-science.html",
+      "sha256": "3302548bab3f1bc61a9591685ddeac183a680cdfe775eaa109254b1987e08016",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-003.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-biomedical-science-honours-bbiomedschons.html",
+      "sha256": "306011112c14ea1b26ef0f8696ab6dea3fab2ec535c5ef9aa990ba456bd3e047",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-004.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-commerce-bcom.html",
+      "sha256": "940fd0b2d130347f013130a47ac14c9584e3fb8e7b48f02ec602c46af2adc82b",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-005.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-commerce-honours-bcomhons.html",
+      "sha256": "62974f59686999a76c96f42227d6cb810f230db8adf476f2054bcf925acdf21e",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-006.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-communication.html",
+      "sha256": "17f1a06fd8d9543fedc32b39880e4d60af53b3debb616eb14926a4771ff9f334",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-007.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-dance-studies-bdancest.html",
+      "sha256": "c9f5712aa6c7e9b2b2f757ded22c5aef1f2d9d917a98863b8509a4fa0c42470c",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-008.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-dance-studies-honours-bdancesthons.html",
+      "sha256": "60bdaee6df350819b32b2a42a3ef30cbb6d5a9a6309215dd039b51877b399530",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-009.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-design.html",
+      "sha256": "fea1eef067044d3f0ac3bf8b9a621bd7c566038b06b554612a603079ea2eef7f",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-010.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-early-childhood-studies.html",
+      "sha256": "8f89071810e05bc76792ba64123d3f36b85c0868f8363986fcf64e4bf1acc09c",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-011.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-tesol.html",
+      "sha256": "422b29374876221bd4ed95d11db1358407ec672611c8e58e4caab52a860827c3",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-012.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-teaching-bedtchg.html",
+      "sha256": "77e956b81a7ac61ac1271fdff79eceec4e9e93f02c0eed7c6a0162fb3bc9544a",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-013.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-teaching-honours-bedtchghons.html",
+      "sha256": "aac00fa28902de47c2860498bacdcf4f4b6449e556557e2d29327deb6525e1f9",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-014.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-engineering-honours-behons.html",
+      "sha256": "15dae002a9bcfbdadaa22f4a140096db22ce8dad7a3659e1691ad034d2985015",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-015.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-fine-arts-bfa.html",
+      "sha256": "ead2669d4a71264f4dc89427c4a81c9829b093810fb3ec51c5d678e777c676aa",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-016.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-fine-arts-honours-bfahons.html",
+      "sha256": "1cbadac5cf082ba456d07e724abbefd7c85e40ce33045dcba027e8e86a54c121",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-017.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-global-studies-bglobalst.html",
+      "sha256": "921eb83cdddc2b387494f94066b02aed72cc476b37056b1912ad1ec1ef3598ff",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-018.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-health-sciences-bhsc.html",
+      "sha256": "943d2e4d30464c5deee9d05e557cbbbb59baf025cac45f3b087c653a4da74ebb",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-019.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-laws-llb.html",
+      "sha256": "7d4ba2f605582c07463a2440622caba7c4cdae5cc488bd3f82c863762ca424e8",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-020.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-laws-honours-llbhons.html",
+      "sha256": "bed297bbdd8985175c64c6c70442a463939f418a44f74e8abafff14ea17223dd",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-021.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/Medicalimaging.html",
+      "sha256": "63baf51acccace5fd6fb7d8041064ac590f03477a6a4cd03dbb5d3ccdabbaa06",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-022.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-medical-science-honours-bmedschons.html",
+      "sha256": "f7b77e356b2c48e702483f3c05a819a5c8831812a2dcf25f378e8eacf54dc1ac",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-023.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-medicine-and-bachelor-of-surgery-mbchb.html",
+      "sha256": "0eea68dcd689eb496488aafedc0790d724c7d55dad91cd35639ebcd229030132",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-024.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-bmus.html",
+      "sha256": "2c49a135f00c7accfdaeb765f53b5ade535f8e052c814572bbf66e401251a167",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-025.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-honours-bmus-hons.html",
+      "sha256": "b57f9ec9a6d2464a07e333c530bb5cde1022976be7588d886580c74683f2e0e9",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-026.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-nursing-bnurs.html",
+      "sha256": "afd65c493bc302f3ef1a6c1f2b06b94731931b5dfc5b5a7269fdfff1da2aae33",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-optometry-boptom.html",
+      "sha256": "157e34d93bc92d3e8514eb0e1b9be47e832eb87436b16b058dafbaee7efe66a0",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-028.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-pharmacy-bpharm.html",
+      "sha256": "f8e0aed187810cb5773225f857e24bd967b8ebbf12c6561493803ce04e680d4f",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-029.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-pharmacy-honours-bpharmhons.html",
+      "sha256": "655de4d3539e81841a6b67400515597f5a9b62505c49d2d88b675d96c42675c3",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-030.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-property-bprop.html",
+      "sha256": "4001687cd07cc501d62715383a93857ca7252ab78b3292ca211cecdb3afac36b",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-031.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-psychology-bpsych.html",
+      "sha256": "5a3c525301823b66d7d52b3cfef318be002f0308ccf2a66e3d6d94d0cb67b1b4",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-032.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-honours-bschons.html",
+      "sha256": "230e3e3de9832158d06677cefd7251ae0bdd66361e74776fe088d5f76d3fbd8e",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-034.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-social-work-honours-bswhons.html",
+      "sha256": "c3b0fe7baf54ec1fe5e4f7f59fd3d262b9cd40c7cbe9700e2ee53f22cd41e73d",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-035.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-sport-health-and-physical-education-bsporthpe.html",
+      "sha256": "3c9481b69a6e65a02f962ec891d653bd1091f56df01a4ec07f0314813b1b765c",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-036.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-urban-planning-honours-burbplanhons.html",
+      "sha256": "0319949f51a937fc25754f0ac63865a147518a5618d7d1ef8aea3e2494acda23",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-037.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-nursing-honours-bnurshons.html",
+      "sha256": "53bb172b3e243ca431121dd817926af8993e20056a5af9b03909a7652d59366c",
+      "raw_file": "scratch/full-catalog/root/auckland-detail-038.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-biomedical-science.html",
+      "sha256": "75c89dedeeb70a113a3cb9f634d2bc1d109c9494f4fa071ea005894c7a03c3ea",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-000.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-commerce.html",
+      "sha256": "2d841b099e400dabe7e4401c672e321b03533fade5570c7c0198aab6b2f0c6c3",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-001.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-communication.html",
+      "sha256": "11460e0608116bd13cb3a8b76dade8f5a7e863c7cda5fdaf3f31f7dd55680001",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-002.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-arts-bachelor-of-design.html",
+      "sha256": "498310c53d68f1f1b2a2df08faf26ea4b62a6975eb413b543abb3ae0e3a98670",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-003.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-engineering-honours.html",
+      "sha256": "ddb25f121c7b7b224b79fa58af75902e619ce8c445d871436037961224ceae4d",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-004.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-fine-arts.html",
+      "sha256": "787ea5449f542ff9fb9a96cf0efdd81a1301cf332bb8e1fcdc74e6bada70356e",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-005.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-global-studies.html",
+      "sha256": "d0d9750b112c6cba0511989145e67b0f1343309fd808385a6e9cfefd1aef865e",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-006.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-health-sciences.html",
+      "sha256": "678018715b2e0a0aa41856602985960ee10bf9f1f61b463227155735a080b40e",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-007.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-laws.html",
+      "sha256": "41adbf3fe8b2a0e5eb11c1d93adefea588691f803b1962522c6a606b3f233e1d",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-008.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-laws-honours.html",
+      "sha256": "b9b2e78f2e7b0060482b02a00018d3d06e9560af480cf2c6a013077c3aacb556",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-009.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-music.html",
+      "sha256": "03c59e882446f2e5e483e2bd424ed52df1dea6b68112c35df5d3a595c23f129e",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-010.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-science.html",
+      "sha256": "b0e11f8c90df065899c47726df9f1a3f15d1b5fe098b1a7e05944bb40a0c8e9c",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-011.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-bachelor-communication.html",
+      "sha256": "f8185c04d01ada01c6274e231401c0c9a311d10585b7513b1e55043a8dd2a3f9",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-012.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-bachelor-fine-arts.html",
+      "sha256": "80031ee8379e750f475c85a15cda864e76455a49679db9e2ad68a31245bc5d06",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-013.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-bachelor-global-studies.html",
+      "sha256": "96fbce92f517b7cca225964376de09d8333a8accbd6d15bdb2c7ca3bfa0a10a7",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-014.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-bachelor-sport-health-physical-education.html",
+      "sha256": "a1fd2a131846839b5880a04c6beb2c3b44533f757d6141336a7ddf0a83ee5360",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-015.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-music.html",
+      "sha256": "fdb83873f5fd2716c7f303b1dcbdb73f2001da369369f23f678e231acc3a3d3c",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-016.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-bachelor-sport-health-and-physical-education.html",
+      "sha256": "d0f7d0458127f5ebded4f721e90a76c8c539eedb0b222c142255f80dfa3cf9bc",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-017.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-communication-bachelor-global-studies.html",
+      "sha256": "8cdd81c788e77f0c426a824471389d61590caeb0534285b7d6c8036e4d87e980",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-018.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-communication-bachelor-of-laws.html",
+      "sha256": "8f8f2694117220544c234f6367444d0ebaeb4770987612b5ca523398e1625f21",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-019.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-communication-bachelor-of-laws--honours-.html",
+      "sha256": "34ce26ce527fbdbd436add6ff6895e7d4975bd6d9e3b7870220d90f25d65e1e8",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-020.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-design-bachelor-of-fine-arts.html",
+      "sha256": "58a32ffad77f316981122c9a3cc27450b09e844516aadefe3bf0e11a0777926d",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-021.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-engineering-honours-music.html",
+      "sha256": "0648244e1f75c942b6dbe43d61a19419940899186fe870e5689a2f7b032215f9",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-022.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-fine-arts-bachelor-of-science.html",
+      "sha256": "6c69634a865f065e894709c495600264b1cc14d9e460b189d9c24d6ce89c5d69",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-023.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-music-laws.html",
+      "sha256": "99100338be7dc04e9ffc4e7a5a696372dcbeb13dab82ab6794870572da87035d",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-024.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-music-laws-honours.html",
+      "sha256": "f920dc36f849a00341bef3437c67a2b987354ebd2458248d1239b6de3652667d",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-025.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-music-science.html",
+      "sha256": "de358e410f8a6aec5eb58873d1b1b754f6868fcdbfc9573385190b0276a179e5",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-026.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-commerce.html",
+      "sha256": "bc43e63e57569a5f97c2a5d7bbbfbf742f0b0a349910421e4d3b68727ea151dc",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-bachelor-design.html",
+      "sha256": "6d2d78acb02a95b46d3de1cf1926312baed7e344f70f7e602aaa01e3ca8d01dc",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-028.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-engineering-honours.html",
+      "sha256": "ed4336a611c08eb5da353e2bebc3da2a60f4518097b7388034b832cbcea6129d",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-029.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-global-studies.html",
+      "sha256": "aaec5dd70fc1ed0d003f2a33c9e752ae240110542315f80298d91e9ceb6a7b62",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-042.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-health-sciences.html",
+      "sha256": "de80176489233eb452a055f8deca8c37dc88e886474bdcf300230a595cb3ef8d",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-057.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-laws.html",
+      "sha256": "bf346bf63676d38f4ab598201c2201836a4ac2be09fcdf3246c88a7c4b0f4e84",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-032.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-laws-honours.html",
+      "sha256": "eab6cd7bedb63dcd7e538c3ddff3e6a15ee9917b532a56abc6cd3b40a9c745b5",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-033.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-property.html",
+      "sha256": "d7a7aff53c3a803cb0ae482bd5d557af0dbec3893809a8546ce69b57b5b66b28",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-034.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-science.html",
+      "sha256": "63edca8f70bb6ad786928743d33e7267dae732fcc75333c2bba4722842b7deb2",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-035.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-design-bachelor-engineering-honours.html",
+      "sha256": "3a7c94370e97308d1ace59602804fba41078d0825b6e4b003f6b481e893abfc4",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-036.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-design-bachelor-global-studies.html",
+      "sha256": "9c5cbb65a9cfa7042437138c758a0ae2a28d84a20b651802647dd3caa892fa1e",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-037.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-design-bachelor-science.html",
+      "sha256": "94e3c3c9141da0ff5103e318351198b63d54dc3125d197a3648fa61b06dfd6f5",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-038.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-engineering-honours-global-studies.html",
+      "sha256": "10b4493e8b41cec0be67534ca1b74f2165bb4649fca0294a5ecc9b7abaea9a7a",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-039.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-engineering-honours-science.html",
+      "sha256": "13767dd2ceaabb51684ff6a959d3404e2227fcbe29625f342507c72d09204324",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-040.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-global-studies-bachelor-of-health-sciences.html",
+      "sha256": "be8d0458eeb02246074e0e244b35d7d1b621c11a291d13e3f586b73ecaadf404",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-043.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-global-studies-laws.html",
+      "sha256": "8e19d2092f87cdeae00b3e10f44b7add2b463a9b18c6dd9caf7847bd37ce4fa6",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-049.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-global-studies-laws-honours.html",
+      "sha256": "4669b683a42cc9e3274f624680d9c66b4e1cc1052429e24df6405571e7c2acc3",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-045.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-global-studies-science.html",
+      "sha256": "cf842d9dc248e33cec5f31eb84329e13d1598580bf7ec6af43a28e6b4da1fd73",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-060.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BBiomedSc%2FLLB&p0_catalogue_year=2027&p0_catalogue_term=Summer",
+      "sha256": "7f6af2665452553e1abccdfb1cb1821cd7ea795b82d02375bb16d6d260f95a29",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-047.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BBiomedSc%2FLLB(Hons)&p0_catalogue_year=2027&p0_catalogue_term=Summer",
+      "sha256": "87d024a9ea121ba8d6a4a70bc52a32b304c7da2ab450e526575a8f92a264f6f9",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-048.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-health-sciences-laws.html",
+      "sha256": "d36060d4a9cf3e0253867e42f4cbfd9098786e3e52a3887990d3153d35e88191",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-050.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-health-sciences-laws-honours.html",
+      "sha256": "a583603ff1189ef0ab2cacd8e6c13313ebec15e34391e1a8a746f4b78532b550",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-051.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-science-laws.html",
+      "sha256": "b1aa8082c5bce5c9a36f5f9b316c85f000fec05acb64f3cb6a933268137ded49",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-052.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-science-laws-honours.html",
+      "sha256": "6e3391fa33e2cd5916f498f06dc4102d5055f9d697e6e9d43ece3cf6a65c9752",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-053.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-bachelor-health-sciences.html",
+      "sha256": "cad02c346656ec4a42b06ee9f913563a5d47114c04a07ed19b8e3db71779102a",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-055.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-bachelor-science.html",
+      "sha256": "4e159ae428167f418ad2902e75217613dcf5e1342360f7f892d6cb74e98d152b",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-056.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-health-sciences-science.html",
+      "sha256": "17425b1fe4e2f44c77d0ff86ee299d100eece98330c2a38e136d0766f42d3b2d",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-full-058.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/mechanical-engineering/undergraduate.html",
+      "sha256": "c41d580fc7d63d7c2ea5f2f566d9d6a098ec77ddecf3ef3516eea978ab2eee03",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-383-65.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/music-studies/undergraduate.html",
+      "sha256": "da3e32934f9b80b393e482ecc719ccf2efbb3b783b72ec496c0dec72dc5657a9",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-396-70.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/chemistry/undergraduate.html",
+      "sha256": "839b7c90fa8a802e04e9a52f86ae16647c48c1eeccd29b36af8ccac8ba8b431c",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-258-43.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/sociology/undergraduate.html",
+      "sha256": "5f725680d86403dbf4b9389ccb71ed18a39cb16cf30d459968f6d9bc1179fb07",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-438-53.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/operations-supply-chain-management/undergraduate.html",
+      "sha256": "f4212fe3a8b62216c26742a6ea2add330b0f5106553baf3f88a925a41f0ea4a5",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-402-50.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/management/undergraduate.html",
+      "sha256": "284ef73012b2234ffbd10a2d9fc1e5e9850f3418824602a39eff46fc9c1d90de",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-374-79.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/classical-performance/undergraduate.html",
+      "sha256": "cd08e8515fb1f91b28d490f925a67129a2503bd0a96df0b7e8c1e9b560ff2efc",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-025-23.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/european-studies/undergraduate.html",
+      "sha256": "69247e35a789641f42feabff8ccac4677ace2e0b5d1e354d6aaae9f6469b6048",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-058-11.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/maori-studies/undergraduate.html",
+      "sha256": "4c2a7e1b7b37c204a7fcd6f1c77671483948f456c8a6db856902c3d2fc8d59da",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-377-57.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/linguistics/undergraduate.html",
+      "sha256": "277559842091848116446abc6cafcd1cbd41ab9f789d77c428ac9c4b46bda830",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-369-95.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/environmental-science/undergraduate.html",
+      "sha256": "e7da720d4ab8cbef901c167cd477be3d3e34ea21ab8634d1a5fb27044db555b2",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-308-85.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/earth-sciences/undergraduate.html",
+      "sha256": "b68d6cfcaf9d93e3b178ff70e0de2a1fe43996e9b710278ba77b7428c37875cb",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-293-81.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-systems-engineering/undergraduate.html",
+      "sha256": "bdb6b0d8a32542e487ac0098691e0079f4e079c1a453733a2427b1e6a3761086",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-275-28.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/biomedical-engineering/undergraduate.html",
+      "sha256": "3da1bdad521d61e65e14a78dd3fc3971704c232b125d26c58d267965c633f078",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-046-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/art-history/undergraduate.html",
+      "sha256": "acf281737d91de1f885742a6dab381ee080b0be5f75f0651e7f61fe49e638185",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-237-100.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/pharmacology/undergraduate.html",
+      "sha256": "6800fcf45e79d672bf810ce14a642a8dcb3fc01e05934c2c0461328f20820ab8",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-413-41.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/anthropology/undergraduate.html",
+      "sha256": "b6f6b07aa66c8ff5b575290a962ac083958b5f63cf01fdc7ecbcf8ac90a5bdcc",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-231-78.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/marine-science/undergraduate.html",
+      "sha256": "e0d6950620048130b44b494779377c794b733c997a2b86f59ee0f8b2f76e3d72",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-379-71.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/education/undergraduate.html",
+      "sha256": "da9925ac0fe727e2ff083c21cc086a03a7c25854348b67f77a83ddf532d4e1ee",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-296-31.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/history/undergraduate.html",
+      "sha256": "0702b7139f4ea9cae09c2f173ac9596ee1ffe97bb5571b1280b8c0c24cba3433",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-343-68.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/academic-english-studies-and-linguistics/undergraduate.html",
+      "sha256": "f12100da5316f395c4e517ee9a548de4a245fc4b7b7c799df9a2571f60bfeea4",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-001-6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/philosophy/undergraduate.html",
+      "sha256": "b62545b81978fed71d6093e501c85ba72a5a9487b124f7b3e5c26a3b08f61f1c",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-415-64.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/taxation/undergraduate.html",
+      "sha256": "4ceca6a78819ef0bf648cb33d663afc79ee947f3b30ef2db8e38e75e5b04b8d8",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-448-48.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/human-resources-management/undergraduate.html",
+      "sha256": "4659c66088abd6ed4478e606acda90038eeabe2763166665f829adb2c71a15ca",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-345-90.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/medicinal-chemistry/undergraduate.html",
+      "sha256": "03afbaaac67034f443f1a73ae8de3129e799d61fe3c70d69c7ae99defd497348",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-389-45.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/international-relations-and-business/undergraduate.html",
+      "sha256": "fc27cb73b9dba71216dacef23c4f174bc4a9a1e3eb9e2417fa3eb8df2dcb3113",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-067-4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/communication/undergraduate.html",
+      "sha256": "8d3b328ba4d8adf8506f077137e36056d1a303b2319e1ed19d250a667331314d",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-050-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/data-science/undergraduate.html",
+      "sha256": "aea991127907084c59d4a9839a65c87491f83b6a67c4393c2b32748af6ab6849",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-286-51.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/marketing/undergraduate.html",
+      "sha256": "ca09fa27138e2456fa267f1277a3dd55c6c5c0a1e78a0b33089200974c1e950f",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-380-72.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/anthropological-science/undergraduate.html",
+      "sha256": "acf4edb3b01a5554fa7622a91dfcbe04471e2321ef8ce64ccf7d82973281b434",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-041-9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/asian-studies/undergraduate.html",
+      "sha256": "d6f177dcf96d9d95578d9873b5e6d134c86fb870cf56b39117e2ef1ed996deba",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-238-34.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/accounting/undergraduate.html",
+      "sha256": "3bd24a70e24c7afcc0a6f9ddcf03fa887726d596198e88f39c37f4f2d7e4d676",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-224-56.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/pacific-studies/undergraduate.html",
+      "sha256": "c1901cf2baa1d6e963b9c1a1df0c812986b6e006b48e867d95e2291e187ba71b",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-407-97.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/politics-and-international-relations/undergraduate.html",
+      "sha256": "355ac20abf8faa01a08fe8945a7584f4cb6a9bb4ad652b73215440736be0da1c",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-420-75.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/structural-engineering/undergraduate.html",
+      "sha256": "21994c24f4ed7d17543725ab68b124269ec92bf04ffb90ecb0f97a9755a4ed41",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-074-12.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/logic-computation/undergraduate.html",
+      "sha256": "3a798e9140f0509325ecf18189d24a7f2b9c1dcc8259f492e0b8b4b7c195d5c1",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-371-29.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-technology-management/undergraduate.html",
+      "sha256": "214d0c8a1c8d0ad6c16f85b6cff0881a8c120b64f805492cdae96f256df87e79",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-351-36.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/music/undergraduate.html",
+      "sha256": "318eeec09813660211124d83768013eefd7b80db10c190e2ce4968033bfe7ce5",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-394-49.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/geographic-information-science/undergraduate.html",
+      "sha256": "36dd45091efec2f518d71c76cbc89302d064875ea3a7a1c75c5a3dd75fdb6c35",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-059-19.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/software-engineering/undergraduate.html",
+      "sha256": "17a4759d462cbdd83cf8a5ca067f6588e0e960e2fba3f30b156f9c229d24439d",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-439-60.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/theological-and-religious-studies/undergraduate.html",
+      "sha256": "db26201edcbec85056b60b4db474892821b8e590e0a7ceae956983a3fddc2371",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-451-93.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/jazz-performance/undergraduate.html",
+      "sha256": "d92325dbb4079ebb95e2475202be250c74835f8f00514de557ee085e9e52900e",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-281-40.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/global-environment-and-sustainable-development/undergraduate.html",
+      "sha256": "6fdf49bcfd326c23b8a39de048155a7a4ccc9e186ef47277b194f9a657e1b009",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-060-5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/mechatronics-engineering/undergraduate.html",
+      "sha256": "a550ea9f65946c2a3fe85f3fa450b78b49accb2b11e6a647130a9aabda0903d6",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-384-33.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/employment-relations-and-organisation-studies/undergraduate.html",
+      "sha256": "996be4c6e9ed26baa55955b71fcd6e223e66930a98d412c3a35e50cc37fb54c5",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-299-99.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/psychology/undergraduate.html",
+      "sha256": "db50638b5f4be96322aa01faab987a0eb36841f66505b222e29da7f5f6e9e72b",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-428-37.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/innovation-entrepreneurship/undergraduate.html",
+      "sha256": "edc91729d41abb60ef77520cd8bd92d62dd92585d7a887f3c031162dbdf9dc17",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-066-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/english/undergraduate.html",
+      "sha256": "9c2266c47b6b7580c7d21e7f77e81a9e8299f470a22b673f18989821603e11fc",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-301-62.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-systems/undergraduate.html",
+      "sha256": "46f26b62edfec2e8d44592dd7d2ccd4cde9580ed209067ccec772ba1c13f3e87",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-353-92.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/economics/undergraduate.html",
+      "sha256": "540cafeaa942568ac403be597e8efa1e4536998f5169af065db3ac3183651da2",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-295-96.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/exercise-sciences/undergraduate.html",
+      "sha256": "4c000bddbce0930339213adc3a2c81ba8a0fffaf7cdca492d13f0dfad269ab9d",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-310-38.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/gender-studies/undergraduate.html",
+      "sha256": "22440c2e381b7f22d799611d56e2a9a40225085d8aa639a16427435df4e18493",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-318-74.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/chinese/undergraduate.html",
+      "sha256": "c209a2b6f8f5beb9babaec5431399bf2b55bbfaab578f67b94fc9182dba8c65d",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-259-30.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/finance/undergraduate.html",
+      "sha256": "c7f4a84c8bd5f519a3594ba6bd99a7e5d602c691e1b7e1ba0a2ff0d31036e4b0",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-311-39.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/global-politics-and-human-rights/undergraduate.html",
+      "sha256": "ffb0a4533472434b3c0503bfbc13ce92173fdf4721fb372d03d6416a8ea7ed0e",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-061-10.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/geography/undergraduate.html",
+      "sha256": "dbcc954634279575b74011f3b3012164044adb94620bec7746b61ee2f629f898",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-322-77.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/spanish/undergraduate.html",
+      "sha256": "fc6ae2fab6ce556a4172f4febbbd82567d2e3d64c72544d3d1d79adc7afb14ca",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-440-82.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/composition/undergraduate.html",
+      "sha256": "649c08d60c7deb923719c759fe2d94cb8fa4385e5358be704e7df3e06d7d932e",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-279-32.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/electrical-electronic-engineering/undergraduate.html",
+      "sha256": "d7cd2e9bb853ee78665df9acf516664eb954c160f8530896d7cb76a8c61c139f",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-298-89.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/criminology/undergraduate.html",
+      "sha256": "dc0f5fb0baaedb6615c93eb28d36cc3ebd5d70dd23d9b62bb56eafb808d6ffe7",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-284-69.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-science/undergraduate.html",
+      "sha256": "cf7db2a623e795895c683532d3e87cabc8c3964f66e6c744d872073f0deec4dd",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-274-47.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/physics/undergraduate.html",
+      "sha256": "29668dd9ef6169214fa7da7b6e0fdcee9245bc1772c239c839cd3e5b47d96465",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-418-54.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/chemical-materials-engineering/undergraduate.html",
+      "sha256": "961b3fb93ff0283b76b1a9e492dae6102da42ab4b7b8deeee0513f39049421f3",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-257-91.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/physiology/undergraduate.html",
+      "sha256": "8ae1be4575d9246b750cbaa82a4ca76bef2f39731f63d73f1da4f2df68472bc7",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-419-59.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/food-science/undergraduate.html",
+      "sha256": "af7a46f1563e428fdc8f5f3fd9ad454d35b3aecf8345e88f1001b61e8345ad51",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-315-84.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/mathematics/undergraduate.html",
+      "sha256": "2a05018e6fe21e97777f185a5eac3a44a1f6f280177dc6defd2178224dcda3d6",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-381-83.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/tesol/undergraduate.html",
+      "sha256": "77de795b83f962f63f26a55c03737f8a9032bce5efbf4577060732ec5e75b650",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-450-98.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/engineering-science/undergraduate.html",
+      "sha256": "920081d3c8a4654ed5dcd81aa0e55507d711b7636c62d2878602496fb2144c1d",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-300-52.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/statistics/undergraduate.html",
+      "sha256": "692fa894c737cff434a6112a055a2bdd83c04aa9f349868d61e2ce4740053b76",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-442-66.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/international-business/undergraduate.html",
+      "sha256": "e3d8bb7cc025c95d2ebfc8ef64867ffc2ccbf7450d06bf5cac85534e295c8bbe",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-356-63.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/media-film-and-television/undergraduate.html",
+      "sha256": "00e4e878046799b7e12c742641118f28675dd8ce351f97b2d307791c4d4642a9",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-385-42.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/german/undergraduate.html",
+      "sha256": "2f0f51f201a29ee6e1852eebf64999e96baaf01af6fc9999e805be896311031b",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-325-102.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/korean/undergraduate.html",
+      "sha256": "8ec44dcd2e96fe7a429276ce44827b3ffbca987db88ec5152b5417877662b1d1",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-068-21.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/japanese/undergraduate.html",
+      "sha256": "b66cae1b14da28459caed2518d188153c62e6cb9c6cf16534dd8fb3c24a6de91",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-361-55.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/green-chemical-science/undergraduate.html",
+      "sha256": "6dd8ed980f8895b520b6e96fdd0416b2d23bede5b1c8bde82a7fb94660b08fa8",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-332-88.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/drama/undergraduate.html",
+      "sha256": "875f4f4b64ba46d56457f2497b9bfcab21814b220a2621975d76522db58b9f43",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-291-67.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/commercial-law/undergraduate.html",
+      "sha256": "e71c5a50187e3e8f6796161ab9c28a921cc005aa303220d8e1ea6b529aa6dfc1",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-267-76.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/french/undergraduate.html",
+      "sha256": "1d663357854c70654eb7493efe12253ee2c031e04d15b3cc0f14f4a6ac2986fe",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-317-61.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/classical-studies-and-ancient-history/undergraduate.html",
+      "sha256": "2cfb660794b0ba54169151c03b0cf8eef3f714d1183ac7968007eca1ffbc5f22",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-261-86.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/primary-teaching/undergraduate.html",
+      "sha256": "9de387dc219d8d7bfa262eab00d8ad1eabb7fac0d72aa706cd0b3333aab13cb3",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-425-44.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/civil-engineering/undergraduate.html",
+      "sha256": "45f0d3b09355fb45725c89004d4dd837b77a79b299152715f3bb9dada50059d1",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-260-101.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/nutrition/undergraduate.html",
+      "sha256": "ef22fd7b96aa141c6de1aff2b06fd5b3c551dc21ca5dee153064e744f4818e3b",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-070-3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/songcraft-and-music-production/undergraduate.html",
+      "sha256": "34a7532c512fa6a17867ab36e077c0de714d69068f07b95cdc77162889be670b",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-282-94.html",
+      "locator": null
+    }
+  ]
+}

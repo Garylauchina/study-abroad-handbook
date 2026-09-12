@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：已补学校共用资料，专业专属详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,9 +38,13 @@ hide:
 
 <p>官方列于Ciencias Médicas</p>
 
+<p class="catalog-fact"><strong>学位身份待澄清：</strong>中央目录与专业网页使用Licenciatura en Podología，但当前“Plan de Estudios”实际链接的文件题名为Tecnicatura de Podología。本轮不能将专科课表认作学士培养计划，也未确认学士项目现行完整学制。</p>
+<p class="fact-sources"><a href="#source-p-uba-follow-88-24">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>实际入学入口：</strong>官网同页一处写CBC全部通过，另一处写注册劳动与社会、科学思维及哲学3科，两者不一致；须向学院确认当前Lic入口。不能据此认定中国高中生已满足资格。</p>
+<p class="fact-sources"><a href="#source-p-uba-follow-88-25">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -61,5 +65,7 @@ hide:
 - [官方项目页面或项目所在目录](https://www.fmed.uba.ar/carreras/licenciatura-en-podologia/ingreso-la-licenciatura)
 - [官方目录](https://www.uba.ar/carreras/11)
 
+<div class="catalog-source" id="source-p-uba-follow-88-24"><div><a href="https://www.fmed.uba.ar/carreras/licenciatura-en-podologia/plan-de-estudios">Plan de Estudios | Facultad de Medicina UBA ↗</a><p>学位身份待澄清</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-uba-follow-88-25"><div><a href="https://www.fmed.uba.ar/carreras/licenciatura-en-podologia/ingreso-la-licenciatura">Ingreso a la Licenciatura | Facultad de Medicina UBA ↗</a><p>实际入学入口</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/argentina/uba/">← 返回布宜诺斯艾利斯大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -3,9 +3,9 @@
   "checked_at": "2026-09-12",
   "coverage": {
     "status": "partial",
-    "count": 189,
+    "count": 183,
     "scope": "本科、荣誉本科、Conjoint联合学位，以及逐页核实的本科主修／方向；不包含独立辅修、语言模块与单门课程。",
-    "method": "原学位目录97项，加103次本科subject页面读取（99唯一页面）；逐项检查所属Bachelor和major/specialisation关系。商业法/税务仅作为BCom主修，不把LLB课程组合另作主修；停招主修及课程-only条目单独排除。",
+    "method": "原学位目录97项，加103次本科subject页面读取（99唯一页面）；逐项检查所属Bachelor和major/specialisation关系。商业法/税务仅作为BCom主修，不把LLB课程组合另作主修；停招主修及课程-only条目单独排除。 按现行详情排除4个联合学位重复入口和2个误配主修；保留183条。目录缺项与荣誉专修继续逐学位核对，仍为partial。",
     "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
     "sources": [
       {
@@ -1760,20 +1760,6 @@
       "id": "auckland-bachelor-of-science-bachelor-of-laws-honours-6603b405db"
     },
     {
-      "name_en": "Bachelor of Arts/Bachelor of Health Sciences",
-      "degree_label": "Conjoint bachelor degrees",
-      "official_url": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/conjoint-programmes/bachelor-arts-bachelor-health-sciences.html",
-      "discovery_source_url": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/conjoint-programmes/conjoints-by-faculty.html",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "raw_key": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/conjoint-programmes/bachelor-arts-bachelor-health-sciences.html",
-      "program_type": "官方联合双学位",
-      "id": "auckland-bachelor-of-arts-bachelor-of-health-sciences-9edbe50447"
-    },
-    {
       "name_en": "Bachelor of Biomedical Science/Bachelor of Health Sciences",
       "degree_label": "Conjoint bachelor degrees",
       "official_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-bachelor-health-sciences.html",
@@ -1800,48 +1786,6 @@
       "raw_key": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-bachelor-science.html",
       "program_type": "官方联合双学位",
       "id": "auckland-bachelor-of-biomedical-science-bachelor-of-science-142f45a764"
-    },
-    {
-      "name_en": "Bachelor of Commerce/Bachelor of Health Sciences",
-      "degree_label": "Conjoint bachelor degrees",
-      "official_url": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/conjoint-programmes/bachelor-commerce-bachelor-health-sciences.html",
-      "discovery_source_url": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/conjoint-programmes/conjoints-by-faculty.html",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "raw_key": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/conjoint-programmes/bachelor-commerce-bachelor-health-sciences.html",
-      "program_type": "官方联合双学位",
-      "id": "auckland-bachelor-of-commerce-bachelor-of-health-sciences-6ea4184b58"
-    },
-    {
-      "name_en": "Bachelor of Health Sciences/Bachelor of Science",
-      "degree_label": "Conjoint bachelor degrees",
-      "official_url": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/conjoint-programmes/bachelor-health-sciences-bachelor-science.html",
-      "discovery_source_url": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/conjoint-programmes/conjoints-by-faculty.html",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "raw_key": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/conjoint-programmes/bachelor-health-sciences-bachelor-science.html",
-      "program_type": "官方联合双学位",
-      "id": "auckland-bachelor-of-health-sciences-bachelor-of-science-3b5dc00e02"
-    },
-    {
-      "name_en": "Bachelor of Health Sciences/Bachelor of Laws",
-      "degree_label": "Conjoint bachelor degrees",
-      "official_url": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/conjoint-programmes/bachelor-health-sciences-bachelor-laws.html",
-      "discovery_source_url": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/conjoint-programmes/conjoints-by-faculty.html",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "raw_key": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/conjoint-programmes/bachelor-health-sciences-bachelor-laws.html",
-      "program_type": "官方联合双学位",
-      "id": "auckland-bachelor-of-health-sciences-bachelor-of-laws-0be2d41abb"
     },
     {
       "name_en": "Bachelor of Health Sciences/Bachelor of Science",
@@ -2725,23 +2669,6 @@
       "id": "auckland-information-systems-e2f2366f88"
     },
     {
-      "name_en": "Information Systems",
-      "degree_label": "Bachelor of Science — major",
-      "official_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-systems/undergraduate.html",
-      "discovery_source_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-systems/undergraduate.html",
-      "source_period": "官网当前本科方向页；具体适用年度见原文，核验2026-09-12",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "raw_key": "subject:information-systems:Bachelor of Science",
-      "record_type": "major",
-      "parent_degree_label": "Bachelor of Science",
-      "parent_degree_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-bsc.html",
-      "entry_route": "学位内部主修／方向；先满足所属学位及选专业条件，非额外独立学位",
-      "id": "auckland-information-systems-ead08bd0e3"
-    },
-    {
       "name_en": "Economics",
       "degree_label": "Bachelor of Arts — major",
       "official_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/economics/undergraduate.html",
@@ -2791,23 +2718,6 @@
       "parent_degree_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-bsc.html",
       "entry_route": "学位内部主修／方向；先满足所属学位及选专业条件，非额外独立学位",
       "id": "auckland-exercise-sport-and-rehabilitation-sciences-d9eee266d3"
-    },
-    {
-      "name_en": "Exercise, Sport and Rehabilitation Sciences",
-      "degree_label": "Bachelor of Sport, Health and Physical Education — major",
-      "official_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/exercise-sciences/undergraduate.html",
-      "discovery_source_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/exercise-sciences/undergraduate.html",
-      "source_period": "官网当前本科方向页；具体适用年度见原文，核验2026-09-12",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "raw_key": "subject:exercise-sciences:Bachelor of Sport, Health and Physical Education",
-      "record_type": "major",
-      "parent_degree_label": "Bachelor of Sport, Health and Physical Education",
-      "parent_degree_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-sport-health-and-physical-education-bsporthpe.html",
-      "entry_route": "学位内部主修／方向；先满足所属学位及选专业条件，非额外独立学位",
-      "id": "auckland-exercise-sport-and-rehabilitation-sciences-71014ccca1"
     },
     {
       "name_en": "Gender Studies",

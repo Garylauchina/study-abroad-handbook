@@ -3,9 +3,9 @@
   "checked_at": "2026-09-12",
   "coverage": {
     "status": "partial",
-    "count": 97,
+    "count": 95,
     "scope": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
-    "method": "[{\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/cas.html\", \"records\": 15, \"award_text\": \"Bachelor of Liberal Arts\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofagriculture.html\", \"records\": 15, \"award_text\": \"Applied Life Sciences Course, Environmental and Resource Sciences Course: Bachelor of Agriculture Veterinary Medical Sciences Course: Bachelor of Veterinary Medicine\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofeconomics.html\", \"records\": 3, \"award_text\": \"Bachelor of Economics\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofeducation.html\", \"records\": 4, \"award_text\": \"Bachelor of Education\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofengineering.html\", \"records\": 16, \"award_text\": \"Bachelor of Engineering\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyoflaw.html\", \"records\": 3, \"award_text\": \"Bachelor of Laws\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofletters.html\", \"records\": 27, \"award_text\": \"Bachelor of Arts\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofmedicine.html\", \"records\": 2, \"award_text\": \"School of Medicine: Bachelor of Medicine School of Integrated Health Sciences: Bachelor of Health Sciences\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofpharm.html\", \"records\": 2, \"award_text\": \"Bachelor of Pharmaceutical Sciences Bachelor of Pharmacy\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofscience.html\", \"records\": 10, \"award_text\": \"Bachelor of Science\"}]",
+    "method": "[{\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/cas.html\", \"records\": 15, \"award_text\": \"Bachelor of Liberal Arts\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofagriculture.html\", \"records\": 15, \"award_text\": \"Applied Life Sciences Course, Environmental and Resource Sciences Course: Bachelor of Agriculture Veterinary Medical Sciences Course: Bachelor of Veterinary Medicine\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofeconomics.html\", \"records\": 3, \"award_text\": \"Bachelor of Economics\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofeducation.html\", \"records\": 4, \"award_text\": \"Bachelor of Education\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofengineering.html\", \"records\": 16, \"award_text\": \"Bachelor of Engineering\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyoflaw.html\", \"records\": 3, \"award_text\": \"Bachelor of Laws\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofletters.html\", \"records\": 27, \"award_text\": \"Bachelor of Arts\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofmedicine.html\", \"records\": 2, \"award_text\": \"School of Medicine: Bachelor of Medicine School of Integrated Health Sciences: Bachelor of Health Sciences\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofpharm.html\", \"records\": 2, \"award_text\": \"Bachelor of Pharmaceutical Sciences Bachelor of Pharmacy\"}, {\"faculty_page\": \"https://www.u-tokyo.ac.jp/en/academics/facultyofscience.html\", \"records\": 10, \"award_text\": \"Bachelor of Science\"}] 按2026正式便览和2027招生表合并2012已合并的两水圈旧名，排除进化学副项目；保留Sports主课程及教育/文学层级身份说明。",
     "exclusions": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
     "sources": [
       {
@@ -226,24 +226,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "undergraduate_department_or_major",
-      "id": "tokyo-general-system-a4626383d1"
-    },
-    {
-      "name_en": "Evolutionary Biology",
-      "degree_label": "Bachelor of Liberal Arts",
-      "official_url": "https://www.u-tokyo.ac.jp/en/academics/cas.html",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.u-tokyo.ac.jp/en/academics/cas.html",
-      "source_period": "current official directory, checked 2026-09-12",
-      "raw_key": "cas:Evolutionary Biology",
-      "entry_route": "Senior division department/major following junior-division entry; not automatically a direct high-school application choice",
-      "requires_prior_degree": null,
-      "status": "listed_current",
-      "record_type": "undergraduate_department_or_major",
-      "id": "tokyo-evolutionary-biology-cc8b45060c"
+      "id": "tokyo-general-system-a4626383d1",
+      "aliases": [
+        "広域システム",
+        "Earth System and Energy Sciences"
+      ],
+      "identity_note": "英文目录General System及分科页Earth System and Energy Sciences对应现行广域系统课程；建议中文统一并保留英文别名，避免重建第二项。"
     },
     {
       "name_en": "Environmental Sciences (PEAK): International program offered in English",
@@ -402,9 +390,9 @@
       "id": "tokyo-major-in-forest-life-science-2c30760e41"
     },
     {
-      "name_en": "Major in Aquatic Life Sciences",
+      "name_en": "Aquatic Bioscience",
       "degree_label": "Bachelor of Agriculture",
-      "official_url": "https://www.u-tokyo.ac.jp/en/academics/facultyofagriculture.html",
+      "official_url": "https://www.a.u-tokyo.ac.jp/english/faculty_e/",
       "intake": null,
       "duration": null,
       "campus": null,
@@ -416,7 +404,13 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "record_type": "undergraduate_department_or_major",
-      "id": "tokyo-major-in-aquatic-life-sciences-6680e86ddc"
+      "id": "tokyo-major-in-aquatic-life-sciences-6680e86ddc",
+      "aliases": [
+        "Major in Aquatic Life Sciences",
+        "Major in Aquatic Production and Environmental Science",
+        "水圈生物科学"
+      ],
+      "identity_note": "2026农学部沿革明确两个旧专修已于2012-04-01合并；当前农学部14个专修、2027招生表均使用水圈生物科学。保留旧ID跳转／追溯，但不计为两个开放本科专业。"
     },
     {
       "name_en": "Major in Animal Life Sciences",
@@ -485,23 +479,6 @@
       "status": "listed_current",
       "record_type": "undergraduate_department_or_major",
       "id": "tokyo-major-in-forest-environmental-and-resource-science-c21305cbcc"
-    },
-    {
-      "name_en": "Major in Aquatic Production and Environmental Science",
-      "degree_label": "Bachelor of Agriculture",
-      "official_url": "https://www.u-tokyo.ac.jp/en/academics/facultyofagriculture.html",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.u-tokyo.ac.jp/en/academics/facultyofagriculture.html",
-      "source_period": "current official directory, checked 2026-09-12",
-      "raw_key": "facultyofagriculture:Major in Aquatic Production and Environmental Science",
-      "entry_route": "Senior division department/major following junior-division entry; not automatically a direct high-school application choice",
-      "requires_prior_degree": null,
-      "status": "listed_current",
-      "record_type": "undergraduate_department_or_major",
-      "id": "tokyo-major-in-aquatic-production-and-environmental-science-28517dd201"
     },
     {
       "name_en": "Major in Wood Science and Timber Engineering",
@@ -670,9 +647,10 @@
       "entry_route": "Senior division department/major following junior-division entry; not automatically a direct high-school application choice",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "record_type": "undergraduate_parent_department",
+      "record_type": "department",
       "contains_named_majors": true,
-      "id": "tokyo-department-of-integrated-educational-sciences-da4d46276f"
+      "id": "tokyo-department-of-integrated-educational-sciences-da4d46276f",
+      "identity_note": "综合教育科学为一个学科，三个专修下有五个课程；目录可保留导航层级，不能当成四个独立学位计数。"
     },
     {
       "name_en": "Major in History and Philosophy of Education",
@@ -688,8 +666,10 @@
       "entry_route": "Senior division department/major following junior-division entry; not automatically a direct high-school application choice",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "record_type": "undergraduate_department_or_major",
-      "id": "tokyo-major-in-history-and-philosophy-of-education-51f37987e2"
+      "record_type": "specialisation",
+      "id": "tokyo-major-in-history-and-philosophy-of-education-51f37987e2",
+      "identity_note": "综合教育科学为一个学科，三个专修下有五个课程；目录可保留导航层级，不能当成四个独立学位计数。",
+      "parent_program_id": "tokyo-department-of-integrated-educational-sciences-da4d46276f"
     },
     {
       "name_en": "Major in Social Sciences in Education",
@@ -705,8 +685,10 @@
       "entry_route": "Senior division department/major following junior-division entry; not automatically a direct high-school application choice",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "record_type": "undergraduate_department_or_major",
-      "id": "tokyo-major-in-social-sciences-in-education-5a27bfff2c"
+      "record_type": "specialisation",
+      "id": "tokyo-major-in-social-sciences-in-education-5a27bfff2c",
+      "identity_note": "综合教育科学为一个学科，三个专修下有五个课程；目录可保留导航层级，不能当成四个独立学位计数。",
+      "parent_program_id": "tokyo-department-of-integrated-educational-sciences-da4d46276f"
     },
     {
       "name_en": "Major in Developmental Sciences",
@@ -722,8 +704,10 @@
       "entry_route": "Senior division department/major following junior-division entry; not automatically a direct high-school application choice",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "record_type": "undergraduate_department_or_major",
-      "id": "tokyo-major-in-developmental-sciences-2ed19a44a8"
+      "record_type": "specialisation",
+      "id": "tokyo-major-in-developmental-sciences-2ed19a44a8",
+      "identity_note": "综合教育科学为一个学科，三个专修下有五个课程；目录可保留导航层级，不能当成四个独立学位计数。",
+      "parent_program_id": "tokyo-department-of-integrated-educational-sciences-da4d46276f"
     },
     {
       "name_en": "Department of Civil Engineering",
@@ -1283,8 +1267,10 @@
       "entry_route": "Senior division department/major following junior-division entry; not automatically a direct high-school application choice",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "record_type": "undergraduate_department_or_major",
-      "id": "tokyo-department-of-japanese-language-and-literature-japanese-linguisti-b6bd87915b"
+      "record_type": "research_field",
+      "id": "tokyo-department-of-japanese-language-and-literature-japanese-linguisti-b6bd87915b",
+      "identity_note": "2027招生表以国语国文学专修列示，英文网站分日本语言学与日本文学研究室；两项应建立共同专修层级。",
+      "parent_degree_label": "国语国文学专修（文学部）"
     },
     {
       "name_en": "Department of Japanese Language and Literature (Japanese Literature)",
@@ -1300,8 +1286,10 @@
       "entry_route": "Senior division department/major following junior-division entry; not automatically a direct high-school application choice",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "record_type": "undergraduate_department_or_major",
-      "id": "tokyo-department-of-japanese-language-and-literature-japanese-literatur-45bd37dc6a"
+      "record_type": "research_field",
+      "id": "tokyo-department-of-japanese-language-and-literature-japanese-literatur-45bd37dc6a",
+      "identity_note": "2027招生表以国语国文学专修列示，英文网站分日本语言学与日本文学研究室；两项应建立共同专修层级。",
+      "parent_degree_label": "国语国文学专修（文学部）"
     },
     {
       "name_en": "Department of Chinese Language and Literature",

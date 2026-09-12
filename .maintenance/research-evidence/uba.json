@@ -1,0 +1,875 @@
+{
+  "university_id": "uba",
+  "sources": [
+    {
+      "url": "https://www.cbc.uba.ar/js/group-alumnos.js",
+      "sha256": "5f565ac87e75a4fb3cb0f84578c414217e9dcac0477a053cc5000e40ce3c102b",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/cbc-alumnos-js.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.argentina.gob.ar/educacion/tramites/convalidar-titulo-secundario-de-paises-con-convenio",
+      "sha256": "1a5afcfad50235f3abe6b6352584e7dca801e5a67afacad4f0fe8f21c1a0251c",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/gov-agreement.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.argentina.gob.ar/educacion/tramites/reconocer-titulo-secundario-de-paises-sin-convenio",
+      "sha256": "3148cc37900ea5e337b04eae9eeb29e4b51ed798cde47220a6197149cee5da8e",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/gov-recognition.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uba.ar/estudiantesextranjeros",
+      "sha256": "9d75d46f18f075167b1f4c07b014122352f2db37f3c41a5d3e59664029c869ee",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/international.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uba.ar/preguntasfrecuentes",
+      "sha256": "075d9ac72b618f6ce42588d24c018ab67a556cd7a9618dfcf44dc31047fa089e",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/university-faq.html",
+      "locator": null
+    },
+    {
+      "url": "https://www4.cbc.uba.ar/inscripciones/nodniarg.php",
+      "sha256": "80503ee121dbf95d41f5e6854732f0e3ee36d91328221e9a78a302ed2a3bbff3",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/cbc-foreign.html",
+      "locator": null
+    },
+    {
+      "url": "https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-j-aranceles/",
+      "sha256": "ac5a7aaf29695fa1a86df6e15799e26ff5a49bb5b6049c3a243e0f95ee6100a4",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/cbc-admin-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uba.ar/becas-grado",
+      "sha256": "880d58b204c9f4da01e798b8f348526da1ce3ba185e21040adb7c257b68213ea",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/scholarships.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.agro.uba.ar/carreras/agronomia",
+      "sha256": "59485d0b53c50789c0c6c5d8f39d67ebc135b9092c36a23274b5346848863428",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-000.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.agro.uba.ar/carreras/ambientales",
+      "sha256": "e547b0cc66d1552b8c8e54d825327bfb084e2882e4dba3dc046c9ebbc40ca444",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-001.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.agro.uba.ar/carreras/leaa",
+      "sha256": "411e1473be441bc8cc9add6544b0db584b4338576a749be996a2433f6a926dc5",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-002.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.agro.uba.ar/carreras/agroalimentos",
+      "sha256": "69a0d2220dd9bb67332838f5daa1d7c84ba013a048384cea2c89c8af4c5ca9fc",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-003.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.agro.uba.ar/carreras/paisaje",
+      "sha256": "94d7e60f3a4cb6ea66cb25dc3456f0ec7a06cc221fc7fcb3903a01ec0f86a71f",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-004.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fadu.uba.ar/lic-en-planificacion-y-diseno-del-paisaje/",
+      "sha256": "e500d941c74e4b3eab220c1440f876f63777bf5d7de5226a8ca56a1db979d9b5",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-013.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fadu.uba.ar/ingresantes/",
+      "sha256": "252ae23f452b0602acd272c4080bd9ab71620c9b456bb10846cf1404ea3f849e",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/fadu-ingreso.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.agro.uba.ar/carreras/biotecnologia",
+      "sha256": "b82a31a673e541757bce94e6155418bfdfc9d2b953e3b6f3d4534b2fd6833252",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-005.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.agro.uba.ar/carreras/profesorado-ambiental",
+      "sha256": "eaef213d1a97e6ddee02858aa338dda0a5d80a1be356844b6bad65d388d16326",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-006.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fadu.uba.ar/arquitectura/",
+      "sha256": "a42f76f7aa2327db790640757986831b58cae7fc074f2f3ef85e7a2703ff802b",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-007.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fadu.uba.ar/diseno-de-indumentaria/",
+      "sha256": "f88d0561e784fca442dedb5843b10527bf578d24a39087c56d1589948ea97964",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-008.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fadu.uba.ar/diseno-de-imagen-y-sonido/",
+      "sha256": "7a3553d2f06e5235c35d7e8aff2c4eb6f074a5e6cc82147c939b40fdc54fc577",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-009.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fadu.uba.ar/diseno-grafico/",
+      "sha256": "b60908eecca551fe0d77ab9120d7e1c5a89a66f9567d663ae29d002826265549",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-010.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fadu.uba.ar/nuevo-plan-de-estudios-de-diseno-industrial/",
+      "sha256": "20243e0dfcad7f3fd18f0942fb6fbaa744b1268e160ec78fb57ad17aac5efa1b",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-011.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fadu.uba.ar/diseno-textil/",
+      "sha256": "0d0f912abedb99aa636806c1dcf11dbb2a15cc1d25a9a828f320693c9ce2cdd2",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-012.html",
+      "locator": null
+    },
+    {
+      "url": "https://economicas.uba.ar/alumnos/contador/",
+      "sha256": "a1d82d531be5b68d6aeb1e2980211e6d58204cc6539548c8670c720e1883ec59",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/retry-programme-014.html",
+      "locator": null
+    },
+    {
+      "url": "https://economicas.uba.ar/alumnos/actuario/",
+      "sha256": "a5ed891388f5520e9931189cf609e75e25d6adc92b6cd564d5b4ceb806b40f28",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/retry-programme-015.html",
+      "locator": null
+    },
+    {
+      "url": "https://economicas.uba.ar/alumnos/administracion/",
+      "sha256": "116fed816ced650b6a18305b5315b0f2d8caf783afaab419cee36dc8ccc9a1c1",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/retry-programme-016.html",
+      "locator": null
+    },
+    {
+      "url": "https://economicas.uba.ar/alumnos/economia/",
+      "sha256": "7d0e6db0321666c76c63993290b629564b941e07ba3be3f0a1579cb4402c6152",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/retry-programme-017.html",
+      "locator": null
+    },
+    {
+      "url": "https://economicas.uba.ar/alumnos/sistemas/",
+      "sha256": "8f1a550d8f26a1fd6e4585f3db94328d2ef498e0372a5a783414f242286c5e44",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/retry-programme-018.html",
+      "locator": null
+    },
+    {
+      "url": "https://exactas.uba.ar/ensenanza/carreras-de-grado/ciencias-biologicas/",
+      "sha256": "adb03492da97d875af3e4805639cc89afa8293432fbae717af3e442c62285a01",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-019.html",
+      "locator": null
+    },
+    {
+      "url": "https://exactas.uba.ar/ensenanza/carreras-de-grado/ciencias-de-datos/",
+      "sha256": "ceb58e99d4f6f8aa9daa8b0fa27ec51f5c2bf6dc858805eaf3878b6ec0190c27",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-020.html",
+      "locator": null
+    },
+    {
+      "url": "https://exactas.uba.ar/ensenanza/carreras-de-grado/ciencias-de-la-atmosfera/",
+      "sha256": "f2634d0775384d429553f2df4e3f87a5cc74c6003d2d1b4fc49951e24ed4e91f",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-021.html",
+      "locator": null
+    },
+    {
+      "url": "https://exactas.uba.ar/ensenanza/carreras-de-grado/ciencias-de-la-computacion/",
+      "sha256": "82e1cdd9327877314ca36106af99f3d2f88d5462887bcd767c171f309c2e800e",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-022.html",
+      "locator": null
+    },
+    {
+      "url": "https://exactas.uba.ar/ensenanza/carreras-de-grado/ciencias-fisicas/",
+      "sha256": "50d5884bef4d525a1688b67de79d31402d4bcfccc5fb4d19718c978ecc009009",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-023.html",
+      "locator": null
+    },
+    {
+      "url": "https://exactas.uba.ar/ensenanza/carreras-de-grado/ciencias-geologicas/",
+      "sha256": "db0201eb4e4c76af5f70c0116dd5ffed26cbfe9bd83b800d24a902a3c662f26f",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-024.html",
+      "locator": null
+    },
+    {
+      "url": "https://exactas.uba.ar/ensenanza/carreras-de-grado/ciencias-matematicas/",
+      "sha256": "d5dd3db4b5cd819d4354fc90860d408707270b1941be1c5139d49e1810ce9077",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-025.html",
+      "locator": null
+    },
+    {
+      "url": "https://exactas.uba.ar/ensenanza/carreras-de-grado/ciencias-quimicas/",
+      "sha256": "76b766502bb084fd5c3d5febe12accc78dab2cdd5fa00c4a626b102861df0611",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-026.html",
+      "locator": null
+    },
+    {
+      "url": "https://exactas.uba.ar/ensenanza/carreras-de-grado/oceanografia/",
+      "sha256": "da08b49dcd022c83edea65851b9a2cb560667b37753296fe03f8170bf194af98",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-027.html",
+      "locator": null
+    },
+    {
+      "url": "https://exactas.uba.ar/ensenanza/carreras-de-grado/paleontologia/",
+      "sha256": "300d462a9544cbb60785931aedd196e84c91da6a801c0b3e5c92c4bd772038cf",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-028.html",
+      "locator": null
+    },
+    {
+      "url": "https://exactas.uba.ar/ensenanza/carreras-de-grado/ciencia-y-tecnologia-de-alimentos/",
+      "sha256": "3514b5f73f8a58778d371a17d2c8060b877fb87925aea3ba793081baf3cd68d4",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-029.html",
+      "locator": null
+    },
+    {
+      "url": "https://lcta.fcen.uba.ar/academico/",
+      "sha256": "1afe179dfd4c2cddf97fcf49e23ef8c2f45d5106052682682f38b305e64decac",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/science-food-plan.html",
+      "locator": null
+    },
+    {
+      "url": "https://ccpems.exactas.uba.ar/profesorado-de-ensenanza-media-y-superior-en-ciencias-de-la-atmosfera/",
+      "sha256": "e8832a3bf69ae618b408b2a45cc461c0da6284c95f8d515a17f68964763f23d8",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-030.html",
+      "locator": null
+    },
+    {
+      "url": "https://ccpems.exactas.uba.ar/profesorado-de-ensenanza-media-y-superior-en-geologia/",
+      "sha256": "c46c9302222f5ec2dba66b2e979e80dc71ee0916c1e0de95f461a6956af65e21",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-031.html",
+      "locator": null
+    },
+    {
+      "url": "https://ccpems.exactas.uba.ar/profesorado-universitario-en-biologia/",
+      "sha256": "6295debf088a758222594de717d4e81dc28bb46e32d917651c419049c603a586",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-032.html",
+      "locator": null
+    },
+    {
+      "url": "https://ccpems.exactas.uba.ar/profesorado-universitario-en-computacion/",
+      "sha256": "a9793efb9229039d6fd4104806af0bd4c3cf8b6fa859f2f3fd407bc4be680c63",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-033.html",
+      "locator": null
+    },
+    {
+      "url": "https://ccpems.exactas.uba.ar/profesorado-universitario-en-fisica/",
+      "sha256": "6e595dd6471889f36c91dbed480bce480f076ceb6f6540d92d4086c400d1463e",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-034.html",
+      "locator": null
+    },
+    {
+      "url": "https://ccpems.exactas.uba.ar/profesorado-universitario-en-matematica/",
+      "sha256": "c24e08d605ef05c74ab0d83baf707c43cf5c3a06102a6b14b7271ddb90108ced",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-035.html",
+      "locator": null
+    },
+    {
+      "url": "https://ccpems.exactas.uba.ar/profesorado-universitario-en-quimica/",
+      "sha256": "1663371fda63d314e9b3823f504193cec91930d49378b47097661ba78549b53c",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-036.html",
+      "locator": null
+    },
+    {
+      "url": "https://ccpems.exactas.uba.ar/profesorado-universitario-para-la-educacion-secundaria-en-biologia-y-quimica/",
+      "sha256": "2fcab279ec09058602877422377cf6c7dc5616716f045a8d9d86cdf88fc24da4",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-037.html",
+      "locator": null
+    },
+    {
+      "url": "https://ccpems.exactas.uba.ar/profesorado-universitario-para-la-educacion-secundaria-en-computacion-y-fisica/",
+      "sha256": "fe735fbe8313572efedcaa61815cae6266734c1d51960cd1b1b1420e005cf4bd",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-038.html",
+      "locator": null
+    },
+    {
+      "url": "https://ccpems.exactas.uba.ar/profesorado-universitario-para-la-educacion-secundaria-en-fisica-y-matematica/",
+      "sha256": "a48cc717c13fb8d4969230474a1b60186b666e169b7c542c48467953b3548ab8",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-039.html",
+      "locator": null
+    },
+    {
+      "url": "https://ccpems.exactas.uba.ar/profesorado-universitario-para-la-educacion-secundaria-en-matematica-y-computacion/",
+      "sha256": "dd8ab44b64d15e12c0804004aad4498c56d89c0b32830a0fb7f1c244c91f704c",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-040.html",
+      "locator": null
+    },
+    {
+      "url": "https://ccpems.exactas.uba.ar/profesorado-universitario-para-la-educacion-secundaria-en-quimica-y-fisica/",
+      "sha256": "3d1c39a8970ff8eba5eaae79edd7b72d57ad7cb7eb3a9a19c474d10fce44ceaa",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-041.html",
+      "locator": null
+    },
+    {
+      "url": "https://comunicacion.sociales.uba.ar/plan-de-estudios/",
+      "sha256": "f07b3641a2a93446cf77790c4fe491f7a79d52a66b7af34b3ec515580d556322",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-42-00.html",
+      "locator": null
+    },
+    {
+      "url": "https://cienciapolitica.sociales.uba.ar/home/estudiantes/info-academica/plan-de-estudios-8558-17/",
+      "sha256": "c702dcc209b0d8c255dd51216d21bf1c8cff865ccc354b3480320786fca0ccd3",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-43-03.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.sociales.uba.ar/carreras/profesorados/profesorado-relaciones-del-trabajo/",
+      "sha256": "f796caf1538db107fc513c081c358c1b313b50313a4bf8afcbfff3bedab8d92e",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-049.html",
+      "locator": null
+    },
+    {
+      "url": "https://trabajosocial.sociales.uba.ar/plan-de-estudios/",
+      "sha256": "a2b7453e0ab601ca42c783a9705581187ebadc66f40b9b3932c0c2ee8bc298a0",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-45-06.html",
+      "locator": null
+    },
+    {
+      "url": "https://sociologia.sociales.uba.ar/plan-de-estudios/",
+      "sha256": "e203144e7fe224def05ef6dd131ac8577547b7cf33875ee05166d652fdaf9960",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-46-08.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.sociales.uba.ar/carreras/profesorados/prof-cs-de-la-comunicacion/",
+      "sha256": "5079efdd50082daba6f7fe2c72044ca44c49a790403d503a61849eaad5ff7387",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-047.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.sociales.uba.ar/carreras/profesorados/cspolitica/",
+      "sha256": "e574a13e3e40f26f143058ebc23fe7caa01b6f5d08a0ca08234495e8cf279504",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-048.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.sociales.uba.ar/carreras/profesorados/profesorado-de-trabajo-social/",
+      "sha256": "e02f0bd39ce8ef43815682742b2312cb61200fe4b8d503ffec9660c1f5b28086",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-050.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.sociales.uba.ar/carreras/profesorados/profesorado-de-sociologia/",
+      "sha256": "61fdd3497559612e5f1914c6b5227eb6bb16933067bab08c270ee6c3de23f0b0",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-051.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fvet.uba.ar/?q=veterinaria#plan",
+      "sha256": "939fa393df629f92c5cf6b34d2d649860ebfa61fad5af203f59416a5d1f071c7",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-52-09.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/res-cs-818-23.pdf",
+      "sha256": "d45cce5649599cdf344a79755b8abb56cce4eb91aadbdb185087e80fe6dc3fe7",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/plan-53-23.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.derecho.uba.ar/academica/carreras_grado/pdf/res-2025-01776346-UBA-REC.pdf",
+      "sha256": "3853a94cf515bfe73d0a0be3ea369a9d3ea9b7712cca936b97928774d4edff56",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/law-amend2025.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.derecho.uba.ar/academica/carreras_grado/traductorado_ingreso.php",
+      "sha256": "29b67a3331dedc90a1c132a91793306875c84dac9b99e18322e359198fe46d1b",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-54-11.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.derecho.uba.ar/academica/profesorado_en_med_sup/profesorado.pdf",
+      "sha256": "12116dee0a1e2c9850d3586fac782908d02319932820499b6ff9020d345b8906",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/law-prof-plan-real.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.derecho.uba.ar/academica/carreras_grado/caligrafo_plan_estudios_2015.php",
+      "sha256": "c3a0c4e4053b5ebd520d00ef39dde7dfc5f61af132445475a3d6550d32a45b4b",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-56-14.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ffyb.uba.ar/wp-content/uploads/2024/02/Bioquimica-Plan-2023-simplificado.pdf",
+      "sha256": "c5455f9b8d22a0d98161a984dd5e673e7500558c8193fa1776d20194fa9dc216",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/extra-044.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.ffyb.uba.ar/wp-content/uploads/2025/03/Farmacia-Plan-2023-simplif.pdf",
+      "sha256": "2b90abc71e14ae18ba4ee879713d8fa840a673a1968f481c75e7274e04ece45f",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/extra-043.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://artes.filo.uba.ar/index.php/preguntas-frecuentes",
+      "sha256": "4a9b5e40bc4c87940460227c395552bbf6688d7ec4eaca43c238da4f90f5ad74",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/arts-faq.html",
+      "locator": null
+    },
+    {
+      "url": "https://academica.filo.uba.ar/plan-de-estudios-ciencias-antropologicas",
+      "sha256": "a2b976032af6e9ac906996bb9203125cca76f5e00d3148cf20e04756cdc3ca3e",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/anthro-plans.html",
+      "locator": null
+    },
+    {
+      "url": "https://academica.filo.uba.ar/sites/academica.filo.uba.ar/files/CA0B46~1.PDF",
+      "sha256": "56da2939f067ed88d98f79e7077eddd21149369b92495e8d98237654667b17be",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/anthro-lic2023.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://educacion.filo.uba.ar/plan-de-estudios-2016",
+      "sha256": "e05f937ef101a1d59015b81805abba712a49bfc373c3565313f058756b89407e",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/filo-education-plan.html",
+      "locator": null
+    },
+    {
+      "url": "https://repositorio.filo.uba.ar/server/api/core/bitstreams/b5a67423-f24c-4de4-8226-2c3b7f123a22/content",
+      "sha256": "2c57fb809ee2c4763033136ae22a64413236a64ea3c4f98582aba3fd660284d3",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/library-ccc-pdf.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://filosofia.filo.uba.ar/node/498",
+      "sha256": "320e780a9ed1843dbc3472fa15c8c3e0933f555883600d6d134934dd5fab7b3a",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/filo-philosophy-plan.html",
+      "locator": null
+    },
+    {
+      "url": "https://geografia.filo.uba.ar/content/plan-de-estudios",
+      "sha256": "d601a86d21d69636bb30cc637ea8e2ae66a54431b806c2883b9c191a0e8a28d3",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/filo-geography-plan.html",
+      "locator": null
+    },
+    {
+      "url": "https://filo.uba.ar/ingresantes",
+      "sha256": "d4362730a9aefbbb1503ea4a4089a7e5b601268ce532b366e27ea8e686d7e26c",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/filo-ingreso.html",
+      "locator": null
+    },
+    {
+      "url": "https://historia.filo.uba.ar/content/plan-de-estudios",
+      "sha256": "5ebd274e64e17ba2e67a7786f35a90d1ef7d35558ad4fdb66f2bc324b8a0f6e9",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-65-16.html",
+      "locator": null
+    },
+    {
+      "url": "https://letras.filo.uba.ar/content/plan-de-estudios",
+      "sha256": "12b91209bb867c337dd1e083db2b20e2af00cb9f636121d045088b38aa34df91",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-066.html",
+      "locator": "专业页Profesorado；正式计划第1、5–7页"
+    },
+    {
+      "url": "https://edicion.filo.uba.ar/content/plan-de-estudios",
+      "sha256": "85c59dff8178d386cb4b9e77365c7eb4588881d65220d958020d8700907fecae",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-67-17.html",
+      "locator": null
+    },
+    {
+      "url": "https://academica.filo.uba.ar/sites/academica.filo.uba.ar/files/CA046C~1.PDF",
+      "sha256": "70897a91b782e7084e2f77b542bdd26f316cd8cdd1e0ee0e3b33c84152e9794d",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/anthro-prof2023.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-civil",
+      "sha256": "2a12e07911b52be8de16bfa18065f4c0599579915c0aada82fb9df0d62567bf9",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-069.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-civil/estructura",
+      "sha256": "527d796dc06aba4fe902f33f3b6c91e198ff2e4cbc29b4db20b8fc5d9f6548ea",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/extra-046.html",
+      "locator": null
+    },
+    {
+      "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_720_Civil_Plan_2023_Aprobacion_6e607f13ca_6d88fe31d5.pdf",
+      "sha256": "c2e672924010c07dd63da7d0be83c679956286ea665611a9527dfcfb2d52d166",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/eng-plan-047.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-en-alimentos",
+      "sha256": "9297112bde3f5eb152de30b1cdd775f78535eb0c6467c7002f66d4d9c9b269ec",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-070.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-en-alimentos/estructura",
+      "sha256": "94ecdca5d16bb31b72ceee63c5cb28e2d667d15e226461bffaeca265205f64f7",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/extra-052.html",
+      "locator": null
+    },
+    {
+      "url": "https://cms.fi.uba.ar/uploads/RESCS_2024_399_Alimentos_Plan_2023_Texto_ordenado_ea1579fba9.pdf",
+      "sha256": "3c6364009521b8ba54dab245e352a13cac065b81c56b0973f7e6e58e2eadd7f8",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/eng-plan-053.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-electricista",
+      "sha256": "479a220dbced0f4ef50fa69066035177c8d82038d6bbb345491a17a16cf4ef7c",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-071.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-electricista/estructura",
+      "sha256": "a24036e7969e5fee673bc5445438cd0c292510627a6d87b62d5a7402330ade7b",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/extra-049.html",
+      "locator": null
+    },
+    {
+      "url": "https://cms.fi.uba.ar/uploads/Plan_de_Estudios_de_Ingenieria_en_Energia_Electrica_3e14c1c1d3_8d58bdf223.pdf",
+      "sha256": "5cbd0dc54581f79ffe047f7f1e293293a2370340e075759580d73e765355feb9",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/eng-plan-050.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-electronica",
+      "sha256": "7f1dee471a8cc59bd5ca6531d7bfea08252ea6a42f0770f80d4af2a612ffb420",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-072.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-electronica/estructura",
+      "sha256": "4360d4ec82e72894781163b7eb49dc7ba18414d7bef6eb90bde60ca48094a8de",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/extra-055.html",
+      "locator": null
+    },
+    {
+      "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_727_Electronica_2023_Aprobacion_b3db6da6d9_329b3114e5.pdf",
+      "sha256": "4039e1178aaf6d137ac31967c1e94a0b3b51db8fdb578310fb52501e416a0558",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/eng-plan-056.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-en-agrimensura",
+      "sha256": "826c3dca25ec99c4dcbce5fe59fef695239d7a8118e427cae3ba206e08cfccf0",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-073.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-en-agrimensura/estructura",
+      "sha256": "e2fd369f344125da171e5743b2e5b45bfc78ab56c6320df50c8a6e582c601744",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/extra-058.html",
+      "locator": null
+    },
+    {
+      "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_881_Agrimensura_Plan_2023_1ca938d170_dab18458b2.pdf",
+      "sha256": "11cd27d78c865c9de16620296371af1ae523724ed4f3328b4a273dd1ba7758bc",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/eng-plan-059.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-en-informatica",
+      "sha256": "0be0f961756b50cd3c00608ae5892a2a817caea36fecfa2bbe6c893775b4edd4",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-074.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-en-informatica/estructura",
+      "sha256": "d039134d0e6e480e00e8996e300ecdc6514631ccb5baa2bd80bab0caa98024be",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/extra-061.html",
+      "locator": null
+    },
+    {
+      "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_526_Informatica_Plan_2023_Aprobacion_15d3cee700_6e3b075bd4.pdf",
+      "sha256": "fd505fb862434e151fdc25841625ad9da78f15aabeab385d0b9a5092ba5ca7c5",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/eng-plan-062.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-en-petroleo",
+      "sha256": "d4ed18dac616df692ed752a54de8c337ebf9a5fdc7b4afd31baa6c7d9d23e2e7",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-075.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-en-petroleo/estructura",
+      "sha256": "a4677f402f51be88cfb7f6c01a49c0f3d4431303b35e6892d62f82ec6e721725",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/extra-076.html",
+      "locator": null
+    },
+    {
+      "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_726_Petroleo_Plan_2023_Aprobacion_5663903ff7_adb28bbff0.pdf",
+      "sha256": "cab183ad3c56f8f05c47edd51728e1274bdc021d6972b4cd188cf6c18a3c9391",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/eng-plan-077.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-industrial",
+      "sha256": "0fe7f7a0f5053e7f5d00539bccf0ff0f98f8606cbc6aa3d3a77531df1fb1d515",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-076.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-industrial/estructura",
+      "sha256": "68601e57926d40f0156565ab10869fe40902706dd96ff9d140e01019f36ac2f3",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/extra-073.html",
+      "locator": null
+    },
+    {
+      "url": "https://cms.fi.uba.ar/uploads/RESCS_2024_63_Industrial_Plan_2023_Modificacion_b6f5d44f65_7e4ff9c5bb.pdf",
+      "sha256": "4627025ee3f005a2169249384640308626364e3718a5a40d8e8981c09a49a6d0",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/eng-plan-074.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-mecanica",
+      "sha256": "2aada872dff54e7562a272327fdfcc07d9c0451fa942f145473cfe737791bc10",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-077.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-mecanica/estructura",
+      "sha256": "2e324974603d4fd43d3cff721fdaea66c4dac17fc3fc429e81b23a0428a0e1b5",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/extra-067.html",
+      "locator": null
+    },
+    {
+      "url": "https://cms.fi.uba.ar/uploads/Plan_de_Estudios_Ingenieria_Mecanica_7d8331e1c8_78e0784ec3.pdf",
+      "sha256": "d2c636254ccd722849b2e61ba22c17537fe95ed63585362fe201f8074eb83278",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/eng-plan-068.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-naval",
+      "sha256": "8567e5c8bff6b0b8bbc0ac78a21ec49d1c7abf921f10daa81d209b73b234dad1",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-078.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-naval/estructura",
+      "sha256": "a5f0add79ea46e97e6b61b36e86aae3367d3427a788109e31b26ba383a9b98a4",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/extra-070.html",
+      "locator": null
+    },
+    {
+      "url": "https://cms.fi.uba.ar/uploads/Plan_de_Estudios_Ingenieria_Naval_1_25d470f585.pdf",
+      "sha256": "f980c59df2c9defeb41f63e73817db0c95ebf243c920351f1bd052ca1f4f7d6c",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/eng-plan-071.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-quimica",
+      "sha256": "0f75181956115021d15f5989a0fc95f7da97b77f7c5de8a7234e3f1b4e6f941f",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-079.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/ingenieria-quimica/estructura",
+      "sha256": "6e7f0c5bba22ad0c18dd7b93b409bcbc1be1dde8cb0c021c67b588845f40a4a2",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/extra-064.html",
+      "locator": null
+    },
+    {
+      "url": "https://cms.fi.uba.ar/uploads/RESCD_2023_880_Quimica_Plan_2023_507cc321e0_a6609a29e5.pdf",
+      "sha256": "b4ff3e8f43710e70e96de6da01600167a886d1a59df4ba3c5afee0ea3b0ff0dc",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/eng-plan-065.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/lic-en-analisis-de-sistemas",
+      "sha256": "4d48a3a00f017eb086f83a2cd77afc2af8d0d89975da9326bae09348eee13b2c",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-080.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/lic-en-analisis-de-sistemas/estructura",
+      "sha256": "5d97f818e224fb102c62d8f4254bc579b00c61e895c96574fd9bb26050425733",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/extra-079.html",
+      "locator": null
+    },
+    {
+      "url": "https://cms.fi.uba.ar/uploads/Licenciatura_en_Analisis_de_Sistemas_1986_V2014_2ae2b76148.pdf",
+      "sha256": "0bedf013c8bc11b922b362085e50cd2c8d2a0fd36e87115eedfffac7d5722472",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/eng-plan-080.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/bioingenieria",
+      "sha256": "f39bb13d00874615b51985d5e0e7ad5dac025bc1fd33db9ed2815e7e27c76b98",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-081.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fi.uba.ar/grado/carreras/bioingenieria/estructura",
+      "sha256": "c7a32a3491c87024d80fba79d2b2468d054ab2ef95c08e9a3fb7b53113afde69",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/extra-082.html",
+      "locator": null
+    },
+    {
+      "url": "https://cms.fi.uba.ar/uploads/Plan_de_estudios_Bioingenieria_1a33eedbd4.pdf",
+      "sha256": "36ab28ef01e033f38329bc8f85df2341a492b6ef214fbb247b155f42e47b21ab",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/eng-plan-083.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/carreras/medicina/informacion-general",
+      "sha256": "ba85eba7c610eace55de92b8785692681a29f666e07ded3506eaacfac5cc1331",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/retry-programme-082.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/index.php/carreras/medicina/incumbencias-profesionales-y-funciones-del-graduado",
+      "sha256": "ef3b6eb608476b6853c3e444b6a87ca6115f5a883c9aa5da985e13009b27ce3a",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/med-82-39.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/carreras/licenciatura-en-enfermeria/informacion-general",
+      "sha256": "f407ba3f596443e25670d6a2caff4dd31b58393075f16ad2c1ab3fd0f27b08d6",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-083.html",
+      "locator": null
+    },
+    {
+      "url": "https://fmed.uba.ar/index.php/carreras/licenciatura-en-enfermeria/plan-de-estudios",
+      "sha256": "49f028ad8e345340161575225b60c0268779e06a4d4d86a3b512afbb0f90e073",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-90-28.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/sites/default/files/inline-images/Captura3_1.JPG",
+      "sha256": "d71e495029ac76aa34261f6b6314e6d88a7e2aab4e50dab4d10b695cee1b32d1",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/img-84-2.jpg",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/carreras/licenciatura-en-fonoaudiologia/ingreso-la-carrera",
+      "sha256": "75f413c8e6df5f6e9c08caf7da9be752d9bb468a2f57edb9a7694321f34310f2",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-84-21.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/carreras/licenciatura-en-fonoaudiologia/incumbencias-profesionales-y-funciones-del-graduado",
+      "sha256": "9b85f934c0e1ac5eeaf4f377567462550f99303cefad0a52d94664be7721c902",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-084.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/sites/default/files/inline-images/Captura6_0.JPG",
+      "sha256": "ab912996912066ab8ee398b2171b40a08a9f43bbdb70242d75aefbbc0ae5a2f6",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/img-84-5.jpg",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/sites/default/files/inline-images/Captura1_1.JPG",
+      "sha256": "7b14c749f95efd58b6c6f68db5d991e4c283e91fd771656545805ddf0313212c",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/img-84-0.jpg",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/carreras/licenciatura-en-kinesiologia-y-fisiatria/estructura-y-contenidos-generales-de-la-carrera",
+      "sha256": "966d249331443a45a4ded63293645457b7e74954dc12ce64da639e25c7f48440",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/medical-kinesiology.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/carreras/licenciatura-en-nutricion-institucional/sobre-la-carrera",
+      "sha256": "954c3e74897f0c5ecc72813385bfc1e393b2a3e2a1be89572b19277d9b82dcc5",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-086.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/index.php/carreras/licenciatura-en-obstetricia/incumbencias-profesionales-y-funciones-del-graduado",
+      "sha256": "8d331ae1fa3a7017cf2160d86fb8dff6770277f4d9967f779717de8dd301176f",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-087.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/carreras/licenciatura-en-podologia/plan-de-estudios",
+      "sha256": "047e38abd9fa6f17f9093a3323f6d33d81a82150d778c04eb1dfea7ea79cae15",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-88-24.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/carreras/licenciatura-en-podologia/ingreso-la-licenciatura",
+      "sha256": "2b2ba50bf1bfdfaeeb8efcfe8948d32ee967526ef1cea5345bf0d6738607f981",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-88-25.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/carreras/curso-de-tec-radiologo-universitario-lic-en-produccion-de-bioimagenes/informacion-general",
+      "sha256": "da2b6a95e5443ccd2acf5a2d54321ec02cc481b586d585254f73d4b332ef4a1b",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/med-89-40.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/carreras/curso-de-tec-radiologo-universitario-lic-en-produccion-de-bioimagenes/ingreso-la-carrera",
+      "sha256": "d57ddbe78f66d6c865d0a254f8fa0cd17af741886a3198153f4f278d7c26d9df",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-89-27.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fmed.uba.ar/sites/default/files/inline-images/Captura4_5.JPG",
+      "sha256": "8904fc804869548062da8b585d88d17d182cb653ee1d45eb3d631189e11fa393",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/img-89-3.jpg",
+      "locator": null
+    },
+    {
+      "url": "https://fmed.uba.ar/sites/default/files/2024-08/CCL%201.PNG",
+      "sha256": "49c9ec0fde9ccb13b115f9539367f918b1d7c8038e9ade1cd391f9c15e15ddca",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/img-90-7.png",
+      "locator": null
+    },
+    {
+      "url": "https://www.uba.ar/carreras/12",
+      "sha256": "005526c1836b8d4b9efec8dc7da81f3df59481a67b05b0e9710ec31ea8bcb2b0",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/directory-dentistry.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.psi.uba.ar/psicologia/",
+      "sha256": "671ac4c0a95feb7110b9c1f03ba1079584e7baab033079c52dfe23c5b60e907d",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/psy-new.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.psi.uba.ar/musicoterapia/estructura_materias_cargahoraria.pdf",
+      "sha256": "3ee09895cf700218c7fcae9abc0b95d082a1b41a6d8a204d293b718853cff679",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/music-plan.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.psi.uba.ar/musicoterapia/preguntas_frecuentes.pdf",
+      "sha256": "11fe708fb1b8de587f676f4f3bf119263065be3ddda635df7b0e96f251b13f50",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/music-faq.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.psi.uba.ar/terapiaocupacional/",
+      "sha256": "1ac75041194c15b5b1d44bd650ebfe07d8878c31a2ba8b0dfe69372da9d3d088",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/ot-new.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.psi.uba.ar/docentes.php?var=profesorado%2Findex.php",
+      "sha256": "4612f185beb741afa4eee87cc849156769831f5f189350bda4a94b1f468c0144",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/psy-prof-new.html",
+      "locator": null
+    },
+    {
+      "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/IF-2023-01888733-UBA-SG%25REC%20%28PROFESORADO%29_0.pdf",
+      "sha256": "e323aa7c763cd8c23910c1f5cf312e5b145528de45bf6a5ae6567857dfa89f75",
+      "raw_file": "scratch/full-catalog/uba-enrichment/raw/plan-66-25.pdf",
+      "locator": "专业页Profesorado；正式计划第1、5–7页"
+    }
+  ]
+}

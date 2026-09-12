@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Classics and the Ancient World BA</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>September 2027</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>3 年（全日制）</strong></div><div><span>国际生学费</span><strong>2027/28 国际年度学费 £33,300</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>London, Bloomsbury · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已补学校共用资料，专业专属详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,51 +40,95 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
-<p class="catalog-fact"><strong>目录学习安排：</strong>学位 Bachelor of Arts (BA)；入学 September 2027。</p>
-<p class="fact-sources"><a href="#source-p-UKENR-8c60815a4fd54b">官方依据</a></p>
+<p class="catalog-fact"><strong>课程内容：</strong>广泛学习古代世界，结合至少一门古代语言、文学、历史、哲学和考古，并完成研究训练与末年论文。</p>
+<p class="fact-sources"><a href="#source-p-UCLG-C128">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程学制：</strong>3 年（全日制）；学位或学习选项以官方入口名称为准。</p>
+<p class="fact-sources"><a href="#source-p-UCLG-C128">官方依据</a></p>
+
+<p class="catalog-fact"><strong>教学地点：</strong>London, Bloomsbury。海外、实习及临床地点还须结合课程具体安排。</p>
+<p class="fact-sources"><a href="#source-p-UCLG-C128">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>A-level 成绩与科目：</strong>2027 标准要求：A-level AAB。此处未使用 Access UCL 情境降分条件。</p>
+<p class="fact-sources"><a href="#source-p-UCLG-C128">官方依据</a></p>
+
+<p class="catalog-fact"><strong>IB 成绩与科目：</strong>2027 标准要求：IB 总分 36。三门 HL 合计 17。各 HL 不低于 5。</p>
+<p class="fact-sources"><a href="#source-p-UCLG-C128">官方依据</a></p>
+
+<p class="catalog-fact"><strong>GCSE 相关要求：</strong>英语语言 B/6、数学 C/4。同等资格的认定须由学校评估，不能自行折算为高考科目分。</p>
+<p class="fact-sources"><a href="#source-p-UCLG-C128">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国大陆资格路径：</strong>本课程主招生页选择 China 后显示：UCL 认可的中国大学本科前两年完成、加权均分 90%，所学包含与申请专业相关科目，可作为 A-level／IB 的替代资格被考虑。此数值是大学成绩要求，不是高考百分比，也不保证转入高年级；持国际课程者按实际资格体系申请。</p>
+<p class="fact-sources"><a href="#source-p-UCLG-C128">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语要求：</strong>主课程指定 Level 3：IELTS Academic 总分 7.0、每项至少 7.0。学校接受 IELTS Academic Online，不接受 One Skill Retake；其他资格、考试版本及豁免按学校英语页。</p>
+<p class="fact-sources"><a href="#source-p-UCLG-C128">官方依据</a> · <a href="#source-p-UCLG-English">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
-<p class="catalog-fact"><strong>资格按课程及学历国家查询：</strong>UCL要求在具体课程页选择所持资格对应的国家查询；不是仅按国籍判定。部分不满足本科直入学历者可研究UPC。本轮尚未取得全专业统一的中国高考／普高换算，不把个别课程的大学一年要求泛化。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-350f486aad7edd">官方依据</a></p>
+<p class="catalog-fact"><strong>中国大陆及国际资格：</strong>须按专业页面选择实际持有资格的国家或体系；例如本批主课程的 China 查询列认可中国大学本科前两年、加权均分 90% 且相关科目作为替代资格。它不是高考分数门槛或保证高年级转入。持 A-level／IB 者按该资格申请，专业科目和额外考试另核。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-C000">官方依据</a> · <a href="#source-u-UCLG-International">官方依据</a></p>
 
-<p class="catalog-fact"><strong>IELTS分五级：</strong>Level 1至5的总分／各项分别为6.5／6.0、7.0／6.5、7.0／7.0、7.5／7.0、8.0／8.0；具体课程指定等级。接受Academic Online，不接受One Skill Retake。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-43c7dc450824be">官方依据</a></p>
+<p class="catalog-fact"><strong>A-level 选科范围：</strong>常规课程页面还说明至少两门 A-level 应取自 UCL 的 preferred subjects 清单；专业指定科目及等级须同时满足，不能只核对三科总等级。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-C000">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语等级与豁免：</strong>本科课程分别指定 Level 1—5，逐专业已列 IELTS 对照。学校接受 IELTS Academic Online，不接受 One Skill Retake；教育经历或国籍豁免有列明条件，不能仅因大陆学校使用英语教学就视作自动豁免。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-English">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026 后 TOEFL 版本：</strong>UCL 接受 2026-01-21 起新版 TOEFL iBT，但必须符合对应新分制全部条件；此前考试依旧分制及两年有效期规则。接受 Home Edition，不接受 MyBestScore；勿照搬其他大学的版本限制。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-English">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语条件日期缺口：</strong>本轮读取的英语政策仍使用 2026 入学的提交日期例子，未取得 2027 统一最终期限；应遵守本人 offer／Portico 条件，不能把旧日期平移一年。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-English">官方依据</a></p>
 
 </details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>2027 申请与开学：</strong>通过 UCAS 申请，本课程截止 2027-01-13 英国时间 18:00（平等审理截止）；2027 年 9 月开学。核验日尚未截止。平等审理日后是否仍开放须查看 UCAS，不能视为保证补录。</p>
+<p class="fact-sources"><a href="#source-p-UCLG-C128">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
-<p class="catalog-fact"><strong>指南年份边界：</strong>当前国际申请指南中仍有2026周期的1月14日／前一年10月15日日期；2027申请须采用当年度UCAS日历及课程特殊截止。本轮未将旧周期英语材料截止移作2027日期。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-350f486aad7edd">官方依据</a> · <a href="#source-u-UKENR-6ff2a5ce1a9f38">官方依据</a></p>
-
-<p class="catalog-fact"><strong>2027 UCAS常规周期：</strong>适用UCAS常规截止的2027本科须在2027年1月13日英国18:00前提交以获得平等审理；医学、牙科、兽医等部分课程在2026年10月15日早截止。课程可另有特殊渠道，考试报名和材料日期另核。2026年9月12日核验时常规截止尚未到。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-6ff2a5ce1a9f38">官方依据</a> · <a href="#source-u-UKENR-f5da9307fd5b4a">官方依据</a></p>
+<p class="catalog-fact"><strong>国际申请渠道：</strong>国际学生通过 UCAS 申请，与英国学生使用同一系统；本批常规课程 2027-01-13 英国时间 18:00 为平等审理截止，医学为 2026-10-15 英国时间 18:00。额外测试、作品集和特殊入口有独立安排，见逐专业条目。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-International">官方依据</a> · <a href="#source-u-UCLG-C000">官方依据</a> · <a href="#source-u-UCLG-C410">官方依据</a></p>
 
 </details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>2027/28 国际学费：</strong>2027/28 入学国际学生，官网所列年度全日制学费 £33,300（英镑）；不含生活费及可能的额外课程支出。</p>
+<p class="fact-sources"><a href="#source-p-UCLG-C128">官方依据</a></p>
+
+<p class="catalog-fact"><strong>费用调整范围：</strong>页面说明国际生通常享同届学费保证，但列明例外及政府征费、税收等新增负担可影响费用；不能将年度学费直接相乘作为保证总价。</p>
+<p class="fact-sources"><a href="#source-p-UCLG-C128">官方依据</a></p>
+
+<p class="catalog-fact"><strong>资助入口与适用范围：</strong>课程页链接学校 Fees and funding 入口。正文所举家庭收入助学金针对合资格英国学生；本轮未核实本课程 2027 国际／大陆申请者可用奖学金的具体条件、金额和截止，不把本地助学金套用。</p>
+<p class="fact-sources"><a href="#source-p-UCLG-C128">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
-<p class="catalog-fact"><strong>专业报价与身份：</strong>国际费用由课程页分别给出；UCL依据UCAS等个人资料评估费用身份。当前批量目录尚未取得完整2027专业金额，不能由全校范围推算。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-350f486aad7edd">官方依据</a></p>
+<p class="catalog-fact"><strong>国际费用边界：</strong>费用身份按个人情况由学校评估。课程页面的 2027/28 国际年度学费与本地学费分列；大多数国际课程设同届学费保证，但政府征费和页面例外须另看。海外、产业、双校学位和生活费不应按普通年费直接相乘。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-International">官方依据</a> · <a href="#source-u-UCLG-C000">官方依据</a></p>
+
+<p class="catalog-fact"><strong>奖学金入口：</strong>国际申请指南提供 Scholarships and awards 入口；本轮未核实面向 2027 入学大陆申请者的具体奖额、资格与截止，不将英国学生家庭收入助学金当成国际生资助。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-International">官方依据</a> · <a href="#source-u-UCLG-C000">官方依据</a></p>
 
 </details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>毕业方向及证据范围：</strong>官网使用希腊与拉丁学科整体毕业介绍，涉及教育、金融、创意、出版和继续深造。页面明确部分调查范围为英国及欧盟毕业生，不能代表中国学生。 本轮未核实此入口具有明确样本、回复率及分母的独立就业率。</p>
+<p class="fact-sources"><a href="#source-p-UCLG-C128">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>统计范围：</strong>本轮未取得可统一代表全校或中国大陆本科毕业生的就业率。逐专业页面区分课程、学科或院系合并去向及新课程的预期职业；不得把工作加升学指标或雇主案例解释为录取后的就业保证。</p>
+<p class="fact-sources"><a href="#source-u-UCLG-C000">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -93,10 +137,11 @@ hide:
 - [官方项目页面或项目所在目录](https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/classics-and-ancient-world-ba)
 - [官方目录](https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=3)
 
-<div class="catalog-source" id="source-p-UKENR-8c60815a4fd54b"><div><a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=3">ucl 官方本科目录 ↗</a><p>目录中的课程名称、学位和已明确的学制／入学年份／校区</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-UKENR-350f486aad7edd"><div><a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/guidance-international-applicants">UCL 国际申请者指南 ↗</a><p>按课程选择学历国家查询、UPC、UCAS与费用身份</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-UKENR-43c7dc450824be"><div><a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/english-language-requirements">UCL 本科英语要求 ↗</a><p>IELTS五级门槛和考试限制</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-UKENR-6ff2a5ce1a9f38"><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">UCAS 2027平等审理截止 ↗</a><p>2027年1月13日18:00英国时间；迟交不保证同等审理</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-UKENR-f5da9307fd5b4a"><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS 2026／2027申请日历 ↗</a><p>2027申请提交、牛剑和医学早截止、常规平等审理截止</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-UCLG-C128"><div><a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/classics-and-ancient-world-ba">Classics and the Ancient World BA — UCL 2027 course ↗</a><p>2027课程内容、标准资格、China资格查询、申请及方向条件、国际学费和毕业介绍</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-UCLG-English"><div><a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/english-language-requirements">UCL undergraduate English language requirements ↗</a><p>英语等级、IELTS及TOEFL版本、有效期和达标证据</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-UCLG-International"><div><a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/guidance-international-applicants">UCL guidance for international undergraduate applicants ↗</a><p>国际申请渠道、资格查询、费用身份和资助入口</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-UCLG-English"><div><a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/english-language-requirements">UCL undergraduate English language requirements ↗</a><p>英语等级、IELTS及TOEFL版本、有效期和达标证据</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-UCLG-C000"><div><a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/ancient-history-ba">Ancient History BA — UCL 2027 course ↗</a><p>2027课程内容、标准资格、China资格查询、申请及方向条件、国际学费和毕业介绍</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-UCLG-C410"><div><a href="https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/medicine-mbbs-bsc">Medicine MBBS BSc — UCL 2027 course ↗</a><p>2027课程内容、标准资格、China资格查询、申请及方向条件、国际学费和毕业介绍</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/ucl/">← 返回伦敦大学学院</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

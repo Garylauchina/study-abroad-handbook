@@ -768,6 +768,888 @@
       "sha256": "f516a8514faf7f4281ec8e3125a58b157bea0d462109d33349b0a358670cfdd1",
       "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM019.html",
       "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-AGBUS",
+      "sha256": "6920e68749d26f01e234c19b872fe51a59df90274c06565a35f769f8f23c1648",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-agribusiness-3f012efbb0.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-AGBDM",
+      "sha256": "af94618baf2e1c92f559f444e0363f684a383415e43e6c15420283bd73fb2f10",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-agribusiness-and-agricultural-science-937f560e6c.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-AGSCI",
+      "sha256": "b63016ee671a6db54e479f5884d5e23af958db20ff98c2026ed381ec6153b60d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-agricultural-science-4741800dfe.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-AGTDM",
+      "sha256": "a9144ab38d1ab3e258776b0d9bd8550706667f9893e5dc7cf24e605ae4810f86",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-agricultural-science-and-technology-a68030628b.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-AGTEC",
+      "sha256": "ab2eab623e305edb2a4b9459b885ec190b56c38c9701ff3c6afe150c814f4e4c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-agricultural-technology-e83244adbc.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ENVMT",
+      "sha256": "78a33c80a3d6dfa1ef23e89a67bd8d8572e6c1a7fae7b46db30d0f8c815e7dfd",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-environmental-management-06ffac7dc4.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ENVSC",
+      "sha256": "bf3f36163db32d61d2dc9dff1fbc97b3331d82f7b5ca628c80c725d4ce0b080e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-environmental-science-4e605fe0a4.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ENVEM",
+      "sha256": "c42dbd3cb4cfb30c1a602de7a6541c7a7f314de8878f73d7eff320524937e3dc",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-environmental-science-and-ecology-b6c7ba775b.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ENVDM",
+      "sha256": "ab3c25e42e62db3509be6536c6869bdc12713879c299f8ac94280131db36b8da",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-environmental-science-and-management-0070005b61.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-GSSCI",
+      "sha256": "abd249daaa68c979814874c41592ebf474f6c22a6524a735d244e7e0b6c90db9",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-geographical-and-spatial-science-ade797a089.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ARCTA",
+      "sha256": "9cc2ec30444b3612ad86c084d93e3eec31323bce138b932d6ec4b1de68aab08c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-architecture-a-6dde662ae0.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJS-ARCTB",
+      "sha256": "12bd90699199b24371e62490976fee367acef4511da666c953ec00f6c8a0e715",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-architecture-b-3a1e5442c0.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-LARCH",
+      "sha256": "4b09b830980797bc2eb7a2c8c5839c4792bb8cefb00c5cf29caa325e2d5a480f",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-landscape-architecture-9be9debea1.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-LDARC",
+      "sha256": "88c2585a4fc5993c519b71b9d845d029da774b43af3e93afcacba46f91116a20",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-landscape-architecture-studies-85caf5bc77.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CMMST",
+      "sha256": "a375feab949359ff3816dbc19832d634816cc57f87fd6768dcf8f5b223c80484",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-communication-and-media-studies-118359d886.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MUSCO",
+      "sha256": "34bd404b0448447915621bf888e4bd963b115c2db03f10b33637793c036041c9",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-contemporary-popular-music-655f731f22.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-FNART",
+      "sha256": "a1642d74e6f84db8bcd9223e3f4db2dd88038bfe1c97dd55df9f9b12981082a8",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-fine-arts-8754f0270e.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MECOM",
+      "sha256": "6faa1ddd2241eaf63c043f926d0586ff4024273c34918b14b6814a838d042ee0",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-media-and-communication-5c8031749b.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MUSDM",
+      "sha256": "cd23c9f9d3f712b31ba326489bc81aa67bb8b717341f37460c663c0ab9243dc7",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-music-ae54951029.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MUSMS",
+      "sha256": "8ad68ee2182a7ce4b4975128e5ffb7cec09c4f9970ba55fc69c36fa4f12a8391",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-music-and-society-35638e7e46.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MSTGM",
+      "sha256": "4199b4b33ecdd3469e9573c3d9e5bdbb3155ee3ee19f0880133d0cad0ce6cd88",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-music-general-studies-f21bd36ff9.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MUSST",
+      "sha256": "48b66dc8df2434aa7c0ddf0401a28ddd028bde88d62a808346864d4475255d17",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-music-studies-4688533990.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MUSMT",
+      "sha256": "eacb6d44f5174df2bfe5785fd38761cbb22cd4996128d7aa465873913bbd52df",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-music-theatre-4bca17d011.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MEMSD",
+      "sha256": "78ee86ec4db7f69b60424ce013d3df1e255c85bc5bd8e7a5dcb406bd90acbe28",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-music-electronic-music-and-sound-design-9cda1e0eda.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-PEDUC",
+      "sha256": "1cb9641b6d81c6adfabde4b23bdb7ae75d339178280d55e7655ec23f1d19e569",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-primary-education-aea816739e.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-EAUTO",
+      "sha256": "0d45d8a83258165390e529a8035cae9ba10a92f6d4e9b0953936acb562afbf90",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-automation-and-robotics-engineering-efaf81a769.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-EBMEG",
+      "sha256": "549e2469525361e7ef96be6b2c2eadede2ac4ad214d2bbbc7ca05908edb153d5",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-biomedical-engineering-02cbd07abc.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ECHEM",
+      "sha256": "8a55b3a761acf9e5e1ed131e8380d18cd8d799ac41766cf2355006078a01e475",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-chemical-engineering-74e8dbb63a.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ECIVL",
+      "sha256": "580eabbbf14c91f7e2fc6082fb74368fa32d7adc5401c9531a75b9cb8532a20e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-civil-engineering-8025e6c55d.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-EELEC",
+      "sha256": "4ae5ceedb58246fe3ec84ac2e14b56a856434157f5dee957669c0db5cb4b92eb",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-electrical-and-electronic-engineering-986902d14d.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ENGSX",
+      "sha256": "7ede4aeb4eae667286ef145770982bca7b61865cc144f734b074925057fcfd0a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-engineering-science-5d8ae8f319.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-EENVE",
+      "sha256": "63368be0efd8ee1c83a7d5f2ccc2458c1dba2e13ebcd6a42818fa5e7dc26c9c0",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-environmental-engineering-e240371b6c.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-EMECH",
+      "sha256": "0a3feed12f3f777299024d61fb4756e00fa163cacba66f24b12aff5064f70303",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-mechanical-engineering-f7cdaae5b9.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-EMINE",
+      "sha256": "df08ba63eed446e6519933ad3629ff64c30416e4bff948c5211a65d37f8cdc41",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-mining-engineering-a8d7ddf3b5.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-EXHSC",
+      "sha256": "b4f56aacb1405d37f2c87932b4bfa4188a6133c0002e1873622d45ff26863043",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-exercise-and-health-6cea1c98fd.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-HSANP",
+      "sha256": "9bee8e27da0dbeb55d2fd52576282cb046144d9cc146d71fe36a88d49c1eb257",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-human-sciences-anatomy-and-physiology-391b04925d.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-HHMED",
+      "sha256": "8fcf6ceaedbec79c4992bbbd5836d06b7a5f42873ed3914eeea12ce1fa24f382",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-humanities-in-health-and-medicine-f9eee1dd15.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-DENTS",
+      "sha256": "a3d9e80c64c338787c087c1a52fd8e34afbbfb5fe8ba145b120ec0890830cc29",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-integrated-dental-sciences-a7f63d3fc2.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MEDSI",
+      "sha256": "b1f1d34c1ad0ffe6f14a4e16a7c70ee02cc40731dbf3cc52a7d0fe811be1f6e7",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-medical-science-f46eda1e70.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-NURSI",
+      "sha256": "154ecf120d5e79bd2eded6f28dfb64cf7385adf783dad0d2085099d6adc90c5b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-nursing-88e250f69a.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-PLMED",
+      "sha256": "57fbf232b3e115554886863a69e663125c619b901f6df4bb0e8eeab24678b1d7",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-pathology-and-laboratory-medicine-e06491092a.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-PHEAL",
+      "sha256": "2adc6d7b02ca467e8453683dc636d413b97a66ccbde0d4553bf3299f0e3bf95d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-pharmaceutical-health-3de25bc30f.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-PPHLH",
+      "sha256": "d3512b662e279bf05b8adbc56732960376bc5bfd0b4e8d4ba899b03849eac0da",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-public-health-7e92532542.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-SPTSC",
+      "sha256": "3721e1c8b9c5122902657531816cd5181e3ffbc37bf7bd611f9fdeda9edc7f82",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-sport-science-cf360b2e52.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-SEHDM",
+      "sha256": "a83fd528fbb24c9ef079e407dae07a550b3b5643200238e3cd7396b5d6f9c27d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-sport-science-exercise-and-health-36279da6e0.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ARIDM",
+      "sha256": "f758c0c91ba3c4749be712c8b7132d9c74ce6cc7ef3c81e2347d7e272e045f3d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-artificial-intelligence-d385e8d252.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CMPSC",
+      "sha256": "39267a71aac9b3a3853e4a947fb436d38b47ccd30e80eef74d62b46e58f0177d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-computer-science-cc38b68120.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CDSDM",
+      "sha256": "9364d6cdce0cb804a6399de5c197fc7edd56f051deb6d98a64aaa4de956fbe65",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-computing-and-data-science-590a571b42.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CYBER",
+      "sha256": "e69bf23fa485d9de446a5b9071cbc2a77c30e944efa67b318b52603b1c65cacd",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-cybersecurity-770a2c2488.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-DATSC",
+      "sha256": "b2987bdd2fd93a239fbdacc8e4fdc695c1944de796d9d0909b21f6a074aa3cd5",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-data-science-6b099b1ded.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ICYDM",
+      "sha256": "34ec960db7ed38677a3d3827952c70c43eb04ae29e83727b601c2e72c3305678",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-international-cybersecurity-d16f31e31c.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-QCOMP",
+      "sha256": "1a718e00bab70ba32cea01586b92a978f109134714570f1fa0af5946bcaa14a7",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-quantum-computing-cf8e22bffa.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ESOFT",
+      "sha256": "07ece0843e1d27b417bb55edc70f67b3f96f7096963564f301a0d018b4dfdb73",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-software-engineering-0abe29cde2.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ACCTG",
+      "sha256": "5034d13211988a4eda10901205524f8101bb7fe475723ce1b282a6da4e374c24",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-accounting-7489fa1e11.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-BUSAN",
+      "sha256": "20484fb1b60183efcee636883a3c67bd0c8e61ef0709bfb19b8b7f756899cede",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-business-analytics-8abf644db8.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-BMGMT",
+      "sha256": "c3cf480f73696130a7034e3821d69ecc71be1db2975ab9e0d32fa0af2fad7689",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-business-management-1de1dba747.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ENTIN",
+      "sha256": "a8acbdd08672aabf67716632a08f6ebbeba3b79019a491ec3b3234b54dde7287",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-enterprise-and-innovation-cc567779f4.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-FINCE",
+      "sha256": "d3f22b4263c2b429f5aa0b580b5bc4d9652bb6c19aa8168d537f76c0843d061c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-finance-cd5b4e7e05.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-FINEC",
+      "sha256": "8865e87d609925c4a7b80dc0f1de08d6753c054b73b1ca406330dca0d65f4761",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-financial-economics-f49548197c.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-GLBUS",
+      "sha256": "8a8c4b850053e494b7fcae2dab3364f2a6f3531e687d8bc0c98a00dff02a9ca6",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-global-business-15101d9e4e.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-HRSMT",
+      "sha256": "dda401c6ea84f6091a6b0ba07b51ffd89ae9c1df392aa5408ccf2f50f290cbd7",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-human-resource-management-48246ea9e8.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MGMNT",
+      "sha256": "eb05458cbcce3f322c20c6505b66875ff1493cef345e3a7224fec507eed5312a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-management-e30f6d2565.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MRKTG",
+      "sha256": "04318da753d8ded05774cc6cbd1045bf9cadbdd54388f40ae9801d863c3194ba",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-marketing-8eafa5bf83.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-WKERL",
+      "sha256": "ce95576bda3e0201088f6588e1d915785ec101b02f2f95b6b71722b02ba77031",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-work-and-employment-relations-f687fbf073.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ANHBY",
+      "sha256": "ad65268c0508bad66811d048edf686d26d494d733e9adb307a6a520eb47c474c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-anatomy-and-human-biology-0c933ce5bf.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-BCHMB",
+      "sha256": "dd517f33a095c6eba46f529f0dcf7a0ecbb848ac5c642c723d01abb1c08e0585",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-biochemistry-and-molecular-biology-583ec4b51a.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-BCNDM",
+      "sha256": "42d25789fe639ce3ec48be3b4cffb98376259dde16a95ff28a0c3f62ad104525",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-biochemistry-of-nutrition-a0deac807a.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-BIDEM",
+      "sha256": "03b3c7aac21bf218efe1a13f9a14f7ce76aa2edfea7fc157b57ad0d3af6309d9",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-biodiversity-and-evolution-4d6f52e563.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-BOTNY",
+      "sha256": "7a4c38f2b4e112a33aed4976f0daf5f44f5a3702d16e820e6c2831eae5da040b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-botany-72f90be883.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CHEMY",
+      "sha256": "ff4af9c2b9a0393ce81b6d46fa19d79657caf047e985d4bf8ae60d4cbf658f52",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-chemistry-4da6b2977c.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CONBI",
+      "sha256": "7c6a4c0fb9bbf0ac18567119351af2ec99d663a7156468ff591f8d40ce8b05c5",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-conservation-biology-74ddafae11.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-FRODM",
+      "sha256": "196eabed91f2fd267865856f27cb382715c3581c7f9b128adbeef6331587662d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-frontier-physics-9bc4f7e794.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-GENET",
+      "sha256": "41ca5785fa74a8757ef98faadeee393527e66144ad3d2cba94264510be75a79e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-genetics-1f22d56f5a.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-GECDM",
+      "sha256": "37a8d16b7e0be75de4b0ecc4b3899fc5beaab2a08876057fef9e1a21edd188c9",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-geochemistry-08d4f0ca64.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-GGRPY",
+      "sha256": "d5b8911ced77f8b71afad6a9a08c949171656b94afa32539c580217a08b750d4",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-geographical-sciences-902311dac4.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-GEOGY",
+      "sha256": "a3509aae5c2bbfa8ab9af125a4c2ca3116d1470c3c6265ec222360f24eabaf53",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-geology-405e83ed50.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-HUMGE",
+      "sha256": "353c6dc1187977072d628e14ab7131163c50f71682d62867e17d827b49949a2c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-human-genomics-8567bb7866.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-HSNEM",
+      "sha256": "61923f54e5a50e02ba54b52eb0f8389eacc3ac77a9013a0ae17c42a21e50e052",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-human-science-and-neuroscience-3fbab95686.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-HSDEM",
+      "sha256": "091a467585e87d68e3fac3d92199045e44f2c61ceaaf360070eb0d2df265784b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-human-sciences-and-data-analytics-68adc9cc4d.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-IEMDM",
+      "sha256": "9bb6c3339a3faffd107f6a0507f1e4f03fc0a74936bbf7bf5385a3011ed8adf9",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-integrated-earth-and-marine-sciences-678c2f50fd.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-IMSCP",
+      "sha256": "54fa03de5f71bd0fd32e86fe7adec734d09b85b7605d76b9787f684ce27f6bdc",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-integrated-medical-sciences-and-clinical-practice-e04f00afdb.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MARCP",
+      "sha256": "51830e55cd9142dc9b89a01d49d1bc14c46dd40807bca358af2b0c68eab2486d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-marine-and-coastal-processes-be7f255215.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MBIOL",
+      "sha256": "3715d439e1c8d4419774466ec5f6d30969de6bd4285a1783ba8e0d13e7a537f1",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-marine-biology-a51e2b348a.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MARDM",
+      "sha256": "deda61c277a45bf67169dad32b0942232c69d12775f92d2ef253ca4d04f3b0c5",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-marine-science-1b2d1e0df7.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MATHS",
+      "sha256": "661d6d27a069664f498c709f9dd922d8ea5ccd6911349462c60463eafd3fd070",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-mathematics-7cb2529851.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-EMATH",
+      "sha256": "8427fdd3b8a1ad6e6d9ca8fdb51bac6f47127f075fd44def964c5f828c7eb7c2",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-mathematics-bfc73aa61c.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MCBIM",
+      "sha256": "ec18d3ef7f49e3d18e221ae4ce40541d419edbc08f5bb9daaad14953e259a3b3",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-microbiology-and-immunology-2add7dce9b.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-MLSDM",
+      "sha256": "4317a689568ec529f8aa7a2949258adc27ed7f349d8d0f582fb5b62adb7341c4",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-molecular-life-sciences-eef7dbf165.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-NEURS",
+      "sha256": "0a01ed639eccad463823b381a1685bf34a8db3f56067de7d8ec3585889bb81c2",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-neuroscience-e30957d17d.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-PHARY",
+      "sha256": "b5bd9eb3f6e3346e66485bf75c7c4ef7d33b44f7158dd1d0776e21b8460a0fa8",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-pharmacology-and-toxicology-028111595a.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-PHYSC",
+      "sha256": "e9b7ed5c3c6d3b196cd07a75eceb9810e5800b2a53503d5562d2b9f2957d367e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-physics-649804c073.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-PHYGY",
+      "sha256": "aa370fa1421fac0bb901334106c60eea0145dd7cd785591ffd5aa36744715aec",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-physiology-261eb36fd1.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-PLBEM",
+      "sha256": "0a5e83064d8403dbfe015a5328f1c936c07e1cdda744d6ea70a035c1e2ea6016",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-plant-biology-e7abd85549.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-PHMSC",
+      "sha256": "102783ff48cc8c64c402e1a8385e7f20b3f31e8da320aaacad88f2d98771bd5e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-podiatric-health-and-medical-sciences-90f700d618.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-STATS",
+      "sha256": "ec3727288a6480abce2a5064f0eaba608a478328cb3bac700e76d04d1b3a5ee4",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-statistics-81363a83fc.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-WLCDM",
+      "sha256": "6332644c5f3b7fa342d9256731867add5e44296d0f5ac691dce76c541e59d3e2",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-wildlife-conservation-039ccd3848.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ZOOLY",
+      "sha256": "097149dc81f7758a8eed2090c295632e69beec009ef3a45fc6137747d5625143",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-zoology-d351354ef3.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ANTHR",
+      "sha256": "e53e00c7682d36559bf8b64bac00dc73f589ae6cb3d083cfa1e3ae4a05c8941b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-anthropology-9ad25b14f7.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-APHGY",
+      "sha256": "96575695153b3b39532517ce8737aea4dd572f4f1558a51c77e38c637cba4d3e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-applied-human-geography-c19294c31d.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ARCGY",
+      "sha256": "44fbfe63beb4f49fea332b11c3578e05123a1fe967242f97766bc14854472252",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-archaeology-cda4920ce4.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ARHCU",
+      "sha256": "b8ec5893322b9067d95103af1e5266e35ba26e305d75536a2e8f2aeb34c9d738",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-art-history-and-curatorial-studies-bfecd38797.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ASSTD",
+      "sha256": "3a2d82560c4f626e884ed34d5e7503583c22e09ca7fd2dec86d71081517fc07a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-asian-studies-77cd4e2ae2.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ECNSM",
+      "sha256": "a2114e3a88ddf62c5c588baa7f5c7655239f3563ef613470e33621eeb20122a9",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-business-economics-9c94e6418c.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-BSLAW",
+      "sha256": "fbed9ba9c55c2c0a931736d72a21a7f02653231cfb8e59695893a79ac454d457",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-business-law-7da41980cd.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CHNSA",
+      "sha256": "793649f016839b7fb3fde1b766e38e97210ec9b8a1afcff8afab1c0f5dc160ac",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-chnsa-chinese-studies-f0ed9b76ae.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CHNSB",
+      "sha256": "94a9e39ecbed9302f5604cfaf08ef4fa894867c01dcade13666a2cf36f0b4d67",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-chnsb-chinese-studies-6c6ad602a6.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CHNSI",
+      "sha256": "dd7134f41582218491ed27eb109c9a850c221489ef6c38cff6b5383940c28eb0",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-chnsi-chinese-studies-a8e15bb998.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CHNSP",
+      "sha256": "632c3c1eb7197de414154546d172d9a8df85c54829de2a3d086ea544beddcdcf",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-chnsp-chinese-studies-1f6d33d74f.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CLANH",
+      "sha256": "a603661c4d605ed124e37c99eb1d56e6e926fe4654d5f1dbf9394e295a230e71",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-classics-and-ancient-history-22bdb5d3df.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CRIMN",
+      "sha256": "df41831a18421554450a1ced9a774e395d06c5235e587a7384f68a8fd6e1334e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-criminology-74f0c9b9ba.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-CRMDM",
+      "sha256": "3a15ea94cd71e9b988d8314222e5b1d693f7a0c75be127b53f2e5b9b7ef7f273",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-criminology-and-criminal-justice-0436cdcaa4.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ECNPF",
+      "sha256": "bfa5530e7309049ab159c9920453023ee08d0becb1a0c4d04e88f7fac82ed021",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-economics-1361eb6041.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-EGCST",
+      "sha256": "fa39ced745949c90e85388a2336a3857ce206f3d074257a18e6f5a03fe144c96",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-english-and-literary-studies-73ad486f74.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ENGEO",
+      "sha256": "f40dbc672262ff4a288d475dab4b221388720c2be26f189aaea6324fd05ccffa",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-environmental-geography-and-planning-273a5cc2cc.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-FRNHA",
+      "sha256": "4d9f40ca20eb5e15074792f6522faad2074bae76660ffeabcfe8ba06e17ca8bd",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-frnha-french-studies-2c399dcde1.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-FRNHB",
+      "sha256": "eb1a1a8000b67f7b29aa43729d8eba5d9366946fd730485394521cb176f0ed06",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-frnhb-french-studies-93c504a64d.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-FRNHI",
+      "sha256": "8617bedfd1384d56e497eb50c8a921931c848d2790f7996ceb313f21d11a78f2",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-frnhi-french-studies-5f285f68e8.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-GNWST",
+      "sha256": "c4059e11e5108f564dec6da3076aea2c9ec7d83e064863f37bd65eb4b36ad96f",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-gender-studies-159fae164b.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-GRMNA",
+      "sha256": "ae1aeecd4972d1e5a48c8e45fed2fc05725f6f7563f51d888111f7bb31811c0d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-grmna-german-studies-4f7246032c.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-GRMNB",
+      "sha256": "822f7eea7c284eb3b6be5b7986c935085266a175f06650d1b5a6f192a6bd5548",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-grmnb-german-studies-170b5da28c.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-GRMNI",
+      "sha256": "3a0e5af7bcf2fe8ea173609b0bfcca3f13901eb8395adfb3aa4342f3258304d8",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-grmni-german-studies-d02da0b2b2.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-HISTY",
+      "sha256": "5562cf9e443f26f533c8449146f4f0e6b34dcdd07f662b8ed552abdbfd118db3",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-history-1871a0e8b2.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-HYART",
+      "sha256": "e59fc54f03761c4f9e2966a14ff510485e6386e2e0fff6c8bd51c94db3cc3370",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-history-of-art-c2024da301.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-HMRDM",
+      "sha256": "6757b456280b318150503fd8b321fdeefbbcc40e2317dd4f99d69f9618fdcf64",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-human-rights-d57ee225e1.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-INKHH",
+      "sha256": "abc6ddaf3a31c4de2db6e6e6f460de4aa7d05f88feff59bb268c26c5d8572952",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-indigenous-knowledge-history-and-heritage-f4470f8972.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-INDNB",
+      "sha256": "924a4c9888012f42d6063a8ed37c9001e250ae08f890648f60917e58c2098e33",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-indnb-indonesian-studies-bbf8ae3f87.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-INDNI",
+      "sha256": "600b3e5f91409c3b10b2adab120adb23e8866dc3c75cb533a0c9ad7162986603",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-indni-indonesian-studies-743c8f476a.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-INDNP",
+      "sha256": "fc0af7fc1c3ce0c4a6e0c9925655ea3bc1eb6c5517df1df65e6e9f6df5dddb2e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-indnp-indonesian-studies-61c0fb2d9f.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-INTRL",
+      "sha256": "7594c1c59556e7ef1eff4810a09040ffc411e315acbab87b7309f88126ab8f34",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-international-relations-0b69b70fc3.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ITLNA",
+      "sha256": "2b343a70915fd9525ebf20aa25098b4ebdb5aa408fb86fe36c43b2c363225527",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-itlna-italian-studies-b14f59b98e.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ITLNB",
+      "sha256": "defb3ce56d36896ab273c49d1803ac5af344f14fa0eeafe3376283b0f4357f11",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-itlnb-italian-studies-68f4a2bcfe.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-ITLNI",
+      "sha256": "a981c92ec5f0962fea35f8126d3466b926f29716232a0f6ef9b96b42db022882",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-itlni-italian-studies-b0f3e88177.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-JPNSB",
+      "sha256": "99cb777a28d92ff24734c6cdfb1f02dd27fcb842da393b3cad216e810dfe3f89",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-jpnsb-japanese-studies-ad2edf942a.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-JPNSI",
+      "sha256": "cabe0030dc397ac6d867bf01d37b6db0534090f70be357be5494eea68aa79d41",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-jpnsi-japanese-studies-511cc08b42.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-JPNSP",
+      "sha256": "3ff666bec64ff28ac4974f6e84cda13334b2e130610554ac2b20b6727c560df9",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-jpnsp-japanese-studies-e536298985.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-KOREB",
+      "sha256": "f63a040c14d1f695e66d39f0609afbe571dde860fba78015ac9df8860db5a578",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-korean-studies-ce0b446579.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-KOREI",
+      "sha256": "df3aed4c59c56073e0aeb1d25e8adadae5f1a5f99eeac0350ed8f04c9bc20c48",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-korean-studies-9343d8f320.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-LWSOC",
+      "sha256": "698affc824a3994fa989b5bcfa4dba99e59cd731d77350a318be34a0368f0ad7",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-law-and-society-3ae1d2035d.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-LINGO",
+      "sha256": "29840c140c42d0ef2f8bccf7755656379ce125c661f634acb5341b69540b8f7b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-linguistics-4149bdb799.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-PHILY",
+      "sha256": "2b30524499e44a10a129e60acadd6037df36042415667664c9ac8a5025d59001",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-philosophy-8b5349c8a7.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-PPEDM",
+      "sha256": "c1a1b692eb61d0c7dd8a96a7577f39298a156a45d57c08a3730da9f60aeea421",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-philosophy-politics-and-economics-ddf3d98592.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-POLSC",
+      "sha256": "dd722bbea7ee77010b4a4ccf24d8617cc3cb30a438439980def8598b1459244d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-political-science-and-international-relations-dff58fe3d8.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-PSYCH",
+      "sha256": "2b80fa5c25adb8232bbded9045bd86e030ae75f5f74e42ed15a1bdadb8c425ce",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-psychological-and-behavioural-sciences-9e5e9225ca.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-PSYDM",
+      "sha256": "51e9c56b3fc33bfa3f95759dba9915010aa560e1f7fe19b9d6e5c7f85db883af",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-psychology-38f3dc1758.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-SUSTA",
+      "sha256": "06e577599295acf7deb348a1027797ff9318e648f25ec9d25378558ceeb5ba5c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-social-and-environmental-sustainability-bed95dd1a5.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-SOCWK",
+      "sha256": "48ff1ad4e884c63a3138fc8ebd6dcb638dc21443c6889f09ccf44090cea5ae51",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-social-work-08c3f220db.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majordetails?code=MJD-SPNHB",
+      "sha256": "b249d0a9f7c8fd0cfe4df63a1d15ba4b3e0150e1d7d0b0df613154bc74e87f64",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uwa/uwa-spanish-studies-35af31e2b0.html",
+      "locator": "Introduction; top-level Prerequisites; Courses; Incompatibilities"
     }
   ]
 }

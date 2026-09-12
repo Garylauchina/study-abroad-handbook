@@ -21,7 +21,7 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>Semester 1 (22 Feb, 2027)</strong></div><div><span>学制</span><strong>4 年</strong></div><div><span>国际生学费</span><strong>2027国际生指示年费：A$56,800</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>St Lucia · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>St Lucia · <strong>授课语言：</strong>英语（语言类课程另核）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -38,23 +38,35 @@ hide:
 
 <p><strong>目录条目类别：</strong>degree</p>
 
-<p class="catalog-fact"><strong>标准学制：</strong>2027页面/课程目录列4 年；非全日制、转学分和后续学期调整可能改变完成时间。</p>
+<p class="catalog-fact"><strong>标准学制：</strong>4 年；补课或转学分可改变学制。</p>
 <p class="fact-sources"><a href="#source-p-queensland-detail-bachelor-laws-honours-2471">官方依据</a></p>
 
-<p class="catalog-fact"><strong>校区：</strong>St Lucia；本条对应目录所列课程/版本。</p>
+<p class="catalog-fact"><strong>校区：</strong>St Lucia</p>
 <p class="fact-sources"><a href="#source-p-queensland-detail-bachelor-laws-honours-2471">官方依据</a></p>
 
-<p class="catalog-fact"><strong>学习单元示例：</strong>课程结构/课程页列例如：Foundations of Law [Core course]；Trusts and Equity [Core course]；Legal Internships [Core course]。示例可含选修或替代选项，不表示每一项均为所有学生必修。</p>
+<p class="catalog-fact"><strong>学习单元示例：</strong>示例：Foundations of Law [Core course]；Trusts and Equity [Core course]；Legal Internships [Core course]；不等于全部必修清单。</p>
 <p class="fact-sources"><a href="#source-p-queensland-detail-bachelor-laws-honours-2471">官方依据</a></p>
+
+<p class="catalog-fact"><strong>授课语言：</strong>校级政策明确英语为授课语言；语言类课程可能使用其目标语言。</p>
+<p class="fact-sources"><a href="#source-p-queensland-english-instruction-policy">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
-<p class="catalog-fact"><strong>特殊入口与科目待核：</strong>本轮未完成本课程的中国高考、先修科目、荣誉/转学或特殊选拔条款逐条复核。名称含Honours也可能是一年制本科后荣誉入口，应按课程实际学制及录取资格判断。</p>
+<p class="catalog-fact"><strong>课程英语：</strong>IELTS总分7，听力6、阅读6、写作7、口语7。这是本学位国际栏目列出的要求；其他考试、有效期及豁免须按校方政策确认。</p>
 <p class="fact-sources"><a href="#source-p-queensland-detail-bachelor-laws-honours-2471">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际栏目先修与入口：</strong>需相当于昆士兰高中 General English，Units 3、4 达 C。</p>
+<p class="fact-sources"><a href="#source-p-queensland-detail-bachelor-laws-honours-2471">官方依据</a></p>
+
+<p class="catalog-fact"><strong>大陆科目等同核对：</strong>按昆士兰高中等同标准核科目；中国逐科换算本轮未取得，总分不替代先修或英语。</p>
+<p class="fact-sources"><a href="#source-p-queensland-detail-bachelor-laws-honours-2471">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考门槛缺口：</strong>2027 Semester 1 的 China 查询本轮未列出 Gaokao 分数，不能由其他资格换算或据此断言高考不受理；需让 UQ 确认申请路径。</p>
+<p class="fact-sources"><a href="#source-p-queensland-china-2471-2027-7720">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
-<p class="catalog-fact"><strong>资格与学位要求：</strong>本科申请须满足所选项目的资格分数、科目先修、英语及其他选拔条件；以具体项目页核对。已读通用要求页，本轮未核实可覆盖全部2027项目的中国高考换算表，不编统一高考门槛。</p>
+<p class="catalog-fact"><strong>资格与学位要求：</strong>按承载学位、资格类别及入学学期核对分数、科目、英语和额外选拔。已补的高考数值只适用于各条注明的2027学位/学期；A-level、IB和高考不可混用。</p>
 <p class="fact-sources"><a href="#source-u-queensland-profile-requirements">官方依据</a></p>
 
 <p class="catalog-fact"><strong>英语最低标准：</strong>大学普通最低IELTS为总分6.5、各单项6.0；一些项目要求更高，具体项目页优先。已接受的英语学习/工作经历也可按政策评估，不能仅凭“英语授课学校”自行判断豁免。</p>
@@ -64,22 +76,18 @@ hide:
 
 ## 申请安排 {#applications}
 
-<p class="catalog-fact"><strong>课程开学批次：</strong>Semester 1 (22 Feb, 2027)。这是教学开始安排，不等于申请截止或仍有名额；国际生申请渠道和特殊截止应另核。</p>
+<p class="catalog-fact"><strong>课程开学批次：</strong>Semester 1 (22 Feb, 2027)；这是开学安排，不是申请截止。</p>
 <p class="fact-sources"><a href="#source-p-queensland-detail-bachelor-laws-honours-2471">官方依据</a></p>
 
-<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+<p class="catalog-fact"><strong>本学位国际申请渠道：</strong>大陆高考向 UQ 在线申请或经认可代理；澳大利亚 Year 12（境内外）及在澳大利亚读 IB 者走 QTAC。</p>
+<p class="fact-sources"><a href="#source-p-queensland-detail-bachelor-laws-honours-2471">官方依据</a></p>
 
-<p class="catalog-fact"><strong>大陆直申与澳洲资格渠道：</strong>中国境内高考或海外资格按国际在线申请流程；当前澳洲Year12（境内外）及在澳洲完成IB者经QTAC，不能把QTAC统一用于大陆高考。授权代理并不改变应走的渠道。</p>
-<p class="fact-sources"><a href="#source-u-queensland-profile-submit">官方依据</a></p>
-
-<p class="catalog-fact"><strong>直申通用截止：</strong>国际直申通常第一学期为前一年11月30日，第二学期为当年5月31日；部分项目不同，迟交不保证受理。因此2027通常对应2026-11-30和2027-05-31，但这只是通用规则换算，仍须核课程名额和专门截止。</p>
-<p class="fact-sources"><a href="#source-u-queensland-profile-submit">官方依据</a></p>
-
-</details>
+<p class="catalog-fact"><strong>2027国际直申截止：</strong>2027第1学期：2026-11-30（国际直申）；截止未到不代表仍有名额或测试开放。</p>
+<p class="fact-sources"><a href="#source-p-queensland-detail-bachelor-laws-honours-2471">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
-<p class="catalog-fact"><strong>2027国际生指示年费：</strong>A$56,800，为2027标准全日制年度学习量的指示费用，非固定全程总价。UQ此栏目通常以16 units年度学习量估算；实际负荷与年度调整可能改变金额。住宿、生活及其他适用费用另计。</p>
+<p class="catalog-fact"><strong>2027国际生指示年费：</strong>A$56,800，2027标准全日制年费参考（通常16 units），非全程总价；实际学分、调价及生活等支出另计。</p>
 <p class="fact-sources"><a href="#source-p-queensland-detail-bachelor-laws-honours-2471">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
@@ -94,10 +102,10 @@ hide:
 
 ## 毕业生情况 {#outcomes}
 
-<p class="catalog-fact"><strong>官网列出的职业方向：</strong>可探索的岗位例如：Solicitor、Barrister、Judge’s associate。方向取决于所选主修和进一步资格，不是就业率或雇主承诺。</p>
+<p class="catalog-fact"><strong>官网列出的职业方向：</strong>示例：Solicitor、Barrister、Judge’s associate。须另满足执业及工作资格，非就业率。</p>
 <p class="fact-sources"><a href="#source-p-queensland-detail-bachelor-laws-honours-2471">官方依据</a></p>
 
-<p class="catalog-fact"><strong>毕业调查缺口：</strong>本轮未取得本课程按毕业届次、回应样本和国际生/中国学生范围定义的就业率、起薪或升学率；职业方向不能替代统计。</p>
+<p class="catalog-fact"><strong>毕业调查缺口：</strong>本轮未取得具毕业届次、样本及国际生范围的就业率、薪资或升学率。</p>
 <p class="fact-sources"><a href="#source-p-queensland-detail-bachelor-laws-honours-2471">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
@@ -114,10 +122,12 @@ hide:
 - [官方项目页面或项目所在目录](https://study.uq.edu.au/study-options/programs/bachelor-laws-honours-2471)
 - [官方目录](https://study.uq.edu.au/study-options/programs)
 
-<div class="catalog-source" id="source-p-queensland-detail-bachelor-laws-honours-2471"><div><a href="https://study.uq.edu.au/study-options/programs/bachelor-laws-honours-2471">Bachelor of Laws (Honours) - Study - The University of Queensland ↗</a><p>课程页面明确展示的学制、校区、课程结构、国际学费/英语/高考（如适用）；字段缺口另标</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-queensland-detail-bachelor-laws-honours-2471"><div><a href="https://study.uq.edu.au/study-options/programs/bachelor-laws-honours-2471">Bachelor of Laws (Honours) - Study - The University of Queensland ↗</a><p>本承载学位2027课程页面；Entry requirements / How to apply 中仅使用 international 栏目，费用仅使用 international 2027 栏目。</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-queensland-english-instruction-policy"><div><a href="https://policies.uq.edu.au/document/view-current.php?id=152">English Language Proficiency Admission Policy ↗</a><p>校级授课语言规则，Section 2 (4)；语言学习课程可另有目标语言教学。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-queensland-china-2471-2027-7720"><div><a href="https://study.uq.edu.au/api/program-requirements/2471-2027?year=2027&amp;country=China&amp;term=7720">UQ 2027 Bachelor of Laws (Honours) — China / Semester 1 ↗</a><p>按项目代码、2027、China及所列学期取得的官方资格查询结果；高考score为本省满分百分比。</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-queensland-profile-requirements"><div><a href="https://study.uq.edu.au/admissions/undergraduate/review-entry-requirements">queensland 官方资料：requirements ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-queensland-profile-english"><div><a href="https://study.uq.edu.au/admissions/english-language-requirements">queensland 官方资料：english ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-queensland-profile-submit"><div><a href="https://study.uq.edu.au/admissions/undergraduate/submit-your-application">queensland 官方资料：submit ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-queensland-profile-fees"><div><a href="https://study.uq.edu.au/admissions/undergraduate/review-fees-and-financial-support">queensland 官方资料：fees ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-queensland-english-instruction-policy"><div><a href="https://policies.uq.edu.au/document/view-current.php?id=152">English Language Proficiency Admission Policy ↗</a><p>校级授课语言规则，Section 2 (4)；语言学习课程可另有目标语言教学。</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/australia/queensland/">← 返回昆士兰大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

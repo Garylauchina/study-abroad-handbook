@@ -2,10 +2,10 @@
   "university_id": "uba",
   "checked_at": "2026-09-12",
   "coverage": {
-    "status": "complete",
+    "status": "partial",
     "count": 101,
     "scope": "UBA全部13个学院的Carreras de grado目录；含医学、法律、教师教育与艺术；不计独立Tecnicatura。",
-    "method": "13个学院页面共125个课程链接，按正式名称去除跨院重复，排除19项Tecnicatura。",
+    "method": "13个学院页面共125个课程链接，按正式名称去除跨院重复，排除19项Tecnicatura。 逐项目复核后合并一个跨院景观学位、补独立文学教师本科，并更正失效官网地址与若干毕业后教师入口。",
     "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
     "sources": [
       {
@@ -85,10 +85,21 @@
         "sha256": "d5b3703725c16ca906f37446e5c6bb338cca842fa1d0fc429fe2cea5ec378931",
         "raw_file": "scratch/full-catalog/root/uba-faculty-12.html",
         "bytes": 63769
+      },
+      {
+        "url": "https://letras.filo.uba.ar/content/plan-de-estudios",
+        "sha256": "12b91209bb867c337dd1e083db2b20e2af00cb9f636121d045088b38aa34df91",
+        "raw_file": "scratch/full-catalog/uba-enrichment/raw/programme-066.html"
+      },
+      {
+        "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/IF-2023-01888733-UBA-SG%25REC%20%28PROFESORADO%29_0.pdf",
+        "sha256": "e323aa7c763cd8c23910c1f5cf312e5b145528de45bf6a5ae6567857dfa89f75",
+        "raw_file": "scratch/full-catalog/uba-enrichment/raw/plan-66-25.pdf"
       }
     ],
     "gaps": [
-      "中央目录以Grado入口为范围，学制、具体授予资格和招生年度尚待逐课程核实。"
+      "中央目录以Grado入口为范围，学制、具体授予资格和招生年度尚待逐课程核实。",
+      "已纠正一组跨院景观学位重复并新增文学教师；Podología本科身份及Letras Clásicas是否独立学位仍有待确认，不能宣称目录完全闭合。"
     ]
   },
   "programs": [
@@ -286,21 +297,6 @@
       "academic_unit": "Arquitectura, Diseño y Urbanismo",
       "listing_note": "官方列于Arquitectura, Diseño y Urbanismo",
       "id": "uba-dise-o-textil-82f810a8ff"
-    },
-    {
-      "name_en": "Licenciatura en Planificación y Diseño del Paisaje (compartido con FAUBA)",
-      "degree_label": "Carrera de grado（具体授予名称见官方课程）",
-      "official_url": "https://www.fadu.uba.ar/lic-en-planificacion-y-diseno-del-paisaje",
-      "discovery_source_url": "https://www.uba.ar/carreras/2",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "raw_key": "https://www.fadu.uba.ar/lic-en-planificacion-y-diseno-del-paisaje",
-      "academic_unit": "Arquitectura, Diseño y Urbanismo",
-      "listing_note": "官方列于Arquitectura, Diseño y Urbanismo",
-      "id": "uba-licenciatura-en-planificaci-n-y-dise-o-del-paisaje-compartido-con-78f67ed749"
     },
     {
       "name_en": "Contador Público",
@@ -558,7 +554,7 @@
       "id": "uba-profesorado-de-ense-anza-media-y-superior-en-ciencias-de-la-atm-s-e71db8ebc0"
     },
     {
-      "name_en": "Profesorado de Enseñanza Media y Superior en Ciencias Geologógicas",
+      "name_en": "Profesorado de Enseñanza Media y Superior en Geología",
       "degree_label": "Carrera de grado（具体授予名称见官方课程）",
       "official_url": "https://ccpems.exactas.uba.ar/profesorado-de-ensenanza-media-y-superior-en-geologia/",
       "discovery_source_url": "https://www.uba.ar/carreras/4",
@@ -825,7 +821,8 @@
       "raw_key": "http://www.sociales.uba.ar/carreras/profesorados/cspolitica",
       "academic_unit": "Ciencias Sociales",
       "listing_note": "官方列于Ciencias Sociales",
-      "id": "uba-profesorado-de-ense-anza-media-y-superior-en-ciencia-pol-tica-9da1d1fd50"
+      "id": "uba-profesorado-de-ense-anza-media-y-superior-en-ciencia-pol-tica-9da1d1fd50",
+      "entry_route": "页面说明政治学Lic毕业后可修教师项目；本轮按毕业后教育衔接入口标示，不把所列本科基础模块当作无需前置学位的保证。"
     },
     {
       "name_en": "Profesorado de Enseñanza Media y Superior en Relaciones del Trabajo",
@@ -840,7 +837,8 @@
       "raw_key": "http://www.sociales.uba.ar/carreras/profesorados/profesorado-relaciones-del-trabajo",
       "academic_unit": "Ciencias Sociales",
       "listing_note": "官方列于Ciencias Sociales",
-      "id": "uba-profesorado-de-ense-anza-media-y-superior-en-relaciones-del-traba-c249be3b63"
+      "id": "uba-profesorado-de-ense-anza-media-y-superior-en-relaciones-del-traba-c249be3b63",
+      "entry_route": "要求取得UBA社会科学学院劳动关系Lic学位；之后补修教育教学模块。"
     },
     {
       "name_en": "Profesorado de Enseñanza Media y Superior en Trabajo Social",
@@ -855,7 +853,8 @@
       "raw_key": "http://www.sociales.uba.ar/carreras/profesorados/profesorado-de-trabajo-social",
       "academic_unit": "Ciencias Sociales",
       "listing_note": "官方列于Ciencias Sociales",
-      "id": "uba-profesorado-de-ense-anza-media-y-superior-en-trabajo-social-eda16dfd94"
+      "id": "uba-profesorado-de-ense-anza-media-y-superior-en-trabajo-social-eda16dfd94",
+      "entry_route": "面向社会工作学士毕业生，UBA本院毕业者补修教育教学模块。"
     },
     {
       "name_en": "Profesor/a de Enseñanza Secundaria, Normal y Especial en Sociología",
@@ -870,7 +869,8 @@
       "raw_key": "http://www.sociales.uba.ar/carreras/profesorados/profesorado-de-sociologia",
       "academic_unit": "Ciencias Sociales",
       "listing_note": "官方列于Ciencias Sociales",
-      "id": "uba-profesor-a-de-ense-anza-secundaria-normal-y-especial-en-sociolog-1e95738d5b"
+      "id": "uba-profesor-a-de-ense-anza-secundaria-normal-y-especial-en-sociolog-1e95738d5b",
+      "entry_route": "须先取得社会学Lic学位，再修教育学、教学法或学习小组协调、教学实践三门课程。"
     },
     {
       "name_en": "Veterinaria",
@@ -930,7 +930,8 @@
       "raw_key": "http://www.derecho.uba.ar/academica/profesorado_en_med_sup",
       "academic_unit": "Derecho",
       "listing_note": "官方列于Derecho",
-      "id": "uba-profesorado-para-la-ense-anza-media-y-superior-en-ciencias-jur-di-d516a68586"
+      "id": "uba-profesorado-para-la-ense-anza-media-y-superior-en-ciencias-jur-di-d516a68586",
+      "entry_route": "2004创建规章附件II要求律师学位，或法律在读且完成CPC并达到指定CPO阶段；本科高中生不能直接跳入教师教育补充阶段。页面同时列后续修订，本轮未完成所有修订后的逐项等值审计。"
     },
     {
       "name_en": "Calígrafo Público",
@@ -965,7 +966,7 @@
     {
       "name_en": "Farmacia",
       "degree_label": "Carrera de grado（具体授予名称见官方课程）",
-      "official_url": "https://share.google/tRHngmanaaI6MFcWU",
+      "official_url": "https://www.ffyb.uba.ar/grado-farmacia/",
       "discovery_source_url": "https://www.uba.ar/carreras/8",
       "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
       "intake": null,
@@ -1035,7 +1036,8 @@
       "raw_key": "http://bibliotecologia.filo.uba.ar",
       "academic_unit": "Filosofía y Letras",
       "listing_note": "官方列于Filosofía y Letras",
-      "id": "uba-licenciatura-en-ciencia-de-la-informaci-n-ciclo-de-complementaci-c6e0e9e1aa"
+      "id": "uba-licenciatura-en-ciencia-de-la-informaci-n-ciclo-de-complementaci-c6e0e9e1aa",
+      "entry_route": "须持认可的图书馆、学校图书馆、档案或相当高等学历；前置计划至少1400小时且至少2年。非UBA学历者还须修3科CBC，其中必含社会与国家，另2科按清单选择。中国高中毕业证本身不足以进入本补读项目。"
     },
     {
       "name_en": "Licenciatura en Filosofía",
@@ -1175,7 +1177,7 @@
     {
       "name_en": "Profesorado en Filosofía",
       "degree_label": "Carrera de grado（具体授予名称见官方课程）",
-      "official_url": "http://filosofia.filo.uba.ar/plan-de-estudios",
+      "official_url": "https://filosofia.filo.uba.ar/node/498",
       "discovery_source_url": "https://www.uba.ar/carreras/9",
       "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
       "intake": null,
@@ -1530,7 +1532,8 @@
       "raw_key": "https://fmed.uba.ar/carreras/licenciatura-en-enfermeria/informacion-general",
       "academic_unit": "Ciencias Médicas",
       "listing_note": "官方列于Ciencias Médicas",
-      "id": "uba-licenciatura-en-enfermer-a-ciclo-de-complementaci-n-curricular-fa10a7bcbb"
+      "id": "uba-licenciatura-en-enfermer-a-ciclo-de-complementaci-n-curricular-fa10a7bcbb",
+      "entry_route": "官网CCC标题下“入学前置条件”正文为空；作为护理补读项目，不把中国高中毕业＋CBC视为足够资格。具体可接受护理学历、课时及外校等值须学院确认。"
     },
     {
       "name_en": "Odontología",
@@ -1550,7 +1553,7 @@
     {
       "name_en": "Licenciatura en Psicología",
       "degree_label": "Carrera de grado（具体授予名称见官方课程）",
-      "official_url": "https://www.psi.uba.ar/psicologia.php?var=academica/carrerasdegrado/psicologia/index.php",
+      "official_url": "https://www.psi.uba.ar/psicologia/",
       "discovery_source_url": "https://www.uba.ar/carreras/13",
       "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
       "intake": null,
@@ -1565,7 +1568,7 @@
     {
       "name_en": "Licenciatura en Musicoterapia",
       "degree_label": "Carrera de grado（具体授予名称见官方课程）",
-      "official_url": "https://www.psi.uba.ar/musicoterapia.php?var=academica/carrerasdegrado/musicoterapia/index.php",
+      "official_url": "https://www.psi.uba.ar/academica.php?var=musicoterapia%2Findex.php",
       "discovery_source_url": "https://www.uba.ar/carreras/13",
       "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
       "intake": null,
@@ -1580,7 +1583,7 @@
     {
       "name_en": "Terapia Ocupacional",
       "degree_label": "Carrera de grado（具体授予名称见官方课程）",
-      "official_url": "https://www.psi.uba.ar/terapiaocupacional.php?var=academica/carrerasdegrado/terapiaocupacional/index.php",
+      "official_url": "https://www.psi.uba.ar/terapiaocupacional/",
       "discovery_source_url": "https://www.uba.ar/carreras/13",
       "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
       "intake": null,
@@ -1595,7 +1598,7 @@
     {
       "name_en": "Profesorado de Enseñanza Media y Superior en Psicología",
       "degree_label": "Carrera de grado（具体授予名称见官方课程）",
-      "official_url": "https://www.psi.uba.ar/profesorado.php?var=academica/carrerasdegrado/profesorado/index.php",
+      "official_url": "https://www.psi.uba.ar/docentes.php?var=profesorado%2Findex.php",
       "discovery_source_url": "https://www.uba.ar/carreras/13",
       "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
       "intake": null,
@@ -1605,7 +1608,24 @@
       "raw_key": "https://www.psi.uba.ar/profesorado.php?var=academica/carrerasdegrado/profesorado/index.php",
       "academic_unit": "Psicología",
       "listing_note": "官方列于Psicología",
-      "id": "uba-profesorado-de-ense-anza-media-y-superior-en-psicolog-a-c9b9e8bb52"
+      "id": "uba-profesorado-de-ense-anza-media-y-superior-en-psicolog-a-c9b9e8bb52",
+      "entry_route": "只接受UBA心理学Lic毕业者，或UBA该专业已完成CBC、一般训练及制度心理学、教育心理学的在读者；不是普通高中直入的第二种心理学课程。"
+    },
+    {
+      "name_en": "Profesorado en Letras",
+      "degree_label": "Profesor/a de Enseñanza Secundaria y Superior en Letras",
+      "official_url": "https://letras.filo.uba.ar/content/plan-de-estudios",
+      "raw_key": "https://letras.filo.uba.ar/content/plan-de-estudios#profesorado",
+      "discovery_source_url": "https://letras.filo.uba.ar/content/plan-de-estudios",
+      "source_period": "2023计划自2024实施；当前专业页仍链接",
+      "intake": null,
+      "duration": "6年（理论学制，含CBC）",
+      "campus": null,
+      "language": null,
+      "academic_unit": "Filosofía y Letras",
+      "record_type": "degree",
+      "entry_route": "本科CBC起步；不应仅因Profesorado就设为毕业生入口",
+      "id": "uba-profesorado-en-letras-896a60e866"
     }
   ]
 }

@@ -3,165 +3,3411 @@
   "sources": [
     {
       "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/guidance-international-applicants",
-      "sha256": "e73c1dbce4127ad628d4f5f58ecfb36f588fae91abe4ff795f1bfa550ccb0d0f",
-      "raw_file": "scratch/full-catalog/uk-enrichment/ucl/raw/international-dom.html",
-      "locator": "Entry requirements"
+      "sha256": "9ecab4e685989caae26769c632c948daa708e47e2815bcdc8fa8d4e24391ab4a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/international.html",
+      "locator": null
     },
     {
       "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/english-language-requirements",
       "sha256": "19d5b3351d29dc4d9b8848b09a660f836dad57d93158a67d5d07496cff4c91f3",
-      "raw_file": "scratch/full-catalog/uk-enrichment/ucl/raw/english-dom.html",
-      "locator": "IELTS Academic"
-    },
-    {
-      "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
-      "sha256": "943c1e3954fb1faf8682ab086cbc0fb4c5f63735eed2754ef92f93134f38f9de",
-      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-deadline-2027.html",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/english.html",
       "locator": null
     },
     {
-      "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
-      "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
-      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html",
-      "locator": "2027 entry application deadlines"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/ancient-history-ba",
+      "sha256": "2a63581c451c7f82eb37f042f9dca357678b76e2027616b6eeca56a6a22e7d72",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-000.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=0",
-      "sha256": "242e796ed27f8042e9c033e3efa80a4e126d0ea7fb4cbc4744742639690ca6e6",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-0.html",
-      "locator": "Y0Y3"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/medicine-mbbs-bsc",
+      "sha256": "6b1807306ed18ec9160eed08a08c26eadfb9a5a4240c066e3a071d20c6489c6f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-410.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=1",
-      "sha256": "4eb2c5671d7f0a182d122c7b507ac6d3eab29c0eb5049cbb667e1d14f688852e",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-1.html",
-      "locator": "R7BD"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/ancient-languages-ba",
+      "sha256": "dc87d2395fe289b5dc5b5eb9db5fcc6088a5cba0fd58e20bc97e6b718055518e",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-001.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=2",
-      "sha256": "aa9dc7124733c58f00c890d088c8ab59ef799817f862ab54f3f61b2e7abe474a",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-2.html",
-      "locator": "UMSPHS00013A"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/ancient-languages-ba?option=UBAART00011A",
+      "sha256": "dbcd09da11c154135391a2ebcce65e21d6bf2469b6d877b08005adbdcb08a2e1",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-002.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=3",
-      "sha256": "6932500c9e3c0d045bfcbf73a0b4d951dfe3f085f4739c1e08297f7a9e4c837e",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-3.html",
-      "locator": "G400"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/anthropology-bsc",
+      "sha256": "44f605de0075a2f65358027070847863f6eca28c22d1e9cd134aa3d4b48dc9ec",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-003.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=4",
-      "sha256": "7c7a639967e5830a7f493d182bfcee53a319c33ff7a1b90f6a5a84377cc1e1b8",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-4.html",
-      "locator": "R7CR"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/anthropology-study-abroad-bsc",
+      "sha256": "2275a70c3acbc166a065fbb4e30c40935e59b1df5c76d44c6ae7c8602fb1a60f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-004.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=5",
-      "sha256": "db0042d29827d9f4d013839bb87582c3106217a6ea17ae0082611d244b4a2c15",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-5.html",
-      "locator": "R6DY"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/applied-medical-sciences-bsc",
+      "sha256": "b1086faf822c106edbb4440c2a81da275eaeb27ef750aa60bbc00efa77174ce2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-005.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=6",
-      "sha256": "e474152cd2eed001aa5725d0885fd9e3047d377aa8cdabb117ec850bbe0b5f99",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-6.html",
-      "locator": "R9R4"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/archaeology-and-anthropology-ba",
+      "sha256": "3aef891190bf1f1cd89d6b408d494eb74b4122114e8b2915bf392f454d068ed3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-006.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=7",
-      "sha256": "69eddabc5b65e167c36c2a0b1ca9f8c8d8d79f5bd750046e716e9d8bd7963b30",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-7.html",
-      "locator": "F644"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/archaeology-ba",
+      "sha256": "1a5200d5a31d047f977a93d5d6a06471a68b2e326c16a1046083353542b90a8c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-007.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=8",
-      "sha256": "9bdd8ead863a141a139f493932ac7e95e3eb7e567f6a4e9cdd7f10bd20431b6b",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-8.html",
-      "locator": "R6SI"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/archaeology-bsc",
+      "sha256": "802deff01ecf2d258b94ce698ac11aa71860c048c513e48e43bf449177fc6ec2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-008.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=9",
-      "sha256": "8caba6f617e5c38ff2076f99fc5c0c49913d79a5c6b5b0681e5eae5534fa97fa",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-9.html",
-      "locator": "R1R4"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/archaeology-placement-year-ba",
+      "sha256": "1de18a242d8a472e6e5de70273bcbcbe5a7531700433ad58591e507b5bcaebe9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-009.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=10",
-      "sha256": "9f2dec6a45468f3e7ed70c5ed80ddc3f1bf7a64d0ca2a4db2592d1c9feffcd18",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-10.html",
-      "locator": "R2Q6"
+      "url": "https://www.ucl.ac.uk/digital-presence-services/degree-fees-drupal/index.php?coursetype=undergraduate&year=2027",
+      "sha256": "bd4885f5fff9041e870e59720b861d4b923a87457185be73a9849aae355b6302",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/fees-index-2027.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=11",
-      "sha256": "7634db4954a90b64b66aa1a792fe9e8dd29c12ac499c0a6f9443e1d729f00660",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-11.html",
-      "locator": "Q4R8"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/archaeology-study-abroad-ba",
+      "sha256": "fb5303b7d80fde28a669d910aa0d2285acae57b119fc33e83ee136d5b4faad9d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-010.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=12",
-      "sha256": "97d55b61c4c300a61b829f6452ab9accde4f11da5530a01b30465ced1d80cd16",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-12.html",
-      "locator": "R783"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/architectural-and-interdisciplinary-studies-bsc",
+      "sha256": "87151536e0414b2d6ee747e117a501bc0155ff51d219db1d4512c142da94c13d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-011.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=13",
-      "sha256": "9b7170712bf3db63610d25fb9a06920c0d044451abc007397139ba00e8cbea4b",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-13.html",
-      "locator": "R3Q6"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/architectural-and-interdisciplinary-studies-study-abroad-bsc",
+      "sha256": "c74349c5489785614d97e5e4a07f45ce849a96333d2838a1fa63a3f92a352807",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-012.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=14",
-      "sha256": "e4698c0ac764bb3099340192463f8f0ff0f6c994b08610acc8c0c59783f2f4c2",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-14.html",
-      "locator": "Q101"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/architecture-bsc",
+      "sha256": "ef0a28dec9b630173479bdbb82466de148352cb7c249104392afe626a263f7bb",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-013.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=15",
-      "sha256": "35bc3de5c98847918beef200319841689594593765423a472e878ca798dcce17",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-15.html",
-      "locator": "UMNENG00091A"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/architecture-msci",
+      "sha256": "59ad517405d98b5bdcdb219b9427c2a1b6748ad211de3cce7405dc95088d88c7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-014.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=16",
-      "sha256": "1a7e4c0f508542fc07fa876d1c027a2787f93ba4c8e593a602d9ca9d5ace9b52",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-16.html",
-      "locator": "UBSLIF00061A"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/art-and-technology-ba",
+      "sha256": "7ea5c8b91eef30ba821910900e992ad2e9949fd60fada94a67401d7967bded45",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-015.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=17",
-      "sha256": "46dd2e5117432a6ad9de58977e6b50ffd88fbe02772407ecb1154151e4df98a5",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-17.html",
-      "locator": "R6PY"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/arts-and-sciences-cultures-basc",
+      "sha256": "f68a97b15271308d4127a9c4423caf5c43279d61a7859241f4a3cd896eb13fb8",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-016.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=18",
-      "sha256": "5b9bd2b4f289e7436dbe547480491cd9fee8323026b7e2643b66edb234eb251b",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-18.html",
-      "locator": "R7RC"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/arts-and-sciences-cultures-study-abroad-basc",
+      "sha256": "e67340432cc9890cfde7f1087a624aba13a4ed16e6640e7c3f86a72fcf55c729",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-017.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=19",
-      "sha256": "53417a257099d97e75d5cd005224c4c1575e086cce7865efefc871d11bff1844",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-19.html",
-      "locator": "B191"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/arts-and-sciences-health-and-environment-basc",
+      "sha256": "a760e157fdd932f56875bd5c3caaf0c262fa10af19b9e92a1a337a94a9dcb486",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-018.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=20",
-      "sha256": "ef18ae5ce16146d9bdacc37c1ffd1e0e351def4a531932962edb5dd948541746",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-20.html",
-      "locator": "R4R9"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/arts-and-sciences-health-and-environment-study-abroad-basc",
+      "sha256": "0faa1419bd89e60eb508bd3c75a2ead4a57f5c1ff20142dd2a4db4e2ef2dc885",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-019.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=21",
-      "sha256": "e83a45d1a56c7a6bae20117844a08f6696f0585319f8b7dfbe79c5e39649da09",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-21.html",
-      "locator": "R691"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/arts-and-sciences-sciences-and-engineering-basc",
+      "sha256": "af24000b1fdaced1cc2aa56c1b360c84ff8e652e736cbc6574d36e4b4af1f297",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-020.html",
+      "locator": null
     },
     {
-      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=22",
-      "sha256": "3aa18e91912575c723ba6a4f0fa8f05b013b9d0c778255a992a91e8b56b9cc5c",
-      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-22.html",
-      "locator": "X313"
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/arts-and-sciences-sciences-and-engineering-study-abroad-basc",
+      "sha256": "7fa7b77894a23c08447f42a2c6e265d038b341e7caea34dfa08937ed661369c9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-021.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/arts-and-sciences-societies-basc",
+      "sha256": "bf9e7812c5afb73018d510915e03973ae1d593f7035fa016b7d83a6b4b1d4dd4",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-022.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/arts-and-sciences-societies-study-abroad-basc",
+      "sha256": "7a188798ea617560fee113f2b9a6361becd04e97b3bd94412ea08f72cfa85f07",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-023.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/astrophysics-bsc",
+      "sha256": "275ed524b9bf918aed944e079f00131757f29f43f2cca5a5434ebc4e5eefc2fb",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-024.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/astrophysics-msci",
+      "sha256": "d75e331ff847dd11586b75caa2460821b86c0d8f73e3dbfa84177c516297be60",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-025.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/astrophysics-msci?option=UMSMAP00011A",
+      "sha256": "df55720c035df1ad515b446922e59b89704e681f6d4196746dcec9e4710d5463",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-026.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/audiology-bsc",
+      "sha256": "b3351997dbced00ea3db6c5bf5b0178c0554eb977d67b93da1f0dba0821edbec",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bachelor-laws-ucl-and-bachelor-laws-hku-study-abroad-llb",
+      "sha256": "15fabdc62610c6d1e8ba95e3602c5bc6007cc905a3cf9b80a04a1ae20231bce4",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-028.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biochemical-engineering-beng",
+      "sha256": "08c2c652d8922a784a2de871edca77a2be70401624979b320f46b1c27e72a450",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-029.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biochemical-engineering-meng",
+      "sha256": "3a4a556bb7e225028d2236c0789c6dc15b3396a9e2b631aeb6d77a12f74c7ce7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-030.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biochemical-engineering-meng?option=UMNENG00022A",
+      "sha256": "2c1d5f4367c94277ddffa27deef9b96fd3e4993f5c4648c4c5dc34d36ad7a1ed",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-031.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biochemical-engineering-meng?option=UMNENG00023A",
+      "sha256": "dfe6724e9f3e6f3ab78918754139fbe3c0e50c94ff67490eab5c885f11d92563",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-032.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biochemistry-bsc",
+      "sha256": "37c2731470510821a067f7c92ab83659bbb1935b84ef46929964f403b52f9f5d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-033.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biochemistry-bsc?option=UBSLIF00012A",
+      "sha256": "da30e357f97ca48bae46c553210c0705b6e4f6e7dabf0fca18076f52e3eec7fc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-034.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biochemistry-msci",
+      "sha256": "5f08605f71900bee614d6a49f2157830cc7c2473e9b1d8d3a1f39274d83e9457",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-035.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biochemistry-msci?option=UMSLIF00012A",
+      "sha256": "e9d509e123641e80801f565efa0ee314e58f436d2ed70368c7690353e0638669",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-036.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-bsc",
+      "sha256": "0bcbbc3a5a0a59c29d5507d1fc6f69de1bbe4e626ef230f796c274c3984a0236",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-037.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-bsc?option=UBSLIF00021A",
+      "sha256": "6ce1f19c55ad6ce6640667d8463d0a50901f07b7cfa289b72733d87e345ab98f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-038.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-bsc?option=UBSLIF00022A",
+      "sha256": "c94ae088a548f74f4bbb52e589313a9ff0c44112105c198fd9f4bb107fda5ad8",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-039.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-bsc?option=UBSLIF00023A",
+      "sha256": "b321a22e7ab1506f24ec3ff7730cf317a323b0899404879c9b678c0b5ce38bcc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-040.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-bsc?option=UBSLIF00024A",
+      "sha256": "d611bb3c29f1353461a5fcbcd5956188fffac650be5650e82b75bf10529d266c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-041.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-bsc?option=UBSLIF00025A",
+      "sha256": "76e4a16a8755d5d890a811082e03475aa7941a32463fd23c980a7a58193feab2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-042.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-msci",
+      "sha256": "56464433f753ff54288750cad6fafa66297fdd3aba6aae498ec6c1c65719a8de",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-043.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-msci?option=UMSLIF00021A",
+      "sha256": "6788eb1e06c9cc2a84dd9428fcf2dcb4edd338700ded05b9163aae36de038b95",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-044.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-msci?option=UMSLIF00022A",
+      "sha256": "bf85415b29e3448fe7c7bba558e1fb376817b994d0010dae55848b481840b4a6",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-045.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-msci?option=UMSLIF00023A",
+      "sha256": "81a9c6fdebd85042e346fe719dd48cbc973c9a78f2f59150f3d85454d73866fd",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-046.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-msci?option=UMSLIF00024A",
+      "sha256": "e0d3dc9d8afb86520065048441b2aafb03d36a6b0f926c4d978bfb301e968364",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-047.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-msci?option=UMSLIF00026A",
+      "sha256": "79babd78dbe2fa82e6f12695077f3ee6367df58ac73cfbebe4a003a2e0f65f98",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-048.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-msci?option=UMSLIF00027A",
+      "sha256": "35bfcc97bef441899c1c3a5b86fd1209e6ea16e0f888d3f68921ffabf7e1b6b9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-049.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-msci?option=UMSLIF00028A",
+      "sha256": "43a64230cd19315bab7b32dbb333b93136cb957f605115288d6dabc86d8cd365",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-050.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-msci?option=UMSLIF0002CA",
+      "sha256": "efe4a7be6a8714b829c89330dca1487226ec1a49291e4094fda4fae8cd2b411a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-051.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-msci?option=UMSLIF00029A",
+      "sha256": "c9f9731ead1ce71f42aec189cb18a2b9674f4ca7bb30107ebd5d5c76ef24b9a0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-052.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-msci?option=UMSLIF0002AA",
+      "sha256": "51ffb3f13f3b70d13074d9e51567db0f781928b22d7830ee62faf58fddd114c9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-053.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biological-sciences-msci?option=UMSLIF0002BA",
+      "sha256": "197ceacaa329eb428396fbde5dcdcd4e61cf876b14cb7adfc024493d3231b841",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-054.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biomedical-engineering-beng",
+      "sha256": "dfffe7818357bcbcd2c1d8ca4f00666e921440a1c93f31030f50d4cfe180055d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-055.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biomedical-engineering-beng?option=UBNENG00021A",
+      "sha256": "aa43c464383fad53999006e782400a153864a4d77b913978b8988f116f1a780d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-056.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biomedical-engineering-meng",
+      "sha256": "d2ad00ae4b8d92d3c6c72fa41815e16f57880ebe9a1c894df8daf65cf55269b6",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-057.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biomedical-engineering-meng?option=UMNENG00031A",
+      "sha256": "73b1ff107e5e15213e27c9654a109e3e507aea31e3097a1c70ab83e1d27ee895",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-058.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biomedical-engineering-meng?option=UMNENG00032A",
+      "sha256": "a90c104d145562c9bd4f9892f2253e610993379aa358e7c0f747f9fd85e6bf21",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-059.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biomedical-sciences-bsc",
+      "sha256": "370d15493912960f271a99bc75dd892438ae0b1c3a181b7748e6a623e0e1fcd7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-060.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biomedical-sciences-bsc?option=UBSLIF00031A",
+      "sha256": "cceb89ddc2f0231e3f644d5561540a2506cb826340c04286fe147e09159896b3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-061.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biomedical-sciences-bsc?option=UBSLIF00032A",
+      "sha256": "eefde95c48af7080a037784560d10f02bf58f704e82cb9dc9a36302d4e5d2dea",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-062.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biomedical-sciences-bsc?option=UBSLIF00033A",
+      "sha256": "d4c5e7f9e5861eafe78e0c887ccb2ffd30c898c61954fa54f5de8a3912c2614f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-063.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biomedical-sciences-bsc?option=UBSLIF00034A",
+      "sha256": "d5b95883c0f418205b0c8996aa8aee560798ffa28732bdb242fe5aaa35675360",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-064.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/biomedical-sciences-bsc?option=UBSLIF00035A",
+      "sha256": "5e359e8af5dc1685dda1e5061ef0a3429142a512be6a4fba517606074ca8fc2c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-065.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bioprocessing-new-medicines-business-and-management-bsc",
+      "sha256": "79643f2eefac27332f9f16b260d122b8c41df0194f1a47bbb9c455fa5528312f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-066.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-czech-ba",
+      "sha256": "916532209104d5f38c9abf13b52f130eeaad3ce72d05b7e2e9da30c9d58e5a44",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-067.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-danish-ba",
+      "sha256": "c8e9704865f6972527320cf325f5b0e63cc6ab1874338766d3af4a00e3ab4dc2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-068.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-dutch-ba",
+      "sha256": "a1deaceae8dd18b6475de282c452d5feab7c0e6c227836543f5add41e394f03d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-069.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-east-european-studies-ba",
+      "sha256": "54c115f523729e7108a7acf54bac567deaa756887c225dfa6b97532df23e71b3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-070.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-finnish-ba",
+      "sha256": "b1f07daf879a434c3dcec18b2261c9b24ec5fe23c060186377d85f51d24a39e6",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-071.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-french-ba",
+      "sha256": "849c6fbe59de671d7d7606c7d8502cb43630e4c24555ac34bc1f3ff9307bc2b8",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-072.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-german-ba",
+      "sha256": "5392f292b1c9ce9c009e1152edcc4083c0e78b5510a059ec343b4b5e464d14f9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-073.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-hebrew-ba",
+      "sha256": "cf97151e94c27ddf38b232c83ee1ed452739e7ad49d8cb7ea2914ab5a03c5ca9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-074.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-hungarian-ba",
+      "sha256": "1a9d021d48299f5840364ee632775aa2d309152faebaeee18c49bb95842466bf",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-075.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-italian-ba",
+      "sha256": "e843a8abb3ba15cf80728582d6bd7a8d5ad8ea05f548beef8ea88de3c106e5bc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-076.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-norwegian-ba",
+      "sha256": "7d3db1d5e1178605d655853b341ff425a597b650722a55c9e2a342082d1437cb",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-077.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-polish-ba",
+      "sha256": "8e02112bb164732645994fbbdc2f94b40380c084446703ba60943b5a40fe82e0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-078.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-portuguese-ba",
+      "sha256": "5f038edae48e2f797d2514017eeba4b5dd48eaf777af37a5c7ed7b1c037f377f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-079.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-romanian-ba",
+      "sha256": "b14c87ddacf869515b5755087ad4aa00990c5333771774ab35909b29914a2ab0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-080.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-russian-ba",
+      "sha256": "1d89fe679f7cbf221613ba588cb0a682bd43eed6925ebb82e5a3d30637fcfcfe",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-081.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-serbiancroatian-ba",
+      "sha256": "57ee41819dc87ff63977920667d7d720f0cc0212399b7561c29f467c2af5fa97",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-082.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-spanish-ba",
+      "sha256": "ebbd32786e675c196fdcb93094d386fe4a7aa4de9596a858e6a1120858ffad2b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-083.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-swedish-ba",
+      "sha256": "50dcaecea2214844efc7e9ebb6e1b5fc0461a418ac3dd2b51daaa1a82901d5bd",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-084.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/bulgarian-and-ukrainian-ba",
+      "sha256": "1a6cea61da4df1f17704944eb0eac534b3f9be38923e7b5b34e47b1f8fa6e6ff",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-085.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/business-and-health-bsc",
+      "sha256": "e2dd82c85285a127e73b384b255fec825cb5e397b56430f14e7d20d9d568df1c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-087.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/business-and-health-bsc?option=UBSPHS00011A",
+      "sha256": "1436eb6307059156d2cea51131271377aead18c198c64f6aa422626d590d434f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-088.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/business-and-health-bsc?option=UBSPHS00012A",
+      "sha256": "200499d303904c949a5544c79ac4ac26f23bb8be2e59cc24411eb056f7d604b0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-089.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/business-and-health-bsc?option=UBSPHS00013A",
+      "sha256": "ae994c49acbae9c46e13c267f6de885c3ca08a9e0494146dbe694cda5644ef02",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-090.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/business-and-health-msci",
+      "sha256": "99af0b936e54aeb7e5ad09570cfb15a2e36b037d3822ada12f1524b83694c084",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-091.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/business-and-health-msci?option=UMSPHS00011A",
+      "sha256": "40e11882842557131bc0c1413f6ed975e828f7f1d2ad3ca8672003e22d282d95",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-092.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/business-and-health-msci?option=UMSPHS00012A",
+      "sha256": "46511f06ed0142f03aad99af18bcaf628000bc194f71c3ea6087851497e2e1ec",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-093.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/business-and-health-msci?option=UMSPHS00013A",
+      "sha256": "e37aeca4a1252317e53e8e7607d3a15b27b10ee74e98c947481554ecc4294bbc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-094.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/cancer-biomedicine-bsc",
+      "sha256": "179b3c79842740b8bdbf563dd0625aa2651d6e2d77331dbfceeaa9c36d25fef4",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-095.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/cancer-biomedicine-msci",
+      "sha256": "9c911ac16dcb8753786ae03886d1b6a3aff2fb0ff4b51cac711cdec6939bae28",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-096.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemical-engineering-beng",
+      "sha256": "4f3bfcbcf02eac00e3adfc6c48b31771d536e47e6970298fa58d7d7724a0a909",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-097.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemical-engineering-beng?option=UBNENG00031A",
+      "sha256": "2fd43778af1b355433cb128d8f8754f63bdb163a20ecbba046c0f6a80f81e21c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-098.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemical-engineering-meng",
+      "sha256": "e8becbe1b0543a6bee7265afa9b17321dfe9819936af7c6d01ea88f4ca65328a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-099.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemical-engineering-meng?option=UMNENG00041A",
+      "sha256": "97509827249c0695d30cb8838c5fb0631ed9c143074947b164fcb9f3e420f470",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-100.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemical-engineering-meng?option=UMNENG00042A",
+      "sha256": "53c4dc8b1e202a19e024288197fbd736a61f43b1d00ba30e3f46aaa389bcd4a5",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-101.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemical-engineering-meng?option=UMNENG00043A",
+      "sha256": "ef4de5648438c9799f8ea39b2e05a930dc30d4bf4f0cd57d810d9041766df720",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-102.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemical-engineering-meng?option=UMNENG00044A",
+      "sha256": "25d4dade0fa4c4e46499e8d624c6123f880a5c2d955af73c5d54e356a15e3850",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-103.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemical-engineering-meng?option=UMNENG00045A",
+      "sha256": "81786899d0a7aa60cc3415fd07f2fa1fa446ed407487a6b40df20e288aa74ad3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-104.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemical-engineering-meng?option=UMNENG00046A",
+      "sha256": "2cccbfa0ca3e911b03212e0c76f7c62e6a238fbea2aebabd0b4e551be48d6a0f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-105.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemical-engineering-meng?option=UMNENG00047A",
+      "sha256": "451f60492f41fb37ac23b52cd58e896dc23e768dcf5820d1856af63c3b5de20c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-106.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemical-engineering-meng?option=UMNENG00048A",
+      "sha256": "4a9aef25c0412397822d1312c894879cb863070cfdc9907bc91a01b00bf2b832",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-107.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemistry-bsc",
+      "sha256": "9bc03556528fa473e3f338387326346450723ff4a9d5a018e5178a3cbd2f01b5",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-108.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemistry-bsc?option=UBSMAP00021A",
+      "sha256": "4a1036048a36e035149526ad685bcaf1a9c3f72550ca151efc3ebcedfe2355d2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-109.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemistry-msci",
+      "sha256": "32f579e81e7f94a2aa6bed26c1c93b58ca03089108d22f63736038d4b7fe55b3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-110.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemistry-msci?option=UMSMAP00021A",
+      "sha256": "2d26b9d16f1f633e71560bdd19048bb4da40ad8130add1d434661d9323dc4f72",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-111.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/chemistry-study-abroad-msci",
+      "sha256": "cd890d346c1083040b01de7d9098b76e4a9685a04619eb15aed0c9979fc760f1",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-112.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/child-health-sciences-bsc",
+      "sha256": "16a368722e4b5beb8cf11cea1884dd2e3b071af5e72f2414992d6f5993b446cc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-113.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/child-health-sciences-bsc?option=UBSPHS00041A",
+      "sha256": "0737bdea407d0657a145363d28b90ab2da814a188e3bae99584aa67bf537709a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-114.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/child-health-sciences-bsc?option=UBSPHS00042A",
+      "sha256": "136e2705e23c47d1c8dddcea12c2733a3b895d5d32937ba871dab26d717c3534",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-115.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/child-health-sciences-bsc?option=UBSPHS00043A",
+      "sha256": "471e95db14fbdf8f9198d5cc4dfd40caf20d57440d122660be43f686773a82b7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-116.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/child-health-sciences-msci",
+      "sha256": "ff6ab8fc77d6251eae149e2c6441cdd299070d868544baa3e5b399e229b0a22f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-117.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/child-health-sciences-msci?option=UMSPHS00041A",
+      "sha256": "ca39d9c2a8b8856ac675dd8b2ff6d12b18f62826c20aeee21df502c3c60981d3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-118.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/child-health-sciences-msci?option=UMSPHS00042A",
+      "sha256": "476c3db50dc647eb2e894cab338976a616e06e961da3d017861c68f1a8772720",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-119.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/child-health-sciences-msci?option=UMSPHS00043A",
+      "sha256": "d3926e3c77a0bb57de053048ebf08d549a1d70a7687686f7361ccf16066a4741",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-120.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/civil-engineering-beng",
+      "sha256": "c5e2215ec64f1b1857ed3ee5dd0fcd03fce36f01522a4daf9427a9158bffbaaf",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-121.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/civil-engineering-beng?option=UBNENG00041A",
+      "sha256": "78e31c922af4ba7f841fda524d7796808da877e2f12afbd54b96045585e42b7b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-122.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/civil-engineering-meng",
+      "sha256": "a0f89b97f1c2a85273d6f5fb513afeddae5055ca48a45790603b6188e1c57421",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-123.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/civil-engineering-meng?option=UMNENG00051A",
+      "sha256": "63b1ff336da5895322d6fc9c47ff625a1514f1de6f9509f0e9ab62513d139484",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-124.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/classical-archaeology-and-classical-civilisation-ba",
+      "sha256": "bb473756821e25e7c6b93e667c33b589df375eeda5d54b051c69420cee324a31",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-125.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/classics-and-ancient-middle-eastern-studies-ba",
+      "sha256": "a4b142e161212a0b1d23ef566efd773a5c6be4943a192a5117ce0176553fcfba",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-126.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/classics-and-ancient-middle-eastern-studies-ba?option=UBAART00241A",
+      "sha256": "715cf5469dab88b1250478f6c0d8e47d716daf725bbedccf4947624351c7a173",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-127.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/classics-and-ancient-world-ba",
+      "sha256": "5f78054294bd52aeafb77f6ecc27b0b1077cfe5d808f006b3b6ca57915899731",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-128.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/classics-and-ancient-world-ba?option=UBAART00243A",
+      "sha256": "7ee2dfe201fc4b94b774ac06ebc13279aa42bdc9eb844070246a2c81549a040d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-129.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/classics-ba",
+      "sha256": "5aee5ef99a578a8563b0ce83d5e81326de94b89b73576872886cec4268b7d3ca",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-130.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/classics-ba?option=UBAART01521A",
+      "sha256": "5ea9714c9a4f6250e37df04650f5d1ff6a9bcad1798845fc70218dc9edbd6288",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-131.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/communications-ba",
+      "sha256": "f18d0a82463d1b34a0f5aa54e441c31a2dff98aec89dc9e71cd1edf09d926e44",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-132.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/comparative-literature-ba",
+      "sha256": "3b70658ebd3bb181dc9f586a1fc7841cfda1763aac639ee0634f9171c4f287ea",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-133.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/comparative-literature-study-abroad-ba",
+      "sha256": "d2ed64931ce970f33c5af65a988579c18b6fbf73d8eaa96c8d0c3c2bb6e493d2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-134.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/computer-science-and-mathematics-meng",
+      "sha256": "09a7ec2849018a1fb921211bebab9f12d0d0145f6662899a486c68afe5be846b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-135.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/computer-science-and-mathematics-meng?option=UMNENG00082A",
+      "sha256": "2e3ac393c5d500821060064200a8ede9c5206dbc2fd19d009d5f44c48af1efaa",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-136.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/computer-science-and-mathematics-meng?option=UMNENG00081A",
+      "sha256": "28bfcf9f5b52e52b544abe98c744064ca18b0cd862d47e6c5ad6029547a965a7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-137.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/computer-science-bsc",
+      "sha256": "5d916e4fef35ebb94973285707a3de72ec3e7adf09606da4843c96f3a997d005",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-138.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/computer-science-meng",
+      "sha256": "351cff42c241c092163939479397caaff5312724bc2ff8b4d1d3c1f011ff3116",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-139.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/computer-science-meng?option=UMNENG00061A",
+      "sha256": "f84e7d7718d7161bd604396500a8628c011a9935719ab164ffd62e363bae1166",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-140.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/computer-science-meng?option=UMNENG00062A",
+      "sha256": "e5b0ce49ae28291122defd6f0cf280d8532f3630a7a32d17efbcbc8318011e58",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-141.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/construction-engineering-innovation-and-leadership-meng",
+      "sha256": "7976ac2a0d9e834030afc5da95e252f9bed17647aec4cab4a1e00363dc385417",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-142.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/construction-project-management-msci",
+      "sha256": "c6c2aa8da1274c74d794cf2b05868df5287751d3ce8b35dbbbac3e6f7373326f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-143.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/construction-project-management-msci?option=UMSBEN00021A",
+      "sha256": "f7bfe43275d59ae16d9ec70cbe21c6d0851f1e5c294e46819342410e422c696d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-144.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/creative-arts-and-humanities-ba",
+      "sha256": "5e24c0a794c8f21fdc825fb619300b6e7fc381dc982d60936152ef696fb91c5f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-145.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/crime-and-security-science-bsc",
+      "sha256": "c33b7366886f5170cf44b77692fdc2cc422f729e8ac1524f7f252fe78e1c04fb",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-146.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/crime-and-security-science-msci",
+      "sha256": "69b8ea516a086731b12f74f2175ac91d88aa80b2eaf0407bab563877dd5c5e5e",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-147.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-danish-ba",
+      "sha256": "2adce26f9aac924df09822c4eeb1f9d3b10e040df3b3ec238fd60a662b8e112a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-148.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-dutch-ba",
+      "sha256": "e3e2575e8ef4ba1ead06d07e178f6899500b0faf7248a33156836156b869692a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-149.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-east-european-studies-ba",
+      "sha256": "2594b13a3905ffb021e5c3e00e16061d0f0c1c897a05fb94e9dc692a96aea4ec",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-150.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-finnish-ba",
+      "sha256": "7886f441438188c59862099fde23b77ba3284c1769af793798a46667ee509c9d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-151.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-french-ba",
+      "sha256": "10ec5d33c1bf4585e93c04ad6bbceebba3ac41b7b1e46e1ee873bdbfd9a3945d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-152.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-german-ba",
+      "sha256": "eef5dcc5dfa034a3f37e0e7647fb42a661db745f2468d845d759d25ec6db0c83",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-153.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-hebrew-ba",
+      "sha256": "f5f0ccd6da75539d99aac55e847664313845616bf85c2904fb2043d4a98d8fb0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-154.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-hungarian-ba",
+      "sha256": "696092933d238f6db045ab78204a7f1e82d4bb88c9f0e4706576181a278043b0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-155.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-italian-ba",
+      "sha256": "a4b5586a4314eee8d81f1d9fcfcced97755cfb99f027049ff4aa4a8ef64b4063",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-156.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-norwegian-ba",
+      "sha256": "64e12a1a61648b11e8d7263001d1614b4d000ea531d564c545ba75880f0bd20b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-157.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-polish-ba",
+      "sha256": "19050c9d5219d5ecdc7fbafc979a010ea95e3bd4ebce1f356b4cf81a5a7fd01b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-158.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-portuguese-ba",
+      "sha256": "d4efbc593ac8e6ccb532f57914e5559bcd94a6237720302478034360dccf7c03",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-159.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-romanian-ba",
+      "sha256": "9cda17fbe69a7e89f0852ab9962419ddced3110667ced8faa1c7f79638ec9e6f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-160.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-russian-ba",
+      "sha256": "acf84e7b014800e4fedf68f5454be777b1737b0fd36ef2d9c511f84cc4c5615c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-161.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-serbiancroatian-ba",
+      "sha256": "8a7e90b4275ac92c609ed7013d740bc0aeb59e4dccc03fc1e6bcbaf66393d674",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-162.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-spanish-ba",
+      "sha256": "844116d3d174c721052680d1bfb1010d985ce7f8af81ca590b9afbefecc25f95",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-163.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-swedish-ba",
+      "sha256": "a73b33cf7af679cf200c3681a7b6916f7268bf63d4c0ba4ac549fc4b6e7405c6",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-164.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-ukrainian-ba",
+      "sha256": "9a98602a5ce59c53eac55e1361d92ccf708fe8253ad38d9855758f4d44d466ab",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-165.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/czech-and-yiddish-ba",
+      "sha256": "714b2e00a470249ecdf5b9ee49890907fd793ead07d07e5670f587cba14eae24",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-166.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/danish-and-dutch-ba",
+      "sha256": "3bd269023a68a7d50251a2a6be48221fe3341d0b4bf0eb6bbc1d1e75dbc071e0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-167.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/danish-and-finnish-ba",
+      "sha256": "beed5f0703d63add8febfac2ee83a4397eb7c64081eb9d7658504927129c3efc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-168.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/danish-and-french-ba",
+      "sha256": "65f3516abdd4eac75e20bd23e80c1d9c7b25f58339916588a01e2333981b39f4",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-169.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/danish-and-german-ba",
+      "sha256": "ccc487df964011f8e41497aeacdf69a31192b3c323c4be25df76e3e88f006ad0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-170.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/danish-and-hebrew-ba",
+      "sha256": "dbc3a34f21ba5fc4d4720af3d5e7c23f9aca40d34bcba0e33cda601b35e91607",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-171.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/danish-and-hungarian-ba",
+      "sha256": "5245df2461ae84076d40bfb509e83eff07a027cfcfd7e3d9f66c883c50523771",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-172.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/danish-and-italian-ba",
+      "sha256": "f3b30323c9fa6f105453bbff05f2b91be1ea0c269ab1eb2d3726ffc4e0a7fe56",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-173.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/danish-and-polish-ba",
+      "sha256": "624bf07e07f9bbb052ced140d4a1a5ea50a60cb63a2e145b5c387aa2ad01e9ff",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-174.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/danish-and-portuguese-ba",
+      "sha256": "2636d3908ca0e9995ce4bb57623b721a8782a4a28bd6276893013a150b0d9370",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-175.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/danish-and-romanian-ba",
+      "sha256": "8185c6a9ac325cdbf98c6de95f9e83dc6b19ba1b1bffdc3c9e98d84b66817615",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-176.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/danish-and-russian-ba",
+      "sha256": "89d486f7cf11f1f1f4c9bc9e124c7454d72d1ff060bfbd80109ce7b9c22aaae0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-177.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/danish-and-serbiancroatian-ba",
+      "sha256": "c5748355649f1f4863cb4dab70e881aba3e099839afb04041ea758089d502e52",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-178.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/danish-and-spanish-ba",
+      "sha256": "41a9ca3e9bb273c102662ea2d5106ac92c4008f5c4ba202b889ce693932bb515",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-179.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/danish-and-ukrainian-ba",
+      "sha256": "fefe0a7d10eb2926703fb4ab1081afff263daf2b4db6ec274f7d013714a4e3a3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-180.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/danish-and-yiddish-ba",
+      "sha256": "7bea0e61baaa18447b73f62cf2509da4a92978652a6e6d1e2f26d6a63d74d9b4",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-181.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/data-science-bsc",
+      "sha256": "3568d12b26f73e08d0f1ef1803a53914f3f174de088afec4c616661a4262b1ed",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-182.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-english-ba",
+      "sha256": "440183481f6f98593af9a49aad25a74553d163a64439ae9a8294957141efb230",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-183.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-film-studies-ba",
+      "sha256": "68132be23f496493d03b928424cf149eeb797c66211cfcb7dfa9681018b40445",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-184.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-finnish-ba",
+      "sha256": "5ef8fbebe9e4536946811f9c9c265dcc5cee4c41d8695d387fe9a004c9eb97ed",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-185.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-french-ba",
+      "sha256": "06e944abeb95d1a7a7af651a8a853511ee2ee3a92d797d41c5cd79162612da79",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-186.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-german-ba",
+      "sha256": "d039677a35b0db1d641c590ae987dc6d131c1edf06fa1ba09f805fd3db3f1cfe",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-187.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-hebrew-ba",
+      "sha256": "3c42f2182a34f4549f1bb95aaaf4fbb11dc92bbe3646566f86ca5bc291b2c9fc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-188.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-history-art-ba",
+      "sha256": "febc952eacd5c02156b057b54e5b59100445fe9f2d99577db8bb65024e4a3f56",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-189.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-hungarian-ba",
+      "sha256": "c4dab47d3aab8f39fa2301e20e2999764ccac246568286fcd3a739107ed82d5d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-190.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-italian-ba",
+      "sha256": "0bc78920c9e60590af16c1ac77d1b57c38060c5e33bf6fec830ab365c880288a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-191.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-latin-ba",
+      "sha256": "2f19c3cf88205a8402320a76f199bd523aa94876816b546e017d649280d5a0a6",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-192.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-management-studies-ba",
+      "sha256": "9ab4986bbe24f939743e6142a9461e973f025fbf032c1f72d895353b3ef3b9ba",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-193.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-norwegian-ba",
+      "sha256": "04ad496f667d2f1e84066204cab2c2be4e899649978fe75b8dc0278b0ba235bc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-194.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-philosophy-ba",
+      "sha256": "72427c875cf9ec77bfb12e4de6484a9f59bdbb0d74556bb6a8ba27d8da0aa262",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-195.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-polish-ba",
+      "sha256": "7aff0f71bda52d1ab136766d84d5dafd977a586f2ab7f919e14b6f1ea910e4f5",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-196.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-portuguese-ba",
+      "sha256": "1894f4c7b1f632501b13eb2051bb4cdd0c2d534ee042f560e4411ae9a1fbd4e5",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-197.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-romanian-ba",
+      "sha256": "60d24fe9a6a0c19c5f543326cc10fc20a68d7cf7b013c6289b442df7674e4060",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-198.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-russian-ba",
+      "sha256": "c859c31cc8d21cb71779767112066777075b306013d9b2622a9bc0d2e924d146",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-199.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-serbiancroatian-ba",
+      "sha256": "460ca51bae9d0d023195f8dc468e653a0bf188abf16c1e65e12fee59505ecf7d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-200.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-spanish-ba",
+      "sha256": "3c9e53a6bb12bd921004336faf2fdd0c2d36516da388c7ea9839a0f9e63f4954",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-201.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-swedish-ba",
+      "sha256": "456bcfbbf932d0da50ab69389c2dededc9cdcf51d49f83fa579b9c34bce9d4d2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-202.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-ukrainian-ba",
+      "sha256": "0b7f4fba7b6dfb8c7f72f76c9a193cd8afa3c09eef22b76f10b1497be90de314",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-203.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-and-yiddish-ba",
+      "sha256": "f317359e04863b49978ce408fc0620594ab6202defdb35294747dcc2b77aadce",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-204.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/dutch-ba",
+      "sha256": "7d3ab9d88bdbfa4c0a1eae712c2873789290fb73a63b65a136e688c037082d0c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-205.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/early-childhood-education-ba",
+      "sha256": "5f76f5b4e62fdfa279635361d23581544258b19661da5a22db3f15a235fb4ab2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-206.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/earth-sciences-bsc",
+      "sha256": "0fdb3b7f3fae7035f8014af73eca69f2c12bcddef44db90c4e7a636e41fa5000",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-207.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/earth-sciences-bsc?option=UBSMAP00041A",
+      "sha256": "51d127c34e59cf4005f005b9f96ebf672805cd20d5afa7127b82bca3b27054c8",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-208.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/earth-sciences-msci",
+      "sha256": "82954fa16404b36b06a797fef0790f022490d9a595d9857209ec0e261545c609",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-209.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/earth-sciences-msci?option=UMSMAP00041A",
+      "sha256": "7009dfb2c4f33fbfd7affe7a71f491fffb344a39fb6640c00e0e7cc9f90d4d41",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-210.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/earth-sciences-study-abroad-msci",
+      "sha256": "ccbc1223dd798a76039a5294a95a3fb65a146a190bc8059822a0ebbf6bbaed74",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-211.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-and-business-east-european-studies-ba",
+      "sha256": "6cc323e79ce4d82e1e9251c6e2dcbaa6949d9949521a428969976432289da7ac",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-212.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-and-business-east-european-studies-study-abroad-ba",
+      "sha256": "458fc3070a2d075f60a9466dd5ae4850d10d61d7bc024cfbfe120748f41f9e6e",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-213.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-and-statistics-bsc-econ",
+      "sha256": "02dd223d092598883c450e1d6d7539d92aa9a7553e0d0c60c9e224a96326ad2a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-214.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-bsc-econ",
+      "sha256": "381cb93d9a6c920b9cee39416573b666a8c3cfcec24c00692f69212d1a702683",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-215.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-bsc-econ?option=UBESHS00011A",
+      "sha256": "9b8dd5eb689247ef88dc1515dc1af7b893fd58bbd7f8344dc26be41649ad541c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-216.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-study-abroad-bsc-econ",
+      "sha256": "8baa7a699fa772538d49e9745ea2fc7d404b7387ad556f47712785fa44883b14",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-217.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/education-society-and-culture-ba",
+      "sha256": "002dfb9b767d09fd36959694cb082a579f14d08e14e24d940cab65041fcaafe1",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-218.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/education-society-and-culture-ba?option=UBAIOE00031A",
+      "sha256": "0674c6e0915efb796fb11af0cd540329d06403ad92d2b1767fa7907696aa138e",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-219.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/electronic-and-electrical-engineering-beng",
+      "sha256": "634df38e31bbb7523323a6873844d1cfb707c8068e77c29925fffd343422fd32",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-220.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/electronic-and-electrical-engineering-beng?option=UBNENG00051A",
+      "sha256": "fc6ce576d9122f0d1ddef6168989065b1f0cd8b704b1f76249afafafee9b84a0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-221.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/electronic-and-electrical-engineering-meng",
+      "sha256": "1588d7b768848be654cf5f87c30d74bb23e40bc79d216bdf1980ad36fe7605c2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-222.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/electronic-and-electrical-engineering-meng?option=UMNENG00072A",
+      "sha256": "471eb1487901b88c1d3711d4b4f60385a1570d986d5898c1820ab5afcf353a3b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-223.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/electronic-and-electrical-engineering-meng?option=UMNENG00073A",
+      "sha256": "af14b6dc185451eff150a9bb581d5068598ffb1362770808a9c544a48221c6cb",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-224.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/electronic-and-electrical-engineering-meng?option=UMNENG00074A",
+      "sha256": "6fd930f385e5e5ef9dff16682447af33adda2f0464ff530fef8fef040db92742",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-225.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/electronic-and-electrical-engineering-meng?option=UMNENG00075A",
+      "sha256": "c6fb5f65d78f020d95439dd2cf9cb04416e2384a6082082ad440fdea1035d920",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-226.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/engineering-and-architecture-mengarch",
+      "sha256": "7b12446746e9834eb2a8474a49700b6aebb0e0b31465ba966a2d1da8a6550111",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-227.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/english-ba",
+      "sha256": "fdaec78cce6e344e2c441b6e9abe190b4f07c04154cfb921a156199894985553",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-229.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/environmental-geoscience-bsc",
+      "sha256": "aebe6e090b1b7b620f6188247e168b73bd9e8d47d1a39b8ac76f99e1189f99ec",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-230.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/environmental-geoscience-msci",
+      "sha256": "12290a264e1cdaef377f358bd5309a4bed66be7c4c993fc716b4ec2f7bdc0b4c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-231.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/european-social-and-political-studies-dual-degree-ba",
+      "sha256": "2fc1d5aca1880797228c7a083c5312be6b41bea2bc181d4423fa6b86c574b85c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-232.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/european-social-and-political-studies-ba",
+      "sha256": "d1f3d209ba8939665f8178fcc97634872bf5b717f618cf080dad8d3f71d39b38",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-233.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/experimental-linguistics-bsc",
+      "sha256": "f76fba4ca5871a6f2dcadbae381385aac2c10fb5a5d5bddbbb01b1fb5b2e7d37",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-234.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/experimental-linguistics-study-abroad-bsc",
+      "sha256": "80cc915815489cb23d447fe10ea9560da501484309a86d0d1182fe609249b133",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-235.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/fine-art-ba",
+      "sha256": "f216cb2cec943ffa00d7898ef63636cb01a956b404e442b8672685bb7dc2c3a0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-236.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/fine-art-bfa",
+      "sha256": "e92ab55a8312c097a350d087753c4e015f0686ea8f4ff2586bcafd501ddd206d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-237.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-east-european-studies-ba",
+      "sha256": "0321f7c2780f4e9beffd7d670d7437720f89eaea6cba7ae17752d1462467b008",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-238.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-french-ba",
+      "sha256": "6ec89edfdef7f1988ea2f301e1d9d7e9539650d4396e29750818d8e8d3171f60",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-239.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-german-ba",
+      "sha256": "d1b8750b1bcdd221c057fdacb95d1be5b280662d065c5bb8ed65b3c43f47e8d9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-240.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-hebrew-ba",
+      "sha256": "f36130a2332c383e7eb298dd93a451fb4146f0c06c927ea8ab2c8fd3228c6628",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-241.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-hungarian-ba",
+      "sha256": "c32f1d06502789d4ffa342fc8dc578c8d31c5741012b364a718bd54f3cb843e2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-242.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-italian-ba",
+      "sha256": "06d4ce2116ea8e2d546227fab22ca44c216671e09d5a52c57870b9f70f970616",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-243.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-norwegian-ba",
+      "sha256": "53286a69e6c9ff0aa35b205da4c0e23d4657de729bd70b5ba512d0342b0e7f9c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-244.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-polish-ba",
+      "sha256": "775237d97d109de5a105864a3a3e34c0a6d9b5040782286f1a0d445cbbeca0d2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-245.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-portuguese-ba",
+      "sha256": "4f3c09dc2de0d0dc24f275dac1c91f7715d344562228f8298a7f2e0b51e510b0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-246.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-romanian-ba",
+      "sha256": "7c2c76a82ea85a9b883cfc9c17b1cc524296df79e592a92c1f1acdd15d74bdb9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-247.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-russian-ba",
+      "sha256": "d6f300762a947e6d65aac6237e9d105019a52eb28b35b99eb0523a08caef5fe4",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-248.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-serbiancroatian-ba",
+      "sha256": "b1eab4bf9dc20bd447f9f6eae789631b13efaac6912256fedffbef2981ff07b0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-249.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-spanish-ba",
+      "sha256": "4c81ef34645698363196a61cd6d5aab389c701cee64f4927186b1c7fd55e6ac2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-250.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-swedish-ba",
+      "sha256": "ac0fcb4dd1f50ec4e9f1ca35c5ef90067b7434aac3ac4bf245da7fa7f1e9820c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-251.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-ukrainian-ba",
+      "sha256": "b5227ba81e57a28aed00d65fde9d28da7bb92f67e004b71b87f6d9d92bf43e38",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-252.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/finnish-and-yiddish-ba",
+      "sha256": "4197aaa555b0b51ea44724ce44dd2c99ba40e4704dc00eb0fe96382b9cca9bb0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-253.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-english-ba",
+      "sha256": "f15782f8fd757ddda790bce4fd6f963e56c07aff713045bff533303d2c1b25fd",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-254.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-film-studies-ba",
+      "sha256": "6a09187ae236586a2d7290bfb106e788d1883b027bee3caf8e67e786c8988d92",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-255.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-german-ba",
+      "sha256": "a7b25d10315dca15bfd6a5bfc3ba64c59a7521ee6cca68be81f4b173715133fe",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-256.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-hebrew-ba",
+      "sha256": "6568a14d0643fcc7a05e972a4e7e6d8d1c83562590a43c22e615fc1473a0963f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-257.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-history-art-ba",
+      "sha256": "2be41298cc24feb2ed91e36a5dfe9bda387d98d01ff4eb8d60848a8e776a8b20",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-258.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-hungarian-ba",
+      "sha256": "5b5b7ba378cb36407e6c63f6b9d29d9155756a7b1a3121278dc5f5a9223da15a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-259.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-italian-ba",
+      "sha256": "a838da1103f3e5695591685d5af209976a77390aa466cac0c335018eca263296",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-260.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-latin-ba",
+      "sha256": "6417398c245a2c60366f91e04dea6a4b034c67975a10c3c320b1013bc251ae66",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-261.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-management-studies-ba",
+      "sha256": "bc9ef4ae24994d8f9f918bd5d56523e7d8fe5b1a4a5d04952e75ace7ec86f818",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-262.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-norwegian-ba",
+      "sha256": "8454b31fe126f681422c2c4df50ea97b5a0932c9d60ef9a431bb8cde295220a8",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-263.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-philosophy-ba",
+      "sha256": "29a8ed0d37498806d2f9cba52435bc98fc8fc12a28efc32f3878a269b93d203a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-264.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-polish-ba",
+      "sha256": "46c57dbc094201539a03eecb12cd6cc201fe6dde1d4e149e0181771a75983dd9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-265.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-portuguese-ba",
+      "sha256": "6ecf883c4a8ec81d82019dfeede7b73a810a0d98c667ed2c6dbaa829ce37c11e",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-266.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-romanian-ba",
+      "sha256": "a7d741a42760a37a5b96b6d98e6ce826a187887dc6f63d0aebdab1e7762136be",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-267.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-russian-ba",
+      "sha256": "1b9d07e21feb9637161c7b8ce0a0096878cdc366d4bb1e06b41750a9febea2d7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-268.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-serbiancroatian-ba",
+      "sha256": "fd6a4f6a6f2927bd070f2dc31bb9aedce6073a1750bc2d4e565ef073477e8b22",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-269.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-spanish-ba",
+      "sha256": "bcec15edcddc849865e0a408e73c81ae0fcb53e733717fe4106259ca08764202",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-270.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-swedish-ba",
+      "sha256": "1c51aca9ea54610614bb58e93c08ded9cc8054d12b18c3d5b3148ec1e92114fa",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-271.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-ukrainian-ba",
+      "sha256": "e8113a4ecb8a4bbc282ab66785c9b107e1c6a74605b3658ebf1107e205dfc819",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-272.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-and-yiddish-ba",
+      "sha256": "d06dfdbcf192549cb8b5aba26760b13f202d5d35055a6fdb258f8daad6aa8733",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-273.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/french-ba",
+      "sha256": "71c7c1d45ada15048dca0b772c1d33500ee3c3e0615a3799c012dcf00b2d692d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-274.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/geography-and-economics-bsc",
+      "sha256": "b542280687ae6408a2f5675a3d4c6093c2f719924a65f603da1045cc7886fa7c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-275.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/geography-ba",
+      "sha256": "9e8c554d24f03277db6dd5144dfec47518472c47e6994ae982c0e2529386cc0c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-276.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/geography-bsc",
+      "sha256": "045aa04798c19c7c18a614c24bbb9cd2d6710ecee83e33b8f8255b87b16aa391",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-277.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/geography-study-abroad-ba",
+      "sha256": "d58a19843ceb19aae5532a48dca78dac2143a6dec72642b4aa3640bbd8a2ca48",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-278.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/geography-study-abroad-bsc",
+      "sha256": "11815579e3f1318a5446f1353b13e86221b03af9c3b68ad07338fdb17654b45a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-279.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/geology-bsc",
+      "sha256": "8c0457e39bcfa727b0d3137360fe1681ea357edb1d94f4b77ae95b0458c06b0e",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-280.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/geology-msci",
+      "sha256": "b836a5bc7cbf3d85b145b1b0f0cdb0720636136f9f64e86c50121b41cb27c807",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-281.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/geophysics-bsc",
+      "sha256": "2939f7e76fc3abd02785b9fa67e3768541ee07d1ed0b02a9acdd2dc0ce636ee4",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-282.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/geophysics-msci",
+      "sha256": "28cd4ea362a063186ccc151896d6606930d5c2fdd948cdd791854f0882dccce1",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-283.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-english-ba",
+      "sha256": "93922709e548dd11a9f5839b95f7256f3e98584e90462b17c1237a6f9aaf45a9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-284.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-film-studies-ba",
+      "sha256": "554d3a03e483281614ee3e88f0a75f645a2c46d936267769dcba2eb2d9f5add4",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-285.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-hebrew-ba",
+      "sha256": "9248da78ce9a4a3b942cd285f6a9b3498efdea6b5f7dfe857278410630222f2d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-286.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-history-art-ba",
+      "sha256": "4d991f6a9083f76e2c29683851f3d96369bfe6bc4b889487cc17db0e9a1645f9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-287.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-hungarian-ba",
+      "sha256": "bce9dd399ae681572352874ad883718d02fbbce2689fd4af28fec29999b2e4da",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-288.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-italian-ba",
+      "sha256": "017e08ac0c9cd241cc9add1b3756306c78cf3d66baee1610021992e8c355a9dd",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-289.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-latin-ba",
+      "sha256": "07db5fc014c7e942de142c980d82e3742dd51b78302cd85d6e12ad54f20efb1b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-290.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-management-studies-ba",
+      "sha256": "b993cf5e67ea5d431551df34fc55521aea9b6bc3e7ee43b3d12cfff31e6e9205",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-291.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-norwegian-ba",
+      "sha256": "93e52533d66817711d2908cf8cee3ecf827770f902525a46bfcb94e7bca3e286",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-292.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-philosophy-ba",
+      "sha256": "f116e56f8368f3ff942bb0e49f7bdc860e403d8cd44053c73402b5ba09dba659",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-293.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-polish-ba",
+      "sha256": "32f6783e6a9f8d4d984af9876ce6d4647ed173b9b007ef94b9fc9853801d25b4",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-294.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-portuguese-ba",
+      "sha256": "84060037cb31e4aed8f24aa30451c956828be40fe51c4200a51fdfcd52850349",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-295.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-romanian-ba",
+      "sha256": "6d4ba81313721b9433a91763cc07b19e95c0f734b116e0ed4dd0c130949229de",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-296.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-russian-ba",
+      "sha256": "fd4933b039e1bf2ac8d9d791e4b608195d12d3af168ca8992d148e953216ba8a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-297.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-serbiancroatian-ba",
+      "sha256": "8c114913f394bb8d5faf2a8dc6b75db2fb624131e628ebf5446c5b36e86330fe",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-298.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-spanish-ba",
+      "sha256": "625ea205e577cc16b901175df033526fda6369a52d67782a78fd802c6e443404",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-299.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-swedish-ba",
+      "sha256": "0e0d2d5487f856be67a430226f1c56920870caadda1b1b90ad7b20b8bdfde0f7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-300.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-ukrainian-ba",
+      "sha256": "46eeb01bffdaec4b7c1f0542de2164febf80ccf4a2678930ae5e684bdf428dff",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-301.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-and-yiddish-ba",
+      "sha256": "f59cb38e07d3dbc989047ce92f5835ccd0cfec5941ca5da101959abdecd78b03",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-302.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/german-ba",
+      "sha256": "4dd743070513568c23d51e536fbababff1ffbe956f923a08d78d3cd0c9fc8c56",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-303.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/global-humanitarian-studies-bsc",
+      "sha256": "8fa4da0ddcec70fca1d0f9a961aaa39c9634b547e88dc56edf86455e7d4e34dd",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-304.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hebrew-and-hungarian-ba",
+      "sha256": "8027f2caaa476a92e7bfb7a66add7ffde7499b808c4a6ea3648a150d292ebc3b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-305.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hebrew-and-italian-ba",
+      "sha256": "333822c27459241d03bf14c515a9872cd526cc736454929d828f2eb5fe67e099",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-306.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hebrew-and-jewish-studies-ba",
+      "sha256": "d8a5d9327e0af59f93e869f0a776192a858c430319cbb2b215d788b73a44e59e",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-307.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hebrew-and-jewish-studies-ba?option=UBAART01551A",
+      "sha256": "ff5697431478fddc7257c292820da09aaa34882473df94630f3ff573f9114815",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-308.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hebrew-and-norwegian-ba",
+      "sha256": "6822fc29f96e47f19960baff38c00867b543970196910bd34d05b656bcbe7477",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-309.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hebrew-and-polish-ba",
+      "sha256": "74eb7f28147eb035f5864e61855835e81f3694352279040c3125f171a20c43fa",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-310.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hebrew-and-portuguese-ba",
+      "sha256": "547b4d58c1770186a77bada8c16520d267903c5821d10bfec7a5d94faf65d954",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-311.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hebrew-and-romanian-ba",
+      "sha256": "79e6675ad8cf1ceaa061c4264ecfbf1d3adc51532e567582639bc76bb835663f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-312.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hebrew-and-russian-ba",
+      "sha256": "77422356449b62fbbcfb76949cd284e0394ed237240999e2982eaab5932f0865",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-313.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hebrew-and-serbiancroatian-ba",
+      "sha256": "0b2876dba681525868d7ed7694369aabb5ee5b329283fb2b4fca21bebd2a8435",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-314.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hebrew-and-spanish-ba",
+      "sha256": "91ad9d1cef4b783e84a8a9f7c9995f98898a6ea8a8dc38ab61ec1850a3609454",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-315.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hebrew-and-swedish-ba",
+      "sha256": "36001dc2b00622c5a779bef6c5c0404435fdd4404fd39d3ce184f69d1072f33d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-316.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hebrew-and-ukrainian-ba",
+      "sha256": "88c7fef81af448d2bc683d7fd31c29895b0b70e0e80cb82fd23023d29523741b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-317.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hebrew-and-yiddish-ba",
+      "sha256": "99b3cdb7794cd03b3b224cb00bc898cd64587edbda5316f9cc5958640b0fd3ba",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-318.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/history-central-and-east-european-and-jewish-studies-ba",
+      "sha256": "947ce6ece93b6a2485152776cc62f1463fd952338da538e13a9aa062536f11ce",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-319.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/history-central-and-east-european-and-jewish-studies-ba?option=UBAART01671A",
+      "sha256": "af59a2d59195a8f067bbcc18d17b1176cfb08bdf4f7f3dea2f438063525a462a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-320.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/history-and-philosophy-science-bsc",
+      "sha256": "f430e27b68559a19fc085a8ceb8f5ca5b95d168c8a75a6e8a8ed8c076fccb41e",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-321.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/history-and-philosophy-science-bsc?option=UBSMAP00091A",
+      "sha256": "040f12437d40b72761d49b79fc5584cdce8c7e914a67d46e3919f25ddf5c3be2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-322.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/history-and-politics-americas-ba",
+      "sha256": "df0a77b2eb1da4f26718dcdb2554a1e661f648d795f91801c786231a864d6d18",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-323.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/history-and-politics-americas-study-abroad-ba",
+      "sha256": "5664a0aa396c86512865a7ff2c699cc1aecc38f516a6a454d44bb765f707e4f5",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-324.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/history-ba",
+      "sha256": "4268c22be66c6b78d1e13f3abd192cde25358610ae0a2f3997115e6567661801",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-325.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/history-art-ba",
+      "sha256": "984228ad5471f1d0e3a87cb37c08a6dd7f5e63e46851b2e62a2cda627a5174f7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-326.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/history-art-materials-and-technology-ba",
+      "sha256": "f7c9a7426f7bc7b1ab2f9440d4287c6f5cccca98110c20a5b6f05f304141e24c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-327.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/history-study-abroad-ba",
+      "sha256": "5c011ed6b0fd14dacb6aef3b506b41aad1bd3469c86e488ac79015750f0df027",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-328.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/history-politics-and-economics-ba",
+      "sha256": "fec4562eadf7164b2683362ad98bf1d9d9c53abfeaeafcc27bdce1fb8bef8bbf",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-329.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/history-politics-and-economics-ba?option=UBAART01681A",
+      "sha256": "fa6ef693daeb87b8a58c6b545dbc67384c4b830afae6b7daf5acc8ae34aaed8f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-330.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/human-neuroscience-bsc",
+      "sha256": "6f2d0026f76597ad059e046982e2c0b774addf2489d204eadfdbc7fde8a7cf00",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-331.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/human-sciences-bsc",
+      "sha256": "7cd9ca46995d80f26c90d0a226731b476b65bf2a2bd5b83991d4d9e344ba2cd2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-332.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/human-sciences-bsc?option=UBSLIF00041A",
+      "sha256": "b8473e3c1b670ff5196285974ff1f576ad4859b7f2b344769a4428d3f50960d8",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-333.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/human-sciences-msci",
+      "sha256": "5efbfb2b9a901df6e7717e42561393f621686b2bf994c554e98136fb3a18b6e7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-334.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hungarian-and-east-european-studies-ba",
+      "sha256": "91c35aaaadc696332042b97acf621b7dc3388e3727d617cae4d8ac6dafa892c2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-335.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hungarian-and-italian-ba",
+      "sha256": "5099e3d56168c98e368131562d9785a291698a3081969ff9a91714daeda1d42b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-336.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hungarian-and-norwegian-ba",
+      "sha256": "c34d95a3c825d5a9db61b9bd136d9902ab241aaef871d1563e365ee099a6b8b5",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-337.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hungarian-and-polish-ba",
+      "sha256": "87db274f15de3d1b8ff7a343fff2d18cc820d775250e677aeab618f3dc6717b7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-338.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hungarian-and-portuguese-ba",
+      "sha256": "799c3205f44c3468a75c150cdb775550920cddebdf8af650f4aa7557d3d62aa3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-339.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hungarian-and-romanian-ba",
+      "sha256": "c8ca7e3e76bf198954f44553f7d8f4fe2071a3c8c8c36f228ed9127e05bde670",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-340.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hungarian-and-russian-ba",
+      "sha256": "dcc22a5ba06cdbfb17ed5bf1ef7af885639c2095e7e9c80ea7ed2bcb507d5cf7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-341.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hungarian-and-serbiancroatian-ba",
+      "sha256": "8561fa5b992c20843935eaeb20326303438f2bc0e594e88bdbccb17f3d4966fc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-342.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hungarian-and-spanish-ba",
+      "sha256": "253500d73f0481fc12c5a92761ec4a2e7b63d5b212a84d93a7d1c3d8ba2fc8e6",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-343.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hungarian-and-swedish-ba",
+      "sha256": "5184e6f7347c894ef2d92b502d811f1a4c11273477bb79ef91141b1100455f42",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-344.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hungarian-and-ukrainian-ba",
+      "sha256": "22ca0b73528dd776b6202cbd3671c6f34567900e33479892f5abbb7f43520093",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-345.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/hungarian-and-yiddish-ba",
+      "sha256": "66f3d948a28e46e22b1c2e99ef05a5b57b24df2df02f492b510432440023ac5f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-346.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/icelandic-ba",
+      "sha256": "89812501aa65fc95bcf6453ddf4f12ac1d501b95d620e5d63352ce42d62e734d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-347.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/infection-and-immunity-bsc",
+      "sha256": "bcb2d679bbbede25d29b4201c10037ca36b041d89e417f3d4a994e09f21a25aa",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-348.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/information-management-business-bsc",
+      "sha256": "9cc0dd4c4b2d5564a53c4762387f51ffc5bd11a1cfaae6ec25bdec437c5c8c88",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-349.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/information-management-business-bsc?option=UBSENG00052A",
+      "sha256": "e86bed367c3f9ff7f67f094065c0d68414011345960dd95ee1b006950328bda9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-350.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/information-management-business-bsc?option=UBSENG00051A",
+      "sha256": "c93c59effe9ad67e04a5deaca27c40e6e4a1be446fb02e467d6cd06ef675fff0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-351.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/information-data-and-society-bsc",
+      "sha256": "f7a99979503b37785e4270718bb7150f7cc0acbf04e1c192db4780e5f8a0246a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-352.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/international-management-bsc",
+      "sha256": "56800bf41d8985eb91e732d9a9cb66b4f5ed1e4bb71f0d46ef2d2288bdee74b2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-353.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/international-management-bsc?option=UBSENG00061A",
+      "sha256": "731a8eadc800f70dcbeda7a19d96611fd446884c1132c7a5d7ddf0172d9f5a81",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-354.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/international-management-bsc?option=UBSENG00062A",
+      "sha256": "8b8b17118683828ca0d33107f1afa6160e66a98a6feb407fa37c20ed75aa45ad",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-355.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/international-social-and-political-studies-ba",
+      "sha256": "4fdd3633016edd308ada6f02cbee708696f0b2e981485b2425dc088abcca9f44",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-356.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-and-film-studies-ba",
+      "sha256": "82c5794f0fd8e1d21ffda547d4318ddb75c67eb3b2ec2ae769799637f9fb5604",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-357.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-and-history-art-ba",
+      "sha256": "1e236cd87a09b90b30d4967844058e35cb2efc27df931d94b5b8f5f41a0a8c14",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-358.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-and-latin-ba",
+      "sha256": "7beca363e6a4a040a923af0fcc691531863b649e8bcd481e7e9171cffbcccbdc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-359.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-and-management-studies-ba",
+      "sha256": "7c80f74070d5518b95fe681cf73db2a8f6a7ad8d0d362b9dea6ce265f7e1a877",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-360.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-and-norwegian-ba",
+      "sha256": "64faca89679d409c74276764526b9b9c67a7e07212f29407fe59a157b25561af",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-361.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-and-philosophy-ba",
+      "sha256": "36b4a418edbf79b6d71154fcaf4e954b3adf364f9cef3fcf86aa9c3f377971d3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-362.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-and-polish-ba",
+      "sha256": "d130059215a14d45cc6996473fad87fa18660458eb723632eea7538bc636d2c8",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-363.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-and-portuguese-ba",
+      "sha256": "9f4d5ee3e3f534ec3baee24d1f04bcd77770bf1130c6563d7b605f13a8e80f20",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-364.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-and-romanian-ba",
+      "sha256": "5806cc02de25ea466f4a6c38fc63c287bb42e1ff82b2943418a4679d56d03c85",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-365.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-and-russian-ba",
+      "sha256": "e27528f35f392f7171c857ad2a4472b7214556863660a84eb82304c3753d011f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-366.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-and-serbiancroatian-ba",
+      "sha256": "bc53a28cbd04040fcd9c96b59d02f80137245a27c738ff64da79bd89098b1e7a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-367.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-and-spanish-ba",
+      "sha256": "bc1a98d52397b9078f62e7a7d325d6f480e5e3158dba1d39bf08aa44100e793d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-368.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-and-swedish-ba",
+      "sha256": "583a8506452c1c1c82d5b33b3207074193a61fb00de6ddd3048ebd480c3f8e2d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-369.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-and-ukrainian-ba",
+      "sha256": "66f44fbb96981daadd63fdb75cc82e5f74775e344f7a1d5d94d5ddb40b0000cb",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-370.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-and-yiddish-ba",
+      "sha256": "8046a747b9d070e94f7b91b216dcb00eed264057651b67cc025bf88bfab9b293",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-371.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/italian-ba",
+      "sha256": "98f36396027403514619e82e93bf5dff29aab1d2d12144be752f393283bc2309",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-372.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/language-and-culture-ba",
+      "sha256": "42e51366256741483de91a276c9694018cc3627979151741c5f1d2021ce045ad",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-373.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/law-llb",
+      "sha256": "389e2179599694f8b6de975a1b5c7d01ee7f22f99070e71b86fc5325b670da62",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-374.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/law-french-law-study-abroad-llb",
+      "sha256": "4663659b4271cf351c8de10a00862e61dba02577ad70a98a9f6f04f01e798c0a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-375.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/law-german-law-study-abroad-llb",
+      "sha256": "1587d00fb57a45f93c2bb1e2b1333be706594f11315ac8d05f615067cdbd6bb2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-376.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/law-hispanic-law-study-abroad-llb",
+      "sha256": "79b32a00bb4cdee615ffa53f95b1ac68bcc54b9395baeade79194a2f09273018",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-377.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/linguistics-ba",
+      "sha256": "ded68030f775c2c2648a146171562100933798a10dcb19eae8e2f37c5b8d0862",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-378.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/linguistics-study-abroad-ba",
+      "sha256": "ba29b214ec9996f4a84b559bda02085aefd70621b647fefdfd6efe72459d2976",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-379.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/management-social-change-bsc",
+      "sha256": "da9d416a5eaa6792c990382a3c55fdd48b892e187cbd3511d9672789c7c89bd0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-380.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/management-science-bsc",
+      "sha256": "4396995beca0d2c9b669db118d864f1882c90c7a524ed0e46991cd88c7478c9c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-381.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/management-science-bsc?option=UBSENG00071A",
+      "sha256": "8ccb76600fc0aec07d1cd5593e69e79fa9e3a04948f775464c9bce7e54b64393",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-382.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/management-science-msci",
+      "sha256": "9fc0cb4b8d711e4e1c6f329755ba871f32772f261117bc74def403738c02b07f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-383.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/management-science-msci?option=UMSENG00011A",
+      "sha256": "522833acaa5d4d93692023c179e9cd2ac21afc6afd6f270ff247205cda09f74b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-384.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/management-science-msci?option=UMSENG00012A",
+      "sha256": "549ea481eda7f1eeffdc89f7187904be5e38a6f5b48a5e41a227e92878b4e395",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-385.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-and-physics-bsc",
+      "sha256": "b458582fcb11b291456b8203ebbe38c09c1ae73a16dcc2b7442e292a98901b55",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-386.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-and-physics-msci",
+      "sha256": "de1f602bd7f54bce540c7396c57497d50458dec4b9479936ab976f6e1a038169",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-387.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-and-statistical-science-bsc",
+      "sha256": "2759908b351974457e99d5881897a45d352209f859badcc51b5dde38b1990b3c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-389.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-and-statistical-science-msci",
+      "sha256": "48f25f2e2e6cd0f81c8b89131310f59750eefe0a4098b853e2425ba01fb96fa7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-390.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-bsc",
+      "sha256": "bd8dd7e3b0847795e25238b6a8a4b4782062bbacbadade69ac8097e5c2c2f733",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-391.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-msci",
+      "sha256": "9610b0867fe7a74ba1c88282b5c84dde1923ebcddbc364c3aaf9732596ed5296",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-392.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-economics-bsc",
+      "sha256": "d029d4859b0b5995749c2e570bdb7e176ce5dcbdd3ee6fe443fc0c54eed25ed1",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-393.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-economics-msci",
+      "sha256": "332b24fd2e146095783a69cab7e0d899a0674adf5026ebba6cbde52b22ae2fe4",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-394.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-management-studies-bsc",
+      "sha256": "2eb64a299dcc02e5a20a213594aaaa6269704b5bb51e418b3c4eb830d24d9f90",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-395.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-management-studies-msci",
+      "sha256": "6f535d41d4215a5348317cb841a7a5d9d5f3d7018b3e9a783b455a8ca60d7fab",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-396.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-modern-languages-bsc",
+      "sha256": "4d4c4548429ff0a8c3c4e069aedf5c75305eb32ffd75b7ccb6fd3f27120a2981",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-397.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-modern-languages-msci",
+      "sha256": "672145c86c7927a2d47c21aab782f574202d1f75bbc2035f362e7430c60b3343",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-398.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-theoretical-physics-bsc",
+      "sha256": "2a266081c22a329f99cccdc5051e0d28ac65fa5f42dddf053e6c9e95cd0ba445",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-399.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-theoretical-physics-msci",
+      "sha256": "d3f7d819035c0becc31258cae94ae6d0dfcd2697f2e0c5904b55c4938ba8637d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-400.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mechanical-engineering-beng",
+      "sha256": "cd853a41cf52358cb10ec118de06e09f534f87d1c2699ee6ec6afbdbbb91b896",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-401.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mechanical-engineering-beng?option=UBNENG00061A",
+      "sha256": "97f1d2351d3fa22940169ea6d93517f710cc4bcd683df1a79f5f2285c1e16341",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-402.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mechanical-engineering-meng",
+      "sha256": "96574da490d44ca121922a277c370e73f0b40de997130eafaf7cdfb4d0490a68",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-403.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mechanical-engineering-meng?option=UMNENG00092A",
+      "sha256": "6689a197960b3e02c5c05c27e07d6413dc8366623b31da4fd98827bd3205229c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-404.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mechanical-engineering-meng?option=UMNENG00091A",
+      "sha256": "a8b8ba3ec66057744361e8e635760b7641fa3fda784cd2ea80df7aa514cb7915",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-405.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/media-ba",
+      "sha256": "c47869d997d99bffa43f20d2398199cc824511ec4c9c1dba8dc99f1621c94f4b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-406.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/medical-innovation-and-enterprise-bsc",
+      "sha256": "9d231d9ed8193678032be3e5312d574e0f49c59871b6774dea6c4261bcc796c2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-407.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/medical-innovation-and-enterprise-msci",
+      "sha256": "5682b2c8107fc75dd4057247f37bda78a02edb71420a9d043780813dbfc48ae1",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-408.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/medical-physics-msci",
+      "sha256": "833298dde5087739a182e08bd3914f0399f0b2cd75e0db4ab8414c71bb07f412",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-409.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc",
+      "sha256": "18fe38c3f2e9da0faf58f92d4857d497070c79f506d31d662b978ca29ea1538f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-411.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc?option=UBSMAP0017CA",
+      "sha256": "9bcdbb762a98f2a37193611b675b30e7f4604a197e6f55b7c8e76450eee80c9e",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-412.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc?option=UBSMAP00174A",
+      "sha256": "60592809368bf83dcd486be0394728a87772157dad39f5ace6bb14fbc09a243c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-413.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc?option=UBSMAP00178A",
+      "sha256": "74bd26000ebbd31286c5d43a06066ea7da1532de3e6f3958f334ed6268df9e88",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-414.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc?option=UBSMAP00173A",
+      "sha256": "3e9a2fda9e09428d8266a325b0d7f8122c5046c8d57c5668d3855a486e3ee4e3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-415.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc?option=UBSMAP0017FA",
+      "sha256": "18276d8882c7b0baef173dd803f37aec9181dc0293432f9fa005c6d48dc9966d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-416.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc?option=UBSMAP00177A",
+      "sha256": "80a23918bdb196424cd4991ebd0c2e286c1defd2ddcad9ee7fe369020330f632",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-417.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc?option=UBSMAP00172A",
+      "sha256": "069d30e0ab477c077359ca9ce8aa357735d5285ac9011b236ac7daabcd9ef60f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-418.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc?option=UBSMAP00176A",
+      "sha256": "e15f13fb9977d880c1df5946551afa8319cf9ee63861291ceb265aad42dc1370",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-419.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc?option=UBSMAP0017AA",
+      "sha256": "bf3b509075223fbb4c95937d676f483db93e52c3a037f08dde59a9ed9c4d9925",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-420.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc?option=UBSMAP0017EA",
+      "sha256": "1dda18752b7a0bb7ba689c6e0edf7b53c9668264b15d108138e5161c798bdac7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-421.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc?option=UBSMAP0017BA",
+      "sha256": "d1518370b0c31f33201646c8fb4c6020179f9874cd929a0f9428ea82d5f02298",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-422.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc?option=UBSMAP00175A",
+      "sha256": "2b56b08b6c8f5ab0258ff7e437ddfdfec71e5e6bd21619137d0677a9fe4208dc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-423.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc?option=UBSMAP0017DA",
+      "sha256": "ee4105003e4cc40107c7b0a54c1c8c9aa63971051e46d69ec2185f10fdae0c0e",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-424.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc?option=UBSMAP00179A",
+      "sha256": "0cbc7f753bb3ff69393d08d0137b5e2289b94b014cff5b55bc3f6226e20954fa",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-425.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-bsc?option=UBSMAP0017HA",
+      "sha256": "b2c75f35fa39fc91521f6e8e6601ffde6fc94af94c94b7415d833047a373149f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-426.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci",
+      "sha256": "ad6fcc7b869315036baf160c44d9ec62a7988ee412cf5ab0e3f3b450ab3056b3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-427.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci?option=UMSMAP0016CA",
+      "sha256": "2aa6bdc5c856fe95ae8b44f21c751aba4e2bd9a4198e9103bed6628eb7e76d76",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-428.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci?option=UMSMAP00164A",
+      "sha256": "d212999262462084a50de263754147450ec6239a9affb6d6fd9897101a0543e3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-429.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci?option=UMSMAP00168A",
+      "sha256": "6a6590f1ebe38586a70a8592f1e9b3ef08eb801997af3d973ccadc452b9492d5",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-430.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci?option=UMSMAP00163A",
+      "sha256": "28c0bc8e8d8bcdd3b06789d2c3093c0a5ab6d3d587f1416c9db7fb929a84367a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-431.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci?option=UMSMAP0016FA",
+      "sha256": "58f9748001c7a420457fd2b6d65337eb257058ce15a4bfe177afe82f65e36c26",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-432.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci?option=UMSMAP00167A",
+      "sha256": "5651d606b7e0f9b605e92e8d2a48187150628bacd88cd1ab8b849e345de0462c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-433.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci?option=UMSMAP00162A",
+      "sha256": "d4f1358b6e39b8b1de0d9b0084ba845d0c47e4024a3ce40f9de9a95774962650",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-434.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci?option=UMSMAP00166A",
+      "sha256": "d1fbd687655a7fb45d9753bcb632f276ea4bdb04134bb64217de1a7cb3df2511",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-435.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci?option=UMSMAP0016AA",
+      "sha256": "80837f3f4652b53e97b28c64a57744450c0f4552ac63322e6cc6fd5e23e755e4",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-436.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci?option=UMSMAP0016EA",
+      "sha256": "f8b7134b5b28761e6ff647e491c6567968a010fe4952f6cefa22dbfe3504dcaf",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-437.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci?option=UMSMAP0016BA",
+      "sha256": "e81b5000e031b510979f8c42c841388adc2ea405678c1d0aafa01250f020f242",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-438.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci?option=UMSMAP00165A",
+      "sha256": "a469a6862bf4bf0b7fe51e0aa86da14dcd52c53304b4823bc16aca98b296e152",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-439.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci?option=UMSMAP0016DA",
+      "sha256": "5a8b14fe112463260c168b2c1c9dfb897bafed783ea05e7809b835ac0f3bbbf5",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-440.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci?option=UMSMAP00169A",
+      "sha256": "618949ac97e454ccd82aa77d4176f9bab9a833dc3ad9c9e66cad8f4550baafb2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-441.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/natural-sciences-msci?option=UMSMAP0016HA",
+      "sha256": "247ee7b5009e657ecdb1fab8403748c3c07baf4d8b45b7355e8cbd3c410713f5",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-442.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/neuroscience-bsc",
+      "sha256": "7a9a0ea109ae24835295f060e187e054426c8712e16c6aeb3f19b19121cecc01",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-443.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/neuroscience-msci",
+      "sha256": "cd874291339299ef2d0e7df8e771b9361eeb14971fd46d505ceac62c9fa2fc06",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-444.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/norwegian-and-polish-ba",
+      "sha256": "c6a1b7558af49a50cadb254e7c471ee11055c2944c562493324b907281502e57",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-445.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/norwegian-and-portuguese-ba",
+      "sha256": "17c01840d08e1caff797bd5d4bb09d1f0465d9f52cc441595abc5f35072ebfdc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-446.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/norwegian-and-romanian-ba",
+      "sha256": "c7534f7743d02f0baa72050134cc68a3eb0119b13b41c86cd00a4984552d0e4c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-447.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/norwegian-and-russian-ba",
+      "sha256": "4973de5863c97c59eee18f60fb95754ae732348fc9b1ab898213f80da2cc6166",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-448.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/norwegian-and-serbiancroatian-ba",
+      "sha256": "b36c5420092a861b6b273ef71abd498906f45d3f367956b56600f7ef9814860e",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-449.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/norwegian-and-spanish-ba",
+      "sha256": "a2ab8f040c817c47b6c925eb0d3689c538c3874f97e2ad275a08ac218d485e2d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-450.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/norwegian-and-ukrainian-ba",
+      "sha256": "5654c304793d4c2270feeee83db4347d469c8e8b593e6a72333b52ae4541aaf3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-451.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/norwegian-and-yiddish-ba",
+      "sha256": "81f8216db645476d3b55fead3ce942463d9ae41a8339c5af71e532c0336850fc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-452.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/nutrition-and-medical-sciences-bsc",
+      "sha256": "e51c7d6126b731760ae577d66c14dc0592cd7bf14700f3ffa669f35b3bd888d1",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-453.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/pharmaceutical-sciences-msci",
+      "sha256": "bf6e6d61cf445e91a22ef594040f2104a01f7c09217eaa60daa364f190c30cd3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-454.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/pharmacology-bsc",
+      "sha256": "4258623a87e262e8c48f4d13fe94340dae3c676a3de7789cf26ee80ae51379cc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-455.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/pharmacology-bsc?option=UBSLIF00061A",
+      "sha256": "31934dec58078019e4593b2a399fe271f86a5a3deb656cf8b5c0bda81971a14c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-456.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/pharmacology-msci",
+      "sha256": "0a464e5866c4ff85fb7df9170abc0e4b70d78c11f25c175ccbce9fd102ada23a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-457.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/pharmacy-integrated-foundation-training-mpharm",
+      "sha256": "62ff503cee103f7c733ef55487d3d1f113abff5530567896e43f915a139eff12",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-458.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/pharmacy-mpharm",
+      "sha256": "0654585ccd1ca05beb1271f76b0222aae3bb714deada518d754657e7927b2fa9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-459.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/philosophy-and-computer-science-ba",
+      "sha256": "7adff8793a6d9ff0ca97a8cf39d069215d912d5b52a03f738e5b01ac5e397e40",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-460.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/philosophy-and-economics-ba",
+      "sha256": "ea49ef05a16455f396005762406d7ce65c22c186b838a93de8fefd1b07499c77",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-461.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/philosophy-and-history-art-ba",
+      "sha256": "992b140eed00cef8415762e137983a48406fc1103557e323aeb798e62be8c074",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-462.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/philosophy-ba",
+      "sha256": "38793b839d0f67feeba16e5b53718206351fe93fcaab2f83cefba041b3d7da61",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-463.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/philosophy-politics-and-economics-bsc",
+      "sha256": "e0f48427fcfcbdcf145285826a6ad84dfbfc15c2f87f697a4f7d0510b712b21d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-464.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/physics-bsc",
+      "sha256": "1ee52bdd1dbadc3bd0634c896c7f91c24134966e8382d34bd2f8c5616a445844",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-465.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/physics-msci",
+      "sha256": "a87f9791616c89f1af367b9c98691bdc49d18df0fb8fa68d8b213fc2625b2a50",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-466.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/physics-msci?option=UMSMAP00171A",
+      "sha256": "e4d8b17952103ec9a958b76a19f9e3c050c9b0bc28c86512608a6419cf1fd5bf",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-467.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/physics-medical-physics-bsc",
+      "sha256": "3b7741ceb179cccd05a6337b5b9b4054791054614685b1d781809093d76af661",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-468.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/polish-and-east-european-studies-ba",
+      "sha256": "48ae5caf29b459fd44db8c0f7431c59938262ca6599e398c0c98c0b395ab523d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-469.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/polish-and-portuguese-ba",
+      "sha256": "7ca18cad1536fea3c077182416aaff79e9db2606a799bf3c265be4ce3a899fb9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-470.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/polish-and-romanian-ba",
+      "sha256": "8e048d49628ce8b7e0fa2f0868dd46473002665fc811fefbb5e828e442af09ab",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-471.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/polish-and-russian-ba",
+      "sha256": "7436116b3090894edb0f1567c833d1e01c41af9f8be21a70b1c64b6f60202181",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-472.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/polish-and-serbiancroatian-ba",
+      "sha256": "812dc788c4afac659a3424d4799831ebcb17bc2defee34eff93fa35d84f1ddad",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-473.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/polish-and-spanish-ba",
+      "sha256": "c8bdf3528437e8382ba09accd803bd75558bb425afeae26cfefcf92007cedf2d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-474.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/polish-and-swedish-ba",
+      "sha256": "b9bb8c3cc65c7f5832f349b2f3151f39407a854f7371d9d7a57aba6e6a7e0795",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-475.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/polish-and-ukrainian-ba",
+      "sha256": "7611aaec0ba0c1d8512d658e4a3596cf2257ad6e45318a8b6b78489d42a359b0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-476.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/polish-and-yiddish-ba",
+      "sha256": "7c16d020d86476c62b1a7584894dc62ec2b20a06237754a81cce2fdc6c7d8bcc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-477.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/politics-and-international-relations-bsc",
+      "sha256": "653314f14f86f80dfa32b1406791b6f72802db81cbf62b03a4a14c937bd09f3e",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-478.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/politics-sociology-and-east-european-studies-study-abroad-ba",
+      "sha256": "57492351c5960785a82c1bea94323a36ce100ed9825dc88edd271a3e2cac9243",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-479.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/politics-sociology-and-east-european-studies-ba",
+      "sha256": "0196bba3799303cde6afe8e91347866aa613823bebcf682e21585744aac12fd7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-480.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/population-health-sciences-data-science-bsc",
+      "sha256": "f94e57f613d06f7fcb2beee8088e18f905d114df93ee3cb9c90246c39a4c78aa",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-481.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/population-health-sciences-data-science-bsc?option=UBSPHS00031A",
+      "sha256": "5dfb3c3b69afc8c5db0bb65b644edd446e6fb67bf746759ef3e60522ee879e0c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-482.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/population-health-sciences-data-science-msci",
+      "sha256": "a2ac5279ea477c45d4c2c725dd6a587fce44f6c794f704201579e83e52e71016",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-483.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/population-health-sciences-bsc",
+      "sha256": "1b5f3706e9deeb26d403b62902c0eabf61ca8ad20b15eb6839ffa5e76c746098",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-484.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/population-health-sciences-bsc?option=UBSPHS00021A",
+      "sha256": "14e8b981b5f316b734abdcdef1b416c64b30e03e4b6dd303ef0e6951840e4ce0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-485.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/population-health-sciences-msci",
+      "sha256": "3deb9ccef83c8bbefd53f889e0736286849ae0901ddb72e64b641920aea3242b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-486.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/portuguese-and-film-studies-ba",
+      "sha256": "bc998f1b79cea8e30dbfc62025a3cb1905ace50e6eb54eb906eba3d6d1e37e69",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-487.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/portuguese-and-management-studies-ba",
+      "sha256": "5d6770f4816c3288308c5d4110ff091075ae1a6837f7ee2601478b9edb15ce3a",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-488.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/portuguese-and-yiddish-ba",
+      "sha256": "8d3cf07f1112a30161f49583b2542afc6a555b84dc72ff41b5f767e427f80a5b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-489.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/psychology-and-language-sciences-bsc",
+      "sha256": "76f27b0ce67f2fbe37dd6fea033a62994c80492306dcfc5843e946f5e2ab6358",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-490.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/psychology-and-language-sciences-msci",
+      "sha256": "ef518a2964f473130b53b5b347899b28c04076f7ab19b6273a736473b5cfd15c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-491.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/psychology-bsc",
+      "sha256": "5b48f80c8c0f7de9fa0293275ea9c2a6cf375d572c6b58738ddd003028e18735",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-492.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/psychology-msci",
+      "sha256": "bb583f5e372e2ba56babb1a5fa93eab03d39e224d0dae896cefc3340e3d6678c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-493.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/psychology-education-bsc",
+      "sha256": "d7eb2f8d1b5b74a7aa50e02ae5b3b75cd0f933bbf2fb6c24a9c9fcca7757afd9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-494.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/robotics-and-artificial-intelligence-meng",
+      "sha256": "33b387089fdb2f8bfdb8d438fa04d4d3d7d2d2634da781564619558eacdf838f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-495.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/romanian-and-east-european-studies-ba",
+      "sha256": "af91417988b9e6afb72ed09ff021d41a873b96ff931d406a94139daaf3a50ab5",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-496.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/romanian-and-portuguese-ba",
+      "sha256": "30168e87ff4bce097fcd9df6464ccff0b0800d4eae91fef785ea55fc0b8507b3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-497.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/romanian-and-russian-ba",
+      "sha256": "30b4b2e96958a12494a382392e501ce5481f563eb3ba19b0ff0e69ee2df3a34c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-498.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/romanian-and-serbiancroatian-ba",
+      "sha256": "183491dc59c148884ea29fcd7bd5aa852689133e337940c3ac3d62ef8ea1787d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-499.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/romanian-and-spanish-ba",
+      "sha256": "f3cbc80ddbc1c097674a100cbb351204ad2416a26dd244a4814c5c1f83cd753f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-500.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/romanian-and-swedish-ba",
+      "sha256": "d5cf6d32372bd3a8306f909125e163d5c5d1a3e685225acd17c225486b32a43d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-501.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/romanian-and-ukrainian-ba",
+      "sha256": "c13d73bc1fa2683cae6ee24c43937628a58894eb9314e31ff578edbd03250551",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-502.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/romanian-and-yiddish-ba",
+      "sha256": "86ce0849504823dcc9454a35f2e745f0714566caef5c06000add5ea267e98a77",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-503.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/russian-and-history-ba",
+      "sha256": "51cd1675a513290bc0786576e1ad21426fc5bd7c05761eb5655f86e7590241c2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-504.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/russian-and-portuguese-ba",
+      "sha256": "9e684f0a8f79b473ce143eb37844d0a7f13480f7fc116ec2899079d79102502c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-505.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/russian-and-serbiancroatian-ba",
+      "sha256": "e73e50df211f2a6a4ccd9fbb1d407af5de65d16682ef904ceef4c9330d6874d7",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-506.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/russian-and-spanish-ba",
+      "sha256": "6083a107874385185a5195128ed4524c5b42ba9f7cd6484aaa4f194a5808fece",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-507.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/russian-and-swedish-ba",
+      "sha256": "a5a195c8fa5dbbbb9416901ba70b9e641ec14a5f347d9ec63092ccfaf45d640c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-508.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/russian-and-ukrainian-ba",
+      "sha256": "f28b04ed6d8e239fe8e3a70a24f8bf76653a850e9caaf64645caf06f483185e0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-509.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/russian-and-yiddish-ba",
+      "sha256": "7c211f91872324121458a4014d4da28b26f0f93e2eec76696060d871a1d521eb",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-510.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/russian-studies-ba",
+      "sha256": "23d82688dd6be33d02fa0e788adff57a23fa97a31205483d73f0dc7cd5f7f666",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-511.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/scandinavian-studies-and-english-ba",
+      "sha256": "8f2bb62cfa0e626d39fe5fed7eac09528ac631bd71a305003d545a8f244beab2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-512.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/scandinavian-studies-and-film-studies-ba",
+      "sha256": "dc8cbd7c83466efade3914b23157f4fdb6e42d6087c91ed544a54267d8e79d4c",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-513.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/scandinavian-studies-and-history-art-ba",
+      "sha256": "f869ad2558194ad4ed7105719b34308dc5b464ae795f835ab79acf170ecb8638",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-514.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/scandinavian-studies-and-latin-ba",
+      "sha256": "87270fca35ecadc010fb806bdb666151312e06de7a3df672d35a89befecc6c7b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-515.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/scandinavian-studies-and-management-studies-ba",
+      "sha256": "7e0f0f4950f055665c402f1664bb0fa374ec96b310af0b1e6e7e7c62b1a963a1",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-516.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/scandinavian-studies-and-philosophy-ba",
+      "sha256": "2a3c7ca9dfc094f8576f93e43866b806d91e31b201223ee8be03de0f5923e58d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-517.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/scandinavian-studies-ba",
+      "sha256": "0c6b9a0d1c1d8943bbb2295e74fd9300bfda1261897a70463ecaf45a24fa44a9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-518.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/science-and-engineering-social-change-bsc",
+      "sha256": "72aae9a44a87dcafa3f51be28883bb88e42c0718eeb6f3d9483126a7fe32fe83",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-519.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/serbiancroatian-and-east-european-studies-ba",
+      "sha256": "43d57019569c0f48f826b59126b5666da1a44ad56f1480425456a153e8d92dd1",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-520.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/serbiancroatian-and-portuguese-ba",
+      "sha256": "2d80146180d8649b600f257667a15811f9a6c3cbc5de58628060658ff55a5bb0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-521.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/serbiancroatian-and-spanish-ba",
+      "sha256": "57069dd6188c506b0d90c7452775bd885d9c2429e33457ea34a76d2a7e6bd87b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-522.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/serbiancroatian-and-swedish-ba",
+      "sha256": "3b92b4c349ad0d7f2e28e94b0bc98781107a85f10d9c4b321d11e2be787a5909",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-523.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/serbiancroatian-and-ukrainian-ba",
+      "sha256": "fa6addd432db1809eb9f77cc335b0d52f50c491ef0231741143aee34775ce29d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-524.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/serbiancroatian-and-yiddish-ba",
+      "sha256": "5a5894bb371e2e3c9de428442017bf2eab2399f3d1ea8ea5f561c89dc6a5b170",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-525.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/social-sciences-bsc",
+      "sha256": "d32f75dd0fd04399f5df2279c8aa001efb1d7f2e5edb2786d0cb6836df91fdee",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-526.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/social-sciences-bsc?option=UBSIOE00021A",
+      "sha256": "85d9c09fbf5d10fc53aa4f27f04139ae41a6f5295ec29baff659a2a002e14de2",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-527.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/social-sciences-data-science-bsc",
+      "sha256": "c6965c60737459df4e1e40ef1939cf4590b5c31f8582bb824a1288564391d338",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-528.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/social-sciences-data-science-bsc?option=UBSIOE00041A",
+      "sha256": "235a2962f57f8ebf8f6f29bb90e7e871d63fe13e4dfd09abf4f206307ec4b3b0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-529.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/sociology-and-politics-science-bsc",
+      "sha256": "38d882487fae23b73a861c9b20d77d97ee88ed9102b1defc997aea9f617b225e",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-530.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/sociology-and-politics-science-bsc?option=UBSMAP00191A",
+      "sha256": "df305d731e4405db7a0c643e5cad2ded2866842d3f1f957525655e3da914b5fc",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-531.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/sociology-bsc",
+      "sha256": "0db5ae7c92c90284f7f065613b3c82a00e451342c146b96f19a1627e956b9a71",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-532.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/sociology-bsc?option=UBSIOE00061A",
+      "sha256": "631a643ad740a70416d51ff7533c1bf0d877137512130650fc7988f0310b1766",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-533.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/spanish-and-film-studies-ba",
+      "sha256": "47ff389d887aba739433ad35bc03c08a52b4c61e76ed7457c4ed956562193e60",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-534.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/spanish-and-history-art-ba",
+      "sha256": "4b55362827db50b28317c622f92085c3f913121ffebcf54993b8473a1b9b09b0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-535.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/spanish-and-latin-american-studies-ba",
+      "sha256": "561c190bc9f1302d51b02922b8dca9898468aa312b6dff804616ece91ef232cf",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-536.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/spanish-and-latin-ba",
+      "sha256": "fb44b411b6fde010fd5c4d56dc93313114d785a1c5bc860234c046930c3ad567",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-537.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/spanish-and-management-studies-ba",
+      "sha256": "faca8fe478946b628e1802f415df66fe26e10886ac96be5127cad1ebf01469d1",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-538.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/spanish-and-philosophy-ba",
+      "sha256": "6d99a3eca622a3b7869d746d3d7fd46e5e761d1e2ea61ad02ae62ce5f81091d1",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-539.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/spanish-and-portuguese-ba",
+      "sha256": "c2110284030ec0b5028f79e53751b743d851095db7889e350e587fda94a152e9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-540.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/spanish-and-swedish-ba",
+      "sha256": "b0843dd9f0c4a7d39c72bd6b4406213a96c51da811d055246bb868e903797a4b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-541.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/spanish-and-ukrainian-ba",
+      "sha256": "6e850246d66f5958f98af2ae33b801328fe8c63d606b2dae7633f0bf804e9d3d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-542.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/spanish-and-yiddish-ba",
+      "sha256": "b7a5dc862ce18677b4d78045df44e173d1a6aa1e6300fb9510b3f260d4ffd771",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-543.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/sport-and-exercise-medical-sciences-bsc",
+      "sha256": "842b9212a2ef9c6df357dce9cdecca7dcd61d554bfd01cbbfab520d875fa3dc9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-544.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/statistics-and-management-business-bsc",
+      "sha256": "9d4a040c603a6740e98fd0eb003f0076503028a97db423cc141fa98b5a332c5b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-545.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/statistics-bsc",
+      "sha256": "9b696a835ba266c3b422b2460488b85ddda1c54c033c1ee811934b8b16df2b69",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-546.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/statistics-economics-and-finance-bsc",
+      "sha256": "9fa9921989ced04a72f740bb2a73931651949a0eb1fe532474221487dda58334",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-547.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/statistics-study-abroad-msci",
+      "sha256": "f4858ad2d4e9bbf20341c1caa8306b67d3e5a7db5dd2661a5a93c9cd99efd51f",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-548.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/sustainable-built-environments-energy-and-resources-bsc",
+      "sha256": "f2b8f7e68f737b6aae11f827175906b5af3c02058146285c1bf3dd75ae160f5d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-549.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/sustainable-built-environments-energy-and-resources-meng",
+      "sha256": "db6269d0877a5eff52590e9675dcba94b45b136a9d8a26c087d3d3b3933889d9",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-550.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/swedish-and-portuguese-ba",
+      "sha256": "7d36d5bac587a53d4fc5be7dec312b9104f499c7641d84afc1522089a3488655",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-551.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/swedish-and-yiddish-ba",
+      "sha256": "d12bd35bf3380fef68f59af348a8a78e538929ced14afd2f0984bb41e71de597",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-552.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/technology-and-innovation-bsc",
+      "sha256": "90c2e4e489a88e8882f036bd7216e7c7c9ca1013d36fbfc42d2ff675891f5569",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-553.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/technology-and-innovation-bsc?option=UBSENG00122A",
+      "sha256": "b7f1abc56e0f04369a25a54e8923d53a86abe8021d10d0d88e6c8d4d7fcce3b0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-554.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/technology-and-innovation-bsc?option=UBSENG00121A",
+      "sha256": "072be477173dc26c42a57b58219bfae7a092b5ec6bd8f7fab84241af68ce2277",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-555.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/theoretical-physics-bsc",
+      "sha256": "45a8a0dae96efe5d6a812901e38909cc34487fae6c80c7a89945809d6210c221",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-556.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/theoretical-physics-msci",
+      "sha256": "de13f0dc54e2b21976b52a1c297cdd959db1413019775982be0362229ea815ae",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-557.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/theoretical-physics-msci?option=UMSMAP00191A",
+      "sha256": "4b714bcf720785199c21f6330a588bf1807b500f1d36db620ae360bc185747ef",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-558.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/ukrainian-and-east-european-studies-ba",
+      "sha256": "342f6f4c3fb41b0a1519f9e7f46b604be77eedccbe2b02f63572f44d0030d9d3",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-559.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/ukrainian-and-portuguese-ba",
+      "sha256": "9942e6acf954e085da71fb8d4c238e53c73a7555d01b2b1cfe7dd576904514a0",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-560.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/ukrainian-and-swedish-ba",
+      "sha256": "c1c37410e5d844d58514f2133ff52c5941d9ceebba56f99d0a391d70fa5ea5c1",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-561.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/ukrainian-and-yiddish-ba",
+      "sha256": "f82845e16d5ed8d0a9597759ff95422e6d38950276edfeeea1a59572109ed67d",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-562.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/urban-planning-and-real-estate-bsc",
+      "sha256": "12423f076bd763cfe79177969df1bc93ba158d26196397bcb238ff4bc11bf032",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-563.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/urban-planning-design-and-management-bsc",
+      "sha256": "8a6c9cb54385f5020839fc423f223c6f11781094c0f6a16062df221c22069339",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-564.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/viking-and-old-norse-studies-ba",
+      "sha256": "ee90e41d64ae308b3f8bf97b448038452122f50beb96b93bedc62720f5e5f06b",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-565.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/youth-society-and-sustainable-futures-ba",
+      "sha256": "bf7297f6fe22f17770d6a5c525793594c6b68b71b7d6b8d8a5465122abff5c56",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-566.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/engineering-foundation-year",
+      "sha256": "13701127f893ef0835891948c60b0d75e85697f7c2b6bd7737c588288643423e",
+      "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-228.html",
+      "locator": null
     }
   ]
 }

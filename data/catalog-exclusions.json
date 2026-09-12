@@ -419,5 +419,201 @@
         "sha256": "6fac7c893625c15ce5fac3dc48f20f3f72ad0a4826db578c3963bd7e79a411d4"
       }
     ]
+  },
+  {
+    "id": "auckland-bachelor-of-arts-bachelor-of-health-sciences-9edbe50447",
+    "university_id": "auckland",
+    "name_en": "Bachelor of Arts/Bachelor of Health Sciences",
+    "reason": "该旧联合项目网址归到相同官方详情；标题、学位缩写、学分、结构与新网址一致，是同一项目重复入口。",
+    "checked_at": "2026-09-12",
+    "sources": [
+      {
+        "id": "auckland-identity-0",
+        "title": "auckland 官方目录身份依据",
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-health-sciences.html",
+        "checked_at": "2026-09-12",
+        "sha256": "678018715b2e0a0aa41856602985960ee10bf9f1f61b463227155735a080b40e"
+      }
+    ],
+    "replacement_id": "auckland-bachelor-of-arts-bachelor-of-health-sciences-5bc8067143"
+  },
+  {
+    "id": "auckland-bachelor-of-commerce-bachelor-of-health-sciences-6ea4184b58",
+    "university_id": "auckland",
+    "name_en": "Bachelor of Commerce/Bachelor of Health Sciences",
+    "reason": "该旧联合项目网址归到相同官方详情；标题、学位缩写、学分、结构与新网址一致，是同一项目重复入口。",
+    "checked_at": "2026-09-12",
+    "sources": [
+      {
+        "id": "auckland-identity-0",
+        "title": "auckland 官方目录身份依据",
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-health-sciences.html",
+        "checked_at": "2026-09-12",
+        "sha256": "de80176489233eb452a055f8deca8c37dc88e886474bdcf300230a595cb3ef8d"
+      }
+    ],
+    "replacement_id": "auckland-bachelor-of-commerce-bachelor-of-health-sciences-a6645cf90e"
+  },
+  {
+    "id": "auckland-bachelor-of-health-sciences-bachelor-of-laws-0be2d41abb",
+    "university_id": "auckland",
+    "name_en": "Bachelor of Health Sciences/Bachelor of Laws",
+    "reason": "该旧联合项目网址归到相同官方详情；标题、学位缩写、学分、结构与新网址一致，是同一项目重复入口。",
+    "checked_at": "2026-09-12",
+    "sources": [
+      {
+        "id": "auckland-identity-0",
+        "title": "auckland 官方目录身份依据",
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-health-sciences-laws.html",
+        "checked_at": "2026-09-12",
+        "sha256": "d36060d4a9cf3e0253867e42f4cbfd9098786e3e52a3887990d3153d35e88191"
+      }
+    ],
+    "replacement_id": "auckland-bachelor-of-health-sciences-bachelor-of-laws-9bb7f635c0"
+  },
+  {
+    "id": "auckland-bachelor-of-health-sciences-bachelor-of-science-3b5dc00e02",
+    "university_id": "auckland",
+    "name_en": "Bachelor of Health Sciences/Bachelor of Science",
+    "reason": "该旧联合项目网址归到相同官方详情；标题、学位缩写、学分、结构与新网址一致，是同一项目重复入口。",
+    "checked_at": "2026-09-12",
+    "sources": [
+      {
+        "id": "auckland-identity-0",
+        "title": "auckland 官方目录身份依据",
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-health-sciences-science.html",
+        "checked_at": "2026-09-12",
+        "sha256": "17425b1fe4e2f44c77d0ff86ee299d100eece98330c2a38e136d0766f42d3b2d"
+      }
+    ],
+    "replacement_id": "auckland-bachelor-of-health-sciences-bachelor-of-science-51e2c62e51"
+  },
+  {
+    "id": "auckland-information-systems-ead08bd0e3",
+    "university_id": "auckland",
+    "name_en": "Information Systems",
+    "reason": "官方Information Systems页明确BSc对应主修名称为Information and Technology Management，原目录将另一学位的关联链接误当同名BSc主修；与已列134为同一主修。",
+    "checked_at": "2026-09-12",
+    "sources": [
+      {
+        "id": "auckland-identity-0",
+        "title": "auckland 官方目录身份依据",
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-systems/undergraduate.html",
+        "checked_at": "2026-09-12",
+        "sha256": "46f26b62edfec2e8d44592dd7d2ccd4cde9580ed209067ccec772ba1c13f3e87"
+      }
+    ],
+    "replacement_id": "auckland-information-and-technology-management-76a1bab82f"
+  },
+  {
+    "id": "auckland-exercise-sport-and-rehabilitation-sciences-71014ccca1",
+    "university_id": "auckland",
+    "name_en": "Exercise, Sport and Rehabilitation Sciences",
+    "reason": "学科页只明确BSc Exercise Sciences主修与Applied Exercise and Sport Sciences专修；BSportHPE出现在相关学位链接，未证明名为Exercise, Sport and Rehabilitation Sciences的独立BSportHPE主修。保留BSportHPE学位，排除误配major。",
+    "checked_at": "2026-09-12",
+    "sources": [
+      {
+        "id": "auckland-identity-0",
+        "title": "auckland 官方目录身份依据",
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/exercise-sciences/undergraduate.html",
+        "checked_at": "2026-09-12",
+        "sha256": "4c000bddbce0930339213adc3a2c81ba8a0fffaf7cdca492d13f0dfad269ab9d"
+      }
+    ],
+    "replacement_id": "auckland-bachelor-of-sport-health-and-physical-education-9540b7c738"
+  },
+  {
+    "id": "uba-licenciatura-en-planificaci-n-y-dise-o-del-paisaje-compartido-con-78f67ed749",
+    "university_id": "uba",
+    "name_en": "Licenciatura en Planificación y Diseño del Paisaje (compartido con FAUBA)",
+    "reason": "FAUBA与FADU两项均为联合Licenciatura en Planificación y Diseño del Paisaje，来源各列同一联合学位。原101事实仍保留原ID，待root去重。",
+    "checked_at": "2026-09-12",
+    "sources": [
+      {
+        "id": "uba-identity-0",
+        "title": "uba 官方目录身份依据",
+        "url": "https://www.agro.uba.ar/carreras/paisaje",
+        "checked_at": "2026-09-12",
+        "sha256": "94d7e60f3a4cb6ea66cb25dc3456f0ec7a06cc221fc7fcb3903a01ec0f86a71f"
+      },
+      {
+        "id": "uba-identity-1",
+        "title": "uba 官方目录身份依据",
+        "url": "https://www.fadu.uba.ar/lic-en-planificacion-y-diseno-del-paisaje/",
+        "checked_at": "2026-09-12",
+        "sha256": "e500d941c74e4b3eab220c1440f876f63777bf5d7de5226a8ca56a1db979d9b5"
+      }
+    ],
+    "replacement_id": "uba-licenciatura-en-planificaci-n-y-dise-o-del-paisaje-d51a934e57"
+  },
+  {
+    "id": "tokyo-evolutionary-biology-cc8b45060c",
+    "university_id": "tokyo",
+    "name_en": "Evolutionary Biology",
+    "reason": "进化学为2026教养学部学际科学副项目，正式表14学分；不能作为独立本科招生学位。",
+    "checked_at": "2026-09-12",
+    "sources": [
+      {
+        "id": "TOKYO-handbook-cas-senior",
+        "title": "东京大学2026本科正式便览：cas-senior",
+        "url": "https://www.u-tokyo.ac.jp/content/400283147.pdf",
+        "checked_at": "2026-09-12",
+        "sha256": "ba19f33afb0f9eb321b2931aa279783575da3f8b29c26c62668bf3a2cea8da0c"
+      }
+    ]
+  },
+  {
+    "id": "tokyo-major-in-aquatic-production-and-environmental-science-28517dd201",
+    "university_id": "tokyo",
+    "name_en": "Major in Aquatic Production and Environmental Science",
+    "reason": "2026农学部沿革明确两个旧专修已于2012-04-01合并；当前农学部14个专修、2027招生表均使用水圈生物科学。保留旧ID跳转／追溯，但不计为两个开放本科专业。",
+    "checked_at": "2026-09-12",
+    "sources": [
+      {
+        "id": "ASREN-e392d891c361c1",
+        "title": "东京大学2027外国学校毕业生特别选考",
+        "url": "https://www.u-tokyo.ac.jp/content/400291798.pdf",
+        "checked_at": "2026-09-12",
+        "sha256": "af2abb52387623ef6c8e2f6b2130062267ba2b7503fd00f2c94b15b8060077ab"
+      },
+      {
+        "id": "TOKYO-ag-suikenseibutsu",
+        "title": "水圏生物科学専修 | 東京大学大学院農学生命科学研究科・農学部",
+        "url": "https://www.a.u-tokyo.ac.jp/faculty/faculty_suikenseibutsu.html",
+        "checked_at": "2026-09-12",
+        "sha256": "2bc050e7990d46109bb1ae3e4765d8f38b7e8b05c64ddb7e0a592fee8a03586a"
+      },
+      {
+        "id": "TOKYO-handbook-agriculture",
+        "title": "东京大学2026本科正式便览：agriculture",
+        "url": "https://www.u-tokyo.ac.jp/content/400283145.pdf",
+        "checked_at": "2026-09-12",
+        "sha256": "dc88381ab3624a9384dd841b12d5da85f0fbc830c981e7f6fd96187cbdbf0086"
+      },
+      {
+        "id": "TOKYO-agriculture-majors",
+        "title": "Majors | Graduate School of Agricultural and Life Sciences, The University of Tokyo",
+        "url": "https://www.a.u-tokyo.ac.jp/english/faculty_e/",
+        "checked_at": "2026-09-12",
+        "sha256": "8b770e4fe75c347b20e1af94704c4619a2a7a9c9cab85c51eaf77916d447f0cb"
+      }
+    ],
+    "replacement_id": "tokyo-major-in-aquatic-life-sciences-6680e86ddc"
+  },
+  {
+    "id": "ucl-engineering-foundation-year-b2b924dd4f",
+    "university_id": "ucl",
+    "name_en": "Engineering Foundation Year",
+    "checked_at": "2026-09-13",
+    "reason": "这是16个含整合基础年的工程/计算机学位入口的共同介绍页，本身不是一个独立学士。现已按官网列出的16个UCAS代码分别收录；此路线仅限合资格Home费率及特定背景申请者。",
+    "sources": [
+      {
+        "id": "UCLG-C228",
+        "title": "Engineering Foundation Year — UCL 2027 course",
+        "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/engineering-foundation-year",
+        "checked_at": "2026-09-12",
+        "sha256": "13701127f893ef0835891948c60b0d75e85697f7c2b6bd7737c588288643423e"
+      }
+    ]
   }
 ]

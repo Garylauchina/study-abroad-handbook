@@ -23,126 +23,178 @@ hide:
 
 ## 专业与申请资料
 
-101 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+101 个专业条目 · 0 个含详细资料 · 99 个补有专业资料 · 2 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=uba#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-abogac-a-0ec26d8b49/">Abogacía</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-actuario-bdd6737aee/">Actuario</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-agronom-a-9e315cf4dc/">Agronomía</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-arquitectura-520687d6a7/">Arquitectura</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-bioingenier-a-4e059b20b7/">Bioingeniería</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-bioqu-mica-5352844a10/">Bioquímica</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-cal-grafo-p-blico-5de85821ea/">Calígrafo Público</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-contador-p-blico-f47fa75240/">Contador Público</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-dise-o-gr-fico-625d6258d4/">Diseño Gráfico</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-dise-o-industrial-edc491e581/">Diseño Industrial</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-dise-o-textil-82f810a8ff/">Diseño Textil</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-dise-o-de-imagen-y-sonido-ae628b97c5/">Diseño de Imagen y Sonido</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-dise-o-de-indumentaria-6c7e00b595/">Diseño de Indumentaria</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-edici-n-f9735dbe1f/">Edición</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-farmacia-75c75fd9b2/">Farmacia</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-civil-e70e729bd2/">Ingeniería Civil</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-electr-nica-366720d019/">Ingeniería Electrónica</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-industrial-40bbc605e1/">Ingeniería Industrial</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-mec-nica-33fd9a8ee5/">Ingeniería Mecánica</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-naval-3b45715de0/">Ingeniería Naval</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-qu-mica-25567b6967/">Ingeniería Química</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-en-agrimensura-db289e0be6/">Ingeniería en Agrimensura</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-en-alimentos-a502191bb7/">Ingeniería en Alimentos</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-en-energ-a-el-ctrica-424ae57b60/">Ingeniería en Energía Eléctrica</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-en-inform-tica-112b5afc79/">Ingeniería en Informática</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-en-petr-leo-85804117b3/">Ingeniería en Petróleo</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-administraci-n-a60790119b/">Licenciatura en Administración</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-an-lisis-de-sistemas-a6d2fe3b78/">Licenciatura en Análisis de Sistemas</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-artes-f9686db42c/">Licenciatura en Artes</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-biotecnolog-a-faa673d091/">Licenciatura en Biotecnología</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencia-pol-tica-90f5a154fd/">Licenciatura en Ciencia Política</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencia-de-la-informaci-n-ciclo-de-complementaci-c6e0e9e1aa/">Licenciatura en Ciencia de la Información (Ciclo de Complementación Curricular)</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencia-y-tecnolog-a-de-alimentos-201e112467/">Licenciatura en Ciencia y Tecnología de Alimentos</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-ambientales-4a921b2ba8/">Licenciatura en Ciencias Ambientales</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-antropol-gicas-d6b67e70f1/">Licenciatura en Ciencias Antropológicas</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-biol-gicas-62939f021b/">Licenciatura en Ciencias Biológicas</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-f-sicas-7832285f91/">Licenciatura en Ciencias Físicas</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-geol-gicas-1dd6a46c6e/">Licenciatura en Ciencias Geológicas</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-matem-ticas-a63585e720/">Licenciatura en Ciencias Matemáticas</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-oceanogr-ficas-5611e9781a/">Licenciatura en Ciencias Oceanográficas</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-qu-micas-9d507575b4/">Licenciatura en Ciencias Químicas</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-de-datos-6612c3e43f/">Licenciatura en Ciencias de Datos</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-de-la-atm-sfera-d262370f06/">Licenciatura en Ciencias de la Atmósfera</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-de-la-computaci-n-cc2f4aa802/">Licenciatura en Ciencias de la Computación</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-de-la-comunicaci-n-323dd76d79/">Licenciatura en Ciencias de la Comunicación</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-de-la-educaci-n-382bfae658/">Licenciatura en Ciencias de la Educación</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-econom-a-fa5d3a1e7c/">Licenciatura en Economía</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-econom-a-y-administraci-n-agrarias-ccab744748/">Licenciatura en Economía y Administración Agrarias</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-enfermer-a-a91b69903a/">Licenciatura en Enfermería</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-enfermer-a-ciclo-de-complementaci-n-curricular-fa10a7bcbb/">Licenciatura en Enfermería (Ciclo de Complementación Curricular)</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-filosof-a-c23848eb90/">Licenciatura en Filosofía</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-fonoaudiolog-a-48d6982377/">Licenciatura en Fonoaudiología</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-geograf-a-f3f0771046/">Licenciatura en Geografía</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-gesti-n-de-agroalimentos-718b57b236/">Licenciatura en Gestión de Agroalimentos</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-historia-b310f8c5e4/">Licenciatura en Historia</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-kinesiolog-a-y-fisiatr-a-da4a20bd7c/">Licenciatura en Kinesiología y Fisiatría</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-letras-b4d194b3ca/">Licenciatura en Letras</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-musicoterapia-0fc7d021bb/">Licenciatura en Musicoterapia</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-nutrici-n-cdeecaa453/">Licenciatura en Nutrición</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-obstetricia-eba0475372/">Licenciatura en Obstetricia</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-paleontolog-a-b98e9f8e23/">Licenciatura en Paleontología</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-planificaci-n-y-dise-o-del-paisaje-d51a934e57/">Licenciatura en Planificación y Diseño del Paisaje</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-planificaci-n-y-dise-o-del-paisaje-compartido-con-78f67ed749/">Licenciatura en Planificación y Diseño del Paisaje (compartido con FAUBA)</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-podolog-a-1eeeec780e/">Licenciatura en Podología</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-producci-n-de-bioim-genes-e218786248/">Licenciatura en Producción de Bioimágenes</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-psicolog-a-fa2f7da9d0/">Licenciatura en Psicología</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-relaciones-del-trabajo-f58d66523c/">Licenciatura en Relaciones del Trabajo</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-sistemas-de-informaci-n-de-las-organizaciones-a6c5f237c3/">Licenciatura en Sistemas de Información de las Organizaciones</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-trabajo-social-4c4b8ee68e/">Licenciatura en Trabajo Social</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-medicina-b5326f10a1/">Medicina</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-odontolog-a-47af9b69e4/">Odontología</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesor-a-de-ense-anza-secundaria-normal-y-especial-en-sociolog-1e95738d5b/">Profesor/a de Enseñanza Secundaria, Normal y Especial en Sociología</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-en-biolog-a-4d6b8e738a/">Profesorado Universitario en Biología</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-en-computaci-n-5d57a6b8a7/">Profesorado Universitario en Computación</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-en-f-sica-fcae2a153d/">Profesorado Universitario en Física</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-en-matem-tica-cd0c9f9c79/">Profesorado Universitario en Matemática</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-en-qu-mica-4c92eda9fd/">Profesorado Universitario en Química</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-para-la-educaci-n-secundaria-en-biolog-684deab30e/">Profesorado Universitario para la Educación Secundaria en Biología y Química</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-para-la-educaci-n-secundaria-en-computa-05b80a32d7/">Profesorado Universitario para la Educación Secundaria en Computación y Física</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-para-la-educaci-n-secundaria-en-f-sica-a8436df18e/">Profesorado Universitario para la Educación Secundaria en Física y Matemática</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-para-la-educaci-n-secundaria-en-matem-t-4253f3f713/">Profesorado Universitario para la Educación Secundaria en Matemática y Computación</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-para-la-educaci-n-secundaria-en-qu-mica-bdc400dbad/">Profesorado Universitario para la Educación Secundaria en Química y Física</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-media-y-superior-en-ciencia-pol-tica-9da1d1fd50/">Profesorado de Enseñanza Media y Superior en Ciencia Política</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-media-y-superior-en-ciencias-geolog-gica-b49bf5e6cc/">Profesorado de Enseñanza Media y Superior en Ciencias Geologógicas</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-media-y-superior-en-ciencias-de-la-atm-s-e71db8ebc0/">Profesorado de Enseñanza Media y Superior en Ciencias de la Atmósfera</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-media-y-superior-en-ciencias-de-la-comun-2cabc8f4e8/">Profesorado de Enseñanza Media y Superior en Ciencias de la Comunicación</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-media-y-superior-en-psicolog-a-c9b9e8bb52/">Profesorado de Enseñanza Media y Superior en Psicología</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-media-y-superior-en-relaciones-del-traba-c249be3b63/">Profesorado de Enseñanza Media y Superior en Relaciones del Trabajo</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-media-y-superior-en-trabajo-social-eda16dfd94/">Profesorado de Enseñanza Media y Superior en Trabajo Social</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-secundaria-y-superior-en-ciencias-ambien-512a4b06b8/">Profesorado de Enseñanza Secundaria y Superior en Ciencias Ambientales</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-secundaria-y-superior-en-ciencias-antrop-17e8410158/">Profesorado de Enseñanza Secundaria y Superior en Ciencias Antropológicas</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-secundaria-y-superior-en-geograf-a-fd3ae9cd1c/">Profesorado de Enseñanza Secundaria y Superior en Geografía</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-en-ense-anza-secundaria-y-superior-en-artes-61f4ca9bc4/">Profesorado en Enseñanza Secundaria y Superior en Artes</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-en-ense-anza-secundaria-y-superior-en-ciencias-de-la-670ce27c5e/">Profesorado en Enseñanza Secundaria y Superior en Ciencias de la Educación</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-en-filosof-a-59247cdf43/">Profesorado en Filosofía</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-en-historia-cf8e89189c/">Profesorado en Historia</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-para-la-ense-anza-media-y-superior-en-ciencias-jur-di-d516a68586/">Profesorado para la Enseñanza Media y Superior en Ciencias Jurídicas</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-sociolog-a-b5f312d8f3/">Sociología</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-terapia-ocupacional-433aab9439/">Terapia Ocupacional</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-traductorado-p-blico-c4f0ee83d3/">Traductorado Público</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-veterinaria-6751427524/">Veterinaria</a><small>Carrera de grado（具体授予名称见官方课程） · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-abogac-a-0ec26d8b49/">法律（Abogacía）</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-actuario-bdd6737aee/">精算</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-agronom-a-9e315cf4dc/">农学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-arquitectura-520687d6a7/">建筑学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-bioingenier-a-4e059b20b7/">生物医学工程</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-bioqu-mica-5352844a10/">Bioquímica</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-cal-grafo-p-blico-5de85821ea/">文书与笔迹鉴定（Calígrafo Público）</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-contador-p-blico-f47fa75240/">会计</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-dise-o-gr-fico-625d6258d4/">平面设计</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-dise-o-industrial-edc491e581/">工业设计</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-dise-o-textil-82f810a8ff/">纺织设计</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-dise-o-de-imagen-y-sonido-ae628b97c5/">影像与声音设计</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-dise-o-de-indumentaria-6c7e00b595/">服装设计</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-edici-n-f9735dbe1f/">Edición</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-farmacia-75c75fd9b2/">Farmacia</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-civil-e70e729bd2/">土木工程</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-electr-nica-366720d019/">电子工程</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-industrial-40bbc605e1/">工业工程</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-mec-nica-33fd9a8ee5/">机械工程</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-naval-3b45715de0/">船舶工程</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-qu-mica-25567b6967/">化学工程</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-en-agrimensura-db289e0be6/">测量工程</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-en-alimentos-a502191bb7/">食品工程</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-en-energ-a-el-ctrica-424ae57b60/">电力能源工程</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-en-inform-tica-112b5afc79/">信息工程</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-ingenier-a-en-petr-leo-85804117b3/">石油工程</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-administraci-n-a60790119b/">管理学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-an-lisis-de-sistemas-a6d2fe3b78/">系统分析</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-artes-f9686db42c/">Licenciatura en Artes</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-biotecnolog-a-faa673d091/">生物技术</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencia-pol-tica-90f5a154fd/">Licenciatura en Ciencia Política</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencia-de-la-informaci-n-ciclo-de-complementaci-c6e0e9e1aa/">信息科学学士（已有图书／档案学历的补读）</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencia-y-tecnolog-a-de-alimentos-201e112467/">食品科学与技术</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-ambientales-4a921b2ba8/">环境科学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-antropol-gicas-d6b67e70f1/">Licenciatura en Ciencias Antropológicas</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-biol-gicas-62939f021b/">生物科学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-f-sicas-7832285f91/">物理科学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-geol-gicas-1dd6a46c6e/">地质科学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-matem-ticas-a63585e720/">数学科学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-oceanogr-ficas-5611e9781a/">海洋科学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-qu-micas-9d507575b4/">化学科学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-de-datos-6612c3e43f/">数据科学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-de-la-atm-sfera-d262370f06/">大气科学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-de-la-computaci-n-cc2f4aa802/">计算机科学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-de-la-comunicaci-n-323dd76d79/">Licenciatura en Ciencias de la Comunicación</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-ciencias-de-la-educaci-n-382bfae658/">Licenciatura en Ciencias de la Educación</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-econom-a-fa5d3a1e7c/">经济学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-econom-a-y-administraci-n-agrarias-ccab744748/">农业经济与管理</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-enfermer-a-a91b69903a/">Licenciatura en Enfermería</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-enfermer-a-ciclo-de-complementaci-n-curricular-fa10a7bcbb/">Licenciatura en Enfermería (Ciclo de Complementación Curricular)</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-filosof-a-c23848eb90/">Licenciatura en Filosofía</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-fonoaudiolog-a-48d6982377/">Licenciatura en Fonoaudiología</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-geograf-a-f3f0771046/">Licenciatura en Geografía</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-gesti-n-de-agroalimentos-718b57b236/">农食产业管理</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-historia-b310f8c5e4/">Licenciatura en Historia</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-kinesiolog-a-y-fisiatr-a-da4a20bd7c/">Licenciatura en Kinesiología y Fisiatría</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-letras-b4d194b3ca/">Licenciatura en Letras</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-musicoterapia-0fc7d021bb/">Licenciatura en Musicoterapia</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-nutrici-n-cdeecaa453/">Licenciatura en Nutrición</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-obstetricia-eba0475372/">Licenciatura en Obstetricia</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-paleontolog-a-b98e9f8e23/">古生物学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-planificaci-n-y-dise-o-del-paisaje-d51a934e57/">景观规划与设计</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-podolog-a-1eeeec780e/">Licenciatura en Podología</a><small>Carrera de grado（具体授予名称见官方课程） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-producci-n-de-bioim-genes-e218786248/">Licenciatura en Producción de Bioimágenes</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-psicolog-a-fa2f7da9d0/">Licenciatura en Psicología</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-relaciones-del-trabajo-f58d66523c/">Licenciatura en Relaciones del Trabajo</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-sistemas-de-informaci-n-de-las-organizaciones-a6c5f237c3/">组织信息系统</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-trabajo-social-4c4b8ee68e/">Licenciatura en Trabajo Social</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-medicina-b5326f10a1/">医学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-odontolog-a-47af9b69e4/">Odontología</a><small>Carrera de grado（具体授予名称见官方课程） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesor-a-de-ense-anza-secundaria-normal-y-especial-en-sociolog-1e95738d5b/">Profesor/a de Enseñanza Secundaria, Normal y Especial en Sociología</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-en-biolog-a-4d6b8e738a/">生物学大学教师</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-en-computaci-n-5d57a6b8a7/">计算机大学教师</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-en-f-sica-fcae2a153d/">物理大学教师</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-en-matem-tica-cd0c9f9c79/">数学大学教师</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-en-qu-mica-4c92eda9fd/">化学大学教师</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-para-la-educaci-n-secundaria-en-biolog-684deab30e/">生物与化学中学教师</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-para-la-educaci-n-secundaria-en-computa-05b80a32d7/">计算机与物理中学教师</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-para-la-educaci-n-secundaria-en-f-sica-a8436df18e/">物理与数学中学教师</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-para-la-educaci-n-secundaria-en-matem-t-4253f3f713/">数学与计算机中学教师</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-para-la-educaci-n-secundaria-en-qu-mica-bdc400dbad/">化学与物理中学教师</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-media-y-superior-en-ciencia-pol-tica-9da1d1fd50/">Profesorado de Enseñanza Media y Superior en Ciencia Política</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-media-y-superior-en-ciencias-de-la-atm-s-e71db8ebc0/">Profesorado de Enseñanza Media y Superior en Ciencias de la Atmósfera</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-media-y-superior-en-ciencias-de-la-comun-2cabc8f4e8/">Profesorado de Enseñanza Media y Superior en Ciencias de la Comunicación</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-media-y-superior-en-ciencias-geolog-gica-b49bf5e6cc/">Profesorado de Enseñanza Media y Superior en Geología</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-media-y-superior-en-psicolog-a-c9b9e8bb52/">Profesorado de Enseñanza Media y Superior en Psicología</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-media-y-superior-en-relaciones-del-traba-c249be3b63/">Profesorado de Enseñanza Media y Superior en Relaciones del Trabajo</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-media-y-superior-en-trabajo-social-eda16dfd94/">Profesorado de Enseñanza Media y Superior en Trabajo Social</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-secundaria-y-superior-en-ciencias-ambien-512a4b06b8/">环境科学中高等教育教师</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-secundaria-y-superior-en-ciencias-antrop-17e8410158/">Profesorado de Enseñanza Secundaria y Superior en Ciencias Antropológicas</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-de-ense-anza-secundaria-y-superior-en-geograf-a-fd3ae9cd1c/">Profesorado de Enseñanza Secundaria y Superior en Geografía</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-en-ense-anza-secundaria-y-superior-en-artes-61f4ca9bc4/">Profesorado en Enseñanza Secundaria y Superior en Artes</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-en-ense-anza-secundaria-y-superior-en-ciencias-de-la-670ce27c5e/">Profesorado en Enseñanza Secundaria y Superior en Ciencias de la Educación</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-en-filosof-a-59247cdf43/">Profesorado en Filosofía</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-en-historia-cf8e89189c/">Profesorado en Historia</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-en-letras-896a60e866/">语言文学教师本科</a><small>Profesor/a de Enseñanza Secundaria y Superior en Letras · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-para-la-ense-anza-media-y-superior-en-ciencias-jur-di-d516a68586/">Profesorado para la Enseñanza Media y Superior en Ciencias Jurídicas</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-sociolog-a-b5f312d8f3/">Sociología</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-terapia-ocupacional-433aab9439/">Terapia Ocupacional</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-traductorado-p-blico-c4f0ee83d3/">Traductorado Público</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-veterinaria-6751427524/">Veterinaria</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>外国高中与中国学历：</strong>国外中学毕业证须先办理阿根廷教育主管部门的等值承认，再经UBA认证。CBC将有协议国家的Convalidación与无协议国家的Reconocimiento区分；A-level、IB及普高材料均须按证书签发背景确认，不能按国籍自动免除认证。</p>
+<p class="fact-sources"><a href="#source-u-uba-cbc-alumnos-js">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国高中对应路线：</strong>阿根廷官方现行高中学历互认协议国家名单不含中国；据该名单判断，中国高中毕业证应按无协议国家的Reconocimiento路线核办，而非简单套用拉美协议国程序。本轮未取得UBA独立高考分数线或A-level／IB分数换算门槛。</p>
+<p class="fact-sources"><a href="#source-u-uba-gov-agreement">官方依据</a> · <a href="#source-u-uba-cbc-alumnos-js">官方依据</a> · <a href="#source-u-uba-gov-recognition">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学历认证材料：</strong>无协议国家学历承认要求身份文件、完整高中毕业与成绩文件等，姓名须一致；通过官方预约和上传材料办理。政府页面说明该项Reconocimiento免费；UBA自己的后续文件认证可另收费。</p>
+<p class="fact-sources"><a href="#source-u-uba-gov-recognition">官方依据</a></p>
+
+<p class="catalog-fact"><strong>西班牙语要求：</strong>高中证书在非西班牙语国家签发者须提交SIELE GLOBAL C1，或UBA哲学文学学院的高级西语CEA C1。页面B2例外仅适用2024第一学期特定情况，不能沿用到新申请。此处是招生语言资格，不是逐门课程授课语言证明。</p>
+<p class="fact-sources"><a href="#source-u-uba-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>CBC及专业入口：</strong>UBA通常以CBC作为本科第一年，常见6门四个月课程；FADU另含年度绘图工作坊，经济学院使用Ciclo General名称。这里是一般说明，不能替代各专业入口。</p>
+<p class="fact-sources"><a href="#source-u-uba-university-faq">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>报名流程与身份：</strong>从CBC在线平台办理preingreso，再完成文件与课程报名；未持阿根廷DNI的外籍申请者，CBC说明可先以学历承认使用的身份证件临时注册。完成CBC后通常仍须向相应学院办理入学。</p>
+<p class="fact-sources"><a href="#source-u-uba-cbc-alumnos-js">官方依据</a></p>
+
+<p class="catalog-fact"><strong>已核申请周期：</strong>外国无DNI申请入口显示2026第二学期预报名已关闭；截至2026-09-12本轮未取得该入口2027时间表。学院后续入学日期不能代替高中生首次CBC报名日期。</p>
+<p class="fact-sources"><a href="#source-u-uba-cbc-foreign">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>外籍本科教学费用：</strong>CBC现行公开招生组件明确UBA本科对阿根廷人与外国人均免教学费用；大学FAQ说明不收本科报名、学习和考试费用。这不等于住宿、生活、教材器材或行政证明全部免费，也不能由国家允许收费的法规推定UBA已对外籍本科开始收费。</p>
+<p class="fact-sources"><a href="#source-u-uba-cbc-alumnos-js">官方依据</a> · <a href="#source-u-uba-university-faq">官方依据</a></p>
+
+<p class="catalog-fact"><strong>文件与证明行政收费：</strong>UBA CBC收费规范将无DNI外国学生电子证书、身份／学历核验等行政项目按módulo计价，例如身份核验2模块、外国中学等值文件核验3模块。模块随薪级基准定期更新，本轮未取得可用于人民币或ARS预算的现行模块金额。</p>
+<p class="fact-sources"><a href="#source-u-uba-cbc-admin-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>Sarmiento资助身份边界：</strong>Sarmiento面向经济困难学生；外国申请者须有永久居留身份，不能把普通新到中国留学生视为自动符合。CBC类别通常不超过23岁，本科院系类别不超过30岁，并有成绩、既有学历及其他助学金限制；本轮未核得当前发放金额与下一轮截止。</p>
+<p class="fact-sources"><a href="#source-u-uba-scholarships">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-uba-cbc-alumnos-js"><div><a href="https://www.cbc.uba.ar/js/group-alumnos.js">UBA CBC：学生招生常见问题公开组件 ↗</a><p>外国高中与中国学历；中国高中对应路线；报名流程与身份；外籍本科教学费用</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-gov-agreement"><div><a href="https://www.argentina.gob.ar/educacion/tramites/convalidar-titulo-secundario-de-paises-con-convenio">Convalidar título secundario de países con convenio | Argentina.gob.ar ↗</a><p>中国高中对应路线</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-gov-recognition"><div><a href="https://www.argentina.gob.ar/educacion/tramites/reconocer-titulo-secundario-de-paises-sin-convenio">Reconocer título secundario de países sin convenio | Argentina.gob.ar ↗</a><p>中国高中对应路线；学历认证材料</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-international"><div><a href="https://www.uba.ar/estudiantesextranjeros">UBA Universidad de Buenos Aires ↗</a><p>西班牙语要求</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-university-faq"><div><a href="https://www.uba.ar/preguntasfrecuentes">UBA Universidad de Buenos Aires ↗</a><p>CBC及专业入口；外籍本科教学费用</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-cbc-foreign"><div><a href="https://www4.cbc.uba.ar/inscripciones/nodniarg.php">UBA | CBC ↗</a><p>已核申请周期</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-cbc-admin-fees"><div><a href="https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-j-aranceles/">CAPÍTULO J: ARANCELES - Codigo Uba ↗</a><p>文件与证明行政收费</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-scholarships"><div><a href="https://www.uba.ar/becas-grado">UBA Universidad de Buenos Aires ↗</a><p>Sarmiento资助身份边界</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 
-**已完成所列官方目录范围的对账**，共 101 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 101 项；这不是全字段详情的完成状态。
 
 <p><strong>统计范围：</strong>UBA全部13个学院的Carreras de grado目录；含医学、法律、教师教育与艺术；不计独立Tecnicatura。</p>
 
-<p><strong>对账方法：</strong>13个学院页面共125个课程链接，按正式名称去除跨院重复，排除19项Tecnicatura。</p>
+<p><strong>对账方法：</strong>13个学院页面共125个课程链接，按正式名称去除跨院重复，排除19项Tecnicatura。 逐项目复核后合并一个跨院景观学位、补独立文学教师本科，并更正失效官网地址与若干毕业后教师入口。</p>
 
 <p><strong>排除项：</strong>排除独立辅修、证书及非本科项目；具体边界见统计范围。</p>
 
 **尚未解决的目录缺口：**
 
 - 中央目录以Grado入口为范围，学制、具体授予资格和招生年度尚待逐课程核实。
+- 已纠正一组跨院景观学位重复并新增文学教师；Podología本科身份及Letras Clásicas是否独立学位仍有待确认，不能宣称目录完全闭合。
 
 - [官方目录来源](https://www.uba.ar/carreras/1)
 - [官方目录来源](https://www.uba.ar/carreras/2)
@@ -157,5 +209,7 @@ hide:
 - [官方目录来源](https://www.uba.ar/carreras/11)
 - [官方目录来源](https://www.uba.ar/carreras/12)
 - [官方目录来源](https://www.uba.ar/carreras/13)
+- [官方目录来源](https://letras.filo.uba.ar/content/plan-de-estudios)
+- [官方目录来源](https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/IF-2023-01888733-UBA-SG%25REC%20%28PROFESORADO%29_0.pdf)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

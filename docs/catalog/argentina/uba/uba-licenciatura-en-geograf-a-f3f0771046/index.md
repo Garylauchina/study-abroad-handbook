@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,17 +38,65 @@ hide:
 
 <p>官方列于Filosofía y Letras</p>
 
+<p class="catalog-fact"><strong>培养内容：</strong>学士现行目录指向2020计划。两种学位可同步修读并共享部分课程，学士侧重研究，毕业可选择论文或规定的3门毕业研讨课。</p>
+<p class="fact-sources"><a href="#source-p-uba-filo-geography-plan">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026实际开设课程示例：</strong>2026入学指引列入门地理、生态与生物地理、制图；次学期可见社会／自然／经济地理及研究方法。</p>
+<p class="fact-sources"><a href="#source-p-uba-filo-ingreso">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>外国高中与中国学历：</strong>国外中学毕业证须先办理阿根廷教育主管部门的等值承认，再经UBA认证。CBC将有协议国家的Convalidación与无协议国家的Reconocimiento区分；A-level、IB及普高材料均须按证书签发背景确认，不能按国籍自动免除认证。</p>
+<p class="fact-sources"><a href="#source-u-uba-cbc-alumnos-js">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国高中对应路线：</strong>阿根廷官方现行高中学历互认协议国家名单不含中国；据该名单判断，中国高中毕业证应按无协议国家的Reconocimiento路线核办，而非简单套用拉美协议国程序。本轮未取得UBA独立高考分数线或A-level／IB分数换算门槛。</p>
+<p class="fact-sources"><a href="#source-u-uba-gov-agreement">官方依据</a> · <a href="#source-u-uba-cbc-alumnos-js">官方依据</a> · <a href="#source-u-uba-gov-recognition">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学历认证材料：</strong>无协议国家学历承认要求身份文件、完整高中毕业与成绩文件等，姓名须一致；通过官方预约和上传材料办理。政府页面说明该项Reconocimiento免费；UBA自己的后续文件认证可另收费。</p>
+<p class="fact-sources"><a href="#source-u-uba-gov-recognition">官方依据</a></p>
+
+<p class="catalog-fact"><strong>西班牙语要求：</strong>高中证书在非西班牙语国家签发者须提交SIELE GLOBAL C1，或UBA哲学文学学院的高级西语CEA C1。页面B2例外仅适用2024第一学期特定情况，不能沿用到新申请。此处是招生语言资格，不是逐门课程授课语言证明。</p>
+<p class="fact-sources"><a href="#source-u-uba-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>CBC及专业入口：</strong>UBA通常以CBC作为本科第一年，常见6门四个月课程；FADU另含年度绘图工作坊，经济学院使用Ciclo General名称。这里是一般说明，不能替代各专业入口。</p>
+<p class="fact-sources"><a href="#source-u-uba-university-faq">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>报名流程与身份：</strong>从CBC在线平台办理preingreso，再完成文件与课程报名；未持阿根廷DNI的外籍申请者，CBC说明可先以学历承认使用的身份证件临时注册。完成CBC后通常仍须向相应学院办理入学。</p>
+<p class="fact-sources"><a href="#source-u-uba-cbc-alumnos-js">官方依据</a></p>
+
+<p class="catalog-fact"><strong>已核申请周期：</strong>外国无DNI申请入口显示2026第二学期预报名已关闭；截至2026-09-12本轮未取得该入口2027时间表。学院后续入学日期不能代替高中生首次CBC报名日期。</p>
+<p class="fact-sources"><a href="#source-u-uba-cbc-foreign">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>外籍本科教学费用：</strong>CBC现行公开招生组件明确UBA本科对阿根廷人与外国人均免教学费用；大学FAQ说明不收本科报名、学习和考试费用。这不等于住宿、生活、教材器材或行政证明全部免费，也不能由国家允许收费的法规推定UBA已对外籍本科开始收费。</p>
+<p class="fact-sources"><a href="#source-u-uba-cbc-alumnos-js">官方依据</a> · <a href="#source-u-uba-university-faq">官方依据</a></p>
+
+<p class="catalog-fact"><strong>文件与证明行政收费：</strong>UBA CBC收费规范将无DNI外国学生电子证书、身份／学历核验等行政项目按módulo计价，例如身份核验2模块、外国中学等值文件核验3模块。模块随薪级基准定期更新，本轮未取得可用于人民币或ARS预算的现行模块金额。</p>
+<p class="fact-sources"><a href="#source-u-uba-cbc-admin-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>Sarmiento资助身份边界：</strong>Sarmiento面向经济困难学生；外国申请者须有永久居留身份，不能把普通新到中国留学生视为自动符合。CBC类别通常不超过23岁，本科院系类别不超过30岁，并有成绩、既有学历及其他助学金限制；本轮未核得当前发放金额与下一轮截止。</p>
+<p class="fact-sources"><a href="#source-u-uba-scholarships">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -61,5 +109,15 @@ hide:
 - [官方项目页面或项目所在目录](http://geografia.filo.uba.ar/presentaci%C3%B3n-de-la-carrera)
 - [官方目录](https://www.uba.ar/carreras/9)
 
+<div class="catalog-source" id="source-p-uba-filo-geography-plan"><div><a href="https://geografia.filo.uba.ar/content/plan-de-estudios">Facultad de Filosofía y Letras - UBA ↗</a><p>培养内容</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-uba-filo-ingreso"><div><a href="https://filo.uba.ar/ingresantes">Información para ingresantes | Facultad de Filosofía y Letras ↗</a><p>2026实际开设课程示例</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-cbc-alumnos-js"><div><a href="https://www.cbc.uba.ar/js/group-alumnos.js">UBA CBC：学生招生常见问题公开组件 ↗</a><p>外国高中与中国学历；中国高中对应路线；报名流程与身份；外籍本科教学费用</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-gov-agreement"><div><a href="https://www.argentina.gob.ar/educacion/tramites/convalidar-titulo-secundario-de-paises-con-convenio">Convalidar título secundario de países con convenio | Argentina.gob.ar ↗</a><p>中国高中对应路线</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-gov-recognition"><div><a href="https://www.argentina.gob.ar/educacion/tramites/reconocer-titulo-secundario-de-paises-sin-convenio">Reconocer título secundario de países sin convenio | Argentina.gob.ar ↗</a><p>中国高中对应路线；学历认证材料</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-international"><div><a href="https://www.uba.ar/estudiantesextranjeros">UBA Universidad de Buenos Aires ↗</a><p>西班牙语要求</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-university-faq"><div><a href="https://www.uba.ar/preguntasfrecuentes">UBA Universidad de Buenos Aires ↗</a><p>CBC及专业入口；外籍本科教学费用</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-cbc-foreign"><div><a href="https://www4.cbc.uba.ar/inscripciones/nodniarg.php">UBA | CBC ↗</a><p>已核申请周期</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-cbc-admin-fees"><div><a href="https://codigo.rec.uba.ar/codigo_uba/libro-i-normas-generales-de-la-universidad-de-buenos-aires-1/titulo-16-ciclo-basico-comun/capitulo-j-aranceles/">CAPÍTULO J: ARANCELES - Codigo Uba ↗</a><p>文件与证明行政收费</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uba-scholarships"><div><a href="https://www.uba.ar/becas-grado">UBA Universidad de Buenos Aires ↗</a><p>Sarmiento资助身份边界</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/argentina/uba/">← 返回布宜诺斯艾利斯大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>
