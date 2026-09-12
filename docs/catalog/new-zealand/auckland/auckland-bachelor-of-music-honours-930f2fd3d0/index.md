@@ -36,8 +36,8 @@ hide:
 
 <p><strong>目录适用期：</strong>官网当前目录；未标明确入学年度，核对于2026-09-12</p>
 
-<p class="catalog-fact"><strong>专业内容：</strong>在已有音乐本科基础上进行专修课程和研究，可涉及表演、作曲、音乐学、音乐技术或教育。</p>
-<p class="fact-sources"><a href="#source-p-auckland-program-026">官方依据</a></p>
+<p class="catalog-fact"><strong>2027课程结构：</strong>2027音乐荣誉学位采用统一120学分结构：15学分高级音乐研究、按组选择研究与专业课程，以及至少30学分研究项目。可在表演、作曲、音乐教育或音乐学等课程领域选课；这些课程领域不作为七个独立招生主修新增。</p>
+<p class="fact-sources"><a href="#source-p-auckland-formal-degree-26">官方依据</a></p>
 
 <p class="catalog-fact"><strong>授课语言：</strong>英语；外语及毛利语语言课程例外。大学官方成绩单说明采用英语教学，外语和毛利语课程除外。</p>
 <p class="fact-sources"><a href="#source-p-auckland-language">官方依据</a></p>
@@ -46,6 +46,9 @@ hide:
 <p class="fact-sources"><a href="#source-p-auckland-program-026">官方依据</a></p>
 
 ## 入学条件 {#admissions}
+
+<p class="catalog-fact"><strong>2027正式规章入口：</strong>须完成奥克兰音乐学士且整体GPA至少5.0，或具有大学认可的等效先前学习；另一条校内路径为已完成音乐学士且高于Stage II级别的60学分GPA至少5.0。等效审核包括学习标准、性质和层次。选课及研究题目须经批准，表演实践另按课程要求。</p>
+<p class="fact-sources"><a href="#source-p-auckland-formal-degree-26">官方依据</a></p>
 
 <p class="catalog-fact"><strong>本科后入口（2026条款参考）：</strong>须有同一音乐领域本科，2026条款要求相关最高阶段课程GPE5.0及相应作品材料。 这些是课程页标为2026的资格条款；2027完整更新本轮尚未核实，不能当作高中直入门槛。</p>
 <p class="fact-sources"><a href="#source-p-auckland-program-026">官方依据</a></p>
@@ -77,16 +80,17 @@ hide:
 
 ## 官方来源与核验记录 {#sources}
 
-目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
+目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
 
 - [官方项目页面或项目所在目录](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-honours-bmus-hons.html)
 - [官方目录](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option.html)
 
-<div class="catalog-source" id="source-p-auckland-program-026"><div><a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-honours-bmus-hons.html">Bachelor of Music (Honours) — official programme/subject page ↗</a><p>专业内容；学制、校区与年度；本科后入口（2026条款参考）；申请渠道与年度；收费缺口；毕业去向与统计边界</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-auckland-program-026"><div><a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-honours-bmus-hons.html">Bachelor of Music (Honours) — official programme/subject page ↗</a><p>学制、校区与年度；本科后入口（2026条款参考）；申请渠道与年度；收费缺口；毕业去向与统计边界</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-auckland-language"><div><a href="https://uoa.custhelp.com/app/answers/detail/a_id/7483/~/are-all-courses-taught-in-english">Are all courses taught in English? ↗</a><p>授课语言</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-auckland-how-to-apply"><div><a href="https://international.auckland.ac.nz/how-to-apply/">How to apply — University of Auckland international ↗</a><p>申请渠道与年度</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-auckland-fees"><div><a href="https://www.auckland.ac.nz/en/study/fees-and-money-matters/tuition-fees/international-student-fees/undergraduate-international-fees.html">Undergraduate fees for international students — 2027 table ↗</a><p>收费缺口</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-auckland-ug-scholarships"><div><a href="https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/scholarships-for-international-students/undergraduate-scholarships-for-international-students.html">Undergraduate scholarships for international students ↗</a><p>奖学金筛选入口</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-auckland-formal-degree-26"><div><a href="https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BMus%28Hons%29&amp;p0_catalogue_year=2027&amp;p0_catalogue_term=99">BMus(Hons) - Bachelor of Music (Honours) ↗</a><p>2027课程结构；2027正式录取、选课及研究规则</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-auckland-program-033"><div><a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-bsc.html">Bachelor of Science — official programme/subject page ↗</a><p>同校共用：去向数据边界</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/">← 返回奥克兰大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

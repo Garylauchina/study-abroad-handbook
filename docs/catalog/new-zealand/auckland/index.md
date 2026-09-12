@@ -23,17 +23,23 @@ hide:
 
 ## 专业与申请资料
 
-183 个专业条目 · 0 个含详细资料 · 183 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+255 个专业条目 · 0 个含详细资料 · 255 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=auckland#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-academic-english-studies-and-linguistics-0688b56aad/">学术英语研究与语言学</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-accounting-1a853fc515/">会计</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-accounting-8ab11e4ab3/">会计学（商学荣誉学士）</a><small>Bachelor of Commerce (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-anthropological-science-c5c126f4ad/">科学人类学</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-anthropology-cc460dc429/">人类学</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-anthropology-d26d8c960d/">人类学（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-applied-exercise-and-sport-sciences-3a473d22b9/">应用运动与体育科学（理学士）</a><small>Bachelor of Science — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-applied-mathematics-d7c15aa006/">应用数学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-art-history-3d84e25012/">艺术史</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-art-history-76ebec8d84/">艺术史（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-asian-studies-7e508d10ba/">亚洲研究</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-asian-studies-5c79b80b29/">亚洲研究（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-bachelor-of-architectural-studies-69c856cd44/">建筑研究学士</a><small>Bachelors degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-bachelor-of-arts-acdee70bc4/">文学士</a><small>Bachelors degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-bachelor-of-arts-honours-91d85e9b20/">文学荣誉学士</a><small>Bachelors (honours) degree · 部分专业资料已核实</small></article>
@@ -127,86 +133,152 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-bachelor-of-sport-health-and-physical-education-9540b7c738/">体育、健康与体育教育学士</a><small>Bachelors degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-bachelor-of-urban-planning-honours-8d9965c66d/">城市规划荣誉学士</a><small>Bachelors degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-bachelors-of-nursing-honours-1a8c3b3226/">护理荣誉学士</a><small>Bachelors (honours) degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-biodiversity-ecology-and-evolution-d1b3e74c0e/">生物多样性、生态与进化（理学士）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-biological-sciences-ee8ed8b91e/">生物科学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-biomedical-engineering-62c3a97aac/">生物医学工程</a><small>Bachelor of Engineering (Honours) — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-business-analytics-3ae6ee2e1f/">商业分析（商学士）</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-cell-and-molecular-bioscience-67987bd09f/">细胞与分子生物科学（理学士）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-chemical-and-materials-engineering-5cc4d9a8d2/">化学与材料工程</a><small>Bachelor of Engineering (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-chemistry-0d80eca132/">化学</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-chemistry-666fdd3ed3/">化学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-chinese-eea2d9a36d/">中文</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-chinese-833e3be4cb/">中文（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-civil-engineering-865369a833/">土木工程</a><small>Bachelor of Engineering (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-classical-studies-and-ancient-history-9f11c80808/">古典学与古代史</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-classical-studies-and-ancient-history-737018659f/">古典学与古代史（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-commercial-law-bb43ef226e/">商法</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-commercial-law-252d45e89e/">商法（商学荣誉学士）</a><small>Bachelor of Commerce (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-communication-fa1dc2d129/">传播学</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-communication-and-social-change-cef0fb223c/">传播与社会变革（传播学士）</a><small>Bachelor of Communication — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-communication-and-technology-218459738a/">传播与技术（传播学士）</a><small>Bachelor of Communication — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-communication-in-leadership-3b10cd6a80/">领导力传播（传播学士）</a><small>Bachelor of Communication — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-community-health-6d4760aa17/">社区健康（健康科学学士）</a><small>Bachelor of Health Sciences — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-composition-9dc75a384e/">作曲</a><small>Bachelor of Music — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-computer-science-0d621779fe/">计算机科学</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-computer-science-a429f1e37e/">计算机科学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-computer-systems-engineering-8463832d23/">计算机系统工程</a><small>Bachelor of Engineering (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-criminology-eeded8da4a/">犯罪学</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-criminology-6049a27a9d/">犯罪学（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-data-science-5964040a6a/">数据科学</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-drama-025d7e75a7/">戏剧</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-drama-1cdf92c7fa/">戏剧（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-earth-sciences-051a660be6/">地球科学</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-earth-sciences-9c38d14832/">地球科学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-economics-51c925d52a/">经济学（文学士）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-economics-2af8e41714/">经济学（商学士）</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-economics-38d5a37ce5/">经济学（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-economics-79ae4c67c7/">经济学（商学荣誉学士）</a><small>Bachelor of Commerce (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-education-b667d086ae/">教育学</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-education-c0f879fd3e/">教育学（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-electrical-and-electronic-engineering-e2d96e6ce5/">电气与电子工程</a><small>Bachelor of Engineering (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-employment-relations-and-organisation-studies-1220d17e4e/">雇佣关系与组织研究</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-employment-relations-and-organisation-studies-5a74aad6bb/">雇佣关系与组织研究（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-engineering-science-8a87439a5b/">工程科学</a><small>Bachelor of Engineering (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-english-2027ad8a76/">英语文学</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-english-c6cd64ce4d/">英语文学（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-environmental-physics-565c19a0e8/">环境物理学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-environmental-science-0c2458e90f/">环境科学</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-european-studies-9bdb2ecae8/">欧洲研究</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-exercise-sport-and-rehabilitation-sciences-d9eee266d3/">运动科学</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-exercise-sport-and-rehabilitation-sciences-d9eee266d3/">运动科学（理学学士）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-exercise-sciences-a0697f5b7c/">运动科学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-finance-daae95b8d4/">金融学</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-finance-7153926a32/">金融学（商学荣誉学士）</a><small>Bachelor of Commerce (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-food-science-ca69433a25/">食品科学</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-food-science-416a061717/">食品科学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-french-3fc2aebc98/">法语</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-french-76d940b617/">法语（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-gender-studies-1b4be89216/">性别研究</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-geographic-information-science-213ea6f3ff/">地理信息科学</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-geography-c87be859f8/">地理学（理学士）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-geography-9cac8ce9ab/">地理学（文学士）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-geography-5ece43c700/">地理学（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-geography-ddd140893a/">地理学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-german-c88113fdea/">德语</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-german-dfaf6863e4/">德语（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-global-environment-and-sustainable-development-d4131a40cb/">全球环境与可持续发展</a><small>Bachelor of Global Studies — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-global-management-and-innovation-8d9e5e16aa/">全球管理与创新（商学荣誉学士）</a><small>Bachelor of Commerce (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-global-politics-and-human-rights-30498b76a2/">全球政治与人权</a><small>Bachelor of Global Studies — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-green-chemical-science-de82e8098c/">绿色化学科学</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-green-chemical-science-636b317bbe/">绿色化学科学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-health-systems-and-data-analytics-11b430dc18/">卫生系统与数据分析（健康科学学士）</a><small>Bachelor of Health Sciences — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-history-1d6a988b0c/">历史学</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-history-6240138d48/">历史学（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-human-resource-management-a8b8acbb25/">人力资源管理</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-inclusive-education-daf8bf92f6/">融合教育（教育荣誉学士（教学））</a><small>Bachelor of Education (Teaching) (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-information-systems-e2f2366f88/">信息系统（商学士）</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-information-systems-47dc9cd886/">信息系统（商学荣誉学士）</a><small>Bachelor of Commerce (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-information-and-technology-management-76a1bab82f/">信息与技术管理</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-innovation-and-entrepreneurship-bde1a2d80c/">创新与创业</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-international-business-40821ef7d4/">国际商务</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-international-relations-and-business-ff2b85b000/">国际关系与商业</a><small>Bachelor of Global Studies — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-italian-14594ba06e/">意大利语（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-japanese-fad98d6424/">日语</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-japanese-088518b5c6/">日语（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-jazz-30c8ce6fd9/">爵士乐</a><small>Bachelor of Music — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-korean-21d477d98d/">韩语</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-latin-fe475a9510/">拉丁语（文学士）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-linguistics-8557255495/">语言学</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-linguistics-515e6be036/">语言学（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-logic-and-computation-d5cfd9b726/">逻辑与计算（文学士）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-logic-and-computation-6192597613/">逻辑与计算（理学士）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-logic-and-computation-6625473704/">逻辑与计算（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-management-c036d835c4/">管理学</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-marine-science-7fba7c7d43/">海洋科学</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-marketing-88440666a6/">市场营销</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-marketing-62515d2373/">市场营销（商学荣誉学士）</a><small>Bachelor of Commerce (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-mathematics-f934d1423a/">数学（文学士）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-mathematics-9707bdfb0f/">数学（理学士）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-mathematics-c37b793774/">数学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-mechanical-engineering-dd74749fcf/">机械工程</a><small>Bachelor of Engineering (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-mechatronics-engineering-5b770177ea/">机电一体化工程</a><small>Bachelor of Engineering (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-media-and-screen-studies-76eae33a07/">媒体与银幕研究</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-media-and-screen-studies-c4d4978916/">媒体与影像研究（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-medical-physics-and-imaging-technology-426b3d8360/">医学物理与成像技术（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-medicinal-chemistry-a97562ac6f/">药物化学</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-medicinal-chemistry-6fffbe8b6f/">药物化学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-museums-and-cultural-heritage-c2ee963174/">博物馆与文化遗产（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-music-6673805a70/">音乐（文学士）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-music-education-9c15750dbb/">音乐教育（音乐学士）</a><small>Bachelor of Music — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-music-studies-bae156cc94/">音乐研究</a><small>Bachelor of Music — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-musicology-0ac0014eab/">音乐学（音乐学士）</a><small>Bachelor of Music — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-m-ori-studies-22179438b1/">毛利研究</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-m-ori-studies-1a366864b4/">毛利研究（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-nutrition-b196ee6e2a/">营养学（理学士）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-nutrition-b3e9a9dbd1/">营养学（健康科学学士）</a><small>Bachelor of Health Sciences — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-nutrition-b3e9a9dbd1/">营养学（健康科学学士第二主修）</a><small>Bachelor of Health Sciences — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-operations-and-supply-chain-management-54c18e5d2a/">运营与供应链管理</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-operations-and-supply-chain-management-872a492ae2/">运营与供应链管理（商学荣誉学士）</a><small>Bachelor of Commerce (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-pacific-studies-784b999bf3/">太平洋研究</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-pacific-studies-4abdf390cd/">太平洋研究（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-performance-0832e30f59/">音乐表演</a><small>Bachelor of Music — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-pharmacology-e6c0d10a1d/">药理学</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-pharmacology-df76f3121d/">药理学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-philosophy-d43f76add2/">哲学</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-philosophy-fac365bafe/">哲学（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-physics-63402dfd21/">物理学</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-physics-c6541245fa/">物理学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-physics-medical-physics-and-imaging-technology-pathway-d1fc272eed/">物理学：医学物理与成像技术路径（理学士）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-physics-photonics-pathway-f109048176/">物理学：光子学路径（理学士）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-physiology-e122f732df/">生理学</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-physiology-54804445a0/">生理学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-politics-and-international-relations-c6522a4313/">政治与国际关系</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-politics-and-international-relations-6ebf8c435f/">政治与国际关系（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-preparatory-clinical-psychology-02a7491b54/">临床心理学准备（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-primary-teaching-0c4b13ad45/">小学教学</a><small>Bachelor of Education (Teaching) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-psychology-fb26181151/">心理学（理学士）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-psychology-0a5a50fd49/">心理学（文学士）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-psychology-2ff8399a7a/">心理学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-screen-production-bbbb4fc55a/">影视制作（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-sociology-97d37b888e/">社会学</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-sociology-09d282b7e2/">社会学（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-software-engineering-9c5745a08f/">软件工程</a><small>Bachelor of Engineering (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-songcraft-and-music-production-3db1970922/">歌曲创作与音乐制作</a><small>Bachelor of Music — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-spanish-cd51e004f1/">西班牙语</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-spanish-5ab7afacc9/">西班牙语（文学荣誉学士）</a><small>Bachelor of Arts (Honours) — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-statistics-d6c2e09396/">统计学（文学士）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-statistics-119427d158/">统计学（理学士）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-statistics-979dd2dca7/">统计学（理学荣誉学士）</a><small>Bachelor of Science (Honours) — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-statistics-applied-statistics-pathway-ebabc7f664/">统计学：应用统计路径（理学士）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-statistics-statistics-and-probability-pathway-0564308692/">统计学：统计与概率路径（理学士）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-structural-engineering-dbc37e1847/">结构工程</a><small>Bachelor of Engineering (Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-tesol-7c25831fa9/">对外英语教学（文学士）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-taxation-e831fe069c/">税务</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
@@ -267,18 +339,23 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 183 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 255 项；这不是全字段详情的完成状态。
 
 <p><strong>统计范围：</strong>本科、荣誉本科、Conjoint联合学位，以及逐页核实的本科主修／方向；不包含独立辅修、语言模块与单门课程。</p>
 
-<p><strong>对账方法：</strong>原学位目录97项，加103次本科subject页面读取（99唯一页面）；逐项检查所属Bachelor和major/specialisation关系。商业法/税务仅作为BCom主修，不把LLB课程组合另作主修；停招主修及课程-only条目单独排除。 按现行详情排除4个联合学位重复入口和2个误配主修；保留183条。目录缺项与荣誉专修继续逐学位核对，仍为partial。</p>
+<p><strong>对账方法：</strong>原学位目录97项，加103次本科subject页面读取（99唯一页面）；逐项检查所属Bachelor和major/specialisation关系。商业法/税务仅作为BCom主修，不把LLB课程组合另作主修；停招主修及课程-only条目单独排除。 按现行详情排除4个联合学位重复入口和2个误配主修；保留183条。目录缺项与荣誉专修继续逐学位核对，仍为partial。 2027正式课表对账：39个主学位请求中38有效，72个现行主修/专修及本科后荣誉方向新增；54联合学位名称已核对，保留255条。</p>
 
 <p><strong>排除项：</strong>排除独立辅修、证书及非本科项目；具体边界见统计范围。</p>
 
 **尚未解决的目录缺口：**
 
-- 中央137个本科相关subject节点中，有103个链接到独立本科说明（99唯一页面）；其余节点与院系内新方向、2027更名和组合学位内可选主修仍未逐一完全对账。
-- BAdvSci(Hons)历史方向已排除新增清单；原独立学位记录的当前招生状态仍须逐项核实。
+- BFA(Hons)的2027正式页未取得：HTTP200正文为not found，不能凭零plan推断该校专业已全部闭合。
+- 联合学位按54个独立学位记录对账，本轮未逐一展开每个联合学位的专业选择计划。
+- 目录节点证明课程/规章列出，不能单凭列出推定某轮开放、所有身份可申请或课程当年必开。
+- Latin BA(Hons)明确不收新生；旧Gender Studies BA(Hons)自2023停招且无2027正式plan；Development Studies旧页仍有介绍但无2027 BA(Hons)plan，未作为新开放方向加入。
+- BGlobalSt的11个language specialisation节点属于学位必修60学分语言组成，本轮作为组件单列，不当作独立主修；BSc的39个module节点同样单列。
+- BMus(Hons)统一课程结构不拆七个旧领域；BSportHPE的五条选课pathway没有独立2027plan，保留在学位说明。
+- 此前183条发布记录中的Medicine/Law/内部Honours等特殊资格继续由已审记录控制；本批不会重新认定其可高中直入。
 
 - [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option.html)
 - [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/conjoint-programmes/conjoints-by-faculty.html)
@@ -365,5 +442,195 @@ hide:
 - [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/civil-engineering/undergraduate.html)
 - [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/nutrition/undergraduate.html)
 - [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/songcraft-and-music-production/undergraduate.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/fees-and-money-matters/tuition-fees/international-student-fees/undergraduate-international-fees.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/undergraduate-application-closing-dates.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/applications-and-admissions/entry-requirements/undergraduate-entry-requirements/overseas-secondary-school-applicants.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/applications-and-admissions/entry-requirements/undergraduate-entry-requirements/undergraduate-english-language-requirements.html)
+- [官方目录来源](https://international.auckland.ac.nz/how-to-apply/)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/scholarships-for-international-students/undergraduate-scholarships-for-international-students.html)
+- [官方目录来源](https://www.auckland.ac.nz/assets/study/applications-and-admissions/entry-requirements/undergraduate-entry-requirements/overseas-secondary-school-applicants/2027+Undergraduate-programme-specific-entry-requirements-A-I.pdf)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-bsc.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-architectural-studies-bas.html)
+- [官方目录来源](https://uoa.custhelp.com/app/answers/detail/a_id/7483/~/are-all-courses-taught-in-english)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-arts-ba.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-arts-honours-bahons.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-biomedical-science.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-biomedical-science-honours-bbiomedschons.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-commerce-bcom.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-commerce-honours-bcomhons.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-communication.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-dance-studies-bdancest.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-dance-studies-honours-bdancesthons.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-design.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-early-childhood-studies.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-tesol.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-teaching-bedtchg.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-teaching-honours-bedtchghons.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-engineering-honours-behons.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-fine-arts-bfa.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-fine-arts-honours-bfahons.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-global-studies-bglobalst.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-health-sciences-bhsc.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-laws-llb.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-laws-honours-llbhons.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/Medicalimaging.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-medical-science-honours-bmedschons.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-medicine-and-bachelor-of-surgery-mbchb.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-bmus.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-honours-bmus-hons.html)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BMus%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-nursing-bnurs.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-optometry-boptom.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-pharmacy-bpharm.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-pharmacy-honours-bpharmhons.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-property-bprop.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-psychology-bpsych.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-honours-bschons.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-social-work-honours-bswhons.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-sport-health-and-physical-education-bsporthpe.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-urban-planning-honours-burbplanhons.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-nursing-honours-bnurshons.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-biomedical-science.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-commerce.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-communication.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-arts-bachelor-of-design.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-engineering-honours.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-fine-arts.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-global-studies.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-health-sciences.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-laws.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-laws-honours.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-music.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-arts-science.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-bachelor-communication.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-bachelor-fine-arts.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-bachelor-global-studies.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-bachelor-sport-health-physical-education.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-music.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-bachelor-sport-health-and-physical-education.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-communication-bachelor-global-studies.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-communication-bachelor-of-laws.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-communication-bachelor-of-laws--honours-.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-design-bachelor-of-fine-arts.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-engineering-honours-music.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-fine-arts-bachelor-of-science.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-music-laws.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-music-laws-honours.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-music-science.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-commerce.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-bachelor-design.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-engineering-honours.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-global-studies.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-health-sciences.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-laws.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-laws-honours.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-property.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-science.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-design-bachelor-engineering-honours.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-design-bachelor-global-studies.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-design-bachelor-science.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-engineering-honours-global-studies.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-engineering-honours-science.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-global-studies-bachelor-of-health-sciences.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-global-studies-laws.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-global-studies-laws-honours.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-global-studies-science.html)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BBiomedSc%2FLLB&p0_catalogue_year=2027&p0_catalogue_term=Summer)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BBiomedSc%2FLLB(Hons)&p0_catalogue_year=2027&p0_catalogue_term=Summer)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-health-sciences-laws.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-health-sciences-laws-honours.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-science-laws.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-science-laws-honours.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-bachelor-health-sciences.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-biomedical-science-bachelor-science.html)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-health-sciences-science.html)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BMus&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=EXES-BSc&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BHSc&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=NUTR-BHSc&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=LATN-BA&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ANTH-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ARTH-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ASIA-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=CHIN-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=CLAN-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=CRIM-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=DRMA-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ECON-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=EDUC-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=EROS-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ENGL-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=FREN-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=GEOG-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=GERM-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=HIST-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ITAL-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=JAPN-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=LING-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MUCH-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MAOR-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PACI-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PHIL-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=POIR-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=SCPR-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=SOCI-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=SPAN-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MESC-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=BUAN-BCom&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/business-analytics.html)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ACCN-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=COMM-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ECON-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=FIN-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=GLMI-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=INFS-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MKTG-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=OSCM-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=COSC-BC&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/communication-and-social-change.html)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=COTC-BC&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/communication-and-technology.html)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=COLD-BC&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/communication-in-leadership.html)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=INED-BEd%28Tchg%29%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BEd%28Tchg%29%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=COMH-BHSc&session=1529177791588&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=HSDA-BHSc&session=1529177791588&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MUE-BMus&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/music-education/undergraduate.html)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MUY-BMus&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/musicology0/undergraduate.html)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=BEE-BSc&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/biodiversity-ecology-evolution.html)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=CMB-BSc&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PHMI-BSc&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PHPH-BSc&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=STAA-BSc&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=STAP-BSc&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=AESS-BSC&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/applied-exercise-sport-sciences/undergraduate-applied-exercise-sport-sciences.html)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MATA-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=BIOS-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=CHEM-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=COMP-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=EASC-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ENVP-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=EXES-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=FOOD-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=GEOG-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=GREE-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=LOGC-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MATH-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MPIT-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MEDC-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PHAR-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PHYS-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PHYO-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PSYC-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PCP-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
+- [官方目录来源](https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=STAT-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

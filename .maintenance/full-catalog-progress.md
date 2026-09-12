@@ -39,7 +39,7 @@
 - PEAK修正后已重新生成；最终strict构建340.66秒，一致性和4项研究测试通过；Chrome已目视停招首屏及英语字段，不再显示日语共用规则。最终16677 HTML、840160内部引用、18513搜索条目检查通过，477.4MB；提交1932784ffccc3b11326b5a6723c3049306107a86已发布，Actions34703812928 build/deploy均success；线上主页16522、McGill390及Oxford48均HTTP200且内容一致，Chrome线上PEAK2027停招及英语字段已验收。
 
 
-## 第四批本地验收完成，待发布线上核验
+## 第四批已发布并完成线上验收
 
 - 已导入Auckland183、UBA101、Tokyo95、ANU276、UWA270、UCL580、UQ1891条整体研究。网站16,529条：36详细、13,275部分专业事实、3,218学校规则、0仅目录；96校都有共用资料。目录64完整、32部分，不代表全部详情完整。
 - Auckland原189排除6条已确认重复/误配；root复核2027费用表、2027/2028截止及医学/法律荣誉特殊条件。额外补MBChB2028首年允许学位与八门课、国际毕业生GPA6/五年时限/无Casper/英语7.5各7等独立条件。
@@ -53,12 +53,26 @@
 - 最终strict构建187.82秒；16,694 HTML、888,403内部引用、18,563搜索条目检查通过，逻辑站点499.0MB；生成一致性、来源、8 Node/4研究/2资源版本测试通过。
 - Chrome本地桌面法律IELTS分项、护理高考科目和第二学期限制、UCL FY12 Home资格/费用、医学RPI-X例外、东京PEAK停招均核查；390px UBA语言文学教师本科首屏和6年学制已目视。
 
+- 提交bc409d792a62c22ea617b2484543f7d4f077031f已发布main；Actions34706735934 build/deploy均success。Chrome线上护理2027限制、75%高考与60%科目表分别展示已确认。
+
+## 第五批本地验收完成，待线上确认
+
+- Auckland 255、Sydney 316、UTS 358、Monash 378 已整体导入并通过目录身份、schema、逐来源SHA审核。全站16,600条：36详细、14,342部分专业事实、2,222学校共用资料；目录仍64完整、32部分。更正页36条。
+- Auckland新增72条（16普通方向、56本科后荣誉），179条未改旧记录独立逐字段相等；保留第四批医学2028要求。拉丁BA双主修120学分含至少45 Stage III；荣誉GPA条件为60学分above Stage II，不能写成含Stage II。
+- Sydney移除1总览导航、保留316条，原14事实段保留；124个缺失中文名补齐。root目视2027指南4页表，152条取得精确学位/父学位费用参考，其余明确缺口。LLB联合入口、Computing校内转入、新加坡护理先前注册、Science-MD首个符合毕业成绩的批次分别核验。
+- UTS保留原Accounting并补154学位、203主修；512唯一来源。168主修有实质课程/目标，35无当前实质介绍；129主修有直接观察父学位。134学位有2027国际首年/全程估费，80条补公开Career options中文职业示例，不当就业调查。
+- UTS 26退出授位、10本科后荣誉、当地限定、境外及内部转换路线分开；C10413仅近期高中、无高等教育经历；C10481为前置3年加1年专业实践，2027手册病理路径与公开招生更多相关学位分别说明，不能套四年总费为追加年费用。Exercise Therapy主修不开放国际新生，后续物理治疗需GPA5及面试。
+- Monash 378中文，611唯一URL+SHA来源。60澳洲2027学位招生页与27Malaysia2026学费行合计72不同学位。2027澳洲/2026Malaysia费用及6%服务税明确分开。医学ISAT170最低vs178已公布面试线、澳洲主轮6/30已截止、Malaysia12/4截止及非公民工作限制分别核验。
+- Monash M6018正式2026进度表root Chrome目视：四年新修192学分，另先前学士48，总240；已补独立PDF文字提取及哈希，不用隐藏后台requirements推断。原B2029课程/毕业事实保留，其余3条旧占位缺口更新为实际事实。
+- 首次strict构建161.54秒：16,766HTML、900,236内部引用、18,637搜索项、504.7MB通过；8 Node/4研究/2资源版本及来源、一致性、隐私检查通过。root发现6处学位结构混排、M6018学分口径及UTS C10481两来源表达需补说明，已修正并进行最终重建。
+- Chrome已核首页16,600与Monash378筛选/分页、双校区医学首屏和条件、Sydney Computing内部入口、Auckland Latin双主修；UTS追加年390px窄屏和两来源资格说明、Monash四年192新修+48折入已目视。最终strict构建213.17秒；16,766HTML、900,240内部引用、18,637搜索条目、504.7MB，来源/生成一致性/研究测试通过；等待上线确认。
+
 ## 当前分工与下一批 scratch
 
-- uk_sample：Sydney317（303新增和14原记录）；208独立原文及2027费用/中国资格PDF表图像已核查，正补中文课程与规则。
-- research_au_catalog：Monash378批次已有草稿，原始SHA及身份校验通过，待root审阅；医学双代码M6011 M6019为真实共用手册，须按校区区分。
-- research_uk_catalog：Auckland全目录闭合；2027 Curriculum Catalogue39学位，BA(Hons)28方向、BSc(Hons)20、BMus(Hons)统一计划等差异在scratch核验。
-- root：第四批待提交发布；UTS357新条目原始数据已取得并提取，现逐项中文课程审核；原Accounting保留。隐藏NEXT_DATA字段不能当成官网已公开入学政策，需独立招生来源。
+- research_au_catalog：UNSW 550已抓550手册；142原缺研究均内部领域。发现8 REGZ及2 HUMS疑为非学士预备领域，独立corrections。官网finder接口403，改官方公开链接/站点图，尚未冻结。
+- uk_sample：Durham174真实Chrome全部读取含China分支；3非学士CHE/DHE候选、12同UCAS2027重复；2026 NN4H与2027 N445学位不同不能合并。2027fees多TBC、Foundation页面旧日期冲突；尚未冻结。
+- research_uk_catalog：Birmingham342（340HTTP200，338实质课程），268有2027。英国/Dubai、插读/普通本科、限制国际生/签证路径分开。AI Public Policy停招，IR German保留2027官方prospectus证据；尚未冻结。
+- root：UCSD下一批，90/90课程资料已抓取，包含主修与非主修辅助页。source-mapping独立识别13处同p中第二院系标题被旧目录误归属（Music/ICAM/Political Science）；仅scratch更正，未改产品。其余178身份保留，176已按目录原行匹配，2个Individual Major需独立处理。正在取得国际资格/China、selective/screened、毕业去向与新增Business Data Science证据。
 
 ## 未完成的验收范围
 
@@ -71,5 +85,3 @@
 
 工作分支codex/full-undergraduate-catalog；首批线上基准4e239f089ad274f5aa1735926f665afed54f78ae。
 scratch忽略且不提交；data/.maintenance只保存可公开事实、来源链接和哈希。git status用--untracked-files=no或计数；提交使用quiet避免数万生成文件输出。发布后继续已授权全量任务。
-
-下一批：root已启动fetch-au-gaps-2.py抓Monash377、Sydney303、UTS357；实际目录仍australia-gap-enrichment/{monash,sydney,uts}（不是-2），不要重跑旧全局extract。Monash/UTS完整内容在HTML script#__NEXT_DATA__的props.pageProps.pageContent，需按pageConfig确认公开字段；英文DOM正文是壳。UCL代理完成后接Monash，root接UTS；Tokyo代理接Auckland全部目录和内部荣誉缺口。

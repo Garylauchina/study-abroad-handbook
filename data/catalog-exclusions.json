@@ -615,5 +615,21 @@
         "sha256": "13701127f893ef0835891948c60b0d75e85697f7c2b6bd7737c588288643423e"
       }
     ]
+  },
+  {
+    "id": "sydney-overview-e7ab3bf276",
+    "university_id": "sydney",
+    "name_en": "Overview",
+    "reason": "Overview 为 Bachelor of Advanced Studies (Honours) 总览导航，不是独立 honours field；该页说明旧生资格范围。保留已有承载学位和真实方向记录。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "sydney-overview-identity",
+        "title": "Bachelor of Advanced Studies (Honours) 总览与旧生适用范围",
+        "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/b-advanced-studies-honours/overview.html",
+        "sha256": "274f62ae4e9ebebc323f300e3a3f9465fe81a1ec6bad9fc42619422c75030138",
+        "checked_at": "2026-09-13"
+      }
+    ]
   }
 ]

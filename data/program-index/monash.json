@@ -1,11 +1,11 @@
 {
   "university_id": "monash",
-  "checked_at": "2026-09-12",
+  "checked_at": "2026-09-13",
   "coverage": {
     "status": "complete",
     "count": 378,
-    "scope": "All bachelor-bearing undergraduate degrees and catalog majors/undergraduate specialisations/honours fields; UTS stream mapping remains pending",
-    "method": "{\"course\": {\"total\": 503, \"pages\": [0, 100, 200, 300, 400, 500], \"unique_uris\": 502}, \"aos\": {\"total\": 411, \"pages\": [0, 100, 200, 300, 400], \"unique_uris\": 411}, \"all_pages_fetched\": true, \"unsw_selected_major_honours_count\": null}",
+    "scope": "All bachelor-bearing undergraduate degrees and catalog majors/undergraduate specialisations/honours fields",
+    "method": "{\"course\": {\"total\": 503, \"pages\": [0, 100, 200, 300, 400, 500], \"unique_uris\": 502}, \"aos\": {\"total\": 411, \"pages\": [0, 100, 200, 300, 400], \"unique_uris\": 411}, \"all_pages_fetched\": true, \"unsw_selected_major_honours_count\": null} 2026手册378条补充中文课程、学制、校区、学分及路径；60个澳洲学位当前2027招生页与27条Malaysia 2026费用表合计覆盖72个不同学位。",
     "exclusions": "Public Courseloop API endpoint and POST schema read from official frontend JavaScript；Filter implementationYear to official current_year; request all pages of 100 and assert row count equals API total；Program: official Undergraduate line; UNSW additionally confirm bachelor award in every full program page; Monash/UTS bachelor title prefix；UNSW fields: explicit level=major or honours plus studyLevelValue=ugrd; Monash explicit undergraduate field categories; UTS Major with Undergraduate or Unrestricted career；No minor, individual subject, diploma, certificate or standalone postgraduate degree promoted to bachelor；Keep restricted/offshore/ADFA fields where published; no applicant-nationality exclusion",
     "sources": [
       {
@@ -91,13 +91,3069 @@
         "bytes": 15388,
         "raw_file": "scratch/full-catalog/australia/monash/aos-page-100.json",
         "meta_file": "scratch/full-catalog/australia/monash/aos-page-100.meta.json"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2052",
+        "sha256": "62a62b6e0c4189c72d71d1f0ffe72009d29c04997c79edcf690b474e38995e2c",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-in-actuarial-analytics-9af784b15e.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/fees",
+        "sha256": "d2dbfdec3b2ec45e0246c7d9257b5e84be799b142fdc7c7c423f7adac7ef8393",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-fees-2026.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/finance/sst-info",
+        "sha256": "e45c99183d14d9f099bb148f9ffde7d9904eec13b9243472408bc783e5f48680",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-sst.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/apply/intake-periods",
+        "sha256": "9185ae402bcb3d7ee1084c791a4743f0028462355e26f8cb967ea6d8c3beb80b",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-intake-feb-2027.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/entry-requirements/english/tests",
+        "sha256": "49743246e991f570385e77e0f04a0f06cc0b8561d3a4423dd33206b22269af45",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-english-tests.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/student-services/financial-assistance/undergraduate-scholarships-and-bursaries/merit-scholarships#graphite-tabs__1745923-02",
+        "sha256": "63748fa0549e6a8af39436b7b92a7e9c85c59758c81a71a0d3eec358270c67ea",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-merit-new-benefits.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/student-services/financial-assistance/undergraduate-scholarships-and-bursaries/merit-scholarships#graphite-tabs__1745923-03",
+        "sha256": "fa5de81043fc925a110e1c8602160f2b01099a3d8a91837529c4fe5d63abee44",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-merit-new-eligibility.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/student-services/financial-assistance/undergraduate-scholarships-and-bursaries/merit-scholarships#graphite-tabs__1745923-04",
+        "sha256": "e5c7b318b6a46c56d294f272a12b2bf377e262eb4faa2ea428842831fbb35b85",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-merit-new-to-retain-this-scholarship.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/student-services/financial-assistance/undergraduate-scholarships-and-bursaries/merit-scholarships#graphite-tabs__1745923-05",
+        "sha256": "3d1fa7212ec2ef8f52d6289bb5fb5ac4fd46c6e6c51496f7e3350fb1d0b6c502",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-merit-new-application-process.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/business/bachelor-in-actuarial-analytics#graphite-tabs__3917847-05",
+        "sha256": "206a985842327ba604afca3342fbb3c3c28803bdcad90b831e5f9ece7d98fd18",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-in-actuarial-analytics.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2029",
+        "sha256": "b4fa451489a24d5b3d543983c71c746fbff32526c77bb4c2b89d94be56b08de3",
+        "raw_file": "scratch/full-catalog/australia-enrichment/monash/detail-B2029.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/accounting-b2029?international=true#application-fees",
+        "sha256": "bc7c1bf4d249e0ec33d5b82823da73818d0a6e1dbb1ac3c24a004242cc1bc167",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2029-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/accounting-b2029?international=true#entry-requirements-2",
+        "sha256": "789f78c59a60ab30082a5c74052cc2c53ec4440287592f54843db2298e4bd9f0",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2029-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/accounting-b2029?international=true#entry-requirements-2",
+        "sha256": "ef952af1d1c5bf0dcc85248fcb059896697a5b66ab98f8a167e710ad83fa2181",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2029-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2033",
+        "sha256": "9b4d91e94b4dcc3324b3e5d2209a48c243d68981d9de202e5c6ea88f308529f8",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-actuarial-science-fe61c483a4.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/actuarial-science-b2033?international=true#application-fees",
+        "sha256": "c3aa240792bb5af8b5c40fef43b788fb5d0272314064eebc29bca4626a5ec6a8",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2033-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/actuarial-science-b2033?international=true#entry-requirements-2",
+        "sha256": "6e69d0de603c1c86e79de915d518a6f295ec50ba7d5d7efe69e63c1acfcf3def",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2033-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/actuarial-science-b2033?international=true#entry-requirements-2",
+        "sha256": "a85c3ab87522a0a345e58eba23e67ae1583fb8e439a4e043e0dd28a169663731",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2033-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B6060",
+        "sha256": "d5518ac79cb5852254dd7009351bfa2ee61f58479ab53fdfa59e8c7a6aa0af61",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-actuarial-science-and-master-of-actuarial-studies-ba0c008f47.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/S2010",
+        "sha256": "cccc465316fec79ec528adb8d2a2880b7095182214ea1606068cc660d04ec670",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-applied-data-science-417fe22416.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/applied-data-science-s2010?international=true#application-fees",
+        "sha256": "d52a36d15102aea7054ce0a504a9a6397a20e683f26b7da4098889eeb8022774",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S2010-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/applied-data-science-s2010?international=true#entry-requirements-2",
+        "sha256": "a1d1aa20ba4f22c845039485c1a4301cc41446ed8c0eda60d011c0bb899e43e8",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S2010-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/applied-data-science-s2010?international=true#entry-requirements-2",
+        "sha256": "5070bd9a7573485401e7f10808b46bd2517b55eb9f10f05087a18e2a28eaf8f1",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S2010-entry-global.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/science/bachelor-of-applied-data-science#graphite-tabs__3100284-05",
+        "sha256": "6add81b5bdb69fdefd61eb68269430a13a8e91a1f55af27d33f749240afb4bb0",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-of-applied-data-science.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/S3003",
+        "sha256": "4cecb084cd6e171ba25a2745baa5f61f8aeb1807425dd53beea67b25f6a5cb49",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-applied-data-science-advanced-honours-b89987bd8e.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/applied-data-science-advanced-s3003?international=true#application-fees",
+        "sha256": "539849633eccca13f1e4a7408098b063aa215b63e55880a6bf035abb2e341366",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S3003-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/applied-data-science-advanced-s3003?international=true#entry-requirements-2",
+        "sha256": "4a96e7b2f4009f119d8aed938cbbf0b653cfe40e67f2ee49702b391fee50871f",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S3003-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/applied-data-science-advanced-s3003?international=true#entry-requirements-2",
+        "sha256": "850cbc4a3dac220db12d4c29757430ab94c735b92066e6a5dbd38bdb06fa0602",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S3003-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F2001",
+        "sha256": "3c36459274c879fff4d12b15bd313c3e3eda5161ad78ff76cd47228ede9fed68",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-architectural-design-0158baf715.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/architectural-design-f2001?international=true#application-fees",
+        "sha256": "9060fc31d1d93949777655d9a637c406cd5d468fa47c0b833a444954a24eb65e",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-F2001-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/architectural-design-f2001?international=true#entry-requirements-2",
+        "sha256": "41f4f56d66ef14c690e7e9e245f46457be8483931abb55e69ba4af47c8f88b47",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-F2001-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/architectural-design-f2001?international=true#entry-requirements-2",
+        "sha256": "ecb8cf4ffcf2c45923d92247328737ebf3e9e0c878f6f02845f8c917538ec099",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-F2001-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F6003",
+        "sha256": "653e300b349a9b5e7f52a324493bf39a4d11d3b365d8c1d5a2859e883dcaf0e9",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-architectural-design-and-master-of-architecture-3ae0754c08.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F2016",
+        "sha256": "4466a13d2dfd08495ce77286c916a6262635d312837ad9dc3b07700494d13c41",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-architectural-studies-and-bachelor-of-business-0efa112b78.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F2019",
+        "sha256": "23e0d34d1b2c46fe328b78e906c72c25bb5c1510b7f433219f15180a88fc2144",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-architectural-studies-and-bachelor-of-design-7b949c8459.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F2018",
+        "sha256": "21b3abc82c25eb1644de9d0b9f614c294e8f7f1fb15b814f88e84dd19d86481b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-architectural-studies-and-bachelor-of-fine-art-6f932147a2.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F2017",
+        "sha256": "a734d6b74136a8e86ac5a4a63ca49c71af1989c8976428b2b85f7e37352bb78e",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-architectural-studies-and-bachelor-of-information-tec-42383f1a32.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2000",
+        "sha256": "8cb2a3cbb62f38e8399df96c9fa2fa17ccd2708a5bee363b15f31d8b5da12208",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-arts-8ab56965ec.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/arts-a2000?international=true#application-fees",
+        "sha256": "977876cdcab36fc4af780438c19755fca99dc9d0bce6668e8daca6c3b8c35ed9",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2000-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/arts-a2000?international=true#entry-requirements-2",
+        "sha256": "5a9fce35bc16e0890db48277a5e7af14df99df35b2995cf56e735954e1875c3b",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2000-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/arts-a2000?international=true#entry-requirements-2",
+        "sha256": "996ea067d1fdd03f1275b929050ee5709e5b4030e861c8dc3dbe8ccf7af96bb2",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2000-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A3701",
+        "sha256": "a2d05956428f3b5dcec7a846b3dc1aac6edb4fa8a7e75c6ebda3d961fc7c8d58",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-arts-honours-3b8e94a99b.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/arts-a3701?international=true#application-fees",
+        "sha256": "208c51bdd85e0b005b857657cc9e6865d1ebf9efa875dd17222349779f698b5e",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A3701-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/arts-a3701?international=true#entry-requirements-2",
+        "sha256": "8ca21b032e75575ee9878d06116449c74e03237928c748e3be064b180fb735d5",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A3701-entry-global.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/student-services/financial-assistance/undergraduate-scholarships-and-bursaries",
+        "sha256": "5bf41de2ccb66825539568c65cfa7767731830760945071f49461f047859bcc6",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-ug-scholarships.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/arts-social-sciences/bachelor-arts-honours#graphite-tabs__2593476-05",
+        "sha256": "100c9be41b6a2dc42d1971ee010eef1619eedf51ec79f5f3fdd76f52f5765b4f",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-arts-honours.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2012",
+        "sha256": "d83fd5fe59d3a49ddb563db7c9139a4b65bcaf24f433145c3e63389bdaf6f5da",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-arts-and-bachelor-of-criminology-a61ef831c9.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2005",
+        "sha256": "b485e631f3691aeb6ec2e55ddd638d9746f0d2c8cc31e90a5c9d308b6b18db72",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-arts-and-bachelor-of-fine-art-0e4ef8b05e.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2018",
+        "sha256": "651f759a28287884de730851a026285c31afc6b3a31f23b1aeafaaeeba72512b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-arts-and-bachelor-of-global-studies-84727c0730.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2017",
+        "sha256": "aa90f8b1178b0f40f2928fb78e348b1458c9c884a43f00750ac259f3617cc6f0",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-arts-and-bachelor-of-health-sciences-d3cb29a3ba.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2019",
+        "sha256": "60e669e180e4df977701e6813598944fd12ed9f0f0cf2ef97be537817192a17c",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-arts-and-bachelor-of-media-communication-a8569fa31b.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2004",
+        "sha256": "6e04f7484224ff5022792922b150c848e7463e79cb335ff1f7bc93b4bf5ba98d",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-arts-and-bachelor-of-music-547a9a59c6.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2006",
+        "sha256": "e987f83cee85c84530963c5d0d856f1cb9ba927bc34fea0163ad380a68be9cea",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-arts-and-social-sciences-16af1fad7e.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/arts-social-sciences/bachelor-arts-social-sciences#graphite-tabs__2652836-05",
+        "sha256": "9a19363bdf93d8e2a697e2c962442b09b4c7d4aac0e85c08440cd85a68622efc",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-arts-social-sciences.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2042",
+        "sha256": "558c6f80e666a7e6da81df39cd260c829a30b09b2d3b54e89e38a27d86b81622",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-banking-and-finance-3af5d8b8d9.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/banking-and-finance-b2042?international=true#application-fees",
+        "sha256": "e8e3326c75a6da1439b4ad84950e2db6b783663e103537c9330609e4835989e7",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2042-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/banking-and-finance-b2042?international=true#entry-requirements-2",
+        "sha256": "ed71691035d3cb2133ceeab0f3d727fd3e49371868213e7c0876742c73e74952",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2042-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/banking-and-finance-b2042?international=true#entry-requirements-2",
+        "sha256": "31933d008880092871729075570a7035a8bb0dcf6157d47fa8f8b01be8910f72",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2042-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M2003",
+        "sha256": "529ccd2052e79cbdf5c51bac3d03b128f802180e27b451b61406f2ab8bcc410c",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-biomedical-science-be072b3141.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/biomedical-science-m2003?international=true#application-fees",
+        "sha256": "54f0206bb08a547539036035c304a54eed788129ce70c194ecde6e2216e3ac73",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2003-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/biomedical-science-m2003?international=true#entry-requirements-2",
+        "sha256": "c944fa6312a5cac419b40c93ec27c6f0209e5444e96dc148ef6d256210726bc5",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2003-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/biomedical-science-m2003?international=true#entry-requirements-2",
+        "sha256": "3f57cfaabffbf525810b6622c2424521f288f1688c9ce8a1d94fca287d6c18eb",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2003-variant-bachelor-of-biomedical-science.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/biomedical-science-m2003?international=true#entry-requirements-2",
+        "sha256": "ecc8f4759898c583be21e89ec5550e3758fb4ed2bfd47c03f60eda1f6f05bf47",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2003-variant-bachelor-of-biomedical-science-scholars-program-.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M3702",
+        "sha256": "eda17e4d96d78b1d19fa4842bffcf5233a8cd353ce4628edf355b08a106d0439",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-biomedical-science-honours-d111ca6112.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/biomedical-science-m3702?international=true#application-fees",
+        "sha256": "2ad44f1a9aa952a9ea34a3e3a0c5f68687f484012485b74918fda91a56445e9a",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3702-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/biomedical-science-m3702?international=true#entry-requirements-2",
+        "sha256": "6c665f80fca0a45ba446395ab6a9dafcb5901488d793eb28d1a7c2960cbb2894",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3702-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2000",
+        "sha256": "cdb6a9a4f701a128ce6e1a85851b40c2bc3cd0574d2af88d278d10e4741ffebe",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-business-6c98445f05.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/business-b2000?international=true#application-fees",
+        "sha256": "d9cc7c5aba4b7da83b9474eb20111b852b8b02bff7e6446b1157b067786631d2",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2000-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/business-b2000?international=true#entry-requirements-2",
+        "sha256": "c2f462314dc16e8838cb47a67f72cf607f6ca95baec85c5565eccb98b36ab86d",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2000-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/business-b2000?international=true#entry-requirements-2",
+        "sha256": "af783bec1d584e85f9d60e8e1e35b029ceab0ca77469f66c09ff453860ff65c9",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2000-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2007",
+        "sha256": "32c1e6beb6d0abbdda13b59e69233ef780d6fb7be2b16cb27f24872131b13eec",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-business-administration-7ffbdb7da5.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/business-administration-b2007?international=true#application-fees",
+        "sha256": "c10e2fb5a27b24c9e109ec46e1374e67eb4e003b12665cefa5218549a657339a",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2007-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/business-administration-b2007?international=true#entry-requirements-2",
+        "sha256": "2ca5d4057d1f4b59c56822ead64dfde4a8473b5aa3843366a83ab60d18decad7",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2007-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/business-administration-b2007?international=true#entry-requirements-2",
+        "sha256": "d9683134f76cdd4b548dbef3c19b81b9184204c3350c51bcb4c120beff7425a7",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2007-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2040",
+        "sha256": "53de3a2f940d43bc1f750a6fcb372bffaefd6a05e8661e391d628860cf4f584b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-business-and-bachelor-of-accounting-05f7a7f592.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2019",
+        "sha256": "167f9d1283b6686171431df5ad8cc8362039ba03f06bae8dafa847ff293a2290",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-business-and-bachelor-of-arts-3b40817495.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2035",
+        "sha256": "770d1b7878db880c4baead5546ff9d9cc6815229607d7be69f93a4e09ff18135",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-business-and-bachelor-of-banking-and-finance-6f6e7065ff.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2017",
+        "sha256": "4b955bedfbea6f9f4144ce7a89b4bd0ab28e64882db11049722aec1ab910cfa8",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-business-and-bachelor-of-information-technology-63517d86ea.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2056",
+        "sha256": "d2f80236bd0fb8a6c77ecd6a8a733cce06d440ac24cfb422b8a980782cb6a124",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-business-and-bachelor-of-international-relations-a50fb6337f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2037",
+        "sha256": "71d06bebd4164fb1a6da3b83ed047626e0b84c002bf9292f130140e0d4da2b90",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-business-and-bachelor-of-marketing-73c985beb4.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2028",
+        "sha256": "8002f4a9d76f028d2b371911d86ada755ad180458551c7c9f13aa5ed88c87cd2",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-business-and-bachelor-of-media-communication-6b9bf1c9f3.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2026",
+        "sha256": "dbe17bb19e0d1d198bd391c94a5cbd27c5da8c5e37e47af3afdbab33dc896948",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-business-and-commerce-a13b9db56c.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/business/bachelor-business-commerce#graphite-tabs__2595227-05",
+        "sha256": "0af35f23ce1e86fa493d96d5fb723d8abfb813b87e3edb99c961ee659f6238ea",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-business-commerce.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B3702",
+        "sha256": "0282569bd7395b980c24c2cbc23923028f3d7466f0a9927db813fce2762367f5",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-business-and-commerce-honours-4779f0cc28.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/business/bachelor-business-commerce-honours#graphite-tabs__2595427-05",
+        "sha256": "2f29b50ed9bc4b42c585741d3ff6754fc827f331522fc211228bd35cf6035604",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-business-commerce-honours.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2048",
+        "sha256": "d3e4c3cc103905a6053b21d2f2ea53193566fcba3699c67cc5adebee01166e61",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-business-and-commerce-and-bachelor-of-computer-scienc-8361fc7abf.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/business/bachelor-business-commerce-bachelor-computer-science#graphite-tabs__3211691-05",
+        "sha256": "421468e4f5d2e74892488fb0bcd9e7c83829e3f216595f911eea1eeb06361f57",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-business-commerce-bachelor-computer-science.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2027",
+        "sha256": "277e990d1f1cacb6c0cb492fd493d67fbb746d5503ba2118b64b96d25c9e542e",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-business-and-commerce-and-bachelor-of-digital-media-a-d654c01120.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/business/bachelor-business-commerce-bachelor-communication#graphite-tabs__2595529-05",
+        "sha256": "b1379a9f849de5fcb4052b7fce3e1d664fe2d68256adc466bef8878609f12bd9",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-business-commerce-bachelor-communication.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2001",
+        "sha256": "901f0ac61489bd2cc2cf242747ed2e900d83ac74ccfc3fd8f705dd11ec7527be",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-commerce-c50a4b1da4.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/commerce-b2001?international=true#application-fees",
+        "sha256": "eb28a39149762d8596b1c67f28e6cfa1de06367da69b6f82db18d6b0459566ca",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2001-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/commerce-b2001?international=true#entry-requirements-2",
+        "sha256": "927354867933d95dbe4a7a585eb634d3ce3bb13ac4575aac596210d4af24ec57",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2001-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/commerce-b2001?international=true#entry-requirements-2",
+        "sha256": "0306b3a021f0e7768cb98905f2ab4408ccc84cde2307005b37a6bfe9e77c8bc6",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2001-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B3701",
+        "sha256": "e5ad8d9bd8a6d6d4068558acf2d89d9c5aad44647ce517f768b154855b4f3018",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-commerce-honours-9d2759d5dd.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/commerce-b3701?international=true#application-fees",
+        "sha256": "d295fe7145fed465127b789515f2b4610f094ed7bc65be52df723510f6ef45c7",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B3701-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/commerce-b3701?international=true#entry-requirements-2",
+        "sha256": "d9b65dbfd0fe7584e3fb7b5d7b57bc7aa0b02b18a773d3f3839a46b785ef2ea8",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B3701-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2030",
+        "sha256": "14effc00cd073eec2c42ccb0a91905fd257bf83d48035eb80eb50770d835fc22",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-commerce-and-bachelor-of-actuarial-science-94384ce26d.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2020",
+        "sha256": "0c406aa4ec54558f0c6283a01be11587234c3446f1d85b179d02678dee463553",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-commerce-and-bachelor-of-arts-110fc43adc.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2021",
+        "sha256": "9a746dc2955bf039053dd1850a284f0185e800a48bb8596ddd51a307f6cfe661",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-commerce-and-bachelor-of-biomedical-science-858e29889d.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2008",
+        "sha256": "9b9404f6d063cf04a27a774863c939937cb5fab855f68a4ba699bef2eb093026",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-commerce-and-bachelor-of-computer-science-7ff5657fab.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2032",
+        "sha256": "73ddac953902eead69b8f1420475882b826d722d32aad39a795050c71c67a6d7",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-commerce-and-bachelor-of-economics-8c6ed5e5c5.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2043",
+        "sha256": "4ad4a6fff2a7556a56b1fe966cf1c4cdde54545b9e7a9f299b7b168b7f27d266",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-commerce-and-bachelor-of-finance-337ca10737.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2006",
+        "sha256": "9b9fdfffb216a464f49ede9b54d19143bccd7fa0941f2a86e6cb2d5f089feab5",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-commerce-and-bachelor-of-global-studies-dec5a62cc2.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2025",
+        "sha256": "e2d6f0500675e0906c9a53834c281bf4eaa834e815eaccae01f3615572f2d63a",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-commerce-and-bachelor-of-information-technology-55904cc680.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2022",
+        "sha256": "455286830f77ba16aa6c0cc8e9c7d6b559005f2c6d1e6125e9d8bd21c385f505",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-commerce-and-bachelor-of-music-ef5f2221c4.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2047",
+        "sha256": "db2ce45533e6111fbe09deb356f2832b23d8038409ff3b5bd258a9dfdcacc3b7",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-commerce-and-bachelor-of-politics-philosophy-and-econ-2c3e76b489.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2023",
+        "sha256": "f8f947b4b537baaf5e3c5750104c4b3e1f9b200abec5b26ffb6dccdaa7121d9c",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-commerce-and-bachelor-of-science-c84227031a.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/C2001",
+        "sha256": "2bbd70e1ad31f77ddafb61bab4f41138da3a180b75a09dfa559192cb721ab183",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-computer-science-2384d5e443.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true#application-fees",
+        "sha256": "f6be7bea73d1eaac22c149fe9e86359b0fe05a43415667b0d1775416b8bcfe83",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C2001-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true#entry-requirements-2",
+        "sha256": "ba0595f3dbaf0791962720a37e647bcfdd82126bf2d805ff81db34ed96c75e64",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C2001-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true#entry-requirements-2",
+        "sha256": "c0d80221e4ed33c149e9ec61ac2397a98e68727d1f6d430c072511431cc87816",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C2001-variant-bachelor-of-computer-science.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true#entry-requirements-2",
+        "sha256": "ca2af7d1d334555e0a2350ba7d91e8744bf2ec6993fd6be0adbcf3ba0ccebafb",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C2001-variant-bachelor-of-computer-science-in-artificial-intelligence.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true#entry-requirements-2",
+        "sha256": "96ef6ce535ce448d239659b91584923f775efd5cebc5fb15ec5492e2e85c800f",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C2001-variant-bachelor-of-computer-science-in-cybersecurity.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true#entry-requirements-2",
+        "sha256": "9b49946517ca653f601b05f0672b9b4159e2909a7645c0030f9f6f45abdfa293",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C2001-variant-bachelor-of-computer-science-in-data-science.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/information-technology/bachelor-computer-science#graphite-tabs__2608041-05",
+        "sha256": "95038f8b4fa46d737c97bd887a5ba45a07125047b4bd9a7a933b1f548515f433",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-computer-science.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/C3702",
+        "sha256": "85b52a5db954f2f4f617cde6f4bea5b3f0ee21e834a5126d2593a258a391e060",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-computer-science-honours-868e71aaea.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c3702?international=true#application-fees",
+        "sha256": "f7f717555a57f032f62c80361e2fea3f67702411ef28a72109f79a5f149386f1",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C3702-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c3702?international=true#entry-requirements-2",
+        "sha256": "39e86e89cde97718001d1a54252c4574dc8204d78de3435a9a84f0e814350610",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C3702-entry-global.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/information-technology/bachelor-of-computer-science-honours#graphite-tabs__2608136-05",
+        "sha256": "98490e3e4d6bcb3cc7af94979f64667e073d6d9c874dfad62efcd8a5aab3ec55",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-of-computer-science-honours.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/C3001",
+        "sha256": "21e5dee8eac0921e3dbae7e6beb1ffa53ff7f685a499c707bebef6b4fab9fe78",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-computer-science-advanced-honours-1dc828e67f.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-advanced-c3001?international=true#application-fees",
+        "sha256": "e689164451f8487cf44530848647bdb00b731a6b77de2e9b318cd7c85edaa144",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C3001-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-advanced-c3001?international=true#entry-requirements-2",
+        "sha256": "02e35bb5edb1329cf7a5a83ccd7404157baf6cdcf72363d363321dc5f974a5ed",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C3001-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-advanced-c3001?international=true#entry-requirements-2",
+        "sha256": "3de49ae0bb641a2694ab01fbd67bba4a47c90587796c55d70b34f7d5deb71de9",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C3001-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2008",
+        "sha256": "6a162a639c1ecd571954d7cc9fe15aac2fb5dee86916baf033ac36399f11e7a9",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-criminology-77fd7a5d06.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/criminology-a2008?international=true#application-fees",
+        "sha256": "989e5396379580f2022160a593de1a3689e65c1fe92d43e48b981f110c42e48c",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2008-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/criminology-a2008?international=true#entry-requirements-2",
+        "sha256": "1adf968cf8a3f88e626e1505d9c6eae7807fce1c8c51a0c986e31b9f64fbd584",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2008-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/criminology-a2008?international=true#entry-requirements-2",
+        "sha256": "7aedac817ad0f0f52ddffa0961560cc862698e24d7179500528befccf14caa33",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2008-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2009",
+        "sha256": "ec4dfb163cfd731683edb754474bf0d03845b0ea7f9c1a8683cd5ed7ec617022",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-criminology-and-bachelor-of-information-technology-3137b024c5.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2014",
+        "sha256": "bc67727de46aa28ef13c99de47a87f5dc00efb96ec51ff34a819d04ef8b21089",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-criminology-and-policing-3a96e170ef.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F2010",
+        "sha256": "601c4715a4d67717ab1425f96da198577e1932359b9beeeeacc357ac69539041",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-design-1ce69789c1.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/design-f2010?international=true#application-fees",
+        "sha256": "d6a716c10b7e326ef7fe7608f633ecc330839e0ec03c765419697387e6844b5b",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-F2010-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/design-f2010?international=true#entry-requirements-2",
+        "sha256": "fa90f0254642a92d0907bdc2556d42bbe3a83159a07e88ff9183071569cf78a0",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-F2010-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/design-f2010?international=true#entry-requirements-2",
+        "sha256": "b40109a54fda6fd68f8b3c61308bb8398e57384ce1f63bdddc8b0241e0680561",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-F2010-variant-bachelor-of-collaborative-design.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/design-f2010?international=true#entry-requirements-2",
+        "sha256": "fde56345fea19cb3c93464f32a64918c01252665fe36e6df5cbf7a66aa558657",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-F2010-variant-bachelor-of-communication-design.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/design-f2010?international=true#entry-requirements-2",
+        "sha256": "7c25464762553123d223efb2fe2ab93773dbd1c3053c9af0ea03478e442b1151",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-F2010-variant-bachelor-of-industrial-design.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/design-f2010?international=true#entry-requirements-2",
+        "sha256": "9479728214950f0766501237f615bf4825afe6463f09373563c89cbd83f72f1a",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-F2010-variant-bachelor-of-spatial-design.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F2014",
+        "sha256": "51d3a11bd139e9a7b79face57a6ed771924c5534114ff30bcc7d2fe0a590a412",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-design-and-bachelor-of-arts-1638427eaa.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F2011",
+        "sha256": "17f5d89e9c31c6500228a97d3cfaa5af4b2a576018e9856d4fa667a6536d344f",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-design-and-bachelor-of-business-438b7d1044.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F2020",
+        "sha256": "ff79ebe81abebaeda08c2f31dc9c03f18a2638f10494d63eb55dc8a5d84101c6",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-design-and-bachelor-of-fine-art-e55c1ce6b3.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F2012",
+        "sha256": "eea4e7970f51da3a5930c963215d2db39911be7461289ea0d204ac6cad48cbc1",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-design-and-bachelor-of-information-technology-667b0f77b1.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F2009",
+        "sha256": "266baed6f2ceeef19fb88b58dab53a4f96f2ae8b57fad74a00199b068573c637",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-design-and-bachelor-of-media-communication-172d32d809.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2057",
+        "sha256": "df72034099fe9976eb5c082bf319d7e7d235f1f395300706a6907f39bde6c739",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-digital-business-39ce857bfd.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2049",
+        "sha256": "50533ccba90bf47cd2265bc93aef512b118b5fd4fccb10f1cd15a8e4a7a5ca99",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-digital-business-c3fd056c85.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/digital-business-b2049?international=true#application-fees",
+        "sha256": "914d419cf0a9e0fdcf5909b0f49ca846cd17e262ef85ef020d05f0ba191581e9",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2049-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/digital-business-b2049?international=true#entry-requirements-2",
+        "sha256": "4ca1c9844c0b36e3c0b5ef9ff5fc1e7a1d746ce5dfb7c2d741c3e4055bb91bf7",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2049-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/digital-business-b2049?international=true#entry-requirements-2",
+        "sha256": "d612b64860d2fa794dda49eb71a65179be33c39a53b909785804bc0723409802",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2049-entry-global.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/business/bachelor-of-digital-business#graphite-tabs__3691806-05",
+        "sha256": "8a2e80e9cc1c828c5015bcc8f12df1f505496cad956fe6cd9cef2e7eb28e9b12",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-of-digital-business.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2051",
+        "sha256": "57ec72002614396286fc49fb009b889be05161000a595939dcedf42a59af29bb",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-digital-business-and-bachelor-of-business-117c404221.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2050",
+        "sha256": "dceef53c62cba8e52cbdb031be5e26960550165be3e7b362ed6195823b1f1675",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-digital-business-and-bachelor-of-information-technolo-a5ca2c013c.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2011",
+        "sha256": "e47573d5e2192272a1dbdf9f121f6333e699bea6fc673564e4bc151358b8fb82",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-digital-media-and-communication-cc092e2a4f.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/arts-social-sciences/bachelor-of-digital-media-and-communication#graphite-tabs__2593334-05",
+        "sha256": "4272c404cd04173997d87b2e1881cbe089947a06d8e99e3d1d6c808ce76f3831",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-of-digital-media-and-communication.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2031",
+        "sha256": "7db75e9d74b54466e37b694ac30403ec46f8db519145518ec451433949125467",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-economics-9f24762e8f.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/economics-b2031?international=true#application-fees",
+        "sha256": "65845d075a3905eff7e8e4c3a57ba5b4e232d084dfb29dc29a0811885fc8c105",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2031-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/economics-b2031?international=true#entry-requirements-2",
+        "sha256": "533ed7c27c6927ab1b64e53badffc2aaf49be86dd2e1925505856b059bde0b50",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2031-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/economics-b2031?international=true#entry-requirements-2",
+        "sha256": "7d4fe04e6caea41e426dbaa98df631d3ce132329a24aba71f1ab36ff040d6b84",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2031-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/D3001",
+        "sha256": "48b1f1bc3a6352fb329ec8555eb75229d2032c6d8af5e177559634c96e9e50a7",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-education-honours-7b2e197cec.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/D3002",
+        "sha256": "dae0960a0e8644d356fc2af4278c5355ca46726cbd03f2a1693f84f2c1626574",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-education-honours-and-bachelor-of-arts-5b143dc6e5.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/D3007",
+        "sha256": "0c8bea2bbea14676c5616ae8a7fa89db44d4c5e1e291d8fae4accb5eaafebd78",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-education-honours-and-bachelor-of-business-f77f1af4f3.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/D3006",
+        "sha256": "7124172336ffad98800169b31591dc50319c56d26b7cc3c9c0bebd715af106ec",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-education-honours-and-bachelor-of-fine-art-a3341621eb.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/D3004",
+        "sha256": "c14cf79a76728c6f18693bd82692bc9ca202b7878e4fa66daf9a766ab261ff5a",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-education-honours-and-bachelor-of-music-b578188e71.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/D3005",
+        "sha256": "f8b6ddb5b53d7d6a495e33bad48a387d25b0a2c7706cccc0dc046cd71de0d059",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-education-honours-and-bachelor-of-science-22eadca553.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/D2002",
+        "sha256": "317583315bfce6d47caf176946f4ccd9cf689afa81f0c208d1c2e2fef55b3010",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-education-in-early-childhood-a0be388c16.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/E3001",
+        "sha256": "3910fbc57215a15028ca15509717b93b194c36e552b3fc25f8d4ccf97f0267c3",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-engineering-honours-566d2c1fd7.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#application-fees",
+        "sha256": "57e5a9204b6d66caee364238e436cfcc2ee911cb820029fdddfb31de0856aee4",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-E3001-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2",
+        "sha256": "f7c7b6639b8e79c1f912ad49853b406d0ca71f733c19312a6cbda57cc8554469",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-E3001-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2",
+        "sha256": "78c68a20b537cd681b48a3e78ee06702a712175f9a46574fd93be87d9c7578fe",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-E3001-variant-bachelor-of-aerospace-engineering-honours-.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2",
+        "sha256": "f4919021f7a112e95c4602c65bf77e39f3293b759e1e80b1038912dc36d28b92",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-E3001-variant-bachelor-of-biomedical-engineering-honours-.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2",
+        "sha256": "bc1fe291f90fd2cf718c28f518fb56526e34cb60392fb44ca85e444d12955de8",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-E3001-variant-bachelor-of-chemical-engineering-honours-.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2",
+        "sha256": "c4c770871c27911286a41f54b9b69c881cdd19bcf8084b86b8a66b441469d5cb",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-E3001-variant-bachelor-of-civil-engineering-honours-.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2",
+        "sha256": "c4825f3acb52efb49d83f96e0b021cbb20dc1a716cd4c4c3571c4bac03406b15",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-E3001-variant-bachelor-of-electrical-and-computer-systems-engineering-honours-.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2",
+        "sha256": "1a7cf48d1dae81d7bc6f1f28371d48ace4b5199a8819b860b8e842abd67fbdea",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-E3001-variant-bachelor-of-environmental-engineering-honours-.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2",
+        "sha256": "b87c69abdf38e5bf2c7473c8a0a367ff350b61976ef6af1b0915cf49dff46c88",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-E3001-variant-bachelor-of-materials-engineering-honours-.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2",
+        "sha256": "3423fb321617d400cf44ae7c5388a8577b7a44a0479e5bae4cc90ba868879401",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-E3001-variant-bachelor-of-mechanical-engineering-honours-.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2",
+        "sha256": "00fecb012b5e2fafdca6075ce50d859f97df9eca0cf37dd9ba53b7a3136c20bb",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-E3001-variant-bachelor-of-robotics-and-mechatronics-engineering-honours-.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2",
+        "sha256": "613b47bd17fd9d69a6c526ac09ea806742970d62c797aa9eaa28e1bad8742c40",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-E3001-variant-bachelor-of-software-engineering-honours-.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/E3009",
+        "sha256": "acbc94ff424e486340533487590485a176025651f824082988712a145c5e89f5",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-architectural-des-c18f66029e.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/E3002",
+        "sha256": "f59adb34b431faa791aff1ee02abf7fb86a50e5e8c8f081f9ccd08ac02c2c6a4",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-arts-28db899180.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/E3004",
+        "sha256": "a86bf8ec9c56c293bacf47b6a942f80ae310350651adf67aad82d8a662d2b3cb",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-biomedical-scienc-ed61f42a72.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/E3005",
+        "sha256": "eb0198c157fc95f84b6833df720aff27f577560d89d2c777a7feea7dd472a7bc",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-commerce-4e1c3d9df9.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/E3010",
+        "sha256": "3aeb6e9456fe3d50236c31b36d0f12b02686ee2709beed461f05fe1efb102e14",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-computer-science-b0bb8e5477.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/E3012",
+        "sha256": "28c807f1c2d5bc3bb035ba848762d171f05ad3316a99dd359fe816f92148299e",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-design-38c6816ccf.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/E3011",
+        "sha256": "f3fcb55bbec73770c13fa80484682c35e7df5d8addfe8f4d3b35fdf622cf626b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-information-techn-d1c0be11d6.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/E3008",
+        "sha256": "88d259dad1a74cab21b82930a574339bb494c5342bfe2f66ea327adb73ca0d6d",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-pharmaceutical-sc-52e64f85ac.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/E3007",
+        "sha256": "34e722c1243d35220a11fc9fda593cf344f25e8359a4bfcc7f7e62bbad976fe0",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-science-dda2a1412b.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/E3013",
+        "sha256": "a416c1b28c2422c0da988300a801b2f6872de7e19d3384b72f70ba5d41cc61ed",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-engineering-honours-dual-bachelors-international-7635960a49.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2034",
+        "sha256": "dc877d917c42314ad0a20cbc98dc100118fb128515ecbc3fccf28840237f822b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-finance-dbb86cea4c.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/finance-b2034?international=true#application-fees",
+        "sha256": "bb0b53cd74b6a1aa24cc6775ec34eb68172a510f17a7992271c0472a9ca55c15",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2034-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/finance-b2034?international=true#entry-requirements-2",
+        "sha256": "2ee69477ee6c81170992fc962951ab5230e5dbf4f4aa59586d910c20c0aa7c2b",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2034-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/finance-b2034?international=true#entry-requirements-2",
+        "sha256": "0ccc447beedf706e6d94381b9d40c1c7b268f1644b9fb61eef1b00c27eb1e3c3",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2034-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F2003",
+        "sha256": "12f12505a50802beb81d3e25905d02ad2ea79382b3fbca20411442b9e3a503a8",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-fine-art-bf899f0d7b.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/fine-art-f2003?international=true#application-fees",
+        "sha256": "d1306d34a96ee17854bc3177f8a12a55a4694d36c95194cbadf659d5a598d906",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-F2003-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/fine-art-f2003?international=true#entry-requirements-2",
+        "sha256": "6fc80b2e5dcc01d2d71d6c801b61a25d087d661361ad47e133a75aa9a9ba586e",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-F2003-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/fine-art-f2003?international=true#entry-requirements-2",
+        "sha256": "d981bb1177bb72f567fabd9c7c77ecedc6f42e74181119a47aa65c35c0298b38",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-F2003-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F3701",
+        "sha256": "7b34c98905707f1076ec0b95cbd60aafbf2a3c809a3051808c3385baf0309961",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-fine-art-honours-e230c6b2dd.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/fine-art-f3701?international=true#application-fees",
+        "sha256": "8d74e9b6ab1714b6379a4287766321a445aa69d298b6a25998b7f02f3cbb70ec",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-F3701-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/fine-art-f3701?international=true#entry-requirements-2",
+        "sha256": "26c44c14867ee6ccebd2d0d1fc1740f088f149952105594bbd6e95104a8111c8",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-F3701-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F2007",
+        "sha256": "02955db01f8d2d63d46faacd5f279b7d50f295008b81a4e56febf3dafc8cc2b6",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-fine-art-and-bachelor-of-business-415a3edfc9.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F2006",
+        "sha256": "6f361754feac6a8ad98950bece530dca8e384a63f7d1431efa6e2f4387796f9e",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-fine-art-and-bachelor-of-information-technology-d282f76b3f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/F2013",
+        "sha256": "c1e88c7d616e3ccc7cde8d2bf0f1fb78810a32ff759d15cd3b81820f547d854c",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-fine-art-and-bachelor-of-media-communication-4276aa85ec.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/S2009",
+        "sha256": "c10898e52a9bcec6032ddf7e6b789a017abc8567a2f475103e6484437fa184b9",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-food-science-and-technology-b83466daea.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/science/bachelor-science-food-science-technology#graphite-tabs__2614296-05",
+        "sha256": "33acb918ca7a14d277507bc5afb4ba51973dce6f00fa8b9f41a18b9a33f18c85",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-science-food-science-technology.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2001",
+        "sha256": "ac452c6940132cb1481231810e25cc1a3cb0337316316239c26ede2a8a7df9a7",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-global-studies-72b81e0ca3.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/global-studies-a2001?international=true#application-fees",
+        "sha256": "7252ac9fbf2301a787dd70a1acca3f70d1f2cc946dc4eac3fb6ab18bff3f4010",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2001-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/global-studies-a2001?international=true#entry-requirements-2",
+        "sha256": "c8c5d8399b8ff0bc2164989d23922eed5df5e69f649945e3ba8132a2d3356c2c",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2001-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/global-studies-a2001?international=true#entry-requirements-2",
+        "sha256": "a2a2cb6221fcdb208cc0dbf609f04063ca3a92df29190dd4b723dc4378848c1b",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2001-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2015",
+        "sha256": "1363cc1d0ec8513f594af02c2e8e70bedb962896d78b28585bcafd1e806d9222",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-global-studies-and-bachelor-of-information-technology-933fb32c63.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M2014",
+        "sha256": "13abfc79fd8bf2c03fe3495c120cd67974cee02fd89c5062fe198492c5cf578a",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-health-sciences-a8a7625fbf.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/health-sciences-m2014?international=true#application-fees",
+        "sha256": "48df10a218ea6743bf22f9db86d37f36318043df9c5f7f259ac5d796d4db0058",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2014-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/health-sciences-m2014?international=true#entry-requirements-2",
+        "sha256": "55604436426f01ee9d5ed06f98f3130766f71307aadbb004dcbf5f1635b15d93",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2014-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/health-sciences-m2014?international=true#entry-requirements-2",
+        "sha256": "02f97f22e2a9c731a4852a32b658e4eb358a7ed310a43554e1c30443e5fa07fd",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2014-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M3706",
+        "sha256": "1264a3a68c2c10284da7cccf8ef388241d27fc0916922ed5446fe1e1273e1407",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-health-sciences-honours-9e13ef356b.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/health-sciences-m3706?international=true#application-fees",
+        "sha256": "8948a3ea4ed5b50e03552d516153f0a64e34458597bba81605070887a9295bf1",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3706-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/health-sciences-m3706?international=true#entry-requirements-2",
+        "sha256": "f9a48e42ef623719c8338de4d9fc0a47743327320e15fd647e53cfe4b74cb35a",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3706-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/health-sciences-m3706?international=true#entry-requirements-2",
+        "sha256": "ea56528bcc400e4f8d80065ec4eb5685c2fadf89a4fa9100d029357b1c911958",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3706-entry-global.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-of-health-sciences-honours#graphite-tabs__4114467-05",
+        "sha256": "5259aa6265cd5a483823d6be2865cbb01db2f55d7bec4c741f08ff6d4fbbfe97",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-of-health-sciences-honours.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M2016",
+        "sha256": "cc394f5a90edaddd522932eeba4099078a81e0a5b7775e7fc482dabbd1381786",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-human-nutrition-a5ea391aae.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-of-human-nutrition#graphite-tabs__2936331-05",
+        "sha256": "76feca787d7a83c5a95b18e4f621745173dd373f4d8a109a9cc90da1d8b645be",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-of-human-nutrition.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/C2000",
+        "sha256": "731845899aaa330ccc84ebb99c17019e2f2fd1e72af1c4169dacc89ff3f97af9",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-information-technology-392763d797.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/information-technology-c2000?international=true#application-fees",
+        "sha256": "4b03d1864f722401198ed52eff1ec749439640183a74c49ba7d688ff1735f662",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C2000-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/information-technology-c2000?international=true#entry-requirements-2",
+        "sha256": "65279caa0d5b6aa1e7bc71df57ed82e032ef747cef4010e30bf9b362e154b2f8",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C2000-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/information-technology-c2000?international=true#entry-requirements-2",
+        "sha256": "6034d733162eda6a26522394ec1c94ab09d1585631182c717d76861652ee889c",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C2000-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/C2004",
+        "sha256": "ac51a321ff819e0a633d16174c1172722ed13391af6f6c152e0fa3e4d1113b4a",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-information-technology-6fbba61e19.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/C3703",
+        "sha256": "2414e71c660abb872d259001f72857d00fec00076db90651a0da1e8025b3e0f0",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-information-technology-honours-958da21411.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/information-technology-c3703?international=true#application-fees",
+        "sha256": "e545559d1c0ee8c878fd3196dd1797e14ce92e99ff7d1284cffd44f585d6abd0",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C3703-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/information-technology-c3703?international=true#entry-requirements-2",
+        "sha256": "f28caaff54f223f802c6b5fc990c49a5b3895d4ea6130cb9761cafda3504a8df",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C3703-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/information-technology-c3703?international=true#entry-requirements-2",
+        "sha256": "75fa321b13a8acb2674f133276608dc7a181f5f9848b1090c0f691aa0405e57c",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-C3703-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/C2002",
+        "sha256": "04724a0b244e9445e42e313111d9fdb68cd115f9ca81b5c1a1896e8e02f0d445",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-information-technology-and-bachelor-of-arts-b8b0fe8d9d.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/C2003",
+        "sha256": "7dfa0314b125616598b2c859805fd7266c8d08ea77345c2e3da709eb37331f07",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-information-technology-and-bachelor-of-science-bbd35f3e36.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2020",
+        "sha256": "43dad35e4fb02892bb9f4d8a931d273654b30815121a3a9b6da9aea6d5a57d76",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-international-relations-4e9180991c.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/international-relations-a2020?international=true#application-fees",
+        "sha256": "12f87d03c7651959a8ac6467ebb9f9ce3de7f5bb1c64095f0d46c5a06d1c5b71",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2020-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/international-relations-a2020?international=true#entry-requirements-2",
+        "sha256": "126d61660420974e86403c44d18f68fa1e7a95aeb27f4a37ac4e7a1b12b64568",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2020-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/international-relations-a2020?international=true#entry-requirements-2",
+        "sha256": "b5d7c850a0c480464f190e92f2d4f96699de8cbe9d3eea116b15e9a69a6f8203",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2020-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/L3001",
+        "sha256": "af042e76662d556930c0694db408e9abaa47021d690775972d48f9e80f149416",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-laws-honours-57cd9e6c0c.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/laws-l3001?international=true#application-fees",
+        "sha256": "77d502541fe9f3f048d8ddb807e5db8d6622b613f3bb678250ab8d1dd5c9e53a",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-L3001-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/laws-l3001?international=true#entry-requirements-2",
+        "sha256": "9066b4023856884be45945fd1f97a6173926f83f6429403e150d821ff470906e",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-L3001-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/laws-l3001?international=true#entry-requirements-2",
+        "sha256": "22065b9f2ab07466664b965eb81e12d23ca004dcc56f89c4fce60fbdfa55b027",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-L3001-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/L3003",
+        "sha256": "0091ead6805f9ac2496e2f279a3fb1bc832f5bc96972ee23512701e9bcf1816d",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-laws-honours-and-bachelor-of-arts-cce5990e54.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/L3004",
+        "sha256": "47d403fc618ec9a2e683f8b0af2a827c9306cf1690c63fc9cf1c7a24cd72b4ec",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-laws-honours-and-bachelor-of-biomedical-science-fbb0218ea2.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/L3005",
+        "sha256": "c567b28b23d3529fde4c4f7bfac586c25a26df7cb7a415452d8364dc842a44e2",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-laws-honours-and-bachelor-of-commerce-edbad8e366.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/L3011",
+        "sha256": "33f6840ad0a4a7c0887c76315db6231b8a2a56abcab6569cd7b2abe14aa7bc08",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-laws-honours-and-bachelor-of-computer-science-92699e98f8.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/L3012",
+        "sha256": "6e045a44c0ddd81d0c824c72ef93ef46cdedc37d4480224fa0f829cc3b2edce1",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-laws-honours-and-bachelor-of-criminology-f3bef11f81.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/L3002",
+        "sha256": "74129d0775e2d44008686b21ed05e4d5448e753a10651740fe61a0d6a6c8e5ca",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-laws-honours-and-bachelor-of-engineering-honours-bc1f2dc7d6.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/L3009",
+        "sha256": "c64f8f4715df21bb3befc553c54b7387c4891ac65b28145b9d5de8dd478e04c7",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-laws-honours-and-bachelor-of-global-studies-929e8e5993.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/L3010",
+        "sha256": "22483c10dc1e667de410d85d5a57e9896fc5923f738ee26ce6bd11ae245033ad",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-laws-honours-and-bachelor-of-information-technology-56b553bc0b.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/L3015",
+        "sha256": "595766faac5bc57f6ccc9d6d7bbb5a799cd7a235a9089968677baa7f4fc09a69",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-laws-honours-and-bachelor-of-international-relations-1f2d228f41.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/L3006",
+        "sha256": "5b45d314271e98978675831ec60a77faf8582d831713f2d04122aa96030c7672",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-laws-honours-and-bachelor-of-music-7854a2b4e2.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/L3013",
+        "sha256": "aad6891cf8eeeea03490850155dbc8ddea51456d829bbaa23ef0496d19d66540",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-laws-honours-and-bachelor-of-politics-philosophy-and-4cdd245038.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/L3014",
+        "sha256": "f98d3fd10575eb2919496cbb06a7e89bd7e9e34baf7a0980c9de2175934cc9ec",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-laws-honours-and-bachelor-of-psychology-270034b3dc.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/L3007",
+        "sha256": "de3ba70af24e4c8590da76eb2c7c839727b3cd5b699d699cd34f449fd6805769",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-laws-honours-and-bachelor-of-science-04497d3ab5.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/D2003",
+        "sha256": "437268bb94bbaeeaa721dd98a80d35b40d616d2728a949a5daaf6ab156f4af1f",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-learning-design-and-technology-fcbf98ff93.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/learning-design-and-technology-d2003?international=true#application-fees",
+        "sha256": "0ac99421ea1d1fd66295da1dca246e922c3bab0f9c64cd97e30632f57adf6718",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-D2003-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/learning-design-and-technology-d2003?international=true#entry-requirements-2",
+        "sha256": "99343dbdf58a847607ba52925e000558cb1b61818b67aea365b63c81e68d021a",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-D2003-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/learning-design-and-technology-d2003?international=true#entry-requirements-2",
+        "sha256": "ab369615d51af449a08b62170b2b7a868c6aaafbeec41e1ff0e27b0dc894f447",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-D2003-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2036",
+        "sha256": "52ba7a19d1a54cf854ddc096705d716ce3699e60d5e8190c63702f825b8c4d04",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-marketing-6c24ed6546.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/marketing-b2036?international=true#application-fees",
+        "sha256": "2b364246dd0745b5be0c0f1f0c6a1984bf86ebb94839b79b24929885b88a7226",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2036-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/marketing-b2036?international=true#entry-requirements-2",
+        "sha256": "1d4f06f778bbb2c16ccfe6bd9059ae478d906280c9949c54cbe5e5336762f73a",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2036-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/marketing-b2036?international=true#entry-requirements-2",
+        "sha256": "bc6058b8c14134f37ce91710a5c6b987850fbb1ab8b5758fc4f4fe8ae091ef67",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-B2036-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2039",
+        "sha256": "ab5f4a682a1ad8de7c6e6a8c5f84323dc9c54e6665dc6f9e3e7782f2212eb36c",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-marketing-and-bachelor-of-arts-02689db4d8.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/B2044",
+        "sha256": "d001db651497e5225aa9f88649d6c80e6965809729769d44ea365e385849b21c",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-marketing-and-bachelor-of-media-communication-601d2b0cb9.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2002",
+        "sha256": "a669d331e76c6eda251b84e44d88de0880b0677a5dd276a44e06cdc2f25fbd70",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-media-communication-526ac83fdd.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/media-communication-a2002?international=true#application-fees",
+        "sha256": "29705f481e38ef325d81521228d84b7144609ea1eb53010935959ad7a3de99ee",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2002-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/media-communication-a2002?international=true#entry-requirements-2",
+        "sha256": "17f970cf73ca3f5b74fc0a8bb94b773451c4376dbcea0f9ddf54ab9b046e6eb0",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2002-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/media-communication-a2002?international=true#entry-requirements-2",
+        "sha256": "c2f05308a6520eaeb774fa1ac41a443c1f2b4e384cab7281ad7319b9344a6c0d",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2002-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2021",
+        "sha256": "4bf4f7d620ebd301eec44c6c560892c3092f0f5d47c66ed038c557d04c0e7b3e",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-media-communication-and-bachelor-of-music-89b1d19bec.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/S2008",
+        "sha256": "c66c2d01fe2972fd7d3440697348bd8c87a3f51e9d783b67d83558351852a958",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-medical-bioscience-4f42ea80af.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/science/bachelor-science-medical-bioscience#graphite-tabs__2613596-05",
+        "sha256": "c59d4f50b3f8a3a993863c9aa0480091ee5fefdee1dcc6d2d19007dc57972dc7",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-science-medical-bioscience.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M3701",
+        "sha256": "61d77902ab1136dac5e62910acfd2088432fc8f7d54c56d7af9f58ff6d937ed7",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-medical-science-honours-e05f4f9648.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/medical-science-m3701?international=true#application-fees",
+        "sha256": "f8e45fc3cdddccadacc2397359f0587367a86434cdf52892424668aab4853041",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3701-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/medical-science-m3701?international=true#entry-requirements-2",
+        "sha256": "cb81cdf20b23d90b3908089e9d8595db2ce7e9678d80429bbc716d7c436186a5",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3701-entry-global.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-medical-science-honours#graphite-tabs__2610471-05",
+        "sha256": "d6fa11b86821c013c651764309098ee3869364bddc2bc28c33d33fab7d61a6fe",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-medical-science-honours.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M6011%20M6019",
+        "sha256": "86db02cb63dfb317faa4e282e530c7f4faa311eefd8cbb151796a0f85e8007ea",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/M6011-M6019.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/medical-science-and-medicine-direct-entry-m6011?international=true#application-fees",
+        "sha256": "417fc3b11d1178268578ca5531627b1ee79a58d5a07131eb9b71e8212b97c115",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M6011-M6019-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/medical-science-and-medicine-direct-entry-m6011?international=true#entry-requirements-2",
+        "sha256": "35cc3d3c1404a415c8ba7868fdd8b0454c47e0216fa303a92213f849104ed5ed",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M6011-M6019-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/medicine/medical-school/direct-entry/international/entry-requirements",
+        "sha256": "32ca0dcb963369e139220f1de2952b58b25581637a2be81854332423bd409daa",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/medicine-au-entry.html"
+      },
+      {
+        "url": "https://www.monash.edu/medicine/medical-school/direct-entry/international/applications-fees",
+        "sha256": "c29dbaaa945510c9cf9f66c21dbb98f9a286542393693ff4b7f7ae28cf896654",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/medicine-au-apply.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/student-services/financial-assistance/undergraduate-scholarships-and-bursaries/merit-scholarships",
+        "sha256": "6811537861c7f7ee3b2857c784bf6f86e2d5e4edab98d1622d813deb2e276ab3",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-merit-availability.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-medical-science-doctor-medicine#graphite-tabs__2608997-05",
+        "sha256": "3847b862917eb0d7e34d752f9633ae4e44e9900dcb77ecd98e8e3417a2acf990",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-medicine-entry.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-medical-science-doctor-medicine",
+        "sha256": "38ffe22b9cbf0bf3508aedcabcc52fd5d5ba7b19ee74684a43966c7b0bc67fed",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-medicine-fees.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M6018",
+        "sha256": "2e3272f632b734061f27743f8b1ef27b8a0b44afa1941863a75a2535fe643cc6",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-medical-science-and-doctor-of-medicine-df05ccf519.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/medical-science-and-medicine-graduate-entry-m6018?international=true#application-fees",
+        "sha256": "53682586e89363f2d9a753546baaefe6eef2ecb92b22d1376314f75bd91e8719",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M6018-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/medical-science-and-medicine-graduate-entry-m6018?international=true#entry-requirements-2",
+        "sha256": "3f596b49c9587f62247c6f6659a32b2fe9bc0797d79fa13936c9b03f03fd22ab",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M6018-entry-global.html"
+      },
+      {
+        "url": "https://www.monash.edu/medicine/medical-school/graduate-entry/international/entry-requirements",
+        "sha256": "91bc9ec0d697310510d1735a5f8069fca68847d43dba488d2306f4118c496ae8",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/medicine-grad-au-entry.html"
+      },
+      {
+        "url": "https://www.monash.edu/medicine/medical-school/graduate-entry/international/applications-fees",
+        "sha256": "fa8b7fdfc9aeea5b7388183d929c3945e717d0a138d1f924ee0b2cddadf8dbee",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/medicine-grad-au-apply.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2003",
+        "sha256": "f08aa0b29784b371e8bd47785c20e464de58fc327bc3c28850f3ba03e62adf22",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-music-e2f5e98ac7.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/music-a2003?international=true#application-fees",
+        "sha256": "017e8223b260dc268d424cb65bcbfb50a7d1eaae029d5ea96f03b6c0440aa725",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2003-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/music-a2003?international=true#entry-requirements-2",
+        "sha256": "f63831d30d6623933057e2aaa2ac598606f9503de1bd12ab52a6f45a8b262211",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2003-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/music-a2003?international=true#entry-requirements-2",
+        "sha256": "4ea79f55d0419e643c37004d09f7bc7f216b6f55150fb9b0f3e5b5b9013adbcc",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2003-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A3702",
+        "sha256": "a41cc71ee8f89efb0171e4b5e164e824d159a75ebd78ae2a314a528ed09752c0",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-music-honours-e6ef984465.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/music-a3702?international=true#application-fees",
+        "sha256": "57466b85ee1d306a7fe1826e830d0decde3866e18a975ae5867caa70aa23bd48",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A3702-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/music-a3702?international=true#entry-requirements-2",
+        "sha256": "6910fb1c7e9f935daf489ca87400113958a537b178dc71f60da0404931d45296",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A3702-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M2006",
+        "sha256": "3c856d279e9edc83cb9ce4ad801bf63147e12cde1f691d3b73f411832f5a6477",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-nursing-5433f13106.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/nursing-m2006?international=true#application-fees",
+        "sha256": "a897f3f36b190aef91ca33671e5826b410abf700e3ca4b93c8dd126f7e4f72f8",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2006-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/nursing-m2006?international=true#entry-requirements-2",
+        "sha256": "ec4a7b6288a55821ac4319d335a685cacfa2bdcaf3743969f64856030c9327a0",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2006-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/nursing-m2006?international=true#entry-requirements-2",
+        "sha256": "797cdb3ed3efc4e9ee6b2ba02d37d426d6d86869aa5a37352f72aca5f05ec4eb",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2006-variant-bachelor-of-nursing-clayton.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/nursing-m2006?international=true#entry-requirements-2",
+        "sha256": "e0cca8eb05bcc0ffba7f35ba622569ef52b4246f7e595f05f457f9c9e26aa7d8",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2006-variant-bachelor-of-nursing-peninsula.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/nursing-m2006?international=true#entry-requirements-2",
+        "sha256": "5ed40d2345aeebabdf63ec5ee6ba271744e98097f13f87f35a67b79bfdd554a8",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2006-variant-bachelor-of-nursing-scholars-program-.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M3704",
+        "sha256": "3e4c79471bdd2b9f996ca4ece17b97f5235e7c721c4fd20aa7076cb3f5fac879",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-nursing-honours-b9e49e8717.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/nursing-m3704?international=true#application-fees",
+        "sha256": "2190de028349764079b544fc3fd637e694b2de76de9ff8b46590e641bcd33820",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3704-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/nursing-m3704?international=true#entry-requirements-2",
+        "sha256": "4a307ee4921d95344dbb109b3840dd979edb990145dd50b9c27c6705c93167c1",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3704-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M3007",
+        "sha256": "4da385dca9f8921b48fca656bcd8d91d64fcc5fcb629ae248b5d35bf7c074d25",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-nursing-and-bachelor-of-midwifery-honours-2528d7c28a.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M2001",
+        "sha256": "109bf549bbad8aaa131643c511c0e3e6ae3f4263fb9800a9eaafd9c340a5b939",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-nutrition-science-1595b794e7.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/nutrition-science-m2001?international=true#application-fees",
+        "sha256": "0da1fa9d1d44d14bbcdeff60f4619613ae8110def3446fc36b316a4dba1fae3a",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2001-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/nutrition-science-m2001?international=true#entry-requirements-2",
+        "sha256": "c3de73a3269458f35f4ec26f50a6e98255655847a3580124afa6b6d6042c559d",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2001-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/nutrition-science-m2001?international=true#entry-requirements-2",
+        "sha256": "20bb9d78a3ce59d87fb49b285d780ab4e9e198aad0607b5a8afab3384b448896",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2001-variant-bachelor-of-nutrition-science.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/nutrition-science-m2001?international=true#entry-requirements-2",
+        "sha256": "10426b3b10f222d92b9585ed8869ab76f521460506c1b35da7271f52faebbe3f",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2001-variant-bachelor-of-nutrition-science-scholars-program-.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M3001",
+        "sha256": "8463e241d5af5c2a760c882c1458e44c4128e66555d95e04ae25b95637cf948d",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-occupational-therapy-honours-9935e87187.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/occupational-therapy-m3001?international=true#application-fees",
+        "sha256": "f270caa65aaa914c75931aa89db79f1b484ecf010378f62952bbce804e54e0f1",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3001-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/occupational-therapy-m3001?international=true#entry-requirements-2",
+        "sha256": "d44011b101f44684415357965cb0c07f58bf1e321b5efae931c36b6621d4df8f",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3001-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/occupational-therapy-m3001?international=true#entry-requirements-2",
+        "sha256": "6ceeed02a67f17163c3bc22b33112684eeb4fcf53c7efb3843b6082a679fe82b",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3001-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M2011",
+        "sha256": "374b3c1696a3b08610c1068c7f499f1f3f7ad6b5684324e6632035f4b348ece6",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-paramedicine-54b58e49ce.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/paramedicine-m2011?international=true#application-fees",
+        "sha256": "1d93ccb28d62b5f132f2f47e430b09a9ed01d01cba8baa40ac207f4a5734fee5",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2011-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/paramedicine-m2011?international=true#entry-requirements-2",
+        "sha256": "33074516990e8851e64dbba62b2d8c2bb5d1cd8a3fb5e44b84a9306ac1038ef3",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2011-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/paramedicine-m2011?international=true#entry-requirements-2",
+        "sha256": "dc009f880fd28e8990c6fd4dc1c9014cea13a9769b8c566bec873d8a1e8f55ee",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2011-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M3707",
+        "sha256": "56f2982a6a034613f7b36212fc4b9a441477ddfb73bcf2214de63fcace4e2cc0",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-paramedicine-honours-2f091e89bc.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/paramedicine-m3707?international=true#application-fees",
+        "sha256": "4129a01b295b687d1712bd0361c4170f32db8af98749fe388893c0a3e91ed770",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3707-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/paramedicine-m3707?international=true#entry-requirements-2",
+        "sha256": "e3091627c4d78e7f6b8bc56494aba7d92ccbc7a133d591ae5d9771b786049087",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3707-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/P2001",
+        "sha256": "049c55a976e92c1e33f362f3435938cd616234363bb78214cecc51549ec4ed03",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-pharmaceutical-science-e6ad375c81.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-p2001?international=true#application-fees",
+        "sha256": "af585a5586698551570746e93b5c4e3a715b6663b4a7c8b09eda0ad2d1d73c7c",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-P2001-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-p2001?international=true#entry-requirements-2",
+        "sha256": "1f4f48d71689fc0f8995bdc80cdf49aaf2ff4675a827248da6ef2eeb656f54a4",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-P2001-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-p2001?international=true#entry-requirements-2",
+        "sha256": "1c161a5ce99a0cb6d6d70fffbbef1a400048e5f9ecb18b8c612e6d913eb37333",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-P2001-entry-global.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/pharmacy/bachelor-of-pharmaceutical-science#graphite-tabs__3283649-05",
+        "sha256": "7ed396e5858f8cf5611eade7d0a9589f1867987aa9ba6fa5570303295eaaa6e8",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-of-pharmaceutical-science.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/P3701",
+        "sha256": "a05b3ab4d6f28aeec86205cd5428ae395a26ef8489fb1c41249fcef126b670fc",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-pharmaceutical-science-honours-0b6108c9cd.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-p3701?international=true#application-fees",
+        "sha256": "ce0237d7bdfeefa4e1263dff04b80fcfda69fa6647088a3760844d665e14f41e",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-P3701-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-p3701?international=true#entry-requirements-2",
+        "sha256": "e877abf09ba47efc0c83de0c9963cc2bc47e47717824b2d3ea33355d03221b67",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-P3701-entry-global.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/pharmacy/bachelor-of-pharmaceutical-science-honours#graphite-tabs__3488159-05",
+        "sha256": "c0a0ca2d54c4ba403dca04181e0e7b5fa63e1b93be68521a86c1b0f24f8dd51b",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-of-pharmaceutical-science-honours.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/P3002",
+        "sha256": "6e1f7466d56c278349c30253e158137d5f7bb38e99eb42fb049c6adc264ebb78",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-pharmaceutical-science-advanced-honours-c228fc0024.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-advanced-p3002?international=true#application-fees",
+        "sha256": "e8c85fd0502985c9131bb7e183d14b2121f1c29f5419e60f6c62f255ffd5caa8",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-P3002-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-advanced-p3002?international=true#entry-requirements-2",
+        "sha256": "d1b8e15fcf3b967fc798e921785867e9de64519d31946533ee64e14c4611502d",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-P3002-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-advanced-p3002?international=true#entry-requirements-2",
+        "sha256": "e58f29b7306d8ede4328a02fdd52ad0de74298bece0517243cbca21b445610a4",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-P3002-variant-bachelor-of-pharmaceutical-science-advanced-honours-.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-advanced-p3002?international=true#entry-requirements-2",
+        "sha256": "cb0d711049b9c5185b6ed85705152591bcf4a686eba13f3f7aca4436d56c5643",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-P3002-variant-bachelor-of-pharmaceutical-science-advanced-honours-scholars-program-.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/P3001",
+        "sha256": "a74deb77c18d01cba5a70caf279a24a94b0b03ba8b5fe52a6b91db9c58158e9c",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-pharmacy-honours-035358a189.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/pharmacy/bachelor-pharmacy#graphite-tabs__2611662-05",
+        "sha256": "eac52a1708a945d4b7f46c1c3544d842c59ec84d064905c745faf24a330c2d13",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-pharmacy.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/P6001",
+        "sha256": "b057671737dd7620b730444b594e6d71289a36500588bd56ff82d2cf89031921",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-pharmacy-honours-and-master-of-pharmacy-f5060bbca6.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M3002",
+        "sha256": "e37c6f33b39d74d276e106c6fc51dc8b7f44801b53ad889676d270561322dd05",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-physiotherapy-honours-0caef4998c.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/physiotherapy-m3002?international=true#application-fees",
+        "sha256": "6676148e83acf5127eac2930eb60798181dba629c15ffc58d8389c9ba10fa99a",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3002-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/physiotherapy-m3002?international=true#entry-requirements-2",
+        "sha256": "c01baa1442ec4f859930440d6b2ab1cff9a7ed5f0a7b83815f4d002e583874c0",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3002-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/physiotherapy-m3002?international=true#entry-requirements-2",
+        "sha256": "4678721f0871e40ae2fa78d939aae32636a33a6d073d1c86e74141e54b5eab0d",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3002-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2010",
+        "sha256": "7d2233fa192e09d653765f20550879491bdf94c0534c8d193a75a1f464872aca",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-politics-philosophy-and-economics-d7614aed3c.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/politics-philosophy-and-economics-a2010?international=true#application-fees",
+        "sha256": "148d534f502fe1d31abe02ee295095597000a757cc309d26a233bd90ea218a4f",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2010-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/politics-philosophy-and-economics-a2010?international=true#entry-requirements-2",
+        "sha256": "a4f87bea5507f5338ada575b336c4230e2030a3eb93e6a678716fbc15ad63077",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2010-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/politics-philosophy-and-economics-a2010?international=true#entry-requirements-2",
+        "sha256": "afe947882328b615f280d90e7ba19832b2b3ee16f7552f28212330e962fcdb94",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-A2010-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/A2013",
+        "sha256": "c1db517bd33bbb3fa7a51cb896ce7d794c4cfd40034e6bb11168f74d79f000da",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-politics-philosophy-and-economics-and-bachelor-of-art-4b06eca3ea.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M2018",
+        "sha256": "e56c2097bff7c9c073189d64f8d24d357107407273d7f1278cef5ca6760eb4e4",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-psychology-5b21c06ff5.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/psychology-m2018?international=true#application-fees",
+        "sha256": "d89bcb718870a5a0cf1a25b3b67339786cb8531874a3db75f8c545e6050dec26",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2018-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/psychology-m2018?international=true#entry-requirements-2",
+        "sha256": "f4670ec5a817741436de94274b21417bf275c216973498e0e0e4e5ed7b869745",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2018-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/psychology-m2018?international=true#entry-requirements-2",
+        "sha256": "d31f4c8f1eb58357a31105b4ac2b83d193229a3a0bc707bba0149c588fcbfe90",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2018-entry-global.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-of-psychology#graphite-tabs__3011150-05",
+        "sha256": "aa7bad60603f24e8c760a8dec34c996d8df120678c1a7a2696c6a61719cd423d",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-of-psychology.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M3708",
+        "sha256": "ee4fdc367e28efe12722d93bfc916d5f3074c071156293a25ab5c25785237bf0",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-psychology-honours-c3e5fa4909.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/psychology-m3708?international=true#application-fees",
+        "sha256": "c5897f17701a03e763f4e684c3f6c4fe1a4f50523fc24b82f89a54d073cefbf9",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3708-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/psychology-m3708?international=true#entry-requirements-2",
+        "sha256": "323ed90c17c84c0f770183a309196aa94e2108418f6c7920427040c4c2e9d92d",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3708-entry-global.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-psychology-honours#graphite-tabs__2611604-05",
+        "sha256": "b9036aba92b60e2238c25fedebf0bb2b383dbd348f346e5507e8dd469688758e",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-psychology-honours.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M2019",
+        "sha256": "bbc0330baac0d75d32207ccd2a30bdba8a642aa1fd43257cfbae888e08af6f21",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-psychology-and-bachelor-of-arts-68aa790f8c.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M2020",
+        "sha256": "2d198ac82e38e160aae6e68a0f04d0065539e3c3953bae418c5596fb04d99db4",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-psychology-and-bachelor-of-commerce-995bc47462.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M2021",
+        "sha256": "d5b0c0d0e1e6b6deaa700359b7be5262c74918d79f1ce6b91f12f213a87c571a",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-psychology-and-bachelor-of-science-e0a561c349.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M2015",
+        "sha256": "e9ac08fda3be839d50cdfa93fb1c2562c9e027ffae963efe5d4ab1bc842d1866",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-psychology-and-business-4ea04029c0.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-psychology-and-business#graphite-tabs__2611550-05",
+        "sha256": "8ec3a444f230982a0d876fbe124b471c58933275e41291d8bae568df147ac74f",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-psychological-science-business.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M2012",
+        "sha256": "4e2ebf8f1b17adac8dbe810eac6082eb2106c41bf3ac83bfabe0ee9bd6200d0d",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-public-health-ea337700e1.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/public-health-m2012?international=true#application-fees",
+        "sha256": "b5bd98b9d9c28c7a8135dfaa2801cb29ff0a99f4752706034c42cacb825d9d2d",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2012-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/public-health-m2012?international=true#entry-requirements-2",
+        "sha256": "ba2c341ebe78575b20a8765a28fb52ca6b9b2a8528e5617e1a95ea95e588da82",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2012-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/public-health-m2012?international=true#entry-requirements-2",
+        "sha256": "9552dc66bbd35c8301abc6184bc9c1875fca4396570fa66f21f26aa52ab6de23",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M2012-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M2017",
+        "sha256": "6ecdc8fd0f5b3969e2ca5dda2f5d8051d96840e7a168675af09bda659d24c64e",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-radiation-sciences-e68a5e1af9.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M3006",
+        "sha256": "fa2142480b57f31adedc6e4864821741ef31e4810ced6589125f19ce33b0e51d",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-radiography-and-medical-imaging-honours-2e11150fa1.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/radiography-and-medical-imaging-m3006?international=true#application-fees",
+        "sha256": "49dc586fe1bf195efdc189e9f24f7fd84b489da65338bf230f3c007ed6d3c364",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3006-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/radiography-and-medical-imaging-m3006?international=true#entry-requirements-2",
+        "sha256": "fa2e08f785cd5c51e2aa5a30824f49fddf5ae66ff4558c6f6a229aa93bca0df0",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3006-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/radiography-and-medical-imaging-m3006?international=true#entry-requirements-2",
+        "sha256": "df492e448e79d654d7dc0f52898ce74ff17d98aa10c2e42a0c0a131db03bcdb0",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3006-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/S2000",
+        "sha256": "b9e29b7b7eb68b00508533453759d2bd5b1c88282b4f7b87db1dcce924437d08",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-science-c8702c8dbf.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/science-s2000?international=true#application-fees",
+        "sha256": "07793ab5e9e153a0e002a506a21e35533d10fe6e70d08e9772472782a91a1659",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S2000-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/science-s2000?international=true#entry-requirements-2",
+        "sha256": "80637f562781ba82a689396908d6b20760f91a7c78e7f4748b534ec0a6ef93e6",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S2000-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/science-s2000?international=true#entry-requirements-2",
+        "sha256": "b183616c2c5e979662d2845ac3d808efcc1decc2a1bc609021b88fc7edcb209e",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S2000-entry-global.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/science/bachelor-science#graphite-tabs__2613230-05",
+        "sha256": "51e3b494c376b6376bd4a72012cb29a3608488818a821cab93fe0057b1fcecfa",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-science.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/S3701",
+        "sha256": "957f555e56e120de2347b28651391224f6861172005a692878d98150e1e7f837",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-science-honours-923b22b6f7.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/science-s3701?international=true#application-fees",
+        "sha256": "e2b7127bd7d58b56c516a33c8fa01d0c9ede9e7abd1d30d251040c48c21f6914",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S3701-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/science-s3701?international=true#entry-requirements-2",
+        "sha256": "2c35df1ac878172b3eaa3919270573e99a50a96cb6b97976ebe793bf28d9de37",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S3701-entry-global.html"
+      },
+      {
+        "url": "https://www.monash.edu.my/study/undergraduate/science/bachelor-science-honours#graphite-tabs__2614529-05",
+        "sha256": "a41190cebad8451a95248e0ced35ddb6c3300ded38c8e193e5a181ccd2fb4763",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/malaysia-bachelor-science-honours.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/S3001",
+        "sha256": "b65275ffec208ac0076273cf9f28d8218e94e3513378d899fcfb922836b6e5a1",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-science-advanced-global-challenges-honours-ff96f61ff2.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/science-advanced-global-challenges-s3001?international=true#application-fees",
+        "sha256": "e17a9b903209cca662b1aac915bfacbb75d82dab0ce1b37c7227968a2044edae",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S3001-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/science-advanced-global-challenges-s3001?international=true#entry-requirements-2",
+        "sha256": "7313c01bc00aa0556ff4891e15755e030b02fb056460e10dce2b7f3cc36d4b1e",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S3001-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/science-advanced-global-challenges-s3001?international=true#entry-requirements-2",
+        "sha256": "8353467c2f6a185314a5a78539397fdd778b9267336d1a976f80419713beaaa9",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S3001-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/S3002",
+        "sha256": "59b083fc20911642f7e2795901645e5fa8014b0d6bf0169fb8db47b9cedfd41d",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-science-advanced-research-honours-44d27f4159.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/science-advanced-research-s3002?international=true#application-fees",
+        "sha256": "d092be1dedec6eafc0cdda2d9aaaca0aaee7d06ec4f6158ffcc07e6d40e29a88",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S3002-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/science-advanced-research-s3002?international=true#entry-requirements-2",
+        "sha256": "ddbaa94596b4b6dcf724614686acc28bfbeba5625833ec0f6cad0ae8e9f6edf3",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S3002-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/science-advanced-research-s3002?international=true#entry-requirements-2",
+        "sha256": "1204d671c03dea459470ef5e43fa81d527c3c4490b22a06a92c82d90e8078a6a",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-S3002-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/S2006",
+        "sha256": "f2fac40acb31d7b77ea8f89d23841a5dfeabbb313cdc745d28fb38689f306903",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-science-and-bachelor-of-arts-54e226bdbe.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/S2007",
+        "sha256": "0d3cd1030acedec2a6892c41ddf6f15df52de5d9552a176cca4f5be1fa2804e1",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-science-and-bachelor-of-biomedical-science-3d29392009.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/S2004",
+        "sha256": "b0e126a06b4a2a9feee5e0581211cecd50c133b87397fc23f0e3546405d29e1b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-science-and-bachelor-of-computer-science-6776c66f95.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/S2003",
+        "sha256": "5b3a262c477f169f02d0ee5c24a910dfc6e71d4211a72788b10a90d96cdbf9bb",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-science-and-bachelor-of-global-studies-63f77661fa.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/S2005",
+        "sha256": "1a470caeff17683ade12dc3bc76077ef225d4fed5df5cb8d8d9b83a9fd27615d",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-science-and-bachelor-of-music-dc520c13f6.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/courses/M3008",
+        "sha256": "9c85536f0b3cd9be306059192c6286a394d28c4d2496f631e29eb256cfacdfa3",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-bachelor-of-speech-pathology-honours-1cb9be4f9f.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/speech-pathology-m3008?international=true#application-fees",
+        "sha256": "eaa7628cf587a3523a319efb026d8615b7873a594a12edca385dbc106ff24c51",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3008-fees.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/speech-pathology-m3008?international=true#entry-requirements-2",
+        "sha256": "fe82e96b1fe4585cd0822f276bc63bba47002c1db09a79b149fca1792cb424a3",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3008-entry-china.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/speech-pathology-m3008?international=true#entry-requirements-2",
+        "sha256": "90865bc7ea9051d566da2632f09c8031feb5f89d9311cd850d18206fa23cfdce",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/future-M3008-entry-global.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ACCNTCY05",
+        "sha256": "9c7665290cb8ff378ae816f09155e857edee635dbb9e8f279c47b849d0205bd3",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-accountancy-b0aa89eda8.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ACCOUNTG07",
+        "sha256": "246d899cfaed2235350f7adb846bfe40d7e1b7479fd03180aaebded1700c4599",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-accounting-f5a6e4cd94.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ACCOUNTG05",
+        "sha256": "9756b7cf3c252272b13ceba27645983fd0ecb9579bcefa0c2bae037bfe6fe95c",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-accounting-2a19b7277f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ACTURANL04",
+        "sha256": "e6c9bbb441cd389101cd395494daa21d5643261908141466c685753e3618796b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-actuarial-analytics-d39fc13156.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ACTRLSTD04",
+        "sha256": "08b25dc807974caf014273e15d58c0efe8fb49dee4c9d887e6c8ac3493303021",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-actuarial-studies-fe61bb44cf.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ACTRLSTD07",
+        "sha256": "dcbebe8b37e179a3a4629ad5fdf63f631f483506425e3fa9c9a40c835fc96353",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-actuarial-studies-cb57eb5f57.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ACTURSTD04",
+        "sha256": "36fdd91e7eefdc71790543797817bd04e13453f291a8f2d4fb4c33fcaafc8697",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-actuarial-studies-b148c080dd.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/AEROENG04",
+        "sha256": "96cf735c1cf0a17bbea849721c43e1484c8d80d143350678efcc615f4f99c62b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-aerospace-engineering-3d6e567e24.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ALGSFTWR01",
+        "sha256": "44837326cb74aa70762007b094d390a3e4039a7639fb88413b51002e5e2de1c6",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-algorithms-and-software-ce2987d2ef.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ANDEVBIO04",
+        "sha256": "0049ce2b2923077443b3660c52f05f13dc93b0e103e5998f4c3642b87febf080",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-anatomy-and-developmental-biology-dbf073aba1.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ANTDVBIO01",
+        "sha256": "b6819526283c658241d82df004c5d179751cbad44e7279860f643e8b0677b57b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-anatomy-and-developmental-biology-90cb2fcd08.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ANTHROPL11",
+        "sha256": "c4c09d2c4c4575c1666f77c9faa59c731cfefc879d94eae6c4f4b112f0ab4c36",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-anthropology-76fc5c885b.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/APCYBSEC01",
+        "sha256": "995fb03a643ed4ac7c6c7b5182b51e2a1cc59a70b0a1269838419337a53f8e49",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-applied-cybersecurity-f9752ef20b.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/APPLMTH07",
+        "sha256": "20982f4736c8c06fe02cb6671b445389bb7de8b1a42edbce399f812ea563a371",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-applied-mathematics-960004eb3e.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/APPLMTH05",
+        "sha256": "026c9a44383edae743c2dbbf026ef31a45676830bb75806e09948c4f98d817e4",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-applied-mathematics-100a5ed1c6.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/APMICBIO01",
+        "sha256": "2346981bb4a44050b7d9b76acb2d448c743caacab945b479ee1990f6b9b56783",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-applied-microbiology-99b8b36a15.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ARCHISHN05",
+        "sha256": "a74b312481124ad284b8bad73004d0f0c603153e5940ac7cd0f9988ec733f5a7",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-archaeology-and-ancient-history-8c684fc8e9.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ARCHANHI01",
+        "sha256": "edc15b32d1bec2d8d620debc89da799fdc7be71317b35a3978ba415961831d28",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-archaeology-and-ancient-history-c81b456fd6.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ATINTELL02",
+        "sha256": "6f80b4254184fbacf1267e92e395049bdb20a182683f3fb6da8135b5ba33a34a",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-artificial-intelligence-a748104208.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ASTROPHY04",
+        "sha256": "53562ad857dd116b5bcde7ca8429f24ba963aa5d611c73f3db97b7fd23c73407",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-astrophysics-fb325c4091.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ASTROPHY07",
+        "sha256": "1936f74d0a690977fa15bffaf190152a9c602dbbf8ac31a673cae0fa8bf3d222",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-astrophysics-6b4687c0ed.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ASTROPHY05",
+        "sha256": "fa5a1f7ab0a56af5ce20a0bb84bd15d9d3ff45bb061c31b67ce004e43ca70545",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-astrophysics-30bf9aa5d6.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ATMOSCI04",
+        "sha256": "21ffb65c0811169d53998e1cad7724633a9cdf6e9052e4db72fce32f78bac951",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-atmospheric-science-ba605fbf23.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BUSBKFIN09",
+        "sha256": "7a223162c7bff4c72fb7616d32477d70c6d9ddfef5e0d09a396a1d62fb3f9e83",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-banking-and-finance-490f14d5a5.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MBNKFINM01",
+        "sha256": "c3a51ee4ff092b87e8612fffa40c1bfdc6ee62eaab8b9007aef22a7645651c82",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-banking-and-financial-management-074e83a82f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BEHAVCOM07",
+        "sha256": "dcb94cd49870455c61e8961cd20a4c6ef45576f4187e8a45f57b343ac90104fe",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-behavioural-commerce-21fb6c9195.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BEHVRSTD01",
+        "sha256": "4d1e8514285399b33cf6a4fa56c4303a2cd249fa63ed42108cade45f3c6f42d5",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-behavioural-studies-0190c274bc.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BIOCHEM04",
+        "sha256": "0462c88c0f7090b5655d52b903f1e911aab46bc3212dc24e767f394043b750b4",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-biochemistry-e883dc1e7b.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BIOCHEM05",
+        "sha256": "a12b2719ab5313ae81614b8072ea388f0a2c72c76ccfe8fb5bd566fecdcc69e6",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-biochemistry-265413276c.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BIOCHEM07",
+        "sha256": "94b4713e9e07782bcbaaeb6360d7d3d16252dbe5e99a50b8520136751c420078",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-biochemistry-7650d6f5d5.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BIOMDENG03",
+        "sha256": "5341b75d8c1de7578f346ab39816a8591111257282a08591ae86250eb2c1ee0b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-biomedical-engineering-2cdca9a3bd.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BIOTECH07",
+        "sha256": "c1eb283ee42d4e88beb21b020049ebf210aebcba8c842b65ec5747a78211919b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-biotechnology-d117ac9e92.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BIOTECH05",
+        "sha256": "a25ebb20680f2913de465cdde1fa2fa1774e7196b5d3d2c8e3a82d23b70f7db1",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-biotechnology-286f6a104c.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BIOTECH04",
+        "sha256": "be4ec531624f6c5c36a85df38369bb287257aea2ed699f6971c6c16554e2d3cf",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-biotechnology-03d65781e5.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BUSADMST01",
+        "sha256": "15732aac9f496ae73007b6934cdef873126229ce19c28f29203b645795f9c968",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-business-administration-studies-fbbed5ebfc.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BUSANLYT07",
+        "sha256": "6b76c28a1482a6bd3624f16d6c3db320eaac5411aa9e9c5e1125083cd58cb743",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-business-analytics-28569bd722.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BUSANLMJ01",
+        "sha256": "6cfb32e56b97a4e051d7117710510d385ba4bc3b6ea437518fa298d19270c117",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-business-analytics-4751f45484.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BUSSTATS07",
+        "sha256": "c3b6aea68d1a27c4edbd7a003cb821d7b458afa9f3c01240a479e5c9a48beac3",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-business-analytics-and-statistics-13df99d667.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BUSANECO01",
+        "sha256": "f4945512269b3093bfe2e38f93ee692bf942592092c43b3251c1ebc079e336e7",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-business-analytics-for-economics-62645d6626.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BUSCOMST01",
+        "sha256": "5435e29d0a2b3897d5cb5e17e9249ee329ec6591f4522ca1142be7387166792a",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-business-and-commerce-studies-bfa4cd7077.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ITBIS06",
+        "sha256": "086123204731d58d4733dfd9f5a020352830099fcab706452028d43caa30e18d",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-business-information-systems-dca9a8a55a.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BUSLAW01",
+        "sha256": "9f5d51ea92c0c0a53e1dfb288c350b0107571052e403430541948d270fa3a848",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-business-law-6c72df485e.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BUSMNGMT03",
+        "sha256": "d4feee71c8364bff588926ba5d90ac74a1d7199e379924f4e7ddf84f98b65d39",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-business-management-d6c927f9d7.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BUSSTUDS01",
+        "sha256": "46f4ba0d4bcf810e0717317746a1cb3b9888962d234df216c6297fa188d26d0a",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-business-studies-ef9d2acf79.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/CHEMENG04",
+        "sha256": "04f97c78b8397bae3712ffe46868eff1d62241d18fb6cd7a4269791f3dd6bbd7",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-chemical-engineering-92b7823ae5.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/CHEMSTRY01",
+        "sha256": "d86969d29c7346d0626494974694da26b64a5e7a7e1f706bf01cceb47158ce36",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-chemistry-2a3f4a76f0.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/CHEMSTRY03",
+        "sha256": "65955c686fd66d1f43f1015824a6535d04cf758e9b4a9e770c6462f69e4a3399",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-chemistry-65536c2ad5.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/CHEMSTRY04",
+        "sha256": "de30627a0a6958ed9ab100c7b260f3aa5b49a62388c2c52f6cbc845c0b418027",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-chemistry-be441c5d11.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/CHINESE11",
+        "sha256": "dca2fa17604947586e4b67c5ab2b71335d81a371c9ebe1083376b57ece429ee6",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-chinese-studies-885e743a09.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/CHINESHN06",
+        "sha256": "f0a370c080d2b04ac3be5fb31dc189790a2b4d181bf00fb627083b24df54e048",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-chinese-studies-9575b69855.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/CIVILENG03",
+        "sha256": "a8f36530d142495099692885c368f6c38081f3f982555df2a632fc10b335c7ef",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-civil-engineering-e7da6aee7b.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/CLATMSCI05",
+        "sha256": "a16058871a6e23256b651106b3fd316a28e795c42dce927359da5ce178fa8f5b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-climate-and-atmospheric-science-d71e0cbf9d.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/CLATMSCI04",
+        "sha256": "ce99466cb88cdd5b51d542bd32aca9ecf0c19ef799e5f626af3a74f07f49a0c2",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-climate-and-atmospheric-science-3e0d02d5a2.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MCOMMS04",
+        "sha256": "ccb6d093923a34d5faffec2ba1ad64a4297e0dc4c16ce0af74c63898ee8fa2e7",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-communication-a10046f5f5.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MCOMMS07",
+        "sha256": "b9def1b5746662064f84533ef3162d9a8ddd9b280a847431d0ab6bd2170c07aa",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-communication-60a24bfc58.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/COMMUNIC05",
+        "sha256": "ba8b9f038447a71879b28c57532919069e111b89c22bb72caf82b0153eeb42bb",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-communications-and-media-studies-c68078fed0.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MCOMPTCH01",
+        "sha256": "0627d4c4fc7f2b97ab4a21b50600c764013d8ace2e09b4ff1053a81c3782fb80",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-composition-and-music-technology-e274e326d6.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/COMPUSC07",
+        "sha256": "f25ae24422de7c7778139fec05c5724876e0366235e332f897a6090174aee051",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-computational-science-35e9ebae23.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/COMPUSC08",
+        "sha256": "113d8858e1bc81d07f199dc78030665f0c82d368ee2a2b7d9abae90de613a4ed",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-computational-science-96e4e9ea5d.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/COMPUSC04",
+        "sha256": "c76f82e8542417ff6540dbbbfcf6596804212a8c430c87fcfa15cb9288b1b623",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-computational-science-edeac7a84a.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/CRIMINOL09",
+        "sha256": "4e1c28434e5ec8f0454e9dd0596950817b51ee713404c5778a8b217a9f94d8bb",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-criminology-4518165f1b.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/CSCYBSEC01",
+        "sha256": "199ef71836cb0e2b7e1d26c0233767de15e854857e1604f18b2d892b85d9e061",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-cybersecurity-8eb33b196f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/DATASCI11",
+        "sha256": "c0db75a6b2843e4ef2c7912078309192e1dc0a546c5ec89107a4e618bce21296",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-data-science-b444731abc.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/DGTLECON02",
+        "sha256": "3c7e6c5f3a350104f61909f46634e751123f07e8d5ee797ccef03c9c0296d732",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-digital-economy-6cf2771478.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/DIGMRKTG01",
+        "sha256": "51835ff62cae164817affa5448c22dc4e5eaaf29b58ea358bd73e2d0c070b246",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-digital-marketing-1af1211d14.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/EARCHPRI02",
+        "sha256": "93815136fd7326482d72da693b06337b54017035878c21f696b121abf4dddcbe",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-early-childhood-and-primary-education-cb88f1eb06.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/EARTHSC04",
+        "sha256": "7f8c7ad8d8a2f2f0ae9693135e2eecc8c9e04ccab4b113650e021eae987228dd",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-earth-science-f82c6a0846.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ECOLOGY04",
+        "sha256": "80018db98ed1a331a5ff26816ab4458a4b068f48822b45fa834f5a8fb7a735ad",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-ecology-and-conservation-biology-c7a98bb8fd.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ECOLOGY08",
+        "sha256": "ecb5fdd8a3f27bf466b3886097c4dc1f83ac2243c68c34d31e5dadc6c575841d",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-ecology-and-conservation-biology-d3fea2f957.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ECOLOGY09",
+        "sha256": "f0ac211fa29175953dd0f4745d062fad12d4a195c16bede8037a857936a09ae5",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-ecology-and-conservation-biology-9d9a37ddfa.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ECONOMTR06",
+        "sha256": "5b66c0f1209ff30062de930728bb173bde35322ef7b686486982d316f120ecf3",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-econometrics-c588906a9c.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ECONOMTR05",
+        "sha256": "b0febcea2fbe90b46289358824b5c133fc8f5344cb2ca7c00ef7d107b4539919",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-econometrics-f5664ce3fd.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MECNMTCS09",
+        "sha256": "4ef18fe05fbc66ca078574916a67a8acd2846b14e25eece1751ecb9a17b7d391",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-econometrics-and-business-statistics-6fe692342e.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ECONANLY01",
+        "sha256": "8ed023513aa62055e407d089f9073cff159baf9c3c98a98844975e3217284f2e",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-economic-analysis-e3985331d7.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ECONOMIC06",
+        "sha256": "229b44f7732e89788e2f5ca89ccc4b90769597de14b4216b4aea36cf7ff40c2e",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-economics-b0a17dd4f0.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ECONOMIC07",
+        "sha256": "788fcc0abb769439c4c67c1323c013801381959b6aac3648fb7f2b413f5e27f9",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-economics-202b4594bc.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ECBUSSTR05",
+        "sha256": "060664cbd7a64ba0761b4859b2a19c529b1f54d2d24d6b3439115ca885c0c8c4",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-economics-and-business-strategy-6a83bd60f0.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ECONPOL01",
+        "sha256": "001f7bf2c064feaa6bfd1b7f1fc5d606de47e24bc8f4f81bd876e21caac621da",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-economics-and-economic-policy-59348b65e4.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MECSTBUS01",
+        "sha256": "00f7062a29179ef02ded2083e6bb68da48b7a27a1563830b93dce5143014108b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-economics-and-strategy-for-business-b42b9d7dd0.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ECSYSENG04",
+        "sha256": "e696d048cc35a195cea29676bd48894991bdce619cf9c4c28cb8e7944be3d54c",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-electrical-and-computer-systems-engineering-f396ad7746.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ENVEASCI03",
+        "sha256": "0bd034e7d26c5ea62cc5fd6596344a86d32425ad035da90c11ef203a43226853",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-environmental-earth-science-2fc33687bf.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ENVEASCI01",
+        "sha256": "a102f627a2d6659ec6a4590b57dd04661780ecce19f91bca558cb2b5339a3add",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-environmental-earth-science-2144392530.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ENVIRENG03",
+        "sha256": "21c1293db65ffcfb29dd80594a09795ae07571b0e1e0a93dbc3f0f560ad403d7",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-environmental-engineering-e309ed207f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ENVIROSC04",
+        "sha256": "629dded9691cb624d7f2b691bc6e63bc9502414e374beb665bfea289ff8ba14f",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-environmental-science-97dd731250.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/EUROPLAN03",
+        "sha256": "838be042396740c7931d9c445edde64af76c6b95bdb36687339856f85e48a3eb",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-european-languages-f751c41fa3.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/EUROPLAN01",
+        "sha256": "b1f182f94c1a2d0a44003d0527c908543487080f4ee8f0d618dd4effd5e55dc5",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-european-languages-15a2e6a764.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/FILMSCRN07",
+        "sha256": "84e6024fa6e9cf1538dffb380e99cfd7373cf7594233ab110bf5331c9b42e831",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-film-and-screen-studies-66b59c14ce.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MFLMTVSC07",
+        "sha256": "bec95a959164d68f0cf08811f1227471833cfcf21e09bc2d332609fefb9c1e92",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-film-television-and-screen-studies-b7a5b0c366.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MFLMTVSC03",
+        "sha256": "8189caa1c14dbc33e138189ebbbbdfa42211dbd0d9dd73effbe24b16a12fd5b9",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-film-television-and-screen-studies-b1df3221f2.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/FINANCE08",
+        "sha256": "3394ec836852f00662724691b52146b27f21791cfc5a5ba7120600cc5c8da934",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-finance-d71a3ce38a.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/FINANCE07",
+        "sha256": "05862696bbeedad95697a660b0f5f6a9f0827f09b73ca2973b809faba1bc10f1",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-finance-65784591b6.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/FINECON01",
+        "sha256": "1e4f32cf0a59e515b1aefa961a9d076410aabd2f22f49a8570d9280fea515c7a",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-finance-and-economics-67a08810c8.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/FININMAT05",
+        "sha256": "fddf525b8f6469bb1281254fefd38e0e9534578d91315642d9a85e7e81054bb4",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-financial-and-insurance-mathematics-c5c75b810f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/FINECMTR01",
+        "sha256": "bbaff0cc1cb4d0e0873c395e32c9ad52942bddab4d303b641c719a80752680e8",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-financial-econometrics-9d8bd534f1.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/FINTECH01",
+        "sha256": "32e6bb0a750ae4a54ffeb67edd0c1614ecea3849b6f3ddfdc68a1bcdc868d5cf",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-fintech-26290e0368.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/FDSCIBUS01",
+        "sha256": "ca6c3e8222a527133072299d7fb340caa451443e68c85d09b3ce29b409b170a0",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-food-science-and-business-565145b57c.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/FOODSCI04",
+        "sha256": "3da2717d4fd1a71e0750322cf5936a67d0e41afe94b9bab7fafa135d7917a7aa",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-food-science-and-technology-3ccc15b816.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/FRENCHHN07",
+        "sha256": "0b0aedb2d611e59ef8426a0973065ba70a9bbffc9314e0493c24a187a635c6f9",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-french-and-francophone-studies-725765e4be.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/GAMEIMMD01",
+        "sha256": "0d85ac6fa1d0b6f19c6eb7e23f7832a4c6371bf80c58bdad2f5553eccd938702",
+        "raw_file": "scratch/full-catalog/monash-enrichment/raw/GAMEIMMD01.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/GENDERST03",
+        "sha256": "a48626d2135a948440bdb9fbcc2e83c501811c61b26ed347acecd845d05f1884",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-gender-studies-e09f8f5b73.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/GENDERST07",
+        "sha256": "6e24d639290c94edc97eaf1b15cc8fec5c14d328374f097ad55d1a268b6ce91d",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-gender-studies-abefb8f155.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/GENEGENO03",
+        "sha256": "7ec8c8e71cbca3351f99a8456cb4cea837bc57a61ae3da410440e7919b7cd068",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-genetics-and-genomics-be1eed0672.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/GENEGENO04",
+        "sha256": "e575841440c989db53ee96331519e488580f1e1ed34d8b615d8fa8c6d99d6678",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-genetics-and-genomics-9956c0c17c.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/GENEGENO01",
+        "sha256": "8187c8c359c070e98f448fb4101ae71bae7e5f5753c55714de03a548c69da2c8",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-genetics-and-genomics-a95d2a59ee.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/GENOBIOI01",
+        "sha256": "ae78835efdd15609f83495552f221daea593375f54826564d2dfa743937290a1",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-genomics-and-bioinformatics-b60c4faa2f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/GEOGSCI04",
+        "sha256": "9816f593ef4b5acabb78741b59034cabd0553dbf3b0f248a15d141ee7fc24a97",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-geographical-science-de33ab4229.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/GEOGSCI13",
+        "sha256": "d1941794d9e6015e39abbcb4c6eb5b7903aae871a032b8948b6dcbf92d7848f9",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-geographical-science-4a8634611c.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/GEOGSCI14",
+        "sha256": "9aec8ec269c54da7cf2eac3a0dcd50c38049c4f8068ad3cab679cdb77d7d7cca",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-geographical-science-bb87f06582.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/GEOSCIEN01",
+        "sha256": "138aab776e46672a24ff6b4abd9b1513652a91cadc5e752d41b7b4ebb7a631e3",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-geoscience-9aca6716e5.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/GEOSCIEN03",
+        "sha256": "71403769b45738ae5dc8702dd14db9c671b22db2345b8e95388bfbc45062b072",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-geoscience-899d84ec0f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/GERMANHN06",
+        "sha256": "8d334967106943d5ea427aee26ac55c2e90ef9835ae7f5d06c4aa43aedf1ca6c",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-german-studies-861ea44531.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/GLOBASIA03",
+        "sha256": "0ee99205fae44a60331b38a031ac7f253fe9d5380d5db0adc90cb2f9ce3ae220",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-global-asia-494070da27.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MGLBLSTD04",
+        "sha256": "a0f089be4b1d54765470380490e47d87d88bb8cfef8e6bf313e0c73ac186fa7f",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-global-studies-f9c2d191b5.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MGLBLSTD08",
+        "sha256": "74125be3d1b4a87aa2bd865d410c6512d4aae17f615636ac0dbdb1019f28d338",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-global-studies-b0f1b6c413.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/HLTHHUMT01",
+        "sha256": "43cedc9e225409f7a516929897e48fcac1e0d450355148ce946445a3e850f596",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-health-humanities-83922f0fea.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/HISTRYHN05",
+        "sha256": "1088d2ff0835eb8571df0eb7622f8509a8ee56a25778e42e83eb10d14af97444",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-history-36b352509c.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/HISTORY11",
+        "sha256": "b1056fbaf8ed2f21941b0ad0f5920d718e85a6a7e923097c907e7405c958a322",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-history-af96f50c35.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/HUMNGEOG09",
+        "sha256": "fc9914381a0c5026c3be7cdc075fd5b73ded9a42186764eb67a7453d927db8ca",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-human-geography-85949126f8.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/HUMPATH04",
+        "sha256": "416984847e6b3fffc9ecd2aaaaac40de7d467d63cdcd380c7d964b323b53df96",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-human-pathology-000ae75b17.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/HUMPATH02",
+        "sha256": "a2243764f3528dc3fa46f4dcb681e13def0a1c582446f657bd0848ab4192d99b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-human-pathology-63e476456b.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/HRMNGMT07",
+        "sha256": "b19246bad516ade02913d0eccae80bf0686c73e6506358f0aac0fdb7b6b6f8d7",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-human-resource-management-c6b4d2933f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/HMNRGTSJ01",
+        "sha256": "f83f366e541e527d0cad7ba6b3fcc9d7f648f6398ce4bdd9d3f03f18783e6cd5",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-human-rights-and-social-justice-d7503f7251.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/IMMUNOL04",
+        "sha256": "ff22e7752fd4df16b205a2e760e01949a8387944a4426f4237b0129dc8510758",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-immunology-d4b01e3110.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/IMMUNOL01",
+        "sha256": "22e60b7dbf117fd0e7aa0e350269cd7860245c87e8908f259b5438643325addb",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-immunology-6bd540ced3.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/IMMUNOL05",
+        "sha256": "2a77f716904c6006e1a0c562f6fad4d611dd992aea5a539afcc259663c9fd61c",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-immunology-d38a1f0af2.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/INDIGSTD06",
+        "sha256": "7016df6240c16fe888290888bb3329bc43bb161b560b79009213baca4f1c0a19",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-indigenous-studies-11db15b5bc.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/INDIGSTD01",
+        "sha256": "8943ce2350530235e53ac572820890844436f3c4ef5605f418cd29d90c23552a",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-indigenous-studies-3a2f23bc5e.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/INDOSTHN06",
+        "sha256": "fe399efc26ce92fcd10e8e0b0ff5cad7d83c751640f82d343d484eae800bcf0a",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-indonesian-studies-9b0e0edbf4.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/INDOSTUD11",
+        "sha256": "91cd12abc864badbb419e4216a03e130165c4f94870018276fd6621b14893b64",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-indonesian-studies-8bb28fa987.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/INNOVLDS01",
+        "sha256": "d4c7a04602179d36f5c12456aa180f0de837772eb0c7ecc99ad1d91aad0b508f",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-innovation-and-leadership-9d5859e8e7.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/INTBUS03",
+        "sha256": "dc8a6591e257ae9d1492ac1a8a4bff698b15bebcaa20149c6d03ac5d64e8bec9",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-international-business-e010635c33.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MINTBSMN09",
+        "sha256": "65c5093a1be2943053df7fb375410a3191fe95e59066b2373940ddbc8b8e4c32",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-international-business-management-4ea2c6a485.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/INTLREL10",
+        "sha256": "bcb253502755b0f278989e2e9b463eebbae89425c6c62f1609a5a190edeb6757",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-international-relations-0304566b7f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/INTLSTHN06",
+        "sha256": "e901f62d9ef253de8bb3b6f5f26faa2087030388efc48a105947ea10763cd664",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-international-studies-344bcbd5a9.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ITALINHN06",
+        "sha256": "e29480fe9bd8a7c04e9bee719dd836bfb8c09f4503420ffba52cee9e39f2fcea",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-italian-studies-5e94925d68.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/JAPANSHN06",
+        "sha256": "3409c80d82a125b018e346590ba92bb360fb64c5f70433730a69e7c0c0403f64",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-japanese-studies-6df4075e58.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/JAPANESE05",
+        "sha256": "e83a29b7d95f481ec6bbf0a35ea101e5d0dc928010711cff9efaf30a13554a40",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-japanese-studies-9148d27f26.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/JOURNLSM08",
+        "sha256": "5267bb18bb86ca9e4e5a36c9e7d9c57f5f4a150ecd1101f29f18642f81717c2d",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-journalism-13ba3b0fea.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/JOURNLSM13",
+        "sha256": "1584dcaa9c96f67278173486b56ce82703847dc671706a20280fa5655914ad08",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-journalism-6a21cbe350.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/KOREANHN06",
+        "sha256": "51fdbd2401d3fad0a55bef73a0b6896f48848ea0f326011489d25c933933d7ff",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-korean-studies-487b2d6382.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/KOREAN10",
+        "sha256": "b75771f8ed469ed8eb8662c3fed1a99cd06509a99f1c6f7e1ead6f5aaf05effc",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-korean-studies-e60e3c86f8.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/LINGENGL03",
+        "sha256": "efeb7089ad50996feebf335fe610d265b6e4de431f428414987c712480b657bf",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-linguistics-and-english-language-85bed67809.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/LITERYHN06",
+        "sha256": "bfe29f58f721818c92ac1e9900dd86fb51e89ba44c18d9d9ea916d215cb48c63",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-literary-studies-972c7e32f8.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/LITRYSTD11",
+        "sha256": "4ac8e3ba4068d8004d655bb2eb7cea6da780a7f191e40b24bd29410120bf91b4",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-literary-studies-d2b00b5c3f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MACFINMK01",
+        "sha256": "c10eac6248007b36eaa30eb1192c9ad3d4ca2781c2bff9e687ad3a62b2dd75b4",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-macroeconomics-and-financial-markets-52ef712e64.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MANGMENT04",
+        "sha256": "a61ead74510d88a7ae6a0c64e6048cb5facf36cbed87cb10279b330a7c83d10d",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-management-9aac55415b.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MMNGT07",
+        "sha256": "9905e8a4e9f5cdce702c816336166231c5f853bb9dd7f8b79d2a4e94de02cc14",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-management-5b0e9b234b.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MNGTPRAC01",
+        "sha256": "d133f37fea65cf9b0c16c130ff2a883feb4ab6ab5bcfede8575160df2803b870",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-management-practice-d3d085d37a.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MNGTSTUD07",
+        "sha256": "32dc3a13bcaf1629c4a5dbe8811e283b1f8652eda00d62413bcadf7a85e8f1d9",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-management-studies-6f4c3cb546.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/BUSMRKTG01",
+        "sha256": "363a9e2c4bbcb30a69313cc5bc8ff9ddd9e8d792c215bfe50518f9fcd2dec6f1",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-marketing-aa1d3931f9.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MRKTGSPC07",
+        "sha256": "3baacb9abf446d02e8d93b351f520597313e99ef4ea6a44d80288e2b11359a72",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-marketing-7fa30b4168.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MKTGCOM03",
+        "sha256": "c864aa67ee0d4a11705430d5086415a9b61784a804f7faa37a7add2fa0502056",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-marketing-and-communications-42be4b2f3a.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MRKTGSCI01",
+        "sha256": "be4d16a6fa0803be9231dd742c0f1ace49162198ba824dcabc5c651d857e9e23",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-marketing-science-4a4b47a881.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MATSENG05",
+        "sha256": "b0591dc247d522c7f31f706ac5dd037f45898d43544b27f903a2648d62d3f719",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-materials-engineering-5fb899af64.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MAECOMTR01",
+        "sha256": "95555a564d5e261f7dd780fc367bc003e8ecd7c36e3f1f43dfc1b69099db3060",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-mathematical-economics-and-econometrics-45effa8507.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MTHFNDEC01",
+        "sha256": "1d3c2a52f39817d608ce9a1a3d280d32cf163dba80cdad3246a6f3d54cccc77c",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-mathematical-foundations-of-econometrics-de467ff298.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MTHSTAT05",
+        "sha256": "26a2127cce47e3d0d9d9c0f98524a8b6d9ff0bf5e90d8c8b05f8c2fa3478e1b5",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-mathematical-statistics-d253a24e3c.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MTHSTAT07",
+        "sha256": "db5426ec0aa8d684137275e3e53616cd0303e2c2094dc911a576673d277bcc9b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-mathematical-statistics-cc44c4437d.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MATHS09",
+        "sha256": "cb44b63631c4036ebce400fbdef162b22080e2aab240aca26a08fe3f36095d43",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-mathematics-733f437a84.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MATHS11",
+        "sha256": "d49488d06ea941d756f4e1473f4d048876ae4efcc9fce6c02069b082fc2254d5",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-mathematics-15c107a5c7.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MTHSTAT04",
+        "sha256": "b5cacb2594a1cedf9acc7e5b9d601268ef499d13b670eee1182370167708e6fc",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-mathematics-and-statistics-b5d49577f7.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MECHENG03",
+        "sha256": "dc6e7eb451b181f11ab1d71d5f21625215f8a1768d16a9cd65dd389154bbeace",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-mechanical-engineering-cc6231b3ca.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MEDIA02",
+        "sha256": "dda7100e677ed97220b7acb4f07bfe9f7ac21b67c5f414a765c21636bc2282bb",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-media-8461ac0ab7.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MEDBIOSC04",
+        "sha256": "d10bd77e1e83a9ae3e5ec2178503e37a823041b8336a6862defdc7eda7a43d48",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-medical-bioscience-b87293d35f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MMEDCHEM01",
+        "sha256": "238b5d647f4c3c95d0f2f5668270f3e9a1920545697e7a52103306c10149f40a",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-medicinal-chemistry-a9de892bb2.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MMEDCHEM04",
+        "sha256": "8c423a44b5005d2727fb05fc53ddc0edd906a3c25e316b72155210b48a1cb57b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-medicinal-chemistry-62ba1a9a9f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MICROBIO04",
+        "sha256": "341e544503ec51df1aa1c65af48ea872c49f7b98660e73a7c14649982dbe29c3",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-microbiology-d9b40eabe1.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MICROBIO05",
+        "sha256": "17559c2cb86c3a505a9cf35109cb5197404f361bf0e0379e8c8c62a1f9b4e586",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-microbiology-a5d6796a49.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MICROBIO07",
+        "sha256": "cce803f4a9a460fa8be2b061f466094a59402894c9fbaa621abf8181554f9b8f",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-microbiology-3e5f6a37cb.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MUSIC01",
+        "sha256": "466b4682e57d7a29d31255dcc6a135723a7f8df6988ffa18d691cef9c9aee761",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-music-49a95e6495.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PERFORM01",
+        "sha256": "75ba3a2b69fa98c67206f071deadb816662e1cb51ffc175621868f9651df6b10",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-music-performance-f21d92ba37.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PHARMAC04",
+        "sha256": "de7db7db109d6cf6c4aadbdca77c80fdf30155724b6709188a480025752af3a6",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-pharmacology-31902e2766.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PHARMAC01",
+        "sha256": "0a739b2c040e7c4b9f8a13d9d75027fc8d7156ef00f2067d8790ccf14c066605",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-pharmacology-02e58f0cad.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PHILSPHN05",
+        "sha256": "32615619ea9126318707d57c02f136deed18c8e194d7d29f529342c882f601ba",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-philosophy-bca94516a9.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PHILSPHY07",
+        "sha256": "ab3c6132d812bfa97974cfc27ad002e0f2e311e4874504f75e5bbc0c746bdfe9",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-philosophy-c5585367c8.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PHILOSSP02",
+        "sha256": "cabf9ec73d1a391dfa4b52f8b9b300185357b8a771e6bd6554be4e41e131f098",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-philosophy-69d0ce0283.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PHYSICS04",
+        "sha256": "53a89bb8ba77a0a2f68ffe20c14c1acb1928f69edf1d1f29046effe02dde6dc9",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-physics-1bb894b6fb.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PHYSICS10",
+        "sha256": "0ae7879355f9b3e1ad6c5d1a9df28aa5a9d7c98939b9485e7b8088316f9f1e91",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-physics-4a692ca555.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PHYSICS09",
+        "sha256": "0dd8525741986ef5a73f5bdaf9f49f650d4021ee15fb5847d53ce6a4b7c9b998",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-physics-7007590958.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PHYSIOL05",
+        "sha256": "13ec77e285daadf6f85efdeef106276657d86ca77a0888cc05a0d51876d78f23",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-physiology-6d1ae74506.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PHYSIOL04",
+        "sha256": "3114d84cddcc094d545c776c427b1fbe0facab97dbf319a5613eaa4371d7c057",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-physiology-1ba6ec8cb8.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PLNTSCI04",
+        "sha256": "1451ff9e0c9a1e89eecbc4b3f26ff92f0fcfe037c64bce1019bf57205f59b293",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-plant-sciences-914890a303.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PLNTSCI05",
+        "sha256": "a186fac6e5ef13dd465ec04fdb6085031bc62cf4cf7fce66e5781c284036e476",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-plant-sciences-9ce9ee7542.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/POLITICS05",
+        "sha256": "c6579286018e4309156a45f5cccfff2527dcca51b8227202f2921b0d979daded",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-politics-3dc67874fd.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PLTCGOVE02",
+        "sha256": "5f0a0ea57ad8c06a728276dfbc604a930e2f9f34e92c712d5cb91423afb1094e",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-politics-and-governance-c4545d39dc.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/POPMUSIC01",
+        "sha256": "ad51f127897da422e4278ff98c37b221236fa2da1c40139dd1bc95e894ce1861",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-popular-music-b45d3c8c8f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PRISEC05",
+        "sha256": "5094755e0a531136933f02125cb01b8e054f69e9241f01a577d80c3c69aa947b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-primary-and-secondary-education-8c7fba8132.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PRISECHP03",
+        "sha256": "535c4970bdf3e8f1816b6f28b095a02615f0595a1bcf29515db1fe3bac5bdda4",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-primary-and-secondary-health-and-physical-education-857d6a14d9.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PRISECIE02",
+        "sha256": "a3e8fbebfb0ea77294dfd3b82e4d71d2b5acce45fc1e15a76a4fb05ba9ce446b",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-primary-and-secondary-inclusive-and-special-education-f491d05f5f.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PRIMARY04",
+        "sha256": "a5ae52b3e7850e2148b1d1604834a8e58e18b665da6451fa91b14b283c7df913",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-primary-education-71e036f925.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PSYCHOL09",
+        "sha256": "e09947ede2253f494c607471e59b4ba1ddbc9618aa77b05bb27c2d88cdcc8593",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-psychology-61f1452d39.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PSYCHOL07",
+        "sha256": "466a4b69cc23528cd5a53b55031d11f8bb7519fc0dadac2f3bf733e78e107cd3",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-psychology-eb01ed9768.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/PUBLREL01",
+        "sha256": "5787430824d001c29cf8fc959503793e43dacc6cdd3d0c1baa1a22eea5b37421",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-public-relations-0a1eeb9568.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MATPURE09",
+        "sha256": "0ed1e7cf34d0660a8179325ecca820112f2d4c9e4691f7d9aadeaa93d28ddd27",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-pure-mathematics-0d1c7219e1.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MATPURE11",
+        "sha256": "69f13a92cb46ba12e0d55d5ca483ec9f81e7010f5e71b1f71295018122e8fa98",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-pure-mathematics-770f75f6c4.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/REGENMED04",
+        "sha256": "ca58aa928584e06156504eaf58d3edf0594d024c8b8f66e34dcd1cd315e8aed8",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-regenerative-medicine-396a1d0b0b.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ROBMCTRN04",
+        "sha256": "57d1afb2d83596d165b09cded32eb14d427f2cd948cb76fa16a2a848049010f8",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-robotics-and-mechatronics-engineering-15703690ef.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/SCREEN03",
+        "sha256": "ff4fe39c6833f003fded71e327902248189498565b17b2f49e7208d3ae5dceda",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-screen-d1142babcf.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/SECONDRY01",
+        "sha256": "90cc7c788613a521d2cc31df22be121bcb47a0ef2e2d526b5d25c2e882d13515",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-secondary-education-16414eea88.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/SCNDRYHP01",
+        "sha256": "59eed09af1a3b35f78ea0906e0a4e4b39fe07979de3e87e42bc5bbfc5b461dfc",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-secondary-health-and-physical-education-56e2704f29.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/SOCIOLG05",
+        "sha256": "be16510d7cfba44531ff7f90cdf97a51a2826ec2934c5e56d38367e9dfba2a9a",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-sociology-e2a9da3586.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/SFTWRDEV08",
+        "sha256": "8008547cc4c24b8aee0940e2d58dc6b13f8920773c7a5e2b00eb50cfa3c99428",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-software-development-c732b0d055.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/SFTWRENG02",
+        "sha256": "47a66e5962e0925f931356dea02029901112f9ff045fb8e66f60695484ae3556",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-software-engineering-5f425eead0.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/SPANLTHN06",
+        "sha256": "1146b07ee3f5bc2f75e82c920a250e7fa7314e4bf728c18fb5ff4095e14dbc52",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-spanish-and-latin-american-studies-5cb6b96243.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/MSTRMKTG07",
+        "sha256": "8122577577cc50a3f84a9c725f1e1d82754257a0a97f8be656f1865038f701e9",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-strategic-marketing-28d696193c.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/STRPUBRE01",
+        "sha256": "09be164a7f2ae1d8371df19d3d5e26f1a403cc65fba97cb86c33c4a9ce16f4ca",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-strategic-public-relations-7250ed7526.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/SSRSPMGT01",
+        "sha256": "19ebdb600e53c4e6ab9081baa092b7a869d89c7eb025e02ce15c3023587fc2ba",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-sustainability-and-responsible-management-9bcb9e92b4.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/TAXATION05",
+        "sha256": "0ccdd7c5b2f092295352acb47d711cae0e3735dc3383cab72684ba41443cfd68",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-taxation-3a3a1bd6f1.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/THEATRHN06",
+        "sha256": "1b61e4d1f8170beb3974d410cf756504aa7d85f5a471cdf52f221e9fdbb4a2c8",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-theatre-and-performance-7b7123d538.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/TRENVBIO05",
+        "sha256": "78b15c9ee24a7a5a3e6cebe024eb007d72d8d1a42631ce84f586e3826a88dc9d",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-tropical-environmental-biology-19dbcba161.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/TRENVBIO06",
+        "sha256": "07a4ddd2e574a6ab7c6b857eea863fea63dc2aa00f0542ea14c1d12512988bce",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-tropical-environmental-biology-279d7804e3.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/TRENVBIO04",
+        "sha256": "a506e83935b59e5338c1eef830a9848cecd16b00782b677ac0d412bb7b0aa72a",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-tropical-environmental-biology-b33b820005.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ZOOLOGY04",
+        "sha256": "ad20d2769a0600c647866c74af17d9a92fa565b5d2cf3b50b71c9f824a17f090",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-zoology-57d3b9c4c6.html"
+      },
+      {
+        "url": "https://handbook.monash.edu/2026/aos/ZOOLOGY07",
+        "sha256": "3492f8b5535486907bd7297b3e4fbf84671f3cf8f59a0dc6c35386e70f54c9f3",
+        "raw_file": "scratch/full-catalog/australia-gap-enrichment/monash/monash-zoology-856c29f91e.html"
+      },
+      {
+        "url": "https://www.monash.edu/admissions/apply/international-ug",
+        "sha256": "73e5a2acf4a985380ee7c41c4146401d04e3e7fd9e3b46b7070ebaf22d3a6e5b",
+        "raw_file": "scratch/full-catalog/australia-enrichment/monash/browser-apply.html"
+      },
+      {
+        "url": "https://www.monash.edu/admissions/entry-requirements/english-language",
+        "sha256": "23e2f95fb869aef48a8b3af3af420d1f8d14f2674435f047ed6cccd20ab911b6",
+        "raw_file": "scratch/full-catalog/australia-enrichment/monash/browser-english.html"
+      },
+      {
+        "url": "https://www.monash.edu/students/admin/dates/summary-dates",
+        "sha256": "25e515a12199c55a6f758c2ca01941101a9dfa67126cbf99a4563d8b7a67d88a",
+        "raw_file": "scratch/full-catalog/australia-enrichment/monash/browser-calendar.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true",
+        "sha256": "34de51974195e3b4a0adfe3d1763d8328f3a29e29ef510476ff496260807e539",
+        "raw_file": "scratch/full-catalog/australia-enrichment/monash/browser-cs-international.html"
+      },
+      {
+        "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-merit-5770",
+        "sha256": "de2cbb9576626d1d6057e985fc213adcfcbaa434b5d3583a0876c5412897d8d9",
+        "raw_file": "scratch/full-catalog/australia-enrichment/monash/browser-scholarship.html"
+      },
+      {
+        "url": "https://www.monash.edu/students/handbooks/maps/2026/map-m6018.pdf",
+        "sha256": "ca1702fff1b3d0d2c743f5c18f0cf9453b8085a1b2aa86d5c4959f80b3c4dbbb",
+        "raw_file": "scratch/full-catalog/release5-monash/map-m6018-web-extract.txt"
       }
     ],
     "gaps": [
       "Parent-degree/major compatibility inheritance pending; field records are not independent awards",
       "Duration/campus/language omitted unless explicit in read source",
       "2027 handbook not obtained; current publisher config explicitly 2026",
-      "Honours research areas and undergraduate specialisations retained even when the career line is blank, according to explicit undergraduate category"
+      "Honours research areas and undergraduate specialisations retained even when the career line is blank, according to explicit undergraduate category",
+      "澳洲2027与Malaysia 2026学费分开标年；252个受限或内部方向条目不继承宽泛校级规则。其余专业先修、双学位准确费用、独立申请窗口和毕业调查仍需补齐。"
     ]
   },
   "programs": [
@@ -2021,7 +5077,7 @@
       "source_period": "2026",
       "raw_key": "M6018",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "graduate-entry",
       "id": "monash-bachelor-of-medical-science-and-doctor-of-medicine-df05ccf519"
     },
     {
@@ -2441,7 +5497,7 @@
       "source_period": "2026",
       "raw_key": "S3701",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "post-bachelor-honours",
       "id": "monash-bachelor-of-science-honours-923b22b6f7"
     },
     {

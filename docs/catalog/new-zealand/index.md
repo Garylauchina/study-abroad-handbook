@@ -14,6 +14,6 @@ hide:
 先选择大学，再进入专业查看入学条件、国际生学费和毕业生情况。当前收录 1 所 QS 2027 前 100 名大学；“=”表示并列。专业详情收录情况见学校卡片。
 
 <div class="university-grid">
-<article class="university-card" data-university-id="auckland"><span class="qs-rank">QS 2027 · <strong>67</strong></span><p class="catalog-eyebrow">新西兰 · Auckland</p><h2><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/">奥克兰大学</a></h2><p class="university-english">The University of Auckland</p><p class="university-coverage">183 个专业条目 · 0 个含详细资料 · 183 个补有专业资料 · 0 个仅补学校共用资料</p><a class="program-open" href="/study-abroad-handbook/catalog/new-zealand/auckland/">查看学校与专业入口 →</a></article></div>
+<article class="university-card" data-university-id="auckland"><span class="qs-rank">QS 2027 · <strong>67</strong></span><p class="catalog-eyebrow">新西兰 · Auckland</p><h2><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/">奥克兰大学</a></h2><p class="university-english">The University of Auckland</p><p class="university-coverage">255 个专业条目 · 0 个含详细资料 · 255 个补有专业资料 · 0 个仅补学校共用资料</p><a class="program-open" href="/study-abroad-handbook/catalog/new-zealand/auckland/">查看学校与专业入口 →</a></article></div>
 
 <a class="md-button" href="/study-abroad-handbook/?country=new-zealand#program-finder">筛选这里的大学与专业 →</a>

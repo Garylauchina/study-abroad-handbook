@@ -2,18 +2,6 @@
   "university_id": "uts",
   "sources": [
     {
-      "url": "https://www.uts.edu.au/for-students/international/guides-for-international-students/contentassets/utsi-listing-grid-international-undergraduate-course-summary-table-china.pdf",
-      "sha256": "f825732592d4b22eff330d5c64259e558cb1f75d35ebd9670ea6da6cee12ddef",
-      "raw_file": "scratch/full-catalog/australia-enrichment/uts/ug-china-table.html",
-      "locator": null
-    },
-    {
-      "url": "https://www.uts.edu.au/for-students/admissions-entry/eligibility/english-language-requirements",
-      "sha256": "a564f26b1fbd1593a626474fe47e661db7b279404a3ff39cde7fe9e83290cf63",
-      "raw_file": "scratch/full-catalog/australia-enrichment/uts/english.html",
-      "locator": null
-    },
-    {
       "url": "https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants",
       "sha256": "8856dd3830356c697a939265f77b236029cfda6a2a08e9719231d23b79b93dd3",
       "raw_file": "scratch/full-catalog/australia-enrichment/uts/apply.html",
@@ -26,9 +14,3063 @@
       "locator": null
     },
     {
+      "url": "https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants/academic-entry-requirements",
+      "sha256": "3973e8f25187e2035f9f8ec85a6a87b2929ab9c84a2a2c70dcf44dbe27f28679",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/raw/china.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/for-students/international/guides-for-international-students/contentassets/utsi-listing-grid-international-undergraduate-course-summary-table-china.pdf",
+      "sha256": "f825732592d4b22eff330d5c64259e558cb1f75d35ebd9670ea6da6cee12ddef",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/raw/guide-china2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/for-students/admissions-entry/eligibility/english-language-requirements",
+      "sha256": "01de09cd41396c7fe753f6447f3dc85ccff09c0ef416ff36d0d6df814289c4f3",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/raw/english.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/about/leadership-governance/policies/a-z/admissions-procedure",
+      "sha256": "78dca2eb7437a59c33ba9beae185996527b8a6c3edd18e93fa65dc5e5eabc99e",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/raw/admissions-procedure.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants",
+      "sha256": "18704925aa5dfc61150d274fd151dbf3e990ff15d433a183122c0ef3d8fede95",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/raw/apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/for-students/current-students/managing-your-course/important-dates/principal-dates/2026-principal-dates",
+      "sha256": "fef13f681acf5fe32612226f0de48482dfc0db1c53bf42e45d487521e2682950",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/raw/dates2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/for-students/current-students/managing-your-course/important-dates/principal-dates/2027-principal-dates",
+      "sha256": "aa29283919ada53671ed41509d8775b8514e64accf29ed3b1ca6d324ac393520",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/raw/dates2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-scholarship-for-gaokao-students-from-peoples-republic-of-china",
+      "sha256": "dd4cb62446af79f7d95ad72ed08dbc5eaa3178dc1176395133c6bbe8057f4d5b",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/raw/gaokao-scholarship.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/course/2027/C10235",
       "sha256": "4b0bdf333f94b3e66c95b3d5f64ea1ba329220e5c77e1b90934eb2658bd5d062",
       "raw_file": "scratch/full-catalog/australia-enrichment/uts/detail-C10235.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10347",
+      "sha256": "0c165deb499bb0925f14b77f510abbc5fc6783d2fae41b2437c37e07ddee0f59",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-advanced-science-da1a6caa35.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-advanced-science-pharmaceutical-sciences",
+      "sha256": "2806853441375833c00c2f4c21700d2507cac2ef126715025a7e4449259e9e69",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-advanced-science-da1a6caa35.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10352",
+      "sha256": "f94cb7bf5859e3bc577e353e6614b7e834d8c146b91d9fe4cae5d389cb7e2c93",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-advanced-science-bachelor-of-creative-intelligence-an-4f04fda170.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-advanced-science-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "b28e8cab9094a17b3f1826576bafaee926d1f3057398fda5fd62a2c87dfeca8f",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-advanced-science-bachelor-of-creative-intelligence-an-4f04fda170.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10474",
+      "sha256": "df0d2ed2602ee82a11f7e9024d5442e7e93e949d093a0addc865aeb5375b2cb6",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-artificial-intelligence-caebf07a74.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-artificial-intelligence",
+      "sha256": "8e1547bf50914a8ce608709149a9f30d78971973be5a3a0358452ec62ce036d0",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-artificial-intelligence-caebf07a74.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10487",
+      "sha256": "977ad4854153e1a07ff2ae8a621e2fb2daad087677a5e3956746c8c8904c9f44",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-artificial-intelligence-offshore-164a69658d.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09167",
+      "sha256": "b886be7190eb54e8896cf4c37c4c590375b59d662783162c1960417b2dfb840f",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-artificial-intelligence-bachelor-of-international-stu-7362e750a6.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10026",
+      "sha256": "3ab8b1feb5653299c2c58dbe4a1c4727ba064267529bdb39530e06ebc30dc9dc",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-business-132e3b4afb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-business",
+      "sha256": "6a66ce51ef73b3de5cdde5361449a8e4b97fd3c6e0ab2e3f2d6e5a8a6a27b8a4",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-business-132e3b4afb.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10226",
+      "sha256": "2544d99bd3868ed6375c9a65acab3cd806111d0b28e5095de49ef3134f7998ab",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-business-offshore-06cf150706.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/about/uts-vision/initiatives/internationalisation/transnational-education/silc",
+      "sha256": "f15dd9e55521c6bcf8b840c4e0351bcd59a79aa25708cabd5a9b4dac48e911f7",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/raw/silc.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10326",
+      "sha256": "45e45004a27c4df97fcc66262af5d2f4094e5f059fe4eef87372c3c6f7da2b69",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-business-bachelor-of-creative-intelligence-and-innova-a192d95a9b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-business-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "031f4c62183036b038c19a8eba767ff6768fc7b7821678ad89788cc6c510d92b",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-business-bachelor-of-creative-intelligence-and-innova-a192d95a9b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09133",
+      "sha256": "26fcf6e9aefd60623a8742430f7fc448e6ffc02a146803d2b477ec3b9b0aa87a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-business-bachelor-of-international-studies-honours-7ed82f8a64.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10125",
+      "sha256": "44241c337139baf104beb4fa02fc98f2577df5ec34c887e26f5d9f62457433e1",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-business-bachelor-of-laws-cc6be5e881.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-business-bachelor-of-laws",
+      "sha256": "97ef9e6ba36b27f6e296fbfec143bf0169473a458833484718e2d5a3e767c7f6",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-business-bachelor-of-laws-cc6be5e881.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09084",
+      "sha256": "753bc80d1a451a371ad7257438a68ad77215d2165199b27477da99c9bbc23638",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-business-bachelor-of-laws-honours-cfe5808cc6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-business-bachelor-of-laws-honours",
+      "sha256": "2d2c0dfff32fc47dae446314f24d30e8965b11ee630b94a1da906c7231515750",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-business-bachelor-of-laws-honours-cfe5808cc6.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10411",
+      "sha256": "1ee2499eb725d696aa11bd276d0001fa32c2fcfbc46a54ea6e53704a41974a05",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-business-bachelor-of-sustainability-and-environment-57b6674593.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-business-bachelor-of-sustainability-and-environment",
+      "sha256": "cea3f0b3ea8846ff625db817d405bd0e2efc058ac88db927f4aedba4a499790a",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-business-bachelor-of-sustainability-and-environment-57b6674593.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10449",
+      "sha256": "0079c4100f95356196e5f0a5f199d239e49ee02fdc94ba3abd6a7dd10d1d398d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-business-master-of-teaching-in-secondary-education-45f8caa0be.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-business-master-of-teaching-in-secondary-education",
+      "sha256": "cbadf8c04cd03c2c7c3e22eae97f7a98bf2e7d0c6d70a074276fb1d21cc005e2",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-business-master-of-teaching-in-secondary-education-45f8caa0be.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10369",
+      "sha256": "0fb518674305b4fb76649cf96f86d2c37b1a19cecf6db87bbc1a2b2536d5c7e0",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-creative-writing-aeeb9d712d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-creative-writing",
+      "sha256": "307411b198d36c7f059aba7d8665eb7ae17591d1216271760be7959ab8cfb752",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-creative-writing-aeeb9d712d.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10377",
+      "sha256": "bb6672645add11eccf98d2701731405024913a60c4b73d6f00497349148b7e24",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-creative-writing-bachelor-of-creativ-6012ee7a11.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-creative-writing-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "3873b8d866858a2ed44dc64a2159d89268f00c4a630facabb81e8ac304ec56d8",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-creative-writing-bachelor-of-creativ-6012ee7a11.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10378",
+      "sha256": "a69a855b1e890dd90b440c43261ab42cc05a5bfb11c951fadc541ea47cc3bcb6",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-creative-writing-bachelor-of-laws-1cce343dad.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-creative-writing-bachelor-of-laws",
+      "sha256": "968023dbb250d0250bfa79209108e0ab0a304666807a57d73d2d890509b35ff6",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-creative-writing-bachelor-of-laws-1cce343dad.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09089",
+      "sha256": "237bcb9cab6ad450f8e0781442045a6db3be8ac95dc43a7dd7c83bcb6918184d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-creative-writing-bachelor-of-laws-ho-f89a7ae9fe.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-creative-writing-bachelor-of-laws-honours",
+      "sha256": "83b9e43ff4ea86f212464c978fd8d81a320a08b301d8eb81af5319be0f108c90",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-creative-writing-bachelor-of-laws-ho-f89a7ae9fe.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10405",
+      "sha256": "58612f77d7e629d7059bacfa7497494ab38bc625db1e0fa27808ffe5d931958b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-creative-writing-master-of-teaching-2fcacdaefe.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-creative-writing-master-of-teaching-in-secondary-education",
+      "sha256": "1cf0e1f442d89a7c4e4a00cc2b23ad7e587876dc2f778637810a3e65fe1f3547",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-creative-writing-master-of-teaching-2fcacdaefe.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10371",
+      "sha256": "3c84ffc4d6dec79731bcf7dc56d3d180025471bdff8c4c6f7e0f669ff29a3f7e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-digital-and-social-media-cc85dbc74a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-digital-and-social-media",
+      "sha256": "fdd01661311079e540885fb8556b31fc40efb2ade3120539b5efa3de6fb793ee",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-digital-and-social-media-cc85dbc74a.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10359",
+      "sha256": "f5d13114694c5fb5577bfe1d08420968c750fb522183eff2bc5e4a8a8daaa1d2",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-digital-and-social-media-bachelor-of-215cf37812.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-digital-and-social-media-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "b2fc4cbeb32f882bd3775f46c93ba427920c6375fac03b176448f1fee12c03fc",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-digital-and-social-media-bachelor-of-215cf37812.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10379",
+      "sha256": "2a1be27016f7bc68829b8ec5806e8b08b6f03eae212e58a9ca96e3b8e382e462",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-digital-and-social-media-bachelor-of-d641ac0691.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-digital-and-social-media-bachelor-of-laws",
+      "sha256": "336b8b4f747a092c5aadfd5cfd1589495a7ef103cd07205e37a375f5ae36b084",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-digital-and-social-media-bachelor-of-d641ac0691.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09091",
+      "sha256": "3faddf17abdbf2f1c2b0c8c750eb21729a6e9b420a0752ae70deaa75b4e44440",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-digital-and-social-media-bachelor-of-6923a10ea0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-digital-and-social-media-bachelor-of-laws-honours",
+      "sha256": "9cc19e9af74df82dc0a1b2886a5d07f0710781785f8385ab919e2a4bd23f9d49",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-digital-and-social-media-bachelor-of-6923a10ea0.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10361",
+      "sha256": "3d8677dc314f11ba62fcbbcba3318f5ad61e3f92ac889221afb09a6770030551",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-journalism-8b967db7cf.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-journalism",
+      "sha256": "64a4d60dd2a24755e1acb244d445b3ec2f19d498eb57c9f22359cd0fff9b2b3a",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-journalism-8b967db7cf.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10376",
+      "sha256": "bd16dc55bb87780c6185a63bf4f5b2517891c64c0035f2b626a36d0fc1380c60",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-journalism-bachelor-of-creative-inte-7f6715b4f8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-journalism-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "4ae73cba45aa648194b33c26d6bf8e174af3fe8637f4e9b209cff7902cdc3e95",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-journalism-bachelor-of-creative-inte-7f6715b4f8.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10380",
+      "sha256": "7db001b67f5514929656ae597b5cdcdafec21685dc9949e87cb7efcbcb4461ad",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-journalism-bachelor-of-laws-6ef252d8da.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-journalism-bachelor-of-laws",
+      "sha256": "c8c1ef7259d0074ae009afea2cf93b56532760190c26c963b97b48f45a23ccba",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-journalism-bachelor-of-laws-6ef252d8da.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09093",
+      "sha256": "cde090347567534bd42e263ecf23d9c734281e8d6f4d881f3ec1a10cbbf3f8d8",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-journalism-bachelor-of-laws-honours-11cbed0a07.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-journalism-bachelor-of-laws-honours",
+      "sha256": "4dca681bb81e497bd7fe4f7f4313ac65f7be8bb226cb85cebb3f94f1822e8367",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-journalism-bachelor-of-laws-honours-11cbed0a07.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10451",
+      "sha256": "b2499352e9fc48bd05dc32c44ebeffebfd6a686d855ccf841c16451c4d1d9e58",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-media-business-43ae259da0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-media-business",
+      "sha256": "2f4eee3c409bc8a2377cf29de14c9a8a76171b409cb0dba5d3ba12416798a882",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-media-business-43ae259da0.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10454",
+      "sha256": "f9fd2b8ed126959370fc7c22ca320ccd7e73a9e0776c010d4fc206d3584d1e59",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-media-business-bachelor-of-creative-3751d8a476.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-media-business-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "fc2dd9007b8ac92dac2de2c4ced88abb6883148609a7808fd943beec752a7304",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-media-business-bachelor-of-creative-3751d8a476.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10455",
+      "sha256": "77c3dbedf9b03a0c5aba40c7a3691da4ea1e14319d5bd2ed704d329b7626200d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-media-business-bachelor-of-laws-19f6b15f4e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-media-business-bachelor-of-laws",
+      "sha256": "4d677641206707cb3f8f9d0822143549736b8d671c443e98038dd718d74f3ef3",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-media-business-bachelor-of-laws-19f6b15f4e.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10456",
+      "sha256": "660d614ed3f86bd3115b083c87ca48f81ef769323ec2a19edc1c6d2d69d707ae",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-media-business-bachelor-of-laws-hono-5429b3cbb4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-media-business-bachelor-of-laws-honours",
+      "sha256": "fd2fc5a0073722a8ffcf6021d121318efc5d1a08f54db0b626c315111c031ca9",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-media-business-bachelor-of-laws-hono-5429b3cbb4.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10363",
+      "sha256": "0bd8ecc41c61cf322e64ba68237873d944d4fd03b758665931f273c4f3c36977",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-public-relations-and-advertising-3b8f34cda1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-public-relations-and-advertising",
+      "sha256": "24104b4829bd63fd2453ab0dce04af497b759366d32b90c3cc7c154b6a21b179",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-public-relations-and-advertising-3b8f34cda1.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10374",
+      "sha256": "a1a8d5001e84cf1f869084633e76a2cc8f405b0a2de0adbd7c7b771989916722",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-public-relations-and-advertising-bac-df68ef1a69.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-public-relations-and-advertising-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "836312abc22d2c52fd9fd6f01c468d7aad0f145c6bbcc52ac4f85766b21a1524",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-public-relations-and-advertising-bac-df68ef1a69.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10382",
+      "sha256": "2068926a058ea8fb81f02eda1cbe97a526a2656b8613e4db9bd0e3d8831ee949",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-public-relations-and-advertising-bac-59387c3eda.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-public-relations-and-advertising-bachelor-of-laws",
+      "sha256": "24fa7fe143ee13480dc794b3650fbccffca449b0c89a6642459063fbae9eb2d9",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-public-relations-and-advertising-bac-59387c3eda.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09095",
+      "sha256": "5751722309128f57cdc0b3feadb6608bd4b3b52d79da356f5f168f0e43496abe",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-public-relations-and-advertising-bac-42ce88bf73.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-public-relations-and-advertising-bachelor-of-laws-honours",
+      "sha256": "4aaa4397bc887401b50dcceb0d43f52ed5ab655e8b75d17210268b5faf7123f8",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-public-relations-and-advertising-bac-42ce88bf73.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10364",
+      "sha256": "475c5a0575f28a839a770638b0df85f1a7a55ee6d946c123648fc2ae4e94c53b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-social-and-political-sciences-603c6737b3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-social-and-political-sciences",
+      "sha256": "acb6ef98edfe28b546eecca441f839b5fc658ccebeaf4f22da29355336381d78",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-social-and-political-sciences-603c6737b3.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10375",
+      "sha256": "0b2a7c456f585eca1190f59acdb484bf503779f92844100da8939478441bdde5",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-social-and-political-sciences-bachel-5300646052.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-social-and-political-sciences-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "edd7d48f9e51dc61622630e7d9e5be4c6e0709c7d88b8e8c9165c51d790e40fd",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-social-and-political-sciences-bachel-5300646052.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10383",
+      "sha256": "af6ee591f1cee76ecb09d99165c612a8a08004c53a7b1b92df808deb3b3edff8",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-social-and-political-sciences-bachel-76317d2091.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-social-and-political-sciences-bachelor-of-laws",
+      "sha256": "f3f2d11ab94af2b00e6d1cbe3db7f22025654c39c1c546f5754386f4d7402ed7",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-social-and-political-sciences-bachel-76317d2091.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09096",
+      "sha256": "bb5af4fb924e0656f7214b3a94fefc48aa5bc0bd7479c5765d81c3a21b906913",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-communication-in-social-and-political-sciences-bachel-3342307b72.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-communication-in-social-and-political-sciences-bachelor-of-laws-honours",
+      "sha256": "fa14fd9f1f8adb6f01bba8e3f5f6272486cbae37166879a4d3d1afd612fa071d",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-communication-in-social-and-political-sciences-bachel-3342307b72.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10476",
+      "sha256": "a0538d3a05920f283989f25749c917f023307f779445b9bf481a845d38d9797d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-computing-science-8888beaf84.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-computing-science",
+      "sha256": "e5f738dc580264669fb60d305d08bc82ae805287e0068fb474cf38f4e6c2f14e",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-computing-science-8888beaf84.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09119",
+      "sha256": "07447d004f8af72c77a74f1d937a962a1b6ed1dc0195bb2fdb202a59ddc55de9",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-computing-science-honours-60d1c1345c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-computing-science-honours",
+      "sha256": "9c807c259a1ecaba362a6ae03747b1e8d99337584a69e29ed80af5fc8cbc5387",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-computing-science-honours-60d1c1345c.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10214",
+      "sha256": "2ade10530be19baecc97568e782367435768a4bde76c4f4197d9cddb2b469cd9",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-construction-project-management-75bd8d0a3a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-construction-project-management",
+      "sha256": "0be85c99dcbb201bc5dda19992524a9fd0d446eb2502695922a3a5bdd4e0f20a",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-construction-project-management-75bd8d0a3a.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09122",
+      "sha256": "00e4cfd7d066b99fed143819c01b02b4b91847dcf36450b5d1b8923ba17f97c0",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-creative-intelligence-and-innovation-honours-4afabdc5fe.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-creative-intelligence-and-innovation-honours",
+      "sha256": "db53be95c273e92f6ce04f01b246b30d2b3c8a784ae96220b8ede68a6713846d",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-creative-intelligence-and-innovation-honours-4afabdc5fe.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09130",
+      "sha256": "e8dd2cbccc5b1d567781325d54ad8c5c8b0278ebee167db8f0e58ffc14ea3f98",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-creative-production-honours-4e6ddfc0a5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-creative-production-honours",
+      "sha256": "b5be4a85a36b0169536c74226cb0bfa7e69d4b5eeceadda9c69bb0b2e60fb63c",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-creative-production-honours-4e6ddfc0a5.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10460",
+      "sha256": "2d3693363cdb1f5f9ca7a164c1df3e6bc96ddf7a96402479fac257fd85ce28b7",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-creative-production-in-animation-4bacca4e7b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-creative-production-in-animation",
+      "sha256": "34c7f07552546affa63c5ef74cd9598341793287faf4a16af71ae7859dd74e3b",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-creative-production-in-animation-4bacca4e7b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10461",
+      "sha256": "74c17a642536029338d35ef3e2a2098bca1650057940298676e18fc4cb2b1f70",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-creative-production-in-animation-bachelor-of-creative-fd89e922e3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-creative-production-in-animation-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "93a943cd62174c2f6120a8d9456479dd4423c1ae0c903ec38985584c2970f44f",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-creative-production-in-animation-bachelor-of-creative-fd89e922e3.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10362",
+      "sha256": "63d44976105b88400ee7872a9e14ccfa499e3f6031296bebb35bfff754e100b4",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-creative-production-in-media-arts-3db831dbde.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-creative-production-in-media-arts",
+      "sha256": "7fdc43c8fbc71fe774d8aab8ecc69dcde1c9baad954423e7bfe68d5f4a7253dc",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-creative-production-in-media-arts-3db831dbde.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10373",
+      "sha256": "811a7778ac32e3c51ae8ea49bc5302477293ac88fb9cd5c1a21fcf4845643790",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-creative-production-in-media-arts-bachelor-of-creativ-31d345b70b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-creative-production-in-media-arts-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "e25552482b049983f93be97220411dbe9c574d5b652c99fc8f4e83bed2ac4fc6",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-creative-production-in-media-arts-bachelor-of-creativ-31d345b70b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10381",
+      "sha256": "40110b15598ee0219278eadda080bc5f8c57c0db91020c206ea508e5f2dd1d7c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-creative-production-in-media-arts-bachelor-of-laws-04b1864293.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-creative-production-in-media-arts-bachelor-of-laws",
+      "sha256": "2a9476531128c66c88d0aeecb3914ddcae21b18f8fda428b972ccdfbf294fde7",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-creative-production-in-media-arts-bachelor-of-laws-04b1864293.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09094",
+      "sha256": "dd60ac56f0c9515427bcb207e79d87612f5d69fb05f468347cef4c6eae60fc82",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-creative-production-in-media-arts-bachelor-of-laws-ho-4ccfe1ebef.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-creative-production-in-media-arts-bachelor-of-laws-honours",
+      "sha256": "c45e09b37b9667e936a33157ae9bbf62d434b35bfa186660ec10210d1edaf8ec",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-creative-production-in-media-arts-bachelor-of-laws-ho-4ccfe1ebef.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10276",
+      "sha256": "4872c0a1b33623009e2fe48ec809f8a8cee8840886e412bce9f641cf09574d12",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-creative-production-in-music-and-sound-design-8effb5ac43.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-creative-production-in-music-and-sound-design",
+      "sha256": "61d952b08522bd076a2f5789455d5122ae98174232e5597e64dc8b0f86f3e6e2",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-creative-production-in-music-and-sound-design-8effb5ac43.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10465",
+      "sha256": "82c2966f4e107f40a7bce84b1a40da5a27a354babda3a5c39ce711baf33773fc",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-creative-production-in-music-and-sound-design-bachelo-d929291b8f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-creative-production-in-music-and-sound-design-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "95f427107032c344e9823b6dd7665aec61fec5cd383374f6943e69c6c35503f5",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-creative-production-in-music-and-sound-design-bachelo-d929291b8f.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10446",
+      "sha256": "a209c528c0cb28c658a3c4afaf484531aac01445821b9eb51753b8652fa2a969",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-criminology-6db0866515.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-criminology",
+      "sha256": "78758fc9be8f58703d7855e4f4e8ec58e11a9ddcb3a8d9569d493be15405e895",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-criminology-6db0866515.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10472",
+      "sha256": "e6353405d8d98fa99cc572a88e64c55b8ddb78ea6ade02324d47a30faed08d63",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-criminology-bachelor-of-cybersecurity-12d74ce009.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-criminology-bachelor-of-cybersecurity",
+      "sha256": "f8b73ba046d4b838ac42adf559ed601fb5163045ad80f631e5479ee26936e321",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-criminology-bachelor-of-cybersecurity-12d74ce009.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10448",
+      "sha256": "b76d58f358df9a54264f912d9a133709ee88bac0a3e36cf276477ed5a341ff46",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-criminology-bachelor-of-forensic-science-3fead28933.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-criminology-bachelor-of-forensic-science",
+      "sha256": "135ec02ac043b7475196c9a06019eeaaa80cfef02782e96d5c4839c39d0ae666",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-criminology-bachelor-of-forensic-science-3fead28933.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10471",
+      "sha256": "2505f0af504d52ce21e36bbcd2e33506bb8962bba83556e5a5a2ee6304e7d28d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-cybersecurity-bd4e9fa8b0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-cybersecurity",
+      "sha256": "739b9024c51cba423ad163f291b269b4dad90e0597e1f6d041c363d9bc812cb2",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-cybersecurity-bd4e9fa8b0.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09166",
+      "sha256": "0f90f03e22fe07deacd4602ba0f21b6bb3cc7c47438912079afb4197494d21f4",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-cybersecurity-bachelor-of-international-studies-honou-045a6aff53.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09131",
+      "sha256": "b05c92b342cc4fcc741600af292d81b727b066a019e352a1a068a84c0378d98c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-design-honours-728e8a9960.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-design-honours",
+      "sha256": "2efe1bb8035b25101b09bedeecdb0b12ccfc68d55a54c86c7590e819a82784ee",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-design-honours-728e8a9960.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09048",
+      "sha256": "a966870cc57dd62f188e8423d9e0eccd38555499dd0284bf1509814fc6a355db",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-design-honours-in-architecture-8526e12093.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-design-honours-in-architecture",
+      "sha256": "53c61bf83a7134b5dca2b9f80a88eade05b411cda15f502e02b35e29e0d5e3fc",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-design-honours-in-architecture-8526e12093.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10004",
+      "sha256": "5d3d069ef95ee7121ede7678dc36a5c621b9f3f6f9b233a7bdfc40fdcc4d8878",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-design-in-architecture-a130caf656.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-design-in-architecture",
+      "sha256": "314c308b45c311eaa596b9c2c255926b1828c85574099413616932bddf5a339a",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-design-in-architecture-a130caf656.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10325",
+      "sha256": "ede8f37bdf4ba8be703fcff7e4df54eeccbc056d117754bf58a7c00342fb684b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-design-in-architecture-bachelor-of-creative-intellige-d4c8bfc54b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-design-in-architecture-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "ed053524d75f0efdd659b83a46039b6d34b0534bbb191a2166b9c0eb0f38d09f",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-design-in-architecture-bachelor-of-creative-intellige-d4c8bfc54b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10413",
+      "sha256": "20dd6dbc06ef2656d4b502a63b46667c76b090d3d6aee2599f40e59f5e0a5d79",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-design-in-architecture-master-of-architecture-1bbfe5a064.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-design-in-architecture-master-of-architecture",
+      "sha256": "ed10a110f336918a1b138a8ed1e249790e6ce21cd3e4d56e5277d5b2d0824fe6",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-design-in-architecture-master-of-architecture-1bbfe5a064.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10306",
+      "sha256": "76f2e52760db33a8050708e00fbeeb5e73573becd38b755fb19185a94c75b94b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-design-in-fashion-and-textiles-cfb2d7a503.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-design-in-fashion-and-textiles",
+      "sha256": "0d1beb9a0fe67c5302db1cf053f0ab177e01712ec8941bea13951a907b15c105",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-design-in-fashion-and-textiles-cfb2d7a503.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10321",
+      "sha256": "a15878fff8b97bdda5867bb6dd6c0fecb1d0ad63597f3e24de685e4ec1cd4af0",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-design-in-fashion-and-textiles-bachelor-of-creative-i-8612667220.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-design-in-fashion-and-textiles-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "0d7b1305bc9f5fb12b0bfbb4229ce7b63b3dac4545b350e1d091528ecbcd22f4",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-design-in-fashion-and-textiles-bachelor-of-creative-i-8612667220.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10271",
+      "sha256": "0b80310c314decdefde8b93c3081a8e4a6b3f1b6e4c34cc4d1f5d07b8353503b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-design-in-interior-architecture-f97c57199e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-design-in-interior-architecture",
+      "sha256": "1ffe3a1005fca66a27ec5324ff99b30e3f8545112e44f41df9dc96fe943e71dd",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-design-in-interior-architecture-f97c57199e.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10322",
+      "sha256": "8ff88349c4b9a6ab721a02a7051cde56a7d6d719d81f853c20eeb891ee8cddf6",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-design-in-interior-architecture-bachelor-of-creative-93f4772a15.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-design-in-interior-architecture-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "dee218d7ad67614720e6c59247b345618742da3c34e4aee6bdab3499ead2479e",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-design-in-interior-architecture-bachelor-of-creative-93f4772a15.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10304",
+      "sha256": "9e1cbc73af23a281cbc96d2bebf529147d780651a7fe49088713b3b091a54298",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-design-in-product-design-7fada2574d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-design-in-product-design",
+      "sha256": "1cdd5aec03fd8943c595dd670020a17add6d59e75926eef486ac2551af167682",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-design-in-product-design-7fada2574d.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10323",
+      "sha256": "6d1998c8d636a30d2e256b970ef3aecbbc7117a6fc3d9e4bfb37c3d0b2f33770",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-design-in-product-design-bachelor-of-creative-intelli-6456bdd38a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-design-in-product-design-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "88081471498bd007ee7f17a624059381394b517929b06f73a6c37da8530dc63a",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-design-in-product-design-bachelor-of-creative-intelli-6456bdd38a.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10308",
+      "sha256": "0e51dfb91a00b69aa964231414fcc158f194f12792e5a372ff59284fe5989390",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-design-in-visual-communication-c3b3c5d609.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-design-in-visual-communication",
+      "sha256": "a85f50aa408498a2a14b12dcaea76f3d66e810593ae3285c403fcb08442b6d3a",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-design-in-visual-communication-c3b3c5d609.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10324",
+      "sha256": "1bd36a54b2167a5d3f12a57437f4daddb5445b04c19556885edd7d3199c86c35",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-design-in-visual-communication-bachelor-of-creative-i-5ce8c61329.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-design-in-visual-communication-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "bddc867b757ad0f9847819f268d80d3702f5edaff2b89192dbaea3e3d11dc252",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-design-in-visual-communication-bachelor-of-creative-i-5ce8c61329.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10348",
+      "sha256": "b9ef0aec6ce6196d1ad153816d5fb3c5a691227c771f8549f6d8392217980c8e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-economics-43d3641273.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-economics",
+      "sha256": "ff0c83d960daf080616861476661f2902182673916033eabaa7e11d35ad907c9",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-economics-43d3641273.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10386",
+      "sha256": "ec129c310bfc257271ee5189a10f0c72007fb6b5863e7be78b7697f8ab97ee9d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-economics-bachelor-of-laws-daa8fc2602.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-economics-bachelor-of-laws",
+      "sha256": "5b5d889c5ea681dd79b4de5bea975021e2f0b2019b7dd2aae2720eeb5bec7d30",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-economics-bachelor-of-laws-daa8fc2602.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09120",
+      "sha256": "c1130605f4966ab1c8fd292c6ca7199da54e4a201c225562d47f0600adbcb5f7",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-economics-bachelor-of-laws-honours-9808b4ec7f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-economics-bachelor-of-laws-honours",
+      "sha256": "7fd1f8d70a544bb23b72551f96fbf76c6415f39d80d162d2524537163ba6ca95",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-economics-bachelor-of-laws-honours-9808b4ec7f.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10445",
+      "sha256": "797b69dc7b9c1b315a3163066664b1987069088c9cc0b5cfbea1661ef6e0a137",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-economics-bachelor-of-sustainability-and-environment-d98761fec1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-economics-bachelor-of-sustainability-and-environment",
+      "sha256": "09ef6cb2cb1cf20472aa1c7d8d520f665a23e82b6fb1912019ef5b8458483bd0",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-economics-bachelor-of-sustainability-and-environment-d98761fec1.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10450",
+      "sha256": "390a2efa595ef275b5cb3f1e96e6804fd9bd5dfd488e3800bab2e3290dbe5193",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-economics-master-of-teaching-in-secondary-education-e15e371575.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-economics-master-of-teaching-in-secondary-education",
+      "sha256": "a0a3188c928348a674da9f4a5762e7e8a0ef10dbffc9132e15434c0348100790",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-economics-master-of-teaching-in-secondary-education-e15e371575.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10480",
+      "sha256": "a4743b57b85fbd62ac630dd3786b7364bbae2db8c56448a282ea0f039174c2ad",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-education-futures-master-of-teaching-in-primary-educa-93fbe21690.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-education-futures-master-of-teaching-in-primary-education",
+      "sha256": "5d73f12975cd99d9197c92bebfa7983b8624fc6f7f3742b07ed889b065a8ecb2",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-education-futures-master-of-teaching-in-primary-educa-93fbe21690.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09066",
+      "sha256": "ae0486958366cceaf2457d766aff8e115d8e1e94706bb1078973bf02daf8b77c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-engineering-honours-ed61c8bab5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-engineering-honours-flexible",
+      "sha256": "ce0c91e3698da3e59f43fbface2e15c22bfaf771110ade1cab53504af5d46227",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-engineering-honours-ed61c8bab5.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09070",
+      "sha256": "1a8d1448acc47f358fd093a4c061f5f86ee49a88c0bee34172cc7a53fbfb490d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-engineering-honours-bachelor-of-business-2fcdacfaf4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-engineering-honours-bachelor-of-business",
+      "sha256": "330dd1f17e10ad39bbb70c610d99ac5e0bed8ac4611ef3be6cddd83a1a983de0",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-engineering-honours-bachelor-of-business-2fcdacfaf4.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09076",
+      "sha256": "49faa0f09123f4fa430b61214d6b7c1e3e31739888b4e80677bc685090c892c3",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-engineering-honours-bachelor-of-creative-intelligence-a6ffaeecdd.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-engineering-honours-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "06b27e22ba785b2323edb6a3d27f2079a5e7be78abc08390b113ab6de3c5b011",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-engineering-honours-bachelor-of-creative-intelligence-a6ffaeecdd.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09147",
+      "sha256": "94d0545475d35a598503a2667662f400bcec15f2b2a96d7614bfffab6c1fa133",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-engineering-honours-bachelor-of-international-studies-f9560e9e56.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09148",
+      "sha256": "8fc44d91af10104807ba669730f9a3d9b6dfd1ee7f369c85bd46e4d727e6f448",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-engineering-honours-bachelor-of-international-studies-c6a5000c01.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09074",
+      "sha256": "904cc1a37cf0c3b26408282bab505d27a0d2ffd4c49b27779654afe166883f52",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-engineering-honours-bachelor-of-medical-science-1d1de497be.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-engineering-honours-bachelor-of-medical-science",
+      "sha256": "ed077ec8deb77e851e27e59a724dd6f386936b58f1a1b0338ca8f72036d6ec5c",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-engineering-honours-bachelor-of-medical-science-1d1de497be.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09072",
+      "sha256": "95c9ba4b74f9594c08a6322c287f221de6a66540b73c6a3ebd23908016833208",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-engineering-honours-bachelor-of-science-8e29461beb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-engineering-honours-bachelor-of-science",
+      "sha256": "931dd885237c6b223ecaab7de8aaeccc14a7fca03c2eaee4bc0dc8bdcd47f0c4",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-engineering-honours-bachelor-of-science-8e29461beb.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09171",
+      "sha256": "89e60b7569360601cfa61b0527f55e1b846d29c0cc5b928dca5bc9691a1c343b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-engineering-honours-bachelor-of-sustainability-and-en-23db478e62.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-engineering-honours-bachelor-of-sustainability-and-environment",
+      "sha256": "b27d6595b5691474eefbaa23841f3fbe1b9a131efbe7cfe40654ec865e26d5ee",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-engineering-honours-bachelor-of-sustainability-and-en-23db478e62.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09067",
+      "sha256": "f9723d95d7f471bb7e197b3ac54121a159e8d4fd80f4c83d527c74d63c40e2ab",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-engineering-honours-diploma-in-industry-practice-6660823df4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-engineering-honours-diploma-in-professional-engineering-practice-mechatronic",
+      "sha256": "d359157cceec04a83a5a144dec2c68b43e566f098a705fd08c4b930a2bba23af",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-engineering-honours-diploma-in-industry-practice-6660823df4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/for-students/current-students/managing-your-course/current-students-information-engineering-and-information-technology/undergraduate/diploma-it-professional-practice",
+      "sha256": "9e23e5b006787eb7f89fc9beeeab2dedd119b977b0ab316b204ed18b3dd1e36d",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/raw/diploma-entry.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10066",
+      "sha256": "c930a91e2d8a07f1f12218b2024bc4b1c422ade99321d1e6c7faa97a2bf9547b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-engineering-science-d2e220d124.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-engineering-science",
+      "sha256": "161ac0b984cd543ef87eab233fe20d45d7c6ebdf0f52f65907d8ff96ab1f19fd",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-engineering-science-d2e220d124.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10223",
+      "sha256": "fb2deab7425cb5558233736112d5a416eb94ec1bf90c9f23b2a4a4bf5bf7fdfd",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-environmental-biology-af3c17fd8a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-environmental-biology",
+      "sha256": "666e90e8b7252098ef177c3e4a60e83191e0a5dca7b4e3f1335f89be84c0ae72",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-environmental-biology-af3c17fd8a.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10486",
+      "sha256": "6caea55d202e6ad31cd4652beb154f90d59ca55d062b149da6a825ea7b1442cc",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-fashion-business-c31262b0ab.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-fashion-business",
+      "sha256": "524e4e28b31fd997a81d199879143ad6350bfd3343cbd87be991f369b77632e9",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-fashion-business-c31262b0ab.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10482",
+      "sha256": "f43bb5cf772b6ad67774ddad0fc00a5eb1a1b596fa522903bfbf548acc8c3d0b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-food-science-and-technology-32596e35d6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-food-science-and-technology",
+      "sha256": "11f3d6ce8b60ed7b7678061f414098a8cfb99895fb64329421c5a42645b172ac",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-food-science-and-technology-32596e35d6.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10483",
+      "sha256": "d4b3c58aec63673756fe2a623559d05b103263460d1f19ad4d7d609bcf2f40c3",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-food-science-and-technology-bachelor-of-business-5056287b6d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-food-science-and-technology-bachelor-of-business",
+      "sha256": "6972ac5fe52e90865a56c81eba99ec1497dfae21dbe5f6db13faa37e59fb4d2a",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-food-science-and-technology-bachelor-of-business-5056287b6d.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10387",
+      "sha256": "7559417e5b7931ebd67edf43b026b9ea0ef3359e9ab6559a59b48241ad2c9ad3",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-forensic-science-896bc207bd.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-forensic-science",
+      "sha256": "8382131181874056f6dd4efa61298846c066b7e61ed4b144bae1e71128f988cd",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-forensic-science-896bc207bd.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10389",
+      "sha256": "bcbfbd91fefa9db8b4641b1e8be6cb29b072dbc87874989f4484477234f66e6c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-forensic-science-bachelor-of-creative-intelligence-an-f657067c67.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-forensic-science-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "f1caaef88a4dbea08919edf95ecc72d77c27c2aa4cf9ecfc18dae57d87210b61",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-forensic-science-bachelor-of-creative-intelligence-an-f657067c67.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09149",
+      "sha256": "540108937bd0c728adfe5586d7dec97492e85c1f38993fdd28c2b23fc72bc1c4",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-forensic-science-bachelor-of-international-studies-ho-eec5f0f17a.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10391",
+      "sha256": "e065529c3eb1c58a9aab3334571f07148587adf9f63b16dc6759e5f960071e8f",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-forensic-science-bachelor-of-laws-152761bce2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-forensic-science-bachelor-of-laws",
+      "sha256": "61248fc036957ae26d9eb58bb357730277c36d2c97c278dde2518b8a70e75274",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-forensic-science-bachelor-of-laws-152761bce2.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09121",
+      "sha256": "615d0ca4d98f23202af8b1cc9c5616ddfa213fbe3346b6ae0ecdfee93c5ec161",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-forensic-science-bachelor-of-laws-honours-e7a1bfd10c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-forensic-science-bachelor-of-laws-honours",
+      "sha256": "293f72efd506663f8646cf66aa5fe104e360fc3d250ab61a8ca45bb5a804fe58",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-forensic-science-bachelor-of-laws-honours-e7a1bfd10c.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10229",
+      "sha256": "7733e0c6d73e28b806c9b5c7df0a516e3937f09254b6c038c781036c25ceeea9",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-games-development-1a9aeac195.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-games-development",
+      "sha256": "3043ec42878c5c9560ae6da4e8cb3e40d6051ac7e3ad8b3dedf12a0032c4f758",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-games-development-1a9aeac195.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10395",
+      "sha256": "436b1a2c5c617f8477748bb4112d5f1d19d6976debdd0410fc9324aecbda068c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-information-systems-a6a19ad609.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-information-systems",
+      "sha256": "ee31c672c2264cd784cb1eddf049ed2cf709324e87636113c821f90cbe6fbbfa",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-information-systems-a6a19ad609.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10278",
+      "sha256": "4376a99176fa0d4419ee4f301a846979767e1ab5392b2ebf1ef1bbebbf28df22",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-information-systems-bachelor-of-business-4528a4eb87.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-information-systems-bachelor-of-business",
+      "sha256": "06f90452a3661198d2fbed11b39a8da8c5e79acec0a6474b719a6a72392ee651",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-information-systems-bachelor-of-business-4528a4eb87.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10485",
+      "sha256": "5cecf5a4929c9b4ddbb52585980d6a4a45bdeeb864edc73c18d02e6a28157a6e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-information-systems-bachelor-of-sustainability-and-en-325287f2ea.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-information-systems-bachelor-of-sustainability-and-environment",
+      "sha256": "57bcd2ffc0b49fd67df95768743e5c7f9f79943385ef8d3b5960accddbea1e7e",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-information-systems-bachelor-of-sustainability-and-en-325287f2ea.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10148",
+      "sha256": "f072f170fc6889bdc5491d5606d757d095e63bf6860c04d12e497086356b6376",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-information-technology-3d1ccfa871.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-information-technology",
+      "sha256": "f976813a0140e63118676efcfe2684c8f71eb59e12c3a95aafb129d0bfe0d746",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-information-technology-3d1ccfa871.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10143",
+      "sha256": "8c52ea4c51e172369bed028b2538bce0057edfb871385b01a8258dcb918d4f00",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-information-technology-co-op-f6bd951d46.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-information-technology-co-op",
+      "sha256": "74d599ed4a75a75ab67f0503c0031d5c534f472cd04deb7247bc29c6228fe013",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-information-technology-co-op-f6bd951d46.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09019",
+      "sha256": "0d3d8112081f3567e52ac5c242b75779b135208ed78ee1c2d987df65161dee96",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-information-technology-honours-d6c5a44cbe.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-information-technology-honours",
+      "sha256": "1dfc85267ccd9bdff98d432162bc5b2696cb879fb692d017de00237ab7ded82d",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-information-technology-honours-d6c5a44cbe.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10488",
+      "sha256": "9197c950a345aca1c7411784aa9d22aa5b15fc09e15f2ecce7a402b7ab3c15c3",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-information-technology-offshore-5a8e6b6f2e.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10219",
+      "sha256": "c160f7c0a4c1409a49743e387827b212f0a62abd117a64e5ee95636e1c5f6b6b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-information-technology-bachelor-of-business-03d922fd38.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-information-technology-bachelor-of-business",
+      "sha256": "d22cdaf0659eec7ed17c7ac44678afd787779efe1f0872fe5ff26588fa2881b7",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-information-technology-bachelor-of-business-03d922fd38.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10327",
+      "sha256": "1020a6d7acde73042959e7f0ec0a988da4455a5ba9d8d2f33214d447b6979289",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-information-technology-bachelor-of-creative-intellige-774b753cdd.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-information-technology-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "0c409f19c553fcdeb427e8a33189d4d5a01b9563e541b022332148a389fb32ac",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-information-technology-bachelor-of-creative-intellige-774b753cdd.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09162",
+      "sha256": "0c95ad7926bc6b6297a4c33d2323b6a99f358f96296858cfadf0382da9d3e2f4",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-information-technology-bachelor-of-international-stud-bf87021582.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10245",
+      "sha256": "4eda548b8db6fafb2bfbc3a42c08a86aa49ea96104944a4598e298c77ea2f60a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-information-technology-bachelor-of-laws-b9fae2fe6e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-information-technology-bachelor-of-laws",
+      "sha256": "a7840ee05a076baccb71009638db6dec845fe1c3f8af35fb54bd439cbe925ab0",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-information-technology-bachelor-of-laws-b9fae2fe6e.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09088",
+      "sha256": "00c7d9342b7b26ae21072a63ce49ea93217a175ba1305562a81c559f3e2a8b4d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-information-technology-bachelor-of-laws-honours-72e9d6e987.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-information-technology-bachelor-of-laws-honours",
+      "sha256": "36412b90516c5b2d9668c62d0c25a68582103278f41d0fda82d590d2d66bd178",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-information-technology-bachelor-of-laws-honours-72e9d6e987.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10484",
+      "sha256": "c034d2a0ff519781d41626afd742ae4e0357c6ecdf7810ccce94c1521093b85e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-information-technology-bachelor-of-sustainability-and-885d8591b1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-information-technology-bachelor-of-sustainability-and-environment",
+      "sha256": "5c113f16450ebb7981868d9867d3a8041eae3526db9d245a2ce0422554fe2dcc",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-information-technology-bachelor-of-sustainability-and-885d8591b1.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10345",
+      "sha256": "deb34dbc1c571c6091434d9d0e04c4ab90de8cc6288b7568b5126aae2530d3fb",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-information-technology-diploma-in-industry-practice-3a6e7207fa.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-information-technology-diploma-in-information-technology-professional-practice",
+      "sha256": "ec2d7d4cb83ae4221403c2278333145810f543ab12adcc3313eb73b3529afbd7",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-information-technology-diploma-in-industry-practice-3a6e7207fa.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09079",
+      "sha256": "b4d24a4b67e89a9af72d0c04c6977d9d1af097498c1242f594e987d5b6e969c6",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-landscape-architecture-honours-4d16684165.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-landscape-architecture-honours",
+      "sha256": "43c1f04fa222779fee49b1b1f85a6c22c1cd1412281d97888b009617d3520018",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-landscape-architecture-honours-4d16684165.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10124",
+      "sha256": "46e6a2eeafd89db8646d2feb3130ec2f4291d540e09fe9f182f87cb374ba989a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-laws-e2a3085411.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-laws",
+      "sha256": "98b3d8deef8b16175f7d5763dbb167c5e5a81cf05835c1d8ad3bebba8fd0658a",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-laws-e2a3085411.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09083",
+      "sha256": "c6c14dce372759cc0214d96dbe4963f0bb27febe514c24a61f8e908fad5c8d8b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-laws-honours-4296904ed8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-laws-honours",
+      "sha256": "df5e1963a0051019b40602dcd2e3d24ae451fc247ffe676b1b59a5e8a681d81f",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-laws-honours-4296904ed8.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09098",
+      "sha256": "1cf01ffda287e53c8af20fc6484aed377add39d8c103c664f32683deb4bf4efe",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-laws-honours-bachelor-of-creative-intelligence-and-in-d24ccb5dc6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-laws-honours-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "6670fe01005a0e198802c34e4441273eb1da6818ee0a0f544325fc3f51a560e2",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-laws-honours-bachelor-of-creative-intelligence-and-in-d24ccb5dc6.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10338",
+      "sha256": "1c34355dc94cde0bdfb6ec829e99bd495f24c90fb80f754adea20b1450e7e261",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-laws-bachelor-of-creative-intelligence-and-innovation-64fa3e3a2f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-laws-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "8834cc12141ad4787c1725690adae882e175e36a34e8fb5cb4af7cdf22007797",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-laws-bachelor-of-creative-intelligence-and-innovation-64fa3e3a2f.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10342",
+      "sha256": "073d8116f2d74951f1341ec9e2d50f58bf21e48b1574a778dd8aea213d0313e3",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-management-c4300e2f9f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-management",
+      "sha256": "4e5e673231fec366f4320cc52d41b756db2ee7bc5f68df0321631f0195e07327",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-management-c4300e2f9f.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10355",
+      "sha256": "7cd7a35956fb2c17d5cdf01cf7317064fe4a92cfd445d781c588d0bbd1ebccde",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-management-bachelor-of-creative-intelligence-and-inno-3d1fc1585f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-management-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "d9e1be6044f006c6bf9bed930184edc4e696fee1046947943ca28db4663c8947",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-management-bachelor-of-creative-intelligence-and-inno-3d1fc1585f.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09153",
+      "sha256": "8254fbb117a5c6b512746cab814d65d8d2fec0ceeb9a671e9da54c4ac6efe7df",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-management-bachelor-of-international-studies-honours-b0971b4ddc.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10412",
+      "sha256": "9c31f4d4054faa062b6d84c4b6fa7b8ff02f309cb529d1323969ac39b41bb472",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-management-bachelor-of-sustainability-and-environment-eea12b2233.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-management-bachelor-of-sustainability-and-environment",
+      "sha256": "456f9fd36c9c0ba21c905e91b65b1f0353f6000906229497666febd4d4b68607",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-management-bachelor-of-sustainability-and-environment-eea12b2233.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10228",
+      "sha256": "63e981c9d6ad792deee43c218ed089a46720ed3578fa8b8b9e0b315668d89f2f",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-marine-biology-and-climate-change-8ade2baa20.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-marine-biology-and-climate-change",
+      "sha256": "2a4fd592a50f21f6584aee7be003dfa675c9146ba6c49e7985712f0bfad0f33f",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-marine-biology-and-climate-change-8ade2baa20.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10457",
+      "sha256": "0e3dfe7fb2c96617a7f1ef710cc49c75ba6df51dcf2a3953f183af71a83b971c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-mathematical-sciences-6dd7d61d44.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-mathematical-sciences",
+      "sha256": "a8fbf37caad48ad1990a37169b27587dacfbf031ecc4baa271aa3de43776e607",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-mathematical-sciences-6dd7d61d44.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09129",
+      "sha256": "c24ced45ed4c4e2d79bb430f3fb3aec470d3e98bb72c3feb3a9f7ac591d5e1af",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-mathematical-sciences-honours-7fee72637e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-mathematical-sciences-honours",
+      "sha256": "144dc102c323b360d6a6fa2b2199a5feb647cd47e9b18d6d3b1c93d8edecff42",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-mathematical-sciences-honours-7fee72637e.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09155",
+      "sha256": "200154d1cb5058139557cbd92c6e88136316a281cfe50d6e757c1a5d4557cc5a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-mathematical-sciences-bachelor-of-international-studi-8fe99f7fa4.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10184",
+      "sha256": "2a78ac9f07e5b028840d8868ba134a3d730a32af169fb9a84aa2bfd703b736df",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-medical-science-3f89882b57.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-medical-science-medical-and-health-related-sciences",
+      "sha256": "5d26156bd54dc72a57437ddf61576c93606d6de9016d09d2c84cd94e4c87ec61",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-medical-science-3f89882b57.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10481",
+      "sha256": "9e99abd57051124f2ecf54a1903ba7d41336fcf30e2a31a61fd3d9ccd807e17b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-medical-science-laboratory-medicine-professional-12d510c829.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-medical-science-laboratory-medicine-professional",
+      "sha256": "b4fac83171c3a1968ca0a0462bca52ba0c23e2a234b3d5d2c0476c1e36312fc2",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-medical-science-laboratory-medicine-professional-12d510c829.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10163",
+      "sha256": "26c13f3b90b6d2253df2b64082efaf558378f0e4b730c82913d7b17f61401544",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-medical-science-bachelor-of-business-7f2e1e5347.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-medical-science-bachelor-of-business",
+      "sha256": "73b4a75cb04bdd004eed5904c33e22b79f59e940d0c32fc8abf24ed6bcdf8d95",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-medical-science-bachelor-of-business-7f2e1e5347.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09156",
+      "sha256": "2403be5d8674b6ab07617f969650ae5958b8e3dce04f03cb601332ecef1b7839",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-medical-science-bachelor-of-international-studies-hon-e9247c2314.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10131",
+      "sha256": "ed577df570c5eb3e3e27f6c8fc6f8da997998953029ac2c756c9d241e83f1edd",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-medical-science-bachelor-of-laws-6dd9b74aa0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-medical-science-bachelor-of-laws",
+      "sha256": "debd6db422b0453c98f248c71535fbe8279ae31e8e46333e123e1506b0506f89",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-medical-science-bachelor-of-laws-6dd9b74aa0.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09086",
+      "sha256": "f2bb9247bafe2c3cf9e7a005a4c83b976842859dbdb3cbda7546760a42c7f075",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-medical-science-bachelor-of-laws-honours-5184d3fbea.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-medical-science-bachelor-of-laws-honours",
+      "sha256": "b0b2a7a9a4883210dd5a000f7ad823841849449ff499c6b9ba29a5b0b7417ed2",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-medical-science-bachelor-of-laws-honours-5184d3fbea.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10225",
+      "sha256": "b7b66b164cd86c2a2e36ab4531cb1e4573f8d898ca599107f8885cfb7e953759",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-midwifery-d7c85aa2c6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-midwifery",
+      "sha256": "8d1b299f69578ebaae3df06917ed7560d377b5a7940b4e032c76847f7d2ea48d",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-midwifery-d7c85aa2c6.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09051",
+      "sha256": "cafb5a1c5d96a90728857f697dd6cd4829a1b419cfde30b5e81f508f7d302424",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-midwifery-honours-477707b45c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-midwifery-honours",
+      "sha256": "f128e166ff8be76fd6c274235c166f115880124b7243d9ffc986339abaff74aa",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-midwifery-honours-477707b45c.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10329",
+      "sha256": "8365502c74ce96976212df9588759b3429907e2d301dd8d2df71d76e0251c4a8",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-midwifery-bachelor-of-creative-intelligence-and-innov-f3e3ab71d3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-midwifery-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "c76dc650e209eac3988f0d852877b3b62958e23368f53ceba0d64990fb20b7d4",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-midwifery-bachelor-of-creative-intelligence-and-innov-f3e3ab71d3.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10172",
+      "sha256": "0c4420ff34e1515c1bbccaab4b7ebb27e50e1fd22e35f958466558e0d668645a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-molecular-biotechnology-2f196109d0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-molecular-biotechnology",
+      "sha256": "6a38391be5bd972bfc1d38af7d3fda7f6b3265aa8fd1a2c2b1f41800e51c6eae",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-molecular-biotechnology-2f196109d0.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10169",
+      "sha256": "1ecfc751f2ca2d146c879c66231fbcd133ce5fd3422b05a0848a78ed0b8a61f0",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-molecular-biotechnology-bachelor-of-business-d8817e0be9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-molecular-biotechnology-bachelor-of-business",
+      "sha256": "c627507de094def8a459d836eba8b1a28c6421477c1d36a4154dad09346c253b",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-molecular-biotechnology-bachelor-of-business-d8817e0be9.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10122",
+      "sha256": "060dabec70258d1c4d8e5d3d34f474814304925861b559dbe936e2ebea5ac69a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-nursing-ebcdf4940e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-nursing",
+      "sha256": "440d34017d2580d07d59c53f5ba01a4dff1ff9408a9b98672b44c1cd397be8a8",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-nursing-ebcdf4940e.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09018",
+      "sha256": "76f81ca4d705c8a15a98e74f837cfc49b7d4911c333114579c9654d8240ee727",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-nursing-honours-5c35f9f0f4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-nursing-honours",
+      "sha256": "256a4235521e5246b6a2a7b7a24af13524bb2da54821847396c9935e7f5b4166",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-nursing-honours-5c35f9f0f4.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10351",
+      "sha256": "5f7ef6afff692fcb68a2a3f00bb3498c2ba00ddf0efdffec407e9210173e7260",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-nursing-bachelor-of-creative-intelligence-and-innovat-c4ebebae54.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-nursing-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "0389654cc5f0bec95cbcdca766c6e03c46203280f3c32777217de76449db4bf7",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-nursing-bachelor-of-creative-intelligence-and-innovat-c4ebebae54.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10310",
+      "sha256": "c4e210670800d1b69c66ab06d78ba75b3828a5a82bf5c9f260d47a665cb75f5b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-property-economics-0976a99611.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-property-economics",
+      "sha256": "e27094b223c7b735d5b3d59ae03336cae1723fdad5d4f91c4b1a24ca69ee513e",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-property-economics-0976a99611.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09170",
+      "sha256": "151f2c6db344da875334af2878d4326a717d1d800e3b75d84f2fba3d09c1e7e3",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-psychological-science-honours-b3415fbba0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-psychological-science-honours",
+      "sha256": "3602f2bd9a673f119738849690c3245b0d9c77810938134f7868b173a465a307",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-psychological-science-honours-b3415fbba0.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10477",
+      "sha256": "7ec2a8f97a65f82cac84d2ee34388258550d839b6b673d9bfb07c3e19bcf4d94",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-psychology-a20c259f1d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-psychology",
+      "sha256": "a69c323b7533edcab2c29acbb49e4467bfdacc17b9f3c159050254e8be3cc252",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-psychology-a20c259f1d.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09169",
+      "sha256": "f78a0672bc2286ff84d32b03b8718542218dd080b16477f37af8a3f1e17d563e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-psychology-honours-70392dc51b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-psychology-honours",
+      "sha256": "d9eeeeaef2ac8ccefc3ed81bbbe4a625b9c1797af0a0dd99d597e5cd66ef5cf3",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-psychology-honours-70392dc51b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10478",
+      "sha256": "230430911ed43f78bc54761a98797cc1319b21eaf60e6593d4d5950edd36f25c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-psychology-bachelor-of-criminology-5ec5dcee93.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-psychology-bachelor-of-criminology",
+      "sha256": "85c7d13b06226e46133424f2262db817db0bf162405b9263e8566ce9dd300b05",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-psychology-bachelor-of-criminology-5ec5dcee93.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10242",
+      "sha256": "767e49279269c080dd5cc468c86dae8c773f65f9f348e211b6954cb34edd8d2a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-science-db05592c0b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-science-life-and-environmental-sciences-physics-and-mathematics",
+      "sha256": "2bab1dd45373ee8edda21e0e0f0c11274fa6249479cc0cc9b51a3803ac777d72",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-science-db05592c0b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09168",
+      "sha256": "1ae143e196cf699c1fef6cc1470f59cf49663615dd55ababd79ae5b78cd31a60",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-science-honours-86b0ddccc7.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-science-honours",
+      "sha256": "4ef725c2d1dc2fc7464df0282d5288c688402bda895ce719d91f0b40458362b3",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-science-honours-86b0ddccc7.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10162",
+      "sha256": "9901bd05d46c15ab4f990d2f12954a227e2ab6c3fb6ab57432a1b22c9e143791",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-science-bachelor-of-business-927f1834ee.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-science-bachelor-of-business",
+      "sha256": "50823076bdce6463d230ce45fe9fcfe3f5ab26b5bbd30a2d382e11d5dd386fec",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-science-bachelor-of-business-927f1834ee.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10330",
+      "sha256": "3c24f8fa08b43dd74f88574969bcd9a55dcfdd2472b3b35eee660963360dd32d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-science-bachelor-of-creative-intelligence-and-innovat-1428f0923e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-science-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "4edd3448bc76fca2c559e07ce7fb46e60e4ebd6e06e5d03d27e197d06643b149",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-science-bachelor-of-creative-intelligence-and-innovat-1428f0923e.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09160",
+      "sha256": "8cd45f912bf2f891aeccb065b7b3929fdfa9bb19049a939365802f4d14fab5eb",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-science-bachelor-of-international-studies-honours-eb23d56853.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10126",
+      "sha256": "ea6eec293373ed1bef5c85d83c7195b935c9dec83378d330ecc0e937e228fa97",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-science-bachelor-of-laws-42483e75ea.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-science-bachelor-of-laws",
+      "sha256": "c393a832913dddacdfb330173a750ac8ceda8028578ae4b160db8a7a2d916af1",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-science-bachelor-of-laws-42483e75ea.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09085",
+      "sha256": "9adea57d2c249d43b5f0a9f5048467159c4ca70ad313df793b6ba2f2c529da4e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-science-bachelor-of-laws-honours-105f82d5e8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-science-bachelor-of-laws-honours",
+      "sha256": "b298289754e727c59d57d59ba579c733f9375ae3fa95e05067dd1832a80e8949",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-science-bachelor-of-laws-honours-105f82d5e8.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10399",
+      "sha256": "cbc53b01a14f2c175fd1e34e3fa914c0532ccd4151bc650e65dc169cd2f29d12",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-science-bachelor-of-sustainability-and-environment-cb92136f1b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-science-bachelor-of-sustainability-and-environment",
+      "sha256": "eb12d1c6846370c0753a09d31bb53a16f95a79b45bd14c99ffdef2a5ef28c597",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-science-bachelor-of-sustainability-and-environment-cb92136f1b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10404",
+      "sha256": "3ddc9bc67c1f90d76651f40782542b95115c57e50e0a8f9e0032ee4a557b3f4b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-science-master-of-teaching-in-secondary-education-9d54aa97fa.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-science-master-of-teaching-in-secondary-education",
+      "sha256": "3c39e8cc591fb92a98081ec16b04fea991be5302ea4a52a402d9165fe75faaf9",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-science-master-of-teaching-in-secondary-education-9d54aa97fa.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10301",
+      "sha256": "9b60084d09c43f2dbe941f82ed78ec7f80413b2bc6a13350a4ff7e4e54d93fd5",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-sport-and-exercise-management-d4c1d6f78f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-sport-and-exercise-management",
+      "sha256": "89a0caf9f975044e0cc3d95ed275958cb512b2094f4f3605788fcc73935493e7",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-sport-and-exercise-management-d4c1d6f78f.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10300",
+      "sha256": "2edb3a43872894fef07deb2a6d496bc567199384fbe2fea4377f9b2b982dee7f",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-sport-and-exercise-science-4c2d2170a3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-sport-and-exercise-science-exercise-science",
+      "sha256": "d26fbcf3f72ce5bb6c8f72920fd04d004c7b0054a75ff26dfa63e03f821207cb",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-sport-and-exercise-science-4c2d2170a3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-sport-and-exercise-science-exercise-therapy",
+      "sha256": "9dc1dfb34c22c102917b559b8bf7ca4a96ddc84272ddfa0a0350858cf48a507c",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/raw/exercise-therapy.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C09057",
+      "sha256": "89ca08ca4f6869388c148c8a2c3ba52185ec4f70cbc63221cbd5ec6f3698d85a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-sport-and-exercise-science-honours-711cf35f45.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-sport-and-exercise-science-honours",
+      "sha256": "8d4ea0010f09b423b16d6d555b3290ddb04a4e382f7f956565e62136e9d0026c",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-sport-and-exercise-science-honours-711cf35f45.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10328",
+      "sha256": "6a357d245e1df8b44e2e4e023785aa9aab0367d13feef81ee1ba061e03d4cb9e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-sport-and-exercise-science-bachelor-of-creative-intel-81f2319f46.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-sport-and-exercise-science-bachelor-of-creative-intelligence-and-innovation",
+      "sha256": "93e9029208788e32b1424988448a104649e460d86e271f98fef5c18771235999",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-sport-and-exercise-science-bachelor-of-creative-intel-81f2319f46.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08437",
+      "sha256": "3bd51e2f2327c12b2d467a3300dc326c0c7b0f763156aaf6e4ff9727fe3b3d11",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-accounting-7c320a38ad.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08981",
+      "sha256": "3f568b9d6edeadd6e936291711231873e2f54f77c461424e3b35ee8e5da08fc4",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-advertising-and-marketing-communications-6791220ac3.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10053",
+      "sha256": "152ae951dbc8e155388a756b75d32c5beb2e4053ee73182e40506af4504c7e3c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-artificial-intelligence-and-data-analytics-654ffaae4b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01149",
+      "sha256": "b50d15e7bcc9138f6b548b6ef3f06f81c4076ac759d3aa40493ca0d3aa576366",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-biology-ff87751e7a.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01153",
+      "sha256": "924666014e0909352d03089e3c94b2e51f9905d0f99e5d6dbe10a58d33d8984d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-biology-91c5a451d5.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07132",
+      "sha256": "a7b446b20c0ac7ca414bc2a160d35d018bc0001eddc6fddd7adce4ecc213a281",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-biology-chemistry-earth-and-environmental-science-e610a34364.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03473",
+      "sha256": "3ea861c7ef0b5555c8f3758b7094f1d3c63998cfee40f66a27593c3c5ab2c420",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-biomedical-engineering-cf43d58b0f.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03472",
+      "sha256": "ae0d77fefcafab44fe78c52df8a64890529cc1894e36a13072165a3bce0d2b99",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-biomedical-engineering-0adf9b42cc.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01090",
+      "sha256": "05cdd47c024c9c53a37417fd12c586f953cfdbf656f3af10195982be2c059f00",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-biomedical-science-29df3374aa.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01103",
+      "sha256": "768f45758c5a809524ace2adc02c9b0412cc3902f87a8dbac404ca5b293b422c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-biotechnology-4392dfaff3.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01192",
+      "sha256": "db25347c753b492a6dc685278acfbd8f840f6e0dc7e038c485962d331b2bc1a7",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-biotechnology-f0fa4abe88.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01117",
+      "sha256": "dc23a71307794d10818077d01ece4cc0a47fa9c59a14fb5a75cb9cbc8010f38c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-biotechnology-e7fc2db849.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01119",
+      "sha256": "6be5818e888ac101d4e593da22645ddcf1e61a521656c849de80f636e3378f9a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-biotechnology-927309e4ea.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01186",
+      "sha256": "2c5ce0c20e294783317e4f972527c59e1216198a2f676fd1ae2f8c6c20882c69",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-biotechnology-honours-c0af3d27bc.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08997",
+      "sha256": "e35dec555ee860ca4a33cd9fe90df9578f0d327695dc004b13433eb8f5a2d43a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-business-analytics-8e5dd92978.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ02080",
+      "sha256": "086662006bbe7c1d5ce308117a5ed0b7e7068e9c1162d0cb4b0f3d3fc2ec9699",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-business-information-systems-management-d36826e73d.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09401",
+      "sha256": "6d1cd141f017b2acfab4728533dcb638022bf9b4a87eef7aa8df61b028afc265",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-business-law-7f84183f0f.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08965",
+      "sha256": "cba9bee9d9eff1ca024a512856207021af1e44b3f5c1c077c89b43f9391f62d7",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-business-studies-d1edc38f89.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07142",
+      "sha256": "62094ae7ebbf1d6b748498661b329aa05d3a55669d7566aac39ca92bea725cf7",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-business-studies-c47a3c94db.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07143",
+      "sha256": "1ceb0867aed509968f3fa298243d4eaa2d0043b7ffa77e2d6a11930366eaf755",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-business-studies-economics-e5e2209c91.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03545",
+      "sha256": "e7ff3a20f16be0988127fcfac6d320aa815ceaf8fccdc8cab5967db7c28df70d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chemical-process-engineering-2b4eed788b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03544",
+      "sha256": "1ac797eda65cd2dd0dad12cc21c442f39afa97134f4b3ebbb0fdc59676b9ed81",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chemical-process-engineering-247b725de4.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03546",
+      "sha256": "bbc8a448ac7090497a839d63ee3262152ab86c0a5485571c83c2d73635cb9927",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chemical-process-engineering-e18506b27c.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01148",
+      "sha256": "0def73c8935e8bd40950559f7603e4e5cd2f429300bcc6389e5a07c514d01f01",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chemistry-62e1d99469.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01152",
+      "sha256": "bb1cf09a421e743d4995b8790b6b08b3ecc1088b635a0c776fce6dc9ab18d5b3",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chemistry-bee6b901a9.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01087",
+      "sha256": "cab258e97f13f388dfcd88e479329cca41d82db4cd0dff9133773d620fc201d3",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chemistry-ddb5e90674.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01100",
+      "sha256": "beae84c391ed4b4f485517c7f756feba6fe0bfbffb64f8feec8d88d1bab6856a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chemistry-d97eb3557a.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01189",
+      "sha256": "7d6f1e33d4579aaddd093d3b05baaa93eb7bcbbd196b2ac87fbdfab5996785f7",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chemistry-2023d1702c.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01079",
+      "sha256": "24cd4ee8bb2f509b0113ba1af1a8f88aa4f413c5d8db3388b1b686af582ee7ef",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chemistry-400a26fb99.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01184",
+      "sha256": "85b8c123286a4c7431b91a8342f25d45b69cdaa0218d0dfa27712b3446ff540c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chemistry-honours-7036a38971.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07151",
+      "sha256": "b3b5264d883f7bd6b0cc9a66a4579e5b4e0edf12311f86fa1d280edcc38b6f0f",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chemistry-and-physics-6ea6f53b07.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07131",
+      "sha256": "2001fbe074bb4efce1a446de29a13237180a6a39de5b6bf7719ccf95acf62f86",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chemistry-and-physics-mathematics-4fd47a793c.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09447",
+      "sha256": "b10c5cffef9779ad09a84ab30b9cbc541762dafc15e426d0bafda914279d6d38",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chinese-language-and-culture-064925b591.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09453",
+      "sha256": "a1ae4f021ce78cff07129a1ce5de1eb490cb93dbe3fce6e63b46604373e8b6b4",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chinese-language-and-culture-1a478aa251.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09470",
+      "sha256": "62915d57a907b47d81abffe2174a8252e726c92327b82d2e05b8bcc9f1d3a164",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chinese-language-and-culture-international-honours-0693962d78.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03002",
+      "sha256": "9a79f03c958792c5fb84e4d890bce0697e414d96ef251460dcf3632ede18af1f",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-civil-and-environmental-engineering-75879ed0a9.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03025",
+      "sha256": "efa41c74bf5b3d11cabf1ebe1e4af1a7cd4a98e2829aa743f265b75d76bb9665",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-civil-engineering-099568ef22.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03134",
+      "sha256": "e66bcf820aae698aa710e77a18f39365de5d7564fd25195f4496680e65285f12",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-civil-engineering-4c9b9526f3.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03001",
+      "sha256": "9c706ba2f8d53d923824e845ab02bf9729ef2dbda092d18866be705cbc2b1545",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-civil-engineering-fb6e2173f5.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07145",
+      "sha256": "d3203e7c014e0dd43f0b10883985c53df4ad8b0be3c9448bb7853a592dc9eb5d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-creative-arts-primary-specialisation-1758c06fcd.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10051",
+      "sha256": "01f7df74d5f7e579e1b96b50faf2bb035eb5ca3a401aad98d1d1ec7720105f6d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-creative-writing-6fe0700aee.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01150",
+      "sha256": "c3ae8a4bd3c710a6df72b5f87b3aa50f4766bf114ecf3a5be535ab1c05810cf6",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-crime-scene-investigation-d5cf535cab.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01154",
+      "sha256": "ac241d290c41da56560e7374a7e1dd6b519272fc55e8e1de1e540533d8cddfb4",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-crime-scene-investigation-16315ee12a.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ02900",
+      "sha256": "1ce0d8ecf9a0cfc99647c540e0961c6875b7f8c99892670141a2fee7f8d53fca",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-cybersecurity-and-privacy-e189a8235f.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ02081",
+      "sha256": "8bb4662bcb9a69bc6e83d3eb82a30f13b563a51c6917d5550f6100bdfacb6c3b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-data-analytics-881f8c9f6e.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10061",
+      "sha256": "6add4c735dca57b4af6cd942933b37d4b84ae45d8a0c5d61bbac8c1a0e33535b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-data-analytics-f5bb58d363.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10059",
+      "sha256": "9bf065f48afb46f32c01703a9550453cceb29650f3c40216d929dab7791526c5",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-data-analytics-and-research-3e45085476.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03515",
+      "sha256": "c0041d6eb9d0544f47c547fdf522cc5fda3ea65f5c430d23be1594c657be69d2",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-data-science-engineering-d91374c490.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03518",
+      "sha256": "c56ff7bb27b24f992a1ddb9e07d7dc509e652bde63509a29aa9d165b759325d4",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-data-science-engineering-78a4abc31f.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03517",
+      "sha256": "dd3e6fdc61a58641a162b27cf1f3772299335bcfeb7f1342b3a60c7be8d31547",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-data-science-engineering-fa2706e5da.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10056",
+      "sha256": "1d70696be3fefac5b3a503a2e7b327a68babe4f49ff618637a63156e95f13207",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-design-leadership-4c89bcdd1a.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09479",
+      "sha256": "4e20046c95e04c637483992f326a988a9304141ad7861aea42546fd3ed24676c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-digital-and-social-media-b0dcb9d378.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10050",
+      "sha256": "4d42f4f9d00d9608ae2c71550cc77667de3322c394071d3f45b5e574e89a860a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-digital-and-social-media-dfaedf86b9.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09487",
+      "sha256": "058ea32c61906c8b9bbf2f95ac8b4abbe956408fdcf17f2b1afe036807661dd1",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-digital-and-social-media-865afdd385.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01155",
+      "sha256": "c0a80a394b52aab7cebd5597427cd845762fe4b623bea70231feab65ccda33e3",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-digital-forensics-07042f9978.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01151",
+      "sha256": "bf2295245dd424d0d3fd4bd486998b3555478787ee6149666b6a430d5b873dc3",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-digital-forensics-454a02c5ab.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09209",
+      "sha256": "22c64dc9980378ae4c70e82bb0f2b5219098217b58a921286c1820e285ccf952",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-economics-cf7a1aeb2b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03537",
+      "sha256": "ae2fd7bcc0db7b2aa1f169450991755a3901afbf11a38e113391b30ebd888d70",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-electrical-and-electronic-engineering-14e4057915.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03413",
+      "sha256": "1f0f61117d221d65c5261913fdfd5a17245ec1abe5ef71fa2dd980bcf8566e9e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-electrical-engineering-bd68c4a6eb.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03005",
+      "sha256": "0112907f88099aa82c3895175467596550026b174eee551a3899f7dbe2486ad2",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-electrical-engineering-db5e928631.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03028",
+      "sha256": "857b20b1157930b2585fd3308f885f2e3d6a790688d549845beb87311279a56f",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-electrical-engineering-98809b9ac5.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03527",
+      "sha256": "6e3cf182d50d3d8a50e1b3fc279543c6aa54c8065615bb916cf0a543906803dc",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-electronic-engineering-40b617bffb.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03524",
+      "sha256": "914c43387c651d984d5905d2180751836f1e6d8cb837c954554f7f54676065a9",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-electronic-engineering-f951f4e59c.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03525",
+      "sha256": "a508e9a03c340a30156dfb3e39b04f2f99153388ff9ec8b07ef88827f992b3e9",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-electronic-engineering-2e0d5c65f5.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03538",
+      "sha256": "bbeb7a1c4c7561463159ca0410eee0e32cb0bc33c8f00b54cb79e0011b31a743",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-engineering-and-technology-studies-1605f34397.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07146",
+      "sha256": "f82018266e87139b3ad89e220f571bef0e017e8f65281a26c9b46e3c8e560a6f",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-english-primary-specialisation-d908e42569.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ02097",
+      "sha256": "90f45180ba60c715cd398eea85c96e05bd18d50f68696cff2c93e49ac1b401ee",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-enterprise-software-development-f229898c13.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03444",
+      "sha256": "4c897586946fd70dd355422913cc015369f2d7494454a1e4ce7dffef74ca223a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-enterprise-software-development-6ce65b4fc4.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03519",
+      "sha256": "19848fd49965c3d0b76348208342717c8607e3b65532ad4b535d58ad1871a349",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-enterprise-software-development-eaa0498334.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01082",
+      "sha256": "245ed18eeb8ee3bd7ae80d80be8df143f018c7be9cb9a02b26752d1e66da81cf",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-environmental-biology-a55bf876e5.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01160",
+      "sha256": "ac0fa284633d61cab7c426754b59c729b93364d44150a0b3be91ddc9866046fc",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-environmental-biotechnology-80b5b29b35.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01089",
+      "sha256": "3cab329e676373d6dbf5602be4a5f4f52b976c9a534ae244def1cda8f55a2907",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-environmental-science-eaf8bda240.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01185",
+      "sha256": "6a867fbd749a20f98cf9c365782ad0fc49b5d26e64115499c16f8ed0e3251ebe",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-environmental-sciences-honours-c88af612db.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08975",
+      "sha256": "d556682dbcd0672ed29eecf60ed51e8547d1e8c42c7d3a2417e788ac0a4f878e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-events-9e17b374d2.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ06216",
+      "sha256": "70badafcdde8b419236cb27c75d03c1af072a08ac46aa2e0e1d35b5852df13da",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-exercise-science-8ab745f1de.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ06234",
+      "sha256": "38ac3aec0e3f8b0fe475ac3a49016e3e8d8bb8af4bdb184716fcf38f885b345b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-exercise-therapy-fda842d062.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-sport-and-exercise-science-exercise-therapy",
+      "sha256": "0bd662950f78a0431a2b74bc9c3094d8076b7b0b1647320e20d2f13e0f4db6a8",
+      "raw_file": "scratch/full-catalog/uts-enrichment/exercise-therapy-admission-agent.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08957",
+      "sha256": "3042388381dcad0c987ad2070de86c2d90a53a4c98c02c1dcf1b9a3c7c281528",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-finance-41c10575db.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08979",
+      "sha256": "d95784b942d9e5311f2a3e5393a728e098e4e9cad2276b6d2f963b13c24c4f06",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-finance-3b5d3b3ebb.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08440",
+      "sha256": "419f96029ca04431520238c115b5a3526c8e3922a843668fd3dc237193aa2cc6",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-finance-40ba42ae87.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03542",
+      "sha256": "69a2b9b1062e206cab750fb0de5c94ba5ae2c67dd9c8b858972e81cee6af190c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-flexible-engineering-540d336d93.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03540",
+      "sha256": "bad470d2aaf5daf9a152faf0c0c542ac1c03e4c3c27673fa48e4712a48487b32",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-flexible-engineering-28332ca08c.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03541",
+      "sha256": "704c40419a113da936118181e185b78c2b37297c9288e971b1fe5722fe2d87bc",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-flexible-engineering-09c0d83636.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01208",
+      "sha256": "6a20de416667a856d5a4656b57e069d0f7d4cc027a218be2312c446596de785e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-food-science-and-technology-honours-ddb9ad80b1.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01210",
+      "sha256": "f6ef3f20d6afdd506318fc2d220aa19023ea6018905d53a01c627cfe76d89bca",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-forensic-science-honours-8d0e4c09cb.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10060",
+      "sha256": "c8240ed4fa2ace9cb774f743cb1dc55131e343392f9606910b47aee73ef2e5a6",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-forensics-ffcc4d5e61.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09448",
+      "sha256": "ff53f72edc614ba2e4db38950bf6a51acb959b032c89089df26b79f10b2e5552",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-french-language-and-culture-746b22a55e.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09454",
+      "sha256": "80e983f22441239f5bec6ee89df81b03cb06569a3825efcbb0ab5072f54a2132",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-french-language-and-culture-68370ba35a.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09471",
+      "sha256": "134e2939b474cd5b7c26b367935570c3e45d3e95c455cfb29d2510f7d6aff652",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-french-language-and-culture-international-honours-2eb9311358.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09449",
+      "sha256": "6f5a3a98f613c2bc8b9e9237b3e2970b31ed368a5d42d5eaa0c153e2f0bae8c1",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-german-language-and-culture-cfe68be7d5.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09455",
+      "sha256": "b09006791f4476372b6d16cb0a6c6044bb99901c189e698ef2c971be4fa20293",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-german-language-and-culture-3c6c43210a.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09472",
+      "sha256": "d08538f64af03ba8a84641a8b664b85cb35f66bd813212d5950a6145a86a6670",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-german-language-and-culture-international-honours-f65f4c9591.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ06268",
+      "sha256": "bd885d3aea081ebedc58efb0882f228e6cd6deaefe27b02ef8a47477d059f0c3",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-global-health-cec8f90a16.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ06247",
+      "sha256": "193f2add1d6e44eb039cf2ec034d17bd867075a56246254727360603cfc94359",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-global-health-60fdddc0bf.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ06271",
+      "sha256": "a17a7ce2785381030bd3bc5ec2aee4adc4eac366ed8b26a5e2391754eff9b0d0",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-health-promotion-790aec5224.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ06245",
+      "sha256": "602dbe7787eb80f73c745f348a661e9525cf667aac66ed55bfcd732818f82d06",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-health-promotion-72ab6a0f9e.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08446",
+      "sha256": "de965e343b9612b1bcabda17f094a527d3062c39ac3fcc6ecd65fa9785128609",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-human-resource-management-40c0700b51.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07112",
+      "sha256": "006cd7c7ab22eb482a2693581ba7e18bb41bc6880bf682cdedd86f8939510973",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-human-society-and-its-environment-9e33016fd5.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07147",
+      "sha256": "a8c5b41d9c277c20c1a7bd35e78f616cd8ad7fd62d3e9fc15c873d9e7e518e8c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-human-society-and-its-environment-primary-specialisation-7dcb7515c8.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ06249",
+      "sha256": "e1f085cdc80488c22797f42fc327ed11ec2de60182428aab43c2614027b75376",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-human-structure-and-function-26c0e48b06.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ06269",
+      "sha256": "fbad01203606d8aea5c301729c8e3ee92dd86e84c3a69cfda39bab36d51f6a86",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-human-structure-and-function-48ce18e5b5.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ06270",
+      "sha256": "4a182135c118e469ac56d3772ef2d9adf9179c3e20e281a2472b7244d44673f8",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-indigenous-health-8016ad3ffc.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ06246",
+      "sha256": "ddcee0a30c7266890ef72f499c6606b0323fbf657b0e7203c877e526225dd856",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-indigenous-health-b94d55e420.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ02041",
+      "sha256": "d7fcb0b24af9f251d57ac6716ecaafe1e48aec0b03c9674b2797436346aacdbe",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-information-technology-24735da5cc.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ02092",
+      "sha256": "b9c3d70946402845a832e5ec31e119a87639fa678c578c329ad3bea2024609db",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-interaction-design-c5dd36980b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08964",
+      "sha256": "52aed1650d099e85a843b78156f6e58ed2533ce16904d0a9d3be87db9311886b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-international-business-4f273b74a0.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08442",
+      "sha256": "c0be010b6d95f16d8790c8c9661a997feeb6848ad2c8d65585f2da0deb18ce43",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-international-business-d8494fea14.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09450",
+      "sha256": "8e8870aa12bb98b3593d0c584de7606526c2f5aac15c0f79eccbf754cd6d2364",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-italian-language-and-culture-c6acc5c668.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09456",
+      "sha256": "54cac80cb4f3882063954e88de19a131bab7bd40b21c9f66031089dfc744a32c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-italian-language-and-culture-3cd9b4f09e.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09473",
+      "sha256": "7540e58cb32bd0645c5b84d869de5d25093cf40dc567b01beb6df3a54894c63f",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-italian-language-and-culture-international-honours-1e93567f6a.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09451",
+      "sha256": "84220a2c91932ddc36e0799bba2d7a4e220ebcf15730588781e1adfec48ebbd9",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-japanese-language-and-culture-838a21f04b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09457",
+      "sha256": "f644244355a022ea5e9bd5205df58d06603a4a187be17c9756f59212ad9c61d5",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-japanese-language-and-culture-ab578eee2f.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09474",
+      "sha256": "d937ff6a3add9b958a5658c31a16bd361c2c3c8b2302f38e3962d44ab98050be",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-japanese-language-and-culture-international-honours-b18bbdb2ae.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09486",
+      "sha256": "bbad7a557ecf96b6810c4aebba7e8334863fe6ee8b6f748ccbd7a72f5f7ed954",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-journalism-291834ebe6.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09478",
+      "sha256": "8b6a473f4e605434df2791714b0e6373188f05a1da681701e22cfd3c5ac137e3",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-journalism-2b9e3cd76a.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10046",
+      "sha256": "fcc98abff21d0c5489c85e6da0d640c0237be768f674f69efbb015c333a99821",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-journalism-3c57752ccb.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10058",
+      "sha256": "e592a5406e3c1ae5a1ecb27f40d3c5e45355f02cade048c09469a0371b01ee1a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-justice-and-legal-studies-565bb1bf72.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07148",
+      "sha256": "96bc040d6e24505748b282d9bb502de60009c8e7eec6d1594b2a19bf0f46ac8a",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-languages-primary-specialisation-05172b642d.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09445",
+      "sha256": "e8f64f0744d2b100be5cbf6e5fea733bb996d3d621471869765a9e0271141bbc",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-latin-americas-bdae2576aa.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09444",
+      "sha256": "099a4d26128f04867d16da4adceb48f17f18a2508b24612590cf023b7bdb1ded",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-legal-futures-and-technology-0a789c6d13.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09443",
+      "sha256": "a6a2fc45662c800b7f502c889ff3ee847668ccc4122a4b50e34427400a9aa5a8",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-legal-futures-and-technology-0892fde8e6.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09399",
+      "sha256": "9982d7cd0b18005ce6039226accab49da0fa81fd7effbae37dbce762a9122e19",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-legal-studies-b1f8b8c328.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01214",
+      "sha256": "c2207a8b0f9a9308e638d457a824047ebd0e617498cfa1e8a53d73f33faffab5",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-life-and-environmental-sciences-af5cb49fdb.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08438",
+      "sha256": "059f69e1b0e36484cfd53d32e5555b526c124ed1e1c34a60e0465ab5906b25ef",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-management-a3ae7e96f7.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08517",
+      "sha256": "13da08c58dfe5bb0791f0148e14f6ed647789e953e50348298e33d85482dfc46",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-management-010690e59b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08966",
+      "sha256": "0cda910c50787605ef1940851e2475b161a81c835ed1b8ea33e13600b0e8587f",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-management-studies-be533911ab.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01112",
+      "sha256": "774dca6bbb7e01d45ac4a22d40a5660bbcc7702db3ec6efcbd674b04ae3ce97f",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-marine-biology-2152789bb8.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08441",
+      "sha256": "49bcadd1cd96598edb36f676e3d6bd78e7a4f01ec87fe5af2a086ac4767c5cdd",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-marketing-d486728c1d.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01156",
+      "sha256": "301a295045c226ea9c18e4d1e9246dd958c0c6c5e1c5f96435b06be46c29e71c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-mathematical-analysis-6f13aa4248.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07113",
+      "sha256": "90545de973849006dd245ff67e21fc3027ff206c9e50e95d783ad3d8df4b261f",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-mathematics-f33bb0290e.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01095",
+      "sha256": "350595087b74dc4992e3f954c9ec75679ac93b27222a08b493ae9703a8efd153",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-mathematics-eceaa900ac.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07134",
+      "sha256": "902eb8f38bb6454590a011a2f5456d1dec055941a8d195496f55a1a83b50b085",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-mathematics-and-mathematics-physics-e33bfc5ae6.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07149",
+      "sha256": "343724509559687394260995d7a1981172ceed3b2da63577da9f299a7660b53c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-mathematics-primary-specialisation-23837020aa.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03012",
+      "sha256": "fc47085966e9433702fbd431f1adadf4d49b3d39445ab53cd063072d4c13f696",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-mechanical-and-mechatronic-engineering-be04afaacd.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03007",
+      "sha256": "b1f2a59d3dcbaf02333e0574d215146cb06508eca998bbe94e0986781f040d90",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-mechanical-engineering-b1e28da1da.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03030",
+      "sha256": "dc6b20b3987290fba060e2a9f656e35d69f1eca798536043fb2c32aaf8c126fc",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-mechanical-engineering-24c13666c0.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03139",
+      "sha256": "a92d8f7dd849a503bf4749d096c4f9e3a79a2c5fa1d0c01eda6088897047b09d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-mechanical-engineering-3f3c5567c6.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03507",
+      "sha256": "36576b5fb4669dda75be4eea134cc728d918abfdf93c9856e41cdc0c15b06463",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-mechatronic-engineering-2baa79d566.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03505",
+      "sha256": "94f813c16bd82aad880198edd032ee4198c4fedf00be69ad1968b5785a6fd056",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-mechatronic-engineering-fd94e6a2b5.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03504",
+      "sha256": "bd491726408003a4a46980ce8a53f796e334410b4e8a846204372c2d920223c9",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-mechatronic-engineering-0d0a30e1c7.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09481",
+      "sha256": "220689286945a1c89314cc086c9bc01856fead8f5b4153375b70c44a7c3c49f6",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-media-arts-and-production-a56927773b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10047",
+      "sha256": "d96a7759fe4d9c6ae1fda001e31ee8338662fa2dae201a0863392b6ab65651aa",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-media-arts-and-production-e1e5917ae0.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09485",
+      "sha256": "1413f0631dc338c1ab66098dc53f833d087897975594c585501df1796157a456",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-media-business-ee13473722.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09484",
+      "sha256": "3d9849c9f0a550c7c033a90a0db771d30b5f13de9a8ef64134729805253a5dd6",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-media-business-b218c32be9.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09482",
+      "sha256": "38787118c8946fc54497e542ec04c39468b91bad90edf5b1e9e0365465f811d7",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-media-business-54a00264a9.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09483",
+      "sha256": "73aece731a3971160077d7668f5b9c10e6c919d2e9a49bcddf33eb2a298fa15c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-media-business-a9b049988f.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01178",
+      "sha256": "092997859d2a47f7094b34d6963f751a98dcb682218e379e308576405ee595d1",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-medical-and-health-related-sciences-62de70b04b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01180",
+      "sha256": "9b9b2d319dc36ab41c40059984fbeae2dbde9a8f6c7f7459f2483c62492ac780",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-medical-and-health-related-sciences-8a4cca162b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01179",
+      "sha256": "1db3b73d698295439c598c85f33102ad39e41124f2646a6c84083d105c6fc713",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-medical-and-health-related-sciences-d6d3eb2a1e.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01196",
+      "sha256": "510bec4efa9882bd81a7ff19726e549eb170680d42ad7cf1bb1416c77e28b3c1",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-medical-biotechnology-894b59539e.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01174",
+      "sha256": "3a21343a48c971ed19dfcafc00d25ca94a38b01039f3a290e27bd23f69b1e973",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-medical-biotechnology-2f054bdbb4.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01159",
+      "sha256": "4b4548bf835752e93ab060ccdf1c23953ac1d049750438a6f0dcc7f33fcf1019",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-medical-biotechnology-92ce641aa6.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01114",
+      "sha256": "cd137abe373efe59e22f47222d7a4c1aa23308bfe6412282b933f23e86935687",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-medical-science-8d1ec5d1ee.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01120",
+      "sha256": "1c900d25b7054ecd407bb809f11dfb45b162885557c98de95d6d1574872b8b42",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-medical-science-52c27cafcd.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01105",
+      "sha256": "655e842aadf382116ab2a7abeb32370b1889cd8dd645c47e1cf385f1be992e3c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-medical-science-6f56e90763.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01193",
+      "sha256": "57b3946bc3ea75b9e99833cc6652004d1a442791b46192398802f4ca02af37ec",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-medical-science-c85a611c94.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01209",
+      "sha256": "d217fa01d098262c5e79a04d0eec9a3a955021628561cd5f167e95c1b0cf01d2",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-medical-science-honours-f7e92ecdef.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10063",
+      "sha256": "0a160261198e9d20cd4bf3ad38ce1f15f60b7bdeb3369a331266024e023ee4b8",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-music-and-sound-design-1ea058dc1e.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10062",
+      "sha256": "7ccd332b4a12f3b6697751dbde7656f4e128d5264f847760914b421c72070835",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-music-and-sound-design-de5f19a4b4.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03445",
+      "sha256": "b3816b06e157a9dc28b7d842d999f4079371c863e13e6d2bb4ab3d2e9a041faf",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-networking-and-cybersecurity-7e8ceb3b2b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ06256",
+      "sha256": "f6482f8e69b414a062925c8fde0e3bc10beef29adfbaeb47e2af9a193053bee3",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-pathology-d735b3aba9.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ06257",
+      "sha256": "76733728635cdf9498050fb54ff00819a5db303cbba2e58d0828a3848f49fb76",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-pathology-61e1b00906.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ06255",
+      "sha256": "a2fb6bf12bc7fc3d186f8cf617bce04e1c35292cc73ae537ded5d4dfb16d5b57",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-pathology-7b497f3981.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07116",
+      "sha256": "b84e4d55bce553281b6e91e3193900c90dc1cdadd4a1f3d9362a0ea34cfa4e4d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-personal-development-health-and-physical-education-84a901b096.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01176",
+      "sha256": "3a4078bd7ac05e09ec7b8ddad7624b31c307094e0c858b737fd4e7e6b1795a87",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-pharmaceutical-sciences-830d11dbc5.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01211",
+      "sha256": "61fdad714bd5631ed4753175ae23e904c4d433944d91ac27ebf586a1e8abccb1",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-pharmaceutical-sciences-honours-2cb3f01b85.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01088",
+      "sha256": "def25b4ce6d0278b89a8c445311b9854ad71b218118baccefa5d75da7b393eaf",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-physics-8677c188c3.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01215",
+      "sha256": "f4d2615444bdc7c84ce3aea5729edd76738c1067d40584f1722e104e5cfc4412",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-physics-and-mathematics-b495ba0fd0.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01118",
+      "sha256": "e1e9d5ea599028f159d2a9409a7556fe0d4908d30f7d7a26cdd521c8621dc247",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-physics-and-quantum-technology-45dd37c82b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01187",
+      "sha256": "9689a7b6460fd979ce18a71ac71fc45251aab0a811d024d0d4641d87d06024e5",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-physics-and-quantum-technology-honours-9679567e55.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ06272",
+      "sha256": "f261311d77b0fc925f2e55b13339391b48881d626c549baadbec62cda332a681",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-population-health-f4727e7766.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ06248",
+      "sha256": "fbfc93087ad34b92dd2bc0a9b4c0eec4a0ea7d437a4574e8810862e5fc967d94",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-population-health-4fee697945.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01175",
+      "sha256": "df27d0aed654f8f206be8423844d50f5823c84d5a74786d8de551c06519753ce",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-pre-medicine-cbb123f45d.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07118",
+      "sha256": "0454d828a3653cab1b70a1fb7dbac4661e36827dd7cb7213977f49de715e733d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-primary-7f776324d0.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07107",
+      "sha256": "7b0834f60804525d8605668612e8df05db69e59be66340b3d86ea354a38ebceb",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-primary-461807905a.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07135",
+      "sha256": "43c88a7fa24e6de09a805749c59b9fda3859a5d66cc18b95186dbbeb9a3fc2b5",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-primary-58b5c0591d.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07109",
+      "sha256": "436771d5e59a1f5efea05d83f5f44ecc580af0fe96ded77ce275f915ed70a6cc",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-primary-a-ef1195cc30.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10048",
+      "sha256": "b18d1b7ad25b123c5fee12e67c208ab202cd91faa887a78fa01b89863c597b7d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-public-communication-f7b4fb99a6.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ02901",
+      "sha256": "c911dd596941551cd72ad6ddf93b07ee2985c13a6ca17541ed6c17c29fbc76d4",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-quantum-computing-3c9996a2d5.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01188",
+      "sha256": "113e77dca78f375065fbac91fe2376ccfecce9869f39038694024f8e3b852a16",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-quantum-technology-1f23251553.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07117",
+      "sha256": "9ae0fe5452c2bb876d40c016784421476b3f0a1802ea34e4cc44d10c3db08273",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-science-ae73f35976.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07150",
+      "sha256": "c3cfcb594e111f47135147d723162519191a9c019d4f97e3239dd7f4f7712cfc",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-science-and-technology-primary-specialisation-2c65325df2.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07115",
+      "sha256": "8b321997d80dc1776fce63c9f29b37f9c347c3395d6517eb4de0a9d271671db6",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-science-mathematics-2e1f4d66ac.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07136",
+      "sha256": "328b175bab38167480cc490391212d3dd3d00979b019163f771704571496f941",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-secondary-a6c41b8274.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07108",
+      "sha256": "8d965bbb54dd07cce23fa1dd362f6feeaec14497b6c0586372d1b645f1b8b07b",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-secondary-9015390f53.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07119",
+      "sha256": "fdf930215da8be80fb56af786b6bf7d4087de7a1203d91a72f08718112c9f478",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-secondary-5b88cfc455.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07110",
+      "sha256": "0d464b6d5dbf43b9216f9fc15de4c7b9dc3090b0f8c66171ba7709a29951c38c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-secondary-a-4674c930d9.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10055",
+      "sha256": "9c9a6f80960f7a7553ca6de7bc65c0e73d5b3cf2a96da0fd8a9fdac8338f00d1",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-service-design-ecc1286752.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10049",
+      "sha256": "f039b2776deaed4e87e106fc6c0857cbeb31076b3fa709bbd4fa2d008f16945c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-social-and-political-sciences-2da961015f.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09476",
+      "sha256": "6bd2a9fad9c92b85149cbe3a2a8024f15c085481b5833064fe24ea1c6da83abb",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-social-and-political-sciences-c2e218ea69.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03520",
+      "sha256": "790e5ba5562208d8957c557d64238d9071c1e4dc9f6a4dd903bc4e1fdf1c921d",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-software-engineering-522b1f0b47.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03522",
+      "sha256": "c3ef3ac283e638cf767358fa2b8875a0919ff67e4f16b53b22444c3a1f37b4e4",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-software-engineering-6deeada6ef.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ03523",
+      "sha256": "b0f1964ecbd86d65824cfc2ce66368c3c70eaa93c5dd77fdbb0ce4a38a96633e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-software-engineering-3eb93af2ea.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09452",
+      "sha256": "7fd7665624d7f8ce65c0af18eb588e89fcd2f94510a50279d247ef971e77443e",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-spanish-language-and-culture-ecd11befaa.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09475",
+      "sha256": "b802549fba99bf6ef0f6cab7358e6dd33e79a37cb7a6f96ff46e055ff85e21d5",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-spanish-language-and-culture-international-honours-1326472389.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09458",
+      "sha256": "ee7bb6a3e9142db880f5cd899b5b7331ae5085b964fa443e3641287887e599ed",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-spanish-language-and-culture-major-afb5f8a3c2.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08976",
+      "sha256": "5a02e39e77ce6c811a34e2ed273a39ae007edaf8bb6ec2439c3eb53633d5a7ec",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-sport-business-30b636b871.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01169",
+      "sha256": "4f756b8b8412b17576ddd34ed8b724636ba68987ac69931ba64591c009fc25bc",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-statistics-and-data-science-87a87cb460.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09480",
+      "sha256": "28a51c3fbb8fb07c77564ee24bf064d9319b40eb1a00e68e7bb97effec8db09f",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-strategic-communication-3a8b963d53.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09488",
+      "sha256": "4bd09df9e558769cff3cb166646edfa47ea49fb18f67be85d2f0ec09d5bc1a96",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-strategic-communication-b28175d612.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08995",
+      "sha256": "670cffd5ff7be82bd551383cea332f194008d8abf1ea4b63be9dfec15f354756",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-strategic-innovation-and-entrepreneurship-04d5fe8a9b.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ08996",
+      "sha256": "97fe47d3295f05d48ab23b43243d86351030d7b41c6058a4ed95b21dfebccc83",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-sustainability-and-social-impact-59ecf6e336.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09489",
+      "sha256": "c0a0103207ffeb1c36c03963715996ac65453c945a99a704f8848c08ee840a54",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-writing-and-publishing-d70a355193.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09477",
+      "sha256": "2986f15ab3246ecd96e2da7646191bd1c92e9063c7877de7e2e8c5143fef8a9c",
+      "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-writing-and-publishing-94795deb49.html",
       "locator": null
     }
   ]

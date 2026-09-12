@@ -218,6 +218,12 @@
       "locator": null
     },
     {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BMus%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "d2660b81bce443538f36703a79751c33dd1e03f3ec457629e3339074ad9d4a8a",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/formal-degree-26.html",
+      "locator": null
+    },
+    {
       "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-nursing-bnurs.html",
       "sha256": "afd65c493bc302f3ef1a6c1f2b06b94731931b5dfc5b5a7269fdfff1da2aae33",
       "raw_file": "scratch/full-catalog/root/auckland-detail-027.html",
@@ -620,6 +626,12 @@
       "locator": null
     },
     {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BMus&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "9de186c16d54319790f4a8ea08a3643e8a61358854fb1dfb02a4efdc71ca58c6",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/formal-degree-25.html",
+      "locator": null
+    },
+    {
       "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/chemistry/undergraduate.html",
       "sha256": "839b7c90fa8a802e04e9a52f86ae16647c48c1eeccd29b36af8ccac8ba8b431c",
       "raw_file": "scratch/full-catalog/root/auckland-ug-258-43.html",
@@ -914,6 +926,12 @@
       "locator": null
     },
     {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=EXES-BSc&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "f0abb7381d8f8069107dc0bc2ac8a6aee318d8f21fee675d359569b74b720129",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-exes-bsc.html",
+      "locator": null
+    },
+    {
       "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/gender-studies/undergraduate.html",
       "sha256": "22440c2e381b7f22d799611d56e2a9a40225085d8aa639a16427435df4e18493",
       "raw_file": "scratch/full-catalog/root/auckland-ug-318-74.html",
@@ -1100,9 +1118,525 @@
       "locator": null
     },
     {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BHSc&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "76ceb37df9e28f5076f19b230e8b4fbf5df77431434b8a42e129aeecbddd7397",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/formal-degree-19.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=NUTR-BHSc&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "cdda1ba7af65a807cc3223a350bb3cf60241707571c34cbfb1a5b236c4744fb9",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-nutr-bhsc.html",
+      "locator": null
+    },
+    {
       "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/songcraft-and-music-production/undergraduate.html",
       "sha256": "34a7532c512fa6a17867ab36e077c0de714d69068f07b95cdc77162889be670b",
       "raw_file": "scratch/full-catalog/root/auckland-ug-282-94.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=LATN-BA&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "844b842ec49518642fb647459d8aa8de54ede35b9783bffb1fcda018a3f51a43",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-latn-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ANTH-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "53fe57ad7225d237ffed06d1f24e6d5a80a87136de6150234c4f6e720cfc74ab",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-anth-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "678d259f5043c462e65fd016daf71cfe82c482069fea23f22096b583da715999",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/formal-degree-02.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ARTH-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "f2f7f6a2bd272e3c6785355d373ee11f280b406e10594cea5aa01c894a042942",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-arth-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ASIA-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "cf41e7fca0f0014d6d9bcd2544915093739ac191d29353ee771e3daea70dc571",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-asia-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=CHIN-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "a4e94aaee20ae2daa1ba5e441b913ef0113b4235106d17e3983a8966732f5f72",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-chin-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=CLAN-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "7e52a68d8071a6272c820423c7741a9cf7244dc9ba0565bc6ed468f433124afa",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-clan-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=CRIM-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "01ad8f2cf719664c5ec46198be9d526e55f5a0024080d1149d758e9313da97a4",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-crim-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=DRMA-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "3885ef28ee7bfe4a8bede9a23df22502366b4b79facfb8a83afad22560b0c8f8",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-drma-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ECON-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "fefd567f740bd0ed0528e0c0240e8414d2b5bf77e0f5ae0188cbf56d38e20c75",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-econ-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=EDUC-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "4e11a46fa128d9a8feb5addbb9939da2f6b7ece0dc97316e6b9a1af68cadb634",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-educ-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=EROS-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "7e2ddac9a78de4f63145d78fa0ffd19445b9fafe506acdb92fcdbe90d6a10104",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-eros-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ENGL-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "2e540485a6d6ee39434d96bfe7fa90282f6e2fffc931c8aa6e788c2679e5a797",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-engl-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=FREN-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "cd20c795de56818cfbc0e37f2d92faaddc81d7aefb69e144cc9d8e8c0182948b",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-fren-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=GEOG-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "08ce1f257869cd5421ea821d6bed7b0f302b9d4c331c46b9638d80347d0c4b65",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-geog-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=GERM-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "99e580505668ea4e279acea2893bf7614f3d043449a869faf56fa8afb73bdb63",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-germ-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=HIST-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "2a1b5fd75057567711cd59ee051242165b08464c320505aeac2960fdd90371c8",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-hist-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ITAL-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "07b4a65a939442ff397dcd42fc73b2a22fb0c8d5507c6bff379129ba3d9bac0e",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-ital-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=JAPN-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "35aff61f95c408070e78d4d00cc27ee50d921af5a2e9dd79c4ddd381171e78db",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-japn-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=LING-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "4b2c278ec4757a23ba67bb8053fc985c8a7ea520a73810133105e63f56b32f84",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-ling-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MUCH-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "1a28190660b323d261f906716a2698d1b167b9f6ff6365527bbf3f4ea2acd4af",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-much-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MAOR-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "ff13a2285487557dbd8a799386d337a7c2e5664188381be260812055d26d8909",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-maor-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PACI-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "351aa32e8f6c7605b850257447814f72274e0675121b4ad3d67b8ac57d7d70f5",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-paci-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PHIL-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "e18d1e93cae9eb90d1f5111b559c7ebba3a49cdf3d8f820ed2b822840ce0d04b",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-phil-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=POIR-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "f57054d5c67e68644adcc33d683996fc1d9dfa751a1def3b6dcea09206e80cbf",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-poir-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=SCPR-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "7e1c002fbcdfecc14a69108be796bb83fe071d05e9349973c5d6b312c6d14f48",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-scpr-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=SOCI-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "0ec64f8587b35ce156a65e10c7c51e35177c60d8c358fedb1d160aa54250b654",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-soci-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=SPAN-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "af0df5f3c773c6ba7b99a988604400b42c4929c1716bcbf7dd1be1c49731cd73",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-span-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MESC-BA%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "df49798b95b0f0e899b91ab29e74a50cb36b5b5323f1076bf504afe1fae90675",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-mesc-ba-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=BUAN-BCom&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "c7fdb4d9d7815399ca15f511514be0b5fb68032613e7b89750b651fd54c9290a",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-buan-bcom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/business-analytics.html",
+      "sha256": "6251a4f24c227b162c23e5f28e6621205fa881dbb6608b2b5ccb03a83f578a73",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/business-analytics-detail-browser.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ACCN-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "ab71bede4958fbee4935106b46fde1bcc2519956749740d924513beecddd741c",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-accn-bcom-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "9c40b34ae3d3e9c059ce0197f855b33c4ebbed88dce495ea9ca816b671f05848",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/formal-degree-06.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=COMM-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "9659aeb8bd6ba74cfcdeee510d7fe9136a249b93e3d8e973725ae97d6ef99785",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-comm-bcom-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ECON-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "57284b663c6ce1f63a817def53fda7d2016098c1f6c474c543dae95afda3dcef",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-econ-bcom-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=FIN-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "a79a8c5ff476649958d23c135730246a73800a000cccab2df46a59070898ef4e",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-fin-bcom-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=GLMI-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "3be55a5966072fa7dd8ada7d86a76b55a88d434d0f457196bb080e2f702b2364",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-glmi-bcom-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=INFS-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "b00a42885dc3c5ec2a34ae5c22733c20026a556c2c30bda03e05a4aa3a5d09ce",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-infs-bcom-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MKTG-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "b4a005348f420f1af61957b65733fcc0e38410177164b15bd0f6205f7cfdc507",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-mktg-bcom-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=OSCM-BCom%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "936f04c56600316c0c20525ed7780b39aa2870e42332b8b3918079f2ee15450c",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-oscm-bcom-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=COSC-BC&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "afc316263924297a3c0823cd7f894271d481a2d2fdb503d58c57e8f4d09dc9c2",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-cosc-bc.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/communication-and-social-change.html",
+      "sha256": "9ce9c416ee665a2e9169fb45a3cb316e0518a97f9e186616d1ca088300958666",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/communication-and-social-change-browser.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=COTC-BC&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "13821596f0b063632d7034a8a814edc502a91a42593727359f0aee1cd2b877ab",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-cotc-bc.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/communication-and-technology.html",
+      "sha256": "81e72706f8740c3e58c7c69c58d9150056c98b0a468bd67800b9eab2d1bc5177",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/communication-and-technology-browser.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=COLD-BC&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "b393563619286366f1988df2f714ffe0f8cd0cfbde9f7ed1e7133ec10cdfa336",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-cold-bc.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/communication-in-leadership.html",
+      "sha256": "ca48f704e8749e7d8accc3067185c1790b07ae9a15b1f86c0314d0575bdf732c",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/communication-in-leadership-browser.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=INED-BEd%28Tchg%29%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "48cc91117c8858ba49cc35e2f5bcfce0c8924e9d1aa888a2b3b7c2490b4a0352",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-ined-bed-tchg-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BEd%28Tchg%29%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "f1397295e47c8368407df3fb4baa6d80172de8a3942c2246fe312c34fb25b855",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/formal-degree-14.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=COMH-BHSc&session=1529177791588&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "6ba22bc21c8331192ddc7ebc5d96c87c85fb49ef18135f71cb9aab63c27776a1",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-comh-bhsc.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=HSDA-BHSc&session=1529177791588&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "175e229865bd71e9c12fbcacc44dbc10333619935583d2f05db591ded3b324ea",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-hsda-bhsc.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MUE-BMus&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "94be0f02b655f6ae70971c8d7a1f5c6b7fab1a652f454ea2337994f6302b7de6",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-mue-bmus.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/music-education/undergraduate.html",
+      "sha256": "552b740e497af78f76a713ab59b4d7412a815834d4cdba5f6c89e1af791b00d2",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/music-education-detail-browser.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MUY-BMus&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "024499f3cc1037272232f96e00e978f14f7a3cc331019c898bd1c27b7fd41779",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-muy-bmus.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/musicology0/undergraduate.html",
+      "sha256": "d614be6624a5176ee8b36857a471289078ca1ce07c1634a5c24cbe3afc5d4579",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/musicology0-detail-browser.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=BEE-BSc&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "6c6c48453d61bd60d2737ed0f3a5074f0d57f591b7c14c475e99c477f89856d8",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-bee-bsc.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/biodiversity-ecology-evolution.html",
+      "sha256": "bd98367aaf7065ff1ff5790ef5985f9f0b3987eba54ead0784d392e9184d8375",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/biodiversity-ecology-evolution-browser.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=CMB-BSc&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "2914d883c6ff8a0fa5b315bec9cffa511c4e117a6fb43ce819eeb89b56e79659",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-cmb-bsc.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PHMI-BSc&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "55694ef7c62604dc717471b5fa1068e3e348b1ded7d2cb73de223702766c5f2f",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-phmi-bsc.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PHPH-BSc&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "8529ab276d4f2550b40663fba0b99f6cf340f6a6b5b95419d7e513fec2403b78",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-phph-bsc.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=STAA-BSc&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "f3421ff5c18ea416c61352bdc09029b2c2caa72c751d6e53d833cf73418b80e2",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-staa-bsc.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=STAP-BSc&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "f30c58a848050866bb20c122114e48b82995b9b2f7e9993d2246e908251ebb21",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-stap-bsc.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=AESS-BSC&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "14f51ce2a5e6ec9b8e41390da953569ddce7363e69f11fc1f42796d248c7248e",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-aess-bsc.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/applied-exercise-sport-sciences/undergraduate-applied-exercise-sport-sciences.html",
+      "sha256": "220a0c362e3d9eca014f9b44c133dc8cfe04cc2d49efede73d6cbc0eaa14b3e5",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/applied-exercise-sport-sciences-detail-browser.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MATA-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "6ec6d55141b832750242b5a833e1fb222e15625c3a19ba65f4629fa9c8e67817",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-mata-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "d7deec9945d3e16bd2c1bd0865296fbd7245d1830810ad89d34cf0d40ce921ae",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/formal-degree-34.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=BIOS-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "6a0010bbda739ea03fb1c894a6998c71df972ed32dd59912fd02c7518c2f56b3",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-bios-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=CHEM-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "34645df8228190084c469dc77d99d1088258e44032ba5feafe1bc5b4f019cbc0",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-chem-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=COMP-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "07edb007ea9b8a8316600704906dc3ab4493fbf49f8739979e6315870ac1fcb4",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-comp-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=EASC-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "a0e505f6cd385425f1b67444a952ea580488af4093fcef00599c1b2792053286",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-easc-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=ENVP-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "9ecfa3fc1280f706d1b44f8dcdb552142a73db0a229d22c2c9ac1a24f4e1feb0",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-envp-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=EXES-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "76112065543378b13e2922932f730d9bf37bd14b673ebfd62bff8d7c53bc72de",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-exes-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=FOOD-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "fcbd95b1a5823665ed4ad96783471e7f8f4f99a5878b6378590f89cf4bebcb06",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-food-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=GEOG-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "1c0b723c5272714b23d46309002dad1712fd2a222c4479fc46d25a24da8e7240",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-geog-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=GREE-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "1c8ff870d85cc13f860a4c10079779358f29835194e1507818494e5c5f7d053e",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-gree-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=LOGC-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "d046f1143e3b2ff4ae05134d963095926a1a016e6a974f2be35575f1be4c33db",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-logc-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MATH-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "992cb93fa0fb5336e6909ab3dc71548cab2d3245efeec50d4e4456a72823be33",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-math-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MPIT-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "bfe17f8ff4ca1e63388f7c0261acd29993ff762bad48890b430f24948d373fe0",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-mpit-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=MEDC-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "d4e610e45bb39e4da51e63f9d74582257a771f47a11d9bf5722b620d59fc9e5f",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-medc-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PHAR-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "d477560857c4d204c4e9a703815660cf7fdbd4f24f13601a333e82a0e359796b",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-phar-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PHYS-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "4ed0e07a2c254f3185f6cd5ea2481dc83217ff0d4b6d17fc201dbe8f23d23a2c",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-phys-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PHYO-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "88d88cbc0bef1e748dd47bd8515b3667e3d3a2f2eda470e23b3fb47a66119d39",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-phyo-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PSYC-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "7165f1e87fd51c57a85842170ca63fa5e5cef026d07d644a12680e071d0cb51f",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-psyc-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=PCP-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "415d077edfbfea23fbb42a1fd8ede585529f2ae11931fa7781e29f12f0c62cf7",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-pcp-bsc-hons.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.auckland.ac.nz/ords/r/uoa/catalogue/plan?p7_code=STAT-BSc%28Hons%29&p0_catalogue_year=2027&p0_catalogue_term=99",
+      "sha256": "0f3a802726fcd9e912bab322fa161fd7ffff6cf5efc949259a6dab92681e3187",
+      "raw_file": "scratch/full-catalog/auckland-catalog-completion/raw/plan-stat-bsc-hons.html",
       "locator": null
     }
   ]

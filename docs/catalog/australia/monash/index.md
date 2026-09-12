@@ -23,389 +23,389 @@ hide:
 
 ## 专业与申请资料
 
-378 个专业条目 · 4 个含详细资料 · 1 个补有专业资料 · 373 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+378 个专业条目 · 4 个含详细资料 · 374 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=monash#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-accountancy-b0aa89eda8/">Accountancy</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-accounting-f5a6e4cd94/">Accounting</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-accounting-2a19b7277f/">Accounting</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-actuarial-analytics-d39fc13156/">Actuarial analytics</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-actuarial-studies-fe61bb44cf/">Actuarial studies</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-actuarial-studies-cb57eb5f57/">Actuarial studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-actuarial-studies-b148c080dd/">Actuarial studies</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-aerospace-engineering-3d6e567e24/">Aerospace engineering</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-algorithms-and-software-ce2987d2ef/">Algorithms and software</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-anatomy-and-developmental-biology-dbf073aba1/">Anatomy and developmental biology</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-anatomy-and-developmental-biology-90cb2fcd08/">Anatomy and developmental biology</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-anthropology-76fc5c885b/">Anthropology</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-applied-cybersecurity-f9752ef20b/">Applied cybersecurity</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-applied-mathematics-960004eb3e/">Applied mathematics</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-applied-mathematics-100a5ed1c6/">Applied mathematics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-applied-microbiology-99b8b36a15/">Applied microbiology</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-archaeology-and-ancient-history-8c684fc8e9/">Archaeology and ancient history</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-archaeology-and-ancient-history-c81b456fd6/">Archaeology and ancient history</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-artificial-intelligence-a748104208/">Artificial intelligence</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-astrophysics-fb325c4091/">Astrophysics</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-astrophysics-6b4687c0ed/">Astrophysics</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-astrophysics-30bf9aa5d6/">Astrophysics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-atmospheric-science-ba605fbf23/">Atmospheric science</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-in-actuarial-analytics-9af784b15e/">Bachelor in Actuarial Analytics</a><small>Bachelor in Actuarial Analytics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-accounting-4d1f4dc499/">Bachelor of Accounting</a><small>Bachelor of Accounting · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-actuarial-science-fe61c483a4/">Bachelor of Actuarial Science</a><small>Bachelor of Actuarial Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-actuarial-science-and-master-of-actuarial-studies-ba0c008f47/">Bachelor of Actuarial Science and Master of Actuarial Studies</a><small>Bachelor of Actuarial Science and Master of Actuarial Studies · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-applied-data-science-417fe22416/">Bachelor of Applied Data Science</a><small>Bachelor of Applied Data Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-applied-data-science-advanced-honours-b89987bd8e/">Bachelor of Applied Data Science Advanced (Honours)</a><small>Bachelor of Applied Data Science Advanced (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-architectural-design-0158baf715/">Bachelor of Architectural Design</a><small>Bachelor of Architectural Design · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-architectural-design-and-master-of-architecture-3ae0754c08/">Bachelor of Architectural Design and Master of Architecture</a><small>Bachelor of Architectural Design and Master of Architecture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-architectural-studies-and-bachelor-of-business-0efa112b78/">Bachelor of Architectural Studies and Bachelor of Business</a><small>Bachelor of Architectural Studies and Bachelor of Business · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-architectural-studies-and-bachelor-of-design-7b949c8459/">Bachelor of Architectural Studies and Bachelor of Design</a><small>Bachelor of Architectural Studies and Bachelor of Design · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-architectural-studies-and-bachelor-of-fine-art-6f932147a2/">Bachelor of Architectural Studies and Bachelor of Fine Art</a><small>Bachelor of Architectural Studies and Bachelor of Fine Art · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-architectural-studies-and-bachelor-of-information-tec-42383f1a32/">Bachelor of Architectural Studies and Bachelor of Information Technology</a><small>Bachelor of Architectural Studies and Bachelor of Information Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-8ab56965ec/">Bachelor of Arts</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-honours-3b8e94a99b/">Bachelor of Arts (Honours)</a><small>Bachelor of Arts (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-and-bachelor-of-criminology-a61ef831c9/">Bachelor of Arts and Bachelor of Criminology</a><small>Bachelor of Arts and Bachelor of Criminology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-and-bachelor-of-fine-art-0e4ef8b05e/">Bachelor of Arts and Bachelor of Fine Art</a><small>Bachelor of Arts and Bachelor of Fine Art · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-and-bachelor-of-global-studies-84727c0730/">Bachelor of Arts and Bachelor of Global Studies</a><small>Bachelor of Arts and Bachelor of Global Studies · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-and-bachelor-of-health-sciences-d3cb29a3ba/">Bachelor of Arts and Bachelor of Health Sciences</a><small>Bachelor of Arts and Bachelor of Health Sciences · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-and-bachelor-of-media-communication-a8569fa31b/">Bachelor of Arts and Bachelor of Media Communication</a><small>Bachelor of Arts and Bachelor of Media Communication · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-and-bachelor-of-music-547a9a59c6/">Bachelor of Arts and Bachelor of Music</a><small>Bachelor of Arts and Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-and-social-sciences-16af1fad7e/">Bachelor of Arts and Social Sciences</a><small>Bachelor of Arts and Social Sciences · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-banking-and-finance-3af5d8b8d9/">Bachelor of Banking and Finance</a><small>Bachelor of Banking and Finance · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-biomedical-science-be072b3141/">Bachelor of Biomedical Science</a><small>Bachelor of Biomedical Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-biomedical-science-honours-d111ca6112/">Bachelor of Biomedical Science (Honours)</a><small>Bachelor of Biomedical Science (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-6c98445f05/">Bachelor of Business</a><small>Bachelor of Business · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-administration-7ffbdb7da5/">Bachelor of Business Administration</a><small>Bachelor of Business Administration · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-bachelor-of-accounting-05f7a7f592/">Bachelor of Business and Bachelor of Accounting</a><small>Bachelor of Business and Bachelor of Accounting · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-bachelor-of-arts-3b40817495/">Bachelor of Business and Bachelor of Arts</a><small>Bachelor of Business and Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-bachelor-of-banking-and-finance-6f6e7065ff/">Bachelor of Business and Bachelor of Banking and Finance</a><small>Bachelor of Business and Bachelor of Banking and Finance · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-bachelor-of-information-technology-63517d86ea/">Bachelor of Business and Bachelor of Information Technology</a><small>Bachelor of Business and Bachelor of Information Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-bachelor-of-international-relations-a50fb6337f/">Bachelor of Business and Bachelor of International Relations</a><small>Bachelor of Business and Bachelor of International Relations · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-bachelor-of-marketing-73c985beb4/">Bachelor of Business and Bachelor of Marketing</a><small>Bachelor of Business and Bachelor of Marketing  · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-bachelor-of-media-communication-6b9bf1c9f3/">Bachelor of Business and Bachelor of Media Communication</a><small>Bachelor of Business and Bachelor of Media Communication · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-commerce-a13b9db56c/">Bachelor of Business and Commerce</a><small>Bachelor of Business and Commerce · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-commerce-honours-4779f0cc28/">Bachelor of Business and Commerce (Honours)</a><small>Bachelor of Business and Commerce (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-commerce-and-bachelor-of-computer-scienc-8361fc7abf/">Bachelor of Business and Commerce and Bachelor of Computer Science</a><small>Bachelor of Business and Commerce and Bachelor of Computer Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-commerce-and-bachelor-of-digital-media-a-d654c01120/">Bachelor of Business and Commerce and Bachelor of Digital Media and Communication</a><small>Bachelor of Business and Commerce and Bachelor of Digital Media and Communication · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-accountancy-b0aa89eda8/">会计学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-accounting-f5a6e4cd94/">会计学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-accounting-2a19b7277f/">会计学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-actuarial-analytics-d39fc13156/">精算分析（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-actuarial-studies-fe61bb44cf/">精算研究（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-actuarial-studies-cb57eb5f57/">精算研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-actuarial-studies-b148c080dd/">精算研究（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-aerospace-engineering-3d6e567e24/">航空航天工程（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-algorithms-and-software-ce2987d2ef/">算法与软件（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-anatomy-and-developmental-biology-dbf073aba1/">解剖学与发育生物学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-anatomy-and-developmental-biology-90cb2fcd08/">解剖学与发育生物学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-anthropology-76fc5c885b/">人类学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-applied-cybersecurity-f9752ef20b/">应用网络安全（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-applied-mathematics-960004eb3e/">应用数学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-applied-mathematics-100a5ed1c6/">应用数学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-applied-microbiology-99b8b36a15/">应用微生物学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-archaeology-and-ancient-history-8c684fc8e9/">考古学与古代史（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-archaeology-and-ancient-history-c81b456fd6/">考古学与古代史（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-artificial-intelligence-a748104208/">人工智能（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-astrophysics-fb325c4091/">天体物理学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-astrophysics-6b4687c0ed/">天体物理学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-astrophysics-30bf9aa5d6/">天体物理学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-atmospheric-science-ba605fbf23/">大气科学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-in-actuarial-analytics-9af784b15e/">精算分析学士</a><small>Bachelor in Actuarial Analytics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-accounting-4d1f4dc499/">会计学学士</a><small>Bachelor of Accounting · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-actuarial-science-fe61c483a4/">精算科学学士</a><small>Bachelor of Actuarial Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-actuarial-science-and-master-of-actuarial-studies-ba0c008f47/">精算科学学士与精算研究硕士</a><small>Bachelor of Actuarial Science and Master of Actuarial Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-applied-data-science-417fe22416/">应用数据科学学士</a><small>Bachelor of Applied Data Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-applied-data-science-advanced-honours-b89987bd8e/">应用数据科学进阶荣誉学士</a><small>Bachelor of Applied Data Science Advanced (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-architectural-design-0158baf715/">建筑设计学士</a><small>Bachelor of Architectural Design · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-architectural-design-and-master-of-architecture-3ae0754c08/">建筑设计学士与建筑学硕士</a><small>Bachelor of Architectural Design and Master of Architecture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-architectural-studies-and-bachelor-of-business-0efa112b78/">建筑研究学士与商业学士</a><small>Bachelor of Architectural Studies and Bachelor of Business · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-architectural-studies-and-bachelor-of-design-7b949c8459/">建筑研究学士与设计学士</a><small>Bachelor of Architectural Studies and Bachelor of Design · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-architectural-studies-and-bachelor-of-fine-art-6f932147a2/">建筑研究学士与美术学士</a><small>Bachelor of Architectural Studies and Bachelor of Fine Art · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-architectural-studies-and-bachelor-of-information-tec-42383f1a32/">建筑研究学士与信息技术学士</a><small>Bachelor of Architectural Studies and Bachelor of Information Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-8ab56965ec/">文科学士</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-honours-3b8e94a99b/">文科荣誉学士</a><small>Bachelor of Arts (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-and-bachelor-of-criminology-a61ef831c9/">文科学士与犯罪学学士</a><small>Bachelor of Arts and Bachelor of Criminology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-and-bachelor-of-fine-art-0e4ef8b05e/">文科学士与美术学士</a><small>Bachelor of Arts and Bachelor of Fine Art · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-and-bachelor-of-global-studies-84727c0730/">文科学士与全球研究学士</a><small>Bachelor of Arts and Bachelor of Global Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-and-bachelor-of-health-sciences-d3cb29a3ba/">文科学士与健康科学学士</a><small>Bachelor of Arts and Bachelor of Health Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-and-bachelor-of-media-communication-a8569fa31b/">文科学士与媒体传播学士</a><small>Bachelor of Arts and Bachelor of Media Communication · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-and-bachelor-of-music-547a9a59c6/">文科学士与音乐学士</a><small>Bachelor of Arts and Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-arts-and-social-sciences-16af1fad7e/">人文与社会科学学士</a><small>Bachelor of Arts and Social Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-banking-and-finance-3af5d8b8d9/">银行与金融学士</a><small>Bachelor of Banking and Finance · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-biomedical-science-be072b3141/">生物医学学士</a><small>Bachelor of Biomedical Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-biomedical-science-honours-d111ca6112/">生物医学荣誉学士</a><small>Bachelor of Biomedical Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-6c98445f05/">商业学士</a><small>Bachelor of Business · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-administration-7ffbdb7da5/">工商管理学士</a><small>Bachelor of Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-bachelor-of-accounting-05f7a7f592/">商业学士与会计学学士</a><small>Bachelor of Business and Bachelor of Accounting · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-bachelor-of-arts-3b40817495/">商业学士与文科学士</a><small>Bachelor of Business and Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-bachelor-of-banking-and-finance-6f6e7065ff/">商业学士与银行与金融学士</a><small>Bachelor of Business and Bachelor of Banking and Finance · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-bachelor-of-information-technology-63517d86ea/">商业学士与信息技术学士</a><small>Bachelor of Business and Bachelor of Information Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-bachelor-of-international-relations-a50fb6337f/">商业学士与国际关系学士</a><small>Bachelor of Business and Bachelor of International Relations · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-bachelor-of-marketing-73c985beb4/">商业学士与市场营销学士</a><small>Bachelor of Business and Bachelor of Marketing  · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-bachelor-of-media-communication-6b9bf1c9f3/">商业学士与媒体传播学士</a><small>Bachelor of Business and Bachelor of Media Communication · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-commerce-a13b9db56c/">商业与商学学士</a><small>Bachelor of Business and Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-commerce-honours-4779f0cc28/">商业与商学荣誉学士</a><small>Bachelor of Business and Commerce (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-commerce-and-bachelor-of-computer-scienc-8361fc7abf/">商业与商学学士与计算机科学学士</a><small>Bachelor of Business and Commerce and Bachelor of Computer Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-business-and-commerce-and-bachelor-of-digital-media-a-d654c01120/">商业与商学学士与数字媒体与传播学士</a><small>Bachelor of Business and Commerce and Bachelor of Digital Media and Communication · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-commerce/">商学学士</a><small>Bachelor of Commerce · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-honours-9d2759d5dd/">Bachelor of Commerce (Honours)</a><small>Bachelor of Commerce (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-actuarial-science-94384ce26d/">Bachelor of Commerce and Bachelor of Actuarial Science</a><small>Bachelor of Commerce and Bachelor of Actuarial Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-arts-110fc43adc/">Bachelor of Commerce and Bachelor of Arts</a><small>Bachelor of Commerce and Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-biomedical-science-858e29889d/">Bachelor of Commerce and Bachelor of Biomedical Science</a><small>Bachelor of Commerce and Bachelor of Biomedical Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-computer-science-7ff5657fab/">Bachelor of Commerce and Bachelor of Computer Science</a><small>Bachelor of Commerce and Bachelor of Computer Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-economics-8c6ed5e5c5/">Bachelor of Commerce and Bachelor of Economics</a><small>Bachelor of Commerce and Bachelor of Economics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-finance-337ca10737/">Bachelor of Commerce and Bachelor of Finance</a><small>Bachelor of Commerce and Bachelor of Finance · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-global-studies-dec5a62cc2/">Bachelor of Commerce and Bachelor of Global Studies</a><small>Bachelor of Commerce and Bachelor of Global Studies · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-information-technology-55904cc680/">Bachelor of Commerce and Bachelor of Information Technology</a><small>Bachelor of Commerce and Bachelor of Information Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-music-ef5f2221c4/">Bachelor of Commerce and Bachelor of Music</a><small>Bachelor of Commerce and Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-politics-philosophy-and-econ-2c3e76b489/">Bachelor of Commerce and Bachelor of Politics, Philosophy and Economics</a><small>Bachelor of Commerce and Bachelor of Politics, Philosophy and Economics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-science-c84227031a/">Bachelor of Commerce and Bachelor of Science</a><small>Bachelor of Commerce and Bachelor of Science · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-honours-9d2759d5dd/">商学荣誉学士</a><small>Bachelor of Commerce (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-actuarial-science-94384ce26d/">商学学士与精算科学学士</a><small>Bachelor of Commerce and Bachelor of Actuarial Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-arts-110fc43adc/">商学学士与文科学士</a><small>Bachelor of Commerce and Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-biomedical-science-858e29889d/">商学学士与生物医学学士</a><small>Bachelor of Commerce and Bachelor of Biomedical Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-computer-science-7ff5657fab/">商学学士与计算机科学学士</a><small>Bachelor of Commerce and Bachelor of Computer Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-economics-8c6ed5e5c5/">商学学士与经济学学士</a><small>Bachelor of Commerce and Bachelor of Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-finance-337ca10737/">商学学士与金融学学士</a><small>Bachelor of Commerce and Bachelor of Finance · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-global-studies-dec5a62cc2/">商学学士与全球研究学士</a><small>Bachelor of Commerce and Bachelor of Global Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-information-technology-55904cc680/">商学学士与信息技术学士</a><small>Bachelor of Commerce and Bachelor of Information Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-music-ef5f2221c4/">商学学士与音乐学士</a><small>Bachelor of Commerce and Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-politics-philosophy-and-econ-2c3e76b489/">商学学士与政治学、哲学与经济学学士</a><small>Bachelor of Commerce and Bachelor of Politics, Philosophy and Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-commerce-and-bachelor-of-science-c84227031a/">商学学士与理科学士</a><small>Bachelor of Commerce and Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-computer-science/">计算机科学学士</a><small>Bachelor of Computer Science · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-computer-science-honours-868e71aaea/">Bachelor of Computer Science (Honours)</a><small>Bachelor of Computer Science (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-computer-science-advanced-honours-1dc828e67f/">Bachelor of Computer Science Advanced (Honours)</a><small>Bachelor of Computer Science Advanced (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-criminology-77fd7a5d06/">Bachelor of Criminology</a><small>Bachelor of Criminology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-criminology-and-bachelor-of-information-technology-3137b024c5/">Bachelor of Criminology and Bachelor of Information Technology</a><small>Bachelor of Criminology and Bachelor of Information Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-criminology-and-policing-3a96e170ef/">Bachelor of Criminology and Policing</a><small>Bachelor of Criminology and Policing · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-design-1ce69789c1/">Bachelor of Design</a><small>Bachelor of Design · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-design-and-bachelor-of-arts-1638427eaa/">Bachelor of Design and Bachelor of Arts</a><small>Bachelor of Design and Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-design-and-bachelor-of-business-438b7d1044/">Bachelor of Design and Bachelor of Business</a><small>Bachelor of Design and Bachelor of Business · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-design-and-bachelor-of-fine-art-e55c1ce6b3/">Bachelor of Design and Bachelor of Fine Art</a><small>Bachelor of Design and Bachelor of Fine Art · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-design-and-bachelor-of-information-technology-667b0f77b1/">Bachelor of Design and Bachelor of Information Technology</a><small>Bachelor of Design and Bachelor of Information Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-design-and-bachelor-of-media-communication-172d32d809/">Bachelor of Design and Bachelor of Media Communication</a><small>Bachelor of Design and Bachelor of Media Communication · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-digital-business-39ce857bfd/">Bachelor of Digital Business</a><small>Bachelor of Digital Business · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-digital-business-c3fd056c85/">Bachelor of Digital Business</a><small>Bachelor of Digital Business · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-digital-business-and-bachelor-of-business-117c404221/">Bachelor of Digital Business and Bachelor of Business</a><small>Bachelor of Digital Business and Bachelor of Business · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-digital-business-and-bachelor-of-information-technolo-a5ca2c013c/">Bachelor of Digital Business and Bachelor of Information Technology</a><small>Bachelor of Digital Business and Bachelor of Information Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-digital-media-and-communication-cc092e2a4f/">Bachelor of Digital Media and Communication</a><small>Bachelor of Digital Media and Communication · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-computer-science-honours-868e71aaea/">计算机科学荣誉学士</a><small>Bachelor of Computer Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-computer-science-advanced-honours-1dc828e67f/">计算机科学进阶荣誉学士</a><small>Bachelor of Computer Science Advanced (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-criminology-77fd7a5d06/">犯罪学学士</a><small>Bachelor of Criminology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-criminology-and-bachelor-of-information-technology-3137b024c5/">犯罪学学士与信息技术学士</a><small>Bachelor of Criminology and Bachelor of Information Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-criminology-and-policing-3a96e170ef/">犯罪学与警务（学士及警务文凭路径）</a><small>Bachelor of Criminology and Policing · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-design-1ce69789c1/">设计学士</a><small>Bachelor of Design · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-design-and-bachelor-of-arts-1638427eaa/">设计学士与文科学士</a><small>Bachelor of Design and Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-design-and-bachelor-of-business-438b7d1044/">设计学士与商业学士</a><small>Bachelor of Design and Bachelor of Business · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-design-and-bachelor-of-fine-art-e55c1ce6b3/">设计学士与美术学士</a><small>Bachelor of Design and Bachelor of Fine Art · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-design-and-bachelor-of-information-technology-667b0f77b1/">设计学士与信息技术学士</a><small>Bachelor of Design and Bachelor of Information Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-design-and-bachelor-of-media-communication-172d32d809/">设计学士与媒体传播学士</a><small>Bachelor of Design and Bachelor of Media Communication · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-digital-business-39ce857bfd/">数字商业学士</a><small>Bachelor of Digital Business · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-digital-business-c3fd056c85/">数字商业学士</a><small>Bachelor of Digital Business · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-digital-business-and-bachelor-of-business-117c404221/">数字商业学士与商业学士</a><small>Bachelor of Digital Business and Bachelor of Business · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-digital-business-and-bachelor-of-information-technolo-a5ca2c013c/">数字商业学士与信息技术学士</a><small>Bachelor of Digital Business and Bachelor of Information Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-digital-media-and-communication-cc092e2a4f/">数字媒体与传播学士</a><small>Bachelor of Digital Media and Communication · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-economics/">经济学学士</a><small>Bachelor of Economics · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-education-honours-7b2e197cec/">Bachelor of Education (Honours)</a><small>Bachelor of Education (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-education-honours-and-bachelor-of-arts-5b143dc6e5/">Bachelor of Education (Honours) and Bachelor of Arts</a><small>Bachelor of Education (Honours) and Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-education-honours-and-bachelor-of-business-f77f1af4f3/">Bachelor of Education (Honours) and Bachelor of Business</a><small>Bachelor of Education (Honours) and Bachelor of Business · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-education-honours-and-bachelor-of-fine-art-a3341621eb/">Bachelor of Education (Honours) and Bachelor of Fine Art</a><small>Bachelor of Education (Honours) and Bachelor of Fine Art · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-education-honours-and-bachelor-of-music-b578188e71/">Bachelor of Education (Honours) and Bachelor of Music</a><small>Bachelor of Education (Honours) and Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-education-honours-and-bachelor-of-science-22eadca553/">Bachelor of Education (Honours) and Bachelor of Science</a><small>Bachelor of Education (Honours) and Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-education-in-early-childhood-a0be388c16/">Bachelor of Education in Early Childhood</a><small>Bachelor of Education in Early Childhood · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-566d2c1fd7/">Bachelor of Engineering (Honours)</a><small>Bachelor of Engineering (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-dual-bachelors-international-7635960a49/">Bachelor of Engineering (Honours) Dual Bachelors International</a><small>Bachelor of Engineering (Honours) Dual Bachelors International · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-architectural-des-c18f66029e/">Bachelor of Engineering (Honours) and Bachelor of Architectural Design</a><small>Bachelor of Engineering (Honours) and Bachelor of Architectural Design · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-arts-28db899180/">Bachelor of Engineering (Honours) and Bachelor of Arts</a><small>Bachelor of Engineering (Honours) and Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-biomedical-scienc-ed61f42a72/">Bachelor of Engineering (Honours) and Bachelor of Biomedical Science</a><small>Bachelor of Engineering (Honours) and Bachelor of Biomedical Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-commerce-4e1c3d9df9/">Bachelor of Engineering (Honours) and Bachelor of Commerce</a><small>Bachelor of Engineering (Honours) and Bachelor of Commerce · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-computer-science-b0bb8e5477/">Bachelor of Engineering (Honours) and Bachelor of Computer Science</a><small>Bachelor of Engineering (Honours) and Bachelor of Computer Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-design-38c6816ccf/">Bachelor of Engineering (Honours) and Bachelor of Design</a><small>Bachelor of Engineering (Honours) and Bachelor of Design · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-information-techn-d1c0be11d6/">Bachelor of Engineering (Honours) and Bachelor of Information Technology</a><small>Bachelor of Engineering (Honours) and Bachelor of Information Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-pharmaceutical-sc-52e64f85ac/">Bachelor of Engineering (Honours) and Bachelor of Pharmaceutical Science</a><small>Bachelor of Engineering (Honours) and Bachelor of Pharmaceutical Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-science-dda2a1412b/">Bachelor of Engineering (Honours) and Bachelor of Science</a><small>Bachelor of Engineering (Honours) and Bachelor of Science · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-education-honours-7b2e197cec/">教育学荣誉学士</a><small>Bachelor of Education (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-education-honours-and-bachelor-of-arts-5b143dc6e5/">教育学荣誉学士与文科学士</a><small>Bachelor of Education (Honours) and Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-education-honours-and-bachelor-of-business-f77f1af4f3/">教育学荣誉学士与商业学士</a><small>Bachelor of Education (Honours) and Bachelor of Business · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-education-honours-and-bachelor-of-fine-art-a3341621eb/">教育学荣誉学士与美术学士</a><small>Bachelor of Education (Honours) and Bachelor of Fine Art · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-education-honours-and-bachelor-of-music-b578188e71/">教育学荣誉学士与音乐学士</a><small>Bachelor of Education (Honours) and Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-education-honours-and-bachelor-of-science-22eadca553/">教育学荣誉学士与理科学士</a><small>Bachelor of Education (Honours) and Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-education-in-early-childhood-a0be388c16/">幼儿教育学士</a><small>Bachelor of Education in Early Childhood · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-566d2c1fd7/">工程荣誉学士</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-dual-bachelors-international-7635960a49/">工程荣誉学士（国际双学士项目）</a><small>Bachelor of Engineering (Honours) Dual Bachelors International · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-architectural-des-c18f66029e/">工程荣誉学士与建筑设计学士</a><small>Bachelor of Engineering (Honours) and Bachelor of Architectural Design · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-arts-28db899180/">工程荣誉学士与文科学士</a><small>Bachelor of Engineering (Honours) and Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-biomedical-scienc-ed61f42a72/">工程荣誉学士与生物医学学士</a><small>Bachelor of Engineering (Honours) and Bachelor of Biomedical Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-commerce-4e1c3d9df9/">工程荣誉学士与商学学士</a><small>Bachelor of Engineering (Honours) and Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-computer-science-b0bb8e5477/">工程荣誉学士与计算机科学学士</a><small>Bachelor of Engineering (Honours) and Bachelor of Computer Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-design-38c6816ccf/">工程荣誉学士与设计学士</a><small>Bachelor of Engineering (Honours) and Bachelor of Design · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-information-techn-d1c0be11d6/">工程荣誉学士与信息技术学士</a><small>Bachelor of Engineering (Honours) and Bachelor of Information Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-pharmaceutical-sc-52e64f85ac/">工程荣誉学士与制药科学学士</a><small>Bachelor of Engineering (Honours) and Bachelor of Pharmaceutical Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-engineering-honours-and-bachelor-of-science-dda2a1412b/">工程荣誉学士与理科学士</a><small>Bachelor of Engineering (Honours) and Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mechanical-engineering/">工程荣誉学士（机械工程方向）</a><small>Bachelor of Engineering (Honours) — Mechanical engineering specialisation · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-finance-dbb86cea4c/">Bachelor of Finance</a><small>Bachelor of Finance · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-fine-art-bf899f0d7b/">Bachelor of Fine Art</a><small>Bachelor of Fine Art · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-fine-art-honours-e230c6b2dd/">Bachelor of Fine Art (Honours)</a><small>Bachelor of Fine Art (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-fine-art-and-bachelor-of-business-415a3edfc9/">Bachelor of Fine Art and Bachelor of Business</a><small>Bachelor of Fine Art and Bachelor of Business · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-fine-art-and-bachelor-of-information-technology-d282f76b3f/">Bachelor of Fine Art and Bachelor of Information Technology</a><small>Bachelor of Fine Art and Bachelor of Information Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-fine-art-and-bachelor-of-media-communication-4276aa85ec/">Bachelor of Fine Art and Bachelor of Media Communication</a><small>Bachelor of Fine Art and Bachelor of Media Communication · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-food-science-and-technology-b83466daea/">Bachelor of Food Science and Technology</a><small>Bachelor of Food Science and Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-global-studies-72b81e0ca3/">Bachelor of Global Studies</a><small>Bachelor of Global Studies · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-global-studies-and-bachelor-of-information-technology-933fb32c63/">Bachelor of Global Studies and Bachelor of Information Technology</a><small>Bachelor of Global Studies and Bachelor of Information Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-health-sciences-a8a7625fbf/">Bachelor of Health Sciences</a><small>Bachelor of Health Sciences · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-health-sciences-honours-9e13ef356b/">Bachelor of Health Sciences (Honours)</a><small>Bachelor of Health Sciences (Honours)  · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-human-nutrition-a5ea391aae/">Bachelor of Human Nutrition</a><small>Bachelor of Human Nutrition · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-information-technology-392763d797/">Bachelor of Information Technology</a><small>Bachelor of Information Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-information-technology-6fbba61e19/">Bachelor of Information Technology</a><small>Bachelor of Information Technology  · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-information-technology-honours-958da21411/">Bachelor of Information Technology (Honours)</a><small>Bachelor of Information Technology (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-information-technology-and-bachelor-of-arts-b8b0fe8d9d/">Bachelor of Information Technology and Bachelor of Arts</a><small>Bachelor of Information Technology and Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-information-technology-and-bachelor-of-science-bbd35f3e36/">Bachelor of Information Technology and Bachelor of Science</a><small>Bachelor of Information Technology and Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-international-relations-4e9180991c/">Bachelor of International Relations</a><small>Bachelor of International Relations  · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-57cd9e6c0c/">Bachelor of Laws (Honours)</a><small>Bachelor of Laws (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-arts-cce5990e54/">Bachelor of Laws (Honours) and Bachelor of Arts</a><small>Bachelor of Laws (Honours) and Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-biomedical-science-fbb0218ea2/">Bachelor of Laws (Honours) and Bachelor of Biomedical Science</a><small>Bachelor of Laws (Honours) and Bachelor of Biomedical Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-commerce-edbad8e366/">Bachelor of Laws (Honours) and Bachelor of Commerce</a><small>Bachelor of Laws (Honours) and Bachelor of Commerce · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-computer-science-92699e98f8/">Bachelor of Laws (Honours) and Bachelor of Computer Science</a><small>Bachelor of Laws (Honours) and Bachelor of Computer Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-criminology-f3bef11f81/">Bachelor of Laws (Honours) and Bachelor of Criminology</a><small>Bachelor of Laws (Honours) and Bachelor of Criminology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-engineering-honours-bc1f2dc7d6/">Bachelor of Laws (Honours) and Bachelor of Engineering (Honours)</a><small>Bachelor of Laws (Honours) and Bachelor of Engineering (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-global-studies-929e8e5993/">Bachelor of Laws (Honours) and Bachelor of Global Studies</a><small>Bachelor of Laws (Honours) and Bachelor of Global Studies · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-information-technology-56b553bc0b/">Bachelor of Laws (Honours) and Bachelor of Information Technology</a><small>Bachelor of Laws (Honours) and Bachelor of Information Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-international-relations-1f2d228f41/">Bachelor of Laws (Honours) and Bachelor of International Relations</a><small>Bachelor of Laws (Honours) and Bachelor of International Relations · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-music-7854a2b4e2/">Bachelor of Laws (Honours) and Bachelor of Music</a><small>Bachelor of Laws (Honours) and Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-politics-philosophy-and-4cdd245038/">Bachelor of Laws (Honours) and Bachelor of Politics, Philosophy and Economics</a><small>Bachelor of Laws (Honours) and Bachelor of Politics, Philosophy and Economics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-psychology-270034b3dc/">Bachelor of Laws (Honours) and Bachelor of Psychology</a><small>Bachelor of Laws (Honours) and Bachelor of Psychology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-science-04497d3ab5/">Bachelor of Laws (Honours) and Bachelor of Science</a><small>Bachelor of Laws (Honours) and Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-learning-design-and-technology-fcbf98ff93/">Bachelor of Learning Design and Technology</a><small>Bachelor of Learning Design and Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-marketing-6c24ed6546/">Bachelor of Marketing</a><small>Bachelor of Marketing · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-marketing-and-bachelor-of-arts-02689db4d8/">Bachelor of Marketing and Bachelor of Arts</a><small>Bachelor of Marketing and Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-marketing-and-bachelor-of-media-communication-601d2b0cb9/">Bachelor of Marketing and Bachelor of Media Communication</a><small>Bachelor of Marketing and Bachelor of Media Communication · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-media-communication-526ac83fdd/">Bachelor of Media Communication</a><small>Bachelor of Media Communication · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-media-communication-and-bachelor-of-music-89b1d19bec/">Bachelor of Media Communication and Bachelor of Music</a><small>Bachelor of Media Communication and Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-medical-bioscience-4f42ea80af/">Bachelor of Medical Bioscience</a><small>Bachelor of Medical Bioscience · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-medical-science-honours-e05f4f9648/">Bachelor of Medical Science (Honours)</a><small>Bachelor of Medical Science (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-medical-science-and-doctor-of-medicine-8d6b448199/">Bachelor of Medical Science and Doctor of Medicine</a><small>Bachelor of Medical Science and Doctor of Medicine · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-medical-science-and-doctor-of-medicine-df05ccf519/">Bachelor of Medical Science and Doctor of Medicine</a><small>Bachelor of Medical Science and Doctor of Medicine · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-music-e2f5e98ac7/">Bachelor of Music</a><small>Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-music-honours-e6ef984465/">Bachelor of Music (Honours)</a><small>Bachelor of Music (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-nursing-5433f13106/">Bachelor of Nursing</a><small>Bachelor of Nursing · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-nursing-honours-b9e49e8717/">Bachelor of Nursing (Honours)</a><small>Bachelor of Nursing (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-nursing-and-bachelor-of-midwifery-honours-2528d7c28a/">Bachelor of Nursing and Bachelor of Midwifery (Honours)</a><small>Bachelor of Nursing and Bachelor of Midwifery (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-nutrition-science-1595b794e7/">Bachelor of Nutrition Science</a><small>Bachelor of Nutrition Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-occupational-therapy-honours-9935e87187/">Bachelor of Occupational Therapy (Honours)</a><small>Bachelor of Occupational Therapy (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-paramedicine-54b58e49ce/">Bachelor of Paramedicine</a><small>Bachelor of Paramedicine · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-paramedicine-honours-2f091e89bc/">Bachelor of Paramedicine (Honours)</a><small>Bachelor of Paramedicine (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-pharmaceutical-science-e6ad375c81/">Bachelor of Pharmaceutical Science</a><small>Bachelor of Pharmaceutical Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-pharmaceutical-science-honours-0b6108c9cd/">Bachelor of Pharmaceutical Science (Honours)</a><small>Bachelor of Pharmaceutical Science (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-pharmaceutical-science-advanced-honours-c228fc0024/">Bachelor of Pharmaceutical Science Advanced (Honours)</a><small>Bachelor of Pharmaceutical Science Advanced (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-pharmacy-honours-035358a189/">Bachelor of Pharmacy (Honours)</a><small>Bachelor of Pharmacy (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-pharmacy-honours-and-master-of-pharmacy-f5060bbca6/">Bachelor of Pharmacy (Honours) and Master of Pharmacy</a><small>Bachelor of Pharmacy (Honours) and Master of Pharmacy · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-physiotherapy-honours-0caef4998c/">Bachelor of Physiotherapy (Honours)</a><small>Bachelor of Physiotherapy (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-politics-philosophy-and-economics-d7614aed3c/">Bachelor of Politics, Philosophy and Economics</a><small>Bachelor of Politics, Philosophy and Economics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-politics-philosophy-and-economics-and-bachelor-of-art-4b06eca3ea/">Bachelor of Politics, Philosophy and Economics and Bachelor of Arts</a><small>Bachelor of Politics, Philosophy and Economics and Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-psychology-5b21c06ff5/">Bachelor of Psychology</a><small>Bachelor of Psychology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-psychology-honours-c3e5fa4909/">Bachelor of Psychology (Honours)</a><small>Bachelor of Psychology (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-psychology-and-bachelor-of-arts-68aa790f8c/">Bachelor of Psychology and Bachelor of Arts</a><small>Bachelor of Psychology and Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-psychology-and-bachelor-of-commerce-995bc47462/">Bachelor of Psychology and Bachelor of Commerce</a><small>Bachelor of Psychology and Bachelor of Commerce · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-psychology-and-bachelor-of-science-e0a561c349/">Bachelor of Psychology and Bachelor of Science</a><small>Bachelor of Psychology and Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-psychology-and-business-4ea04029c0/">Bachelor of Psychology and Business</a><small>Bachelor of Psychology and Business · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-public-health-ea337700e1/">Bachelor of Public Health</a><small>Bachelor of Public Health · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-radiation-sciences-e68a5e1af9/">Bachelor of Radiation Sciences</a><small>Bachelor of Radiation Sciences · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-radiography-and-medical-imaging-honours-2e11150fa1/">Bachelor of Radiography and Medical Imaging (Honours)</a><small>Bachelor of Radiography and Medical Imaging (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-c8702c8dbf/">Bachelor of Science</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-honours-923b22b6f7/">Bachelor of Science (Honours)</a><small>Bachelor of Science (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-advanced-global-challenges-honours-ff96f61ff2/">Bachelor of Science Advanced - Global Challenges (Honours)</a><small>Bachelor of Science Advanced - Global Challenges (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-advanced-research-honours-44d27f4159/">Bachelor of Science Advanced - Research (Honours)</a><small>Bachelor of Science Advanced - Research (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-and-bachelor-of-arts-54e226bdbe/">Bachelor of Science and Bachelor of Arts</a><small>Bachelor of Science and Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-and-bachelor-of-biomedical-science-3d29392009/">Bachelor of Science and Bachelor of Biomedical Science</a><small>Bachelor of Science and Bachelor of Biomedical Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-and-bachelor-of-computer-science-6776c66f95/">Bachelor of Science and Bachelor of Computer Science</a><small>Bachelor of Science and Bachelor of Computer Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-and-bachelor-of-global-studies-63f77661fa/">Bachelor of Science and Bachelor of Global Studies</a><small>Bachelor of Science and Bachelor of Global Studies · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-and-bachelor-of-music-dc520c13f6/">Bachelor of Science and Bachelor of Music</a><small>Bachelor of Science and Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-speech-pathology-honours-1cb9be4f9f/">Bachelor of Speech Pathology (Honours)</a><small>Bachelor of Speech Pathology (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-banking-and-finance-490f14d5a5/">Banking and finance</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-banking-and-financial-management-074e83a82f/">Banking and financial management</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-behavioural-studies-0190c274bc/">Behavioural Studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-behavioural-commerce-21fb6c9195/">Behavioural commerce</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-biochemistry-e883dc1e7b/">Biochemistry</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-biochemistry-265413276c/">Biochemistry</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-biochemistry-7650d6f5d5/">Biochemistry</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-biomedical-engineering-2cdca9a3bd/">Biomedical engineering</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-biotechnology-d117ac9e92/">Biotechnology</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-biotechnology-286f6a104c/">Biotechnology</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-biotechnology-03d65781e5/">Biotechnology</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-administration-studies-fbbed5ebfc/">Business administration studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-analytics-28569bd722/">Business analytics</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-analytics-4751f45484/">Business analytics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-analytics-and-statistics-13df99d667/">Business analytics and statistics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-analytics-for-economics-62645d6626/">Business analytics for economics</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-and-commerce-studies-bfa4cd7077/">Business and commerce studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-information-systems-dca9a8a55a/">Business information systems</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-law-6c72df485e/">Business law</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-management-d6c927f9d7/">Business management</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-studies-ef9d2acf79/">Business studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-chemical-engineering-92b7823ae5/">Chemical engineering</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-chemistry-2a3f4a76f0/">Chemistry</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-chemistry-65536c2ad5/">Chemistry</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-chemistry-be441c5d11/">Chemistry</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-chinese-studies-885e743a09/">Chinese studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-chinese-studies-9575b69855/">Chinese studies</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-civil-engineering-e7da6aee7b/">Civil engineering</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-climate-and-atmospheric-science-d71e0cbf9d/">Climate and atmospheric science</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-climate-and-atmospheric-science-3e0d02d5a2/">Climate and atmospheric science</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-communication-a10046f5f5/">Communication</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-communication-60a24bfc58/">Communication</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-communications-and-media-studies-c68078fed0/">Communications and media studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-composition-and-music-technology-e274e326d6/">Composition and music technology</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-computational-science-35e9ebae23/">Computational science</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-computational-science-96e4e9ea5d/">Computational science</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-computational-science-edeac7a84a/">Computational science</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-criminology-4518165f1b/">Criminology</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-cybersecurity-8eb33b196f/">Cybersecurity</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-data-science-b444731abc/">Data science</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-digital-economy-6cf2771478/">Digital economy</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-digital-marketing-1af1211d14/">Digital marketing</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-early-childhood-and-primary-education-cb88f1eb06/">Early childhood and primary education</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-earth-science-f82c6a0846/">Earth science</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-ecology-and-conservation-biology-c7a98bb8fd/">Ecology and conservation biology</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-ecology-and-conservation-biology-d3fea2f957/">Ecology and conservation biology</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-ecology-and-conservation-biology-9d9a37ddfa/">Ecology and conservation biology</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-econometrics-c588906a9c/">Econometrics</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-econometrics-f5664ce3fd/">Econometrics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-econometrics-and-business-statistics-6fe692342e/">Econometrics and business statistics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-economic-analysis-e3985331d7/">Economic analysis</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-economics-b0a17dd4f0/">Economics</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-economics-202b4594bc/">Economics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-economics-and-business-strategy-6a83bd60f0/">Economics and business strategy</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-economics-and-economic-policy-59348b65e4/">Economics and economic policy</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-economics-and-strategy-for-business-b42b9d7dd0/">Economics and strategy for business</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-electrical-and-computer-systems-engineering-f396ad7746/">Electrical and computer systems engineering</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-environmental-earth-science-2fc33687bf/">Environmental earth science</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-environmental-earth-science-2144392530/">Environmental earth science</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-environmental-engineering-e309ed207f/">Environmental engineering</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-environmental-science-97dd731250/">Environmental science</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-european-languages-f751c41fa3/">European languages</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-european-languages-15a2e6a764/">European languages</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-film-and-screen-studies-66b59c14ce/">Film and screen studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-film-television-and-screen-studies-b7a5b0c366/">Film, television and screen studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-film-television-and-screen-studies-b1df3221f2/">Film, television and screen studies</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-fintech-26290e0368/">FinTech</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-finance-d71a3ce38a/">Finance</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-finance-65784591b6/">Finance</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-finance-and-economics-67a08810c8/">Finance and economics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-financial-and-insurance-mathematics-c5c75b810f/">Financial and insurance mathematics</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-financial-econometrics-9d8bd534f1/">Financial econometrics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-food-science-and-business-565145b57c/">Food science and business</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-food-science-and-technology-3ccc15b816/">Food science and technology</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-french-and-francophone-studies-725765e4be/">French and Francophone studies</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-games-and-immersive-media-307d2a14b5/">Games and immersive media</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-gender-studies-e09f8f5b73/">Gender studies</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-gender-studies-abefb8f155/">Gender studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-genetics-and-genomics-be1eed0672/">Genetics and genomics</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-genetics-and-genomics-9956c0c17c/">Genetics and genomics</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-genetics-and-genomics-a95d2a59ee/">Genetics and genomics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-genomics-and-bioinformatics-b60c4faa2f/">Genomics and bioinformatics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-geographical-science-de33ab4229/">Geographical science</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-geographical-science-4a8634611c/">Geographical science</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-geographical-science-bb87f06582/">Geographical science</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-geoscience-9aca6716e5/">Geoscience</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-geoscience-899d84ec0f/">Geoscience</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-german-studies-861ea44531/">German studies</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-global-asia-494070da27/">Global Asia</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-global-studies-f9c2d191b5/">Global studies</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-global-studies-b0f1b6c413/">Global studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-health-humanities-83922f0fea/">Health humanities</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-history-36b352509c/">History</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-history-af96f50c35/">History</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-human-geography-85949126f8/">Human geography</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-human-pathology-000ae75b17/">Human pathology</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-human-pathology-63e476456b/">Human pathology</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-human-resource-management-c6b4d2933f/">Human resource management</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-human-rights-and-social-justice-d7503f7251/">Human rights and social justice</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-immunology-d4b01e3110/">Immunology</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-immunology-6bd540ced3/">Immunology</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-immunology-d38a1f0af2/">Immunology</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-indigenous-studies-11db15b5bc/">Indigenous studies</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-indigenous-studies-3a2f23bc5e/">Indigenous studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-indonesian-studies-9b0e0edbf4/">Indonesian studies</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-indonesian-studies-8bb28fa987/">Indonesian studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-innovation-and-leadership-9d5859e8e7/">Innovation and leadership</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-international-business-e010635c33/">International business</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-international-business-management-4ea2c6a485/">International business management</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-international-relations-0304566b7f/">International relations</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-international-studies-344bcbd5a9/">International studies</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-italian-studies-5e94925d68/">Italian studies</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-japanese-studies-6df4075e58/">Japanese studies</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-japanese-studies-9148d27f26/">Japanese studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-journalism-13ba3b0fea/">Journalism</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-journalism-6a21cbe350/">Journalism</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-korean-studies-487b2d6382/">Korean studies</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-korean-studies-e60e3c86f8/">Korean studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-linguistics-and-english-language-85bed67809/">Linguistics and English Language</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-literary-studies-972c7e32f8/">Literary studies</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-literary-studies-d2b00b5c3f/">Literary studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-macroeconomics-and-financial-markets-52ef712e64/">Macroeconomics and financial markets</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-management-9aac55415b/">Management</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-management-5b0e9b234b/">Management</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-management-practice-d3d085d37a/">Management practice</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-management-studies-6f4c3cb546/">Management studies</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-marketing-aa1d3931f9/">Marketing</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-marketing-7fa30b4168/">Marketing</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-marketing-and-communications-42be4b2f3a/">Marketing and communications</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-marketing-science-4a4b47a881/">Marketing science</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-materials-engineering-5fb899af64/">Materials engineering</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mathematical-economics-and-econometrics-45effa8507/">Mathematical economics and econometrics</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mathematical-foundations-of-econometrics-de467ff298/">Mathematical foundations of econometrics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mathematical-statistics-d253a24e3c/">Mathematical statistics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mathematical-statistics-cc44c4437d/">Mathematical statistics</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mathematics-733f437a84/">Mathematics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mathematics-15c107a5c7/">Mathematics</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mathematics-and-statistics-b5d49577f7/">Mathematics and statistics</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-media-8461ac0ab7/">Media</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-medical-bioscience-b87293d35f/">Medical bioscience</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-medicinal-chemistry-a9de892bb2/">Medicinal chemistry</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-medicinal-chemistry-62ba1a9a9f/">Medicinal chemistry</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-microbiology-d9b40eabe1/">Microbiology</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-microbiology-a5d6796a49/">Microbiology</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-microbiology-3e5f6a37cb/">Microbiology</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-music-49a95e6495/">Music</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-music-performance-f21d92ba37/">Music performance</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-pharmacology-31902e2766/">Pharmacology</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-pharmacology-02e58f0cad/">Pharmacology</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-philosophy-bca94516a9/">Philosophy</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-philosophy-c5585367c8/">Philosophy</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-philosophy-69d0ce0283/">Philosophy</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-physics-1bb894b6fb/">Physics</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-physics-4a692ca555/">Physics</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-physics-7007590958/">Physics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-physiology-6d1ae74506/">Physiology</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-physiology-1ba6ec8cb8/">Physiology</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-plant-sciences-914890a303/">Plant sciences</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-plant-sciences-9ce9ee7542/">Plant sciences</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-politics-3dc67874fd/">Politics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-politics-and-governance-c4545d39dc/">Politics and governance</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-popular-music-b45d3c8c8f/">Popular music</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-primary-and-secondary-education-8c7fba8132/">Primary and secondary education</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-primary-and-secondary-health-and-physical-education-857d6a14d9/">Primary and secondary health and physical education</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-primary-and-secondary-inclusive-and-special-education-f491d05f5f/">Primary and secondary inclusive and special education</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-primary-education-71e036f925/">Primary education</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-psychology-61f1452d39/">Psychology</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-psychology-eb01ed9768/">Psychology</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-public-relations-0a1eeb9568/">Public relations</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-pure-mathematics-0d1c7219e1/">Pure mathematics</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-pure-mathematics-770f75f6c4/">Pure mathematics</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-regenerative-medicine-396a1d0b0b/">Regenerative medicine</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-robotics-and-mechatronics-engineering-15703690ef/">Robotics and mechatronics engineering</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-screen-d1142babcf/">Screen</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-secondary-education-16414eea88/">Secondary education</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-secondary-health-and-physical-education-56e2704f29/">Secondary health and physical education</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-sociology-e2a9da3586/">Sociology</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-software-development-c732b0d055/">Software development</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-software-engineering-5f425eead0/">Software engineering</a><small>Undergraduate ug specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-spanish-and-latin-american-studies-5cb6b96243/">Spanish and Latin American studies</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-strategic-marketing-28d696193c/">Strategic marketing</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-strategic-public-relations-7250ed7526/">Strategic public relations</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-sustainability-and-responsible-management-9bcb9e92b4/">Sustainability and responsible management</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-taxation-3a3a1bd6f1/">Taxation</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-theatre-and-performance-7b7123d538/">Theatre and performance</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-tropical-environmental-biology-19dbcba161/">Tropical environmental biology</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-tropical-environmental-biology-279d7804e3/">Tropical environmental biology</a><small>Undergraduate extended major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-tropical-environmental-biology-b33b820005/">Tropical environmental biology</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-zoology-57d3b9c4c6/">Zoology</a><small>Undergraduate honours research area within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-zoology-856c29f91e/">Zoology</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-finance-dbb86cea4c/">金融学学士</a><small>Bachelor of Finance · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-fine-art-bf899f0d7b/">美术学士</a><small>Bachelor of Fine Art · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-fine-art-honours-e230c6b2dd/">美术荣誉学士</a><small>Bachelor of Fine Art (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-fine-art-and-bachelor-of-business-415a3edfc9/">美术学士与商业学士</a><small>Bachelor of Fine Art and Bachelor of Business · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-fine-art-and-bachelor-of-information-technology-d282f76b3f/">美术学士与信息技术学士</a><small>Bachelor of Fine Art and Bachelor of Information Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-fine-art-and-bachelor-of-media-communication-4276aa85ec/">美术学士与媒体传播学士</a><small>Bachelor of Fine Art and Bachelor of Media Communication · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-food-science-and-technology-b83466daea/">食品科学与技术学士</a><small>Bachelor of Food Science and Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-global-studies-72b81e0ca3/">全球研究学士</a><small>Bachelor of Global Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-global-studies-and-bachelor-of-information-technology-933fb32c63/">全球研究学士与信息技术学士</a><small>Bachelor of Global Studies and Bachelor of Information Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-health-sciences-a8a7625fbf/">健康科学学士</a><small>Bachelor of Health Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-health-sciences-honours-9e13ef356b/">健康科学荣誉学士</a><small>Bachelor of Health Sciences (Honours)  · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-human-nutrition-a5ea391aae/">人体营养学学士</a><small>Bachelor of Human Nutrition · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-information-technology-392763d797/">信息技术学士</a><small>Bachelor of Information Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-information-technology-6fbba61e19/">信息技术学士</a><small>Bachelor of Information Technology  · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-information-technology-honours-958da21411/">信息技术荣誉学士</a><small>Bachelor of Information Technology (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-information-technology-and-bachelor-of-arts-b8b0fe8d9d/">信息技术学士与文科学士</a><small>Bachelor of Information Technology and Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-information-technology-and-bachelor-of-science-bbd35f3e36/">信息技术学士与理科学士</a><small>Bachelor of Information Technology and Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-international-relations-4e9180991c/">国际关系学士</a><small>Bachelor of International Relations  · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-57cd9e6c0c/">法学荣誉学士</a><small>Bachelor of Laws (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-arts-cce5990e54/">法学荣誉学士与文科学士</a><small>Bachelor of Laws (Honours) and Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-biomedical-science-fbb0218ea2/">法学荣誉学士与生物医学学士</a><small>Bachelor of Laws (Honours) and Bachelor of Biomedical Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-commerce-edbad8e366/">法学荣誉学士与商学学士</a><small>Bachelor of Laws (Honours) and Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-computer-science-92699e98f8/">法学荣誉学士与计算机科学学士</a><small>Bachelor of Laws (Honours) and Bachelor of Computer Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-criminology-f3bef11f81/">法学荣誉学士与犯罪学学士</a><small>Bachelor of Laws (Honours) and Bachelor of Criminology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-engineering-honours-bc1f2dc7d6/">法学荣誉学士与工程荣誉学士</a><small>Bachelor of Laws (Honours) and Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-global-studies-929e8e5993/">法学荣誉学士与全球研究学士</a><small>Bachelor of Laws (Honours) and Bachelor of Global Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-information-technology-56b553bc0b/">法学荣誉学士与信息技术学士</a><small>Bachelor of Laws (Honours) and Bachelor of Information Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-international-relations-1f2d228f41/">法学荣誉学士与国际关系学士</a><small>Bachelor of Laws (Honours) and Bachelor of International Relations · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-music-7854a2b4e2/">法学荣誉学士与音乐学士</a><small>Bachelor of Laws (Honours) and Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-politics-philosophy-and-4cdd245038/">法学荣誉学士与政治学、哲学与经济学学士</a><small>Bachelor of Laws (Honours) and Bachelor of Politics, Philosophy and Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-psychology-270034b3dc/">法学荣誉学士与心理学学士</a><small>Bachelor of Laws (Honours) and Bachelor of Psychology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-laws-honours-and-bachelor-of-science-04497d3ab5/">法学荣誉学士与理科学士</a><small>Bachelor of Laws (Honours) and Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-learning-design-and-technology-fcbf98ff93/">学习设计与技术学士</a><small>Bachelor of Learning Design and Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-marketing-6c24ed6546/">市场营销学士</a><small>Bachelor of Marketing · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-marketing-and-bachelor-of-arts-02689db4d8/">市场营销学士与文科学士</a><small>Bachelor of Marketing and Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-marketing-and-bachelor-of-media-communication-601d2b0cb9/">市场营销学士与媒体传播学士</a><small>Bachelor of Marketing and Bachelor of Media Communication · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-media-communication-526ac83fdd/">媒体传播学士</a><small>Bachelor of Media Communication · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-media-communication-and-bachelor-of-music-89b1d19bec/">媒体传播学士与音乐学士</a><small>Bachelor of Media Communication and Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-medical-bioscience-4f42ea80af/">医学生物科学学士</a><small>Bachelor of Medical Bioscience · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-medical-science-honours-e05f4f9648/">医学科学荣誉学士</a><small>Bachelor of Medical Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-medical-science-and-doctor-of-medicine-8d6b448199/">医学科学学士与医学博士</a><small>Bachelor of Medical Science and Doctor of Medicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-medical-science-and-doctor-of-medicine-df05ccf519/">医学科学学士与医学博士</a><small>Bachelor of Medical Science and Doctor of Medicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-music-e2f5e98ac7/">音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-music-honours-e6ef984465/">音乐荣誉学士</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-nursing-5433f13106/">护理学学士</a><small>Bachelor of Nursing · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-nursing-honours-b9e49e8717/">护理学荣誉学士</a><small>Bachelor of Nursing (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-nursing-and-bachelor-of-midwifery-honours-2528d7c28a/">护理学学士与助产学荣誉学士</a><small>Bachelor of Nursing and Bachelor of Midwifery (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-nutrition-science-1595b794e7/">营养科学学士</a><small>Bachelor of Nutrition Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-occupational-therapy-honours-9935e87187/">作业治疗荣誉学士</a><small>Bachelor of Occupational Therapy (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-paramedicine-54b58e49ce/">院前急救医学学士</a><small>Bachelor of Paramedicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-paramedicine-honours-2f091e89bc/">院前急救医学荣誉学士</a><small>Bachelor of Paramedicine (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-pharmaceutical-science-e6ad375c81/">制药科学学士</a><small>Bachelor of Pharmaceutical Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-pharmaceutical-science-honours-0b6108c9cd/">制药科学荣誉学士</a><small>Bachelor of Pharmaceutical Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-pharmaceutical-science-advanced-honours-c228fc0024/">制药科学进阶荣誉学士</a><small>Bachelor of Pharmaceutical Science Advanced (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-pharmacy-honours-035358a189/">药学荣誉学士</a><small>Bachelor of Pharmacy (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-pharmacy-honours-and-master-of-pharmacy-f5060bbca6/">药学荣誉学士与药学硕士</a><small>Bachelor of Pharmacy (Honours) and Master of Pharmacy · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-physiotherapy-honours-0caef4998c/">物理治疗荣誉学士</a><small>Bachelor of Physiotherapy (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-politics-philosophy-and-economics-d7614aed3c/">政治学、哲学与经济学学士</a><small>Bachelor of Politics, Philosophy and Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-politics-philosophy-and-economics-and-bachelor-of-art-4b06eca3ea/">政治学、哲学与经济学学士与文科学士</a><small>Bachelor of Politics, Philosophy and Economics and Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-psychology-5b21c06ff5/">心理学学士</a><small>Bachelor of Psychology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-psychology-honours-c3e5fa4909/">心理学荣誉学士</a><small>Bachelor of Psychology (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-psychology-and-bachelor-of-arts-68aa790f8c/">心理学学士与文科学士</a><small>Bachelor of Psychology and Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-psychology-and-bachelor-of-commerce-995bc47462/">心理学学士与商学学士</a><small>Bachelor of Psychology and Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-psychology-and-bachelor-of-science-e0a561c349/">心理学学士与理科学士</a><small>Bachelor of Psychology and Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-psychology-and-business-4ea04029c0/">心理学与商业学士</a><small>Bachelor of Psychology and Business · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-public-health-ea337700e1/">公共卫生学士</a><small>Bachelor of Public Health · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-radiation-sciences-e68a5e1af9/">放射科学学士</a><small>Bachelor of Radiation Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-radiography-and-medical-imaging-honours-2e11150fa1/">放射技术与医学影像荣誉学士</a><small>Bachelor of Radiography and Medical Imaging (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-c8702c8dbf/">理科学士</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-honours-923b22b6f7/">理科荣誉学士</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-advanced-global-challenges-honours-ff96f61ff2/">理科进阶荣誉学士（全球挑战）</a><small>Bachelor of Science Advanced - Global Challenges (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-advanced-research-honours-44d27f4159/">理科进阶荣誉学士（研究）</a><small>Bachelor of Science Advanced - Research (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-and-bachelor-of-arts-54e226bdbe/">理科学士与文科学士</a><small>Bachelor of Science and Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-and-bachelor-of-biomedical-science-3d29392009/">理科学士与生物医学学士</a><small>Bachelor of Science and Bachelor of Biomedical Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-and-bachelor-of-computer-science-6776c66f95/">理科学士与计算机科学学士</a><small>Bachelor of Science and Bachelor of Computer Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-and-bachelor-of-global-studies-63f77661fa/">理科学士与全球研究学士</a><small>Bachelor of Science and Bachelor of Global Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-science-and-bachelor-of-music-dc520c13f6/">理科学士与音乐学士</a><small>Bachelor of Science and Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-bachelor-of-speech-pathology-honours-1cb9be4f9f/">言语治疗荣誉学士</a><small>Bachelor of Speech Pathology (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-banking-and-finance-490f14d5a5/">银行与金融（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-banking-and-financial-management-074e83a82f/">银行与财务管理（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-behavioural-studies-0190c274bc/">行为研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-behavioural-commerce-21fb6c9195/">行为商学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-biochemistry-e883dc1e7b/">生物化学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-biochemistry-265413276c/">生物化学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-biochemistry-7650d6f5d5/">生物化学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-biomedical-engineering-2cdca9a3bd/">生物医学工程（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-biotechnology-d117ac9e92/">生物技术（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-biotechnology-286f6a104c/">生物技术（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-biotechnology-03d65781e5/">生物技术（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-administration-studies-fbbed5ebfc/">工商管理研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-analytics-28569bd722/">商业分析（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-analytics-4751f45484/">商业分析（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-analytics-and-statistics-13df99d667/">商业分析与统计（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-analytics-for-economics-62645d6626/">面向经济学的商业分析（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-and-commerce-studies-bfa4cd7077/">商业与商学研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-information-systems-dca9a8a55a/">商业信息系统（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-law-6c72df485e/">商法（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-management-d6c927f9d7/">商业管理（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-business-studies-ef9d2acf79/">商业研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-chemical-engineering-92b7823ae5/">化学工程（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-chemistry-2a3f4a76f0/">化学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-chemistry-65536c2ad5/">化学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-chemistry-be441c5d11/">化学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-chinese-studies-885e743a09/">中国研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-chinese-studies-9575b69855/">中国研究（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-civil-engineering-e7da6aee7b/">土木工程（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-climate-and-atmospheric-science-d71e0cbf9d/">气候与大气科学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-climate-and-atmospheric-science-3e0d02d5a2/">气候与大气科学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-communication-a10046f5f5/">传播学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-communication-60a24bfc58/">传播学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-communications-and-media-studies-c68078fed0/">传播与媒体研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-composition-and-music-technology-e274e326d6/">作曲与音乐技术（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-computational-science-35e9ebae23/">计算科学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-computational-science-96e4e9ea5d/">计算科学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-computational-science-edeac7a84a/">计算科学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-criminology-4518165f1b/">犯罪学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-cybersecurity-8eb33b196f/">网络安全（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-data-science-b444731abc/">数据科学（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-digital-economy-6cf2771478/">数字经济（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-digital-marketing-1af1211d14/">数字营销（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-early-childhood-and-primary-education-cb88f1eb06/">幼儿与小学教育（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-earth-science-f82c6a0846/">地球科学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-ecology-and-conservation-biology-c7a98bb8fd/">生态学与保护生物学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-ecology-and-conservation-biology-d3fea2f957/">生态学与保护生物学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-ecology-and-conservation-biology-9d9a37ddfa/">生态学与保护生物学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-econometrics-c588906a9c/">计量经济学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-econometrics-f5664ce3fd/">计量经济学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-econometrics-and-business-statistics-6fe692342e/">计量经济学与商业统计（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-economic-analysis-e3985331d7/">经济分析（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-economics-b0a17dd4f0/">经济学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-economics-202b4594bc/">经济学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-economics-and-business-strategy-6a83bd60f0/">经济学与商业战略（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-economics-and-economic-policy-59348b65e4/">经济学与经济政策（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-economics-and-strategy-for-business-b42b9d7dd0/">商业经济与战略（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-electrical-and-computer-systems-engineering-f396ad7746/">电气与计算机系统工程（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-environmental-earth-science-2fc33687bf/">环境地球科学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-environmental-earth-science-2144392530/">环境地球科学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-environmental-engineering-e309ed207f/">环境工程（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-environmental-science-97dd731250/">环境科学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-european-languages-f751c41fa3/">欧洲语言（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-european-languages-15a2e6a764/">欧洲语言（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-film-and-screen-studies-66b59c14ce/">电影与影像研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-film-television-and-screen-studies-b7a5b0c366/">电影、电视与影像研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-film-television-and-screen-studies-b1df3221f2/">电影、电视与影像研究（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-fintech-26290e0368/">金融科技（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-finance-d71a3ce38a/">金融学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-finance-65784591b6/">金融学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-finance-and-economics-67a08810c8/">金融与经济学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-financial-and-insurance-mathematics-c5c75b810f/">金融与保险数学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-financial-econometrics-9d8bd534f1/">金融计量经济学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-food-science-and-business-565145b57c/">食品科学与商业（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-food-science-and-technology-3ccc15b816/">食品科学与技术（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-french-and-francophone-studies-725765e4be/">法国与法语地区研究（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-games-and-immersive-media-307d2a14b5/">游戏与沉浸式媒体（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-gender-studies-e09f8f5b73/">性别研究（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-gender-studies-abefb8f155/">性别研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-genetics-and-genomics-be1eed0672/">遗传学与基因组学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-genetics-and-genomics-9956c0c17c/">遗传学与基因组学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-genetics-and-genomics-a95d2a59ee/">遗传学与基因组学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-genomics-and-bioinformatics-b60c4faa2f/">基因组学与生物信息学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-geographical-science-de33ab4229/">地理科学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-geographical-science-4a8634611c/">地理科学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-geographical-science-bb87f06582/">地理科学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-geoscience-9aca6716e5/">地球科学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-geoscience-899d84ec0f/">地球科学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-german-studies-861ea44531/">德国研究（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-global-asia-494070da27/">全球视野下的亚洲（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-global-studies-f9c2d191b5/">全球研究（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-global-studies-b0f1b6c413/">全球研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-health-humanities-83922f0fea/">健康人文学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-history-36b352509c/">历史学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-history-af96f50c35/">历史学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-human-geography-85949126f8/">人文地理学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-human-pathology-000ae75b17/">人体病理学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-human-pathology-63e476456b/">人体病理学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-human-resource-management-c6b4d2933f/">人力资源管理（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-human-rights-and-social-justice-d7503f7251/">人权与社会正义（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-immunology-d4b01e3110/">免疫学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-immunology-6bd540ced3/">免疫学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-immunology-d38a1f0af2/">免疫学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-indigenous-studies-11db15b5bc/">原住民研究（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-indigenous-studies-3a2f23bc5e/">原住民研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-indonesian-studies-9b0e0edbf4/">印度尼西亚研究（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-indonesian-studies-8bb28fa987/">印度尼西亚研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-innovation-and-leadership-9d5859e8e7/">创新与领导力（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-international-business-e010635c33/">国际商务（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-international-business-management-4ea2c6a485/">国际商务管理（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-international-relations-0304566b7f/">国际关系（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-international-studies-344bcbd5a9/">国际研究（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-italian-studies-5e94925d68/">意大利研究（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-japanese-studies-6df4075e58/">日本研究（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-japanese-studies-9148d27f26/">日本研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-journalism-13ba3b0fea/">新闻学（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-journalism-6a21cbe350/">新闻学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-korean-studies-487b2d6382/">韩国研究（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-korean-studies-e60e3c86f8/">韩国研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-linguistics-and-english-language-85bed67809/">语言学与英语语言（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-literary-studies-972c7e32f8/">文学研究（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-literary-studies-d2b00b5c3f/">文学研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-macroeconomics-and-financial-markets-52ef712e64/">宏观经济学与金融市场（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-management-9aac55415b/">管理学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-management-5b0e9b234b/">管理学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-management-practice-d3d085d37a/">管理实践（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-management-studies-6f4c3cb546/">管理研究（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-marketing-aa1d3931f9/">市场营销（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-marketing-7fa30b4168/">市场营销（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-marketing-and-communications-42be4b2f3a/">市场营销与传播（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-marketing-science-4a4b47a881/">营销科学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-materials-engineering-5fb899af64/">材料工程（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mathematical-economics-and-econometrics-45effa8507/">数理经济学与计量经济学（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mathematical-foundations-of-econometrics-de467ff298/">计量经济学的数学基础（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mathematical-statistics-d253a24e3c/">数理统计（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mathematical-statistics-cc44c4437d/">数理统计（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mathematics-733f437a84/">数学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mathematics-15c107a5c7/">数学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mathematics-and-statistics-b5d49577f7/">数学与统计学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-media-8461ac0ab7/">媒体（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-medical-bioscience-b87293d35f/">医学生物科学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-medicinal-chemistry-a9de892bb2/">药物化学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-medicinal-chemistry-62ba1a9a9f/">药物化学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-microbiology-d9b40eabe1/">微生物学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-microbiology-a5d6796a49/">微生物学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-microbiology-3e5f6a37cb/">微生物学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-music-49a95e6495/">音乐（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-music-performance-f21d92ba37/">音乐表演（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-pharmacology-31902e2766/">药理学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-pharmacology-02e58f0cad/">药理学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-philosophy-bca94516a9/">哲学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-philosophy-c5585367c8/">哲学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-philosophy-69d0ce0283/">哲学（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-physics-1bb894b6fb/">物理学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-physics-4a692ca555/">物理学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-physics-7007590958/">物理学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-physiology-6d1ae74506/">生理学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-physiology-1ba6ec8cb8/">生理学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-plant-sciences-914890a303/">植物科学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-plant-sciences-9ce9ee7542/">植物科学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-politics-3dc67874fd/">政治学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-politics-and-governance-c4545d39dc/">政治与治理（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-popular-music-b45d3c8c8f/">流行音乐（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-primary-and-secondary-education-8c7fba8132/">小学与中学教育（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-primary-and-secondary-health-and-physical-education-857d6a14d9/">小学与中学健康及体育教育（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-primary-and-secondary-inclusive-and-special-education-f491d05f5f/">小学与中学融合及特殊教育（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-primary-education-71e036f925/">小学教育（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-psychology-61f1452d39/">心理学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-psychology-eb01ed9768/">心理学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-public-relations-0a1eeb9568/">公共关系（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-pure-mathematics-0d1c7219e1/">纯数学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-pure-mathematics-770f75f6c4/">纯数学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-regenerative-medicine-396a1d0b0b/">再生医学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-robotics-and-mechatronics-engineering-15703690ef/">机器人与机电一体化工程（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-screen-d1142babcf/">影视（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-secondary-education-16414eea88/">中学教育（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-secondary-health-and-physical-education-56e2704f29/">中学健康与体育教育（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-sociology-e2a9da3586/">社会学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-software-development-c732b0d055/">软件开发（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-software-engineering-5f425eead0/">软件工程（学位内方向）</a><small>Undergraduate ug specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-spanish-and-latin-american-studies-5cb6b96243/">西班牙与拉丁美洲研究（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-strategic-marketing-28d696193c/">战略营销（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-strategic-public-relations-7250ed7526/">战略公共关系（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-sustainability-and-responsible-management-9bcb9e92b4/">可持续发展与责任管理（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-taxation-3a3a1bd6f1/">税务（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-theatre-and-performance-7b7123d538/">戏剧与表演（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-tropical-environmental-biology-19dbcba161/">热带环境生物学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-tropical-environmental-biology-279d7804e3/">热带环境生物学（扩展主修）</a><small>Undergraduate extended major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-tropical-environmental-biology-b33b820005/">热带环境生物学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-zoology-57d3b9c4c6/">动物学（荣誉研究领域）</a><small>Undergraduate honours research area within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-zoology-856c29f91e/">动物学（主修）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -452,9 +452,9 @@ hide:
 
 **已完成所列官方目录范围的对账**，共 378 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>All bachelor-bearing undergraduate degrees and catalog majors/undergraduate specialisations/honours fields; UTS stream mapping remains pending</p>
+<p><strong>统计范围：</strong>All bachelor-bearing undergraduate degrees and catalog majors/undergraduate specialisations/honours fields</p>
 
-<p><strong>对账方法：</strong>{&quot;course&quot;: {&quot;total&quot;: 503, &quot;pages&quot;: [0, 100, 200, 300, 400, 500], &quot;unique_uris&quot;: 502}, &quot;aos&quot;: {&quot;total&quot;: 411, &quot;pages&quot;: [0, 100, 200, 300, 400], &quot;unique_uris&quot;: 411}, &quot;all_pages_fetched&quot;: true, &quot;unsw_selected_major_honours_count&quot;: null}</p>
+<p><strong>对账方法：</strong>{&quot;course&quot;: {&quot;total&quot;: 503, &quot;pages&quot;: [0, 100, 200, 300, 400, 500], &quot;unique_uris&quot;: 502}, &quot;aos&quot;: {&quot;total&quot;: 411, &quot;pages&quot;: [0, 100, 200, 300, 400], &quot;unique_uris&quot;: 411}, &quot;all_pages_fetched&quot;: true, &quot;unsw_selected_major_honours_count&quot;: null} 2026手册378条补充中文课程、学制、校区、学分及路径；60个澳洲学位当前2027招生页与27条Malaysia 2026费用表合计覆盖72个不同学位。</p>
 
 <p><strong>排除项：</strong>Public Courseloop API endpoint and POST schema read from official frontend JavaScript；Filter implementationYear to official current_year; request all pages of 100 and assert row count equals API total；Program: official Undergraduate line; UNSW additionally confirm bachelor award in every full program page; Monash/UTS bachelor title prefix；UNSW fields: explicit level=major or honours plus studyLevelValue=ugrd; Monash explicit undergraduate field categories; UTS Major with Undergraduate or Unrestricted career；No minor, individual subject, diploma, certificate or standalone postgraduate degree promoted to bachelor；Keep restricted/offshore/ADFA fields where published; no applicant-nationality exclusion</p>
 
@@ -464,6 +464,7 @@ hide:
 - Duration/campus/language omitted unless explicit in read source
 - 2027 handbook not obtained; current publisher config explicitly 2026
 - Honours research areas and undergraduate specialisations retained even when the career line is blank, according to explicit undergraduate category
+- 澳洲2027与Malaysia 2026学费分开标年；252个受限或内部方向条目不继承宽泛校级规则。其余专业先修、双学位准确费用、独立申请窗口和毕业调查仍需补齐。
 
 - [官方目录来源](https://handbook.monash.edu/api/search/search-academic-items)
 - [官方目录来源](https://handbook.monash.edu/api/search/search-academic-items)
@@ -477,5 +478,616 @@ hide:
 - [官方目录来源](https://handbook.monash.edu/api/search/search-academic-items)
 - [官方目录来源](https://handbook.monash.edu/api/search/search-academic-items)
 - [官方目录来源](https://handbook.monash.edu/api/search/search-academic-items)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2052)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/fees)
+- [官方目录来源](https://www.monash.edu.my/finance/sst-info)
+- [官方目录来源](https://www.monash.edu.my/study/apply/intake-periods)
+- [官方目录来源](https://www.monash.edu.my/study/entry-requirements/english/tests)
+- [官方目录来源](https://www.monash.edu.my/student-services/financial-assistance/undergraduate-scholarships-and-bursaries/merit-scholarships#graphite-tabs__1745923-02)
+- [官方目录来源](https://www.monash.edu.my/student-services/financial-assistance/undergraduate-scholarships-and-bursaries/merit-scholarships#graphite-tabs__1745923-03)
+- [官方目录来源](https://www.monash.edu.my/student-services/financial-assistance/undergraduate-scholarships-and-bursaries/merit-scholarships#graphite-tabs__1745923-04)
+- [官方目录来源](https://www.monash.edu.my/student-services/financial-assistance/undergraduate-scholarships-and-bursaries/merit-scholarships#graphite-tabs__1745923-05)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/business/bachelor-in-actuarial-analytics#graphite-tabs__3917847-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2029)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/accounting-b2029?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/accounting-b2029?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/accounting-b2029?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2033)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/actuarial-science-b2033?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/actuarial-science-b2033?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/actuarial-science-b2033?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B6060)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/S2010)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/applied-data-science-s2010?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/applied-data-science-s2010?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/applied-data-science-s2010?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/science/bachelor-of-applied-data-science#graphite-tabs__3100284-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/S3003)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/applied-data-science-advanced-s3003?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/applied-data-science-advanced-s3003?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/applied-data-science-advanced-s3003?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F2001)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/architectural-design-f2001?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/architectural-design-f2001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/architectural-design-f2001?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F6003)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F2016)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F2019)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F2018)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F2017)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2000)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/arts-a2000?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/arts-a2000?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/arts-a2000?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A3701)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/arts-a3701?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/arts-a3701?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu.my/student-services/financial-assistance/undergraduate-scholarships-and-bursaries)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/arts-social-sciences/bachelor-arts-honours#graphite-tabs__2593476-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2012)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2005)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2018)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2017)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2019)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2004)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2006)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/arts-social-sciences/bachelor-arts-social-sciences#graphite-tabs__2652836-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2042)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/banking-and-finance-b2042?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/banking-and-finance-b2042?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/banking-and-finance-b2042?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M2003)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/biomedical-science-m2003?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/biomedical-science-m2003?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/biomedical-science-m2003?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/biomedical-science-m2003?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M3702)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/biomedical-science-m3702?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/biomedical-science-m3702?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2000)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/business-b2000?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/business-b2000?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/business-b2000?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2007)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/business-administration-b2007?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/business-administration-b2007?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/business-administration-b2007?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2040)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2019)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2035)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2017)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2056)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2037)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2028)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2026)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/business/bachelor-business-commerce#graphite-tabs__2595227-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B3702)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/business/bachelor-business-commerce-honours#graphite-tabs__2595427-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2048)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/business/bachelor-business-commerce-bachelor-computer-science#graphite-tabs__3211691-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2027)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/business/bachelor-business-commerce-bachelor-communication#graphite-tabs__2595529-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2001)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/commerce-b2001?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/commerce-b2001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/commerce-b2001?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B3701)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/commerce-b3701?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/commerce-b3701?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2030)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2020)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2021)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2008)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2032)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2043)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2006)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2025)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2022)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2047)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2023)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/C2001)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/information-technology/bachelor-computer-science#graphite-tabs__2608041-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/C3702)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/computer-science-c3702?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/computer-science-c3702?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/information-technology/bachelor-of-computer-science-honours#graphite-tabs__2608136-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/C3001)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/computer-science-advanced-c3001?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/computer-science-advanced-c3001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/computer-science-advanced-c3001?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2008)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/criminology-a2008?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/criminology-a2008?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/criminology-a2008?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2009)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2014)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F2010)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/design-f2010?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/design-f2010?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/design-f2010?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/design-f2010?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/design-f2010?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/design-f2010?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F2014)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F2011)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F2020)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F2012)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F2009)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2057)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2049)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/digital-business-b2049?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/digital-business-b2049?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/digital-business-b2049?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/business/bachelor-of-digital-business#graphite-tabs__3691806-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2051)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2050)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2011)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/arts-social-sciences/bachelor-of-digital-media-and-communication#graphite-tabs__2593334-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2031)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/economics-b2031?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/economics-b2031?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/economics-b2031?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/D3001)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/D3002)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/D3007)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/D3006)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/D3004)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/D3005)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/D2002)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/E3001)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/E3009)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/E3002)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/E3004)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/E3005)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/E3010)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/E3012)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/E3011)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/E3008)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/E3007)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/E3013)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2034)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/finance-b2034?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/finance-b2034?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/finance-b2034?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F2003)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/fine-art-f2003?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/fine-art-f2003?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/fine-art-f2003?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F3701)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/fine-art-f3701?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/fine-art-f3701?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F2007)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F2006)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/F2013)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/S2009)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/science/bachelor-science-food-science-technology#graphite-tabs__2614296-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2001)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/global-studies-a2001?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/global-studies-a2001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/global-studies-a2001?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2015)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M2014)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/health-sciences-m2014?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/health-sciences-m2014?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/health-sciences-m2014?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M3706)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/health-sciences-m3706?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/health-sciences-m3706?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/health-sciences-m3706?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-of-health-sciences-honours#graphite-tabs__4114467-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M2016)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-of-human-nutrition#graphite-tabs__2936331-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/C2000)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/information-technology-c2000?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/information-technology-c2000?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/information-technology-c2000?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/C2004)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/C3703)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/information-technology-c3703?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/information-technology-c3703?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/information-technology-c3703?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/C2002)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/C2003)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2020)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/international-relations-a2020?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/international-relations-a2020?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/international-relations-a2020?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/L3001)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/laws-l3001?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/laws-l3001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/laws-l3001?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/L3003)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/L3004)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/L3005)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/L3011)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/L3012)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/L3002)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/L3009)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/L3010)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/L3015)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/L3006)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/L3013)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/L3014)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/L3007)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/D2003)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/learning-design-and-technology-d2003?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/learning-design-and-technology-d2003?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/learning-design-and-technology-d2003?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2036)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/marketing-b2036?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/marketing-b2036?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/marketing-b2036?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2039)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/B2044)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2002)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/media-communication-a2002?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/media-communication-a2002?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/media-communication-a2002?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2021)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/S2008)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/science/bachelor-science-medical-bioscience#graphite-tabs__2613596-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M3701)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/medical-science-m3701?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/medical-science-m3701?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-medical-science-honours#graphite-tabs__2610471-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M6011%20M6019)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/medical-science-and-medicine-direct-entry-m6011?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/medical-science-and-medicine-direct-entry-m6011?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/medicine/medical-school/direct-entry/international/entry-requirements)
+- [官方目录来源](https://www.monash.edu/medicine/medical-school/direct-entry/international/applications-fees)
+- [官方目录来源](https://www.monash.edu.my/student-services/financial-assistance/undergraduate-scholarships-and-bursaries/merit-scholarships)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-medical-science-doctor-medicine#graphite-tabs__2608997-05)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-medical-science-doctor-medicine)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M6018)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/medical-science-and-medicine-graduate-entry-m6018?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/medical-science-and-medicine-graduate-entry-m6018?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/medicine/medical-school/graduate-entry/international/entry-requirements)
+- [官方目录来源](https://www.monash.edu/medicine/medical-school/graduate-entry/international/applications-fees)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2003)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/music-a2003?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/music-a2003?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/music-a2003?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A3702)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/music-a3702?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/music-a3702?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M2006)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/nursing-m2006?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/nursing-m2006?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/nursing-m2006?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/nursing-m2006?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/nursing-m2006?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M3704)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/nursing-m3704?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/nursing-m3704?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M3007)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M2001)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/nutrition-science-m2001?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/nutrition-science-m2001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/nutrition-science-m2001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/nutrition-science-m2001?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M3001)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/occupational-therapy-m3001?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/occupational-therapy-m3001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/occupational-therapy-m3001?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M2011)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/paramedicine-m2011?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/paramedicine-m2011?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/paramedicine-m2011?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M3707)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/paramedicine-m3707?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/paramedicine-m3707?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/P2001)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-p2001?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-p2001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-p2001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/pharmacy/bachelor-of-pharmaceutical-science#graphite-tabs__3283649-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/P3701)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-p3701?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-p3701?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/pharmacy/bachelor-of-pharmaceutical-science-honours#graphite-tabs__3488159-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/P3002)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-advanced-p3002?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-advanced-p3002?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-advanced-p3002?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/pharmaceutical-science-advanced-p3002?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/P3001)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/pharmacy/bachelor-pharmacy#graphite-tabs__2611662-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/P6001)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M3002)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/physiotherapy-m3002?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/physiotherapy-m3002?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/physiotherapy-m3002?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2010)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/politics-philosophy-and-economics-a2010?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/politics-philosophy-and-economics-a2010?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/politics-philosophy-and-economics-a2010?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/A2013)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M2018)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/psychology-m2018?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/psychology-m2018?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/psychology-m2018?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-of-psychology#graphite-tabs__3011150-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M3708)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/psychology-m3708?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/psychology-m3708?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-psychology-honours#graphite-tabs__2611604-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M2019)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M2020)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M2021)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M2015)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/jeffrey-cheah-school-medicine-health-sciences/bachelor-psychology-and-business#graphite-tabs__2611550-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M2012)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/public-health-m2012?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/public-health-m2012?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/public-health-m2012?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M2017)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M3006)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/radiography-and-medical-imaging-m3006?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/radiography-and-medical-imaging-m3006?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/radiography-and-medical-imaging-m3006?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/S2000)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/science-s2000?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/science-s2000?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/science-s2000?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/science/bachelor-science#graphite-tabs__2613230-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/S3701)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/science-s3701?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/science-s3701?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu.my/study/undergraduate/science/bachelor-science-honours#graphite-tabs__2614529-05)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/S3001)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/science-advanced-global-challenges-s3001?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/science-advanced-global-challenges-s3001?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/science-advanced-global-challenges-s3001?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/S3002)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/science-advanced-research-s3002?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/science-advanced-research-s3002?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/science-advanced-research-s3002?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/S2006)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/S2007)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/S2004)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/S2003)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/S2005)
+- [官方目录来源](https://handbook.monash.edu/2026/courses/M3008)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/speech-pathology-m3008?international=true#application-fees)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/speech-pathology-m3008?international=true#entry-requirements-2)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/speech-pathology-m3008?international=true#entry-requirements-2)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ACCNTCY05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ACCOUNTG07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ACCOUNTG05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ACTURANL04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ACTRLSTD04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ACTRLSTD07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ACTURSTD04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/AEROENG04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ALGSFTWR01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ANDEVBIO04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ANTDVBIO01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ANTHROPL11)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/APCYBSEC01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/APPLMTH07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/APPLMTH05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/APMICBIO01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ARCHISHN05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ARCHANHI01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ATINTELL02)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ASTROPHY04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ASTROPHY07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ASTROPHY05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ATMOSCI04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BUSBKFIN09)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MBNKFINM01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BEHAVCOM07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BEHVRSTD01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BIOCHEM04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BIOCHEM05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BIOCHEM07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BIOMDENG03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BIOTECH07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BIOTECH05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BIOTECH04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BUSADMST01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BUSANLYT07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BUSANLMJ01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BUSSTATS07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BUSANECO01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BUSCOMST01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ITBIS06)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BUSLAW01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BUSMNGMT03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BUSSTUDS01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/CHEMENG04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/CHEMSTRY01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/CHEMSTRY03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/CHEMSTRY04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/CHINESE11)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/CHINESHN06)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/CIVILENG03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/CLATMSCI05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/CLATMSCI04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MCOMMS04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MCOMMS07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/COMMUNIC05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MCOMPTCH01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/COMPUSC07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/COMPUSC08)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/COMPUSC04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/CRIMINOL09)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/CSCYBSEC01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/DATASCI11)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/DGTLECON02)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/DIGMRKTG01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/EARCHPRI02)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/EARTHSC04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ECOLOGY04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ECOLOGY08)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ECOLOGY09)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ECONOMTR06)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ECONOMTR05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MECNMTCS09)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ECONANLY01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ECONOMIC06)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ECONOMIC07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ECBUSSTR05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ECONPOL01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MECSTBUS01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ECSYSENG04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ENVEASCI03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ENVEASCI01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ENVIRENG03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ENVIROSC04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/EUROPLAN03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/EUROPLAN01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/FILMSCRN07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MFLMTVSC07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MFLMTVSC03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/FINANCE08)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/FINANCE07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/FINECON01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/FININMAT05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/FINECMTR01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/FINTECH01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/FDSCIBUS01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/FOODSCI04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/FRENCHHN07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/GAMEIMMD01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/GENDERST03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/GENDERST07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/GENEGENO03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/GENEGENO04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/GENEGENO01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/GENOBIOI01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/GEOGSCI04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/GEOGSCI13)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/GEOGSCI14)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/GEOSCIEN01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/GEOSCIEN03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/GERMANHN06)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/GLOBASIA03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MGLBLSTD04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MGLBLSTD08)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/HLTHHUMT01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/HISTRYHN05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/HISTORY11)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/HUMNGEOG09)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/HUMPATH04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/HUMPATH02)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/HRMNGMT07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/HMNRGTSJ01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/IMMUNOL04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/IMMUNOL01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/IMMUNOL05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/INDIGSTD06)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/INDIGSTD01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/INDOSTHN06)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/INDOSTUD11)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/INNOVLDS01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/INTBUS03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MINTBSMN09)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/INTLREL10)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/INTLSTHN06)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ITALINHN06)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/JAPANSHN06)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/JAPANESE05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/JOURNLSM08)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/JOURNLSM13)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/KOREANHN06)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/KOREAN10)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/LINGENGL03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/LITERYHN06)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/LITRYSTD11)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MACFINMK01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MANGMENT04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MMNGT07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MNGTPRAC01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MNGTSTUD07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/BUSMRKTG01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MRKTGSPC07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MKTGCOM03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MRKTGSCI01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MATSENG05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MAECOMTR01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MTHFNDEC01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MTHSTAT05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MTHSTAT07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MATHS09)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MATHS11)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MTHSTAT04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MECHENG03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MEDIA02)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MEDBIOSC04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MMEDCHEM01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MMEDCHEM04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MICROBIO04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MICROBIO05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MICROBIO07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MUSIC01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PERFORM01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PHARMAC04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PHARMAC01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PHILSPHN05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PHILSPHY07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PHILOSSP02)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PHYSICS04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PHYSICS10)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PHYSICS09)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PHYSIOL05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PHYSIOL04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PLNTSCI04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PLNTSCI05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/POLITICS05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PLTCGOVE02)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/POPMUSIC01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PRISEC05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PRISECHP03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PRISECIE02)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PRIMARY04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PSYCHOL09)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PSYCHOL07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/PUBLREL01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MATPURE09)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MATPURE11)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/REGENMED04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ROBMCTRN04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/SCREEN03)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/SECONDRY01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/SCNDRYHP01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/SOCIOLG05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/SFTWRDEV08)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/SFTWRENG02)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/SPANLTHN06)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/MSTRMKTG07)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/STRPUBRE01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/SSRSPMGT01)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/TAXATION05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/THEATRHN06)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/TRENVBIO05)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/TRENVBIO06)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/TRENVBIO04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ZOOLOGY04)
+- [官方目录来源](https://handbook.monash.edu/2026/aos/ZOOLOGY07)
+- [官方目录来源](https://www.monash.edu/admissions/apply/international-ug)
+- [官方目录来源](https://www.monash.edu/admissions/entry-requirements/english-language)
+- [官方目录来源](https://www.monash.edu/students/admin/dates/summary-dates)
+- [官方目录来源](https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true)
+- [官方目录来源](https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-merit-5770)
+- [官方目录来源](https://www.monash.edu/students/handbooks/maps/2026/map-m6018.pdf)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

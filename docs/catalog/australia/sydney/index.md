@@ -23,328 +23,327 @@ hide:
 
 ## 专业与申请资料
 
-317 个专业条目 · 2 个含详细资料 · 14 个补有专业资料 · 301 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+316 个专业条目 · 2 个含详细资料 · 314 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=sydney#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-accounting-9caf30a29d/">Accounting</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-accounting-9986cd268c/">Accounting</a><small>Honours Field · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-aeronautical-04531dccac/">Aeronautical</a><small>Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-aeronautical-with-space-fcf93b5096/">Aeronautical with Space</a><small>Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-agriculture-bcc03b7344/">Agriculture</a><small>Honours Field · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-american-studies-dbd9374d54/">American Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-anatomy-and-histology-de16a1c7ed/">Anatomy and Histology</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-ancient-greek-55fddfb76d/">Ancient Greek</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-ancient-history-011b617c24/">Ancient History</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-animal-health-disease-and-welfare-1e37f37dd0/">Animal Health, Disease and Welfare</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-animal-production-875a86ad6f/">Animal Production</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-animal-and-veterinary-bioscience-400f963c14/">Animal and Veterinary Bioscience</a><small>Honours Field · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-anthropology-2fb567c019/">Anthropology</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-applied-medical-science-662ee8f179/">Applied Medical Science</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-arabic-language-and-cultures-5e7c93759a/">Arabic Language and Cultures</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-archaeology-4ddc5ea3a9/">Archaeology</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-art-history-630dd7e6eb/">Art History</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-asian-studies-b7282ac7ba/">Asian Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-astrophysics-065872f409/">Astrophysics</a><small>Program · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-advanced-computing-51e0a99cf4/">Bachelor of Advanced Computing</a><small>Bachelor of Advanced Computing · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-advanced-computing-and-bachelor-of-commerce-36eecddb00/">Bachelor of Advanced Computing and Bachelor of Commerce</a><small>Bachelor of Advanced Computing and Bachelor of Commerce · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-advanced-computing-and-bachelor-of-science-d5f255b7fd/">Bachelor of Advanced Computing and Bachelor of Science</a><small>Bachelor of Advanced Computing and Bachelor of Science · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-accounting-9caf30a29d/">会计学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-accounting-9986cd268c/">会计（荣誉研究）</a><small>Honours Field · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-aeronautical-04531dccac/">航空工程</a><small>Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-aeronautical-with-space-fcf93b5096/">航空工程与航天</a><small>Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-agriculture-bcc03b7344/">农业（荣誉方向）</a><small>Honours Field · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-american-studies-dbd9374d54/">美国研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-anatomy-and-histology-de16a1c7ed/">解剖学与组织学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-ancient-greek-55fddfb76d/">古希腊语</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-ancient-history-011b617c24/">古代史</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-animal-health-disease-and-welfare-1e37f37dd0/">动物健康、疾病与福利</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-animal-production-875a86ad6f/">动物生产</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-animal-and-veterinary-bioscience-400f963c14/">动物与兽医生物科学（荣誉方向）</a><small>Honours Field · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-anthropology-2fb567c019/">人类学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-applied-medical-science-662ee8f179/">应用医学科学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-arabic-language-and-cultures-5e7c93759a/">阿拉伯语言与文化</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-archaeology-4ddc5ea3a9/">考古学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-art-history-630dd7e6eb/">艺术史</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-asian-studies-b7282ac7ba/">亚洲研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-astrophysics-065872f409/">天体物理学</a><small>Program · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-advanced-computing-51e0a99cf4/">高级计算学士</a><small>Bachelor of Advanced Computing · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-advanced-computing-and-bachelor-of-commerce-36eecddb00/">高级计算学士与商科学士</a><small>Bachelor of Advanced Computing and Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-advanced-computing-and-bachelor-of-science-d5f255b7fd/">高级计算学士与理学士</a><small>Bachelor of Advanced Computing and Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-advanced-computing/">高级计算机学士·计算机科学主修</a><small>Bachelor of Advanced Computing — Computer Science major · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-advanced-studies-honours-8a8c83ae06/">Bachelor of Advanced Studies (Honours)</a><small>Bachelor of Advanced Studies (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-advanced-studies-media-and-communications-cc9302b522/">Bachelor of Advanced Studies (Media and Communications)</a><small>Bachelor of Advanced Studies (Media and Communications) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-advanced-studies-media-and-communications-honours-dae8f157f5/">Bachelor of Advanced Studies (Media and Communications) (Honours)</a><small>Bachelor of Advanced Studies (Media and Communications) (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-agricultural-science-d3f5852ad2/">Bachelor of Agricultural Science</a><small>Bachelor of Agricultural Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-agricultural-science-honours-2fe11e33aa/">Bachelor of Agricultural Science Honours</a><small>Bachelor of Agricultural Science Honours · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-animal-and-veterinary-bioscience-adf98cebe9/">Bachelor of Animal and Veterinary Bioscience</a><small>Bachelor of Animal and Veterinary Bioscience · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-animal-and-veterinary-bioscience-honours-ce5a12699f/">Bachelor of Animal and Veterinary Bioscience (Honours)</a><small>Bachelor of Animal and Veterinary Bioscience (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-applied-science-diagnostic-radiography-d32a1baf3b/">Bachelor of Applied Science (Diagnostic Radiography)</a><small>Bachelor of Applied Science (Diagnostic Radiography) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-applied-science-exercise-physiology-676b2219b3/">Bachelor of Applied Science (Exercise Physiology)</a><small>Bachelor of Applied Science (Exercise Physiology) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-applied-science-exercise-and-sport-science-107577b08c/">Bachelor of Applied Science (Exercise and Sport Science)</a><small>Bachelor of Applied Science (Exercise and Sport Science) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-applied-science-exercise-and-sport-science-honours-c1cda7c89d/">Bachelor of Applied Science (Exercise and Sport Science) (Honours)</a><small>Bachelor of Applied Science (Exercise and Sport Science) (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-applied-science-occupational-therapy-6912f2ed64/">Bachelor of Applied Science (Occupational Therapy)</a><small>Bachelor of Applied Science (Occupational Therapy) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-applied-science-physiotherapy-fedf6036c6/">Bachelor of Applied Science (Physiotherapy)</a><small>Bachelor of Applied Science (Physiotherapy) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-applied-science-speech-pathology-4ef96b07d9/">Bachelor of Applied Science (Speech Pathology)</a><small>Bachelor of Applied Science (Speech Pathology) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-architecture-and-environments-a5be469d19/">Bachelor of Architecture and Environments</a><small>Bachelor of Architecture and Environments · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-48ad62611f/">Bachelor of Arts</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-dual-degree-sciences-po-6184ca1704/">Bachelor of Arts (Dual Degree: Sciences Po)</a><small>Bachelor of Arts (Dual Degree: Sciences Po) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-extended-687563024d/">Bachelor of Arts (Extended)</a><small>Bachelor of Arts (Extended) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-honours-4897dd9fec/">Bachelor of Arts (Honours)</a><small>Bachelor of Arts (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-and-bachelor-of-advanced-studies-3f8b034f62/">Bachelor of Arts and Bachelor of Advanced Studies</a><small>Bachelor of Arts and Bachelor of Advanced Studies · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-and-bachelor-of-laws-eee19298a0/">Bachelor of Arts and Bachelor of Laws</a><small>Bachelor of Arts and Bachelor of Laws · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-and-bachelor-of-social-work-e18ddb9fc5/">Bachelor of Arts and Bachelor of Social Work</a><small>Bachelor of Arts and Bachelor of Social Work · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-and-doctor-of-medicine-f61d49a796/">Bachelor of Arts and Doctor of Medicine</a><small>Bachelor of Arts and Doctor of Medicine · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-and-master-of-nursing-d7a4f7e482/">Bachelor of Arts and Master of Nursing</a><small>Bachelor of Arts and Master of Nursing · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-biomedicine-and-health-ffce65a37c/">Bachelor of Biomedicine and Health</a><small>Bachelor of Biomedicine and Health · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-advanced-studies-honours-8a8c83ae06/">高级研究学士（荣誉）</a><small>Bachelor of Advanced Studies (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-advanced-studies-media-and-communications-cc9302b522/">高级研究学士（媒体与传播）</a><small>Bachelor of Advanced Studies (Media and Communications) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-advanced-studies-media-and-communications-honours-dae8f157f5/">高级研究学士（媒体与传播）（荣誉）</a><small>Bachelor of Advanced Studies (Media and Communications) (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-agricultural-science-d3f5852ad2/">农业科学学士</a><small>Bachelor of Agricultural Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-agricultural-science-honours-2fe11e33aa/">农业科学荣誉学士</a><small>Bachelor of Agricultural Science Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-animal-and-veterinary-bioscience-adf98cebe9/">动物与兽医生物科学学士</a><small>Bachelor of Animal and Veterinary Bioscience · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-animal-and-veterinary-bioscience-honours-ce5a12699f/">动物与兽医生物科学学士（荣誉）</a><small>Bachelor of Animal and Veterinary Bioscience (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-applied-science-diagnostic-radiography-d32a1baf3b/">应用科学学士（诊断放射技术）</a><small>Bachelor of Applied Science (Diagnostic Radiography) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-applied-science-exercise-physiology-676b2219b3/">应用科学学士（运动生理学）</a><small>Bachelor of Applied Science (Exercise Physiology) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-applied-science-exercise-and-sport-science-107577b08c/">应用科学学士（运动与体育科学）</a><small>Bachelor of Applied Science (Exercise and Sport Science) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-applied-science-exercise-and-sport-science-honours-c1cda7c89d/">应用科学学士（运动与体育科学）（荣誉）</a><small>Bachelor of Applied Science (Exercise and Sport Science) (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-applied-science-occupational-therapy-6912f2ed64/">应用科学学士（作业治疗）</a><small>Bachelor of Applied Science (Occupational Therapy) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-applied-science-physiotherapy-fedf6036c6/">应用科学学士（物理治疗）</a><small>Bachelor of Applied Science (Physiotherapy) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-applied-science-speech-pathology-4ef96b07d9/">应用科学学士（言语病理学）</a><small>Bachelor of Applied Science (Speech Pathology) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-architecture-and-environments-a5be469d19/">建筑与环境学士</a><small>Bachelor of Architecture and Environments · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-48ad62611f/">文学士</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-dual-degree-sciences-po-6184ca1704/">文学士（与巴黎政治学院双学位）</a><small>Bachelor of Arts (Dual Degree: Sciences Po) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-extended-687563024d/">文学士（延展路径）</a><small>Bachelor of Arts (Extended) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-honours-4897dd9fec/">文学士（荣誉）</a><small>Bachelor of Arts (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-and-bachelor-of-advanced-studies-3f8b034f62/">文学士与高级研究学士</a><small>Bachelor of Arts and Bachelor of Advanced Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-and-bachelor-of-laws-eee19298a0/">文学士与法律学士</a><small>Bachelor of Arts and Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-and-bachelor-of-social-work-e18ddb9fc5/">文学士与社会工作学士</a><small>Bachelor of Arts and Bachelor of Social Work · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-and-doctor-of-medicine-f61d49a796/">文学士与医学博士</a><small>Bachelor of Arts and Doctor of Medicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-arts-and-master-of-nursing-d7a4f7e482/">文学士与护理硕士</a><small>Bachelor of Arts and Master of Nursing · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-biomedicine-and-health-ffce65a37c/">生物医学与健康学士</a><small>Bachelor of Biomedicine and Health · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-commerce/">商学学士</a><small>Bachelor of Commerce · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-dalyell-stream-4e23732e9b/">Bachelor of Commerce (Dalyell Stream)</a><small>Degree Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-dalyell-stream-and-bachelor-of-laws-72956c7dc8/">Bachelor of Commerce (Dalyell Stream) and Bachelor of Laws</a><small>Degree Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-and-bachelor-of-advanced-studies-3448237245/">Bachelor of Commerce and Bachelor of Advanced Studies</a><small>Bachelor of Commerce and Bachelor of Advanced Studies · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-and-bachelor-of-advanced-studies-dalyell-str-7993c06556/">Bachelor of Commerce and Bachelor of Advanced Studies (Dalyell Stream)</a><small>Degree Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-and-bachelor-of-arts-cab9b0175e/">Bachelor of Commerce and Bachelor of Arts</a><small>Bachelor of Commerce and Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-and-bachelor-of-arts-dalyell-stream-ad8274b41e/">Bachelor of Commerce and Bachelor of Arts (Dalyell Stream)</a><small>Degree Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-and-bachelor-of-laws-4881c9ef4d/">Bachelor of Commerce and Bachelor of Laws</a><small>Bachelor of Commerce and Bachelor of Laws · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-and-bachelor-of-science-73ac18a6b7/">Bachelor of Commerce and Bachelor of Science</a><small>Bachelor of Commerce and Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-and-bachelor-of-science-dalyell-stream-99a72ff9a5/">Bachelor of Commerce and Bachelor of Science (Dalyell Stream)</a><small>Degree Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-computing-cb63292cb8/">Bachelor of Computing</a><small>Bachelor of Computing · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-design-bdb474451c/">Bachelor of Design</a><small>Bachelor of Design · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-design-honours-dc6e0e1fb5/">Bachelor of Design (Honours)</a><small>Bachelor of Design (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-design-and-bachelor-of-advanced-studies-32c113dadd/">Bachelor of Design and Bachelor of Advanced Studies</a><small>Bachelor of Design and Bachelor of Advanced Studies · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-design-in-architecture-d0f69cf612/">Bachelor of Design in Architecture</a><small>Bachelor of Design in Architecture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-design-in-architecture-honours-and-master-of-architec-c4584b25db/">Bachelor of Design in Architecture (Honours) and Master of Architecture</a><small>Bachelor of Design in Architecture (Honours) and Master of Architecture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-economics-3de13a24cf/">Bachelor of Economics</a><small>Bachelor of Economics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-economics-dual-degree-sciences-po-004a611d97/">Bachelor of Economics (Dual Degree: Sciences Po)</a><small>Bachelor of Economics (Dual Degree: Sciences Po) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-economics-honours-1be83ddcf3/">Bachelor of Economics (Honours)</a><small>Bachelor of Economics (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-economics-and-bachelor-of-advanced-studies-5a9781b16b/">Bachelor of Economics and Bachelor of Advanced Studies</a><small>Bachelor of Economics and Bachelor of Advanced Studies · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-economics-and-bachelor-of-arts-eeb489f9ac/">Bachelor of Economics and Bachelor of Arts</a><small>Bachelor of Economics and Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-economics-and-bachelor-of-laws-80ac0554f1/">Bachelor of Economics and Bachelor of Laws</a><small>Bachelor of Economics and Bachelor of Laws · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-education-early-childhood-177e8bb88c/">Bachelor of Education (Early Childhood)</a><small>Bachelor of Education (Early Childhood) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-education-health-and-physical-education-2b0ffa8043/">Bachelor of Education (Health and Physical Education)</a><small>Bachelor of Education (Health and Physical Education) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-education-primary-039a5fd4f2/">Bachelor of Education (Primary)</a><small>Bachelor of Education (Primary) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-education-secondary-22a0089402/">Bachelor of Education (Secondary)</a><small>Bachelor of Education (Secondary) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-education-and-bachelor-of-advanced-studies-secondary-2677496c1f/">Bachelor of Education and Bachelor of Advanced Studies (Secondary)</a><small>Bachelor of Education and Bachelor of Advanced Studies (Secondary) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-engineering-honours-a0008b5b2e/">Bachelor of Engineering Honours</a><small>Bachelor of Engineering Honours · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-engineering-honours-and-bachelor-of-arts-443f1818db/">Bachelor of Engineering Honours and Bachelor of Arts</a><small>Bachelor of Engineering Honours and Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-engineering-honours-and-bachelor-of-commerce-74c8659e58/">Bachelor of Engineering Honours and Bachelor of Commerce</a><small>Bachelor of Engineering Honours and Bachelor of Commerce · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-engineering-honours-and-bachelor-of-design-in-archite-b4f6467143/">Bachelor of Engineering Honours and Bachelor of Design in Architecture</a><small>Bachelor of Engineering Honours and Bachelor of Design in Architecture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-engineering-honours-and-bachelor-of-laws-7582f63d95/">Bachelor of Engineering Honours and Bachelor of Laws</a><small>Bachelor of Engineering Honours and Bachelor of Laws · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-engineering-honours-and-bachelor-of-project-managemen-aa59f1b8e5/">Bachelor of Engineering Honours and Bachelor of Project Management</a><small>Bachelor of Engineering Honours and Bachelor of Project Management · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-engineering-honours-and-bachelor-of-science-f58b34dcb4/">Bachelor of Engineering Honours and Bachelor of Science</a><small>Bachelor of Engineering Honours and Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-health-sciences-honours-fb1d046883/">Bachelor of Health Sciences (Honours)</a><small>Bachelor of Health Sciences (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-international-studies-a64d4cafc3/">Bachelor of International Studies</a><small>Bachelor of International Studies · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-international-studies-honours-29262879cf/">Bachelor of International Studies (Honours)</a><small>Bachelor of International Studies (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-languages-e8bcd38e33/">Bachelor of Languages</a><small>Bachelor of Languages · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-languages-honours-76b9a13ef9/">Bachelor of Languages (Honours)</a><small>Bachelor of Languages (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-laws-46287ca0dd/">Bachelor of Laws</a><small>Bachelor of Laws · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-laws-honours-2c152574ab/">Bachelor of Laws (Honours)</a><small>Bachelor of Laws (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-liberal-arts-and-science-8ce0c14a21/">Bachelor of Liberal Arts and Science</a><small>Bachelor of Liberal Arts and Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-liberal-arts-and-science-extended-53e27abd58/">Bachelor of Liberal Arts and Science (Extended)</a><small>Bachelor of Liberal Arts and Science (Extended) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-mathematical-sciences-e0a8b32a3b/">Bachelor of Mathematical Sciences</a><small>Bachelor of Mathematical Sciences · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-mathematical-sciences-honours-7de942edd7/">Bachelor of Mathematical Sciences (Honours)</a><small>Bachelor of Mathematical Sciences (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-media-and-communications-8760be0573/">Bachelor of Media and Communications</a><small>Bachelor of Media and Communications · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-media-and-communications-honours-49ddb138f9/">Bachelor of Media and Communications (Honours)</a><small>Bachelor of Media and Communications (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-music-7c68b53391/">Bachelor of Music</a><small>Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-music-composition-fc008bb6ab/">Bachelor of Music (Composition)</a><small>Bachelor of Music (Composition) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-music-music-education-077c20e169/">Bachelor of Music (Music Education)</a><small>Bachelor of Music (Music Education) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-music-performance-b19f8f83fd/">Bachelor of Music (Performance)</a><small>Bachelor of Music (Performance) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-music-studies-honours-734013008c/">Bachelor of Music Studies (Honours)</a><small>Bachelor of Music Studies (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-music-and-bachelor-of-advanced-studies-composition-c8fe33d4d5/">Bachelor of Music and Bachelor of Advanced Studies (Composition)</a><small>Bachelor of Music and Bachelor of Advanced Studies (Composition) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-music-and-bachelor-of-advanced-studies-performance-7cd401052d/">Bachelor of Music and Bachelor of Advanced Studies (Performance)</a><small>Bachelor of Music and Bachelor of Advanced Studies (Performance) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-nursing-advanced-studies-0faef28952/">Bachelor of Nursing (Advanced Studies)</a><small>Bachelor of Nursing (Advanced Studies) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-nursing-honours-9e49b81c23/">Bachelor of Nursing (Honours)</a><small>Bachelor of Nursing (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-nursing-post-registration-offshore-singapore-a0c1ad7e6d/">Bachelor of Nursing (Post-registration) Offshore (Singapore)</a><small>Bachelor of Nursing (Post-registration) Offshore (Singapore) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-oral-health-87b7b39a68/">Bachelor of Oral Health</a><small>Bachelor of Oral Health · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-pharmacy-honours-and-master-of-pharmacy-practice-60128e23d3/">Bachelor of Pharmacy (Honours) and Master of Pharmacy Practice</a><small>Bachelor of Pharmacy (Honours) and Master of Pharmacy Practice · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-pharmacy-and-management-honours-and-master-of-pharmac-7b37e10ea7/">Bachelor of Pharmacy and Management (Honours) and Master of Pharmacy Practice</a><small>Bachelor of Pharmacy and Management (Honours) and Master of Pharmacy Practice · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-politics-philosophy-and-economics-4b1a3b0863/">Bachelor of Politics, Philosophy, and Economics</a><small>Bachelor of Politics, Philosophy, and Economics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-politics-philosophy-and-economics-honours-f0718eed93/">Bachelor of Politics, Philosophy, and Economics (Honours)</a><small>Bachelor of Politics, Philosophy, and Economics (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-project-management-6973ecb415/">Bachelor of Project Management</a><small>Bachelor of Project Management · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-psychology-3d66ad962e/">Bachelor of Psychology</a><small>Bachelor of Psychology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-psychology-honours-15519b1562/">Bachelor of Psychology Honours</a><small>Bachelor of Psychology Honours · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-1c2f771ff2/">Bachelor of Science</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-extended-6b0d26c1e4/">Bachelor of Science (Extended)</a><small>Bachelor of Science (Extended) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-honours-1c4bdf172d/">Bachelor of Science (Honours)</a><small>Bachelor of Science (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-and-bachelor-of-advanced-studies-d64d065410/">Bachelor of Science and Bachelor of Advanced Studies</a><small>Bachelor of Science and Bachelor of Advanced Studies · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-and-bachelor-of-arts-ead0b51dc7/">Bachelor of Science and Bachelor of Arts</a><small>Bachelor of Science and Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-and-bachelor-of-laws-3965f04b65/">Bachelor of Science and Bachelor of Laws</a><small>Bachelor of Science and Bachelor of Laws · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-and-doctor-of-dental-medicine-bbe31244d3/">Bachelor of Science and Doctor of Dental Medicine</a><small>Bachelor of Science and Doctor of Dental Medicine · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-and-doctor-of-medicine-ea49ffb019/">Bachelor of Science and Doctor of Medicine</a><small>Bachelor of Science and Doctor of Medicine · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-and-master-of-nursing-pre-registration-5b94d253bd/">Bachelor of Science and Master of Nursing (Pre-registration)</a><small>Bachelor of Science and Master of Nursing (Pre-registration) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-and-master-of-nutrition-and-dietetics-f559c9a28b/">Bachelor of Science and Master of Nutrition and Dietetics</a><small>Bachelor of Science and Master of Nutrition and Dietetics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-social-work-114a61882c/">Bachelor of Social Work</a><small>Bachelor of Social Work · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-veterinary-biology-and-doctor-of-veterinary-medicine-8f63ff5570/">Bachelor of Veterinary Biology and Doctor of Veterinary Medicine</a><small>Bachelor of Veterinary Biology and Doctor of Veterinary Medicine · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-visual-arts-4e93391111/">Bachelor of Visual Arts</a><small>Bachelor of Visual Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-visual-arts-honours-f323d23a39/">Bachelor of Visual Arts (Honours)</a><small>Bachelor of Visual Arts (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-visual-arts-and-bachelor-of-advanced-studies-87ca0500c5/">Bachelor of Visual Arts and Bachelor of Advanced Studies</a><small>Bachelor of Visual Arts and Bachelor of Advanced Studies · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-wildlife-conservation-taronga-43d1f92f57/">Bachelor of Wildlife Conservation (Taronga)</a><small>Bachelor of Wildlife Conservation (Taronga) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-wildlife-conservation-taronga-honours-0ebe0d9197/">Bachelor of Wildlife Conservation (Taronga) (Honours)</a><small>Bachelor of Wildlife Conservation (Taronga) (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-banking-d5c8cdbcb1/">Banking</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bassoon-a7fe7c0191/">Bassoon</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bassoon-9468e38c9d/">Bassoon</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-biochemistry-and-molecular-biology-cb408598eb/">Biochemistry and Molecular Biology</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-biology-07652b596b/">Biology</a><small>Major · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-biomedical-7ea0c08599/">Biomedical</a><small>Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-built-environment-a802a1613f/">Built Environment</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-business-analytics-e68b1f3175/">Business Analytics</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-business-analytics-f013df144f/">Business Analytics</a><small>Honours Field · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-business-information-systems-befa049cae/">Business Information Systems</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-business-information-systems-a483f631aa/">Business Information Systems</a><small>Honours Field · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-business-law-6fccee4a3c/">Business Law</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-chemical-and-biomolecular-4feaf5c677/">Chemical and Biomolecular</a><small>Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-chemistry-1236e35022/">Chemistry</a><small>Major · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-chinese-studies-2ad1534f04/">Chinese Studies</a><small>Major · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-civil-a2798bb6d5/">Civil</a><small>Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-clarinet-ecdcff7431/">Clarinet</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-clarinet-5bbf511ced/">Clarinet</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-classical-voice-a24e4b0013/">Classical Voice</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-classical-voice-16e624dbec/">Classical Voice</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-collaborative-piano-d99c3914ee/">Collaborative Piano</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-composition-9df1d694a8/">Composition</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-composition-for-creative-industries-895bc25069/">Composition for Creative Industries</a><small>Program · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-computational-data-science-a9f0ede3f9/">Computational Data Science</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-computer-science-3476f2d0db/">Computer Science</a><small>Major · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-computer-systems-415189b169/">Computer Systems</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-computer-systems-c3e4b44bf0/">Computer Systems</a><small>Breadth Specialisation · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-construction-90f7d4539a/">Construction</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-contemporary-music-practice-c8724c512d/">Contemporary Music Practice</a><small>Program · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-contemporary-music-practice-81b85c72f1/">Contemporary Music Practice</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-criminology-e02acd96da/">Criminology</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-cultural-studies-b8db170130/">Cultural Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-cybersecurity-30a6599b27/">Cybersecurity</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-data-science-e6d5263fef/">Data Science</a><small>Major · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-design-49fac20aa5/">Design</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-digital-cultures-488ec9eb0a/">Digital Cultures</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-digital-music-3d1270fea3/">Digital Music</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-digital-music-composition-eb65400b30/">Digital Music Composition</a><small>Program · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-disability-and-participation-2e80a595c4/">Disability and Participation</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-discrete-mathematics-and-algorithms-ba22bbfceb/">Discrete Mathematics and Algorithms</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-double-bass-5cdf1d2aa8/">Double Bass</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-double-bass-0a155e4cb2/">Double Bass</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-drum-set-04b5e75681/">Drum Set</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-drum-set-b9ea4948e0/">Drum Set</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-ecology-and-evolutionary-biology-7cb8fbda37/">Ecology and Evolutionary Biology</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-econometrics-8d150a16cc/">Econometrics</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-economic-policy-analysis-5d31fe033f/">Economic Policy Analysis</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-economics-0caa9d3092/">Economics</a><small>Major · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-education-studies-5fd922ca20/">Education Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-electrical-cff2cde6f9/">Electrical</a><small>Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-engineering-data-science-aa8f069f56/">Engineering Data Science</a><small>Breadth Specialisation · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-english-72a94e7346/">English</a><small>Major · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-environmental-4983dbc0a5/">Environmental</a><small>Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-environmental-science-865e417de7/">Environmental Science</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-environmental-science-5a0bb7bb43/">Environmental Science</a><small>Program · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-environmental-studies-860eb47b32/">Environmental Studies</a><small>Major · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-environmental-agricultural-and-resource-economics-4a468346cd/">Environmental, Agricultural and Resource Economics</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-european-studies-0845031097/">European Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-film-studies-d65104a006/">Film Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-finance-edb5df6c5e/">Finance</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-finance-018d0ef014/">Finance</a><small>Honours Field · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-financial-economics-94889a164f/">Financial Economics</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-financial-mathematics-and-statistics-7c28b13d8c/">Financial Mathematics and Statistics</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-flute-2e831df9e3/">Flute</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-flute-eba6fcd4e1/">Flute</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-food-science-ed6eb09427/">Food Science</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-food-and-agribusiness-0edfa1c7af/">Food and Agribusiness</a><small>Honours Field · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-french-and-francophone-studies-e8deadfeff/">French and Francophone Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-gender-studies-2154914f4f/">Gender Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-genetics-and-genomics-58b3f7a103/">Genetics and Genomics</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-geography-d16bc724b8/">Geography</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-geology-and-geophysics-4d55c98c22/">Geology and Geophysics</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-germanic-studies-1350dfe88d/">Germanic Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-guitar-90427a119d/">Guitar</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-guitar-1358d6430f/">Guitar</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-harp-700e67b07e/">Harp</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-harp-f632c8d167/">Harp</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-health-c97300fbc0/">Health</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-health-41bc1f85b2/">Health</a><small>Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-hearing-speech-and-communication-fbc5d14868/">Hearing, Speech and Communication</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-hebrew-modern-a60f05c146/">Hebrew (Modern)</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-high-performance-in-sport-59fe431d76/">High Performance in Sport</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-historical-performance-4242b9ab8d/">Historical Performance</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-historical-performance-d92c2d3b0c/">Historical Performance</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-history-49c2ffa618/">History</a><small>Major · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-history-and-philosophy-of-science-09cec1f786/">History and Philosophy of Science</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-horn-d305f5bb24/">Horn</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-horn-baa492fd5d/">Horn</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-humanitarian-engineering-6014fb3eda/">Humanitarian Engineering</a><small>Breadth Specialisation · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-immunology-and-pathology-6217cf7e0c/">Immunology and Pathology</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-indigenous-studies-4815f94e01/">Indigenous Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-indonesian-studies-0e54131d62/">Indonesian Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-industrial-relations-and-human-resource-management-6c4eddb8eb/">Industrial Relations and Human Resource Management</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-infectious-diseases-1ccc338cc2/">Infectious Diseases</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-innovation-and-entrepreneurship-25284d2b12/">Innovation and Entrepreneurship</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-innovation-and-entrepreneurship-ccc83f5237/">Innovation and Entrepreneurship</a><small>Breadth Specialisation · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-international-business-75cd2d7739/">International Business</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-international-business-d8f93824b4/">International Business</a><small>Honours Field · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-international-relations-1175564c09/">International Relations</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-international-and-comparative-literary-studies-5046645a53/">International and Comparative Literary Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-international-and-global-studies-524227fab3/">International and Global Studies</a><small>Honours Field · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-italian-studies-d8d82d0762/">Italian Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-japanese-studies-c87b648f93/">Japanese Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-jazz-performance-366f6f64bc/">Jazz Performance</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-jazz-performance-b1c73c8866/">Jazz Performance</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-jazz-voice-performance-0a5068dfba/">Jazz Voice Performance</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-jazz-voice-performance-c49ec334d1/">Jazz Voice Performance</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-jewish-civilisation-thought-and-culture-feb7fd8e27/">Jewish Civilisation, Thought and Culture</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-korean-studies-83cddd089a/">Korean Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-latin-045b8638a4/">Latin</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-life-sciences-787b3ad48f/">Life Sciences</a><small>Program · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-linguistics-e3c6d92037/">Linguistics</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-management-and-leadership-7d38701cca/">Management and Leadership</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-marine-science-28fafb1a87/">Marine Science</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-marketing-d7fb56fee9/">Marketing</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-marketing-1dbb2a9a36/">Marketing</a><small>Honours Field · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-mathematical-modelling-and-computation-3c1f3f3366/">Mathematical Modelling and Computation</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-mathematics-2caf9cb075/">Mathematics</a><small>Major · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-mechanical-8602e363ea/">Mechanical</a><small>Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-mechanical-with-space-9cacbc0586/">Mechanical with Space</a><small>Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-mechatronic-668cbdd3ad/">Mechatronic</a><small>Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-mechatronic-with-space-180857aa9a/">Mechatronic with Space</a><small>Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-media-studies-1250dbc9c8/">Media Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-media-and-communications-1065bf3fce/">Media and Communications</a><small>Honours Field · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-medical-science-5feb940d0b/">Medical Science</a><small>Program · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-medical-science-e947b23421/">Medical Science</a><small>Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-medicinal-chemistry-88bc1e3b26/">Medicinal Chemistry</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-microbiology-029ec7db8c/">Microbiology</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-modern-greek-studies-8e54d3a363/">Modern Greek Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-music-883c116360/">Music</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-music-theatre-5fff751fbf/">Music Theatre</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-musicology-a9d76573e0/">Musicology</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-musicology-204f989420/">Musicology</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-neuroscience-ee6d57f38b/">Neuroscience</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-non-western-instruments-87a79d9e3d/">Non-Western Instruments</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-nutrition-science-efd5300e4c/">Nutrition Science</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-nutrition-and-dietetics-52cd9911e7/">Nutrition and Dietetics</a><small>Program · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-oboe-c7998ecdf5/">Oboe</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-oboe-7a80a14ec3/">Oboe</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-organ-c318405ae9/">Organ</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-organ-d639e34060/">Organ</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-overview-e7ab3bf276/">Overview</a><small>Honours Field · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-percussion-74b3ae6b55/">Percussion</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-percussion-b3b959abc7/">Percussion</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-pharmacology-260396d37d/">Pharmacology</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-philosophy-2065e933b4/">Philosophy</a><small>Major · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-physical-activity-and-health-2be0211de9/">Physical Activity and Health</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-physics-5bb5a06e7a/">Physics</a><small>Major · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-physiology-7b62d90c04/">Physiology</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-piano-73a00632ee/">Piano</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-piano-93a4f4dd94/">Piano</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-plant-science-8a6f9903ee/">Plant Science</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-political-economy-7c526b0895/">Political Economy</a><small>Major · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-politics-fdd2577428/">Politics</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-politics-and-international-relations-06b5bae424/">Politics and International Relations</a><small>Honours Field · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-professional-accounting-14884c63fe/">Professional Accounting</a><small>Program · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-project-management-cea2b95b25/">Project Management</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-psychological-science-1e925a74f6/">Psychological Science</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-psychology-1bc13e3c74/">Psychology</a><small>Program · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-saxophone-73d60b85f3/">Saxophone</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-saxophone-93b4bd74e7/">Saxophone</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-socio-legal-studies-019602bb9e/">Socio-Legal Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-sociology-fdac3a889d/">Sociology</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-software-ff623785c2/">Software</a><small>Stream · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-software-development-8735935fed/">Software Development</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-software-development-6054532b34/">Software Development</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-soil-science-and-hydrology-5918d4eba7/">Soil Science and Hydrology</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-spanish-and-latin-american-studies-e567cc3d78/">Spanish and Latin American Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-statistics-149fc8bb22/">Statistics</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-sustainability-fc2eb3f590/">Sustainability</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-taronga-wildlife-conservation-423d2d446d/">Taronga Wildlife Conservation</a><small>Honours Field · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-theatre-and-performance-studies-22a43bd39f/">Theatre and Performance Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-trombone-6e10b9b00d/">Trombone</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-trombone-6759f3434d/">Trombone</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-trumpet-d6747855af/">Trumpet</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-trumpet-fabf6c81a1/">Trumpet</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-tuba-337fa5233c/">Tuba</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-tuba-aa392a4540/">Tuba</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-urban-studies-46376e086e/">Urban Studies</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-viola-be9c6f446f/">Viola</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-viola-cf3f124614/">Viola</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-violin-ca19c857f8/">Violin</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-violin-34dd07a1b8/">Violin</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-violoncello-c1d193ceec/">Violoncello</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-violoncello-c2d1ac47bb/">Violoncello</a><small>Principal Study · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-visual-arts-4a75988f4b/">Visual Arts</a><small>Major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-work-and-organisational-studies-465d5fec5d/">Work and Organisational Studies</a><small>Honours Field · 仅补学校共用资料</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-dalyell-stream-4e23732e9b/">商科学士（Dalyell方向）</a><small>Degree Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-dalyell-stream-and-bachelor-of-laws-72956c7dc8/">商科学士（Dalyell方向）与法律学士</a><small>Degree Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-and-bachelor-of-advanced-studies-3448237245/">商科学士与高级研究学士</a><small>Bachelor of Commerce and Bachelor of Advanced Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-and-bachelor-of-advanced-studies-dalyell-str-7993c06556/">商科学士与高级研究学士（Dalyell方向）</a><small>Degree Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-and-bachelor-of-arts-cab9b0175e/">商科学士与文学士</a><small>Bachelor of Commerce and Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-and-bachelor-of-arts-dalyell-stream-ad8274b41e/">商科学士与文学士（Dalyell方向）</a><small>Degree Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-and-bachelor-of-laws-4881c9ef4d/">商科学士与法律学士</a><small>Bachelor of Commerce and Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-and-bachelor-of-science-73ac18a6b7/">商科学士与理学士</a><small>Bachelor of Commerce and Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-commerce-and-bachelor-of-science-dalyell-stream-99a72ff9a5/">商科学士与理学士（Dalyell方向）</a><small>Degree Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-computing-cb63292cb8/">计算学士</a><small>Bachelor of Computing · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-design-bdb474451c/">设计学士</a><small>Bachelor of Design · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-design-honours-dc6e0e1fb5/">设计学士（荣誉）</a><small>Bachelor of Design (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-design-and-bachelor-of-advanced-studies-32c113dadd/">设计学士与高级研究学士</a><small>Bachelor of Design and Bachelor of Advanced Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-design-in-architecture-d0f69cf612/">建筑设计学士</a><small>Bachelor of Design in Architecture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-design-in-architecture-honours-and-master-of-architec-c4584b25db/">建筑设计学士（荣誉）与建筑硕士</a><small>Bachelor of Design in Architecture (Honours) and Master of Architecture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-economics-3de13a24cf/">经济学士</a><small>Bachelor of Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-economics-dual-degree-sciences-po-004a611d97/">经济学士（与巴黎政治学院双学位）</a><small>Bachelor of Economics (Dual Degree: Sciences Po) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-economics-honours-1be83ddcf3/">经济学士（荣誉）</a><small>Bachelor of Economics (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-economics-and-bachelor-of-advanced-studies-5a9781b16b/">经济学士与高级研究学士</a><small>Bachelor of Economics and Bachelor of Advanced Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-economics-and-bachelor-of-arts-eeb489f9ac/">经济学士与文学士</a><small>Bachelor of Economics and Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-economics-and-bachelor-of-laws-80ac0554f1/">经济学士与法律学士</a><small>Bachelor of Economics and Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-education-early-childhood-177e8bb88c/">教育学士（幼儿教育）</a><small>Bachelor of Education (Early Childhood) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-education-health-and-physical-education-2b0ffa8043/">教育学士（健康与体育教育）</a><small>Bachelor of Education (Health and Physical Education) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-education-primary-039a5fd4f2/">教育学士（小学教育）</a><small>Bachelor of Education (Primary) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-education-secondary-22a0089402/">教育学士（中学教育）</a><small>Bachelor of Education (Secondary) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-education-and-bachelor-of-advanced-studies-secondary-2677496c1f/">教育学士与高级研究学士（中学教育）</a><small>Bachelor of Education and Bachelor of Advanced Studies (Secondary) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-engineering-honours-a0008b5b2e/">工程荣誉学士</a><small>Bachelor of Engineering Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-engineering-honours-and-bachelor-of-arts-443f1818db/">工程荣誉学士与文学士</a><small>Bachelor of Engineering Honours and Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-engineering-honours-and-bachelor-of-commerce-74c8659e58/">工程荣誉学士与商科学士</a><small>Bachelor of Engineering Honours and Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-engineering-honours-and-bachelor-of-design-in-archite-b4f6467143/">工程荣誉学士与建筑设计学士</a><small>Bachelor of Engineering Honours and Bachelor of Design in Architecture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-engineering-honours-and-bachelor-of-laws-7582f63d95/">工程荣誉学士与法律学士</a><small>Bachelor of Engineering Honours and Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-engineering-honours-and-bachelor-of-project-managemen-aa59f1b8e5/">工程荣誉学士与项目管理学士</a><small>Bachelor of Engineering Honours and Bachelor of Project Management · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-engineering-honours-and-bachelor-of-science-f58b34dcb4/">工程荣誉学士与理学士</a><small>Bachelor of Engineering Honours and Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-health-sciences-honours-fb1d046883/">健康科学学士（荣誉）</a><small>Bachelor of Health Sciences (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-international-studies-a64d4cafc3/">国际研究学士</a><small>Bachelor of International Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-international-studies-honours-29262879cf/">国际研究学士（荣誉）</a><small>Bachelor of International Studies (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-languages-e8bcd38e33/">语言学士</a><small>Bachelor of Languages · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-languages-honours-76b9a13ef9/">语言学士（荣誉）</a><small>Bachelor of Languages (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-laws-46287ca0dd/">法律学士</a><small>Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-laws-honours-2c152574ab/">法律学士（荣誉）</a><small>Bachelor of Laws (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-liberal-arts-and-science-8ce0c14a21/">文理通识学士</a><small>Bachelor of Liberal Arts and Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-liberal-arts-and-science-extended-53e27abd58/">文理通识学士（延展路径）</a><small>Bachelor of Liberal Arts and Science (Extended) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-mathematical-sciences-e0a8b32a3b/">数学科学学士</a><small>Bachelor of Mathematical Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-mathematical-sciences-honours-7de942edd7/">数学科学学士（荣誉）</a><small>Bachelor of Mathematical Sciences (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-media-and-communications-8760be0573/">媒体与传播学士</a><small>Bachelor of Media and Communications · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-media-and-communications-honours-49ddb138f9/">媒体与传播学士（荣誉）</a><small>Bachelor of Media and Communications (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-music-7c68b53391/">音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-music-composition-fc008bb6ab/">音乐学士（作曲）</a><small>Bachelor of Music (Composition) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-music-music-education-077c20e169/">音乐学士（音乐教育）</a><small>Bachelor of Music (Music Education) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-music-performance-b19f8f83fd/">音乐学士（表演）</a><small>Bachelor of Music (Performance) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-music-studies-honours-734013008c/">音乐研究学士（荣誉）</a><small>Bachelor of Music Studies (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-music-and-bachelor-of-advanced-studies-composition-c8fe33d4d5/">音乐学士与高级研究学士（作曲）</a><small>Bachelor of Music and Bachelor of Advanced Studies (Composition) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-music-and-bachelor-of-advanced-studies-performance-7cd401052d/">音乐学士与高级研究学士（表演）</a><small>Bachelor of Music and Bachelor of Advanced Studies (Performance) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-nursing-advanced-studies-0faef28952/">护理学士（高等研修）</a><small>Bachelor of Nursing (Advanced Studies) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-nursing-honours-9e49b81c23/">护理学士（荣誉）</a><small>Bachelor of Nursing (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-nursing-post-registration-offshore-singapore-a0c1ad7e6d/">护理学士（已注册护士衔接，新加坡）</a><small>Bachelor of Nursing (Post-registration) Offshore (Singapore) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-oral-health-87b7b39a68/">口腔健康学士</a><small>Bachelor of Oral Health · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-pharmacy-honours-and-master-of-pharmacy-practice-60128e23d3/">药学学士（荣誉）与药学实践硕士</a><small>Bachelor of Pharmacy (Honours) and Master of Pharmacy Practice · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-pharmacy-and-management-honours-and-master-of-pharmac-7b37e10ea7/">药学与管理学士（荣誉）与药学实践硕士</a><small>Bachelor of Pharmacy and Management (Honours) and Master of Pharmacy Practice · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-politics-philosophy-and-economics-4b1a3b0863/">政治哲学经济学学士</a><small>Bachelor of Politics, Philosophy, and Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-politics-philosophy-and-economics-honours-f0718eed93/">政治哲学经济学学士（荣誉）</a><small>Bachelor of Politics, Philosophy, and Economics (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-project-management-6973ecb415/">项目管理学士</a><small>Bachelor of Project Management · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-psychology-3d66ad962e/">心理学学士</a><small>Bachelor of Psychology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-psychology-honours-15519b1562/">心理学荣誉学士</a><small>Bachelor of Psychology Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-1c2f771ff2/">理学士</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-extended-6b0d26c1e4/">理学士（延展路径）</a><small>Bachelor of Science (Extended) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-honours-1c4bdf172d/">理学士（荣誉）</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-and-bachelor-of-advanced-studies-d64d065410/">理学士与高级研究学士</a><small>Bachelor of Science and Bachelor of Advanced Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-and-bachelor-of-arts-ead0b51dc7/">理学士与文学士</a><small>Bachelor of Science and Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-and-bachelor-of-laws-3965f04b65/">理学士与法律学士</a><small>Bachelor of Science and Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-and-doctor-of-dental-medicine-bbe31244d3/">理学士与牙医学博士</a><small>Bachelor of Science and Doctor of Dental Medicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-and-doctor-of-medicine-ea49ffb019/">理学士与医学博士</a><small>Bachelor of Science and Doctor of Medicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-and-master-of-nursing-pre-registration-5b94d253bd/">理学士与护理硕士（注册前课程）</a><small>Bachelor of Science and Master of Nursing (Pre-registration) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-science-and-master-of-nutrition-and-dietetics-f559c9a28b/">理学士与营养与膳食治疗硕士</a><small>Bachelor of Science and Master of Nutrition and Dietetics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-social-work-114a61882c/">社会工作学士</a><small>Bachelor of Social Work · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-veterinary-biology-and-doctor-of-veterinary-medicine-8f63ff5570/">兽医生物学学士与兽医学博士</a><small>Bachelor of Veterinary Biology and Doctor of Veterinary Medicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-visual-arts-4e93391111/">视觉艺术学士</a><small>Bachelor of Visual Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-visual-arts-honours-f323d23a39/">视觉艺术学士（荣誉）</a><small>Bachelor of Visual Arts (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-visual-arts-and-bachelor-of-advanced-studies-87ca0500c5/">视觉艺术学士与高级研究学士</a><small>Bachelor of Visual Arts and Bachelor of Advanced Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-wildlife-conservation-taronga-43d1f92f57/">野生动物保护学士（Taronga）</a><small>Bachelor of Wildlife Conservation (Taronga) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bachelor-of-wildlife-conservation-taronga-honours-0ebe0d9197/">野生动物保护学士（Taronga）（荣誉）</a><small>Bachelor of Wildlife Conservation (Taronga) (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-banking-d5c8cdbcb1/">银行学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bassoon-a7fe7c0191/">巴松（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-bassoon-9468e38c9d/">巴松（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-biochemistry-and-molecular-biology-cb408598eb/">生物化学与分子生物学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-biology-07652b596b/">生物学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-biomedical-7ea0c08599/">生物医学工程</a><small>Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-built-environment-a802a1613f/">建成环境（项目管理学士内）</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-business-analytics-e68b1f3175/">商业分析</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-business-analytics-f013df144f/">商业分析（荣誉研究）</a><small>Honours Field · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-business-information-systems-befa049cae/">商业信息系统</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-business-information-systems-a483f631aa/">商业信息系统（荣誉研究）</a><small>Honours Field · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-business-law-6fccee4a3c/">商业法</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-chemical-and-biomolecular-4feaf5c677/">化学与生物分子工程</a><small>Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-chemistry-1236e35022/">化学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-chinese-studies-2ad1534f04/">中国研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-civil-a2798bb6d5/">土木工程</a><small>Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-clarinet-ecdcff7431/">单簧管（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-clarinet-5bbf511ced/">单簧管（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-classical-voice-a24e4b0013/">古典声乐（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-classical-voice-16e624dbec/">古典声乐（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-collaborative-piano-d99c3914ee/">钢琴合作（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-composition-9df1d694a8/">作曲（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-composition-for-creative-industries-895bc25069/">创意产业作曲</a><small>Program · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-computational-data-science-a9f0ede3f9/">计算数据科学（Advanced Computing 内）</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-computer-science-3476f2d0db/">计算机科学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-computer-systems-415189b169/">计算机系统</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-computer-systems-c3e4b44bf0/">计算机系统</a><small>Breadth Specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-construction-90f7d4539a/">建造（项目管理学士内）</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-contemporary-music-practice-c8724c512d/">当代音乐实践</a><small>Program · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-contemporary-music-practice-81b85c72f1/">当代音乐实践（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-criminology-e02acd96da/">犯罪学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-cultural-studies-b8db170130/">文化研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-cybersecurity-30a6599b27/">网络安全（Advanced Computing 内）</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-data-science-e6d5263fef/">数据科学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-design-49fac20aa5/">设计</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-digital-cultures-488ec9eb0a/">数字文化</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-digital-music-3d1270fea3/">数字音乐</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-digital-music-composition-eb65400b30/">数字音乐作曲</a><small>Program · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-disability-and-participation-2e80a595c4/">残障与参与</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-discrete-mathematics-and-algorithms-ba22bbfceb/">离散数学与算法</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-double-bass-5cdf1d2aa8/">低音提琴（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-double-bass-0a155e4cb2/">低音提琴（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-drum-set-04b5e75681/">爵士鼓（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-drum-set-b9ea4948e0/">爵士鼓（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-ecology-and-evolutionary-biology-7cb8fbda37/">生态与进化生物学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-econometrics-8d150a16cc/">计量经济学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-economic-policy-analysis-5d31fe033f/">经济政策分析</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-economics-0caa9d3092/">经济学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-education-studies-5fd922ca20/">教育研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-electrical-cff2cde6f9/">电气工程</a><small>Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-engineering-data-science-aa8f069f56/">工程数据科学</a><small>Breadth Specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-english-72a94e7346/">英语研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-environmental-4983dbc0a5/">环境工程</a><small>Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-environmental-science-865e417de7/">环境科学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-environmental-science-5a0bb7bb43/">环境科学</a><small>Program · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-environmental-studies-860eb47b32/">环境研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-environmental-agricultural-and-resource-economics-4a468346cd/">环境、农业与资源经济学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-european-studies-0845031097/">欧洲研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-film-studies-d65104a006/">电影研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-finance-edb5df6c5e/">金融学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-finance-018d0ef014/">金融（荣誉研究）</a><small>Honours Field · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-financial-economics-94889a164f/">金融经济学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-financial-mathematics-and-statistics-7c28b13d8c/">金融数学与统计</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-flute-2e831df9e3/">长笛（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-flute-eba6fcd4e1/">长笛（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-food-science-ed6eb09427/">食品科学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-food-and-agribusiness-0edfa1c7af/">食品与农业商业（荣誉方向）</a><small>Honours Field · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-french-and-francophone-studies-e8deadfeff/">法语及法语地区研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-gender-studies-2154914f4f/">性别研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-genetics-and-genomics-58b3f7a103/">遗传学与基因组学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-geography-d16bc724b8/">地理学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-geology-and-geophysics-4d55c98c22/">地质学与地球物理学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-germanic-studies-1350dfe88d/">日耳曼研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-guitar-90427a119d/">吉他（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-guitar-1358d6430f/">吉他（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-harp-700e67b07e/">竖琴（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-harp-f632c8d167/">竖琴（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-health-c97300fbc0/">健康</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-health-41bc1f85b2/">健康</a><small>Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-hearing-speech-and-communication-fbc5d14868/">听觉、言语与沟通</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-hebrew-modern-a60f05c146/">现代希伯来语</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-high-performance-in-sport-59fe431d76/">高水平竞技运动</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-historical-performance-4242b9ab8d/">古乐表演（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-historical-performance-d92c2d3b0c/">古乐表演（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-history-49c2ffa618/">历史学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-history-and-philosophy-of-science-09cec1f786/">科学史与科学哲学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-horn-d305f5bb24/">圆号（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-horn-baa492fd5d/">圆号（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-humanitarian-engineering-6014fb3eda/">人道主义工程</a><small>Breadth Specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-immunology-and-pathology-6217cf7e0c/">免疫学与病理学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-indigenous-studies-4815f94e01/">原住民研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-indonesian-studies-0e54131d62/">印度尼西亚研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-industrial-relations-and-human-resource-management-6c4eddb8eb/">劳资关系与人力资源管理</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-infectious-diseases-1ccc338cc2/">传染病</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-innovation-and-entrepreneurship-25284d2b12/">创新与创业</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-innovation-and-entrepreneurship-ccc83f5237/">创新与创业</a><small>Breadth Specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-international-business-75cd2d7739/">国际商务</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-international-business-d8f93824b4/">国际商务（荣誉研究）</a><small>Honours Field · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-international-relations-1175564c09/">国际关系</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-international-and-comparative-literary-studies-5046645a53/">国际与比较文学研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-international-and-global-studies-524227fab3/">国际与全球研究（荣誉方向）</a><small>Honours Field · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-italian-studies-d8d82d0762/">意大利研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-japanese-studies-c87b648f93/">日本研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-jazz-performance-366f6f64bc/">爵士表演（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-jazz-performance-b1c73c8866/">爵士表演（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-jazz-voice-performance-0a5068dfba/">爵士声乐（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-jazz-voice-performance-c49ec334d1/">爵士声乐（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-jewish-civilisation-thought-and-culture-feb7fd8e27/">犹太文明、思想与文化</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-korean-studies-83cddd089a/">韩国研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-latin-045b8638a4/">拉丁语</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-life-sciences-787b3ad48f/">生命科学</a><small>Program · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-linguistics-e3c6d92037/">语言学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-management-and-leadership-7d38701cca/">管理与领导力</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-marine-science-28fafb1a87/">海洋科学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-marketing-d7fb56fee9/">市场营销</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-marketing-1dbb2a9a36/">市场营销（荣誉研究）</a><small>Honours Field · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-mathematical-modelling-and-computation-3c1f3f3366/">数学建模与计算</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-mathematics-2caf9cb075/">数学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-mechanical-8602e363ea/">机械工程</a><small>Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-mechanical-with-space-9cacbc0586/">机械工程与航天</a><small>Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-mechatronic-668cbdd3ad/">机电一体化工程</a><small>Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-mechatronic-with-space-180857aa9a/">机电一体化工程与航天</a><small>Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-media-studies-1250dbc9c8/">媒体研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-media-and-communications-1065bf3fce/">媒体与传播（荣誉方向）</a><small>Honours Field · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-medical-science-5feb940d0b/">医学科学</a><small>Program · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-medical-science-e947b23421/">医学科学</a><small>Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-medicinal-chemistry-88bc1e3b26/">药物化学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-microbiology-029ec7db8c/">微生物学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-modern-greek-studies-8e54d3a363/">现代希腊研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-music-883c116360/">音乐</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-music-theatre-5fff751fbf/">音乐剧（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-musicology-a9d76573e0/">音乐学（音乐学士内）</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-musicology-204f989420/">音乐学（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-neuroscience-ee6d57f38b/">神经科学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-non-western-instruments-87a79d9e3d/">非西方乐器（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-nutrition-science-efd5300e4c/">营养科学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-nutrition-and-dietetics-52cd9911e7/">营养与膳食学</a><small>Program · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-oboe-c7998ecdf5/">双簧管（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-oboe-7a80a14ec3/">双簧管（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-organ-c318405ae9/">管风琴（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-organ-d639e34060/">管风琴（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-percussion-74b3ae6b55/">打击乐（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-percussion-b3b959abc7/">打击乐（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-pharmacology-260396d37d/">药理学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-philosophy-2065e933b4/">哲学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-physical-activity-and-health-2be0211de9/">身体活动与健康</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-physics-5bb5a06e7a/">物理学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-physiology-7b62d90c04/">生理学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-piano-73a00632ee/">钢琴（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-piano-93a4f4dd94/">钢琴（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-plant-science-8a6f9903ee/">植物科学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-political-economy-7c526b0895/">政治经济学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-politics-fdd2577428/">政治学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-politics-and-international-relations-06b5bae424/">政治与国际关系（荣誉方向）</a><small>Honours Field · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-professional-accounting-14884c63fe/">专业会计</a><small>Program · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-project-management-cea2b95b25/">项目管理</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-psychological-science-1e925a74f6/">心理科学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-psychology-1bc13e3c74/">心理学</a><small>Program · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-saxophone-73d60b85f3/">萨克斯（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-saxophone-93b4bd74e7/">萨克斯（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-socio-legal-studies-019602bb9e/">社会法律研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-sociology-fdac3a889d/">社会学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-software-ff623785c2/">软件工程</a><small>Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-software-development-8735935fed/">软件开发</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-software-development-6054532b34/">软件开发（Advanced Computing 内）</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-soil-science-and-hydrology-5918d4eba7/">土壤科学与水文学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-spanish-and-latin-american-studies-e567cc3d78/">西班牙及拉丁美洲研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-statistics-149fc8bb22/">统计学</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-sustainability-fc2eb3f590/">可持续发展</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-taronga-wildlife-conservation-423d2d446d/">Taronga 野生动物保护（荣誉方向）</a><small>Honours Field · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-theatre-and-performance-studies-22a43bd39f/">戏剧与表演研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-trombone-6e10b9b00d/">长号（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-trombone-6759f3434d/">长号（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-trumpet-d6747855af/">小号（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-trumpet-fabf6c81a1/">小号（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-tuba-337fa5233c/">大号（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-tuba-aa392a4540/">大号（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-urban-studies-46376e086e/">城市研究</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-viola-be9c6f446f/">中提琴（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-viola-cf3f124614/">中提琴（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-violin-ca19c857f8/">小提琴（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-violin-34dd07a1b8/">小提琴（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-violoncello-c1d193ceec/">大提琴（音乐教育）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-violoncello-c2d1ac47bb/">大提琴（表演）</a><small>Principal Study · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-visual-arts-4a75988f4b/">视觉艺术</a><small>Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-work-and-organisational-studies-465d5fec5d/">工作与组织研究（荣誉研究）</a><small>Honours Field · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -352,8 +351,8 @@ hide:
 
 ### 入学条件
 
-<p class="catalog-fact"><strong>高考和国际课程按项目核对：</strong>2027国际招生指南给出各本科项目的中国高考百分比及IB/A-level等资格对照；不存在全校统一高考线。部分专业另有先修、面试或非学术条件，须同时符合。</p>
-<p class="fact-sources"><a href="#source-u-sydney-profile-common-sydney-advanced-computing-guide2027">官方依据</a></p>
+<p class="catalog-fact"><strong>高考和国际课程按项目核对：</strong>2027 国际指南按课程列中国高考总分占所在省份满分的百分比，并另列 IB、A-level 等资格；须按所持学历类别申请，不能把国际课程线与高考线混用。未完成认可资格者可核对大学的预备课程，仍需符合升读标准。</p>
+<p class="fact-sources"><a href="#source-u-sydney-profile-common-sydney-advanced-computing-guide2027">官方依据</a> · <a href="#source-u-sydney-profile-common-sydney-advanced-computing-apply">官方依据</a></p>
 
 <p class="catalog-fact"><strong>英语要求与有效期：</strong>本科英语门槛按学位不同；英语考试在开学时通常不得超过两年。除考试外，部分学历或科目可满足要求，需按官网政策评估，不能凭中国境内英语授课经历自行判断豁免。</p>
 <p class="fact-sources"><a href="#source-u-sydney-profile-common-sydney-advanced-computing-language">官方依据</a></p>
@@ -363,12 +362,12 @@ hide:
 <p class="catalog-fact"><strong>国际本科申请渠道：</strong>中国境内高考或国际课程资格通常经课程入口直申或授权代理；当前澳洲Year12（境内外）及在澳洲完成IB者经UAC。学历/英语/身份证明及翻译认证按页面要求提交。</p>
 <p class="fact-sources"><a href="#source-u-sydney-profile-common-sydney-advanced-computing-apply">官方依据</a></p>
 
-<p class="catalog-fact"><strong>2027通用日期的范围：</strong>当前国际本科通用规则第一学期申请截止12月1日、第二学期5月29日；换算2027入学为2026-12-01和2027-05-29。课程可因满额提前关闭或设特殊截止，页面通用月日不是实时开放名额保证。</p>
+<p class="catalog-fact"><strong>2027通用日期的范围：</strong>按官方通用本科月日规则，2027 第一学期截止为 2026-12-01，第二学期为 2027-05-29；课程可另设截止或满额提前关闭。该页列出的具体开学日仍为 2026，不能将其当作 2027 开学日期。</p>
 <p class="fact-sources"><a href="#source-u-sydney-profile-common-sydney-advanced-computing-dates">官方依据</a></p>
 
 ### 学费与资助
 
-<p class="catalog-fact"><strong>2027费用口径：</strong>2027国际指南按学位列首年标准1 EFTSL指示学费；金额依课程而异且后续可涨价，不能用单一专业数值代表全校。本轮未逐项审定全部本科国际费用，生活、住宿及适用OSHC另计。</p>
+<p class="catalog-fact"><strong>2027费用口径：</strong>2027 国际指南金额为相应学位首年、标准 1.0 EFTSL 的指示学费，币种 AUD；不含生活等支出，也不是全程固定价格。Sciences Po 与本硕组合有分阶段费用注释，须看具体记录。</p>
 <p class="fact-sources"><a href="#source-u-sydney-profile-common-sydney-advanced-computing-guide2027">官方依据</a></p>
 
 <p class="catalog-fact"><strong>本科全额奖学金条件：</strong>Academic Excellence Scholarship可覆盖合资格单一本科学位最多4年的学费及SSAF，须另申竞争，要求完成中学且通常无既往大学学习；国籍和课程多样性也参与评选。每学期SAM至少65等续领要求须满足，不能视为中国申请者保证获奖；2027各轮尚待逐项核实。</p>
@@ -381,19 +380,19 @@ hide:
 
 ### 学校资料来源
 
-<div class="catalog-source" id="source-u-sydney-profile-common-sydney-advanced-computing-guide2027"><div><a href="https://www.sydney.edu.au/content/dam/corporate/documents/study/how-to-apply/international-admission-guide.pdf.coredownload.pdf">sydney 官方资料：common-sydney-advanced-computing-guide2027 ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-sydney-profile-common-sydney-advanced-computing-language"><div><a href="https://www.sydney.edu.au/study/applying/how-to-apply/international-students/english-language-requirements.html">sydney 官方资料：common-sydney-advanced-computing-language ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-sydney-profile-common-sydney-advanced-computing-apply"><div><a href="https://www.sydney.edu.au/study/applying/how-to-apply/international-students.html">sydney 官方资料：common-sydney-advanced-computing-apply ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-sydney-profile-common-sydney-advanced-computing-dates"><div><a href="https://www.sydney.edu.au/study/applying/application-dates.html">sydney 官方资料：common-sydney-advanced-computing-dates ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-sydney-profile-common-sydney-advanced-computing-scholarship"><div><a href="https://www.sydney.edu.au/scholarships/e/sydney-international-undergraduate-academic-excellence-scholarship.html">sydney 官方资料：common-sydney-advanced-computing-scholarship ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-sydney-profile-common-sydney-advanced-computing-guide2027"><div><a href="https://www.sydney.edu.au/content/dam/corporate/documents/study/how-to-apply/international-admission-guide.pdf.coredownload.pdf">University of Sydney — International Admission Guide 2027 ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-sydney-profile-common-sydney-advanced-computing-language"><div><a href="https://www.sydney.edu.au/study/applying/how-to-apply/international-students/english-language-requirements.html">悉尼大学｜国际申请英语要求 ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-sydney-profile-common-sydney-advanced-computing-apply"><div><a href="https://www.sydney.edu.au/study/applying/how-to-apply/international-students.html">悉尼大学｜国际学生申请步骤 ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-sydney-profile-common-sydney-advanced-computing-dates"><div><a href="https://www.sydney.edu.au/study/applying/application-dates.html">悉尼大学｜申请与学期日期 ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-sydney-profile-common-sydney-advanced-computing-scholarship"><div><a href="https://www.sydney.edu.au/scholarships/e/sydney-international-undergraduate-academic-excellence-scholarship.html">悉尼大学｜国际本科 Academic Excellence Scholarship ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 317 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 316 项；这不是全字段详情的完成状态。
 
 <p><strong>统计范围：</strong>Nine faculty/shared undergraduate handbooks: bachelor entries, combined-entry awards, subject majors/programs, engineering streams/specialisations and music principal studies; restricted and internal exit bachelor entries retained.</p>
 
-<p><strong>对账方法：</strong>{&quot;faculty_handbooks&quot;: 9, &quot;second_level_indexes&quot;: 23, &quot;subject_overviews_read&quot;: 154, &quot;pagination&quot;: &quot;Static handbook trees; all discovered second-level indexes and all Science Table A / shared Table S subject overviews read. No numeric full-university bachelor/major total published in this evidence.&quot;}</p>
+<p><strong>对账方法：</strong>{&quot;faculty_handbooks&quot;: 9, &quot;second_level_indexes&quot;: 23, &quot;subject_overviews_read&quot;: 154, &quot;pagination&quot;: &quot;Static handbook trees; all discovered second-level indexes and all Science Table A / shared Table S subject overviews read. No numeric full-university bachelor/major total published in this evidence.&quot;} 2026手册逐项补充课程结构和进阶限制；2027国际指南逐CRICOS核对费用与中国资格，移除1个总览导航，保留316条。</p>
 
 <p><strong>排除项：</strong>Exclude diplomas, standalone graduate degrees, minors, individual units and generic course support. Merge duplicate shared subject identities by name/type, retain parent-specific field choices. Semicolon-separated official degree variants split; combined degrees retained as one entry. Source-listed old or restricted paths retained; intake not inferred.</p>
 
@@ -402,6 +401,7 @@ hide:
 - All nine faculty first/second-level undergraduate trees were read, but complete reconciliation of every embedded honours field, historical/exit award and degree stream across individual course resolutions has not been demonstrated. Do not label this as a verified full university inventory.
 - Arts and science honours fields and some engineering disciplinary specialisations may require further per-resolution expansion. Degree-major compatibility is not exhaustively enumerated.
 - 2026 handbook presence does not by itself prove that a course is open to new 2027 applicants.
+- 2026手册与2027招生表分别标明；152条取得精确学位或明确分支的2027费用参考，164条仍缺本条准确费用。目录及所有字段尚未完全闭合。
 
 - [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/advanced-computing/course-resolutions.html)
 - [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/b-advanced-studies-honours.html)
@@ -444,5 +444,269 @@ hide:
 - [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/coursework/diagnostic-radiography.html)
 - [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/coursework/advanced-computing-commerce.html)
 - [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/coursework/commerce.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/biology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/chemistry/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/computer-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/data-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/environmental-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/mathematics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/physics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/psychology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/chinese-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/economics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/english/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/history/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/philosophy/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/political-economy/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/architecture/undergraduate/b-architecture-environments/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/content/dam/corporate/documents/study/how-to-apply/international-admission-guide.pdf.coredownload.pdf)
+- [官方目录来源](https://www.sydney.edu.au/study/applying/application-dates.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/architecture/undergraduate/b-design-architecture/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/architecture/undergraduate/b-design-architecture-m-architecture/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/architecture/undergraduate/b-interaction-design-advanced-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/architecture/undergraduate/b-design-honours/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/architecture/undergraduate/b-design-honours/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/double-degree/arts-medicine/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/double-degree/arts-medicine/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/double-degree/science-dental-medicine/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/double-degree/science-dental-medicine/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/double-degree/science-medicine/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/double-degree/science-medicine/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/arts-arts-advanced-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/arts-extended/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/arts-honours/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/advanced-studies-media-communications/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/honours-advanced-studies-media-communications/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/honours-advanced-studies-media-communications/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/b-advanced-studies-honours/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/arts-laws/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/arts-nursing/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/arts-social-work/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/commerce-arts/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/economics-economics-advanced-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/economics-honours/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/economics-honours/resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/b-economics-b-arts/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/economics-laws/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/education-early-childhood/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/education-health-physical-education/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/education-primary/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/education-secondary-advanced/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/arts-engineering-honours/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/b-international-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/hons-b-international-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/hons-b-international-studies/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/b-languages/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/b-languages-hons/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/b-media-communications/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/b-media-communications-hons/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/b-politics-philosophy-economics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/politics-philosophy-economics-honours/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/science-arts/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/social-work/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/visual-arts-visual-arts-advanced-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/visual-arts-honours/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/coursework/visual-arts-honours/resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/conservatorium/undergraduate/bachelor-of-music/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/conservatorium/undergraduate/bachelor-of-music-studies-honours/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/agricultural-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/agricultural-science-honours/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/agricultural-science-honours/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/animal-veterinary-bioscience/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/honours-animal-veterinary-bioscience/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/liberal-arts-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/liberal-arts-science-extended/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/mathematical-sciences/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/honours-mathematical-sciences/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/honours-mathematical-sciences/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/psychology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/psychology-honours/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/psychology-honours/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/science-extended/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/science-honours/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/science-honours/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/science-advanced-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/science-laws/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/science-nutrition-dietetics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/science-nutrition-dietetics/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/veterinary-biology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/veterinary-biology/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/wildlife-conservation-taronga/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/hons-wildlife-conservation-taronga/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/coursework/hons-wildlife-conservation-taronga/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/law/undergraduate/laws/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/law/undergraduate/honours.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/coursework/biomedicine-and-health/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/coursework/pharmacy-management/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/coursework/oral-health/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/coursework/nursing-singapore/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/coursework/nursing-singapore/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/coursework/science-nursing/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/coursework/physiotherapy/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/honours/nursing-honours/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/honours/nursing-honours/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/honours/exercise-sport-science-honours/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/coursework/exercise-sport-science-advanced-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/coursework/nursing-advanced-studies/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/coursework/pharmacy/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/honours/health-sciences-honours/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/coursework/speech-pathology/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/coursework/exercise-physiology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/coursework/occupational-therapy/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/medicine-health/coursework/diagnostic-radiography/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/coursework/commerce-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/coursework/commerce/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/coursework/engineering-commerce/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/coursework/commerce-arts/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/coursework/commerce-laws/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/coursework/advanced-computing-commerce/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/advanced-computing/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/engineering-honours/combined-course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/engineering-honours/course-resolutions.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/project-management/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/b-advanced-studies-honours/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/anatomy-histology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/animal-health-disease-welfare/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/animal-production/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/applied-medical-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/astrophysics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/biochemistry-molecular-biology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/discrete-mathematics-algorithms/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/ecology-evolutionary-biology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/environmental-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/environmental-science/unit-of-study-table.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/financial-mathematics-statistics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/food-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/genetics-genomics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/geography/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/geology-geophysics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/health/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/health/unit-of-study-table.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/history-philosophy-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/immunology-pathology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/infectious-diseases/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/life-sciences/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/marine-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/mathematical-modelling-computation/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/medical-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/medical-science/unit-of-study-table.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/medicinal-chemistry/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/microbiology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/neuroscience/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/nutrition-dietetics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/nutrition-dietetics/unit-of-study-table.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/nutrition-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/pharmacology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/physiology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/plant-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/psychological-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/software-development/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/soil-science-hydrology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/statistics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/accounting/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/american-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/ancient-greek/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/ancient-history/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/anthropology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/arabic-language-cultures/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/archaeology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/art-history/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/asian-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/banking/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/business-analytics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/business-information-systems/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/business-law/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/computer-systems/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/criminology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/cultural-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/design/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/digital-cultures/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/digital-music/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/disability-participation/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/econometrics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/economic-policy-analysis/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/education/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/environmental-agricultural-resource-economics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/european-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/film-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/finance/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/financial-economics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/french-francophone-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/gender-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/germanic-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/hearing-speech-communication/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/hebrew-modern/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/high-performance-sport/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/indigenous-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/indonesian-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/industrial-relations-human-resource-management/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/innovation-entrepreneurship/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/international-comparative-literary-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/international-business/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/international-relations/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/italian-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/japanese-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/jewish-civilisation-thought-culture/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/korean-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/latin/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/linguistics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/management-leadership/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/marketing/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/modern-greek-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/music/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/physical-activity-health/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/politics/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/project-management/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/socio-legal-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/sociology/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/spanish-latin-american-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/sustainability/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/theatre-and-performance-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/urban-studies/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/visual-arts/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/arts/subject-areas/media-studies/unit-of-study-table.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/commerce-subject-areas/accounting-professional/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/engineering-honours/streams/aeronautical/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/engineering-honours/streams/aeronautical-with-space/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/engineering-honours/streams/biomedical/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/engineering-honours/streams/chemical-biomolecular/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/engineering-honours/streams/civil/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/engineering-honours/streams/electrical/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/engineering-honours/streams/environmental/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/engineering-honours/streams/mechanical/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/engineering-honours/streams/mechanical-with-space/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/engineering-honours/streams/mechatronic/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/engineering-honours/streams/mechatronic-with-space/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/engineering-honours/streams/software/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/engineering-honours/breadth-specialisations.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/advanced-computing/majors/computational-data-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/advanced-computing/majors/computer-science/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/advanced-computing/majors/cybersecurity/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/advanced-computing/majors/software-development/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/engineering/project-management/project-management-majors.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/conservatorium/undergraduate/bachelor-of-music/programs/composition-for-creative-industries/unit-of-study-table.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/conservatorium/undergraduate/bachelor-of-music/programs/contemporary-music-practice/unit-of-study-table.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/conservatorium/undergraduate/bachelor-of-music/programs/digital-music-composition/unit-of-study-table.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/conservatorium/undergraduate/bachelor-of-music/majors/musicology/enrolment-pattern.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/conservatorium/undergraduate/bachelor-of-music/learning-outcomes.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/b-advanced-studies-honours/international-global-studies.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/b-advanced-studies-honours/media-communications.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/b-advanced-studies-honours/politics-international-relations.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/b-advanced-studies-honours/food-agribusiness.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/b-advanced-studies-honours/animal-veterinary-bioscience.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/b-advanced-studies-honours/agriculture.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/interdisciplinary-studies/b-advanced-studies-honours/taronga-wildlife-conservation.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/commerce-subject-areas/overview.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/commerce-subject-areas/accounting/honours-unit-of-study-table.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/commerce-subject-areas/business-analytics/honours-unit-of-study-table.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/commerce-subject-areas/business-information-systems/honours-unit-of-study-table.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/commerce-subject-areas/finance/honours-unit-of-study-table.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/commerce-subject-areas/international-business/honours-unit-of-study-table.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/commerce-subject-areas/marketing/honours-unit-of-study-table.html)
+- [官方目录来源](https://www.sydney.edu.au/handbooks/business-school/commerce-subject-areas/industrial-relations-human-resource-management/work-organisational-studies-honours-table.html)
+- [官方目录来源](https://www.sydney.edu.au/study/applying/how-to-apply/international-students/english-language-requirements.html)
+- [官方目录来源](https://www.sydney.edu.au/study/applying/how-to-apply/international-students.html)
+- [官方目录来源](https://www.sydney.edu.au/scholarships/e/sydney-international-undergraduate-academic-excellence-scholarship.html)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

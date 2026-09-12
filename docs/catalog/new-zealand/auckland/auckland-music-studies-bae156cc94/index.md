@@ -19,7 +19,7 @@ hide:
 
 <p class="program-title-en">Music Studies</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027旧方向是否续招尚未核实</strong></div><div><span>学制</span><strong>3 年（全日制）</strong></div><div><span>国际生学费</span><strong>2027 NZ$49,581.60／年（课程估算）</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027独立专修身份未确认</strong></div><div><span>学制</span><strong>3 年（全日制）</strong></div><div><span>国际生学费</span><strong>2027独立专修身份未确认</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>City · <strong>授课语言：</strong>英语；外语及毛利语语言课程例外</p>
 
@@ -42,6 +42,11 @@ hide:
 
 <p><strong>申请路径：</strong>学位内部主修／方向；先满足所属学位及选专业条件，非额外独立学位</p>
 
+<p><strong>目录状态：</strong>legacy_identity_not_confirmed_2027</p>
+
+<p class="catalog-fact"><strong>2027身份待确认：</strong>当前2027 BMus正式目录仅列Performance、Composition、Jazz、Songcraft &amp; Music Production、Music Education、Musicology，没有Music Studies独立计划。本页为旧名称解释，不据此认定其作为2027独立专修开放。</p>
+<p class="fact-sources"><a href="#source-p-auckland-formal-degree-25">官方依据</a></p>
+
 <p class="catalog-fact"><strong>专业内容：</strong>现有子页以音乐制作为主，包含编曲、录音、混音、母带及声音设计；其旧专修名称与2027音乐学位的新结构需要区分。</p>
 <p class="fact-sources"><a href="#source-p-auckland-program-098">官方依据</a></p>
 
@@ -56,51 +61,32 @@ hide:
 
 ## 入学条件 {#admissions}
 
-<p class="catalog-fact"><strong>音乐方向附加条件：</strong>2027海外高中要求表对Performance及Jazz方向另列试演/作品评估；其余音乐方向须按所选专修确认材料，不能把统一学术门槛当作全部录取要求。</p>
-<p class="fact-sources"><a href="#source-p-auckland-entry-2027">官方依据</a></p>
-
-<p class="catalog-fact"><strong>旧名称与新结构：</strong>此Music Studies子页仍可读取，但2027 BMus主页改列新的专修组合；本轮未取得该旧名称作为2027独立专修继续招生的确认。</p>
-<p class="fact-sources"><a href="#source-p-auckland-program-098">官方依据</a> · <a href="#source-p-auckland-program-025">官方依据</a></p>
+旧名称；请查看2027现行BMus专修
 
 ## 申请安排 {#applications}
 
-<p class="catalog-fact"><strong>申请渠道与年度：</strong>本记录的2027独立方向身份尚须先确认；本轮不将其他学位或旧方向日期套用为已确认的申请截止。 官方申请入口见大学申请指南。</p>
-<p class="fact-sources"><a href="#source-p-auckland-program-098">官方依据</a> · <a href="#source-p-auckland-how-to-apply">官方依据</a></p>
+<p class="catalog-fact"><strong>申请状态：</strong>2027独立专修身份本轮未取得；请从现行BMus专修目录选择确认后的路线。</p>
+<p class="fact-sources"><a href="#source-p-auckland-formal-degree-25">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
-<p class="catalog-fact"><strong>2027国际学费：</strong>所属学位收费档，非单独主修报价：2027国际学费估算：NZ$49,581.60／年，通常按120学分；实际依选课结算。</p>
-<p class="fact-sources"><a href="#source-p-auckland-fees">官方依据</a></p>
-
-<p class="catalog-fact"><strong>奖学金筛选入口：</strong>可查看官方本科国际奖学金目录，但须核对奖项的学位、既往学校、国籍及年级限制；本轮未核实本专业个人可获金额。</p>
-<p class="fact-sources"><a href="#source-p-auckland-ug-scholarships">官方依据</a></p>
+国际生学费、费用年度、计费单位和奖助条件尚未核实。
 
 ## 毕业生情况 {#outcomes}
 
 <p class="catalog-fact"><strong>毕业去向与统计边界：</strong>官方介绍提供课程能力、职业方向或继续深造线索；本轮未取得本专业就业率、薪资及调查口径，暂不列数字。</p>
 <p class="fact-sources"><a href="#source-p-auckland-program-098">官方依据</a></p>
 
-<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
-
-<p class="catalog-fact"><strong>同校共用：去向数据边界：</strong>本轮取得的是课程页列出的职业或继续深造方向；本轮尚未取得可对应各专业、毕业届次及国际生范围的就业率或薪资调查，不列此类数字。</p>
-<p class="fact-sources"><a href="#source-u-auckland-program-033">官方依据</a></p>
-
-</details>
-
 ## 官方来源与核验记录 {#sources}
 
-目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
+目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
 
 - [官方项目页面或项目所在目录](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/music-studies/undergraduate.html)
 - [官方目录](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/music-studies/undergraduate.html)
 
-<div class="catalog-source" id="source-p-auckland-program-098"><div><a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/music-studies/undergraduate.html">Music Studies — official programme/subject page ↗</a><p>专业内容；学位归属；旧名称与新结构；申请渠道与年度；毕业去向与统计边界</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-p-auckland-program-025"><div><a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-bmus.html">Bachelor of Music — official programme/subject page ↗</a><p>学位归属；学制、校区与年度；旧名称与新结构</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-auckland-program-098"><div><a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/music-studies/undergraduate.html">Music Studies — official programme/subject page ↗</a><p>专业内容；学位归属；毕业去向与统计边界</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-auckland-program-025"><div><a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-bmus.html">Bachelor of Music — official programme/subject page ↗</a><p>学位归属；学制、校区与年度</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-auckland-language"><div><a href="https://uoa.custhelp.com/app/answers/detail/a_id/7483/~/are-all-courses-taught-in-english">Are all courses taught in English? ↗</a><p>授课语言</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-p-auckland-entry-2027"><div><a href="https://www.auckland.ac.nz/assets/study/applications-and-admissions/entry-requirements/undergraduate-entry-requirements/overseas-secondary-school-applicants/2027+Undergraduate-programme-specific-entry-requirements-A-I.pdf">2027 Undergraduate programme-specific entry requirements A–I ↗</a><p>音乐方向附加条件</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-p-auckland-how-to-apply"><div><a href="https://international.auckland.ac.nz/how-to-apply/">How to apply — University of Auckland international ↗</a><p>申请渠道与年度</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-p-auckland-fees"><div><a href="https://www.auckland.ac.nz/en/study/fees-and-money-matters/tuition-fees/international-student-fees/undergraduate-international-fees.html">Undergraduate fees for international students — 2027 table ↗</a><p>2027国际学费</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-p-auckland-ug-scholarships"><div><a href="https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/scholarships-for-international-students/undergraduate-scholarships-for-international-students.html">Undergraduate scholarships for international students ↗</a><p>奖学金筛选入口</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-auckland-program-033"><div><a href="https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-bsc.html">Bachelor of Science — official programme/subject page ↗</a><p>同校共用：去向数据边界</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-auckland-formal-degree-25"><div><a href="https://study.auckland.ac.nz/ords/r/uoa/catalogue/program?p5_code=BMus&amp;p0_catalogue_year=2027&amp;p0_catalogue_term=99">BMus - Bachelor of Music ↗</a><p>2027身份待确认；申请状态</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/">← 返回奥克兰大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

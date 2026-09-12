@@ -125,7 +125,7 @@ hide:
 
 ## 官方来源与核验记录 {#sources}
 
-目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
+目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
 
 - [官方项目页面或项目所在目录](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/marketing/undergraduate.html)
 - [官方目录](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/marketing/undergraduate.html)

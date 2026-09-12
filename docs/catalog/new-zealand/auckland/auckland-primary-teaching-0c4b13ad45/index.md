@@ -36,7 +36,7 @@ hide:
 
 <p><strong>目录适用期：</strong>官网当前本科方向页；具体适用年度见原文，核验2026-09-12</p>
 
-<p><strong>目录条目类别：</strong>specialisation</p>
+<p><strong>目录条目类别：</strong>teaching_field</p>
 
 <p><strong>所属学位：</strong>Bachelor of Education (Teaching)</p>
 
@@ -131,7 +131,7 @@ hide:
 
 ## 官方来源与核验记录 {#sources}
 
-目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
+目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
 
 - [官方项目页面或项目所在目录](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/primary-teaching/undergraduate.html)
 - [官方目录](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/primary-teaching/undergraduate.html)

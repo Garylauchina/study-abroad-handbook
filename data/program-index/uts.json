@@ -1,11 +1,11 @@
 {
   "university_id": "uts",
-  "checked_at": "2026-09-12",
+  "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
     "count": 358,
     "scope": "All bachelor-bearing undergraduate degrees and catalog majors/undergraduate specialisations/honours fields; UTS stream mapping remains pending",
-    "method": "{\"course\": {\"total\": 444, \"pages\": [0, 100, 200, 300, 400], \"unique_uris\": 444}, \"aos\": {\"total\": 957, \"pages\": [0, 100, 200, 300, 400, 500, 600, 700, 800, 900], \"unique_uris\": 955}, \"all_pages_fetched\": true, \"unsw_selected_major_honours_count\": null}",
+    "method": "{\"course\": {\"total\": 444, \"pages\": [0, 100, 200, 300, 400], \"unique_uris\": 444}, \"aos\": {\"total\": 957, \"pages\": [0, 100, 200, 300, 400, 500, 600, 700, 800, 900], \"unique_uris\": 955}, \"all_pages_fetched\": true, \"unsw_selected_major_honours_count\": null} 154学位及203主修按2027手册逐项复核；134学位取得2027国际学费，80学位补公开职业方向示例；空课程及旧年通知保留明确缺口。",
     "exclusions": "Public Courseloop API endpoint and POST schema read from official frontend JavaScript；Filter implementationYear to official current_year; request all pages of 100 and assert row count equals API total；Program: official Undergraduate line; UNSW additionally confirm bachelor award in every full program page; Monash/UTS bachelor title prefix；UNSW fields: explicit level=major or honours plus studyLevelValue=ugrd; Monash explicit undergraduate field categories; UTS Major with Undergraduate or Unrestricted career；No minor, individual subject, diploma, certificate or standalone postgraduate degree promoted to bachelor；Keep restricted/offshore/ADFA fields where published; no applicant-nationality exclusion",
     "sources": [
       {
@@ -124,7 +124,8 @@
     "gaps": [
       "Parent-degree/major compatibility inheritance pending; field records are not independent awards",
       "Duration/campus/language omitted unless explicit in read source",
-      "Stream and Sub-major categories excluded from major inventory because these also contain curriculum building blocks; named stream/degree-specialisation mapping still requires separate reconciliation"
+      "Stream and Sub-major categories excluded from major inventory because these also contain curriculum building blocks; named stream/degree-specialisation mapping still requires separate reconciliation",
+      "34主修当前详情空白、1主修仅2023旧通知；2027精确高考门槛尚未取得。部分荣誉为退出授位、另有本科后及境外合作入口，不能把目录条数当作高中直申选项数。"
     ]
   },
   "programs": [
@@ -200,7 +201,7 @@
       "source_period": "2027",
       "raw_key": "C10487",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "offshore",
       "id": "uts-bachelor-of-artificial-intelligence-offshore-164a69658d"
     },
     {
@@ -215,7 +216,7 @@
       "source_period": "2027",
       "raw_key": "C09167",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-artificial-intelligence-bachelor-of-international-stu-7362e750a6"
     },
     {
@@ -245,7 +246,7 @@
       "source_period": "2027",
       "raw_key": "C10226",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "offshore",
       "id": "uts-bachelor-of-business-offshore-06cf150706"
     },
     {
@@ -275,7 +276,7 @@
       "source_period": "2027",
       "raw_key": "C09133",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-business-bachelor-of-international-studies-honours-7ed82f8a64"
     },
     {
@@ -305,7 +306,7 @@
       "source_period": "2027",
       "raw_key": "C09084",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-business-bachelor-of-laws-honours-cfe5808cc6"
     },
     {
@@ -395,7 +396,7 @@
       "source_period": "2027",
       "raw_key": "C09089",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-communication-in-creative-writing-bachelor-of-laws-ho-f89a7ae9fe"
     },
     {
@@ -470,7 +471,7 @@
       "source_period": "2027",
       "raw_key": "C09091",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-communication-in-digital-and-social-media-bachelor-of-6923a10ea0"
     },
     {
@@ -530,7 +531,7 @@
       "source_period": "2027",
       "raw_key": "C09093",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-communication-in-journalism-bachelor-of-laws-honours-11cbed0a07"
     },
     {
@@ -590,7 +591,7 @@
       "source_period": "2027",
       "raw_key": "C10456",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-communication-in-media-business-bachelor-of-laws-hono-5429b3cbb4"
     },
     {
@@ -650,7 +651,7 @@
       "source_period": "2027",
       "raw_key": "C09095",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-communication-in-public-relations-and-advertising-bac-42ce88bf73"
     },
     {
@@ -710,7 +711,7 @@
       "source_period": "2027",
       "raw_key": "C09096",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-communication-in-social-and-political-sciences-bachel-3342307b72"
     },
     {
@@ -770,7 +771,7 @@
       "source_period": "2027",
       "raw_key": "C09122",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "internal-honours",
       "id": "uts-bachelor-of-creative-intelligence-and-innovation-honours-4afabdc5fe"
     },
     {
@@ -785,7 +786,7 @@
       "source_period": "2027",
       "raw_key": "C09130",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "post-bachelor",
       "id": "uts-bachelor-of-creative-production-honours-4e6ddfc0a5"
     },
     {
@@ -875,7 +876,7 @@
       "source_period": "2027",
       "raw_key": "C09094",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-creative-production-in-media-arts-bachelor-of-laws-ho-4ccfe1ebef"
     },
     {
@@ -980,7 +981,7 @@
       "source_period": "2027",
       "raw_key": "C09166",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-cybersecurity-bachelor-of-international-studies-honou-045a6aff53"
     },
     {
@@ -995,7 +996,7 @@
       "source_period": "2027",
       "raw_key": "C09131",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "post-bachelor",
       "id": "uts-bachelor-of-design-honours-728e8a9960"
     },
     {
@@ -1010,7 +1011,7 @@
       "source_period": "2027",
       "raw_key": "C09048",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "post-bachelor",
       "id": "uts-bachelor-of-design-honours-in-architecture-8526e12093"
     },
     {
@@ -1220,7 +1221,7 @@
       "source_period": "2027",
       "raw_key": "C09120",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-economics-bachelor-of-laws-honours-9808b4ec7f"
     },
     {
@@ -1325,7 +1326,7 @@
       "source_period": "2027",
       "raw_key": "C09147",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-engineering-honours-bachelor-of-international-studies-f9560e9e56"
     },
     {
@@ -1340,7 +1341,7 @@
       "source_period": "2027",
       "raw_key": "C09148",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-engineering-honours-bachelor-of-international-studies-c6a5000c01"
     },
     {
@@ -1520,7 +1521,7 @@
       "source_period": "2027",
       "raw_key": "C09149",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-forensic-science-bachelor-of-international-studies-ho-eec5f0f17a"
     },
     {
@@ -1550,7 +1551,7 @@
       "source_period": "2027",
       "raw_key": "C09121",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-forensic-science-bachelor-of-laws-honours-e7a1bfd10c"
     },
     {
@@ -1655,7 +1656,7 @@
       "source_period": "2027",
       "raw_key": "C09019",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "post-bachelor",
       "id": "uts-bachelor-of-information-technology-honours-d6c5a44cbe"
     },
     {
@@ -1670,7 +1671,7 @@
       "source_period": "2027",
       "raw_key": "C10488",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "offshore",
       "id": "uts-bachelor-of-information-technology-offshore-5a8e6b6f2e"
     },
     {
@@ -1715,7 +1716,7 @@
       "source_period": "2027",
       "raw_key": "C09162",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-information-technology-bachelor-of-international-stud-bf87021582"
     },
     {
@@ -1745,7 +1746,7 @@
       "source_period": "2027",
       "raw_key": "C09088",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-information-technology-bachelor-of-laws-honours-72e9d6e987"
     },
     {
@@ -1820,7 +1821,7 @@
       "source_period": "2027",
       "raw_key": "C09083",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-laws-honours-4296904ed8"
     },
     {
@@ -1835,7 +1836,7 @@
       "source_period": "2027",
       "raw_key": "C09098",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-laws-honours-bachelor-of-creative-intelligence-and-in-d24ccb5dc6"
     },
     {
@@ -1895,7 +1896,7 @@
       "source_period": "2027",
       "raw_key": "C09153",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-management-bachelor-of-international-studies-honours-b0971b4ddc"
     },
     {
@@ -1955,7 +1956,7 @@
       "source_period": "2027",
       "raw_key": "C09129",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "post-bachelor",
       "id": "uts-bachelor-of-mathematical-sciences-honours-7fee72637e"
     },
     {
@@ -1970,7 +1971,7 @@
       "source_period": "2027",
       "raw_key": "C09155",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-mathematical-sciences-bachelor-of-international-studi-8fe99f7fa4"
     },
     {
@@ -2000,7 +2001,7 @@
       "source_period": "2027",
       "raw_key": "C10481",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "internal-transfer",
       "id": "uts-bachelor-of-medical-science-laboratory-medicine-professional-12d510c829"
     },
     {
@@ -2030,7 +2031,7 @@
       "source_period": "2027",
       "raw_key": "C09156",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-medical-science-bachelor-of-international-studies-hon-e9247c2314"
     },
     {
@@ -2060,7 +2061,7 @@
       "source_period": "2027",
       "raw_key": "C09086",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-medical-science-bachelor-of-laws-honours-5184d3fbea"
     },
     {
@@ -2090,7 +2091,7 @@
       "source_period": "2027",
       "raw_key": "C09051",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "post-bachelor",
       "id": "uts-bachelor-of-midwifery-honours-477707b45c"
     },
     {
@@ -2165,7 +2166,7 @@
       "source_period": "2027",
       "raw_key": "C09018",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "post-bachelor",
       "id": "uts-bachelor-of-nursing-honours-5c35f9f0f4"
     },
     {
@@ -2210,7 +2211,7 @@
       "source_period": "2027",
       "raw_key": "C09170",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "post-bachelor",
       "id": "uts-bachelor-of-psychological-science-honours-b3415fbba0"
     },
     {
@@ -2285,7 +2286,7 @@
       "source_period": "2027",
       "raw_key": "C09168",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "post-bachelor",
       "id": "uts-bachelor-of-science-honours-86b0ddccc7"
     },
     {
@@ -2330,7 +2331,7 @@
       "source_period": "2027",
       "raw_key": "C09160",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-science-bachelor-of-international-studies-honours-eb23d56853"
     },
     {
@@ -2360,7 +2361,7 @@
       "source_period": "2027",
       "raw_key": "C09085",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "exit-only",
       "id": "uts-bachelor-of-science-bachelor-of-laws-honours-105f82d5e8"
     },
     {
@@ -2435,7 +2436,7 @@
       "source_period": "2027",
       "raw_key": "C09057",
       "record_type": "degree",
-      "entry_route": "Published undergraduate bachelor / combined bachelor pathway",
+      "entry_route": "post-bachelor",
       "id": "uts-bachelor-of-sport-and-exercise-science-honours-711cf35f45"
     },
     {
@@ -2496,7 +2497,9 @@
       "raw_key": "MAJ10053",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-artificial-intelligence-and-data-analytics-654ffaae4b"
+      "id": "uts-artificial-intelligence-and-data-analytics-654ffaae4b",
+      "parent_program_id": "uts-bachelor-of-computing-science-honours-60d1c1345c",
+      "parent_degree_label": "Bachelor of Computing Science (Honours)"
     },
     {
       "name_en": "Biology",
@@ -2647,7 +2650,9 @@
       "raw_key": "MAJ01119",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-biotechnology-927309e4ea"
+      "id": "uts-biotechnology-927309e4ea",
+      "parent_program_id": "uts-bachelor-of-engineering-honours-bachelor-of-science-8e29461beb",
+      "parent_degree_label": "Bachelor of Engineering (Honours) Bachelor of Science"
     },
     {
       "name_en": "Biotechnology (Honours)",
@@ -2662,7 +2667,9 @@
       "raw_key": "MAJ01186",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-biotechnology-honours-c0af3d27bc"
+      "id": "uts-biotechnology-honours-c0af3d27bc",
+      "parent_program_id": "uts-bachelor-of-science-honours-86b0ddccc7",
+      "parent_degree_label": "Bachelor of Science (Honours)"
     },
     {
       "name_en": "Business Analytics",
@@ -2799,7 +2806,9 @@
       "raw_key": "MAJ03546",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-chemical-process-engineering-e18506b27c"
+      "id": "uts-chemical-process-engineering-e18506b27c",
+      "parent_program_id": "uts-bachelor-of-engineering-science-d2e220d124",
+      "parent_degree_label": "Bachelor of Engineering Science"
     },
     {
       "name_en": "Chemistry",
@@ -2844,7 +2853,9 @@
       "raw_key": "MAJ01087",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-chemistry-ddb5e90674"
+      "id": "uts-chemistry-ddb5e90674",
+      "parent_program_id": "uts-bachelor-of-engineering-honours-bachelor-of-science-8e29461beb",
+      "parent_degree_label": "Bachelor of Engineering (Honours) Bachelor of Science"
     },
     {
       "name_en": "Chemistry",
@@ -2904,7 +2915,9 @@
       "raw_key": "MAJ01184",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-chemistry-honours-7036a38971"
+      "id": "uts-chemistry-honours-7036a38971",
+      "parent_program_id": "uts-bachelor-of-science-honours-86b0ddccc7",
+      "parent_degree_label": "Bachelor of Science (Honours)"
     },
     {
       "name_en": "Chemistry and Physics",
@@ -2966,7 +2979,9 @@
       "raw_key": "MAJ09453",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-chinese-language-and-culture-1a478aa251"
+      "id": "uts-chinese-language-and-culture-1a478aa251",
+      "parent_program_id": "uts-bachelor-of-mathematical-sciences-bachelor-of-international-studi-8fe99f7fa4",
+      "parent_degree_label": "Bachelor of Mathematical Sciences Bachelor of International Studies (Honours)"
     },
     {
       "name_en": "Chinese Language and Culture (International Honours)",
@@ -3026,7 +3041,9 @@
       "raw_key": "MAJ03134",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-civil-engineering-4c9b9526f3"
+      "id": "uts-civil-engineering-4c9b9526f3",
+      "parent_program_id": "uts-bachelor-of-engineering-science-d2e220d124",
+      "parent_degree_label": "Bachelor of Engineering Science"
     },
     {
       "name_en": "Civil Engineering",
@@ -3056,7 +3073,9 @@
       "raw_key": "MAJ07145",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-creative-arts-primary-specialisation-1758c06fcd"
+      "id": "uts-creative-arts-primary-specialisation-1758c06fcd",
+      "parent_program_id": "uts-bachelor-of-education-futures-master-of-teaching-in-primary-educa-93fbe21690",
+      "parent_degree_label": "Bachelor of Education Futures Master of Teaching in Primary Education"
     },
     {
       "name_en": "Creative Writing",
@@ -3116,7 +3135,9 @@
       "raw_key": "MAJ02900",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-cybersecurity-and-privacy-e189a8235f"
+      "id": "uts-cybersecurity-and-privacy-e189a8235f",
+      "parent_program_id": "uts-bachelor-of-computing-science-honours-60d1c1345c",
+      "parent_degree_label": "Bachelor of Computing Science (Honours)"
     },
     {
       "name_en": "Data Analytics",
@@ -3146,7 +3167,9 @@
       "raw_key": "MAJ10061",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-data-analytics-f5bb58d363"
+      "id": "uts-data-analytics-f5bb58d363",
+      "parent_program_id": "uts-bachelor-of-criminology-6db0866515",
+      "parent_degree_label": "Bachelor of Criminology"
     },
     {
       "name_en": "Data Analytics and Research",
@@ -3161,7 +3184,9 @@
       "raw_key": "MAJ10059",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-data-analytics-and-research-3e45085476"
+      "id": "uts-data-analytics-and-research-3e45085476",
+      "parent_program_id": "uts-bachelor-of-criminology-6db0866515",
+      "parent_degree_label": "Bachelor of Criminology"
     },
     {
       "name_en": "Data Science Engineering",
@@ -3176,7 +3201,9 @@
       "raw_key": "MAJ03515",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-data-science-engineering-d91374c490"
+      "id": "uts-data-science-engineering-d91374c490",
+      "parent_program_id": "uts-bachelor-of-engineering-science-d2e220d124",
+      "parent_degree_label": "Bachelor of Engineering Science"
     },
     {
       "name_en": "Data Science Engineering",
@@ -3342,7 +3369,9 @@
       "raw_key": "MAJ03413",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-electrical-engineering-bd68c4a6eb"
+      "id": "uts-electrical-engineering-bd68c4a6eb",
+      "parent_program_id": "uts-bachelor-of-engineering-science-d2e220d124",
+      "parent_degree_label": "Bachelor of Engineering Science"
     },
     {
       "name_en": "Electrical Engineering",
@@ -3387,7 +3416,9 @@
       "raw_key": "MAJ03527",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-electronic-engineering-40b617bffb"
+      "id": "uts-electronic-engineering-40b617bffb",
+      "parent_program_id": "uts-bachelor-of-engineering-science-d2e220d124",
+      "parent_degree_label": "Bachelor of Engineering Science"
     },
     {
       "name_en": "Electronic Engineering",
@@ -3447,7 +3478,9 @@
       "raw_key": "MAJ07146",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-english-primary-specialisation-d908e42569"
+      "id": "uts-english-primary-specialisation-d908e42569",
+      "parent_program_id": "uts-bachelor-of-education-futures-master-of-teaching-in-primary-educa-93fbe21690",
+      "parent_degree_label": "Bachelor of Education Futures Master of Teaching in Primary Education"
     },
     {
       "name_en": "Enterprise Software Development",
@@ -3462,7 +3495,9 @@
       "raw_key": "MAJ02097",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-enterprise-software-development-f229898c13"
+      "id": "uts-enterprise-software-development-f229898c13",
+      "parent_program_id": "uts-bachelor-of-information-technology-offshore-5a8e6b6f2e",
+      "parent_degree_label": "Bachelor of Information Technology (Offshore)"
     },
     {
       "name_en": "Enterprise Software Development",
@@ -3492,7 +3527,9 @@
       "raw_key": "MAJ03519",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-enterprise-software-development-eaa0498334"
+      "id": "uts-enterprise-software-development-eaa0498334",
+      "parent_program_id": "uts-bachelor-of-computing-science-honours-60d1c1345c",
+      "parent_degree_label": "Bachelor of Computing Science (Honours)"
     },
     {
       "name_en": "Environmental Biology",
@@ -3537,7 +3574,9 @@
       "raw_key": "MAJ01089",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-environmental-science-eaf8bda240"
+      "id": "uts-environmental-science-eaf8bda240",
+      "parent_program_id": "uts-bachelor-of-engineering-honours-bachelor-of-science-8e29461beb",
+      "parent_degree_label": "Bachelor of Engineering (Honours) Bachelor of Science"
     },
     {
       "name_en": "Environmental Sciences (Honours)",
@@ -3552,7 +3591,9 @@
       "raw_key": "MAJ01185",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-environmental-sciences-honours-c88af612db"
+      "id": "uts-environmental-sciences-honours-c88af612db",
+      "parent_program_id": "uts-bachelor-of-science-honours-86b0ddccc7",
+      "parent_degree_label": "Bachelor of Science (Honours)"
     },
     {
       "name_en": "Events",
@@ -3597,7 +3638,9 @@
       "raw_key": "MAJ06234",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-exercise-therapy-fda842d062"
+      "id": "uts-exercise-therapy-fda842d062",
+      "parent_program_id": "uts-bachelor-of-sport-and-exercise-science-4c2d2170a3",
+      "parent_degree_label": "Bachelor of Sport and Exercise Science"
     },
     {
       "name_en": "Finance",
@@ -3612,7 +3655,9 @@
       "raw_key": "MAJ08957",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-finance-41c10575db"
+      "id": "uts-finance-41c10575db",
+      "parent_program_id": "uts-bachelor-of-business-offshore-06cf150706",
+      "parent_degree_label": "Bachelor of Business (Offshore)"
     },
     {
       "name_en": "Finance",
@@ -3627,7 +3672,9 @@
       "raw_key": "MAJ08979",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-finance-3b5d3b3ebb"
+      "id": "uts-finance-3b5d3b3ebb",
+      "parent_program_id": "uts-bachelor-of-economics-43d3641273",
+      "parent_degree_label": "Bachelor of Economics"
     },
     {
       "name_en": "Finance",
@@ -3657,7 +3704,9 @@
       "raw_key": "MAJ03542",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-flexible-engineering-540d336d93"
+      "id": "uts-flexible-engineering-540d336d93",
+      "parent_program_id": "uts-bachelor-of-engineering-science-d2e220d124",
+      "parent_degree_label": "Bachelor of Engineering Science"
     },
     {
       "name_en": "Flexible Engineering",
@@ -3702,7 +3751,9 @@
       "raw_key": "MAJ01208",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-food-science-and-technology-honours-ddb9ad80b1"
+      "id": "uts-food-science-and-technology-honours-ddb9ad80b1",
+      "parent_program_id": "uts-bachelor-of-science-honours-86b0ddccc7",
+      "parent_degree_label": "Bachelor of Science (Honours)"
     },
     {
       "name_en": "Forensic Science (Honours)",
@@ -3717,7 +3768,9 @@
       "raw_key": "MAJ01210",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-forensic-science-honours-8d0e4c09cb"
+      "id": "uts-forensic-science-honours-8d0e4c09cb",
+      "parent_program_id": "uts-bachelor-of-science-honours-86b0ddccc7",
+      "parent_degree_label": "Bachelor of Science (Honours)"
     },
     {
       "name_en": "Forensics",
@@ -3732,7 +3785,9 @@
       "raw_key": "MAJ10060",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-forensics-ffcc4d5e61"
+      "id": "uts-forensics-ffcc4d5e61",
+      "parent_program_id": "uts-bachelor-of-criminology-6db0866515",
+      "parent_degree_label": "Bachelor of Criminology"
     },
     {
       "name_en": "French Language and Culture",
@@ -3762,7 +3817,9 @@
       "raw_key": "MAJ09454",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-french-language-and-culture-68370ba35a"
+      "id": "uts-french-language-and-culture-68370ba35a",
+      "parent_program_id": "uts-bachelor-of-mathematical-sciences-bachelor-of-international-studi-8fe99f7fa4",
+      "parent_degree_label": "Bachelor of Mathematical Sciences Bachelor of International Studies (Honours)"
     },
     {
       "name_en": "French Language and Culture (International Honours)",
@@ -3807,7 +3864,9 @@
       "raw_key": "MAJ09455",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-german-language-and-culture-3c6c43210a"
+      "id": "uts-german-language-and-culture-3c6c43210a",
+      "parent_program_id": "uts-bachelor-of-mathematical-sciences-bachelor-of-international-studi-8fe99f7fa4",
+      "parent_degree_label": "Bachelor of Mathematical Sciences Bachelor of International Studies (Honours)"
     },
     {
       "name_en": "German Language and Culture (International Honours)",
@@ -4032,7 +4091,9 @@
       "raw_key": "MAJ08964",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-international-business-4f273b74a0"
+      "id": "uts-international-business-4f273b74a0",
+      "parent_program_id": "uts-bachelor-of-business-offshore-06cf150706",
+      "parent_degree_label": "Bachelor of Business (Offshore)"
     },
     {
       "name_en": "International Business",
@@ -4077,7 +4138,9 @@
       "raw_key": "MAJ09456",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-italian-language-and-culture-3cd9b4f09e"
+      "id": "uts-italian-language-and-culture-3cd9b4f09e",
+      "parent_program_id": "uts-bachelor-of-mathematical-sciences-bachelor-of-international-studi-8fe99f7fa4",
+      "parent_degree_label": "Bachelor of Mathematical Sciences Bachelor of International Studies (Honours)"
     },
     {
       "name_en": "Italian Language and Culture (International Honours)",
@@ -4122,7 +4185,9 @@
       "raw_key": "MAJ09457",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-japanese-language-and-culture-ab578eee2f"
+      "id": "uts-japanese-language-and-culture-ab578eee2f",
+      "parent_program_id": "uts-bachelor-of-mathematical-sciences-bachelor-of-international-studi-8fe99f7fa4",
+      "parent_degree_label": "Bachelor of Mathematical Sciences Bachelor of International Studies (Honours)"
     },
     {
       "name_en": "Japanese Language and Culture (International Honours)",
@@ -4197,7 +4262,9 @@
       "raw_key": "MAJ10058",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-justice-and-legal-studies-565bb1bf72"
+      "id": "uts-justice-and-legal-studies-565bb1bf72",
+      "parent_program_id": "uts-bachelor-of-criminology-6db0866515",
+      "parent_degree_label": "Bachelor of Criminology"
     },
     {
       "name_en": "Languages Primary Specialisation",
@@ -4317,7 +4384,9 @@
       "raw_key": "MAJ08517",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-management-010690e59b"
+      "id": "uts-management-010690e59b",
+      "parent_program_id": "uts-bachelor-of-business-offshore-06cf150706",
+      "parent_degree_label": "Bachelor of Business (Offshore)"
     },
     {
       "name_en": "Management Studies",
@@ -4377,7 +4446,9 @@
       "raw_key": "MAJ01156",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-mathematical-analysis-6f13aa4248"
+      "id": "uts-mathematical-analysis-6f13aa4248",
+      "parent_program_id": "uts-bachelor-of-computing-science-honours-60d1c1345c",
+      "parent_degree_label": "Bachelor of Computing Science (Honours)"
     },
     {
       "name_en": "Mathematics",
@@ -4407,7 +4478,9 @@
       "raw_key": "MAJ01095",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-mathematics-eceaa900ac"
+      "id": "uts-mathematics-eceaa900ac",
+      "parent_program_id": "uts-bachelor-of-engineering-honours-bachelor-of-science-8e29461beb",
+      "parent_degree_label": "Bachelor of Engineering (Honours) Bachelor of Science"
     },
     {
       "name_en": "Mathematics and Mathematics/Physics",
@@ -4498,7 +4571,9 @@
       "raw_key": "MAJ03139",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-mechanical-engineering-3f3c5567c6"
+      "id": "uts-mechanical-engineering-3f3c5567c6",
+      "parent_program_id": "uts-bachelor-of-engineering-science-d2e220d124",
+      "parent_degree_label": "Bachelor of Engineering Science"
     },
     {
       "name_en": "Mechatronic Engineering",
@@ -4513,7 +4588,9 @@
       "raw_key": "MAJ03507",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-mechatronic-engineering-2baa79d566"
+      "id": "uts-mechatronic-engineering-2baa79d566",
+      "parent_program_id": "uts-bachelor-of-engineering-science-d2e220d124",
+      "parent_degree_label": "Bachelor of Engineering Science"
     },
     {
       "name_en": "Mechatronic Engineering",
@@ -4679,7 +4756,9 @@
       "raw_key": "MAJ01179",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-medical-and-health-related-sciences-d6d3eb2a1e"
+      "id": "uts-medical-and-health-related-sciences-d6d3eb2a1e",
+      "parent_program_id": "uts-bachelor-of-engineering-honours-bachelor-of-medical-science-1d1de497be",
+      "parent_degree_label": "Bachelor of Engineering (Honours) Bachelor of Medical Science"
     },
     {
       "name_en": "Medical Biotechnology",
@@ -4754,7 +4833,9 @@
       "raw_key": "MAJ01120",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-medical-science-52c27cafcd"
+      "id": "uts-medical-science-52c27cafcd",
+      "parent_program_id": "uts-bachelor-of-engineering-honours-bachelor-of-science-8e29461beb",
+      "parent_degree_label": "Bachelor of Engineering (Honours) Bachelor of Science"
     },
     {
       "name_en": "Medical Science",
@@ -4799,7 +4880,9 @@
       "raw_key": "MAJ01209",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-medical-science-honours-f7e92ecdef"
+      "id": "uts-medical-science-honours-f7e92ecdef",
+      "parent_program_id": "uts-bachelor-of-science-honours-86b0ddccc7",
+      "parent_degree_label": "Bachelor of Science (Honours)"
     },
     {
       "name_en": "Music and Sound Design",
@@ -4859,7 +4942,9 @@
       "raw_key": "MAJ06256",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-pathology-d735b3aba9"
+      "id": "uts-pathology-d735b3aba9",
+      "parent_program_id": "uts-bachelor-of-engineering-honours-bachelor-of-medical-science-1d1de497be",
+      "parent_degree_label": "Bachelor of Engineering (Honours) Bachelor of Medical Science"
     },
     {
       "name_en": "Pathology",
@@ -4934,7 +5019,9 @@
       "raw_key": "MAJ01211",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-pharmaceutical-sciences-honours-2cb3f01b85"
+      "id": "uts-pharmaceutical-sciences-honours-2cb3f01b85",
+      "parent_program_id": "uts-bachelor-of-science-honours-86b0ddccc7",
+      "parent_degree_label": "Bachelor of Science (Honours)"
     },
     {
       "name_en": "Physics",
@@ -4949,7 +5036,9 @@
       "raw_key": "MAJ01088",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-physics-8677c188c3"
+      "id": "uts-physics-8677c188c3",
+      "parent_program_id": "uts-bachelor-of-engineering-honours-bachelor-of-science-8e29461beb",
+      "parent_degree_label": "Bachelor of Engineering (Honours) Bachelor of Science"
     },
     {
       "name_en": "Physics and Mathematics",
@@ -4994,7 +5083,9 @@
       "raw_key": "MAJ01187",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-physics-and-quantum-technology-honours-9679567e55"
+      "id": "uts-physics-and-quantum-technology-honours-9679567e55",
+      "parent_program_id": "uts-bachelor-of-science-honours-86b0ddccc7",
+      "parent_degree_label": "Bachelor of Science (Honours)"
     },
     {
       "name_en": "Population Health",
@@ -5130,7 +5221,9 @@
       "raw_key": "MAJ02901",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-quantum-computing-3c9996a2d5"
+      "id": "uts-quantum-computing-3c9996a2d5",
+      "parent_program_id": "uts-bachelor-of-computing-science-honours-60d1c1345c",
+      "parent_degree_label": "Bachelor of Computing Science (Honours)"
     },
     {
       "name_en": "Quantum Technology",
@@ -5316,7 +5409,9 @@
       "raw_key": "MAJ03520",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-software-engineering-522b1f0b47"
+      "id": "uts-software-engineering-522b1f0b47",
+      "parent_program_id": "uts-bachelor-of-engineering-science-d2e220d124",
+      "parent_degree_label": "Bachelor of Engineering Science"
     },
     {
       "name_en": "Software Engineering",
@@ -5391,7 +5486,9 @@
       "raw_key": "MAJ09458",
       "record_type": "major",
       "entry_route": "Degree-internal catalog field; not an independent degree",
-      "id": "uts-spanish-language-and-culture-major-afb5f8a3c2"
+      "id": "uts-spanish-language-and-culture-major-afb5f8a3c2",
+      "parent_program_id": "uts-bachelor-of-mathematical-sciences-bachelor-of-international-studi-8fe99f7fa4",
+      "parent_degree_label": "Bachelor of Mathematical Sciences Bachelor of International Studies (Honours)"
     },
     {
       "name_en": "Sport Business",
