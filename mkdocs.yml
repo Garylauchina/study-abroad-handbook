@@ -1,0 +1,65 @@
+site_name: 海外大学留学手册
+site_description: 面向中国大陆学生及家长，从本科申请、项目比较到全程预算的实用留学手册。
+site_url: https://garylauchina.github.io/study-abroad-handbook/
+repo_url: https://github.com/Garylauchina/study-abroad-handbook
+repo_name: GitHub
+edit_uri: edit/main/docs/
+theme:
+  name: material
+  language: zh
+  font: false
+  icon:
+    logo: material/book-open-page-variant-outline
+  palette:
+    primary: custom
+    accent: custom
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.suggest
+    - content.action.edit
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+      pipeline: []
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+extra_css:
+  - assets/stylesheets/handbook.css
+extra_javascript:
+  - assets/javascripts/search-input.js
+  - path: assets/javascripts/budget.mjs
+    type: module
+extra:
+  generator: false
+nav:
+  - 手册首页: index.md
+  - 开始准备:
+      - 本科申请从这里开始: start/undergraduate.md
+      - 两个家庭的预算演练: start/cases.md
+  - 目的地样章:
+      - 英国本科申请: destinations/uk.md
+  - 工具与模板:
+      - 全程预算计算器: tools/budget.md
+      - 预算填写指南: tools/budget-guide.md
+      - 大学项目比较表: tools/compare.md
+  - 关于手册:
+      - 来源与核验范围: about/sources.md
+      - 推进路线与更新: about/roadmap.md
+validation:
+  nav:
+    omitted_files: warn
+  links:
+    not_found: warn
+    anchors: warn

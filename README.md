@@ -1,36 +1,45 @@
 # 海外大学留学手册
 
-面向中国大陆学生及家长，帮助普通家庭判断能否留学、选择合适的大学与专业、算清全程费用，并逐步完成申请和入学准备。
+面向中国大陆学生及家长，从自身条件、专业目标和家庭预算出发，逐步完成大学选择、申请准备和入学安排。
 
-**当前状态：项目规划阶段。** 本仓库目前只有项目说明和推进方案，尚未发布院校条目、费用数据或申请政策指南。已完成正文核验的目的地数量为 **0**。
+**[阅读网站 →](https://garylauchina.github.io/study-abroad-handbook/)**
 
-## 从这里开始
+## 当前内容
 
-- [阅读项目定位、内容结构与分期推进方案](PROJECT_PLAN.md)
-- [提出建议或报告错误](https://github.com/Garylauchina/study-abroad-handbook/issues)
+首批样章围绕大陆普高学生的本科申请展开：
 
-## 拟解决的问题
+- [本科申请从这里开始](docs/start/undergraduate.md)
+- [英国本科样章：Sheffield 与 Manchester 计算机本科实例](docs/destinations/uk.md)
+- [全程预算计算器](https://garylauchina.github.io/study-abroad-handbook/tools/budget/)与[填写指南](docs/tools/budget-guide.md)
+- [大学项目比较模板](docs/tools/compare.md)、个人条件与付款日历文本模板
+- [两个虚构家庭的预算演练](docs/start/cases.md)
+- [来源与核验范围](docs/about/sources.md)
 
-1. 我的成绩、课程背景、语言能力和家庭预算适合哪些路径？
-2. 如何比较国家和地区、大学、专业与具体学位项目？
-3. 完成整个学位需要多少钱，什么时候需要付款？
-4. 需要准备哪些考试和材料，如何安排申请时间线？
-5. 怎样比较录取结果，安排签证、住宿、出发和入学？
-6. 如何完成学业，并评估毕业后继续深造、就业或回国的选择？
+当前仅覆盖一个目的地样章，部分 2027 费用及资格细则存在明确缺口。其他目的地、硕士、博士和完整个案审查尚未展开。核验日期统一在网站首页和来源台账展示；网站构建与链接检查不替代政策核验。
 
-## 拟定范围
+[项目推进方案](PROJECT_PLAN.md) · [后续路线](docs/about/roadmap.md) · [提交纠错或建议](https://github.com/Garylauchina/study-abroad-handbook/issues)
 
-- 本科、硕士和博士分别组织；首版建议先完成大陆普高学生申请海外本科的完整路径。
-- 内容包括决策、费用、申请、录取比较、入学准备、在读生活与毕业衔接。
-- 港澳高校拟作为单独的地区分区；中外合作办学拟作为路径比较专题。
-- 国际课程、转学、预科等分支逐步补充；本轮不启动正文写作。
+## 本地维护
 
-## 内容原则
+使用 Python 3.12 和 Node.js 24。内容为 Markdown，网站通过 Material for MkDocs 生成。
 
-- 具体条件、金额、截止时间和政策结论应能追溯到适用年度的官方来源。
-- 区分官方规定、编辑分析、费用估算与个人经验；缺少证据时明确标注。
-- 比较全程成本与资金到位时间，基础预算不计入尚未落实的奖学金或兼职收入。
-- 首页统一展示核验范围与维护状态，详细核验记录集中保存。
-- 公开内容仅使用公共资料和明确标注的虚构案例。请勿在文件或 Issue 中提交护照、成绩单、账户凭据及其他个人申请材料。
+```bash
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.lock.txt
+.venv/bin/python scripts/render_sources.py --check
+node --test scripts/budget.test.mjs
+.venv/bin/mkdocs build --strict
+.venv/bin/python scripts/validate_site.py site
+node scripts/validate_search.mjs site
+.venv/bin/mkdocs serve
+```
 
-具体覆盖范围、首批目的地和发布方式仍属于方案建议，见[推进方案](PROJECT_PLAN.md)。
+修改 `.maintenance/uk-sources.json` 后，先运行 `python scripts/render_sources.py` 更新公开来源页；这一步只生成记录，不会自动核验网页事实。直接依赖见 `requirements.txt`，完整版本锁定见 `requirements.lock.txt`。
+
+提交到 `main` 后，GitHub Actions 执行来源字段检查、预算测试、严格构建、站内链接检查和中英文实际搜索测试，通过后发布到 GitHub Pages。Pull Request 只检查，不部署。
+
+## 内容与隐私
+
+具体规则引用对应年度的官方来源；区分已核实事实、编辑建议、估算和虚构演练。基础预算不依赖尚未落实的奖学金、兼职或毕业收入。
+
+公开仓库仅放公共资料和编辑内容。请勿在文件或 Issue 中提交护照、成绩单、账户凭据及其他个人申请材料。
