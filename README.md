@@ -29,11 +29,14 @@ python3 -m venv .venv
 .venv/bin/python scripts/render_catalog.py --check
 .venv/bin/python scripts/render_sources.py --check
 node --test scripts/budget.test.mjs scripts/catalog.test.mjs
+.venv/bin/python scripts/version_assets_test.py
 .venv/bin/mkdocs build --strict
 .venv/bin/python scripts/validate_site.py site
 node scripts/validate_search.mjs site
 .venv/bin/mkdocs serve
 ```
+
+构建时自动为自定义 CSS、JavaScript 和目录数据生成内容哈希文件名，页面引用同一批资源，避免更新后浏览器缓存旧样式。
 
 修改目录请先更新结构化记录，再运行生成器；生成页中的注释指出对应维护入口。英国申请指南的来源另保存在 `.maintenance/uk-sources.json`，通过 `scripts/render_sources.py` 生成来源页。生成与结构检查不会自动复核官方事实。
 

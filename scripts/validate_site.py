@@ -3,6 +3,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 import json
+import hashlib
 import sys
 
 BASE = "/study-abroad-handbook/"
@@ -29,10 +30,19 @@ class Page(HTMLParser):
         field = "href" if tag in ("a", "link") else "src" if tag in ("script", "img") else None
         if field and attrs.get(field):
             self.links.append(attrs[field])
+        if attrs.get("data-catalog-url"):
+            self.links.append(attrs["data-catalog-url"])
 
 
 pages = {p.resolve(): Page(p.read_text()) for p in ROOT.rglob("*.html")}
 errors = []
+manifest = json.loads((ROOT / 'assets/asset-manifest.json').read_text())
+for source, versioned in manifest.items():
+    original = (ROOT / source).read_bytes()
+    if (ROOT / versioned).read_bytes() != original:
+        errors.append(f"Versioned asset differs from source: {versioned}")
+    if hashlib.sha256(original).hexdigest()[:12] not in versioned:
+        errors.append(f"Asset filename has an obsolete content hash: {versioned}")
 checked = 0
 for path, page in pages.items():
     for link in page.links:
@@ -51,6 +61,8 @@ for path, page in pages.items():
         if target.is_dir():
             target /= "index.html"
         target = target.resolve()
+        if target.is_relative_to(ROOT) and target.relative_to(ROOT).as_posix() in manifest:
+            errors.append(f"{path.relative_to(ROOT)}: unversioned asset can serve stale content: {link}")
         checked += 1
         if not target.is_relative_to(ROOT) or not target.exists():
             errors.append(f"{path.relative_to(ROOT)}: missing {link}")

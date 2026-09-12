@@ -21,6 +21,8 @@ theme:
     - search.highlight
     - search.suggest
     - content.action.edit
+hooks:
+  - scripts/version_assets.py
 plugins:
   - search:
       lang:
