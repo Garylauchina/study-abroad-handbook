@@ -1,0 +1,101 @@
+{
+  "university_id": "sheffield",
+  "checked_at": "2026-09-13",
+  "sources": [
+    {
+      "url": "https://www.discoveruni.gov.uk/course-details/10007157/G402/Full-time/",
+      "sha256": "0ef7a42d86d8a50804d0d1c7bdbaec33f11643a66e4d956a4b969ff1cb3b50c7",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/root-review/UK-SHE-CS-OUTCOMES.html"
+    },
+    {
+      "url": "https://www.discoveruni.gov.uk/about-our-data/",
+      "sha256": "772dbff7c0186cc5f67c79d0c9f7acd5458f7120b24fac7aa2d30b2638252131",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/root-review/UK-DU-METHODS.html"
+    },
+    {
+      "url": "https://www.uow.edu.au/student/study-overseas/explore-and-apply/exchange/unitedkingdom/university-of-sheffield/",
+      "sha256": "41a7189f3d6bcafe29a6fdbbf3946c6e409a2444b2f037ab5e4f2a1acd2dd3a3",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/root-review/UK-SHE-LANGUAGE-PARTNER.html"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-bsc",
+      "sha256": "9161280dffde5d2a6c116b136ee2d7ef8bc2f5f06780f094c8b4fc802fad0630",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/raw/course-034.html"
+    },
+    {
+      "url": "https://sheffield.ac.uk/international/entry-requirements/china",
+      "sha256": "22d094414b790dcf3d647b6467e98cf74d95457e49025053cf0cbdaa8d109ebf",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/raw/policy-0.html"
+    },
+    {
+      "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+      "sha256": "86b870f18dfd3fbcae24deb0a99a369782481285a1309f4786b25543eedaa6b7",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/raw/policy-4.html"
+    },
+    {
+      "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+      "sha256": "0125236388c4276c1e318f59274eca00c8171489422431b1f915a7cd403f34bf",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/raw/policy-5.html"
+    },
+    {
+      "url": "https://sheffield.ac.uk/api/course-fees/ug/COMU101/2027",
+      "sha256": "a8e70dc9247afaa2347b5db0ea87ae361cac6b0aecaa145964662fbea4684dfd",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/raw/fee-034.html"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/apply/english-language",
+      "sha256": "974d15f1e72a24282f54f36d6ab1cd2b094a7388b887b7731bf22cb58e733696",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/raw/english-ug.html"
+    },
+    {
+      "url": "https://sheffield.ac.uk/international/entry-requirements/english-language-requirements",
+      "sha256": "e6eb75fddb0bde969776af6261ef332bd178e5007ac3ac112550a1ff3db7c162",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/raw/policy-1.html"
+    },
+    {
+      "url": "https://sheffield.ac.uk/new-students/tuition-fees/undergraduate-overseas",
+      "sha256": "9183d137f146c7cc12fe38c1f11799b7ddfe2877e6d5da92fd3cf1fc82eb0249",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/raw/policy-2.html"
+    },
+    {
+      "url": "https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-scholarship-2027",
+      "sha256": "5fef2fcfd34a27dee4c57b9a52f5b769b1915f6b0b9eb7de0e1f0079dd8b840d",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/raw/policy-3.html"
+    },
+    {
+      "url": "https://www.discoveruni.gov.uk/course-details/10007157/L101/Full-time/",
+      "sha256": "2d9b17466a0802e6f9c149966ef38d1d77fc34116be0795d0bd6cc6a95f3808a",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/root-review/UK-SHE-ECON-OUTCOMES.html"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-bsc",
+      "sha256": "7f392a75e95317d0c9dce1f134de574c63efc99b4b1ba48e67029ca67ce9eaec",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/raw/course-057.html"
+    },
+    {
+      "url": "https://sheffield.ac.uk/api/course-fees/ug/ECNU14/2027",
+      "sha256": "7c8995db2107bea5a3fe13859aea4171ce4d90166338ccbd08046518479fca12",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/raw/fee-057.html"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/mechanical-engineering-beng",
+      "sha256": "5d33f7290db4964b9330658d8f86281db62c10c739422f5732026e74f8e9449d",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/raw/course-103.html"
+    },
+    {
+      "url": "https://sheffield.ac.uk/api/course-fees/ug/MACU019/2027",
+      "sha256": "7d5a887c554af6d424586f60ac547040bf2ecb1ead28d06e462bc8ca25b13ada",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/raw/fee-103.html"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/electrical-and-electronic-engineering-beng",
+      "sha256": "df5d934bf259a62232ba40ee5361fb7d2ea6216cd4c36d08181a50c640a6dbd9",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/raw/course-062.html"
+    },
+    {
+      "url": "https://sheffield.ac.uk/api/course-fees/ug/ELEU011/2027",
+      "sha256": "2898765f662a8a8efee9580e4f80dac276d1b59f11f81e89031562cbcdd70f1c",
+      "raw_file": "scratch/full-catalog/sheffield-enrichment/raw/fee-062.html"
+    }
+  ]
+}

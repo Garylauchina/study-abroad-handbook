@@ -2,40 +2,70 @@
   "university_id": "cmu",
   "sources": [
     {
-      "url": "https://www.cmu.edu/admission/admission/international-applicants",
-      "sha256": "a6761b7be21e453c0e7455b8a86f1f87ab7c55e11ca48743d54ac1a95704caea",
-      "raw_file": "scratch/full-catalog/us-b-enrichment/cmu/raw/international.html",
-      "locator": "Additional Information"
+      "url": "https://www.cmu.edu/career/outcomes/data-definitions.html",
+      "sha256": "bb18725e4d773a1254c73f8f77d738ce4754d3f77076910ba91de09eb7c41642",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/career-definitions.html",
+      "locator": null
     },
     {
-      "url": "https://www.cmu.edu/admission/admission/undergraduate-admission-requirements",
-      "sha256": "ddabe5765cc6a4b009f33766396a5030b19522bc11880cb2223ca234895fef93",
-      "raw_file": "scratch/full-catalog/us-b-enrichment/cmu/raw/requirements.html",
-      "locator": "Additional Requirements"
+      "url": "https://www.cmu.edu/career/outcomes/index.html",
+      "sha256": "e46033fa2008401338dc0878074b6f2f07aa72768fba2a070bf5555511feb2bc",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/career-outcomes.html",
+      "locator": null
     },
     {
-      "url": "https://www.cmu.edu/admission/admission/standardized-testing",
-      "sha256": "e1a89ebe9a4e10f255b4307511666346e8a8394ff850440da94d033afcd030b4",
-      "raw_file": "scratch/full-catalog/us-b-enrichment/cmu/raw/testing.html",
-      "locator": "Testing Policy"
+      "url": "https://coursecatalog.web.cmu.edu/aboutcmu/undergraduateadmission/",
+      "sha256": "401e846eba76243ff6e98a77b2a53e06c73398ad86d8fb01a7b9bc1f58530adb",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/catalog-admissions2027.html",
+      "locator": null
     },
     {
       "url": "https://www.cmu.edu/admission/admission/application-plans-deadlines",
       "sha256": "9d01e6664644113a4aac18a3d3374bd0c47bd29804a553785a2951ea04e8d9b1",
-      "raw_file": "scratch/full-catalog/us-b-enrichment/cmu/raw/deadlines.html",
-      "locator": "Application Plans and Deadlines"
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/deadlines-current.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/admission/admission/international-applicants",
+      "sha256": "a6761b7be21e453c0e7455b8a86f1f87ab7c55e11ca48743d54ac1a95704caea",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/international-current.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/admission/admission/undergraduate-admission-requirements",
+      "sha256": "ddabe5765cc6a4b009f33766396a5030b19522bc11880cb2223ca234895fef93",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/requirements-current.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/admission/admission/standardized-testing",
+      "sha256": "e1a89ebe9a4e10f255b4307511666346e8a8394ff850440da94d033afcd030b4",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/testing-current.html",
+      "locator": null
     },
     {
       "url": "https://www.cmu.edu/oie/pre-arrival-and-settling-in/students/instructions/estimated-expenses.html",
       "sha256": "da3cb26655773e4f9074b4c84a74c48009ca18c803b03d2195cdcac3589b3ba4",
-      "raw_file": "scratch/full-catalog/us-b-enrichment/cmu/raw/tuition.html",
-      "locator": "Undergraduate Student Estimated Expenses 2026-2027 Pittsburgh"
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/tuition-current.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/admission/admission/academic-requirements-college-level-work",
+      "sha256": "e47b946710ee522f1975efd3145413ba4d6a6bbae5e26e9a0b248c60dd9813eb",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/academic-current.html",
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/anthropology-ba/",
       "sha256": "38450f9cb70a2f05054af6787e33841635086122ef62d2f26fd650595c99a77c",
       "raw_file": "scratch/full-catalog/us-details/cmu/b3cb45c5f418a329677c.html",
-      "locator": "main/content > program section headings"
+      "locator": null
+    },
+    {
+      "url": "https://www.architecture.cmu.edu/admissions/undergraduate-admissions",
+      "sha256": "0fd334765469f076c4ec873fca37709f9d4d3fa5dc43b45624845a7d21e09b98",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/architecture-admission.html",
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofarchitecture/architecture-ba/",
@@ -50,10 +80,16 @@
       "locator": "main/content > program section headings"
     },
     {
+      "url": "https://art.cmu.edu/undergraduate/portfolio-apply/",
+      "sha256": "4b1ed82df51d75891a4f5aa66a1984fcb6b76e5b3540f45f9c6888789b2a8083",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/art-portfolio.html",
+      "locator": null
+    },
+    {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofart/art-bfa/",
       "sha256": "dc50adf388524c4955584d9c6704175ca57907e40ca5ae18f5632c01eeb58a8e",
       "raw_file": "scratch/full-catalog/us-details/cmu/997dc5222b406cb7779a.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/artificialintelligence/artificial-intelligence-additional-major/",
@@ -71,13 +107,13 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofsocialanddecisionsciences/behavioral-economics-bs/",
       "sha256": "78452831cb6bca0b2e3d27c27026f6a6695b1b5f12059093f6ef19dc4894e6af",
       "raw_file": "scratch/full-catalog/us-details/cmu/81b601ae147e52b89302.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-additional-major/",
       "sha256": "e2412796f72fddd16b7cd45580e155236553f2b2d2c093d602e7df2b0c7ef7b2",
       "raw_file": "scratch/full-catalog/us-details/cmu/18bae4ecd34808dce09e.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-ba/",
@@ -89,7 +125,7 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-bs/",
       "sha256": "00458a5c4dde251f7aa3d4eae9be46484e608bf6fb80826f8780ffc649e94b62",
       "raw_file": "scratch/full-catalog/us-details/cmu/596268174a802f3bbf20.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-psychology-bs/",
@@ -101,13 +137,13 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofbiomedicalengineering/biomedical-engineering-additional-major/",
       "sha256": "02e414bdf994c15ffe449c76d6b8bd65352c4470ec409127b9908cfc91978acf",
       "raw_file": "scratch/full-catalog/us-details/cmu/fb92bf021cd9ca66ac36.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofbiomedicalengineering/biomedical-technology-additional-major/",
       "sha256": "f0371c96c3409e76b374863d372681aa4048805a71cfac6d8d5cea6a12d2f3af",
       "raw_file": "scratch/full-catalog/us-details/cmu/9d6843d197c3ae692013.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduatebusinessadministrationprogram/business-administration-additional-major/",
@@ -119,7 +155,7 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduatebusinessadministrationprogram/business-administration-bs/",
       "sha256": "596064515db3f47ec28373102bc4008d3cf2d8b312270354c0a9eaa2254d7c0f",
       "raw_file": "scratch/full-catalog/us-details/cmu/36805a528574b4bf3a4a.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofchemicalengineering/chemical-engineering-bs/",
@@ -137,7 +173,7 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-bs/",
       "sha256": "05e8e0a615778cbfde01b8b6fd5c2f5d5aa762b7676a02cce986e045b51e9b60",
       "raw_file": "scratch/full-catalog/us-details/cmu/823126bbb6845adf0e72.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-biological-chemistry-track-bs/",
@@ -155,13 +191,37 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/cognitive-science-bs/",
       "sha256": "1b4b9b8106beab2f7d456c6f199ded52837caba3d14ebd87033d4e1167799bc9",
       "raw_file": "scratch/full-catalog/us-details/cmu/c08e0af36155afd72aa4.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/composition-bfa/",
       "sha256": "77029872e400da519189619c2007739947b588546e3b5225424f9be9c72bf1bd",
       "raw_file": "scratch/full-catalog/us-details/cmu/662b956b6d12f3049b70.html",
       "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/audition-portfolio-review-requirements.html",
+      "sha256": "b84368bf31da0be4286d39841a857ab602f0aa4e0fb3d01d77603b52bc6ba7f1",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-auditions.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/composition-review-requirements.html#undergrad-composition-requirements",
+      "sha256": "fe71b87ce28349cfe141e09228ce4ef4797372922ec1758694dee0586555049e",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-composition-review-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/audition-portfolio-review-dates.html",
+      "sha256": "4d621130b465364e18666d274b35f4f911544cb16e6fc7852dcd9471761b8d2e",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-dates.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/undergraduate_admission/index.html",
+      "sha256": "620abfc54396bd8673b0795dc3d46e128fb9817d24a88bfc4bb5f6afd9f9c5f1",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-undergrad.html",
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputatonalbiology/computational-biology-additional-major/",
@@ -179,7 +239,7 @@
       "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/computational-finance/computational-finance-bs/",
       "sha256": "d9ade280a2b73a0bd9bdc9c4a2609c98c2d3ada36c358da459903fb6f0e1d86f",
       "raw_file": "scratch/full-catalog/us-details/cmu/06349ba627eea604c2ba.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/computer-science-additional-major/",
@@ -191,13 +251,19 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/computer-science-bs/",
       "sha256": "86927fbb03c138cf6ee5068647d2218f05fa9a046b79101faa150d0e8720d3e7",
       "raw_file": "scratch/full-catalog/us-details/cmu/3a1e3dff75f5c2fcf2b3.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/computer-science-arts/",
       "sha256": "83a010c5bf0ebf7af4c116706d0a413252db1c3b5271c2a3fca1dfed0e29bce0",
       "raw_file": "scratch/full-catalog/us-details/cmu/d7f66e6f859577af1f5c.html",
-      "locator": "main/content > program section headings"
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/bxa-audition-review-requirements.html",
+      "sha256": "3d6cd1da5d0d37da6eb4db5857a44203b769305f305c9c934c456c772316c465",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-bxa-audition-review-requirements.html",
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/creative-writing-ba/",
@@ -209,19 +275,37 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofsocialanddecisionsciences/decision-science-bs/",
       "sha256": "e353a749eb274535641b9864a73f05eb5a76284628f8dc25b8e11baa86654ed8",
       "raw_file": "scratch/full-catalog/us-details/cmu/e5d2b37221fec48e082b.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofdesign/design-bdes/",
       "sha256": "f05bfa77caa5a504b89956a3c009af8ee884ef8d5c437b1c541f3e6c777c63c7",
       "raw_file": "scratch/full-catalog/us-details/cmu/7cbc96b733dbb3b8a623.html",
-      "locator": "main/content > program section headings"
+      "locator": null
+    },
+    {
+      "url": "https://www.design.cmu.edu/admissions/undergraduate-admissions",
+      "sha256": "ae74a0f39c804490d058cb549b096dae1393448a0c34c0aa8983c2bd7d98b163",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/design-admission.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.design.cmu.edu/admissions/undergraduate-admissions/submitting-your-portfolio",
+      "sha256": "473fc64fed055c037ec3eece930062e1e739babc4835c5c99c28fd336f774653",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/design-portfolio.html",
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofdrama/drama-bfa/",
       "sha256": "ae4c0de516c93dc0e3916de27a301be1c78269e911793f08347af3392e9993c8",
       "raw_file": "scratch/full-catalog/us-details/cmu/b5ee7971c003982281c0.html",
       "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://drama.cmu.edu/admission/undergraduate-admission/",
+      "sha256": "e93d9eddde6512a354f2ad469c24eebc9ccf99d088ebe27cd364ebfa293bca49",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/drama-admission2027.html",
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-additional-major/",
@@ -251,13 +335,13 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/carnegiemelloninstituteforstrategyandtechnology/economics-politics-bs/",
       "sha256": "d181b3141d6364ef9765e7a4317f6a52d51a5eeb4b34df598e85d4780318a28a",
       "raw_file": "scratch/full-catalog/us-details/cmu/7dfafbfd09b382825dbb.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/economics-statistics-bs/",
       "sha256": "82850c782f562296fe2c4f2e48c271ca0914e9055ec5327cfa96fb68a11884b2",
       "raw_file": "scratch/full-catalog/us-details/cmu/d1112da728ddb2425ca9.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/electrical-computer-engineering-bs/",
@@ -270,6 +354,12 @@
       "sha256": "e84a846e14d048864bb718eaa5c96ccd1f48a0ff67a8c8b44fd3e35d50b7d845",
       "raw_file": "scratch/full-catalog/us-details/cmu/7fc9147733972f8c8c21.html",
       "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/electronic-music-audition-requirements.html",
+      "sha256": "294a645578fe29547e15953646b047187fde9322a1b46cedcb20fc0ba4febcc8",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-electronic-music-audition-requirements.html",
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-arts-additional-major/",
@@ -293,7 +383,7 @@
       "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-studies-arts/",
       "sha256": "eb271f44040a1c44778a7f9c1288e778ba425508c5bdc36a3796692bc2fbc7ee",
       "raw_file": "scratch/full-catalog/us-details/cmu/536dbf50d805764546f3.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/environmental-sustainability-studies/environmental-sustainability-studies-additional-major/",
@@ -311,13 +401,13 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/interdisciplinary/ethics-history-public-policy-ba-bs/",
       "sha256": "b6e95d0bf0cd2bef4e0e0ca1d37711138886e2aecbe31594d8ce16ee72577510",
       "raw_file": "scratch/full-catalog/us-details/cmu/1ea7d7ef6ac9e6229e87.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/film-visual-media-ba/",
       "sha256": "e2454a3351c15e9ca42ac0c4b08286198d2089c6a8775df46d7bda5c2fc99fe6",
       "raw_file": "scratch/full-catalog/us-details/cmu/b2273a5f840b3bb5803e.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/majors-minors/general-studies-major/",
@@ -341,7 +431,7 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/history-ba/",
       "sha256": "88c07a180a519864aa367af10c135b22695879bf6b0e2b5e1b4ee4a8152ae4e6",
       "raw_file": "scratch/full-catalog/us-details/cmu/e99934d7861fd1010396.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/humancomputerinteractionprogram/human-computer-interaction-additional-major/",
@@ -359,43 +449,43 @@
       "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/",
       "sha256": "1e8c487802c8a41b301bedc0dc6ae616f0c29abcc9962006a82392e638fa91fc",
       "raw_file": "scratch/full-catalog/us-details/cmu/93456b3f308031b69c11.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/informationsystems/information-systems-bs/",
       "sha256": "d5a629621ef2c5ba3f5dea1b010251d43ebd125e090e7743af34a1753053e5cc",
       "raw_file": "scratch/full-catalog/us-details/cmu/7a495c084561903bf159.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/carnegiemelloninstituteforstrategyandtechnology/international-relations-political-science-bs/",
       "sha256": "f5910816331b4a69f1eb3eb9d0edab89e2d00a1d6c072459212c07b6163c24ae",
       "raw_file": "scratch/full-catalog/us-details/cmu/b969547b44cdc2828912.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentoflanguagesculturesappliedlinguistics/languages-cultures-ba/",
       "sha256": "43f278d430ba92c3feccb119bf0937e374753830c1a9d08d7f119c05bf598f06",
       "raw_file": "scratch/full-catalog/us-details/cmu/5beb63f1b2ef054c833f.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/linguistics-ba/",
       "sha256": "00d56ab659b27a0b1656f6f01872101cef55f8201a914d49979e72e60e9c70bb",
       "raw_file": "scratch/full-catalog/us-details/cmu/1ded6497d0204ca958f4.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/literature-culture-ba/",
       "sha256": "55e68812cde02f3026d4773529467a96ab0a1e2fe67175135e8961b84d0bb4fa",
       "raw_file": "scratch/full-catalog/us-details/cmu/2fdffec91220ac13b550.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/logic-computation-bs/",
       "sha256": "126c3ab282fd854b7a9adba9c98ada944c050f21fdcf36f200c8fe9ce8fd1fff",
       "raw_file": "scratch/full-catalog/us-details/cmu/e2caa607492d5677ab42.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/materialsscienceandengineering/materials-science-engineering-bs/",
@@ -413,7 +503,7 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/mathematical-sciences-bs/",
       "sha256": "fcc2af5c8a6c378d04bd1e65bb51ed083014ed167ecc3807c122fe8217644efd",
       "raw_file": "scratch/full-catalog/us-details/cmu/23caee2aaeeebf11ff2e.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/mathematical-sciences-economics-bs/",
@@ -431,31 +521,37 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/music-technology-bs/",
       "sha256": "067a3d539b3fac1e434a6264664f94fb0717c02f6d6b3bdd87cd154ad3b8eb48",
       "raw_file": "scratch/full-catalog/us-details/cmu/02476b032018f3c7044f.html",
-      "locator": "main/content > program section headings"
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/music-technology-audition-requirements.html#undergrad-musictech-requirements",
+      "sha256": "2a1d43041744b212445464dafbb60bf98344d05bb50acdfbce606622770746e6",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-music-technology-audition-requirements.html",
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/music-performance-bfa/",
       "sha256": "4c1118b85f421a12a886155c1dea1fbe19c7d31979ea43c1b71459bea2ea0851",
       "raw_file": "scratch/full-catalog/us-details/cmu/7540a95e21819f0b2401.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/majors-minors/neuroscience-bs/",
       "sha256": "3bc8f3ca289e28e74abf5638b1ef35d602bd61b1c5b0984cc420e9fd54327735",
       "raw_file": "scratch/full-catalog/us-details/cmu/26761a8ce5f2947a9469.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/philosophy-ba/",
       "sha256": "4c8ce327b9e881a17da2fd657658817b6e48e222b167bea2b397b0546a4f2263",
       "raw_file": "scratch/full-catalog/us-details/cmu/14f3bd46381bbb6f30f3.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-additional-major/",
       "sha256": "e07984f923ea4d5c9e27dbb8bb440cc2db402f80ceb17fcb22ba83eb33e5db30",
       "raw_file": "scratch/full-catalog/us-details/cmu/9a6756ea3a773621412e.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-ba/",
@@ -467,19 +563,19 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-bs/",
       "sha256": "5f5c1c0f7ecb10e39e2d242d6cd045bb15b95acb82f11dcf72557a530dbd78ff",
       "raw_file": "scratch/full-catalog/us-details/cmu/1cd1385fc01842c41c71.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofsocialanddecisionsciences/policy-management-bs/",
       "sha256": "a2cc5a9d003b81aac4d3e768dfb202fa203eaa0db945641203b1b0d7fc83027d",
       "raw_file": "scratch/full-catalog/us-details/cmu/8e18865103a7aba6a092.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/carnegiemelloninstituteforstrategyandtechnology/political-science-security-technology-bs/",
       "sha256": "50b553380206c05f4f5b407e7c06a420c4b28a54d1bb07b7815a82fc85a12724",
       "raw_file": "scratch/full-catalog/us-details/cmu/31735e8d2f05a011ae32.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/professional-writing-ba/",
@@ -491,7 +587,7 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/psychology-ba-bs/",
       "sha256": "0d09619af5b885c45b237f5332545089a61e2e1e75f78ab296e7ddd6c5a45977",
       "raw_file": "scratch/full-catalog/us-details/cmu/79d48b251219f6911523.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/psychology-biological-sciences-bs/",
@@ -515,13 +611,13 @@
       "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/science-arts/",
       "sha256": "21d26e29fbd7e0872dd59d92876a04f9201f4638430c025e2b4e99c69a69c7c4",
       "raw_file": "scratch/full-catalog/us-details/cmu/2d40738cf0af2f9cffaf.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/science-technology-society-bs/",
       "sha256": "086811becbed66e3f7d49d517fae37974b2f01a1e13d24d00fa395209c83fb54",
       "raw_file": "scratch/full-catalog/us-details/cmu/d99858a8811ea2dbd15e.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofengineeringandpublicpolicy/science-technology-public-policy-additional-major/",
@@ -533,31 +629,571 @@
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-data-science-bs/",
       "sha256": "8b5639d5860dd8001dc6f1d0f8b8f2633c6e5bce3c407fb7738f0c750e3ad4da",
       "raw_file": "scratch/full-catalog/us-details/cmu/cabbf78106b9e77d21d5.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-data-science-mathematical-sciences-track-bs/",
       "sha256": "990aa5af43154c2bd5628e05664adb07ff46306e622b0b94668cb8793d3caafb",
       "raw_file": "scratch/full-catalog/us-details/cmu/945a634881db2aceec60.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-data-science-neuroscience-track-bs/",
       "sha256": "0d0a1b19028f32c04fa26ac3730e0f3ecf8d40ba1ed98282e56d77480c59ad76",
       "raw_file": "scratch/full-catalog/us-details/cmu/5f694c14255e4d35d304.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-machine-learning-bs/",
       "sha256": "916f5efadc93093ad39ee27d321516c6cba8c63f11535c82d5e28aad5842af8c",
       "raw_file": "scratch/full-catalog/us-details/cmu/03ea0c82af063c28f835.html",
-      "locator": "main/content > program section headings"
+      "locator": null
     },
     {
       "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/technical-writing-bs/",
       "sha256": "b3ea1674ce86ec7c1997607e0a8b1a10247627d4ccc328c27caff2d90f790535",
       "raw_file": "scratch/full-catalog/us-details/cmu/0418ac069a70beadccf1.html",
-      "locator": "main/content > program section headings"
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/bagpipe-audition-requirements.html#undergrad-bagpipe-requirements",
+      "sha256": "dc3b61e042234ff275c0896ebef197f3f6007c4a22c1eaae06e991a737f0c5de",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-bagpipe-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/bassoon-audition-requirements.html#undergrad-bassoon-requirements",
+      "sha256": "0e016738cad1b9cbe1df4e8a27af16fe8deabb9ec539b56f222ac608f0eb89a3",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-bassoon-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/cello-audition-requirements.html#undergrad-cello-requirements",
+      "sha256": "e91f2926e7dc7a8642b94d609e769d5700c2e35587e0625a0e853df7ec98a005",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-cello-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/clarinet-audition-requirements.html#undergrad-clarinet-requirements",
+      "sha256": "a81be332bd31bd94df879d5ba528795d25cf63c66d50f376e178b7df6c087d7a",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-clarinet-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/double-bass-audition-requirements.html#undergrad-double-bass-requirements",
+      "sha256": "af48e4a7cb29770f18dc75b449cb19eef98d01557edf2c60975d388f12657f3d",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-double-bass-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/euphonium-audition-requirements.html#undergrad-euphonium-requirements",
+      "sha256": "03758b4928f37b2b8c03d794b0885750385c59cc89c1e75b3dc77d4938c9591b",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-euphonium-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/flute-audition-requirements.html#undergrad-flute-requirements",
+      "sha256": "2902b253a0bf416f2068cf70eb1ffc88d3ff6ecd7c666c593f37a04f9b4c7bcc",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-flute-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/guitar-audition-requirements.html#undergrad-guitar-requirements",
+      "sha256": "3d37a28d983eb8f867fc1d9cc3541286ab0e28afca80536339d73ad9db2bac7e",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-guitar-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/harp-audition-requirements.html#undergrad-harp-requirements",
+      "sha256": "765660cfe1b654530923a736352e0b42ba8cd351c7bd62b9dd9fb99d6c406d22",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-harp-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/horn-audition-requirements.html#undergrad-horn-requirements",
+      "sha256": "e7471d9b9e70145f48278b9e2535f086d8aaee154064bc46e19a850df5639c0c",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-horn-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/oboe-audition-requirements.html#undergrad-oboe-requirements",
+      "sha256": "3b8083607ea7b1a615d583877527bb1f44f9e284e31d292d870f1f16762f61be",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-oboe-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/percussion-audition-requirements.html#undergrad-percussion-requirements",
+      "sha256": "0c0dc6ab85f8c0b6997222c7c5a1293e4d32c1d8d2a9f0499f6e32ffda684f36",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-percussion-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/piano-audition-requirements.html#undergrad-piano-requirements",
+      "sha256": "462d2f8ec6c92cc04466bea47b104c62b88120e9c4a61a13b3b25593b3ace0e3",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-piano-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/saxophone-audition-requirements.html#undergrad-saxophone-requirements",
+      "sha256": "6a883afe4c6d244aedd4ae8798a096a3c6227f7e045cdd6222d88edf57240a30",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-saxophone-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/trombone-audition-requirements.html#undergrad-trombone-requirements",
+      "sha256": "47bb479d295d9dfc705dcee2003610b5ad2d438d0f5acc38800d598894e5e2fa",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-trombone-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/trumpet-audition-requirements.html#undergrad-trumpet-requirements",
+      "sha256": "efdec478bcb4fa8bcfba826ba0978a2cf346f492a3e67c6e578a2369ab8468dc",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-trumpet-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/tuba-audition-requirements.html#undergrad-tuba-requirements",
+      "sha256": "5337739e8bac1faccda65ac20e2b7c1a81c9f8d320b3eafa516d2ba4f05b5458",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-tuba-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/viola-audition-requirements.html#undergrad-viola-requirements",
+      "sha256": "b79f2a350785cf7ab573371e1893855561fba160ef8dfe702aac29c374a4f44d",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-viola-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/violin-audition-requirements.html#undergrad-violin-requirements",
+      "sha256": "404f8dc6164b42bdc8ab242bf93069d49e61b42abff10edd069b7c852b99521c",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-violin-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.cmu.edu/cfa/music/apply/audition-portfolio-review/requirements-by-area/voice-audition-requirements.html#undergrad-voice-requirements",
+      "sha256": "deb759134cec1632fed579994ee7160389bade953b39737bda780d5e87e89bea",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/music-voice-audition-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.qatar.cmu.edu/academics/",
+      "sha256": "f8d1d3bc7abaa7b64b93fe8d4301db2a647c3420f81889c5f121ac339b065d97",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/doha-academics-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.qatar.cmu.edu/admission/how-to-apply/",
+      "sha256": "b6bd5f31f3bd2a2c3bdab38dc9d2c988df5d4ffa7c544fccc41713d4bf7e3d28",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/doha-apply-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.qatar.cmu.edu/academics/artificial-intelligence/",
+      "sha256": "55c10d84d2d3ddd099df9b8cea4c1a8449272396739992995e3921ddaee8b52b",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/doha-artificial-intelligence-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.qatar.cmu.edu/admission/early-decision/",
+      "sha256": "efd18e60090c48eaa5e1c7fb4080348e362f15e4e826bc34590c3aeca67f43a0",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/doha-ed-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.qatar.cmu.edu/admission/how-to-apply/english-language-proficiency/",
+      "sha256": "34fa1309aaaecb7e8d44eda9a13abf43cd6333e4f683a7d51f6eb14fdfc8f381",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/doha-english-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.qatar.cmu.edu/admission/tuition-and-financial-aid/",
+      "sha256": "59c520d6c2f1ba0224d4d750fbed549a2776c6a35da735b6277dc1070a3ca0db",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/doha-fees-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.qatar.cmu.edu/admission/how-to-apply/sat-or-act-testing/",
+      "sha256": "f50cc8b74fc9e127f2ff91030485d2f5d222eda55e13186319c10cb5cd1667ed",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/doha-tests-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.qatar.cmu.edu/academics/biological-sciences/",
+      "sha256": "bcc6a20ecdd0fdaafc9b56f81dd5bd663f8b8dc49417228b7b1a5c77d0977f46",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/doha-biological-sciences-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.qatar.cmu.edu/academics/business-administration/",
+      "sha256": "abf4a1116c2c45299043ca88493475717d8b99bbb4d5c939aafa2e672ab5c6e8",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/doha-business-administration-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.qatar.cmu.edu/academics/computer-science/",
+      "sha256": "0d7ce1c357e86d0207f17487be4f4257d8d69bf90c5dcc812838934cb8bf64f7",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/doha-computer-science-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.qatar.cmu.edu/academics/information-systems/",
+      "sha256": "4b93ddc225827142e027fcbeb292e3b2c416b34479b6753ea1f67ecacb5c6b16",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/doha-information-systems-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scs-concentrations/",
+      "sha256": "3945e812e4d4f076d84bcbdf92b053da15dc94b28b94847e45971c6ceeb549a5",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-schools-colleges-schoolofcomputerscience-scs-concentrations.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scs-concentrations/algorithms-complexity-concentration/",
+      "sha256": "cf950cff4872551986161317a179ca5478d7835fd9fa7b9e245d570769e2660a",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-schools-colleges-schoolofcomputerscience-scs-concentrations-algorithms-complexity-concentration.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scs-concentrations/computational-biology-concentration/",
+      "sha256": "9208e9a0fa963e1bf59adc35525ddb73779f133566ff12a66d1c83750693cbab",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-schools-colleges-schoolofcomputerscience-scs-concentrations-computational-biology-concentration.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scs-concentrations/computer-graphics-concentration/",
+      "sha256": "5c96fd9ea79f5f60b7ac3e468d09000b9bd93524c7ed1b1768442511d0f73126",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-schools-colleges-schoolofcomputerscience-scs-concentrations-computer-graphics-concentration.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scs-concentrations/computer-systems-concentration/",
+      "sha256": "284cf3631787b5d0219035a5431335369f88e1a7791de487a30ea2bb380fa9ef",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-schools-colleges-schoolofcomputerscience-scs-concentrations-computer-systems-concentration.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scs-concentrations/human-computer-interaction-concentration/",
+      "sha256": "8b495261fad1f8921df84b832d661ebce2fad82b24eea2cb1daaf6ce0341d66b",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-schools-colleges-schoolofcomputerscience-scs-concentrations-human-computer-interaction-concentration.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scs-concentrations/language-technologies-concentration/",
+      "sha256": "660cdb65a65ba9debd0e8a304b464d431532ba30a1722e2f5c11cded9385225c",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-schools-colleges-schoolofcomputerscience-scs-concentrations-language-technologies-concentration.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scs-concentrations/machine-learning-concentration/",
+      "sha256": "cc6d3c863da9e306436ad766a0c61d8255871bab2eb34ed75a465664b5a0fe82",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-schools-colleges-schoolofcomputerscience-scs-concentrations-machine-learning-concentration.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scs-concentrations/principles-programming-languages-concentration/",
+      "sha256": "2b324174f84150c37357945f9c8fec82b7d91276610dabd5b18d43cc842b5796",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-schools-colleges-schoolofcomputerscience-scs-concentrations-principles-programming-languages-concentration.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scs-concentrations/robotics-concentration/",
+      "sha256": "c7168d278072067ca86680fc2f2eb7aeb2ca523cdac0c7f0ff186fbb81f89325",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-schools-colleges-schoolofcomputerscience-scs-concentrations-robotics-concentration.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scs-concentrations/security-privacy-concentration/",
+      "sha256": "ed50999efc1dca3242bfc853aefe4c2547215c2477db065c8c30158e0b6087b2",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-schools-colleges-schoolofcomputerscience-scs-concentrations-security-privacy-concentration.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scs-concentrations/societal-computing-concentration/",
+      "sha256": "b43f080adeb90ec7acc1481d2657c039775fc580b8c3f210144cfe5c7cca9c3f",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-schools-colleges-schoolofcomputerscience-scs-concentrations-societal-computing-concentration.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scs-concentrations/software-engineering-concentration/",
+      "sha256": "57e774c228852c137131eae8e75cd46e51dfef631a3149199cd602f2b6b89e5a",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-schools-colleges-schoolofcomputerscience-scs-concentrations-software-engineering-concentration.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/computer-science-arts/cs-concentration/",
+      "sha256": "660d416e72eb5bf5eb1c9c0704c99ee31bc8820138190bcc7c374cddfb4391e9",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-computer-science-arts-cs-concentration.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-studies-arts/engineering-concentrations/",
+      "sha256": "c6ae34d9b27c9cc37686eb21d93f2c7ea4303e1b933a115851d8c01520549c37",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-engineering-studies-arts-engineering-concentrations.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-studies-arts/engineering-concentrations/biomedical-engineering/",
+      "sha256": "e3b61e5a946092a82d33559e37c6b3811c6e4e831078d1fa12b26715c8beac67",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-engineering-studies-arts-engineering-concentrations-biomedical-engineering.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-studies-arts/engineering-concentrations/chemical-engineering/",
+      "sha256": "7056fa0e56a00a498fae33b35bf02bf77baca8d53469db7698ff0ed956b4519e",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-engineering-studies-arts-engineering-concentrations-chemical-engineering.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-studies-arts/engineering-concentrations/civil-engineering/",
+      "sha256": "f284f7d10a3a8f53387453dcfebfca055627af1852e15aac5d5c6cf0fda86f8c",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-engineering-studies-arts-engineering-concentrations-civil-engineering.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-studies-arts/engineering-concentrations/electrical-computer-engineering/",
+      "sha256": "011525306950039adc63ec54c523157161c49334d08a63951e0736a43c0ae6d2",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-engineering-studies-arts-engineering-concentrations-electrical-computer-engineering.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-studies-arts/engineering-concentrations/environmental-engineering/",
+      "sha256": "e63027d29351825b38860ab8ffa841bdc494705f77a8cdae6a1c580dbb29c715",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-engineering-studies-arts-engineering-concentrations-environmental-engineering.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-studies-arts/engineering-concentrations/materials-science-engineering/",
+      "sha256": "74a5cfcbfb94a26b5fe29229d6a2fdfba7ade78768fb1b2ae0e8fb347ee1bb74",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-engineering-studies-arts-engineering-concentrations-materials-science-engineering.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-studies-arts/engineering-concentrations/mechanical-engineering/",
+      "sha256": "e61ad113a8c2d4c4894356f0ad7a6b402ae9dd250d6ff8e5ab1ab79903b2cbb6",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-engineering-studies-arts-engineering-concentrations-mechanical-engineering.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/",
+      "sha256": "7702e2a5abd2354175283f1d89c5e31cedd98946bbaabd6e3c08282403c67a59",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/anthropology/",
+      "sha256": "cb335ffc8bec2a9ddb29c5658a276120f8ff49711086d76d8130b330eea3889a",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-anthropology.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/behavioral-economics/",
+      "sha256": "30e1daa56e457f26d4205db8c306788a0ddaeed8543c258b44547971f776b696",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-behavioral-economics.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/cognitive-neuroscience/",
+      "sha256": "16243f9bf0a697f156e6411707d171b4ead6775f1345fd229cc98c7912ae3b28",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-cognitive-neuroscience.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/cognitive-science/",
+      "sha256": "f2eff16901ebba4bcf93f81a2862be5c293dd07800d7d50ae78cb4523104b5cf",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-cognitive-science.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/creative-writing/",
+      "sha256": "d3f5e0018e03d1bfb615bf0edabf4ddf55d2eb9b712f25eb24c747f131b0c59b",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-creative-writing.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/decision-science/",
+      "sha256": "b3755e73ec02053c8c25d727993f3a119cc30a92fac7765083acdc1c7d1c9fe3",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-decision-science.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/economics/",
+      "sha256": "30c733410ff8b6b919fbc39db55a4a6dc0e660841aca5245fc21e08a4c2774e4",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-economics.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/environmental-sustainability-studies/",
+      "sha256": "55fa201f4064199cc3142ad040ea8f4f5c5b1b4ad08b748c7899c05d29fd66f7",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-environmental-sustainability-studies.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/ethics-history-public-policy/",
+      "sha256": "1ec367615fd4edd0791729d0228b50a6054f5bb8ebc60f351ac00e8400fb801b",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-ethics-history-public-policy.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/film-visual-media/",
+      "sha256": "6e18780b15ebc9cc14bf9356a9ae39f2d4512408c8f3ca40114d98be58492a72",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-film-visual-media.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/global-cultures-emerging-technologies/",
+      "sha256": "e69aae362c3e84a0f34a4eef00ef45c6c66f72b0db37b4f63ef5183216a26933",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-global-cultures-emerging-technologies.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/history/",
+      "sha256": "96882f20977e887a43e27ceb8efbc4ac17c2abb9c3eeb14ab3003f3f3713dbc3",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-history.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/humanities-analytics/",
+      "sha256": "2dfc47459c08e5342e015084f8bdc847e623f1f665f4c4a5d8eb26efa9b8c4ed",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-humanities-analytics.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/information-systems/",
+      "sha256": "efdab0937b43ea621bf6d5e693790648e50238b53f44dc6cc2d6f1f5962f3f70",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-information-systems.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/international-relations-political-science/",
+      "sha256": "2d8274019598c2c33b0dfd129db89e9e55ee1e1df66c42c43bd6ee2cfb21a900",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-international-relations-political-science.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/languages-cultures/",
+      "sha256": "6fd962eacc454919f83a6964863f9f0f18713aa60110bd024bbaab7c449cbea8",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-languages-cultures.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/linguistics/",
+      "sha256": "20996e58cd9bfbb2ca3ed81be520178d6ce964e76e938adc22c1b4f20d72885b",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-linguistics.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/literature-culture/",
+      "sha256": "cbbf11bfd44a90e72f063312f85bac2bc12ed88a6f20e6c47cfc2fc4e0379d86",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-literature-culture.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/logic-computation/",
+      "sha256": "d72d35a26da2f8241f5339d39f1ef7aabfbca5a7165ebe0437db8171ce9be06c",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-logic-computation.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/philosophy/",
+      "sha256": "60510343a8d715972b46c047800c8d399a78129dfaf4a505a0e87c45b710c167",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-philosophy.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/policy-management/",
+      "sha256": "d5c87be6753af59c1eef89b487190573f21ec4baa6c90a89e09e94478819235c",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-policy-management.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/political-science-security-technology/",
+      "sha256": "ee012937dc850a6b021fb16abf0a00b878adf1084f362324d60d93172da2f300",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-political-science-security-technology.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/professional-writing/",
+      "sha256": "b5e9fe92b40eafbc34eb5efb41c8dcf2d4f90bedf3954a3fc4c4ef0da28ae77b",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-professional-writing.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/psychology/",
+      "sha256": "4de57bec74dea3471d6df95ae7af825691d942b7e65d28558b5a2312d0bf09ae",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-psychology.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/science-technology-society/",
+      "sha256": "68557f9cca97aa5d7ca42ee9e0ac696d3b1b6d218fc582e1413fe2769a9075d5",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-science-technology-society.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/statistics-data-science/",
+      "sha256": "c5151407315b9fce475dfefd6e3bd3ecc5ae47486c6cd2a452a37645954afd5c",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-statistics-data-science.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/statistics-machine-learning/",
+      "sha256": "5b20df7e1bf9a37f58d7add259658f9e5dca29700fb57a39c26203a8d97b1b0f",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-statistics-machine-learning.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/dc-concentrations/technical-writing/",
+      "sha256": "b6ec0539dc28ff4e5a1c39cf2961380ee6c8eae989667349711e6e44ab7ca88f",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-humanities-arts-dc-concentrations-technical-writing.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/science-arts/mcs-concentrations/",
+      "sha256": "3c5d7ce3d6699c6432f69254e3386116714aaf31f12cf360c14cbf52dc333253",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-science-arts-mcs-concentrations.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/science-arts/mcs-concentrations/biological-sciences/",
+      "sha256": "76beae070868932f81ff17dfb426f37cfa3b4bd5335107b30d6aa1453537959a",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-science-arts-mcs-concentrations-biological-sciences.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/science-arts/mcs-concentrations/chemistry/",
+      "sha256": "43138c1c7ea3194283d382940998e52570eb5689891d84f4353807bc15b46043",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-science-arts-mcs-concentrations-chemistry.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/science-arts/mcs-concentrations/environmental-sustainability-studies/",
+      "sha256": "decac54cba81468a4a74f71c8b1593abb70966c56d6945646ef5f141c3db291a",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-science-arts-mcs-concentrations-environmental-sustainability-studies.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/science-arts/mcs-concentrations/mathematical-sciences/",
+      "sha256": "6ee13c1d71ea17326a4f9b94ba045a00e9485041fefc7e6ea27377596df0e07f",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-science-arts-mcs-concentrations-mathematical-sciences.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/science-arts/mcs-concentrations/neurobiology/",
+      "sha256": "80368c6ca557eaf01ed2a6f140be2b853f472610dd6137ea4465c8ad5792db07",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-science-arts-mcs-concentrations-neurobiology.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/science-arts/mcs-concentrations/physics/",
+      "sha256": "7f02c03a52496c94ccbc10cc85f7160b61455ce27b1005a5c5bbd12488dde509",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-science-arts-mcs-concentrations-physics.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/cfa-concentrations/",
+      "sha256": "e7d6c5ed1436e3b789b8234a9a311fcac413f8a36349f76fcc8aac903ebc0d1a",
+      "raw_file": "scratch/full-catalog/cmu-enrichment/raw/route-intercollegeprograms-bxaintercollege-cfa-concentrations.html",
+      "locator": null
     }
   ]
 }

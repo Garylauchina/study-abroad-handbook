@@ -145,7 +145,7 @@ scratch忽略且不提交；data/.maintenance只保存可公开事实、来源�
 
 - 第九批提交31fa3585696f4d35b879a63d4d7ac31e60bd37e3已发布main；Actions34724462119 build/deploy均success。线上首页、catalog-index.json、大阪护理、新国大临床心理联合及高丽药学5页均HTTP200且逐字节等于本地；catalog SHA256 dca7a2cba04b5b430ddf77628dc7604010e1965b5ec4c9400a83b6cabc37ee25。Chrome线上大阪护理入学条件/费用与版式目视通过。证据scratch/full-catalog/release9-online-check.json与release9-browser/live-osaka-nursing.txt。
 
-## 第十批已整合，最终浏览器验收与发布进行中
+## 第十批已发布并完成线上验收
 
 - 台湾大学95、KAIST23、Brown217、Washington Seattle230、SNU112，共677条本批专业记录。全站16774条：36详细、16563部分专业、175学校共用；58校目录对账完整、38部分，更正页80。含内部方向、在读路径和专业阶段，不能当作16774个独立高中招生学位；全量详情尚未完成。
 - 台湾大学保留62旧ID，新增24内部组、1国际中文学士、8在读院/校学士。950份课程原文、507个来源URL+SHA闭合；root目视115学费/学则/学士后护理与生命科学院语言。大陆2027本科开放状态未取得；学士后护理2.5年、限本地身份、费用31050/学期另列，不套国际生日期。
@@ -157,3 +157,18 @@ scratch忽略且不提交；data/.maintenance只保存可公开事实、来源�
 - 下一批代理仅写scratch：CMU91及Doha/内部方向、Sheffield177及37成人LL路径、NTU Singapore104及NIE/工程经济双学位遗漏。Root已获取NTU2025 GES完整官方web原文，42组/41数字、医学2024届跟踪及合并组脚注交代理准确配对。
 
 - 最终strict185.26秒；16984HTML、951784内部引用、18955搜索条目、532.7MB全部通过。4研究/8 Node/2资产测试、来源/生成一致性、707文件隐私扫描及git diff通过；5个库存来源表保留相对scratch原文指针，网站和专业事实无此指针。Chrome目视修正后的台湾学士后本地费用标题、旧医学直达6年现行专业、UW护理108已知样本和分母、KAIST2026材料课程与390px半导体首屏。待提交发布。
+
+- 第十批提交3dfc7752eff86c1aa590b271fc64fa47d1f26e1d已发布main；Actions34727602848 build/deploy均success。线上首页、catalog-index.json、台大学士后护理、KAIST半导体、Brown/RISD、UW护理、SNU新医学与旧医学更正8页均HTTP200且逐字节等于本地；catalog SHA256 19b90db99183be823b3d5ed8fb893585c3291e29907dbd02acd432ebdebcacbd。Chrome线上台大学士后本地费用标题、2.5年与申请年度已目视。证据scratch/full-catalog/release10-online-check.json及release10-browser/live-taiwan-second-nursing.txt。
+
+## 第十一批资料复核进行中
+
+- NTU Singapore104旧＋13新已冻结；root完成主要资格/费用/GES分母及NIE停开独立核查，拟导入117。Sheffield177旧＋28内部方向待冻结；CMU91旧及具名内部/Doha路线继续去重。Root芝加哥60旧其中8补实质课程，20具名内部/BA/BS路径已送独立复核。代理只写scratch。
+
+- 第十一批四校本地已整合：NTU117、Sheffield205、UChicago80、CMU319。全站17063条，36详细、16939部分专业、88学校共用；56目录对账完整、40部分（CMU/UChicago因内部路线缺口由完整降部分），更正80。不是17063种独立高中招生学位。
+- NTU原104＋13新增，38更正、99来源核SHA；NIE停开/医疗服务费、附加数学、TG/医学6年约定、GES42组及合并分母root已核。第二主修与更多方向交下一批，当前partial。
+- Sheffield177＋28在读方向，372来源；root修28条UCAS字段混入学制文字、4方向继承详研映射问题。四个旧详细页重新同步课程/IB/2026参考费和2027政策，保留重新获取核验的G40260%/20/70%、L10190%/30/75%调查；工资CS33000/15/70%、经济30000/50/65%及新增EEE学科32000/20/70%各保留年度与合并层级。UOW语言与实际校园课页再核。A1002026-27 policy首页最后一年才能申请已目视，医学/牙科/成人身份、2027药学暂定认证及NHS计划边界分别保留。
+- UChicago60旧＋20新（Art7/CEGU3/DS4/LACS3/MENG3），65来源；8学校级缺口补实质课程。52旧事实保留补中文/4年/全学位规则与75960费用DOM。独立复核签名8c5848...后root补每主辅修一半驻校、改艺术史大三春最迟期限并删无据作品集比较、52旧学制未核句同步；拉美研究旧URL误指本硕改为正确普通本科页，8身份更正保稳定ID。
+- CMU91旧＋228新共319，199原文来源；新含5多哈BS及22方向、12SCS方向、42BXA学术组件、8共用艺术组件等，均不称228独立学位。Root核实际2027考试/日期/OIE费用、Directing停招/BXA不收Drama新生、Design/Art作品要求差异、BS/MS388与CS双学位450、BXA144/130等，修校级Home-Schooled/Cyber小节五月/七月材料时间误套普通中国高中。27多哈隔离五类美国规则，首屏明确卡塔尔实际地点。
+- 下批scratch：Boston194由agent核150，root接44本硕/BS-DPT；UTS358由agent复用正确322补缺口36并查目录；NTU补33现行second-major框架与30具名内部方向，数学由旧4track改核2026正式5specialisations。未修改产品前须另冻结与核验。
+
+- 第十一批最终核验：strict165.82秒；17273HTML、974898内部引用、19270搜索条目、545.8MB通过。8 Node/4研究/2资产测试（研究在最终数据后复跑）、来源及生成一致性、741文件隐私扫描、git diff通过。修17旧附加主修学位标签与BCSA中英标签，NTU来源标题CR正规化解决6页生成一致性。Chrome实际点击美国/CMU得319条、卡塔尔人工智能2条；目视多哈AI/导演停招/NTU戏剧停开、Sheffield旧EEE学科薪资边界、UChicago加勒比方向及390px多哈首屏。证据release11-browser与release11-*-final日志。待提交部署与线上等字节检查。

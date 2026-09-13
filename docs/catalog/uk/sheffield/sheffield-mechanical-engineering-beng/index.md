@@ -19,7 +19,7 @@ hide:
 
 <p class="program-title-en">Mechanical Engineering BEng</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>3 年</strong></div><div><span>国际生学费</span><strong>2027 专业金额本轮未取得</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027/28，9月</strong></div><div><span>学制</span><strong>3 年，全日制</strong></div><div><span>国际生学费</span><strong>2027/28待核；2026/27海外首年参考GBP 32,100</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>谢菲尔德校本部 · <strong>授课语言：</strong>英语</p>
 
@@ -27,115 +27,137 @@ hide:
 
 ## 专业说明 {#overview}
 
-### 课程与学制
+### 学位、UCAS与学制
 
-<p class="catalog-fact">2027 年 9 月入学，UCAS H302，BEng，全日制 3 年；课程提供可选实习年或海外学习机会，选择后需另核总学制。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-ME-COURSE">依据 1</a></p>
+<p class="catalog-fact">Mechanical Engineering BEng；UCAS H302；2027/28入学，9月开课，全日制3 年。</p>
+<p class="fact-sources"><a href="#source-SHE27-course-103">依据 1</a></p>
 
-### 学什么
+### 中文课程内容
 
-<p class="catalog-fact">前两年学习设计、数学、流体、动力学、热力学和材料力学；通过项目应用理论，第三年包含个人研究项目及专业选修。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-ME-COURSE">依据 1</a></p>
+<p class="catalog-fact">以秋春综合项目、工程科学和数学技能为基础，学习固体结构力学、动力学、振动控制及流体和推进问题。以上为官网课程示例，必修、选修与开课模块按当届课程表。</p>
+<p class="fact-sources"><a href="#source-SHE27-course-103">依据 1</a></p>
 
 ### 校区
 
 <p class="catalog-fact">谢菲尔德校本部。课程页说明多数本科讲座、实验或辅导课在The Diamond进行。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-ME-COURSE">依据 1</a></p>
+<p class="fact-sources"><a href="#source-SHE27-course-103">依据 1</a></p>
 
 ### 授课语言
 
 <p class="catalog-fact">英语。合作大学UOW的官方Sheffield交换资料明确列示英语授课；本课程英语入学标准另见下方。该语言来源为院校层面资料，非2027单专业规章。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-LANGUAGE-PARTNER">依据 8</a> · <a href="#source-UK-SHE-ME-COURSE">依据 1</a></p>
+<p class="fact-sources"><a href="#source-UK-SHE-LANGUAGE-PARTNER">依据 10</a> · <a href="#source-SHE27-course-103">依据 1</a></p>
 
 ## 入学条件 {#admissions}
 
-### 大陆普高／高考
+### 2027标准A-level要求
 
-<p class="catalog-fact">学校接受高考直入：AAA及以上课程校级总分门槛为满分75%；专业要求数学及一门科学，还须满足相应高考单科门槛。中国资格页未单列2027，本专业选科及A*单科换算本轮未核实。仅高中毕业证需认可预科。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-CHINA">依据 2</a> · <a href="#source-UK-SHE-ME-COURSE">依据 1</a></p>
+<p class="catalog-fact">A*AA 包括 数学和物理、化学、生物中至少一科</p>
+<p class="fact-sources"><a href="#source-SHE27-course-103">依据 1</a></p>
 
-### A-level 资格
+### IB替代资格
 
-<p class="catalog-fact">2027标准为 A*AA，含数学以及物理、化学、生物至少一门。另列 AAA（同样选科）加 AS 进阶数学 A 或 A-level 进阶数学 B 的替代组合。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-ME-COURSE">依据 1</a></p>
+<p class="catalog-fact">总分38、HL数学6，物理/化学/生物至少一科HL 6；或总分36并满足同样两科要求，加科学方向拓展论文A。HL为高阶、SL为标准阶；这是IB路径，不直接当作中国高中等级。</p>
+<p class="fact-sources"><a href="#source-SHE27-course-103">依据 1</a></p>
 
-### IB 资格
+### 课程英语
 
-<p class="catalog-fact">标准总分38，Higher Level数学及物理／化学／生物至少一门为6；另有总分36加科学类Extended Essay A等组合，按课程页完整条件核对。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-ME-COURSE">依据 1</a></p>
+<p class="catalog-fact">IELTS总分6.5、单项至少6.0。替代认可资格与有效期须合并核对学校英语政策。</p>
+<p class="fact-sources"><a href="#source-SHE27-course-103">依据 1</a></p>
 
-### 英语
+### 大陆高考申请衔接
 
-<p class="catalog-fact">IELTS 总分6.5，各单项至少6.0，或认可等效英语资格。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-ME-COURSE">依据 1</a></p>
+<p class="catalog-fact">按本课程标准A-level档，校级中国表对应高考总分至少75%。同时满足上述科目、英语和专业选拔；指定科目的具体等级组合及中国GCSE等值须由招生组核定。中国表未列A*单科映射。</p>
+<p class="fact-sources"><a href="#source-SHE27-policy-0">依据 2</a> · <a href="#source-SHE27-course-103">依据 1</a></p>
 
-### 预科路径
+### 中国高中与高考资格
 
-<p class="catalog-fact">课程页列 Sheffield International College 的 International Foundation Year in Science and Engineering；具体入读和升读成绩须另核预科规则。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-ME-COURSE">依据 1</a></p>
+<p class="catalog-fact">中国高中毕业证单独申请本科一年级，通常须先完成认可预科；高考可以用于本科直申。中国四年制本科完成第一年也可获本科一年级考虑，均须满足具体专业条件。</p>
+<p class="fact-sources"><a href="#source-SHE27-policy-0">依据 2</a></p>
+
+### 高考分档与科目
+
+<p class="catalog-fact">A-level AAA及以上、AAB–ABB、BBB–BBC分别对应高考总分至少75%、70%、65%。指定高考单科A/B/C对应75%/70%/65%；原文未列A*单科档或中国GCSE逐科等值表，须向招生组确认。医学等专业仍须另外核选拔条件。</p>
+<p class="fact-sources"><a href="#source-SHE27-policy-0">依据 2</a></p>
+
+### 其他中国路径
+
+<p class="catalog-fact">A-level至少三科或IB文凭可按课程标准申请；AST三科各200（含数学与英语）加高中毕业证总评75%的路径，只适用于文社科指定范围，排除BSc经济及其联合课程。USIC/NCUK衔接并非本校成人预科的同一种入口。</p>
+<p class="fact-sources"><a href="#source-SHE27-policy-0">依据 2</a></p>
+
+### 英语证明
+
+<p class="catalog-fact">国际本科一般IELTS总分6.5、单项6.0；逐课程要求可能更高。英语考试通常须在开课前两年内完成；接受IELTS Academic、UKVI Academic、Online和One Skill Retake，不接受General Training/Life Skills。</p>
+<p class="fact-sources"><a href="#source-SHE27-english-ug">依据 6</a></p>
+
+### 英语附条件录取
+
+<p class="catalog-fact">多数学院可以向申请时尚未满足英语条件者发附条件offer；仍须在开课前达到本专业英语要求，不是自动豁免。</p>
+<p class="fact-sources"><a href="#source-SHE27-policy-1">依据 7</a></p>
+
+### 中国大专与衔接后的入学年级
+
+<p class="catalog-fact">学校中国资格页另列三年制大专可获本科二年级考虑；NCUK International Year One达规定成绩后可申请一系列课程的二年级。实际专业匹配、临床限制和英语等条件仍须逐项核，不表示所有本科都接受相同年级转入。</p>
+<p class="fact-sources"><a href="#source-SHE27-policy-0">依据 2</a></p>
 
 ## 申请安排 {#applications}
 
-### 申请渠道
+### 2027申请与代码
 
-<p class="catalog-fact">通过UCAS申请；课程代码为H302。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-ME-COURSE">依据 1</a></p>
-
-### 2027 平等考虑截止
-
-<p class="catalog-fact">一般本科课程的UCAS平等考虑截止为2027年1月13日英国时间18:00；此后是否继续考虑申请取决于大学和剩余名额，不能把该日理解为保证录取或无限期开放。</p>
-<p class="fact-sources"><a href="#source-UK-UCAS-DEADLINE-2027">依据 6</a> · <a href="#source-UK-SHE-ME-COURSE">依据 1</a></p>
-
-### 当前周期状态
-
-<p class="catalog-fact">按2026年9月12日核验：2027入学申请已于2026年9月1日开放提交，平等考虑截止尚未到。此处日期均对应2027入学，不沿用2026入学截止。</p>
-<p class="fact-sources"><a href="#source-UK-UCAS-2027">依据 5</a></p>
+<p class="catalog-fact">经UCAS申请，代码H302；对应2027入学平等审理截止为2027年1月13日英国18:00。考试、作品集或面试还有单独条件；当前处于该申请周期。</p>
+<p class="fact-sources"><a href="#source-SHE27-course-103">依据 1</a> · <a href="#source-SHE27-policy-4">依据 3</a> · <a href="#source-SHE27-policy-5">依据 4</a></p>
 
 ## 学费与资助 {#fees}
 
-### 2027 国际生专业学费
+### 2026/27课程参考费
 
-<p class="catalog-fact">本轮未取得 H302 的准确国际生金额。课程页引导至收费查询入口，不应把全校费用区间当作本课程报价。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-ME-COURSE">依据 1</a> · <a href="#source-UK-SHE-LOOKUP">依据 3</a></p>
+<p class="catalog-fact">该课程官方费用组件列2026/27 Overseas第一年学费GBP 32,100，并提示2027/28课程金额未确认；不能将此数字标为2027/28或整学位总费。</p>
+<p class="fact-sources"><a href="#source-SHE27-fee-103">依据 5</a></p>
 
-### 后续年度
+### 2027/28海外本科费用政策
 
-<p class="catalog-fact">国际生保持同一课程时，学费按第一年金额固定；转专业、实习年及海外学习年另有收费规则。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-FEES">依据 4</a></p>
+<p class="catalog-fact">2027/28新入读全日制海外本科的一般年费范围为GBP 27,650–34,670，医学与牙科另计。同一课程通常保持首年的年度学费，转专业可能改变费率；本范围不是每个专业的确切报价。</p>
+<p class="fact-sources"><a href="#source-SHE27-policy-2">依据 8</a></p>
 
-### 2027 国际本科奖学金
+### 海外及实习年费用
 
-<p class="catalog-fact">符合条件可自动获每年£2,500学费减免，无需另申。须2027年9月入学、按overseas收费且自费，并在2027年6月2日英国16:00前将Sheffield设为firm或insurance；本课程不属于医学／牙医学排除项。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-SCHOLARSHIP-2027">依据 7</a></p>
+<p class="catalog-fact">官网说明2026/27及2027/28学年的海外学习年按正常全年费率15%计；2027/28入读学生的placement/industrial placement年按20%计。实际未来海外年费用须按当年记录核定，不能预设后续所有年度15%。</p>
+<p class="fact-sources"><a href="#source-SHE27-policy-2">依据 8</a></p>
 
-### 奖学金续领与叠加
+### 2027国际本科奖学金
 
-<p class="catalog-fact">之后年度须前一年均分至少60%并取得120学分；实习年和海外学习年不适用。除非明确允许，不得与大学其他奖学金或折扣叠加；也不得同时获得外部机构全额或部分资助，须全部偿还的贷款除外。贷款机构若另享大学折扣，只取较高优惠，不可叠加。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-SCHOLARSHIP-2027">依据 7</a></p>
+<p class="catalog-fact">符合条件的全日制、自费Overseas新生可自动获GBP 2,500/年、四年最高10,000的学费减免；须在2027年6月2日英国16:00前选为firm或insurance。续领须前一年均分≥60%且至少120学分。</p>
+<p class="fact-sources"><a href="#source-SHE27-policy-3">依据 9</a></p>
+
+### 奖学金例外
+
+<p class="catalog-fact">医学A100/A101、牙科A200、非USIC预科阶段、实习/海外年等不适用该奖学金；资助叠加、外部赞助、延期及非全日制也有限制。不能把全校奖学金自动套到每个基础衔接入口。</p>
+<p class="fact-sources"><a href="#source-SHE27-policy-3">依据 9</a></p>
 
 ## 毕业生情况 {#outcomes}
 
 ### 毕业方向
 
 <p class="catalog-fact">课程页列出的近期雇主包括 BAE Systems、Boeing、Dyson、EDF、Jaguar、McLaren、Siemens 等，涉及航空航天、交通、能源及制造领域；这些是去向实例，没有相应岗位占比。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-ME-COURSE">依据 1</a></p>
+<p class="fact-sources"><a href="#source-SHE27-course-103">依据 1</a></p>
 
 ### 统计边界
 
 <p class="catalog-fact">本轮未取得 H302 可核验的课程级毕业调查比例、样本与薪资。以上雇主和职业方向不能读成就业率，也没有单列中国大陆毕业生。</p>
-<p class="fact-sources"><a href="#source-UK-SHE-ME-COURSE">依据 1</a></p>
+<p class="fact-sources"><a href="#source-SHE27-course-103">依据 1</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
-资料核验：**2026-09-12**。课程招生年份与毕业调查年份分别记录；历史毕业结果不表示未来个人结果。
+资料核验：**2026-09-13**。课程招生年份与毕业调查年份分别记录；历史毕业结果不表示未来个人结果。
 
-<div class="catalog-source" id="source-UK-SHE-ME-COURSE"><span class="source-number">01</span><div><a href="https://sheffield.ac.uk/undergraduate/courses/2027/mechanical-engineering-beng">Mechanical Engineering BEng — 2027 entry ↗</a><p>2027课程与UCAS代码、学制、教学设施、A-level/IB/英语、申请渠道、费用状态和毕业方向；课程所在教学设施、UCAS申请渠道和课程代码</p><small>sheffield.ac.uk · 核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-UK-SHE-CHINA"><span class="source-number">02</span><div><a href="https://sheffield.ac.uk/international/entry-requirements/china">Sheffield 中国学历入学要求 ↗</a><p>校级高考直入、单科要求及普高毕业证预科路径；页面未标入学年度</p><small>sheffield.ac.uk · 核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-UK-SHE-LOOKUP"><span class="source-number">03</span><div><a href="https://tools.sheffield.ac.uk/fees/ug/">Sheffield 本科学费查询工具 ↗</a><p>专业收费查询入口；本次公开表格的数据请求返回空结果，未取得项目金额</p><small>tools.sheffield.ac.uk · 核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-UK-SHE-FEES"><span class="source-number">04</span><div><a href="https://sheffield.ac.uk/new-students/tuition-fees/undergraduate-overseas">Sheffield 国际生本科收费规则 ↗</a><p>2027/28 校级收费范围及同课程固定学费规则；不是专业准确报价</p><small>sheffield.ac.uk · 核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-UK-UCAS-2027"><span class="source-number">05</span><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS 2027 本科申请日期 ↗</a><p>2027 申请2026-09-01开放提交；一般课程2027-01-13英国18:00平等考虑截止；当前周期状态按核验日推导</p><small>www.ucas.com · 核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-UK-UCAS-DEADLINE-2027"><span class="source-number">06</span><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">UCAS 2027 一般本科平等考虑截止 ↗</a><p>2027-01-13英国18:00；晚于平等考虑截止的申请是否考虑取决于空位</p><small>www.ucas.com · 核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-UK-SHE-SCHOLARSHIP-2027"><span class="source-number">07</span><div><a href="https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-scholarship-2027">Sheffield International Undergraduate Scholarship 2027 ↗</a><p>2027每年£2,500学费减免；firm或insurance时限、自费国际生、进度及不可叠加条件</p><small>sheffield.ac.uk · 核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-UK-SHE-LANGUAGE-PARTNER"><span class="source-number">08</span><div><a href="https://www.uow.edu.au/student/study-overseas/explore-and-apply/exchange/unitedkingdom/university-of-sheffield/">UOW 官方 Sheffield 交换院校资料 ↗</a><p>合作大学官方资料明确Sheffield授课语言English；这是院校层面交换资料，非2027单专业语言规章</p><small>www.uow.edu.au · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-SHE27-course-103"><span class="source-number">01</span><div><a href="https://sheffield.ac.uk/undergraduate/courses/2027/mechanical-engineering-beng">Mechanical Engineering BEng | Undergraduate study | The University of Sheffield ↗</a><p>学位、UCAS与学制；中文课程内容；地点与语种边界；2027标准A-level要求；IB替代资格；课程英语；大陆高考申请衔接；2027申请与代码；专业职业与继续学习；专业调查缺口</p><small>sheffield.ac.uk · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-SHE27-policy-0"><span class="source-number">02</span><div><a href="https://sheffield.ac.uk/international/entry-requirements/china">Entry requirements for students from China | International students | The University of Sheffield ↗</a><p>中国高中与高考资格；高考分档与科目；其他中国路径</p><small>sheffield.ac.uk · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-SHE27-policy-4"><span class="source-number">03</span><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">2027 entry deadline for all undergraduate courses, except those with a 15 October deadline | UCAS ↗</a><p>2027 UCAS常规窗口</p><small>www.ucas.com · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-SHE27-policy-5"><span class="source-number">04</span><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">Dates and deadlines for uni applications | UCAS ↗</a><p>2027 UCAS常规窗口</p><small>www.ucas.com · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-SHE27-fee-103"><span class="source-number">05</span><div><a href="https://sheffield.ac.uk/api/course-fees/ug/MACU019/2027">Sheffield 官方课程学费查询（fee-103） ↗</a><p>2026/27课程参考费</p><small>sheffield.ac.uk · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-SHE27-english-ug"><span class="source-number">06</span><div><a href="https://sheffield.ac.uk/undergraduate/apply/english-language">English language requirements for undergraduates | Undergraduate study | The University of Sheffield ↗</a><p>英语证明</p><small>sheffield.ac.uk · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-SHE27-policy-1"><span class="source-number">07</span><div><a href="https://sheffield.ac.uk/international/entry-requirements/english-language-requirements">English language requirements | International students | The University of Sheffield ↗</a><p>英语附条件录取</p><small>sheffield.ac.uk · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-SHE27-policy-2"><span class="source-number">08</span><div><a href="https://sheffield.ac.uk/new-students/tuition-fees/undergraduate-overseas">Tuition fees for undergraduate overseas students | Support for new students | The University of Sheffield ↗</a><p>2027/28海外本科费用政策；海外及实习年费用</p><small>sheffield.ac.uk · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-SHE27-policy-3"><span class="source-number">09</span><div><a href="https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-scholarship-2027">International Undergraduate Scholarship 2027 | International students | The University of Sheffield ↗</a><p>2027国际本科奖学金；奖学金例外</p><small>sheffield.ac.uk · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-UK-SHE-LANGUAGE-PARTNER"><span class="source-number">10</span><div><a href="https://www.uow.edu.au/student/study-overseas/explore-and-apply/exchange/unitedkingdom/university-of-sheffield/">UOW 官方 Sheffield 交换院校资料 ↗</a><p>合作大学官方资料明确Sheffield授课语言English；这是院校层面交换资料，非2027单专业语言规章</p><small>www.uow.edu.au · 核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/sheffield/">← 返回谢菲尔德大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

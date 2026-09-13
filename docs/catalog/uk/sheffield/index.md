@@ -23,188 +23,216 @@ hide:
 
 ## 专业与申请资料
 
-177 个专业条目 · 4 个含详细资料 · 136 个补有专业资料 · 37 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+205 个专业条目 · 4 个含详细资料 · 201 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=sheffield#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-accounting-and-financial-management-5ee60aa710/">Accounting and Financial Management</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-accounting-and-financial-management-and-economics-2d96b1fc4c/">Accounting and Financial Management and Economics</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-aerospace-engineering-2ab05bfe45/">Aerospace Engineering</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-aerospace-engineering-fc81278471/">Aerospace Engineering</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-aerospace-engineering-with-a-foundation-year-91e58449ec/">Aerospace Engineering with a Foundation Year</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-aerospace-engineering-with-a-foundation-year-29a33e3aa3/">Aerospace Engineering with a Foundation Year</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-architectural-engineering-92f72b7e72/">Architectural Engineering</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-architecture-28886ba60e/">Architecture</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-architecture-and-landscape-7ff51c7a59/">Architecture and Landscape</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biochemistry-5332fa4f1e/">Biochemistry</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biochemistry-b82db8a738/">Biochemistry</a><small>MBiolSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biological-sciences-8d24cfe41f/">Biological Sciences</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biological-sciences-87579ddc54/">Biological Sciences</a><small>MBiolSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biological-sciences-with-foundation-year-bsc-cbb98f378a/">Biological Sciences with Foundation Year BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-engineering-cee6816192/">Biomedical Engineering</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-engineering-58c541523e/">Biomedical Engineering</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-engineering-with-a-foundation-year-c3b83f3ab0/">Biomedical Engineering with a Foundation Year</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-engineering-with-a-foundation-year-cfac043d97/">Biomedical Engineering with a Foundation Year</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-science-7f79065593/">Biomedical Science</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-science-68cd28168a/">Biomedical Science</a><small>MBiomedSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-science-with-foundation-year-bsc-fc3c6681a4/">Biomedical Science with Foundation Year BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-business-management-cff0522d1b/">Business Management</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-business-management-and-economics-1bc6c57e8b/">Business Management and Economics</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-business-management-and-modern-languages-cultures-08c5d97461/">Business Management and Modern Languages &amp; Cultures</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-business-management-with-foundation-year-ba-ae58836e58/">Business Management with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemical-engineering-5f9c0a62a0/">Chemical Engineering</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemical-engineering-4c72a9cb2a/">Chemical Engineering</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemical-engineering-with-a-foundation-year-7ec42dc558/">Chemical Engineering with a Foundation Year</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemical-engineering-with-a-foundation-year-ddfd740a47/">Chemical Engineering with a Foundation Year</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemistry-179048f7d6/">Chemistry</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemistry-498e6d83e1/">Chemistry</a><small>MChem · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemistry-with-biological-and-medicinal-chemistry-9dfca7ff61/">Chemistry with Biological and Medicinal Chemistry</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemistry-with-biological-and-medicinal-chemistry-1977799043/">Chemistry with Biological and Medicinal Chemistry</a><small>MChem · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-civil-engineering-af2af59885/">Civil Engineering</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-civil-engineering-with-a-foundation-year-378caeb432/">Civil Engineering with a Foundation Year</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-civil-and-structural-engineering-b7f64be0a1/">Civil and Structural Engineering</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-civil-and-structural-engineering-with-a-foundation-year-347fbaa7ce/">Civil and Structural Engineering with a Foundation Year</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-0048b50b59/">Computer Science</a><small>MComp · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-artificial-intelligence-5dd119e9fc/">Computer Science (Artificial Intelligence)</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-artificial-intelligence-dae900fd5e/">Computer Science (Artificial Intelligence)</a><small>MComp · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-artificial-intelligence-with-a-foundation-year-282b34a767/">Computer Science (Artificial Intelligence) with a Foundation Year</a><small>MComp · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-artificial-intelligence-with-a-foundation-year-2e852da869/">Computer Science (Artificial Intelligence) with a Foundation Year</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-software-engineering-65ca09c3df/">Computer Science (Software Engineering)</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-software-engineering-28a70d9352/">Computer Science (Software Engineering)</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-software-engineering-with-a-foundation-year-844a031557/">Computer Science (Software Engineering) with a Foundation Year</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-software-engineering-with-a-foundation-year-816e9b0cae/">Computer Science (Software Engineering) with a Foundation Year</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-accounting-and-financial-management-5ee60aa710/">会计与财务管理</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-accounting-and-financial-management-and-economics-2d96b1fc4c/">会计、财务管理与经济学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-aerospace-engineering-2ab05bfe45/">航空航天工程（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-aerospace-engineering-fc81278471/">航空航天工程</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-aerospace-engineering-with-a-foundation-year-91e58449ec/">航空航天工程（含理工基础年）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-aerospace-engineering-with-a-foundation-year-29a33e3aa3/">航空航天工程（含理工基础年）（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-architectural-engineering-92f72b7e72/">建筑工程（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-architecture-28886ba60e/">建筑学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-architecture-and-landscape-7ff51c7a59/">建筑学与景观</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biochemistry-5332fa4f1e/">生物化学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biochemistry-b82db8a738/">生物化学（MBiolSci本硕一体）</a><small>MBiolSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biological-sciences-8d24cfe41f/">生物科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biological-sciences-87579ddc54/">生物科学（MBiolSci本硕一体）</a><small>MBiolSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biological-sciences-with-foundation-year-bsc-cbb98f378a/">生物科学（成人基础衔接）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-engineering-cee6816192/">生物医学工程</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-engineering-58c541523e/">生物医学工程（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-engineering-with-a-foundation-year-c3b83f3ab0/">生物医学工程（含理工基础年）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-engineering-with-a-foundation-year-cfac043d97/">生物医学工程（含理工基础年）（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-science-7f79065593/">生物医学科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-science-68cd28168a/">生物医学科学（MBiomedSci本硕一体）</a><small>MBiomedSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-science-with-foundation-year-bsc-fc3c6681a4/">生物医学科学（成人基础衔接）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-business-management-cff0522d1b/">工商管理</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-business-management-and-economics-1bc6c57e8b/">工商管理与经济学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-business-management-and-modern-languages-cultures-08c5d97461/">工商管理与现代语言及文化</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-business-management-with-foundation-year-ba-ae58836e58/">工商管理（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemical-engineering-5f9c0a62a0/">化学工程</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemical-engineering-4c72a9cb2a/">化学工程（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemical-engineering-with-a-foundation-year-7ec42dc558/">化学工程（含理工基础年）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemical-engineering-with-a-foundation-year-ddfd740a47/">化学工程（含理工基础年）（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemistry-179048f7d6/">化学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemistry-498e6d83e1/">化学（MChem本硕一体）</a><small>MChem · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemistry-with-biological-and-medicinal-chemistry-9dfca7ff61/">化学（生物与药物化学）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-chemistry-with-biological-and-medicinal-chemistry-1977799043/">化学（生物与药物化学）（MChem本硕一体）</a><small>MChem · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-civil-engineering-af2af59885/">土木工程</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-civil-engineering-with-a-foundation-year-378caeb432/">土木工程（含理工基础年）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-civil-and-structural-engineering-b7f64be0a1/">土木与结构工程（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-civil-and-structural-engineering-with-a-foundation-year-347fbaa7ce/">土木与结构工程（含理工基础年）（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-0048b50b59/">计算机科学（MComp本硕一体）</a><small>MComp · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-artificial-intelligence-5dd119e9fc/">计算机科学（人工智能）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-artificial-intelligence-dae900fd5e/">计算机科学（人工智能）（MComp本硕一体）</a><small>MComp · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-artificial-intelligence-with-a-foundation-year-282b34a767/">计算机科学（人工智能）（含理工基础年）（MComp本硕一体）</a><small>MComp · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-artificial-intelligence-with-a-foundation-year-2e852da869/">计算机科学（人工智能）（含理工基础年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-software-engineering-65ca09c3df/">计算机科学（软件工程）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-software-engineering-28a70d9352/">计算机科学（软件工程）（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-software-engineering-with-a-foundation-year-844a031557/">计算机科学（软件工程）（含理工基础年）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-software-engineering-with-a-foundation-year-816e9b0cae/">计算机科学（软件工程）（含理工基础年）（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-bsc/">计算机科学</a><small>Computer Science BSc · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-with-a-foundation-year-dcfca5f89e/">Computer Science with a Foundation Year</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-with-a-foundation-year-31a9fae62f/">Computer Science with a Foundation Year</a><small>MComp · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-systems-engineering-d2454750b5/">Computer Systems Engineering</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-systems-engineering-1166ca1156/">Computer Systems Engineering</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-systems-engineering-with-a-foundation-year-be966645bc/">Computer Systems Engineering with a Foundation Year</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-systems-engineering-with-a-foundation-year-dab421743a/">Computer Systems Engineering with a Foundation Year</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-criminology-51458f5d24/">Criminology</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-criminology-with-foundation-year-ba-399473115e/">Criminology with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-data-science-5c3f654369/">Data Science</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-dental-hygiene-and-dental-therapy-cd0d8c9963/">Dental Hygiene and Dental Therapy</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-dental-surgery-7bdd86c7e6/">Dental Surgery</a><small>BDS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-digital-media-and-society-ec48c820c1/">Digital Media and Society</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-east-asian-studies-3e179a5f59/">East Asian Studies</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-east-asian-studies-with-foundation-year-ba-603dcba869/">East Asian Studies with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-economics-1a39a8b7dd/">Economics</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-economics-bsc/">经济学</a><small>Economics BSc · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-economics-and-mathematics-911b117fce/">Economics and Mathematics</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-economics-and-politics-30e8ccb4b5/">Economics and Politics</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-economics-with-finance-cf73d38fc5/">Economics with Finance</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-education-and-psychology-18f2df8435/">Education and Psychology</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-and-electronic-engineering-5f1e7cff5f/">Electrical and Electronic Engineering</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-with-a-foundation-year-dcfca5f89e/">计算机科学（含理工基础年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-with-a-foundation-year-31a9fae62f/">计算机科学（含理工基础年）（MComp本硕一体）</a><small>MComp · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-systems-engineering-d2454750b5/">计算机系统工程</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-systems-engineering-1166ca1156/">计算机系统工程（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-systems-engineering-with-a-foundation-year-be966645bc/">计算机系统工程（含理工基础年）（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-systems-engineering-with-a-foundation-year-dab421743a/">计算机系统工程（含理工基础年）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-ai-systems-e5141b80e6/">计算机系统工程—人工智能系统方向</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-ai-systems-236a34fe0c/">计算机系统工程（MEng本硕一体）—人工智能系统方向</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-microelectronics-53be21aeb3/">计算机系统工程—微电子方向</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-microelectronics-e6a03ff456/">计算机系统工程（MEng本硕一体）—微电子方向</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-criminology-51458f5d24/">犯罪学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-criminology-with-foundation-year-ba-399473115e/">犯罪学（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-data-science-5c3f654369/">数据科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-dental-hygiene-and-dental-therapy-cd0d8c9963/">牙科卫生与牙科治疗</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-dental-surgery-7bdd86c7e6/">牙科医学</a><small>BDS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-digital-media-and-society-ec48c820c1/">数字媒体与社会</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-east-asian-studies-3e179a5f59/">东亚研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-east-asian-studies-with-foundation-year-ba-603dcba869/">东亚研究（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-economics-1a39a8b7dd/">经济学（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-economics-bsc/">经济学（理学学士）</a><small>Economics BSc · 含详细资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-economics-and-mathematics-911b117fce/">经济学与数学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-economics-and-politics-30e8ccb4b5/">经济学与政治学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-economics-with-finance-cf73d38fc5/">经济学与金融</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-education-and-psychology-18f2df8435/">教育与心理学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-and-electronic-engineering-5f1e7cff5f/">电气与电子工程（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-electronic-engineering-beng/">电气与电子工程</a><small>Electrical and Electronic Engineering BEng · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-and-electronic-engineering-with-a-foundation-year-f98348f926/">Electrical and Electronic Engineering with a Foundation Year</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-and-electronic-engineering-with-a-foundation-year-d924621790/">Electrical and Electronic Engineering with a Foundation Year</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-language-and-linguistics-46fb9a1645/">English Language and Linguistics</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-language-and-linguistics-with-foundation-year-ba-b1dc24edb4/">English Language and Linguistics with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-language-and-literature-71787a31e7/">English Language and Literature</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-language-and-literature-with-foundation-year-ba-8bc4584e1d/">English Language and Literature with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-literature-a232f0696a/">English Literature</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-literature-with-foundation-year-ba-262c3353f2/">English Literature with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-and-history-4416823208/">English and History</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-and-history-with-foundation-year-ba-eb500d316a/">English and History with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-and-modern-languages-cultures-443cc9e113/">English and Modern Languages &amp; Cultures</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-and-music-5f6654628c/">English and Music</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-and-philosophy-33a9f681d7/">English and Philosophy</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-and-philosophy-with-foundation-year-ba-bee84451d8/">English and Philosophy with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-environmental-science-2c832c7faf/">Environmental Science</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-environmental-science-with-foundation-year-bsc-ef20c936f8/">Environmental Science with Foundation Year BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-financial-mathematics-4176187d64/">Financial Mathematics</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-general-engineering-26e5477dd0/">General Engineering</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-general-engineering-e3ba46be2e/">General Engineering</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-general-engineering-with-a-foundation-year-f66e8d39f5/">General Engineering with a Foundation Year</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-general-engineering-with-a-foundation-year-692bfeedd7/">General Engineering with a Foundation Year</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-geography-1d11f6b454/">Geography</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-geography-40902bbfb5/">Geography</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-geography-and-planning-5c1944c6fe/">Geography and Planning</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-geography-and-planning-with-foundation-year-ba-fec2d19cd0/">Geography and Planning with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-geography-with-foundation-year-ba-b6eae9d500/">Geography with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-geography-with-foundation-year-bsc-477fbf3e3f/">Geography with Foundation Year BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-global-sustainable-development-72c901051c/">Global Sustainable Development</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-global-sustainable-development-with-foundation-year-ba-64a8e7b9ba/">Global Sustainable Development with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-graduate-entry-medicine-205c871b04/">Graduate Entry Medicine</a><small>MBChB · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-e5db29a845/">History</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-and-modern-languages-cultures-00db8028f2/">History and Modern Languages &amp; Cultures</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-and-modern-languages-and-cultures-with-foundation-year-ba-562336fc66/">History and Modern Languages and Cultures with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-and-philosophy-1d89b67b5c/">History and Philosophy</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-and-philosophy-with-foundation-year-ba-564c98b13f/">History and Philosophy with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-and-politics-63b65a3582/">History and Politics</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-and-politics-with-foundation-year-ba-b928b1b839/">History and Politics with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-with-foundation-year-ba-fcd38db984/">History with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-journalism-studies-938e72f7cd/">Journalism Studies</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-journalism-studies-with-foundation-year-ba-70c936b631/">Journalism Studies with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-landscape-architecture-e8d4543029/">Landscape Architecture</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-landscape-architecture-5f4fb72285/">Landscape Architecture</a><small>MLA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-landscape-architecture-with-foundation-year-ba-a7291bc522/">Landscape Architecture with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-landscape-architecture-with-foundation-year-mla-e38c351010/">Landscape Architecture with Foundation Year MLA</a><small>MLA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-law-2d606b14eb/">Law</a><small>LLB · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-law-european-and-international-1dcd86fc89/">Law (European and International)</a><small>LLB · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-law-and-criminology-f3ebe2de0b/">Law and Criminology</a><small>LLB · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-law-with-foundation-year-llb-bdf651a2d6/">Law with Foundation Year LLB</a><small>LLB · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-linguistics-and-modern-languages-cultures-18432c0829/">Linguistics and Modern Languages &amp; Cultures</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-materials-science-and-engineering-a498c29ca5/">Materials Science and Engineering</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-materials-science-and-engineering-cec3eb3638/">Materials Science and Engineering</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-materials-science-and-engineering-with-a-foundation-year-b6382eea7e/">Materials Science and Engineering with a Foundation Year</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-materials-science-and-engineering-with-a-foundation-year-9cd6a57f6f/">Materials Science and Engineering with a Foundation Year</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mathematics-b3ff9a2ce6/">Mathematics</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mathematics-5f10094d6f/">Mathematics</a><small>MMath · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mathematics-and-philosophy-4d136e999c/">Mathematics and Philosophy</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechanical-engineering-35a8cb7f4f/">Mechanical Engineering</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-and-electronic-engineering-with-a-foundation-year-f98348f926/">电气与电子工程（含理工基础年）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-and-electronic-engineering-with-a-foundation-year-d924621790/">电气与电子工程（含理工基础年）（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-8be07c2c2d/">电气与电子工程—电气方向</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-f265f12fb8/">电气与电子工程（MEng本硕一体）—电气方向</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-and-electronic-57eb7b1cd6/">电气与电子工程—电气与电子方向</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-and-electronic-3d15a5964a/">电气与电子工程（MEng本硕一体）—电气与电子方向</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electronic-and-communication-926ad54135/">电气与电子工程—电子与通信方向</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electronic-and-communication-3132ff867f/">电气与电子工程（MEng本硕一体）—电子与通信方向</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electronic-and-semiconductor-d1b609132b/">电气与电子工程—电子与半导体方向</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electronic-and-semiconductor-a12de57f53/">电气与电子工程（MEng本硕一体）—电子与半导体方向</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-language-and-linguistics-46fb9a1645/">英语语言与语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-language-and-linguistics-with-foundation-year-ba-b1dc24edb4/">英语语言与语言学（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-language-and-literature-71787a31e7/">英语语言与文学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-language-and-literature-with-foundation-year-ba-8bc4584e1d/">英语语言与文学（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-literature-a232f0696a/">英语文学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-literature-with-foundation-year-ba-262c3353f2/">英语文学（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-and-history-4416823208/">英语与历史</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-and-history-with-foundation-year-ba-eb500d316a/">英语与历史（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-and-modern-languages-cultures-443cc9e113/">英语与现代语言及文化</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-and-music-5f6654628c/">英语与音乐</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-and-philosophy-33a9f681d7/">英语与哲学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-english-and-philosophy-with-foundation-year-ba-bee84451d8/">英语与哲学（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-environmental-science-2c832c7faf/">环境科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-environmental-science-with-foundation-year-bsc-ef20c936f8/">环境科学（成人基础衔接）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-financial-mathematics-4176187d64/">金融数学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-general-engineering-26e5477dd0/">综合工程</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-general-engineering-e3ba46be2e/">综合工程（MEng (Hons)本硕一体）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-general-engineering-with-a-foundation-year-f66e8d39f5/">综合工程（含理工基础年）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-general-engineering-with-a-foundation-year-692bfeedd7/">综合工程（含理工基础年）（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-e25b7141e1/">综合工程—生物医学方向</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-5f4b44df7a/">综合工程（MEng (Hons)本硕一体）—生物医学方向</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-civil-structural-df4e34868f/">综合工程—土木与结构方向</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-civil-structural-5489851049/">综合工程（MEng (Hons)本硕一体）—土木与结构方向</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-software-855a656a38/">综合工程—电气与软件方向</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-software-e34595d918/">综合工程（MEng (Hons)本硕一体）—电气与软件方向</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-energy-sustainability-98f5d30f4d/">综合工程—能源与可持续发展方向</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-energy-sustainability-2e7344e1fe/">综合工程（MEng (Hons)本硕一体）—能源与可持续发展方向</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-general-356e80ed43/">综合工程—综合工程方向</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-general-500dda81a3/">综合工程（MEng (Hons)本硕一体）—综合工程方向</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechanical-aerospace-590d394ce5/">综合工程—机械与航空航天方向</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechanical-aerospace-3a3153eaee/">综合工程（MEng (Hons)本硕一体）—机械与航空航天方向</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-geography-1d11f6b454/">地理学（理学学士）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-geography-40902bbfb5/">地理学（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-geography-and-planning-5c1944c6fe/">地理与规划</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-geography-and-planning-with-foundation-year-ba-fec2d19cd0/">地理与规划（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-geography-with-foundation-year-ba-b6eae9d500/">地理学（文学学士）（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-geography-with-foundation-year-bsc-477fbf3e3f/">地理学（理学学士）（成人基础衔接）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-global-sustainable-development-72c901051c/">全球可持续发展</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-global-sustainable-development-with-foundation-year-ba-64a8e7b9ba/">全球可持续发展（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-graduate-entry-medicine-205c871b04/">医学（毕业生入学）</a><small>MBChB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-e5db29a845/">历史学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-and-modern-languages-cultures-00db8028f2/">历史与现代语言及文化</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-and-modern-languages-and-cultures-with-foundation-year-ba-562336fc66/">历史与现代语言及文化（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-and-philosophy-1d89b67b5c/">历史与哲学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-and-philosophy-with-foundation-year-ba-564c98b13f/">历史与哲学（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-and-politics-63b65a3582/">历史与政治学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-and-politics-with-foundation-year-ba-b928b1b839/">历史与政治学（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-history-with-foundation-year-ba-fcd38db984/">历史学（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-journalism-studies-938e72f7cd/">新闻学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-journalism-studies-with-foundation-year-ba-70c936b631/">新闻学（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-landscape-architecture-e8d4543029/">景观建筑学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-landscape-architecture-5f4fb72285/">景观建筑学（MLA本硕一体）</a><small>MLA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-landscape-architecture-with-foundation-year-ba-a7291bc522/">景观建筑学（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-landscape-architecture-with-foundation-year-mla-e38c351010/">景观建筑学（成人基础衔接）</a><small>MLA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-law-2d606b14eb/">法学</a><small>LLB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-law-european-and-international-1dcd86fc89/">法学（欧洲与国际法）</a><small>LLB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-law-and-criminology-f3ebe2de0b/">法学与犯罪学</a><small>LLB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-law-with-foundation-year-llb-bdf651a2d6/">法学（成人基础衔接）</a><small>LLB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-linguistics-and-modern-languages-cultures-18432c0829/">语言学与现代语言及文化</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-materials-science-and-engineering-a498c29ca5/">材料科学与工程（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-materials-science-and-engineering-cec3eb3638/">材料科学与工程</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-materials-science-and-engineering-with-a-foundation-year-b6382eea7e/">材料科学与工程（含理工基础年）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-materials-science-and-engineering-with-a-foundation-year-9cd6a57f6f/">材料科学与工程（含理工基础年）（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mathematics-b3ff9a2ce6/">数学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mathematics-5f10094d6f/">数学（MMath本硕一体）</a><small>MMath · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mathematics-and-philosophy-4d136e999c/">数学与哲学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechanical-engineering-35a8cb7f4f/">机械工程（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechanical-engineering-beng/">机械工程</a><small>Mechanical Engineering BEng · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechanical-engineering-with-a-foundation-year-1ea2f2c030/">Mechanical Engineering with a Foundation Year</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechanical-engineering-with-a-foundation-year-bf6d4bfcbb/">Mechanical Engineering with a Foundation Year</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechatronic-and-robotic-engineering-4a296cfdb2/">Mechatronic and Robotic Engineering</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechatronic-and-robotic-engineering-4cec074b2b/">Mechatronic and Robotic Engineering</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechatronic-and-robotic-engineering-with-a-foundation-year-949d5624f2/">Mechatronic and Robotic Engineering with a Foundation Year</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechatronic-and-robotic-engineering-with-a-foundation-year-fbadbdb587/">Mechatronic and Robotic Engineering with a Foundation Year</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-medicine-6a2cfc6731/">Medicine</a><small>MBChB · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-modern-languages-and-cultures-a0a9a1e7a1/">Modern Languages and Cultures</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-modern-languages-and-cultures-with-foundation-year-ba-d1579b6374/">Modern Languages and Cultures with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-music-2994ac5de2/">Music</a><small>BMus · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-music-and-east-asian-studies-d452203f32/">Music and East Asian Studies</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-music-and-modern-languages-cultures-601ad89947/">Music and Modern Languages &amp; Cultures</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-music-with-foundation-year-bmus-ea8ad5c7c9/">Music with Foundation Year BMus</a><small>BMus · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-nursing-adult-d6e3802b1a/">Nursing (Adult)</a><small>BMedSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-nursing-adult-with-foundation-year-bmedsci-7d5343da3f/">Nursing (Adult) with Foundation Year BMedSci</a><small>BMedSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-orthoptics-81c7817a9f/">Orthoptics</a><small>BMedSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-orthoptics-with-foundation-year-bmedsci-60ac377bd8/">Orthoptics with Foundation Year BMedSci</a><small>BMedSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-pharmacy-1510ac48eb/">Pharmacy</a><small>MPharm · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-pharmacy-with-preparatory-year-mpharm-a338b72eee/">Pharmacy with Preparatory Year MPharm</a><small>MPharm · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-philosophy-dd78748630/">Philosophy</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-philosophy-with-foundation-year-ba-21971cdee5/">Philosophy with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-philosophy-politics-and-economics-4c35dacad6/">Philosophy, Politics and Economics</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-philosophy-religion-and-ethics-112595e6df/">Philosophy, Religion and Ethics</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-philosophy-religion-and-ethics-with-foundation-year-ba-ffd4589c47/">Philosophy, Religion and Ethics with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-physics-01c862e474/">Physics</a><small>MPhys · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-physics-89686d7bc8/">Physics</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-physics-and-astrophysics-06ceea76e7/">Physics and Astrophysics</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-physics-and-astrophysics-ccc2eb0a8a/">Physics and Astrophysics</a><small>MPhys · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-physics-with-a-foundation-year-12e6ac1d81/">Physics with a Foundation Year</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-physics-with-a-foundation-year-04064b1ab9/">Physics with a Foundation Year</a><small>MPhys · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-politics-and-international-relations-34bc7546e1/">Politics and International Relations</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-politics-and-international-relations-with-foundation-year-ba-01defc0c97/">Politics and International Relations with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-politics-and-modern-languages-cultures-4a7ec8c653/">Politics and Modern Languages &amp; Cultures</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-politics-and-philosophy-f43f156bae/">Politics and Philosophy</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-politics-and-philosophy-with-foundation-year-ba-c846914721/">Politics and Philosophy with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-politics-and-sociology-5531dfaf01/">Politics and Sociology</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-psychology-9439cac59c/">Psychology</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-psychology-with-foundation-year-bsc-2e0eb97e11/">Psychology with Foundation Year BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-social-sciences-e126cfdc25/">Social Sciences</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-social-sciences-with-foundation-year-ba-b7bac72c8e/">Social Sciences with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-sociology-61e761ab17/">Sociology</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-sociology-with-foundation-year-ba-09e7caa5a3/">Sociology with Foundation Year BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-speech-and-language-therapy-f309efcb28/">Speech and Language Therapy</a><small>BMedSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-speech-and-language-therapy-with-foundation-year-bmedsci-831e5b943e/">Speech and Language Therapy with Foundation Year BMedSci</a><small>BMedSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-theoretical-physics-3557920a17/">Theoretical Physics</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-theoretical-physics-0f3b2a14d2/">Theoretical Physics</a><small>MPhys · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-urban-planning-79f23cfd0b/">Urban Planning</a><small>MPlan(UG) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-urban-planning-with-foundation-year-mplan-a4d3255586/">Urban Planning with Foundation Year MPlan</a><small>MPlan · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-zoology-77e74b9885/">Zoology</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-zoology-041b9c9797/">Zoology</a><small>MBiolSci · 部分专业资料已核实</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechanical-engineering-with-a-foundation-year-1ea2f2c030/">机械工程（含理工基础年）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechanical-engineering-with-a-foundation-year-bf6d4bfcbb/">机械工程（含理工基础年）（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechatronic-and-robotic-engineering-4a296cfdb2/">机电与机器人工程（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechatronic-and-robotic-engineering-4cec074b2b/">机电与机器人工程</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechatronic-and-robotic-engineering-with-a-foundation-year-949d5624f2/">机电与机器人工程（含理工基础年）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechatronic-and-robotic-engineering-with-a-foundation-year-fbadbdb587/">机电与机器人工程（含理工基础年）（MEng本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-control-c24b8a7615/">机电与机器人工程（MEng本硕一体）—控制方向</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-control-b89061312e/">机电与机器人工程—控制方向</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechatronics-and-robotics-dca84aba6e/">机电与机器人工程（MEng本硕一体）—机电与机器人方向</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechatronics-and-robotics-1b82d13153/">机电与机器人工程—机电与机器人方向</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-medicine-6a2cfc6731/">医学</a><small>MBChB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-modern-languages-and-cultures-a0a9a1e7a1/">现代语言及文化</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-modern-languages-and-cultures-with-foundation-year-ba-d1579b6374/">现代语言及文化（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-music-2994ac5de2/">音乐</a><small>BMus · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-music-and-east-asian-studies-d452203f32/">音乐与东亚研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-music-and-modern-languages-cultures-601ad89947/">音乐与现代语言及文化</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-music-with-foundation-year-bmus-ea8ad5c7c9/">音乐（成人基础衔接）</a><small>BMus · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-nursing-adult-d6e3802b1a/">成人护理</a><small>BMedSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-nursing-adult-with-foundation-year-bmedsci-7d5343da3f/">成人护理（成人基础衔接）</a><small>BMedSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-orthoptics-81c7817a9f/">视轴矫正学</a><small>BMedSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-orthoptics-with-foundation-year-bmedsci-60ac377bd8/">视轴矫正学（成人基础衔接）</a><small>BMedSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-pharmacy-1510ac48eb/">药学（MPharm本硕一体）</a><small>MPharm · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-pharmacy-with-preparatory-year-mpharm-a338b72eee/">药学（药剂技术员预备年）</a><small>MPharm · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-philosophy-dd78748630/">哲学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-philosophy-with-foundation-year-ba-21971cdee5/">哲学（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-philosophy-politics-and-economics-4c35dacad6/">哲学、政治学与经济学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-philosophy-religion-and-ethics-112595e6df/">哲学、宗教与伦理</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-philosophy-religion-and-ethics-with-foundation-year-ba-ffd4589c47/">哲学、宗教与伦理（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-physics-01c862e474/">物理学（MPhys本硕一体）</a><small>MPhys · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-physics-89686d7bc8/">物理学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-physics-and-astrophysics-06ceea76e7/">物理与天体物理</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-physics-and-astrophysics-ccc2eb0a8a/">物理与天体物理（MPhys本硕一体）</a><small>MPhys · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-physics-with-a-foundation-year-12e6ac1d81/">物理学（含理工基础年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-physics-with-a-foundation-year-04064b1ab9/">物理学（含理工基础年）（MPhys本硕一体）</a><small>MPhys · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-politics-and-international-relations-34bc7546e1/">政治学与国际关系</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-politics-and-international-relations-with-foundation-year-ba-01defc0c97/">政治学与国际关系（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-politics-and-modern-languages-cultures-4a7ec8c653/">政治学与现代语言及文化</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-politics-and-philosophy-f43f156bae/">政治学与哲学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-politics-and-philosophy-with-foundation-year-ba-c846914721/">政治学与哲学（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-politics-and-sociology-5531dfaf01/">政治学与社会学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-psychology-9439cac59c/">心理学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-psychology-with-foundation-year-bsc-2e0eb97e11/">心理学（成人基础衔接）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-social-sciences-e126cfdc25/">社会科学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-social-sciences-with-foundation-year-ba-b7bac72c8e/">社会科学（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-sociology-61e761ab17/">社会学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-sociology-with-foundation-year-ba-09e7caa5a3/">社会学（成人基础衔接）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-speech-and-language-therapy-f309efcb28/">言语与语言治疗</a><small>BMedSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-speech-and-language-therapy-with-foundation-year-bmedsci-831e5b943e/">言语与语言治疗（成人基础衔接）</a><small>BMedSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-theoretical-physics-3557920a17/">理论物理</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-theoretical-physics-0f3b2a14d2/">理论物理（MPhys本硕一体）</a><small>MPhys · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-urban-planning-79f23cfd0b/">城市规划（MPlan(UG)本硕一体）</a><small>MPlan(UG) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-urban-planning-with-foundation-year-mplan-a4d3255586/">城市规划（成人基础衔接）</a><small>MPlan · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-zoology-77e74b9885/">动物学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-zoology-041b9c9797/">动物学（MBiolSci本硕一体）</a><small>MBiolSci · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -212,50 +240,448 @@ hide:
 
 ### 入学条件
 
-<p class="catalog-fact"><strong>高考对应分档：</strong>A-level AAA及以上／AAB–ABB／BBB–BBC分别对应高考总分75%／70%／65%；指定科目A／B／C分别对应75%／70%／65%。高中毕业证单独通常需先修认可预科。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-5c93e5b036e1eb">官方依据</a></p>
+<p class="catalog-fact"><strong>中国高中与高考资格：</strong>中国高中毕业证单独申请本科一年级，通常须先完成认可预科；高考可以用于本科直申。中国四年制本科完成第一年也可获本科一年级考虑，均须满足具体专业条件。</p>
+<p class="fact-sources"><a href="#source-u-SHE27-policy-0">官方依据</a></p>
 
-<p class="catalog-fact"><strong>英语最低要求：</strong>本科一般IELTS6.5、各项6.0，部分专业更高；英语尚未达标时可获附条件录取，须在入读前满足对应课程要求。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-c723113631cc04">官方依据</a></p>
+<p class="catalog-fact"><strong>高考分档与科目：</strong>A-level AAA及以上、AAB–ABB、BBB–BBC分别对应高考总分至少75%、70%、65%。指定高考单科A/B/C对应75%/70%/65%；原文未列A*单科档或中国GCSE逐科等值表，须向招生组确认。医学等专业仍须另外核选拔条件。</p>
+<p class="fact-sources"><a href="#source-u-SHE27-policy-0">官方依据</a></p>
+
+<p class="catalog-fact"><strong>其他中国路径：</strong>A-level至少三科或IB文凭可按课程标准申请；AST三科各200（含数学与英语）加高中毕业证总评75%的路径，只适用于文社科指定范围，排除BSc经济及其联合课程。USIC/NCUK衔接并非本校成人预科的同一种入口。</p>
+<p class="fact-sources"><a href="#source-u-SHE27-policy-0">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语证明：</strong>国际本科一般IELTS总分6.5、单项6.0；逐课程要求可能更高。英语考试通常须在开课前两年内完成；接受IELTS Academic、UKVI Academic、Online和One Skill Retake，不接受General Training/Life Skills。</p>
+<p class="fact-sources"><a href="#source-u-SHE27-english-ug">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语附条件录取：</strong>多数学院可以向申请时尚未满足英语条件者发附条件offer；仍须在开课前达到本专业英语要求，不是自动豁免。</p>
+<p class="fact-sources"><a href="#source-u-SHE27-policy-1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国大专与衔接后的入学年级：</strong>学校中国资格页另列三年制大专可获本科二年级考虑；NCUK International Year One达规定成绩后可申请一系列课程的二年级。实际专业匹配、临床限制和英语等条件仍须逐项核，不表示所有本科都接受相同年级转入。</p>
+<p class="fact-sources"><a href="#source-u-SHE27-policy-0">官方依据</a></p>
 
 ### 申请安排
 
-<p class="catalog-fact"><strong>2027 UCAS常规周期：</strong>适用UCAS常规截止的2027本科须在2027年1月13日英国18:00前提交以获得平等审理；医学、牙科、兽医等部分课程在2026年10月15日早截止。课程可另有特殊渠道，考试报名和材料日期另核。2026年9月12日核验时常规截止尚未到。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-6ff2a5ce1a9f38">官方依据</a> · <a href="#source-u-UKENR-f5da9307fd5b4a">官方依据</a></p>
+<p class="catalog-fact"><strong>2027 UCAS常规窗口：</strong>2027入学UCAS常规平等审理截止为2027年1月13日英国时间18:00；医学及牙科医学等早截止为2026年10月15日18:00。考试报名及专业额外材料可能更早；当前仍在2027申请周期内。</p>
+<p class="fact-sources"><a href="#source-u-SHE27-policy-4">官方依据</a> · <a href="#source-u-SHE27-policy-5">官方依据</a></p>
 
 ### 学费与资助
 
-<p class="catalog-fact"><strong>国际年费与课程报价：</strong>国际本科通常采取固定年度学费政策，具体专业及入学年度金额须从费用查询核定。本轮静态课程页费用组件未返回全量金额，未据政策推算专业价格。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-4b371d8792f5a6">官方依据</a></p>
+<p class="catalog-fact"><strong>2027/28海外本科费用政策：</strong>2027/28新入读全日制海外本科的一般年费范围为GBP 27,650–34,670，医学与牙科另计。同一课程通常保持首年的年度学费，转专业可能改变费率；本范围不是每个专业的确切报价。</p>
+<p class="fact-sources"><a href="#source-u-SHE27-policy-2">官方依据</a></p>
 
-<p class="catalog-fact"><strong>2027奖学金：</strong>2027年9月入学的全日制自费Overseas学生，符合条件可自动获GBP 2,500／年，四年最高10,000；医学A100／A101和牙科A200除外。须在2027年6月2日英国16:00前选为firm或insurance；续领需均分60%及至少120学分，实习／海外年不发，资助叠加和非USIC预科另有限制。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-30abc592c25949">官方依据</a></p>
+<p class="catalog-fact"><strong>海外及实习年费用：</strong>官网说明2026/27及2027/28学年的海外学习年按正常全年费率15%计；2027/28入读学生的placement/industrial placement年按20%计。实际未来海外年费用须按当年记录核定，不能预设后续所有年度15%。</p>
+<p class="fact-sources"><a href="#source-u-SHE27-policy-2">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027国际本科奖学金：</strong>符合条件的全日制、自费Overseas新生可自动获GBP 2,500/年、四年最高10,000的学费减免；须在2027年6月2日英国16:00前选为firm或insurance。续领须前一年均分≥60%且至少120学分。</p>
+<p class="fact-sources"><a href="#source-u-SHE27-policy-3">官方依据</a></p>
+
+<p class="catalog-fact"><strong>奖学金例外：</strong>医学A100/A101、牙科A200、非USIC预科阶段、实习/海外年等不适用该奖学金；资助叠加、外部赞助、延期及非全日制也有限制。不能把全校奖学金自动套到每个基础衔接入口。</p>
+<p class="fact-sources"><a href="#source-u-SHE27-policy-3">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>毕业数据口径：</strong>就业与继续学习比例只在项目页有具体学位、调查届次与毕业后时间时按原口径列示；本轮未取得可代表全部本科或中国大陆毕业生的统一薪资/就业统计。</p>
+<p class="fact-sources"><a href="#source-u-SHE27-directory">官方依据</a></p>
 
 ### 学校资料来源
 
-<div class="catalog-source" id="source-u-UKENR-5c93e5b036e1eb"><div><a href="https://sheffield.ac.uk/international/entry-requirements/china">Sheffield 中国资格 ↗</a><p>高考分档与科目要求、普高预科</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-UKENR-c723113631cc04"><div><a href="https://sheffield.ac.uk/international/entry-requirements/english-language-requirements">Sheffield 英语要求 ↗</a><p>本科最低IELTS及课程更高要求</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-UKENR-4b371d8792f5a6"><div><a href="https://sheffield.ac.uk/new-students/tuition-fees/undergraduate-overseas">Sheffield 国际本科费用政策 ↗</a><p>固定年度国际费用</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-UKENR-30abc592c25949"><div><a href="https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-scholarship-2027">Sheffield 2027国际本科奖学金 ↗</a><p>金额、选择学校截止、自费国际生资格和临床例外</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-UKENR-6ff2a5ce1a9f38"><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">UCAS 2027平等审理截止 ↗</a><p>2027年1月13日18:00英国时间；迟交不保证同等审理</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-UKENR-f5da9307fd5b4a"><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS 2026／2027申请日历 ↗</a><p>2027申请提交、牛剑和医学早截止、常规平等审理截止</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-SHE27-policy-0"><div><a href="https://sheffield.ac.uk/international/entry-requirements/china">Entry requirements for students from China | International students | The University of Sheffield ↗</a><p>中国高中与高考资格；高考分档与科目；其他中国路径</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-SHE27-english-ug"><div><a href="https://sheffield.ac.uk/undergraduate/apply/english-language">English language requirements for undergraduates | Undergraduate study | The University of Sheffield ↗</a><p>英语证明</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-SHE27-policy-1"><div><a href="https://sheffield.ac.uk/international/entry-requirements/english-language-requirements">English language requirements | International students | The University of Sheffield ↗</a><p>英语附条件录取</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-SHE27-policy-4"><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">2027 entry deadline for all undergraduate courses, except those with a 15 October deadline | UCAS ↗</a><p>2027 UCAS常规窗口</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-SHE27-policy-5"><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">Dates and deadlines for uni applications | UCAS ↗</a><p>2027 UCAS常规窗口</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-SHE27-policy-2"><div><a href="https://sheffield.ac.uk/new-students/tuition-fees/undergraduate-overseas">Tuition fees for undergraduate overseas students | Support for new students | The University of Sheffield ↗</a><p>2027/28海外本科费用政策；海外及实习年费用</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-SHE27-policy-3"><div><a href="https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-scholarship-2027">International Undergraduate Scholarship 2027 | International students | The University of Sheffield ↗</a><p>2027国际本科奖学金；奖学金例外</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-SHE27-directory"><div><a href="https://sheffield.ac.uk/undergraduate/courses/2027">Undergraduate courses 2027-2028 | The University of Sheffield ↗</a><p>毕业数据口径</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**已完成所列官方目录范围的对账**，共 177 项；这不是全字段详情的完成状态。
+**已完成所列官方目录范围的对账**，共 205 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>All subjects, no search keyword or subject filters；Preserve independent titles, joint degrees, foundation/placement/study-abroad variants if separately listed；Retain graduate-entry undergraduate courses and flag entry route; exclude pure postgraduate awards</p>
+<p><strong>统计范围：</strong>2027 A–Z全部140门课程＋成人基础目录37入口＋8个主学位课程表明确列名的28在读方向；后者不是另增高中招生学位</p>
 
-<p><strong>对账方法：</strong>[{&quot;page&quot;: &quot;single complete A–Z&quot;, &quot;count&quot;: 140, &quot;first&quot;: &quot;Accounting and Financial Management&quot;, &quot;last&quot;: &quot;Zoology&quot;, &quot;pagination_links_found&quot;: 0}, {&quot;source&quot;: &quot;https://sheffield.ac.uk/education/lifelong-learning/courses/foundation&quot;, &quot;complete_single_foundation_list&quot;: 37}]</p>
+<p><strong>对账方法：</strong>主目录与成人目录分别按完整公开页逐URL/标题/学位核集合；177原ID保留，28方向按精确父学位、面板、课程表及UCAS配对。</p>
 
 <p><strong>排除项：</strong>All subjects, no search keyword or subject filters；Preserve independent titles, joint degrees, foundation/placement/study-abroad variants if separately listed；Retain graduate-entry undergraduate courses and flag entry route; exclude pure postgraduate awards</p>
 
 **尚未解决的目录缺口：**
 
-- Lifelong Learning foundation list does not state an intake year; individual eligibility and year require subsequent checks.
-- Presence in directory does not mean applications remain open.
+- 目录对账覆盖上述公开清单；未把普通选修、自由组合、未具名主题、实习和海外选项自动当作独立学位。
+- 大部分专业2027/28准确国际费用仍未取得；API含2027路径却返回明确2026/27参考费时只标旧年度。
+- 37成人/药剂技术员衔接入口的招生年份与普通2027不同，具体国际资格、2027日期和部分费用待核；不能替代USIC高中预科。
+- 专业临床科目与中国学历等值、未来海外年、模块语种、认证后续和多数独立毕业调查仍未全部核实。
 
 - [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation)
 - [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/accounting-and-financial-management-ba)
+- [官方目录来源](https://sheffield.ac.uk/international/entry-requirements/china)
+- [官方目录来源](https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546)
+- [官方目录来源](https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MGTU12/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/accounting-and-financial-management-and-economics-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MGTU16/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/aerospace-engineering-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MACU001/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/aerospace-engineering-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MACU002/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/aerospace-engineering-foundation-year-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MACU028/2027)
+- [官方目录来源](https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-scholarship-2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/aerospace-engineering-foundation-year-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MACU029/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/architectural-engineering-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MACU013/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/architecture-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ALAU002/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/architecture-and-landscape-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ALAU001/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/biochemistry-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/BISU11/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/biochemistry-mbiolsci)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/BISU13/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/biological-sciences-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/BISU16/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/biological-sciences-mbiolsci)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/BISU18/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/biomedical-engineering-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/CMBU002/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/biomedical-engineering-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/CMBU001/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/biomedical-engineering-foundation-year-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/CMBU017/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/biomedical-engineering-foundation-year-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/CMBU018/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/biomedical-science-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/BISU05/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/biomedical-science-mbiomedsci)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/BISU06/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/business-management-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MGTU11/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/business-management-and-economics-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MGTU15/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/business-management-and-modern-languages-cultures-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/LASU022/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/chemical-engineering-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/CMBU006/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/chemical-engineering-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/CMBU008/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/chemical-engineering-foundation-year-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/CMBU015/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/chemical-engineering-foundation-year-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/CMBU016/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/chemistry-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU001/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/chemistry-mchem)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU002/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/chemistry-biological-and-medicinal-chemistry-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU006/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/chemistry-biological-and-medicinal-chemistry-mchem)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU005/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/civil-and-structural-engineering-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MACU008/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/civil-and-structural-engineering-foundation-year-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MACU025/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/civil-engineering-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MACU012/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/civil-engineering-foundation-year-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MACU024/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/COMU101/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-mcomp)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/COMU103/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-artificial-intelligence-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/COMU117/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-artificial-intelligence-mcomp)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/COMU119/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-artificial-intelligence-foundation-year-mcomp)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/COMU63/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-artificial-intelligence-foundation-year-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/COMU62/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-software-engineering-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/COMU05/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-software-engineering-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/COMU06/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-software-engineering-foundation-year-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/COMU57/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-software-engineering-foundation-year-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/COMU58/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-foundation-year-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/COMU59/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-foundation-year-mcomp)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/COMU60/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-systems-engineering-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU001/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-systems-engineering-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU002/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-systems-engineering-foundation-year-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU030/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/computer-systems-engineering-foundation-year-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU029/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/criminology-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/SLWU005/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/data-science-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/IJCU001/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/dental-hygiene-and-dental-therapy-bsc)
+- [官方目录来源](https://tools.sheffield.ac.uk/fees/ug/)
+- [官方目录来源](https://sheffield.ac.uk/dentalschool/undergraduate/dental-hygiene-and-dental-therapy-admissions-and-selection-process-2027-entry)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/DENU103/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/dental-surgery-bds)
+- [官方目录来源](https://sheffield.ac.uk/new-students/tuition-fees/undergraduate-overseas)
+- [官方目录来源](https://sheffield.ac.uk/dentalschool/undergraduate/dental-surgery-admissions-and-selection-process-2027)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/DENU07/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/digital-media-and-society-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/SPRU010/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/east-asian-studies-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/LASU002/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/economics-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ECNU02/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/economics-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ECNU14/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/economics-and-mathematics-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ECNU55/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/economics-and-politics-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ECNU54/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/economics-finance-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ECNU23/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/education-and-psychology-bsc)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/electrical-and-electronic-engineering-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU011/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/electrical-and-electronic-engineering-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU010/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/electrical-and-electronic-engineering-foundation-year-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU025/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/electrical-and-electronic-engineering-foundation-year-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU026/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/english-and-history-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/EGHU008/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/english-and-modern-languages-cultures-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/LASU016/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/english-and-music-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/EGHU009/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/english-and-philosophy-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/EGHU010/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/english-language-and-linguistics-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/EGHU001/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/english-language-and-literature-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/EGHU004/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/english-literature-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/EGHU007/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/environmental-science-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/GPLU006/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/financial-mathematics-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU010/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/general-engineering-beng-hons)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU018/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/general-engineering-meng-hons)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU016/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/general-engineering-foundation-year-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU027/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/general-engineering-foundation-year-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU028/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/geography-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/GPLU003/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/geography-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/GPLU001/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/geography-and-planning-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/GPLU013/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/global-sustainable-development-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/GPLU004/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/graduate-entry-medicine-mbchb)
+- [官方目录来源](https://sheffield.ac.uk/smph/undergraduate/medicine-admissions)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/SMPU002/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/history-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/HPHU003/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/history-and-modern-languages-cultures-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/LASU018/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/history-and-philosophy-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/HPHU004/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/history-and-politics-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/HPHU005/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/journalism-studies-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/IJCU002/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/landscape-architecture-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ALAU004/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/landscape-architecture-mla)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ALAU007/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/law-llb)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/SLWU001/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/law-european-and-international-llb)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/SLWU004/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/law-and-criminology-llb)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/SLWU003/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/linguistics-and-modern-languages-cultures-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/LASU017/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/materials-science-and-engineering-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/CMBU013/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/materials-science-and-engineering-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/CMBU011/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/materials-science-and-engineering-foundation-year-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/CMBU019/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/materials-science-and-engineering-foundation-year-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/CMBU020/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/mathematics-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU008/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/mathematics-mmath)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU009/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/mathematics-and-philosophy-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU014/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/mechanical-engineering-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MACU021/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/mechanical-engineering-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MACU019/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/mechanical-engineering-foundation-year-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MACU026/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/mechanical-engineering-foundation-year-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MACU027/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/mechatronic-and-robotic-engineering-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU003/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/mechatronic-and-robotic-engineering-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU004/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/mechatronic-and-robotic-engineering-foundation-year-beng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU023/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/mechatronic-and-robotic-engineering-foundation-year-meng)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/ELEU024/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/medicine-mbchb)
+- [官方目录来源](https://sheffield.ac.uk/media/69386/download?attachment)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/SMPU001/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/modern-languages-and-cultures-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/LASU015/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/music-bmus)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/LASU025/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/music-and-east-asian-studies-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/LASU030/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/music-and-modern-languages-cultures-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/LASU019/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/nursing-adult-bmedsci)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/HESU005/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/orthoptics-bmedsci)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/HESU014/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/pharmacy-mpharm)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/HESU003/2027)
+- [官方目录来源](https://sheffield.ac.uk/ahpnm/pharmacy/pharmacy-admissions-2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/philosophy-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/HPHU014/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/philosophy-politics-and-economics-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/HPHU019/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/philosophy-religion-and-ethics-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/HPHU017/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/physics-mphys)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU023/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/physics-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU022/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/physics-and-astrophysics-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU026/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/physics-and-astrophysics-mphys)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU028/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/physics-foundation-year-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU041/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/physics-foundation-year-mphys)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU040/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/politics-and-international-relations-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/SPRU004/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/politics-and-modern-languages-cultures-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/LASU023/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/politics-and-philosophy-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/SPRU003/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/politics-and-sociology-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/SPRU002/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/psychology-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/PSYU01/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/social-sciences-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/EDCU004/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/sociology-ba)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/SPRU008/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/speech-and-language-therapy-bmedsci)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/HESU001/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/theoretical-physics-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU024/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/theoretical-physics-mphys)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/MPSU030/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/urban-planning-mplanug)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/GPLU012/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/zoology-bsc)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/BISU01/2027)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2027/zoology-mbiolsci)
+- [官方目录来源](https://sheffield.ac.uk/api/course-fees/ug/BISU02/2027)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/criminology-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/modules/foundation-year-programme-structure)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/criminology-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/eligibility-entry)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/apply)
+- [官方目录来源](https://tools.sheffield.ac.uk/fees/ug/)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/east-asian-studies-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/east-asian-studies-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/english-literature-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/english-literature-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/english-language-literature-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/english-language-and-literature-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/english-language-linguistics-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/english-language-and-linguistics-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/history-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/history-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/law-llb)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/law-llb)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/modern-languages-cultures-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/modern-languages-and-cultures-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/music-bmus)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/music-bmus)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/philosophy-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/philosophy-ba)
+- [官方目录来源](https://tools.sheffield.ac.uk/fees/ug/)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/philosophy-religion-ethics-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/philosophy-religion-and-ethics-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/english-history-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/english-and-history-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/english-philosophy-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/english-and-philosophy-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/history-modern-languages-cultures-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/history-and-modern-languages-cultures-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/history-politics-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/history-and-politics-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/history-philosophy-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/history-and-philosophy-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/politics-philosophy-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/politics-and-philosophy-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/nursing-adult-bmedsci)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/nursing-adult-bmedsci)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/orthoptics-bmedsci)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/orthoptics-bmedsci)
+- [官方目录来源](https://tools.sheffield.ac.uk/fees/ug/)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/pharmacy-mpharm)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/speech-language-therapy-bmedsci)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/speech-and-language-therapy-bmedsci)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/biological-sciences-bsc)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/biological-sciences-bsc)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/biomedical-science-bsc)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/biomedical-science-bsc)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/psychology-bsc)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/psychology-bsc)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/business-management-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/business-management-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/environmental-science-bsc)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/environmental-science-bsc)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/geography-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/geography-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/geography-bsc)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/geography-bsc)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/geography-planning-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/geography-and-planning-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/global-sustainable-development-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/global-sustainable-development-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/international-relations-politics-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/politics-and-international-relations-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/journalism-studies-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/journalism-studies-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/landscape-architecture-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/landscape-architecture-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/landscape-architecture-mla)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/landscape-architecture-mla)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/social-sciences-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/social-sciences-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/sociology-ba)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/sociology-ba)
+- [官方目录来源](https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/urban-studies-planning-mplan)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/courses/2026/urban-planning-mplanug)
+- [官方目录来源](https://sheffield.ac.uk/undergraduate/apply/english-language)
+- [官方目录来源](https://sheffield.ac.uk/international/entry-requirements/english-language-requirements)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

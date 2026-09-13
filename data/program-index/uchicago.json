@@ -1,11 +1,11 @@
 {
   "university_id": "uchicago",
-  "checked_at": "2026-09-12",
+  "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 60,
-    "scope": "All 60 Major-tagged cards in official admissions source; degree/track granularity still needs reconciliation with 69-major headline",
-    "method": "{\"gatsby_page_data\": \"https://collegeadmissions.uchicago.edu/page-data/academics/areas-of-study/page-data.json\", \"static_queries_read\": 4, \"all_area_records\": 129, \"major_records\": 60, \"pagination\": false}",
+    "count": 80,
+    "scope": "原60主修/已列罗曼语言子项＋20个明确主领域/课程方向/BA或BS路径；内部方向不计作独立高中招生学位",
+    "method": "核2026/27 College Catalog八个缺口主修逐课程表与20内部条目，52既有部分课程证据保留并补中文、4年全学位规则和实际2026/27费用；独立交叉复核后修订期限和驻校比例。",
     "exclusions": "Filter studiesType containing Majors；Exclude Minor-only, Joint Degree-only, specializations-only, Careers In and academic opportunities；Do not create MD/JD or premed majors",
     "sources": [
       {
@@ -14,12 +14,403 @@
         "bytes": 546670,
         "raw_file": "scratch/full-catalog/us-a/uchicago/admissions-areas.html",
         "meta_file": "scratch/full-catalog/us-a/uchicago/admissions-areas.meta.json"
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/climate/",
+        "sha256": "860a7ac3520e91861887e29e9a36b5e4e4f0429f432b7d277606cc57f9558f96",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/b1e29d5af44741f18e84.html",
+        "locator": null
+      },
+      {
+        "url": "https://collegeadmissions.uchicago.edu/apply/application/required-materials/",
+        "sha256": "ca4face0cef9d5bf63dee73ce2831ae5f7e3e6bf31e0c82ca4e79cc1b4e85996",
+        "raw_file": "scratch/full-catalog/us-a-enrichment/uchicago/requirements-dom.html",
+        "locator": null
+      },
+      {
+        "url": "https://collegeadmissions.uchicago.edu/apply/international-applicants/",
+        "sha256": "b4fd60a408e93ef2d11b5d3faa62a11c539d43abfd41d823188f25bfd91769de",
+        "raw_file": "scratch/full-catalog/us-a-enrichment/uchicago/international-dom.html",
+        "locator": null
+      },
+      {
+        "url": "https://collegeadmissions.uchicago.edu/apply/application/",
+        "sha256": "c3aafa74a9e4993ed0cc2946ee0982260d99da5c580a365f6a2c79c2688efb0b",
+        "raw_file": "scratch/full-catalog/us-a-enrichment/uchicago/application-dom.html",
+        "locator": null
+      },
+      {
+        "url": "https://collegeadmissions.uchicago.edu/financial-support/international-financial-aid/",
+        "sha256": "ef8253fa032f61479192f5647d1158c2e04be4f4373c84ee530a6e4930b95c3e",
+        "raw_file": "scratch/full-catalog/us-a-enrichment/uchicago/aid-dom.html",
+        "locator": null
+      },
+      {
+        "url": "https://financialaid.uchicago.edu/undergraduate/how-aid-works/undergraduate-costs/",
+        "sha256": "a0725e64e56e21172e0945e4f13830da1155dd3afb3e76ceec976e4602bed400",
+        "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/costs-dom.txt",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/degreerequirements/",
+        "sha256": "c199eccffada87db2064df6af19639d2d0fecc388f87a9054380611be07090b9",
+        "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/degree-requirements.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/gradingandacademicstatus/",
+        "sha256": "1b752906f097ecdacf9fb4299ff4ad12555f612a2036aedb2d0679df304f9b4a",
+        "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/enrollment.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/MediaArtsandDesign/",
+        "sha256": "b65c3d0b206211563bbe27bf37a646747ca0f6fe2bbd56bfff57191fdb5aea5e",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/7488f8dd94aafbb45a0c.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/computerscience/",
+        "sha256": "b011e268664d6ed6ac7315fecd8914603a1c7b129f94f60b987315b713666d12",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/31fbc024a364ed74b130.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/biologicalsciences/",
+        "sha256": "b919949889f9ff5114ec806625defe501821872f60c9df32e3152e569b05031e",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/a7cc008ffa078045c906.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/Inquiryresearchhumanities/",
+        "sha256": "07604a5343f337e63fdf916a07bff1db0e39be1cd44860fe197901d5398b3380",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/9405e2b926c324cb679e.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/publicpolicystudies/",
+        "sha256": "7420a2a671b7db7b9d1b5bb3547b6a8acaa578edb338cf4604f132cf995521f9",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/7b1368738fbbcb0e69f5.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/romancelanguagesliteratures/",
+        "sha256": "892e0f46fd4ce90a6a3d85cc2337e17d63ffeffcc3d5983e552ad29db6de1ab8",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/8f7db173a96739b68842.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/anthropology/",
+        "sha256": "cfb65d595c82b1ab962556514e0d35b2d3b102ece56ffdb0b00e7d8073d8c44f",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/e2db9de02be664c7fe52.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/environmentalscience/",
+        "sha256": "ad8f488683475681883d810e0dd9d962e43808245cbdc1925ccd3d94e7ee6b05",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/1b687bd883cfe49c35db.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/religiousstudies/",
+        "sha256": "cf9db89c083c67df1ef2f58562f0a31cccc97809544f8cbea64208a130777ab1",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/1a7df2faa77769359ab2.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/slaviclanguagesliteratures/",
+        "sha256": "cf5ca3d568e24e0ec9e30d2c831636d9b3955d4b706254ed8e6af4ee172d114b",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/2df17f2a8ac9d33f0a28.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/sociology/",
+        "sha256": "73d959c34ba3837624bff668aafba9cd719c776752ad9c60cf2ff96f4f413fa7",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/ddba4eef8e0f62007b44.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/southasianlanguagescivilizations/",
+        "sha256": "e6c088af9acf1e2782486aea822dd2630f67d49379c7adc380bd8bce9eca2d43",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/cd511f00a7e214e9979e.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/theaterperformancestudies/",
+        "sha256": "47c22533f6aac12f183d69497449c0694ab7e80d7ec75dbc4ef6498a280c59de",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/9174b6342f61fdbb3a60.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/statistics/",
+        "sha256": "647d113410f753c10d616a9c4f3cd666305071af17afc95461e9d36c789ad4e4",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/0a4fb271619e6a305270.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/visualarts/",
+        "sha256": "e6e26ce57bbae72a8b4f56189701c177415b0c34e66ed4d832e935e2fc74072e",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/12a992dca7455914ed7d.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/psychology/",
+        "sha256": "ddd1194bcfdabbb8d1a976397b930769cb05a7f774960cba435caf5998f38538",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/799e417bd17e2b503702.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/politicalscience/",
+        "sha256": "60378d9dea63d4d552196ffd1ac13c8baef36e99e3b8abfc611c35c983d3246e",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/972eaa2cd1d84c8d2dd8.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/physics/",
+        "sha256": "58d9d035882aee8fab9d921c5ef7aa5911a4920076607b7b581a0fd68cc48667",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/99e868f5f44f21155e1f.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/philosophy/",
+        "sha256": "3794e30a0973ba54ee5515d2517b21f5ebe47099e6c45e5cb7319a26ebbc48f0",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/c5817ff6ca8cf15f20a3.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/neuroscience/",
+        "sha256": "0469fa7b872654021a6b2d7dfcfbf62ff618f4dabb88f6af07b1fd2e0948b89b",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/06c3a7f36b4a397baa0d.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/music/",
+        "sha256": "5f3882ee5d6db227f6bd5debc2d54200ada20d35502b39e875915db4824fa0d3",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/e2818986eef1627b7495.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/neareasternlanguagescivilizations/",
+        "sha256": "6b6d2b634394fb618253f1f0c12de1eeb6692d2aafe7c131e2d52f28001e6619",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/add75b2ea88693de907b.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/medievalstudies/",
+        "sha256": "1f4a89957cb6f5277911820a0cad45064d00fe8b1cea0068fb78e9f59fc8512b",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/01449e3ed80cec286267.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/mathematics/",
+        "sha256": "d0c6893159a8b3a19a60a81f1fc294c52d65a1f5eeecf46cc93ae87f0efeb337",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/b2a5a98ef2d1eaf78140.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/linguistics/",
+        "sha256": "36badc09f1bd4ceca928871c1960b0e4e8b250b5f61131f4ff7f974f03035293",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/6a3e1815512caaa1ae4f.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/lawlettersandsociety/",
+        "sha256": "3a3a15b4d5ddd35bc29374c42c9f1ed1d6ecd21d521569cff719624a9340674f",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/d18a607c046c5530ed88.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/jewishstudies/",
+        "sha256": "27a71755fb708981bf7ff24d7ebe8177c93efe987ff37d68259547878e4596b9",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/9de0e8c56faef8876026.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/humanrights/",
+        "sha256": "53af44e69576e2cfb1c398031635a2e48260a7ed4e04b60c9da47fcb1c44f5a8",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/8230b7627d8714223a9b.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/scienceandmedicinehips/",
+        "sha256": "0a3fd2a4aff2e62336f7c4314fae638eaf599c20ec057e96b8df51f389bbbad5",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/2abaddb20d7f66c3e5d6.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/history/",
+        "sha256": "13ff408d1b8325625430d40cb3f3a322462dc49cc7ae93d2e0a5d215f0fed559",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/c2ea70c28d946ddb0dca.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/globalstudies/",
+        "sha256": "41b9ca3894eb0c151b04e106ddb2dcb560d4cf2dc8bffde1274b622f7a59c534",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/cf80567eb21d8fceb3db.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/germanicstudies/",
+        "sha256": "acab7ad3ad36d1e03a33141e78da343a64976720c96c840aef815b8373aec325",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/518e5491ff2b3bc03169.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/geophysicalsciences/",
+        "sha256": "8543271579309cbf076cc9ad8685642835462ee480c2684349e8a941ec0bd587",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/74e3ed5647d520d76e10.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/genderstudies/",
+        "sha256": "ceab8515a05704719c3765ff8777c6cdf2f4094058e89842e0072606521dcc16",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/50c290c4fa331fd4cab9.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/fundamentalsissuesandtexts/",
+        "sha256": "b7ed2f4f7ba5f41b1f3792503db5ceed06802dd387805d8eea19c33e3db6c573",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/6e1c3aeb74c74e5cb4c5.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/englishlanguageliterature/",
+        "sha256": "339d32fc6c2488b14476129a514e603fc46e297cda064479d586cc1cbc37536b",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/95ebb2dd206fd1824399.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/economics/",
+        "sha256": "b9c52f3976497c2a0df4974a28c65ca30e17bdabc4bd9722f3e076cf1a5b2294",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/45734310070a63854a7d.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/eastasianlanguagescivilizations/",
+        "sha256": "af54a915dbd5ca113f191e896801740077ca86c8dd51ce7901539a43c9a0c506",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/94deb24ebb1a8ab4b995.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/creativewriting/",
+        "sha256": "5013e21a35dbb193fd0b3e1dd656f22645332c8e781aa8ae96f4230da9511cca",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/5fd28637d22a007cf66f.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/caam/",
+        "sha256": "03a64a9f02d9877554dbdac480a5c78fb181eb89787c66e807a453dddb678c67",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/edc430fda2d841e22de3.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/comparativeliterature/",
+        "sha256": "d67182f5757175404ec609be227b5172d25cf90526c93584b9c7f3d7813d710a",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/4b3dd28ba83e79cb1663.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/comparativehumandevelopment/",
+        "sha256": "758871bb8e80880942d372b829ee4350a77744b64245d30537036781bd6adb31",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/7497dd4d77e8c6d05ee3.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/classicalstudies/",
+        "sha256": "a771f3410861263cd4b59cd8584b2e9f6c880481aa75930712eb9d0a797fbb4e",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/45b5386e9464be211a14.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/cinemamediastudies/",
+        "sha256": "251aee453ba0ee613dce1ece4599ffc779a293569604acf42493a73a9e053b87",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/bb393c2570fa458389aa.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/biologicalchemistry/",
+        "sha256": "450cc6e549431b847e6e2090070d9860a8ebfeaa2e7675d585fb3a2db0f6c7ed",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/f59e1754612cd632a409.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/astronomyastrophysics/",
+        "sha256": "22f551f10f8371801355a6a602e5ec95598dd902402be0cfe9d0b2a7f2c80047",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/50e442ef2f1cb3d0dc6d.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/chemistry/",
+        "sha256": "15971fe6049dab473ed4b9d3c647d076fb5f3a0cc31e8af2bf4f7d52312db1a4",
+        "raw_file": "scratch/full-catalog/us-details/uchicago/907bb759e6f44b1212c2.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/archaeology/",
+        "sha256": "e11c72e6eb346460be2c0abdfe54d71168c3b06d2accc82982dec7f39bf6cd2f",
+        "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/archaeology.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/curriculum/",
+        "sha256": "3c0cf8719768009ef2dae903a71eec2b3ae4ae26361471cc74d667dd4d1d3914",
+        "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/curriculum.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/programsofstudy/",
+        "sha256": "c7d52169fb910e8267b434395bd86852a27e01ca7daf0c5ef502cc29cd70f198",
+        "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/programsofstudy.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+        "sha256": "29fccfaad3a670b3ab5cfe183064851347daa020310f3b335e1956bb62e0ad8d",
+        "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/arthistory.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/cognitivescience/",
+        "sha256": "9720c4061bae82cfb5ad2ebc6060d3bf0988c7f4b82a2449202ef51de3a2d9aa",
+        "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/cognitivescience.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+        "sha256": "d6352262ef1142573ffd67614aec082ce586aa3969e98668366a2b3bf7c4999c",
+        "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/datascience.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/cegu/",
+        "sha256": "0e6f7529e96dcfb0803bde38748d8905b5195e509feed90d013084dae2199605",
+        "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/cegu.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/latinamericanstudies/",
+        "sha256": "8f548188a90f2211629c4516420c01488091a17efc6f18917e966678a9f0ef47",
+        "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/latinamericanstudies.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/molecularengineering/",
+        "sha256": "3919b5364addda208543d524e2939fad6c0706391d2e659548ea1b43c595a073",
+        "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/molecularengineering.html",
+        "locator": null
+      },
+      {
+        "url": "http://collegecatalog.uchicago.edu/thecollege/rdin/",
+        "sha256": "afd3cefa2e72b87b116b5f6473558c228e7cd2bf3e37032976ddb14eff52d672",
+        "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/rdin.html",
+        "locator": null
       }
     ],
     "gaps": [
-      "College site advertises 69 majors while full admissions feed contains 60 major cards; likely degree/track granularity but not yet reconciled, so not marked complete",
-      "Catalogue direct HTTPS failed SSL; detailed academic award variants need formal table reconciliation",
-      "Some official detail links use HTTP exactly as published; not silently changed to an unverified URL"
+      "当前主修总目录56个母项与原60条含罗曼语言子项口径不同；Applied Mathematics B.S.及Philosophy and Allied Fields B.A.在学位表列名，仍须独立读取父目录再纳入。",
+      "其余52个既有主修保留部分课程事实，全校内部方向、特殊双学位/BA-MA与附加选拔仍未全部闭合。",
+      "2027/28费用、多数专业完整授课语种/特殊教学地点、按专业分母且可区分国际生的毕业统计仍有缺口。",
+      "2026/27年费与校内/校外/通勤预算不同，健康保险另计；Core/主修/驻校学分不得混成另收学费的独立学位。"
     ]
   },
   "programs": [
@@ -28,29 +419,34 @@
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/climate/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "2E9PuKBbt7B1sHm1Er8WMm",
       "source_tags": [
         "Minors",
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-climate-and-sustainable-growth-dfbf94a912"
+      "id": "uchicago-climate-and-sustainable-growth-dfbf94a912",
+      "name": "气候与可持续增长",
+      "subject": "环境与农业",
+      "subjects": [
+        "环境与农业"
+      ]
     },
     {
       "name_en": "Media Arts and Design",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/MediaArtsandDesign/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "4YRpAlqsoMFctfOeLgoEwn",
       "source_tags": [
         "Majors",
@@ -58,18 +454,23 @@
         "UChicago Careers In"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-media-arts-and-design-05d19f815a"
+      "id": "uchicago-media-arts-and-design-05d19f815a",
+      "name": "媒体艺术与设计",
+      "subject": "艺术与设计",
+      "subjects": [
+        "艺术与设计"
+      ]
     },
     {
       "name_en": "Computer Science",
       "degree_label": "BA / BS",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/computerscience/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "3SXMJAlFeRUlEXedRc7HeG",
       "source_tags": [
         "Majors",
@@ -78,18 +479,23 @@
         "UChicago Careers In"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-computer-science-5333b23a69"
+      "id": "uchicago-computer-science-5333b23a69",
+      "name": "计算机科学",
+      "subject": "计算机",
+      "subjects": [
+        "计算机"
+      ]
     },
     {
       "name_en": "Biological Sciences",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/biologicalsciences/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "6aeRyjzXxF7WMmwMI7U2MB",
       "source_tags": [
         "Majors",
@@ -97,123 +503,160 @@
         "UChicago Careers In"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-biological-sciences-3b792822e6"
+      "id": "uchicago-biological-sciences-3b792822e6",
+      "name": "生物科学",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
     },
     {
       "name_en": "Inquiry and Research in the Humanities",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/Inquiryresearchhumanities/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "2p5jpcSzDCQ9z7rpKsZZ2v",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-inquiry-and-research-in-the-humanities-1c4b3577e5"
+      "id": "uchicago-inquiry-and-research-in-the-humanities-1c4b3577e5",
+      "name": "人文探究与研究",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Public Policy Studies",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/publicpolicystudies/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "1kcAUfmo0F8hQbg6NtoNcs",
       "source_tags": [
         "Joint Degrees",
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-public-policy-studies-86dd20560f"
+      "id": "uchicago-public-policy-studies-86dd20560f",
+      "name": "公共政策研究",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Engineering, Molecular",
-      "degree_label": "BS",
-      "official_url": "http://collegecatalog.uchicago.edu/thecollege/molecularengineering/#majorprograminmolecularengineering",
-      "intake": null,
-      "duration": null,
+      "degree_label": "B.S.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/molecularengineering/",
+      "intake": "2027秋申请；培养方案2026/27参考",
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "3candrbPInQKp7o2vRYugy",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-engineering-molecular-978b29b495"
+      "id": "uchicago-engineering-molecular-978b29b495",
+      "name": "分子工程",
+      "entry_route": "先获College本科录取，再按专业要求在读申报；先修与课程条件见详情。",
+      "subject": "工程",
+      "subjects": [
+        "工程",
+        "自然科学"
+      ]
     },
     {
       "name_en": "Latin American and Iberian Languages, Romance Languages and Literatures",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/romancelanguagesliteratures/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "5eZ2gpEXfMPxxtDfp2nuQM",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-latin-american-and-iberian-languages-romance-languages-and-litera-91376a4b57"
+      "id": "uchicago-latin-american-and-iberian-languages-romance-languages-and-litera-91376a4b57",
+      "name": "罗曼语言与文学—拉丁美洲与伊比利亚语言",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Anthropology",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/anthropology/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "1mpl8i834GlGHZ1uowSQLV",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-anthropology-b91c578278"
+      "id": "uchicago-anthropology-b91c578278",
+      "name": "人类学",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Environmental Science",
       "degree_label": "BS",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/environmentalscience/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "3F35ZsdfFp5C5GHqWbl4ec",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-environmental-science-7293d6d471"
+      "id": "uchicago-environmental-science-7293d6d471",
+      "name": "环境科学",
+      "subject": "环境与农业",
+      "subjects": [
+        "环境与农业"
+      ]
     },
     {
       "name_en": "Italian, Romance Languages and Literatures",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/romancelanguagesliteratures/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "y1jIn5iXS3nC8JTJq4jra",
       "source_tags": [
         "Specializations",
@@ -221,18 +664,23 @@
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-italian-romance-languages-and-literatures-bc079332d6"
+      "id": "uchicago-italian-romance-languages-and-literatures-bc079332d6",
+      "name": "罗曼语言与文学—意大利语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "French, Romance Languages and Literatures",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/romancelanguagesliteratures/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "23kSnEcIihstrVRfJXU2Tl",
       "source_tags": [
         "Specializations",
@@ -240,18 +688,23 @@
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-french-romance-languages-and-literatures-d07971280e"
+      "id": "uchicago-french-romance-languages-and-literatures-d07971280e",
+      "name": "罗曼语言与文学—法语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Spanish, Romance Languages and Literatures",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/romancelanguagesliteratures/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "6YMuCvos6exezcyNjZLN25",
       "source_tags": [
         "Specializations",
@@ -259,197 +712,258 @@
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-spanish-romance-languages-and-literatures-27286bfacf"
+      "id": "uchicago-spanish-romance-languages-and-literatures-27286bfacf",
+      "name": "罗曼语言与文学—西班牙语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Environment, Geography, and Urbanization",
-      "degree_label": "Undergraduate major; exact award label not stated in index",
-      "official_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/#cegu-committee-on-environment-geography-and-urbanization",
-      "intake": null,
-      "duration": null,
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/cegu/",
+      "intake": "2027秋申请；培养方案2026/27参考",
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "greY8jBw6uCtU8IQkN7Rz",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-environment-geography-and-urbanization-fa0c88f2dd"
+      "id": "uchicago-environment-geography-and-urbanization-fa0c88f2dd",
+      "name": "环境、地理与城市化",
+      "entry_route": "先获College本科录取，再按专业要求在读申报；先修与课程条件见详情。",
+      "subject": "环境与农业",
+      "subjects": [
+        "环境与农业",
+        "社会科学"
+      ]
     },
     {
       "name_en": "Data Science",
-      "degree_label": "BA / BS",
-      "official_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/#data-science",
-      "intake": null,
-      "duration": null,
+      "degree_label": "B.A. / B.S.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+      "intake": "2027秋申请；培养方案2026/27参考",
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "6GySUKV97D3O6FJrixLGVx",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-data-science-2efd7408b2"
+      "id": "uchicago-data-science-2efd7408b2",
+      "name": "数据科学（BA／BS）",
+      "entry_route": "先获College本科录取，再按专业要求在读申报；先修与课程条件见详情。",
+      "subject": "计算机",
+      "subjects": [
+        "计算机"
+      ]
     },
     {
       "name_en": "Archaeology",
-      "degree_label": "Undergraduate major; exact award label not stated in index",
-      "official_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/#archaeology",
-      "intake": null,
-      "duration": null,
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/archaeology/",
+      "intake": "2027秋申请；培养方案2026/27参考",
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "5dbyUsKD2cXKYoCYlcJavm",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-archaeology-be0f7eb725"
+      "id": "uchicago-archaeology-be0f7eb725",
+      "name": "考古学",
+      "entry_route": "先获College本科录取，再按专业要求在读申报；先修与课程条件见详情。",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Race, Diaspora and Indigeneity (RDI)",
-      "degree_label": "Undergraduate major; exact award label not stated in index",
-      "official_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/#race-diaspora-and-indigeneity-rdi",
-      "intake": null,
-      "duration": null,
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/rdin/",
+      "intake": "2027秋申请；培养方案2026/27参考",
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "4yRtK8jLpCP4A7iIMeIRXK",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-race-diaspora-and-indigeneity-rdi-42fe741a57"
+      "id": "uchicago-race-diaspora-and-indigeneity-rdi-42fe741a57",
+      "name": "种族、离散与原住民研究",
+      "entry_route": "先获College本科录取，再按专业要求在读申报；先修与课程条件见详情。",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学",
+        "人文"
+      ]
     },
     {
       "name_en": "Religious Studies",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/religiousstudies/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "6wxLJnpVeZEGEGzBwcYNni",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-religious-studies-e0aea27238"
+      "id": "uchicago-religious-studies-e0aea27238",
+      "name": "宗教研究",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Romance Languages and Literatures",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/romancelanguagesliteratures/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "1gVyebJZfX9LspMXucSGiM",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-romance-languages-and-literatures-3b2f48296f"
+      "id": "uchicago-romance-languages-and-literatures-3b2f48296f",
+      "name": "罗曼语言与文学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Russian and East European Studies",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/slaviclanguagesliteratures/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "5Qp4TVsIsEfz1AhSDSwbwT",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-russian-and-east-european-studies-5ce511c0cf"
+      "id": "uchicago-russian-and-east-european-studies-5ce511c0cf",
+      "name": "俄罗斯与东欧研究",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Sociology",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/sociology/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "2sfcXWPyFrlAwfpgGHpIN1",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-sociology-d8c71b6427"
+      "id": "uchicago-sociology-d8c71b6427",
+      "name": "社会学",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "South Asian Languages and Civilizations",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/southasianlanguagescivilizations/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "4NBAkvQ5XznPYPjNqXUsYb",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-south-asian-languages-and-civilizations-42a7caf4c2"
+      "id": "uchicago-south-asian-languages-and-civilizations-42a7caf4c2",
+      "name": "南亚语言与文明",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Theater and Performance Studies",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/theaterperformancestudies/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "5Ky9g4oaZSo9XEI5QGxeHx",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-theater-and-performance-studies-1817985387"
+      "id": "uchicago-theater-and-performance-studies-1817985387",
+      "name": "戏剧与表演研究",
+      "subject": "艺术与设计",
+      "subjects": [
+        "艺术与设计"
+      ]
     },
     {
       "name_en": "Statistics",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/statistics/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "2UY7sXAE8RLNxLrzaPgnub",
       "source_tags": [
         "Joint Degrees",
@@ -457,142 +971,182 @@
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-statistics-fecb92a3dd"
+      "id": "uchicago-statistics-fecb92a3dd",
+      "name": "统计学",
+      "subject": "数学与统计",
+      "subjects": [
+        "数学与统计"
+      ]
     },
     {
       "name_en": "Visual Arts",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/visualarts/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "4LZSZgufCwGT9CFtJ7XzBa",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-visual-arts-de0eca35e6"
+      "id": "uchicago-visual-arts-de0eca35e6",
+      "name": "视觉艺术",
+      "subject": "艺术与设计",
+      "subjects": [
+        "艺术与设计"
+      ]
     },
     {
       "name_en": "Psychology",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/psychology/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "65MbUzOyM9bSh4CFMljjax",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-psychology-69d053456c"
+      "id": "uchicago-psychology-69d053456c",
+      "name": "心理学",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Political Science",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/politicalscience/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "7IrUmyq4HsfmbNG3FSxbaZ",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-political-science-426253f72a"
+      "id": "uchicago-political-science-426253f72a",
+      "name": "政治学",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Physics",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/physics/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "3l9wiLkyhuDvgZaOZwl58j",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-physics-7535106653"
+      "id": "uchicago-physics-7535106653",
+      "name": "物理学",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
     },
     {
       "name_en": "Philosophy",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/philosophy/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "4umw5Aexy5ESAQKkr2di4C",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-philosophy-4b63fe40b6"
+      "id": "uchicago-philosophy-4b63fe40b6",
+      "name": "哲学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Neuroscience",
       "degree_label": "BA / BS",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/neuroscience/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "5XkVtf7MjzFUXSiJis89xp",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-neuroscience-abb0e753ed"
+      "id": "uchicago-neuroscience-abb0e753ed",
+      "name": "神经科学",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
     },
     {
       "name_en": "Music",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/music/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "6N6sr4LllueU5ZvOfcV3YC",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-music-45b7b649ff"
+      "id": "uchicago-music-45b7b649ff",
+      "name": "音乐",
+      "subject": "艺术与设计",
+      "subjects": [
+        "艺术与设计"
+      ]
     },
     {
       "name_en": "Middle Eastern Studies",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/neareasternlanguagescivilizations/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "6NqeD4fEtiCvb50PRlGxJf",
       "source_tags": [
         "Majors",
@@ -600,36 +1154,42 @@
         "Joint Degrees"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-middle-eastern-studies-8e3d991b7d"
+      "id": "uchicago-middle-eastern-studies-8e3d991b7d",
+      "name": "中东研究"
     },
     {
       "name_en": "Medieval Studies",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/medievalstudies/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "3DNKQl44Qv4wbA1ZoiO6ae",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-medieval-studies-71f5671cae"
+      "id": "uchicago-medieval-studies-71f5671cae",
+      "name": "中世纪研究",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Mathematics",
       "degree_label": "BA / BS",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/mathematics/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "7FhsGFzSXKG5bAlp6aCqst",
       "source_tags": [
         "Majors",
@@ -637,53 +1197,68 @@
         "Joint Degrees"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-mathematics-7c0aab6dc6"
+      "id": "uchicago-mathematics-7c0aab6dc6",
+      "name": "数学",
+      "subject": "数学与统计",
+      "subjects": [
+        "数学与统计"
+      ]
     },
     {
       "name_en": "Linguistics",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/linguistics/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "22d91wbrAcK8l4IvIuWmhZ",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-linguistics-6d6231bf2e"
+      "id": "uchicago-linguistics-6d6231bf2e",
+      "name": "语言学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Law, Letters, and Society",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/lawlettersandsociety/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "4hcCZSDxH2LBLNQU6DVuiE",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-law-letters-and-society-be85baa338"
+      "id": "uchicago-law-letters-and-society-be85baa338",
+      "name": "法律、文学与社会",
+      "subject": "法律",
+      "subjects": [
+        "法律"
+      ]
     },
     {
       "name_en": "Latin American and Caribbean Studies",
-      "degree_label": "BA",
-      "official_url": "http://collegecatalog.uchicago.edu/thecollege/jointdegreelacs/",
-      "intake": null,
-      "duration": null,
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/latinamericanstudies/",
+      "intake": "2027秋申请；培养方案2026/27参考",
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "6xuywDm2j5mxYsajIlQlTX",
       "source_tags": [
         "Majors",
@@ -691,403 +1266,506 @@
         "Joint Degrees"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-latin-american-and-caribbean-studies-c6ad3becc2"
+      "id": "uchicago-latin-american-and-caribbean-studies-c6ad3becc2",
+      "name": "拉丁美洲与加勒比研究",
+      "entry_route": "先获College本科录取，再按专业要求在读申报；先修与课程条件见详情。",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Jewish Studies",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/jewishstudies/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "5xkOcIAxp5d6e2brgK1whK",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-jewish-studies-9427a73d40"
+      "id": "uchicago-jewish-studies-9427a73d40",
+      "name": "犹太研究"
     },
     {
       "name_en": "Human Rights",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/humanrights/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "71UmeTcvTIOvMST3BXtFkU",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-human-rights-0106bfff55"
+      "id": "uchicago-human-rights-0106bfff55",
+      "name": "人权研究"
     },
     {
       "name_en": "History, Philosophy, and Social Studies of Science and Medicine",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/scienceandmedicinehips/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "6BdAL9YHagdBY3eVWCqGd4",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-history-philosophy-and-social-studies-of-science-and-medicine-5f11b33167"
+      "id": "uchicago-history-philosophy-and-social-studies-of-science-and-medicine-5f11b33167",
+      "name": "科学与医学的历史、哲学及社会研究",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康",
+        "社会科学",
+        "人文"
+      ]
     },
     {
       "name_en": "History",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/history/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "M5XsszNqkHeWgFlratdRx",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-history-893baa8dca"
+      "id": "uchicago-history-893baa8dca",
+      "name": "历史",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Global Studies",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/globalstudies/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "6B6F0zsmlUFRRY56CyUodM",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-global-studies-323d39c19c"
+      "id": "uchicago-global-studies-323d39c19c",
+      "name": "全球研究",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Germanic Studies",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/germanicstudies/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "t4A1ILPs0UR6P4GYzsqS5",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-germanic-studies-785fa2dc9d"
+      "id": "uchicago-germanic-studies-785fa2dc9d",
+      "name": "日耳曼研究",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Geophysical Sciences",
       "degree_label": "BA / BS",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/geophysicalsciences/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "mbABEjx474bcaVI5JD37H",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-geophysical-sciences-666cda2728"
+      "id": "uchicago-geophysical-sciences-666cda2728",
+      "name": "地球物理科学",
+      "subject": "环境与农业",
+      "subjects": [
+        "环境与农业",
+        "自然科学"
+      ]
     },
     {
       "name_en": "Gender and Sexuality Studies",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/genderstudies/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "1AJ9ZgrAWY33P8Q7E6ZdbL",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-gender-and-sexuality-studies-fd71da787b"
+      "id": "uchicago-gender-and-sexuality-studies-fd71da787b",
+      "name": "性别与性研究",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Fundamentals: Issues and Texts",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/fundamentalsissuesandtexts/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "3Re3Ja8e2kT4tlu58pJHoY",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-fundamentals-issues-and-texts-5dbe7530bb"
+      "id": "uchicago-fundamentals-issues-and-texts-5dbe7530bb",
+      "name": "基础问题与经典文本"
     },
     {
       "name_en": "English Language and Literature",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/englishlanguageliterature/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "57nNGxzbAgPFjR8RCx3FQh",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-english-language-and-literature-2ff7a4d170"
+      "id": "uchicago-english-language-and-literature-2ff7a4d170",
+      "name": "英语语言与文学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Economics",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/economics/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "6phGr5r88Z9682TEfJitmd",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-economics-ba5ba808bf"
+      "id": "uchicago-economics-ba5ba808bf",
+      "name": "经济学",
+      "subject": "经济",
+      "subjects": [
+        "经济"
+      ]
     },
     {
       "name_en": "East Asian Languages and Civilizations",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/eastasianlanguagescivilizations/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "2MUT1SmkOVnDwjdi444WOU",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-east-asian-languages-and-civilizations-bbd3dcedd1"
+      "id": "uchicago-east-asian-languages-and-civilizations-bbd3dcedd1",
+      "name": "东亚语言与文明",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Creative Writing",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/creativewriting/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "3ZLs7pi00qyIIIt6vvl8bG",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-creative-writing-85fa590e84"
+      "id": "uchicago-creative-writing-85fa590e84",
+      "name": "创意写作"
     },
     {
       "name_en": "Computational and Applied Mathematics",
       "degree_label": "BS",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/caam/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "6GhtsRbQQQ1scUFSvTR3E9",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-computational-and-applied-mathematics-0ad0ebe151"
+      "id": "uchicago-computational-and-applied-mathematics-0ad0ebe151",
+      "name": "计算与应用数学",
+      "subject": "数学与统计",
+      "subjects": [
+        "数学与统计"
+      ]
     },
     {
       "name_en": "Comparative Literature",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/comparativeliterature/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "7De7a6LQWU82OVLoLUp82w",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-comparative-literature-b9ba8cfb7c"
+      "id": "uchicago-comparative-literature-b9ba8cfb7c",
+      "name": "比较文学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Comparative Human Development",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/comparativehumandevelopment/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "3zvfxwdvuKGSaDKcBv1AT7",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-comparative-human-development-c7ede91462"
+      "id": "uchicago-comparative-human-development-c7ede91462",
+      "name": "比较人类发展"
     },
     {
       "name_en": "Cognitive Science",
-      "degree_label": "Undergraduate major; exact award label not stated in index",
-      "official_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/#cognitive-science",
-      "intake": null,
-      "duration": null,
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/cognitivescience/",
+      "intake": "2027秋申请；培养方案2026/27参考",
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "556WHSY6svOllamZMaajRG",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-cognitive-science-7f53e85f13"
+      "id": "uchicago-cognitive-science-7f53e85f13",
+      "name": "认知科学",
+      "entry_route": "先获College本科录取，再按专业要求在读申报；先修与课程条件见详情。",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学",
+        "社会科学"
+      ]
     },
     {
       "name_en": "Classical Studies",
       "degree_label": "BA",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/classicalstudies/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "632GG5RTeZ7J7xReZsfNSj",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-classical-studies-f80f13b384"
+      "id": "uchicago-classical-studies-f80f13b384",
+      "name": "古典学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Cinema and Media Studies",
       "degree_label": "Undergraduate major; exact award label not stated in index",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/cinemamediastudies/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "5tbZKmUmQbWnKW9CH6oJIx",
       "source_tags": [
         "Majors",
         "Minors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-cinema-and-media-studies-63db82700a"
+      "id": "uchicago-cinema-and-media-studies-63db82700a",
+      "name": "电影与媒体研究",
+      "subject": "艺术与设计",
+      "subjects": [
+        "艺术与设计"
+      ]
     },
     {
       "name_en": "Biological Chemistry",
       "degree_label": "BS",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/biologicalchemistry/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "556WP7KDOjfWuJ3pwUJ6m5",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-biological-chemistry-7c0ce35ff1"
+      "id": "uchicago-biological-chemistry-7c0ce35ff1",
+      "name": "生物化学",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
     },
     {
       "name_en": "Astrophysics",
       "degree_label": "BA / BS",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/astronomyastrophysics/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "185iwChQRVgNgpBybxIuev",
       "source_tags": [
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-astrophysics-4a7647909e"
+      "id": "uchicago-astrophysics-4a7647909e",
+      "name": "天体物理学",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
     },
     {
       "name_en": "Art History",
-      "degree_label": "Undergraduate major; exact award label not stated in index",
-      "official_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/#art-history",
-      "intake": null,
-      "duration": null,
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "intake": "2027秋申请；培养方案2026/27参考",
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "kMTqBrFnQtadeqJ3CIRlS",
       "source_tags": [
         "Minors",
         "Majors"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-art-history-92f55363e2"
+      "id": "uchicago-art-history-92f55363e2",
+      "name": "艺术史",
+      "entry_route": "先获College本科录取，再按专业要求在读申报；先修与课程条件见详情。",
+      "subject": "人文",
+      "subjects": [
+        "人文",
+        "艺术与设计"
+      ]
     },
     {
       "name_en": "Chemistry",
       "degree_label": "BA / BS",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/chemistry/",
       "intake": null,
-      "duration": null,
+      "duration": "通常4年／12个秋冬春季度",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
       "raw_key": "35cfzeEvTf5guyeKWFGxJL",
       "source_tags": [
         "Majors",
@@ -1095,7 +1773,547 @@
         "Joint Degrees"
       ],
       "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
-      "id": "uchicago-chemistry-bb928678d6"
+      "id": "uchicago-chemistry-bb928678d6",
+      "name": "化学",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
+    },
+    {
+      "id": "uchicago-arthistory-african-62901075a2",
+      "raw_key": "kMTqBrFnQtadeqJ3CIRlS::official-path:African",
+      "name": "艺术史—非洲艺术",
+      "name_en": "Art History — African",
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-art-history-92f55363e2",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "parent_degree_label": "B.A.",
+      "subject": "人文",
+      "listing_note": "所属主修：艺术史；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "人文",
+        "艺术与设计"
+      ]
+    },
+    {
+      "id": "uchicago-arthistory-asian-pre-1800-d9c6819121",
+      "raw_key": "kMTqBrFnQtadeqJ3CIRlS::official-path:Asian pre-1800",
+      "name": "艺术史—1800年前亚洲艺术",
+      "name_en": "Art History — Asian pre-1800",
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-art-history-92f55363e2",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "parent_degree_label": "B.A.",
+      "subject": "人文",
+      "listing_note": "所属主修：艺术史；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "人文",
+        "艺术与设计"
+      ]
+    },
+    {
+      "id": "uchicago-arthistory-asian-post-1800-31edfe409e",
+      "raw_key": "kMTqBrFnQtadeqJ3CIRlS::official-path:Asian post-1800",
+      "name": "艺术史—1800年后亚洲艺术",
+      "name_en": "Art History — Asian post-1800",
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-art-history-92f55363e2",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "parent_degree_label": "B.A.",
+      "subject": "人文",
+      "listing_note": "所属主修：艺术史；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "人文",
+        "艺术与设计"
+      ]
+    },
+    {
+      "id": "uchicago-arthistory-european-and-american-pre-1800-74b367c05a",
+      "raw_key": "kMTqBrFnQtadeqJ3CIRlS::official-path:European and American pre-1800",
+      "name": "艺术史—1800年前欧洲与美洲艺术",
+      "name_en": "Art History — European and American pre-1800",
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-art-history-92f55363e2",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "parent_degree_label": "B.A.",
+      "subject": "人文",
+      "listing_note": "所属主修：艺术史；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "人文",
+        "艺术与设计"
+      ]
+    },
+    {
+      "id": "uchicago-arthistory-european-and-american-post-1800-d951a5abf6",
+      "raw_key": "kMTqBrFnQtadeqJ3CIRlS::official-path:European and American post-1800",
+      "name": "艺术史—1800年后欧洲与美洲艺术",
+      "name_en": "Art History — European and American post-1800",
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-art-history-92f55363e2",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "parent_degree_label": "B.A.",
+      "subject": "人文",
+      "listing_note": "所属主修：艺术史；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "人文",
+        "艺术与设计"
+      ]
+    },
+    {
+      "id": "uchicago-arthistory-latin-american-976f18c0f7",
+      "raw_key": "kMTqBrFnQtadeqJ3CIRlS::official-path:Latin American",
+      "name": "艺术史—拉丁美洲艺术",
+      "name_en": "Art History — Latin American",
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-art-history-92f55363e2",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "parent_degree_label": "B.A.",
+      "subject": "人文",
+      "listing_note": "所属主修：艺术史；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "人文",
+        "艺术与设计"
+      ]
+    },
+    {
+      "id": "uchicago-arthistory-theory-and-methodology-c929b1bc91",
+      "raw_key": "kMTqBrFnQtadeqJ3CIRlS::official-path:Theory and Methodology",
+      "name": "艺术史—理论与方法",
+      "name_en": "Art History — Theory and Methodology",
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-art-history-92f55363e2",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "parent_degree_label": "B.A.",
+      "subject": "人文",
+      "listing_note": "所属主修：艺术史；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "人文",
+        "艺术与设计"
+      ]
+    },
+    {
+      "id": "uchicago-cegu-urban-environmental-studies-65784ce69a",
+      "raw_key": "greY8jBw6uCtU8IQkN7Rz::official-path:Urban Environmental Studies",
+      "name": "环境、地理与城市化—城市环境研究",
+      "name_en": "Environment, Geography, and Urbanization — Urban Environmental Studies",
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/cegu/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/cegu/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-environment-geography-and-urbanization-fa0c88f2dd",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/cegu/",
+      "parent_degree_label": "B.A.",
+      "subject": "环境与农业",
+      "listing_note": "所属主修：环境、地理与城市化；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "环境与农业",
+        "社会科学"
+      ]
+    },
+    {
+      "id": "uchicago-cegu-energy-histories-and-geographies-d1d36b0aa1",
+      "raw_key": "greY8jBw6uCtU8IQkN7Rz::official-path:Energy Histories and Geographies",
+      "name": "环境、地理与城市化—能源历史与地理",
+      "name_en": "Environment, Geography, and Urbanization — Energy Histories and Geographies",
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/cegu/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/cegu/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-environment-geography-and-urbanization-fa0c88f2dd",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/cegu/",
+      "parent_degree_label": "B.A.",
+      "subject": "环境与农业",
+      "listing_note": "所属主修：环境、地理与城市化；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "环境与农业",
+        "社会科学",
+        "人文"
+      ]
+    },
+    {
+      "id": "uchicago-cegu-environmental-humanities-5b6ebdf799",
+      "raw_key": "greY8jBw6uCtU8IQkN7Rz::official-path:Environmental Humanities",
+      "name": "环境、地理与城市化—环境人文",
+      "name_en": "Environment, Geography, and Urbanization — Environmental Humanities",
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/cegu/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/cegu/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-environment-geography-and-urbanization-fa0c88f2dd",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/cegu/",
+      "parent_degree_label": "B.A.",
+      "subject": "环境与农业",
+      "listing_note": "所属主修：环境、地理与城市化；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "环境与农业",
+        "社会科学",
+        "人文"
+      ]
+    },
+    {
+      "id": "uchicago-datascience-b-a-pathway-ebb082e9f3",
+      "raw_key": "6GySUKV97D3O6FJrixLGVx::official-path:B.A. Pathway",
+      "name": "数据科学—文学士路径",
+      "name_en": "Data Science — B.A. Pathway",
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-data-science-2efd7408b2",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+      "parent_degree_label": "B.A. / B.S.",
+      "subject": "计算机",
+      "listing_note": "所属主修：数据科学（BA／BS）；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "计算机"
+      ]
+    },
+    {
+      "id": "uchicago-datascience-b-s-pathway-461f247800",
+      "raw_key": "6GySUKV97D3O6FJrixLGVx::official-path:B.S. Pathway",
+      "name": "数据科学—理学士路径",
+      "name_en": "Data Science — B.S. Pathway",
+      "degree_label": "B.S.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-data-science-2efd7408b2",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+      "parent_degree_label": "B.A. / B.S.",
+      "subject": "计算机",
+      "listing_note": "所属主修：数据科学（BA／BS）；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "计算机"
+      ]
+    },
+    {
+      "id": "uchicago-datascience-theory-track-c1d5e5ba2c",
+      "raw_key": "6GySUKV97D3O6FJrixLGVx::official-path:Theory Track",
+      "name": "数据科学—理论方向",
+      "name_en": "Data Science — Theory Track",
+      "degree_label": "B.A. / B.S.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-data-science-2efd7408b2",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+      "parent_degree_label": "B.A. / B.S.",
+      "subject": "计算机",
+      "listing_note": "所属主修：数据科学（BA／BS）；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "计算机"
+      ]
+    },
+    {
+      "id": "uchicago-datascience-computation-track-2080bd00f2",
+      "raw_key": "6GySUKV97D3O6FJrixLGVx::official-path:Computation Track",
+      "name": "数据科学—计算方向",
+      "name_en": "Data Science — Computation Track",
+      "degree_label": "B.A. / B.S.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-data-science-2efd7408b2",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+      "parent_degree_label": "B.A. / B.S.",
+      "subject": "计算机",
+      "listing_note": "所属主修：数据科学（BA／BS）；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "计算机"
+      ]
+    },
+    {
+      "id": "uchicago-latinamericanstudies-latin-american-and-caribbean-studies-track-22894de913",
+      "raw_key": "6xuywDm2j5mxYsajIlQlTX::official-path:Latin American and Caribbean Studies Track",
+      "name": "拉丁美洲与加勒比研究—拉丁美洲与加勒比区域方向",
+      "name_en": "Latin American and Caribbean Studies — Latin American and Caribbean Studies Track",
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/latinamericanstudies/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/latinamericanstudies/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-latin-american-and-caribbean-studies-c6ad3becc2",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/latinamericanstudies/",
+      "parent_degree_label": "B.A.",
+      "subject": "人文",
+      "listing_note": "所属主修：拉丁美洲与加勒比研究；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "人文"
+      ]
+    },
+    {
+      "id": "uchicago-latinamericanstudies-caribbean-studies-track-6fff9ee739",
+      "raw_key": "6xuywDm2j5mxYsajIlQlTX::official-path:Caribbean Studies Track",
+      "name": "拉丁美洲与加勒比研究—加勒比研究方向",
+      "name_en": "Latin American and Caribbean Studies — Caribbean Studies Track",
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/latinamericanstudies/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/latinamericanstudies/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-latin-american-and-caribbean-studies-c6ad3becc2",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/latinamericanstudies/",
+      "parent_degree_label": "B.A.",
+      "subject": "人文",
+      "listing_note": "所属主修：拉丁美洲与加勒比研究；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "人文"
+      ]
+    },
+    {
+      "id": "uchicago-latinamericanstudies-global-latin-american-studies-track-d0524ad692",
+      "raw_key": "6xuywDm2j5mxYsajIlQlTX::official-path:Global Latin American Studies Track",
+      "name": "拉丁美洲与加勒比研究—全球拉丁美洲研究方向",
+      "name_en": "Latin American and Caribbean Studies — Global Latin American Studies Track",
+      "degree_label": "B.A.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/latinamericanstudies/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/latinamericanstudies/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-latin-american-and-caribbean-studies-c6ad3becc2",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/latinamericanstudies/",
+      "parent_degree_label": "B.A.",
+      "subject": "人文",
+      "listing_note": "所属主修：拉丁美洲与加勒比研究；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "人文"
+      ]
+    },
+    {
+      "id": "uchicago-molecularengineering-bioengineering-track-b88bb8e084",
+      "raw_key": "3candrbPInQKp7o2vRYugy::official-path:Bioengineering Track",
+      "name": "分子工程—生物工程方向",
+      "name_en": "Engineering, Molecular — Bioengineering Track",
+      "degree_label": "B.S.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/molecularengineering/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/molecularengineering/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-engineering-molecular-978b29b495",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/molecularengineering/",
+      "parent_degree_label": "B.S.",
+      "subject": "工程",
+      "listing_note": "所属主修：分子工程；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "工程",
+        "自然科学"
+      ]
+    },
+    {
+      "id": "uchicago-molecularengineering-chemical-engineering-track-727eb595c4",
+      "raw_key": "3candrbPInQKp7o2vRYugy::official-path:Chemical Engineering Track",
+      "name": "分子工程—化学工程方向",
+      "name_en": "Engineering, Molecular — Chemical Engineering Track",
+      "degree_label": "B.S.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/molecularengineering/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/molecularengineering/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-engineering-molecular-978b29b495",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/molecularengineering/",
+      "parent_degree_label": "B.S.",
+      "subject": "工程",
+      "listing_note": "所属主修：分子工程；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "工程",
+        "自然科学"
+      ]
+    },
+    {
+      "id": "uchicago-molecularengineering-quantum-engineering-track-1c4a4cd35f",
+      "raw_key": "3candrbPInQKp7o2vRYugy::official-path:Quantum Engineering Track",
+      "name": "分子工程—量子工程方向",
+      "name_en": "Engineering, Molecular — Quantum Engineering Track",
+      "degree_label": "B.S.",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/molecularengineering/",
+      "intake": "2026/27本科在读培养方向；非独立高中直录",
+      "duration": "父学位通常4年；内部方向不另加固定年限",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "http://collegecatalog.uchicago.edu/thecollege/molecularengineering/",
+      "source_period": "2026/27 College Catalog；申请/费用/培养要求年度分别说明",
+      "entry_route": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
+      "requires_prior_degree": false,
+      "status": "现行在读培养方案",
+      "record_type": "主修内部方向／学位路径",
+      "parent_program_id": "uchicago-engineering-molecular-978b29b495",
+      "parent_program_url": "http://collegecatalog.uchicago.edu/thecollege/molecularengineering/",
+      "parent_degree_label": "B.S.",
+      "subject": "工程",
+      "listing_note": "所属主修：分子工程；本条为内部方向或BA/BS学位路径，不是额外高中招生入口。",
+      "subjects": [
+        "工程",
+        "自然科学"
+      ]
     }
   ]
 }

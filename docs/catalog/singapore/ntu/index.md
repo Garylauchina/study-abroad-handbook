@@ -23,115 +23,128 @@ hide:
 
 ## 专业与申请资料
 
-104 个专业条目 · 4 个含详细资料 · 80 个补有专业资料 · 20 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+117 个专业条目 · 4 个含详细资料 · 113 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=ntu#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-accountancy-0615712725/">Accountancy</a><small>Bachelor of Accountancy · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-accountancy-sustainability-management-and-analytics-efad436aa7/">Accountancy (Sustainability Management and Analytics)</a><small>Bachelor of Accountancy (Sustainability Management &amp; Analytics) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-accountancy-and-business-7b7257b010/">Accountancy and Business</a><small>Bachelor of Accountancy Bachelor of Business · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-accountancy-and-data-science-and-artificial-intelligence-64426638ba/">Accountancy and Data Science and Artificial Intelligence</a><small>Bachelor of Accountancy Bachelor of Computing in Data Science &amp; Artificial Intelligence · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-aerospace-engineering-cdb5f4c4e5/">Aerospace Engineering</a><small>Bachelor of Engineering (Aerospace Engineering) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-applied-computing-in-finance-d81a66f786/">Applied Computing in Finance</a><small>Bachelor of Applied Computing in Finance · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-art-and-education-5eb1143921/">Art and Education</a><small>Bachelor of Arts in Art and Education · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-art-design-and-media-31bf515f26/">Art, Design and Media</a><small>Bachelor of Fine Arts in Art, Design &amp; Media · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-artificial-intelligence-and-society-9386317924/">Artificial Intelligence and Society</a><small>Bachelor of Computing in Artificial Intelligence &amp; Society · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-accountancy-0615712725/">会计学</a><small>Bachelor of Accountancy · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-accountancy-sustainability-management-and-analytics-efad436aa7/">会计学（可持续管理与分析）</a><small>Bachelor of Accountancy (Sustainability Management &amp; Analytics) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-accountancy-and-business-7b7257b010/">会计学与商学（双学位）</a><small>Bachelor of Accountancy Bachelor of Business · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-accountancy-and-data-science-and-artificial-intelligence-64426638ba/">会计学与数据科学及人工智能（双学位）</a><small>Bachelor of Accountancy Bachelor of Computing in Data Science &amp; Artificial Intelligence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-aerospace-engineering-cdb5f4c4e5/">航空航天工程</a><small>Bachelor of Engineering (Aerospace Engineering) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-aerospace-engineering-and-economics-75eb7d3ce7/">航空航天工程与经济学（双学位）</a><small>Bachelor of Engineering in Aerospace Engineering and Bachelor of Social Sciences in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-applied-computing-in-finance-d81a66f786/">金融应用计算</a><small>Bachelor of Applied Computing in Finance · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-art-and-education-5eb1143921/">艺术与教育</a><small>Bachelor of Arts in Art and Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-art-design-and-media-31bf515f26/">艺术、设计与媒体</a><small>Bachelor of Fine Arts in Art, Design &amp; Media · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-artificial-intelligence-and-society-9386317924/">人工智能与社会</a><small>Bachelor of Computing in Artificial Intelligence &amp; Society · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business/">商学（荣誉，单主修）</a><small>Bachelor of Business (Honours), Single Major · 含详细资料</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-computer-science/">计算机科学（荣誉）</a><small>Bachelor of Computing (Honours) in Computer Science · 含详细资料</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-electrical-electronic-engineering/">电气与电子工程（荣誉）</a><small>Bachelor of Engineering in Electrical and Electronic Engineering · 含详细资料</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-economics/">经济学（荣誉）</a><small>Bachelor of Social Sciences (Honours) in Economics · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-bioengineering-9623708250/">Bioengineering</a><small>Bachelor of Engineering (Bioengineering) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-biological-sciences-bc0573d666/">Biological Sciences</a><small>Bachelor of Science in Biological Sciences · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-biological-sciences-and-psychology-8bef4f2192/">Biological Sciences and Psychology</a><small>Bachelor of Science in Biological Sciences and Psychology · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-biology-and-education-b895cc486e/">Biology and Education</a><small>Bachelor of Science in Biology and Education · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-biomedical-sciences-and-biobusiness-0fca6445c8/">Biomedical Sciences and BioBusiness</a><small>Bachelor of Science in Biomedical Sciences and BioBusiness · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-actuarial-data-science-and-business-analytics-9acb583fac/">Business (Actuarial Data Science and Business Analytics)</a><small>Bachelor of Business in Actuarial Data Science and Business Analytics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-actuarial-data-science-and-finance-13192f5142/">Business (Actuarial Data Science and Finance)</a><small>Bachelor of Business in Actuarial Data Science and Finance · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-actuarial-data-science-d30999347e/">Business (Actuarial Data Science)</a><small>Bachelor of Business in Actuarial Data Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-business-analytics-4972d52a21/">Business (Business Analytics)</a><small>Bachelor of Business in Business Analytics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-finance-and-accounting-17af0450b0/">Business (Finance and Accounting)</a><small>Bachelor of Business in Finance and Accounting · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-finance-and-business-analytics-0b4f63e1a0/">Business (Finance and Business Analytics)</a><small>Bachelor of Business in Finance and Business Analytics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-finance-and-international-trading-2e5ddae2dd/">Business (Finance and International Trading)</a><small>Bachelor of Business in Finance and International Trading · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-finance-and-risk-analytics-af81fc09c1/">Business (Finance and Risk Analytics)</a><small>Bachelor of Business in Finance and Risk Analytics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-finance-a45a298300/">Business (Finance)</a><small>Bachelor of Business in Finance · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-human-resource-consulting-and-business-analytics-bf11fc80d0/">Business (Human Resource Consulting and Business Analytics)</a><small>Bachelor of Business in Human Resource Consulting and Business Analytics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-human-resource-consulting-and-marketing-c3e7e3fffa/">Business (Human Resource Consulting and Marketing)</a><small>Bachelor of Business in Human Resource Consulting and Marketing · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-human-resource-consulting-c3ac76b6be/">Business (Human Resource Consulting)</a><small>Bachelor of Business in Human Resource Consulting · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-international-trading-3f89ee256d/">Business (International Trading)</a><small>Bachelor of Business in International Trading · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-marketing-and-business-analytics-ff33110aca/">Business (Marketing and Business Analytics)</a><small>Bachelor of Business in Marketing and Business Analytics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-marketing-88f2686585/">Business (Marketing)</a><small>Bachelor of Business in Marketing · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-risk-analytics-and-accounting-2f19d128c3/">Business (Risk Analytics and Accounting)</a><small>Bachelor of Business in Risk Analytics and Accounting · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-risk-analytics-de7fcee367/">Business (Risk Analytics)</a><small>Bachelor of Business in Risk Analytics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-and-computer-engineering-5ba16c226a/">Business and Computer Engineering</a><small>Bachelor of Business Bachelor of Engineering (Computer Engineering) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-and-computing-03c23f9da8/">Business and Computing</a><small>Bachelor of Business Bachelor of Computing in Computer Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chemical-and-biomolecular-engineering-200ee5fbbf/">Chemical and Biomolecular Engineering</a><small>Bachelor of Engineering (Chemical &amp; Biomolecular Engineering) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chemistry-and-biological-chemistry-c65ab48a88/">Chemistry and Biological Chemistry</a><small>Bachelor of Science in Chemistry &amp; Biological Chemistry · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chemistry-and-education-c814881e3b/">Chemistry and Education</a><small>Bachelor of Science in Chemistry and Education · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chinese-9d3912e40f/">Chinese</a><small>Bachelor of Arts in Chinese · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chinese-medicine-c97ecf4d88/">Chinese Medicine</a><small>Bachelor of Chinese Medicine · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chinese-studies-and-education-3ea56f4c9d/">Chinese Studies and Education</a><small>Bachelor of Arts in Chinese Studies and Education · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chinese-and-english-82a7797188/">Chinese and English</a><small>Bachelor of Arts in Chinese and English · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chinese-and-linguistics-and-multilingual-studies-1dd7047404/">Chinese and Linguistics and Multilingual Studies</a><small>Bachelor of Arts in Chinese and Linguistics &amp; Multilingual Studies · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-civil-engineering-6d6f8a0dd9/">Civil Engineering</a><small>Bachelor of Engineering (Civil) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-communication-studies-e5ad10305c/">Communication Studies</a><small>Bachelor of Communication Studies · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-computer-engineering-d396c15661/">Computer Engineering</a><small>Bachelor of Engineering (Computer Engineering) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-computer-science-and-economics-a88260dde9/">Computer Science and Economics</a><small>Bachelor of Computing in Computer Science Bachelor of Social Sciences in Economics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-computing-ec5355ecc5/">Computing #</a><small>Bachelor of Technology in Computing · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-data-science-and-artificial-intelligence-ccd205e952/">Data Science and Artificial  Intelligence</a><small>Bachelor of Computing in Data Science &amp; Artificial Intelligence · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-drama-and-education-c9393fe3b1/">Drama and Education</a><small>Bachelor of Arts in Drama and Education · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-economics-and-data-science-90bf775a43/">Economics and Data Science</a><small>Bachelor of Science in Economics &amp; Data Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-economics-and-media-analytics-eea43d5754/">Economics and Media Analytics</a><small>Bachelor of Social Sciences in Economics and Media Analytics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-economics-and-psychology-96b271087f/">Economics and Psychology</a><small>Bachelor of Social Sciences in Economics and Psychology · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-economics-and-public-policy-and-global-affairs-d5eef59ea4/">Economics and Public Policy and Global Affairs</a><small>Bachelor of Social Sciences in Economics and Public Policy &amp; Global Affairs · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-engineering-and-economics-951f7c8d9f/">Engineering+ and Economics</a><small>Bachelor of Engineering+ Bachelor of Social Sciences in Economics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-english-a330f4bbf0/">English</a><small>Bachelor of Arts in English · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-english-language-linguistics-and-education-4381c2fa60/">English Language &amp; Linguistics and Education</a><small>Bachelor of Arts in English Language &amp; Linguistics and Education · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-english-literature-and-art-history-a578860cc5/">English Literature and Art History</a><small>Bachelor of Arts in English Literature and Art History · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-english-literature-and-education-9d5e1a20ca/">English Literature and Education</a><small>Bachelor of Arts in English Literature and Education · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-english-and-history-6a6035b798/">English and History</a><small>Bachelor of Arts in English and History · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-english-and-philosophy-2e174c9deb/">English and Philosophy</a><small>Bachelor of Arts in English and Philosophy · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-environmental-earth-systems-science-and-public-policy-and-global-9d72c601a6/">Environmental Earth Systems  Science and Public Policy and Global Affairs</a><small>Bachelor of Science in Environmental Earth Systems Science and Public Policy &amp; Global Affairs · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-environmental-earth-systems-science-b1fcdcb3be/">Environmental Earth Systems Science</a><small>Bachelor of Science in Environmental Earth Systems Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-environmental-engineering-ec3f5aff51/">Environmental Engineering</a><small>Bachelor of Engineering (Environmental Engineering) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-food-consumer-sciences-and-education-819e791e58/">Food &amp; Consumer Sciences and Education</a><small>Bachelor of Science in Food &amp; Consumer Sciences and Education · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-geography-and-education-54af095cbe/">Geography and Education</a><small>Bachelor of Arts in Geography and Education · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-history-9f32ffc9ef/">History</a><small>Bachelor of Arts in History · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-history-and-chinese-658762af1e/">History and Chinese</a><small>Bachelor of Arts in History and Chinese · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-history-and-education-4061562540/">History and Education</a><small>Bachelor of Arts in History and Education · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-history-and-linguistics-and-multilingual-studies-5ae0b3dbc1/">History and Linguistics and Multilingual Studies</a><small>Bachelor of Arts in History and Linguistics &amp; Multilingual Studies · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-information-engineering-and-media-b8877e7f4b/">Information Engineering and Media</a><small>Bachelor of Engineering (Information Engineering &amp; Media) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-linguistics-and-multilingual-studies-70e13830e5/">Linguistics and Multilingual Studies</a><small>Bachelor of Arts in Linguistics &amp; Multilingual Studies · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-linguistics-and-multilingual-studies-and-english-7a32eb503b/">Linguistics and Multilingual Studies and English</a><small>Bachelor of Arts in Linguistics &amp; Multilingual Studies and English · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-linguistics-and-multilingual-studies-and-philosophy-01a0f12344/">Linguistics and Multilingual Studies and Philosophy</a><small>Bachelor of Arts in Linguistics &amp; Multilingual Studies and Philosophy · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-malay-studies-and-education-2984cfee28/">Malay Studies and Education</a><small>Bachelor of Arts in Malay Studies and Education · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-maritime-studies-bbff7fd5bf/">Maritime Studies</a><small>Bachelor of Science (Maritime Studies) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-materials-engineering-a87bb74955/">Materials Engineering</a><small>Bachelor of Engineering (Materials Engineering) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-mathematical-sciences-727badeac3/">Mathematical Sciences</a><small>Bachelor of Science in Mathematical Sciences · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-mathematical-sciences-and-economics-8870b38ea2/">Mathematical Sciences and Economics</a><small>Bachelor of Science in Mathematical Sciences and Economics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-mathematical-and-computer-sciences-e53dfdc152/">Mathematical and Computer Sciences</a><small>Bachelor of Science in Mathematical and Computer Sciences · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-mathematics-computational-thinking-and-education-7c36760b02/">Mathematics &amp; Computational Thinking and Education</a><small>Bachelor of Science in Mathematics &amp; Computational Thinking and Education · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-mechanical-engineering-06a1b6bb52/">Mechanical Engineering *</a><small>Bachelor of Engineering (Mechanical Engineering) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-medicine-8dc93c6eba/">Medicine</a><small>Bachelor of Medicine and Bachelor of Surgery · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-music-and-education-f810f3eb59/">Music and Education</a><small>Bachelor of Arts in Music and Education · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-philosophy-5444f5e7e0/">Philosophy</a><small>Bachelor of Arts in Philosophy · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-philosophy-and-chinese-7efddd246a/">Philosophy and Chinese</a><small>Bachelor of Arts in Philosophy and Chinese · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-philosophy-and-history-5ef402a717/">Philosophy and History</a><small>Bachelor of Arts in Philosophy and History · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-philosophy-politics-and-economics-20a36e4ee8/">Philosophy, Politics, and Economics</a><small>Bachelor of Social Sciences in Philosophy, Politics, &amp; Economics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-physics-energy-studies-and-education-495e4a2244/">Physics &amp; Energy Studies and Education</a><small>Bachelor of Science in Physics &amp; Energy Studies and Education · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-physics-and-applied-physics-c314de57bc/">Physics and Applied Physics</a><small>Bachelor of Science in Physics / Bachelor of Science in Applied Physics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-physics-and-mathematical-sciences-7f4c75483d/">Physics and Mathematical Sciences</a><small>Bachelor of Science in Physics and Mathematical Sciences · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-process-engineering-and-synthetic-chemistry-f28364166d/">Process Engineering and Synthetic Chemistry</a><small>Bachelor of Engineering Science in Process Engineering and Synthetic Chemistry · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-psychology-509f806d3b/">Psychology</a><small>Bachelor of Social Sciences in Psychology · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-psychology-and-linguistics-and-multilingual-studies-ccb21eca48/">Psychology and Linguistics and Multilingual Studies</a><small>Bachelor of Arts in Psychology and Linguistics &amp; Multilingual Studies · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-psychology-and-media-analytics-234cde76dd/">Psychology and Media Analytics</a><small>Bachelor of Social Sciences in Psychology and Media Analytics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-public-policy-and-global-affairs-3f87662d73/">Public Policy and Global  Affairs</a><small>Bachelor of Social Sciences in Public Policy &amp; Global Affairs · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-renaissance-engineering-programme-389de438eb/">Renaissance Engineering Programme</a><small>Bachelor of Engineering Science+ Master of Science in Technology Management · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-robotics-73a89d92fd/">Robotics</a><small>Bachelor of Engineering (Robotics) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-sociology-b6c4422407/">Sociology</a><small>Bachelor of Social Sciences in Sociology · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-sport-science-and-education-76ffe1bf2b/">Sport Science and Education</a><small>Bachelor of Science in Sport Science and Education · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-sport-science-and-management-a30b327639/">Sport Science and Management ^</a><small>Bachelor of Science (Sport Science &amp; Management) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-tamil-studies-and-education-94f4716cfc/">Tamil Studies and Education</a><small>Bachelor of Arts in Tamil Studies and Education · 部分专业资料已核实</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-bioengineering-9623708250/">生物工程</a><small>Bachelor of Engineering (Bioengineering) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-bioengineering-and-economics-dd7bded7ec/">生物工程与经济学（双学位）</a><small>Bachelor of Engineering in Bioengineering and Bachelor of Social Sciences in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-biological-sciences-bc0573d666/">生物科学</a><small>Bachelor of Science in Biological Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-biological-sciences-and-psychology-8bef4f2192/">生物科学与心理学（双主修）</a><small>Bachelor of Science in Biological Sciences and Psychology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-biology-and-education-b895cc486e/">生物学与教育</a><small>Bachelor of Science in Biology and Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-biomedical-sciences-and-biobusiness-0fca6445c8/">生物医学与生物商业（双主修）</a><small>Bachelor of Science in Biomedical Sciences and BioBusiness · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-actuarial-data-science-and-business-analytics-9acb583fac/">商学（精算数据科学与商业分析双主修）</a><small>Bachelor of Business in Actuarial Data Science and Business Analytics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-actuarial-data-science-and-finance-13192f5142/">商学（精算数据科学与金融双主修）</a><small>Bachelor of Business in Actuarial Data Science and Finance · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-actuarial-data-science-d30999347e/">商学（精算数据科学主修）</a><small>Bachelor of Business in Actuarial Data Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-business-analytics-4972d52a21/">商学（商业分析主修）</a><small>Bachelor of Business in Business Analytics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-finance-and-accounting-17af0450b0/">商学（金融与会计双主修）</a><small>Bachelor of Business in Finance and Accounting · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-finance-and-business-analytics-0b4f63e1a0/">商学（金融与商业分析双主修）</a><small>Bachelor of Business in Finance and Business Analytics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-finance-and-international-trading-2e5ddae2dd/">商学（金融与国际贸易双主修）</a><small>Bachelor of Business in Finance and International Trading · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-finance-and-risk-analytics-af81fc09c1/">商学（金融与风险分析双主修）</a><small>Bachelor of Business in Finance and Risk Analytics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-finance-a45a298300/">商学（金融主修）</a><small>Bachelor of Business in Finance · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-human-resource-consulting-and-business-analytics-bf11fc80d0/">商学（人力资源咨询与商业分析双主修）</a><small>Bachelor of Business in Human Resource Consulting and Business Analytics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-human-resource-consulting-and-marketing-c3e7e3fffa/">商学（人力资源咨询与市场营销双主修）</a><small>Bachelor of Business in Human Resource Consulting and Marketing · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-human-resource-consulting-c3ac76b6be/">商学（人力资源咨询主修）</a><small>Bachelor of Business in Human Resource Consulting · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-international-trading-3f89ee256d/">商学（国际贸易主修）</a><small>Bachelor of Business in International Trading · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-marketing-and-business-analytics-ff33110aca/">商学（市场营销与商业分析双主修）</a><small>Bachelor of Business in Marketing and Business Analytics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-marketing-88f2686585/">商学（市场营销主修）</a><small>Bachelor of Business in Marketing · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-risk-analytics-and-accounting-2f19d128c3/">商学（风险分析与会计双主修）</a><small>Bachelor of Business in Risk Analytics and Accounting · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-risk-analytics-de7fcee367/">商学（风险分析主修）</a><small>Bachelor of Business in Risk Analytics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-and-computer-engineering-5ba16c226a/">商学与计算机工程（双学位）</a><small>Bachelor of Business Bachelor of Engineering (Computer Engineering) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business-and-computing-03c23f9da8/">商学与计算机科学（双学位）</a><small>Bachelor of Business Bachelor of Computing in Computer Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chemical-and-biomolecular-engineering-200ee5fbbf/">化学与生物分子工程</a><small>Bachelor of Engineering (Chemical &amp; Biomolecular Engineering) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chemical-and-biomolecular-engineering-and-economics-56d0615185/">化学与生物分子工程与经济学（双学位）</a><small>Bachelor of Engineering in Chemical and Biomolecular Engineering and Bachelor of Social Sciences in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chemistry-and-biological-chemistry-c65ab48a88/">化学与生物化学</a><small>Bachelor of Science in Chemistry &amp; Biological Chemistry · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chemistry-and-education-c814881e3b/">化学与教育</a><small>Bachelor of Science in Chemistry and Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chinese-9d3912e40f/">中文</a><small>Bachelor of Arts in Chinese · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chinese-medicine-c97ecf4d88/">中医学</a><small>Bachelor of Chinese Medicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chinese-studies-and-education-3ea56f4c9d/">中文研究与教育</a><small>Bachelor of Arts in Chinese Studies and Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chinese-and-english-82a7797188/">中文与英语文学（双主修）</a><small>Bachelor of Arts in Chinese and English · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chinese-and-linguistics-and-multilingual-studies-1dd7047404/">中文与语言学及多语研究（双主修）</a><small>Bachelor of Arts in Chinese and Linguistics &amp; Multilingual Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-civil-engineering-6d6f8a0dd9/">土木工程</a><small>Bachelor of Engineering (Civil) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-civil-engineering-and-economics-defb27b8d8/">土木工程与经济学（双学位）</a><small>Bachelor of Engineering in Civil Engineering and Bachelor of Social Sciences in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-communication-studies-e5ad10305c/">传播学</a><small>Bachelor of Communication Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-computer-engineering-d396c15661/">计算机工程</a><small>Bachelor of Engineering (Computer Engineering) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-computer-engineering-and-economics-ca5d01ab14/">计算机工程与经济学（双学位）</a><small>Bachelor of Engineering in Computer Engineering and Bachelor of Social Sciences in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-computer-science-and-economics-a88260dde9/">计算机科学与经济学（双学位）</a><small>Bachelor of Computing in Computer Science Bachelor of Social Sciences in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-computing-ec5355ecc5/">计算技术（SkillsFuture工学结合）</a><small>Bachelor of Technology in Computing · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-data-science-and-artificial-intelligence-ccd205e952/">数据科学与人工智能</a><small>Bachelor of Computing in Data Science &amp; Artificial Intelligence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-drama-and-education-c9393fe3b1/">戏剧与教育（当前停开）</a><small>Bachelor of Arts in Drama and Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-economics-and-data-science-90bf775a43/">经济学与数据科学</a><small>Bachelor of Science in Economics &amp; Data Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-economics-and-media-analytics-eea43d5754/">经济学与媒体分析（双主修）</a><small>Bachelor of Social Sciences in Economics and Media Analytics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-economics-and-psychology-96b271087f/">经济学与心理学（双主修）</a><small>Bachelor of Social Sciences in Economics and Psychology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-economics-and-public-policy-and-global-affairs-d5eef59ea4/">经济学与公共政策及全球事务（双主修）</a><small>Bachelor of Social Sciences in Economics and Public Policy &amp; Global Affairs · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-electrical-and-electronic-engineering-and-economics-62090bfbd1/">电机与电子工程与经济学（双学位）</a><small>Bachelor of Engineering in Electrical and Electronic Engineering and Bachelor of Social Sciences in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-engineering-and-economics-951f7c8d9f/">工程与经济学（双学位项目组）</a><small>Bachelor of Engineering+ Bachelor of Social Sciences in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-english-a330f4bbf0/">英语文学</a><small>Bachelor of Arts in English · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-english-language-linguistics-and-education-4381c2fa60/">英语语言及语言学与教育</a><small>Bachelor of Arts in English Language &amp; Linguistics and Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-english-literature-and-art-history-a578860cc5/">英语文学与艺术史（双主修）</a><small>Bachelor of Arts in English Literature and Art History · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-english-literature-and-education-9d5e1a20ca/">英语文学与教育</a><small>Bachelor of Arts in English Literature and Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-english-and-history-6a6035b798/">英语文学与历史学（双主修）</a><small>Bachelor of Arts in English and History · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-english-and-philosophy-2e174c9deb/">英语文学与哲学（双主修）</a><small>Bachelor of Arts in English and Philosophy · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-environmental-earth-systems-science-and-public-policy-and-global-9d72c601a6/">环境地球系统科学与公共政策及全球事务（双主修）</a><small>Bachelor of Science in Environmental Earth Systems Science and Public Policy &amp; Global Affairs · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-environmental-earth-systems-science-b1fcdcb3be/">环境地球系统科学</a><small>Bachelor of Science in Environmental Earth Systems Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-environmental-engineering-ec3f5aff51/">环境工程</a><small>Bachelor of Engineering (Environmental Engineering) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-environmental-engineering-and-economics-ad67c125c8/">环境工程与经济学（双学位）</a><small>Bachelor of Engineering in Environmental Engineering and Bachelor of Social Sciences in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-food-consumer-sciences-and-education-819e791e58/">食品及消费者科学与教育（当前停开）</a><small>Bachelor of Science in Food &amp; Consumer Sciences and Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-geography-and-education-54af095cbe/">地理学与教育</a><small>Bachelor of Arts in Geography and Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-history-9f32ffc9ef/">历史学</a><small>Bachelor of Arts in History · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-history-and-chinese-658762af1e/">历史学与中文（双主修）</a><small>Bachelor of Arts in History and Chinese · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-history-and-education-4061562540/">历史学与教育</a><small>Bachelor of Arts in History and Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-history-and-linguistics-and-multilingual-studies-5ae0b3dbc1/">历史学与语言学及多语研究（双主修）</a><small>Bachelor of Arts in History and Linguistics &amp; Multilingual Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-information-engineering-and-media-b8877e7f4b/">信息工程与媒体</a><small>Bachelor of Engineering (Information Engineering &amp; Media) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-information-engineering-and-media-and-economics-dbd4b22772/">信息工程与媒体与经济学（双学位）</a><small>Bachelor of Engineering in Information Engineering and Media and Bachelor of Social Sciences in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-linguistics-and-multilingual-studies-70e13830e5/">语言学与多语研究</a><small>Bachelor of Arts in Linguistics &amp; Multilingual Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-linguistics-and-multilingual-studies-and-english-7a32eb503b/">语言学及多语研究与英语文学（双主修）</a><small>Bachelor of Arts in Linguistics &amp; Multilingual Studies and English · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-linguistics-and-multilingual-studies-and-philosophy-01a0f12344/">语言学及多语研究与哲学（双主修）</a><small>Bachelor of Arts in Linguistics &amp; Multilingual Studies and Philosophy · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-malay-studies-and-education-2984cfee28/">马来研究与教育</a><small>Bachelor of Arts in Malay Studies and Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-maritime-studies-bbff7fd5bf/">海事研究</a><small>Bachelor of Science (Maritime Studies) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-materials-engineering-a87bb74955/">材料工程</a><small>Bachelor of Engineering (Materials Engineering) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-materials-engineering-and-economics-9bdbdacf99/">材料工程与经济学（双学位）</a><small>Bachelor of Engineering in Materials Engineering and Bachelor of Social Sciences in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-mathematical-sciences-727badeac3/">数学科学</a><small>Bachelor of Science in Mathematical Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-mathematical-sciences-and-economics-8870b38ea2/">数学科学与经济学（双主修）</a><small>Bachelor of Science in Mathematical Sciences and Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-mathematical-and-computer-sciences-e53dfdc152/">数学与计算机科学（双主修）</a><small>Bachelor of Science in Mathematical and Computer Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-mathematics-computational-thinking-and-education-7c36760b02/">数学及计算思维与教育</a><small>Bachelor of Science in Mathematics &amp; Computational Thinking and Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-mechanical-engineering-06a1b6bb52/">机械工程</a><small>Bachelor of Engineering (Mechanical Engineering) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-mechanical-engineering-and-economics-46fc6225f7/">机械工程与经济学（双学位）</a><small>Bachelor of Engineering in Mechanical Engineering and Bachelor of Social Sciences in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-medicine-8dc93c6eba/">医学（MBBS）</a><small>Bachelor of Medicine and Bachelor of Surgery · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-music-and-education-f810f3eb59/">音乐与教育</a><small>Bachelor of Arts in Music and Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-philosophy-5444f5e7e0/">哲学</a><small>Bachelor of Arts in Philosophy · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-philosophy-and-chinese-7efddd246a/">哲学与中文（双主修）</a><small>Bachelor of Arts in Philosophy and Chinese · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-philosophy-and-history-5ef402a717/">哲学与历史学（双主修）</a><small>Bachelor of Arts in Philosophy and History · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-philosophy-politics-and-economics-20a36e4ee8/">哲学、政治与经济学</a><small>Bachelor of Social Sciences in Philosophy, Politics, &amp; Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-physics-energy-studies-and-education-495e4a2244/">物理及能源研究与教育</a><small>Bachelor of Science in Physics &amp; Energy Studies and Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-physics-and-applied-physics-c314de57bc/">物理学／应用物理学（入口组）</a><small>Bachelor of Science in Physics / Bachelor of Science in Applied Physics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-physics-and-mathematical-sciences-7f4c75483d/">物理学与数学科学（双主修）</a><small>Bachelor of Science in Physics and Mathematical Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-process-engineering-and-synthetic-chemistry-f28364166d/">过程工程与合成化学（双主修）</a><small>Bachelor of Engineering Science in Process Engineering and Synthetic Chemistry · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-psychology-509f806d3b/">心理学</a><small>Bachelor of Social Sciences in Psychology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-psychology-and-linguistics-and-multilingual-studies-ccb21eca48/">心理学与语言学及多语研究（双主修）</a><small>Bachelor of Arts in Psychology and Linguistics &amp; Multilingual Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-psychology-and-media-analytics-234cde76dd/">心理学与媒体分析（双主修）</a><small>Bachelor of Social Sciences in Psychology and Media Analytics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-public-policy-and-global-affairs-3f87662d73/">公共政策与全球事务</a><small>Bachelor of Social Sciences in Public Policy &amp; Global Affairs · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-renaissance-engineering-programme-389de438eb/">博雅工程计划（REP，本硕贯通）</a><small>Bachelor of Engineering Science+ Master of Science in Technology Management · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-robotics-73a89d92fd/">机器人工程</a><small>Bachelor of Engineering (Robotics) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-sociology-b6c4422407/">社会学</a><small>Bachelor of Social Sciences in Sociology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-sport-science-and-education-76ffe1bf2b/">体育科学与教育</a><small>Bachelor of Science in Sport Science and Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-sport-science-and-management-a30b327639/">体育科学与管理</a><small>Bachelor of Science (Sport Science &amp; Management) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-sport-science-and-management-fitness-and-health-f47a3d328b/">体育科学与管理—健康与健身</a><small>Bachelor of Science (Sport Science &amp; Management) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-sport-science-and-management-high-performance-sport-40ffacca2f/">体育科学与管理—高水平竞技体育</a><small>Bachelor of Science (Sport Science &amp; Management) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-sport-science-and-management-sport-management-a964b63495/">体育科学与管理—体育管理</a><small>Bachelor of Science (Sport Science &amp; Management) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-tamil-studies-and-education-94f4716cfc/">泰米尔研究与教育</a><small>Bachelor of Arts in Tamil Studies and Education · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -139,59 +152,187 @@ hide:
 
 ### 入学条件
 
-<p class="catalog-fact"><strong>普高／高考路径：</strong>普高课程体系应按高考类别申请，包括自行参加AP或SAT科目考试而未参加高考者。已获高考成绩须至少达到总分80%，并交学信网CSSD验证；高三可先用高一高二成绩申请。最低资格不等于录取线。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-66ff1dac2a1f77">官方依据</a></p>
+<p class="catalog-fact"><strong>中国普高／高考资格：</strong>就读中国高考课程体系须按高考类别申请，即使另自学AP／SAT或未参加高考。已获高考成绩须至少总分80%，提交学信网CSSD验证；高三可先交高一高二成绩。学校另看专业科目及竞争情况，80%是申请底线，并非录取线。</p>
+<p class="fact-sources"><a href="#source-u-NTU-fde2dd7da4fff230">官方依据</a></p>
 
-<p class="catalog-fact"><strong>2027起的面试变更：</strong>2027学年起，不再用高一高二成绩决定是否邀请面试；须在高考成绩发布后3天内交实际成绩，2027高考申请者面试安排在7月。高考不是以在校成绩代替后即可跳过。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-66ff1dac2a1f77">官方依据</a></p>
+<p class="catalog-fact"><strong>2027起高考面试规则：</strong>2027学年起高一高二成绩不再用于决定面试入围；实际高考成绩发布后3天内须补交，2027高考申请者面试在7月。不能用在校成绩替代最终高考。最终成绩晚于4月1日者当年不获医学／REP考虑；REP还有公民／PR限制。</p>
+<p class="fact-sources"><a href="#source-u-NTU-fde2dd7da4fff230">官方依据</a></p>
 
-<p class="catalog-fact"><strong>英语与专业资格：</strong>高考类别另须英语证明，例如IELTS总分6.0、写作及口语各6.0；或旧制TOEFL90、口语25，2026年起新制4.5、口语4.5；或SAT1250。部分竞争强、非理工或联合项目要求更高。4月1日以后才有最终成绩者，本轮不能获Medicine或REP考虑；REP另有国籍限制须看专业记录。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-66ff1dac2a1f77">官方依据</a></p>
+<p class="catalog-fact"><strong>高考类别英语：</strong>可用IELTS总分6.0且写作、口语各6.0；TOEFL旧制90且口语25，新制按该页2026年起为总分4.5且口语4.5；或SAT1250、PTE55且口语55等官方所列证明。强竞争、非理工及联合课程可能要求更高。AST仅为可选补充，不替代高考。</p>
+<p class="fact-sources"><a href="#source-u-NTU-fde2dd7da4fff230">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英国A-level体系：</strong>原则上至少4门Advanced Level科目且同一最终考试期，可跨考试局但不能拼不同考试期。三门仅个案考虑，且不适用于申请补贴学费的国际申请者。只有实际成绩获考虑；8月才发布的成绩不能用于同年入学，应申请下一年。以高中数学为先修时，A-level数学满足科目要求，不因另修Further Mathematics自动有优势。</p>
+<p class="fact-sources"><a href="#source-u-NTU-f626694d8f2612b2">官方依据</a></p>
+
+<p class="catalog-fact"><strong>A-level英语与出分限制：</strong>非英语教学或英语为第二语言等申请者须按资格页提交英语证明，例如IELTS6.0、写作／口语6.0。实际成绩发布后3天内提交；4月1日以后出分者不获当年医学／REP考虑，7月15日以后出分者不获当年艺术设计媒体考虑。</p>
+<p class="fact-sources"><a href="#source-u-NTU-f626694d8f2612b2">官方依据</a></p>
+
+<p class="catalog-fact"><strong>IB体系：</strong>以3门HL、3门SL中良好的5、6、7分组合及EE、TOK表现申请；数学AA与AI均可，HL／SL层级依项目科目表。必须授权IBO直接发成绩，只凭实际成绩作决定，发布后3天内补交。当前仍标2026的IB资格页排除当年5月考试者申请医学、REP、NIE教育本科；本轮未取得2027版该限制的更新。</p>
+<p class="fact-sources"><a href="#source-u-NTU-a47c89fc3b593a72">官方依据</a></p>
+
+<p class="catalog-fact"><strong>先修表年度边界：</strong>逐专业引用的国际／IB最低科目表为2026公开版：IB末页明确截至2026年2月，国际表含2026申请日期。它们说明当前可核的先修参考，不是已经确认的2027全部门槛；新加坡H1/H2成绩不会作为中国高考或英国A-level的直接分数换算。</p>
+<p class="fact-sources"><a href="#source-u-NTU-4071c0a04323c002">官方依据</a> · <a href="#source-u-NTU-25a15840eec9d2c3">官方依据</a></p>
 
 ### 申请安排
 
-<p class="catalog-fact"><strong>2027/28申请开放：</strong>官方2027/28主指南列国际资格从2026年10月15日开放，总窗口至2027年3月19日但明确各资格截止不同。截至2026-09-12尚未到开放日；不能把3月19日直接当作高考类别截止。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-00e86da115b841">官方依据</a></p>
+<p class="catalog-fact"><strong>2027/28申请时间：</strong>主指南列IB为2026年10月15日至2027年3月19日；其他国际资格总窗口也是这段时间，但各学历最终截止不同。截至2026-09-13尚未开放。中国高考类别的2027专属截止本轮尚未取得，不能直接套3月19日。</p>
+<p class="fact-sources"><a href="#source-u-NTU-c85fe49a73991279">官方依据</a></p>
 
-<p class="catalog-fact"><strong>高考专属截止待更新：</strong>国际资格分表本轮仍列2026届高考窗口2025-10-15至2026-01-20且已关闭。2027高考类别最终截止尚未从该表取得；保留与2027主指南的年度差异。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-35596466a87994">官方依据</a></p>
+<p class="catalog-fact"><strong>旧周期与申请渠道：</strong>按所持学历通过NTU对应在线入口提交，国际申请费SGD25。国际分表仍列已关闭的2026周期：高考2025-10-15至2026-01-20、英国A-level至2026-03-19；这些日期仅作旧周期参考。IELTS／TOEFL／PTE通常在截止前两年内，SAT／ACT通常五年内。</p>
+<p class="fact-sources"><a href="#source-u-NTU-7eeab84f17d1bf73">官方依据</a></p>
 
 ### 学费与资助
 
-<p class="catalog-fact"><strong>2026年固定年费：</strong>普通全日制“其他国际生”获补贴档为SGD21,400/年；表内指定会计及商科等为21,800，医学91,250，REP32,000。各档含GST，按2026接受录取者固定；不能当2027报价或预设申请者获得补贴。非补贴普通课程分实验40,600/非实验36,350，商科指定档45,600。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-9c7a9568962a5c">官方依据</a></p>
+<p class="catalog-fact"><strong>学费年份与身份：</strong>本轮取得的是2026接受录取者固定年费，并非2027报价。中国籍且非新加坡PR通常看“其他国际生”列；是否获MOE Tuition Grant必须以录取及补贴批准为准。普通课程获TG为SGD21,400／年；表内指定会计、商科及相关双学位为21,800。具体例外及非补贴费用见专业记录。</p>
+<p class="fact-sources"><a href="#source-u-NTU-fcdab2a3fdb808a4">官方依据</a></p>
 
-<p class="catalog-fact"><strong>Tuition Grant附带义务：</strong>非新加坡公民含PR接受Tuition Grant须签协议，毕业后在新加坡实体工作3年；需在录取申请表表明选择、获批后完成注册及签署。补贴不是无条件奖学金；未完成手续须付非补贴费。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-6dc320d1ca7eb1">官方依据</a></p>
+<p class="catalog-fact"><strong>学费补助与服务义务：</strong>国际生须在申请表选择TG，获批后完成登记并由本人及两名合资格担保人签署。接受TG的非新加坡公民一般须毕业后在新加坡实体工作3年；不选择或未完成登记签署须缴非补贴费。医学另有更长公共医疗服务约定；NIE国际教育自费与在职BTech不按此普通方案推定。</p>
+<p class="fact-sources"><a href="#source-u-NTU-2f7359644a289141">官方依据</a></p>
 
-<p class="catalog-fact"><strong>Nanyang Global Scholarship：</strong>该奖面向各国籍的优秀全日制新生；覆盖补贴后学费，另有每年生活费SGD6,500、校内住宿最多2,000等。续奖须CGPA至少3.5/5及良好表现；MOE补贴的3年义务仍适用。Year12同等资格申请者先申请录取，奖学金与其资格类别同截止，并提交文书与教师评价。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-af4b41fc3e016c">官方依据</a></p>
+<p class="catalog-fact"><strong>2026已录取者TG手续：</strong>AY2026/27新生TG登记为2026-09-14至09-18；签署期09-19至10-18。这里是2026届入学后手续，不是2027新生的申请截止。</p>
+<p class="fact-sources"><a href="#source-u-NTU-2f7359644a289141">官方依据</a></p>
+
+<p class="catalog-fact"><strong>Nanyang Global Scholarship：</strong>面向各国籍优秀全日制新生，重学术、领导力及课外表现；覆盖获TG后的补贴学费，生活津贴SGD6,500／年、校内住宿最多2,000／年等。每学期审核，须CGPA至少3.5/5及良好表现；国际生TG三年服务义务仍适用。</p>
+<p class="fact-sources"><a href="#source-u-NTU-9072898b390ab74c">官方依据</a></p>
+
+<p class="catalog-fact"><strong>奖学金申请：</strong>先申请录取，再在本人学历类别截止前申请奖学金；需最多250词文书及非亲属学校教师评价，教师通常应在奖学金申请后7天内提交。奖学金不能当作已取得TG或全部费用均获覆盖。</p>
+<p class="fact-sources"><a href="#source-u-NTU-9072898b390ab74c">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>2025毕业调查范围：</strong>MOE公布NTU2025届5,950名应届毕业生调查，回应率75.1%；医学另为2024届145名的一年后随访，总回应率45.5%。专业表公布回应率，但未给每组实际回应人数／劳动力人数。就业百分比以回应者中劳动力人口为分母；薪资仅全职长期就业者，未单列中国籍或国际生。</p>
+<p class="fact-sources"><a href="#source-u-NTU-d53f995e88d4d767">官方依据</a></p>
 
 ### 学校资料来源
 
-<div class="catalog-source" id="source-u-ASREN-66ff1dac2a1f77"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/prc-gaokao">NTU高考申请资格 ↗</a><p>普高／高考路径；2027起的面试变更；英语与专业资格</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-ASREN-00e86da115b841"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide">NTU AY2027/28申请指南 ↗</a><p>2027/28申请开放</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-ASREN-35596466a87994"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications">NTU国际资格申请表 ↗</a><p>高考专属截止待更新</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-ASREN-9c7a9568962a5c"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-fees/accepted-programme-offer-in-2026">NTU接受2026入学录取的收费表 ↗</a><p>2026年固定年费</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-ASREN-6dc320d1ca7eb1"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-grants">NTU Tuition Grant ↗</a><p>Tuition Grant附带义务</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-ASREN-af4b41fc3e016c"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/nanyang-scholarship">NTU Nanyang Global Scholarship ↗</a><p>Nanyang Global Scholarship</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-NTU-25a15840eec9d2c3"><div><a href="https://www.ntu.edu.sg/media/docs/default-source/undergraduate-admissions/msr/emsr_ib.pdf?sfvrsn=22f65e0e_3">NTU官方资料 ↗</a><p>截至2026年2月IB各项目科目层级与选拔表；非2027已确认门槛</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTU-2f7359644a289141"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-grants">Tuition Grants | NTU Singapore ↗</a><p>国际生选择、获批及签署TG；三年工作义务、未完成手续自费；2026注册日期</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTU-4071c0a04323c002"><div><a href="https://www.ntu.edu.sg/media/docs/default-source/undergraduate-admissions/msr/emsr_intnl.pdf?sfvrsn=35f52b2c_5">NTU国际及其他资格最低科目表（2026参考） ↗</a><p>国际资格各课程高中／初中先修、HSK、选拔及NIE／REP身份限制</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTU-7eeab84f17d1bf73"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications">International Qualifications | NTU Singapore ↗</a><p>旧2026申请分表、申请费及英语考试有效期</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTU-9072898b390ab74c"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/nanyang-scholarship">Nanyang Global Scholarship | NTU Singapore ↗</a><p>全日制新生奖学金资格、TG约束、金额、续奖及申请</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTU-a47c89fc3b593a72"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/ib-diploma">International Baccalaureate (IB) Diploma | NTU Singapore ↗</a><p>IB总体申请资格、实际成绩及部分项目当年考试限制</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTU-c85fe49a73991279"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide">Admission Guide | NTU Singapore ↗</a><p>AY2027/28国际资格与IB开放窗口，资格截止差异</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTU-d53f995e88d4d767"><div><a href="https://www.moe.gov.sg/media/files/post-secondary/ges-2025/Web%20Publication%20NTU%20GES%202025.pdf">Singapore MOE NTU 2025 Graduate Employment Survey ↗</a><p>MOE NTU GES2025三页官方表、42个统计组、调查分母及脚注1–15；医学为2024届随访</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTU-f626694d8f2612b2"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/uk-a-level-certificates-cambridge-pre-u">UK A-Level certificates Cambridge Pre-U | NTU Singapore ↗</a><p>英国A-level同考期四门、非公民补贴资格、实际成绩时间与英语</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTU-fcdab2a3fdb808a4"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-fees/accepted-programme-offer-in-2026">Accepted Programme Offer in 2026 | NTU Singapore ↗</a><p>2026接受录取者按项目组、国际身份及补贴状态的年费；含GST及固定费率</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTU-fde2dd7da4fff230"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/prc-gaokao">PRC National College Entrance Exam Gao Kao | NTU Singapore ↗</a><p>高考80%申请底线、英语、2027面试变更、实际成绩期限与医学／REP限制</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**已完成所列官方目录范围的对账**，共 104 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 117 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
+<p><strong>统计范围：</strong>104个原学位/主修/特殊入口，加10个具名工程经济双学位及3个SSM在读方向；目录总览不代表额外学位</p>
 
-<p><strong>对账方法：</strong>[{&quot;table&quot;: 0, &quot;included&quot;: 48}, {&quot;table&quot;: 1, &quot;included&quot;: 49}, {&quot;table&quot;: 2, &quot;included&quot;: 6}, {&quot;table&quot;: 3, &quot;included&quot;: 1}]</p>
+<p><strong>对账方法：</strong>逐原104身份核课程、学历先修、年度费用及毕业统计；38项来源支持更正按ID合并，13项新增逐条配对，普通/NIE/BTech/REP/医学分别处理。</p>
 
 <p><strong>排除项：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
 
 **尚未解决的目录缺口：**
 
-- Catalogue is AY2026, and explicitly directs applicants to admissions pages for the upcoming academic year.
-- Education/NIE routes can have sponsor and applicant restrictions; listing alone is not international eligibility.
-- Second-major add-ons, stand-alone minors and graduate tables excluded.
+- 34个第二主修框架仍待逐项规范化，其中旧Food Science and Technology自2024/25停办；55个独立辅修不作为新增学位。
+- ADM、金融应用计算、BTech、数学、物理、EESS和REP具名内部方向及NIE轨道尚未全部独立对账；不能把117条当全校所有组合或117种独立学位。
+- 2027中国高考资格专属最终截止、部分专业完整2027课程与2027费表未取得；国际与IB公开先修表仍为2026版本。
+- 一般项目无Tuition Grant全额实验/非实验收费归类未全部逐专业证实，不自动选择较低价格。
+- GES为2025劳动力回应者口径，部分为旧学位或合并组、医学为2024届随访；没有各组实际N及中国/国际生细分，不作为单方向就业保证。
 
 - [官方目录来源](https://www.ntu.edu.sg/education/degree-programmes)
+- [官方目录来源](https://www.ntu.edu.sg/media/docs/default-source/undergraduate-admissions/msr/emsr_ib.pdf?sfvrsn=22f65e0e_3)
+- [官方目录来源](https://www.ntu.edu.sg/media/docs/default-source/undergraduate-admissions/msr/emsr_intnl.pdf?sfvrsn=35f52b2c_5)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-accountancy)
+- [官方目录来源](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/ib-diploma)
+- [官方目录来源](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide)
+- [官方目录来源](https://www.moe.gov.sg/media/files/post-secondary/ges-2025/Web%20Publication%20NTU%20GES%202025.pdf)
+- [官方目录来源](https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-fees/accepted-programme-offer-in-2026)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/accountancy-for-future-leaders-bachelor-of-accountancy-in-sustainability-management-and-analytics#curriculum)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-aerospace-engineering)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-applied-computing-in-finance)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-art-design-media)
+- [官方目录来源](https://www.ntu.edu.sg/adm/programmes/undergraduate-admissions/adm-admission-requirements)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-hons-in-artificial-intelligence-and-society)
+- [官方目录来源](https://www.ntu.edu.sg/computing/admissions/undergraduate-programmes/curriculum-structure)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-bioengineering)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-biological-sciences)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-business)
+- [官方目录来源](https://www.ntu.edu.sg/business/admissions/ugadmission/undergraduate-programmes/bachelor-of-business/single-major)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-chemical-and-biomolecular-engineering)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-chemistry-and-biological-chemistry)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-in-chinese)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-chinese-medicine)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-civil-engineering)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-communication-studies)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-computer-engineering)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-computing-in-computer-science)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-technology-in-computing-skillsfuture-work-study-degree)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-data-science-artificial-intelligence)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-in-economics-(honours))
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-economics-and-data-science)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-electrical-and-electronic-engineering-(eee))
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-in-english)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-(bsc)-in-environmental-earth-systems-science)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-environmental-engineering)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-in-history)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-information-engineering-and-media-iem)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-linguistics-and-multilingual-studies)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-maritime-studies)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-materials-engineering)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-mathematical-sciences)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-mechanical-engineering)
+- [官方目录来源](https://www.ucat.ac.uk/about-ucat/ucat-test-dates/)
+- [官方目录来源](https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/nanyang-scholarship)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-medicine-and-bachelor-of-surgery-(mbbs))
+- [官方目录来源](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/prc-gaokao)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-physics-applied-physics)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-philosophy)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-science-in-philosophy-politics-and-economics)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-in-psychology-(honours))
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-in-public-policy-and-global-affairs-(honours))
+- [官方目录来源](https://www.ntu.edu.sg/mae/admissions/undergraduate-programmes/detail/bachelor-of-engineering-in-robotics)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-in-sociology-(honours))
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-sport-science-management#programme)
+- [官方目录来源](https://www.ntu.edu.sg/nie/about-us/academic-departments/physical-education-and-sports-science/programmes/bachelor-of-science-in-sport-science-management/ssm-curriculum-from-ay2025)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-biological-sciences-and-psychology)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-biomedical-sciences-and-biobusiness)
+- [官方目录来源](https://www.ntu.edu.sg/business/admissions/ugadmission/undergraduate-programmes/bachelor-of-business/double-major)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---chinese-and-english)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---chinese-and-linguistics-and-multilingual-studies)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-(hons)-in-double-major---economics-and-media-analytics)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-(hons)-in-double-major---economics-and-psychology)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-(hons)-in-double-major---economics-and-public-policy-global-affairs)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---english-and-history)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---english-and-philosophy)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---english-literature-and-art-history)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-environmental-earth-systems-science-and-public-policy-and-global-affairs)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---history-and-chinese)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---history-and-linguistics-and-multilingual-studies)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---linguistics-and-multilingual-studies-and-english)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---linguistics-and-multilingual-studies-and-philosophy)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-mathematical-and-computer-sciences)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-mathematical-sciences-and-economics)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---philosophy-and-chinese)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---philosophy-and-history)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-physics-and-mathematical-sciences)
+- [官方目录来源](https://www.ntu.edu.sg/cceb/admissions/detail/bachelor-of-engineering-science-with-double-majors-in-process-engineering-and-synthetic-chemistry#programme)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-(hons)-in-double-major---psychology-and-media-analytics)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---psychology-and-linguistics-multilingual-studies)
+- [官方目录来源](https://www.ntu.edu.sg/media/docs/nielibraries/ote-documents/handbook---degree/dmp-handbook_ay2026-2027.pdf?sfvrsn=8a55a0a3_3)
+- [官方目录来源](https://www.ntu.edu.sg/nie/admissions/undergraduate-education-admissions/general-entry-requirements)
+- [官方目录来源](https://www.ntu.edu.sg/nie/admissions/itp-faqs/full-fee-paying-faq)
+- [官方目录来源](https://www.ntu.edu.sg/media/docs/nielibraries/ote-documents/programme/general-information.pdf?sfvrsn=30825969_18)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-accountancy-business)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-accountancy-and-science)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-business-and-computer-engineering-or-computer-science)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-computer-engineering-and-business-(specialisation-in-business-analytics))
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-computer-science-and-economics)
+- [官方目录来源](https://www.ntu.edu.sg/sss/admissions/undergraduate-education/double-degree-option)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/renaissance-engineering-programme-(rep))
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-bachelor-of-engineering-(bioengineering)-and-bachelor-of-social-science-(economics))
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-bachelor-of-engineering-(chemical-and-biomolecular-engineering)-and-bachelor-of-social-science-(economics))
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-civil-engineering-and-economics)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-computer-engineering-and-economics)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-environmental-engineering-and-economics)
+- [官方目录来源](https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-materials-engineering-and-in-economics)
+- [官方目录来源](https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-grants)
+- [官方目录来源](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications)
+- [官方目录来源](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/uk-a-level-certificates-cambridge-pre-u)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

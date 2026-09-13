@@ -26,6 +26,30 @@
       "locator": null
     },
     {
+      "url": "https://financialaid.uchicago.edu/undergraduate/how-aid-works/undergraduate-costs/",
+      "sha256": "a0725e64e56e21172e0945e4f13830da1155dd3afb3e76ceec976e4602bed400",
+      "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/costs-dom.txt",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/programsofstudy/",
+      "sha256": "c7d52169fb910e8267b434395bd86852a27e01ca7daf0c5ef502cc29cd70f198",
+      "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/programsofstudy.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/degreerequirements/",
+      "sha256": "c199eccffada87db2064df6af19639d2d0fecc388f87a9054380611be07090b9",
+      "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/degree-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/gradingandacademicstatus/",
+      "sha256": "1b752906f097ecdacf9fb4299ff4ad12555f612a2036aedb2d0679df304f9b4a",
+      "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/enrollment.html",
+      "locator": null
+    },
+    {
       "url": "http://collegecatalog.uchicago.edu/thecollege/climate/",
       "sha256": "860a7ac3520e91861887e29e9a36b5e4e4f0429f432b7d277606cc57f9558f96",
       "raw_file": "scratch/full-catalog/us-details/uchicago/b1e29d5af44741f18e84.html",
@@ -311,6 +335,60 @@
       "url": "http://collegecatalog.uchicago.edu/thecollege/chemistry/",
       "sha256": "15971fe6049dab473ed4b9d3c647d076fb5f3a0cc31e8af2bf4f7d52312db1a4",
       "raw_file": "scratch/full-catalog/us-details/uchicago/907bb759e6f44b1212c2.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/archaeology/",
+      "sha256": "e11c72e6eb346460be2c0abdfe54d71168c3b06d2accc82982dec7f39bf6cd2f",
+      "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/archaeology.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/curriculum/",
+      "sha256": "3c0cf8719768009ef2dae903a71eec2b3ae4ae26361471cc74d667dd4d1d3914",
+      "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/curriculum.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/arthistory/",
+      "sha256": "29fccfaad3a670b3ab5cfe183064851347daa020310f3b335e1956bb62e0ad8d",
+      "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/arthistory.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/cognitivescience/",
+      "sha256": "9720c4061bae82cfb5ad2ebc6060d3bf0988c7f4b82a2449202ef51de3a2d9aa",
+      "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/cognitivescience.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/datascience/",
+      "sha256": "d6352262ef1142573ffd67614aec082ce586aa3969e98668366a2b3bf7c4999c",
+      "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/datascience.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/cegu/",
+      "sha256": "0e6f7529e96dcfb0803bde38748d8905b5195e509feed90d013084dae2199605",
+      "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/cegu.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/latinamericanstudies/",
+      "sha256": "8f548188a90f2211629c4516420c01488091a17efc6f18917e966678a9f0ef47",
+      "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/latinamericanstudies.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/molecularengineering/",
+      "sha256": "3919b5364addda208543d524e2939fad6c0706391d2e659548ea1b43c595a073",
+      "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/molecularengineering.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/rdin/",
+      "sha256": "afd3cefa2e72b87b116b5f6473558c228e7cd2bf3e37032976ddb14eff52d672",
+      "raw_file": "scratch/full-catalog/uchicago-gap-enrichment/raw/rdin.html",
       "locator": null
     }
   ]

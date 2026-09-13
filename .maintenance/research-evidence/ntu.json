@@ -2,40 +2,70 @@
   "university_id": "ntu",
   "sources": [
     {
-      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/prc-gaokao",
-      "sha256": "6343a52d5ca654e2da3894adc3aa52e3e6eaea64c02a6a4b08914f0695c34fa0",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/china.html",
-      "locator": "Minimum Requirement to Apply"
-    },
-    {
-      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide",
-      "sha256": "a62277e9ed45e6442768071ce756954cfd8a9631d125b7aef550e0036143d243",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/guide.html",
-      "locator": "Admissions To Academic Year 2027-28 Undergraduate Programmes"
-    },
-    {
-      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications",
-      "sha256": "32399b3d21167ede4b503c55bdd62c4010f58f40dc5d89f90b1e0801fc2e81ee",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/international.html",
-      "locator": "Application Period table, PRC Gao Kao"
-    },
-    {
-      "url": "https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-fees/accepted-programme-offer-in-2026",
-      "sha256": "cf6ad6eefff0a4b2bddc6cf9026df9686f01e15f1f6dd3a63c6e81f7e1f9f002",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/tuition.html",
-      "locator": "Tuition Fees table"
+      "url": "https://www.ntu.edu.sg/media/docs/default-source/undergraduate-admissions/msr/emsr_ib.pdf?sfvrsn=22f65e0e_3",
+      "sha256": "8281aa1b59adce72577fc907b5713e6093c969c3f3463ddedbdb42950527cac6",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/ib-subjects.pdf",
+      "locator": "PDF pp2–7（表格已逐页目视）"
     },
     {
       "url": "https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-grants",
       "sha256": "252f2a426c00ef9a8b5babb6b6729cd371ebad3ab15d1db4273fe5b9d0a2de4c",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/grant.html",
-      "locator": "Who is Eligible; Permanent Residents and international students"
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/current-tuition-grants.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/media/docs/default-source/undergraduate-admissions/msr/emsr_intnl.pdf?sfvrsn=35f52b2c_5",
+      "sha256": "7e3acebd34e5985ba4825e2261592487fd3d8ed5ab67aa17a0ce3c5f04bb100c",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/subject-requirements.pdf",
+      "locator": "PDF pp2–8（表格已逐页目视）；末页2026申请日期"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications",
+      "sha256": "32399b3d21167ede4b503c55bdd62c4010f58f40dc5d89f90b1e0801fc2e81ee",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/current-international-qualifications.html",
+      "locator": "公开正文相应标题、表格"
     },
     {
       "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/nanyang-scholarship",
       "sha256": "eb86dd632cfa5f033b40d76f365fda4c00ef682deb92ab183649daa1aa55accb",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/scholarship.html",
-      "locator": "Eligibility; Benefits; Terms; Application Procedures"
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/current-nanyang-scholarship.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/ib-diploma",
+      "sha256": "f78c19eeb770c528273e87fa15fa14cee89e766caad65937ed7ead55a0563a4f",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/ib-intl.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide",
+      "sha256": "a62277e9ed45e6442768071ce756954cfd8a9631d125b7aef550e0036143d243",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/current-admission-guide.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
+      "url": "https://www.moe.gov.sg/media/files/post-secondary/ges-2025/Web%20Publication%20NTU%20GES%202025.pdf",
+      "sha256": "24551a102cbb7a694d1f00bc692ffc009a84e49b44a4a164f26826bab6735727",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/root-ges/ntu-ges2025-web.txt",
+      "locator": "PDF pages1–3"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/uk-a-level-certificates-cambridge-pre-u",
+      "sha256": "8911950df1d1e5812290696dcc8924859ec3f94ad1af6bc52e8343f39f5145f2",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/uk-a-level.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-fees/accepted-programme-offer-in-2026",
+      "sha256": "cf6ad6eefff0a4b2bddc6cf9026df9686f01e15f1f6dd3a63c6e81f7e1f9f002",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/current-accepted-programme-offer-in-2026.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/prc-gaokao",
+      "sha256": "6343a52d5ca654e2da3894adc3aa52e3e6eaea64c02a6a4b08914f0695c34fa0",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/current-prc-gaokao.html",
+      "locator": "公开正文相应标题、表格"
     },
     {
       "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-accountancy",
@@ -68,10 +98,22 @@
       "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
     },
     {
+      "url": "https://www.ntu.edu.sg/adm/programmes/undergraduate-admissions/adm-admission-requirements",
+      "sha256": "0e160e17398777c92127c7e41f0088217fe7afb15782b0e6a12e022b8967fe68",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/adm-requirements.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
       "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-hons-in-artificial-intelligence-and-society",
       "sha256": "16e058c743029de074532b83a30a6c2bd2c518452d45bf6704de577e656b393c",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-134a1403bea2a1f81c20.html",
       "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/computing/admissions/undergraduate-programmes/curriculum-structure",
+      "sha256": "688bfd0e447b7acf025e8c1fa457cd4024c1cca93e3e237b84bd375ac00c85b0",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/computing-curriculum.html",
+      "locator": "公开正文相应标题、表格"
     },
     {
       "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-bioengineering",
@@ -92,10 +134,10 @@
       "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
     },
     {
-      "url": "https://www.ntu.edu.sg/education/degree-programmes",
-      "sha256": "ecb00757ab504083702dc05fdf84764082960e65531b4ca27d4934351ce2b2d0",
-      "raw_file": "scratch/full-catalog/asia/ntu/raw/directory.html",
-      "locator": "degree-programmes tables"
+      "url": "https://www.ntu.edu.sg/business/admissions/ugadmission/undergraduate-programmes/bachelor-of-business/single-major",
+      "sha256": "5eb82135b940c503af657eea4f67efd93faddb75450df6e5dd96aa321a35063e",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-59757583d2395149e4d4.html",
+      "locator": "公开正文相应标题、表格"
     },
     {
       "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-chemical-and-biomolecular-engineering",
@@ -176,6 +218,12 @@
       "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
     },
     {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-in-english",
+      "sha256": "037c63cfb0dc12aeeb892b3b732a24c00265f8a61ce042d37709af241a6633a3",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/english-degree.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
       "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-(bsc)-in-environmental-earth-systems-science",
       "sha256": "67b6a5267bf358d1d37ee9a7d5f394bdbdf86111e8d9ed3f0711eeba2792b380",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-7f718127d95aacb24fe8.html",
@@ -230,6 +278,12 @@
       "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
     },
     {
+      "url": "https://www.ucat.ac.uk/about-ucat/ucat-test-dates/",
+      "sha256": "2eca97dda9540707981c0a4db27c7f03261dd3bfc8323296fc61998d9427837a",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/ucat-2026.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
       "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-medicine-and-bachelor-of-surgery-(mbbs)",
       "sha256": "ed3bd5339d337a018d9954f7eae1c67e1477ae3192b755ea5695afe7fbb152fa",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-9629ca6ea701ab2f1e75.html",
@@ -278,6 +332,18 @@
       "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
     },
     {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-sport-science-management#programme",
+      "sha256": "44f966d8283fc7c4b0793ccac0fab429338fff8b124207622bd38515c94508ff",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/ssm-degree.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/nie/about-us/academic-departments/physical-education-and-sports-science/programmes/bachelor-of-science-in-sport-science-management/ssm-curriculum-from-ay2025",
+      "sha256": "b8663ab9a1964a606e850d38953b949308db8e37e3b65cbb855bb9a9d3b66904",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/ssm-curriculum.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
       "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-biological-sciences-and-psychology",
       "sha256": "a231ece15ad853692f81fcbdff7310c5ebd51b981e5998525acece16f7f1e6aa",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-efe354d0503fd86e1b3a.html",
@@ -288,6 +354,12 @@
       "sha256": "59633475b6e70f470b09bb1eb2433908df105992e1f5dc42822659cff99bd728",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-44f6a3eebd3f04b2126b.html",
       "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/business/admissions/ugadmission/undergraduate-programmes/bachelor-of-business/double-major",
+      "sha256": "5c1b3a7c00c4e0b4d7163f6a4affe015a51240d5b926798d9bf6fbe4a18f9fa5",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-7958d4af9f3fa72b9266.html",
+      "locator": "公开正文相应标题、表格"
     },
     {
       "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---chinese-and-english",
@@ -416,16 +488,40 @@
       "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
     },
     {
-      "url": "https://www.ntu.edu.sg/media/docs/default-source/undergraduate-admissions/msr/emsr_intnl.pdf?sfvrsn=35f52b2c_5",
-      "sha256": "7e3acebd34e5985ba4825e2261592487fd3d8ed5ab67aa17a0ce3c5f04bb100c",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/subject-requirements.pdf",
-      "locator": "PDF pages2 and8, footnotes"
+      "url": "https://www.ntu.edu.sg/media/docs/nielibraries/ote-documents/handbook---degree/dmp-handbook_ay2026-2027.pdf?sfvrsn=8a55a0a3_3",
+      "sha256": "e585647282e8cd1106f8ec4f1f78afc811e0a10a911b66da2743b1883d9b8005",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/nie-handbook-2026.pdf",
+      "locator": "PDF pp8–10,16–24,43ff; printed pp110–269 academic-discipline tables"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/nie/admissions/undergraduate-education-admissions/general-entry-requirements",
+      "sha256": "083b7757a692c4c322f2c6742e6f21ba317f5a2dc57b52f4a6f13c5096258e73",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/nie-entry.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/nie/admissions/itp-faqs/full-fee-paying-faq",
+      "sha256": "eac1583e4895f59bda5469070f02f25d20ddcea47a288578e171335df69c75e1",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/nie-full-fee.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/media/docs/nielibraries/ote-documents/programme/general-information.pdf?sfvrsn=30825969_18",
+      "sha256": "64ab143b245f6d1be6223c06d911fea19c750f6d5cc5a47c47a86787b66e0789",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/nie-general-information.pdf",
+      "locator": "PDF pp33,36"
     },
     {
       "url": "https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-accountancy-business",
       "sha256": "b4e796ca50b7d1cd8b7bbb404d19f5aef01e19f81240b5d2d7f1ddca53ff7605",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-6601986ce4b7e72ca22a.html",
       "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/degree-programmes",
+      "sha256": "ecb00757ab504083702dc05fdf84764082960e65531b4ca27d4934351ce2b2d0",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/directory.html",
+      "locator": "公开正文相应标题、表格"
     },
     {
       "url": "https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-accountancy-and-science",
@@ -452,10 +548,52 @@
       "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
     },
     {
+      "url": "https://www.ntu.edu.sg/sss/admissions/undergraduate-education/double-degree-option",
+      "sha256": "3a6fca3b18a2308fa5febc143af74cc0aea01b7b7eac76dfb2370c377847044c",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/engineering-econ.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
       "url": "https://www.ntu.edu.sg/education/undergraduate-programme/renaissance-engineering-programme-(rep)",
       "sha256": "8c77afc4f0ce13d1842ace67fd1e2b5bc8a699be17c59c76559774d92e1f7f79",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-3cead3cdb5ca8ee9ed6e.html",
       "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-bachelor-of-engineering-(bioengineering)-and-bachelor-of-social-science-(economics)",
+      "sha256": "40cfc011d8425a9b03ada1f50eb4de5afceee642ab56ad0b67c3f11ef0b8b9e9",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/econ-6.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-bachelor-of-engineering-(chemical-and-biomolecular-engineering)-and-bachelor-of-social-science-(economics)",
+      "sha256": "3401bdff65cbbf56ee9f69f13fb21587160e89b5bbc681604223f4a98582d0fe",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/econ-16.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-civil-engineering-and-economics",
+      "sha256": "4c88fd6b8c728cfaa7b0788c18e2ada0f7d90d5c2639213923a2c4c55e7d453e",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/econ-20.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-computer-engineering-and-economics",
+      "sha256": "e5d144ffa846400da3c423fd6cb721e52c89db65841f54d54f76bedaa9a111a7",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/econ-22.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-environmental-engineering-and-economics",
+      "sha256": "07e8f2b4988926111d509b269c1fdf285065fd61d7a5c5331921bb94b2580b3b",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/econ-31.html",
+      "locator": "公开正文相应标题、表格"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-materials-engineering-and-in-economics",
+      "sha256": "8b8e8c5f492e0b3c5c332d7a00ea73e0d86f389f8bf0724bb4230132e1d6d76b",
+      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/econ-36.html",
+      "locator": "公开正文相应标题、表格"
     }
   ]
 }
