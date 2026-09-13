@@ -16,8 +16,8 @@
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs",
       "sha256": "0945f1b96cc8f2b05eb157b4e1a0afa87af69e1231a2dc111220e586f6bb70aa",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/international-fees.html",
-      "locator": "International tuition fees for 2026 entry table; exact named course"
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/international-fees.html",
+      "locator": "Main public content; named course / applicant scope"
     },
     {
       "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
@@ -29,151 +29,223 @@
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/anglo-saxon-norse-celtic-ba-hons",
       "sha256": "cc965dd346c75cddf9807123ba923f37d962612d82197ae83c9714035ba1cdcc",
       "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-anglo-saxon-norse-and-celtic-ba-hons-35519eda27.html",
-      "locator": "#course-outline; #overview Course costs; actual public Chrome tabs archived"
+      "locator": "#entry-requirements; Key information; actual public Chrome Entry requirements tab"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments",
+      "sha256": "d26cca0493ad8944c460c166f34634dc300b088ecdd563575730cd063e7f065d",
+      "raw_file": "scratch/full-catalog/cambridge-first6-admissions/raw/college-assessments.html",
+      "locator": "2027 entry; course-specific expanded accordion recorded in ui/*-assessment"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/apply/application-dates-deadlines",
+      "sha256": "88932d29daa52192c10140d112a9cd9cf88e34b34cb01f96d6978f58b18993a5",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/application-timeline.html",
+      "locator": "Main public content; named course / applicant scope"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/apply/how/cambridge-application",
+      "sha256": "e9ffb4814817a288ff28c65f1e2c620fa02eb9018079c192ef8e5ad0f94df263",
+      "raw_file": "scratch/full-catalog/cambridge-first6-admissions/raw/my-cambridge.html",
+      "locator": "See fact extraction_locator; actual public text read"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/international-students/international-applications",
+      "sha256": "4407de7f2bb91bb9ce9154f907b194df0cb9a06401c0c17548e4e7f9487be14f",
+      "raw_file": "scratch/full-catalog/cambridge-first6-admissions/raw/international-applications.html",
+      "locator": "See fact extraction_locator; actual public text read"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
       "sha256": "6cf001f3e3608c691c40e3f56022d8a5111ad9b1428e559be4ca3bf53ebaf857",
       "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-archaeology-ba-hons-0cb97da692.html",
-      "locator": "#course-outline; #overview Course costs; actual public Chrome tabs archived"
+      "locator": "#entry-requirements; Key information; actual public Chrome Entry requirements tab"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/architecture-ba-hons-march",
       "sha256": "992493eccd60a90f696e6739ee44d916cc5c679a130bbd3a4c301aebcb799f3b",
       "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-architecture-ba-hons-and-march-b395ac55e2.html",
-      "locator": "#course-outline; #overview Course costs; actual public Chrome tabs archived"
+      "locator": "#entry-requirements; Key information; actual public Chrome Entry requirements tab"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/asian-middle-eastern-studies-ba-hons",
       "sha256": "845b4529f0318b61ecb0ff73e53ebbbb99c497579fca1badcf0b44ebdfbfc9e5",
       "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-asian-and-middle-eastern-studies-ba-hons-63cde5a980.html",
-      "locator": "#course-outline; #overview Course costs; actual public Chrome tabs archived"
+      "locator": "#entry-requirements; Key information; actual public Chrome Entry requirements tab"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/chemical-engineering-biotechnology-ba-hons-meng",
       "sha256": "1ac386639090a0c8ee52d57c6cb81df2a28949b5d6589d1827280b67bd5421d3",
       "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9.html",
-      "locator": "#course-outline; #overview Course costs; actual public Chrome tabs archived"
+      "locator": "#entry-requirements; Key information; actual public Chrome Entry requirements tab"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/apply/how/science-engineering-admission-test",
+      "sha256": "03a8158505674c2a053cffc8f0f945365e0fb690f5eca6b9b38d73f55cc15cec",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/esat.html",
+      "locator": "Main public content; named course / applicant scope"
+    },
+    {
+      "url": "https://esat-tmua.ac.uk/about-the-tests/esat-test/",
+      "sha256": "e8c0d4dfd1ba527f583e0d34a6b62ef57efc2accdb4d633cd702e22b2f9621a7",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/uat-esat.html",
+      "locator": "Main public content; named course / applicant scope"
+    },
+    {
+      "url": "https://esat-tmua.ac.uk/access-arrangements/",
+      "sha256": "614a71f2657affb56c89d7b1942c5e8b41e765ad88ac6589ce1c65e0208d163e",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/uat-access.html",
+      "locator": "Main public content; named course / applicant scope"
+    },
+    {
+      "url": "https://esat-tmua.ac.uk/register/",
+      "sha256": "068c5ea502a91bb5419ac44d4b567b1b4644a152acd110b6191930a07ea96414",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/uat-register.html",
+      "locator": "Main public content; named course / applicant scope"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/classics-ba-hons",
       "sha256": "89b02b8380a54ad72d9201336806dd7be117000f3da48ba5bb9000f1e774fa33",
       "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-classics-ba-hons-55ef8cda1d.html",
-      "locator": "#course-outline; #overview Course costs; actual public Chrome tabs archived"
+      "locator": "#entry-requirements; Key information; actual public Chrome Entry requirements tab"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/computer-science-ba-hons-meng",
       "sha256": "77004a399f38fe945a20b046315affa041b9cb74def7faefa3405addc5d8285e",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-798d31e4fd78cd.html",
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-computer-science-ba-hons-and-meng-a29f97f030.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/apply/how/maths-admission-test",
+      "sha256": "c58d52299a249ede33ed3046c67b394286c26857c0a66a11ddd8f4a1ed12cf4b",
+      "raw_file": "scratch/full-catalog/cambridge-next9-enrichment/raw/tmua.html",
+      "locator": "See each fact locator"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/design-ba-hons-mdes",
       "sha256": "816a226067015232f8bdb32c4d7cffb14afaa91dd6db22d54b567adb978d7873",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-0c3a712feb8353.html",
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-design-ba-hons-and-mdes-b9f6cb3d16.html",
       "locator": "See each fact extraction_locator"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/economics-ba-hons",
       "sha256": "03cb7696a0028729b6ffe1fb5233f29574ed06947ce88cddccc2995832115584",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-f7a4ba83c53df4.html",
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-economics-ba-hons-a6d141a9e8.html",
       "locator": "See each fact extraction_locator"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/education-ba-hons",
       "sha256": "0313131b4389177b965b8b53b09d62f5a15d3024c4032606494a352063152029",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-fac538283b26d7.html",
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-education-ba-hons-39a2386e5b.html",
       "locator": "See each fact extraction_locator"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
       "sha256": "debb5b12e6a7fcc5daf1f7540e504f815e58d8605ee95f74292d8db9df680475",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-9641ea953b3acb.html",
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-engineering-ba-hons-and-meng-329b6daa0b.html",
       "locator": "See each fact extraction_locator"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/english-ba-hons",
       "sha256": "144059cef8216fd37930e4b7556c250fc89743faa925b8e547920db5ec3d68c6",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-62750169560b94.html",
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-english-ba-hons-7ee7deac9d.html",
       "locator": "See each fact extraction_locator"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/environment-law-economics-ba-hons",
       "sha256": "c7247e0cbfd282a2ae22f2312321562dd34bd36c249e0ebbbcf1429e20a667ac",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-ac71998f6b19e2.html",
-      "locator": "See each fact extraction_locator"
-    },
-    {
-      "url": "https://www.undergraduate.study.cam.ac.uk/courses/foundation-year",
-      "sha256": "f48bdb72bfce7d4c7e19b10fb9195c3a310682716afa36889ea5053a7f417d02",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-7c241ed586962e.html",
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-environment-law-and-economics-ba-hons-bdc598eda4.html",
       "locator": "See each fact extraction_locator"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/geography-ba-hons",
       "sha256": "a9ea9e24076a704c8a16ae6387dbac0d0606316348e0a78accdcff81ecbd8a6f",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-3c8f2f895a9fc9.html",
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-geography-ba-hons-b9868dae1e.html",
       "locator": "See each fact extraction_locator"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons",
       "sha256": "5eecc965a003b4d6c0f7320053e28719b7e8b53fb400bddd682bc8c2874c0871",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-e5a83b6a7bbef9.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-history-and-modern-languages-ba-hons-900008025a.html",
+      "locator": "#overview; #course-outline; #entry-requirements; actual UI captures indexed in ui-course-audit.json"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/history-politics-ba-hons",
       "sha256": "6432bd8fe8a4abfd7b12b68b71028dac8ddb646f991c08ab45037df9c6e30410",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-a46d1d3d18ad66.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-history-and-politics-ba-hons-e099abcd38.html",
+      "locator": "#overview; #course-outline; #entry-requirements; actual UI captures indexed in ui-course-audit.json"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/history-of-art-ba-hons",
       "sha256": "60f8be91c0c76a64ba5f75db6370e3f8586f33de20d5449725c779979a83248d",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-48e5ebd987fd2b.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-history-of-art-ba-hons-419db04af3.html",
+      "locator": "#overview; #course-outline; #entry-requirements; actual UI captures indexed in ui-course-audit.json"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/history-ba-hons",
       "sha256": "84f1e91ef7a37a231922cb17d374afc7fbdbf2bab86c7e9fe88936e275a99ad4",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-9dd14d261f61da.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-history-ba-hons-b1ede1b708.html",
+      "locator": "#overview; #course-outline; #entry-requirements; actual UI captures indexed in ui-course-audit.json"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
       "sha256": "4ed7e5b22a9abc3f63215be930e7fda9900189ecce97541956dede6ee32a1f85",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-222ca0e10ad346.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21.html",
+      "locator": "#overview; #course-outline; #entry-requirements; actual UI captures indexed in ui-course-audit.json"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/law-ba-hons",
       "sha256": "a888a72431af18926416d56202073b75ebdfe95cf435f112a1c6cc531daf65e1",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-f61f7ca02c26f2.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-law-ba-hons-1c0cf28f9b.html",
+      "locator": "#overview; #course-outline; #entry-requirements; actual UI captures indexed in ui-course-audit.json"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons",
       "sha256": "781390083896e35d24c32ca53c09f3a24d9c1a3e2df08c8dae1618055294870f",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-05d6803fdc2aca.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739.html",
+      "locator": "#overview; #course-outline; #entry-requirements; actual UI captures indexed in ui-course-audit.json"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-ba-hons",
       "sha256": "6c4d04ca66efbe2ce4a78849f18e35d7edf3bfdb4b1f389cb76ab46d963cfd06",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-daf1351fe1c11e.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-linguistics-ba-hons-ded24ea860.html",
+      "locator": "#overview; #course-outline; #entry-requirements; actual UI captures indexed in ui-course-audit.json"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/mathematics-ba-hons-mmath",
       "sha256": "15367abf67ae373e2de6153b83ea8d7ee85e2e4260244fb9632d0bb40b5d0668",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-cce05126afc5df.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-mathematics-ba-hons-and-mmath-978e108d0d.html",
+      "locator": "#overview; #course-outline; #entry-requirements; actual UI captures indexed in ui-course-audit.json"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-graduate-course-mb-bchir",
       "sha256": "c98a524c1ea04e581b551a57f4ea05497ce4ea4090dd03417de81471595022fc",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-0bb499840ee6ac.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/cambridge-medicine-graduate-course-mb-and-bchir-ad9fa2175e.html",
+      "locator": "Course header; Overview; Course outline; Entry requirements"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-graduate-course-mb-bchir#entry-requirements",
+      "sha256": "6a19e37830b52d5d43c66982fcc8c434958307b622af6aad09c5f352a58dd202",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-0-entry-requirements.html",
+      "locator": "#entry-requirements (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-graduate-course-mb-bchir#overview",
+      "sha256": "5a15ed81ff84f16393a1607e2574da7f2932259e22eed0699bb280efe6a35adc",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-0-overview.html",
+      "locator": "#overview (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-graduate-course-mb-bchir#course-outline",
+      "sha256": "13d6ac5141b34ef34569e44bf39a5aaac04ed5ea26fa686960eeb2670cb2e44e",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-0-course-outline.html",
+      "locator": "#course-outline (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/apply/how/medicine-admission-test",
+      "sha256": "ebd8641616af5d6df24c297bfb71a34d88cff05f26eaa501dd20adaf1b373216",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ucat.html",
+      "locator": "Main public content; named course / applicant scope"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-mb-bchir",
@@ -182,16 +254,82 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-mb-bchir#entry-requirements",
+      "sha256": "3b9db6cb2c761d4678e61e5c9824d2f82c8f20c52c27e9cff4523df5e2619dc7",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-1-entry-requirements.html",
+      "locator": "#entry-requirements (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-mb-bchir#overview",
+      "sha256": "196d3ed4ee6c2a936a16a2ed2562507984b90190ee95222b0cb44c6e0e269640",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-1-overview.html",
+      "locator": "#overview (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-mb-bchir#course-outline",
+      "sha256": "65163b0e252f4caf7e0e74bace093c8c6e4c7e359e4ac7112f491aa30a08332c",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-1-course-outline.html",
+      "locator": "#course-outline (expanded public UI)"
+    },
+    {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/modern-medieval-languages-ba-hons",
       "sha256": "2d5b8159edcb691b5e6a7a16979ef230262ad22f66951960c294327222a6c193",
       "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-a5e50c087e3b74.html",
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/modern-medieval-languages-ba-hons#entry-requirements",
+      "sha256": "115ffd5473c929cf8d3c7c0ca92d4f414184b9402f5bc4ee60d2418d1ec17a05",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-2-entry-requirements.html",
+      "locator": "#entry-requirements (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/modern-medieval-languages-ba-hons#overview",
+      "sha256": "c95bda22f691bce76ff34b1d38852e75f33ad3efcb83c01338812ec4c5f07f2a",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-2-overview.html",
+      "locator": "#overview (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/modern-medieval-languages-ba-hons#course-outline",
+      "sha256": "77b2afb6bcd7c839d78d3e6dce429c5e56d5b72a86b32049fff036230a1464b8",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-2-course-outline.html",
+      "locator": "#course-outline (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments",
+      "sha256": "73c0ca9de36ddb029ce812cf147fdc5398473b41c8250ea994bb6737ea6ab89b",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/assessment-mml.html",
+      "locator": "Expanded mml panel"
+    },
+    {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/music-ba-hons",
       "sha256": "5d5dba99d1adb828cfd593524dabbd95dc7b8a47d3b4242c3c46e56bfe758af2",
-      "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-3f382193112c4f.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/cambridge-music-ba-hons-f12f797f66.html",
+      "locator": "Course header; Overview; Course outline; Entry requirements"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/music-ba-hons#overview",
+      "sha256": "01399b518c805a1793a62e5c632ea6b62babff5302231ac812cea720d0c6562d",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-3-overview.html",
+      "locator": "#overview (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/music-ba-hons#course-outline",
+      "sha256": "078b39df037ff43f3b8fd6fb75d4f14567b3b4a81465e97e8d8eb19bc625daa4",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-3-course-outline.html",
+      "locator": "#course-outline (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/music-ba-hons#entry-requirements",
+      "sha256": "08301cda15ad7f121fb1ecf4b696f35ac03db53ac853e9eba61724210de7abc9",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-3-entry-requirements.html",
+      "locator": "#entry-requirements (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments",
+      "sha256": "efdd3c69439f81592cac9709b63e8c4686a1c77fdd0f314a9d76b93d2cfa09f7",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/assessment-music.html",
+      "locator": "Expanded music panel"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci",
@@ -200,10 +338,52 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci#entry-requirements",
+      "sha256": "cf6b3a317482775bd97cfe4ad67767fb11b815b8cfb69001624eb48d9c291802",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-4-entry-requirements.html",
+      "locator": "#entry-requirements (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci#overview",
+      "sha256": "fccaeb69f139923bb1bed86eebf0eee0b61e21889f725fd9ca1c9bc8fe716a39",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-4-overview.html",
+      "locator": "#overview (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci#course-outline",
+      "sha256": "0510987ea2b5f09705d478bba46159990aaaef2dc40debf28953a039049db69c",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-4-course-outline.html",
+      "locator": "#course-outline (expanded public UI)"
+    },
+    {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/philosophy-ba-hons",
       "sha256": "e6caa2b255cf96fc3663a9de3f2fef45db668f3c360d09d7ed400d534038424b",
       "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-55fa5129f27cef.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/philosophy-ba-hons#course-outline",
+      "sha256": "58479e53e29e2778ddf548363ed2f52d3e985bd03f0337ed577b7bb7ee5bc7cb",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-5-course-outline.html",
+      "locator": "#course-outline (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/philosophy-ba-hons#overview",
+      "sha256": "28214a6ca01136956415f0c8e8921dbac08b4d792d854bfceef96d998f7c2834",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-5-overview.html",
+      "locator": "#overview (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/philosophy-ba-hons#entry-requirements",
+      "sha256": "43a27ca8e279b113ce1fd106851a6fc0570b5db3d052654494c7adf6f133f12d",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-5-entry-requirements.html",
+      "locator": "#entry-requirements (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments",
+      "sha256": "59b9d13b6773a7c30c35b709b8c44069c1720c82a2490e91b4b2349f3b8212b6",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/assessment-philosophy.html",
+      "locator": "Expanded philosophy panel"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/psychological-behavioural-sciences-ba-hons",
@@ -212,16 +392,94 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/psychological-behavioural-sciences-ba-hons#course-outline",
+      "sha256": "6491e40c7ea027c03b57a733bcaa8fccab775c487a2a5f35dd40804891cb5901",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-6-course-outline.html",
+      "locator": "#course-outline (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/psychological-behavioural-sciences-ba-hons#entry-requirements",
+      "sha256": "69c3622112f4f8ef68eaadfef1d2cacee6cd3fe49369f733dffc26edc3377f8f",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-6-entry-requirements.html",
+      "locator": "#entry-requirements (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments",
+      "sha256": "d47423df5a0b926fa45c7a732f570a76f559aac41f3295e1b341389c728f8156",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/assessment-pbs.html",
+      "locator": "Expanded pbs panel"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/psychological-behavioural-sciences-ba-hons#overview",
+      "sha256": "307ab14d6efd330eb7b1c8fb26d69b0c3f50c05b15185cb2b92ffbc76a418215",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-6-overview.html",
+      "locator": "#overview (expanded public UI)"
+    },
+    {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/theology-religion-philosophy-of-religion-ba-hons",
       "sha256": "dba9d06d7fcec16f31d1c3f938099ad266a69616427e46994fafa7ae18f86940",
       "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-f61e8b402ff2ca.html",
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/theology-religion-philosophy-of-religion-ba-hons#course-outline",
+      "sha256": "d8ee5161e95486fa7b4d084375980eac85721da2d647313d974e3103ee68bec6",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-7-course-outline.html",
+      "locator": "#course-outline (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/theology-religion-philosophy-of-religion-ba-hons#entry-requirements",
+      "sha256": "0ad0e01a0eb8cd920113cf52df4b7e6b3350b83435cfc908f59de61ca188b05e",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-7-entry-requirements.html",
+      "locator": "#entry-requirements (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/theology-religion-philosophy-of-religion-ba-hons#overview",
+      "sha256": "903c5272d25a07432620c44a766c29723b61a3c2f55b68ab90f0850adea2dc4a",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-7-overview.html",
+      "locator": "#overview (expanded public UI)"
+    },
+    {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/veterinary-medicine-vetmb",
       "sha256": "77d7ddcf863cd01d4033f8ef06d82b419d6e5dcad1094153cacf0100cb486d56",
       "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-9c24d34a2c54fb.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/veterinary-medicine-vetmb#entry-requirements",
+      "sha256": "a36fd1f2f65aedba4eabec7c3814e295dfe4e139053d08c9c076da6ac379c9f1",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-8-entry-requirements.html",
+      "locator": "#entry-requirements (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/veterinary-medicine-vetmb#overview",
+      "sha256": "581ee8dd2ac227963b0e54bc48a35079fb85c9387ea96505005894295447261c",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-8-overview.html",
+      "locator": "#overview (expanded public UI)"
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/veterinary-medicine-vetmb#course-outline",
+      "sha256": "8173a3bfb98c25170105ee0b2c57054188c06449409c456016f43dcf45f05e79",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-8-course-outline.html",
+      "locator": "#course-outline (expanded public UI)"
+    },
+    {
+      "url": "https://www.rcvs.org.uk/about-us/what-we-do/accrediting-qualifications/accrediting-veterinary-qualifications",
+      "sha256": "2e6984e8f36114bb41b37e0222231d4ff8691f5b5d01abbdb114c57bf55bb50a",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/rcvs-status.html",
+      "locator": "Main public content; named course / applicant scope"
+    },
+    {
+      "url": "https://www.eaeve.org/fileadmin/downloads/establishments_status/ESEVT_Status_of_EAEVE_Establishments_27May2026.pdf",
+      "sha256": "05e67f2f10663bc875763029f9e3c8255a4611c6b054600535af46689c664c41",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/eaeve-status-2026-05-27.pdf",
+      "locator": "Cambridge row91; PDF page6; footnotes page8"
+    },
+    {
+      "url": "https://www.vet.cam.ac.uk/about/accreditation",
+      "sha256": "5fe6afaa81b06e6bf9f2c364885ccb9fb5a0b1cea2488af3883d36c0404a343c",
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/vet-department-accreditation.html",
+      "locator": "Main public content; named course / applicant scope"
     }
   ]
 }

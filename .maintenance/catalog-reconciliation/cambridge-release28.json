@@ -1,0 +1,1197 @@
+{
+  "release": 28,
+  "checked_at": "2026-09-13",
+  "audit": {
+    "university_id": "cambridge",
+    "baseline": 33,
+    "total": 32,
+    "updated": 32,
+    "new": 0,
+    "removed_non_degree": 1,
+    "new_ids": [],
+    "updated_ids": [
+      "cambridge-anglo-saxon-norse-and-celtic-ba-hons-35519eda27",
+      "cambridge-archaeology-ba-hons-0cb97da692",
+      "cambridge-architecture-ba-hons-and-march-b395ac55e2",
+      "cambridge-asian-and-middle-eastern-studies-ba-hons-63cde5a980",
+      "cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9",
+      "cambridge-classics-ba-hons-55ef8cda1d",
+      "cambridge-computer-science-ba-hons-and-meng-a29f97f030",
+      "cambridge-design-ba-hons-and-mdes-b9f6cb3d16",
+      "cambridge-economics-ba-hons-a6d141a9e8",
+      "cambridge-education-ba-hons-39a2386e5b",
+      "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+      "cambridge-english-ba-hons-7ee7deac9d",
+      "cambridge-environment-law-and-economics-ba-hons-bdc598eda4",
+      "cambridge-geography-ba-hons-b9868dae1e",
+      "cambridge-history-and-modern-languages-ba-hons-900008025a",
+      "cambridge-history-and-politics-ba-hons-e099abcd38",
+      "cambridge-history-of-art-ba-hons-419db04af3",
+      "cambridge-history-ba-hons-b1ede1b708",
+      "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+      "cambridge-law-ba-hons-1c0cf28f9b",
+      "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+      "cambridge-linguistics-ba-hons-ded24ea860",
+      "cambridge-mathematics-ba-hons-and-mmath-978e108d0d",
+      "cambridge-medicine-graduate-course-mb-and-bchir-ad9fa2175e",
+      "cambridge-medicine-mb-and-bchir-b4f8b5b9d3",
+      "cambridge-modern-and-medieval-languages-ba-hons-6c89239887",
+      "cambridge-music-ba-hons-f12f797f66",
+      "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+      "cambridge-philosophy-ba-hons-3025dcf226",
+      "cambridge-psychological-and-behavioural-sciences-ba-hons-ba034603eb",
+      "cambridge-theology-religion-and-philosophy-of-religion-ba-hons-2c3b78a432",
+      "cambridge-veterinary-medicine-vetmb-3d7ab7d67e"
+    ],
+    "facts": 486,
+    "old_facts": 221,
+    "old_verbatim": 181,
+    "old_explicit_changes": 40,
+    "added_facts": 265,
+    "reference_facts": 12,
+    "source_references": 194,
+    "source_pairs_including_profile_and_reference": 81,
+    "profile_preserved": true,
+    "all_fields_complete": false,
+    "coverage": "partial",
+    "packages": [
+      {
+        "package": "cambridge-first6-admissions",
+        "author_frozen_sha256": "ae2e989b4d3e2c6092f0e8b1cfa1afbea95e3144f35f5a68bf5ae0f82128230a",
+        "review_sha256": "c953cbc19c4d6f098560f30a5506b3167c03fd15bd0079b2b48ca8b9b01c274b",
+        "review_frozen_sha256": "b440f85ba5e5c0170e967c3a5ca338ab04b32317a754aabf0d5c1f514ee0b100",
+        "author_locks": 59,
+        "review_locks": 8,
+        "records": 6,
+        "facts": 111,
+        "facts_sha256": "a840775a68fe4c37cce9ed1eb8eeb3c1786c75c6bfd33322346783fbba8b74c1"
+      },
+      {
+        "package": "cambridge-next9-enrichment",
+        "author_frozen_sha256": "db341fed2e0c9dcb36546d72ba7c656a42f86537b43d57a587340218dffb04f7",
+        "review_sha256": "a6e561a19504fb9733073eb8d5a2ee77d8668bda34c835d39df93855ab59cdde",
+        "review_frozen_sha256": "1cc7b08ad03a25721cbd1024d699041f2a5d7ef1c66ae90f47001a97c2eacae1",
+        "author_locks": 190,
+        "review_locks": 51,
+        "records": 8,
+        "facts": 126,
+        "facts_sha256": "01eb5ef33ce2b487ecd54209dceda58afe75e97ea55f953ec5563375fd3eb56f"
+      },
+      {
+        "package": "cambridge-humanities9-enrichment",
+        "author_frozen_sha256": "b5dbb92e92b017a3d738d6b4e43ff4e94bc620a53b19368e9996571812d44a79",
+        "review_sha256": "143af1cdfc73c60effc34a1973f991dcbf332d0743f3167f74d587dfd17891a7",
+        "review_frozen_sha256": "b161bf366b81753abb46689d090a5e878f8fc852216bd8acac31bc6fdbd50a35",
+        "author_locks": 244,
+        "review_locks": 16,
+        "records": 9,
+        "facts": 113,
+        "facts_sha256": "ceeabde3f747de6d0aa0a33a16bc7186b15f350a140a5fbcb50f3b44731332a4"
+      },
+      {
+        "package": "cambridge-final9-enrichment",
+        "author_frozen_sha256": "08d23ed20abe8d5bce99235c2a58e3b9371aa4a35c3e322ebc4b680fe0918efb",
+        "review_sha256": "c04878d67f35b6c15355c2350adb7ed8c6f50ac4cdf5674e64e4baf4697973ec",
+        "review_frozen_sha256": "4d7d3458b247ee230ff913b8bdc5597354edd6a6c8605b707c4bd3d4644e58bd",
+        "author_locks": 204,
+        "review_locks": 5,
+        "records": 9,
+        "facts": 136,
+        "facts_sha256": "28eda5609ea2150ec1debf212222949fcbbb39e01974d1249ad4bd0f41fcb255"
+      }
+    ]
+  },
+  "fact_change_ledger": [
+    {
+      "inventory_id": "cambridge-anglo-saxon-norse-and-celtic-ba-hons-35519eda27",
+      "section": "overview",
+      "index": 1,
+      "before": {
+        "label": "课程页学制",
+        "text": "Course length BA (Hons) 3 年, 全日制",
+        "source_ids": [
+          "UKENR-94e05c1fa6b7d0"
+        ],
+        "extraction_locator": "[class*=field-course-duration]"
+      },
+      "after": {
+        "label": "课程页学制",
+        "text": "3年，全日制，BA (Hons)",
+        "source_ids": [
+          "UKENR-94e05c1fa6b7d0",
+          "CAMADM-cc965dd346c75cdd"
+        ],
+        "extraction_locator": "Key information: Course length"
+      },
+      "reason": "根据已核Key information将旧混合语种学制改为中文；授位升读条件见已保留逐年结构"
+    },
+    {
+      "inventory_id": "cambridge-anglo-saxon-norse-and-celtic-ba-hons-35519eda27",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A level: A*AA IB: 41-42 分, with 776：HL Other qualifications : Check which other qualifications we accept We don't ask for any specific subjects to apply to ASNC. We recommend these subjects for a strong application: 英语 (language 或 literature) History Languages (ancient 或 modern)",
+        "source_ids": [
+          "UKENR-94e05c1fa6b7d0"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "适用2027入学或延期至2028：最低A-level A*AA；IB总分41–42，三门HL为7、7、6。不指定必修高中科目；英语（语言或文学）、历史和古代或现代语言是建议准备，并非三者全部必修。",
+        "source_ids": [
+          "UKENR-94e05c1fa6b7d0",
+          "CAMADM-cc965dd346c75cdd"
+        ],
+        "extraction_locator": "#entry-requirements Minimum offer level and subject requirements"
+      },
+      "reason": "中文整理及已读具体条件替代原混合语种或未展开摘要"
+    },
+    {
+      "inventory_id": "cambridge-anglo-saxon-norse-and-celtic-ba-hons-35519eda27",
+      "section": "admissions",
+      "index": 1,
+      "before": {
+        "label": "书面作品要求",
+        "text": "You will need to submit 2 pieces of written work . All undergraduate admissions decisions are the responsibility of the Cambridge Colleges. Please contact the relevant College admissions office if you have any queries.",
+        "source_ids": [
+          "UKENR-94e05c1fa6b7d0"
+        ],
+        "extraction_locator": "heading Submitted work, excluding historical applicant grey-box"
+      },
+      "after": {
+        "label": "书面作品要求",
+        "text": "须提交2篇书面作品；录取决定由各学院负责，具体提交通知另核。",
+        "source_ids": [
+          "UKENR-94e05c1fa6b7d0",
+          "CAMADM-cc965dd346c75cdd"
+        ],
+        "extraction_locator": "#entry-requirements Submitted work"
+      },
+      "reason": "完整亲读并中文整理真实作品件数、格式及学院差异"
+    },
+    {
+      "inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+      "section": "overview",
+      "index": 1,
+      "before": {
+        "label": "课程页学制",
+        "text": "Course length BA (Hons) 3 年, 全日制",
+        "source_ids": [
+          "UKENR-f6fdce1ab68528"
+        ],
+        "extraction_locator": "[class*=field-course-duration]"
+      },
+      "after": {
+        "label": "课程页学制",
+        "text": "3年，全日制，BA (Hons)",
+        "source_ids": [
+          "UKENR-f6fdce1ab68528",
+          "CAMADM-6cf001f3e3608c69"
+        ],
+        "extraction_locator": "Key information: Course length"
+      },
+      "reason": "根据已核Key information将旧混合语种学制改为中文；授位升读条件见已保留逐年结构"
+    },
+    {
+      "inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A level: A*AA IB: 41-42 分, with 776：HL Other qualifications : Check which other qualifications we accept . We don't ask for any specific subjects to apply to Archaeology. We’d recommend certain subjects for a strong application, ideally any combination of arts, humanities, sciences 或 social sciences.",
+        "source_ids": [
+          "UKENR-f6fdce1ab68528"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "适用2027入学或延期至2028：最低A-level A*AA；IB总分41–42，三门HL为7、7、6。无指定先修科目；校方建议艺术、人文、理科或社科的适当组合，不把往届常见组合当成必修条件。",
+        "source_ids": [
+          "UKENR-f6fdce1ab68528",
+          "CAMADM-6cf001f3e3608c69"
+        ],
+        "extraction_locator": "#entry-requirements Minimum offer level and subject requirements"
+      },
+      "reason": "中文整理及已读具体条件替代原混合语种或未展开摘要"
+    },
+    {
+      "inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+      "section": "admissions",
+      "index": 1,
+      "before": {
+        "label": "书面作品要求",
+        "text": "课程要求提交书面作品；件数、篇幅和学院差异见本课程来源。本轮尚待完成各学院条件的中文整理。",
+        "source_ids": [
+          "UKENR-f6fdce1ab68528"
+        ],
+        "extraction_locator": "heading Submitted work, excluding historical applicant grey-box"
+      },
+      "after": {
+        "label": "书面作品与学院件数",
+        "text": "须交文章体书面作品，每篇最多1500词，可取自EPQ；不能用理科课程作业或限时考试卷替代。Robinson和St John’s须2篇，本页列出的其余学院须1篇。",
+        "source_ids": [
+          "UKENR-f6fdce1ab68528",
+          "CAMADM-6cf001f3e3608c69"
+        ],
+        "extraction_locator": "#entry-requirements Submitted work"
+      },
+      "reason": "完整亲读并中文整理真实作品件数、格式及学院差异"
+    },
+    {
+      "inventory_id": "cambridge-architecture-ba-hons-and-march-b395ac55e2",
+      "section": "overview",
+      "index": 1,
+      "before": {
+        "label": "课程页学制",
+        "text": "Course length MArch, 4 年, full time or BA (Hons), 3 年, 全日制",
+        "source_ids": [
+          "UKENR-8e5daf7a734db4"
+        ],
+        "extraction_locator": "[class*=field-course-duration]"
+      },
+      "after": {
+        "label": "课程页学制",
+        "text": "BA (Hons)3年；获准升读第四年后总学制4年并获MArch，全日制",
+        "source_ids": [
+          "UKENR-8e5daf7a734db4",
+          "CAMADM-992493eccd60a90f"
+        ],
+        "extraction_locator": "Key information: Course length"
+      },
+      "reason": "根据已核Key information将旧混合语种学制改为中文；授位升读条件见已保留逐年结构"
+    },
+    {
+      "inventory_id": "cambridge-architecture-ba-hons-and-march-b395ac55e2",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A level: A*AA IB: 41-42 分, with 776：HL Other qualifications : Check which other qualifications we accept . Some Colleges ask for specific subjects to apply to Architecture, whereas others don't. We recommend certain subjects for a strong application: 数学 Art及Design 物理",
+        "source_ids": [
+          "UKENR-8e5daf7a734db4"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "适用2027入学或延期至2028：最低A-level A*AA；IB总分41–42，三门HL为7、7、6。不同学院是否要求指定高中科目不同；数学、艺术与设计、物理是校方推荐组合，不能一概当成所有学院的统一必修。",
+        "source_ids": [
+          "UKENR-8e5daf7a734db4",
+          "CAMADM-992493eccd60a90f"
+        ],
+        "extraction_locator": "#entry-requirements Minimum offer level and subject requirements"
+      },
+      "reason": "中文整理及已读具体条件替代原混合语种或未展开摘要"
+    },
+    {
+      "inventory_id": "cambridge-architecture-ba-hons-and-march-b395ac55e2",
+      "section": "admissions",
+      "index": 1,
+      "before": {
+        "label": "书面作品要求",
+        "text": "课程要求提交书面作品；件数、篇幅和学院差异见本课程来源。本轮尚待完成各学院条件的中文整理。",
+        "source_ids": [
+          "UKENR-8e5daf7a734db4"
+        ],
+        "extraction_locator": "heading Submitted work, excluding historical applicant grey-box"
+      },
+      "after": {
+        "label": "面试前作品与St John’s附加文章",
+        "text": "面试前须提交本人艺术作品PDF，最多6张A4页，文件严格小于15MB；所选图像应反映可能带到面试作品集的材料。St John’s还要求1篇经教师批改的书面作品。",
+        "source_ids": [
+          "UKENR-8e5daf7a734db4",
+          "CAMADM-992493eccd60a90f"
+        ],
+        "extraction_locator": "#entry-requirements Submitted work"
+      },
+      "reason": "完整亲读并中文整理真实作品件数、格式及学院差异"
+    },
+    {
+      "inventory_id": "cambridge-asian-and-middle-eastern-studies-ba-hons-63cde5a980",
+      "section": "overview",
+      "index": 1,
+      "before": {
+        "label": "课程页学制",
+        "text": "Course length BA (Hons) 4 年 全日制, including a 年 abroad",
+        "source_ids": [
+          "UKENR-602b281597aef9"
+        ],
+        "extraction_locator": "[class*=field-course-duration]"
+      },
+      "after": {
+        "label": "课程页学制",
+        "text": "4年，全日制，含海外年，BA (Hons)",
+        "source_ids": [
+          "UKENR-602b281597aef9",
+          "CAMADM-845b4529f0318b61"
+        ],
+        "extraction_locator": "Key information: Course length"
+      },
+      "reason": "根据已核Key information将旧混合语种学制改为中文；授位升读条件见已保留逐年结构"
+    },
+    {
+      "inventory_id": "cambridge-asian-and-middle-eastern-studies-ba-hons-63cde5a980",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及英语、历史、语言等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-602b281597aef9"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "适用2027入学或延期至2028：最低A-level A*AA；IB总分41–42，三门HL为7、7、6。英语、历史和语言是推荐准备；如把所选语言与欧洲语言组合，须有所选欧洲语言的A-level或IB HL资格。Robinson的AMES语言仅中文与日文。",
+        "source_ids": [
+          "UKENR-602b281597aef9",
+          "CAMADM-845b4529f0318b61"
+        ],
+        "extraction_locator": "#entry-requirements Minimum offer level and subject requirements"
+      },
+      "reason": "中文整理及已读具体条件替代原混合语种或未展开摘要"
+    },
+    {
+      "inventory_id": "cambridge-asian-and-middle-eastern-studies-ba-hons-63cde5a980",
+      "section": "admissions",
+      "index": 1,
+      "before": {
+        "label": "书面作品要求（概览）",
+        "text": "Most Asian及Middle Eastern Studies students (who had studied A levels及started：Cambridge：2018, 2019及2023) achieved：least A*A*A (70% of entrants). The majority of students who studied IB achieved：least 43 分 总分 and/或 grades 777：HL.；本页还有科目及其他条件，完整条件本轮待逐条审校。",
+        "source_ids": [
+          "UKENR-602b281597aef9"
+        ],
+        "extraction_locator": "heading Submitted work"
+      },
+      "after": {
+        "label": "不含欧洲语言组合的书面作品",
+        "text": "当前本课表列Clare、St Catharine’s、St Edmund’s须1篇；Downing、St John’s、Trinity须2篇。欧洲语言组合另适用下一项清单；未在这一组列名的学院，不据此猜测提交件数。",
+        "source_ids": [
+          "UKENR-602b281597aef9",
+          "CAMADM-845b4529f0318b61"
+        ],
+        "extraction_locator": "#entry-requirements Submitted work"
+      },
+      "reason": "更正原抽取错位：历史录取者成绩不属于书面作品要求；现逐项核实际学院作品要求"
+    },
+    {
+      "inventory_id": "cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9",
+      "section": "overview",
+      "index": 1,
+      "before": {
+        "label": "课程页学制",
+        "text": "Course length BA (Hons) 3 年 全日制, or MEng 4 年 全日制",
+        "source_ids": [
+          "UKENR-76d632cacb4d21"
+        ],
+        "extraction_locator": "[class*=field-course-duration]"
+      },
+      "after": {
+        "label": "课程页学制",
+        "text": "BA (Hons)3年；获准升读第四年后总学制4年并获MEng，全日制",
+        "source_ids": [
+          "UKENR-76d632cacb4d21",
+          "CAMADM-1ac386639090a0c8"
+        ],
+        "extraction_locator": "Key information: Course length"
+      },
+      "reason": "根据已核Key information将旧混合语种学制改为中文；授位升读条件见已保留逐年结构"
+    },
+    {
+      "inventory_id": "cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*A*A；IB总分栏列41-42；条件涉及数学、进阶数学、物理、化学、生物等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-76d632cacb4d21"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "适用2027入学或延期至2028：最低A-level A*A*A；IB总分41–42，三门HL为7、7、6。所有学院均要求A-level／IB HL或等同的数学、化学，及第三门生物、物理或进阶数学；若第三门理科不在此列，先询申请学院。IB数学要求AA；学校不开AA时须另询学院，不能自动以AI替代。",
+        "source_ids": [
+          "UKENR-76d632cacb4d21",
+          "CAMADM-1ac386639090a0c8"
+        ],
+        "extraction_locator": "#entry-requirements Minimum offer level and subject requirements"
+      },
+      "reason": "中文整理及已读具体条件替代原混合语种或未展开摘要"
+    },
+    {
+      "inventory_id": "cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9",
+      "section": "admissions",
+      "index": 1,
+      "before": {
+        "label": "入学考试",
+        "text": "课程列考试：ESAT。具体模块、考试安排及学院差异须按本页和考试机构日历。",
+        "source_ids": [
+          "UKENR-76d632cacb4d21"
+        ],
+        "extraction_locator": "heading Admission assessment"
+      },
+      "after": {
+        "label": "入学考试与本课模块",
+        "text": "所有申请者须提前报名ESAT并在认可考点参加。本课程考数学1，再从生物、化学、物理、数学2中选两门；每门27道选择题、40分钟，共120分钟，不得使用计算器或字典。没有统一及格／不及格线，模块分数与其他申请材料一并评估；不能把本课任选两门规则套给固定考物理和数学2的Engineering。",
+        "source_ids": [
+          "UKENR-76d632cacb4d21",
+          "CAMADM-1ac386639090a0c8",
+          "CAMADM-esat-03a815850567",
+          "CAMADM-uat-esat-e8c0d4dfd1ba"
+        ],
+        "extraction_locator": "Course Admission assessment; Cambridge ESAT Test format; UAT ESAT Test Format"
+      },
+      "reason": "中文整理及已读具体条件替代原混合语种或未展开摘要"
+    },
+    {
+      "inventory_id": "cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9",
+      "section": "admissions",
+      "index": 2,
+      "before": {
+        "label": "书面作品要求",
+        "text": "You won't usually be asked to submit examples of written work. All undergraduate admissions decisions are the responsibility of the Cambridge Colleges. Please contact the relevant College admissions office if you have any queries.",
+        "source_ids": [
+          "UKENR-76d632cacb4d21"
+        ],
+        "extraction_locator": "heading Submitted work, excluding historical applicant grey-box"
+      },
+      "after": {
+        "label": "书面作品要求",
+        "text": "通常不要求提交书面作品样本；个案仍按学院录取通知执行。",
+        "source_ids": [
+          "UKENR-76d632cacb4d21",
+          "CAMADM-1ac386639090a0c8"
+        ],
+        "extraction_locator": "#entry-requirements Submitted work"
+      },
+      "reason": "完整亲读并中文整理真实作品件数、格式及学院差异"
+    },
+    {
+      "inventory_id": "cambridge-classics-ba-hons-55ef8cda1d",
+      "section": "overview",
+      "index": 1,
+      "before": {
+        "label": "课程页学制",
+        "text": "Course length BA (Hons) 3 年 or 4 年, 全日制",
+        "source_ids": [
+          "UKENR-0279954f495c70"
+        ],
+        "extraction_locator": "[class*=field-course-duration]"
+      },
+      "after": {
+        "label": "课程页学制",
+        "text": "3年或4年，全日制，BA (Hons)",
+        "source_ids": [
+          "UKENR-0279954f495c70",
+          "CAMADM-89b02b8380a54ad7"
+        ],
+        "extraction_locator": "Key information: Course length"
+      },
+      "reason": "根据已核Key information将旧混合语种学制改为中文；授位升读条件见已保留逐年结构"
+    },
+    {
+      "inventory_id": "cambridge-classics-ba-hons-55ef8cda1d",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A level: A*AA IB: 41-42 分, with 776：HL Other qualifications : Check which other qualifications we accept .",
+        "source_ids": [
+          "UKENR-0279954f495c70"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "适用2027入学或延期至2028：最低A-level A*AA；IB总分41–42，三门HL为7、7、6。三年制与四年制有不同古典语言先修要求；不能仅凭总成绩选定年制。",
+        "source_ids": [
+          "UKENR-0279954f495c70",
+          "CAMADM-89b02b8380a54ad7"
+        ],
+        "extraction_locator": "#entry-requirements Minimum offer level and subject requirements"
+      },
+      "reason": "中文整理及已读具体条件替代原混合语种或未展开摘要"
+    },
+    {
+      "inventory_id": "cambridge-classics-ba-hons-55ef8cda1d",
+      "section": "admissions",
+      "index": 1,
+      "before": {
+        "label": "书面作品要求",
+        "text": "For both the 3及4 年 course you will need to submit 2 pieces of written work . All undergraduate admissions decisions are the responsibility of the Cambridge Colleges. Please contact the relevant College admissions office if you have any queries.",
+        "source_ids": [
+          "UKENR-0279954f495c70"
+        ],
+        "extraction_locator": "heading Submitted work, excluding historical applicant grey-box"
+      },
+      "after": {
+        "label": "书面作品要求",
+        "text": "三年制和四年制均须提交2篇书面作品；具体提交安排按学院通知。",
+        "source_ids": [
+          "UKENR-0279954f495c70",
+          "CAMADM-89b02b8380a54ad7"
+        ],
+        "extraction_locator": "#entry-requirements Submitted work"
+      },
+      "reason": "完整亲读并中文整理真实作品件数、格式及学院差异"
+    },
+    {
+      "inventory_id": "cambridge-computer-science-ba-hons-and-meng-a29f97f030",
+      "section": "admissions",
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*A*A；IB总分栏列41-42；条件涉及数学、进阶数学、物理、化学、计算机科学等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-12c595c445462e"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "2027入学或延至2028入学：最低A*A*A；IB 41–42、HL 776。须数学；学校若提供AS或A-level Further Mathematics须修读，不能提供时应申请前联系目标学院确认资格。IB要求数学Analysis and Approaches，学校不能提供时须询问学院。学院通常要求数学和／或进阶数学A*，并可能对所修物理或化学要求A*／7；Churchill、Lucy Cavendish、Selwyn另有提高条件的可能。上述国际课程要求不能直接换算成高考分数。",
+        "source_ids": [
+          "UKENR-12c595c445462e",
+          "CAMN9-77004a399f38fe94"
+        ],
+        "extraction_locator": "heading Minimum offer level; 2026-09-13 current #entry-requirements Minimum offer; College entry requirements"
+      },
+      "reason": "Resolve prior explicit qualification/portfolio gap with read current official wording; retain original sources and dates"
+    },
+    {
+      "inventory_id": "cambridge-design-ba-hons-and-mdes-b9f6cb3d16",
+      "section": "admissions",
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及数学等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-cae2f9356e8016"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "2027入学或延至2028入学：最低A*AA；IB 41–42、HL 776。数学须A*或IB HL7；IB要求Analysis and Approaches，学校不能提供时须向目标学院询问。部分学院可提高录取条件。",
+        "source_ids": [
+          "UKENR-cae2f9356e8016",
+          "CAMN9-816a226067015232"
+        ],
+        "extraction_locator": "heading Minimum offer level; 2026-09-13 current #entry-requirements Minimum offer; College entry requirements"
+      },
+      "reason": "Resolve prior explicit qualification/portfolio gap with read current official wording; retain original sources and dates"
+    },
+    {
+      "inventory_id": "cambridge-design-ba-hons-and-mdes-b9f6cb3d16",
+      "section": "admissions",
+      "before": {
+        "label": "书面作品要求",
+        "text": "课程要求提交书面作品；件数、篇幅和学院差异见本课程来源。本轮尚待完成各学院条件的中文整理。",
+        "source_ids": [
+          "UKENR-cae2f9356e8016"
+        ],
+        "extraction_locator": "heading Submitted work, excluding historical applicant grey-box"
+      },
+      "after": {
+        "label": "书面作品要求",
+        "text": "面试前提交本人艺术作品PDF，最多6页A4、文件小于15MB；St John’s另要求一份教师批改的书面作业。获邀面试者还须展示近期作品集，可用绘画、雕塑、摄影等说明兴趣与视觉／材料艺术能力，不必都是建筑图纸；各学院可给不同作品集要求。",
+        "source_ids": [
+          "UKENR-cae2f9356e8016",
+          "CAMN9-816a226067015232"
+        ],
+        "extraction_locator": "heading Submitted work, excluding historical applicant grey-box; 2026-09-13 current #entry-requirements Submitted work; Portfolio for interview"
+      },
+      "reason": "Resolve prior explicit qualification/portfolio gap with read current official wording; retain original sources and dates"
+    },
+    {
+      "inventory_id": "cambridge-economics-ba-hons-a6d141a9e8",
+      "section": "admissions",
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*A*A；IB总分栏列41-42；条件涉及数学、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-c1698b802a991b"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "最低A*A*A；IB 41–42、HL 776，须数学。IB要求Analysis and Approaches，学校不提供时应询问学院。Christ’s、Churchill、Corpus Christi、Magdalene、St John’s及Sidney Sussex在当前课程页另列Further Mathematics要求。其他学院也可能加条件；既往93%学生修经济学不是该科目一律必修的规则。",
+        "source_ids": [
+          "UKENR-c1698b802a991b",
+          "CAMN9-03cb7696a0028729"
+        ],
+        "extraction_locator": "heading Minimum offer level; 2026-09-13 current #entry-requirements Minimum offer; College entry requirements; What students studied"
+      },
+      "reason": "Resolve prior explicit qualification/portfolio gap with read current official wording; retain original sources and dates"
+    },
+    {
+      "inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+      "section": "admissions",
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*A*A；IB总分栏列41-42；条件涉及数学、进阶数学、物理等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-04d9169494abcc"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "最低A*A*A；IB 41–42、HL 776，须数学和物理；学校若提供AS／A-level Further Mathematics须修，不能提供时须申请前联系学院。IB数学要求Analysis and Approaches，不提供时询问学院。学院通常要求数学和／或进阶数学A*，常对物理或另一理科要求A*／7。Peterhouse还可能要求STEP II达2级；T-level不作为本工程学位合适准备。",
+        "source_ids": [
+          "UKENR-04d9169494abcc",
+          "CAMN9-debb5b12e6a7fcc5"
+        ],
+        "extraction_locator": "heading Minimum offer level; 2026-09-13 current #entry-requirements Minimum offer; Further Mathematics; More information"
+      },
+      "reason": "Resolve prior explicit qualification/portfolio gap with read current official wording; retain original sources and dates"
+    },
+    {
+      "inventory_id": "cambridge-environment-law-and-economics-ba-hons-bdc598eda4",
+      "section": "admissions",
+      "before": {
+        "label": "书面作品要求",
+        "text": "课程要求提交书面作品；件数、篇幅和学院差异见本课程来源。本轮尚待完成各学院条件的中文整理。",
+        "source_ids": [
+          "UKENR-e365faf6359fb3"
+        ],
+        "extraction_locator": "heading Submitted work, excluding historical applicant grey-box"
+      },
+      "after": {
+        "label": "书面作品要求",
+        "text": "部分学院要求作品：Fitzwilliam、Homerton、Lucy Cavendish、Newnham、Robinson、Sidney Sussex、Trinity Hall各一份；Downing、Pembroke、St Edmund’s、St John’s各两份。本课程页未统一规定篇幅，具体材料按学院通知。",
+        "source_ids": [
+          "UKENR-e365faf6359fb3",
+          "CAMN9-c7247e0cbfd282a2"
+        ],
+        "extraction_locator": "heading Submitted work, excluding historical applicant grey-box; current Submitted work College lists"
+      },
+      "reason": "Resolve exact College quantity gap; do not invent a common word limit"
+    },
+    {
+      "inventory_id": "cambridge-history-and-modern-languages-ba-hons-900008025a",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及历史、语言等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-11916e34272a78"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及历史、语言等科目。原先未整理的科目组合及例外已在2026年9月13日增量中逐条补述，见下列本课程专属条件；不能仅凭总成绩判断合格。",
+        "source_ids": [
+          "UKENR-11916e34272a78",
+          "CAMH9-5eecc965a003b4d6"
+        ],
+        "extraction_locator": "heading Minimum offer level; current #entry-requirements resolution"
+      },
+      "reason": "精确关闭先前中文整理缺口；旧来源和日期原样保留，当前补源另引"
+    },
+    {
+      "inventory_id": "cambridge-history-and-modern-languages-ba-hons-900008025a",
+      "section": "admissions",
+      "index": 1,
+      "before": {
+        "label": "书面作品要求",
+        "text": "条件涉及英语、历史等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-11916e34272a78"
+        ],
+        "extraction_locator": "heading Submitted work, excluding historical applicant grey-box"
+      },
+      "after": {
+        "label": "书面作品要求",
+        "text": "条件涉及英语、历史等科目。原先未整理的科目组合及例外已在2026年9月13日增量中逐条补述，见下列本课程专属条件；不能仅凭总成绩判断合格。",
+        "source_ids": [
+          "UKENR-11916e34272a78",
+          "CAMH9-5eecc965a003b4d6"
+        ],
+        "extraction_locator": "heading Submitted work, excluding historical applicant grey-box; current #entry-requirements resolution"
+      },
+      "reason": "精确关闭先前中文整理缺口；旧来源和日期原样保留，当前补源另引"
+    },
+    {
+      "inventory_id": "cambridge-history-and-politics-ba-hons-e099abcd38",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及历史等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-82bf817dd76c9e"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及历史等科目。原先未整理的科目组合及例外已在2026年9月13日增量中逐条补述，见下列本课程专属条件；不能仅凭总成绩判断合格。",
+        "source_ids": [
+          "UKENR-82bf817dd76c9e",
+          "CAMH9-6432bd8fe8a4abfd"
+        ],
+        "extraction_locator": "heading Minimum offer level; current #entry-requirements resolution"
+      },
+      "reason": "精确关闭先前中文整理缺口；旧来源和日期原样保留，当前补源另引"
+    },
+    {
+      "inventory_id": "cambridge-history-of-art-ba-hons-419db04af3",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及英语、历史、语言等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-6b9f9f057e8ff5"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及英语、历史、语言等科目。原先未整理的科目组合及例外已在2026年9月13日增量中逐条补述，见下列本课程专属条件；不能仅凭总成绩判断合格。",
+        "source_ids": [
+          "UKENR-6b9f9f057e8ff5",
+          "CAMH9-60f8be91c0c76a64"
+        ],
+        "extraction_locator": "heading Minimum offer level; current #entry-requirements resolution"
+      },
+      "reason": "精确关闭先前中文整理缺口；旧来源和日期原样保留，当前补源另引"
+    },
+    {
+      "inventory_id": "cambridge-history-ba-hons-b1ede1b708",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及历史等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-3df5086fdfd7c4"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及历史等科目。原先未整理的科目组合及例外已在2026年9月13日增量中逐条补述，见下列本课程专属条件；不能仅凭总成绩判断合格。",
+        "source_ids": [
+          "UKENR-3df5086fdfd7c4",
+          "CAMH9-84f1e91ef7a37a23"
+        ],
+        "extraction_locator": "heading Minimum offer level; current #entry-requirements resolution"
+      },
+      "reason": "精确关闭先前中文整理缺口；旧来源和日期原样保留，当前补源另引"
+    },
+    {
+      "inventory_id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及数学、英语、历史、语言等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-8fe453e5a319ed"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及数学、英语、历史、语言等科目。原先未整理的科目组合及例外已在2026年9月13日增量中逐条补述，见下列本课程专属条件；不能仅凭总成绩判断合格。",
+        "source_ids": [
+          "UKENR-8fe453e5a319ed",
+          "CAMH9-781390083896e35d"
+        ],
+        "extraction_locator": "heading Minimum offer level; current #entry-requirements resolution"
+      },
+      "reason": "精确关闭先前中文整理缺口；旧来源和日期原样保留，当前补源另引"
+    },
+    {
+      "inventory_id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+      "section": "admissions",
+      "index": 1,
+      "before": {
+        "label": "书面作品要求",
+        "text": "课程要求提交书面作品；件数、篇幅和学院差异见本课程来源。本轮尚待完成各学院条件的中文整理。",
+        "source_ids": [
+          "UKENR-8fe453e5a319ed"
+        ],
+        "extraction_locator": "heading Submitted work, excluding historical applicant grey-box"
+      },
+      "after": {
+        "label": "书面作品要求",
+        "text": "课程要求提交书面作品；件数、篇幅和学院差异见本课程来源。学院件数与测评分组已在2026年9月13日增量补述；Hughes Hall的TBC状态仍保留。",
+        "source_ids": [
+          "UKENR-8fe453e5a319ed",
+          "CAMH9-781390083896e35d"
+        ],
+        "extraction_locator": "heading Submitted work, excluding historical applicant grey-box; current #entry-requirements resolution"
+      },
+      "reason": "精确关闭先前中文整理缺口；旧来源和日期原样保留，当前补源另引"
+    },
+    {
+      "inventory_id": "cambridge-mathematics-ba-hons-and-mmath-978e108d0d",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*A*A；IB总分栏列41-42；条件涉及数学、进阶数学、物理等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-7cd82a1cdccdcf"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*A*A；IB总分栏列41-42；条件涉及数学、进阶数学、物理等科目。原先未整理的科目组合及例外已在2026年9月13日增量中逐条补述，见下列本课程专属条件；不能仅凭总成绩判断合格。",
+        "source_ids": [
+          "UKENR-7cd82a1cdccdcf",
+          "CAMH9-15367abf67ae373e"
+        ],
+        "extraction_locator": "heading Minimum offer level; current #entry-requirements resolution"
+      },
+      "reason": "精确关闭先前中文整理缺口；旧来源和日期原样保留，当前补源另引"
+    },
+    {
+      "inventory_id": "cambridge-medicine-graduate-course-mb-and-bchir-ad9fa2175e",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*A*A／ABB；IB总分栏列41-42／38-40。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-4d9b64cfd615a3"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*A*A／ABB；IB总分栏列41-42／38-40。下方本次已逐条补充2027科目组合、替代条件及例外；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-4d9b64cfd615a3",
+          "CAMF9-a8ec9650500b7412"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "reason": "旧缺口已由下方项目专属中文条件补齐；保留原成绩、推荐科目范围与旧来源核验日期。"
+    },
+    {
+      "inventory_id": "cambridge-medicine-mb-and-bchir-b4f8b5b9d3",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*A*A；IB总分栏列41-42。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-c5d809d064f847"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*A*A；IB总分栏列41-42。下方本次已逐条补充2027科目组合、替代条件及例外；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-c5d809d064f847",
+          "CAMF9-8a63a66bb1c5239e"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "reason": "旧缺口已由下方项目专属中文条件补齐；保留原成绩、推荐科目范围与旧来源核验日期。"
+    },
+    {
+      "inventory_id": "cambridge-modern-and-medieval-languages-ba-hons-6c89239887",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及数学、英语、历史、语言等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-991da5e34fa8c8"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及数学、英语、历史、语言等科目。下方本次已逐条补充2027科目组合、替代条件及例外；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-991da5e34fa8c8",
+          "CAMF9-41347bdc558ed46f"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "reason": "旧缺口已由下方项目专属中文条件补齐；保留原成绩、推荐科目范围与旧来源核验日期。"
+    },
+    {
+      "inventory_id": "cambridge-music-ba-hons-f12f797f66",
+      "section": "outcomes",
+      "index": 0,
+      "before": {
+        "label": "职业及继续学习方向",
+        "text": "课程职业栏目提及：银行、教学、法律、工程、传媒、出版、慈善机构。这是方向举例，未据此计算该专业就业率。",
+        "source_ids": [
+          "UKENR-0ac5167ef31e43"
+        ],
+        "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+      },
+      "after": {
+        "label": "职业及继续学习方向",
+        "text": "课程职业栏目提及：银行、教学、法律、录音／声音工程、传媒、出版、慈善机构。这是方向举例，未据此计算该专业就业率。",
+        "source_ids": [
+          "UKENR-0ac5167ef31e43",
+          "CAMF9-3760a5a4487ea974"
+        ],
+        "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+      },
+      "reason": "原课程英文为sound engineers，不能泛化成工程职业；其余旧事实保留。"
+    },
+    {
+      "inventory_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*A*A；IB总分栏列41-42；条件涉及数学、进阶数学、物理、化学、生物等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-f49a6e0550247d"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*A*A；IB总分栏列41-42；条件涉及数学、进阶数学、物理、化学、生物等科目。下方本次已逐条补充2027科目组合、替代条件及例外；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-f49a6e0550247d",
+          "CAMF9-f28cf9f997713622"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "reason": "旧缺口已由下方项目专属中文条件补齐；保留原成绩、推荐科目范围与旧来源核验日期。"
+    },
+    {
+      "inventory_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+      "section": "admissions",
+      "index": 1,
+      "before": {
+        "label": "书面作品要求（概览）",
+        "text": "Most Natural Sciences (Biological) students (who had studied A levels及started：Cambridge：2018, 2019及2023) achieved：least A*A*A* (76% of entrants).；本页还有科目及其他条件，完整条件本轮待逐条审校。",
+        "source_ids": [
+          "UKENR-f49a6e0550247d"
+        ],
+        "extraction_locator": "heading Submitted work"
+      },
+      "after": {
+        "label": "书面作品要求",
+        "text": "通常不会要求提交书面作品。原概览中的76%是既往A-level入学者成绩分布，不能作为书面作品要求。",
+        "source_ids": [
+          "UKENR-f49a6e0550247d",
+          "CAMF9-f28cf9f997713622"
+        ],
+        "extraction_locator": "#entry-requirements > Submitted work; historical applicant grey-box excluded"
+      },
+      "reason": "旧抽取错把历史A-level入学者成绩统计置于作品要求；按本课程Submitted work正文改正并保留错误口径说明。"
+    },
+    {
+      "inventory_id": "cambridge-veterinary-medicine-vetmb-3d7ab7d67e",
+      "section": "admissions",
+      "index": 0,
+      "before": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及数学、IB数学AI、进阶数学、物理、化学、生物等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-e6b5e3002369ed"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "after": {
+        "label": "最低A-level／IB及科目要求",
+        "text": "A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及数学、IB数学AI、进阶数学、物理、化学、生物等科目。下方本次已逐条补充2027科目组合、替代条件及例外；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+        "source_ids": [
+          "UKENR-e6b5e3002369ed",
+          "CAMF9-b60e482048481315"
+        ],
+        "extraction_locator": "heading Minimum offer level"
+      },
+      "reason": "旧缺口已由下方项目专属中文条件补齐；保留原成绩、推荐科目范围与旧来源核验日期。"
+    }
+  ],
+  "foundation_reference": {
+    "university_id": "cambridge",
+    "raw_key": null,
+    "name_en": "Foundation Year, Pre-degree course",
+    "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/foundation-year",
+    "checked_at": "2026-09-13",
+    "sections": {
+      "overview": [
+        {
+          "label": "目录学习安排",
+          "text": "入学 2027。",
+          "source_ids": [
+            "UKENR-c897e49942208d"
+          ],
+          "extraction_locator": "Official directory entry: Foundation Year, Pre-degree course"
+        },
+        {
+          "label": "课程页学制",
+          "text": "Course length CertHE 1 年, 全日制",
+          "source_ids": [
+            "UKENR-c897e49942208d"
+          ],
+          "extraction_locator": "[class*=field-course-duration]"
+        },
+        {
+          "label": "项目性质与地点",
+          "text": "官方标题明确Pre-degree course，Key information授位为一年制CertHE；它是艺术、人文与社会科学学位之前的准备课程，本身不是BA或其他本科学位。全日制住宿学习，主要教学在West Hub，部分在剑桥博物馆、档案馆及其他教学点。",
+          "source_ids": [
+            "CAMN9-f48bdb72bfce7d4c"
+          ],
+          "extraction_locator": "Introduction; #overview; Key information"
+        },
+        {
+          "label": "四条课程流与八门课",
+          "text": "从文本、实物、语言及数据四条课程流中修八门，其中两门必须来自文本来源。分别训练文本诠释与背景分析、物件和建筑景观证据、语言系统与身份、定量定性数据处理；有语言基础者可继续提高，也可零起点学拉丁文。另有自愿课外语言学习，不计总成绩。",
+          "source_ids": [
+            "CAMN9-f48bdb72bfce7d4c"
+          ],
+          "extraction_locator": "#course-outline Foundation Year streams; Extracurricular language learning"
+        },
+        {
+          "label": "教学与考核配比",
+          "text": "正式学期前有在剑桥住宿的入门周，后续通过讲座、研讨、小班督导及考察学习。考核为课程论文20%、笔试55%、约4,500–5,000词自选长项目20%及与考官讨论5%；现代语言考核另涉及论文、笔试和口试。",
+          "source_ids": [
+            "CAMN9-f48bdb72bfce7d4c"
+          ],
+          "extraction_locator": "#course-outline Teaching; Induction week; Assessment"
+        }
+      ],
+      "admissions": [
+        {
+          "label": "2027通常居住与弱势资格",
+          "text": "须通常居住在英国（ordinarily resident in the UK），并满足教育不利资格。照护经历、难民、寻求庇护或获Ukraine Scheme签证者按页列规则自动满足弱势类别；其他人须在三大类别中的至少两类各符合一项。类别涉及家庭经济、英国公立学校特征、个人教育中断等。大陆通常居住者不能仅凭中国国籍或高考成绩套用本项目；英国居住及具体证明须按专用指南核定。",
+          "source_ids": [
+            "CAMN9-f48bdb72bfce7d4c"
+          ],
+          "extraction_locator": "#eligibility"
+        },
+        {
+          "label": "学术条件与境外资格",
+          "text": "典型offer为120 UCAS Tariff学术分，无指定科目。A-level、IB等可接受，但IB Diploma只计三门HL及Extended Essay或Reflective Project；EPQ、Core Maths、AS-level及若干其他资格不计本项目120分。英国境外学历须先看UCAS Tariff表，未列者将完整学历名、国家及成绩发项目办公室核定；本轮未取得高考直接换算值。",
+          "source_ids": [
+            "CAMN9-f48bdb72bfce7d4c"
+          ],
+          "extraction_locator": "#entry-requirements Qualifications; Qualifications from outside of the UK"
+        },
+        {
+          "label": "既有高教及英语",
+          "text": "一般不接受已完成FHEQ Level6及以上学位者；难民／庇护等重大情形可能例外。通常也不考虑其他英国大学在读或已读其他Foundation Year者，特殊情况或转学科须现校强力支持说明。非英语母语者须具备足以学习的英语能力，选拔过程中一并考察；本轮未用普通本科统一英语数值替代本项目确认。",
+          "source_ids": [
+            "CAMN9-f48bdb72bfce7d4c"
+          ],
+          "extraction_locator": "#entry-requirements Previous Higher Education study; English language requirements"
+        }
+      ],
+      "applications": [
+        {
+          "label": "2027专属申请与测试",
+          "text": "通过UCAS申请，代码FYC1，截止2027年1月13日英国18:00；不要套普通剑桥本科2026年10月15日截止。获邀面试者须参加书面测评，由邀请通知细节，无需预注册且不收费。Key information列2027年9月开学。",
+          "source_ids": [
+            "CAMN9-f48bdb72bfce7d4c"
+          ],
+          "extraction_locator": "#entry-requirements Application deadline; Admission assessment; Key information"
+        }
+      ],
+      "fees": [
+        {
+          "label": "预科免费与后续学位分开",
+          "text": "Foundation Year本身不收学费，并提供覆盖租金及生活的奖学金，金额按页面所述生活贷款及Cambridge Bursary支持水平计算，本页未列固定金额。升读学位后须交对应课程学费，后续生活资助另申请；不能把预科免费解释为后续三四年本科全免。",
+          "source_ids": [
+            "CAMN9-f48bdb72bfce7d4c"
+          ],
+          "extraction_locator": "#overview Tuition fees; Living costs"
+        },
+        {
+          "label": "预科学习附加支出",
+          "text": "打印复印整个预科年平均约£10–30；图书馆资源充足，预计只需购买少量书，总额应不超过£200。部分学院可能收费提供网络，但大学有免费无线网络；本页未另标这些估计年度。",
+          "source_ids": [
+            "CAMN9-f48bdb72bfce7d4c"
+          ],
+          "extraction_locator": "#overview Course costs"
+        }
+      ],
+      "outcomes": [
+        {
+          "label": "升读条件及证书边界",
+          "text": "达到所需标准后可进入页面列出的剑桥艺术、人文及社会科学课程，部分目标要求相关课程流；最终由学院决定所获学位课程名额。也会支持申请其他大学。不是无条件直升任意剑桥学位；本轮未取得统一升读百分比分数或毕业就业分母。",
+          "source_ids": [
+            "CAMN9-f48bdb72bfce7d4c"
+          ],
+          "extraction_locator": "#overview Progression and further study"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": "UKENR-c897e49942208d",
+        "title": "Foundation Year, Pre-degree course 官方课程页",
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/foundation-year",
+        "checked_at": "2026-09-12",
+        "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+        "sha256": "f48bdb72bfce7d4c7e19b10fb9195c3a310682716afa36889ea5053a7f417d02",
+        "locator": "See each fact extraction_locator"
+      },
+      {
+        "id": "CAMN9-f48bdb72bfce7d4c",
+        "title": "Foundation Year, Pre-degree course — 当前官方课程全文",
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/foundation-year",
+        "checked_at": "2026-09-13",
+        "supports": "本记录所列公开课程、教学考核、资格及费用／职业范围；见各事实定位，不把历史费用或职业例子升级为当前统计",
+        "sha256": "f48bdb72bfce7d4c7e19b10fb9195c3a310682716afa36889ea5053a7f417d02",
+        "capture_format": "public_html",
+        "locator": "See each fact extraction_locator"
+      }
+    ],
+    "excluded_school_sections": [
+      "admissions",
+      "applications",
+      "fees",
+      "outcomes"
+    ],
+    "coverage_notes": [
+      "Special/graduate-entry route; general school freshman policy not inherited.",
+      "本条为预科／Gateway／毕业生／非全日制等特殊入口；学校普通新生资格、UCAS时间和费用不自动套用，须按课程条件核定。",
+      "独立预科参考记录：建议移出本科学位库存、保留旧URL说明；不导入普通本科program-facts-updates。"
+    ],
+    "display_fields": {
+      "intake": "2027",
+      "duration": "1年全日制；本科前置证书",
+      "name": "艺术、人文与社会科学预科（CertHE，非本科学位）",
+      "entry_summary": "2027：英国通常居住及教育不利资格；120学术UCAS分；不是普通大陆留学直入通道",
+      "tuition_summary": "预科本身免学费；后续学位另收费",
+      "outcomes_summary": "达到条件后申请／升读指定学位；本身仅CertHE",
+      "campus": "剑桥；主要教学West Hub"
+    },
+    "coverage": {
+      "overview": true,
+      "admissions": true,
+      "applications": true,
+      "fees": true,
+      "outcomes": true
+    },
+    "detail_payload_acquired": true,
+    "research_status": "partially_enriched",
+    "substantive_coverage": {
+      "course_content": true,
+      "entry_conditions": true,
+      "fee_amount": false,
+      "career_directions": false,
+      "outcome_statistics": false
+    },
+    "translation_status": "Manually authored Chinese course and applicant-route facts after full current page reading; remaining fields explicitly partial",
+    "inventory_id": "cambridge-foundation-year-pre-degree-course-eb821acd5e"
+  },
+  "limits": "Only scoped course/admission facts reviewed; 2027 prices and full internal programme universe incomplete. Source raw files remain local and SHA is retained."
+}

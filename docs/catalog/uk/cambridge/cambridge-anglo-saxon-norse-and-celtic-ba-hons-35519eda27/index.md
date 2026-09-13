@@ -19,7 +19,7 @@ hide:
 
 <p class="program-title-en">Anglo-Saxon, Norse, and Celtic, BA (Hons)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>Course length BA (Hons) 3 年, 全日制</strong></div><div><span>国际生学费</span><strong>2027待定；2026 GBP 29,052／年，另学院费</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027年10月</strong></div><div><span>学制</span><strong>3年，全日制，BA (Hons)</strong></div><div><span>国际生学费</span><strong>2027待定；2026 GBP 29,052／年，另学院费</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
@@ -43,8 +43,8 @@ hide:
 <p class="catalog-fact"><strong>目录学习安排：</strong>学位 BA (Hons)；入学 2027。</p>
 <p class="fact-sources"><a href="#source-p-UKENR-94e05c1fa6b7d0">官方依据</a></p>
 
-<p class="catalog-fact"><strong>课程页学制：</strong>Course length BA (Hons) 3 年, 全日制</p>
-<p class="fact-sources"><a href="#source-p-UKENR-94e05c1fa6b7d0">官方依据</a></p>
+<p class="catalog-fact"><strong>课程页学制：</strong>3年，全日制，BA (Hons)</p>
+<p class="fact-sources"><a href="#source-p-UKENR-94e05c1fa6b7d0">官方依据</a> · <a href="#source-p-CAMADM-cc965dd346c75cdd">官方依据</a></p>
 
 <p class="catalog-fact"><strong>研究对象与教学：</strong>研究早期中世纪不列颠、爱尔兰及斯堪的纳维亚的历史、文化、语言和文学，可选择研读古英语、古诺斯语及中世纪威尔士语、爱尔兰语、拉丁语材料。前两年通常每周10–15小时讲座与课堂，另有研讨和小组督导。</p>
 <p class="fact-sources"><a href="#source-p-CAMDEPTH-cc965dd346c75cdd">官方依据</a></p>
@@ -57,11 +57,17 @@ hide:
 
 ## 入学条件 {#admissions}
 
-<p class="catalog-fact"><strong>最低A-level／IB及科目要求：</strong>A level: A*AA IB: 41-42 分, with 776：HL Other qualifications : Check which other qualifications we accept We don&#x27;t ask for any specific subjects to apply to ASNC. We recommend these subjects for a strong application: 英语 (language 或 literature) History Languages (ancient 或 modern)</p>
-<p class="fact-sources"><a href="#source-p-UKENR-94e05c1fa6b7d0">官方依据</a></p>
+<p class="catalog-fact"><strong>最低A-level／IB及科目要求：</strong>适用2027入学或延期至2028：最低A-level A*AA；IB总分41–42，三门HL为7、7、6。不指定必修高中科目；英语（语言或文学）、历史和古代或现代语言是建议准备，并非三者全部必修。</p>
+<p class="fact-sources"><a href="#source-p-UKENR-94e05c1fa6b7d0">官方依据</a> · <a href="#source-p-CAMADM-cc965dd346c75cdd">官方依据</a></p>
 
-<p class="catalog-fact"><strong>书面作品要求：</strong>You will need to submit 2 pieces of written work . All undergraduate admissions decisions are the responsibility of the Cambridge Colleges. Please contact the relevant College admissions office if you have any queries.</p>
-<p class="fact-sources"><a href="#source-p-UKENR-94e05c1fa6b7d0">官方依据</a></p>
+<p class="catalog-fact"><strong>书面作品要求：</strong>须提交2篇书面作品；录取决定由各学院负责，具体提交通知另核。</p>
+<p class="fact-sources"><a href="#source-p-UKENR-94e05c1fa6b7d0">官方依据</a> · <a href="#source-p-CAMADM-cc965dd346c75cdd">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学院录取条件差异：</strong>Churchill、Corpus Christi、Lucy Cavendish、Selwyn通常对多数或全部录取增加成绩或指定科目A*条件，也可能偶尔采用最低要求；其余所列学院通常从最低要求起，但仍可加条件。最低成绩不保证录取。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-cc965dd346c75cdd">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027学院测评：</strong>当前学院测评表在本课程下只列Clare，具体形式由该学院通知。若获邀面试，由面试学院安排相关测评，无需提前单独注册；这与须预先报名的ESAT不同。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-college-assessments-d26cca0493ad">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -75,7 +81,17 @@ hide:
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>申请代码、开学与学院范围：</strong>当前Key information列2027年10月开学，UCAS代码QQ59。所有学院均列有本课程。入学年份不等于申请截止日期；各项提交期限须连同学校申请日历核对。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-cc965dd346c75cdd">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027常规申请与补充材料截止：</strong>UCAS可自2026年9月1日起提交，剑桥常规截止为10月15日英国18:00。提交后通常48小时内收到My Cambridge Application链接；本课申请还须在10月22日英国18:00前完成该补充表。需要的成绩单也须10月22日前提供，是否需要取决于学历类别；考试、作品及学院材料期限另计。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-application-timeline-88932d29daa5">官方依据</a> · <a href="#source-p-CAMADM-my-cambridge-e9ffb4814817">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027材料上传与可选个人陈述：</strong>剑桥明确2027申请不会下载或审阅额外上传到UCAS的文件；剑桥所需材料应通过My Cambridge Application或申请学院提交。提前准备照片、成绩单及被要求的高中学习主题、语言考试日期分数和国际生资金信息。剑桥专属补充个人陈述最多1200字符且为可选，不是1200词的必交论文。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-my-cambridge-e9ffb4814817">官方依据</a></p>
+
+<p class="catalog-fact"><strong>面试及常规轮结果安排：</strong>当前日历称入围面试通知多在2026年11月，部分可能12月初；多数面试在12月前三周。参加2026年12月主要面试期者，结果日期为2027年1月27日。不是所有申请者都会获邀，满足有条件录取后的考试成绩要求仍须另核。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-application-timeline-88932d29daa5">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -91,6 +107,9 @@ hide:
 
 <p class="catalog-fact"><strong>课程专属附加支出：</strong>当前课程页说明本专业没有强制的额外课程费用；这不免除大学学费、学院费、生活费和一般学习开支。</p>
 <p class="fact-sources"><a href="#source-p-CAMDEPTH-cc965dd346c75cdd">官方依据</a></p>
+
+<p class="catalog-fact"><strong>额外申请费及地域减免：</strong>My Cambridge Application当前说明：从英国、爱尔兰、海峡群岛或马恩岛以外申请者可能须另付£60申请费；国际申请页称多数国际申请者须付。当前自动减免国家名单不含中国大陆；名单每年9月复核更新，提交时须再核自身适用资格。这笔申请费与大学学费、UCAS费及考试费分别计算，不能默认获减免。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-my-cambridge-e9ffb4814817">官方依据</a> · <a href="#source-p-CAMADM-international-applications-4407de7f2bb9">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -114,6 +133,11 @@ hide:
 <div class="catalog-source" id="source-p-UKENR-94e05c1fa6b7d0"><div><a href="https://www.undergraduate.study.cam.ac.uk/courses/anglo-saxon-norse-celtic-ba-hons">Anglo-Saxon, Norse, and Celtic, BA (Hons) 官方课程页 ↗</a><p>专业学位与学习结构、实际抽取的标准资格、费用和职业方向</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-UKENR-e0ae11f40594ce"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs">Cambridge 国际学费：2026参考、2027发布日期 ↗</a><p>具名课程2026国际年费；2027尚未公布；额外学院费</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-CAMDEPTH-cc965dd346c75cdd"><div><a href="https://www.undergraduate.study.cam.ac.uk/courses/anglo-saxon-norse-celtic-ba-hons">Anglo-Saxon, Norse, and Celtic, BA (Hons) — 当前课程、考核及附加成本 ↗</a><p>实际公开Course outline与Overview课程成本；年份和选修例子分别标注，不重新认证旧招生及大学学费</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-cc965dd346c75cdd"><div><a href="https://www.undergraduate.study.cam.ac.uk/courses/anglo-saxon-norse-celtic-ba-hons">Anglo-Saxon, Norse, and Celtic, BA (Hons) — 2027实际招生条件与申请代码 ↗</a><p>亲读完整Entry requirements与实际Chrome页签、Key information；标准资格、学院差异、书面作品、考试及开学/申请代码</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-college-assessments-d26cca0493ad"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments">Cambridge 2027学院测评：实际展开课程面板 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-application-timeline-88932d29daa5"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/application-dates-deadlines">Cambridge官方2027本科申请日历 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-my-cambridge-e9ffb4814817"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/how/cambridge-application">My Cambridge Application：2027补充申请与材料 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-international-applications-4407de7f2bb9"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-applications">Cambridge国际申请流程、申请费及减免名单 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-14c8a54910c8e1"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-entry-requirements">Cambridge 国际学历要求：中国 ↗</a><p>学院分组高考要求及补充资格</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-e7398085a4510f"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements#english-language-requirements">Cambridge 本科入学与英语要求 ↗</a><p>英语录取标准和面试建议门槛</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-e0ae11f40594ce"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs">Cambridge 国际生费用 ↗</a><p>2026国际年费表、2027公布时间、额外College fees</p><small>核验 2026-09-12</small></div></div>

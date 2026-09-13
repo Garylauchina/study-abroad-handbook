@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-33 个专业条目 · 0 个含详细资料 · 33 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+32 个专业条目 · 0 个含详细资料 · 32 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=cambridge#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -34,33 +34,32 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-asian-and-middle-eastern-studies-ba-hons-63cde5a980/">亚洲与中东研究（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9/">化学工程与生物技术（BA Hons／MEng）</a><small>BA (Hons) and MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-classics-ba-hons-55ef8cda1d/">古典学（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-computer-science-ba-hons-and-meng-a29f97f030/">Computer Science, BA (Hons) and MEng</a><small>BA (Hons) and MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-design-ba-hons-and-mdes-b9f6cb3d16/">Design, BA (Hons) and MDes</a><small>BA (Hons) and MDes · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-economics-ba-hons-a6d141a9e8/">Economics, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-education-ba-hons-39a2386e5b/">Education, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-engineering-ba-hons-and-meng-329b6daa0b/">Engineering, BA (Hons) and MEng</a><small>BA (Hons) and MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-english-ba-hons-7ee7deac9d/">English, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-environment-law-and-economics-ba-hons-bdc598eda4/">Environment, Law, and Economics, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-foundation-year-pre-degree-course-eb821acd5e/">Foundation Year, Pre-degree course</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-geography-ba-hons-b9868dae1e/">Geography, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-history-and-modern-languages-ba-hons-900008025a/">History and Modern Languages, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-history-and-politics-ba-hons-e099abcd38/">History and Politics, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-history-of-art-ba-hons-419db04af3/">History of Art, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-history-ba-hons-b1ede1b708/">History, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21/">Human, Social, and Political Sciences, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-law-ba-hons-1c0cf28f9b/">Law, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739/">Linguistics and Modern Languages, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-linguistics-ba-hons-ded24ea860/">Linguistics, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-mathematics-ba-hons-and-mmath-978e108d0d/">Mathematics, BA (Hons) and MMath</a><small>BA (Hons) and MMath · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-medicine-graduate-course-mb-and-bchir-ad9fa2175e/">Medicine (Graduate course), MB and BChir</a><small>MB and BChir · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-medicine-mb-and-bchir-b4f8b5b9d3/">Medicine, MB and BChir</a><small>MB and BChir · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-modern-and-medieval-languages-ba-hons-6c89239887/">Modern and Medieval Languages, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-music-ba-hons-f12f797f66/">Music, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3/">Natural Sciences, BA (Hons) and MSci</a><small>BA (Hons) and MSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-philosophy-ba-hons-3025dcf226/">Philosophy, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-psychological-and-behavioural-sciences-ba-hons-ba034603eb/">Psychological and Behavioural Sciences, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-theology-religion-and-philosophy-of-religion-ba-hons-2c3b78a432/">Theology, Religion, and Philosophy of Religion, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-veterinary-medicine-vetmb-3d7ab7d67e/">Veterinary Medicine, VetMB</a><small>VetMB · 部分专业资料已核实</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-computer-science-ba-hons-and-meng-a29f97f030/">计算机科学（文学学士／工程硕士）</a><small>BA (Hons) and MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-design-ba-hons-and-mdes-b9f6cb3d16/">设计（文学学士／设计硕士）</a><small>BA (Hons) and MDes · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-economics-ba-hons-a6d141a9e8/">经济学（文学学士）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-education-ba-hons-39a2386e5b/">教育学（文学学士）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-engineering-ba-hons-and-meng-329b6daa0b/">工程学（文学学士／工程硕士）</a><small>BA (Hons) and MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-english-ba-hons-7ee7deac9d/">英语文学（文学学士）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-environment-law-and-economics-ba-hons-bdc598eda4/">环境、法律与经济（文学学士）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-geography-ba-hons-b9868dae1e/">地理学（文学学士）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-history-and-modern-languages-ba-hons-900008025a/">历史与现代语言（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-history-and-politics-ba-hons-e099abcd38/">历史与政治（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-history-of-art-ba-hons-419db04af3/">艺术史（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-history-ba-hons-b1ede1b708/">历史学（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21/">人类、社会与政治科学（HSPS，BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-law-ba-hons-1c0cf28f9b/">法学（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739/">语言学与现代语言（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-linguistics-ba-hons-ded24ea860/">语言学（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-mathematics-ba-hons-and-mmath-978e108d0d/">数学（BA Hons；可升读MMath）</a><small>BA (Hons) and MMath · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-medicine-graduate-course-mb-and-bchir-ad9fa2175e/">医学（毕业生四年制，MB／BChir）</a><small>MB and BChir · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-medicine-mb-and-bchir-b4f8b5b9d3/">医学（六年制，MB／BChir）</a><small>MB and BChir · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-modern-and-medieval-languages-ba-hons-6c89239887/">现代与中世纪语言（BA荣誉）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-music-ba-hons-f12f797f66/">音乐（BA荣誉）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3/">自然科学（BA荣誉／MSci）</a><small>BA (Hons) and MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-philosophy-ba-hons-3025dcf226/">哲学（BA荣誉）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-psychological-and-behavioural-sciences-ba-hons-ba034603eb/">心理与行为科学（BA荣誉）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-theology-religion-and-philosophy-of-religion-ba-hons-2c3b78a432/">神学、宗教与宗教哲学（BA荣誉）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-veterinary-medicine-vetmb-3d7ab7d67e/">兽医学（VetMB；2027招生附认证条件）</a><small>VetMB · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -93,18 +92,22 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 33 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 32 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>保留已于2026-09-12对账的33个本科课程招生入口；课程内部具名方向、组合、授位阶段及年限制变体尚未逐项闭合。</p>
+<p><strong>统计范围：</strong>本科学位及本科后医学入口32项；原33项官方招生目录中，独立本科前置CertHE Foundation Year移至范围更正页。内部具名方向、组合和授位阶段尚未全部闭合。</p>
 
-<p><strong>对账方法：</strong>[{&quot;page&quot;: &quot;single complete A–Z&quot;, &quot;count&quot;: 33, &quot;first&quot;: &quot;Anglo-Saxon, Norse, and Celtic, BA (Hons)&quot;, &quot;last&quot;: &quot;Veterinary Medicine, VetMB&quot;, &quot;pagination_links_found&quot;: 0}] 当前33入口逐项保留；本轮核前6课程公开逐年内容时确认考古的4单方向和2组合、建筑升读及古典学3/4年等内部路径须进一步对账。未将课内选项新造为独立高中招生入口，故广口径目录状态调整为partial。</p>
+<p><strong>对账方法：</strong>保留2026年9月12日完整A–Z原始33项对账记录；2026年9月13日逐页补核全部课程内容和2027招生条件，识别Foundation Year为一年制本科前置证书并移出学位目录，32个现有本科学位/本科后医学入口均补有课程专属资料。课程内具名专研、语言组合及升读阶段未自动新造高中招生入口，完整内部方向仍待逐项核验。</p>
 
-<p><strong>排除项：</strong>All subjects, no search keyword or subject filters；Preserve independent titles, joint degrees, foundation/placement/study-abroad variants if separately listed；Retain graduate-entry undergraduate courses and flag entry route; exclude pure postgraduate awards</p>
+<p><strong>排除项：</strong>全部学科；保留本科入口贯通学位及有本科先修条件的本科医学，明确Home/Overseas与2027认证条件。独立证书及本科前置CertHE不计作本科学位；保留旧链接范围说明。</p>
 
 **尚未解决的目录缺口：**
 
-- Directory has 33 course-level admissions entries. Subject pathways within broad entry courses are not fabricated as separate admissions programmes. Award alternatives on the same official entry page remain combined.
-- 33个入口的目录核对完成不等于课程内部全部具名方向及2027所有字段已核齐；本轮只补6个已有课程的学习结构和附加支出，其余27未刷新。
+- 考古、HSPS、语言、自然科学等内部具名路径及本科后转入Management/Manufacturing等路线，尚未与每个官方学位阶段和招生身份逐项闭合；现有32入口不表示所有内部方向已完成。
+- 2027实际大学与学院学费尚未公布，官网计划最迟2026年10月1日发布；保留2026参考价和原来源日期。医学/兽医第三年按所修课程与原前临床入学年费率，不能把医学年价乘6。
+- 中国大陆具体学历等同、英语成绩、学院加条件和奖助仍须按课程和申请人身份核查；A-level/IB标准不能直接换算高考分数。A101仅适用Home费率身份且需前置学位，不继承普通国际本科申请/费用。
+- 兽医2027招生取决于RCVS后续认证决定：当前conditional，下次访问2026年10月；EAEVE另已获Accreditation，不解除RCVS条件。此处不是已确认停招或个人执业承诺。
+- Design首年5门与列6项、数学STEP一门/两门表述等当前来源差异保留；自然科学第二年生物课程名2027年春再确认。
+- 专业和内部方向独立可比毕业届次、统计分母及薪资仍不齐。自然科学47%是2022年8月至2023年7月毕业者调查应答率，不是就业率。一般职业方向与认证不等于自动注册、职位或工作签证。
 
 - [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses)
 - [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/anglo-saxon-norse-celtic-ba-hons)
@@ -144,5 +147,49 @@ hide:
 - [官方目录来源](https://www.undergraduate.study.cam.ac.uk/international-students/international-entry-requirements)
 - [官方目录来源](https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements#english-language-requirements)
 - [官方目录来源](https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/apply/application-dates-deadlines)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/apply/how/cambridge-application)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/international-students/international-applications)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/apply/how/science-engineering-admission-test)
+- [官方目录来源](https://esat-tmua.ac.uk/about-the-tests/esat-test/)
+- [官方目录来源](https://esat-tmua.ac.uk/access-arrangements/)
+- [官方目录来源](https://esat-tmua.ac.uk/register/)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/apply/how/maths-admission-test)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/medicine-graduate-course-mb-bchir#entry-requirements)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/medicine-graduate-course-mb-bchir#overview)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/medicine-graduate-course-mb-bchir#course-outline)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/apply/how/medicine-admission-test)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/medicine-mb-bchir#entry-requirements)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/medicine-mb-bchir#overview)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/medicine-mb-bchir#course-outline)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/modern-medieval-languages-ba-hons#entry-requirements)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/modern-medieval-languages-ba-hons#overview)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/modern-medieval-languages-ba-hons#course-outline)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/music-ba-hons#overview)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/music-ba-hons#course-outline)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/music-ba-hons#entry-requirements)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci#entry-requirements)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci#overview)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci#course-outline)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/philosophy-ba-hons#course-outline)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/philosophy-ba-hons#overview)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/philosophy-ba-hons#entry-requirements)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/psychological-behavioural-sciences-ba-hons#course-outline)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/psychological-behavioural-sciences-ba-hons#entry-requirements)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/psychological-behavioural-sciences-ba-hons#overview)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/theology-religion-philosophy-of-religion-ba-hons#course-outline)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/theology-religion-philosophy-of-religion-ba-hons#entry-requirements)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/theology-religion-philosophy-of-religion-ba-hons#overview)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/veterinary-medicine-vetmb#entry-requirements)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/veterinary-medicine-vetmb#overview)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/veterinary-medicine-vetmb#course-outline)
+- [官方目录来源](https://www.rcvs.org.uk/about-us/what-we-do/accrediting-qualifications/accrediting-veterinary-qualifications)
+- [官方目录来源](https://www.eaeve.org/fileadmin/downloads/establishments_status/ESEVT_Status_of_EAEVE_Establishments_27May2026.pdf)
+- [官方目录来源](https://www.vet.cam.ac.uk/about/accreditation)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

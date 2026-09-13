@@ -2013,5 +2013,24 @@
         "source_period": "2027/28费用和2027申请按可见字段；其余正文内部明确旧年的内容单列"
       }
     ]
+  },
+  {
+    "id": "cambridge-foundation-year-pre-degree-course-eb821acd5e",
+    "university_id": "cambridge",
+    "name_en": "Foundation Year, Pre-degree course",
+    "reason": "官方明确这是本科前置Foundation Year，完成授予一年制CertHE证书；本身不是本科学位或独立主修。项目须通常居住在英国并满足教育不利资格，达到后续条件才可升读指定学位，因此移出本科学位专业清单；保留本页说明及官方链接。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "CAMN9-f48bdb72bfce7d4c",
+        "title": "Foundation Year, Pre-degree course — 当前官方课程全文",
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/foundation-year",
+        "checked_at": "2026-09-13",
+        "supports": "本记录所列公开课程、教学考核、资格及费用／职业范围；见各事实定位，不把历史费用或职业例子升级为当前统计",
+        "sha256": "f48bdb72bfce7d4c7e19b10fb9195c3a310682716afa36889ea5053a7f417d02",
+        "capture_format": "public_html",
+        "locator": "See each fact extraction_locator"
+      }
+    ]
   }
 ]

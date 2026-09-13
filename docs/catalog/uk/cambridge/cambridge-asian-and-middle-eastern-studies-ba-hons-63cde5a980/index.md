@@ -19,7 +19,7 @@ hide:
 
 <p class="program-title-en">Asian and Middle Eastern Studies, BA (Hons)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>Course length BA (Hons) 4 年 全日制, including a 年 abroad</strong></div><div><span>国际生学费</span><strong>2027待定；2026 GBP 29,052／年，另学院费</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027年10月</strong></div><div><span>学制</span><strong>4年，全日制，含海外年，BA (Hons)</strong></div><div><span>国际生学费</span><strong>2027待定；2026 GBP 29,052／年，另学院费</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
@@ -43,8 +43,8 @@ hide:
 <p class="catalog-fact"><strong>目录学习安排：</strong>学位 BA (Hons)；入学 2027。</p>
 <p class="fact-sources"><a href="#source-p-UKENR-602b281597aef9">官方依据</a></p>
 
-<p class="catalog-fact"><strong>课程页学制：</strong>Course length BA (Hons) 4 年 全日制, including a 年 abroad</p>
-<p class="fact-sources"><a href="#source-p-UKENR-602b281597aef9">官方依据</a></p>
+<p class="catalog-fact"><strong>课程页学制：</strong>4年，全日制，含海外年，BA (Hons)</p>
+<p class="fact-sources"><a href="#source-p-UKENR-602b281597aef9">官方依据</a> · <a href="#source-p-CAMADM-845b4529f0318b61">官方依据</a></p>
 
 <p class="catalog-fact"><strong>语言和区域研究：</strong>通常每周12–14小时教学。首年强化所选语言的听说读写，并修4–6门东亚或中东导论；中东语言与欧洲语言组合首年大致等量，之后可调整。二年继续语言，中文和日语路线还必修古典语言；历史、文学、政治、宗教或语言学选项逐年变动。</p>
 <p class="fact-sources"><a href="#source-p-CAMDEPTH-845b4529f0318b61">官方依据</a></p>
@@ -57,11 +57,20 @@ hide:
 
 ## 入学条件 {#admissions}
 
-<p class="catalog-fact"><strong>最低A-level／IB及科目要求：</strong>A-level成绩栏列A*AA；IB总分栏列41-42；条件涉及英语、历史、语言等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。</p>
-<p class="fact-sources"><a href="#source-p-UKENR-602b281597aef9">官方依据</a></p>
+<p class="catalog-fact"><strong>最低A-level／IB及科目要求：</strong>适用2027入学或延期至2028：最低A-level A*AA；IB总分41–42，三门HL为7、7、6。英语、历史和语言是推荐准备；如把所选语言与欧洲语言组合，须有所选欧洲语言的A-level或IB HL资格。Robinson的AMES语言仅中文与日文。</p>
+<p class="fact-sources"><a href="#source-p-UKENR-602b281597aef9">官方依据</a> · <a href="#source-p-CAMADM-845b4529f0318b61">官方依据</a></p>
 
-<p class="catalog-fact"><strong>书面作品要求（概览）：</strong>Most Asian及Middle Eastern Studies students (who had studied A levels及started：Cambridge：2018, 2019及2023) achieved：least A*A*A (70% of entrants). The majority of students who studied IB achieved：least 43 分 总分 and/或 grades 777：HL.；本页还有科目及其他条件，完整条件本轮待逐条审校。</p>
-<p class="fact-sources"><a href="#source-p-UKENR-602b281597aef9">官方依据</a></p>
+<p class="catalog-fact"><strong>不含欧洲语言组合的书面作品：</strong>当前本课表列Clare、St Catharine’s、St Edmund’s须1篇；Downing、St John’s、Trinity须2篇。欧洲语言组合另适用下一项清单；未在这一组列名的学院，不据此猜测提交件数。</p>
+<p class="fact-sources"><a href="#source-p-UKENR-602b281597aef9">官方依据</a> · <a href="#source-p-CAMADM-845b4529f0318b61">官方依据</a></p>
+
+<p class="catalog-fact"><strong>欧洲语言组合的书面作品：</strong>欧洲语言组合：Churchill、Corpus Christi、Downing、Jesus、Newnham、St Catharine’s、St John’s、Trinity、Trinity Hall须2篇；Christ’s、Clare、Fitzwilliam、Girton、Gonville &amp; Caius、Homerton、Hughes Hall、Lucy Cavendish、Magdalene、Pembroke、Peterhouse、Queens’、Selwyn、St Edmund’s、Wolfson须1篇。其他未列组合按学院通知核对，不套普通AMES件数。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-845b4529f0318b61">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学院额外录取条件：</strong>Churchill、Lucy Cavendish、Selwyn通常为多数或全部录取加成绩或指定科目条件，也可能偶尔采用最低成绩。往届录取者的A-level或IB分布是历史样本，不是本课程书面作品要求或统一最低门槛。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-845b4529f0318b61">官方依据</a></p>
+
+<p class="catalog-fact"><strong>欧洲语言组合的学院测评：</strong>与欧洲语言组合者在所有学院均须参加MML测评：外语论述40分钟、英语论述20分钟。入围面试后由学院安排，无需提前注册；本课程测评栏未单列具体日期，按学院通知核对，不自行把别的课程日期当成本课确认安排。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-college-assessments-d26cca0493ad">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -75,7 +84,17 @@ hide:
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>申请代码、开学与学院范围：</strong>当前Key information列2027年10月开学，UCAS代码TT46。所有学院列有本课程，但Robinson只接收中文或日文方向，可再与欧洲语言组合。入学年份不等于申请截止日期；各项提交期限须连同学校申请日历核对。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-845b4529f0318b61">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027常规申请与补充材料截止：</strong>UCAS可自2026年9月1日起提交，剑桥常规截止为10月15日英国18:00。提交后通常48小时内收到My Cambridge Application链接；本课申请还须在10月22日英国18:00前完成该补充表。需要的成绩单也须10月22日前提供，是否需要取决于学历类别；考试、作品及学院材料期限另计。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-application-timeline-88932d29daa5">官方依据</a> · <a href="#source-p-CAMADM-my-cambridge-e9ffb4814817">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027材料上传与可选个人陈述：</strong>剑桥明确2027申请不会下载或审阅额外上传到UCAS的文件；剑桥所需材料应通过My Cambridge Application或申请学院提交。提前准备照片、成绩单及被要求的高中学习主题、语言考试日期分数和国际生资金信息。剑桥专属补充个人陈述最多1200字符且为可选，不是1200词的必交论文。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-my-cambridge-e9ffb4814817">官方依据</a></p>
+
+<p class="catalog-fact"><strong>面试及常规轮结果安排：</strong>当前日历称入围面试通知多在2026年11月，部分可能12月初；多数面试在12月前三周。参加2026年12月主要面试期者，结果日期为2027年1月27日。不是所有申请者都会获邀，满足有条件录取后的考试成绩要求仍须另核。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-application-timeline-88932d29daa5">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -91,6 +110,9 @@ hide:
 
 <p class="catalog-fact"><strong>教材和海外年费用：</strong>当前课程页提示个别学生每年特定教材可能花费£300或更多，黑白A4打印每张10p、彩色60p。海外年的日常生活及相关交通由学生承担，院系承担海外机构及／或私人导师的授课费；剑桥本校海外年学费须另查，不能据此写成海外年免学费。Turing只列可申请入口，本轮未核个人资格或资助金额。</p>
 <p class="fact-sources"><a href="#source-p-CAMDEPTH-845b4529f0318b61">官方依据</a></p>
+
+<p class="catalog-fact"><strong>额外申请费及地域减免：</strong>My Cambridge Application当前说明：从英国、爱尔兰、海峡群岛或马恩岛以外申请者可能须另付£60申请费；国际申请页称多数国际申请者须付。当前自动减免国家名单不含中国大陆；名单每年9月复核更新，提交时须再核自身适用资格。这笔申请费与大学学费、UCAS费及考试费分别计算，不能默认获减免。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-my-cambridge-e9ffb4814817">官方依据</a> · <a href="#source-p-CAMADM-international-applications-4407de7f2bb9">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -114,6 +136,11 @@ hide:
 <div class="catalog-source" id="source-p-UKENR-602b281597aef9"><div><a href="https://www.undergraduate.study.cam.ac.uk/courses/asian-middle-eastern-studies-ba-hons">Asian and Middle Eastern Studies, BA (Hons) 官方课程页 ↗</a><p>专业学位与学习结构、实际抽取的标准资格、费用和职业方向</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-UKENR-e0ae11f40594ce"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs">Cambridge 国际学费：2026参考、2027发布日期 ↗</a><p>具名课程2026国际年费；2027尚未公布；额外学院费</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-CAMDEPTH-845b4529f0318b61"><div><a href="https://www.undergraduate.study.cam.ac.uk/courses/asian-middle-eastern-studies-ba-hons">Asian and Middle Eastern Studies, BA (Hons) — 当前课程、考核及附加成本 ↗</a><p>实际公开Course outline与Overview课程成本；年份和选修例子分别标注，不重新认证旧招生及大学学费</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-845b4529f0318b61"><div><a href="https://www.undergraduate.study.cam.ac.uk/courses/asian-middle-eastern-studies-ba-hons">Asian and Middle Eastern Studies, BA (Hons) — 2027实际招生条件与申请代码 ↗</a><p>亲读完整Entry requirements与实际Chrome页签、Key information；标准资格、学院差异、书面作品、考试及开学/申请代码</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-college-assessments-d26cca0493ad"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments">Cambridge 2027学院测评：实际展开课程面板 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-application-timeline-88932d29daa5"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/application-dates-deadlines">Cambridge官方2027本科申请日历 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-my-cambridge-e9ffb4814817"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/how/cambridge-application">My Cambridge Application：2027补充申请与材料 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-international-applications-4407de7f2bb9"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-applications">Cambridge国际申请流程、申请费及减免名单 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-14c8a54910c8e1"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-entry-requirements">Cambridge 国际学历要求：中国 ↗</a><p>学院分组高考要求及补充资格</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-e7398085a4510f"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements#english-language-requirements">Cambridge 本科入学与英语要求 ↗</a><p>英语录取标准和面试建议门槛</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-e0ae11f40594ce"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs">Cambridge 国际生费用 ↗</a><p>2026国际年费表、2027公布时间、额外College fees</p><small>核验 2026-09-12</small></div></div>

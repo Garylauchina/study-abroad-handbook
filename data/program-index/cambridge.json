@@ -3,10 +3,10 @@
   "checked_at": "2026-09-12",
   "coverage": {
     "status": "partial",
-    "count": 33,
-    "scope": "保留已于2026-09-12对账的33个本科课程招生入口；课程内部具名方向、组合、授位阶段及年限制变体尚未逐项闭合。",
-    "method": "[{\"page\": \"single complete A–Z\", \"count\": 33, \"first\": \"Anglo-Saxon, Norse, and Celtic, BA (Hons)\", \"last\": \"Veterinary Medicine, VetMB\", \"pagination_links_found\": 0}] 当前33入口逐项保留；本轮核前6课程公开逐年内容时确认考古的4单方向和2组合、建筑升读及古典学3/4年等内部路径须进一步对账。未将课内选项新造为独立高中招生入口，故广口径目录状态调整为partial。",
-    "exclusions": "All subjects, no search keyword or subject filters；Preserve independent titles, joint degrees, foundation/placement/study-abroad variants if separately listed；Retain graduate-entry undergraduate courses and flag entry route; exclude pure postgraduate awards",
+    "count": 32,
+    "scope": "本科学位及本科后医学入口32项；原33项官方招生目录中，独立本科前置CertHE Foundation Year移至范围更正页。内部具名方向、组合和授位阶段尚未全部闭合。",
+    "method": "保留2026年9月12日完整A–Z原始33项对账记录；2026年9月13日逐页补核全部课程内容和2027招生条件，识别Foundation Year为一年制本科前置证书并移出学位目录，32个现有本科学位/本科后医学入口均补有课程专属资料。课程内具名专研、语言组合及升读阶段未自动新造高中招生入口，完整内部方向仍待逐项核验。",
+    "exclusions": "全部学科；保留本科入口贯通学位及有本科先修条件的本科医学，明确Home/Overseas与2027认证条件。独立证书及本科前置CertHE不计作本科学位；保留旧链接范围说明。",
     "sources": [
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses",
@@ -53,97 +53,97 @@
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/computer-science-ba-hons-meng",
         "sha256": "77004a399f38fe945a20b046315affa041b9cb74def7faefa3405addc5d8285e",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-798d31e4fd78cd.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-computer-science-ba-hons-and-meng-a29f97f030.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/design-ba-hons-mdes",
         "sha256": "816a226067015232f8bdb32c4d7cffb14afaa91dd6db22d54b567adb978d7873",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-0c3a712feb8353.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-design-ba-hons-and-mdes-b9f6cb3d16.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/economics-ba-hons",
         "sha256": "03cb7696a0028729b6ffe1fb5233f29574ed06947ce88cddccc2995832115584",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-f7a4ba83c53df4.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-economics-ba-hons-a6d141a9e8.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/education-ba-hons",
         "sha256": "0313131b4389177b965b8b53b09d62f5a15d3024c4032606494a352063152029",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-fac538283b26d7.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-education-ba-hons-39a2386e5b.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
         "sha256": "debb5b12e6a7fcc5daf1f7540e504f815e58d8605ee95f74292d8db9df680475",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-9641ea953b3acb.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-engineering-ba-hons-and-meng-329b6daa0b.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/english-ba-hons",
         "sha256": "144059cef8216fd37930e4b7556c250fc89743faa925b8e547920db5ec3d68c6",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-62750169560b94.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-english-ba-hons-7ee7deac9d.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/environment-law-economics-ba-hons",
         "sha256": "c7247e0cbfd282a2ae22f2312321562dd34bd36c249e0ebbbcf1429e20a667ac",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-ac71998f6b19e2.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-environment-law-and-economics-ba-hons-bdc598eda4.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/foundation-year",
         "sha256": "f48bdb72bfce7d4c7e19b10fb9195c3a310682716afa36889ea5053a7f417d02",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-7c241ed586962e.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-foundation-year-pre-degree-course-eb821acd5e.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/geography-ba-hons",
         "sha256": "a9ea9e24076a704c8a16ae6387dbac0d0606316348e0a78accdcff81ecbd8a6f",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-3c8f2f895a9fc9.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-geography-ba-hons-b9868dae1e.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons",
         "sha256": "5eecc965a003b4d6c0f7320053e28719b7e8b53fb400bddd682bc8c2874c0871",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-e5a83b6a7bbef9.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-history-and-modern-languages-ba-hons-900008025a.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/history-politics-ba-hons",
         "sha256": "6432bd8fe8a4abfd7b12b68b71028dac8ddb646f991c08ab45037df9c6e30410",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-a46d1d3d18ad66.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-history-and-politics-ba-hons-e099abcd38.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/history-of-art-ba-hons",
         "sha256": "60f8be91c0c76a64ba5f75db6370e3f8586f33de20d5449725c779979a83248d",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-48e5ebd987fd2b.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-history-of-art-ba-hons-419db04af3.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/history-ba-hons",
         "sha256": "84f1e91ef7a37a231922cb17d374afc7fbdbf2bab86c7e9fe88936e275a99ad4",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-9dd14d261f61da.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-history-ba-hons-b1ede1b708.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
         "sha256": "4ed7e5b22a9abc3f63215be930e7fda9900189ecce97541956dede6ee32a1f85",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-222ca0e10ad346.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/law-ba-hons",
         "sha256": "a888a72431af18926416d56202073b75ebdfe95cf435f112a1c6cc531daf65e1",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-f61f7ca02c26f2.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-law-ba-hons-1c0cf28f9b.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons",
         "sha256": "781390083896e35d24c32ca53c09f3a24d9c1a3e2df08c8dae1618055294870f",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-05d6803fdc2aca.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-ba-hons",
         "sha256": "6c4d04ca66efbe2ce4a78849f18e35d7edf3bfdb4b1f389cb76ab46d963cfd06",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-daf1351fe1c11e.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-linguistics-ba-hons-ded24ea860.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/mathematics-ba-hons-mmath",
         "sha256": "15367abf67ae373e2de6153b83ea8d7ee85e2e4260244fb9632d0bb40b5d0668",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-cce05126afc5df.html"
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-mathematics-ba-hons-and-mmath-978e108d0d.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-graduate-course-mb-bchir",
         "sha256": "c98a524c1ea04e581b551a57f4ea05497ce4ea4090dd03417de81471595022fc",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-0bb499840ee6ac.html"
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/cambridge-medicine-graduate-course-mb-and-bchir-ad9fa2175e.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-mb-bchir",
@@ -158,7 +158,7 @@
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/music-ba-hons",
         "sha256": "5d5dba99d1adb828cfd593524dabbd95dc7b8a47d3b4242c3c46e56bfe758af2",
-        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-3f382193112c4f.html"
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/cambridge-music-ba-hons-f12f797f66.html"
       },
       {
         "url": "https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci",
@@ -199,11 +199,235 @@
         "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
         "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
         "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments",
+        "sha256": "d26cca0493ad8944c460c166f34634dc300b088ecdd563575730cd063e7f065d",
+        "raw_file": "scratch/full-catalog/cambridge-first6-admissions/raw/college-assessments.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/apply/application-dates-deadlines",
+        "sha256": "88932d29daa52192c10140d112a9cd9cf88e34b34cb01f96d6978f58b18993a5",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/application-timeline.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/apply/how/cambridge-application",
+        "sha256": "e9ffb4814817a288ff28c65f1e2c620fa02eb9018079c192ef8e5ad0f94df263",
+        "raw_file": "scratch/full-catalog/cambridge-first6-admissions/raw/my-cambridge.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/international-students/international-applications",
+        "sha256": "4407de7f2bb91bb9ce9154f907b194df0cb9a06401c0c17548e4e7f9487be14f",
+        "raw_file": "scratch/full-catalog/cambridge-first6-admissions/raw/international-applications.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/apply/how/science-engineering-admission-test",
+        "sha256": "03a8158505674c2a053cffc8f0f945365e0fb690f5eca6b9b38d73f55cc15cec",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/esat.html"
+      },
+      {
+        "url": "https://esat-tmua.ac.uk/about-the-tests/esat-test/",
+        "sha256": "e8c0d4dfd1ba527f583e0d34a6b62ef57efc2accdb4d633cd702e22b2f9621a7",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/uat-esat.html"
+      },
+      {
+        "url": "https://esat-tmua.ac.uk/access-arrangements/",
+        "sha256": "614a71f2657affb56c89d7b1942c5e8b41e765ad88ac6589ce1c65e0208d163e",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/uat-access.html"
+      },
+      {
+        "url": "https://esat-tmua.ac.uk/register/",
+        "sha256": "068c5ea502a91bb5419ac44d4b567b1b4644a152acd110b6191930a07ea96414",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/uat-register.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/apply/how/maths-admission-test",
+        "sha256": "c58d52299a249ede33ed3046c67b394286c26857c0a66a11ddd8f4a1ed12cf4b",
+        "raw_file": "scratch/full-catalog/cambridge-next9-enrichment/raw/tmua.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-graduate-course-mb-bchir#entry-requirements",
+        "sha256": "6a19e37830b52d5d43c66982fcc8c434958307b622af6aad09c5f352a58dd202",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-0-entry-requirements.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-graduate-course-mb-bchir#overview",
+        "sha256": "5a15ed81ff84f16393a1607e2574da7f2932259e22eed0699bb280efe6a35adc",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-0-overview.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-graduate-course-mb-bchir#course-outline",
+        "sha256": "13d6ac5141b34ef34569e44bf39a5aaac04ed5ea26fa686960eeb2670cb2e44e",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-0-course-outline.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/apply/how/medicine-admission-test",
+        "sha256": "ebd8641616af5d6df24c297bfb71a34d88cff05f26eaa501dd20adaf1b373216",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ucat.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-mb-bchir#entry-requirements",
+        "sha256": "3b9db6cb2c761d4678e61e5c9824d2f82c8f20c52c27e9cff4523df5e2619dc7",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-1-entry-requirements.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-mb-bchir#overview",
+        "sha256": "196d3ed4ee6c2a936a16a2ed2562507984b90190ee95222b0cb44c6e0e269640",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-1-overview.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-mb-bchir#course-outline",
+        "sha256": "65163b0e252f4caf7e0e74bace093c8c6e4c7e359e4ac7112f491aa30a08332c",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-1-course-outline.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/modern-medieval-languages-ba-hons#entry-requirements",
+        "sha256": "115ffd5473c929cf8d3c7c0ca92d4f414184b9402f5bc4ee60d2418d1ec17a05",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-2-entry-requirements.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/modern-medieval-languages-ba-hons#overview",
+        "sha256": "c95bda22f691bce76ff34b1d38852e75f33ad3efcb83c01338812ec4c5f07f2a",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-2-overview.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/modern-medieval-languages-ba-hons#course-outline",
+        "sha256": "77b2afb6bcd7c839d78d3e6dce429c5e56d5b72a86b32049fff036230a1464b8",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-2-course-outline.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments",
+        "sha256": "73c0ca9de36ddb029ce812cf147fdc5398473b41c8250ea994bb6737ea6ab89b",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/assessment-mml.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/music-ba-hons#overview",
+        "sha256": "01399b518c805a1793a62e5c632ea6b62babff5302231ac812cea720d0c6562d",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-3-overview.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/music-ba-hons#course-outline",
+        "sha256": "078b39df037ff43f3b8fd6fb75d4f14567b3b4a81465e97e8d8eb19bc625daa4",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-3-course-outline.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/music-ba-hons#entry-requirements",
+        "sha256": "08301cda15ad7f121fb1ecf4b696f35ac03db53ac853e9eba61724210de7abc9",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-3-entry-requirements.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments",
+        "sha256": "efdd3c69439f81592cac9709b63e8c4686a1c77fdd0f314a9d76b93d2cfa09f7",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/assessment-music.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci#entry-requirements",
+        "sha256": "cf6b3a317482775bd97cfe4ad67767fb11b815b8cfb69001624eb48d9c291802",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-4-entry-requirements.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci#overview",
+        "sha256": "fccaeb69f139923bb1bed86eebf0eee0b61e21889f725fd9ca1c9bc8fe716a39",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-4-overview.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci#course-outline",
+        "sha256": "0510987ea2b5f09705d478bba46159990aaaef2dc40debf28953a039049db69c",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-4-course-outline.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/philosophy-ba-hons#course-outline",
+        "sha256": "58479e53e29e2778ddf548363ed2f52d3e985bd03f0337ed577b7bb7ee5bc7cb",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-5-course-outline.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/philosophy-ba-hons#overview",
+        "sha256": "28214a6ca01136956415f0c8e8921dbac08b4d792d854bfceef96d998f7c2834",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-5-overview.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/philosophy-ba-hons#entry-requirements",
+        "sha256": "43a27ca8e279b113ce1fd106851a6fc0570b5db3d052654494c7adf6f133f12d",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-5-entry-requirements.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments",
+        "sha256": "59b9d13b6773a7c30c35b709b8c44069c1720c82a2490e91b4b2349f3b8212b6",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/assessment-philosophy.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/psychological-behavioural-sciences-ba-hons#course-outline",
+        "sha256": "6491e40c7ea027c03b57a733bcaa8fccab775c487a2a5f35dd40804891cb5901",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-6-course-outline.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/psychological-behavioural-sciences-ba-hons#entry-requirements",
+        "sha256": "69c3622112f4f8ef68eaadfef1d2cacee6cd3fe49369f733dffc26edc3377f8f",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-6-entry-requirements.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments",
+        "sha256": "d47423df5a0b926fa45c7a732f570a76f559aac41f3295e1b341389c728f8156",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/assessment-pbs.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/psychological-behavioural-sciences-ba-hons#overview",
+        "sha256": "307ab14d6efd330eb7b1c8fb26d69b0c3f50c05b15185cb2b92ffbc76a418215",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-6-overview.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/theology-religion-philosophy-of-religion-ba-hons#course-outline",
+        "sha256": "d8ee5161e95486fa7b4d084375980eac85721da2d647313d974e3103ee68bec6",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-7-course-outline.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/theology-religion-philosophy-of-religion-ba-hons#entry-requirements",
+        "sha256": "0ad0e01a0eb8cd920113cf52df4b7e6b3350b83435cfc908f59de61ca188b05e",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-7-entry-requirements.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/theology-religion-philosophy-of-religion-ba-hons#overview",
+        "sha256": "903c5272d25a07432620c44a766c29723b61a3c2f55b68ab90f0850adea2dc4a",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-7-overview.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/veterinary-medicine-vetmb#entry-requirements",
+        "sha256": "a36fd1f2f65aedba4eabec7c3814e295dfe4e139053d08c9c076da6ac379c9f1",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-8-entry-requirements.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/veterinary-medicine-vetmb#overview",
+        "sha256": "581ee8dd2ac227963b0e54bc48a35079fb85c9387ea96505005894295447261c",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-8-overview.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/veterinary-medicine-vetmb#course-outline",
+        "sha256": "8173a3bfb98c25170105ee0b2c57054188c06449409c456016f43dcf45f05e79",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-8-course-outline.html"
+      },
+      {
+        "url": "https://www.rcvs.org.uk/about-us/what-we-do/accrediting-qualifications/accrediting-veterinary-qualifications",
+        "sha256": "2e6984e8f36114bb41b37e0222231d4ff8691f5b5d01abbdb114c57bf55bb50a",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/rcvs-status.html"
+      },
+      {
+        "url": "https://www.eaeve.org/fileadmin/downloads/establishments_status/ESEVT_Status_of_EAEVE_Establishments_27May2026.pdf",
+        "sha256": "05e67f2f10663bc875763029f9e3c8255a4611c6b054600535af46689c664c41",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/eaeve-status-2026-05-27.pdf"
+      },
+      {
+        "url": "https://www.vet.cam.ac.uk/about/accreditation",
+        "sha256": "5fe6afaa81b06e6bf9f2c364885ccb9fb5a0b1cea2488af3883d36c0404a343c",
+        "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/vet-department-accreditation.html"
       }
     ],
     "gaps": [
-      "Directory has 33 course-level admissions entries. Subject pathways within broad entry courses are not fabricated as separate admissions programmes. Award alternatives on the same official entry page remain combined.",
-      "33个入口的目录核对完成不等于课程内部全部具名方向及2027所有字段已核齐；本轮只补6个已有课程的学习结构和附加支出，其余27未刷新。"
+      "考古、HSPS、语言、自然科学等内部具名路径及本科后转入Management/Manufacturing等路线，尚未与每个官方学位阶段和招生身份逐项闭合；现有32入口不表示所有内部方向已完成。",
+      "2027实际大学与学院学费尚未公布，官网计划最迟2026年10月1日发布；保留2026参考价和原来源日期。医学/兽医第三年按所修课程与原前临床入学年费率，不能把医学年价乘6。",
+      "中国大陆具体学历等同、英语成绩、学院加条件和奖助仍须按课程和申请人身份核查；A-level/IB标准不能直接换算高考分数。A101仅适用Home费率身份且需前置学位，不继承普通国际本科申请/费用。",
+      "兽医2027招生取决于RCVS后续认证决定：当前conditional，下次访问2026年10月；EAEVE另已获Accreditation，不解除RCVS条件。此处不是已确认停招或个人执业承诺。",
+      "Design首年5门与列6项、数学STEP一门/两门表述等当前来源差异保留；自然科学第二年生物课程名2027年春再确认。",
+      "专业和内部方向独立可比毕业届次、统计分母及薪资仍不齐。自然科学47%是2022年8月至2023年7月毕业者调查应答率，不是就业率。一般职业方向与认证不等于自动注册、职位或工作签证。"
     ]
   },
   "programs": [
@@ -241,7 +465,11 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "id": "cambridge-archaeology-ba-hons-0cb97da692",
-      "name": "考古学（BA Hons）"
+      "name": "考古学（BA Hons）",
+      "subjects": [
+        "人文"
+      ],
+      "subject": "人文"
     },
     {
       "name_en": "Architecture, BA (Hons) and MArch",
@@ -257,7 +485,11 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "id": "cambridge-architecture-ba-hons-and-march-b395ac55e2",
-      "name": "建筑学（BA Hons／MArch）"
+      "name": "建筑学（BA Hons／MArch）",
+      "subjects": [
+        "工程"
+      ],
+      "subject": "工程"
     },
     {
       "name_en": "Asian and Middle Eastern Studies, BA (Hons)",
@@ -273,7 +505,11 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "id": "cambridge-asian-and-middle-eastern-studies-ba-hons-63cde5a980",
-      "name": "亚洲与中东研究（BA Hons）"
+      "name": "亚洲与中东研究（BA Hons）",
+      "subjects": [
+        "人文"
+      ],
+      "subject": "人文"
     },
     {
       "name_en": "Chemical Engineering and Biotechnology, BA (Hons) and MEng",
@@ -289,7 +525,12 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "id": "cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9",
-      "name": "化学工程与生物技术（BA Hons／MEng）"
+      "name": "化学工程与生物技术（BA Hons／MEng）",
+      "subjects": [
+        "工程",
+        "自然科学"
+      ],
+      "subject": "工程"
     },
     {
       "name_en": "Classics, BA (Hons)",
@@ -305,7 +546,11 @@
       "requires_prior_degree": null,
       "status": "listed_current",
       "id": "cambridge-classics-ba-hons-55ef8cda1d",
-      "name": "古典学（BA Hons）"
+      "name": "古典学（BA Hons）",
+      "subjects": [
+        "人文"
+      ],
+      "subject": "人文"
     },
     {
       "name_en": "Computer Science, BA (Hons) and MEng",
@@ -320,7 +565,12 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-computer-science-ba-hons-and-meng-a29f97f030"
+      "id": "cambridge-computer-science-ba-hons-and-meng-a29f97f030",
+      "name": "计算机科学（文学学士／工程硕士）",
+      "subject": "计算机",
+      "subjects": [
+        "计算机"
+      ]
     },
     {
       "name_en": "Design, BA (Hons) and MDes",
@@ -335,7 +585,13 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-design-ba-hons-and-mdes-b9f6cb3d16"
+      "id": "cambridge-design-ba-hons-and-mdes-b9f6cb3d16",
+      "name": "设计（文学学士／设计硕士）",
+      "subject": "艺术与设计",
+      "subjects": [
+        "艺术与设计",
+        "工程"
+      ]
     },
     {
       "name_en": "Economics, BA (Hons)",
@@ -350,7 +606,12 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-economics-ba-hons-a6d141a9e8"
+      "id": "cambridge-economics-ba-hons-a6d141a9e8",
+      "name": "经济学（文学学士）",
+      "subject": "经济",
+      "subjects": [
+        "经济"
+      ]
     },
     {
       "name_en": "Education, BA (Hons)",
@@ -365,7 +626,12 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-education-ba-hons-39a2386e5b"
+      "id": "cambridge-education-ba-hons-39a2386e5b",
+      "name": "教育学（文学学士）",
+      "subject": "教育",
+      "subjects": [
+        "教育"
+      ]
     },
     {
       "name_en": "Engineering, BA (Hons) and MEng",
@@ -380,7 +646,12 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+      "id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+      "name": "工程学（文学学士／工程硕士）",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "English, BA (Hons)",
@@ -395,7 +666,12 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-english-ba-hons-7ee7deac9d"
+      "id": "cambridge-english-ba-hons-7ee7deac9d",
+      "name": "英语文学（文学学士）",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Environment, Law, and Economics, BA (Hons)",
@@ -410,23 +686,14 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-environment-law-and-economics-ba-hons-bdc598eda4"
-    },
-    {
-      "name_en": "Foundation Year, Pre-degree course",
-      "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/foundation-year",
-      "intake": "2027",
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses",
-      "source_period": "2027 entry",
-      "entry_route": "Pre-degree foundation course; progression conditions require subsequent course-level check",
-      "requires_prior_degree": null,
-      "status": "listed_current",
-      "record_type": "foundation_pathway",
-      "id": "cambridge-foundation-year-pre-degree-course-eb821acd5e"
+      "id": "cambridge-environment-law-and-economics-ba-hons-bdc598eda4",
+      "name": "环境、法律与经济（文学学士）",
+      "subject": "经济",
+      "subjects": [
+        "经济",
+        "法律",
+        "环境与农业"
+      ]
     },
     {
       "name_en": "Geography, BA (Hons)",
@@ -441,7 +708,12 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-geography-ba-hons-b9868dae1e"
+      "id": "cambridge-geography-ba-hons-b9868dae1e",
+      "name": "地理学（文学学士）",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "History and Modern Languages, BA (Hons)",
@@ -456,7 +728,12 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-history-and-modern-languages-ba-hons-900008025a"
+      "id": "cambridge-history-and-modern-languages-ba-hons-900008025a",
+      "name": "历史与现代语言（BA Hons）",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "History and Politics, BA (Hons)",
@@ -471,7 +748,13 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-history-and-politics-ba-hons-e099abcd38"
+      "id": "cambridge-history-and-politics-ba-hons-e099abcd38",
+      "name": "历史与政治（BA Hons）",
+      "subject": "人文",
+      "subjects": [
+        "人文",
+        "社会科学"
+      ]
     },
     {
       "name_en": "History of Art, BA (Hons)",
@@ -486,7 +769,13 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-history-of-art-ba-hons-419db04af3"
+      "id": "cambridge-history-of-art-ba-hons-419db04af3",
+      "name": "艺术史（BA Hons）",
+      "subject": "艺术与设计",
+      "subjects": [
+        "艺术与设计",
+        "人文"
+      ]
     },
     {
       "name_en": "History, BA (Hons)",
@@ -501,7 +790,12 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-history-ba-hons-b1ede1b708"
+      "id": "cambridge-history-ba-hons-b1ede1b708",
+      "name": "历史学（BA Hons）",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Human, Social, and Political Sciences, BA (Hons)",
@@ -516,7 +810,13 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+      "id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+      "name": "人类、社会与政治科学（HSPS，BA Hons）",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学",
+        "人文"
+      ]
     },
     {
       "name_en": "Law, BA (Hons)",
@@ -531,7 +831,12 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-law-ba-hons-1c0cf28f9b"
+      "id": "cambridge-law-ba-hons-1c0cf28f9b",
+      "name": "法学（BA Hons）",
+      "subject": "法律",
+      "subjects": [
+        "法律"
+      ]
     },
     {
       "name_en": "Linguistics and Modern Languages, BA (Hons)",
@@ -546,7 +851,12 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739"
+      "id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+      "name": "语言学与现代语言（BA Hons）",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Linguistics, BA (Hons)",
@@ -561,7 +871,12 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-linguistics-ba-hons-ded24ea860"
+      "id": "cambridge-linguistics-ba-hons-ded24ea860",
+      "name": "语言学（BA Hons）",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Mathematics, BA (Hons) and MMath",
@@ -576,142 +891,192 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-mathematics-ba-hons-and-mmath-978e108d0d"
+      "id": "cambridge-mathematics-ba-hons-and-mmath-978e108d0d",
+      "name": "数学（BA Hons；可升读MMath）",
+      "subject": "数学与统计",
+      "subjects": [
+        "数学与统计"
+      ]
     },
     {
       "name_en": "Medicine (Graduate course), MB and BChir",
       "degree_label": "MB and BChir",
       "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-graduate-course-mb-bchir",
       "intake": "2027",
-      "duration": null,
-      "campus": null,
+      "duration": "4年全日制",
+      "campus": "剑桥；West Suffolk Hospital及东英格兰临床／全科实习",
       "language": null,
       "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses",
       "source_period": "2027 entry",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "Graduate-entry medical degree; prior bachelor at least2.i AND Home fee status; Overseas applicants ineligible",
+      "requires_prior_degree": true,
       "status": "listed_current",
-      "id": "cambridge-medicine-graduate-course-mb-and-bchir-ad9fa2175e"
+      "id": "cambridge-medicine-graduate-course-mb-and-bchir-ad9fa2175e",
+      "name": "医学（毕业生四年制，MB／BChir）",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ]
     },
     {
       "name_en": "Medicine, MB and BChir",
       "degree_label": "MB and BChir",
       "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-mb-bchir",
       "intake": "2027",
-      "duration": null,
-      "campus": null,
+      "duration": "6年全日制；合资格第二学位入口5年",
+      "campus": "剑桥及东英格兰医院／全科机构",
       "language": null,
       "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses",
       "source_period": "2027 entry",
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-medicine-mb-and-bchir-b4f8b5b9d3"
+      "id": "cambridge-medicine-mb-and-bchir-b4f8b5b9d3",
+      "name": "医学（六年制，MB／BChir）",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ]
     },
     {
       "name_en": "Modern and Medieval Languages, BA (Hons)",
       "degree_label": "BA (Hons)",
       "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/modern-medieval-languages-ba-hons",
       "intake": "2027",
-      "duration": null,
-      "campus": null,
+      "duration": "4年全日制，含至少8个月海外年",
+      "campus": "剑桥；第三年海外",
       "language": null,
       "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses",
       "source_period": "2027 entry",
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-modern-and-medieval-languages-ba-hons-6c89239887"
+      "id": "cambridge-modern-and-medieval-languages-ba-hons-6c89239887",
+      "name": "现代与中世纪语言（BA荣誉）",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Music, BA (Hons)",
       "degree_label": "BA (Hons)",
       "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/music-ba-hons",
       "intake": "2027",
-      "duration": null,
-      "campus": null,
+      "duration": "3年全日制",
+      "campus": "剑桥",
       "language": null,
       "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses",
       "source_period": "2027 entry",
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-music-ba-hons-f12f797f66"
+      "id": "cambridge-music-ba-hons-f12f797f66",
+      "name": "音乐（BA荣誉）",
+      "subject": "艺术与设计",
+      "subjects": [
+        "艺术与设计"
+      ]
     },
     {
       "name_en": "Natural Sciences, BA (Hons) and MSci",
       "degree_label": "BA (Hons) and MSci",
       "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci",
       "intake": "2027",
-      "duration": null,
-      "campus": null,
+      "duration": "3年BA；满足升读条件可读第4年MSci",
+      "campus": "剑桥",
       "language": null,
       "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses",
       "source_period": "2027 entry",
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+      "id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+      "name": "自然科学（BA荣誉／MSci）",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
     },
     {
       "name_en": "Philosophy, BA (Hons)",
       "degree_label": "BA (Hons)",
       "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/philosophy-ba-hons",
       "intake": "2027",
-      "duration": null,
-      "campus": null,
+      "duration": "3年全日制",
+      "campus": "剑桥",
       "language": null,
       "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses",
       "source_period": "2027 entry",
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-philosophy-ba-hons-3025dcf226"
+      "id": "cambridge-philosophy-ba-hons-3025dcf226",
+      "name": "哲学（BA荣誉）",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Psychological and Behavioural Sciences, BA (Hons)",
       "degree_label": "BA (Hons)",
       "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/psychological-behavioural-sciences-ba-hons",
       "intake": "2027",
-      "duration": null,
-      "campus": null,
+      "duration": "3年全日制",
+      "campus": "剑桥",
       "language": null,
       "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses",
       "source_period": "2027 entry",
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-psychological-and-behavioural-sciences-ba-hons-ba034603eb"
+      "id": "cambridge-psychological-and-behavioural-sciences-ba-hons-ba034603eb",
+      "name": "心理与行为科学（BA荣誉）",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Theology, Religion, and Philosophy of Religion, BA (Hons)",
       "degree_label": "BA (Hons)",
       "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/theology-religion-philosophy-of-religion-ba-hons",
       "intake": "2027",
-      "duration": null,
-      "campus": null,
+      "duration": "3年全日制",
+      "campus": "剑桥",
       "language": null,
       "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses",
       "source_period": "2027 entry",
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-theology-religion-and-philosophy-of-religion-ba-hons-2c3b78a432"
+      "id": "cambridge-theology-religion-and-philosophy-of-religion-ba-hons-2c3b78a432",
+      "name": "神学、宗教与宗教哲学（BA荣誉）",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Veterinary Medicine, VetMB",
       "degree_label": "VetMB",
       "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/veterinary-medicine-vetmb",
       "intake": "2027",
-      "duration": null,
-      "campus": null,
+      "duration": "6年全日制",
+      "campus": "剑桥及兽医临床／校外EMS机构",
       "language": null,
       "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses",
       "source_period": "2027 entry",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "Undergraduate veterinary course; October2027 entry remains conditional on the RCVS accreditation decision; not a confirmed closure",
       "requires_prior_degree": null,
-      "status": "listed_current",
-      "id": "cambridge-veterinary-medicine-vetmb-3d7ab7d67e"
+      "status": "listed_current_conditional_entry",
+      "id": "cambridge-veterinary-medicine-vetmb-3d7ab7d67e",
+      "name": "兽医学（VetMB；2027招生附认证条件）",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ]
     }
   ]
 }

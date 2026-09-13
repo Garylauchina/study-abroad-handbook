@@ -19,7 +19,7 @@ hide:
 
 <p class="program-title-en">Chemical Engineering and Biotechnology, BA (Hons) and MEng</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>Course length BA (Hons) 3 年 全日制, or MEng 4 年 全日制</strong></div><div><span>国际生学费</span><strong>2027待定；2026 GBP 44,214／年，另学院费</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027年10月</strong></div><div><span>学制</span><strong>BA (Hons)3年；获准升读第四年后总学制4年并获MEng，全日制</strong></div><div><span>国际生学费</span><strong>2027待定；2026 GBP 44,214／年，另学院费</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
@@ -43,8 +43,8 @@ hide:
 <p class="catalog-fact"><strong>目录学习安排：</strong>学位 BA (Hons) and MEng；入学 2027。</p>
 <p class="fact-sources"><a href="#source-p-UKENR-76d632cacb4d21">官方依据</a></p>
 
-<p class="catalog-fact"><strong>课程页学制：</strong>Course length BA (Hons) 3 年 全日制, or MEng 4 年 全日制</p>
-<p class="fact-sources"><a href="#source-p-UKENR-76d632cacb4d21">官方依据</a></p>
+<p class="catalog-fact"><strong>课程页学制：</strong>BA (Hons)3年；获准升读第四年后总学制4年并获MEng，全日制</p>
+<p class="fact-sources"><a href="#source-p-UKENR-76d632cacb4d21">官方依据</a> · <a href="#source-p-CAMADM-1ac386639090a0c8">官方依据</a></p>
 
 <p class="catalog-fact"><strong>课程内容示例：</strong>课程页所列学习主题或模块示例：Fundamental scientific topics such as cell biology, materials science and engineering principles、Chemistry from Part IA of Natural Sciences、Mathematics from Part IA of Natural Sciences、complete an engineering design and manufacturing workshop。这里只列示例，完整课程表、必修／选修及年级须看来源。</p>
 <p class="fact-sources"><a href="#source-p-UKENR-76d632cacb4d21">官方依据</a></p>
@@ -60,14 +60,17 @@ hide:
 
 ## 入学条件 {#admissions}
 
-<p class="catalog-fact"><strong>最低A-level／IB及科目要求：</strong>A-level成绩栏列A*A*A；IB总分栏列41-42；条件涉及数学、进阶数学、物理、化学、生物等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。</p>
-<p class="fact-sources"><a href="#source-p-UKENR-76d632cacb4d21">官方依据</a></p>
+<p class="catalog-fact"><strong>最低A-level／IB及科目要求：</strong>适用2027入学或延期至2028：最低A-level A*A*A；IB总分41–42，三门HL为7、7、6。所有学院均要求A-level／IB HL或等同的数学、化学，及第三门生物、物理或进阶数学；若第三门理科不在此列，先询申请学院。IB数学要求AA；学校不开AA时须另询学院，不能自动以AI替代。</p>
+<p class="fact-sources"><a href="#source-p-UKENR-76d632cacb4d21">官方依据</a> · <a href="#source-p-CAMADM-1ac386639090a0c8">官方依据</a></p>
 
-<p class="catalog-fact"><strong>入学考试：</strong>课程列考试：ESAT。具体模块、考试安排及学院差异须按本页和考试机构日历。</p>
-<p class="fact-sources"><a href="#source-p-UKENR-76d632cacb4d21">官方依据</a></p>
+<p class="catalog-fact"><strong>入学考试与本课模块：</strong>所有申请者须提前报名ESAT并在认可考点参加。本课程考数学1，再从生物、化学、物理、数学2中选两门；每门27道选择题、40分钟，共120分钟，不得使用计算器或字典。没有统一及格／不及格线，模块分数与其他申请材料一并评估；不能把本课任选两门规则套给固定考物理和数学2的Engineering。</p>
+<p class="fact-sources"><a href="#source-p-UKENR-76d632cacb4d21">官方依据</a> · <a href="#source-p-CAMADM-1ac386639090a0c8">官方依据</a> · <a href="#source-p-CAMADM-esat-03a815850567">官方依据</a> · <a href="#source-p-CAMADM-uat-esat-e8c0d4dfd1ba">官方依据</a></p>
 
-<p class="catalog-fact"><strong>书面作品要求：</strong>You won&#x27;t usually be asked to submit examples of written work. All undergraduate admissions decisions are the responsibility of the Cambridge Colleges. Please contact the relevant College admissions office if you have any queries.</p>
-<p class="fact-sources"><a href="#source-p-UKENR-76d632cacb4d21">官方依据</a></p>
+<p class="catalog-fact"><strong>书面作品要求：</strong>通常不要求提交书面作品样本；个案仍按学院录取通知执行。</p>
+<p class="fact-sources"><a href="#source-p-UKENR-76d632cacb4d21">官方依据</a> · <a href="#source-p-CAMADM-1ac386639090a0c8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学院指定A*科目：</strong>Churchill、Emmanuel、Girton、Homerton、Lucy Cavendish、Magdalene、Pembroke、Peterhouse、Queens’、Selwyn、St John’s、Trinity Hall通常指定须在哪些科目取得A*，一般为化学、数学或进阶数学中的一门或两门，也可能提高要求；逐学院条件须另核，不能只核总等级。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-1ac386639090a0c8">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -81,7 +84,23 @@ hide:
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>ESAT报名与中国考期：</strong>2027常规申请使用2026年10月考期；剑桥当前日历列7月20日起注册、9月28日截止。全球考试窗口10月12–16日，中国大陆、香港和澳门申请者须在10月12或13日参加。UAT-UK明确特殊考试安排申请须在9月14日英国夏令时18:00前提出，获批后再订考位；该日期与普通报名、UCAS截止不同。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-esat-03a815850567">官方依据</a> · <a href="#source-p-CAMADM-uat-access-614a71f2657a">官方依据</a></p>
+
+<p class="catalog-fact"><strong>ESAT预订及1月例外：</strong>先建UAT-UK账户，再选择测试及模块并经Pearson预约付款；特殊安排或费用资助必须在选考及预订前申请，不能在现有预订后追加。考试政策另列2027年1月4–8日考期，剑桥仅有1月截止的成熟学生申请轮可使用，报名截至2026年12月21日；本课能否走该轮仍须核申请学院当年开放课程，不能当作普通10月截止申请者的补考窗口。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-esat-03a815850567">官方依据</a> · <a href="#source-p-CAMADM-uat-register-068c5ea502a9">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请代码、开学与学院范围：</strong>当前Key information列2027年10月开学，UCAS代码H810。除Corpus Christi外，所有学院均列有本课程。入学年份不等于申请截止日期；各项提交期限须连同学校申请日历核对。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-1ac386639090a0c8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027常规申请与补充材料截止：</strong>UCAS可自2026年9月1日起提交，剑桥常规截止为10月15日英国18:00。提交后通常48小时内收到My Cambridge Application链接；本课申请还须在10月22日英国18:00前完成该补充表。需要的成绩单也须10月22日前提供，是否需要取决于学历类别；考试、作品及学院材料期限另计。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-application-timeline-88932d29daa5">官方依据</a> · <a href="#source-p-CAMADM-my-cambridge-e9ffb4814817">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027材料上传与可选个人陈述：</strong>剑桥明确2027申请不会下载或审阅额外上传到UCAS的文件；剑桥所需材料应通过My Cambridge Application或申请学院提交。提前准备照片、成绩单及被要求的高中学习主题、语言考试日期分数和国际生资金信息。剑桥专属补充个人陈述最多1200字符且为可选，不是1200词的必交论文。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-my-cambridge-e9ffb4814817">官方依据</a></p>
+
+<p class="catalog-fact"><strong>面试及常规轮结果安排：</strong>当前日历称入围面试通知多在2026年11月，部分可能12月初；多数面试在12月前三周。参加2026年12月主要面试期者，结果日期为2027年1月27日。不是所有申请者都会获邀，满足有条件录取后的考试成绩要求仍须另核。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-application-timeline-88932d29daa5">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -97,6 +116,12 @@ hide:
 
 <p class="catalog-fact"><strong>实验设备的当前估价：</strong>当前课程页列校方认可科学计算器约£20、实验服约£15、防护眼镜约£5，均为设备估价；它们不包含在读年总学费和全部生活预算的核实范围内。</p>
 <p class="fact-sources"><a href="#source-p-CAMDEPTH-1ac386639090a0c8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>ESAT考试费用：</strong>UAT-UK当前收费按考点地点区分：英国及爱尔兰共和国考点£78，其他地区考点£133，不按国籍或家庭住址计费。英国有经济困难的合资格考生可在预订前申请费用资助；不能默认中国大陆考生获减免。这里只是考试报名费，不包含大学学费、交通或其他申请成本。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-uat-register-068c5ea502a9">官方依据</a> · <a href="#source-p-CAMADM-esat-03a815850567">官方依据</a></p>
+
+<p class="catalog-fact"><strong>额外申请费及地域减免：</strong>My Cambridge Application当前说明：从英国、爱尔兰、海峡群岛或马恩岛以外申请者可能须另付£60申请费；国际申请页称多数国际申请者须付。当前自动减免国家名单不含中国大陆；名单每年9月复核更新，提交时须再核自身适用资格。这笔申请费与大学学费、UCAS费及考试费分别计算，不能默认获减免。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-my-cambridge-e9ffb4814817">官方依据</a> · <a href="#source-p-CAMADM-international-applications-4407de7f2bb9">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -119,6 +144,14 @@ hide:
 <div class="catalog-source" id="source-p-UKENR-76d632cacb4d21"><div><a href="https://www.undergraduate.study.cam.ac.uk/courses/chemical-engineering-biotechnology-ba-hons-meng">Chemical Engineering and Biotechnology, BA (Hons) and MEng 官方课程页 ↗</a><p>专业学位与学习结构、实际抽取的标准资格、费用和职业方向</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-UKENR-e0ae11f40594ce"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs">Cambridge 国际学费：2026参考、2027发布日期 ↗</a><p>具名课程2026国际年费；2027尚未公布；额外学院费</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-CAMDEPTH-1ac386639090a0c8"><div><a href="https://www.undergraduate.study.cam.ac.uk/courses/chemical-engineering-biotechnology-ba-hons-meng">Chemical Engineering and Biotechnology, BA (Hons) and MEng — 当前课程、考核及附加成本 ↗</a><p>实际公开Course outline与Overview课程成本；年份和选修例子分别标注，不重新认证旧招生及大学学费</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-1ac386639090a0c8"><div><a href="https://www.undergraduate.study.cam.ac.uk/courses/chemical-engineering-biotechnology-ba-hons-meng">Chemical Engineering and Biotechnology, BA (Hons) and MEng — 2027实际招生条件与申请代码 ↗</a><p>亲读完整Entry requirements与实际Chrome页签、Key information；标准资格、学院差异、书面作品、考试及开学/申请代码</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-esat-03a815850567"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/how/science-engineering-admission-test">Cambridge ESAT：2027申请考期、模块和报名 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-uat-esat-e8c0d4dfd1ba"><div><a href="https://esat-tmua.ac.uk/about-the-tests/esat-test/">UAT-UK ESAT：2027考期和考试格式 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-uat-access-614a71f2657a"><div><a href="https://esat-tmua.ac.uk/access-arrangements/">UAT-UK特殊考试安排：申请先于预订及2026日期 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-uat-register-068c5ea502a9"><div><a href="https://esat-tmua.ac.uk/register/">UAT-UK当前测试注册与考点费用 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-application-timeline-88932d29daa5"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/application-dates-deadlines">Cambridge官方2027本科申请日历 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-my-cambridge-e9ffb4814817"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/how/cambridge-application">My Cambridge Application：2027补充申请与材料 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-international-applications-4407de7f2bb9"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-applications">Cambridge国际申请流程、申请费及减免名单 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-14c8a54910c8e1"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-entry-requirements">Cambridge 国际学历要求：中国 ↗</a><p>学院分组高考要求及补充资格</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-e7398085a4510f"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements#english-language-requirements">Cambridge 本科入学与英语要求 ↗</a><p>英语录取标准和面试建议门槛</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-e0ae11f40594ce"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs">Cambridge 国际生费用 ↗</a><p>2026国际年费表、2027公布时间、额外College fees</p><small>核验 2026-09-12</small></div></div>

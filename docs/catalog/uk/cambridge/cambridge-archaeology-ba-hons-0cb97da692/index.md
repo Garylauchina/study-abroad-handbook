@@ -19,7 +19,7 @@ hide:
 
 <p class="program-title-en">Archaeology, BA (Hons)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>Course length BA (Hons) 3 年, 全日制</strong></div><div><span>国际生学费</span><strong>2027待定；2026 GBP 29,052／年，另学院费</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027年10月</strong></div><div><span>学制</span><strong>3年，全日制，BA (Hons)</strong></div><div><span>国际生学费</span><strong>2027待定；2026 GBP 29,052／年，另学院费</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
@@ -43,8 +43,8 @@ hide:
 <p class="catalog-fact"><strong>目录学习安排：</strong>学位 BA (Hons)；入学 2027。</p>
 <p class="fact-sources"><a href="#source-p-UKENR-f6fdce1ab68528">官方依据</a></p>
 
-<p class="catalog-fact"><strong>课程页学制：</strong>Course length BA (Hons) 3 年, 全日制</p>
-<p class="fact-sources"><a href="#source-p-UKENR-f6fdce1ab68528">官方依据</a></p>
+<p class="catalog-fact"><strong>课程页学制：</strong>3年，全日制，BA (Hons)</p>
+<p class="fact-sources"><a href="#source-p-UKENR-f6fdce1ab68528">官方依据</a> · <a href="#source-p-CAMADM-6cf001f3e3608c69">官方依据</a></p>
 
 <p class="catalog-fact"><strong>教学与首年基础：</strong>通常每周6–8场讲座、1–2次小组督导，并可能有语言课、研讨及实践。首年先修3门考古、语言或生物人类学核心选项（部分可能必修）；第四门可继续核心，或选心理学、社会人类学、政治与国际关系、社会学。</p>
 <p class="fact-sources"><a href="#source-p-CAMDEPTH-6cf001f3e3608c69">官方依据</a></p>
@@ -60,11 +60,17 @@ hide:
 
 ## 入学条件 {#admissions}
 
-<p class="catalog-fact"><strong>最低A-level／IB及科目要求：</strong>A level: A*AA IB: 41-42 分, with 776：HL Other qualifications : Check which other qualifications we accept . We don&#x27;t ask for any specific subjects to apply to Archaeology. We’d recommend certain subjects for a strong application, ideally any combination of arts, humanities, sciences 或 social sciences.</p>
-<p class="fact-sources"><a href="#source-p-UKENR-f6fdce1ab68528">官方依据</a></p>
+<p class="catalog-fact"><strong>最低A-level／IB及科目要求：</strong>适用2027入学或延期至2028：最低A-level A*AA；IB总分41–42，三门HL为7、7、6。无指定先修科目；校方建议艺术、人文、理科或社科的适当组合，不把往届常见组合当成必修条件。</p>
+<p class="fact-sources"><a href="#source-p-UKENR-f6fdce1ab68528">官方依据</a> · <a href="#source-p-CAMADM-6cf001f3e3608c69">官方依据</a></p>
 
-<p class="catalog-fact"><strong>书面作品要求：</strong>课程要求提交书面作品；件数、篇幅和学院差异见本课程来源。本轮尚待完成各学院条件的中文整理。</p>
-<p class="fact-sources"><a href="#source-p-UKENR-f6fdce1ab68528">官方依据</a></p>
+<p class="catalog-fact"><strong>书面作品与学院件数：</strong>须交文章体书面作品，每篇最多1500词，可取自EPQ；不能用理科课程作业或限时考试卷替代。Robinson和St John’s须2篇，本页列出的其余学院须1篇。</p>
+<p class="fact-sources"><a href="#source-p-UKENR-f6fdce1ab68528">官方依据</a> · <a href="#source-p-CAMADM-6cf001f3e3608c69">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学院额外条件：</strong>Churchill、Lucy Cavendish、Selwyn通常为多数或全部录取加成绩或指定科目条件，其余所列学院通常从最低成绩起但仍可能提高；部分学院IB也可能高于最低线。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-6cf001f3e3608c69">官方依据</a></p>
+
+<p class="catalog-fact"><strong>入学测评：</strong>当前课程明确没有入学测评；这不等于免除书面作品、面试或学院录取审核。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-6cf001f3e3608c69">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -78,7 +84,17 @@ hide:
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>申请代码、开学与学院范围：</strong>当前Key information列2027年10月开学，UCAS代码V400。所有学院均列有本课程。入学年份不等于申请截止日期；各项提交期限须连同学校申请日历核对。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-6cf001f3e3608c69">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027常规申请与补充材料截止：</strong>UCAS可自2026年9月1日起提交，剑桥常规截止为10月15日英国18:00。提交后通常48小时内收到My Cambridge Application链接；本课申请还须在10月22日英国18:00前完成该补充表。需要的成绩单也须10月22日前提供，是否需要取决于学历类别；考试、作品及学院材料期限另计。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-application-timeline-88932d29daa5">官方依据</a> · <a href="#source-p-CAMADM-my-cambridge-e9ffb4814817">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027材料上传与可选个人陈述：</strong>剑桥明确2027申请不会下载或审阅额外上传到UCAS的文件；剑桥所需材料应通过My Cambridge Application或申请学院提交。提前准备照片、成绩单及被要求的高中学习主题、语言考试日期分数和国际生资金信息。剑桥专属补充个人陈述最多1200字符且为可选，不是1200词的必交论文。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-my-cambridge-e9ffb4814817">官方依据</a></p>
+
+<p class="catalog-fact"><strong>面试及常规轮结果安排：</strong>当前日历称入围面试通知多在2026年11月，部分可能12月初；多数面试在12月前三周。参加2026年12月主要面试期者，结果日期为2027年1月27日。不是所有申请者都会获邀，满足有条件录取后的考试成绩要求仍须另核。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-application-timeline-88932d29daa5">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -94,6 +110,9 @@ hide:
 
 <p class="catalog-fact"><strong>田野与研学资助的范围：</strong>二年复活节期间考古学及考古／生物人类学方向的必需考察由院系资助。二年暑期4周活动中，院系组织的田野方案当前约£800且由院系全额承担；研学资助当前最高£1,400，只明确用于埃及与美索不达米亚方向。自选其他田野方案仅获等额支持，超出部分自付；这些是当前项目支出与支持，非2027固定学费或每人必得现金。</p>
 <p class="fact-sources"><a href="#source-p-CAMDEPTH-6cf001f3e3608c69">官方依据</a></p>
+
+<p class="catalog-fact"><strong>额外申请费及地域减免：</strong>My Cambridge Application当前说明：从英国、爱尔兰、海峡群岛或马恩岛以外申请者可能须另付£60申请费；国际申请页称多数国际申请者须付。当前自动减免国家名单不含中国大陆；名单每年9月复核更新，提交时须再核自身适用资格。这笔申请费与大学学费、UCAS费及考试费分别计算，不能默认获减免。</p>
+<p class="fact-sources"><a href="#source-p-CAMADM-my-cambridge-e9ffb4814817">官方依据</a> · <a href="#source-p-CAMADM-international-applications-4407de7f2bb9">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -116,6 +135,10 @@ hide:
 <div class="catalog-source" id="source-p-UKENR-f6fdce1ab68528"><div><a href="https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons">Archaeology, BA (Hons) 官方课程页 ↗</a><p>专业学位与学习结构、实际抽取的标准资格、费用和职业方向</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-UKENR-e0ae11f40594ce"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs">Cambridge 国际学费：2026参考、2027发布日期 ↗</a><p>具名课程2026国际年费；2027尚未公布；额外学院费</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-CAMDEPTH-6cf001f3e3608c69"><div><a href="https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons">Archaeology, BA (Hons) — 当前课程、考核及附加成本 ↗</a><p>实际公开Course outline与Overview课程成本；年份和选修例子分别标注，不重新认证旧招生及大学学费</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-6cf001f3e3608c69"><div><a href="https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons">Archaeology, BA (Hons) — 2027实际招生条件与申请代码 ↗</a><p>亲读完整Entry requirements与实际Chrome页签、Key information；标准资格、学院差异、书面作品、考试及开学/申请代码</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-application-timeline-88932d29daa5"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/application-dates-deadlines">Cambridge官方2027本科申请日历 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-my-cambridge-e9ffb4814817"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/how/cambridge-application">My Cambridge Application：2027补充申请与材料 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMADM-international-applications-4407de7f2bb9"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-applications">Cambridge国际申请流程、申请费及减免名单 ↗</a><p>对应事实明确列出的课程、年份与资格范围；不推广到未列课程</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-14c8a54910c8e1"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-entry-requirements">Cambridge 国际学历要求：中国 ↗</a><p>学院分组高考要求及补充资格</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-e7398085a4510f"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements#english-language-requirements">Cambridge 本科入学与英语要求 ↗</a><p>英语录取标准和面试建议门槛</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-e0ae11f40594ce"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs">Cambridge 国际生费用 ↗</a><p>2026国际年费表、2027公布时间、额外College fees</p><small>核验 2026-09-12</small></div></div>
