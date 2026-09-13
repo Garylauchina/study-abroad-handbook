@@ -29,7 +29,7 @@
       "url": "https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate",
       "sha256": "b9851a501fc48168b08b53baaffa6b6511d57e2bfabf98dd79781dfad58e389a",
       "raw_file": "scratch/full-catalog/root/ubc-fees-vancouver.html",
-      "locator": null
+      "locator": "International Students table: commenced in 2026S or later; Arts, Commerce, Music, Science; footnote 2"
     },
     {
       "url": "https://vancouver.calendar.ubc.ca/fees/policies-fees",
@@ -42,6 +42,396 @@
       "sha256": "948b180a8b6d899414df45932b166b4c5c9aaad447c2f57a632f25923bdc9b2d",
       "raw_file": "scratch/full-catalog/root/ubc.html",
       "locator": "programsListData.programs[id=1043]；official_url=https://you.ubc.ca/programs/zoology/"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-dentistry/doctor-dental-medicine/admission",
+      "sha256": "0045670c61ceb1342ea6a910490d5fb376e8e3d3c44aa8f23017400b05feb113",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-05a4aff87392.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-dentistry/doctor-dental-medicine/introduction",
+      "sha256": "2f094c52aad2bc90fd3631e5ba3000d71a33269152c594f72699d347550b46fc",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-2ef569078cc0.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/french-language-literatures-and-cultures",
+      "sha256": "96c1c865af773c284abfba26d19c773f79dfd55c73dacb0b7e469d90f400eb22",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-26a11ae2ceab.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/peter-allard-school-law/juris-doctor/degree-requirements",
+      "sha256": "0ae52fc5befc95cedd5efeb6f61096429750e1b74c6f4ca77ddab1a0f2585fa1",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-ace5df2eaf85.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/peter-allard-school-law/juris-doctor/introduction",
+      "sha256": "4543f8d18312f35065213d45d5306bc53a621dd3614d81671888254b3c471946",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-bcb818f8d3b7.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/peter-allard-school-law/juris-doctor/admission",
+      "sha256": "571bab94445510ed27406c6b9179250b5857fe56cc28c3d47d3c50fef9bd09e3",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-95424ff16a1b.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-medicine/bachelor-medical-laboratory-science/introduction",
+      "sha256": "c77d119daa5a4fda1d77a3f9f71dc4144b037b4bdcc3652c32f5ca4bbd4effd0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-194bbe104039.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-medicine/bachelor-medical-laboratory-science/degree-requirements",
+      "sha256": "4028deb0b921b07aefa949bc906eb0b465fdb27ae17aefa3e4e85f55b604a5e2",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-b6009e47612b.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-medicine/bachelor-medical-laboratory-science/admission-requirements",
+      "sha256": "e7a374f2c6e943fe35338020e8b2831ea18227d3dde24c7e7225652fe8407dff",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-4fc2ba107df7.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-medicine/doctor-medicine/introduction",
+      "sha256": "22ecf92065df0f214c30ab5ef2f4f8e0601474214c34be53c40478a30b40a518",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-16815c2e127d.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-medicine/doctor-medicine/degree-requirements",
+      "sha256": "99d8c04275ada0c512170bb45f3aa7d5e28e66975b0984cb0cb5b122b067d1f0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-25ac408254fb.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-medicine/doctor-medicine/admission",
+      "sha256": "b2d9da77848c7eba5563f14b99ca5497462a389857b14d75e928b5c2ae6cd374",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-82e611e2057e.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/global-medieval-and-early-modern-studies",
+      "sha256": "dd70811bc6446142f4e2d882652c2ec28e990991af909a3173c3f8fe51dfa8a0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-c31be311c8cd.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/guitar",
+      "sha256": "d94d46d8d07278414dd4eb5e0b3a27d6b8943c132c1bf2c13c511d481f69c1f4",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-775d1775aa9d.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/harpsichord",
+      "sha256": "7cc05dc3cc5e63e09eccc38c20888ea1e17b79a881a0028a75e717dc72cc684e",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-539032a62ac4.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/opera",
+      "sha256": "b9bc13f68526e2c438d2466560faae1ee1bc4ba4b29f139c10d232300598f2a7",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-203b71657405.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/orchestral-instrument",
+      "sha256": "23a6884b606833fb12ffd94e80ade72b0056e7a52c590ba13950ac4da4f1ac99",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-1fd2b88b22d8.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/organ",
+      "sha256": "231e65c2ec179b484b2494cb18ee517ec9fbafe79e0ca0f3fb632ef2d286bf4e",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-6f7017ba0f80.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/piano",
+      "sha256": "294efc3ccdd7d4e939696df9a52a50b0c6d68edef3b94bf54755884e7cac0c04",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-10c643f24c96.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/voice",
+      "sha256": "5c1c84771c7dbc2c7c1027794a6f108ed94ed59bfe8fc24048c8b5041b22ad3b",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-279025111d7f.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/general-studies-elementary-education-stream",
+      "sha256": "c4bd20f9633f35b1cc2fca4f834bfc71180265bb26f3328deeb96dbe0a8d5c38",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-f70c2c4c64c5.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/general-studies-secondary-education-stream",
+      "sha256": "3def4a907d4a60733314a88ee252092dcfe0095f9ea8d208eef97fe75a55d62a",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-6495ef27e596.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/accounting",
+      "sha256": "540a3fef84cef2f35c0f2f00d2143804692144e5e76dcc4362117f3b2a11fb69",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-5ff987df8e0a.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/business-technology-management",
+      "sha256": "d4472dee686cd72927cee959d10a4798195310a4df0b8b1ac43451eb3de0d7c6",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-b081d6b856fd.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/entrepreneurship",
+      "sha256": "65de94c5895c710b6d3c6ebb615eba76487d4c5db74204f3fae3e15189f5ff94",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-5b9de14970c8.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/finance",
+      "sha256": "fed33bc41aa60da57bf775b699063b6af4989fe9c85d9947e64f6367899a9490",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-e78f7bdbd3b2.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/general-business-management",
+      "sha256": "2b1489a8fa2ba5c45ad95fd918331f371f8ef5643b38f0b9d95738fa3c01fe04",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-97739a4b09f4.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/global-supply-chain-and-logistics-management",
+      "sha256": "43de166fcf91eaeec580890213a598db4c2246d34c5933746f488c9462f8af51",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-70b427b05110.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/marketing",
+      "sha256": "75c4f74fcc6a8293c77ccce970b615f51734c1eafbf317c24312a30b4634791b",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-f4b4d41fd359.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/organizational-behaviour-and-human-resources",
+      "sha256": "1f36af08756d563c232f1f14668ebf0e175c7c37ea31a639030ed631291acaa6",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/obhr.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/operations-and-logistics",
+      "sha256": "e0d39e82dc49564605b867d33beb4520932ac5d6f42bc876ca1d183c72e3e3f8",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-158fa85ec99f.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/real-estate",
+      "sha256": "d761287295930450b7e1412c5cdb3d2a95b5485b7dc284e6e64c7c386658b0a7",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-ef59138f7870.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/dual-degree-program-option-bachelor-arts-and-master-management",
+      "sha256": "7862002a7b6d98f897fb488c7d7d964a68fe99ad3f110f35f244d953e5b7d548",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/van-ba-mm.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/undergraduate-program-master-management-dual-degree-program-option",
+      "sha256": "bbf239b37dbb464bb9ad7c5aa3959c463700071f81b3cebd6671fcb7f86a0517",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-a351f90de156.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-fine-arts/dual-degree-program-option-bachelor-fine-arts-and-master-management",
+      "sha256": "33ce978ac495dd2d32262964bd3305d33278233617e6c8ed20dccf4c890bcffc",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-6c52f849bd9d.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-media-studies/dual-degree-program-option-bachelor-media-studies-and-master-management",
+      "sha256": "9ba210dee2f35e9468b3d5e5a374cc74f6620ba4bb67ca7a532647cf6610f0fe",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-ed252bea3cfe.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/dual-degree-program-option-bachelor-music-and-master-management",
+      "sha256": "e0334bcead3386ebbf31c90ad5f3c2863d43e8e4bebce403653fa05df47daa23",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-e52aad3c433a.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-kinesiology/bachelor-kinesiology/dual-degree-program-option-kinesiology-and-management",
+      "sha256": "6775c259da9fb763ebf2f5fa5ca94bd3f2d8bdfee165d906abeaaa7cd8621743",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-2299aa85efad.html",
+      "locator": null
+    },
+    {
+      "url": "https://science.ubc.ca/students/dual",
+      "sha256": "70e6acf4cb73cd2579160790b34efab0196240b67822901696c76dd44ca7bd81",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/science-dual.html",
+      "locator": null
+    },
+    {
+      "url": "https://forestry.ubc.ca/future-students/undergraduate/experiential-learning/dual-degree-with-business/",
+      "sha256": "6558683e67a8d43d6e1baddfdca57ba2b6e28e125071c0324d4aaf0ecd1a63eb",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/forestry-mm-web.json",
+      "locator": null
+    },
+    {
+      "url": "https://management.ok.ubc.ca/academic-programs/bachelor-master-of-management-dual-degree/",
+      "sha256": "99e813972d8794b14d7ca276df89ad8a168d8cff19fed916310f2934764f65bb",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/ok-bmm-new.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/school-engineering/bachelor-applied-science-program/dual-degree-program-option-bachelor-applied-science-and-master-management",
+      "sha256": "9a69563a6138a5338a3025cb2ff5463832feab911df1e9b42617a4ba74c803b0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-878c8bca8ea4.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/dual-degree-program-option-bachelor-arts-and-master-management",
+      "sha256": "9de51d6de4c2ab594a2820a05727c4eba875f9e92978ef266b83eaee09a70cb0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/ok-ba-mm.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/dual-degree-program-option-bachelor-commerce-and-master-management",
+      "sha256": "1a168b95b023e773429b47402eea0265e3be438a22c73e34e4a52710c91de8c0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-487aa115e5c9.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-management-program-students-who-entered-program-20252026-or-earlier/dual-degree-program-option-bachelor-management-and-master-management",
+      "sha256": "fc80959c4cd8a24948322debd923dc58fd81926a32f799d587dfa78c658f6d28",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-ca9b1256fa1e.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-fine-arts-program/dual-degree-program-option-bachelor-fine-arts-and-master-management",
+      "sha256": "72f9aea741fee9f9aa26db107b015c6c5b9d2a4b1c6e3683adf919298a12c038",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-11859afcc7b0.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/school-health-and-exercise-sciences/bachelor-health-and-exercise-sciences-program-students-entering-program-20222023-or-later/dual-degree-program-option-bachelor-health",
+      "sha256": "a751ea8ef2d4d16e30208c8f36d0916bd25ced38f1d85b71e7331a6dd0e135cb",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-86905c5dcd81.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-media-studies-program/dual-degree-program-option-bachelor-media-studies-and-master-management",
+      "sha256": "bdffc44a790b2b6c16cd6be8b2e7329584a476bd80a95bf46ff7e100eea51dd4",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-61380cff5b56.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/other-opportunities/dual-degree-program-option-bachelor-science-and-master-management",
+      "sha256": "c4f452973de882aec6fc9a2d19a07adea5a7aff3cdf0f02cc8061821742f62c4",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/ok-bsc-mm.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/school-nursing/bachelor-science-nursing-and-master-management-dual-degree-program-option",
+      "sha256": "4bca61a31da98a9358fde2bb62ccb7e7188b24e3794b590104ba86c65ae4f66f",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-d8ecb936ab8b.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-sustainability-bsust/dual-degree-program-option-bachelor-sustainability-and-master-management",
+      "sha256": "e30b7e786c2c83bcd7183729328c9ff863d4af02fb0511af31e6f8c5e78b66f6",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-611bf31854c5.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-nlekepmx-language-fluency/dual-degree-program-option-bachelor-nlekepmx-language-fluency-and-bachelor-education",
+      "sha256": "036c313e88753f9095520d76b2b87afcb65a0fd951bd97d93f9cdb264558819e",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-56ee2725bc39.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/okanagan-school-education/undergraduate-programs/dual-degree-program-option-bachelor-education-and-bachelor-language-fluency",
+      "sha256": "e4fdcc91d7d06ecc6ed63c331f9dc31ce41f4bacc41aa002e58808888765cda8",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-0c47211b6525.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-nsyilxcn-language-fluency/dual-degree-program-option-bachelor-nsyilxcn-language-fluency-and-bachelor-education",
+      "sha256": "62e25c0387019a4c1fc155ccbab2330f0e14c40f21595eb38fbdef41c595f977",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-5c6923c1605a.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-statimc-language-fluency/dual-degree-program-option-bachelor-statimc-language-fluency-and-bachelor-education",
+      "sha256": "7aecf9411cf6037f5be06d77fe170cee137e1b28fb657ab9fce8ae1ea97b66de",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-5e8052498170.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-secwepemc-language-fluency/dual-degree-program-option-bachelor-secwepemc-language-fluency-and-bachelor-education",
+      "sha256": "812ebd390946af53e7e31f7755a4e34fb55d1b0b471f64746ccc8cae37b198d0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-19a0d6ab762a.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/dual-degree-program-natural-resources-and-education",
+      "sha256": "6554111f763af0fd284fa0ab4e614302d6393102eec1e070801442a8e11505d0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-c57187bf1b5f.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/double-major-and-dual-degree-options",
+      "sha256": "cca936225c8b336e3edaec8b179433b870a4f8bcb7ccced601ebf622553a0f3e",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-17db23087740.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-business-real-estate",
+      "sha256": "d9c0098da8971f0025ccc0754644065eb5a7f397cf6f841785058a6b0c19a257",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-e8ca7470a456.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biology",
+      "sha256": "a25b2ba232f1e03008384a8259252bb8f180823ba75a58466e494a9be1203422",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-72b2f7f169c9.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/computer-science",
+      "sha256": "677592f890eed4a6ed80c04140e90953fa7f5526753510178f29b22a7e22268f",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-f8f6b76df562.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/microbiology-and-immunology",
+      "sha256": "0b512c9f8888baa854fe232d08cee5929870ff1e0a63c9cabb990d16fa104a23",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-d8066a0ac56b.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/statistics",
+      "sha256": "25641b811ce60c5bbb87fac85a6e4eaa0a143947c6f46882628e90718f67df79",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-428fd3df348e.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics",
+      "sha256": "f26762ccf76a62d27b9610ab7a1d35a79c1b37d556a975671e5e0ca682dc9764",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-562cf498153f.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/mathematics",
+      "sha256": "b7da38634dac557ac5338ce8319c0f3437379142af27ef160095c623cefb6168",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-d8faddce5b3b.html",
+      "locator": null
     }
   ]
 }

@@ -29,7 +29,19 @@
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies",
       "sha256": "2756b6e294b39bb1a6a8e4f90f4af8f69da1b26861a7491ac820f5eff3d1ef04",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-001.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
+    },
+    {
+      "url": "https://www.ox.ac.uk/hebrew-and-jewish-studies",
+      "sha256": "28ab3ab088e2eaab9a568d5180bfd9b723d13ed2908f2f31bb2202abe9e829dd",
+      "raw_file": "scratch/oxford-catalog-supplement/raw/ames-hebrew.web.json",
+      "locator": "Hebrew BA; named subsidiary list; language background"
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies/egyptology",
+      "sha256": "e2d6d38354b3e8afbbef83c07879c84dcc326f3f156fb03fc619b7274a66e411",
+      "raw_file": "scratch/oxford-catalog-supplement/raw/ames-assyr-egypt.web.json",
+      "locator": "Egyptology BA; named subsidiary list; language background"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/biochemistry-molecular-and-cellular",
@@ -65,25 +77,25 @@
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics",
       "sha256": "c68ee16f8dde33f8a451032acdbe133f8596adbff22f2349d6e4c0125d166b3c",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-007.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-asian-and-middle-eastern-studies",
       "sha256": "8aeced64fc4a5718d98a461c62a2a71053c7fe465ac37d7b757e8f7bfb7a55c8",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-008.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-english",
       "sha256": "b903d5c05c69f650620a5816db2d64cccb3c79d9d8ecca0caa3100a6c9ef718a",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-009.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-modern-languages",
       "sha256": "0846509a316eb847eb5360b1c7c75b2ab7c30658216d35ec400e2ea2e1d0f98c",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-010.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/computer-science",
@@ -101,7 +113,7 @@
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/earth-sciences-geology",
       "sha256": "6bc956745b2144a6b9c8f297c7887f62eb943232e12c8c61433165d393ce6cf1",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-013.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/economics-and-management",
@@ -113,7 +125,7 @@
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/engineering-science",
       "sha256": "811b726d3e8c0f9044162bd9959c16bffef46197fabd265ce01ed53c0090a242",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-015.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/english-language-and-literature",
@@ -125,13 +137,13 @@
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/english-and-modern-languages",
       "sha256": "1729cceb9ef6a03968f01f63509eda151c3caf9896d262dcde2c1f4971391359",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-017.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/european-and-middle-eastern-languages",
       "sha256": "47a587a00b8dcb15e18b5420a7a5d3a7d931791e4b2e03209acda06b1f5768ef",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-018.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/fine-art",
@@ -173,7 +185,7 @@
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-modern-languages",
       "sha256": "91730be77eeb2f6fb75075bf5fb156ddaba6cc8456e8c87a34a60d6c501e6ff5",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-029.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-politics",
@@ -197,7 +209,13 @@
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/law-jurisprudence",
       "sha256": "8043da3986509ace144e0634644f1cafb86e66c7a629f2ecd827ddd278af9605",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-033.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
+    },
+    {
+      "url": "https://www.law.ox.ac.uk/content/course/ba-jurisprudence-senior-status",
+      "sha256": "1fb6de77d7847bd4860a1f8ff6d852d683985ef56a994c927c974ff4174427bb",
+      "raw_file": "scratch/oxford-catalog-supplement/raw/law-senior.html",
+      "locator": "Course in brief / Entry Requirements / Colleges offering the course / Programme structure"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/materials-science",
@@ -209,7 +227,7 @@
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics",
       "sha256": "6f63c1729da606bd385004c5086a0bacb24a758ad55c93162d37671ae7cb8f02",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-035.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics-and-computer-science",
@@ -239,13 +257,19 @@
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/modern-languages",
       "sha256": "165e1e5aa8c980cab3fcd8f8a901bdb8358f685b9fcb3255f6dca2781140a6b3",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-040.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
+    },
+    {
+      "url": "https://www.seh.ox.ac.uk/subjects/undergraduates/modern-languages/czech",
+      "sha256": "81c45b7423a1a4db400608cef3f0de7d003b8d1ab059fa838f3131248a3cd1a8",
+      "raw_file": "scratch/oxford-catalog-supplement/raw/czech-and-maths.web.json",
+      "locator": "UCAS course codes, lines 168 and 177 in stored web extraction"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/modern-languages-and-linguistics",
       "sha256": "ed936c6e95ef41eaa800b25848a4a3626917a8b38237d937fc3361c7c0f9c761",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-041.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/music",
@@ -257,7 +281,7 @@
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/philosophy-and-modern-languages",
       "sha256": "5c66fd45c480ecf3b83b74bceb3a7da61537610180b8f973be0754091bfaef18",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-043.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/philosophy-politics-and-economics",
@@ -293,7 +317,7 @@
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics",
       "sha256": "6496106e62361d7eb0ca28a4196c58bd9de54ed0a9625b0cde5ab99f46cbb980",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-049.html",
-      "locator": null
+      "locator": "Course codes / Content and assessment / Subjects required / UCAS application / Course fees / Graduate destinations"
     },
     {
       "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/religion-and-asian-and-middle-eastern-studies",
@@ -306,6 +330,42 @@
       "sha256": "097af7def798c5a9e76964f809ebef273cc0c103ab59b66b8d518b209a6294e8",
       "raw_file": "scratch/full-catalog/uk-gap-enrichment/oxford/raw/course-051.html",
       "locator": null
+    },
+    {
+      "url": "https://www.ox.ac.uk/arabic",
+      "sha256": "0f6c092befcfe0762db2d7ce3ccd0d34b7e6f8d2d17b4db04f49e74a7d3fe2ff",
+      "raw_file": "scratch/oxford-catalog-supplement/raw/ames-arabic.web.json",
+      "locator": "Arabic BA; named subsidiary list; language background"
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies/chinese",
+      "sha256": "8ef13efb5db6ab3d50c6cb0aaa8868df92f97f9ad5371b1e47c2ed396f06a48a",
+      "raw_file": "scratch/oxford-catalog-supplement/raw/ames-chinese.web.json",
+      "locator": "Chinese BA; named subsidiary list; language background"
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies/japanese",
+      "sha256": "2763c6024d434e6bef70ac3165af8ed3f5659070bad971dae02625df9e5a50e9",
+      "raw_file": "scratch/oxford-catalog-supplement/raw/ames-japanese.web.json",
+      "locator": "Japanese BA; named subsidiary list; language background"
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies/persian",
+      "sha256": "5fd30f523f42f97ada38f7c3b940cf7ef5555892ddf37ef2dbb87cc6cd140c07",
+      "raw_file": "scratch/oxford-catalog-supplement/raw/ames-persian.web.json",
+      "locator": "Persian BA; named subsidiary list; language background"
+    },
+    {
+      "url": "https://www.ox.ac.uk/sanskrit",
+      "sha256": "43cb3ebee830a3d1d84d0544f5faaa25f472011cd8dc7b1911d733ead05c0094",
+      "raw_file": "scratch/oxford-catalog-supplement/raw/ames-sanskrit.web.json",
+      "locator": "Sanskrit BA; named subsidiary list; language background"
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies/turkish",
+      "sha256": "c87740b836c9ba285a3d83d8640b7b4fcab3d4e38d5599b7d28c2f7ae2c607a6",
+      "raw_file": "scratch/oxford-catalog-supplement/raw/ames-turkish.web.json",
+      "locator": "Turkish BA; named subsidiary list; language background"
     }
   ]
 }

@@ -1,22 +1,384 @@
 {
   "university_id": "ubc",
-  "checked_at": "2026-09-12",
+  "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 192,
-    "scope": "UBC本科招生目录Vancouver/Okanagan全部本科专业及目录列出的本科后专业学位；同页多个学位暂按官方专业页面为一条。",
-    "method": "网页完整programsListData公开JSON含197项，按degrees字段过滤并保留官方专业ID；不按页面首屏计数。",
+    "count": 252,
+    "scope": "192原记录＋63具名专业/本硕/方向−3多项目聚合总览；252条并非252个高中直入学位",
+    "method": "两校区首层549行逐行排除研究生/证书/部门/历史与错链线索，222校历URL缓存；本批63新增配对与11旧增量独立核验，聚合旧链接保留实际替代入口。",
     "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
     "sources": [
       {
         "url": "https://you.ubc.ca/programs/",
         "sha256": "948b180a8b6d899414df45932b166b4c5c9aaad447c2f57a632f25923bdc9b2d",
-        "raw_file": "scratch/full-catalog/root/ubc.html",
-        "bytes": 1592754
+        "raw_file": "scratch/full-catalog/root/ubc.html"
+      },
+      {
+        "url": "https://you.ubc.ca/applying-ubc/requirements/international-high-schools/",
+        "sha256": "0b6d582b49dd2d400ed1e842a92526c323f74d6505953670440d28633816f63f",
+        "raw_file": "scratch/full-catalog/root/ubc-china-vancouver-post.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate",
+        "sha256": "b9851a501fc48168b08b53baaffa6b6511d57e2bfabf98dd79781dfad58e389a",
+        "raw_file": "scratch/full-catalog/root/ubc-fees-vancouver.html"
+      },
+      {
+        "url": "https://you.ubc.ca/applying-ubc/requirements/international-high-schools/",
+        "sha256": "842cc6742f3a4990281b58fea17a945f4c4fb729f9f9dfd52d27e20501bd82d2",
+        "raw_file": "scratch/full-catalog/root/ubc-china-okanagan-post.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-dentistry/doctor-dental-medicine/admission",
+        "sha256": "0045670c61ceb1342ea6a910490d5fb376e8e3d3c44aa8f23017400b05feb113",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-05a4aff87392.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-dentistry/doctor-dental-medicine/introduction",
+        "sha256": "2f094c52aad2bc90fd3631e5ba3000d71a33269152c594f72699d347550b46fc",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-2ef569078cc0.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/french-language-literatures-and-cultures",
+        "sha256": "96c1c865af773c284abfba26d19c773f79dfd55c73dacb0b7e469d90f400eb22",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-26a11ae2ceab.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/peter-allard-school-law/juris-doctor/degree-requirements",
+        "sha256": "0ae52fc5befc95cedd5efeb6f61096429750e1b74c6f4ca77ddab1a0f2585fa1",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-ace5df2eaf85.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/peter-allard-school-law/juris-doctor/introduction",
+        "sha256": "4543f8d18312f35065213d45d5306bc53a621dd3614d81671888254b3c471946",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-bcb818f8d3b7.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/peter-allard-school-law/juris-doctor/admission",
+        "sha256": "571bab94445510ed27406c6b9179250b5857fe56cc28c3d47d3c50fef9bd09e3",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-95424ff16a1b.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-medicine/bachelor-medical-laboratory-science/introduction",
+        "sha256": "c77d119daa5a4fda1d77a3f9f71dc4144b037b4bdcc3652c32f5ca4bbd4effd0",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-194bbe104039.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-medicine/bachelor-medical-laboratory-science/degree-requirements",
+        "sha256": "4028deb0b921b07aefa949bc906eb0b465fdb27ae17aefa3e4e85f55b604a5e2",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-b6009e47612b.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-medicine/bachelor-medical-laboratory-science/admission-requirements",
+        "sha256": "e7a374f2c6e943fe35338020e8b2831ea18227d3dde24c7e7225652fe8407dff",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-4fc2ba107df7.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-medicine/doctor-medicine/introduction",
+        "sha256": "22ecf92065df0f214c30ab5ef2f4f8e0601474214c34be53c40478a30b40a518",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-16815c2e127d.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-medicine/doctor-medicine/degree-requirements",
+        "sha256": "99d8c04275ada0c512170bb45f3aa7d5e28e66975b0984cb0cb5b122b067d1f0",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-25ac408254fb.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-medicine/doctor-medicine/admission",
+        "sha256": "b2d9da77848c7eba5563f14b99ca5497462a389857b14d75e928b5c2ae6cd374",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-82e611e2057e.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/global-medieval-and-early-modern-studies",
+        "sha256": "dd70811bc6446142f4e2d882652c2ec28e990991af909a3173c3f8fe51dfa8a0",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-c31be311c8cd.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/guitar",
+        "sha256": "d94d46d8d07278414dd4eb5e0b3a27d6b8943c132c1bf2c13c511d481f69c1f4",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-775d1775aa9d.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/harpsichord",
+        "sha256": "7cc05dc3cc5e63e09eccc38c20888ea1e17b79a881a0028a75e717dc72cc684e",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-539032a62ac4.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/opera",
+        "sha256": "b9bc13f68526e2c438d2466560faae1ee1bc4ba4b29f139c10d232300598f2a7",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-203b71657405.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/orchestral-instrument",
+        "sha256": "23a6884b606833fb12ffd94e80ade72b0056e7a52c590ba13950ac4da4f1ac99",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-1fd2b88b22d8.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/organ",
+        "sha256": "231e65c2ec179b484b2494cb18ee517ec9fbafe79e0ca0f3fb632ef2d286bf4e",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-6f7017ba0f80.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/piano",
+        "sha256": "294efc3ccdd7d4e939696df9a52a50b0c6d68edef3b94bf54755884e7cac0c04",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-10c643f24c96.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/voice",
+        "sha256": "5c1c84771c7dbc2c7c1027794a6f108ed94ed59bfe8fc24048c8b5041b22ad3b",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-279025111d7f.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/general-studies-elementary-education-stream",
+        "sha256": "c4bd20f9633f35b1cc2fca4f834bfc71180265bb26f3328deeb96dbe0a8d5c38",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-f70c2c4c64c5.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/general-studies-secondary-education-stream",
+        "sha256": "3def4a907d4a60733314a88ee252092dcfe0095f9ea8d208eef97fe75a55d62a",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-6495ef27e596.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/accounting",
+        "sha256": "540a3fef84cef2f35c0f2f00d2143804692144e5e76dcc4362117f3b2a11fb69",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-5ff987df8e0a.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/business-technology-management",
+        "sha256": "d4472dee686cd72927cee959d10a4798195310a4df0b8b1ac43451eb3de0d7c6",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-b081d6b856fd.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/entrepreneurship",
+        "sha256": "65de94c5895c710b6d3c6ebb615eba76487d4c5db74204f3fae3e15189f5ff94",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-5b9de14970c8.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/finance",
+        "sha256": "fed33bc41aa60da57bf775b699063b6af4989fe9c85d9947e64f6367899a9490",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-e78f7bdbd3b2.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/general-business-management",
+        "sha256": "2b1489a8fa2ba5c45ad95fd918331f371f8ef5643b38f0b9d95738fa3c01fe04",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-97739a4b09f4.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/global-supply-chain-and-logistics-management",
+        "sha256": "43de166fcf91eaeec580890213a598db4c2246d34c5933746f488c9462f8af51",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-70b427b05110.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/marketing",
+        "sha256": "75c4f74fcc6a8293c77ccce970b615f51734c1eafbf317c24312a30b4634791b",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-f4b4d41fd359.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/organizational-behaviour-and-human-resources",
+        "sha256": "1f36af08756d563c232f1f14668ebf0e175c7c37ea31a639030ed631291acaa6",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/obhr.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/operations-and-logistics",
+        "sha256": "e0d39e82dc49564605b867d33beb4520932ac5d6f42bc876ca1d183c72e3e3f8",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-158fa85ec99f.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/real-estate",
+        "sha256": "d761287295930450b7e1412c5cdb3d2a95b5485b7dc284e6e64c7c386658b0a7",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-ef59138f7870.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/dual-degree-program-option-bachelor-arts-and-master-management",
+        "sha256": "7862002a7b6d98f897fb488c7d7d964a68fe99ad3f110f35f244d953e5b7d548",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/van-ba-mm.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/undergraduate-program-master-management-dual-degree-program-option",
+        "sha256": "bbf239b37dbb464bb9ad7c5aa3959c463700071f81b3cebd6671fcb7f86a0517",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-a351f90de156.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-fine-arts/dual-degree-program-option-bachelor-fine-arts-and-master-management",
+        "sha256": "33ce978ac495dd2d32262964bd3305d33278233617e6c8ed20dccf4c890bcffc",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-6c52f849bd9d.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-media-studies/dual-degree-program-option-bachelor-media-studies-and-master-management",
+        "sha256": "9ba210dee2f35e9468b3d5e5a374cc74f6620ba4bb67ca7a532647cf6610f0fe",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-ed252bea3cfe.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/dual-degree-program-option-bachelor-music-and-master-management",
+        "sha256": "e0334bcead3386ebbf31c90ad5f3c2863d43e8e4bebce403653fa05df47daa23",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-e52aad3c433a.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-kinesiology/bachelor-kinesiology/dual-degree-program-option-kinesiology-and-management",
+        "sha256": "6775c259da9fb763ebf2f5fa5ca94bd3f2d8bdfee165d906abeaaa7cd8621743",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-2299aa85efad.html"
+      },
+      {
+        "url": "https://science.ubc.ca/students/dual",
+        "sha256": "70e6acf4cb73cd2579160790b34efab0196240b67822901696c76dd44ca7bd81",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/science-dual.html"
+      },
+      {
+        "url": "https://forestry.ubc.ca/future-students/undergraduate/experiential-learning/dual-degree-with-business/",
+        "sha256": "6558683e67a8d43d6e1baddfdca57ba2b6e28e125071c0324d4aaf0ecd1a63eb",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/forestry-mm-web.json"
+      },
+      {
+        "url": "https://management.ok.ubc.ca/academic-programs/bachelor-master-of-management-dual-degree/",
+        "sha256": "99e813972d8794b14d7ca276df89ad8a168d8cff19fed916310f2934764f65bb",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/ok-bmm-new.html"
+      },
+      {
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/school-engineering/bachelor-applied-science-program/dual-degree-program-option-bachelor-applied-science-and-master-management",
+        "sha256": "9a69563a6138a5338a3025cb2ff5463832feab911df1e9b42617a4ba74c803b0",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-878c8bca8ea4.html"
+      },
+      {
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/dual-degree-program-option-bachelor-arts-and-master-management",
+        "sha256": "9de51d6de4c2ab594a2820a05727c4eba875f9e92978ef266b83eaee09a70cb0",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/ok-ba-mm.html"
+      },
+      {
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/dual-degree-program-option-bachelor-commerce-and-master-management",
+        "sha256": "1a168b95b023e773429b47402eea0265e3be438a22c73e34e4a52710c91de8c0",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-487aa115e5c9.html"
+      },
+      {
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-management-program-students-who-entered-program-20252026-or-earlier/dual-degree-program-option-bachelor-management-and-master-management",
+        "sha256": "fc80959c4cd8a24948322debd923dc58fd81926a32f799d587dfa78c658f6d28",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-ca9b1256fa1e.html"
+      },
+      {
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-fine-arts-program/dual-degree-program-option-bachelor-fine-arts-and-master-management",
+        "sha256": "72f9aea741fee9f9aa26db107b015c6c5b9d2a4b1c6e3683adf919298a12c038",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-11859afcc7b0.html"
+      },
+      {
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/school-health-and-exercise-sciences/bachelor-health-and-exercise-sciences-program-students-entering-program-20222023-or-later/dual-degree-program-option-bachelor-health",
+        "sha256": "a751ea8ef2d4d16e30208c8f36d0916bd25ced38f1d85b71e7331a6dd0e135cb",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-86905c5dcd81.html"
+      },
+      {
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-media-studies-program/dual-degree-program-option-bachelor-media-studies-and-master-management",
+        "sha256": "bdffc44a790b2b6c16cd6be8b2e7329584a476bd80a95bf46ff7e100eea51dd4",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-61380cff5b56.html"
+      },
+      {
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/other-opportunities/dual-degree-program-option-bachelor-science-and-master-management",
+        "sha256": "c4f452973de882aec6fc9a2d19a07adea5a7aff3cdf0f02cc8061821742f62c4",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/ok-bsc-mm.html"
+      },
+      {
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/school-nursing/bachelor-science-nursing-and-master-management-dual-degree-program-option",
+        "sha256": "4bca61a31da98a9358fde2bb62ccb7e7188b24e3794b590104ba86c65ae4f66f",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-d8ecb936ab8b.html"
+      },
+      {
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-sustainability-bsust/dual-degree-program-option-bachelor-sustainability-and-master-management",
+        "sha256": "e30b7e786c2c83bcd7183729328c9ff863d4af02fb0511af31e6f8c5e78b66f6",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-611bf31854c5.html"
+      },
+      {
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-nlekepmx-language-fluency/dual-degree-program-option-bachelor-nlekepmx-language-fluency-and-bachelor-education",
+        "sha256": "036c313e88753f9095520d76b2b87afcb65a0fd951bd97d93f9cdb264558819e",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-56ee2725bc39.html"
+      },
+      {
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/okanagan-school-education/undergraduate-programs/dual-degree-program-option-bachelor-education-and-bachelor-language-fluency",
+        "sha256": "e4fdcc91d7d06ecc6ed63c331f9dc31ce41f4bacc41aa002e58808888765cda8",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-0c47211b6525.html"
+      },
+      {
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-nsyilxcn-language-fluency/dual-degree-program-option-bachelor-nsyilxcn-language-fluency-and-bachelor-education",
+        "sha256": "62e25c0387019a4c1fc155ccbab2330f0e14c40f21595eb38fbdef41c595f977",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-5c6923c1605a.html"
+      },
+      {
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-statimc-language-fluency/dual-degree-program-option-bachelor-statimc-language-fluency-and-bachelor-education",
+        "sha256": "7aecf9411cf6037f5be06d77fe170cee137e1b28fb657ab9fce8ae1ea97b66de",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-5e8052498170.html"
+      },
+      {
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-secwepemc-language-fluency/dual-degree-program-option-bachelor-secwepemc-language-fluency-and-bachelor-education",
+        "sha256": "812ebd390946af53e7e31f7755a4e34fb55d1b0b471f64746ccc8cae37b198d0",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-19a0d6ab762a.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/dual-degree-program-natural-resources-and-education",
+        "sha256": "6554111f763af0fd284fa0ab4e614302d6393102eec1e070801442a8e11505d0",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-c57187bf1b5f.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/double-major-and-dual-degree-options",
+        "sha256": "cca936225c8b336e3edaec8b179433b870a4f8bcb7ccced601ebf622553a0f3e",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/dual-17db23087740.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-business-real-estate",
+        "sha256": "d9c0098da8971f0025ccc0754644065eb5a7f397cf6f841785058a6b0c19a257",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-e8ca7470a456.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biology",
+        "sha256": "a25b2ba232f1e03008384a8259252bb8f180823ba75a58466e494a9be1203422",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-72b2f7f169c9.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/computer-science",
+        "sha256": "677592f890eed4a6ed80c04140e90953fa7f5526753510178f29b22a7e22268f",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-f8f6b76df562.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/microbiology-and-immunology",
+        "sha256": "0b512c9f8888baa854fe232d08cee5929870ff1e0a63c9cabb990d16fa104a23",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-d8066a0ac56b.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/statistics",
+        "sha256": "25641b811ce60c5bbb87fac85a6e4eaa0a143947c6f46882628e90718f67df79",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-428fd3df348e.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics",
+        "sha256": "f26762ccf76a62d27b9610ab7a1d35a79c1b37d556a975671e5e0ca682dc9764",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-562cf498153f.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/mathematics",
+        "sha256": "b7da38634dac557ac5338ce8319c0f3437379142af27ef160095c623cefb6168",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-d8faddce5b3b.html"
+      },
+      {
+        "url": "https://you.ubc.ca/applying-ubc/dates-deadlines/",
+        "sha256": "0c7a7b033c5f5e45c342f12ecb37f45b3ee6432be591286e312543dda945186e",
+        "raw_file": "scratch/full-catalog/root/ubc-dates.html"
+      },
+      {
+        "url": "https://you.ubc.ca/applying-ubc/how-to-apply/application/",
+        "sha256": "0fbbfefa783088e54a45f0028349085bce175c4287bb9389c966559206ae36d6",
+        "raw_file": "scratch/full-catalog/root/ubc-apply.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/fees/policies-fees",
+        "sha256": "7a34017aef7b4d2ff0c68e2caa1a330346b96e67c16df29b8c5fe7d631c04785",
+        "raw_file": "scratch/full-catalog/root/ubc-fee-policies.html"
       }
     ],
     "gaps": [
-      "需把同一专业页面下的不同学位/校区逐项拆开；本科后专业学位尚需核对层次和申请身份。"
+      "本批是已读到的具名身份补充，原192＋63新增（移出3聚合后252）不是UBC所有本科方向最终总数。",
+      "两校区第一层Academic Programs页已完整保留，但Vancouver245与Okanagan78（其中一项Undergraduate & Graduate）混有minor、证书、文凭、院系、预科课程、旧届次及错误链接，不能按323行直接计本科。",
+      "理学院大量独立Honours、Combined Honours与生物学分支仍待逐一与旧库存、先修、停招状态对账；CS+Biology/CS+Microbiology等Combined Honours和Oceanography组合已见标题，未全数写入本批。",
+      "Arts其余具名联合major、语言/区域研究内部选项、工程专业方向与Okanagan各专业honours仍需逐项审阅；remaining-candidate-headings.json保留自动抽到的候选标题，不能当已确认新增清单。",
+      "B+MM现行页与校历在Okanagan年限/课程代码及Vancouver旧Forestry学位表存在公开版本差异；已并列，未声称全部2027细则确定。",
+      "部分专业资格路线与并行度数另有学院条款；本批核JD、DMD、MD、BMLSc及BBRE和已命名BEd组合，未声称所有professional/post-bachelor routes全闭合。",
+      "2027各新增专业国际费用、详细中国资格、试演日期及专业层面毕业统计不在本轮目录审计的完整核实范围；保留此前校级profile，特殊入口隔离共用招生/申请/费用。",
+      "Okanagan Environment Engineering目录错链、Civil Engineering目录曾错链证书；本批均未据错误首层标题新建项目。",
+      "BA/BSc Statistical combined overview及B+MM两聚合页建议移出独立本科列表但保留旧ID解释页；不删除真实历史证据。"
     ]
   },
   "programs": [
@@ -218,38 +580,6 @@
         "earth-environment-and-sustainability"
       ],
       "id": "ubc-atmospheric-science-d7b8acf37a"
-    },
-    {
-      "name_en": "Bachelor + Master of Management Dual Degree",
-      "degree_label": "Bachelor of Applied Science (Engineering) / Bachelor of Arts / Bachelor of Commerce / Bachelor of Fine Arts / Bachelor of Health and Exercise Sciences (Kinesiology) / Bachelor of Media Studies / Bachelor of Science / Master of Management",
-      "official_url": "https://you.ubc.ca/programs/master-management-dual-degree-okanagan/",
-      "discovery_source_url": "https://you.ubc.ca/programs/",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
-      "campus": "Okanagan",
-      "language": null,
-      "raw_key": "567446",
-      "official_topics": [
-        "business-and-economics"
-      ],
-      "id": "ubc-bachelor-master-of-management-dual-degree-395bfd99fa"
-    },
-    {
-      "name_en": "Bachelor + Master of Management Dual Degree",
-      "degree_label": "Bachelor of Arts / Bachelor of Fine Arts / Bachelor of Kinesiology / Bachelor of Media Studies / Bachelor of Music / Bachelor of Science / Bachelor of Science in Applied Biology / Bachelor of Science in Food and Resource Economics / Bachelor of Science in Food, Nutrition, and Health / Bachelor of Science in Global Resource Systems / Bachelor of Science in Wood Products Processing / Master of Management",
-      "official_url": "https://you.ubc.ca/programs/master-management-dual-degree/",
-      "discovery_source_url": "https://you.ubc.ca/programs/",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
-      "campus": "Vancouver",
-      "language": null,
-      "raw_key": "144977",
-      "official_topics": [
-        "business-and-economics"
-      ],
-      "id": "ubc-bachelor-master-of-management-dual-degree-1a6d8f3bca"
     },
     {
       "name_en": "Biochemistry",
@@ -616,24 +946,6 @@
       "id": "ubc-combined-major-in-science-669d7aca5d"
     },
     {
-      "name_en": "Combined Majors in Statistics",
-      "degree_label": "Bachelor of Arts / Bachelor of Science",
-      "official_url": "https://you.ubc.ca/programs/statistics-combined-majors/",
-      "discovery_source_url": "https://you.ubc.ca/programs/",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
-      "campus": "Vancouver",
-      "language": null,
-      "raw_key": "161502",
-      "official_topics": [
-        "business-and-economics",
-        "engineering-and-technology",
-        "math-chemistry-and-physics"
-      ],
-      "id": "ubc-combined-majors-in-statistics-86d167c371"
-    },
-    {
       "name_en": "Commerce",
       "degree_label": "Bachelor of Commerce",
       "official_url": "https://you.ubc.ca/programs/commerce-okanagan/",
@@ -896,9 +1208,9 @@
       "degree_label": "Doctor of Dental Medicine",
       "official_url": "https://you.ubc.ca/programs/dentistry/",
       "discovery_source_url": "https://you.ubc.ca/programs/",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
       "intake": null,
-      "duration": null,
+      "duration": "大学前置学习后4年DMD",
       "campus": "Vancouver",
       "language": null,
       "raw_key": "639",
@@ -906,7 +1218,15 @@
         "health-and-life-sciences"
       ],
       "entry_note": "目录中列出的本科后专业课程；不能按高中毕业直接入读理解，前置大学学习及申请者身份条件尚待逐项核实。",
-      "id": "ubc-dentistry-75cd218912"
+      "id": "ubc-dentistry-75cd218912",
+      "entity_type": "first_professional_degree",
+      "entry_route": "大学前三学年＋牙医先修；有限国际名额；非高中直入",
+      "requires_prior_degree": false,
+      "name": "牙医学（DMD，大学学习后入口）",
+      "subjects": [
+        "医学与健康"
+      ],
+      "subject": "医学与健康"
     },
     {
       "name_en": "Dietetics",
@@ -1451,13 +1771,13 @@
       "id": "ubc-french-9e4e9b08fe"
     },
     {
-      "name_en": "French",
+      "name_en": "French Language, Literatures and Cultures",
       "degree_label": "Bachelor of Arts",
-      "official_url": "https://you.ubc.ca/programs/french-vancouver/",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/french-language-literatures-and-cultures",
       "discovery_source_url": "https://you.ubc.ca/programs/",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
       "intake": null,
-      "duration": null,
+      "duration": "4年（页面所述培养阶段）",
       "campus": "Vancouver",
       "language": null,
       "raw_key": "721",
@@ -1465,7 +1785,16 @@
         "languages-and-linguistics",
         "people-culture-and-society"
       ],
-      "id": "ubc-french-aa82c4a8fb"
+      "id": "ubc-french-aa82c4a8fb",
+      "name": "法语、文学与文化",
+      "aliases": [
+        "French"
+      ],
+      "entry_route": "学校资格与所属学位先修分别核对；具体主修可能在入学后选择。",
+      "subjects": [
+        "人文"
+      ],
+      "subject": "人文"
     },
     {
       "name_en": "Freshwater Science",
@@ -1992,9 +2321,9 @@
       "degree_label": "Juris Doctor",
       "official_url": "https://you.ubc.ca/programs/law/",
       "discovery_source_url": "https://you.ubc.ca/programs/",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
       "intake": null,
-      "duration": null,
+      "duration": "3年JD；入学前另须大学学习",
       "campus": "Vancouver",
       "language": null,
       "raw_key": "819",
@@ -2002,7 +2331,15 @@
         "history-law-and-politics"
       ],
       "entry_note": "目录中列出的本科后专业课程；不能按高中毕业直接入读理解，前置大学学习及申请者身份条件尚待逐项核实。",
-      "id": "ubc-law-5093015d41"
+      "id": "ubc-law-5093015d41",
+      "entity_type": "first_professional_degree",
+      "entry_route": "一般至少大学前三年90学分或已有本科；LSAT及其他选拔",
+      "requires_prior_degree": false,
+      "name": "法律（JD，大学学习后入口）",
+      "subjects": [
+        "法律"
+      ],
+      "subject": "法律"
     },
     {
       "name_en": "Linguistics",
@@ -2237,49 +2574,74 @@
       "degree_label": "Bachelor of Medical Laboratory Science",
       "official_url": "https://you.ubc.ca/programs/medical-laboratory-science/",
       "discovery_source_url": "https://you.ubc.ca/programs/",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
       "intake": null,
-      "duration": null,
+      "duration": "先修之后2年；非高中起算2年",
       "campus": "Vancouver",
       "language": null,
       "raw_key": "552197",
       "official_topics": [
         "health-and-life-sciences"
       ],
-      "id": "ubc-medical-laboratory-science-82f29f1daf"
+      "id": "ubc-medical-laboratory-science-82f29f1daf",
+      "entity_type": "upper_year_entry_bachelor",
+      "entry_route": "技术文凭＋化学，或大学前置课程；三年级入学，国际生可申请",
+      "requires_prior_degree": false,
+      "name": "医学实验室科学（BMLSc，三年级入口）",
+      "subjects": [
+        "医学与健康"
+      ],
+      "subject": "医学与健康"
     },
     {
       "name_en": "Medicine",
       "degree_label": "Doctor of Medicine",
       "official_url": "https://you.ubc.ca/programs/medicine/",
       "discovery_source_url": "https://you.ubc.ca/programs/",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
       "intake": null,
-      "duration": null,
-      "campus": "Okanagan / Vancouver",
+      "duration": "大学先修后4年MD",
+      "campus": "Vancouver、Okanagan、Victoria、Northern BC（一个分布式MD）",
       "language": null,
       "raw_key": "555222",
       "official_topics": [
         "health-and-life-sciences"
       ],
       "entry_note": "目录中列出的本科后专业课程；不能按高中毕业直接入读理解，前置大学学习及申请者身份条件尚待逐项核实。",
-      "id": "ubc-medicine-fb590083ee"
+      "id": "ubc-medicine-fb590083ee",
+      "entity_type": "first_professional_degree",
+      "entry_route": "至少90个有评分大学学分；加拿大公民/PR，难民须按时转PR",
+      "requires_prior_degree": false,
+      "name": "医学（MD，大学学习及加拿大身份要求）",
+      "subjects": [
+        "医学与健康"
+      ],
+      "subject": "医学与健康"
     },
     {
-      "name_en": "Medieval Studies",
+      "name_en": "Global Medieval and Early Modern Studies",
       "degree_label": "Bachelor of Arts",
-      "official_url": "https://you.ubc.ca/programs/medieval-studies/",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/global-medieval-and-early-modern-studies",
       "discovery_source_url": "https://you.ubc.ca/programs/",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
       "intake": null,
-      "duration": null,
+      "duration": "4年（页面所述培养阶段）",
       "campus": "Vancouver",
       "language": null,
       "raw_key": "863",
       "official_topics": [
         "history-law-and-politics"
       ],
-      "id": "ubc-medieval-studies-3b1e18da4c"
+      "id": "ubc-medieval-studies-3b1e18da4c",
+      "name": "全球中世纪与近代早期研究",
+      "aliases": [
+        "Medieval Studies"
+      ],
+      "entry_route": "学校资格与所属学位先修分别核对；具体主修可能在入学后选择。",
+      "subjects": [
+        "人文"
+      ],
+      "subject": "人文"
     },
     {
       "name_en": "Microbiology",
@@ -2404,16 +2766,24 @@
       "degree_label": "Bachelor of Music",
       "official_url": "https://you.ubc.ca/programs/music-advanced-performance/",
       "discovery_source_url": "https://you.ubc.ca/programs/",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
       "intake": null,
-      "duration": null,
+      "duration": "4年（页面所述培养阶段）",
       "campus": "Vancouver",
       "language": null,
       "raw_key": "885",
       "official_topics": [
         "media-and-fine-arts"
       ],
-      "id": "ubc-music-advanced-performance-37913ab897"
+      "id": "ubc-music-advanced-performance-37913ab897",
+      "entity_type": "performance_major_overview",
+      "listing_note": "七个具名BMus表演主修分别见新增条目；本项为共享总览。",
+      "name": "音乐：高级表演",
+      "entry_route": "学校资格与所属学位先修分别核对；具体主修可能在入学后选择。",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
     },
     {
       "name_en": "Music: Composition",
@@ -2436,16 +2806,22 @@
       "degree_label": "Bachelor of Music",
       "official_url": "https://you.ubc.ca/programs/music-general-studies/",
       "discovery_source_url": "https://you.ubc.ca/programs/",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
       "intake": null,
-      "duration": null,
+      "duration": "4年（页面所述培养阶段）",
       "campus": "Vancouver",
       "language": null,
       "raw_key": "889",
       "official_topics": [
         "media-and-fine-arts"
       ],
-      "id": "ubc-music-general-studies-662f38e73f"
+      "id": "ubc-music-general-studies-662f38e73f",
+      "name": "音乐：通识方向",
+      "entry_route": "学校资格与所属学位先修分别核对；具体主修可能在入学后选择。",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
     },
     {
       "name_en": "Music: Scholarship",
@@ -3184,6 +3560,1441 @@
         "health-and-life-sciences"
       ],
       "id": "ubc-zoology-53da66c270"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bcom-option-accounting",
+      "name_en": "Accounting",
+      "name": "会计（BCom方向）",
+      "degree_label": "Bachelor of Commerce — option",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/accounting",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/accounting",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "option",
+      "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
+      "parent_inventory_id": "ubc-commerce-691090826b",
+      "parent_degree_label": "Bachelor of Commerce",
+      "id": "ubc-accounting-e216665cbf",
+      "parent_program_id": "ubc-commerce-691090826b",
+      "parent_program_url": "https://you.ubc.ca/programs/commerce/",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bcom-option-business-technology-management",
+      "name_en": "Business Technology Management",
+      "name": "商业技术管理（BCom方向）",
+      "degree_label": "Bachelor of Commerce — option",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/business-technology-management",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/business-technology-management",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "option",
+      "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
+      "parent_inventory_id": "ubc-commerce-691090826b",
+      "parent_degree_label": "Bachelor of Commerce",
+      "id": "ubc-business-technology-management-4362d8b6b5",
+      "parent_program_id": "ubc-commerce-691090826b",
+      "parent_program_url": "https://you.ubc.ca/programs/commerce/",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bcom-option-entrepreneurship",
+      "name_en": "Entrepreneurship",
+      "name": "创业（BCom方向）",
+      "degree_label": "Bachelor of Commerce — option",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/entrepreneurship",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/entrepreneurship",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "option",
+      "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
+      "parent_inventory_id": "ubc-commerce-691090826b",
+      "parent_degree_label": "Bachelor of Commerce",
+      "id": "ubc-entrepreneurship-227a7aac95",
+      "parent_program_id": "ubc-commerce-691090826b",
+      "parent_program_url": "https://you.ubc.ca/programs/commerce/",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bcom-option-finance",
+      "name_en": "Finance",
+      "name": "金融（BCom方向）",
+      "degree_label": "Bachelor of Commerce — option",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/finance",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/finance",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "option",
+      "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
+      "parent_inventory_id": "ubc-commerce-691090826b",
+      "parent_degree_label": "Bachelor of Commerce",
+      "id": "ubc-finance-0801f72426",
+      "parent_program_id": "ubc-commerce-691090826b",
+      "parent_program_url": "https://you.ubc.ca/programs/commerce/",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bcom-option-general-business-management",
+      "name_en": "General Business Management",
+      "name": "综合商业管理（BCom方向）",
+      "degree_label": "Bachelor of Commerce — option",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/general-business-management",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/general-business-management",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "option",
+      "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
+      "parent_inventory_id": "ubc-commerce-691090826b",
+      "parent_degree_label": "Bachelor of Commerce",
+      "id": "ubc-general-business-management-ea295a807a",
+      "parent_program_id": "ubc-commerce-691090826b",
+      "parent_program_url": "https://you.ubc.ca/programs/commerce/",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bcom-option-global-supply-chain-and-logistics-management",
+      "name_en": "Global Supply Chain and Logistics Management",
+      "name": "全球供应链与物流管理（BCom方向）",
+      "degree_label": "Bachelor of Commerce — option",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/global-supply-chain-and-logistics-management",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/global-supply-chain-and-logistics-management",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "option",
+      "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
+      "parent_inventory_id": "ubc-commerce-691090826b",
+      "parent_degree_label": "Bachelor of Commerce",
+      "id": "ubc-global-supply-chain-and-logistics-management-7c652cec7d",
+      "parent_program_id": "ubc-commerce-691090826b",
+      "parent_program_url": "https://you.ubc.ca/programs/commerce/",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bcom-option-marketing",
+      "name_en": "Marketing",
+      "name": "市场营销（BCom方向）",
+      "degree_label": "Bachelor of Commerce — option",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/marketing",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/marketing",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "option",
+      "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
+      "parent_inventory_id": "ubc-commerce-691090826b",
+      "parent_degree_label": "Bachelor of Commerce",
+      "id": "ubc-marketing-d9231ad099",
+      "parent_program_id": "ubc-commerce-691090826b",
+      "parent_program_url": "https://you.ubc.ca/programs/commerce/",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bcom-option-organizational-behaviour-and-human-resources",
+      "name_en": "Organizational Behaviour and Human Resources",
+      "name": "组织行为与人力资源（BCom方向）",
+      "degree_label": "Bachelor of Commerce — option",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/organizational-behaviour-and-human-resources",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/organizational-behaviour-and-human-resources",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "option",
+      "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
+      "parent_inventory_id": "ubc-commerce-691090826b",
+      "parent_degree_label": "Bachelor of Commerce",
+      "id": "ubc-organizational-behaviour-and-human-resources-1e6176241a",
+      "parent_program_id": "ubc-commerce-691090826b",
+      "parent_program_url": "https://you.ubc.ca/programs/commerce/",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bcom-option-operations-and-logistics",
+      "name_en": "Operations and Logistics",
+      "name": "运营与物流（BCom方向）",
+      "degree_label": "Bachelor of Commerce — option",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/operations-and-logistics",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/operations-and-logistics",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "option",
+      "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
+      "parent_inventory_id": "ubc-commerce-691090826b",
+      "parent_degree_label": "Bachelor of Commerce",
+      "id": "ubc-operations-and-logistics-f2b4b154c2",
+      "parent_program_id": "ubc-commerce-691090826b",
+      "parent_program_url": "https://you.ubc.ca/programs/commerce/",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bcom-option-real-estate",
+      "name_en": "Real Estate",
+      "name": "房地产（BCom方向）",
+      "degree_label": "Bachelor of Commerce — option",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/real-estate",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/real-estate",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "option",
+      "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
+      "parent_inventory_id": "ubc-commerce-691090826b",
+      "parent_degree_label": "Bachelor of Commerce",
+      "id": "ubc-real-estate-1337661ef2",
+      "parent_program_id": "ubc-commerce-691090826b",
+      "parent_program_url": "https://you.ubc.ca/programs/commerce/",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmm-ba",
+      "name_en": "Bachelor of Arts and Master of Management",
+      "name": "文学学士＋管理学硕士",
+      "degree_label": "Bachelor of Arts + Master of Management",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/dual-degree-program-option-bachelor-arts-and-master-management",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/dual-degree-program-option-bachelor-arts-and-master-management",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "通常4.5年；先完成本科再完成MM阶段",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
+      "id": "ubc-bachelor-of-arts-and-master-of-management-586be73871",
+      "subjects": [
+        "商科",
+        "人文"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmm-bfa",
+      "name_en": "Bachelor of Fine Arts and Master of Management",
+      "name": "艺术学士＋管理学硕士",
+      "degree_label": "Bachelor of Fine Arts + Master of Management",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-fine-arts/dual-degree-program-option-bachelor-fine-arts-and-master-management",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-fine-arts/dual-degree-program-option-bachelor-fine-arts-and-master-management",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "通常4.5年；先完成本科再完成MM阶段",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
+      "id": "ubc-bachelor-of-fine-arts-and-master-of-management-ef131eb47c",
+      "subjects": [
+        "艺术与设计",
+        "商科"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmm-bms",
+      "name_en": "Bachelor of Media Studies and Master of Management",
+      "name": "媒体研究学士＋管理学硕士",
+      "degree_label": "Bachelor of Media Studies + Master of Management",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-media-studies/dual-degree-program-option-bachelor-media-studies-and-master-management",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-media-studies/dual-degree-program-option-bachelor-media-studies-and-master-management",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "通常4.5年；先完成本科再完成MM阶段",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
+      "id": "ubc-bachelor-of-media-studies-and-master-of-management-66a6ea337b",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmm-bmus",
+      "name_en": "Bachelor of Music and Master of Management",
+      "name": "音乐学士＋管理学硕士",
+      "degree_label": "Bachelor of Music + Master of Management",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/dual-degree-program-option-bachelor-music-and-master-management",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/dual-degree-program-option-bachelor-music-and-master-management",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "通常4.5年；先完成本科再完成MM阶段",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
+      "id": "ubc-bachelor-of-music-and-master-of-management-0ec0cf8bcd",
+      "subjects": [
+        "艺术与设计",
+        "商科"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmm-bkin",
+      "name_en": "Bachelor of Kinesiology and Master of Management",
+      "name": "运动机能学学士＋管理学硕士",
+      "degree_label": "Bachelor of Kinesiology + Master of Management",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-kinesiology/bachelor-kinesiology/dual-degree-program-option-kinesiology-and-management",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-kinesiology/bachelor-kinesiology/dual-degree-program-option-kinesiology-and-management",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "通常4.5年；先完成本科再完成MM阶段",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
+      "id": "ubc-bachelor-of-kinesiology-and-master-of-management-d5d38f47a6",
+      "subjects": [
+        "医学与健康",
+        "商科"
+      ],
+      "subject": "医学与健康"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmm-bsc",
+      "name_en": "Bachelor of Science and Master of Management",
+      "name": "理学学士＋管理学硕士",
+      "degree_label": "Bachelor of Science + Master of Management",
+      "official_url": "https://science.ubc.ca/students/dual",
+      "discovery_source_url": "https://science.ubc.ca/students/dual",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "通常4.5年；先完成本科再完成MM阶段",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
+      "id": "ubc-bachelor-of-science-and-master-of-management-35975893f0",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmm-bsnr",
+      "name_en": "Bachelor of Science in Natural Resources and Master of Management",
+      "name": "自然资源理学学士＋管理学硕士",
+      "degree_label": "Bachelor of Science in Natural Resources + Master of Management",
+      "official_url": "https://forestry.ubc.ca/future-students/undergraduate/experiential-learning/dual-degree-with-business/",
+      "discovery_source_url": "https://forestry.ubc.ca/future-students/undergraduate/experiential-learning/dual-degree-with-business/",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "通常4.5年；先完成本科再完成MM阶段",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
+      "id": "ubc-bachelor-of-science-in-natural-resources-and-master-of-management-854afda285",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmm-apbi",
+      "name_en": "Bachelor of Science in Applied Biology and Master of Management",
+      "name": "应用生物学理学学士＋管理学硕士",
+      "degree_label": "Bachelor of Science in Applied Biology + Master of Management",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/undergraduate-program-master-management-dual-degree-program-option",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/undergraduate-program-master-management-dual-degree-program-option",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "通常4.5年；先完成本科再完成MM阶段",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
+      "id": "ubc-bachelor-of-science-in-applied-biology-and-master-of-management-7971b52cd3",
+      "subjects": [
+        "商科",
+        "自然科学"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmm-fnh",
+      "name_en": "Bachelor of Science in Food, Nutrition, and Health and Master of Management",
+      "name": "食品营养与健康理学学士＋管理学硕士",
+      "degree_label": "Bachelor of Science in Food, Nutrition, and Health + Master of Management",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/undergraduate-program-master-management-dual-degree-program-option",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/undergraduate-program-master-management-dual-degree-program-option",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "通常4.5年；先完成本科再完成MM阶段",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
+      "id": "ubc-bachelor-of-science-in-food-nutrition-and-health-and-master-of-ma-8693fe039a",
+      "subjects": [
+        "医学与健康",
+        "商科"
+      ],
+      "subject": "医学与健康"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmm-fre",
+      "name_en": "Bachelor of Science in Food and Resource Economics and Master of Management",
+      "name": "食品与资源经济学理学学士＋管理学硕士",
+      "degree_label": "Bachelor of Science in Food and Resource Economics + Master of Management",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/undergraduate-program-master-management-dual-degree-program-option",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/undergraduate-program-master-management-dual-degree-program-option",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "通常4.5年；先完成本科再完成MM阶段",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
+      "id": "ubc-bachelor-of-science-in-food-and-resource-economics-and-master-of-29c414b947",
+      "subjects": [
+        "经济",
+        "商科"
+      ],
+      "subject": "经济"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmm-grs",
+      "name_en": "Bachelor of Science in Global Resource Systems and Master of Management",
+      "name": "全球资源系统理学学士＋管理学硕士",
+      "degree_label": "Bachelor of Science in Global Resource Systems + Master of Management",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/undergraduate-program-master-management-dual-degree-program-option",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/undergraduate-program-master-management-dual-degree-program-option",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "通常4.5年；先完成本科再完成MM阶段",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
+      "id": "ubc-bachelor-of-science-in-global-resource-systems-and-master-of-mana-4b68eb2c31",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-o-bmm-basc",
+      "name_en": "Bachelor of Applied Science and Master of Management",
+      "name": "应用科学（工程）学士＋管理学硕士",
+      "degree_label": "Bachelor of Applied Science + Master of Management",
+      "official_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/school-engineering/bachelor-applied-science-program/dual-degree-program-option-bachelor-applied-science-and-master-management",
+      "discovery_source_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/school-engineering/bachelor-applied-science-program/dual-degree-program-option-bachelor-applied-science-and-master-management",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
+      "campus": "Okanagan",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
+      "id": "ubc-bachelor-of-applied-science-and-master-of-management-c6178a5e21",
+      "subjects": [
+        "工程",
+        "商科"
+      ],
+      "subject": "工程"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-o-bmm-ba",
+      "name_en": "Bachelor of Arts and Master of Management",
+      "name": "文学学士＋管理学硕士",
+      "degree_label": "Bachelor of Arts + Master of Management",
+      "official_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/dual-degree-program-option-bachelor-arts-and-master-management",
+      "discovery_source_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/dual-degree-program-option-bachelor-arts-and-master-management",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
+      "campus": "Okanagan",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
+      "id": "ubc-bachelor-of-arts-and-master-of-management-d7fab5754e",
+      "subjects": [
+        "商科",
+        "人文"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-o-bmm-bcom",
+      "name_en": "Bachelor of Commerce and Master of Management",
+      "name": "商学学士＋管理学硕士",
+      "degree_label": "Bachelor of Commerce + Master of Management",
+      "official_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/dual-degree-program-option-bachelor-commerce-and-master-management",
+      "discovery_source_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/dual-degree-program-option-bachelor-commerce-and-master-management",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
+      "campus": "Okanagan",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
+      "id": "ubc-bachelor-of-commerce-and-master-of-management-e7f67c3b56",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-o-bmm-bfa",
+      "name_en": "Bachelor of Fine Arts and Master of Management",
+      "name": "艺术学士＋管理学硕士",
+      "degree_label": "Bachelor of Fine Arts + Master of Management",
+      "official_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-fine-arts-program/dual-degree-program-option-bachelor-fine-arts-and-master-management",
+      "discovery_source_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-fine-arts-program/dual-degree-program-option-bachelor-fine-arts-and-master-management",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
+      "campus": "Okanagan",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
+      "id": "ubc-bachelor-of-fine-arts-and-master-of-management-ca53c52754",
+      "subjects": [
+        "艺术与设计",
+        "商科"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-o-bmm-bhes",
+      "name_en": "Bachelor of Health and Exercise Sciences and Master of Management",
+      "name": "健康与运动科学学士＋管理学硕士",
+      "degree_label": "Bachelor of Health and Exercise Sciences + Master of Management",
+      "official_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/school-health-and-exercise-sciences/bachelor-health-and-exercise-sciences-program-students-entering-program-20222023-or-later/dual-degree-program-option-bachelor-health",
+      "discovery_source_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/school-health-and-exercise-sciences/bachelor-health-and-exercise-sciences-program-students-entering-program-20222023-or-later/dual-degree-program-option-bachelor-health",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
+      "campus": "Okanagan",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
+      "id": "ubc-bachelor-of-health-and-exercise-sciences-and-master-of-management-bc7a61117b",
+      "subjects": [
+        "医学与健康",
+        "商科"
+      ],
+      "subject": "医学与健康"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-o-bmm-bms",
+      "name_en": "Bachelor of Media Studies and Master of Management",
+      "name": "媒体研究学士＋管理学硕士",
+      "degree_label": "Bachelor of Media Studies + Master of Management",
+      "official_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-media-studies-program/dual-degree-program-option-bachelor-media-studies-and-master-management",
+      "discovery_source_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-media-studies-program/dual-degree-program-option-bachelor-media-studies-and-master-management",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
+      "campus": "Okanagan",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
+      "id": "ubc-bachelor-of-media-studies-and-master-of-management-b03bd328f7",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-o-bmm-bsc",
+      "name_en": "Bachelor of Science and Master of Management",
+      "name": "理学学士＋管理学硕士",
+      "degree_label": "Bachelor of Science + Master of Management",
+      "official_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/other-opportunities/dual-degree-program-option-bachelor-science-and-master-management",
+      "discovery_source_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/other-opportunities/dual-degree-program-option-bachelor-science-and-master-management",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
+      "campus": "Okanagan",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
+      "id": "ubc-bachelor-of-science-and-master-of-management-50aa0fd9db",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-o-bmm-bsn",
+      "name_en": "Bachelor of Science in Nursing and Master of Management",
+      "name": "护理理学学士＋管理学硕士",
+      "degree_label": "Bachelor of Science in Nursing + Master of Management",
+      "official_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/school-nursing/bachelor-science-nursing-and-master-management-dual-degree-program-option",
+      "discovery_source_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/school-nursing/bachelor-science-nursing-and-master-management-dual-degree-program-option",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "依BSN护理Cohort 3进度完成后进入MM；MM8个月，整体年限待个案确认",
+      "campus": "Okanagan",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "护理学生须在BSN二年级结束前书面申请并注明Cohort 3；完成BSN及MM条件后进入MM。",
+      "id": "ubc-bachelor-of-science-in-nursing-and-master-of-management-eecb350cdc",
+      "subjects": [
+        "医学与健康",
+        "商科"
+      ],
+      "subject": "医学与健康"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-o-bmm-bsust",
+      "name_en": "Bachelor of Sustainability and Master of Management",
+      "name": "可持续发展学士＋管理学硕士",
+      "degree_label": "Bachelor of Sustainability + Master of Management",
+      "official_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-sustainability-bsust/dual-degree-program-option-bachelor-sustainability-and-master-management",
+      "discovery_source_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-sustainability-bsust/dual-degree-program-option-bachelor-sustainability-and-master-management",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
+      "campus": "Okanagan",
+      "language": null,
+      "entity_type": "combined_bachelor_master",
+      "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
+      "id": "ubc-bachelor-of-sustainability-and-master-of-management-661e7cdf83",
+      "subjects": [
+        "商科",
+        "环境与农业"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-o-language-bed-nlek",
+      "name_en": "Bachelor of NłeɁkepmx Language Fluency and Bachelor of Education",
+      "name": "NłeɁkepmx语流利能力学士＋教育学士",
+      "degree_label": "Bachelor of NłeɁkepmx Language Fluency + Bachelor of Education",
+      "official_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-nlekepmx-language-fluency/dual-degree-program-option-bachelor-nlekepmx-language-fluency-and-bachelor-education",
+      "discovery_source_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-nlekepmx-language-fluency/dual-degree-program-option-bachelor-nlekepmx-language-fluency-and-bachelor-education",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "语言本科后BEd全日制11个月，或延长型2年",
+      "campus": "Okanagan",
+      "language": null,
+      "entity_type": "dual_bachelor",
+      "entry_route": "语言学士三年级在校条件申请；已完成相应证书/文凭的衔接路径",
+      "id": "ubc-bachelor-of-n-e-kepmx-language-fluency-and-bachelor-of-education-65cc8a09e0",
+      "subjects": [
+        "教育",
+        "人文"
+      ],
+      "subject": "教育"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-o-language-bed-nsyl",
+      "name_en": "Bachelor of Nsyilxcn Language Fluency and Bachelor of Education",
+      "name": "Nsyilxcn语流利能力学士＋教育学士",
+      "degree_label": "Bachelor of Nsyilxcn Language Fluency + Bachelor of Education",
+      "official_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-nsyilxcn-language-fluency/dual-degree-program-option-bachelor-nsyilxcn-language-fluency-and-bachelor-education",
+      "discovery_source_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-nsyilxcn-language-fluency/dual-degree-program-option-bachelor-nsyilxcn-language-fluency-and-bachelor-education",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "语言本科后BEd全日制11个月，或延长型2年",
+      "campus": "Okanagan",
+      "language": null,
+      "entity_type": "dual_bachelor",
+      "entry_route": "语言学士三年级在校条件申请；已完成相应证书/文凭的衔接路径",
+      "id": "ubc-bachelor-of-nsyilxcn-language-fluency-and-bachelor-of-education-2b646d745f",
+      "subjects": [
+        "教育",
+        "人文"
+      ],
+      "subject": "教育"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-o-language-bed-stmc",
+      "name_en": "Bachelor of St’át’imc Language Fluency and Bachelor of Education",
+      "name": "St’át’imc语流利能力学士＋教育学士",
+      "degree_label": "Bachelor of St’át’imc Language Fluency + Bachelor of Education",
+      "official_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-statimc-language-fluency/dual-degree-program-option-bachelor-statimc-language-fluency-and-bachelor-education",
+      "discovery_source_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-statimc-language-fluency/dual-degree-program-option-bachelor-statimc-language-fluency-and-bachelor-education",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "语言本科后BEd全日制11个月，或延长型2年",
+      "campus": "Okanagan",
+      "language": null,
+      "entity_type": "dual_bachelor",
+      "entry_route": "语言学士三年级在校条件申请；已完成相应证书/文凭的衔接路径",
+      "id": "ubc-bachelor-of-st-t-imc-language-fluency-and-bachelor-of-education-129f1da207",
+      "subjects": [
+        "教育",
+        "人文"
+      ],
+      "subject": "教育"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-o-language-bed-secw",
+      "name_en": "Bachelor of Secwépemc Language Fluency and Bachelor of Education",
+      "name": "Secwépemc语流利能力学士＋教育学士",
+      "degree_label": "Bachelor of Secwépemc Language Fluency + Bachelor of Education",
+      "official_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-secwepemc-language-fluency/dual-degree-program-option-bachelor-secwepemc-language-fluency-and-bachelor-education",
+      "discovery_source_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-secwepemc-language-fluency/dual-degree-program-option-bachelor-secwepemc-language-fluency-and-bachelor-education",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "语言本科后BEd全日制11个月，或延长型2年",
+      "campus": "Okanagan",
+      "language": null,
+      "entity_type": "dual_bachelor",
+      "entry_route": "语言学士三年级在校条件申请；已完成相应证书/文凭的衔接路径",
+      "id": "ubc-bachelor-of-secwe-pemc-language-fluency-and-bachelor-of-education-158e2c3bb6",
+      "subjects": [
+        "教育",
+        "人文"
+      ],
+      "subject": "教育"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bsnr-bed-conservation",
+      "name_en": "Natural Resources (Conservation) and Education",
+      "name": "自然资源（保护学）＋中学教育",
+      "degree_label": "Bachelor of Science in Natural Resources + Bachelor of Education (Secondary Biological Sciences)",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/dual-degree-program-natural-resources-and-education",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/dual-degree-program-natural-resources-and-education",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "5个Winter Sessions，另含暑期安排",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "dual_bachelor",
+      "entry_route": "BSNR对应专业二年级校内申请",
+      "id": "ubc-natural-resources-conservation-and-education-86e210c5e5",
+      "subjects": [
+        "教育",
+        "自然科学"
+      ],
+      "subject": "教育"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bsnr-bed-forest-sciences",
+      "name_en": "Natural Resources (Forest Sciences) and Education",
+      "name": "自然资源（森林科学）＋中学教育",
+      "degree_label": "Bachelor of Science in Natural Resources + Bachelor of Education (Secondary Biological Sciences)",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/dual-degree-program-natural-resources-and-education",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/dual-degree-program-natural-resources-and-education",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "5个Winter Sessions，另含暑期安排",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "dual_bachelor",
+      "entry_route": "BSNR对应专业二年级校内申请",
+      "id": "ubc-natural-resources-forest-sciences-and-education-87af74b2d4",
+      "subjects": [
+        "教育",
+        "自然科学"
+      ],
+      "subject": "教育"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bsc-bed-mathematics",
+      "name_en": "Mathematics and Education",
+      "name": "数学理学学士＋中学教育学士",
+      "degree_label": "Bachelor of Science (Mathematics) + Bachelor of Education (Secondary)",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/double-major-and-dual-degree-options",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/double-major-and-dual-degree-options",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "5年",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "dual_bachelor",
+      "entry_route": "在UBC相应BSc major二年级秋季申请；不接受已有学位者",
+      "id": "ubc-mathematics-and-education-64c90882bb",
+      "subjects": [
+        "教育",
+        "数学与统计"
+      ],
+      "subject": "教育"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bsc-bed-physics",
+      "name_en": "Physics and Education",
+      "name": "物理理学学士＋中学教育学士",
+      "degree_label": "Bachelor of Science (Physics) + Bachelor of Education (Secondary)",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/double-major-and-dual-degree-options",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/double-major-and-dual-degree-options",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "5年",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "dual_bachelor",
+      "entry_route": "在UBC相应BSc major二年级秋季申请；不接受已有学位者",
+      "id": "ubc-physics-and-education-f0955c435c",
+      "subjects": [
+        "教育",
+        "自然科学"
+      ],
+      "subject": "教育"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bsc-dual-arts",
+      "name_en": "Science and Arts",
+      "name": "理学学士＋文学学士",
+      "degree_label": "Bachelor of Science + Bachelor of Arts",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/double-major-and-dual-degree-options",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/double-major-and-dual-degree-options",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "通常4.5–5.5个Winter Sessions",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "dual_bachelor",
+      "entry_route": "在获BSc major后、四年级前申请；各session至少68%；不接受已有学位者。",
+      "id": "ubc-science-and-arts-3e0d25b445",
+      "subjects": [
+        "人文"
+      ],
+      "subject": "人文"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bsc-dual-music",
+      "name_en": "Science and Music",
+      "name": "理学学士＋音乐学士",
+      "degree_label": "Bachelor of Science + Bachelor of Music",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/double-major-and-dual-degree-options",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/double-major-and-dual-degree-options",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "多数组合6个Winter Sessions",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "dual_bachelor",
+      "entry_route": "BSc一或二年级可申请，须音乐试演、学院推荐及学业目的说明；每学期至少68%；不接受已有学位者。",
+      "id": "ubc-science-and-music-133948ae45",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bbre",
+      "name_en": "Business in Real Estate",
+      "name": "房地产商业学士（文凭后衔接）",
+      "degree_label": "Bachelor of Business in Real Estate",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-business-real-estate",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-business-real-estate",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "非全日制远程；本轮未取得固定完成年限",
+      "campus": "Distance delivery; UBC Vancouver administration",
+      "language": null,
+      "entity_type": "bachelor_completion",
+      "entry_route": "已有Diploma in Urban Land Economics或同等资格，非高中直接入读",
+      "id": "ubc-business-in-real-estate-6ee51214a4",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmus-guitar",
+      "name_en": "Guitar",
+      "name": "吉他（音乐学士主修）",
+      "degree_label": "Bachelor of Music — Guitar",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/guitar",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/guitar",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程安排",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "major",
+      "entry_route": "大学学术要求＋本专业试演；2027具体日期与曲目未核",
+      "parent_inventory_id": "ubc-music-advanced-performance-37913ab897",
+      "parent_degree_label": "Bachelor of Music",
+      "id": "ubc-guitar-f8bb3e6e2b",
+      "parent_program_id": "ubc-music-advanced-performance-37913ab897",
+      "parent_program_url": "https://you.ubc.ca/programs/music-advanced-performance/",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmus-harpsichord",
+      "name_en": "Harpsichord",
+      "name": "羽管键琴（音乐学士主修）",
+      "degree_label": "Bachelor of Music — Harpsichord",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/harpsichord",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/harpsichord",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程安排",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "major",
+      "entry_route": "大学学术要求＋本专业试演；2027具体日期与曲目未核",
+      "parent_inventory_id": "ubc-music-advanced-performance-37913ab897",
+      "parent_degree_label": "Bachelor of Music",
+      "id": "ubc-harpsichord-f4572bcf13",
+      "parent_program_id": "ubc-music-advanced-performance-37913ab897",
+      "parent_program_url": "https://you.ubc.ca/programs/music-advanced-performance/",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmus-opera",
+      "name_en": "Opera",
+      "name": "歌剧（音乐学士主修）",
+      "degree_label": "Bachelor of Music — Opera",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/opera",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/opera",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程安排",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "major",
+      "entry_route": "大学学术要求＋本专业试演；2027具体日期与曲目未核",
+      "parent_inventory_id": "ubc-music-advanced-performance-37913ab897",
+      "parent_degree_label": "Bachelor of Music",
+      "id": "ubc-opera-779ba18c33",
+      "parent_program_id": "ubc-music-advanced-performance-37913ab897",
+      "parent_program_url": "https://you.ubc.ca/programs/music-advanced-performance/",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmus-orchestral-instrument",
+      "name_en": "Orchestral Instrument",
+      "name": "管弦乐器（音乐学士主修）",
+      "degree_label": "Bachelor of Music — Orchestral Instrument",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/orchestral-instrument",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/orchestral-instrument",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程安排",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "major",
+      "entry_route": "大学学术要求＋本专业试演；2027具体日期与曲目未核",
+      "parent_inventory_id": "ubc-music-advanced-performance-37913ab897",
+      "parent_degree_label": "Bachelor of Music",
+      "id": "ubc-orchestral-instrument-7dbcc7e6fe",
+      "parent_program_id": "ubc-music-advanced-performance-37913ab897",
+      "parent_program_url": "https://you.ubc.ca/programs/music-advanced-performance/",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmus-organ",
+      "name_en": "Organ",
+      "name": "管风琴（音乐学士主修）",
+      "degree_label": "Bachelor of Music — Organ",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/organ",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/organ",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程安排",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "major",
+      "entry_route": "大学学术要求＋本专业试演；2027具体日期与曲目未核",
+      "parent_inventory_id": "ubc-music-advanced-performance-37913ab897",
+      "parent_degree_label": "Bachelor of Music",
+      "id": "ubc-organ-4cb0bf7d08",
+      "parent_program_id": "ubc-music-advanced-performance-37913ab897",
+      "parent_program_url": "https://you.ubc.ca/programs/music-advanced-performance/",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmus-piano",
+      "name_en": "Piano",
+      "name": "钢琴（音乐学士主修）",
+      "degree_label": "Bachelor of Music — Piano",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/piano",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/piano",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程安排",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "major",
+      "entry_route": "大学学术要求＋本专业试演；2027具体日期与曲目未核",
+      "parent_inventory_id": "ubc-music-advanced-performance-37913ab897",
+      "parent_degree_label": "Bachelor of Music",
+      "id": "ubc-piano-637ce5cf49",
+      "parent_program_id": "ubc-music-advanced-performance-37913ab897",
+      "parent_program_url": "https://you.ubc.ca/programs/music-advanced-performance/",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmus-voice",
+      "name_en": "Voice",
+      "name": "声乐（音乐学士主修）",
+      "degree_label": "Bachelor of Music — Voice",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/voice",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/voice",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程安排",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "major",
+      "entry_route": "大学学术要求＋本专业试演；2027具体日期与曲目未核",
+      "parent_inventory_id": "ubc-music-advanced-performance-37913ab897",
+      "parent_degree_label": "Bachelor of Music",
+      "id": "ubc-voice-53cd974201",
+      "parent_program_id": "ubc-music-advanced-performance-37913ab897",
+      "parent_program_url": "https://you.ubc.ca/programs/music-advanced-performance/",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bsc-combined-1370",
+      "name_en": "Computer Science and Biology",
+      "name": "计算机科学与生物学",
+      "degree_label": "Bachelor of Science — Combined Major",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biology",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biology",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程表；120学分",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_major",
+      "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
+      "id": "ubc-computer-science-and-biology-6094df773f",
+      "subjects": [
+        "计算机",
+        "自然科学"
+      ],
+      "subject": "计算机"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bsc-combined-3401",
+      "name_en": "Computer Science and Chemistry",
+      "name": "计算机科学与化学",
+      "degree_label": "Bachelor of Science — Combined Major",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/computer-science",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/computer-science",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程表；120学分",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_major",
+      "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
+      "id": "ubc-computer-science-and-chemistry-cdbe014d5d",
+      "subjects": [
+        "计算机",
+        "自然科学"
+      ],
+      "subject": "计算机"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bsc-combined-1391",
+      "name_en": "Computer Science and Physics",
+      "name": "计算机科学与物理学",
+      "degree_label": "Bachelor of Science — Combined Major",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/computer-science",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/computer-science",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程表；120学分",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_major",
+      "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
+      "id": "ubc-computer-science-and-physics-677de29432",
+      "subjects": [
+        "计算机",
+        "自然科学"
+      ],
+      "subject": "计算机"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bsc-combined-1371",
+      "name_en": "Computer Science and Microbiology and Immunology",
+      "name": "计算机科学与微生物学及免疫学",
+      "degree_label": "Bachelor of Science — Combined Major",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/microbiology-and-immunology",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/microbiology-and-immunology",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程表；120学分",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_major",
+      "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
+      "id": "ubc-computer-science-and-microbiology-and-immunology-b9784ee64e",
+      "subjects": [
+        "计算机",
+        "自然科学"
+      ],
+      "subject": "计算机"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bsc-combined-1375",
+      "name_en": "Computer Science and Statistics",
+      "name": "计算机科学与统计学",
+      "degree_label": "Bachelor of Science — Combined Major",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/computer-science",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/computer-science",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程表；120学分",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_major",
+      "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
+      "id": "ubc-computer-science-and-statistics-5c1742480f",
+      "subjects": [
+        "计算机",
+        "数学与统计"
+      ],
+      "subject": "计算机"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bsc-combined-1330",
+      "name_en": "Statistics and Economics",
+      "name": "统计学与经济学（BSc）",
+      "degree_label": "Bachelor of Science — Combined Major",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/statistics",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/statistics",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程表；120学分",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_major",
+      "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
+      "id": "ubc-statistics-and-economics-9268250d9c",
+      "subjects": [
+        "经济",
+        "数学与统计"
+      ],
+      "subject": "经济"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-ba-combined-economics-statistics",
+      "name_en": "Economics and Statistics",
+      "name": "经济学与统计学（BA）",
+      "degree_label": "Bachelor of Arts — Combined Major",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_major",
+      "entry_route": "BA学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
+      "id": "ubc-economics-and-statistics-1c7a3be859",
+      "subjects": [
+        "经济",
+        "数学与统计"
+      ],
+      "subject": "经济"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bsc-combined-1429",
+      "name_en": "Computer Science and Mathematics",
+      "name": "计算机科学与数学",
+      "degree_label": "Bachelor of Science — Combined Major",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/mathematics",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/mathematics",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年；120学分",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_major",
+      "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
+      "id": "ubc-computer-science-and-mathematics-d6ad4b2d36",
+      "subjects": [
+        "计算机",
+        "数学与统计"
+      ],
+      "subject": "计算机"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bsc-honours-0051",
+      "name_en": "Statistics (Honours)",
+      "name": "统计学（荣誉）",
+      "degree_label": "Bachelor of Science — Honours",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/statistics",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/statistics",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程表；132学分",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "honours_major",
+      "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
+      "parent_inventory_id": "ubc-statistics-7ccc5e803b",
+      "parent_degree_label": "Bachelor of Science",
+      "id": "ubc-statistics-honours-6961b90c54",
+      "parent_program_id": "ubc-statistics-7ccc5e803b",
+      "parent_program_url": "https://you.ubc.ca/programs/statistics-vancouver/",
+      "subjects": [
+        "数学与统计"
+      ],
+      "subject": "数学与统计"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bsc-honours-0550",
+      "name_en": "Mathematics and Statistics (Combined Honours)",
+      "name": "数学与统计学（联合荣誉）",
+      "degree_label": "Bachelor of Science — Combined Honours",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/statistics",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/statistics",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程表；132学分",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_honours",
+      "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
+      "id": "ubc-mathematics-and-statistics-combined-honours-269331a33b",
+      "subjects": [
+        "数学与统计"
+      ],
+      "subject": "数学与统计"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-ba-combined-economics-political-science",
+      "name_en": "Economics and Political Science",
+      "name": "经济学与政治学（BA联合主修）",
+      "degree_label": "Bachelor of Arts — Combined Major",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_major",
+      "entry_route": "BA学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
+      "id": "ubc-economics-and-political-science-e01158eb65",
+      "subjects": [
+        "经济",
+        "社会科学"
+      ],
+      "subject": "经济"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-ba-combined-economics-philosophy",
+      "name_en": "Economics and Philosophy",
+      "name": "经济学与哲学（BA联合主修）",
+      "degree_label": "Bachelor of Arts — Combined Major",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_major",
+      "entry_route": "BA学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
+      "id": "ubc-economics-and-philosophy-29e78c1705",
+      "subjects": [
+        "经济",
+        "人文"
+      ],
+      "subject": "经济"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-ba-combined-economics-mathematics",
+      "name_en": "Economics and Mathematics",
+      "name": "经济学与数学（BA联合主修）",
+      "degree_label": "Bachelor of Arts — Combined Major",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "combined_major",
+      "entry_route": "BA学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
+      "id": "ubc-economics-and-mathematics-fdc14e32d3",
+      "subjects": [
+        "经济",
+        "数学与统计"
+      ],
+      "subject": "经济"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmus-general-elementary",
+      "name_en": "General Studies: Elementary Education Stream",
+      "name": "音乐综合研究：小学教育预备方向",
+      "degree_label": "Bachelor of Music — General Studies (Elementary Education Stream)",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/general-studies-elementary-education-stream",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/general-studies-elementary-education-stream",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程安排",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "stream",
+      "entry_route": "BMus内部教育预备路线；初次BMus录取与毕业后BEd另行申请分开。",
+      "parent_inventory_id": "ubc-music-general-studies-662f38e73f",
+      "parent_degree_label": "Bachelor of Music",
+      "id": "ubc-general-studies-elementary-education-stream-20aff768c3",
+      "parent_program_id": "ubc-music-general-studies-662f38e73f",
+      "parent_program_url": "https://you.ubc.ca/programs/music-general-studies/",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "ubc",
+      "raw_key": "calendar-v-bmus-general-secondary",
+      "name_en": "General Studies: Secondary Education Stream",
+      "name": "音乐综合研究：中学教育预备方向",
+      "degree_label": "Bachelor of Music — General Studies (Secondary Education Stream)",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/general-studies-secondary-education-stream",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/general-studies-secondary-education-stream",
+      "source_period": "2026/27现行校历；2027申请日期、收费与历史版本逐条核验",
+      "intake": "2026/27校历；2027招生细则未单独核实",
+      "duration": "4年课程安排",
+      "campus": "Vancouver",
+      "language": null,
+      "entity_type": "stream",
+      "entry_route": "BMus内部教育预备路线；初次BMus录取与毕业后BEd另行申请分开。",
+      "parent_inventory_id": "ubc-music-general-studies-662f38e73f",
+      "parent_degree_label": "Bachelor of Music",
+      "id": "ubc-general-studies-secondary-education-stream-fd53f153f2",
+      "parent_program_id": "ubc-music-general-studies-662f38e73f",
+      "parent_program_url": "https://you.ubc.ca/programs/music-general-studies/",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
     }
   ]
 }

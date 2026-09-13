@@ -209,8 +209,11 @@ def generate():
         assert item['id'] not in {p['id'] for p in programs}, 'Excluded item remains in the live catalog'
         body = front(item['name_en']+' · 收录范围说明', program_context={'catalog_program': True, 'catalog_country': c['name'], 'catalog_country_url': BASE+route(c['id']), 'catalog_university': u['name'], 'catalog_university_url': BASE+route(c['id'],u['id'])})
         body += '# '+item['name_en'].strip()+'\n\n> **此项目已移出本科专业清单。** 旧链接保留，供查阅更正说明。\n\n'+esc(item['reason'])+'\n\n'
+        replacement_ids = list(item.get('replacement_inventory_ids', []))
         if item.get('replacement_inventory_id'):
-            replacement = next(p for p in programs if p['id'] == item['replacement_inventory_id'])
+            replacement_ids.insert(0, item['replacement_inventory_id'])
+        for replacement_id in dict.fromkeys(replacement_ids):
+            replacement = next(p for p in programs if p['id'] == replacement_id)
             assert replacement['university_id'] == u['id'], 'Replacement must belong to the same university'
             body += link(route(c['id'],u['id'],replacement['id']), '查看现行专业：'+replacement['name'])+'\n\n'
         body += link(route(c['id'],u['id']), '返回'+u['name']+'的本科专业清单')+'\n\n## 官方依据\n\n'

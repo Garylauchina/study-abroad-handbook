@@ -58,11 +58,11 @@ hide:
 
 ## 官方来源与核验记录 {#sources}
 
-目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
+目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
 
 - [官方项目页面或项目所在目录](https://you.ubc.ca/programs/education-teaching-adolescents/)
 - [官方目录](https://you.ubc.ca/programs/)
 
-<div class="catalog-source" id="source-p-program"><div><a href="https://you.ubc.ca/programs/">UBC官方本科项目资料：Education: Teaching Adolescents ↗</a><p>公开完整programsListData中的培养内容、项目类型及官方项目入口</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-program"><div><a href="https://you.ubc.ca/programs/">UBC官方本科项目资料：Education: Teaching Adolescents ↗</a><p>公开完整programsListData中的培养内容、项目类型及官方项目入口</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/ubc/">← 返回英属哥伦比亚大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

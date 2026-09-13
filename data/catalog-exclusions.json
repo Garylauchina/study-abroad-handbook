@@ -1667,5 +1667,113 @@
         "sha256": "7e5aaf3528c0ada42477246a2510667d50f81ec6635de4bc1e4a51485ca5855c"
       }
     ]
+  },
+  {
+    "id": "ubc-bachelor-master-of-management-dual-degree-1a6d8f3bca",
+    "university_id": "ubc",
+    "name_en": "Bachelor + Master of Management Dual Degree",
+    "reason": "旧页面汇总多个实际授位或校区，现已按具体专业分别收录，请选择下列入口。当前森林学院指向BSNR＋MM，共同校历仍列旧森林学位，不能全部当2027独立新入口。",
+    "checked_at": "2026-09-13",
+    "replacement_inventory_ids": [
+      "ubc-bachelor-of-arts-and-master-of-management-586be73871",
+      "ubc-bachelor-of-fine-arts-and-master-of-management-ef131eb47c",
+      "ubc-bachelor-of-media-studies-and-master-of-management-66a6ea337b",
+      "ubc-bachelor-of-music-and-master-of-management-0ec0cf8bcd",
+      "ubc-bachelor-of-kinesiology-and-master-of-management-d5d38f47a6",
+      "ubc-bachelor-of-science-and-master-of-management-35975893f0",
+      "ubc-bachelor-of-science-in-natural-resources-and-master-of-management-854afda285",
+      "ubc-bachelor-of-science-in-applied-biology-and-master-of-management-7971b52cd3",
+      "ubc-bachelor-of-science-in-food-nutrition-and-health-and-master-of-ma-8693fe039a",
+      "ubc-bachelor-of-science-in-food-and-resource-economics-and-master-of-29c414b947",
+      "ubc-bachelor-of-science-in-global-resource-systems-and-master-of-mana-4b68eb2c31"
+    ],
+    "sources": [
+      {
+        "id": "UBCS-dual-a351f90de156",
+        "title": "UBC — Undergraduate Program-Master of Management Dual Degree Program Option",
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/undergraduate-program-master-management-dual-degree-program-option",
+        "checked_at": "2026-09-13",
+        "sha256": "bbf239b37dbb464bb9ad7c5aa3959c463700071f81b3cebd6671fcb7f86a0517"
+      },
+      {
+        "id": "UBCS-forestry-mm-web",
+        "title": "UBC — UBC Forestry — Dual Degree with Business",
+        "url": "https://forestry.ubc.ca/future-students/undergraduate/experiential-learning/dual-degree-with-business/",
+        "checked_at": "2026-09-13",
+        "sha256": "6558683e67a8d43d6e1baddfdca57ba2b6e28e125071c0324d4aaf0ecd1a63eb"
+      }
+    ]
+  },
+  {
+    "id": "ubc-bachelor-master-of-management-dual-degree-395bfd99fa",
+    "university_id": "ubc",
+    "name_en": "Bachelor + Master of Management Dual Degree",
+    "reason": "旧页面汇总多个实际授位或校区，现已按具体专业分别收录，请选择下列入口。两学院的BA没有重复计两张学位；2026W起BCom＋MM取代BManagement＋MM；护理有在二年级结束前申请的专门条件。",
+    "checked_at": "2026-09-13",
+    "replacement_inventory_ids": [
+      "ubc-bachelor-of-applied-science-and-master-of-management-c6178a5e21",
+      "ubc-bachelor-of-arts-and-master-of-management-d7fab5754e",
+      "ubc-bachelor-of-commerce-and-master-of-management-e7f67c3b56",
+      "ubc-bachelor-of-fine-arts-and-master-of-management-ca53c52754",
+      "ubc-bachelor-of-health-and-exercise-sciences-and-master-of-management-bc7a61117b",
+      "ubc-bachelor-of-media-studies-and-master-of-management-b03bd328f7",
+      "ubc-bachelor-of-science-and-master-of-management-50aa0fd9db",
+      "ubc-bachelor-of-science-in-nursing-and-master-of-management-eecb350cdc",
+      "ubc-bachelor-of-sustainability-and-master-of-management-661e7cdf83"
+    ],
+    "sources": [
+      {
+        "id": "UBCS-ok-bmm-new",
+        "title": "UBC — Bachelor + Master of Management Dual Degree",
+        "url": "https://management.ok.ubc.ca/academic-programs/bachelor-master-of-management-dual-degree/",
+        "checked_at": "2026-09-13",
+        "sha256": "99e813972d8794b14d7ca276df89ad8a168d8cff19fed916310f2934764f65bb"
+      },
+      {
+        "id": "UBCS-dual-ca9b1256fa1e",
+        "title": "UBC — Dual Degree Program Option: Bachelor of Management and Master of Management",
+        "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-management-program-students-who-entered-program-20252026-or-earlier/dual-degree-program-option-bachelor-management-and-master-management",
+        "checked_at": "2026-09-13",
+        "sha256": "fc80959c4cd8a24948322debd923dc58fd81926a32f799d587dfa78c658f6d28"
+      }
+    ]
+  },
+  {
+    "id": "ubc-combined-majors-in-statistics-86d167c371",
+    "university_id": "ubc",
+    "name_en": "Combined Majors in Statistics",
+    "reason": "旧页面汇总多个实际授位或校区，现已按具体专业分别收录，请选择下列入口。BA/BSc聚合招生页；真实授位与联合major/honours分别列出。",
+    "checked_at": "2026-09-13",
+    "replacement_inventory_ids": [
+      "ubc-computer-science-and-statistics-5c1742480f",
+      "ubc-statistics-and-economics-9268250d9c",
+      "ubc-economics-and-statistics-1c7a3be859",
+      "ubc-mathematics-and-statistics-combined-honours-269331a33b",
+      "ubc-mathematical-sciences-eedbe5054e",
+      "ubc-statistics-7ccc5e803b"
+    ],
+    "sources": [
+      {
+        "id": "UBCS-you-161502",
+        "title": "UBC — Browse:",
+        "url": "https://you.ubc.ca/programs/statistics-combined-majors/",
+        "checked_at": "2026-09-13",
+        "sha256": "77d0c6d7b2f829d01d1cf9571445787763fb106e9e1dc825d6a0d64b6de70fa3"
+      },
+      {
+        "id": "UBCS-vancouver-428fd3df348e",
+        "title": "UBC — Statistics",
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/statistics",
+        "checked_at": "2026-09-13",
+        "sha256": "25641b811ce60c5bbb87fac85a6e4eaa0a143947c6f46882628e90718f67df79"
+      },
+      {
+        "id": "UBCS-vancouver-562cf498153f",
+        "title": "UBC — Bachelor of Arts in Economics",
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics",
+        "checked_at": "2026-09-13",
+        "sha256": "f26762ccf76a62d27b9610ab7a1d35a79c1b37d556a975671e5e0ca682dc9764"
+      }
+    ]
   }
 ]

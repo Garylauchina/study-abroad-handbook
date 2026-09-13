@@ -134,7 +134,7 @@ hide:
 - [官方项目页面或项目所在目录](https://catalog.illinois.edu/undergraduate/bus/finance-data-science-bs/)
 - [官方目录](https://catalog.illinois.edu/undergraduate/)
 
-<div class="catalog-source" id="source-p-UIUC-277d432a29be2f31"><div><a href="https://catalog.illinois.edu/undergraduate/bus/finance-data-science-bs/">Finance + Data Science, BS  | 2026-2027 Course Catalog | University of Illinois Urbana-Champaign ↗</a><p>课程内容与结构；学制与课程安排；毕业总学分</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UIUC-277d432a29be2f31"><div><a href="https://catalog.illinois.edu/undergraduate/bus/finance-data-science-bs/">Finance + Data Science, BS | 2026-2027 Course Catalog | University of Illinois Urbana-Champaign ↗</a><p>课程内容与结构；学制与课程安排；毕业总学分</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UIUC-2900af367bf5e501"><div><a href="https://success2023.web.illinois.edu/24-25-horizontal-report">24-25-horizontal-report | Illini Success | Illinois ↗</a><p>毕业调查范围；专业统计与薪资的限制</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UIUC-711599994ad7747e"><div><a href="https://giesbusiness.illinois.edu/apply/admissions">Undergraduate Admissions | Gies College of Business | U of I ↗</a><p>商学院共同新生入口</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UIUC-8c8ca1d1d46d43dd"><div><a href="https://illinisuccess.illinois.edu/about-us/methods">Methods | Illini Success | Illinois ↗</a><p>毕业调查范围；专业统计与薪资的限制</p><small>核验 2026-09-13</small></div></div>

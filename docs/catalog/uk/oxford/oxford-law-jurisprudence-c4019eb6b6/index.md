@@ -48,6 +48,12 @@ hide:
 <p class="catalog-fact"><strong>学制与授予：</strong>官网列明 3 或 4 年；授予 BA in Jurisprudence。同页多个学位或路线不表示同时取得全部学位。</p>
 <p class="fact-sources"><a href="#source-p-OXG-C033">官方依据</a></p>
 
+<p class="catalog-fact"><strong>课程层次与入口说明：</strong>母条目兼有标准入口和路线分组功能；标准入口已存在，不额外重复新增。</p>
+<p class="fact-sources"><a href="#source-p-OXS-C033">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程层次与入口说明：</strong>新增 M100 entry point 2 的 Senior Status BA，须已有大学学位，不能按普通一年级或 BCL 研究生身份替代。新增记录已隔离共用新生招生、申请、费用、就业规则。</p>
+<p class="fact-sources"><a href="#source-p-OXS-C033">官方依据</a> · <a href="#source-p-OXS-LAW-SENIOR">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 <p class="catalog-fact"><strong>2027学历等级：</strong>A-level通常为AAA。IB总分38（含核心加分），HL 6/6/6；指定科目及例外见下条。这些是相应资格体系的要求，不能直接折算为高考分数。</p>
@@ -108,12 +114,14 @@ hide:
 
 ## 官方来源与核验记录 {#sources}
 
-目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
+目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
 
 - [官方项目页面或项目所在目录](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/law-jurisprudence)
 - [官方目录](https://www.ox.ac.uk/admissions/undergraduate/courses/undergraduate-course-listing-a-z)
 
 <div class="catalog-source" id="source-p-OXG-C033"><div><a href="https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/law-jurisprudence">Law (Jurisprudence) — Oxford 2027 undergraduate course ↗</a><p>课程内容、学历与科目、招生测试/材料/日期、2027费用及职业方向</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-OXS-C033"><div><a href="https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/law-jurisprudence">Law (Jurisprudence) — Oxford 2027 undergraduate course ↗</a><p>该课程组的具名路线与代码、课程结构、相应申请条件、2027海外年度费用和职业方向；具体定位另列</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-OXS-LAW-SENIOR"><div><a href="https://www.law.ox.ac.uk/content/course/ba-jurisprudence-senior-status">BA in Jurisprudence with Senior Status | Faculty of Law ↗</a><p>Senior Status 正式本科身份与既有学位要求</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-9ca54d07a0bc53"><div><a href="https://www.ox.ac.uk/admissions/undergraduate/courses/admissions-requirements/international-qualifications">Oxford 国际学历：中国条目 ↗</a><p>不接受高考或普通高中毕业证</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-f5da9307fd5b4a"><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS 2026／2027申请日历 ↗</a><p>2027申请提交、牛剑和医学早截止、常规平等审理截止</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-OXG-English"><div><a href="https://www.ox.ac.uk/admissions/undergraduate/applying/for-international-students/english-language-requirements-visas">Oxford 英语语言要求 ↗</a><p>较高英语标准、IELTS、TOEFL版本限制与豁免</p><small>核验 2026-09-12</small></div></div>

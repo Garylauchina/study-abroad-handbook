@@ -6,7 +6,7 @@
       "raw_key": "6c6d0a36-9f6c-40bc-ad86-4d002041731e",
       "name_en": "Accounting & Finance BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -24,16 +24,37 @@
               "UKENR-e8d43fb3b0df31"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "培养内容与路径",
+            "text": "第一年八门各15学分，含财务报告、管理会计、金融、经济、编程及数理统计。第二年四门必修各15学分，另选四门；最后一年必修会计与组织、进阶公司金融，并修选修课。官网写最后一年“六门15学分”，但选项中也有30学分项目，具体组合仍须按学院批准计划执行。第二年语言栏标题说不计学分而正文说可修额外学分，并另列5学分Business Accelerator，不自行把这些都加成必修总量。",
+            "source_ids": [
+              "KCLR-9b4b81ea43fa8ad2"
+            ]
           }
         ],
         "admissions": [
           {
-            "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "label": "2027标准资格与先修科目",
+            "text": "A-level A*AA；数学A；IB数学AA或AI的HL须6。IB要求总分38或三门HL合计19，总分含TOK/EE；总分与HL总和为官网列出的两种口径，仍须满足指定科目。Contextual优惠须另符资格，不自动适用于所有中国申请者。",
             "source_ids": [
-              "UKENR-e8d43fb3b0df31"
-            ],
-            "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+              "KCLR-f17b6f6627eb9070"
+            ]
+          },
+          {
+            "label": "预科及转学边界",
+            "text": "本课程不接受转入。英国境内其他机构预科按课程内容个案评估，不接受非英国预科，也不接受嵌在另一所学校本科学位中的Year 0/Integrated Foundation；中国普高或高考的具体等值门槛本轮尚未取得。",
+            "source_ids": [
+              "KCLR-f17b6f6627eb9070"
+            ]
+          },
+          {
+            "label": "英语Band与适用年度",
+            "text": "本课程要求Band B。已取得的共用英语页明确适用2026/27，参考门槛为IELTS Academic总分7.0、各项6.5；2026年1月21日起TOEFL总分5、各项4.5；考试须在开课月份首日之前两年内且单次满足，不接受MyBest或IELTS One Skill。2027入学仍须核录取通知和更新政策。",
+            "source_ids": [
+              "KCLR-f17b6f6627eb9070",
+              "KCLR-2f493d3979db93dc"
+            ]
           }
         ],
         "applications": [
@@ -46,8 +67,31 @@
             "extraction_locator": "public SSR routing.entry.ucasCode"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "学费报价核验范围",
+            "text": "已取得专业费用页，但主要国际学费数字的适用年度、计费单位未在当前可见正文中完整闭合，暂不据此给出2027年度报价。书本、打印、文具、毕业和伦敦/跨校区交通等可能另付；并非都包含在学费中。",
+            "source_ids": [
+              "KCLR-a9eac9fd5ad25db5"
+            ]
+          },
+          {
+            "label": "一学期海外学习",
+            "text": "官网说明在合作院校海外学习一学期时，国际学生该学年仍向KCL支付年度学费的三分之二，合作校通常不再收学费但可能有申请行政费。食宿、旅行及签证等另付；具体适用年度仍须确认。",
+            "source_ids": [
+              "KCLR-a9eac9fd5ad25db5"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "实际披露的毕业与职业信息",
+            "text": "专业页说明可使用商学院职业团队、雇主活动、申请反馈和实习/实践支持；这属于就业服务，未提供本专业具名届别、样本量、就业率或薪资。",
+            "source_ids": [
+              "KCLR-44b376e0b26e6249"
+            ]
+          }
+        ]
       },
       "sources": [
         {
@@ -58,14 +102,68 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "7d62d22f9f0b70d8aae8bfe462f4d9d222448b38b3323bcd66cd050df05df559",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLR-9b4b81ea43fa8ad2",
+          "title": "Teaching & Modules - Accounting & Finance BSc",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/teaching",
+          "checked_at": "2026-09-13",
+          "sha256": "9b4b81ea43fa8ad23ea059c6d9e393c4619f2f29a56b7f4ab82fde5168a5a4f4",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; public course year 1–4 module lists",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-f17b6f6627eb9070",
+          "title": "Accounting & Finance - Entry Requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "f17b6f6627eb90702429a0e02daf61bf822a73ed750638476d755f650b92f2cc",
+          "capture_format": "public_html",
+          "locator": "A-level; requiredSubjects; International Baccalaureate; contextual entry",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-2f493d3979db93dc",
+          "title": "King’s Undergraduate English language requirements — 2026/27",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "2f493d3979db93dc1b3793e055bdde787674d9d1cf572e9f7c8f916f162492ec",
+          "capture_format": "public_html",
+          "locator": "English language tests > 2026/27; Band B",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-a9eac9fd5ad25db5",
+          "title": "Accounting & Finance - Fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "a9eac9fd5ad25db55d277a491ef6d24208407f2f7967d5a5cfc2da012daabc4b",
+          "capture_format": "public_html",
+          "locator": "Fees and funding > Additional costs; fee period/unit unresolved",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-44b376e0b26e6249",
+          "title": "Accounting & Finance - Careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "44b376e0b26e6249b0ce45e9832f77552be6c42511362e839a483c7978605255",
+          "capture_format": "public_html",
+          "locator": "Careers page > destinations / employability / careers support",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本轮已获取的专业栏逐条引用；未取得的2027中国学历等值、学费年度或毕业样本保持空缺。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "A-level A*AA；数学A；IB数学AA或AI的HL须6；IB及路径限制见正文",
+        "intake": "2027年9月；各类申请窗口见正文",
+        "name": "会计与金融（BSc）",
+        "tuition_summary": "2027费用年度及单位尚待核实",
+        "outcomes_summary": "已核职业说明；专属届别、就业率和薪资仍缺"
       },
       "coverage": {
         "overview": true,
@@ -75,7 +173,7 @@
         "outcomes": false
       },
       "detail_payload_acquired": true,
-      "research_status": "partially_enriched",
+      "research_status": "program_researched",
       "substantive_coverage": {
         "course_content": false,
         "entry_conditions": true,
@@ -84,14 +182,15 @@
         "outcome_statistics": false
       },
       "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "kcl-accounting-finance-bsc-6ba70712d3"
+      "inventory_id": "kcl-accounting-finance-bsc-6ba70712d3",
+      "degree_label": "BSc"
     },
     {
       "university_id": "kcl",
       "raw_key": "d7f30111-74e6-4ea4-9242-36120103674b",
       "name_en": "Accounting & Finance with Year in Industry BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -109,6 +208,13 @@
               "UKENR-bb4b809cc5b4ed"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "培养内容与路径",
+            "text": "课程主线为会计、金融、统计和编程；第二年四门必修加四门选修，第四年回校完成高级课程。第三年行业实践为120学分、按通过/不通过评定；学生必须自行取得岗位并满足资格，学校提供支持但不保证岗位，可经批准转回三年制。官网第一年七门15学分加经济学30学分合计135，与普通三年制经济学15学分不同；不得自行改成120。最后一年“六门15学分”的选项表仍含30学分课，须确认组合。",
+            "source_ids": [
+              "KCLR-b51584511f193204"
+            ]
           }
         ],
         "admissions": [
@@ -131,8 +237,31 @@
             "extraction_locator": "public SSR routing.entry.ucasCode"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "学费报价核验范围",
+            "text": "已取得专业费用页，但主要国际学费数字的适用年度、计费单位未在当前可见正文中完整闭合，暂不据此给出2027年度报价。书本、打印、文具、毕业和伦敦/跨校区交通等可能另付；并非都包含在学费中。",
+            "source_ids": [
+              "KCLR-53d9f2ebb7b41a5c"
+            ]
+          },
+          {
+            "label": "实践年费用",
+            "text": "国际学生实践年按标准学费的三分之一收费，另计旅行、住宿和生活。官网26/27英国本地生上限在两个字段分别写1,958和1,955英镑且27/28未定；本条不将该本地上限套给国际学生。",
+            "source_ids": [
+              "KCLR-53d9f2ebb7b41a5c"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "实际披露的毕业与职业信息",
+            "text": "专业页说明可使用商学院职业团队、雇主活动、申请反馈和实习/实践支持；这属于就业服务，未提供本专业具名届别、样本量、就业率或薪资。",
+            "source_ids": [
+              "KCLR-bcc696543aba9d40"
+            ]
+          }
+        ]
       },
       "sources": [
         {
@@ -143,14 +272,49 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "4920518ff6daaf9e52a4774c120d691d0544596bc7e3676e615259c35dbd3d58",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLR-b51584511f193204",
+          "title": "Teaching & Modules - Accounting & Finance with Year in Industry BSc",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/teaching",
+          "checked_at": "2026-09-13",
+          "sha256": "b51584511f1932043f7e359a9e46b91871013a13e68fb1682accb1fed0774b39",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; public course year 1–4 module lists",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-53d9f2ebb7b41a5c",
+          "title": "Accounting & Finance with Year in Industry - Fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "53d9f2ebb7b41a5c40dd0cb0dd69db708dcb58582d1bee7c24653f5b3cdd403c",
+          "capture_format": "public_html",
+          "locator": "Fees and funding > Additional costs; fee period/unit unresolved",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-bcc696543aba9d40",
+          "title": "Accounting & Finance with Year in Industry - Careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "bcc696543aba9d407885ba4e90b18230f8df34dad6b7708bd5d2f2fdc1fdc565",
+          "capture_format": "public_html",
+          "locator": "Careers page > destinations / employability / careers support",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "2027 requirements独立标签本轮返回404；保留原课程页总成绩，但未把三年制的专属入学科目套给本四年路径。",
+        "本轮已获取的专业栏逐条引用；未取得的2027中国学历等值、学费年度或毕业样本保持空缺。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "四年；全日制",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情",
+        "intake": "2027年9月；各类申请窗口见正文",
+        "name": "会计与金融（含行业实践年）",
+        "tuition_summary": "2027费用年度及单位尚待核实",
+        "outcomes_summary": "已核职业说明；专属届别、就业率和薪资仍缺"
       },
       "coverage": {
         "overview": true,
@@ -160,7 +324,7 @@
         "outcomes": false
       },
       "detail_payload_acquired": true,
-      "research_status": "partially_enriched",
+      "research_status": "program_researched",
       "substantive_coverage": {
         "course_content": false,
         "entry_conditions": true,
@@ -169,14 +333,15 @@
         "outcome_statistics": false
       },
       "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "kcl-accounting-finance-with-year-in-industry-bsc-a5c5206633"
+      "inventory_id": "kcl-accounting-finance-with-year-in-industry-bsc-a5c5206633",
+      "degree_label": "BSc"
     },
     {
       "university_id": "kcl",
       "raw_key": "eff39df9-d752-430a-932e-da67fe0fedac",
       "name_en": "Anatomy, Developmental & Human Biology BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -194,16 +359,44 @@
               "UKENR-c9b491d852f96a"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "培养内容与路径",
+            "text": "普通BSc共360学分，每年120。第一年八门基础涵盖解剖、发育、生化、细胞/神经、药理、生理、遗传及研究技能；第二年躯干与器官、胚胎、肌骨解剖三门必修共45学分，选修补足120。末年选一个研究项目并补足120，其中含项目在内至少45学分来自解剖系。第一年后可按生命科学共同基础年规则转换课程；海外学习插在第二、三年之间，需满足额外要求。",
+            "source_ids": [
+              "KCLR-6b415cb1165cecc3"
+            ]
           }
         ],
         "admissions": [
           {
-            "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "label": "2027标准资格与先修科目",
+            "text": "A-level AAA；生物和化学均A；IB生物、化学HL均须6。IB要求总分36或三门HL合计18，总分含TOK/EE；总分与HL总和为官网列出的两种口径，仍须满足指定科目。Contextual优惠须另符资格，不自动适用于所有中国申请者。",
             "source_ids": [
-              "UKENR-c9b491d852f96a"
-            ],
-            "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+              "KCLR-cb343a1b92069f76"
+            ]
+          },
+          {
+            "label": "预科及转学边界",
+            "text": "本课程不接受转入。英国境内其他机构预科按课程内容个案评估，不接受非英国预科，也不接受嵌在另一所学校本科学位中的Year 0/Integrated Foundation；中国普高或高考的具体等值门槛本轮尚未取得。",
+            "source_ids": [
+              "KCLR-cb343a1b92069f76"
+            ]
+          },
+          {
+            "label": "英语Band与适用年度",
+            "text": "本课程要求Band D。已取得的共用英语页明确适用2026/27，参考门槛为IELTS Academic总分6.5、各项6.0；2026年1月21日起TOEFL总分4.5、各项4；考试须在开课月份首日之前两年内且单次满足，不接受MyBest或IELTS One Skill。2027入学仍须核录取通知和更新政策。",
+            "source_ids": [
+              "KCLR-cb343a1b92069f76",
+              "KCLR-2f493d3979db93dc"
+            ]
+          },
+          {
+            "label": "医学申请者的第五志愿",
+            "text": "共同基础年项目允许以医学/牙医申请为主的个人陈述，不会仅因陈述侧重这两科而作不利评价。BSc本身不是医学执业资格，继续申请医学等须满足后续入口。",
+            "source_ids": [
+              "KCLR-cb343a1b92069f76"
+            ]
           }
         ],
         "applications": [
@@ -216,8 +409,24 @@
             "extraction_locator": "public SSR routing.entry.ucasCode"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "学费报价核验范围",
+            "text": "已取得专业费用页，但主要国际学费数字的适用年度、计费单位未在当前可见正文中完整闭合，暂不据此给出2027年度报价。书本、打印、文具、毕业和伦敦/跨校区交通等可能另付；并非都包含在学费中。",
+            "source_ids": [
+              "KCLR-dc36c253801ebf3e"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "实际披露的毕业与职业信息",
+            "text": "页面列举生命科学教育学院近期毕业生从事研究协调、实验室技术、科学传播、商业分析等，及继续攻读MSc/PhD、医学或牙医的路径。未给本专业单独届别、样本或比例；学院例子不能当成本专业就业率。",
+            "source_ids": [
+              "KCLR-426ebd812332f50a"
+            ]
+          }
+        ]
       },
       "sources": [
         {
@@ -228,14 +437,68 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "282fa16284c5d57b34411ff28866943446df0069b9b7c446d6ef625fdbdb3805",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLR-6b415cb1165cecc3",
+          "title": "Teaching & Modules - Anatomy BSc",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/teaching",
+          "checked_at": "2026-09-13",
+          "sha256": "6b415cb1165cecc3a7cd247c168d87d7e2cfcf99f99880cf9eb02b55dd28b274",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; public course year 1–4 module lists",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-cb343a1b92069f76",
+          "title": "Anatomy, Developmental & Human Biology - Entry Requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "cb343a1b92069f76a0348c413f21bd222e265ab04e35b67c87311c0475cb9e95",
+          "capture_format": "public_html",
+          "locator": "A-level; requiredSubjects; International Baccalaureate; contextual entry",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-2f493d3979db93dc",
+          "title": "King’s Undergraduate English language requirements — 2026/27",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "2f493d3979db93dc1b3793e055bdde787674d9d1cf572e9f7c8f916f162492ec",
+          "capture_format": "public_html",
+          "locator": "English language tests > 2026/27; Band D",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-dc36c253801ebf3e",
+          "title": "Anatomy, Developmental & Human Biology - Fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "dc36c253801ebf3e81a64bb18b3a1e5d3f876a4edecbea3626dcd05c08bfdd37",
+          "capture_format": "public_html",
+          "locator": "Fees and funding > Additional costs; fee period/unit unresolved",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-426ebd812332f50a",
+          "title": "Careers - Anatomy BSc",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "426ebd812332f50a32bdffeb3838a3f46083fb2d4c7af2e313be36a1e51ccf91",
+          "capture_format": "public_html",
+          "locator": "Careers page > destinations / employability / careers support",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本轮已获取的专业栏逐条引用；未取得的2027中国学历等值、学费年度或毕业样本保持空缺。"
       ],
       "display_fields": {
-        "duration": "3 年, or four 年 with a 年 abroad",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "duration": "3年；获准海外学习可4年",
+        "entry_summary": "A-level AAA；生物和化学均A；IB生物、化学HL均须6；IB及路径限制见正文",
+        "intake": "2027年9月；各类申请窗口见正文",
+        "name": "解剖学、发育与人体生物学（BSc）",
+        "tuition_summary": "2027费用年度及单位尚待核实",
+        "outcomes_summary": "已核职业说明；专属届别、就业率和薪资仍缺"
       },
       "coverage": {
         "overview": true,
@@ -245,7 +508,7 @@
         "outcomes": false
       },
       "detail_payload_acquired": true,
-      "research_status": "partially_enriched",
+      "research_status": "program_researched",
       "substantive_coverage": {
         "course_content": false,
         "entry_conditions": true,
@@ -254,14 +517,15 @@
         "outcome_statistics": false
       },
       "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "kcl-anatomy-developmental-human-biology-bsc-0e1f696c7e"
+      "inventory_id": "kcl-anatomy-developmental-human-biology-bsc-0e1f696c7e",
+      "degree_label": "BSc"
     },
     {
       "university_id": "kcl",
       "raw_key": "1f59f368-d120-49f1-9887-0fb308b877f8",
       "name_en": "Anatomy, Developmental & Human Biology iBSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -279,21 +543,65 @@
               "UKENR-52bd72dc782c09"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "培养内容与路径",
+            "text": "这是已有医学等在读基础后的插读本科，不是高中直入。全程120学分，须从45学分实验项目、15学分文献项目或30学分外科学/解剖数据项目中选一个，项目部分不超过45学分，其余以授课模块补齐。可选高级人体解剖、手术科学、衰老、生物力学等；本院其他模块最多30学分，院外模块最多15学分。",
+            "source_ids": [
+              "KCLR-f9dc1bd8cdaeedd3"
+            ]
           }
         ],
-        "admissions": [],
+        "admissions": [
+          {
+            "label": "医学等在读资格",
+            "text": "KCL医学学生须通过Stage 1和2；外校医学学生须通过前两年及全部SSC。英国牙医学生须通过第二年及适用的第三/四年，英国兽医须通过第二年及适用的第三年。英国以外仅接受与英国MBBS等值的医学在读者，不接受境外牙医/兽医；至少已学两年，并须在入学前成功完成当前学年。",
+            "source_ids": [
+              "KCLR-00f2131e36f65f09"
+            ]
+          },
+          {
+            "label": "国际课程与英语核验",
+            "text": "国际医学院课程须经学校确认与 KCL 医学课程等值；WFME 覆盖地区须符合官网链接的认可学校清单，否则由招生教师审核课程。国际申请者须满足 Band B，可按官网列明的国籍、当前医学课程全英文授课且考试的大学正式证明，或认可英语考试／资格等途径审核。就读于英国及爱尔兰以外院校、并需要 Student Visa 的外部插读申请者，入学前必须提供大学出具的全英文授课及考试证明，或有效的 Band B 达标证据；申请时未备齐者若获 offer，可被列为入学条件。",
+            "source_ids": [
+              "KCLR-00f2131e36f65f09"
+            ]
+          }
+        ],
         "applications": [
           {
-            "label": "UCAS代码",
-            "text": "Not applicable. Intercalated programme.；课程申请开放状态及截止须再核。",
+            "label": "2027插读专用截止",
+            "text": "KCL内部学生截止2027年1月18日，外部学生截止2027年3月31日；内部申请细节见KEATS，外部走插读专门说明，不套普通高中UCAS日期。",
             "source_ids": [
-              "UKENR-52bd72dc782c09"
-            ],
-            "extraction_locator": "public SSR routing.entry.ucasCode"
+              "KCLR-00f2131e36f65f09"
+            ]
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "学费报价核验范围",
+            "text": "已取得专业费用页，但主要国际学费数字的适用年度、计费单位未在当前可见正文中完整闭合，暂不据此给出2027年度报价。书本、打印、文具、毕业和伦敦/跨校区交通等可能另付；并非都包含在学费中。",
+            "source_ids": [
+              "KCLR-71492aeba694c72b"
+            ]
+          },
+          {
+            "label": "插读押金",
+            "text": "该插读专业费用页明确不要求押金；这不等于免学费，2027国际学费报价仍待确认。",
+            "source_ids": [
+              "KCLR-71492aeba694c72b"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "实际披露的毕业与职业信息",
+            "text": "本插读页说明解剖学训练、研究能力及继续MSc/PhD等可能性，并引用生命科学教育学院毕业生案例；未披露该一年iBSc的独立届别、样本、就业率或薪资。",
+            "source_ids": [
+              "KCLR-2228083d83ab4744"
+            ]
+          }
+        ]
       },
       "sources": [
         {
@@ -304,13 +612,58 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "d1aa674e2604ba997caa1a7da4562d2915f657ae6b16db936e5c10f01f679a86",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLR-f9dc1bd8cdaeedd3",
+          "title": "Teaching & Modules - Anatomy, Developmental & Human Biology iBSc",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/teaching",
+          "checked_at": "2026-09-13",
+          "sha256": "f9dc1bd8cdaeedd3d41a68a7076e2fce2f6d428635402956314a7632d3012cf3",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; public course year 1–4 module lists",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-71492aeba694c72b",
+          "title": "Anatomy, Developmental & Human Biology iBSc - Fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "71492aeba694c72b3308a1544fd2a07ba0e5093d8969e9bdfb40d06860cecb08",
+          "capture_format": "public_html",
+          "locator": "Fees and funding > Additional costs; fee period/unit unresolved",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-2228083d83ab4744",
+          "title": "Careers - Anatomy, Developmental & Human Biology iBSc",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "2228083d83ab474404a00b696d6bcbfed78be4f8a19a01446fff331e21bbf138",
+          "capture_format": "public_html",
+          "locator": "Careers page > destinations / employability / careers support",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-00f2131e36f65f09",
+          "title": "Anatomy, Developmental & Human Biology - Entry Requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "00f2131e36f65f09700bcac20d4ed1778292931ef1d934b34298b379baed6362",
+          "capture_format": "public_html",
+          "locator": "Other requirements > Entry requirements; International applications",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本轮已获取的专业栏逐条引用；未取得的2027中国学历等值、学费年度或毕业样本保持空缺。"
       ],
       "display_fields": {
-        "duration": "1 年"
+        "duration": "1年；全日制插读",
+        "intake": "2027年9月；内申1月18日、外申3月31日",
+        "name": "解剖学、发育与人体生物学（医学插读iBSc）",
+        "tuition_summary": "2027费用年度及单位尚待核实",
+        "outcomes_summary": "已核职业说明；专属届别、就业率和薪资仍缺",
+        "entry_summary": "已有至少两年等值医学课程；境外牙医/兽医不适用"
       },
       "coverage": {
         "overview": true,
@@ -320,7 +673,7 @@
         "outcomes": false
       },
       "detail_payload_acquired": true,
-      "research_status": "partially_enriched",
+      "research_status": "program_researched",
       "substantive_coverage": {
         "course_content": false,
         "entry_conditions": false,
@@ -329,14 +682,20 @@
         "outcome_statistics": false
       },
       "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "kcl-anatomy-developmental-human-biology-ibsc-3f696c97c5"
+      "inventory_id": "kcl-anatomy-developmental-human-biology-ibsc-3f696c97c5",
+      "degree_label": "iBSc",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ]
     },
     {
       "university_id": "kcl",
       "raw_key": "f3f463ef-b0ce-48fb-8697-cf22845bf2a2",
       "name_en": "Ancient History BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -358,12 +717,26 @@
         ],
         "admissions": [
           {
-            "label": "A-level概览",
-            "text": "AAB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "label": "2027标准资格与先修科目",
+            "text": "A-level AAB；不设必修科目；古典文明、古代史或历史只是偏好。IB要求总分35或三门HL合计17，总分含TOK/EE；总分与HL总和为官网列出的两种口径，仍须满足指定科目。Contextual优惠须另符资格，不自动适用于所有中国申请者。",
             "source_ids": [
-              "UKENR-5f1926d612c352"
-            ],
-            "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+              "KCLR-48b9214a7e553ee5"
+            ]
+          },
+          {
+            "label": "预科及转学边界",
+            "text": "本课程可考虑转入二年级的申请，须另按 King’s 转学要求审核；不等于保证录取或允许其他年级转入。英国境内其他机构预科按课程内容个案评估，不接受非英国预科，也不接受嵌在另一所学校本科学位中的 Year 0/Integrated Foundation；中国普高或高考的具体等值门槛本轮尚未取得。",
+            "source_ids": [
+              "KCLR-48b9214a7e553ee5"
+            ]
+          },
+          {
+            "label": "英语Band与适用年度",
+            "text": "本课程要求Band B。已取得的共用英语页明确适用2026/27，参考门槛为IELTS Academic总分7.0、各项6.5；2026年1月21日起TOEFL总分5、各项4.5；考试须在开课月份首日之前两年内且单次满足，不接受MyBest或IELTS One Skill。2027入学仍须核录取通知和更新政策。",
+            "source_ids": [
+              "KCLR-48b9214a7e553ee5",
+              "KCLR-2f493d3979db93dc"
+            ]
           }
         ],
         "applications": [
@@ -376,8 +749,24 @@
             "extraction_locator": "public SSR routing.entry.ucasCode"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "学费报价核验范围",
+            "text": "已取得专业费用页，但主要国际学费数字的适用年度、计费单位未在当前可见正文中完整闭合，暂不据此给出2027年度报价。书本、打印、文具、毕业和伦敦/跨校区交通等可能另付；并非都包含在学费中。",
+            "source_ids": [
+              "KCLR-660f560b6e8ba6f9"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "实际披露的毕业与职业信息",
+            "text": "古代史专业页列毕业生进入法律、银行、公务、信息技术、教育、文化遗产、传媒等领域，亦有继续读研者；没有可计算比例的届别或分母，不把这些行业名单写成就业保障。",
+            "source_ids": [
+              "KCLR-024a707676645ff5"
+            ]
+          }
+        ]
       },
       "sources": [
         {
@@ -388,14 +777,58 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "4a1b5388bd2647b0df9f0093feaeb449fe03fb0b180ef9dcaeacedf67cc96540",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLR-48b9214a7e553ee5",
+          "title": "Ancient History - Entry Requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "48b9214a7e553ee547d60a385d73ade49d363c67075a59a63fd19561d2e3947b",
+          "capture_format": "public_html",
+          "locator": "A-level; requiredSubjects; International Baccalaureate; contextual entry",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-2f493d3979db93dc",
+          "title": "King’s Undergraduate English language requirements — 2026/27",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "2f493d3979db93dc1b3793e055bdde787674d9d1cf572e9f7c8f916f162492ec",
+          "capture_format": "public_html",
+          "locator": "English language tests > 2026/27; Band B",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-660f560b6e8ba6f9",
+          "title": "Fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "660f560b6e8ba6f9deffc3403193f3cb75872fdd17038a4d06291e50353478a9",
+          "capture_format": "public_html",
+          "locator": "Fees and funding > Additional costs; fee period/unit unresolved",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-024a707676645ff5",
+          "title": "Careers - Ancient History BA",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "024a707676645ff5cfc3f18a7a8f637141fd5069709bb964172686e66985c279",
+          "capture_format": "public_html",
+          "locator": "Careers page > destinations / employability / careers support",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本轮已获取的专业栏逐条引用；未取得的2027中国学历等值、学费年度或毕业样本保持空缺。"
       ],
       "display_fields": {
         "duration": "3 年",
-        "entry_summary": "A-level AAB；其他科目/考试见详情"
+        "entry_summary": "A-level AAB；不设必修科目；古典文明、古代史或历史只是偏好；IB及路径限制见正文",
+        "intake": "2027年9月；各类申请窗口见正文",
+        "tuition_summary": "2027费用年度及单位尚待核实",
+        "outcomes_summary": "已核职业说明；专属届别、就业率和薪资仍缺",
+        "name": "古代史（BA）"
       },
       "coverage": {
         "overview": true,
@@ -405,7 +838,7 @@
         "outcomes": false
       },
       "detail_payload_acquired": true,
-      "research_status": "partially_enriched",
+      "research_status": "program_researched",
       "substantive_coverage": {
         "course_content": false,
         "entry_conditions": true,
@@ -414,14 +847,15 @@
         "outcome_statistics": false
       },
       "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "kcl-ancient-history-ba-8d67327bd1"
+      "inventory_id": "kcl-ancient-history-ba-8d67327bd1",
+      "degree_label": "BA"
     },
     {
       "university_id": "kcl",
       "raw_key": "34bf48aa-fa5e-411e-926b-f6e340f35a03",
       "name_en": "Artificial Intelligence MSci",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -439,16 +873,37 @@
               "UKENR-677f5066844032"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "培养内容与路径",
+            "text": "全程480学分。前三年依次学习编程/数理/机器人基础、团队项目/机器学习/知识工程，以及个人项目、自然语言处理、计算机视觉和选修。第四年表列团队项目30学分“或”Artificial Intelligence (Research) 0学分，另有安全与隐私15和选修75；选择0学分项目时表内分项不能直接凑成120，须向学院确认研究路线，本站不把0擅改为30。主要在Strand，部分讲座和实践在Waterloo，具体模块地点可变。",
+            "source_ids": [
+              "KCLR-720288b7dd47762d"
+            ]
           }
         ],
         "admissions": [
           {
-            "label": "A-level概览",
-            "text": "A*A*A；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "label": "2027标准资格与先修科目",
+            "text": "A-level A*A*A；数学或进阶数学A；IB须数学AA的HL6。IB要求总分39或三门HL合计20，总分含TOK/EE；总分与HL总和为官网列出的两种口径，仍须满足指定科目。Contextual优惠须另符资格，不自动适用于所有中国申请者。",
             "source_ids": [
-              "UKENR-677f5066844032"
-            ],
-            "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+              "KCLR-ed927032ff4638f4"
+            ]
+          },
+          {
+            "label": "预科及转学边界",
+            "text": "本课程不接受转入。英国境内其他机构预科按课程内容个案评估，不接受非英国预科，也不接受嵌在另一所学校本科学位中的Year 0/Integrated Foundation；中国普高或高考的具体等值门槛本轮尚未取得。",
+            "source_ids": [
+              "KCLR-ed927032ff4638f4"
+            ]
+          },
+          {
+            "label": "英语Band与适用年度",
+            "text": "本课程要求Band D。已取得的共用英语页明确适用2026/27，参考门槛为IELTS Academic总分6.5、各项6.0；2026年1月21日起TOEFL总分4.5、各项4；考试须在开课月份首日之前两年内且单次满足，不接受MyBest或IELTS One Skill。2027入学仍须核录取通知和更新政策。",
+            "source_ids": [
+              "KCLR-ed927032ff4638f4",
+              "KCLR-2f493d3979db93dc"
+            ]
           }
         ],
         "applications": [
@@ -473,14 +928,46 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "601c3882ea8eee5c40b8c6597efefbe5cf91786f4cc16de9fb7aefb4d2114482",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLR-720288b7dd47762d",
+          "title": "Teaching & Modules artificial intelligence msci",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/teaching",
+          "checked_at": "2026-09-13",
+          "sha256": "720288b7dd47762dbae2778fee702c2f91ea0f51b080a48dc1feb76a5f54bfb1",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; public course year 1–4 module lists",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-ed927032ff4638f4",
+          "title": "Artificial Intelligence - Entry Requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "ed927032ff4638f454267e5f95bce7b16aa035a3aeab0cc19b395969e1e42f04",
+          "capture_format": "public_html",
+          "locator": "A-level; requiredSubjects; International Baccalaureate; contextual entry",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-2f493d3979db93dc",
+          "title": "King’s Undergraduate English language requirements — 2026/27",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "2f493d3979db93dc1b3793e055bdde787674d9d1cf572e9f7c8f916f162492ec",
+          "capture_format": "public_html",
+          "locator": "English language tests > 2026/27; Band D",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本轮已获取的专业栏逐条引用；未取得的2027中国学历等值、学费年度或毕业样本保持空缺。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level A*A*A；其他科目/考试见详情"
+        "duration": "4年；全日制本科入口一贯制硕士",
+        "entry_summary": "A-level A*A*A；数学或进阶数学A；IB须数学AA的HL6；IB及路径限制见正文",
+        "intake": "2027年9月；各类申请窗口见正文",
+        "name": "人工智能（MSci）"
       },
       "coverage": {
         "overview": true,
@@ -490,7 +977,7 @@
         "outcomes": false
       },
       "detail_payload_acquired": true,
-      "research_status": "partially_enriched",
+      "research_status": "program_researched",
       "substantive_coverage": {
         "course_content": false,
         "entry_conditions": true,
@@ -499,14 +986,15 @@
         "outcome_statistics": false
       },
       "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "kcl-artificial-intelligence-msci-780bef0a10"
+      "inventory_id": "kcl-artificial-intelligence-msci-780bef0a10",
+      "degree_label": "MSci"
     },
     {
       "university_id": "kcl",
       "raw_key": "ef820d69-edb9-49b6-8178-aa096c12c361",
       "name_en": "Artificial Intelligence BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -524,16 +1012,37 @@
               "UKENR-b3cc1a085cb04f"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "培养内容与路径",
+            "text": "普通BSc共360学分，海外学习路径480。第一年包括编程30、数理统计30及四门15学分基础；第二年AI/机器人团队项目30、机器学习30及云计算、计算理论、知识工程、数据科学各15。第三年个人项目30、自然语言处理15、高级计算机视觉15，另选60学分。获准转入海外学习路径者第三年修海外120学分、第四年完成原三年级课程；不能把海外路径当作另一个硕士学位。",
+            "source_ids": [
+              "KCLR-533c7252862b0c98"
+            ]
           }
         ],
         "admissions": [
           {
-            "label": "A-level概览",
-            "text": "A*A*A；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "label": "2027标准资格与先修科目",
+            "text": "A-level A*A*A；数学或进阶数学A；IB须数学AA的HL6。IB要求总分39或三门HL合计20，总分含TOK/EE；总分与HL总和为官网列出的两种口径，仍须满足指定科目。Contextual优惠须另符资格，不自动适用于所有中国申请者。",
             "source_ids": [
-              "UKENR-b3cc1a085cb04f"
-            ],
-            "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+              "KCLR-f156ee2b54cbb430"
+            ]
+          },
+          {
+            "label": "预科及转学边界",
+            "text": "本课程不接受转入。英国境内其他机构预科按课程内容个案评估，不接受非英国预科，也不接受嵌在另一所学校本科学位中的Year 0/Integrated Foundation；中国普高或高考的具体等值门槛本轮尚未取得。",
+            "source_ids": [
+              "KCLR-f156ee2b54cbb430"
+            ]
+          },
+          {
+            "label": "英语Band与适用年度",
+            "text": "本课程要求Band D。已取得的共用英语页明确适用2026/27，参考门槛为IELTS Academic总分6.5、各项6.0；2026年1月21日起TOEFL总分4.5、各项4；考试须在开课月份首日之前两年内且单次满足，不接受MyBest或IELTS One Skill。2027入学仍须核录取通知和更新政策。",
+            "source_ids": [
+              "KCLR-f156ee2b54cbb430",
+              "KCLR-2f493d3979db93dc"
+            ]
           }
         ],
         "applications": [
@@ -546,8 +1055,24 @@
             "extraction_locator": "public SSR routing.entry.ucasCode"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "学费报价核验范围",
+            "text": "已取得专业费用页，但主要国际学费数字的适用年度、计费单位未在当前可见正文中完整闭合，暂不据此给出2027年度报价。书本、打印、文具、毕业和伦敦/跨校区交通等可能另付；并非都包含在学费中。",
+            "source_ids": [
+              "KCLR-ab07a9e74324a1db"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "实际披露的毕业与职业信息",
+            "text": "专业页列数据科学、云AI、机器人、知识图谱、自然语言处理及算法责任等岗位，并称近期毕业生进入相关角色，但未列届别、公司样本量或比例；不能据此计算就业率或工资。",
+            "source_ids": [
+              "KCLR-9111f62ee405c5d5"
+            ]
+          }
+        ]
       },
       "sources": [
         {
@@ -558,14 +1083,68 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "7613de2f4e211f37a230926261d0304f012e09e2ec7f20d9f49110b25a30a68b",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLR-533c7252862b0c98",
+          "title": "Teaching & Modules artificial intelligence bsc",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/teaching",
+          "checked_at": "2026-09-13",
+          "sha256": "533c7252862b0c985ba9123368c62abecf627361bb4498e8299d5b8841e7439f",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; public course year 1–4 module lists",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-f156ee2b54cbb430",
+          "title": "Artificial Intelligence - Entry Requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "f156ee2b54cbb430ab9b46f0b998e13904de1b08f136adf2d54e7d9b41f578a2",
+          "capture_format": "public_html",
+          "locator": "A-level; requiredSubjects; International Baccalaureate; contextual entry",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-2f493d3979db93dc",
+          "title": "King’s Undergraduate English language requirements — 2026/27",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "2f493d3979db93dc1b3793e055bdde787674d9d1cf572e9f7c8f916f162492ec",
+          "capture_format": "public_html",
+          "locator": "English language tests > 2026/27; Band D",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-ab07a9e74324a1db",
+          "title": "Artificial Intelligence - Fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "ab07a9e74324a1dbe3e8620236b4bcb043f01110b15df2f2c988d27ed3231b64",
+          "capture_format": "public_html",
+          "locator": "Fees and funding > Additional costs; fee period/unit unresolved",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-9111f62ee405c5d5",
+          "title": "Careers - artificial intelligence bsc",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "9111f62ee405c5d5f86faad280d3ec67ed278209840748bb85097a7c682ae6e8",
+          "capture_format": "public_html",
+          "locator": "Careers page > destinations / employability / careers support",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本轮已获取的专业栏逐条引用；未取得的2027中国学历等值、学费年度或毕业样本保持空缺。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level A*A*A；其他科目/考试见详情"
+        "duration": "3年；海外学习路径4年",
+        "entry_summary": "A-level A*A*A；数学或进阶数学A；IB须数学AA的HL6；IB及路径限制见正文",
+        "intake": "2027年9月；各类申请窗口见正文",
+        "name": "人工智能（BSc）",
+        "tuition_summary": "2027费用年度及单位尚待核实",
+        "outcomes_summary": "已核职业说明；专属届别、就业率和薪资仍缺"
       },
       "coverage": {
         "overview": true,
@@ -575,7 +1154,7 @@
         "outcomes": false
       },
       "detail_payload_acquired": true,
-      "research_status": "partially_enriched",
+      "research_status": "program_researched",
       "substantive_coverage": {
         "course_content": false,
         "entry_conditions": true,
@@ -584,14 +1163,15 @@
         "outcome_statistics": false
       },
       "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "kcl-artificial-intelligence-bsc-c547ca82eb"
+      "inventory_id": "kcl-artificial-intelligence-bsc-c547ca82eb",
+      "degree_label": "BSc"
     },
     {
       "university_id": "kcl",
       "raw_key": "1609e083-dfc5-455c-be82-e2c05945362f",
       "name_en": "Artificial Intelligence & Philosophy BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -613,12 +1193,26 @@
         ],
         "admissions": [
           {
-            "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "label": "2027标准资格与先修科目",
+            "text": "A-level AAA；数学或进阶数学A；IB须数学AA的HL6。IB要求总分36或三门HL合计18，总分含TOK/EE；总分与HL总和为官网列出的两种口径，仍须满足指定科目。Contextual优惠须另符资格，不自动适用于所有中国申请者。",
             "source_ids": [
-              "UKENR-51f527aec39760"
-            ],
-            "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+              "KCLR-3f885dbac4588850"
+            ]
+          },
+          {
+            "label": "预科及转学边界",
+            "text": "本课程不接受转入。英国境内其他机构预科按课程内容个案评估，不接受非英国预科，也不接受嵌在另一所学校本科学位中的Year 0/Integrated Foundation；中国普高或高考的具体等值门槛本轮尚未取得。",
+            "source_ids": [
+              "KCLR-3f885dbac4588850"
+            ]
+          },
+          {
+            "label": "英语Band与适用年度",
+            "text": "本课程要求Band D。已取得的共用英语页明确适用2026/27，参考门槛为IELTS Academic总分6.5、各项6.0；2026年1月21日起TOEFL总分4.5、各项4；考试须在开课月份首日之前两年内且单次满足，不接受MyBest或IELTS One Skill。2027入学仍须核录取通知和更新政策。",
+            "source_ids": [
+              "KCLR-3f885dbac4588850",
+              "KCLR-2f493d3979db93dc"
+            ]
           }
         ],
         "applications": [
@@ -631,8 +1225,24 @@
             "extraction_locator": "public SSR routing.entry.ucasCode"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "学费报价核验范围",
+            "text": "已取得专业费用页，但主要国际学费数字的适用年度、计费单位未在当前可见正文中完整闭合，暂不据此给出2027年度报价。书本、打印、文具、毕业和伦敦/跨校区交通等可能另付；并非都包含在学费中。",
+            "source_ids": [
+              "KCLR-4d1b27629c3f5e7c"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "实际披露的毕业与职业信息",
+            "text": "课程页列AI伦理、算法责任、数据科学、AI科学编辑等跨学科岗位可能性；展示的哲学毕业生个案并非本交叉课程整届调查。本轮未取得专属毕业样本、就业率或薪资。",
+            "source_ids": [
+              "KCLR-fa54b9a9169e761e"
+            ]
+          }
+        ]
       },
       "sources": [
         {
@@ -643,14 +1253,58 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "344a0dd2ae9e7aa9e9484adf42dadc1248548f8aa7465316f66e4731b5b8300f",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLR-3f885dbac4588850",
+          "title": "Artificial Intelligence and Philosophy - Entry Requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "3f885dbac45888503643a77a4ccf6cdf05f4e5c1e1660ba7cb8a19c0edc15bbd",
+          "capture_format": "public_html",
+          "locator": "A-level; requiredSubjects; International Baccalaureate; contextual entry",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-2f493d3979db93dc",
+          "title": "King’s Undergraduate English language requirements — 2026/27",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "2f493d3979db93dc1b3793e055bdde787674d9d1cf572e9f7c8f916f162492ec",
+          "capture_format": "public_html",
+          "locator": "English language tests > 2026/27; Band D",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-4d1b27629c3f5e7c",
+          "title": "Fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "4d1b27629c3f5e7cdedacf7fc28206fb786075507ffd9e88683e5554bf09df13",
+          "capture_format": "public_html",
+          "locator": "Fees and funding > Additional costs; fee period/unit unresolved",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-fa54b9a9169e761e",
+          "title": "AI & Philosophy Careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "fa54b9a9169e761e9a24aad1e3ead01d962c03df953abffcc0e4f091802b3300",
+          "capture_format": "public_html",
+          "locator": "Careers page > destinations / employability / careers support",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本轮已获取的专业栏逐条引用；未取得的2027中国学历等值、学费年度或毕业样本保持空缺。"
       ],
       "display_fields": {
         "duration": "3 年",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "entry_summary": "A-level AAA；数学或进阶数学A；IB须数学AA的HL6；IB及路径限制见正文",
+        "intake": "2027年9月；各类申请窗口见正文",
+        "tuition_summary": "2027费用年度及单位尚待核实",
+        "outcomes_summary": "已核职业说明；专属届别、就业率和薪资仍缺",
+        "name": "人工智能与哲学"
       },
       "coverage": {
         "overview": true,
@@ -660,7 +1314,7 @@
         "outcomes": false
       },
       "detail_payload_acquired": true,
-      "research_status": "partially_enriched",
+      "research_status": "program_researched",
       "substantive_coverage": {
         "course_content": false,
         "entry_conditions": true,
@@ -669,7 +1323,8 @@
         "outcome_statistics": false
       },
       "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "kcl-artificial-intelligence-philosophy-bsc-43a16848d2"
+      "inventory_id": "kcl-artificial-intelligence-philosophy-bsc-43a16848d2",
+      "degree_label": "BSc"
     },
     {
       "university_id": "kcl",
@@ -12351,6 +13006,160 @@
       },
       "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
       "inventory_id": "kcl-women-s-health-ibsc-9812da633f"
+    },
+    {
+      "university_id": "kcl",
+      "name_en": "Electronic Engineering MEng",
+      "degree_label": "MEng",
+      "raw_key": "1ae92d1d-74e8-4f0b-8985-f6f544b615f6",
+      "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng",
+      "inventory_id": "kcl-electronic-engineering-meng-add0fec710",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "培养内容与路径",
+            "text": "本科入口的四年MEng共480学分。前两年每年八门各15学分，学习电子电气、数学编程、物理、建模、信号系统、机电、功率分析与工程设计；三年级必修90（含个人项目30），选修30；四年级团队项目30与数字集成电路设计15必修，另选75。四年级可与General Engineering MEng及Robotics MSc学生协作，协作对象不是本条额外授予的学位。不同层级内容高度重叠的模块不得重复计学分。",
+            "source_ids": [
+              "KCLR-0d315a77ea4d3738"
+            ]
+          },
+          {
+            "label": "本科入口与授位",
+            "text": "官网列2027年9月开始的Electronic Engineering MEng；UCAS H611，四年全日制在校学习。与H610电子工程BEng是不同授位记录。",
+            "source_ids": [
+              "KCLR-54383ad396a30c12"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "2027标准资格与先修科目",
+            "text": "A-level AAA；数学A；IB须数学AA的HL6。IB要求总分36或三门HL合计18，总分含TOK/EE；总分与HL总和为官网列出的两种口径，仍须满足指定科目。Contextual优惠须另符资格，不自动适用于所有中国申请者。",
+            "source_ids": [
+              "KCLR-6c357d4666718d8a"
+            ]
+          },
+          {
+            "label": "预科及转学边界",
+            "text": "本课程不接受转入。英国境内其他机构预科按课程内容个案评估，不接受非英国预科，也不接受嵌在另一所学校本科学位中的Year 0/Integrated Foundation；中国普高或高考的具体等值门槛本轮尚未取得。",
+            "source_ids": [
+              "KCLR-6c357d4666718d8a"
+            ]
+          },
+          {
+            "label": "英语Band与适用年度",
+            "text": "本课程要求Band B。已取得的共用英语页明确适用2026/27，参考门槛为IELTS Academic总分7.0、各项6.5；2026年1月21日起TOEFL总分5、各项4.5；考试须在开课月份首日之前两年内且单次满足，不接受MyBest或IELTS One Skill。2027入学仍须核录取通知和更新政策。",
+            "source_ids": [
+              "KCLR-6c357d4666718d8a",
+              "KCLR-2f493d3979db93dc"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "UCAS代码",
+            "text": "H611；2027年9月本科入口。课程页的直接申请与截止仍须结合UCAS正式日历和录取通知。",
+            "source_ids": [
+              "KCLR-54383ad396a30c12"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "学费报价核验范围",
+            "text": "已取得专业费用页，但主要国际学费数字的适用年度、计费单位未在当前可见正文中完整闭合，暂不据此给出2027年度报价。书本、打印、文具、毕业和伦敦/跨校区交通等可能另付；并非都包含在学费中。",
+            "source_ids": [
+              "KCLR-3de8113f9f4651c1"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "实际披露的毕业与职业信息",
+            "text": "专业页列科技、能源、金融和管理等发展方向，并说明工程系有雇主交流和职业支持；这是方向说明，未取得本MEng单独届别、样本、就业率或薪资。",
+            "source_ids": [
+              "KCLR-fd726865cf711568"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "KCLR-0d315a77ea4d3738",
+          "title": "Electronic Engineering MEng — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/teaching",
+          "checked_at": "2026-09-13",
+          "sha256": "0d315a77ea4d373844bb753444d6fb0045dcc30632bcc6f4b4316449f87cdb65",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; public course year 1–4 module lists",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-54383ad396a30c12",
+          "title": "Electronic Engineering MEng — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng",
+          "checked_at": "2026-09-13",
+          "sha256": "54383ad396a30c12120957714c5a1bcedcfb67b3ea06288ae1c85f83984efdc2",
+          "capture_format": "public_html",
+          "locator": "Course key information: qualification, duration, startDates, UCAS",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-6c357d4666718d8a",
+          "title": "Electronic Engineering MEng — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "6c357d4666718d8a5c7774562169369e27c03f2e45fd13a151e1cfa4bbf75f21",
+          "capture_format": "public_html",
+          "locator": "A-level; requiredSubjects; International Baccalaureate; contextual entry",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-2f493d3979db93dc",
+          "title": "King’s Undergraduate English language requirements — 2026/27",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "2f493d3979db93dc1b3793e055bdde787674d9d1cf572e9f7c8f916f162492ec",
+          "capture_format": "public_html",
+          "locator": "English language tests > 2026/27; Band B",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-3de8113f9f4651c1",
+          "title": "Electronic Engineering MEng — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "3de8113f9f4651c184d32dec54d05dcfe115d49102f5bfd4a590bf54828065fe",
+          "capture_format": "public_html",
+          "locator": "Fees and funding > Additional costs; fee period/unit unresolved",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        },
+        {
+          "id": "KCLR-fd726865cf711568",
+          "title": "Electronic Engineering MEng — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "fd726865cf7115684c7257900f54a743284c321582adeea48f8e9d57738ee0b9",
+          "capture_format": "public_html",
+          "locator": "Careers page > destinations / employability / careers support",
+          "supports": "对应事实正文；专业身份、课程或实际适用要求"
+        }
+      ],
+      "display_fields": {
+        "intake": "2027年9月；各类申请窗口见正文",
+        "name": "电子工程（MEng）",
+        "duration": "4年；全日制本科入口一贯制硕士",
+        "campus": "Strand",
+        "entry_summary": "A-level AAA；数学A；IB须数学AA的HL6；IB及路径限制见正文",
+        "tuition_summary": "2027费用年度及单位尚待核实",
+        "outcomes_summary": "已核职业说明；专属届别、就业率和薪资仍缺"
+      },
+      "research_status": "program_researched",
+      "detail_payload_acquired": true,
+      "coverage_notes": [
+        "本轮已获取的专业栏逐条引用；未取得的2027中国学历等值、学费年度或毕业样本保持空缺。"
+      ]
     }
   ],
   "profile": {

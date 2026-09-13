@@ -23,59 +23,341 @@ hide:
 
 ## 专业与申请资料
 
-48 个专业条目 · 0 个含详细资料 · 48 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+330 个专业条目 · 0 个含详细资料 · 330 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=oxford#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-c55cedc4c1/">阿拉伯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-akkadian-6d9ab93c33/">阿拉伯语，辅修阿卡德语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-aramaic-and-syriac-ba000fe21f/">阿拉伯语，辅修阿拉米语与叙利亚语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-armenian-4d141dbe3b/">阿拉伯语，辅修亚美尼亚语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-early-iranian-21995f52be/">阿拉伯语，辅修早期伊朗语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-hebrew-55b5eb08e5/">阿拉伯语，辅修希伯来语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-hindi-urdu-a8ddc3cee5/">阿拉伯语，辅修印地语／乌尔都语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-persian-b069f164bc/">阿拉伯语，辅修波斯语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-turkish-45782cf94d/">阿拉伯语，辅修土耳其语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-archaeology-and-anthropology-42615644e2/">考古学与人类学</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-asian-and-middle-eastern-studies-5f57825d88/">亚洲与中东研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-asian-and-middle-eastern-studies-with-classics-908338af66/">亚洲与中东研究，辅修古典学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-68cdb25109/">亚述学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-arabic-6e521c84fc/">亚述学，辅修阿拉伯语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-aramaic-and-syriac-1f59bc2577/">亚述学，辅修阿拉米语与叙利亚语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-archaeology-and-anthropology-6c46f93d50/">亚述学，辅修考古学与人类学</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-early-iranian-49e3992467/">亚述学，辅修早期伊朗语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-egyptian-6c06f564f9/">亚述学，辅修古埃及语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-hebrew-biblical-and-rabbinic-93a9e47c86/">亚述学，辅修希伯来语（圣经与拉比文献）</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-hittite-0e3a8cdf00/">亚述学，辅修赫梯语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-sumerian-0eac3cabc5/">亚述学，辅修苏美尔语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-ba-in-jurisprudence-with-senior-status-3ff64f12ce/">法学（已有学位者加速本科路线）</a><small>BA in Jurisprudence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-beginners-german-and-linguistics-e751419171/">初学者德语与语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-beginners-italian-and-linguistics-8d1dd73f70/">初学者意大利语与语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-beginners-modern-greek-and-linguistics-19dcdf73bd/">初学者现代希腊语与语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-beginners-portuguese-and-linguistics-129a3c4284/">初学者葡萄牙语与语言学</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-biochemistry-molecular-and-cellular-a78d53c522/">生物化学（分子与细胞）</a><small>MBiochem · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-biology-910a04ae1d/">生物学</a><small>MBiol or BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-biomedical-engineering-de1ecc0145/">生物医学工程</a><small>MEng in Engineering Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-biomedical-sciences-0a6fde1eb6/">生物医学科学</a><small>MBiomedSci or BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-chemical-engineering-7983ecefd6/">化学工程</a><small>MEng in Engineering Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-chemistry-da9fa4f72a/">化学</a><small>MChem · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-chinese-6b0eef4853/">汉语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-chinese-with-japanese-2b7ccc7038/">汉语，辅修日语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-chinese-with-korean-0aca0fc339/">汉语，辅修韩语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-chinese-with-tibetan-f56c8dbf1f/">汉语，辅修藏语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-civil-engineering-47d72f336a/">土木工程</a><small>MEng in Engineering Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classical-archaeology-and-ancient-history-50620b71be/">古典考古与古代史</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-32225ffd09/">古典学</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-asian-and-middle-eastern-studies-ab5d8c1e8c/">古典学与亚洲及中东研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-beginners-czech-with-slovak-option-a-b6dbb855ae/">古典学与初学者捷克语（含斯洛伐克语） A 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-beginners-czech-with-slovak-option-b-e79f845ca8/">古典学与初学者捷克语（含斯洛伐克语） B 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-beginners-german-option-a-5aa4a0c687/">古典学与初学者德语 A 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-beginners-german-option-b-d735e67aae/">古典学与初学者德语 B 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-beginners-italian-option-a-6101536803/">古典学与初学者意大利语 A 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-beginners-italian-option-b-21086f78f3/">古典学与初学者意大利语 B 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-beginners-modern-greek-option-a-a6d63db930/">古典学与初学者现代希腊语 A 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-beginners-modern-greek-option-b-acd64dd1e2/">古典学与初学者现代希腊语 B 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-beginners-portuguese-option-a-9659d75994/">古典学与初学者葡萄牙语 A 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-beginners-portuguese-option-b-40d94addcd/">古典学与初学者葡萄牙语 B 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-czech-with-slovak-option-a-e3d879d924/">古典学与捷克语（含斯洛伐克语） A 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-czech-with-slovak-option-a-with-beginners-latin-or-greek-d75a1708a5/">古典学与捷克语（含斯洛伐克语） A 路线（拉丁语或古希腊语从零起读）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-czech-with-slovak-option-b-60dfffc342/">古典学与捷克语（含斯洛伐克语） B 路线</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-english-aeaeed46e3/">古典学与英语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-english-with-beginners-latin-or-greek-08baeec9cf/">古典学与英语文学（拉丁语或古希腊语从零起读）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-french-option-a-649dbb806f/">古典学与法语 A 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-french-option-a-with-beginners-latin-or-greek-2761983005/">古典学与法语 A 路线（拉丁语或古希腊语从零起读）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-french-option-b-769dc35fb0/">古典学与法语 B 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-german-option-a-045c512ce3/">古典学与德语 A 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-german-option-a-with-beginners-latin-or-greek-036a81f306/">古典学与德语 A 路线（拉丁语或古希腊语从零起读）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-german-option-b-42710d1a78/">古典学与德语 B 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-italian-option-a-5d540694f3/">古典学与意大利语 A 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-italian-option-a-with-beginners-latin-or-greek-82e9fabb8d/">古典学与意大利语 A 路线（拉丁语或古希腊语从零起读）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-italian-option-b-96d91b92f4/">古典学与意大利语 B 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-modern-greek-option-a-f869135c17/">古典学与现代希腊语 A 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-modern-greek-option-a-with-beginners-latin-or-greek-e7456549ff/">古典学与现代希腊语 A 路线（拉丁语或古希腊语从零起读）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-modern-greek-option-b-401337f5f6/">古典学与现代希腊语 B 路线</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-modern-languages-1ea0e08d2e/">古典学与现代语言</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-portuguese-option-a-1a3536ef98/">古典学与葡萄牙语 A 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-portuguese-option-a-with-beginners-latin-or-greek-7cb56a6b5d/">古典学与葡萄牙语 A 路线（拉丁语或古希腊语从零起读）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-portuguese-option-b-015880ef33/">古典学与葡萄牙语 B 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-russian-option-a-bc82b74f4b/">古典学与俄语 A 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-russian-option-a-with-beginners-latin-or-greek-32e77d84e1/">古典学与俄语 A 路线（拉丁语或古希腊语从零起读）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-russian-option-b-7fcf44dbf0/">古典学与俄语 B 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-spanish-option-a-9665353510/">古典学与西班牙语 A 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-spanish-option-a-with-beginners-latin-or-greek-d3df957e3e/">古典学与西班牙语 A 路线（拉丁语或古希腊语从零起读）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-and-spanish-option-b-cfdf23b0f0/">古典学与西班牙语 B 路线</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-classics-with-asian-and-middle-eastern-studies-30a8846a18/">古典学，辅修亚洲与中东研究</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-computer-science-a07a5a19fd/">计算机科学</a><small>BA or MCompSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-computer-science-and-philosophy-7e9f9fdb36/">计算机科学与哲学</a><small>BA or MCompPhil · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-arabic-688573862d/">捷克语与阿拉伯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-beginners-german-104672478e/">捷克语与初学者德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-beginners-italian-88f69fc2c4/">捷克语与初学者意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-beginners-modern-greek-68394892eb/">捷克语与初学者现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-beginners-portuguese-9e319b742b/">捷克语与初学者葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-beginners-russian-d18bdb3fa4/">捷克语与初学者俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-french-3551503349/">捷克语与法语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-german-806f3375ec/">捷克语与德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-hebrew-65904e2be7/">捷克语与希伯来语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-italian-79e7b5dd01/">捷克语与意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-modern-greek-1e2bab627b/">捷克语与现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-persian-46d0dbbf64/">捷克语与波斯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-portuguese-c139a89ef8/">捷克语与葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-russian-fd1975b248/">捷克语与俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-spanish-ca9c14356d/">捷克语与西班牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-czech-and-turkish-8e5e674b70/">捷克语与土耳其语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-earth-sciences-ce6576cdd8/">地球科学</a><small>MEarthSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-earth-sciences-geology-342cedcfef/">地球科学（地质学）</a><small>BA Geology or MEarthSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-economics-and-management-9c76187931/">经济学与管理学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-143ab06b5f/">埃及学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-akkadian-8f52033e0f/">埃及学，辅修阿卡德语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-arabic-c93adeb54d/">埃及学，辅修阿拉伯语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-aramaic-and-syriac-568c097986/">埃及学，辅修阿拉米语与叙利亚语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-archaeology-and-anthropology-daf00ca21e/">埃及学，辅修考古学与人类学</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-coptic-e25b7b7717/">埃及学，辅修科普特语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-demotic-40a6880294/">埃及学，辅修世俗体埃及语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-early-iranian-8822f012eb/">埃及学，辅修早期伊朗语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-hebrew-biblical-and-rabbinic-2ff755111e/">埃及学，辅修希伯来语（圣经与拉比文献）</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-electrical-engineering-f47bad74b7/">电气工程</a><small>MEng in Engineering Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-engineering-science-01b5996fc4/">工程科学</a><small>MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-language-and-literature-c90df2440a/">英语语言与文学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-beginners-german-6dda341ca0/">英语文学与初学者德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-beginners-czech-72388de287/">英语文学与初学者捷克语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-beginners-italian-d46724684f/">英语文学与初学者意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-beginners-modern-greek-85fad99a77/">英语文学与初学者现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-beginners-portuguese-afe72f91c6/">英语文学与初学者葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-czech-209cbd389a/">英语文学与捷克语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-french-4632d8d441/">英语文学与法语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-german-60286d9f9b/">英语文学与德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-italian-fe90596f7d/">英语文学与意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-modern-greek-6f7ddf20d9/">英语文学与现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-modern-languages-28fb787691/">英语与现代语言</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-portuguese-8c1c3b107c/">英语文学与葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-russian-a1b7cce812/">英语文学与俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-english-and-spanish-9b19d2ba84/">英语文学与西班牙语</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-european-and-middle-eastern-languages-17a4cafbb9/">欧洲与中东语言</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-fine-art-918485d0cc/">纯艺术</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-4d5f249d9b/">法语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-arabic-f88f053463/">法语与阿拉伯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-beginners-czech-d975abbaae/">法语与初学者捷克语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-beginners-german-e6529b4eed/">法语与初学者德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-beginners-italian-8180c480c2/">法语与初学者意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-beginners-modern-greek-2f62e83f58/">法语与初学者现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-beginners-portuguese-0d612f4103/">法语与初学者葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-beginners-russian-39059239d2/">法语与初学者俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-german-fc798bfefe/">法语与德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-hebrew-68ee88bcbd/">法语与希伯来语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-italian-5dce853f09/">法语与意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-linguistics-7464562bc6/">法语与语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-modern-greek-a64d3fe763/">法语与现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-persian-fd9b971593/">法语与波斯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-polish-9f744ee459/">法语与波兰语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-portuguese-413f9b4e86/">法语与葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-russian-8fd12ee5d0/">法语与俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-spanish-b0b79e7879/">法语与西班牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-turkish-43eac21a3c/">法语与土耳其语</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-geography-efe957984e/">地理学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-geology-1e77444de2/">地质学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-eb1f5042c5/">德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-arabic-27bc373d8a/">德语与阿拉伯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-beginners-czech-e72ee7f9be/">德语与初学者捷克语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-beginners-italian-9d3f66fe01/">德语与初学者意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-beginners-modern-greek-362382451f/">德语与初学者现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-beginners-portuguese-fc1763d2aa/">德语与初学者葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-beginners-russian-7f75fd0898/">德语与初学者俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-hebrew-f6028c0a23/">德语与希伯来语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-italian-a889d71bcd/">德语与意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-linguistics-4cf4044314/">德语与语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-modern-greek-32749f314e/">德语与现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-persian-81ed517409/">德语与波斯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-polish-cb99e96994/">德语与波兰语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-portuguese-789b948210/">德语与葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-russian-2bc6143259/">德语与俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-spanish-6c3f901796/">德语与西班牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-turkish-012b3072a7/">德语与土耳其语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-hebrew-0b1c632207/">希伯来语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-hebrew-with-akkadian-e1f420f37e/">希伯来语，辅修阿卡德语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-hebrew-with-arabic-cf14363a54/">希伯来语，辅修阿拉伯语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-hebrew-with-aramaic-and-syriac-1ea7c9a1d7/">希伯来语，辅修阿拉米语与叙利亚语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-hebrew-with-egyptian-bbc9f002c6/">希伯来语，辅修古埃及语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-hebrew-with-persian-af32a8be8c/">希伯来语，辅修波斯语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-hebrew-with-turkish-9bd3678a30/">希伯来语，辅修土耳其语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-04ce621893/">历史学</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-ancient-and-modern-76a4499b14/">古代与现代史</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-beginners-german-d1b2f4d4eb/">历史学与初学者德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-beginners-czech-b95b609ed5/">历史学与初学者捷克语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-beginners-italian-f6ad1f96cd/">历史学与初学者意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-beginners-modern-greek-648562ee41/">历史学与初学者现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-beginners-portuguese-e964751630/">历史学与初学者葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-czech-dcfc29361b/">历史学与捷克语</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-economics-56fe13b78b/">历史与经济学</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-english-50c0f835ea/">历史与英语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-french-12a50f6239/">历史学与法语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-german-6e69a6c232/">历史学与德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-italian-12852cb3d6/">历史学与意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-modern-greek-6c79f72b21/">历史学与现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-modern-languages-14a81cc983/">历史与现代语言</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-politics-1033d4a308/">历史与政治学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-portuguese-c21f5fa7de/">历史学与葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-russian-0d07233ad0/">历史学与俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-and-spanish-514b5970ab/">历史学与西班牙语</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-history-of-art-8e74981f83/">艺术史</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-human-sciences-8e9bd34321/">人类科学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-information-engineering-a0d5789d63/">信息工程</a><small>MEng in Engineering Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-italian-and-arabic-3a340fab62/">意大利语与阿拉伯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-italian-and-beginners-czech-1b297a1275/">意大利语与初学者捷克语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-italian-and-beginners-german-5d4a876515/">意大利语与初学者德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-italian-and-beginners-modern-greek-05466be143/">意大利语与初学者现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-italian-and-beginners-portuguese-13a51624fc/">意大利语与初学者葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-italian-and-beginners-russian-2f4cdf8704/">意大利语与初学者俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-italian-and-hebrew-6d095d629f/">意大利语与希伯来语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-italian-and-linguistics-a603ac95d7/">意大利语与语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-italian-and-persian-153c021273/">意大利语与波斯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-italian-and-portuguese-d55ddda90d/">意大利语与葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-italian-and-russian-de2a709f96/">意大利语与俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-italian-and-spanish-d960605edf/">意大利语与西班牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-italian-and-turkish-c7d807abc8/">意大利语与土耳其语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-japanese-9e3082baa6/">日语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-japanese-with-chinese-fb28889067/">日语，辅修汉语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-japanese-with-korean-17ee9e2053/">日语，辅修韩语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-japanese-with-tibetan-ffa2739361/">日语，辅修藏语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-jewish-studies-5ea122f53c/">犹太研究</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-law-jurisprudence-c4019eb6b6/">法律（法理学）</a><small>BA in Jurisprudence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-law-with-european-law-the-netherlands-6b2ba0d122/">法学与欧洲法（荷兰研修年）</a><small>BA in Jurisprudence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-law-with-french-law-e64c5f0ee7/">法学与法国法（欧洲研修年）</a><small>BA in Jurisprudence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-law-with-german-law-8b52090993/">法学与德国法（欧洲研修年）</a><small>BA in Jurisprudence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-law-with-italian-law-25c5a1d0fe/">法学与意大利法（欧洲研修年）</a><small>BA in Jurisprudence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-law-with-spanish-law-bd1bbeabfe/">法学与西班牙法（欧洲研修年）</a><small>BA in Jurisprudence · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-materials-science-c8b2524506/">材料科学</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-mathematical-and-theoretical-physics-mmathphys-2edda35612/">数学与理论物理（本硕一体第四年方向）</a><small>MMathPhys · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-mathematics-50a5044c14/">数学</a><small>BA / MMath · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-mathematics-mathematics-and-statistics-a0009a57fd/">数学／数学与统计</a><small>MMath or BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-mathematics-and-computer-science-cc5f858f87/">数学与计算机科学</a><small>BA or MMathCompSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-mathematics-and-philosophy-87e999890d/">数学与哲学</a><small>BA / MMathPhil · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-mathematics-and-statistics-806b60429b/">数学与统计学</a><small>BA / MMath · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-mechanical-engineering-169eb909fe/">机械工程</a><small>MEng in Engineering Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-medicine-59b3b8c367/">医学</a><small>BA / BM BCh · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-medicine-graduate-entry-fabd05ad60/">医学（毕业生加速入口）</a><small>BM BCh · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-greek-and-arabic-be10588dbe/">现代希腊语与阿拉伯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-greek-and-beginners-czech-79a842af7f/">现代希腊语与初学者捷克语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-greek-and-beginners-german-0fb918618a/">现代希腊语与初学者德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-greek-and-beginners-italian-a74e333894/">现代希腊语与初学者意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-greek-and-beginners-portuguese-1bbb4266dc/">现代希腊语与初学者葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-greek-and-beginners-russian-5c00ba176e/">现代希腊语与初学者俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-greek-and-hebrew-58795b03e7/">现代希腊语与希伯来语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-greek-and-italian-b5c8b51f0d/">现代希腊语与意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-greek-and-linguistics-a06b20a3cf/">现代希腊语与语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-greek-and-persian-4001a7d846/">现代希腊语与波斯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-greek-and-portuguese-eef00b9414/">现代希腊语与葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-greek-and-russian-3dc43ceb2b/">现代希腊语与俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-greek-and-spanish-f63ad5f3f3/">现代希腊语与西班牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-greek-and-turkish-a2b4701f02/">现代希腊语与土耳其语</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-languages-a8d277daf4/">现代语言</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-languages-and-linguistics-2914e751d3/">现代语言与语言学</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-music-629c2c0f04/">音乐</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-persian-64aebd24cc/">波斯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-persian-with-arabic-156d7f0e14/">波斯语，辅修阿拉伯语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-persian-with-aramaic-and-syriac-319e349f9b/">波斯语，辅修阿拉米语与叙利亚语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-persian-with-armenian-099b49a398/">波斯语，辅修亚美尼亚语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-persian-with-early-iranian-aec50d691e/">波斯语，辅修早期伊朗语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-persian-with-hebrew-33ca55b7bb/">波斯语，辅修希伯来语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-persian-with-hindi-urdu-9c93193319/">波斯语，辅修印地语／乌尔都语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-persian-with-turkish-bb9e9a61db/">波斯语，辅修土耳其语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-beginners-czech-8a7e41da11/">哲学与初学者捷克语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-beginners-german-ed3df6eb5a/">哲学与初学者德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-beginners-italian-8bf4691d2c/">哲学与初学者意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-beginners-modern-greek-6def61187e/">哲学与初学者现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-beginners-portuguese-99fdf27fb3/">哲学与初学者葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-czech-19cbc6a46b/">哲学与捷克语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-french-3228277b98/">哲学与法语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-german-3ca0a0f0c5/">哲学与德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-italian-2d563b126a/">哲学与意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-linguistics-2293c562ac/">哲学与语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-modern-greek-2518a45362/">哲学与现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-modern-languages-6d57f472e2/">哲学与现代语言</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-portuguese-dec519dcac/">哲学与葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-russian-478da4ac1b/">哲学与俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-spanish-3588132bc4/">哲学与西班牙语</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-and-theology-62cab4189a/">哲学与神学</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-philosophy-politics-and-economics-ppe-526af50487/">哲学、政治与经济（PPE）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-physics-eeb61c03d3/">物理学</a><small>MPhys / BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-physics-and-philosophy-64edf47523/">物理与哲学</a><small>MPhysPhil / BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-polish-and-russian-5d5227c3bc/">波兰语与俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-polish-and-spanish-d32d818e2d/">波兰语与西班牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-portuguese-and-arabic-1cdaf028c4/">葡萄牙语与阿拉伯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-portuguese-and-beginners-czech-550eca5b01/">葡萄牙语与初学者捷克语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-portuguese-and-beginners-german-06ed723141/">葡萄牙语与初学者德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-portuguese-and-beginners-italian-48f8259022/">葡萄牙语与初学者意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-portuguese-and-beginners-modern-greek-d7b094c50a/">葡萄牙语与初学者现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-portuguese-and-beginners-russian-c0761c48c6/">葡萄牙语与初学者俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-portuguese-and-hebrew-bbfe9f151a/">葡萄牙语与希伯来语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-portuguese-and-linguistics-997baaec6e/">葡萄牙语与语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-portuguese-and-persian-18a92a2adb/">葡萄牙语与波斯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-portuguese-and-russian-5f1ac8c325/">葡萄牙语与俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-portuguese-and-spanish-92b44370c6/">葡萄牙语与西班牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-portuguese-and-turkish-4987d3032c/">葡萄牙语与土耳其语</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-psychology-experimental-229dd43b5e/">实验心理学</a><small>MSci / BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-psychology-and-linguistics-feda836561/">心理学与语言学</a><small>MSci（可三年退出获 BA） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-psychology-and-philosophy-5b30dd7529/">心理学与哲学</a><small>MSci（可三年退出获 BA） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-psychology-philosophy-and-linguistics-4b858690e7/">心理学、哲学与语言学</a><small>MSci / BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-religion-and-asian-and-middle-eastern-studies-e5ab4bcbc5/">宗教与亚洲及中东研究</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-theology-and-religion-3db2fabbb7/">神学与宗教</a><small>BA · 部分专业资料已核实</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-russian-457a53c21e/">俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-russian-and-arabic-14a10510a9/">俄语与阿拉伯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-russian-and-beginners-czech-a91460a373/">俄语与初学者捷克语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-russian-and-beginners-german-4042bdd352/">俄语与初学者德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-russian-and-beginners-italian-7039c69c99/">俄语与初学者意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-russian-and-beginners-modern-greek-07d6d0228e/">俄语与初学者现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-russian-and-beginners-portuguese-e3c9b971fc/">俄语与初学者葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-russian-and-hebrew-2a168c5743/">俄语与希伯来语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-russian-and-linguistics-42dc555c3d/">俄语与语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-russian-and-persian-f890368b19/">俄语与波斯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-russian-and-spanish-007cd29df2/">俄语与西班牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-russian-and-turkish-e6739b494d/">俄语与土耳其语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-sanskrit-08a0057cc7/">梵语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-sanskrit-with-early-iranian-a8d73bf6a1/">梵语，辅修早期伊朗语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-sanskrit-with-hindi-233f6c27f2/">梵语，辅修印地语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-sanskrit-with-pali-10629a905a/">梵语，辅修巴利语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-sanskrit-with-persian-96c628369c/">梵语，辅修波斯语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-sanskrit-with-prakrit-56964e921c/">梵语，辅修普拉克里特语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-sanskrit-with-tibetan-e38e160fb0/">梵语，辅修藏语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-spanish-74e9b209d0/">西班牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-spanish-and-arabic-7b64d1a997/">西班牙语与阿拉伯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-spanish-and-beginners-czech-9c481e10d9/">西班牙语与初学者捷克语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-spanish-and-beginners-german-0e14e3e2af/">西班牙语与初学者德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-spanish-and-beginners-italian-a95851e67a/">西班牙语与初学者意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-spanish-and-beginners-modern-greek-b3465935b1/">西班牙语与初学者现代希腊语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-spanish-and-beginners-portuguese-b5c84fefa3/">西班牙语与初学者葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-spanish-and-beginners-russian-45759b5860/">西班牙语与初学者俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-spanish-and-hebrew-6fd9e07f2f/">西班牙语与希伯来语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-spanish-and-linguistics-45ea478d26/">西班牙语与语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-spanish-and-persian-1231b71988/">西班牙语与波斯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-spanish-and-turkish-10b981b9b6/">西班牙语与土耳其语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-theology-and-religion-3db2fabbb7/">神学与宗教</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-turkish-6e8a305125/">土耳其语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-turkish-with-arabic-7067a069cd/">土耳其语，辅修阿拉伯语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-turkish-with-armenian-91b0faa9c6/">土耳其语，辅修亚美尼亚语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-turkish-with-early-iranian-2b82cc9292/">土耳其语，辅修早期伊朗语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-turkish-with-hebrew-4371423f33/">土耳其语，辅修希伯来语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-turkish-with-hindi-urdu-648b7c227f/">土耳其语，辅修印地语／乌尔都语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-turkish-with-persian-f2f4021ff6/">土耳其语，辅修波斯语</a><small>BA（主科与附属学科组合） · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -105,19 +387,82 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 48 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 330 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>All official A–Z table course links only; no subject guessing or arbitrary joint combinations；Retain graduate entry medicine; distinguish foundation pathways；Do not assume BA for science courses or entry year without individual source</p>
+<p><strong>统计范围：</strong>48个本科母课程＋282个正式具名申请/在读路线；不是330个独立授位</p>
 
-<p><strong>对账方法：</strong>[{&quot;page&quot;: &quot;single A–Z table&quot;, &quot;count&quot;: 52, &quot;first&quot;: &quot;Archaeology and Anthropology&quot;, &quot;last&quot;: &quot;Theology and Religion&quot;, &quot;paging&quot;: null}] 逐页核对2027课程学位标签，排除4个独立CertHE基础年；语言等分组仍保留原目录结构。</p>
+<p><strong>对账方法：</strong>官方A–Z52页对应48本科与4已排除CertHE；逐格核34古典/现代、32欧洲/中东、78现代语言矩阵，并核55具名附属组合。所有未列名组合不生成。</p>
 
 <p><strong>排除项：</strong>All official A–Z table course links only; no subject guessing or arbitrary joint combinations；Retain graduate entry medicine; distinguish foundation pathways；Do not assume BA for science courses or entry year without individual source</p>
 
 **尚未解决的目录缺口：**
 
-- Official A–Z uses some joint/common entry pages and does not state award or duration; course-level key-fact expansion pending.
-- Current listing is not a claim that every application remains open.
+- 所有母课程入口已对账；全部学院开课、深层track、在读选修限制及考试规章尚未完全穷尽。
+- Hebrew Q480/Q408、进阶Czech/Russian R793/R790官方来源不一致，保留差异。
+- Senior Status专用2027时间/费用、MMathPhys第四年阶段费用仍未完整核实。
+- 280新条有承载组年度费用，不能当单独方向附加费或未来海外学年的确定报价；无282个独立方向毕业调查。
 
 - [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/undergraduate-course-listing-a-z)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/archaeology-and-anthropology)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies)
+- [官方目录来源](https://www.ox.ac.uk/hebrew-and-jewish-studies)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies/egyptology)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/biochemistry-molecular-and-cellular)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/biology)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/biomedical-sciences)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/chemistry)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classical-archaeology-and-ancient-history)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-asian-and-middle-eastern-studies)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-english)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-modern-languages)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/computer-science)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/computer-science-and-philosophy)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/earth-sciences-geology)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/economics-and-management)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/engineering-science)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/english-language-and-literature)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/english-and-modern-languages)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/european-and-middle-eastern-languages)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/fine-art)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/geography)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-ancient-and-modern)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-economics)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-english)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-modern-languages)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-politics)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-of-art)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/human-sciences)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/law-jurisprudence)
+- [官方目录来源](https://www.law.ox.ac.uk/content/course/ba-jurisprudence-senior-status)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/materials-science)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics-and-computer-science)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics-and-philosophy)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/medicine)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/medicine-graduate-entry)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/applying/for-international-students/english-language-requirements-visas)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/modern-languages)
+- [官方目录来源](https://www.seh.ox.ac.uk/subjects/undergraduates/modern-languages/czech)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/modern-languages-and-linguistics)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/music)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/philosophy-and-modern-languages)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/philosophy-politics-and-economics)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/philosophy-and-theology)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/physics)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/physics-and-philosophy)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-experimental)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/religion-and-asian-and-middle-eastern-studies)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/theology-and-religion)
+- [官方目录来源](https://www.ox.ac.uk/arabic)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies/chinese)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies/japanese)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies/persian)
+- [官方目录来源](https://www.ox.ac.uk/sanskrit)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies/turkish)
+- [官方目录来源](https://www.ox.ac.uk/admissions/undergraduate/courses/admissions-requirements/international-qualifications)
+- [官方目录来源](https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

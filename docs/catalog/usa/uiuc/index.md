@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-169 个专业条目 · 0 个含详细资料 · 169 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+318 个专业条目 · 0 个含详细资料 · 318 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=uiuc#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -36,11 +36,35 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-african-american-studies-33f0a28333/">非裔美国人研究</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-dc845cf8b6/">农业与生物工程</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-bs-and-agricultural-biologica-374b1a90f7/">农业与生物工程（BS／BSAG 双学位）</a><small>BS + BSAG · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-bioprocess-engineering-and-industrial-bi-30c9379c3c/">农业与生物工程：生物加工工程与工业生物技术</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-off-highway-vehicle-and-equipment-engine-cbe1bae566/">农业与生物工程：非公路车辆与装备工程</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-renewable-energy-systems-engineering-b3cf68e0a0/">农业与生物工程：可再生能源系统工程</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-soil-and-water-resources-engineering-5524462d81/">农业与生物工程：土壤与水资源工程</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-sustainable-ecological-and-environmental-e90bbb7295/">农业与生物工程：可持续生态与环境系统工程</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-synthetic-biological-engineering-92b74b0480/">农业与生物工程：合成生物工程</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-46a18688bc/">农业与消费者经济学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-agri-accounting-98b0d16bb8/">农业与消费者经济学：农业会计</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-agribusiness-markets-management-651d3e690c/">农业与消费者经济学：农业企业市场与管理</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-consumer-economics-finance-3d5f2c29a2/">农业与消费者经济学：消费者经济与金融</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-environmental-economics-policy-8f454480c7/">农业与消费者经济学：环境经济与政策</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-farm-management-a704683947/">农业与消费者经济学：农场管理</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-finance-in-agribusiness-ba2ade086d/">农业与消费者经济学：农业企业金融</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-financial-planning-5dc38867a6/">农业与消费者经济学：财务规划</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-policy-international-trade-development-ed0c1743ea/">农业与消费者经济学：政策、国际贸易与发展</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-public-policy-law-4dcdfdc1c5/">农业与消费者经济学：公共政策与法律</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-leadership-education-communications-a41f06f88f/">农业领导、教育与传播</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-leadership-education-c-agricultural-communications-70818af217/">农业领导、教育与传播：农业传播</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-leadership-education-c-agricultural-education-17bcdd68b5/">农业领导、教育与传播：农业教育</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-leadership-education-c-organizational-community-leadership-0200d6d5b4/">农业领导、教育与传播：组织与社区领导</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agronomy-7f15226466/">农学</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-animal-sciences-d653dd92d0/">动物科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-animal-sciences-companion-equine-science-a1cbab324a/">动物科学：伴侣动物与马科学</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-animal-sciences-food-animal-production-management-3daaffd960/">动物科学：食用动物生产与管理</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-animal-sciences-science-pre-veterinary-medical-38ea7f8cff/">动物科学：科学、兽医与医学预备</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-anthropology-c8aa6f81f4/">人类学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-anthropology-archaeology-cb653923fa/">人类学：考古学</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-anthropology-biological-anthropology-8af3a7ee48/">人类学：生物人类学</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-anthropology-sociocultural-linguistic-anthropology-04a1d351ef/">人类学：社会文化与语言人类学</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-architectural-studies-8b7717f353/">建筑研究</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-art-art-history-9dce0b3453/">艺术与艺术史</a><small>BFA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-art-education-b3e787b233/">艺术教育</a><small>BFA · 部分专业资料已核实</small></article>
@@ -56,13 +80,19 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-business-data-science-a88ea69551/">商科与数据科学</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-chemical-engineering-f790996ae3/">化学工程</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-chemical-engineering-data-science-ba9fd1b827/">化学工程与数据科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-chemical-engineering-biomolecular-engineering-6e3973a91b/">化学工程：生物分子工程</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-chemistry-11f0606f35/">化学（专业型 BS）</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-chemistry-38bb19d63e/">化学（BSLAS）</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-chemistry-environmental-chemistry-620b6bced5/">化学（专业型 BS）：环境化学</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-civil-engineering-d696e665f2/">土木工程</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-classics-bd58821b73/">古典学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-classics-classical-civilizations-e1a4c15b08/">古典学：古典文明</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-classics-classical-languages-2f438286c7/">古典学：古典语言</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-communication-95723148f7/">传播学</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-community-health-55c1630a3c/">社区健康（暂停招生的历史项目）</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-comparative-world-literature-f5fad60852/">比较文学与世界文学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-comparative-world-literature-comparative-literature-e586e3f6c4/">比较文学与世界文学：比较文学</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-comparative-world-literature-world-literature-8ed95558fa/">比较文学与世界文学：世界文学</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-engineering-01e41e9aea/">计算机工程</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-8ff4e0100e/">计算机科学</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-advertising-4c7d6d8f9b/">计算机科学与广告学</a><small>BS · 部分专业资料已核实</small></article>
@@ -74,6 +104,8 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-crop-sciences-3c503f6204/">计算机科学与作物科学</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-economics-7b1dc0b2ba/">计算机科学与经济学</a><small>BSLAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-education-12d8497d41/">计算机科学与教育</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-education-learning-sciences-92955a2843/">计算机科学与教育：学习科学</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-education-secondary-education-3b554f5c20/">计算机科学与教育：中等教育</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-geography-geographic-information-science-3dd6a40aeb/">计算机科学、地理与地理信息科学</a><small>BSLAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-linguistics-5245fb2d74/">计算机科学与语言学</a><small>BSLAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-music-db532a7167/">计算机科学与音乐</a><small>BS · 部分专业资料已核实</small></article>
@@ -81,11 +113,16 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-physics-c03001cf27/">计算机科学与物理学</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-creative-writing-46de9cd21b/">创意写作</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-crop-sciences-213f0214f2/">作物科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-crop-sciences-agroecology-3d16648014/">作物科学：农业生态学</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-crop-sciences-crop-agribusiness-cea683fc6e/">作物科学：作物农业企业</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-crop-sciences-horticultural-food-systems-54434a04d6/">作物科学：园艺食品系统</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-dance-affd9c70e5/">舞蹈（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-dance-6341a0c133/">舞蹈（BFA）</a><small>BFA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-dance-deeb13b7c8/">舞蹈与运动机能学（BA／BS 双学位）</a><small>BA + BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-dietetics-and-nutrition-0c29d237b7/">膳食与营养学</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-early-childhood-education-89f754ea39/">幼儿教育</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-early-childhood-education-professional-education-licensure-9a7cf7338d/">幼儿教育：专业教育：教师执照路径（线上）</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-early-childhood-education-professional-education-non-licensure-6bbc511574/">幼儿教育：专业教育：非教师执照路径（线上）</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-earth-society-environmental-sustainability-bfd33abd76/">地球、社会与环境可持续性（暂停招生的历史项目）</a><small>BSLAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-east-asian-languages-cultures-b3fdccb463/">东亚语言与文化</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-econometrics-quantitative-economics-32a6f7660d/">计量经济学与数量经济学</a><small>BSLAS · 部分专业资料已核实</small></article>
@@ -94,9 +131,18 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-elementary-education-943b1b83f1/">小学教育</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-engineering-mechanics-c965dc7329/">工程力学</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-engineering-technology-management-for-agricultural-systems-1825a12650/">农业系统工程技术与管理</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-engineering-technology-management-f-agricultural-production-processing-e064122226/">农业系统工程技术与管理：农业生产与加工</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-engineering-technology-management-f-construction-management-748f67dfb4/">农业系统工程技术与管理：施工管理</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-engineering-technology-management-f-digital-precision-agriculture-a216c6a4c5/">农业系统工程技术与管理：数字与精准农业</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-engineering-technology-management-f-energy-the-environment-f9edc1a061/">农业系统工程技术与管理：能源与环境</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-english-eb99190475/">英语文学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-english-english-concentration-4e12d3a24f/">英语文学：英语文学</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-english-english-teaching-1f83f360fd/">英语文学：英语教学</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-english-topics-in-english-7aeb6ae12c/">英语文学：英语专题</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-environmental-engineering-452bf1530a/">环境工程</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-environmental-sustainability-f2468e6709/">环境可持续性</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-environmental-sustainability-science-of-the-earth-system-d408182733/">环境可持续性：地球系统科学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-environmental-sustainability-society-and-the-environment-483985c369/">环境可持续性：社会与环境</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-finance-3e5fe773ba/">金融学</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-finance-data-science-bdfa17331e/">金融学与数据科学</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-financial-planning-e991fc5214/">个人财务规划</a><small>BS · 部分专业资料已核实</small></article>
@@ -104,17 +150,30 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-food-science-832d52acae/">食品科学</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-french-0f03284edc/">法语</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-french-teaching-0b305745c8/">法语教学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-french-french-studies-a6ecfde268/">法语：法国研究</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-gender-women-s-studies-2ad415b266/">性别与妇女研究</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geography-geographic-information-science-0f53873b65/">地理与地理信息科学（BA）</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geography-geographic-information-science-314c122a78/">地理与地理信息科学（BSLAS）</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geography-geographic-information-sc-general-geography-cbac9837d6/">地理与地理信息科学（BA）：综合地理学</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geography-geographic-information-sc-geographic-information-science-e68c7612cd/">地理与地理信息科学（BSLAS）：地理信息科学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geography-geographic-information-sc-human-geography-3c47e5a2be/">地理与地理信息科学（BA）：人文地理学</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geography-geographic-information-sc-physical-geography-32469b25ce/">地理与地理信息科学（BSLAS）：自然地理学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geology-d380bca50c/">地质学（专业型 BS）</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geology-774cdde895/">地质学（BSLAS）</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geology-earth-environmental-sciences-40eea50e0e/">地质学（BSLAS）：地球与环境科学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geology-earth-science-teaching-6edef59e29/">地质学（BSLAS）：地球科学教学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geology-environmental-geology-7493ebed43/">地质学（专业型 BS）：环境地质学</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geology-geophysics-d81d10112c/">地质学（专业型 BS）：地球物理学</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-german-teaching-1de3a60468/">德语教学</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-germanic-studies-64273911d6/">日耳曼语言与文化研究</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-germanic-studies-german-business-commercial-studies-dbfe3aceec/">日耳曼语言与文化研究：德国商务与商业研究</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-germanic-studies-german-studies-9d8d9a6abc/">日耳曼语言与文化研究：德国研究</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-germanic-studies-scandinavian-studies-a5142c6fa2/">日耳曼语言与文化研究：斯堪的纳维亚研究</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-global-studies-4fe9be2dbb/">全球研究</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-graphic-design-573182992d/">平面设计</a><small>BFA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-hip-hop-culture-and-the-arts-5605c73239/">嘻哈文化与艺术</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-history-7cfdb62f06/">历史学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-history-social-science-history-teaching-df21ac5d21/">历史学：社会科学：历史教学</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-hospitality-management-46f344b913/">酒店与餐旅管理</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-human-development-family-studies-b2f3bc973c/">人类发展与家庭研究</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-immersive-interactive-theatre-73e1111665/">沉浸式与互动戏剧</a><small>BA · 部分专业资料已核实</small></article>
@@ -127,58 +186,127 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-innovation-leadership-engineering-entrepreneurship-1ad7036dff/">创新、领导与工程创业（第二学位）</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-instrumental-music-ce0e0c9af3/">器乐表演</a><small>BMUS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-integrative-biology-de9db885a7/">整合生物学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-integrative-biology-honors-integrative-biology-7e3c091356/">整合生物学：综合生物学荣誉方向</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-health-sciences-7f361f6da3/">跨学科健康科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-health-sciences-health-across-the-lifespan-23bd09aa7a/">跨学科健康科学：全生命周期健康</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-health-sciences-health-behavior-change-and-rehabilitatio-ce811f2559/">跨学科健康科学：健康行为改变与康复</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-health-sciences-health-diversity-and-disability-2914dec18b/">跨学科健康科学：健康多样性与残障</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-health-sciences-health-technology-4a3d95c9c8/">跨学科健康科学：健康技术</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-studies-46fdc05791/">跨学科研究</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-studies-jewish-studies-d0e5acdccb/">跨学科研究：犹太研究</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-studies-medieval-studies-0ca497e6c2/">跨学科研究：中世纪研究</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-italian-2e0f6ac7d0/">意大利语与意大利研究</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-jazz-performance-26a6514c41/">爵士表演</a><small>BMUS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-journalism-0660886439/">新闻学</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-kinesiology-fee455faca/">运动机能学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-kinesiology-applied-exercise-science-cb789ea559/">运动机能学：应用运动科学</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-kinesiology-biobehavioral-health-science-7a66fd55bc/">运动机能学：生物行为健康科学</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-kinesiology-health-sciences-404e45ff06/">运动机能学：健康科学</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-kinesiology-teacher-education-prek-12-b33894bb97/">运动机能学：学前至12年级体育教师教育</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-landscape-architecture-072722627a/">景观建筑学</a><small>BLA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-latin-american-studies-41b91d3fab/">拉丁美洲研究</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-latina-latino-studies-81be0cc12f/">美国拉丁裔研究</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-learning-education-studies-d530fb77f6/">学习与教育研究</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-learning-education-studies-educational-technology-b715e534e8/">学习与教育研究：教育技术</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-learning-education-studies-inclusive-leadership-learning-in-organiz-3823fdbc61/">学习与教育研究：组织中的包容性领导与学习</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-liberal-studies-4da6ecebd5/">博雅研究（在线学位完成项目）</a><small>BLS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-liberal-studies-global-perspectives-8ffd8eb344/">博雅研究（在线学位完成项目）：全球视野</a><small>BLS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-liberal-studies-health-and-society-ee07ad1db6/">博雅研究（在线学位完成项目）：健康与社会</a><small>BLS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-liberal-studies-management-studies-5a27390424/">博雅研究（在线学位完成项目）：管理研究</a><small>BLS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-linguistics-c929e99a63/">语言学</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-linguistics-and-teaching-english-as-a-second-language-tesl-620ecaf219/">语言学与英语作为第二语言教学</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-lyric-theatre-4d22f21c17/">抒情戏剧与音乐舞台艺术</a><small>BMA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-lyric-theatre-creative-0edd516ff9/">抒情戏剧与音乐舞台艺术：创作</a><small>BMA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-lyric-theatre-performance-c23d9ece3d/">抒情戏剧与音乐舞台艺术：表演</a><small>BMA内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-management-8ddda065fd/">管理学</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-marketing-0d04fb9bad/">市场营销</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-materials-science-engineering-410c651dbc/">材料科学与工程</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-materials-science-engineering-data-science-527acce06d/">材料科学与工程及数据科学</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-mathematics-65f4f53da0/">数学</a><small>BSLAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-mathematics-computer-science-14e266656f/">数学与计算机科学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-mathematics-applied-mathematics-382e401aa3/">数学：应用数学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-mathematics-data-optimization-28d187b795/">数学：数据优化</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-mathematics-math-doctoral-preparation-bc91f9dda5/">数学：数学博士预备</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-mathematics-mathematics-teaching-01eb4ed8f5/">数学：数学教学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-mechanical-engineering-8582cf61ea/">机械工程</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-media-c5976ceff3/">传媒（在线学位完成项目）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-media-cinema-studies-510ca213db/">媒介与电影研究</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-middle-grades-education-255fe7f508/">初中阶段教育（五至八年级）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-middle-grades-education-literacy-1da7c6b87b/">初中阶段教育（五至八年级）：读写教育</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-middle-grades-education-mathematics-124db7e54e/">初中阶段教育（五至八年级）：数学教育</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-middle-grades-education-science-29a21735bf/">初中阶段教育（五至八年级）：科学教育</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-middle-grades-education-social-science-d0053f4c5e/">初中阶段教育（五至八年级）：社会科学教育</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-molecular-cellular-biology-1448bb36e7/">分子与细胞生物学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-molecular-cellular-biology-honors-9a42115325/">分子与细胞生物学：分子与细胞生物学荣誉方向</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-molecular-and-cellular-biology-data-science-60cb6e035e/">分子与细胞生物学及数据科学</a><small>BSLAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-4deb187df9/">音乐（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-open-studies-6090c417b1/">音乐开放研究（BMUS）</a><small>BMUS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-voice-d8969ec7a3/">声乐表演</a><small>BMUS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-composition-6be722c775/">音乐作曲</a><small>BMUS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-education-bb9e233cc3/">音乐教育</a><small>BME · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-education-choral-music-d9a26d5329/">音乐教育：合唱音乐</a><small>BME内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-education-general-music-d773c24362/">音乐教育：综合音乐教育</a><small>BME内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-education-instrumental-music-25e33b5c7b/">音乐教育：器乐音乐教育</a><small>BME内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-education-technology-f78a469001/">音乐教育：音乐教育技术</a><small>BME内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-music-technology-8e17d424d7/">音乐（BA）：音乐技术</a><small>BA内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-musicology-510a22f134/">音乐学（BMUS）</a><small>BMUS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-natural-resources-environmental-sciences-f092fcb3e7/">自然资源与环境科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-natural-resources-environmental-sci-ecosystem-stewardship-restoration-ecolog-7c06142228/">自然资源与环境科学：生态系统管理与恢复生态学</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-natural-resources-environmental-sci-environmental-science-management-0f578cb6b6/">自然资源与环境科学：环境科学与管理</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-natural-resources-environmental-sci-environmental-social-sciences-8d69da88c2/">自然资源与环境科学：环境社会科学</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-natural-resources-environmental-sci-fish-wildlife-conservation-biology-a3b18af815/">自然资源与环境科学：鱼类、野生动物与保护生物学</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-neural-engineering-55ba138bc9/">神经工程</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-neuroscience-eff2f96309/">神经科学</a><small>BSLAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-nuclear-plasma-radiological-engineering-bd4763cac0/">核、等离子体与放射工程</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-nuclear-plasma-and-radiological-engineering-data-science-c752de6206/">核、等离子体与放射工程及数据科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-nuclear-plasma-radiological-enginee-plasma-fusion-science-engineering-9b3956a10c/">核、等离子体与放射工程：等离子体与聚变科学工程</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-nuclear-plasma-radiological-enginee-power-safety-environment-b048da7bff/">核、等离子体与放射工程：动力、安全与环境</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-nuclear-plasma-radiological-enginee-radiological-medical-instrumentation-app-2d90613821/">核、等离子体与放射工程：放射、医学与仪器应用</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-nutrition-and-health-8417692fde/">营养与健康</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-operations-management-ee4f682308/">运营管理</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-philosophy-14a7963d7e/">哲学</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-physics-5d797e7fdd/">物理学</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-plant-biotechnology-888897ac59/">植物生物技术</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-cee58d2db4/">政治学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-citizen-politics-8c288c4a1f/">政治学：公民政治</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-civic-leadership-8bb87bb3f1/">政治学：公民领导</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-general-political-science-c9ad115a89/">政治学：综合政治学</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-international-relations-4ff2656f50/">政治学：国际关系</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-law-power-ee5869bde2/">政治学：法律与权力</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-public-policy-and-democratic-institution-d0ac6aa4b9/">政治学：公共政策与民主制度</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-world-politics-9a028c2765/">政治学：世界政治</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-portuguese-26e2244459/">葡萄牙语与葡语文化</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-60a99b3771/">心理学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-behavioral-neuroscience-6416905442/">心理学：行为神经科学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-clinical-community-psychology-0b5f39ad5e/">心理学：临床与社区心理学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-cognitive-neuroscience-e6053b80e5/">心理学：认知神经科学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-cognitive-psychology-f0e91293a4/">心理学：认知心理学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-developmental-psychology-214293dcce/">心理学：发展心理学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-diversity-science-84bdba86c5/">心理学：多样性科学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-intradisciplinary-psychology-f29935acdb/">心理学：心理学学科内综合方向</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-organizational-psychology-06abcad041/">心理学：组织心理学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-personality-psychology-e703ff12c8/">心理学：人格心理学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-social-psychology-dbd9f417de/">心理学：社会心理学</a><small>BSLAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-public-health-4f21e940d5/">公共卫生</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-public-health-community-health-practice-e72b4e5eeb/">公共卫生：社区健康实践</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-public-health-epidemiology-426153f768/">公共卫生：流行病学</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-public-health-health-administration-and-policy-be5d5ca070/">公共卫生：卫生管理与政策</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-public-health-health-education-promotion-b21403e5b4/">公共卫生：健康教育与促进</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-public-policy-and-law-36bd190815/">公共政策与法律</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-recreation-sport-tourism-1465214f52/">休闲、体育与旅游</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-recreation-sport-tourism-recreation-management-eaf8353a47/">休闲、体育与旅游：休闲管理</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-recreation-sport-tourism-sport-management-3e522d514b/">休闲、体育与旅游：体育管理</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-recreation-sport-tourism-tourism-management-db1301b3cf/">休闲、体育与旅游：旅游管理</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-religion-065b6bc0bc/">宗教学</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-russian-east-european-eurasian-studies-da04232daa/">俄罗斯、东欧与欧亚研究</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-secondary-education-299aba90c6/">中学教育（数学方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-secondary-education-mathematics-f5a73f91bf/">中学教育（数学方向）：中等教育：数学</a><small>BS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-slavic-studies-412e5a6608/">斯拉夫语言与文化研究</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-slavic-studies-czech-studies-88541eaa5a/">斯拉夫语言与文化研究：捷克研究</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-slavic-studies-polish-studies-bbe797df0c/">斯拉夫语言与文化研究：波兰研究</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-slavic-studies-russian-language-literature-and-culture-27445e111c/">斯拉夫语言与文化研究：俄罗斯语言、文学与文化</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-slavic-studies-south-slavic-studies-b1a363adbb/">斯拉夫语言与文化研究：南斯拉夫研究</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-slavic-studies-ukrainian-studies-0d46d5b9f5/">斯拉夫语言与文化研究：乌克兰研究</a><small>BALAS内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-social-work-52e2930bf1/">社会工作</a><small>BSW · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-sociology-bc2926e03f/">社会学</a><small>BALAS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-spanish-b30ba5267d/">西班牙语</a><small>BALAS · 部分专业资料已核实</small></article>
@@ -191,12 +319,33 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-strategy-innovation-and-entrepreneurship-120068efde/">战略、创新与创业</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-06dc5ce09a/">工作室艺术（BASA）</a><small>BASA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-804f0f39ad/">工作室艺术（BFASA）</a><small>BFASA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-fashion-60a97606d3/">工作室艺术（BFASA）：时装</a><small>BFASA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-illustration-bb7a159836/">工作室艺术（BFASA）：插画</a><small>BFASA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-interdisciplinary-practice-4d5bbec4e8/">工作室艺术（BFASA）：跨学科艺术实践</a><small>BFASA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-new-media-e9a1a309c1/">工作室艺术（BFASA）：新媒体艺术</a><small>BFASA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-painting-68622e59a1/">工作室艺术（BFASA）：绘画</a><small>BFASA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-photography-79bbbdb774/">工作室艺术（BFASA）：摄影</a><small>BFASA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-printmaking-6f81400996/">工作室艺术（BFASA）：版画</a><small>BFASA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-sculpture-f431454163/">工作室艺术（BFASA）：雕塑</a><small>BFASA内的方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-supply-chain-management-ef5e79d6b9/">供应链管理</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-sustainability-in-food-environmental-systems-1c03c570ba/">食品与环境系统可持续性</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-sustainable-design-b34e83aeed/">可持续设计</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-systems-engineering-and-design-0856aa7f9e/">系统工程与设计</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-34ee242e96/">戏剧（BFA）</a><small>BFA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-urban-studies-planning-d2fa51621b/">城市研究与规划</a><small>BA · 部分专业资料已核实</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-acting-ca08556c60/">戏剧（BFA）：戏剧表演</a><small>BFA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-arts-entertainment-technology-487dfca739/">戏剧（BFA）：艺术与娱乐技术</a><small>BFA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-costume-design-technology-db43805052/">戏剧（BFA）：戏剧服装设计与技术</a><small>BFA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-lighting-design-technology-aec6c24164/">戏剧（BFA）：灯光设计与技术</a><small>BFA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-scenic-design-ab33f50654/">戏剧（BFA）：舞台美术设计</a><small>BFA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-scenic-technology-68ed3755c7/">戏剧（BFA）：舞台技术</a><small>BFA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-sound-design-technology-5b8f0a0ef6/">戏剧（BFA）：声音设计与技术</a><small>BFA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-stage-management-8203663ad6/">戏剧（BFA）：舞台监督</a><small>BFA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-theatre-studies-2d5a6971b4/">戏剧（BFA）：戏剧研究</a><small>BFA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-urban-studies-planning-d2fa51621b/">城市研究与规划</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-urban-studies-planning-global-cities-509fc3eb4f/">城市研究与规划：全球城市</a><small>BA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-urban-studies-planning-policy-planning-23d42fc184/">城市研究与规划：政策与规划</a><small>BA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-urban-studies-planning-social-justice-3675e9fc88/">城市研究与规划：社会正义</a><small>BA内的方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-urban-studies-planning-sustainability-c4e2816ef2/">城市研究与规划：可持续性</a><small>BA内的方向（不另授学位） · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -267,20 +416,22 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 169 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 318 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>UIUC 2026—2027官方A–Z本科目录顶层学位；含明确标注的内部／在线及历史入口</p>
+<p><strong>统计范围：</strong>169保留本科记录＋149个45母专业内具名concentration；新增独立授位为0</p>
 
-<p><strong>对账方法：</strong>A–Z184个顶层行与原177条对账，8个同URL同学位索引别名合并，保留169独立学位页。157内部方向有实际原文，149个当前候选尚待独立逐项整合，8个已暂停方向不作新入口。</p>
+<p><strong>对账方法：</strong>逐页核157旧嵌套候选，剔除8明确停招项；149方向真实课程/父学位与9收费组配对，134引用父统计且不当成方向独立调查。</p>
 
 <p><strong>排除项：</strong>Include every top-level major with bachelor award; keep separately listed dual degree program. Exclude undeclared, cross-references, and nested concentration options from independent-major count while preserving all excluded rows.</p>
 
 **尚未解决的目录缺口：**
 
-- 149个当前内部方向有目录及课程原文，尚未全部拆为独立可查询条目；当前目录完整性保守标为部分。
-- 2个暂停学位保留课程及历史毕业统计；3个在线完成和在校第二学位等不等于高中直接招生。
-- 2027秋季全新收费组费率、双学位实际计费、未匹配专业的毕业调查及逐课程授课语言仍有缺口。
-- 毕业统计对应137个分组；同名学位、方向或双学位有合并口径，不能称每条独立调查或全部中国学生结果。
+- 古典语言内古希腊语／拉丁语／双语三路径、英语专题3个课程组、工程技术组选项等只在父方向说明，未另造组合库存；本轮不证明所有第三级具名track已穷尽。
+- 当前目录列出不等于每个方向都独立接受2027高中申请；招生、在读分流、线上完成与教师资格各自保留。
+- 幼儿教育两线上方向已取得副学士入口及精确线上收费组，但中国既有学历等值、境外可读性和2027独立截止未取得。
+- 149方向均无独立concentration毕业样本；134条有父专业或官方合并组数字，15条只保留相应证据缺口，不以职业展望冒充数字。
+- 2027秋新收费组未取得；线下费为2026/27、2026夏—2027春入读组，线上442＋4为2026夏—2027夏入读组。
+- 19条未从现存课程或父课程事实取得可直接引用的学制，不用一般四年自动填全。
 
 - [官方目录来源](https://catalog.illinois.edu/undergraduate/)
 - [官方目录来源](https://catalog.illinois.edu/undergraduate/bus/accountancy-bs/)
@@ -512,5 +663,128 @@ hide:
 - [官方目录来源](https://www.cost.illinois.edu/Home/Cost/I/U/Compare/12/120268/120268)
 - [官方目录来源](https://www.admissions.illinois.edu/financial-aid/)
 - [官方目录来源](https://www.admissions.illinois.edu/scholarships/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/bioprocess-engineering-industrial-biotechnology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/off-highway-vehicle-equipment-engineering/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/renewable-energy-systems-engineering/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/soil-water-resources-engineering/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/sustainable-ecological-environmental-systems-engineering/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/synthetic-biological-engineering/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/agri-accounting/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/agribusiness-markets-management/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/consumer-economics-finance/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/environmental-economics-policy/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/farm-management/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/finance-agribusiness/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/financial-planning/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/policy-international-trade-development/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/public-policy-law/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/agricultural-leadership-education-communications-bs/agricultural-communications/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/agricultural-leadership-education-communications-bs/agricultural-education/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/agricultural-leadership-education-communications-bs/organizational-community-leadership/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/animal-sciences-bs/companion-equine-science/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/animal-sciences-bs/food-animal-production-management/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/animal-sciences-bs/science-pre-veterinary--medical/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/anthropology-balas/archaeology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/anthropology-balas/biological-anthropology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/anthropology-balas/sociocultural-linguistic-anthropology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/chemical-engineering-bs/biomolecular-engineering/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/chemistry-bs/environmental-chemistry/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/classics-balas/classical-civilizations/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/classics-balas/classical-languages/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/crop-sciences-bs/agroecology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/crop-sciences-bs/crop-agribusiness/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/crop-sciences-bs/horticultural-food-systems/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/early-childhood-education-bs/professional-education-licensure/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/early-childhood-education-bs/professional-education-non-licensure/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/engineering-technology-management-agricultural-systems-bs/agricultural-production-processing/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/engineering-technology-management-agricultural-systems-bs/construction-management/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/engineering-technology-management-agricultural-systems-bs/digital-precision-agriculture/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/engineering-technology-management-agricultural-systems-bs/energy-environment/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/environmental-sustainability-bslas/science-of-the-earth-system/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/environmental-sustainability-bslas/society-and-the-environment/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-balas/general-geography/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-balas/human-geography/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-bslas/geographic-information-science/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-bslas/physical-geography/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/geology-bs/environmental-geology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/geology-bs/geophysics/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/geology-bslas/earth-environmental-sciences/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/geology-bslas/earth-science-teaching/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/history-balas/history-teaching/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/integrative-biology-bslas/honors/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/interdisciplinary-health-sciences-bs/health-across-lifespan/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/interdisciplinary-health-sciences-bs/health-behavior-change-rehabilitation/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/interdisciplinary-health-sciences-bs/health-diversity-disability/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/interdisciplinary-health-sciences-bs/health-technology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/kinesiology-bs/applied-exercise-science/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/kinesiology-bs/biobehavioral-health-science/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/kinesiology-bs/health-science/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/kinesiology-bs/teacher-certification/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/learning-education-studies-bs/educational-technology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/learning-education-studies-bs/inclusive-leadership-learning-organizations/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/liberal-studies-bls/global-perspectives/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/liberal-studies-bls/health-society/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/liberal-studies-bls/management-studies/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/lyric-theatre-bma/creative/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/lyric-theatre-bma/performance/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/mathematics-bslas/applied-mathematics/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/mathematics-bslas/data-optimization/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/mathematics-bslas/math-doctoral-preparation/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/mathematics-bslas/teaching-mathematics/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/middle-grades-education-bs/literacy/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/middle-grades-education-bs/mathematics/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/middle-grades-education-bs/science/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/middle-grades-education-bs/social-science/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/molecular-cellular-biology-bslas/honors/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/music-ba/music-technology)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/music-education-bme/choral-music/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/music-education-bme/elementary-general-music/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/music-education-bme/instrumental-music/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/music-education-bme/technology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/natural-resources-environmental-sciences-bs/ecosystem-stewardship-restoration-ecology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/natural-resources-environmental-sciences-bs/environmental-science-management/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/natural-resources-environmental-sciences-bs/environmental-social-sciences/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/natural-resources-environmental-sciences-bs/fish-wildlife-conservation-biology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-bs/plasma-fusion-science-engineering/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-bs/power-safety-environment/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-bs/radiological-engineering-radiological-medical-instrumentation-applications/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/psychology-bslas/behavioral-neuroscience/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/psychology-bslas/clinical-community-psychology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/psychology-bslas/cognitive-neuroscience/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/psychology-bslas/cognitive-psychology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/psychology-bslas/developmental-psychology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/psychology-bslas/diversity-science/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/psychology-bslas/intradisciplinary-psychology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/psychology-bslas/organizational-psychology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/psychology-bslas/personality-psychology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/psychology-bslas/social-psychology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/public-health-bs/community-health-practice/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/public-health-bs/epidemiology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/public-health-bs/health-administration-policy/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/public-health-bs/health-education-promotion/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/recreation-sport-tourism-bs/recreation-management/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/recreation-sport-tourism-bs/sport-management/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/recreation-sport-tourism-bs/tourism-management/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/fashion/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/illustration/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/interdisciplinary-practice/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/new-media/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/painting/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/photography/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/printmaking/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/sculpture/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/acting/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/arts-entertainment-technology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/costume-design-technology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/lighting-design-technology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/scenic-design/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/scenic-technology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/sound-design-technology/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/stage-management/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/theatre-studies/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/urban-studies-planning-ba/global-cities/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/urban-studies-planning-ba/policy-planning/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/urban-studies-planning-ba/social-justice/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/urban-studies-planning-ba/sustainability/)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

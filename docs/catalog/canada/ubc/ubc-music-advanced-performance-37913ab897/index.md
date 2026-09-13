@@ -34,10 +34,19 @@ hide:
 
 <p><strong>授予学位 / 项目类型：</strong>Bachelor of Music</p>
 
-<p><strong>目录适用期：</strong>官网当前目录；未标明确入学年度，核对于2026-09-12</p>
+<p><strong>目录适用期：</strong>2026/27现行校历；2027申请日期、收费与历史版本逐条核验</p>
+
+<p><strong>条目类型：</strong>performance_major_overview</p>
+
+<p><strong>申请路径：</strong>学校资格与所属学位先修分别核对；具体主修可能在入学后选择。</p>
+
+<p>七个具名BMus表演主修分别见新增条目；本项为共享总览。</p>
 
 <p class="catalog-fact"><strong>项目内容：</strong>结合音乐理论技术与音乐能力训练，并在四年内接受主修乐器、声乐或歌剧等个别指导。</p>
 <p class="fact-sources"><a href="#source-p-program">官方依据</a></p>
+
+<p class="catalog-fact"><strong>七个实际表演主修：</strong>Music: Advanced Performance是招生概览。现校历实际列Guitar、Harpsichord、Opera、Orchestral Instrument、Organ、Piano、Voice七个BMus major，各有不同课程、学分与试演要求；本批逐项补录，不按每种管弦乐器任意制造更多学位。</p>
+<p class="fact-sources"><a href="#source-p-UBCS-vancouver-775d1775aa9d">官方依据</a> · <a href="#source-p-UBCS-vancouver-539032a62ac4">官方依据</a> · <a href="#source-p-UBCS-vancouver-203b71657405">官方依据</a> · <a href="#source-p-UBCS-vancouver-1fd2b88b22d8">官方依据</a> · <a href="#source-p-UBCS-vancouver-6f7017ba0f80">官方依据</a> · <a href="#source-p-UBCS-vancouver-10c643f24c96">官方依据</a> · <a href="#source-p-UBCS-vancouver-279025111d7f">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -95,7 +104,7 @@ hide:
 
 ## 官方来源与核验记录 {#sources}
 
-目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
+目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
 
 - [官方项目页面或项目所在目录](https://you.ubc.ca/programs/music-advanced-performance/)
 - [官方目录](https://you.ubc.ca/programs/)
@@ -103,6 +112,13 @@ hide:
 <div class="catalog-source" id="source-p-program"><div><a href="https://you.ubc.ca/programs/">UBC官方本科项目资料：Music: Advanced Performance ↗</a><p>公开完整programsListData中的培养内容、项目类型及官方项目入口</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-china-degree"><div><a href="https://you.ubc.ca/applying-ubc/requirements/international-high-schools/">UBC中国申请：所属学位先修 ↗</a><p>该校区中国资格选择器下的学位特定要求</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-fee"><div><a href="https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate">UBC Vancouver2026/27本科收费表 ↗</a><p>国际新生档 Music 的每学分金额与适用批次</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-UBCS-vancouver-775d1775aa9d"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/guitar">UBC — Guitar ↗</a><p>七个实际表演主修</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCS-vancouver-539032a62ac4"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/harpsichord">UBC — Harpsichord ↗</a><p>七个实际表演主修</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCS-vancouver-203b71657405"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/opera">UBC — Opera ↗</a><p>七个实际表演主修</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCS-vancouver-1fd2b88b22d8"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/orchestral-instrument">UBC — Orchestral Instrument ↗</a><p>七个实际表演主修</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCS-vancouver-6f7017ba0f80"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/organ">UBC — Organ ↗</a><p>七个实际表演主修</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCS-vancouver-10c643f24c96"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/piano">UBC — Piano ↗</a><p>七个实际表演主修</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCS-vancouver-279025111d7f"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/voice">UBC — Voice ↗</a><p>七个实际表演主修</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-china-v"><div><a href="https://you.ubc.ca/applying-ubc/requirements/international-high-schools/">UBC中国资格：Vancouver ↗</a><p>动态选择中国和Vancouver的正式资格、先修与历史参考成绩</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-china-o"><div><a href="https://you.ubc.ca/applying-ubc/requirements/international-high-schools/">UBC中国资格：Okanagan ↗</a><p>动态选择中国和Okanagan的正式资格、先修与历史参考成绩</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-dates"><div><a href="https://you.ubc.ca/applying-ubc/dates-deadlines/">UBC2027申请日历 ↗</a><p>申请、英语和境外高中材料、International Scholars截止</p><small>核验 2026-09-12</small></div></div>

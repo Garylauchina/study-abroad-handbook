@@ -48,6 +48,15 @@ hide:
 <p class="catalog-fact"><strong>学制与授予：</strong>官网列明 3 或 4 年；授予 BA。同页多个学位或路线不表示同时取得全部学位。</p>
 <p class="fact-sources"><a href="#source-p-OXG-C001">官方依据</a></p>
 
+<p class="catalog-fact"><strong>课程层次与入口说明：</strong>母条目是课程分组／共同入口；新增文件已按官网明确名称和路线展开，不能把每行当作独立授予不同学位。</p>
+<p class="fact-sources"><a href="#source-p-OXS-C001">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程层次与入口说明：</strong>中央总表 Q480 与 Hebrew 专页 Q408 不一致。新 Hebrew 及其附属路线不填写已确认 UCAS code；raw_key 保留初始发现键以追溯，不能用它当确认代码。</p>
+<p class="fact-sources"><a href="#source-p-OXS-C001">官方依据</a> · <a href="#source-p-OXS-AMES-HEBREW">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程层次与入口说明：</strong>专页明确此前 Egyptology and Ancient Near Eastern Studies 的古代近东方向改称 BA Assyriology，课程内容未变。不可将旧名再增加成第三个独立学位。</p>
+<p class="fact-sources"><a href="#source-p-OXS-C001">官方依据</a> · <a href="#source-p-OXS-AMES-ASSYR-EGYPT">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 <p class="catalog-fact"><strong>2027学历等级：</strong>A-level通常为AAA。IB总分39（含核心加分），HL 6/6/6；指定科目及例外见下条。这些是相应资格体系的要求，不能直接折算为高考分数。</p>
@@ -108,12 +117,15 @@ hide:
 
 ## 官方来源与核验记录 {#sources}
 
-目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
+目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
 
 - [官方项目页面或项目所在目录](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies)
 - [官方目录](https://www.ox.ac.uk/admissions/undergraduate/courses/undergraduate-course-listing-a-z)
 
 <div class="catalog-source" id="source-p-OXG-C001"><div><a href="https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies">Asian and Middle Eastern Studies — Oxford 2027 undergraduate course ↗</a><p>课程内容、学历与科目、招生测试/材料/日期、2027费用及职业方向</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-OXS-C001"><div><a href="https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies">Asian and Middle Eastern Studies — Oxford 2027 undergraduate course ↗</a><p>该课程组的具名路线与代码、课程结构、相应申请条件、2027海外年度费用和职业方向；具体定位另列</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-OXS-AMES-HEBREW"><div><a href="https://www.ox.ac.uk/hebrew-and-jewish-studies">Hebrew and Jewish Studies — Oxford ↗</a><p>具名学位、在读辅修选择、课程内容与该语言专业适用边界</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-OXS-AMES-ASSYR-EGYPT"><div><a href="https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies/egyptology">Assyriology and Egyptology — Oxford ↗</a><p>具名学位、在读辅修选择、课程内容与该语言专业适用边界</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-9ca54d07a0bc53"><div><a href="https://www.ox.ac.uk/admissions/undergraduate/courses/admissions-requirements/international-qualifications">Oxford 国际学历：中国条目 ↗</a><p>不接受高考或普通高中毕业证</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-f5da9307fd5b4a"><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS 2026／2027申请日历 ↗</a><p>2027申请提交、牛剑和医学早截止、常规平等审理截止</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-OXG-English"><div><a href="https://www.ox.ac.uk/admissions/undergraduate/applying/for-international-students/english-language-requirements-visas">Oxford 英语语言要求 ↗</a><p>较高英语标准、IELTS、TOEFL版本限制与豁免</p><small>核验 2026-09-12</small></div></div>
