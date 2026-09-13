@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-159 个专业条目 · 0 个含详细资料 · 159 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+176 个专业条目 · 0 个含详细资料 · 176 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=durham#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -156,6 +156,23 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-music-28db0b1de3/">音乐</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-natural-sciences-23f6a85259/">自然科学</a><small>MSci (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-natural-sciences-4b9e6da3b4/">自然科学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-natural-sciences-psychology-pathway-a8511d0651/">自然科学：心理学认证路径</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-natural-sciences-psychology-pathway-with-placement-bd03f65445/">自然科学：心理学认证路径（实习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-natural-sciences-psychology-pathway-with-year-abroad-61db22566d/">自然科学：心理学认证路径（海外年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-natural-sciences-with-placement-2f99102989/">自然科学（实习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-natural-sciences-with-placement-612c5ad9f8/">自然科学（整合硕士，实习年）</a><small>MSci (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-natural-sciences-with-year-abroad-3e1a702892/">自然科学（海外年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-anthropology-and-biology-bsc-natsci-34d0a554df/">自然科学：人类学与生物学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-biology-and-earth-sciences-bsc-natsci-f5fd460ea4/">自然科学：生物学与地球科学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-biology-and-geography-bsc-natsci-33bb06636b/">自然科学：生物学与地理学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-biology-and-mathematics-bsc-natsci-b24dd93c86/">自然科学：生物学与数学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-biology-and-physics-bsc-natsci-8335cd9dab/">自然科学：生物学与物理学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-biology-and-physics-msci-natsci-0eda5c4838/">自然科学：生物学与物理学（整合硕士）</a><small>MSci (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-business-and-computer-science-bsc-natsci-c94c400c90/">自然科学：商学与计算机科学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-chemistry-and-earth-sciences-bsc-natsci-90db5d1f39/">自然科学：化学与地球科学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-computer-science-and-physics-bsc-natsci-c185524bfc/">自然科学：计算机科学与物理学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-earth-sciences-and-geography-bsc-natsci-fc5cd091a9/">自然科学：地球科学与地理学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-mathematics-and-psychology-bsc-natsci-b7662f4a50/">自然科学：数学与心理学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-2fd13e9a28/">哲学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-and-physics-fdbf88a91f/">哲学与物理学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-and-politics-304ef55011/">哲学与政治学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
@@ -236,19 +253,23 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 159 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 176 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>Course sectiontype only; exact official DegreeCourseLevel_ss Undergraduate；All subjects, modes, sites; exclude postgraduate and unclassified non-course pages；Single record per course URL; if one page advertises 2026 and 2027 retain current 2027 intake and preserve all dates</p>
+<p><strong>统计范围：</strong>159原记录＋11具名联合方向＋6在读注册路线；非176个独立高中UCAS项目</p>
 
-<p><strong>对账方法：</strong>[{&quot;source&quot;: &quot;public SearchStax API configured by official search page&quot;, &quot;rows_requested&quot;: 1000, &quot;numFound&quot;: 313, &quot;numFoundExact&quot;: true, &quot;received&quot;: 313, &quot;undergraduate_records&quot;: 174}] 逐一取得174个Chrome课程页及所选China资格；校正当前名称和UCAS代码，合并12个同年同代码同学位重复页，排除3个CHE/DHE证书文凭。</p>
+<p><strong>对账方法：</strong>41个部门规章目录共428行，按代码合并为371项并逐项比对；155已收录、6注册路径本批补入、179待研究、19旧届、6暂停、6武汉联办分别记录。</p>
 
 <p><strong>排除项：</strong>Course sectiontype only; exact official DegreeCourseLevel_ss Undergraduate；All subjects, modes, sites; exclude postgraduate and unclassified non-course pages；Single record per course URL; if one page advertises 2026 and 2027 retain current 2027 intake and preserve all dates</p>
 
 **尚未解决的目录缺口：**
 
-- 159条为已核目录记录；学校本科首页称超过200种课程，原搜索索引与全部课程／方向尚未逐项闭合，不能据原索引完整性称全校专业已齐。
-- 158条选择2027入学；NN4H仅有2026 BA页面，与2027 N445 BSc保留为不同年度学位。
-- 所有所选年度课程页学费均明确尚未确认；专业统计保留各自HESA届次及受访群体，未取得独立UCAS样本量和中国籍分组。
+- 371是包含旧届、暂停、在读路径和合作校区的规章代码数，不是2027开放招生总数；176条当前查询记录仍未覆盖全校全部路线。
+- 尚有179个现行规章候选待核实际入口与详情，其中175个海外或实习变体及4个专门入口。
+- 6个武汉联办项目须分别核地点、合作招生身份、授位与费用；不套杜伦市普通国际生规则。
+- 19个Last intake及6个2026/27暂停条目不据此推定2027恢复，也不一律认定永久停招。
+- 原有2027人工智能BSc/MEng、Cranmer神学及旧2026 NN4H虽未在当期规章索引列出，仍保留既有证据与适用年度。
+- 所选2027课程页尚未确认学费；自然科学各方向的独立毕业调查、薪资样本和中国籍分组仍未取得，母项目结果仅作范围已标明的参考。
+- 语言内部路线、Foundation入口、外出年收费、N512空白课程页及未来规章更新仍待核对。
 
 - [官方目录来源](https://dur.ac.uk/search/?searchstax[query]=*&searchstax[page]=1&searchstax[facets][0]=tabs:sectiontype_ss:course&searchstax[model]=main%20site)
 - [官方目录来源](https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/)
@@ -438,5 +459,50 @@ hide:
 - [官方目录来源](https://www.durham.ac.uk/study/courses/ancient-history-v110/)
 - [官方目录来源](https://www.durham.ac.uk/study/courses/chemistry-with-overseas-project-f102/)
 - [官方目录来源](https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/FGC0)
+- [官方目录来源](https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/msci-natural-sciences-subject-guide/)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0)
+- [官方目录来源](https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Classics%20and%20Ancient%20History)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Archaeology)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/History)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/English%20Studies)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Philosophy)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Liberal%20Arts)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28Chinese%29)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28French%29)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Economics)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28Japanese%29)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28Arabic%29)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28German%29)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28Italian%29)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28Russian%29)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28Spanish%29)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28Visual%29)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Music)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Government%20and%20International%20Affairs)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Psychology)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Theology%20and%20Religion)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Accounting)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Finance)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Management%20and%20Marketing)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Biosciences)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Chemistry)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Computer%20Science)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Earth%20Sciences)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Engineering)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Global%20Wuhan)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Mathematical%20Sciences)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Natural%20Sciences)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Physics)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Anthropology)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Sociology)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Combined%20Honours%20in%20Social%20Sciences)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Education)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Foundation%20Year%20%28Durham%29)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Geography)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Law)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Sport%20and%20Exercise%20Sciences)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

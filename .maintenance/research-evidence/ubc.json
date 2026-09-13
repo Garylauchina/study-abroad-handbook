@@ -29,7 +29,7 @@
       "url": "https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate",
       "sha256": "b9851a501fc48168b08b53baaffa6b6511d57e2bfabf98dd79781dfad58e389a",
       "raw_file": "scratch/full-catalog/root/ubc-fees-vancouver.html",
-      "locator": "International Students table: commenced in 2026S or later; Arts, Commerce, Music, Science; footnote 2"
+      "locator": "Undergraduate Degree Programs > International Students; 2026S or later column; footnotes 1–3"
     },
     {
       "url": "https://vancouver.calendar.ubc.ca/fees/policies-fees",
@@ -44,6 +44,54 @@
       "locator": "programsListData.programs[id=1043]；official_url=https://you.ubc.ca/programs/zoology/"
     },
     {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/physics",
+      "sha256": "6692c75c431f94c443fe27ca29f0ff3223fe0a3ea34d564a474e178f0a7ca469",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-03161f5937eb.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biotechnology",
+      "sha256": "d9ca5988f94f63b70b08435d72f8833c56c421ba8d18873101c34ec08ecfe488",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-5919287fa01a.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later",
+      "sha256": "a26b512951423ddef46decb73ac03725bd9309092684bb3fa45d83233af18bcf",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-a4df8a93d69c.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-management-program-students-who-entered-program-20252026-or-earlier",
+      "sha256": "b49ac7e88afc0ea03fb68d03a70ac36fa4e0e86ce2786b177d95788c33f9dbed",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-209dfd1f9e0e.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/introduction",
+      "sha256": "771e050d1891bf9240382cae5ce9ee4544072a3a2f5390aa9a6b15fb644c31bb",
+      "raw_file": "scratch/full-catalog/ubc-supplement-2/raw/ok-commerce-intro.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/degree-requirements",
+      "sha256": "dcece1fae4625ee01b25c5cde683fdac069006d632bedea8a7a9c5f1fc5ce583",
+      "raw_file": "scratch/full-catalog/ubc-supplement-2/raw/ok-commerce-degree.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations",
+      "sha256": "0990ea4b7e90b4490d730694598c7b4f88521d3ad73e1eff18cb0700ddd43f51",
+      "raw_file": "scratch/full-catalog/ubc-supplement-2/raw/ok-commerce-concentrations.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/fees/tuition-fees/undergraduate",
+      "sha256": "38f19f40093340668a0bf7286053993f20d1335471f694b3ecb05fca52db08b9",
+      "raw_file": "scratch/full-catalog/root/ubc-fees-okanagan.html",
+      "locator": "Undergraduate Degree Programs > International Students; 2026S or later column; footnotes 1–3; Management-to-Commerce asterisk"
+    },
+    {
       "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-dentistry/doctor-dental-medicine/admission",
       "sha256": "0045670c61ceb1342ea6a910490d5fb376e8e3d3c44aa8f23017400b05feb113",
       "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-05a4aff87392.html",
@@ -53,6 +101,12 @@
       "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-dentistry/doctor-dental-medicine/introduction",
       "sha256": "2f094c52aad2bc90fd3631e5ba3000d71a33269152c594f72699d347550b46fc",
       "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-2ef569078cc0.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/ecology-evolution-and-conservation-biology",
+      "sha256": "65ba295de36ca490fcc1479166d33cc777dbee1e213ea98c50f52b23bd6d97bd",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-27666ae2c987.html",
       "locator": null
     },
     {
@@ -173,6 +227,12 @@
       "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school-music/bachelor-music/general-studies-secondary-education-stream",
       "sha256": "3def4a907d4a60733314a88ee252092dcfe0095f9ea8d208eef97fe75a55d62a",
       "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-6495ef27e596.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/oceanography",
+      "sha256": "6ab23b50e47b7fe7dcd16c4c32367a6ae5c3f0195e577adfe091e461ee4e5996",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-05ec456cd697.html",
       "locator": null
     },
     {
@@ -431,6 +491,414 @@
       "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/mathematics",
       "sha256": "b7da38634dac557ac5338ce8319c0f3437379142af27ef160095c623cefb6168",
       "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-d8faddce5b3b.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/atmospheric-science",
+      "sha256": "effc4eeb2dac08dfb711496448a1a6e9082ed285684756be76a48fcf603c74f7",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-5f8d8323ab59.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry",
+      "sha256": "9cb1c6212ed046947b854a2860b3e4f7c6ae84fc2d0073866a2ebb532d91d8a0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-d0a0d3ca45ee.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/chemistry",
+      "sha256": "c0efe7251debd3557fbc273f0379c41b165d6d8edc99d88cc63d92344f0dd975",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-483ab230d43f.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/cellular-and-physiological-sciences",
+      "sha256": "901b8e9fa23daea7b4600909c859cc2f8f9b640d9c13c09ffc357d2ade6edf23",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-bc13c9bb1e43.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/forensic-science",
+      "sha256": "740d473f939f25f97500d1e6ac300f76cc128614602ac35573818a2eb72c8109",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-b0241c7c3669.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/geological-sciences",
+      "sha256": "c307cf159bfd26c3510ce521c11340909d4f1a8651b5c124b1d85adbf22da183",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-0410b02ee14f.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/geophysics",
+      "sha256": "417ef4f32dcbe265fb3dff3bf0ad15ba35317ea189c754a65907fcdfd9c5a9be",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-91a34c84448b.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/pharmacology",
+      "sha256": "101630f199c2f6ae01a714954a506acabe0e197b6f5832b2e5525d4fdba5056a",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-4a2ca628dd47.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/integrated-sciences",
+      "sha256": "4b9a1f8d610f901c787c2f1be5bd635e2aa3ee87d2adef1d839d64331d166a0b",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-6ee9a25c9b55.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/environmental-sciences",
+      "sha256": "2a2eaa7a6027ae5e32f6d9496a8c50847d8b69640ad9d988519b9940fbac6b9c",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-bfa0ed7ac013.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/biochemistry-and-molecular-biology",
+      "sha256": "a5705304750093f057b5c538e5c9afd46b1d3f936fd853e7f0c09c89d566c3ed",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-38490ebe914a.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/biology",
+      "sha256": "30af5ddb276ba94881c01e598d2da6b5ef4fe6cf4f13d66c25a7a33afbdc0ccd",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-4bec8640abf9.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/chemistry",
+      "sha256": "7cdc3aa9a89aa6cf508aff39bb3e83c9cf5e0a1c97770ae1d6be2c8d1d547442",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-4ae35ef3a906.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/data-science",
+      "sha256": "8ffb590c3d77bcd16201c8f5d0693b3266c4bf2fb269b30dd0b60a848d334ca0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-4b28999c1d1e.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/earth-and-environmental-sciences",
+      "sha256": "1ff133b766cffd4d4c40a7eb6230a82ad31c61800723472fdc41dd003b935281",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-170fc6762a95.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/environmental-chemistry",
+      "sha256": "79cd8fc152ac59d1601a92ff0894ef49ef5052800b5dc2ebf2571655aa8f7af6",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-4e77bac4120a.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/freshwater-science",
+      "sha256": "ebe8797a15373f35b28d908a693b4fcdc2092fee55d940e788a229f066c15619",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-2b610e342a96.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/microbiology",
+      "sha256": "4a9d65c6580275fa6dd391ec882d519d2df67db3c965ec829d948e46c988a249",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-5383081ddf6b.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/zoology",
+      "sha256": "5a8d47d468187f786d49c4ef13d7acde0d7ee38680a12c5efb32b81973a02f7c",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-6da77c551b19.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/computer-science-ba",
+      "sha256": "03733bf39c279d9ebe010444cc030c99ded92329085dec9803f5b30e98968345",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-ef3073149cc5.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/computer-science-bsc",
+      "sha256": "0ee3ed70d09f68813936b9b1ca3b37a34c84c72a426786f51c5beadd89f99523",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-6a90c788cc3c.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/economics-ba",
+      "sha256": "8be071edcbbccb7e8d40659a5fa26deb006409553db96b08805dd3fcff707ca0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-7bdf0928a484.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/economics-bsc",
+      "sha256": "fb1d7312ede7c7b9dc7ac3f7ecca6c7639e6532938ace508ddf5070cc8458927",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-00f2e4ef47d9.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-arts-programs/english",
+      "sha256": "aebffecd85ae0c2f357a6faf1dd39836e75532411c13da57517b0af4604df3aa",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-6d9730ddeea3.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/history",
+      "sha256": "b61eeb23be24f6073e77bff043a63006cc255af0df07c7bf30eb62ed3fd0d96e",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-6252ff5c53be.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/mathematics-bsc",
+      "sha256": "17a42600dae20ccf74cdd2582f1529cf2b8278b2e25639d76c3dcbf0769634d6",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-d8913c7f324d.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/philosophy-politics-and-economics-ppe",
+      "sha256": "ff0b3a7943aecdbb65d4677beca206d4c5e21337eef248a003a6df3aef60fe56",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-8a6a367abd1d.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/physics-and-astronomy",
+      "sha256": "efb10f6f1976d03244d7d7a66565ce7712171c80148dc0a9d8946eee2309c4fb",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-ca6c6e796336.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/psychology-ba",
+      "sha256": "287bdce6ffd573ea111e2adf118e5ac866562602b4c8b3af0f49ad6ae6e62fb2",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-f8becde80d7b.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/psychology-bsc",
+      "sha256": "536f662919d5b45097dedd04c3df6b2f5d7c3f832e1665fda622b105b492ff8e",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-2a543793dfa6.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/statistics",
+      "sha256": "3ea20f01b330c25b4637c61275b74a9a1f4fa77ecdab1f3577eb8fb1d247e7c0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-e8868c69befd.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/ancient-mediterranean-and-near-eastern-studies",
+      "sha256": "74997c5d9b99c2acc36e01bf5302e0dc44e452adc6f486d23d9b7187c436ea6f",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-c3a4fd3e9843.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/anthropology",
+      "sha256": "68a41b3ba6bd2f2ae880b996830a6c6f254d6564b7cb52ae72fa70003f803a2a",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-ac6d98da5bb0.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/art-history-visual-art-and-theory",
+      "sha256": "897b9e132a740d51327126e7384d156b5e85e0b252a285df63e7ce4f47b8524d",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-eba315e38210.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/cinema-studies",
+      "sha256": "8ce77e323c551553b24985f1692047b97f6fc55d6e5aa83e1ea4a4f23c0d8080",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-023c0ba02ec5.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies",
+      "sha256": "334484b2de2f1eba20efd7e95f1ffc425dc92bd5d1925538d73be980608a54d2",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-6dc15012992c.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/english",
+      "sha256": "7bafa298ff13d3d169ec460dc184812594d9b230fa72b497ba04dcab7d418e72",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-257465f31b4f.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/philosophy",
+      "sha256": "cb7eb46edfd34db2887ed60df93fce049440fa3563b495b8dfd7817005fe02cd",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-9d3beeefb73b.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/computer-science",
+      "sha256": "14b19df32aa47111a812a31260949177aa81545c7aa6af5e451b4fed84d56f7c",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-30bbb6a9424f.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/german-studies",
+      "sha256": "c960bd332ddc0744293d9df59abc899342deeda744e5ebdc7dc924567ae6b4e0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-4e54dfaacd68.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/history",
+      "sha256": "53831753960691221fbbe3808464b672eefc34d182b000a13539921e61746dba",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-ecf6c460f9bc.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/human-geography",
+      "sha256": "b93a4ded50ce7ae580c3fb867f71d7a9d20ae1ae54e635f10e4d224e383c7f07",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-aa9bc502e904.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/linguistics",
+      "sha256": "6c004d60cae2c163789ade519423bf218d0e060473de9b00c21a765250b5eeb9",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-7c907f4d0e67.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/mathematics",
+      "sha256": "bf04a78d70ebf6f577ac32369b52dffa68cffb2ddb3aeea4050657349896bbc2",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-341dcf065811.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/music",
+      "sha256": "10fdf7dce8ff55de4ceb29282b64b13558d46a5fe9b2e6ddd0e4aed21d7aea72",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-3187f1bc3da1.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology",
+      "sha256": "0cf765f5c3456e6b6bc2d50587ee0011c6720007757e5453364848301cbade23",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-5a4b7b4ccc39.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/romance-studies",
+      "sha256": "117192d9807902db4e50c31238238abdcc2f3d01b3f17570a16aa745907a2d88",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-b66e105638b1.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/sociology",
+      "sha256": "36470041da198cabfedd0270a21d7767b8756f609831c109ba348733b59199f2",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-0c868dc6be59.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/program-study-religion",
+      "sha256": "d433d18b17da27b67e7827aa9146e6322e03812fbd7ac3e865578aa699ae745b",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-19a113858590.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/theatre",
+      "sha256": "967e41dafedbf480faca85a16a12d2bb3bb1099f1c9702576eb4138226351a79",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-8fe08b67e926.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-fine-arts/visual-art",
+      "sha256": "7cb67a3c8f75715d5a8be6755cd1f6fc531281de157c88d000af71d6c07eb775",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-49a60c2273db.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/political-science",
+      "sha256": "8471c7f0cc67bc150cfd1fb2df7f6409578c12871bc532780c4f79e5a823ba50",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-e92fc2ca0a7b.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/cognitive-systems",
+      "sha256": "2e49fbe745977cedb52873baaddae3efa2e95d8a5fae7d7f1e63d196ab201b8c",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-9dc59041918d.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/cognitive-systems",
+      "sha256": "9a7f60e806a036cc6271097390eef50bbd5ea1285b85a2d1f73e42c790235721",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-0c5f61625e1b.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/neuroscience",
+      "sha256": "9886cb30b9b9e70c039ccdeeaeffef86c51f2858569a228a58ef29502945e54f",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-20178f2ea1a2.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-applied-science/bachelor-applied-science/mechanical-engineering",
+      "sha256": "2a98a4bee6c4afdc009dc21053fbed1fda23b2e5c7db4ad3f6c742c0f2026688",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-fd14c2c81bd9.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-applied-science/bachelor-applied-science/electrical-and-computer-engineering",
+      "sha256": "4c6bed96f95844e94289633919c501cb7be04b6947032e555f9f60cbb559c7a3",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-2f33b34ef4f6.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/school-engineering/bachelor-applied-science-program/concentrations",
+      "sha256": "5b1683979d3d16ce54f706cbf5662a2f668011b938fec44aba1ba600b2f37433",
+      "raw_file": "scratch/full-catalog/ubc-supplement-2/raw/ok-engineering-concentrations.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/applied-animal-biology-major",
+      "sha256": "b07bd4507ff9e54f75e95d533e89845f244fea1efe0bac780f6d60957309dcd0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-a9f3fa89cb65.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/sustainable-agriculture-and-environment-major",
+      "sha256": "747626c49b1055e0b3716a5f7ec9f4c5bdd0b86a365d0ee980a81bd0a06dbd35",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-394e58f00bb3.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/accounting",
+      "sha256": "5cdceb3b93da824d14871d45e3bef7f1af37c0b9b37e23e17e2f10b85596e2a9",
+      "raw_file": "scratch/full-catalog/ubc-supplement-2/raw/ok-bcom-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/business-technology-management",
+      "sha256": "3a7ee97c0462b528737f13ab6638d5fd80c80384c0966fb266a03acc5a125052",
+      "raw_file": "scratch/full-catalog/ubc-supplement-2/raw/ok-bcom-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/entrepreneurship",
+      "sha256": "32e99947b9b5323ded14b454ac0863527e745beeb63fbdf8ebc23bb8af89b986",
+      "raw_file": "scratch/full-catalog/ubc-supplement-2/raw/ok-bcom-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/finance",
+      "sha256": "e9177c3838199731bfa37a7b8099c5153ea07c29a6bbece3fecc9d291744f3dc",
+      "raw_file": "scratch/full-catalog/ubc-supplement-2/raw/ok-bcom-3.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/general-business-management",
+      "sha256": "7ed432ec933685241dc569bd5a0fb3cd35a0849426bd55adb7fb6f40b7645459",
+      "raw_file": "scratch/full-catalog/ubc-supplement-2/raw/ok-bcom-4.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/marketing",
+      "sha256": "80b2c715e46d6535e3f33bcbd2771aa61cfff02e44bf1fb4aca9e63e372c19e1",
+      "raw_file": "scratch/full-catalog/ubc-supplement-2/raw/ok-bcom-5.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/operations-and-logistics",
+      "sha256": "7ef76bb2bca54464c98842ec5b873305107df7d08987f2f422992fc5aa8a9b65",
+      "raw_file": "scratch/full-catalog/ubc-supplement-2/raw/ok-bcom-6.html",
+      "locator": null
+    },
+    {
+      "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/organizational-behaviour-and-human-resources",
+      "sha256": "fa679735391fcdd61ef8536f8866556d610a01ed9065d203ec08ae75a410fb79",
+      "raw_file": "scratch/full-catalog/ubc-supplement-2/raw/ok-bcom-7.html",
       "locator": null
     }
   ]

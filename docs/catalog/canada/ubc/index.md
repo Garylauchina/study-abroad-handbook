@@ -23,24 +23,46 @@ hide:
 
 ## 专业与申请资料
 
-252 个专业条目 · 0 个含详细资料 · 252 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+419 个专业条目 · 0 个含详细资料 · 419 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=ubc#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-ai-and-data-driven-computing-concentration-b82cdafe66/">人工智能与数据驱动计算（方向）</a><small>Bachelor of Science — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-accounting-e216665cbf/">会计（BCom方向）</a><small>Bachelor of Commerce — option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-accounting-bcom-concentration-0948aa761c/">商学：会计方向</a><small>Bachelor of Commerce — Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-aerospace-engineering-concentration-5805790260/">工程：航空航天方向</a><small>Bachelor of Applied Science — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-ancient-mediterranean-and-near-eastern-studies-80d8fca3c1/">古代地中海与近东研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-ancient-mediterranean-and-near-eastern-studies-honours-cf10c6ecad/">古代地中海与近东研究（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-animal-biology-honours-5ad16225b4/">动物生物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-anthropology-fd513109b8/">人类学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-anthropology-12c3f4a1b4/">人类学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-anthropology-honours-3f3eb9ef5b/">人类学（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-applied-animal-biology-14da95b660/">应用动物生物学</a><small>Bachelor of Science in Applied Biology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-applied-animal-biology-honours-f048b60115/">应用生物学：应用动物生物学（荣誉）</a><small>Bachelor of Science in Applied Biology — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-applied-mathematics-concentration-089df148ab/">应用数学（方向）</a><small>Bachelor of Science — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-archaeology-22550f6636/">考古学（人类学内聚焦）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-architecture-landscape-architecture-and-urbanism-ab6d177efb/">建筑、景观与城市设计</a><small>Bachelor of Design in Architecture, Landscape Architecture, and Urbanism · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-art-history-d4d7a7e94f/">艺术史</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-art-history-honours-cf188c2509/">艺术史（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-art-history-and-visual-culture-b9b6ca738f/">艺术史与视觉文化</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-asian-area-studies-2a3616967f/">亚洲区域研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-asian-area-studies-honours-a9f17f03ed/">亚洲区域研究（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-asian-language-and-culture-0b2280a108/">亚洲语言与文化</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-asian-language-and-culture-china-honours-feca01c1b9/">亚洲语言与文化：中国（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-asian-language-and-culture-china-option-4be14bf67c/">亚洲语言与文化：中国（方向）</a><small>Bachelor of Arts — Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-asian-language-and-culture-chinese-literature-honours-f1ca83d16c/">亚洲语言与文化：中国文学（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-asian-language-and-culture-chinese-literature-option-82bfcbf434/">亚洲语言与文化：中国文学（方向）</a><small>Bachelor of Arts — Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-asian-language-and-culture-japan-honours-c0755a3f34/">亚洲语言与文化：日本（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-asian-language-and-culture-japan-option-0342d1a082/">亚洲语言与文化：日本（方向）</a><small>Bachelor of Arts — Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-asian-language-and-culture-korea-honours-34b21517a8/">亚洲语言与文化：韩国（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-asian-language-and-culture-korea-option-0551b3fcaa/">亚洲语言与文化：韩国（方向）</a><small>Bachelor of Arts — Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-asian-language-and-culture-south-asian-languages-honours-2877805fc9/">亚洲语言与文化：南亚语言（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-asian-language-and-culture-south-asian-languages-option-c229129cc2/">亚洲语言与文化：南亚语言（方向）</a><small>Bachelor of Arts — Option · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-astronomy-1e71ab8933/">天文学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-atmospheric-science-d7b8acf37a/">大气科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-atmospheric-science-honours-e6ffce4d7f/">大气科学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-atmospheric-science-and-computer-science-combined-honours-90dd238319/">大气科学与计算机科学（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-applied-science-and-master-of-management-c6178a5e21/">应用科学（工程）学士＋管理学硕士</a><small>Bachelor of Applied Science + Master of Management · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-arts-and-master-of-management-586be73871/">文学学士＋管理学硕士</a><small>Bachelor of Arts + Master of Management · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-arts-and-master-of-management-d7fab5754e/">文学学士＋管理学硕士</a><small>Bachelor of Arts + Master of Management · 部分专业资料已核实</small></article>
@@ -66,30 +88,54 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-st-t-imc-language-fluency-and-bachelor-of-education-129f1da207/">St’át’imc语流利能力学士＋教育学士</a><small>Bachelor of St’át’imc Language Fluency + Bachelor of Education · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-sustainability-and-master-of-management-661e7cdf83/">可持续发展学士＋管理学硕士</a><small>Bachelor of Sustainability + Master of Management · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biochemistry-08fff198c7/">生物化学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biochemistry-honours-3ad52eff9e/">生物化学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biochemistry-option-f333fa7096/">生物化学（方向）</a><small>Bachelor of Science — Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biochemistry-and-chemistry-combined-honours-59520681bb/">生物化学与化学（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biochemistry-and-chemistry-combined-major-eb0eeee802/">生物化学与化学（联合主修）</a><small>Bachelor of Science — Combined Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biochemistry-and-forensic-science-combined-honours-247edb2ba3/">生物化学与法庭科学（联合荣誉）</a><small>Bachelor of Science (Combined Honours), jointly awarded by UBC and BCIT · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biochemistry-and-molecular-biology-94246d0427/">生物化学与分子生物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biochemistry-and-molecular-biology-honours-101f85392a/">生物化学与分子生物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bioeconomy-sciences-and-technology-544397d919/">生物经济科学与技术</a><small>Bachelor of Science in Natural Resources · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biology-9bbed50c78/">生物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biology-dee4db0286/">生物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biology-honours-b18de54b69/">生物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biology-honours-38a7a7cae6/">生物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biomedical-engineering-d63fdd7c3e/">生物医学工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biophysics-662b80aac9/">生物物理学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biotechnology-be29f993cc/">生物技术</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biomedical-engineering-engineering-concentration-61d188c771/">工程：生物医学工程方向</a><small>Bachelor of Applied Science — Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biophysics-662b80aac9/">生物物理学</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biotechnology-be29f993cc/">生物技术（UBC与BCIT联合荣誉理学士）</a><small>Honours Bachelor of Science — jointly awarded by UBC and BCIT · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-business-technology-management-4362d8b6b5/">商业技术管理（BCom方向）</a><small>Bachelor of Commerce — option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-business-technology-management-bcom-concentration-4f9d5ca3bd/">商学：商业技术管理方向</a><small>Bachelor of Commerce — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-business-and-computer-science-24f6afb8f5/">商科与计算机科学</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-business-and-markets-49cd8096d9/">商业与市场</a><small>Bachelor of Science in Food and Resource Economics · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-business-in-real-estate-6ee51214a4/">房地产商业学士（文凭后衔接）</a><small>Bachelor of Business in Real Estate · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-canadian-studies-32157837ae/">加拿大研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-cell-and-developmental-biology-honours-7ac8e830ea/">细胞与发育生物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-cellular-anatomical-and-physiological-sciences-honours-e95d0127bf/">细胞、解剖与生理科学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-cellular-anatomical-and-physiological-sciences-277d8d788f/">细胞、解剖与生理科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-chemical-biology-combined-honours-9241b3e245/">化学生物学（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-chemical-biology-combined-major-04400f9241/">化学生物学（联合主修）</a><small>Bachelor of Science — Combined Major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-chemical-engineering-96f60406ae/">化学工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-chemical-physics-combined-honours-89385ef599/">化学物理（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-chemical-and-biological-engineering-a065e08604/">化学与生物工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-chemistry-cf52b63024/">化学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-chemistry-e288e2ee28/">化学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-chemistry-honours-8526bda0f2/">化学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-chemistry-honours-4a6221f20d/">化学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-chemistry-and-mathematics-combined-honours-64dbf811f8/">化学与数学（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-cinema-studies-ac90eeaf49/">电影研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-cinema-studies-honours-e44a1dcb13/">电影研究（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-civil-engineering-c312a0f6cb/">土木工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-civil-engineering-256ce380dd/">土木工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-cognitive-systems-ba-e3d3561d38/">认知系统（文学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-cognitive-systems-bsc-b0cc1137ab/">认知系统（理学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-cognitive-systems-cognition-and-brain-bsc-2803b74588/">认知系统：认知与大脑（理学士方向）</a><small>Bachelor of Science — Cognitive Systems Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-cognitive-systems-cognition-and-the-brain-ba-003fa8aacd/">认知系统：认知与大脑（文学士方向）</a><small>Bachelor of Arts — Cognitive Systems Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-cognitive-systems-computational-intelligence-and-design-bsc-643add19ee/">认知系统：计算智能与设计（理学士方向）</a><small>Bachelor of Science — Cognitive Systems Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-cognitive-systems-language-ba-4dfde52379/">认知系统：语言（文学士方向）</a><small>Bachelor of Arts — Cognitive Systems Stream · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-cognitive-systems-mind-language-and-computation-ba-a40d59d07e/">认知系统：心智、语言与计算（文学士方向）</a><small>Bachelor of Arts — Cognitive Systems Stream · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-combined-major-in-science-669d7aca5d/">理科组合主修</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-commerce-4df2f72374/">商科</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-commerce-4df2f72374/">商学（Okanagan）</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-commerce-691090826b/">商科</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-engineering-2ff37eb8f1/">计算机工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-engineering-48f5ab7f79/">计算机工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
@@ -97,28 +143,49 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-ba-103d772315/">计算机科学（文学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-bsc-79dee3796e/">计算机科学（理学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-bsc-52a00c8ed5/">计算机科学（理学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-honours-eea3c5096c/">计算机科学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-honours-4a9808d2bb/">计算机科学（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-honours-d901d1e8e2/">计算机科学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-honours-d14e2ce0b5/">计算机科学（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-honours-artificial-intelligence-b63ece6bc6/">计算机科学荣誉：人工智能方向</a><small>Bachelor of Science — Honours, Artificial Intelligence Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-major-artificial-intelligence-e6f087cc46/">计算机科学主修：人工智能方向</a><small>Bachelor of Science — Major, Artificial Intelligence Option · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-biology-6094df773f/">计算机科学与生物学</a><small>Bachelor of Science — Combined Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-biology-combined-honours-651f036222/">计算机科学与生物学（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-chemistry-cdbe014d5d/">计算机科学与化学</a><small>Bachelor of Science — Combined Major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-mathematics-d6ad4b2d36/">计算机科学与数学</a><small>Bachelor of Science — Combined Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-mathematics-combined-honours-554a48a3ad/">计算机科学与数学（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-microbiology-and-immunology-b9784ee64e/">计算机科学与微生物学及免疫学</a><small>Bachelor of Science — Combined Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-microbiology-and-immunology-combined-honours-e964afb055/">计算机科学与微生物学及免疫学（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-physics-677de29432/">计算机科学与物理学</a><small>Bachelor of Science — Combined Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-physics-combined-honours-7e43ff89b8/">计算机科学与物理学（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-software-engineering-honours-4483092829/">计算机科学与软件工程（荣誉方向）</a><small>Bachelor of Science — Honours, Software Engineering Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-software-engineering-major-ae4512034d/">计算机科学与软件工程（主修方向）</a><small>Bachelor of Science — Major, Software Engineering Option · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-statistics-5c1742480f/">计算机科学与统计学</a><small>Bachelor of Science — Combined Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-statistics-combined-honours-d06d72ab55/">计算机科学与统计学（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-conservation-90530694b6/">自然保护</a><small>Bachelor of Science in Natural Resources · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-conservation-biology-honours-6a06be1824/">保护生物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-creative-writing-15f66cfad0/">创意写作</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-creative-writing-d6568c5c8a/">创意写作</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-cultural-studies-dcb5a40200/">文化研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-data-analytics-5e79f0357e/">数据分析</a><small>Bachelor of Science in Food and Resource Economics · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-data-science-1dbc3aa9dd/">数据科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-data-science-ef44b047ac/">数据科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-data-science-honours-8289cb43c9/">数据科学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-dental-hygiene-fe6c590c10/">牙科卫生</a><small>Bachelor of Dental Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-dentistry-75cd218912/">牙医学（DMD，大学学习后入口）</a><small>Doctor of Dental Medicine · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-dietetics-06de86c31e/">营养治疗学</a><small>Bachelor of Science in Food, Nutrition, and Health · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-earth-and-environmental-sciences-0b520d501d/">地球与环境科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-earth-and-environmental-sciences-honours-d9a4feb990/">地球与环境科学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-earth-and-ocean-sciences-2fee9426bc/">地球与海洋科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-ecology-honours-5ca27f4893/">生态学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-ecology-evolution-and-conservation-biology-80c0bd21aa/">生态、进化与保护生物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-ecology-evolution-and-conservation-biology-honours-a665d64062/">生态、进化与保护生物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-economics-85cb3d1a0c/">经济学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-economics-ba-53fc592094/">经济学（文学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-economics-bsc-ee3b4b1e5d/">经济学（理学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-economics-honours-9ca22a9ee7/">经济学（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-economics-honours-a2b2c11a2a/">经济学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-economics-emphasis-option-b6fb4cda8c/">经济学侧重（方向）</a><small>Bachelor of Arts — Option · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-economics-and-mathematics-fdc14e32d3/">经济学与数学（BA联合主修）</a><small>Bachelor of Arts — Combined Major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-economics-and-philosophy-29e78c1705/">经济学与哲学（BA联合主修）</a><small>Bachelor of Arts — Combined Major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-economics-and-political-science-e01158eb65/">经济学与政治学（BA联合主修）</a><small>Bachelor of Arts — Combined Major · 部分专业资料已核实</small></article>
@@ -132,18 +199,42 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-education-teaching-children-a381cbba5d/">教育：儿童教学</a><small>Bachelor of Education · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-electrical-engineering-7435e4e2e0/">电气工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-electrical-engineering-77e41198da/">电气工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-electrical-engineering-biomedical-engineering-option-bde99a691b/">电气工程：生物医学工程方向</a><small>Bachelor of Applied Science in Electrical Engineering — Biomedical Engineering Option · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-engineering-physics-2002f07e7a/">工程物理</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-english-528ce2cabc/">英语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-english-9fefa79c99/">英语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-english-honours-2853774d1a/">英语文学（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-english-language-emphasis-option-897cf50025/">英语：语言侧重（方向）</a><small>Bachelor of Arts — Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-english-language-and-literature-emphasis-honours-2e44149242/">英语：语言与文学侧重（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-english-language-and-literature-emphasis-option-a521a27e1e/">英语：语言与文学侧重（方向）</a><small>Bachelor of Arts — Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-english-literature-emphasis-honours-1e1a8e7faa/">英语：文学侧重（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-english-literature-emphasis-option-2faee9a91a/">英语：文学侧重（方向）</a><small>Bachelor of Arts — Option · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-entrepreneurship-227a7aac95/">创业（BCom方向）</a><small>Bachelor of Commerce — option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-entrepreneurship-bcom-concentration-c30250a5d5/">商学：创业方向</a><small>Bachelor of Commerce — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-chemistry-3a8b283cfe/">环境化学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-chemistry-honours-f034e484a0/">环境化学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-engineering-897eadb799/">环境工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-engineering-engineering-concentration-64ac788c8e/">工程：环境工程方向</a><small>Bachelor of Applied Science — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-engineering-joint-unbc-ubc-f179653777/">环境工程（UNBC／UBC联合）</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-sciences-4ce0ed1b85/">环境科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-sciences-honours-8d56fee82a/">环境科学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-sciences-honours-ecology-and-conservation-90c223fbfe/">环境科学荣誉：生态与保护</a><small>Bachelor of Science — Environmental Sciences Honours, Area of Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-sciences-honours-energy-transitions-and-sustainabil-0e1faba5e3/">环境科学荣誉：能源转型与可持续性</a><small>Bachelor of Science — Environmental Sciences Honours, Area of Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-sciences-honours-environmental-analytics-d5b2eedc37/">环境科学荣誉：环境分析</a><small>Bachelor of Science — Environmental Sciences Honours, Area of Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-sciences-honours-environmental-impacts-on-human-hea-2a8389fc65/">环境科学荣誉：环境对人体健康的影响</a><small>Bachelor of Science — Environmental Sciences Honours, Area of Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-sciences-honours-land-air-water-7409e447ca/">环境科学荣誉：陆地、大气与水</a><small>Bachelor of Science — Environmental Sciences Honours, Area of Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-sciences-major-ecology-and-conservation-bb9ee2ede8/">环境科学主修：生态与保护</a><small>Bachelor of Science — Environmental Sciences Major, Area of Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-sciences-major-energy-transitions-and-sustainabilit-a02eb97f0e/">环境科学主修：能源转型与可持续性</a><small>Bachelor of Science — Environmental Sciences Major, Area of Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-sciences-major-environmental-analytics-d67f93c8dc/">环境科学主修：环境分析</a><small>Bachelor of Science — Environmental Sciences Major, Area of Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-sciences-major-environmental-impacts-on-human-healt-2056fe64eb/">环境科学主修：环境对人体健康的影响</a><small>Bachelor of Science — Environmental Sciences Major, Area of Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-environmental-sciences-major-land-air-water-ae384c4176/">环境科学主修：陆地、大气与水</a><small>Bachelor of Science — Environmental Sciences Major, Area of Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-evolutionary-biology-honours-9dcfc25c6f/">进化生物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-film-production-b8e3115680/">电影制作</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-finance-0801f72426/">金融（BCom方向）</a><small>Bachelor of Commerce — option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-finance-bcom-concentration-5007310772/">商学：金融方向</a><small>Bachelor of Commerce — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-first-nations-and-endangered-languages-758d37a05a/">原住民与濒危语言</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-first-nations-and-indigenous-studies-b9f6f85306/">第一民族与原住民研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-fisheries-oceanography-honours-a73a895ec5/">渔业海洋学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-food-science-f283a3c1e0/">食品科学</a><small>Bachelor of Science in Food, Nutrition, and Health · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-food-and-nutritional-sciences-96362171f1/">食品与营养科学</a><small>Bachelor of Science in Food, Nutrition, and Health · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-food-nutrition-and-health-d1381b52c2/">食品、营养与健康</a><small>Bachelor of Science in Food, Nutrition, and Health · 部分专业资料已核实</small></article>
@@ -152,10 +243,13 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-sciences-95f3233a62/">森林科学</a><small>Bachelor of Science in Natural Resources · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-french-9e4e9b08fe/">法语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-french-aa82c4a8fb/">法语、文学与文化</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-french-language-literatures-and-cultures-honours-9a393c2d8a/">法语语言、文学与文化（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-freshwater-science-0fc2e0f712/">淡水科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-freshwater-science-honours-a387072d7b/">淡水科学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-gender-race-sexuality-and-social-justice-3e93f2dc87/">性别、种族、性与社会正义</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-gender-women-and-sexuality-studies-2d821ffeac/">性别、女性与性研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-general-business-management-ea295a807a/">综合商业管理（BCom方向）</a><small>Bachelor of Commerce — option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-general-business-management-bcom-concentration-7fc4135df8/">商学：综合商业管理方向</a><small>Bachelor of Commerce — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-general-science-72918ad283/">普通科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-general-studies-78e3995def/">通识研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-general-studies-elementary-education-stream-20aff768c3/">音乐综合研究：小学教育预备方向</a><small>Bachelor of Music — General Studies (Elementary Education Stream) · 部分专业资料已核实</small></article>
@@ -165,22 +259,32 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-geography-environment-and-sustainability-8cece06c1a/">地理：环境与可持续性</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-geography-human-geography-987303d03b/">地理：人文地理</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-geological-engineering-24b724769f/">地质工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-geological-sciences-honours-ea12fb9b85/">地质科学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-geology-9ad8f8b8de/">地质学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-geophysics-8fb59050fb/">地球物理</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-geophysics-honours-f9be402195/">地球物理（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-german-de29cc05ba/">德语研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-german-studies-honours-3b4fc875f0/">德语研究（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-medieval-studies-3b1e18da4c/">全球中世纪与近代早期研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-global-resource-systems-8ed84cd843/">全球资源系统</a><small>Bachelor of Science in Global Resource Systems · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-global-supply-chain-and-logistics-management-7c652cec7d/">全球供应链与物流管理（BCom方向）</a><small>Bachelor of Commerce — option · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-guitar-f8bb3e6e2b/">吉他（音乐学士主修）</a><small>Bachelor of Music — Guitar · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-harpsichord-f4572bcf13/">羽管键琴（音乐学士主修）</a><small>Bachelor of Music — Harpsichord · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-health-and-exercise-sciences-kinesiology-737a2b5c97/">健康与运动科学</a><small>Bachelor of Health and Exercise Sciences (Kinesiology) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-high-performance-computing-concentration-ccc5610d70/">高性能计算（方向）</a><small>Bachelor of Science — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-history-a8443c5b2a/">历史学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-history-2a7f42a02a/">历史学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-history-honours-8e7ae8972e/">历史（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-history-honours-da93bc6559/">历史（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-history-with-international-relations-honours-bfb208ada1/">历史与国际关系（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-human-geography-honours-1f3ea59071/">人文地理（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-indigenous-land-stewardship-81b09f93a4/">原住民土地管理</a><small>Bachelor of Indigenous Land Stewardship · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-indigenous-studies-2ca9214f87/">原住民研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-integrated-computer-science-fd8865c139/">综合计算机科学（第二学位）</a><small>Bachelor of Computer Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-integrated-engineering-193ba6c2e7/">综合工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-integrated-sciences-0e2ebebfb8/">综合科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-integrated-sciences-honours-32a077f1dd/">综合科学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-integrated-systems-design-engineering-concentration-6241cc977f/">工程：集成系统设计方向</a><small>Bachelor of Applied Science — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-interdisciplinary-studies-64fe441871/">跨学科研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-international-economics-42b8f36cd7/">国际经济学</a><small>Bachelor of International Economics · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-international-relations-f97d187b23/">国际关系</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
@@ -191,32 +295,57 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-languages-8a209088a9/">语言学科组合</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-latin-american-studies-741f770015/">拉丁美洲研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-law-5093015d41/">法律（JD，大学学习后入口）</a><small>Juris Doctor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-law-emphasis-option-01cd9d2527/">法律侧重（方向）</a><small>Bachelor of Arts — Option · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-linguistics-ed9326884a/">语言学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-linguistics-honours-493aaa73d6/">语言学（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-manufacturing-engineering-808ef8e696/">制造工程（Okanagan暂停招生）</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-manufacturing-engineering-147f7a740c/">制造工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-marine-biology-honours-0b2c0781dc/">海洋生物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-marketing-d9231ad099/">市场营销（BCom方向）</a><small>Bachelor of Commerce — option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-marketing-bcom-concentration-518877ebdb/">商学：市场营销方向</a><small>Bachelor of Commerce — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-materials-engineering-32b983d62f/">材料工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematical-finance-concentration-6f9d37cde3/">数理金融（方向）</a><small>Bachelor of Science — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematical-sciences-eedbe5054e/">数学科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-ba-ac286fa8c7/">数学（文学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-ba-41bf794629/">数学（文学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-bsc-191c2cc589/">数学（理学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-bsc-58bc330063/">数学（理学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-honours-0ba4fa7417/">数学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-honours-eea632dc06/">数学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-honours-903438f026/">数学（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-and-economics-9321f5e2db/">数学与经济学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-and-education-64c90882bb/">数学理学学士＋中学教育学士</a><small>Bachelor of Science (Mathematics) + Bachelor of Education (Secondary) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-and-philosophy-combined-honours-02ff8a48f1/">数学与哲学（联合荣誉）</a><small>Bachelor of Arts — Combined Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-and-statistics-combined-honours-269331a33b/">数学与统计学（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-classical-mathematical-structures-b99f2a9def/">数学：经典数学结构方向</a><small>Bachelor of Science — Mathematics Area of Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-computational-mathematics-4af350003c/">数学：计算数学方向</a><small>Bachelor of Science — Mathematics Area of Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-differential-equations-and-analysis-4497d763e0/">数学：微分方程与分析方向</a><small>Bachelor of Science — Mathematics Area of Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-mathematical-modelling-daa0853b8a/">数学：数学建模方向</a><small>Bachelor of Science — Mathematics Area of Concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-mathematics-of-information-6c2a13ca26/">数学：信息数学方向</a><small>Bachelor of Science — Mathematics Area of Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mechanical-engineering-da1a9e3d2f/">机械工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mechanical-engineering-f8430796e6/">机械工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mechanical-engineering-aerospace-option-e81c2929ab/">机械工程：航空航天方向</a><small>Bachelor of Applied Science in Mechanical Engineering — Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mechanical-engineering-biomechanics-and-medical-devices-option-5d1106191a/">机械工程：生物力学与医疗器械方向</a><small>Bachelor of Applied Science in Mechanical Engineering — Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mechanical-engineering-energy-and-environment-option-d2c6e5a8df/">机械工程：能源与环境方向</a><small>Bachelor of Applied Science in Mechanical Engineering — Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mechanical-engineering-mechatronics-option-e9cf3c2a09/">机械工程：机电一体化方向</a><small>Bachelor of Applied Science in Mechanical Engineering — Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mechanical-engineering-naval-architecture-and-marine-engineering-188a046091/">机械工程：船舶设计与海洋工程方向</a><small>Bachelor of Applied Science in Mechanical Engineering — Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mechatronics-engineering-concentration-c2ca5d8855/">工程：机电一体化方向</a><small>Bachelor of Applied Science — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-media-studies-92b275f8f9/">媒体研究</a><small>Bachelor of Media Studies · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-media-studies-5476588167/">媒体研究</a><small>Bachelor of Media Studies · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-medical-laboratory-science-82f29f1daf/">医学实验室科学（BMLSc，三年级入口）</a><small>Bachelor of Medical Laboratory Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-medical-and-molecular-biology-option-095e77178b/">医学与分子生物学（方向）</a><small>Bachelor of Science — Option · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-medicine-fb590083ee/">医学（MD，大学学习及加拿大身份要求）</a><small>Doctor of Medicine · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-microbiology-61be15504c/">微生物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-microbiology-honours-efa7ce4578/">微生物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-microbiology-and-immunology-28ac3a311d/">微生物与免疫学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-microbiology-and-immunology-honours-cd54805a7c/">微生物学与免疫学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-microbiology-and-oceanography-combined-major-81dc827f7c/">微生物学与海洋学（联合主修）</a><small>Bachelor of Science — Combined Major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-midwifery-03cbf85468/">助产学</a><small>Bachelor of Midwifery · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mining-engineering-ed138619a6/">采矿工程</a><small>Bachelor of Applied Science (Engineering) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-modern-european-studies-1f245b1a20/">现代欧洲研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-museum-studies-aac236c669/">博物馆研究（人类学内聚焦）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-music-2603cf4a2c/">音乐（文学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-music-honours-0ef3c65c49/">音乐学（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-music-advanced-performance-37913ab897/">音乐：高级表演</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-music-composition-c92a4ff34c/">音乐：作曲</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-music-general-studies-662f38e73f/">音乐：通识方向</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
@@ -230,44 +359,79 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-nutritional-sciences-f063d53768/">营养科学</a><small>Bachelor of Science in Food, Nutrition, and Health · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-n-e-kepmx-language-fluency-3ca46a623f/">NłeɁkepmx语言熟练度</a><small>Bachelor of NłeɁkepmx Language Fluency · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-oceanography-04d1165eac/">海洋学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-oceanography-and-biology-combined-honours-13bdb8de76/">海洋学与生物学（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-oceanography-and-biology-combined-major-111c6b8d5a/">海洋学与生物学（联合主修）</a><small>Bachelor of Science — Combined Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-oceanography-and-chemistry-combined-major-7cf12e0044/">海洋学与化学（联合主修）</a><small>Bachelor of Science — Combined Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-oceanography-and-physics-combined-major-d72c51daf9/">海洋学与物理学（联合主修）</a><small>Bachelor of Science — Combined Major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-opera-779ba18c33/">歌剧（音乐学士主修）</a><small>Bachelor of Music — Opera · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-operations-and-logistics-f2b4b154c2/">运营与物流（BCom方向）</a><small>Bachelor of Commerce — option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-operations-and-logistics-bcom-concentration-6e39dd1641/">商学：运营与物流方向</a><small>Bachelor of Commerce — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-orchestral-instrument-7dbcc7e6fe/">管弦乐器（音乐学士主修）</a><small>Bachelor of Music — Orchestral Instrument · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-organ-4cb0bf7d08/">管风琴（音乐学士主修）</a><small>Bachelor of Music — Organ · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-organizational-behaviour-and-human-resources-1e6176241a/">组织行为与人力资源（BCom方向）</a><small>Bachelor of Commerce — option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-organizational-behaviour-and-human-resources-bcom-concentration-ca07e46e32/">商学：组织行为与人力资源方向</a><small>Bachelor of Commerce — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-pharmaceutical-sciences-27224ab69e/">药物科学</a><small>Bachelor of Pharmaceutical Sciences · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-pharmacology-f94bb6f949/">药理学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-pharmacology-honours-cd870ae26d/">药理学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-pharmacy-52b1ec012e/">药学（PharmD）</a><small>Doctor of Pharmacy · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-philosophy-d2e5f08d47/">哲学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-philosophy-f3b4b4591e/">哲学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-philosophy-honours-ba4c46aefe/">哲学（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-philosophy-emphasis-option-00b788621a/">哲学侧重（方向）</a><small>Bachelor of Arts — Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-philosophy-and-political-science-combined-major-eab673f28f/">哲学与政治学（联合主修）</a><small>Bachelor of Arts — Combined Major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-philosophy-politics-and-economics-4c058a5913/">哲学、政治与经济</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-philosophy-politics-and-economics-honours-6d8f142350/">哲学、政治与经济（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-physics-0f335ceb3c/">物理学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-physics-5707ddadc4/">物理学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-physics-honours-32b92de207/">物理学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-physics-honours-5bd9f2f213/">物理（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-physics-and-astronomy-combined-honours-3b9e4da1c1/">物理学与天文学（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-physics-and-education-f0955c435c/">物理理学学士＋中学教育学士</a><small>Bachelor of Science (Physics) + Bachelor of Education (Secondary) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-physics-and-mathematics-combined-honours-c7b61a5d72/">物理学与数学（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-physics-and-mathematics-combined-honours-4dc4232f72/">物理与数学（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-physics-and-mathematics-combined-major-3001cc7d67/">物理与数学（联合主修）</a><small>Bachelor of Science — Combined Major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-piano-637ce5cf49/">钢琴（音乐学士主修）</a><small>Bachelor of Music — Piano · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-plant-biology-honours-781cf0aea2/">植物生物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-political-science-671567afad/">政治学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-political-science-c8d0acc2a5/">政治学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-political-science-honours-2e005cf429/">政治学（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-political-science-emphasis-option-f85cff0a15/">政治学侧重（方向）</a><small>Bachelor of Arts — Option · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-political-science-with-international-relations-honours-6f449ba297/">政治学与国际关系（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-political-science-politics-policy-and-administration-option-670231d3cc/">政治学：政治、政策与行政（方向）</a><small>Bachelor of Arts — Option · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-psychology-2e7abc1dc6/">心理学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-psychology-ba-1190064317/">心理学（文学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-psychology-bsc-205bd9d4fd/">心理学（理学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-psychology-honours-fa34703726/">心理学（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-psychology-honours-8989f242e8/">心理学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-psychology-honours-a44c222aef/">心理学（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-pure-mathematics-concentration-128fde4510/">纯数学（方向）</a><small>Bachelor of Science — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-real-estate-1337661ef2/">房地产（BCom方向）</a><small>Bachelor of Commerce — option · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-religion-955ae2c71f/">宗教研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-resilient-infrastructure-engineering-concentration-f7b05cdf54/">工程：韧性基础设施方向</a><small>Bachelor of Applied Science — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-romance-studies-90cfd36506/">罗曼研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-romance-studies-honours-5d797622b5/">罗曼语族研究（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-science-and-arts-3e0d25b445/">理学学士＋文学学士</a><small>Bachelor of Science + Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-science-and-music-133948ae45/">理学学士＋音乐学士</a><small>Bachelor of Science + Bachelor of Music · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-secwe-pemc-language-fluency-6b89dbfc0f/">Secwépemc语言熟练度</a><small>Bachelor of Secwépemc Language Fluency · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-social-work-f530da863f/">社会工作</a><small>Bachelor of Social Work · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-sociology-653c0b1e6a/">社会学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-sociology-4fd3f99e16/">社会学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-sociology-honours-e5854b2915/">社会学（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-software-engineering-and-application-development-concentration-e1381ec4a9/">软件工程与应用开发（方向）</a><small>Bachelor of Science — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-spanish-d8e13158d2/">西班牙语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-speech-sciences-4e0a7ea052/">言语科学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-speech-sciences-honours-6cb21798bc/">言语科学（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-statistics-1149a2e597/">统计学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-statistics-7ccc5e803b/">统计学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-statistics-honours-6961b90c54/">统计学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-statistics-honours-33471eaee0/">统计学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-statistics-and-economics-9268250d9c/">统计学与经济学（BSc）</a><small>Bachelor of Science — Combined Major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-study-of-religion-honours-87e1e59d7a/">宗教研究（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-st-t-imc-language-fluency-3c4d2eabb7/">St’át’imc语言熟练度</a><small>Bachelor of St’át’imc Language Fluency · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-sustainability-f7464c41e2/">可持续发展</a><small>Bachelor of Sustainability · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-sustainable-agriculture-and-environment-219cbd0474/">可持续农业与环境</a><small>Bachelor of Science in Applied Biology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-sustainable-agriculture-and-environment-honours-7fab9bb58f/">应用生物学：可持续农业与环境（荣誉）</a><small>Bachelor of Science in Applied Biology — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-theatre-honours-9699f8700a/">戏剧研究（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-theatre-studies-d64cc517f8/">戏剧研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-theatre-acting-8bca0a9042/">戏剧：表演</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-theatre-design-and-production-bfd441a9a7/">戏剧：设计与制作</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
@@ -276,10 +440,13 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-urban-studies-5602478876/">城市研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-visual-art-ba-fade5a04ab/">视觉艺术（文学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-visual-art-bfa-0819357a21/">视觉艺术（美术学士）</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-visual-art-honours-1ea555e52e/">视觉艺术（荣誉）</a><small>Bachelor of Fine Arts — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-visual-arts-bfa-c27e06962b/">视觉艺术（美术学士）</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-visual-computing-concentration-7423d16dfe/">视觉计算（方向）</a><small>Bachelor of Science — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-voice-53cd974201/">声乐（音乐学士主修）</a><small>Bachelor of Music — Voice · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-wood-products-209a0f638d/">木产品</a><small>Bachelor of Science in Natural Resources · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-zoology-53da66c270/">动物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-zoology-53da66c270/">动物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-zoology-honours-415a30b5de/">动物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -326,25 +493,23 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 252 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 419 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>192原记录＋63具名专业/本硕/方向−3多项目聚合总览；252条并非252个高中直入学位</p>
+<p><strong>统计范围：</strong>419个本科学位、具名方向与专业阶段条目；包括167个本批新增，非419个独立高中招生学位</p>
 
-<p><strong>对账方法：</strong>两校区首层549行逐行排除研究生/证书/部门/历史与错链线索，222校历URL缓存；本批63新增配对与11旧增量独立核验，聚合旧链接保留实际替代入口。</p>
+<p><strong>对账方法：</strong>按两校区现行校历的实际具名条目逐项比对、保留旧入口和适用届次；联合荣誉、集中方向和工程共享组件分别核验，不排列组合。</p>
 
 <p><strong>排除项：</strong>排除独立辅修、证书及非本科项目；具体边界见统计范围。</p>
 
 **尚未解决的目录缺口：**
 
-- 本批是已读到的具名身份补充，原192＋63新增（移出3聚合后252）不是UBC所有本科方向最终总数。
-- 两校区第一层Academic Programs页已完整保留，但Vancouver245与Okanagan78（其中一项Undergraduate &amp; Graduate）混有minor、证书、文凭、院系、预科课程、旧届次及错误链接，不能按323行直接计本科。
-- 理学院大量独立Honours、Combined Honours与生物学分支仍待逐一与旧库存、先修、停招状态对账；CS+Biology/CS+Microbiology等Combined Honours和Oceanography组合已见标题，未全数写入本批。
-- Arts其余具名联合major、语言/区域研究内部选项、工程专业方向与Okanagan各专业honours仍需逐项审阅；remaining-candidate-headings.json保留自动抽到的候选标题，不能当已确认新增清单。
-- B+MM现行页与校历在Okanagan年限/课程代码及Vancouver旧Forestry学位表存在公开版本差异；已并列，未声称全部2027细则确定。
-- 部分专业资格路线与并行度数另有学院条款；本批核JD、DMD、MD、BMLSc及BBRE和已命名BEd组合，未声称所有professional/post-bachelor routes全闭合。
-- 2027各新增专业国际费用、详细中国资格、试演日期及专业层面毕业统计不在本轮目录审计的完整核实范围；保留此前校级profile，特殊入口隔离共用招生/申请/费用。
-- Okanagan Environment Engineering目录错链、Civil Engineering目录曾错链证书；本批均未据错误首层标题新建项目。
-- BA/BSc Statistical combined overview及B+MM两聚合页建议移出独立本科列表但保留旧ID解释页；不删除真实历史证据。
+- 目录仍未全部闭合，419不是UBC官方宣布的本科专业总数。
+- Behavioural Neuroscience普通major暂停；荣誉旧表存在，但2027新增入口仍待确认。
+- Oceanography的部分例示联合荣誉、Okanagan泛称combined-major组件、Engineering Physics技术选修及BME新版方向仍待具名注册证据。
+- Forestry/BSNR与Applied Biology的2026W重组及其他尚未重审学院仍需继续核对；旧BME streams和停开的Thermofluids不作为现行入口。
+- 2027逐专业招生日期、中国高中资格、名额及毕业统计仍存在未核项。校内成绩与普通高中录取要求分别说明。
+- UBC/BCIT联合项目仍缺完整分校、分阶段国际收费；单校参考价不适用于全部阶段。2026/27费率不等于2027/28报价。
+- 课程表已核的主要规则不代表每门选修先修或每一历史届次已完整复核。
 
 - [官方目录来源](https://you.ubc.ca/programs/)
 - [官方目录来源](https://you.ubc.ca/applying-ubc/requirements/international-high-schools/)
@@ -418,5 +583,83 @@ hide:
 - [官方目录来源](https://you.ubc.ca/applying-ubc/dates-deadlines/)
 - [官方目录来源](https://you.ubc.ca/applying-ubc/how-to-apply/application/)
 - [官方目录来源](https://vancouver.calendar.ubc.ca/fees/policies-fees)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/physics)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biotechnology)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-management-program-students-who-entered-program-20252026-or-earlier)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/introduction)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/degree-requirements)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/fees/tuition-fees/undergraduate)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/ecology-evolution-and-conservation-biology)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/oceanography)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/atmospheric-science)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biochemistry)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/chemistry)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/cellular-and-physiological-sciences)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/forensic-science)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/geological-sciences)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/geophysics)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/pharmacology)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/integrated-sciences)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/environmental-sciences)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/biochemistry-and-molecular-biology)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/biology)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/chemistry)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/data-science)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/earth-and-environmental-sciences)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/environmental-chemistry)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/freshwater-science)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/microbiology)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/zoology)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/computer-science-ba)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/computer-science-bsc)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/economics-ba)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/economics-bsc)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-creative-and-critical-studies/bachelor-arts-programs/english)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/history)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/mathematics-bsc)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/philosophy-politics-and-economics-ppe)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/physics-and-astronomy)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/psychology-ba)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/psychology-bsc)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/statistics)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/ancient-mediterranean-and-near-eastern-studies)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/anthropology)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/art-history-visual-art-and-theory)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/cinema-studies)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/asian-studies)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/english)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/philosophy)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/computer-science)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/german-studies)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/history)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/human-geography)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/linguistics)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/mathematics)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/music)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/psychology)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/romance-studies)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/sociology)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/program-study-religion)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/theatre)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-fine-arts/visual-art)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/political-science)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/cognitive-systems)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/cognitive-systems)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/neuroscience)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-applied-science/bachelor-applied-science/mechanical-engineering)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-applied-science/bachelor-applied-science/electrical-and-computer-engineering)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/school-engineering/bachelor-applied-science-program/concentrations)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/applied-animal-biology-major)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/sustainable-agriculture-and-environment-major)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/accounting)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/business-technology-management)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/entrepreneurship)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/finance)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/general-business-management)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/marketing)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/operations-and-logistics)
+- [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/organizational-behaviour-and-human-resources)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

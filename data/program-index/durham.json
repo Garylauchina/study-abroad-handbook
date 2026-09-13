@@ -3,9 +3,9 @@
   "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 159,
-    "scope": "Course sectiontype only; exact official DegreeCourseLevel_ss Undergraduate；All subjects, modes, sites; exclude postgraduate and unclassified non-course pages；Single record per course URL; if one page advertises 2026 and 2027 retain current 2027 intake and preserve all dates",
-    "method": "[{\"source\": \"public SearchStax API configured by official search page\", \"rows_requested\": 1000, \"numFound\": 313, \"numFoundExact\": true, \"received\": 313, \"undergraduate_records\": 174}] 逐一取得174个Chrome课程页及所选China资格；校正当前名称和UCAS代码，合并12个同年同代码同学位重复页，排除3个CHE/DHE证书文凭。",
+    "count": 176,
+    "scope": "159原记录＋11具名联合方向＋6在读注册路线；非176个独立高中UCAS项目",
+    "method": "41个部门规章目录共428行，按代码合并为371项并逐项比对；155已收录、6注册路径本批补入、179待研究、19旧届、6暂停、6武汉联办分别记录。",
     "exclusions": "Course sectiontype only; exact official DegreeCourseLevel_ss Undergraduate；All subjects, modes, sites; exclude postgraduate and unclassified non-course pages；Single record per course URL; if one page advertises 2026 and 2027 retain current 2027 intake and preserve all dates",
     "sources": [
       {
@@ -947,12 +947,241 @@
         "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
         "sha256": "0125236388c4276c1e318f59274eca00c8171489422431b1f915a7cd403f34bf",
         "raw_file": "scratch/full-catalog/durham-enrichment/raw/ucas-calendar.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/FGC0",
+        "sha256": "8cfb6564105beb7b46ceb97403563601a0d2297c6890f16bf5b6d0eb514d0e94",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-program-FGC0.pdf"
+      },
+      {
+        "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/msci-natural-sciences-subject-guide/",
+        "sha256": "6b8953d990636aafa4cd1d7e9575228b10604474a0cd88cbdd70de25d0aaf08c",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/msci-subject-guide.dom.txt"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+        "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-program-CFG0.pdf"
+      },
+      {
+        "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+        "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/bsc-subject-guide.dom.txt"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Classics%20and%20Ancient%20History",
+        "sha256": "761f4dab6dfcec0e5bce8c9d64253d6c913ef4cff7f40390dbf4296b3c910317",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-ab125891407a.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Archaeology",
+        "sha256": "84f16a8373bc49b3c3383df005058bd132917fbc275b54d51fab3f95522a07e5",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-9e4f88a1eeb4.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/History",
+        "sha256": "eb2e1439e0d93d239992e04666b45c9b07ace92ce7e2d95194baae1de760f731",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-788e04a24c75.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/English%20Studies",
+        "sha256": "54d31b40c8f8d845c2ac3111c6cc865ccf3bdb6b975195f30b0326025acffd3d",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-ada6c1ba4096.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Philosophy",
+        "sha256": "c4706bd682b0e0d69028b8b73929c418272d9ed7df47204f7373c72b20fc1bb8",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-8a04e2fe8614.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures",
+        "sha256": "2279b7697778b0582f2c26dcc092e4752bde035d9b21df4c4b02dd52128b96c1",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-510dc299a359.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Liberal%20Arts",
+        "sha256": "f5f7f0fde51e2a9107f8d301bf74003d679ea016bae2304ef6720f8c6fe26879",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-b472ed55d274.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28Chinese%29",
+        "sha256": "2ae2b2c5e76dfdfd7a28ccf40b235d49f6ba1972aa70f8fd89f91e6df7d5498b",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-50cdd8794666.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28French%29",
+        "sha256": "820a91023c70d62236f20c3204847abcff050c16f57a4fa0f9864442b95e5f80",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-00926575d438.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Economics",
+        "sha256": "5919cba838cafd8b2af371c7bb182285f56322fb6b7b1aa6c339aaf494abcbed",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-05eb8ef5361e.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28Japanese%29",
+        "sha256": "8012d5d3c5798bef45c58bd8ef2f6ef9bf238e0001d669a99b23993e47de5b0d",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-9778b5d5f431.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28Arabic%29",
+        "sha256": "ee04c10998904b5e7039764f079d14c81a7f73d9070aa32244a3257dc4d328fa",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-4b99a63c50ee.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28German%29",
+        "sha256": "64292450f89e839ded21061765767ecc2df3004b20e8a1dec7959ab82db281f9",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-e81925313cc7.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28Italian%29",
+        "sha256": "f9a9847165bdd9221658194ef014e1b177e3ff45aff24e9ace7573a8bb6ecc83",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-a805c5e450af.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28Russian%29",
+        "sha256": "778ff90512da4e413c67b7c6a9dbfbfad9adcbdc8f5b9710f38bb80d9b9c82db",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-0d3539532af8.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28Spanish%29",
+        "sha256": "d6dfdd2ba028e9aa7fe7b5a2487b8cea528d420d25819f0e7fd9e612cb11c0a8",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-5ccdf63ef8db.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Modern%20Languages%20and%20Cultures%20%28Visual%29",
+        "sha256": "d1da4c940f474aa77c50190101b62c2e3c174f49745e0fbca647def6be85289a",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-95b0a5687865.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Music",
+        "sha256": "ed26572727ae228de6e052a793412416baaf122cdb627a66463d534030cdfbce",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-0779c192be87.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Government%20and%20International%20Affairs",
+        "sha256": "dac9ede09918016261d75df86598f8cb41b78f97362ef033187a03e9f69bdbb7",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-4596e13bf448.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Psychology",
+        "sha256": "f9323dda019bf0533fde525c9af13539a7928ab7836546788b694ae712077b2f",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-a13cf54b9a8c.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Theology%20and%20Religion",
+        "sha256": "a4c33d646f76d74313a571e6475466539ddbfe935294fbc7838633c36cbae9a9",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-801999bd8910.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Accounting",
+        "sha256": "111a7f4c66b1d4cacd1456feb358cdf5bda1c3ae905c1f1b91c00fcfb1ebbb6f",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-40f964e7d222.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Finance",
+        "sha256": "a31aac404ff5811d07d8189533cfafc1dc5b8fb0d2203877635cd0b57bd64b73",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-d3dbf943d611.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Management%20and%20Marketing",
+        "sha256": "94ae54d26aaa75299177dbecdd08e03ee0488ee37bf0de70f4db05806446162a",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-6f358d1d8314.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Biosciences",
+        "sha256": "72df94745afc2cb3eed956be3df5cb02286b4ee62d0ce677abd37517a4c7ebd6",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-1b7e3f718311.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Chemistry",
+        "sha256": "d9a5e35ddf40ad788f8a566c04bc597fe16e072833063e3c5da6a8dab0861b05",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-902aaceb704f.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Computer%20Science",
+        "sha256": "ceccc60de28f9c93938191f94eb2a69786675eb52d57f3a8e9aada440a3b299f",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-c51bb2a62432.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Earth%20Sciences",
+        "sha256": "72ec101f7ee9bf74a9761a5b26ec4e0ff19685e646931cd9673fd0c482b90045",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-019b07ab86de.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Engineering",
+        "sha256": "41be9f453daaac46c74463b443b304f9e46e30a5e05ab3accfc9c2f2c0a191fb",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-db3547ea97dd.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Global%20Wuhan",
+        "sha256": "87ecfb398aa2fcd7ae03acb91adef8ad3618365f9a5d4f08dc302fa06d82762a",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-6e097bf50c0c.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Mathematical%20Sciences",
+        "sha256": "485036a518b45b79778f9a54d73ffb7bfc8198f933e7882c1e89c0baf9549e9c",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-2ce10e879d13.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Natural%20Sciences",
+        "sha256": "06c508597a46de583092b7358600abf6350c93298367bddfc3f15fe52eaeeeff",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-c71b19fde1e1.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Physics",
+        "sha256": "47314c122cf800456567f4edc180b71d4c87162d596bdaaa37e0ef1230cc9c50",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-09b6ae14bd4e.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Anthropology",
+        "sha256": "7e1e0c8afb50b5cae912d28025492daf31ae9f8c64cb501292727e2af60ee387",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-7e417f143fdc.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Sociology",
+        "sha256": "a9bb719a9de1efe4ce68bf1a3dac227f506c660685872e2e68650667f1d1d2e1",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-b6a70077258e.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Combined%20Honours%20in%20Social%20Sciences",
+        "sha256": "ad2eb9bb343222ae01167b9895644ccb8eaeb70274037c25cba3610a37af124c",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-72aeceeaddcc.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Education",
+        "sha256": "a47b2d17ae6abbfae43cbba4945df5d64639b5555d03938ce713bcecbefac3d2",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-b62263750ce0.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Foundation%20Year%20%28Durham%29",
+        "sha256": "445a765889812f587301c11c6f2d06acb7726aaac7d9ddff4c4b31dd5360b699",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-fc47ec764cac.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Geography",
+        "sha256": "28a243ae16c20c12449727436d72b3ff2ca839b7b4ec66d0b668057ac62ce2c7",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-d1851b489021.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Law",
+        "sha256": "695c17731a6bb4f1fc3f8f8d32164952a0f4d90ad79c985f80d5c682b76603be",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-1f565e78d7fa.html"
+      },
+      {
+        "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Sport%20and%20Exercise%20Sciences",
+        "sha256": "24a58e9dbb603bc95f34731d1390f1628cddfbe86cf84cc0f1eb51b708e8d5e7",
+        "raw_file": "scratch/full-catalog/durham-supplement/raw/handbook-dept-b22fd72e2eed.html"
       }
     ],
     "gaps": [
-      "159条为已核目录记录；学校本科首页称超过200种课程，原搜索索引与全部课程／方向尚未逐项闭合，不能据原索引完整性称全校专业已齐。",
-      "158条选择2027入学；NN4H仅有2026 BA页面，与2027 N445 BSc保留为不同年度学位。",
-      "所有所选年度课程页学费均明确尚未确认；专业统计保留各自HESA届次及受访群体，未取得独立UCAS样本量和中国籍分组。"
+      "371是包含旧届、暂停、在读路径和合作校区的规章代码数，不是2027开放招生总数；176条当前查询记录仍未覆盖全校全部路线。",
+      "尚有179个现行规章候选待核实际入口与详情，其中175个海外或实习变体及4个专门入口。",
+      "6个武汉联办项目须分别核地点、合作招生身份、授位与费用；不套杜伦市普通国际生规则。",
+      "19个Last intake及6个2026/27暂停条目不据此推定2027恢复，也不一律认定永久停招。",
+      "原有2027人工智能BSc/MEng、Cranmer神学及旧2026 NN4H虽未在当期规章索引列出，仍保留既有证据与适用年度。",
+      "所选2027课程页尚未确认学费；自然科学各方向的独立毕业调查、薪资样本和中国籍分组仍未取得，母项目结果仅作范围已标明的参考。",
+      "语言内部路线、Foundation入口、外出年收费、N512空白课程页及未来规章更新仍待核对。"
     ]
   },
   "programs": [
@@ -4290,6 +4519,525 @@
         "September 2026"
       ],
       "id": "durham-chemistry-with-overseas-project-6f681d0d62"
+    },
+    {
+      "id": "durham-anthropology-and-biology-bsc-natsci-34d0a554df",
+      "university_id": "durham",
+      "name": "自然科学：人类学与生物学",
+      "name_en": "Natural Sciences: Anthropology and Biology",
+      "degree_label": "BSc (Hons)",
+      "raw_key": "CFG0::joint-honours::Anthropology and Biology",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "intake": "2027年9月（通过自然科学母项目）",
+      "duration": "3年全日制",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+      "source_period": "2027母项目招生页；2026/27课程规章",
+      "record_type": "自然科学共同入口下的具名联合荣誉路线",
+      "entity_type": "自然科学共同入口下的具名联合荣誉路线",
+      "parent_program_id": "durham-natural-sciences-4b9e6da3b4",
+      "parent_name_en": "Natural Sciences",
+      "parent_ucas_code": "CFG0",
+      "entry_route": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+      "requires_prior_degree": false,
+      "status": "2027母项目已列；按学科先修和课程规章选择",
+      "parent_program_url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+      "parent_degree_label": "BSc (Hons)",
+      "source_record_type": "named_joint_honours_route",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学",
+        "社会科学"
+      ]
+    },
+    {
+      "id": "durham-biology-and-earth-sciences-bsc-natsci-f5fd460ea4",
+      "university_id": "durham",
+      "name": "自然科学：生物学与地球科学",
+      "name_en": "Natural Sciences: Biology and Earth Sciences",
+      "degree_label": "BSc (Hons)",
+      "raw_key": "CFG0::joint-honours::Biology and Earth Sciences",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "intake": "2027年9月（通过自然科学母项目）",
+      "duration": "3年全日制",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+      "source_period": "2027母项目招生页；2026/27课程规章",
+      "record_type": "自然科学共同入口下的具名联合荣誉路线",
+      "entity_type": "自然科学共同入口下的具名联合荣誉路线",
+      "parent_program_id": "durham-natural-sciences-4b9e6da3b4",
+      "parent_name_en": "Natural Sciences",
+      "parent_ucas_code": "CFG0",
+      "entry_route": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+      "requires_prior_degree": false,
+      "status": "2027母项目已列；按学科先修和课程规章选择",
+      "parent_program_url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+      "parent_degree_label": "BSc (Hons)",
+      "source_record_type": "named_joint_honours_route",
+      "subject": "环境与农业",
+      "subjects": [
+        "环境与农业",
+        "自然科学"
+      ]
+    },
+    {
+      "id": "durham-biology-and-geography-bsc-natsci-33bb06636b",
+      "university_id": "durham",
+      "name": "自然科学：生物学与地理学",
+      "name_en": "Natural Sciences: Biology and Geography",
+      "degree_label": "BSc (Hons)",
+      "raw_key": "CFG0::joint-honours::Biology and Geography",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "intake": "2027年9月（通过自然科学母项目）",
+      "duration": "3年全日制",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+      "source_period": "2027母项目招生页；2026/27课程规章",
+      "record_type": "自然科学共同入口下的具名联合荣誉路线",
+      "entity_type": "自然科学共同入口下的具名联合荣誉路线",
+      "parent_program_id": "durham-natural-sciences-4b9e6da3b4",
+      "parent_name_en": "Natural Sciences",
+      "parent_ucas_code": "CFG0",
+      "entry_route": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+      "requires_prior_degree": false,
+      "status": "2027母项目已列；按学科先修和课程规章选择",
+      "parent_program_url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+      "parent_degree_label": "BSc (Hons)",
+      "source_record_type": "named_joint_honours_route",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学",
+        "社会科学"
+      ]
+    },
+    {
+      "id": "durham-biology-and-mathematics-bsc-natsci-b24dd93c86",
+      "university_id": "durham",
+      "name": "自然科学：生物学与数学",
+      "name_en": "Natural Sciences: Biology and Mathematics",
+      "degree_label": "BSc (Hons)",
+      "raw_key": "CFG0::joint-honours::Biology and Mathematics",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "intake": "2027年9月（通过自然科学母项目）",
+      "duration": "3年全日制",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+      "source_period": "2027母项目招生页；2026/27课程规章",
+      "record_type": "自然科学共同入口下的具名联合荣誉路线",
+      "entity_type": "自然科学共同入口下的具名联合荣誉路线",
+      "parent_program_id": "durham-natural-sciences-4b9e6da3b4",
+      "parent_name_en": "Natural Sciences",
+      "parent_ucas_code": "CFG0",
+      "entry_route": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+      "requires_prior_degree": false,
+      "status": "2027母项目已列；按学科先修和课程规章选择",
+      "parent_program_url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+      "parent_degree_label": "BSc (Hons)",
+      "source_record_type": "named_joint_honours_route",
+      "subject": "数学与统计",
+      "subjects": [
+        "数学与统计",
+        "自然科学"
+      ]
+    },
+    {
+      "id": "durham-biology-and-physics-bsc-natsci-8335cd9dab",
+      "university_id": "durham",
+      "name": "自然科学：生物学与物理学",
+      "name_en": "Natural Sciences: Biology and Physics",
+      "degree_label": "BSc (Hons)",
+      "raw_key": "CFG0::joint-honours::Biology and Physics",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "intake": "2027年9月（通过自然科学母项目）",
+      "duration": "3年全日制",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+      "source_period": "2027母项目招生页；2026/27课程规章",
+      "record_type": "自然科学共同入口下的具名联合荣誉路线",
+      "entity_type": "自然科学共同入口下的具名联合荣誉路线",
+      "parent_program_id": "durham-natural-sciences-4b9e6da3b4",
+      "parent_name_en": "Natural Sciences",
+      "parent_ucas_code": "CFG0",
+      "entry_route": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+      "requires_prior_degree": false,
+      "status": "2027母项目已列；按学科先修和课程规章选择",
+      "parent_program_url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+      "parent_degree_label": "BSc (Hons)",
+      "source_record_type": "named_joint_honours_route",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
+    },
+    {
+      "id": "durham-business-and-computer-science-bsc-natsci-c94c400c90",
+      "university_id": "durham",
+      "name": "自然科学：商学与计算机科学",
+      "name_en": "Natural Sciences: Business and Computer Science",
+      "degree_label": "BSc (Hons)",
+      "raw_key": "CFG0::joint-honours::Business and Computer Science",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "intake": "2027年9月（通过自然科学母项目）",
+      "duration": "3年全日制",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+      "source_period": "2027母项目招生页；2026/27课程规章",
+      "record_type": "自然科学共同入口下的具名联合荣誉路线",
+      "entity_type": "自然科学共同入口下的具名联合荣誉路线",
+      "parent_program_id": "durham-natural-sciences-4b9e6da3b4",
+      "parent_name_en": "Natural Sciences",
+      "parent_ucas_code": "CFG0",
+      "entry_route": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+      "requires_prior_degree": false,
+      "status": "2027母项目已列；按学科先修和课程规章选择",
+      "parent_program_url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+      "parent_degree_label": "BSc (Hons)",
+      "source_record_type": "named_joint_honours_route",
+      "subject": "计算机",
+      "subjects": [
+        "计算机",
+        "商科"
+      ]
+    },
+    {
+      "id": "durham-chemistry-and-earth-sciences-bsc-natsci-90db5d1f39",
+      "university_id": "durham",
+      "name": "自然科学：化学与地球科学",
+      "name_en": "Natural Sciences: Chemistry and Earth Sciences",
+      "degree_label": "BSc (Hons)",
+      "raw_key": "CFG0::joint-honours::Chemistry and Earth Sciences",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "intake": "2027年9月（通过自然科学母项目）",
+      "duration": "3年全日制",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+      "source_period": "2027母项目招生页；2026/27课程规章",
+      "record_type": "自然科学共同入口下的具名联合荣誉路线",
+      "entity_type": "自然科学共同入口下的具名联合荣誉路线",
+      "parent_program_id": "durham-natural-sciences-4b9e6da3b4",
+      "parent_name_en": "Natural Sciences",
+      "parent_ucas_code": "CFG0",
+      "entry_route": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+      "requires_prior_degree": false,
+      "status": "2027母项目已列；按学科先修和课程规章选择",
+      "parent_program_url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+      "parent_degree_label": "BSc (Hons)",
+      "source_record_type": "named_joint_honours_route",
+      "subject": "环境与农业",
+      "subjects": [
+        "环境与农业",
+        "自然科学"
+      ]
+    },
+    {
+      "id": "durham-computer-science-and-physics-bsc-natsci-c185524bfc",
+      "university_id": "durham",
+      "name": "自然科学：计算机科学与物理学",
+      "name_en": "Natural Sciences: Computer Science and Physics",
+      "degree_label": "BSc (Hons)",
+      "raw_key": "CFG0::joint-honours::Computer Science and Physics",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "intake": "2027年9月（通过自然科学母项目）",
+      "duration": "3年全日制",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+      "source_period": "2027母项目招生页；2026/27课程规章",
+      "record_type": "自然科学共同入口下的具名联合荣誉路线",
+      "entity_type": "自然科学共同入口下的具名联合荣誉路线",
+      "parent_program_id": "durham-natural-sciences-4b9e6da3b4",
+      "parent_name_en": "Natural Sciences",
+      "parent_ucas_code": "CFG0",
+      "entry_route": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+      "requires_prior_degree": false,
+      "status": "2027母项目已列；按学科先修和课程规章选择",
+      "parent_program_url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+      "parent_degree_label": "BSc (Hons)",
+      "source_record_type": "named_joint_honours_route",
+      "subject": "计算机",
+      "subjects": [
+        "计算机",
+        "自然科学"
+      ]
+    },
+    {
+      "id": "durham-earth-sciences-and-geography-bsc-natsci-fc5cd091a9",
+      "university_id": "durham",
+      "name": "自然科学：地球科学与地理学",
+      "name_en": "Natural Sciences: Earth Sciences and Geography",
+      "degree_label": "BSc (Hons)",
+      "raw_key": "CFG0::joint-honours::Earth Sciences and Geography",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "intake": "2027年9月（通过自然科学母项目）",
+      "duration": "3年全日制",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+      "source_period": "2027母项目招生页；2026/27课程规章",
+      "record_type": "自然科学共同入口下的具名联合荣誉路线",
+      "entity_type": "自然科学共同入口下的具名联合荣誉路线",
+      "parent_program_id": "durham-natural-sciences-4b9e6da3b4",
+      "parent_name_en": "Natural Sciences",
+      "parent_ucas_code": "CFG0",
+      "entry_route": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+      "requires_prior_degree": false,
+      "status": "2027母项目已列；按学科先修和课程规章选择",
+      "parent_program_url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+      "parent_degree_label": "BSc (Hons)",
+      "source_record_type": "named_joint_honours_route",
+      "subject": "环境与农业",
+      "subjects": [
+        "环境与农业",
+        "社会科学"
+      ]
+    },
+    {
+      "id": "durham-mathematics-and-psychology-bsc-natsci-b7662f4a50",
+      "university_id": "durham",
+      "name": "自然科学：数学与心理学",
+      "name_en": "Natural Sciences: Mathematics and Psychology",
+      "degree_label": "BSc (Hons)",
+      "raw_key": "CFG0::joint-honours::Mathematics and Psychology",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "intake": "2027年9月（通过自然科学母项目）",
+      "duration": "3年全日制",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+      "source_period": "2027母项目招生页；2026/27课程规章",
+      "record_type": "自然科学共同入口下的具名联合荣誉路线",
+      "entity_type": "自然科学共同入口下的具名联合荣誉路线",
+      "parent_program_id": "durham-natural-sciences-4b9e6da3b4",
+      "parent_name_en": "Natural Sciences",
+      "parent_ucas_code": "CFG0",
+      "entry_route": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+      "requires_prior_degree": false,
+      "status": "2027母项目已列；按学科先修和课程规章选择",
+      "parent_program_url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+      "parent_degree_label": "BSc (Hons)",
+      "source_record_type": "named_joint_honours_route",
+      "subject": "数学与统计",
+      "subjects": [
+        "数学与统计",
+        "社会科学"
+      ]
+    },
+    {
+      "id": "durham-biology-and-physics-msci-natsci-0eda5c4838",
+      "university_id": "durham",
+      "name": "自然科学：生物学与物理学（整合硕士）",
+      "name_en": "Natural Sciences: Biology and Physics",
+      "degree_label": "MSci (Hons)",
+      "raw_key": "FGC0::joint-honours::Biology and Physics",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/FGC0",
+      "intake": "2027年9月（通过自然科学母项目）",
+      "duration": "4年全日制",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/msci-natural-sciences-subject-guide/",
+      "source_period": "2027母项目招生页；2026/27课程规章",
+      "record_type": "自然科学共同入口下的具名联合荣誉路线",
+      "entity_type": "自然科学共同入口下的具名联合荣誉路线",
+      "parent_program_id": "durham-natural-sciences-23f6a85259",
+      "parent_name_en": "Natural Sciences",
+      "parent_ucas_code": "FGC0",
+      "entry_route": "通过FGC0共同入口；符合所选学科先修后选择联合方向",
+      "requires_prior_degree": false,
+      "status": "2027母项目已列；按学科先修和课程规章选择",
+      "parent_program_url": "https://www.durham.ac.uk/study/courses/natural-sciences-fgc0/",
+      "parent_degree_label": "MSci (Hons)",
+      "source_record_type": "named_joint_honours_route",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
+    },
+    {
+      "id": "durham-natural-sciences-psychology-pathway-a8511d0651",
+      "university_id": "durham",
+      "name": "自然科学：心理学认证路径",
+      "name_en": "Natural Sciences (Psychology pathway)",
+      "degree_label": "BSc (Hons)",
+      "raw_key": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFC0",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFC0",
+      "intake": "2026/27在读规章；2027入学通过母项目",
+      "duration": "3年全日制（母项目）",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Natural%20Sciences",
+      "source_period": "2026-2027",
+      "record_type": "自然科学内的在读注册与转入路线",
+      "entity_type": "自然科学内的在读注册与转入路线",
+      "programme_code": "CFC0",
+      "parent_program_id": "durham-natural-sciences-4b9e6da3b4",
+      "parent_name_en": "Natural Sciences",
+      "entry_route": "自然科学在读注册/转入；须满足本路径课程与进度条件",
+      "requires_prior_degree": false,
+      "status": "2026/27规章已列；未确认独立高中申请入口",
+      "parent_program_url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+      "parent_degree_label": "BSc (Hons)",
+      "source_record_type": "registered_internal_pathway",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
+    },
+    {
+      "id": "durham-natural-sciences-psychology-pathway-with-year-abroad-61db22566d",
+      "university_id": "durham",
+      "name": "自然科学：心理学认证路径（海外年）",
+      "name_en": "Natural Sciences (Psychology pathway) with Year Abroad",
+      "degree_label": "BSc (Hons)",
+      "raw_key": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFC1",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFC1",
+      "intake": "2026/27在读规章；2027入学通过母项目",
+      "duration": "4年全日制（含海外年）",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Natural%20Sciences",
+      "source_period": "2026-2027",
+      "record_type": "自然科学内的在读注册与转入路线",
+      "entity_type": "自然科学内的在读注册与转入路线",
+      "programme_code": "CFC1",
+      "parent_program_id": "durham-natural-sciences-psychology-pathway-a8511d0651",
+      "parent_name_en": "Natural Sciences (Psychology pathway)",
+      "entry_route": "自然科学在读注册/转入；须满足本路径课程与进度条件",
+      "requires_prior_degree": false,
+      "status": "2026/27规章已列；未确认独立高中申请入口",
+      "parent_program_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFC0",
+      "parent_degree_label": "BSc (Hons)",
+      "source_record_type": "registered_internal_pathway",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
+    },
+    {
+      "id": "durham-natural-sciences-psychology-pathway-with-placement-bd03f65445",
+      "university_id": "durham",
+      "name": "自然科学：心理学认证路径（实习年）",
+      "name_en": "Natural Sciences (Psychology pathway) with Placement",
+      "degree_label": "BSc (Hons)",
+      "raw_key": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFC2",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFC2",
+      "intake": "2026/27在读规章；2027入学通过母项目",
+      "duration": "4年全日制（含实习年）",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Natural%20Sciences",
+      "source_period": "2026-2027",
+      "record_type": "自然科学内的在读注册与转入路线",
+      "entity_type": "自然科学内的在读注册与转入路线",
+      "programme_code": "CFC2",
+      "parent_program_id": "durham-natural-sciences-psychology-pathway-a8511d0651",
+      "parent_name_en": "Natural Sciences (Psychology pathway)",
+      "entry_route": "自然科学在读注册/转入；须满足本路径课程与进度条件",
+      "requires_prior_degree": false,
+      "status": "2026/27规章已列；未确认独立高中申请入口",
+      "parent_program_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFC0",
+      "parent_degree_label": "BSc (Hons)",
+      "source_record_type": "registered_internal_pathway",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
+    },
+    {
+      "id": "durham-natural-sciences-with-year-abroad-3e1a702892",
+      "university_id": "durham",
+      "name": "自然科学（海外年）",
+      "name_en": "Natural Sciences with Year Abroad",
+      "degree_label": "BSc (Hons)",
+      "raw_key": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG1",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG1",
+      "intake": "2026/27在读规章；2027入学通过母项目",
+      "duration": "4年全日制（含海外年）",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Natural%20Sciences",
+      "source_period": "2026-2027",
+      "record_type": "自然科学内的在读注册与转入路线",
+      "entity_type": "自然科学内的在读注册与转入路线",
+      "programme_code": "CFG1",
+      "parent_program_id": "durham-natural-sciences-4b9e6da3b4",
+      "parent_name_en": "Natural Sciences",
+      "entry_route": "自然科学在读注册/转入；须满足本路径课程与进度条件",
+      "requires_prior_degree": false,
+      "status": "2026/27规章已列；未确认独立高中申请入口",
+      "parent_program_url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+      "parent_degree_label": "BSc (Hons)",
+      "source_record_type": "registered_internal_pathway",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
+    },
+    {
+      "id": "durham-natural-sciences-with-placement-2f99102989",
+      "university_id": "durham",
+      "name": "自然科学（实习年）",
+      "name_en": "Natural Sciences with Placement",
+      "degree_label": "BSc (Hons)",
+      "raw_key": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG2",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG2",
+      "intake": "2026/27在读规章；2027入学通过母项目",
+      "duration": "4年全日制（含实习年）",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Natural%20Sciences",
+      "source_period": "2026-2027",
+      "record_type": "自然科学内的在读注册与转入路线",
+      "entity_type": "自然科学内的在读注册与转入路线",
+      "programme_code": "CFG2",
+      "parent_program_id": "durham-natural-sciences-4b9e6da3b4",
+      "parent_name_en": "Natural Sciences",
+      "entry_route": "自然科学在读注册/转入；须满足本路径课程与进度条件",
+      "requires_prior_degree": false,
+      "status": "2026/27规章已列；未确认独立高中申请入口",
+      "parent_program_url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+      "parent_degree_label": "BSc (Hons)",
+      "source_record_type": "registered_internal_pathway",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
+    },
+    {
+      "id": "durham-natural-sciences-with-placement-612c5ad9f8",
+      "university_id": "durham",
+      "name": "自然科学（整合硕士，实习年）",
+      "name_en": "Natural Sciences with Placement",
+      "degree_label": "MSci (Hons)",
+      "raw_key": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/FGC1",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/FGC1",
+      "intake": "2026/27在读规章；2027入学通过母项目",
+      "duration": "5年全日制（含实习年）",
+      "campus": "杜伦市（具体教学地点按课表）",
+      "language": "英语",
+      "discovery_source_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Natural%20Sciences",
+      "source_period": "2026-2027",
+      "record_type": "自然科学内的在读注册与转入路线",
+      "entity_type": "自然科学内的在读注册与转入路线",
+      "programme_code": "FGC1",
+      "parent_program_id": "durham-natural-sciences-23f6a85259",
+      "parent_name_en": "Natural Sciences",
+      "entry_route": "自然科学在读注册/转入；须满足本路径课程与进度条件",
+      "requires_prior_degree": false,
+      "status": "2026/27规章已列；未确认独立高中申请入口",
+      "parent_program_url": "https://www.durham.ac.uk/study/courses/natural-sciences-fgc0/",
+      "parent_degree_label": "MSci (Hons)",
+      "source_record_type": "registered_internal_pathway",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
     }
   ]
 }

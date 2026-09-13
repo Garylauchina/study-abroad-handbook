@@ -32,47 +32,31 @@ hide:
 
 <p><strong>官方名称：</strong>Biophysics</p>
 
-<p><strong>授予学位 / 项目类型：</strong>Bachelor of Science</p>
+<p><strong>授予学位 / 项目类型：</strong>Bachelor of Science — Combined Honours</p>
 
-<p><strong>目录适用期：</strong>官网当前目录；未标明确入学年度，核对于2026-09-12</p>
+<p><strong>目录适用期：</strong>2026/27现行校历；在读准入、旧届次及费用适用年分别说明</p>
+
+<p><strong>条目类型：</strong>所属学位内联合荣誉</p>
+
+<p><strong>申请路径：</strong>校内分流/后续入口：须学业状态良好，一年级每门物理及数学课程至少68%。</p>
 
 <p class="catalog-fact"><strong>项目内容：</strong>从物理和定量视角研究原子、分子、细胞、生命体及环境中的生命现象。</p>
 <p class="fact-sources"><a href="#source-p-program">官方依据</a></p>
 
+<p class="catalog-fact"><strong>实际授位类别：</strong>现校历Biophysics代码3676明确为BSc Combined Honours，132学分，含18学分生物科学课程（至少一门实验）及6学分PHYS449研究。生物选修须顾问批准，兼顾一个生物子领域。</p>
+<p class="fact-sources"><a href="#source-p-UBC2-vancouver-03161f5937eb">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-<p class="catalog-fact"><strong>所属学位的中国高中先修：</strong>高年级数学（Pre-calculus）、化学两年和物理两年；高年级数学与化学均A时物理可能豁免。 这是vancouver校区学位入口要求，具体主修的后续选拔条件仍须另核。</p>
+<p class="catalog-fact"><strong>所属学位的中国高中先修：</strong>以下只说明首次申请所属BSc的条件，不代替本页在读专业准入。高年级数学（Pre-calculus）、化学两年和物理两年；高年级数学与化学均A时物理可能豁免。 这是vancouver校区学位入口要求，具体主修的后续选拔条件仍须另核。</p>
 <p class="fact-sources"><a href="#source-p-china-degree">官方依据</a></p>
 
-<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
-
-<p class="catalog-fact"><strong>中国普高资格与提交渠道：</strong>两校区的中国申请页均要求大学预科性质的高中毕业资格及高中成绩，并通过CSSD提交会考／学业水平考试和高考成绩。校方期望达到本省一本／Tier 1大学分数线；不参加高考者须提交至少三个不同学科的AP考试成绩，且成绩须有竞争力。不能把AP替代路径省略成“无需高考即可申请”。</p>
-<p class="fact-sources"><a href="#source-u-china-v">官方依据</a> · <a href="#source-u-china-o">官方依据</a></p>
-
-<p class="catalog-fact"><strong>历史成绩参考的校区差异：</strong>官网称过往中国百分制参考平均成绩为Vancouver 84%、Okanagan 75%（及格线60%的量表）；同时明确每个学位、每年要求会变化。这些是历史参考，并非2027保证录取线，也不是高考门槛百分比。</p>
-<p class="fact-sources"><a href="#source-u-china-v">官方依据</a> · <a href="#source-u-china-o">官方依据</a></p>
-
-<p class="catalog-fact"><strong>英语能力与学位先修：</strong>英语为UBC教学语言，申请者须在录取前证明英语能力；中国资格、英语标准及所申请学位的先修科目须同时满足。申请通常对应学位入口，进入具体主修还可能有后续选拔。</p>
-<p class="fact-sources"><a href="#source-u-china-v">官方依据</a> · <a href="#source-u-china-o">官方依据</a></p>
-
-</details>
+<p class="catalog-fact"><strong>生物物理脚注7准入：</strong>须学业状态良好，一年级每门物理及数学课程至少68%。该Biophysics脚注没有另外写无挂科，不能照抄普通Physics的全部附加措辞。</p>
+<p class="fact-sources"><a href="#source-p-UBC2-vancouver-03161f5937eb">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
-
-<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
-
-<p class="catalog-fact"><strong>2027普通本科日历：</strong>2027 Winter Session（2027年9月至2028年4月）申请预计2026年10月初开放，常规截止2027年1月15日23:59 PST。英语证明截止2027年2月15日，境外高中申请材料截止3月15日；专业补充申请、第二学位和专业学位另核。</p>
-<p class="fact-sources"><a href="#source-u-dates">官方依据</a></p>
-
-<p class="catalog-fact"><strong>国际学者奖更早截止：</strong>如申请International Scholars Program，官网要求2026年11月15日23:59 PST前同时提交UBC申请和奖项申请，2027年1月31日前满足英语及材料要求；不能沿用普通本科1月15日作为该奖学金的申请截止。</p>
-<p class="fact-sources"><a href="#source-u-dates">官方依据</a></p>
-
-<p class="catalog-fact"><strong>申请费与旧页面边界：</strong>当前普通申请说明页列需学习许可的国际申请者申请费CAD 173.25且不退；同页仍保留2026年Okanagan延长窗口，不能用于2027。具体2027提交时费用仍以申请系统为准。</p>
-<p class="fact-sources"><a href="#source-u-apply">官方依据</a></p>
-
-</details>
 
 ## 学费与资助 {#fees}
 
@@ -103,10 +87,7 @@ hide:
 <div class="catalog-source" id="source-p-program"><div><a href="https://you.ubc.ca/programs/">UBC官方本科项目资料：Biophysics ↗</a><p>公开完整programsListData中的培养内容、项目类型及官方项目入口</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-china-degree"><div><a href="https://you.ubc.ca/applying-ubc/requirements/international-high-schools/">UBC中国申请：所属学位先修 ↗</a><p>该校区中国资格选择器下的学位特定要求</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-fee"><div><a href="https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate">UBC Vancouver2026/27本科收费表 ↗</a><p>国际新生档 Science 的每学分金额与适用批次</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-china-v"><div><a href="https://you.ubc.ca/applying-ubc/requirements/international-high-schools/">UBC中国资格：Vancouver ↗</a><p>动态选择中国和Vancouver的正式资格、先修与历史参考成绩</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-china-o"><div><a href="https://you.ubc.ca/applying-ubc/requirements/international-high-schools/">UBC中国资格：Okanagan ↗</a><p>动态选择中国和Okanagan的正式资格、先修与历史参考成绩</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-dates"><div><a href="https://you.ubc.ca/applying-ubc/dates-deadlines/">UBC2027申请日历 ↗</a><p>申请、英语和境外高中材料、International Scholars截止</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-apply"><div><a href="https://you.ubc.ca/applying-ubc/how-to-apply/application/">UBC普通本科申请说明 ↗</a><p>当前申请费与申请流程；旧年延长日期不外推</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-UBC2-vancouver-03161f5937eb"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/physics">UBC Academic Calendar — Physics ↗</a><p>实际授位类别；生物物理脚注7准入</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-fees-v"><div><a href="https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate">UBC Vancouver2026/27本科学费 ↗</a><p>2026S及以后新生档、国际每学分金额与后续年度规则</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-fee-policy"><div><a href="https://vancouver.calendar.ubc.ca/fees/policies-fees">UBC Vancouver收费政策 ↗</a><p>收费身份、工作许可旧豁免停止及过渡规则</p><small>核验 2026-09-12</small></div></div>
 

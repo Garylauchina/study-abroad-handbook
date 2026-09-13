@@ -19,7 +19,7 @@ hide:
 
 <p class="program-title-en">Dentistry</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>大学前置学习后4年DMD</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>大学前置学习后4年DMD</strong></div><div><span>国际生学费</span><strong>2026/27参考CAD 93,812.09／年；2027/28未确认</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>尚未核实</p>
 
@@ -67,6 +67,9 @@ hide:
 <p class="catalog-fact"><strong>录取后的押金安排：</strong>校历要求收到录取通知后两周内交不可退押金，抵扣首学期诊所费用；该页未在此处给出可确认的2027押金金额。押金不等于全程学费，诊所与课程材料等费用仍须另外核对。</p>
 <p class="fact-sources"><a href="#source-p-UBCS-professional-05a4aff87392">官方依据</a></p>
 
+<p class="catalog-fact"><strong>2026/27专业收费参考：</strong>2026/27官方收费表的DMD、2026 Summer或以后开始该学位的国际生档为CAD 93,812.09／年。其他学生费用、课程材料及适用的临床费用另核；这是当前学年参考，不是全程总价，也不是已公布的2027/28报价。更早入读者按自己的原学位入学批次核表。</p>
+<p class="fact-sources"><a href="#source-p-UBC2-FEE-VANCOUVER">官方依据</a></p>
+
 ## 毕业生情况 {#outcomes}
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
@@ -81,5 +84,6 @@ hide:
 <div class="catalog-source" id="source-p-program"><div><a href="https://you.ubc.ca/programs/">UBC官方本科项目资料：Dentistry ↗</a><p>公开完整programsListData中的培养内容、项目类型及官方项目入口</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-UBCS-professional-05a4aff87392"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-dentistry/doctor-dental-medicine/admission">UBC — Admission ↗</a><p>DMD身份；大学前置与国际申请者；境外牙医衔接不等于普通DMD</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UBCS-professional-2ef569078cc0"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-dentistry/doctor-dental-medicine/introduction">UBC — Introduction ↗</a><p>DMD身份</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBC2-FEE-VANCOUVER"><div><a href="https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate">Vancouver Academic Calendar — Undergraduate fees ↗</a><p>2026/27对应专业国际收费、单位及2026S或以后学位入学批次</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/ubc/">← 返回英属哥伦比亚大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

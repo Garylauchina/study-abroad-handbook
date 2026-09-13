@@ -22173,6 +22173,15 @@
               "DUR-6312d45d1af6e8b2"
             ],
             "extraction_locator": "Be inspired. Be you."
+          },
+          {
+            "label": "新增目录层级说明",
+            "text": "2026/27规章明确FGC0内部具名MSci生物与物理路线，以及FGC1实习年注册路线。这些内部注册代码不能一律作为2027新生UCAS代码；已有独立UCAS的联合学位仍使用原课程入口。",
+            "source_ids": [
+              "DURS-6377f04aff3d6fbe",
+              "DURS-6b5ee2fd376cee52"
+            ],
+            "extraction_locator": "Joint Honours; Year Abroad / Placement"
           }
         ],
         "admissions": [
@@ -22208,6 +22217,14 @@
               "DUR-8e16d58ea321e391",
               "DUR-c601e145c79550bf"
             ]
+          },
+          {
+            "label": "高考数学条件补充",
+            "text": "课程China栏目说明：数学为专业必需先修时，高考数学还须至少80%，不能仅凭高考总分达标代替指定科目要求。",
+            "source_ids": [
+              "DUR-9ef24c7420836d12"
+            ],
+            "extraction_locator": "Entry requirements > China > Gaokao"
           }
         ],
         "applications": [
@@ -22219,6 +22236,13 @@
               "DUR-8328a7e36cb0b348"
             ],
             "extraction_locator": "Course details / UCAS event"
+          },
+          {
+            "label": "申请后学科选择",
+            "text": "在申请者门户按优先级填写2—4学科；首选须在Group A内，化学须列前两项。通常大一末选择联合或较广泛路线，仍受先修和课表条件限制。",
+            "source_ids": [
+              "DURS-6b5ee2fd376cee52"
+            ]
           }
         ],
         "fees": [
@@ -22345,6 +22369,26 @@
           "supports": "2026/27奖学金及本硕博适用群体",
           "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
           "locator": "main-content"
+        },
+        {
+          "id": "DURS-6377f04aff3d6fbe",
+          "title": "Natural Sciences FGC0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/FGC0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "8cfb6564105beb7b46ceb97403563601a0d2297c6890f16bf5b6d0eb514d0e94",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        },
+        {
+          "id": "DURS-6b5ee2fd376cee52",
+          "title": "MSci Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/msci-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "6b8953d990636aafa4cd1d7e9575228b10604474a0cd88cbdd70de25d0aaf08c",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
         }
       ],
       "coverage_notes": [
@@ -22419,6 +22463,15 @@
               "DUR-6312d45d1af6e8b2"
             ],
             "extraction_locator": "Be inspired. Be you."
+          },
+          {
+            "label": "新增目录层级说明",
+            "text": "2026/27规章明确10个CFG0内部具名BSc联合方向，以及CFC0心理认证、CFG1/CFC1海外年和CFG2/CFC2实习注册路线。这些内部注册代码不能一律作为2027新生UCAS代码；已有独立UCAS的联合学位仍使用原课程入口。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c",
+              "DURS-0d94275eee8c3241"
+            ],
+            "extraction_locator": "Joint Honours; Year Abroad / Placement"
           }
         ],
         "admissions": [
@@ -22454,6 +22507,14 @@
               "DUR-8e16d58ea321e391",
               "DUR-c601e145c79550bf"
             ]
+          },
+          {
+            "label": "高考数学条件补充",
+            "text": "课程China栏目说明：数学为专业必需先修时，高考数学还须至少80%，不能仅凭高考总分达标代替指定科目要求。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > China > Gaokao"
           }
         ],
         "applications": [
@@ -22465,6 +22526,13 @@
               "DUR-8328a7e36cb0b348"
             ],
             "extraction_locator": "Course details / UCAS event"
+          },
+          {
+            "label": "申请后学科选择",
+            "text": "在申请者门户按优先级填写2—4学科；首选须在Group 1内，化学须列前两项。通常大一末选择联合或较广泛路线，仍受先修和课表条件限制。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
           }
         ],
         "fees": [
@@ -22591,6 +22659,26 @@
           "supports": "2026/27奖学金及本硕博适用群体",
           "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
           "locator": "main-content"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
         }
       ],
       "coverage_notes": [
@@ -38567,6 +38655,4567 @@
       },
       "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
       "inventory_id": "durham-chemistry-with-overseas-project-6f681d0d62"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "CFG0::joint-honours::Anthropology and Biology",
+      "name_en": "Natural Sciences: Anthropology and Biology",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与授位",
+            "text": "按规定完成两学科联合路线，授予BSc in Anthropology and Biology within the Natural Sciences programme。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "19；PDF第3页"
+          },
+          {
+            "label": "逐阶段课程",
+            "text": "2026/27规章：大一学习人类进化与多样性、人类学研究、成为人类，以及生物与环境、遗传学；大二结合研究设计、进化、生态与行为。大三在人类学和生态、保护生物学等课程中深化。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "19；PDF第3页"
+          },
+          {
+            "label": "共同入口及确定时间",
+            "text": "这是自然科学内部具名联合路线，通常大一末确定；三年均学习所选两科。若所选组合已有独立UCAS项目，学校按现行规则转介该项目，不重复建立招生入口。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "2027母项目A-level与本方向先修",
+            "text": "共同标准A*AA，至少一门理科。生物或化学A。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > standard offer"
+          },
+          {
+            "label": "大陆高考换算",
+            "text": "2027母项目A*AA对应高考总分80%；若数学为所选学科必需先修，高考数学还须至少80%。其他指定学科、英语及适用测试仍须分别满足，不能仅凭总分保证录取。",
+            "source_ids": [
+              "DUR-fa72b907f382d619",
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "China > Gaokao table, matched to this course standard"
+          },
+          {
+            "label": "IB路径及本方向先修",
+            "text": "共同标准37分、HL三科766，至少一门HL理科。HL生物或化学6。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > IB / GCSE requirements"
+          },
+          {
+            "label": "课程英语",
+            "text": "所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。",
+            "source_ids": [
+              "DUR-8e16d58ea321e391",
+              "DUR-c601e145c79550bf"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027共同入口申请",
+            "text": "申请自然科学CFG0；其2027 UCAS平等审理截止为2027年1月13日英国18:00。方向本身没有本轮核得的独立新生UCAS代码。",
+            "source_ids": [
+              "DUR-7027dccb155527b5",
+              "DUR-8328a7e36cb0b348",
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "学科意向与先修审核",
+            "text": "申请后在UG Applicant Portal按偏好填2—4学科；第一志愿须来自Group 1理科。若选化学须列前两位；录取条件将覆盖前两位学科所需先修。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-7027dccb155527b5",
+          "title": "Natural Sciences CFG0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-fa72b907f382d619",
+          "title": "Philosophy, Politics and Economics VL52 - Durham University",
+          "url": "https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/",
+          "checked_at": "2026-09-13",
+          "supports": "2027课程页China栏目所列学校资格换算；具体专业需另核",
+          "sha256": "d77e56e5c749217b20f8e64eba0435e941379db1b39cbd45f7c1b6ecd87e30d5",
+          "locator": "Entry requirements > country-select China > er-2602657"
+        },
+        {
+          "id": "DUR-8e16d58ea321e391",
+          "title": "English Language Levels Required - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/english-language-levels-required/",
+          "checked_at": "2026-09-13",
+          "supports": "各学科本科及Foundation英语Band",
+          "sha256": "9f298f981d432f713bab9986ca6126c0f8b84e7feb1d5bb2048aa25dea886ee5",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-c601e145c79550bf",
+          "title": "Direct Entry Band B - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-b/",
+          "checked_at": "2026-09-13",
+          "supports": "Band B直入英语测试分数",
+          "sha256": "abdd1bc811f0380d4789b3388d87e6538b749ac0680094a2bb9dd5659b22eff7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-8328a7e36cb0b348",
+          "title": "ucas-2027",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-13",
+          "supports": "2027年1月13日18:00英国时间平等审理截止",
+          "sha256": "86b870f18dfd3fbcae24deb0a99a369782481285a1309f4786b25543eedaa6b7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学：人类学与生物学",
+        "duration": "3年全日制",
+        "intake": "2027年9月（通过自然科学母项目）",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-anthropology-and-biology-bsc-natsci-34d0a554df",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "BSc (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "CFG0::joint-honours::Biology and Earth Sciences",
+      "name_en": "Natural Sciences: Biology and Earth Sciences",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与授位",
+            "text": "2026年起入学规章第17(i)条将此组列为授位名称不带within the Natural Sciences的例外：BSc Honours in Earth Sciences and Biology；招生仍通过CFG0。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "20；PDF第3—4页"
+          },
+          {
+            "label": "逐阶段课程",
+            "text": "2026/27规章：大一的生物与环境、遗传学、野外研究、地球科学和环境可持续性共100必修学分，另选20学分。大二学习进化、生态、行为、环境同位素和野外工作，并在沉积环境与环境地球物理中二选一。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "20；PDF第3—4页"
+          },
+          {
+            "label": "共同入口及确定时间",
+            "text": "这是自然科学内部具名联合路线，通常大一末确定；三年均学习所选两科。若所选组合已有独立UCAS项目，学校按现行规则转介该项目，不重复建立招生入口。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "2027母项目A-level与本方向先修",
+            "text": "共同标准A*AA，至少一门理科。生物或化学A。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > standard offer"
+          },
+          {
+            "label": "大陆高考换算",
+            "text": "2027母项目A*AA对应高考总分80%；若数学为所选学科必需先修，高考数学还须至少80%。其他指定学科、英语及适用测试仍须分别满足，不能仅凭总分保证录取。",
+            "source_ids": [
+              "DUR-fa72b907f382d619",
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "China > Gaokao table, matched to this course standard"
+          },
+          {
+            "label": "IB路径及本方向先修",
+            "text": "共同标准37分、HL三科766，至少一门HL理科。HL生物或化学6。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > IB / GCSE requirements"
+          },
+          {
+            "label": "课程英语",
+            "text": "所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。",
+            "source_ids": [
+              "DUR-8e16d58ea321e391",
+              "DUR-c601e145c79550bf"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027共同入口申请",
+            "text": "申请自然科学CFG0；其2027 UCAS平等审理截止为2027年1月13日英国18:00。方向本身没有本轮核得的独立新生UCAS代码。",
+            "source_ids": [
+              "DUR-7027dccb155527b5",
+              "DUR-8328a7e36cb0b348",
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "学科意向与先修审核",
+            "text": "申请后在UG Applicant Portal按偏好填2—4学科；第一志愿须来自Group 1理科。若选化学须列前两位；录取条件将覆盖前两位学科所需先修。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-7027dccb155527b5",
+          "title": "Natural Sciences CFG0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-fa72b907f382d619",
+          "title": "Philosophy, Politics and Economics VL52 - Durham University",
+          "url": "https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/",
+          "checked_at": "2026-09-13",
+          "supports": "2027课程页China栏目所列学校资格换算；具体专业需另核",
+          "sha256": "d77e56e5c749217b20f8e64eba0435e941379db1b39cbd45f7c1b6ecd87e30d5",
+          "locator": "Entry requirements > country-select China > er-2602657"
+        },
+        {
+          "id": "DUR-8e16d58ea321e391",
+          "title": "English Language Levels Required - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/english-language-levels-required/",
+          "checked_at": "2026-09-13",
+          "supports": "各学科本科及Foundation英语Band",
+          "sha256": "9f298f981d432f713bab9986ca6126c0f8b84e7feb1d5bb2048aa25dea886ee5",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-c601e145c79550bf",
+          "title": "Direct Entry Band B - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-b/",
+          "checked_at": "2026-09-13",
+          "supports": "Band B直入英语测试分数",
+          "sha256": "abdd1bc811f0380d4789b3388d87e6538b749ac0680094a2bb9dd5659b22eff7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-8328a7e36cb0b348",
+          "title": "ucas-2027",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-13",
+          "supports": "2027年1月13日18:00英国时间平等审理截止",
+          "sha256": "86b870f18dfd3fbcae24deb0a99a369782481285a1309f4786b25543eedaa6b7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学：生物学与地球科学",
+        "duration": "3年全日制",
+        "intake": "2027年9月（通过自然科学母项目）",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-biology-and-earth-sciences-bsc-natsci-f5fd460ea4",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "BSc (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "CFG0::joint-honours::Biology and Geography",
+      "name_en": "Natural Sciences: Biology and Geography",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与授位",
+            "text": "按规定完成两学科联合路线，授予BSc in Biology and Geography within the Natural Sciences programme。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "21；PDF第4页"
+          },
+          {
+            "label": "逐阶段课程",
+            "text": "2026/27规章：大一学习生物与环境、遗传学及40学分地理研究导论。大二生物学必修60学分、地理科学研究40学分，另有20学分地理选课；大三涉及生态、保护生物学及地理研究或论文。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "21；PDF第4页"
+          },
+          {
+            "label": "共同入口及确定时间",
+            "text": "这是自然科学内部具名联合路线，通常大一末确定；三年均学习所选两科。若所选组合已有独立UCAS项目，学校按现行规则转介该项目，不重复建立招生入口。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "2027母项目A-level与本方向先修",
+            "text": "共同标准A*AA，至少一门理科。生物或化学A。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > standard offer"
+          },
+          {
+            "label": "大陆高考换算",
+            "text": "2027母项目A*AA对应高考总分80%；若数学为所选学科必需先修，高考数学还须至少80%。其他指定学科、英语及适用测试仍须分别满足，不能仅凭总分保证录取。",
+            "source_ids": [
+              "DUR-fa72b907f382d619",
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "China > Gaokao table, matched to this course standard"
+          },
+          {
+            "label": "IB路径及本方向先修",
+            "text": "共同标准37分、HL三科766，至少一门HL理科。HL生物或化学6。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > IB / GCSE requirements"
+          },
+          {
+            "label": "课程英语",
+            "text": "所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。",
+            "source_ids": [
+              "DUR-8e16d58ea321e391",
+              "DUR-c601e145c79550bf"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027共同入口申请",
+            "text": "申请自然科学CFG0；其2027 UCAS平等审理截止为2027年1月13日英国18:00。方向本身没有本轮核得的独立新生UCAS代码。",
+            "source_ids": [
+              "DUR-7027dccb155527b5",
+              "DUR-8328a7e36cb0b348",
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "学科意向与先修审核",
+            "text": "申请后在UG Applicant Portal按偏好填2—4学科；第一志愿须来自Group 1理科。若选化学须列前两位；录取条件将覆盖前两位学科所需先修。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-7027dccb155527b5",
+          "title": "Natural Sciences CFG0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-fa72b907f382d619",
+          "title": "Philosophy, Politics and Economics VL52 - Durham University",
+          "url": "https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/",
+          "checked_at": "2026-09-13",
+          "supports": "2027课程页China栏目所列学校资格换算；具体专业需另核",
+          "sha256": "d77e56e5c749217b20f8e64eba0435e941379db1b39cbd45f7c1b6ecd87e30d5",
+          "locator": "Entry requirements > country-select China > er-2602657"
+        },
+        {
+          "id": "DUR-8e16d58ea321e391",
+          "title": "English Language Levels Required - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/english-language-levels-required/",
+          "checked_at": "2026-09-13",
+          "supports": "各学科本科及Foundation英语Band",
+          "sha256": "9f298f981d432f713bab9986ca6126c0f8b84e7feb1d5bb2048aa25dea886ee5",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-c601e145c79550bf",
+          "title": "Direct Entry Band B - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-b/",
+          "checked_at": "2026-09-13",
+          "supports": "Band B直入英语测试分数",
+          "sha256": "abdd1bc811f0380d4789b3388d87e6538b749ac0680094a2bb9dd5659b22eff7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-8328a7e36cb0b348",
+          "title": "ucas-2027",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-13",
+          "supports": "2027年1月13日18:00英国时间平等审理截止",
+          "sha256": "86b870f18dfd3fbcae24deb0a99a369782481285a1309f4786b25543eedaa6b7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学：生物学与地理学",
+        "duration": "3年全日制",
+        "intake": "2027年9月（通过自然科学母项目）",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-biology-and-geography-bsc-natsci-33bb06636b",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "BSc (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "CFG0::joint-honours::Biology and Mathematics",
+      "name_en": "Natural Sciences: Biology and Mathematics",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与授位",
+            "text": "按规定完成两学科联合路线，授予BSc in Biology and Mathematics within the Natural Sciences programme。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "22；PDF第4—5页"
+          },
+          {
+            "label": "逐阶段课程",
+            "text": "2026/27规章：大一结合遗传学、生物与环境、微积分、线性代数、概率与统计；大二分子生物学、进化和生态合计60学分，另修数学60学分；大三保留生态、保护生物学与至少40学分高年级数学。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "22；PDF第4—5页"
+          },
+          {
+            "label": "共同入口及确定时间",
+            "text": "这是自然科学内部具名联合路线，通常大一末确定；三年均学习所选两科。若所选组合已有独立UCAS项目，学校按现行规则转介该项目，不重复建立招生入口。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "2027母项目A-level与本方向先修",
+            "text": "共同标准A*AA，至少一门理科。生物或化学A；数学与进阶数学A*A，顺序不限；无法修完整进阶数学者可用数学A*及AS进阶数学A。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > standard offer"
+          },
+          {
+            "label": "大陆高考换算",
+            "text": "2027母项目A*AA对应高考总分80%；若数学为所选学科必需先修，高考数学还须至少80%。其他指定学科、英语及适用测试仍须分别满足，不能仅凭总分保证录取。",
+            "source_ids": [
+              "DUR-fa72b907f382d619",
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "China > Gaokao table, matched to this course standard"
+          },
+          {
+            "label": "IB路径及本方向先修",
+            "text": "共同标准37分、HL三科766，至少一门HL理科。HL数学Analysis and Approaches 7；HL生物或化学6。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > IB / GCSE requirements"
+          },
+          {
+            "label": "课程英语",
+            "text": "所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。",
+            "source_ids": [
+              "DUR-8e16d58ea321e391",
+              "DUR-c601e145c79550bf"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027共同入口申请",
+            "text": "申请自然科学CFG0；其2027 UCAS平等审理截止为2027年1月13日英国18:00。方向本身没有本轮核得的独立新生UCAS代码。",
+            "source_ids": [
+              "DUR-7027dccb155527b5",
+              "DUR-8328a7e36cb0b348",
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "学科意向与先修审核",
+            "text": "申请后在UG Applicant Portal按偏好填2—4学科；第一志愿须来自Group 1理科。若选化学须列前两位；录取条件将覆盖前两位学科所需先修。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-7027dccb155527b5",
+          "title": "Natural Sciences CFG0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-fa72b907f382d619",
+          "title": "Philosophy, Politics and Economics VL52 - Durham University",
+          "url": "https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/",
+          "checked_at": "2026-09-13",
+          "supports": "2027课程页China栏目所列学校资格换算；具体专业需另核",
+          "sha256": "d77e56e5c749217b20f8e64eba0435e941379db1b39cbd45f7c1b6ecd87e30d5",
+          "locator": "Entry requirements > country-select China > er-2602657"
+        },
+        {
+          "id": "DUR-8e16d58ea321e391",
+          "title": "English Language Levels Required - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/english-language-levels-required/",
+          "checked_at": "2026-09-13",
+          "supports": "各学科本科及Foundation英语Band",
+          "sha256": "9f298f981d432f713bab9986ca6126c0f8b84e7feb1d5bb2048aa25dea886ee5",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-c601e145c79550bf",
+          "title": "Direct Entry Band B - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-b/",
+          "checked_at": "2026-09-13",
+          "supports": "Band B直入英语测试分数",
+          "sha256": "abdd1bc811f0380d4789b3388d87e6538b749ac0680094a2bb9dd5659b22eff7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-8328a7e36cb0b348",
+          "title": "ucas-2027",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-13",
+          "supports": "2027年1月13日18:00英国时间平等审理截止",
+          "sha256": "86b870f18dfd3fbcae24deb0a99a369782481285a1309f4786b25543eedaa6b7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学：生物学与数学",
+        "duration": "3年全日制",
+        "intake": "2027年9月（通过自然科学母项目）",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-biology-and-mathematics-bsc-natsci-b24dd93c86",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "BSc (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "CFG0::joint-honours::Biology and Physics",
+      "name_en": "Natural Sciences: Biology and Physics",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与授位",
+            "text": "按规定完成两学科联合路线，授予BSc in Biology and Physics within the Natural Sciences programme。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "23；PDF第5页"
+          },
+          {
+            "label": "逐阶段课程",
+            "text": "2026/27规章：大一为遗传学、分子与细胞、40学分物理基础和40学分数学。大二结合分子、发育、细胞生物学与物理数学方法；大三学习高级细胞、发育、物理基础及实验与电子学。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "23；PDF第5页"
+          },
+          {
+            "label": "共同入口及确定时间",
+            "text": "这是自然科学内部具名联合路线，通常大一末确定；三年均学习所选两科。若所选组合已有独立UCAS项目，学校按现行规则转介该项目，不重复建立招生入口。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "2027母项目A-level与本方向先修",
+            "text": "共同标准A*AA，至少一门理科。生物或化学A；物理与数学A*A，顺序不限。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > standard offer"
+          },
+          {
+            "label": "大陆高考换算",
+            "text": "2027母项目A*AA对应高考总分80%；若数学为所选学科必需先修，高考数学还须至少80%。其他指定学科、英语及适用测试仍须分别满足，不能仅凭总分保证录取。",
+            "source_ids": [
+              "DUR-fa72b907f382d619",
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "China > Gaokao table, matched to this course standard"
+          },
+          {
+            "label": "IB路径及本方向先修",
+            "text": "共同标准37分、HL三科766，至少一门HL理科。HL生物或化学6；HL物理与数学Analysis and Approaches达到7、6，顺序不限。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > IB / GCSE requirements"
+          },
+          {
+            "label": "课程英语",
+            "text": "所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。",
+            "source_ids": [
+              "DUR-8e16d58ea321e391",
+              "DUR-c601e145c79550bf"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027共同入口申请",
+            "text": "申请自然科学CFG0；其2027 UCAS平等审理截止为2027年1月13日英国18:00。方向本身没有本轮核得的独立新生UCAS代码。",
+            "source_ids": [
+              "DUR-7027dccb155527b5",
+              "DUR-8328a7e36cb0b348",
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "学科意向与先修审核",
+            "text": "申请后在UG Applicant Portal按偏好填2—4学科；第一志愿须来自Group 1理科。若选化学须列前两位；录取条件将覆盖前两位学科所需先修。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-7027dccb155527b5",
+          "title": "Natural Sciences CFG0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-fa72b907f382d619",
+          "title": "Philosophy, Politics and Economics VL52 - Durham University",
+          "url": "https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/",
+          "checked_at": "2026-09-13",
+          "supports": "2027课程页China栏目所列学校资格换算；具体专业需另核",
+          "sha256": "d77e56e5c749217b20f8e64eba0435e941379db1b39cbd45f7c1b6ecd87e30d5",
+          "locator": "Entry requirements > country-select China > er-2602657"
+        },
+        {
+          "id": "DUR-8e16d58ea321e391",
+          "title": "English Language Levels Required - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/english-language-levels-required/",
+          "checked_at": "2026-09-13",
+          "supports": "各学科本科及Foundation英语Band",
+          "sha256": "9f298f981d432f713bab9986ca6126c0f8b84e7feb1d5bb2048aa25dea886ee5",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-c601e145c79550bf",
+          "title": "Direct Entry Band B - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-b/",
+          "checked_at": "2026-09-13",
+          "supports": "Band B直入英语测试分数",
+          "sha256": "abdd1bc811f0380d4789b3388d87e6538b749ac0680094a2bb9dd5659b22eff7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-8328a7e36cb0b348",
+          "title": "ucas-2027",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-13",
+          "supports": "2027年1月13日18:00英国时间平等审理截止",
+          "sha256": "86b870f18dfd3fbcae24deb0a99a369782481285a1309f4786b25543eedaa6b7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学：生物学与物理学",
+        "duration": "3年全日制",
+        "intake": "2027年9月（通过自然科学母项目）",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-biology-and-physics-bsc-natsci-8335cd9dab",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "BSc (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "CFG0::joint-honours::Business and Computer Science",
+      "name_en": "Natural Sciences: Business and Computer Science",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与授位",
+            "text": "按规定完成两学科联合路线，授予BSc in Business and Computer Science within the Natural Sciences programme。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "25；PDF第6页"
+          },
+          {
+            "label": "逐阶段课程",
+            "text": "2026/27规章：大一修40学分商学、计算机数学及计算思维，另选40学分；大二商学研究方法与统计及商学选课共60学分，另修计算机60学分；大三每学科至少40学分。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "25；PDF第6页"
+          },
+          {
+            "label": "共同入口及确定时间",
+            "text": "这是自然科学内部具名联合路线，通常大一末确定；三年均学习所选两科。若所选组合已有独立UCAS项目，学校按现行规则转介该项目，不重复建立招生入口。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "2027母项目A-level与本方向先修",
+            "text": "共同标准A*AA，至少一门理科。数学A。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > standard offer"
+          },
+          {
+            "label": "大陆高考换算",
+            "text": "2027母项目A*AA对应高考总分80%；若数学为所选学科必需先修，高考数学还须至少80%。其他指定学科、英语及适用测试仍须分别满足，不能仅凭总分保证录取。",
+            "source_ids": [
+              "DUR-fa72b907f382d619",
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "China > Gaokao table, matched to this course standard"
+          },
+          {
+            "label": "IB路径及本方向先修",
+            "text": "共同标准37分、HL三科766，至少一门HL理科。HL数学Analysis and Approaches 6。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > IB / GCSE requirements"
+          },
+          {
+            "label": "课程英语",
+            "text": "所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。",
+            "source_ids": [
+              "DUR-8e16d58ea321e391",
+              "DUR-c601e145c79550bf"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027共同入口申请",
+            "text": "申请自然科学CFG0；其2027 UCAS平等审理截止为2027年1月13日英国18:00。方向本身没有本轮核得的独立新生UCAS代码。",
+            "source_ids": [
+              "DUR-7027dccb155527b5",
+              "DUR-8328a7e36cb0b348",
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "学科意向与先修审核",
+            "text": "申请后在UG Applicant Portal按偏好填2—4学科；第一志愿须来自Group 1理科。若选化学须列前两位；录取条件将覆盖前两位学科所需先修。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-7027dccb155527b5",
+          "title": "Natural Sciences CFG0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-fa72b907f382d619",
+          "title": "Philosophy, Politics and Economics VL52 - Durham University",
+          "url": "https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/",
+          "checked_at": "2026-09-13",
+          "supports": "2027课程页China栏目所列学校资格换算；具体专业需另核",
+          "sha256": "d77e56e5c749217b20f8e64eba0435e941379db1b39cbd45f7c1b6ecd87e30d5",
+          "locator": "Entry requirements > country-select China > er-2602657"
+        },
+        {
+          "id": "DUR-8e16d58ea321e391",
+          "title": "English Language Levels Required - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/english-language-levels-required/",
+          "checked_at": "2026-09-13",
+          "supports": "各学科本科及Foundation英语Band",
+          "sha256": "9f298f981d432f713bab9986ca6126c0f8b84e7feb1d5bb2048aa25dea886ee5",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-c601e145c79550bf",
+          "title": "Direct Entry Band B - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-b/",
+          "checked_at": "2026-09-13",
+          "supports": "Band B直入英语测试分数",
+          "sha256": "abdd1bc811f0380d4789b3388d87e6538b749ac0680094a2bb9dd5659b22eff7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-8328a7e36cb0b348",
+          "title": "ucas-2027",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-13",
+          "supports": "2027年1月13日18:00英国时间平等审理截止",
+          "sha256": "86b870f18dfd3fbcae24deb0a99a369782481285a1309f4786b25543eedaa6b7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学：商学与计算机科学",
+        "duration": "3年全日制",
+        "intake": "2027年9月（通过自然科学母项目）",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-business-and-computer-science-bsc-natsci-c94c400c90",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "BSc (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "CFG0::joint-honours::Chemistry and Earth Sciences",
+      "name_en": "Natural Sciences: Chemistry and Earth Sciences",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与授位",
+            "text": "2026年起入学规章第17(i)条将此组列为授位名称不带within the Natural Sciences的例外：BSc Honours in Earth Sciences and Chemistry；招生仍通过CFG0。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "26；PDF第6—7页"
+          },
+          {
+            "label": "逐阶段课程",
+            "text": "2026/27规章：大一学习原子、成键与能量，化学系统与变化，化学数学方法、地球科学及环境可持续性。大二结合无机与物理化学、实验测量分析、同位素和环境野外研究。规章部分未来模块代码仍为占位符，不能视为已定代码。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "26；PDF第6—7页"
+          },
+          {
+            "label": "共同入口及确定时间",
+            "text": "这是自然科学内部具名联合路线，通常大一末确定；三年均学习所选两科。若所选组合已有独立UCAS项目，学校按现行规则转介该项目，不重复建立招生入口。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "2027母项目A-level与本方向先修",
+            "text": "共同标准A*AA，至少一门理科。化学与数学A*A，顺序不限。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > standard offer"
+          },
+          {
+            "label": "大陆高考换算",
+            "text": "2027母项目A*AA对应高考总分80%；若数学为所选学科必需先修，高考数学还须至少80%。其他指定学科、英语及适用测试仍须分别满足，不能仅凭总分保证录取。",
+            "source_ids": [
+              "DUR-fa72b907f382d619",
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "China > Gaokao table, matched to this course standard"
+          },
+          {
+            "label": "IB路径及本方向先修",
+            "text": "共同标准37分、HL三科766，至少一门HL理科。HL化学与数学Analysis and Approaches达到7、6，顺序不限。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > IB / GCSE requirements"
+          },
+          {
+            "label": "课程英语",
+            "text": "所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。",
+            "source_ids": [
+              "DUR-8e16d58ea321e391",
+              "DUR-c601e145c79550bf"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027共同入口申请",
+            "text": "申请自然科学CFG0；其2027 UCAS平等审理截止为2027年1月13日英国18:00。方向本身没有本轮核得的独立新生UCAS代码。",
+            "source_ids": [
+              "DUR-7027dccb155527b5",
+              "DUR-8328a7e36cb0b348",
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "学科意向与先修审核",
+            "text": "申请后在UG Applicant Portal按偏好填2—4学科；第一志愿须来自Group 1理科。若选化学须列前两位；录取条件将覆盖前两位学科所需先修。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-7027dccb155527b5",
+          "title": "Natural Sciences CFG0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-fa72b907f382d619",
+          "title": "Philosophy, Politics and Economics VL52 - Durham University",
+          "url": "https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/",
+          "checked_at": "2026-09-13",
+          "supports": "2027课程页China栏目所列学校资格换算；具体专业需另核",
+          "sha256": "d77e56e5c749217b20f8e64eba0435e941379db1b39cbd45f7c1b6ecd87e30d5",
+          "locator": "Entry requirements > country-select China > er-2602657"
+        },
+        {
+          "id": "DUR-8e16d58ea321e391",
+          "title": "English Language Levels Required - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/english-language-levels-required/",
+          "checked_at": "2026-09-13",
+          "supports": "各学科本科及Foundation英语Band",
+          "sha256": "9f298f981d432f713bab9986ca6126c0f8b84e7feb1d5bb2048aa25dea886ee5",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-c601e145c79550bf",
+          "title": "Direct Entry Band B - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-b/",
+          "checked_at": "2026-09-13",
+          "supports": "Band B直入英语测试分数",
+          "sha256": "abdd1bc811f0380d4789b3388d87e6538b749ac0680094a2bb9dd5659b22eff7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-8328a7e36cb0b348",
+          "title": "ucas-2027",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-13",
+          "supports": "2027年1月13日18:00英国时间平等审理截止",
+          "sha256": "86b870f18dfd3fbcae24deb0a99a369782481285a1309f4786b25543eedaa6b7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学：化学与地球科学",
+        "duration": "3年全日制",
+        "intake": "2027年9月（通过自然科学母项目）",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-chemistry-and-earth-sciences-bsc-natsci-90db5d1f39",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "BSc (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "CFG0::joint-honours::Computer Science and Physics",
+      "name_en": "Natural Sciences: Computer Science and Physics",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与授位",
+            "text": "按规定完成两学科联合路线，授予BSc in Computer Science and Physics within the Natural Sciences programme。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "27；PDF第7页"
+          },
+          {
+            "label": "逐阶段课程",
+            "text": "2026/27规章：大一修计算思维、计算机系统或算法与数据结构、40学分物理基础及40学分数学。大二计算机60学分并修物理基础、数学方法和探究技能；大三保留至少40学分计算机及物理基础、实验与电子学。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "27；PDF第7页"
+          },
+          {
+            "label": "共同入口及确定时间",
+            "text": "这是自然科学内部具名联合路线，通常大一末确定；三年均学习所选两科。若所选组合已有独立UCAS项目，学校按现行规则转介该项目，不重复建立招生入口。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "2027母项目A-level与本方向先修",
+            "text": "共同标准A*AA，至少一门理科。数学A；物理与数学A*A，顺序不限。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > standard offer"
+          },
+          {
+            "label": "大陆高考换算",
+            "text": "2027母项目A*AA对应高考总分80%；若数学为所选学科必需先修，高考数学还须至少80%。其他指定学科、英语及适用测试仍须分别满足，不能仅凭总分保证录取。",
+            "source_ids": [
+              "DUR-fa72b907f382d619",
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "China > Gaokao table, matched to this course standard"
+          },
+          {
+            "label": "IB路径及本方向先修",
+            "text": "共同标准37分、HL三科766，至少一门HL理科。HL数学至少6；HL物理与数学Analysis and Approaches达到7、6，顺序不限。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > IB / GCSE requirements"
+          },
+          {
+            "label": "课程英语",
+            "text": "所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。",
+            "source_ids": [
+              "DUR-8e16d58ea321e391",
+              "DUR-c601e145c79550bf"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027共同入口申请",
+            "text": "申请自然科学CFG0；其2027 UCAS平等审理截止为2027年1月13日英国18:00。方向本身没有本轮核得的独立新生UCAS代码。",
+            "source_ids": [
+              "DUR-7027dccb155527b5",
+              "DUR-8328a7e36cb0b348",
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "学科意向与先修审核",
+            "text": "申请后在UG Applicant Portal按偏好填2—4学科；第一志愿须来自Group 1理科。若选化学须列前两位；录取条件将覆盖前两位学科所需先修。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-7027dccb155527b5",
+          "title": "Natural Sciences CFG0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-fa72b907f382d619",
+          "title": "Philosophy, Politics and Economics VL52 - Durham University",
+          "url": "https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/",
+          "checked_at": "2026-09-13",
+          "supports": "2027课程页China栏目所列学校资格换算；具体专业需另核",
+          "sha256": "d77e56e5c749217b20f8e64eba0435e941379db1b39cbd45f7c1b6ecd87e30d5",
+          "locator": "Entry requirements > country-select China > er-2602657"
+        },
+        {
+          "id": "DUR-8e16d58ea321e391",
+          "title": "English Language Levels Required - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/english-language-levels-required/",
+          "checked_at": "2026-09-13",
+          "supports": "各学科本科及Foundation英语Band",
+          "sha256": "9f298f981d432f713bab9986ca6126c0f8b84e7feb1d5bb2048aa25dea886ee5",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-c601e145c79550bf",
+          "title": "Direct Entry Band B - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-b/",
+          "checked_at": "2026-09-13",
+          "supports": "Band B直入英语测试分数",
+          "sha256": "abdd1bc811f0380d4789b3388d87e6538b749ac0680094a2bb9dd5659b22eff7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-8328a7e36cb0b348",
+          "title": "ucas-2027",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-13",
+          "supports": "2027年1月13日18:00英国时间平等审理截止",
+          "sha256": "86b870f18dfd3fbcae24deb0a99a369782481285a1309f4786b25543eedaa6b7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学：计算机科学与物理学",
+        "duration": "3年全日制",
+        "intake": "2027年9月（通过自然科学母项目）",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-computer-science-and-physics-bsc-natsci-c185524bfc",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "BSc (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "CFG0::joint-honours::Earth Sciences and Geography",
+      "name_en": "Natural Sciences: Earth Sciences and Geography",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与授位",
+            "text": "按规定完成两学科联合路线，授予BSc in Earth Sciences and Geography within the Natural Sciences programme。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "28；PDF第7—8页"
+          },
+          {
+            "label": "逐阶段课程",
+            "text": "2026/27规章：大一学习地球材料、野外研究、地球科学及40学分地理研究导论。大二包括地质野外工作、火成与变质作用，以及40学分地理科学研究；大三两学科分别至少40学分，可按规章选择论文。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "28；PDF第7—8页"
+          },
+          {
+            "label": "共同入口及确定时间",
+            "text": "这是自然科学内部具名联合路线，通常大一末确定；三年均学习所选两科。若所选组合已有独立UCAS项目，学校按现行规则转介该项目，不重复建立招生入口。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "2027母项目A-level与本方向先修",
+            "text": "共同标准A*AA，至少一门理科。所选两科未另列专属A-level科目，但共同入口仍要求至少一门指定理科。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > standard offer"
+          },
+          {
+            "label": "大陆高考换算",
+            "text": "2027母项目A*AA对应高考总分80%；若数学为所选学科必需先修，高考数学还须至少80%。其他指定学科、英语及适用测试仍须分别满足，不能仅凭总分保证录取。",
+            "source_ids": [
+              "DUR-fa72b907f382d619",
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "China > Gaokao table, matched to this course standard"
+          },
+          {
+            "label": "IB路径及本方向先修",
+            "text": "共同标准37分、HL三科766，至少一门HL理科。所选两科未另列专属HL科目，但共同入口仍要求至少一门指定HL理科。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > IB / GCSE requirements"
+          },
+          {
+            "label": "课程英语",
+            "text": "所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。",
+            "source_ids": [
+              "DUR-8e16d58ea321e391",
+              "DUR-c601e145c79550bf"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027共同入口申请",
+            "text": "申请自然科学CFG0；其2027 UCAS平等审理截止为2027年1月13日英国18:00。方向本身没有本轮核得的独立新生UCAS代码。",
+            "source_ids": [
+              "DUR-7027dccb155527b5",
+              "DUR-8328a7e36cb0b348",
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "学科意向与先修审核",
+            "text": "申请后在UG Applicant Portal按偏好填2—4学科；第一志愿须来自Group 1理科。若选化学须列前两位；录取条件将覆盖前两位学科所需先修。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-7027dccb155527b5",
+          "title": "Natural Sciences CFG0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-fa72b907f382d619",
+          "title": "Philosophy, Politics and Economics VL52 - Durham University",
+          "url": "https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/",
+          "checked_at": "2026-09-13",
+          "supports": "2027课程页China栏目所列学校资格换算；具体专业需另核",
+          "sha256": "d77e56e5c749217b20f8e64eba0435e941379db1b39cbd45f7c1b6ecd87e30d5",
+          "locator": "Entry requirements > country-select China > er-2602657"
+        },
+        {
+          "id": "DUR-8e16d58ea321e391",
+          "title": "English Language Levels Required - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/english-language-levels-required/",
+          "checked_at": "2026-09-13",
+          "supports": "各学科本科及Foundation英语Band",
+          "sha256": "9f298f981d432f713bab9986ca6126c0f8b84e7feb1d5bb2048aa25dea886ee5",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-c601e145c79550bf",
+          "title": "Direct Entry Band B - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-b/",
+          "checked_at": "2026-09-13",
+          "supports": "Band B直入英语测试分数",
+          "sha256": "abdd1bc811f0380d4789b3388d87e6538b749ac0680094a2bb9dd5659b22eff7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-8328a7e36cb0b348",
+          "title": "ucas-2027",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-13",
+          "supports": "2027年1月13日18:00英国时间平等审理截止",
+          "sha256": "86b870f18dfd3fbcae24deb0a99a369782481285a1309f4786b25543eedaa6b7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学：地球科学与地理学",
+        "duration": "3年全日制",
+        "intake": "2027年9月（通过自然科学母项目）",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-earth-sciences-and-geography-bsc-natsci-fc5cd091a9",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "BSc (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "CFG0::joint-honours::Mathematics and Psychology",
+      "name_en": "Natural Sciences: Mathematics and Psychology",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与授位",
+            "text": "2026年起入学规章第17(i)条将此组列为授位名称不带within the Natural Sciences的例外：BSc Honours in Psychology and Mathematics。寻求BPS认可须按心理路径登记并达到指定模块及学位条件，不是自动取得执业资格。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "29—32、42；PDF第8—10页"
+          },
+          {
+            "label": "逐阶段课程",
+            "text": "2026/27规章：大一结合微积分、线性代数、概率统计与心理研究；大二数学40学分、心理学80学分，包括高级研究方法统计、认知生物心理学和社会发展心理学；大三含心理项目及个体差异与心理健康。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "29—32、42；PDF第8—10页"
+          },
+          {
+            "label": "共同入口及确定时间",
+            "text": "这是自然科学内部具名联合路线，通常大一末确定；三年均学习所选两科。若所选组合已有独立UCAS项目，学校按现行规则转介该项目，不重复建立招生入口。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "2027母项目A-level与本方向先修",
+            "text": "共同标准A*AA，至少一门理科。数学与进阶数学A*A，顺序不限；无法修完整进阶数学者可用数学A*及AS进阶数学A。心理学另须GCSE数学5/B或等值。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > standard offer"
+          },
+          {
+            "label": "大陆高考换算",
+            "text": "2027母项目A*AA对应高考总分80%；若数学为所选学科必需先修，高考数学还须至少80%。其他指定学科、英语及适用测试仍须分别满足，不能仅凭总分保证录取。",
+            "source_ids": [
+              "DUR-fa72b907f382d619",
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "China > Gaokao table, matched to this course standard"
+          },
+          {
+            "label": "IB路径及本方向先修",
+            "text": "共同标准37分、HL三科766，至少一门HL理科。HL数学Analysis and Approaches 7；心理学另须GCSE数学5/B或等值。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Entry requirements > UK > IB / GCSE requirements"
+          },
+          {
+            "label": "课程英语",
+            "text": "所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。",
+            "source_ids": [
+              "DUR-8e16d58ea321e391",
+              "DUR-c601e145c79550bf"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027共同入口申请",
+            "text": "申请自然科学CFG0；其2027 UCAS平等审理截止为2027年1月13日英国18:00。方向本身没有本轮核得的独立新生UCAS代码。",
+            "source_ids": [
+              "DUR-7027dccb155527b5",
+              "DUR-8328a7e36cb0b348",
+              "DURS-0d94275eee8c3241"
+            ]
+          },
+          {
+            "label": "学科意向与先修审核",
+            "text": "申请后在UG Applicant Portal按偏好填2—4学科；第一志愿须来自Group 1理科。若选化学须列前两位；录取条件将覆盖前两位学科所需先修。",
+            "source_ids": [
+              "DURS-0d94275eee8c3241"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-7027dccb155527b5",
+          "title": "Natural Sciences CFG0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-fa72b907f382d619",
+          "title": "Philosophy, Politics and Economics VL52 - Durham University",
+          "url": "https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/",
+          "checked_at": "2026-09-13",
+          "supports": "2027课程页China栏目所列学校资格换算；具体专业需另核",
+          "sha256": "d77e56e5c749217b20f8e64eba0435e941379db1b39cbd45f7c1b6ecd87e30d5",
+          "locator": "Entry requirements > country-select China > er-2602657"
+        },
+        {
+          "id": "DUR-8e16d58ea321e391",
+          "title": "English Language Levels Required - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/english-language-levels-required/",
+          "checked_at": "2026-09-13",
+          "supports": "各学科本科及Foundation英语Band",
+          "sha256": "9f298f981d432f713bab9986ca6126c0f8b84e7feb1d5bb2048aa25dea886ee5",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-c601e145c79550bf",
+          "title": "Direct Entry Band B - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-b/",
+          "checked_at": "2026-09-13",
+          "supports": "Band B直入英语测试分数",
+          "sha256": "abdd1bc811f0380d4789b3388d87e6538b749ac0680094a2bb9dd5659b22eff7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-8328a7e36cb0b348",
+          "title": "ucas-2027",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-13",
+          "supports": "2027年1月13日18:00英国时间平等审理截止",
+          "sha256": "86b870f18dfd3fbcae24deb0a99a369782481285a1309f4786b25543eedaa6b7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学：数学与心理学",
+        "duration": "3年全日制",
+        "intake": "2027年9月（通过自然科学母项目）",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "通过CFG0共同入口；符合所选学科先修后选择联合方向",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-mathematics-and-psychology-bsc-natsci-b7662f4a50",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "BSc (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "FGC0::joint-honours::Biology and Physics",
+      "name_en": "Natural Sciences: Biology and Physics",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/FGC0",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与授位",
+            "text": "当前规章明确授予MSci in Biology and Physics within the Natural Sciences programme。未达到MSci升学或授位标准者，在满足相关规章时可能转BSc或取得相应BSc，不保证自动转换。",
+            "source_ids": [
+              "DURS-6377f04aff3d6fbe"
+            ],
+            "extraction_locator": "17—27；PDF第2—3页"
+          },
+          {
+            "label": "逐阶段课程",
+            "text": "2026/27规章：前三年依次学习遗传与细胞、生物发育、物理基础、数学方法及实验电子学。大四120学分有两套方案：60学分物理项目配生物工作坊、生物物理项目和物理课，或60学分生物物理项目配工作坊、物理课与选修。",
+            "source_ids": [
+              "DURS-6377f04aff3d6fbe"
+            ],
+            "extraction_locator": "17—27；PDF第2—3页"
+          },
+          {
+            "label": "共同入口及确定时间",
+            "text": "这是自然科学内部具名联合路线，通常大一末确定；四年围绕所选两科，含研究项目。若所选组合已有独立UCAS项目，学校按现行规则转介该项目，不重复建立招生入口。",
+            "source_ids": [
+              "DURS-6b5ee2fd376cee52"
+            ]
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "2027母项目A-level与本方向先修",
+            "text": "共同标准A*AA，至少一门理科。生物或化学A；物理与数学A*A，顺序不限。",
+            "source_ids": [
+              "DUR-9ef24c7420836d12"
+            ],
+            "extraction_locator": "Entry requirements > UK > standard offer"
+          },
+          {
+            "label": "大陆高考换算",
+            "text": "2027母项目A*AA对应高考总分80%；若数学为所选学科必需先修，高考数学还须至少80%。其他指定学科、英语及适用测试仍须分别满足，不能仅凭总分保证录取。",
+            "source_ids": [
+              "DUR-fa72b907f382d619",
+              "DUR-9ef24c7420836d12"
+            ],
+            "extraction_locator": "China > Gaokao table, matched to this course standard"
+          },
+          {
+            "label": "IB路径及本方向先修",
+            "text": "共同标准37分、HL三科766，至少一门HL理科。HL生物或化学6；HL物理与数学Analysis and Approaches达到7、6，顺序不限。",
+            "source_ids": [
+              "DUR-9ef24c7420836d12"
+            ],
+            "extraction_locator": "Entry requirements > UK > IB / GCSE requirements"
+          },
+          {
+            "label": "课程英语",
+            "text": "所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。",
+            "source_ids": [
+              "DUR-8e16d58ea321e391",
+              "DUR-c601e145c79550bf"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027共同入口申请",
+            "text": "申请自然科学FGC0；其2027 UCAS平等审理截止为2027年1月13日英国18:00。方向本身没有本轮核得的独立新生UCAS代码。",
+            "source_ids": [
+              "DUR-9ef24c7420836d12",
+              "DUR-8328a7e36cb0b348",
+              "DURS-6b5ee2fd376cee52"
+            ]
+          },
+          {
+            "label": "学科意向与先修审核",
+            "text": "申请后在UG Applicant Portal按偏好填2—4学科；第一志愿须来自Group A。若选化学须列前两位；录取条件将覆盖前两位学科所需先修。",
+            "source_ids": [
+              "DURS-6b5ee2fd376cee52"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-9ef24c7420836d12"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-9ef24c7420836d12"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-9ef24c7420836d12"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-9ef24c7420836d12",
+          "title": "Natural Sciences FGC0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-fgc0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "d705d216db41e0216e8610c6b35b3eddcfb338bd77963eb7443d700353a31bcd",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-fa72b907f382d619",
+          "title": "Philosophy, Politics and Economics VL52 - Durham University",
+          "url": "https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/",
+          "checked_at": "2026-09-13",
+          "supports": "2027课程页China栏目所列学校资格换算；具体专业需另核",
+          "sha256": "d77e56e5c749217b20f8e64eba0435e941379db1b39cbd45f7c1b6ecd87e30d5",
+          "locator": "Entry requirements > country-select China > er-2602657"
+        },
+        {
+          "id": "DUR-8e16d58ea321e391",
+          "title": "English Language Levels Required - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/english-language-levels-required/",
+          "checked_at": "2026-09-13",
+          "supports": "各学科本科及Foundation英语Band",
+          "sha256": "9f298f981d432f713bab9986ca6126c0f8b84e7feb1d5bb2048aa25dea886ee5",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-c601e145c79550bf",
+          "title": "Direct Entry Band B - Durham University",
+          "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-b/",
+          "checked_at": "2026-09-13",
+          "supports": "Band B直入英语测试分数",
+          "sha256": "abdd1bc811f0380d4789b3388d87e6538b749ac0680094a2bb9dd5659b22eff7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-8328a7e36cb0b348",
+          "title": "ucas-2027",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-13",
+          "supports": "2027年1月13日18:00英国时间平等审理截止",
+          "sha256": "86b870f18dfd3fbcae24deb0a99a369782481285a1309f4786b25543eedaa6b7",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-6b5ee2fd376cee52",
+          "title": "MSci Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/msci-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "6b8953d990636aafa4cd1d7e9575228b10604474a0cd88cbdd70de25d0aaf08c",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        },
+        {
+          "id": "DURS-6377f04aff3d6fbe",
+          "title": "Natural Sciences FGC0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/FGC0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "8cfb6564105beb7b46ceb97403563601a0d2297c6890f16bf5b6d0eb514d0e94",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学：生物学与物理学（整合硕士）",
+        "duration": "4年全日制",
+        "intake": "2027年9月（通过自然科学母项目）",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "通过FGC0共同入口；符合所选学科先修后选择联合方向",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-biology-and-physics-msci-natsci-0eda5c4838",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "MSci (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFC0",
+      "name_en": "Natural Sciences (Psychology pathway)",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFC0",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与路径身份",
+            "text": "2026/27规章的心理认证路径：第一年40学分心理研究及20学分心理导论；第二年80学分心理学，包括研究方法统计、认知生物及社会发展心理学；第三年心理项目20学分及个体差异与心理健康20学分，并完成其他所选学科。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "CFG0 PDF第9—10页，第30—32、42条"
+          },
+          {
+            "label": "学制与地点",
+            "text": "3年全日制（母项目）；杜伦市，外出年按获批项目安排。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c",
+              "DURS-0d94275eee8c3241"
+            ],
+            "extraction_locator": "Programme heading / Study duration table"
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在读转入或模块条件",
+            "text": "这是自然科学在读生选择的心理认证路径。修指定心理导论II须A2生物B或等值；心理学基础资格另须GCSE数学5/B或等值，不能把B等级先修泛用于所有心理模块。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c",
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "CFG0 PDF第9—10页，第30—32、42条"
+          },
+          {
+            "label": "新生资格与转入资格分开",
+            "text": "2027新生须先满足相应自然科学母项目的高考或国际课程、指定科目及英语条件；本条在读路线没有已核独立高中录取线。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ]
+          },
+          {
+            "label": "升读与认证限制",
+            "text": "高级研究方法与统计须至少40%以升入下一阶段，心理项目须至少40%、30—39%不能补偿。BPS Graduate Basis资格还须至少二等荣誉学位及通过心理项目；这不是心理执业许可。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "CFG0 PDF第9—10页，第30—32、42条"
+          }
+        ],
+        "applications": [
+          {
+            "label": "实际申请入口",
+            "text": "先通过自然科学母项目申请，再按拟选学科、课表与学业资格登记心理路径。CFC0是已核规章中的注册代码；本轮未取得它作为2027独立高中UCAS入口的依据。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c",
+              "DURS-0d94275eee8c3241"
+            ],
+            "extraction_locator": "CFG0 PDF第9—10页，第30—32、42条"
+          },
+          {
+            "label": "专用申请日期边界",
+            "text": "本轮规章取得的是转入条件，未取得本路线2027校内申请的独立截止日期；不能把普通UCAS新生截止当作校内申请截止。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-7027dccb155527b5",
+          "title": "Natural Sciences CFG0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学：心理学认证路径",
+        "duration": "3年全日制（母项目）",
+        "intake": "2026/27在读规章；2027入学通过母项目",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "自然科学在读注册/转入；须满足本路径课程与进度条件",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-natural-sciences-psychology-pathway-a8511d0651",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "BSc (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFC1",
+      "name_en": "Natural Sciences (Psychology pathway) with Year Abroad",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFC1",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与路径身份",
+            "text": "完成自然科学心理认证路径的三年学术课程，另在获批境外合作大学学习一年；课程须与自然科学主任或其代表及接收大学协商。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "CFG0 PDF第9—10页，第30—36、42条"
+          },
+          {
+            "label": "学制与地点",
+            "text": "4年全日制（含海外年）；杜伦市，外出年按获批项目安排。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c",
+              "DURS-0d94275eee8c3241"
+            ],
+            "extraction_locator": "Programme heading / Study duration table"
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在读转入或模块条件",
+            "text": "须已完成CFC0第一阶段并升入第二阶段，取得获批国际合作院校交换机会，随后通过第二阶段并具备升入第三阶段资格，登记NSCI3986。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "CFG0 PDF第9—10页，第30—36、42条"
+          },
+          {
+            "label": "新生资格与转入资格分开",
+            "text": "2027新生须先满足相应自然科学母项目的高考或国际课程、指定科目及英语条件；本条在读路线没有已核独立高中录取线。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ]
+          },
+          {
+            "label": "升读与认证限制",
+            "text": "心理认证还须指定模块成绩、至少二等荣誉学位及通过心理项目；海外年不自动免除这些条件。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "CFG0 PDF第9—10页，第30—36、42条"
+          }
+        ],
+        "applications": [
+          {
+            "label": "实际申请入口",
+            "text": "在CFC0在读期间申请转入；CFC1不是已核2027高中独立UCAS入口。海外进度合格后继续本路径第三阶段；不合格则回到不带海外年的CFC0。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c",
+              "DURS-0d94275eee8c3241"
+            ],
+            "extraction_locator": "CFG0 PDF第9—10页，第30—36、42条"
+          },
+          {
+            "label": "专用申请日期边界",
+            "text": "本轮规章取得的是转入条件，未取得本路线2027校内申请的独立截止日期；不能把普通UCAS新生截止当作校内申请截止。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-7027dccb155527b5",
+          "title": "Natural Sciences CFG0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学：心理学认证路径（海外年）",
+        "duration": "4年全日制（含海外年）",
+        "intake": "2026/27在读规章；2027入学通过母项目",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "自然科学在读注册/转入；须满足本路径课程与进度条件",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-natural-sciences-psychology-pathway-with-year-abroad-61db22566d",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "BSc (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFC2",
+      "name_en": "Natural Sciences (Psychology pathway) with Placement",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFC2",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与路径身份",
+            "text": "完成自然科学心理认证路径的三年学术课程，另有与自然科学主任或其代表及接收单位商定的专业工作经验。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "CFG0 PDF第9—10页，第30—32、37—42条"
+          },
+          {
+            "label": "学制与地点",
+            "text": "4年全日制（含实习年）；杜伦市，外出年按获批项目安排。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c",
+              "DURS-0d94275eee8c3241"
+            ],
+            "extraction_locator": "Programme heading / Study duration table"
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在读转入或模块条件",
+            "text": "须已完成CFC0第一阶段并升入第二阶段，取得至少40周、经批准的专业层次实习机会，并通过第二阶段取得第三阶段升读资格，登记NSCI3976。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "CFG0 PDF第9—10页，第30—32、37—42条"
+          },
+          {
+            "label": "新生资格与转入资格分开",
+            "text": "2027新生须先满足相应自然科学母项目的高考或国际课程、指定科目及英语条件；本条在读路线没有已核独立高中录取线。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ]
+          },
+          {
+            "label": "升读与认证限制",
+            "text": "心理认证还须指定模块成绩、至少二等荣誉学位及通过心理项目；实习年不自动免除这些条件。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "CFG0 PDF第9—10页，第30—32、37—42条"
+          }
+        ],
+        "applications": [
+          {
+            "label": "实际申请入口",
+            "text": "在CFC0在读期间申请转入；CFC2不是已核2027高中独立UCAS入口。实习进度合格后继续本路径第三阶段；不合格须转回CFC0。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c",
+              "DURS-0d94275eee8c3241"
+            ],
+            "extraction_locator": "CFG0 PDF第9—10页，第30—32、37—42条"
+          },
+          {
+            "label": "专用申请日期边界",
+            "text": "本轮规章取得的是转入条件，未取得本路线2027校内申请的独立截止日期；不能把普通UCAS新生截止当作校内申请截止。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-7027dccb155527b5",
+          "title": "Natural Sciences CFG0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学：心理学认证路径（实习年）",
+        "duration": "4年全日制（含实习年）",
+        "intake": "2026/27在读规章；2027入学通过母项目",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "自然科学在读注册/转入；须满足本路径课程与进度条件",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-natural-sciences-psychology-pathway-with-placement-bd03f65445",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "BSc (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG1",
+      "name_en": "Natural Sciences with Year Abroad",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG1",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与路径身份",
+            "text": "以三年自然科学跨学科课程为基础，增加获批境外大学的一年课程；具体学习内容须与自然科学主任或其代表和接收大学协商。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "CFG0 PDF第9页，第33、35—36条；BSc Subject Guide学制表"
+          },
+          {
+            "label": "学制与地点",
+            "text": "4年全日制（含海外年）；杜伦市，外出年按获批项目安排。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c",
+              "DURS-0d94275eee8c3241"
+            ],
+            "extraction_locator": "Programme heading / Study duration table"
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在读转入或模块条件",
+            "text": "须完成CFG0第一阶段并升入第二阶段、取得获批国际伙伴交换名额，并通过第二阶段获得升读第三阶段资格，登记NSCI3986。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "CFG0 PDF第9页，第33、35—36条；BSc Subject Guide学制表"
+          },
+          {
+            "label": "新生资格与转入资格分开",
+            "text": "2027新生须先满足相应自然科学母项目的高考或国际课程、指定科目及英语条件；本条在读路线没有已核独立高中录取线。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "实际申请入口",
+            "text": "通过CFG0入学后申请转换，通常第二年末转入四年版本。此处CFG1是规章注册代码，未核为2027独立高中UCAS入口；海外年进度不合格则须转回普通CFG0。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c",
+              "DURS-0d94275eee8c3241"
+            ],
+            "extraction_locator": "CFG0 PDF第9页，第33、35—36条；BSc Subject Guide学制表"
+          },
+          {
+            "label": "专用申请日期边界",
+            "text": "本轮规章取得的是转入条件，未取得本路线2027校内申请的独立截止日期；不能把普通UCAS新生截止当作校内申请截止。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-7027dccb155527b5",
+          "title": "Natural Sciences CFG0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学（海外年）",
+        "duration": "4年全日制（含海外年）",
+        "intake": "2026/27在读规章；2027入学通过母项目",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "自然科学在读注册/转入；须满足本路径课程与进度条件",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-natural-sciences-with-year-abroad-3e1a702892",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "BSc (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG2",
+      "name_en": "Natural Sciences with Placement",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG2",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与路径身份",
+            "text": "以三年自然科学跨学科课程为基础，增加经批准的专业实习。该工作阶段须至少40周，可由一个或多个获批机会组成。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "CFG0 PDF第10页，第37、39—40条；BSc Subject Guide学制表"
+          },
+          {
+            "label": "学制与地点",
+            "text": "4年全日制（含实习年）；杜伦市，外出年按获批项目安排。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c",
+              "DURS-0d94275eee8c3241"
+            ],
+            "extraction_locator": "Programme heading / Study duration table"
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在读转入或模块条件",
+            "text": "须完成CFG0第一阶段并升入第二阶段、落实至少40周专业层次实习并获主任或其代表同意，且通过第二阶段具备第三阶段升读资格，登记NSCI3976。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ],
+            "extraction_locator": "CFG0 PDF第10页，第37、39—40条；BSc Subject Guide学制表"
+          },
+          {
+            "label": "新生资格与转入资格分开",
+            "text": "2027新生须先满足相应自然科学母项目的高考或国际课程、指定科目及英语条件；本条在读路线没有已核独立高中录取线。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "实际申请入口",
+            "text": "通过CFG0入学后申请转换；CFG2是规章注册代码，未核为2027独立高中UCAS入口。实习进度合格方能继续相应第三阶段，否则回到普通CFG0。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c",
+              "DURS-0d94275eee8c3241"
+            ],
+            "extraction_locator": "CFG0 PDF第10页，第37、39—40条；BSc Subject Guide学制表"
+          },
+          {
+            "label": "专用申请日期边界",
+            "text": "本轮规章取得的是转入条件，未取得本路线2027校内申请的独立截止日期；不能把普通UCAS新生截止当作校内申请截止。",
+            "source_ids": [
+              "DURS-2120d16256a5e49c"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-7027dccb155527b5"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-7027dccb155527b5",
+          "title": "Natural Sciences CFG0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-2120d16256a5e49c",
+          "title": "Natural Sciences CFG0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "ee69814219060083d9b43fb3c2dc8387450ff81bb327f65fcda1f702a6d303d0",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        },
+        {
+          "id": "DURS-0d94275eee8c3241",
+          "title": "BSc Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "4c6250b85d59e5954f17ec31628de94c750846b80fb00fd8cc8b93af6bbe9eb6",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学（实习年）",
+        "duration": "4年全日制（含实习年）",
+        "intake": "2026/27在读规章；2027入学通过母项目",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "自然科学在读注册/转入；须满足本路径课程与进度条件",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-natural-sciences-with-placement-2f99102989",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "BSc (Hons)"
+    },
+    {
+      "university_id": "durham",
+      "raw_key": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/FGC1",
+      "name_en": "Natural Sciences with Placement",
+      "official_url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/FGC1",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与路径身份",
+            "text": "保留四年MSci自然科学培养和至少40学分的最后阶段研究项目，实习可安排在第三或第四学年；总学制增加一年。",
+            "source_ids": [
+              "DURS-6377f04aff3d6fbe"
+            ],
+            "extraction_locator": "FGC0 PDF第2—4页，第15、28—32条；MSci Subject Guide学制表"
+          },
+          {
+            "label": "学制与地点",
+            "text": "5年全日制（含实习年）；杜伦市，外出年按获批项目安排。",
+            "source_ids": [
+              "DURS-6377f04aff3d6fbe",
+              "DURS-6b5ee2fd376cee52"
+            ],
+            "extraction_locator": "Programme heading / Study duration table"
+          },
+          {
+            "label": "教学语言",
+            "text": "学校公开说明杜伦教学使用英语；语言学习模块及海外阶段须按课程或接收院校确认。",
+            "source_ids": [
+              "DUR-970b6f63932e8825"
+            ],
+            "extraction_locator": "Language Requirements, general teaching statement only"
+          },
+          {
+            "label": "大学所在地",
+            "text": "本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。",
+            "source_ids": [
+              "DUR-6312d45d1af6e8b2"
+            ],
+            "extraction_locator": "Be inspired. Be you."
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在读转入或模块条件",
+            "text": "第三学年实习须通过第一阶段并升读第二阶段，且通过第二阶段；第四学年实习须通过第二阶段并升读第三阶段，且通过第三阶段。均须获得至少40周获批专业工作经验并登记NSCI3966。",
+            "source_ids": [
+              "DURS-6377f04aff3d6fbe"
+            ],
+            "extraction_locator": "FGC0 PDF第2—4页，第15、28—32条；MSci Subject Guide学制表"
+          },
+          {
+            "label": "新生资格与转入资格分开",
+            "text": "2027新生须先满足相应自然科学母项目的高考或国际课程、指定科目及英语条件；本条在读路线没有已核独立高中录取线。",
+            "source_ids": [
+              "DUR-9ef24c7420836d12"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "实际申请入口",
+            "text": "通过FGC0入学后，在相应在读阶段申请转入；FGC1是规章注册代码，未核为2027独立高中UCAS入口。实习进度不合格须转回普通FGC0，不能把实习机会当录取附带保证。",
+            "source_ids": [
+              "DURS-6377f04aff3d6fbe",
+              "DURS-6b5ee2fd376cee52"
+            ],
+            "extraction_locator": "FGC0 PDF第2—4页，第15、28—32条；MSci Subject Guide学制表"
+          },
+          {
+            "label": "专用申请日期边界",
+            "text": "本轮规章取得的是转入条件，未取得本路线2027校内申请的独立截止日期；不能把普通UCAS新生截止当作校内申请截止。",
+            "source_ids": [
+              "DURS-6377f04aff3d6fbe"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "所选年度学费状态",
+            "text": "母项目所选September 2027页面明确学费尚未确认；本方向及其外出阶段具体国际学费本轮未取得，不套用Home或旧年度金额。",
+            "source_ids": [
+              "DUR-9ef24c7420836d12"
+            ],
+            "extraction_locator": "Fees and funding"
+          },
+          {
+            "label": "首年与后续费用",
+            "text": "未来公布的课程国际报价仅指首年；后续年度可调整，须另预算课程年限及外出阶段。",
+            "source_ids": [
+              "DUR-53ba6a5c16c6ba54"
+            ]
+          },
+          {
+            "label": "奖学金入口与年度",
+            "text": "国际奖学金目录目前列2026/27，2027本课程可申请项目、金额和截止本轮未取得；须核本科类别及专业排除条件。",
+            "source_ids": [
+              "DUR-5b5c241bb25f9cb2"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母项目页面历史调查，非本方向单列",
+            "text": "自然科学母项目页面引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400。该具名方向或实习/海外路线的独立样本、薪资分母及中国籍统计未取得，不能视为本方向就业率。",
+            "source_ids": [
+              "DUR-9ef24c7420836d12"
+            ],
+            "extraction_locator": "Career opportunities, first proportion and salary; do not substitute skilled-employment share"
+          },
+          {
+            "label": "自然科学母项目职业举例",
+            "text": "学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。",
+            "source_ids": [
+              "DUR-9ef24c7420836d12"
+            ],
+            "extraction_locator": "Employability"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "DUR-9ef24c7420836d12",
+          "title": "Natural Sciences FGC0 - Durham University",
+          "url": "https://www.durham.ac.uk/study/courses/natural-sciences-fgc0/",
+          "checked_at": "2026-09-13",
+          "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+          "sha256": "d705d216db41e0216e8610c6b35b3eddcfb338bd77963eb7443d700353a31bcd",
+          "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+        },
+        {
+          "id": "DUR-970b6f63932e8825",
+          "title": "Programme Info - Durham University",
+          "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+          "checked_at": "2026-09-13",
+          "supports": "校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免",
+          "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-6312d45d1af6e8b2",
+          "title": "Undergraduate - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别",
+          "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-53ba6a5c16c6ba54",
+          "title": "Tuition Fees - Durham University",
+          "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "国际学费首年口径、后年上涨与通知政策",
+          "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+          "locator": "main-content"
+        },
+        {
+          "id": "DUR-5b5c241bb25f9cb2",
+          "title": "International - Durham University",
+          "url": "https://www.durham.ac.uk/study/scholarships/international/",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27奖学金及本硕博适用群体",
+          "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+          "locator": "main-content"
+        },
+        {
+          "id": "DURS-6377f04aff3d6fbe",
+          "title": "Natural Sciences FGC0 programme regulations 2026/27 - Durham University",
+          "url": "https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/FGC0",
+          "checked_at": "2026-09-13",
+          "supports": "2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则",
+          "sha256": "8cfb6564105beb7b46ceb97403563601a0d2297c6890f16bf5b6d0eb514d0e94",
+          "capture_format": "public_pdf",
+          "locator": "首个for candidates admitted from October 2026部分；不使用随后2025及以前旧届部分"
+        },
+        {
+          "id": "DURS-6b5ee2fd376cee52",
+          "title": "MSci Natural Sciences Subject Guide - Durham University",
+          "url": "https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/msci-natural-sciences-subject-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "具名联合方向、共同入口、学科排序与在读转换学制",
+          "sha256": "6b8953d990636aafa4cd1d7e9575228b10604474a0cd88cbdd70de25d0aaf08c",
+          "capture_format": "browser_dom_snapshot",
+          "locator": "Joint Honours routes; How many subjects; Subject choices"
+        }
+      ],
+      "coverage_notes": [
+        "具名方向或在读注册路线不等于独立高中UCAS入口。",
+        "课程规章为2026/27、首个2026年起入学部分；后续2027课程调整仍应以届时正式规章为准。",
+        "毕业数字为自然科学母项目页面所引群体，非该方向单列结果。"
+      ],
+      "display_fields": {
+        "name": "自然科学（整合硕士，实习年）",
+        "duration": "5年全日制（含实习年）",
+        "intake": "2026/27在读规章；2027入学通过母项目",
+        "campus": "杜伦市（具体教学地点按课表）",
+        "language": "英语",
+        "entry_summary": "自然科学在读注册/转入；须满足本路径课程与进度条件",
+        "tuition_summary": "母项目2027费尚未确认；本路线国际金额未取得",
+        "outcomes_summary": "母项目历史调查可参考；本方向独立统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "program_researched",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "translation_status": "中文课程及条件按实际UCAS身份人工整理；金额与统计缺口明示",
+      "inventory_id": "durham-natural-sciences-with-placement-612c5ad9f8",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "degree_label": "MSci (Hons)"
     }
   ],
   "profile": {

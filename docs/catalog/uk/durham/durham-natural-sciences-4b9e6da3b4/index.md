@@ -52,6 +52,9 @@ hide:
 <p class="catalog-fact"><strong>大学所在地：</strong>本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。</p>
 <p class="fact-sources"><a href="#source-p-DUR-6312d45d1af6e8b2">官方依据</a></p>
 
+<p class="catalog-fact"><strong>新增目录层级说明：</strong>2026/27规章明确10个CFG0内部具名BSc联合方向，以及CFC0心理认证、CFG1/CFC1海外年和CFG2/CFC2实习注册路线。这些内部注册代码不能一律作为2027新生UCAS代码；已有独立UCAS的联合学位仍使用原课程入口。</p>
+<p class="fact-sources"><a href="#source-p-DURS-2120d16256a5e49c">官方依据</a> · <a href="#source-p-DURS-0d94275eee8c3241">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 <p class="catalog-fact"><strong>专业标准及科目：</strong>2027标准A-level：A*AA。至少一门理科；生物路径须生物或化学A，计算机须数学A；化学/物理各须该科与数学A*A，数学须数学与进阶数学A*A或指定AS替代。</p>
@@ -65,6 +68,9 @@ hide:
 
 <p class="catalog-fact"><strong>课程英语：</strong>所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。</p>
 <p class="fact-sources"><a href="#source-p-DUR-8e16d58ea321e391">官方依据</a> · <a href="#source-p-DUR-c601e145c79550bf">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考数学条件补充：</strong>课程China栏目说明：数学为专业必需先修时，高考数学还须至少80%，不能仅凭高考总分达标代替指定科目要求。</p>
+<p class="fact-sources"><a href="#source-p-DUR-7027dccb155527b5">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -86,6 +92,9 @@ hide:
 
 <p class="catalog-fact"><strong>2027 UCAS申请：</strong>选择本课程代码CFG0；2027常规平等审理截止为2027年1月13日英国18:00，完整申请须在此前送达。</p>
 <p class="fact-sources"><a href="#source-p-DUR-7027dccb155527b5">官方依据</a> · <a href="#source-p-DUR-8328a7e36cb0b348">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请后学科选择：</strong>在申请者门户按优先级填写2—4学科；首选须在Group 1内，化学须列前两项。通常大一末选择联合或较广泛路线，仍受先修和课表条件限制。</p>
+<p class="fact-sources"><a href="#source-p-DURS-0d94275eee8c3241">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -146,6 +155,8 @@ hide:
 <div class="catalog-source" id="source-p-DUR-8328a7e36cb0b348"><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">ucas-2027 ↗</a><p>2027年1月13日18:00英国时间平等审理截止</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-DUR-53ba6a5c16c6ba54"><div><a href="https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/">Tuition Fees - Durham University ↗</a><p>国际学费首年口径、后年上涨与通知政策</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-DUR-5b5c241bb25f9cb2"><div><a href="https://www.durham.ac.uk/study/scholarships/international/">International - Durham University ↗</a><p>2026/27奖学金及本硕博适用群体</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-DURS-2120d16256a5e49c"><div><a href="https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CFG0">Natural Sciences CFG0 programme regulations 2026/27 - Durham University ↗</a><p>2026年起入学适用段：具名授位、实际课程学分、心理认证及海外/实习转换规则</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-DURS-0d94275eee8c3241"><div><a href="https://durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/subject-choices-for-combined-honours/natural-sciences-subject-guide/bsc-natural-sciences-subject-guide/">BSc Natural Sciences Subject Guide - Durham University ↗</a><p>具名联合方向、共同入口、学科排序与在读转换学制</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-DUR-fa72b907f382d619"><div><a href="https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/">Philosophy, Politics and Economics VL52 - Durham University ↗</a><p>2027课程页China栏目所列学校资格换算；具体专业需另核</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-DUR-dd0424611640cdba"><div><a href="https://www.durham.ac.uk/departments/centres/academic-development/study/foundation/eligibility/">Eligibility - Durham University ↗</a><p>英国Foundation申请身份及一般学术资格</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-DUR-6312d45d1af6e8b2"><div><a href="https://www.durham.ac.uk/study/undergraduate/">Undergraduate - Durham University ↗</a><p>大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别</p><small>核验 2026-09-13</small></div></div>

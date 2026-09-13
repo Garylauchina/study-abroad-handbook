@@ -34,10 +34,15 @@ hide:
 
 <p><strong>授予学位 / 项目类型：</strong>Bachelor of Science</p>
 
-<p><strong>目录适用期：</strong>官网当前目录；未标明确入学年度，核对于2026-09-12</p>
+<p><strong>目录适用期：</strong>2026/27现行校历；在读准入、旧届次及费用适用年分别说明</p>
+
+<p><strong>申请路径：</strong>学校资格与所属学位先修分别核对；具体主修可能在入学后选择。</p>
 
 <p class="catalog-fact"><strong>项目内容：</strong>从生态和进化角度研究生物多样性，学习保护物种与生态系统的方法，并开展实验和田野训练。</p>
 <p class="fact-sources"><a href="#source-p-program">官方依据</a></p>
+
+<p class="catalog-fact"><strong>现行专业名称：</strong>当前校历名称为Ecology, Evolution, and Conservation Biology；专业内容与招生条件按本页所引现行说明核对。</p>
+<p class="fact-sources"><a href="#source-p-UBC2-okanagan-27666ae2c987">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -91,6 +96,7 @@ hide:
 
 <div class="catalog-source" id="source-p-program"><div><a href="https://you.ubc.ca/programs/">UBC官方本科项目资料：Ecology, Evolution, and Conservation Biology ↗</a><p>公开完整programsListData中的培养内容、项目类型及官方项目入口</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-china-degree"><div><a href="https://you.ubc.ca/applying-ubc/requirements/international-high-schools/">UBC中国申请：所属学位先修 ↗</a><p>该校区中国资格选择器下的学位特定要求</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-UBC2-okanagan-27666ae2c987"><div><a href="https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-science/bachelor-science-programs/major-programs/ecology-evolution-and-conservation-biology">UBC Academic Calendar — Ecology, Evolution, and Conservation Biology ↗</a><p>正式课程与身份；在校准入与先修边界</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-china-v"><div><a href="https://you.ubc.ca/applying-ubc/requirements/international-high-schools/">UBC中国资格：Vancouver ↗</a><p>动态选择中国和Vancouver的正式资格、先修与历史参考成绩</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-china-o"><div><a href="https://you.ubc.ca/applying-ubc/requirements/international-high-schools/">UBC中国资格：Okanagan ↗</a><p>动态选择中国和Okanagan的正式资格、先修与历史参考成绩</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-dates"><div><a href="https://you.ubc.ca/applying-ubc/dates-deadlines/">UBC2027申请日历 ↗</a><p>申请、英语和境外高中材料、International Scholars截止</p><small>核验 2026-09-12</small></div></div>
