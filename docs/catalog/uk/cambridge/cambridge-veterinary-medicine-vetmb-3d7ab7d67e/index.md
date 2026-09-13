@@ -24,7 +24,7 @@ hide:
 <p class="program-location"><strong>校区：</strong>剑桥及兽医临床／校外EMS机构 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="catalog-related" aria-label="课程与方向">
-<details><summary>已收录的相关路线与方向（2）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-biological-and-biomedical-sciences-part-ii/">生物与生物医学科学（广义方向）（Part II）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-biochemistry-part-ii/">生物化学（Part II）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+<details><summary>已收录的相关路线与方向（5）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-biological-and-biomedical-sciences-part-ii/">生物与生物医学科学（广义方向）（Part II）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-biochemistry-part-ii/">生物化学（Part II）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-genetics-part-ii/">遗传学（Part II）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-pharmacology-part-ii/">药理学（Part II）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-manufacturing-engineering-tripos-0ce3e87d78/">制造工程Tripos（校内转入）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 

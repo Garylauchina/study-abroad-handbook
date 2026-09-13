@@ -16,8 +16,8 @@
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs",
       "sha256": "0945f1b96cc8f2b05eb157b4e1a0afa87af69e1231a2dc111220e586f6bb70aa",
-      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-audit/raw/international-fees-2026.html",
-      "locator": null
+      "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/international-fees.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
     },
     {
       "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
@@ -29,7 +29,7 @@
       "url": "https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements",
       "sha256": "af6f6cf0bcda39fbc30201ffb4753eda654908f906ac8ac1c0cb6f90f235a100",
       "raw_file": "scratch/full-catalog/cambridge-china-entry-depth/raw/english.html",
-      "locator": "Offers above minimum; English language requirements; If you are under18"
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/anglo-saxon-norse-celtic-ba-hons",
@@ -71,7 +71,7 @@
       "url": "https://www.admin.cam.ac.uk/univ/so/pdfs/2025/Cambridge-Statutes-and-Ordinances-2025.pdf",
       "sha256": "7bc49371032825251138d5563e83986bfda62ed4224bd2cb83d8d1b5667c1bfb",
       "raw_file": "scratch/full-catalog/cambridge-internal-archaeology-audit/raw/ordinances-2025.pdf",
-      "locator": "See individual fact extraction_locator"
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/architecture-ba-hons-march",
@@ -155,7 +155,7 @@
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
       "sha256": "debb5b12e6a7fcc5daf1f7540e504f815e58d8605ee95f74292d8db9df680475",
       "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-engineering-ba-hons-and-meng-329b6daa0b.html",
-      "locator": "See each fact extraction_locator"
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/english-ba-hons",
@@ -390,6 +390,12 @@
       "sha256": "0510987ea2b5f09705d478bba46159990aaaef2dc40debf28953a039049db69c",
       "raw_file": "scratch/full-catalog/cambridge-final9-enrichment/raw/ui-4-course-outline.html",
       "locator": "#course-outline (expanded public UI)"
+    },
+    {
+      "url": "https://www.natsci.tripos.cam.ac.uk/admissions/course-costs",
+      "sha256": "bf8012d87234d61c0de63dfcbe76c6a9194f14fff916ed4b38b6ca03426976f7",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-audit/raw/costs.html",
+      "locator": null
     },
     {
       "url": "https://www.undergraduate.study.cam.ac.uk/courses/philosophy-ba-hons",
@@ -848,16 +854,538 @@
       "locator": null
     },
     {
-      "url": "https://www.natsci.tripos.cam.ac.uk/admissions/course-costs",
-      "sha256": "bf8012d87234d61c0de63dfcbe76c6a9194f14fff916ed4b38b6ca03426976f7",
-      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-audit/raw/costs.html",
-      "locator": null
-    },
-    {
       "url": "https://www.esc.cam.ac.uk/undergraduate",
       "sha256": "41cb7a6df4dff49ff7807a25d7905e5ef815b550d3810655114162acb65f418d",
       "raw_file": "scratch/full-catalog/cambridge-internal-natsci-audit/raw/earth-current.html",
       "locator": null
+    },
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci",
+      "sha256": "0510987ea2b5f09705d478bba46159990aaaef2dc40debf28953a039049db69c",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-audit/raw/admissions-outline-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.gen.cam.ac.uk/files/ib_publicity_booklet_for_part_ii_genetics_2026-27_ver_26_04_26_final.pdf",
+      "sha256": "c39ebfb2da5b054d687aa49e91c13e239a248c39f8bfdeefd9f8323bacef1c23",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/gen-brochure-2026.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.hps.cam.ac.uk/study/undergraduate/partii",
+      "sha256": "433209d6f3a0d576bb8793cbc86574d1ddd49d520f527e640d19b28d985be17b",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/hps-part2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.hps.cam.ac.uk/study/undergraduate/faqs",
+      "sha256": "68849d4afd17cb0dac3bf2d4b3c1c58cecd57da19fe99f22669cb321e47cd921",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/hps-faq.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.hps.cam.ac.uk/study/undergraduate/partiii",
+      "sha256": "90dd5ef68a8a68c60c8af8732970385cac704f9dc3dbacb0d37d65daa6ac1dff",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/hps-part3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.msm.cam.ac.uk/ug-study/part-ii",
+      "sha256": "5b05efd62b5726e717b34ec817751962f8e10bb343d80bd8049137c811a677bb",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/materials-part2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.path.cam.ac.uk/undergraduate/third_year",
+      "sha256": "bb3c4b25371fabafd2d9a0871c61a0c9beb6017ce10768e5475da6ec23d7f182",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/path-part2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.path.cam.ac.uk/undergraduate/third_year/how-to-apply",
+      "sha256": "17033cb0cf3d705cc60a87180bcddcf0a9175a3cffb2a8fddf5e10e5127c44dd",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/path-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.path.cam.ac.uk/undergraduate/third_year/career-options",
+      "sha256": "558a4ea3b22b78d6f8bcf5212650c4ec06186227a5676bf1ed5a766ebd09c572",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/path-careers.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.phar.cam.ac.uk/undergrads/bbs",
+      "sha256": "f0815e8f29510c2c1ab6c941f32038098d5a6fd5d803847f2632fa052c8990c2",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/pharm-part2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.phar.cam.ac.uk/prospective-undergraduates",
+      "sha256": "ba4e4bca6ebaa3ee917016a0d0b23303be15fe98a24d1f6d55081e71d4e423f5",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/pharm-prospective.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.phy.cam.ac.uk/study/undergraduate/undergraduate-courses/",
+      "sha256": "13a8571d7b30b7a8dc28ebf2d5b966f7736468709eb90895775db5b87907060b",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/physics-courses.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.pdn.cam.ac.uk/files/partii_pdn_brochure_2026-27.pdf",
+      "sha256": "413f8ee88ffa8e9b1ba11d2ee2efe9b18a389d94bf4e2bd8963fbd08f8c47c3c",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/pdn-brochure-2026.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.plantsci.cam.ac.uk/undergraduates/part-ii-plant-sciences",
+      "sha256": "c3a3c2c4e84ba2ce5cd97dfe3886c0f13caa065805904d168b40dc69d715cbac",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/plants-part2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.zoo.cam.ac.uk/study/NST-II-Zoology",
+      "sha256": "a2ba4c968c26fd3008a9ab2214b706fd27819c083b7469ff8cd779d141293e95",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/zoo-part2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.hps.cam.ac.uk/students/partiii-guide/dates",
+      "sha256": "fad4ea641aef089cb1041dcc7753cfb78f1d9e5ade3aadaa96619205c1b73531",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/hps-part3-dates.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.hps.cam.ac.uk/students/partiii-guide/about",
+      "sha256": "f39a43f19bb56476892a15fd762d52b451856b4761c413c328554d8f97bcba99",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/hps-part3-about.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.hps.cam.ac.uk/students/partiii-guide/examining",
+      "sha256": "93dfe0bd63fbe4fdc1db558357f43b922dff5671bbcfeb1f4d49c0991203e9b0",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/hps-part3-exams.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.msm.cam.ac.uk/ug-study/part-iii",
+      "sha256": "953ba35b682bd928ec09cb751d3664a573c7e883148b3a1f61ad20538275dcb6",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/materials-part3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.gen.cam.ac.uk/undergraduate/nst-part-iii-systems-biology",
+      "sha256": "4c57ec47677555f178cba19efc4f9372be89cdee6bbed0a342aaf88024603478",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/systems-bio.html",
+      "locator": null
+    },
+    {
+      "url": "https://qces.uk/",
+      "sha256": "a048dbc0c10f0a70004cbaf8ce4a459ef301c56c427656fb9ae15a5a197d5c9f",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/qces-index.html",
+      "locator": null
+    },
+    {
+      "url": "https://qces.uk/applications/",
+      "sha256": "85829182e49b91aebc04d8687f8e344d7b0cf52bcf280b5140864d0b27770dff",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/qces-web-capture.json",
+      "locator": null
+    },
+    {
+      "url": "https://qces.uk/programme/",
+      "sha256": "85829182e49b91aebc04d8687f8e344d7b0cf52bcf280b5140864d0b27770dff",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/qces-web-capture.json",
+      "locator": null
+    },
+    {
+      "url": "https://qces.uk/research/",
+      "sha256": "85829182e49b91aebc04d8687f8e344d7b0cf52bcf280b5140864d0b27770dff",
+      "raw_file": "scratch/full-catalog/cambridge-internal-natsci-remaining16/raw/qces-web-capture.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/prospective-students/undergraduate/year-abroad",
+      "sha256": "31813e14cb6d1c2e4abcd70f5ec3410b508d46f4499b2564ddadabb87a3d0aeb",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/ui/year-abroad.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/french-papers",
+      "sha256": "45e53f1b0f6754aab90a4d02f7649de8cc1556930fa0e78a4f6302c16bf86bd7",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/raw/french-papers.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/prospective-students/undergraduate/history-and-modern-languages-hml",
+      "sha256": "955347c22a1e1a37204435314f9bac959b5ec379fbd9db281272f2ff29e00591",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/ui/hml-faculty.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/french-papers",
+      "sha256": "cc693ec4c8082b920a3dd516e17985339ab86c333360920db10dd8937229894e",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/ui/french-papers.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/prospective-students/undergraduate/linguistics-and-modern-languages-lml",
+      "sha256": "6dbcacaabd67777bd0eefd7fcbf517d171634d8cdec54cce8409a87a128ef251",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/ui/lml-faculty.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/german-papers",
+      "sha256": "c6369e09d8afa9ff215a0e2bd68bf6b67510f23244b6412726a9238c5f0917a1",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/raw/german-papers.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/german-papers",
+      "sha256": "e5c2d250399303f55a307d90198d67197ee2860480e05dbe70a4d141be461257",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/ui/german-papers.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/italian-papers",
+      "sha256": "674a7927207b88fde0a478029cf51a282b9b845b8ff71ba75e48fb9d86e679b8",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/raw/italian-papers.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/italian-papers",
+      "sha256": "8a744c433ba5138d4d31a90b27f77e6d01583a572e6f9bbf56be7b35f9480a3d",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/ui/italian-papers.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/portuguese-papers",
+      "sha256": "a255a2c4ee52ed6b9951e2ef20190901bb7123a9c4df583b21cde9c5fbabe087",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/ui/portuguese-papers.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/spanish-papers",
+      "sha256": "ea2f4624a84559526b3c5c988ae2ddffd421c4de3dce401cd43abbf42204ef39",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/ui/spanish-papers.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/portuguese-papers",
+      "sha256": "f5c6320e97f5ac1df1a48b1b29a3fd52ccc29301bfee7b11928fb2fe4f1493ec",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/raw/portuguese-papers.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/slavonic-papers",
+      "sha256": "25854b29c4ef45cfbab5564d00045eb2c4d0abc3ef675f2cc1c9b92bb3831161",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/ui/slavonic-papers.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/slavonic-papers",
+      "sha256": "c152b1e119696130a02d7ae5c6c02988a0ac141c47ec63b161f83b19ba25d8f6",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/raw/slavonic-studies-papers.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/subjects/slavonic-studies",
+      "sha256": "e08f057ec78953f46851694a7f2fd7e1c3855cdfa31578719480af49c13eca69",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/raw/slavonic-studies.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/spanish-papers",
+      "sha256": "69de317d23715164401e7e7037b65e692a8fc8e3de5f04f00d753f21048f4c69",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/raw/spanish-papers.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/subjects/classical-latin-classical-greek-classics",
+      "sha256": "216d4bd4ac4541544295fb237f31015d6f839c6cae1e4cc76d0eaddda6e63298",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/ui/mml-classics.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.mmll.cam.ac.uk/modern-and-medieval-languages-tripos",
+      "sha256": "71c8c6ed60e7499112caae2870f5193aff0468a958ed09c3b0a11554f9390299",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/ui/mml-tripos.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.classics.cam.ac.uk/student-information/undergraduate-students/part-ia/papers-1-5-greek-and-latin-language-and-classical",
+      "sha256": "a66574bf4fd7f423af829fb9cad53d19799dd46cb8dc332f9647746e3e6641bf",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/ui/classics-ia-papers1-5.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://www.classics.cam.ac.uk/student-information/undergraduate-students/part-ia/papers-1-5-greek-and-latin-language-and-classical",
+      "sha256": "fde009ecbc5c855bf84bb6b205d5ebc302f96d9366b09af26df45e13583acd6a",
+      "raw_file": "scratch/full-catalog/cambridge-language-routes-depth/raw/classics-ia-papers1-5.html",
+      "locator": "See extraction_locator"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/node/459/",
+      "sha256": "fdcacbb3d24885c9f6e486c313900565c2776c7115df2c8ff11a67a3afb691cf",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/engineering-iia-areas.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/node/1304",
+      "sha256": "65f587f1d1451bd221c70e685b0806a707dfb992fd2bb1aa161636106f0351e0",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/engineering-iib-area-index.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/node/753/",
+      "sha256": "43a202493b50b589405ed062c6027a2c258c5b8a3548d811c61c84bb2cf13cd1",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/area-aerospace.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/node/421",
+      "sha256": "4b2d0417439040c104947d44ce0e00939e3ada7749104362f2c54304a5b4c3a1",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/raw/engineering-iia-guide.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/node/439",
+      "sha256": "0204d5e72073fa22bcfe4309e8308e4b78bd60f7b5aa51299444a7b2b2b48104",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/raw/engineering-iib-guide.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/content/progression-requirements",
+      "sha256": "4131a805ff79b36a114bf1d04fcb8d2f76eb664f7378b49df69ab464912c1d59",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/raw/engineering-progression.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/node/4535",
+      "sha256": "3a0d1603d1cdcdec9fa95101a9836eb24aad3e539f27cd34d72df8586d69ef68",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/raw/engineering-transfer.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/system/files/Appendix%20D%20-%20FB%20policy%20on%20compensation%20and%20condonement.pdf",
+      "sha256": "6e5b6d2fc4753cd3171cbb0e565afa7b35df502162d1e01c9114fb57b6bb3bf7",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/raw/engineering-science-policy.pdf",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/node/64",
+      "sha256": "d5288e209eef673e26960d86213dbf432e35cccad6774df5735cdf6c3b0a767f",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/raw/engineering-industrial-node.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/content/accreditation-meng",
+      "sha256": "58770ff94487b71761f6faf9e96b8a7053e52d83c06aefbd5c2a2b347a252855",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/raw/engineering-accreditation.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/node/813/",
+      "sha256": "2ec8d60877e22d6e10f5c0680e03143de899f02ca691d3f12040f74f0781f4f5",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/area-bioengineering.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/node/750/",
+      "sha256": "d827c1ce6841e6b811b8c059cd62eac61055c8e135573c7dde47ff8b4fc835d0",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/area-civil.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/node/797/",
+      "sha256": "7fe42214dc8953f775436160d5d2633c7670a0e9ca7c1516d31287864721b7c2",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/area-electrical-electronic.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/node/806/",
+      "sha256": "08346f029118882b3192375884bae003289d59e9f53b6d619322252526ba81a7",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/area-electrical-information.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/node/764/",
+      "sha256": "19e697933adf24a63089c622735f916dcb3a3453ba7f51f5f61f0b07393fd877",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/area-energy.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/node/803/",
+      "sha256": "b18c4a9c0e1bd48c48dc6983d94ec8b49f179672010e1e35f88fc93e1ccf3a0a",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/area-information-computer.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/node/810/",
+      "sha256": "9362eaae3f296366ebec3d45f55ed5d08af51690e4e38b67083c6e6b72496bb1",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/area-instrumentation.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/node/801/",
+      "sha256": "6853d96ed5ab030f5d3e41f72a517a5789e19f098658c1c0570dabd2df6edd9e",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/area-mechanical.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.ifm.eng.cam.ac.uk/education/met/52212/",
+      "sha256": "ec3ae8388fe6f38aa7021cf571c8f1bc828cecd2c3b51df0ea571e575b803287",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/manufacturing-overview.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.ifm.eng.cam.ac.uk/uploads/Education/MET/MET_recruitment_Feb_2026_information%20v2.pdf",
+      "sha256": "642fe0bf3e9607172368b669b454387d4d7ae0938cc3813c810ecd2bc556e1f6",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/raw/met-recruitment.pdf",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.ifm.eng.cam.ac.uk/uploads/Education/MET/METIIB_Full_Handbook_2025.pdf",
+      "sha256": "f233eb61438c703ae0d6080eb68ab2d266e9973e5041b947d7cc20793b2fa017",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/raw/met-iib-handbook.pdf",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.ifm.eng.cam.ac.uk/education/met/a/assessment/",
+      "sha256": "027a204fefb5daf37ab7f6ce28be3a4e3da0ff139f6bca83286adb73d665d1d9",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/manufacturing-iia.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.ifm.eng.cam.ac.uk/uploads/Education/MET/MET_IIA_Full_Handbook_2025.pdf",
+      "sha256": "680568ae4a099f8b5f750e735eafb6665c098f53ca86f5b3468a6b8b119f5ece",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/raw/met-iia-handbook.pdf",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.ifm.eng.cam.ac.uk/education/met/b/assessment/",
+      "sha256": "e023872a4b218ad00d14c4aa1736396cbf50174f65410bc0b2f767e441e81682",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/manufacturing-iib.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.ifm.eng.cam.ac.uk/education/met/b/long/",
+      "sha256": "af4e2e6ba204acc8085ccb4b39f0c5a5d8db35a4ef99cce9ebf2d6447d780e00",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/raw/manufacturing-long-project.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.ifm.eng.cam.ac.uk/education/met/application/",
+      "sha256": "fff1f68eaa5bc4ace5444197c2eb526e1f5c9e4a368352fed5ef491033198319",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/manufacturing-apply.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.ifm.eng.cam.ac.uk/uploads/Education/MET/MET_course_information_2026_Non_Eng_v1.pdf",
+      "sha256": "7c507e971a1b3d275d804b744c4926ba7bf345f8967dd0d889f9698edc56a985",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/raw/met-non-engineering.pdf",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://teaching.eng.cam.ac.uk/content/part-iia-options-offered-engineering-tripos",
+      "sha256": "d89e6aed1c903637a7f3dd5f825ce363f0ff5b25ae33a9ddc11ef3a9aa0b7913",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/engineering-options.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.ifm.eng.cam.ac.uk/education/met/graduates/",
+      "sha256": "95b89614b993a09af9191fdcff988e2ff4a06232ec087f4f2a41c3eb7d1e7f3c",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/raw/manufacturing-graduates.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/",
+      "sha256": "10cd54bfa8eeb5cf7af718801613701dc6f869de24b04f9cc882849acf93ea6d",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/management-overview-initial.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/",
+      "sha256": "3f2f1b788e0b2692dbe60c1fef54ab1ebbbb2430839a2f02eccb1571dd1edea3",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/management-degree-open.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/apply/",
+      "sha256": "0ea1397f53b2ec458147ca23af47781bfde6f14eb54ddf9efac7071478ad2b78",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/management-apply-requirements-open.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/curriculum/",
+      "sha256": "6a55cd326835768ec1c784eae5caf60b5e58ee2238f86258dfc452c7a1ddd118",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/management-curriculum.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/curriculum/core-courses/",
+      "sha256": "5938b8fa4dcbbf53ddfe0a4488913d7d5dad53eb0dc4bd647368c996f5ebc0e3",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/management-core-open.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/curriculum/electives/",
+      "sha256": "5a2fc640075cb8fec6d6db920e3332ceb1850ddf19e84f87e18da375a5e03d2a",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/management-electives-open.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/curriculum/consulting-project/",
+      "sha256": "bbcd2209a2816f47070d76e092fd5c96cea526a2282129f172cf72ed67df80e8",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/management-project.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/",
+      "sha256": "7c7cf2664500c60f4ca70c3d1d8ab2ee50a1a6097c268ed310b27a77687e01f9",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/management-classification-open.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/apply/",
+      "sha256": "2fb2fcb2d8503d4cf069745966bf39690b4847ad174abff1694caeceae100e82",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/management-step-2.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/apply/",
+      "sha256": "3a61ca1d895bb39ad70a802ab1c3cf3864811ff912d512c2bf15e39a6ad29c9b",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/management-step-3.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/apply/",
+      "sha256": "e7bdc5c13cb146c630eba1fbc2746ba8e9314b859d093675a437e90dfa35dd66",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/management-step-4.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/apply/",
+      "sha256": "a2ca1ddd820badbcb433658fe909977932fbe0fb00f37336069e5493eac5ad6c",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/management-step-5.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/faqs/",
+      "sha256": "2742ceb7972f7126070c173c76874d6d1879254153726b63971ff664a89fcda7",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/management-start-date.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/faqs/",
+      "sha256": "f9e0c3cc3bcec48bea9390aac91e188ebeae83482fb69df5a452100967097fa1",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/management-faq-fees-open.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
+    },
+    {
+      "url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/class-profile/",
+      "sha256": "9f1c32eff562f8d1f20122f34079f3d3e6cc92e1fa877cd1945cac603be1f235",
+      "raw_file": "scratch/full-catalog/cambridge-engineering-routes-depth/capture/management-class-profile.html",
+      "locator": "逐事实 extraction_locator 指定正文段落或PDF页码"
     }
   ]
 }

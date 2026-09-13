@@ -1,0 +1,3157 @@
+{
+  "audit": {
+    "university_id": "cambridge",
+    "baseline": 58,
+    "total": 98,
+    "new": 40,
+    "existing_facts": 695,
+    "existing_facts_verbatim": 694,
+    "existing_exact_changes": 1,
+    "new_record_facts": 451,
+    "language_shared_unique_facts": 3,
+    "language_shared_fact_placements": 26,
+    "program_facts": 1146,
+    "profile_facts": 14,
+    "profile_unchanged": true,
+    "source_pairs": 231,
+    "new_ids": [
+      "cambridge-nst-genetics-part-ii",
+      "cambridge-nst-history-and-philosophy-of-science-part-ii",
+      "cambridge-nst-materials-science-part-ii",
+      "cambridge-nst-pathology-part-ii",
+      "cambridge-nst-pharmacology-part-ii",
+      "cambridge-nst-physics-part-ii",
+      "cambridge-nst-physiology-development-and-neuroscience-part-ii",
+      "cambridge-nst-plant-sciences-part-ii",
+      "cambridge-nst-zoology-part-ii",
+      "cambridge-nst-history-and-philosophy-of-science-part-iii",
+      "cambridge-nst-materials-science-part-iii",
+      "cambridge-nst-physics-part-iii",
+      "cambridge-nst-systems-biology-part-iii",
+      "cambridge-nst-quantitative-climate-and-environmental-science-part-iii",
+      "cambridge-hml-french-language-pathway",
+      "cambridge-lml-french-language-pathway",
+      "cambridge-hml-german-language-pathway",
+      "cambridge-lml-german-language-pathway",
+      "cambridge-hml-italian-language-pathway",
+      "cambridge-lml-italian-language-pathway",
+      "cambridge-hml-portuguese-language-pathway",
+      "cambridge-lml-portuguese-language-pathway",
+      "cambridge-hml-russian-language-pathway",
+      "cambridge-lml-russian-language-pathway",
+      "cambridge-hml-spanish-language-pathway",
+      "cambridge-lml-spanish-language-pathway",
+      "cambridge-mml-classical-latin-ia-ib-pathway",
+      "cambridge-mml-classical-greek-ia-ib-pathway",
+      "cambridge-aerospace-and-aerothermal-engineering-710e06e77b",
+      "cambridge-bioengineering-11b0a6d48b",
+      "cambridge-civil-engineering-616ebed9f9",
+      "cambridge-electrical-and-electronic-engineering-01ce26bb79",
+      "cambridge-electrical-and-information-sciences-9458f36388",
+      "cambridge-energy-sustainability-and-the-environment-b919eb087c",
+      "cambridge-information-and-computer-engineering-57da9c6a7a",
+      "cambridge-instrumentation-and-control-0c6c8d07d5",
+      "cambridge-mechanical-engineering-ad24ab5aa4",
+      "cambridge-general-engineering-3db0e0fe15",
+      "cambridge-manufacturing-engineering-tripos-0ce3e87d78",
+      "cambridge-management-studies-tripos-70c51da02b"
+    ],
+    "coverage": "partial",
+    "all_fields_complete": false,
+    "bindings": [
+      {
+        "package": "natsci_remaining14",
+        "author": {
+          "path": "scratch/full-catalog/cambridge-internal-natsci-remaining16/FROZEN.json",
+          "sha256": "de50ad1a64d2c37b95a65a421bc79ae523ca517855d5e82abed195b702b69268"
+        },
+        "review": {
+          "path": "scratch/full-catalog/root/natsci-remaining16-review/independent-review.json",
+          "sha256": "e5cfb4e8099c5ffbdfb813b588a2f6d6fcd860959fe83e55bdfd904193334e69"
+        },
+        "review_frozen": {
+          "path": "scratch/full-catalog/root/natsci-remaining16-review/FROZEN.json",
+          "sha256": "f940a2161b2bf952b9a82bf949fb03f7159aa67d1cf3fa1ce34cdd9cc890cb5c"
+        }
+      },
+      {
+        "package": "language14",
+        "author": {
+          "path": "scratch/full-catalog/cambridge-language-routes-depth/FROZEN.json",
+          "sha256": "b572c036433c3d084e9ebac872377957d755ca4f43b73114b4a19ae859020675"
+        },
+        "review": {
+          "path": "scratch/full-catalog/cambridge-language-routes-depth/review/independent-review.json",
+          "sha256": "d8845be86ccb3959fc6ce245b065b2f173c13db5c74bf22e3c096f09389119ec"
+        },
+        "review_frozen": {
+          "path": "scratch/full-catalog/cambridge-language-routes-depth/review/FROZEN.json",
+          "sha256": "3b8dc8d12f45cbc600b411413f7dd51936502380ff570fb54bdb279fadfaad0d"
+        }
+      },
+      {
+        "package": "natsci_parent_costs",
+        "author": {
+          "path": "scratch/full-catalog/root/natsci-parent-costs-addendum/FROZEN.json",
+          "sha256": "1507f7d1952e528befb1a314d5ecfc7c53d886723224d43d340ddc28c823961d"
+        },
+        "review": {
+          "path": "scratch/full-catalog/root/natsci-parent-costs-addendum/review/independent-review.json",
+          "sha256": "7fa3e90db7152282107abb82070f30985366ceab3b983ff6269adf77c5226abe"
+        },
+        "review_frozen": {
+          "path": "scratch/full-catalog/root/natsci-parent-costs-addendum/review/FROZEN.json",
+          "sha256": "e4a32b803c8260576db6996373a543c63ba63c09f2aec68d18ff1694f1d5c828"
+        }
+      },
+      {
+        "package": "engineering12",
+        "author": {
+          "path": "scratch/full-catalog/cambridge-engineering-routes-depth/FROZEN.json",
+          "sha256": "f370d0164bb88a4017317eda691e8599d64665ce52d29c42120df9a89ce0202e"
+        },
+        "review": {
+          "path": "scratch/full-catalog/cambridge-engineering-routes-depth/review/independent-review.json",
+          "sha256": "20befe47687706f8df796358dd18b0497611d98e2e509476a6db0e82463b205e"
+        },
+        "review_frozen": {
+          "path": "scratch/full-catalog/cambridge-engineering-routes-depth/review/FROZEN.json",
+          "sha256": "d2e023ae1a83c8a9a31d969da3ff207ad05f40f8f716f21bb5359a7ffa42cfe5"
+        }
+      }
+    ]
+  },
+  "parent_fact_changes": [
+    {
+      "inventory_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+      "section": "fees",
+      "index": 1,
+      "before": {
+        "label": "实验与野外成本",
+        "text": "当前估算计算器£25、实验衣£13–16、安全眼镜£4–7。首年地球科学选课内必需野外课约£120；生物多样性／演化／生态野外课可选约£50另交通。二至四年成本由选课决定，不能当所有自然科学学生一律缴同额。",
+        "source_ids": [
+          "CAMF9-87a86cf06e40cf0a"
+        ],
+        "extraction_locator": "#overview (expanded public UI)"
+      },
+      "after": {
+        "label": "实验与野外成本：官方页面金额有差异",
+        "text": "计算器约£25、实验衣£13–16、安全眼镜£4–7。2027招生课程页列首年地球科学必需野外课约£120、生物多样性／演化／生态可选野外课约£50另交通；NST专门费用页分别列约£140、£100另交通。两个公开页面金额不同，应向课程团队确认实际所选行程报价，不能把任一估算当作2027固定费用。二至四年费用随选课，NST费用页也明确可调整指示价。",
+        "source_ids": [
+          "CAMF9-87a86cf06e40cf0a",
+          "CAMNST-costs"
+        ],
+        "extraction_locator": "#overview expanded Course costs, Equipment and Field trips; NST Course costs disclaimer and Part IA rows"
+      },
+      "reason": "One existing fee fact clarified with both official estimates; no change to admission/tuition/outcomes or any old source date"
+    }
+  ],
+  "normalisation": [
+    {
+      "id": "cambridge-nst-genetics-part-ii",
+      "before": {
+        "candidate_id": "cambridge-nst-genetics-part-ii",
+        "route_key": "NST|Part II|Genetics",
+        "university_id": "cambridge",
+        "name_en": "Genetics — Part II",
+        "name": "遗传学（Part II）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "BA内第三年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-medicine-mb-and-bchir-b4f8b5b9d3",
+          "cambridge-veterinary-medicine-vetmb-3d7ab7d67e"
+        ],
+        "parent_navigation_only": true,
+        "entry_route": "university_internal_part_ii_selection",
+        "requires_prior_degree": false,
+        "official_url": "https://www.gen.cam.ac.uk/undergraduate/nst2-genetics-overview/nst-part-ii-genetics-overview",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定ID与审查；eligible parents仅导航，不继承其新生条件，实际进阶逐事实列明。",
+        "excluded_school_sections": [
+          "admissions",
+          "applications"
+        ],
+        "display_proposal": {
+          "name": "遗传学（Part II）",
+          "duration": "NST第三年，一个学年",
+          "entry_summary": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+          "tuition_summary": "普通NST仅2026入学参考£44,214／年；当前在读按原届、跨Tripos及2027费须另核。",
+          "outcomes_summary": "已核课程培养／后续研究方向；未取得本阶段独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-genetics-part-ii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part II|Genetics",
+        "name": "遗传学（Part II）",
+        "name_en": "Genetics — Part II",
+        "official_url": "https://www.gen.cam.ac.uk/files/ib_publicity_booklet_for_part_ii_genetics_2026-27_ver_26_04_26_final.pdf",
+        "degree_label": "BA（本科第三年方向）",
+        "study_level": "本科",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-medicine-mb-and-bchir-b4f8b5b9d3",
+          "cambridge-veterinary-medicine-vetmb-3d7ab7d67e"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科学位内Part II方向",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第三年，一个学年",
+        "entry_route": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-nst-history-and-philosophy-of-science-part-ii",
+      "before": {
+        "candidate_id": "cambridge-nst-history-and-philosophy-of-science-part-ii",
+        "route_key": "NST|Part II|History and Philosophy of Science",
+        "university_id": "cambridge",
+        "name_en": "History and Philosophy of Science — Part II",
+        "name": "科学史与科学哲学（Part II）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "BA内第三年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_navigation_only": true,
+        "entry_route": "university_internal_part_ii_selection",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hps.cam.ac.uk/study/undergraduate/partii",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定ID与审查；eligible parents仅导航，不继承其新生条件，实际进阶逐事实列明。",
+        "excluded_school_sections": [
+          "admissions",
+          "applications"
+        ],
+        "display_proposal": {
+          "name": "科学史与科学哲学（Part II）",
+          "duration": "NST第三年，一个学年",
+          "entry_summary": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+          "tuition_summary": "普通NST仅2026入学参考£44,214／年；当前在读按原届、跨Tripos及2027费须另核。",
+          "outcomes_summary": "已核课程培养／后续研究方向；未取得本阶段独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-history-and-philosophy-of-science-part-ii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part II|History and Philosophy of Science",
+        "name": "科学史与科学哲学（Part II）",
+        "name_en": "History and Philosophy of Science — Part II",
+        "official_url": "https://www.hps.cam.ac.uk/study/undergraduate/partii",
+        "degree_label": "BA（本科第三年方向）",
+        "study_level": "本科",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科学位内Part II方向",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第三年，一个学年",
+        "entry_route": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "campus": null,
+        "language": null
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-nst-materials-science-part-ii",
+      "before": {
+        "candidate_id": "cambridge-nst-materials-science-part-ii",
+        "route_key": "NST|Part II|Materials Science",
+        "university_id": "cambridge",
+        "name_en": "Materials Science — Part II",
+        "name": "材料科学（Part II）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "BA内第三年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_navigation_only": true,
+        "entry_route": "university_internal_part_ii_selection",
+        "requires_prior_degree": false,
+        "official_url": "https://www.msm.cam.ac.uk/ug-study/part-ii",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定ID与审查；eligible parents仅导航，不继承其新生条件，实际进阶逐事实列明。",
+        "excluded_school_sections": [
+          "admissions",
+          "applications"
+        ],
+        "display_proposal": {
+          "name": "材料科学（Part II）",
+          "duration": "NST第三年，一个学年",
+          "entry_summary": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+          "tuition_summary": "普通NST仅2026入学参考£44,214／年；当前在读按原届、跨Tripos及2027费须另核。",
+          "outcomes_summary": "已核课程培养／后续研究方向；未取得本阶段独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-materials-science-part-ii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part II|Materials Science",
+        "name": "材料科学（Part II）",
+        "name_en": "Materials Science — Part II",
+        "official_url": "https://www.msm.cam.ac.uk/ug-study/part-ii",
+        "degree_label": "BA（本科第三年方向）",
+        "study_level": "本科",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科学位内Part II方向",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第三年，一个学年",
+        "entry_route": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-nst-pathology-part-ii",
+      "before": {
+        "candidate_id": "cambridge-nst-pathology-part-ii",
+        "route_key": "NST|Part II|Pathology",
+        "university_id": "cambridge",
+        "name_en": "Pathology — Part II",
+        "name": "病理学（Part II）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "BA内第三年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_navigation_only": true,
+        "entry_route": "university_internal_part_ii_selection",
+        "requires_prior_degree": false,
+        "official_url": "https://www.path.cam.ac.uk/undergraduate/third_year",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定ID与审查；eligible parents仅导航，不继承其新生条件，实际进阶逐事实列明。",
+        "excluded_school_sections": [
+          "admissions",
+          "applications"
+        ],
+        "display_proposal": {
+          "name": "病理学（Part II）",
+          "duration": "NST第三年，一个学年",
+          "entry_summary": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+          "tuition_summary": "普通NST仅2026入学参考£44,214／年；当前在读按原届、跨Tripos及2027费须另核。",
+          "outcomes_summary": "已核课程培养／后续研究方向；未取得本阶段独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-pathology-part-ii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part II|Pathology",
+        "name": "病理学（Part II）",
+        "name_en": "Pathology — Part II",
+        "official_url": "https://www.path.cam.ac.uk/undergraduate/third_year",
+        "degree_label": "BA（本科第三年方向）",
+        "study_level": "本科",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科学位内Part II方向",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第三年，一个学年",
+        "entry_route": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-nst-pharmacology-part-ii",
+      "before": {
+        "candidate_id": "cambridge-nst-pharmacology-part-ii",
+        "route_key": "NST|Part II|Pharmacology",
+        "university_id": "cambridge",
+        "name_en": "Pharmacology — Part II",
+        "name": "药理学（Part II）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "BA内第三年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-medicine-mb-and-bchir-b4f8b5b9d3",
+          "cambridge-veterinary-medicine-vetmb-3d7ab7d67e"
+        ],
+        "parent_navigation_only": true,
+        "entry_route": "university_internal_part_ii_selection",
+        "requires_prior_degree": false,
+        "official_url": "https://www.phar.cam.ac.uk/undergrads/bbs",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定ID与审查；eligible parents仅导航，不继承其新生条件，实际进阶逐事实列明。",
+        "excluded_school_sections": [
+          "admissions",
+          "applications"
+        ],
+        "display_proposal": {
+          "name": "药理学（Part II）",
+          "duration": "NST第三年，一个学年",
+          "entry_summary": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+          "tuition_summary": "普通NST仅2026入学参考£44,214／年；当前在读按原届、跨Tripos及2027费须另核。",
+          "outcomes_summary": "已核课程培养／后续研究方向；未取得本阶段独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-pharmacology-part-ii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part II|Pharmacology",
+        "name": "药理学（Part II）",
+        "name_en": "Pharmacology — Part II",
+        "official_url": "https://www.phar.cam.ac.uk/undergrads/bbs",
+        "degree_label": "BA（本科第三年方向）",
+        "study_level": "本科",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-medicine-mb-and-bchir-b4f8b5b9d3",
+          "cambridge-veterinary-medicine-vetmb-3d7ab7d67e"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科学位内Part II方向",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第三年，一个学年",
+        "entry_route": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-nst-physics-part-ii",
+      "before": {
+        "candidate_id": "cambridge-nst-physics-part-ii",
+        "route_key": "NST|Part II|Physics",
+        "university_id": "cambridge",
+        "name_en": "Physics — Part II",
+        "name": "物理学（Part II）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "BA内第三年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_navigation_only": true,
+        "entry_route": "university_internal_part_ii_selection",
+        "requires_prior_degree": false,
+        "official_url": "https://www.phy.cam.ac.uk/study/undergraduate/undergraduate-courses/",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定ID与审查；eligible parents仅导航，不继承其新生条件，实际进阶逐事实列明。",
+        "excluded_school_sections": [
+          "admissions",
+          "applications"
+        ],
+        "display_proposal": {
+          "name": "物理学（Part II）",
+          "duration": "NST第三年，一个学年",
+          "entry_summary": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+          "tuition_summary": "普通NST仅2026入学参考£44,214／年；当前在读按原届、跨Tripos及2027费须另核。",
+          "outcomes_summary": "已核课程培养／后续研究方向；未取得本阶段独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-physics-part-ii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part II|Physics",
+        "name": "物理学（Part II）",
+        "name_en": "Physics — Part II",
+        "official_url": "https://www.phy.cam.ac.uk/study/undergraduate/undergraduate-courses/",
+        "degree_label": "BA（本科第三年方向）",
+        "study_level": "本科",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科学位内Part II方向",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第三年，一个学年",
+        "entry_route": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-nst-physiology-development-and-neuroscience-part-ii",
+      "before": {
+        "candidate_id": "cambridge-nst-physiology-development-and-neuroscience-part-ii",
+        "route_key": "NST|Part II|Physiology, Development and Neuroscience",
+        "university_id": "cambridge",
+        "name_en": "Physiology, Development and Neuroscience — Part II",
+        "name": "生理学、发育与神经科学（Part II）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "BA内第三年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_navigation_only": true,
+        "entry_route": "university_internal_part_ii_selection",
+        "requires_prior_degree": false,
+        "official_url": "https://www.pdn.cam.ac.uk/undergraduate/part-ii-courses",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定ID与审查；eligible parents仅导航，不继承其新生条件，实际进阶逐事实列明。",
+        "excluded_school_sections": [
+          "admissions",
+          "applications"
+        ],
+        "display_proposal": {
+          "name": "生理学、发育与神经科学（Part II）",
+          "duration": "NST第三年，一个学年",
+          "entry_summary": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+          "tuition_summary": "普通NST仅2026入学参考£44,214／年；当前在读按原届、跨Tripos及2027费须另核。",
+          "outcomes_summary": "已核课程培养／后续研究方向；未取得本阶段独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-physiology-development-and-neuroscience-part-ii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part II|Physiology, Development and Neuroscience",
+        "name": "生理学、发育与神经科学（Part II）",
+        "name_en": "Physiology, Development and Neuroscience — Part II",
+        "official_url": "https://www.pdn.cam.ac.uk/files/partii_pdn_brochure_2026-27.pdf",
+        "degree_label": "BA（本科第三年方向）",
+        "study_level": "本科",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科学位内Part II方向",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第三年，一个学年",
+        "entry_route": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-nst-plant-sciences-part-ii",
+      "before": {
+        "candidate_id": "cambridge-nst-plant-sciences-part-ii",
+        "route_key": "NST|Part II|Plant Sciences",
+        "university_id": "cambridge",
+        "name_en": "Plant Sciences — Part II",
+        "name": "植物科学（Part II）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "BA内第三年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_navigation_only": true,
+        "entry_route": "university_internal_part_ii_selection",
+        "requires_prior_degree": false,
+        "official_url": "https://www.plantsci.cam.ac.uk/undergraduates/part-ii-plant-sciences",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定ID与审查；eligible parents仅导航，不继承其新生条件，实际进阶逐事实列明。",
+        "excluded_school_sections": [
+          "admissions",
+          "applications"
+        ],
+        "display_proposal": {
+          "name": "植物科学（Part II）",
+          "duration": "NST第三年，一个学年",
+          "entry_summary": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+          "tuition_summary": "普通NST仅2026入学参考£44,214／年；当前在读按原届、跨Tripos及2027费须另核。",
+          "outcomes_summary": "已核课程培养／后续研究方向；未取得本阶段独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-plant-sciences-part-ii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part II|Plant Sciences",
+        "name": "植物科学（Part II）",
+        "name_en": "Plant Sciences — Part II",
+        "official_url": "https://www.plantsci.cam.ac.uk/undergraduates/part-ii-plant-sciences",
+        "degree_label": "BA（本科第三年方向）",
+        "study_level": "本科",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科学位内Part II方向",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第三年，一个学年",
+        "entry_route": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-nst-zoology-part-ii",
+      "before": {
+        "candidate_id": "cambridge-nst-zoology-part-ii",
+        "route_key": "NST|Part II|Zoology",
+        "university_id": "cambridge",
+        "name_en": "Zoology — Part II",
+        "name": "动物学（Part II）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "BA内第三年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_navigation_only": true,
+        "entry_route": "university_internal_part_ii_selection",
+        "requires_prior_degree": false,
+        "official_url": "https://www.zoo.cam.ac.uk/study/NST-II-Zoology",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定ID与审查；eligible parents仅导航，不继承其新生条件，实际进阶逐事实列明。",
+        "excluded_school_sections": [
+          "admissions",
+          "applications"
+        ],
+        "display_proposal": {
+          "name": "动物学（Part II）",
+          "duration": "NST第三年，一个学年",
+          "entry_summary": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+          "tuition_summary": "普通NST仅2026入学参考£44,214／年；当前在读按原届、跨Tripos及2027费须另核。",
+          "outcomes_summary": "已核课程培养／后续研究方向；未取得本阶段独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-zoology-part-ii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part II|Zoology",
+        "name": "动物学（Part II）",
+        "name_en": "Zoology — Part II",
+        "official_url": "https://www.zoo.cam.ac.uk/study/NST-II-Zoology",
+        "degree_label": "BA（本科第三年方向）",
+        "study_level": "本科",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科学位内Part II方向",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第三年，一个学年",
+        "entry_route": "大学在读Part IB后选择的完整Part II；具体先修和名额见正文。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-nst-history-and-philosophy-of-science-part-iii",
+      "before": {
+        "candidate_id": "cambridge-nst-history-and-philosophy-of-science-part-iii",
+        "route_key": "NST|Part III|History and Philosophy of Science",
+        "university_id": "cambridge",
+        "name_en": "History and Philosophy of Science — Part III",
+        "name": "科学史与科学哲学（Part III）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "MSci本科贯通第四年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_navigation_only": true,
+        "entry_route": "university_internal_part_iii_progression",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hps.cam.ac.uk/study/undergraduate/partiii",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定ID与审查；eligible parents仅导航，不继承其新生条件，实际进阶逐事实列明。",
+        "excluded_school_sections": [
+          "admissions",
+          "applications"
+        ],
+        "display_proposal": {
+          "name": "科学史与科学哲学（Part III）",
+          "duration": "NST第四年，一个学年",
+          "entry_summary": "大学内部Part III升读；须尚未领取BA并满足学科与下一年进阶条件。",
+          "tuition_summary": "普通NST仅2026入学参考£44,214／年；当前在读按原届、跨Tripos及2027费须另核。",
+          "outcomes_summary": "已核课程培养／后续研究方向；未取得本阶段独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-history-and-philosophy-of-science-part-iii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part III|History and Philosophy of Science",
+        "name": "科学史与科学哲学（Part III）",
+        "name_en": "History and Philosophy of Science — Part III",
+        "official_url": "https://www.hps.cam.ac.uk/study/undergraduate/partiii",
+        "degree_label": "MSci（本科贯通第四年阶段）",
+        "study_level": "本科贯通硕士阶段",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科贯通课程内Part III升读阶段",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第四年，一个学年",
+        "entry_route": "大学内部Part III升读；须尚未正式获授BA并满足学科与下一年进阶条件。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "campus": null,
+        "language": null,
+        "listing_note": "这是本科贯通课程内的第四年升读阶段，须满足成绩与资格要求，并尚未正式获授BA；不是已经毕业后重新申请的入口。"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-nst-materials-science-part-iii",
+      "before": {
+        "candidate_id": "cambridge-nst-materials-science-part-iii",
+        "route_key": "NST|Part III|Materials Science",
+        "university_id": "cambridge",
+        "name_en": "Materials Science — Part III",
+        "name": "材料科学（Part III）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "MSci本科贯通第四年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_navigation_only": true,
+        "entry_route": "university_internal_part_iii_progression",
+        "requires_prior_degree": false,
+        "official_url": "https://www.msm.cam.ac.uk/ug-study/part-iii",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定ID与审查；eligible parents仅导航，不继承其新生条件，实际进阶逐事实列明。",
+        "excluded_school_sections": [
+          "admissions",
+          "applications"
+        ],
+        "display_proposal": {
+          "name": "材料科学（Part III）",
+          "duration": "NST第四年，一个学年",
+          "entry_summary": "大学内部Part III升读；须尚未领取BA并满足学科与下一年进阶条件。",
+          "tuition_summary": "普通NST仅2026入学参考£44,214／年；当前在读按原届、跨Tripos及2027费须另核。",
+          "outcomes_summary": "已核课程培养／后续研究方向；未取得本阶段独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-materials-science-part-iii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part III|Materials Science",
+        "name": "材料科学（Part III）",
+        "name_en": "Materials Science — Part III",
+        "official_url": "https://www.msm.cam.ac.uk/ug-study/part-iii",
+        "degree_label": "MSci（本科贯通第四年阶段）",
+        "study_level": "本科贯通硕士阶段",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科贯通课程内Part III升读阶段",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第四年，一个学年",
+        "entry_route": "大学内部Part III升读；须尚未正式获授BA并满足学科与下一年进阶条件。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null,
+        "listing_note": "这是本科贯通课程内的第四年升读阶段，须满足成绩与资格要求，并尚未正式获授BA；不是已经毕业后重新申请的入口。"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-nst-physics-part-iii",
+      "before": {
+        "candidate_id": "cambridge-nst-physics-part-iii",
+        "route_key": "NST|Part III|Physics",
+        "university_id": "cambridge",
+        "name_en": "Physics — Part III",
+        "name": "物理学（Part III）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "MSci本科贯通第四年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-mathematics-ba-hons-and-mmath-978e108d0d"
+        ],
+        "parent_navigation_only": true,
+        "entry_route": "university_internal_part_iii_progression",
+        "requires_prior_degree": false,
+        "official_url": "https://www.phy.cam.ac.uk/study/undergraduate/undergraduate-courses/",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定ID与审查；eligible parents仅导航，不继承其新生条件，实际进阶逐事实列明。",
+        "excluded_school_sections": [
+          "admissions",
+          "applications"
+        ],
+        "display_proposal": {
+          "name": "物理学（Part III）",
+          "duration": "NST第四年，一个学年",
+          "entry_summary": "大学内部Part III升读；须尚未领取BA并满足学科与下一年进阶条件。",
+          "tuition_summary": "普通NST仅2026入学参考£44,214／年；当前在读按原届、跨Tripos及2027费须另核。",
+          "outcomes_summary": "已核课程培养／后续研究方向；未取得本阶段独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-physics-part-iii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part III|Physics",
+        "name": "物理学（Part III）",
+        "name_en": "Physics — Part III",
+        "official_url": "https://www.phy.cam.ac.uk/study/undergraduate/undergraduate-courses/",
+        "degree_label": "MSci（本科贯通第四年阶段）",
+        "study_level": "本科贯通硕士阶段",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-mathematics-ba-hons-and-mmath-978e108d0d"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科贯通课程内Part III升读阶段",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第四年，一个学年",
+        "entry_route": "大学内部Part III升读；须尚未正式获授BA并满足学科与下一年进阶条件。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null,
+        "listing_note": "这是本科贯通课程内的第四年升读阶段，须满足成绩与资格要求，并尚未正式获授BA；不是已经毕业后重新申请的入口。"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-nst-systems-biology-part-iii",
+      "before": {
+        "candidate_id": "cambridge-nst-systems-biology-part-iii",
+        "route_key": "NST|Part III|Systems Biology",
+        "university_id": "cambridge",
+        "name_en": "Systems Biology — Part III",
+        "name": "系统生物学（Part III）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "MSci本科贯通第四年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-mathematics-ba-hons-and-mmath-978e108d0d",
+          "cambridge-computer-science-ba-hons-and-meng-a29f97f030",
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_navigation_only": true,
+        "entry_route": "university_internal_part_iii_progression",
+        "requires_prior_degree": false,
+        "official_url": "https://www.gen.cam.ac.uk/undergraduate/nst-part-iii-systems-biology",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定ID与审查；eligible parents仅导航，不继承其新生条件，实际进阶逐事实列明。",
+        "excluded_school_sections": [
+          "admissions",
+          "applications"
+        ],
+        "display_proposal": {
+          "name": "系统生物学（Part III）",
+          "duration": "NST第四年，一个学年",
+          "entry_summary": "大学内部Part III升读；须尚未领取BA并满足学科与下一年进阶条件。",
+          "tuition_summary": "普通NST仅2026入学参考£44,214／年；当前在读按原届、跨Tripos及2027费须另核。",
+          "outcomes_summary": "已核课程培养／后续研究方向；未取得本阶段独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-systems-biology-part-iii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part III|Systems Biology",
+        "name": "系统生物学（Part III）",
+        "name_en": "Systems Biology — Part III",
+        "official_url": "https://www.gen.cam.ac.uk/undergraduate/nst-part-iii-systems-biology",
+        "degree_label": "MSci（本科贯通第四年阶段）",
+        "study_level": "本科贯通硕士阶段",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-mathematics-ba-hons-and-mmath-978e108d0d",
+          "cambridge-computer-science-ba-hons-and-meng-a29f97f030",
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科贯通课程内Part III升读阶段",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第四年，一个学年",
+        "entry_route": "大学内部Part III升读；须尚未正式获授BA并满足学科与下一年进阶条件。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null,
+        "listing_note": "这是本科贯通课程内的第四年升读阶段，须满足成绩与资格要求，并尚未正式获授BA；不是已经毕业后重新申请的入口。"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-nst-quantitative-climate-and-environmental-science-part-iii",
+      "before": {
+        "candidate_id": "cambridge-nst-quantitative-climate-and-environmental-science-part-iii",
+        "route_key": "NST|Part III|Quantitative Climate and Environmental Science",
+        "university_id": "cambridge",
+        "name_en": "Quantitative Climate and Environmental Science — Part III",
+        "name": "定量气候与环境科学（Part III）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "MSci本科贯通第四年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-mathematics-ba-hons-and-mmath-978e108d0d"
+        ],
+        "parent_navigation_only": true,
+        "entry_route": "university_internal_part_iii_progression",
+        "requires_prior_degree": false,
+        "official_url": "https://qces.uk/",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定ID与审查；eligible parents仅导航，不继承其新生条件，实际进阶逐事实列明。",
+        "excluded_school_sections": [
+          "admissions",
+          "applications"
+        ],
+        "display_proposal": {
+          "name": "定量气候与环境科学（Part III）",
+          "duration": "NST第四年，一个学年",
+          "entry_summary": "大学内部Part III升读；须尚未领取BA并满足学科与下一年进阶条件。",
+          "tuition_summary": "普通NST仅2026入学参考£44,214／年；当前在读按原届、跨Tripos及2027费须另核。",
+          "outcomes_summary": "已核课程培养／后续研究方向；未取得本阶段独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-quantitative-climate-and-environmental-science-part-iii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part III|Quantitative Climate and Environmental Science",
+        "name": "定量气候与环境科学（Part III）",
+        "name_en": "Quantitative Climate and Environmental Science — Part III",
+        "official_url": "https://qces.uk/",
+        "degree_label": "MSci（本科贯通第四年阶段）",
+        "study_level": "本科贯通硕士阶段",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-mathematics-ba-hons-and-mmath-978e108d0d"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科贯通课程内Part III升读阶段",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第四年，一个学年",
+        "entry_route": "大学内部Part III升读；须尚未正式获授BA并满足学科与下一年进阶条件。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null,
+        "listing_note": "这是本科贯通课程内的第四年升读阶段，须满足成绩与资格要求，并尚未正式获授BA；不是已经毕业后重新申请的入口。"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-hml-french-language-pathway",
+      "before": {
+        "university_id": "cambridge",
+        "candidate_id": "cambridge-hml-french-language-pathway",
+        "raw_key": "HML|Language pathway|French",
+        "name_en": "History and French",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-history-and-modern-languages-ba-hons-900008025a",
+        "parent_program_ids": [
+          "cambridge-history-and-modern-languages-ba-hons-900008025a"
+        ],
+        "record_type": "named_language_pathway",
+        "entity_type": "language_choice_within_parent_ba",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "历史与法语（HML语言路径）",
+        "degree_label": "BA (Hons) — 历史与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "publication_candidate": true,
+        "status_2027": "explicitly_named_on_parent_2027_entry",
+        "source_ids": [
+          "CAMH9-5eecc965a003b4d6",
+          "CAMLR-955347c22a1e1a37"
+        ]
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "HML|Language pathway|French",
+        "name_en": "History and French",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-history-and-modern-languages-ba-hons-900008025a",
+        "parent_program_ids": [
+          "cambridge-history-and-modern-languages-ba-hons-900008025a"
+        ],
+        "record_type": "本科内部分流与语言路径",
+        "entity_type": "联合BA内具名语言选择",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "历史与法语（HML语言路径）",
+        "degree_label": "BA (Hons) — 历史与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-hml-french-language-pathway",
+        "study_level": "本科",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "intake": "2027父入口列名；未来语种课程按当年确认",
+        "duration": "父BA共4年，含第三年海外；非另加学位",
+        "entry_route": "历史与现代语言母入口内选择；只设进阶：须法语A-level／IB HL或等同资格。",
+        "status": "官网已列；语言层级与适用年份见正文",
+        "counts_as_additional_degree_award": false,
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-lml-french-language-pathway",
+      "before": {
+        "university_id": "cambridge",
+        "candidate_id": "cambridge-lml-french-language-pathway",
+        "raw_key": "LML|Language pathway|French",
+        "name_en": "French and Linguistics",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+        "parent_program_ids": [
+          "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739"
+        ],
+        "record_type": "named_language_pathway",
+        "entity_type": "language_choice_within_parent_ba",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "法语与语言学（LML语言路径）",
+        "degree_label": "BA (Hons) — 语言学与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "publication_candidate": true,
+        "status_2027": "explicitly_named_on_parent_2027_entry",
+        "source_ids": [
+          "CAMH9-781390083896e35d",
+          "CAMLR-6dbcacaabd67777b"
+        ]
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "LML|Language pathway|French",
+        "name_en": "French and Linguistics",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+        "parent_program_ids": [
+          "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739"
+        ],
+        "record_type": "本科内部分流与语言路径",
+        "entity_type": "联合BA内具名语言选择",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "法语与语言学（LML语言路径）",
+        "degree_label": "BA (Hons) — 语言学与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-lml-french-language-pathway",
+        "study_level": "本科",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "intake": "2027父入口列名；未来语种课程按当年确认",
+        "duration": "父BA共4年，含第三年海外；非另加学位",
+        "entry_route": "语言学与现代语言母入口内选择；只设进阶：须法语A-level／IB HL或等同资格。",
+        "status": "官网已列；语言层级与适用年份见正文",
+        "counts_as_additional_degree_award": false,
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-hml-german-language-pathway",
+      "before": {
+        "university_id": "cambridge",
+        "candidate_id": "cambridge-hml-german-language-pathway",
+        "raw_key": "HML|Language pathway|German",
+        "name_en": "History and German",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-history-and-modern-languages-ba-hons-900008025a",
+        "parent_program_ids": [
+          "cambridge-history-and-modern-languages-ba-hons-900008025a"
+        ],
+        "record_type": "named_language_pathway",
+        "entity_type": "language_choice_within_parent_ba",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "历史与德语（HML语言路径）",
+        "degree_label": "BA (Hons) — 历史与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "publication_candidate": true,
+        "status_2027": "explicitly_named_on_parent_2027_entry",
+        "source_ids": [
+          "CAMH9-5eecc965a003b4d6",
+          "CAMLR-955347c22a1e1a37"
+        ]
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "HML|Language pathway|German",
+        "name_en": "History and German",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-history-and-modern-languages-ba-hons-900008025a",
+        "parent_program_ids": [
+          "cambridge-history-and-modern-languages-ba-hons-900008025a"
+        ],
+        "record_type": "本科内部分流与语言路径",
+        "entity_type": "联合BA内具名语言选择",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "历史与德语（HML语言路径）",
+        "degree_label": "BA (Hons) — 历史与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-hml-german-language-pathway",
+        "study_level": "本科",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "intake": "2027父入口列名；未来语种课程按当年确认",
+        "duration": "父BA共4年，含第三年海外；非另加学位",
+        "entry_route": "历史与现代语言母入口内选择；可选择零基础或进阶；进阶须相应语言A-level／IB HL或等同资格。",
+        "status": "官网已列；语言层级与适用年份见正文",
+        "counts_as_additional_degree_award": false,
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-lml-german-language-pathway",
+      "before": {
+        "university_id": "cambridge",
+        "candidate_id": "cambridge-lml-german-language-pathway",
+        "raw_key": "LML|Language pathway|German",
+        "name_en": "German and Linguistics",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+        "parent_program_ids": [
+          "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739"
+        ],
+        "record_type": "named_language_pathway",
+        "entity_type": "language_choice_within_parent_ba",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "德语与语言学（LML语言路径）",
+        "degree_label": "BA (Hons) — 语言学与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "publication_candidate": true,
+        "status_2027": "explicitly_named_on_parent_2027_entry",
+        "source_ids": [
+          "CAMH9-781390083896e35d",
+          "CAMLR-6dbcacaabd67777b"
+        ]
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "LML|Language pathway|German",
+        "name_en": "German and Linguistics",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+        "parent_program_ids": [
+          "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739"
+        ],
+        "record_type": "本科内部分流与语言路径",
+        "entity_type": "联合BA内具名语言选择",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "德语与语言学（LML语言路径）",
+        "degree_label": "BA (Hons) — 语言学与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-lml-german-language-pathway",
+        "study_level": "本科",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "intake": "2027父入口列名；未来语种课程按当年确认",
+        "duration": "父BA共4年，含第三年海外；非另加学位",
+        "entry_route": "语言学与现代语言母入口内选择；可选择零基础或进阶；进阶须相应语言A-level／IB HL或等同资格。",
+        "status": "官网已列；语言层级与适用年份见正文",
+        "counts_as_additional_degree_award": false,
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-hml-italian-language-pathway",
+      "before": {
+        "university_id": "cambridge",
+        "candidate_id": "cambridge-hml-italian-language-pathway",
+        "raw_key": "HML|Language pathway|Italian",
+        "name_en": "History and Italian",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-history-and-modern-languages-ba-hons-900008025a",
+        "parent_program_ids": [
+          "cambridge-history-and-modern-languages-ba-hons-900008025a"
+        ],
+        "record_type": "named_language_pathway",
+        "entity_type": "language_choice_within_parent_ba",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "历史与意大利语（HML语言路径）",
+        "degree_label": "BA (Hons) — 历史与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "publication_candidate": true,
+        "status_2027": "explicitly_named_on_parent_2027_entry",
+        "source_ids": [
+          "CAMH9-5eecc965a003b4d6",
+          "CAMLR-955347c22a1e1a37"
+        ]
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "HML|Language pathway|Italian",
+        "name_en": "History and Italian",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-history-and-modern-languages-ba-hons-900008025a",
+        "parent_program_ids": [
+          "cambridge-history-and-modern-languages-ba-hons-900008025a"
+        ],
+        "record_type": "本科内部分流与语言路径",
+        "entity_type": "联合BA内具名语言选择",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "历史与意大利语（HML语言路径）",
+        "degree_label": "BA (Hons) — 历史与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-hml-italian-language-pathway",
+        "study_level": "本科",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "intake": "2027父入口列名；未来语种课程按当年确认",
+        "duration": "父BA共4年，含第三年海外；非另加学位",
+        "entry_route": "历史与现代语言母入口内选择；可选择零基础或进阶；进阶须相应语言A-level／IB HL或等同资格。",
+        "status": "官网已列；语言层级与适用年份见正文",
+        "counts_as_additional_degree_award": false,
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-lml-italian-language-pathway",
+      "before": {
+        "university_id": "cambridge",
+        "candidate_id": "cambridge-lml-italian-language-pathway",
+        "raw_key": "LML|Language pathway|Italian",
+        "name_en": "Italian and Linguistics",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+        "parent_program_ids": [
+          "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739"
+        ],
+        "record_type": "named_language_pathway",
+        "entity_type": "language_choice_within_parent_ba",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "意大利语与语言学（LML语言路径）",
+        "degree_label": "BA (Hons) — 语言学与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "publication_candidate": true,
+        "status_2027": "explicitly_named_on_parent_2027_entry",
+        "source_ids": [
+          "CAMH9-781390083896e35d",
+          "CAMLR-6dbcacaabd67777b"
+        ]
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "LML|Language pathway|Italian",
+        "name_en": "Italian and Linguistics",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+        "parent_program_ids": [
+          "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739"
+        ],
+        "record_type": "本科内部分流与语言路径",
+        "entity_type": "联合BA内具名语言选择",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "意大利语与语言学（LML语言路径）",
+        "degree_label": "BA (Hons) — 语言学与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-lml-italian-language-pathway",
+        "study_level": "本科",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "intake": "2027父入口列名；未来语种课程按当年确认",
+        "duration": "父BA共4年，含第三年海外；非另加学位",
+        "entry_route": "语言学与现代语言母入口内选择；可选择零基础或进阶；进阶须相应语言A-level／IB HL或等同资格。",
+        "status": "官网已列；语言层级与适用年份见正文",
+        "counts_as_additional_degree_award": false,
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-hml-portuguese-language-pathway",
+      "before": {
+        "university_id": "cambridge",
+        "candidate_id": "cambridge-hml-portuguese-language-pathway",
+        "raw_key": "HML|Language pathway|Portuguese",
+        "name_en": "History and Portuguese",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-history-and-modern-languages-ba-hons-900008025a",
+        "parent_program_ids": [
+          "cambridge-history-and-modern-languages-ba-hons-900008025a"
+        ],
+        "record_type": "named_language_pathway",
+        "entity_type": "language_choice_within_parent_ba",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "历史与葡萄牙语（HML语言路径）",
+        "degree_label": "BA (Hons) — 历史与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "publication_candidate": true,
+        "status_2027": "explicitly_named_on_parent_2027_entry",
+        "source_ids": [
+          "CAMH9-5eecc965a003b4d6",
+          "CAMLR-955347c22a1e1a37"
+        ]
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "HML|Language pathway|Portuguese",
+        "name_en": "History and Portuguese",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-history-and-modern-languages-ba-hons-900008025a",
+        "parent_program_ids": [
+          "cambridge-history-and-modern-languages-ba-hons-900008025a"
+        ],
+        "record_type": "本科内部分流与语言路径",
+        "entity_type": "联合BA内具名语言选择",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "历史与葡萄牙语（HML语言路径）",
+        "degree_label": "BA (Hons) — 历史与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-hml-portuguese-language-pathway",
+        "study_level": "本科",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "intake": "2027父入口列名；未来语种课程按当年确认",
+        "duration": "父BA共4年，含第三年海外；非另加学位",
+        "entry_route": "历史与现代语言母入口内选择；可选择零基础或进阶；进阶须相应语言A-level／IB HL或等同资格。",
+        "status": "官网已列；语言层级与适用年份见正文",
+        "counts_as_additional_degree_award": false,
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-lml-portuguese-language-pathway",
+      "before": {
+        "university_id": "cambridge",
+        "candidate_id": "cambridge-lml-portuguese-language-pathway",
+        "raw_key": "LML|Language pathway|Portuguese",
+        "name_en": "Portuguese and Linguistics",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+        "parent_program_ids": [
+          "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739"
+        ],
+        "record_type": "named_language_pathway",
+        "entity_type": "language_choice_within_parent_ba",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "葡萄牙语与语言学（LML语言路径）",
+        "degree_label": "BA (Hons) — 语言学与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "publication_candidate": true,
+        "status_2027": "explicitly_named_on_parent_2027_entry",
+        "source_ids": [
+          "CAMH9-781390083896e35d",
+          "CAMLR-6dbcacaabd67777b"
+        ]
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "LML|Language pathway|Portuguese",
+        "name_en": "Portuguese and Linguistics",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+        "parent_program_ids": [
+          "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739"
+        ],
+        "record_type": "本科内部分流与语言路径",
+        "entity_type": "联合BA内具名语言选择",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "葡萄牙语与语言学（LML语言路径）",
+        "degree_label": "BA (Hons) — 语言学与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-lml-portuguese-language-pathway",
+        "study_level": "本科",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "intake": "2027父入口列名；未来语种课程按当年确认",
+        "duration": "父BA共4年，含第三年海外；非另加学位",
+        "entry_route": "语言学与现代语言母入口内选择；可选择零基础或进阶；进阶须相应语言A-level／IB HL或等同资格。",
+        "status": "官网已列；语言层级与适用年份见正文",
+        "counts_as_additional_degree_award": false,
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-hml-russian-language-pathway",
+      "before": {
+        "university_id": "cambridge",
+        "candidate_id": "cambridge-hml-russian-language-pathway",
+        "raw_key": "HML|Language pathway|Russian",
+        "name_en": "History and Russian",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-history-and-modern-languages-ba-hons-900008025a",
+        "parent_program_ids": [
+          "cambridge-history-and-modern-languages-ba-hons-900008025a"
+        ],
+        "record_type": "named_language_pathway",
+        "entity_type": "language_choice_within_parent_ba",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "历史与俄语（HML语言路径）",
+        "degree_label": "BA (Hons) — 历史与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "publication_candidate": true,
+        "status_2027": "explicitly_named_on_parent_2027_entry",
+        "source_ids": [
+          "CAMH9-5eecc965a003b4d6",
+          "CAMLR-955347c22a1e1a37"
+        ]
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "HML|Language pathway|Russian",
+        "name_en": "History and Russian",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-history-and-modern-languages-ba-hons-900008025a",
+        "parent_program_ids": [
+          "cambridge-history-and-modern-languages-ba-hons-900008025a"
+        ],
+        "record_type": "本科内部分流与语言路径",
+        "entity_type": "联合BA内具名语言选择",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "历史与俄语（HML语言路径）",
+        "degree_label": "BA (Hons) — 历史与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-hml-russian-language-pathway",
+        "study_level": "本科",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "intake": "2027父入口列名；未来语种课程按当年确认",
+        "duration": "父BA共4年，含第三年海外；非另加学位",
+        "entry_route": "历史与现代语言母入口内选择；可选择零基础或进阶；进阶须相应语言A-level／IB HL或等同资格。",
+        "status": "官网已列；语言层级与适用年份见正文",
+        "counts_as_additional_degree_award": false,
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-lml-russian-language-pathway",
+      "before": {
+        "university_id": "cambridge",
+        "candidate_id": "cambridge-lml-russian-language-pathway",
+        "raw_key": "LML|Language pathway|Russian",
+        "name_en": "Russian and Linguistics",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+        "parent_program_ids": [
+          "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739"
+        ],
+        "record_type": "named_language_pathway",
+        "entity_type": "language_choice_within_parent_ba",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "俄语与语言学（LML语言路径）",
+        "degree_label": "BA (Hons) — 语言学与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "publication_candidate": true,
+        "status_2027": "explicitly_named_on_parent_2027_entry",
+        "source_ids": [
+          "CAMH9-781390083896e35d",
+          "CAMLR-6dbcacaabd67777b"
+        ]
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "LML|Language pathway|Russian",
+        "name_en": "Russian and Linguistics",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+        "parent_program_ids": [
+          "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739"
+        ],
+        "record_type": "本科内部分流与语言路径",
+        "entity_type": "联合BA内具名语言选择",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "俄语与语言学（LML语言路径）",
+        "degree_label": "BA (Hons) — 语言学与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-lml-russian-language-pathway",
+        "study_level": "本科",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "intake": "2027父入口列名；未来语种课程按当年确认",
+        "duration": "父BA共4年，含第三年海外；非另加学位",
+        "entry_route": "语言学与现代语言母入口内选择；可选择零基础或进阶；进阶须相应语言A-level／IB HL或等同资格。",
+        "status": "官网已列；语言层级与适用年份见正文",
+        "counts_as_additional_degree_award": false,
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-hml-spanish-language-pathway",
+      "before": {
+        "university_id": "cambridge",
+        "candidate_id": "cambridge-hml-spanish-language-pathway",
+        "raw_key": "HML|Language pathway|Spanish",
+        "name_en": "History and Spanish",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-history-and-modern-languages-ba-hons-900008025a",
+        "parent_program_ids": [
+          "cambridge-history-and-modern-languages-ba-hons-900008025a"
+        ],
+        "record_type": "named_language_pathway",
+        "entity_type": "language_choice_within_parent_ba",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "历史与西班牙语（HML语言路径）",
+        "degree_label": "BA (Hons) — 历史与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "publication_candidate": true,
+        "status_2027": "explicitly_named_on_parent_2027_entry",
+        "source_ids": [
+          "CAMH9-5eecc965a003b4d6",
+          "CAMLR-955347c22a1e1a37"
+        ]
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "HML|Language pathway|Spanish",
+        "name_en": "History and Spanish",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-history-and-modern-languages-ba-hons-900008025a",
+        "parent_program_ids": [
+          "cambridge-history-and-modern-languages-ba-hons-900008025a"
+        ],
+        "record_type": "本科内部分流与语言路径",
+        "entity_type": "联合BA内具名语言选择",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "历史与西班牙语（HML语言路径）",
+        "degree_label": "BA (Hons) — 历史与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-hml-spanish-language-pathway",
+        "study_level": "本科",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "intake": "2027父入口列名；未来语种课程按当年确认",
+        "duration": "父BA共4年，含第三年海外；非另加学位",
+        "entry_route": "历史与现代语言母入口内选择；可选择零基础或进阶；进阶须相应语言A-level／IB HL或等同资格。",
+        "status": "官网已列；语言层级与适用年份见正文",
+        "counts_as_additional_degree_award": false,
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-lml-spanish-language-pathway",
+      "before": {
+        "university_id": "cambridge",
+        "candidate_id": "cambridge-lml-spanish-language-pathway",
+        "raw_key": "LML|Language pathway|Spanish",
+        "name_en": "Spanish and Linguistics",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+        "parent_program_ids": [
+          "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739"
+        ],
+        "record_type": "named_language_pathway",
+        "entity_type": "language_choice_within_parent_ba",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "西班牙语与语言学（LML语言路径）",
+        "degree_label": "BA (Hons) — 语言学与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "publication_candidate": true,
+        "status_2027": "explicitly_named_on_parent_2027_entry",
+        "source_ids": [
+          "CAMH9-781390083896e35d",
+          "CAMLR-6dbcacaabd67777b"
+        ]
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "LML|Language pathway|Spanish",
+        "name_en": "Spanish and Linguistics",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons",
+        "parent_inventory_id": "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739",
+        "parent_program_ids": [
+          "cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739"
+        ],
+        "record_type": "本科内部分流与语言路径",
+        "entity_type": "联合BA内具名语言选择",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application",
+        "source_period": "2027父招生入口；语种课程池为2026-09-13当前可见及其中明确的2026/27内容，未来年度不保证",
+        "name": "西班牙语与语言学（LML语言路径）",
+        "degree_label": "BA (Hons) — 语言学与现代语言内部语言路径",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-lml-spanish-language-pathway",
+        "study_level": "本科",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "intake": "2027父入口列名；未来语种课程按当年确认",
+        "duration": "父BA共4年，含第三年海外；非另加学位",
+        "entry_route": "语言学与现代语言母入口内选择；可选择零基础或进阶；进阶须相应语言A-level／IB HL或等同资格。",
+        "status": "官网已列；语言层级与适用年份见正文",
+        "counts_as_additional_degree_award": false,
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-mml-classical-latin-ia-ib-pathway",
+      "before": {
+        "university_id": "cambridge",
+        "candidate_id": "cambridge-mml-classical-latin-ia-ib-pathway",
+        "raw_key": "MML|Parts IA and IB|Classical Latin",
+        "name_en": "Classical Latin within Modern and Medieval Languages",
+        "official_url": "https://www.mmll.cam.ac.uk/subjects/classical-latin-classical-greek-classics",
+        "parent_inventory_id": "cambridge-modern-and-medieval-languages-ba-hons-6c89239887",
+        "parent_program_ids": [
+          "cambridge-modern-and-medieval-languages-ba-hons-6c89239887"
+        ],
+        "record_type": "classical_language_stage_pathway",
+        "entity_type": "mml_classical_language_parts_ia_ib",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application_then_parts_ia_ib",
+        "source_period": "2027 MML父招生入口；古典路径2026年10月起规则及2026/27 Part IA考核，未来课程仍待确认",
+        "name": "古典拉丁语（MML前两年路径）",
+        "degree_label": "BA (Hons) — MML古典语言IA/IB路径",
+        "counts_as_additional_admission_programme": false,
+        "publication_candidate": true,
+        "status_2027": "parent_2027_language_option_and_current_classics_stage_policy",
+        "source_ids": [
+          "CAMLR-216d4bd4ac454154",
+          "CAMF9-d6f6ef68843f835c"
+        ]
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "MML|Parts IA and IB|Classical Latin",
+        "name_en": "Classical Latin within Modern and Medieval Languages",
+        "official_url": "https://www.mmll.cam.ac.uk/subjects/classical-latin-classical-greek-classics",
+        "parent_inventory_id": "cambridge-modern-and-medieval-languages-ba-hons-6c89239887",
+        "parent_program_ids": [
+          "cambridge-modern-and-medieval-languages-ba-hons-6c89239887"
+        ],
+        "record_type": "本科内部分流与语言路径",
+        "entity_type": "MML学位内古典语言IA／IB阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application_then_parts_ia_ib",
+        "source_period": "2027 MML父招生入口；古典路径2026年10月起规则及2026/27 Part IA考核，未来课程仍待确认",
+        "name": "古典拉丁语（MML前两年路径）",
+        "degree_label": "BA (Hons) — MML古典语言IA/IB路径",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-mml-classical-latin-ia-ib-pathway",
+        "study_level": "本科",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "intake": "2027父入口；拉丁初学自2026年10月起",
+        "duration": "MML父BA共4年；古典语言路径限IA、IB前两年",
+        "entry_route": "MML内选一现代语＋本古典语；至少一种进阶，海外年后只继续现代语",
+        "status": "官网已列；语言层级与适用年份见正文",
+        "counts_as_additional_degree_award": false,
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.mmll.cam.ac.uk/subjects/classical-latin-classical-greek-classics"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-mml-classical-greek-ia-ib-pathway",
+      "before": {
+        "university_id": "cambridge",
+        "candidate_id": "cambridge-mml-classical-greek-ia-ib-pathway",
+        "raw_key": "MML|Parts IA and IB|Classical Greek",
+        "name_en": "Classical Greek within Modern and Medieval Languages",
+        "official_url": "https://www.mmll.cam.ac.uk/subjects/classical-latin-classical-greek-classics",
+        "parent_inventory_id": "cambridge-modern-and-medieval-languages-ba-hons-6c89239887",
+        "parent_program_ids": [
+          "cambridge-modern-and-medieval-languages-ba-hons-6c89239887"
+        ],
+        "record_type": "classical_language_stage_pathway",
+        "entity_type": "mml_classical_language_parts_ia_ib",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application_then_parts_ia_ib",
+        "source_period": "2027 MML父招生入口；古典路径2026年10月起规则及2026/27 Part IA考核，未来课程仍待确认",
+        "name": "古典希腊语（MML前两年路径）",
+        "degree_label": "BA (Hons) — MML古典语言IA/IB路径",
+        "counts_as_additional_admission_programme": false,
+        "publication_candidate": true,
+        "status_2027": "parent_2027_language_option_and_current_classics_stage_policy",
+        "source_ids": [
+          "CAMLR-216d4bd4ac454154",
+          "CAMF9-d6f6ef68843f835c"
+        ]
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "MML|Parts IA and IB|Classical Greek",
+        "name_en": "Classical Greek within Modern and Medieval Languages",
+        "official_url": "https://www.mmll.cam.ac.uk/subjects/classical-latin-classical-greek-classics",
+        "parent_inventory_id": "cambridge-modern-and-medieval-languages-ba-hons-6c89239887",
+        "parent_program_ids": [
+          "cambridge-modern-and-medieval-languages-ba-hons-6c89239887"
+        ],
+        "record_type": "本科内部分流与语言路径",
+        "entity_type": "MML学位内古典语言IA／IB阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "entry_stage": "choice_with_parent_application_then_parts_ia_ib",
+        "source_period": "2027 MML父招生入口；古典路径2026年10月起规则及2026/27 Part IA考核，未来课程仍待确认",
+        "name": "古典希腊语（MML前两年路径）",
+        "degree_label": "BA (Hons) — MML古典语言IA/IB路径",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-mml-classical-greek-ia-ib-pathway",
+        "study_level": "本科",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "intake": "2027父入口；希腊语初学／进阶按当前路径规则",
+        "duration": "MML父BA共4年；古典语言路径限IA、IB前两年",
+        "entry_route": "MML内选一现代语＋本古典语；至少一种进阶，海外年后只继续现代语",
+        "status": "官网已列；语言层级与适用年份见正文",
+        "counts_as_additional_degree_award": false,
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.mmll.cam.ac.uk/subjects/classical-latin-classical-greek-classics"
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-aerospace-and-aerothermal-engineering-710e06e77b",
+      "before": {
+        "id": "cambridge-aerospace-and-aerothermal-engineering-710e06e77b",
+        "university_id": "cambridge",
+        "name_en": "Aerospace and Aerothermal Engineering",
+        "name": "航空与航热工程方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/753/",
+        "raw_key": "engineering-internal:aerospace",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng"
+      },
+      "after": {
+        "id": "cambridge-aerospace-and-aerothermal-engineering-710e06e77b",
+        "university_id": "cambridge",
+        "name_en": "Aerospace and Aerothermal Engineering",
+        "name": "航空与航热工程方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/753/",
+        "raw_key": "engineering-internal:aerospace",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；校内转入、升读资格与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "study_level": "本科",
+        "entity_type": "工程学位内专业领域",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-bioengineering-11b0a6d48b",
+      "before": {
+        "id": "cambridge-bioengineering-11b0a6d48b",
+        "university_id": "cambridge",
+        "name_en": "Bioengineering",
+        "name": "生物工程方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/813/",
+        "raw_key": "engineering-internal:bioengineering",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng"
+      },
+      "after": {
+        "id": "cambridge-bioengineering-11b0a6d48b",
+        "university_id": "cambridge",
+        "name_en": "Bioengineering",
+        "name": "生物工程方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/813/",
+        "raw_key": "engineering-internal:bioengineering",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；校内转入、升读资格与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "study_level": "本科",
+        "entity_type": "工程学位内专业领域",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-civil-engineering-616ebed9f9",
+      "before": {
+        "id": "cambridge-civil-engineering-616ebed9f9",
+        "university_id": "cambridge",
+        "name_en": "Civil Engineering",
+        "name": "土木、结构与环境工程方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/750/",
+        "raw_key": "engineering-internal:civil",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng"
+      },
+      "after": {
+        "id": "cambridge-civil-engineering-616ebed9f9",
+        "university_id": "cambridge",
+        "name_en": "Civil Engineering",
+        "name": "土木、结构与环境工程方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/750/",
+        "raw_key": "engineering-internal:civil",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；校内转入、升读资格与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "study_level": "本科",
+        "entity_type": "工程学位内专业领域",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-electrical-and-electronic-engineering-01ce26bb79",
+      "before": {
+        "id": "cambridge-electrical-and-electronic-engineering-01ce26bb79",
+        "university_id": "cambridge",
+        "name_en": "Electrical and Electronic Engineering",
+        "name": "电气与电子工程方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/797/",
+        "raw_key": "engineering-internal:electrical-electronic",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng"
+      },
+      "after": {
+        "id": "cambridge-electrical-and-electronic-engineering-01ce26bb79",
+        "university_id": "cambridge",
+        "name_en": "Electrical and Electronic Engineering",
+        "name": "电气与电子工程方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/797/",
+        "raw_key": "engineering-internal:electrical-electronic",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；校内转入、升读资格与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "study_level": "本科",
+        "entity_type": "工程学位内专业领域",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-electrical-and-information-sciences-9458f36388",
+      "before": {
+        "id": "cambridge-electrical-and-information-sciences-9458f36388",
+        "university_id": "cambridge",
+        "name_en": "Electrical and Information Sciences",
+        "name": "电气与信息科学方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/806/",
+        "raw_key": "engineering-internal:electrical-information",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng"
+      },
+      "after": {
+        "id": "cambridge-electrical-and-information-sciences-9458f36388",
+        "university_id": "cambridge",
+        "name_en": "Electrical and Information Sciences",
+        "name": "电气与信息科学方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/806/",
+        "raw_key": "engineering-internal:electrical-information",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；校内转入、升读资格与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "study_level": "本科",
+        "entity_type": "工程学位内专业领域",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-energy-sustainability-and-the-environment-b919eb087c",
+      "before": {
+        "id": "cambridge-energy-sustainability-and-the-environment-b919eb087c",
+        "university_id": "cambridge",
+        "name_en": "Energy, Sustainability and the Environment",
+        "name": "能源、可持续发展与环境方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/764/",
+        "raw_key": "engineering-internal:energy",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng"
+      },
+      "after": {
+        "id": "cambridge-energy-sustainability-and-the-environment-b919eb087c",
+        "university_id": "cambridge",
+        "name_en": "Energy, Sustainability and the Environment",
+        "name": "能源、可持续发展与环境方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/764/",
+        "raw_key": "engineering-internal:energy",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；校内转入、升读资格与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "study_level": "本科",
+        "entity_type": "工程学位内专业领域",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-information-and-computer-engineering-57da9c6a7a",
+      "before": {
+        "id": "cambridge-information-and-computer-engineering-57da9c6a7a",
+        "university_id": "cambridge",
+        "name_en": "Information and Computer Engineering",
+        "name": "信息与计算机工程方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/803/",
+        "raw_key": "engineering-internal:information-computer",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng"
+      },
+      "after": {
+        "id": "cambridge-information-and-computer-engineering-57da9c6a7a",
+        "university_id": "cambridge",
+        "name_en": "Information and Computer Engineering",
+        "name": "信息与计算机工程方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/803/",
+        "raw_key": "engineering-internal:information-computer",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；校内转入、升读资格与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "study_level": "本科",
+        "entity_type": "工程学位内专业领域",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-instrumentation-and-control-0c6c8d07d5",
+      "before": {
+        "id": "cambridge-instrumentation-and-control-0c6c8d07d5",
+        "university_id": "cambridge",
+        "name_en": "Instrumentation and Control",
+        "name": "仪器与控制方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/810/",
+        "raw_key": "engineering-internal:instrumentation",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng"
+      },
+      "after": {
+        "id": "cambridge-instrumentation-and-control-0c6c8d07d5",
+        "university_id": "cambridge",
+        "name_en": "Instrumentation and Control",
+        "name": "仪器与控制方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/810/",
+        "raw_key": "engineering-internal:instrumentation",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；校内转入、升读资格与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "study_level": "本科",
+        "entity_type": "工程学位内专业领域",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-mechanical-engineering-ad24ab5aa4",
+      "before": {
+        "id": "cambridge-mechanical-engineering-ad24ab5aa4",
+        "university_id": "cambridge",
+        "name_en": "Mechanical Engineering",
+        "name": "机械工程方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/801/",
+        "raw_key": "engineering-internal:mechanical",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng"
+      },
+      "after": {
+        "id": "cambridge-mechanical-engineering-ad24ab5aa4",
+        "university_id": "cambridge",
+        "name_en": "Mechanical Engineering",
+        "name": "机械工程方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/801/",
+        "raw_key": "engineering-internal:mechanical",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；校内转入、升读资格与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "study_level": "本科",
+        "entity_type": "工程学位内专业领域",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-general-engineering-3db0e0fe15",
+      "before": {
+        "id": "cambridge-general-engineering-3db0e0fe15",
+        "university_id": "cambridge",
+        "name_en": "General Engineering",
+        "name": "通用工程方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/459/",
+        "raw_key": "engineering-internal:general-engineering",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng"
+      },
+      "after": {
+        "id": "cambridge-general-engineering-3db0e0fe15",
+        "university_id": "cambridge",
+        "name_en": "General Engineering",
+        "name": "通用工程方向",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://teaching.eng.cam.ac.uk/node/459/",
+        "raw_key": "engineering-internal:general-engineering",
+        "record_type": "工程学位内专业领域",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA第3年；符合升读条件可续IIB第4年",
+        "campus": "Cambridge；具体教学楼及项目地点按模块安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；校内转入、升读资格与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b"
+        ],
+        "parent_inventory_id": "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+        "parent_name_en": "Engineering, BA (Hons) and MEng",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "study_level": "本科",
+        "entity_type": "工程学位内专业领域",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-manufacturing-engineering-tripos-0ce3e87d78",
+      "before": {
+        "id": "cambridge-manufacturing-engineering-tripos-0ce3e87d78",
+        "university_id": "cambridge",
+        "name_en": "Manufacturing Engineering Tripos",
+        "name": "制造工程Tripos（校内转入）",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://www.ifm.eng.cam.ac.uk/education/met/52212/",
+        "raw_key": "engineering-internal:manufacturing-engineering",
+        "record_type": "在读转入Tripos",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA一年；符合入口及升读条件可加IIB一年",
+        "campus": "West Cambridge IfM；IIA部分在Trumpington Street，另有企业项目",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+          "cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9",
+          "cambridge-medicine-mb-and-bchir-b4f8b5b9d3",
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-veterinary-medicine-vetmb-3d7ab7d67e"
+        ],
+        "relationship_note": "父项表示官方确认可申请IIA的来源；不保证各来源均可升MET IIB。化工升IIB冲突及自然／医／兽医仅一年明确另列。"
+      },
+      "after": {
+        "id": "cambridge-manufacturing-engineering-tripos-0ce3e87d78",
+        "university_id": "cambridge",
+        "name_en": "Manufacturing Engineering Tripos",
+        "name": "制造工程Tripos（校内转入）",
+        "degree_label": "BA (Hons) / MEng",
+        "official_url": "https://www.ifm.eng.cam.ac.uk/education/met/52212/",
+        "raw_key": "engineering-internal:manufacturing-engineering",
+        "record_type": "在读转入Tripos",
+        "subject": "工程",
+        "subjects": [
+          "工程"
+        ],
+        "intake": "当前校内路线；2027新生未来分流年度另核",
+        "duration": "IIA一年；符合入口及升读条件可加IIB一年",
+        "campus": "West Cambridge IfM；IIA部分在Trumpington Street，另有企业项目",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "source_period": "当前2026–27系内目录／2025–26手册；未来届次需再核",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；校内转入、升读资格与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-engineering-ba-hons-and-meng-329b6daa0b",
+          "cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9",
+          "cambridge-medicine-mb-and-bchir-b4f8b5b9d3",
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-veterinary-medicine-vetmb-3d7ab7d67e"
+        ],
+        "relationship_note": "父项表示官方确认可申请IIA的来源；不保证各来源均可升MET IIB。化工升IIB冲突及自然／医／兽医仅一年明确另列。",
+        "study_level": "本科",
+        "entity_type": "在读转入Tripos",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    },
+    {
+      "id": "cambridge-management-studies-tripos-70c51da02b",
+      "before": {
+        "id": "cambridge-management-studies-tripos-70c51da02b",
+        "university_id": "cambridge",
+        "name_en": "Management Studies Tripos",
+        "name": "管理学Tripos（校内转入）",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/",
+        "raw_key": "engineering-internal:management-studies",
+        "record_type": "在读转入Tripos",
+        "subject": "商科",
+        "subjects": [
+          "商科"
+        ],
+        "intake": "校内转入；2027/28预计条件另列",
+        "duration": "一年、约9个月；此前已在剑桥本科读2或3年",
+        "campus": "Cambridge；外部机构项目地点按实际安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/",
+        "source_period": "2027/28预计招生；当前实际课程及2025规章",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route",
+        "parent_program_ids": [],
+        "relationship_note": "本校多个Tripos可按在读阶段申请；没有唯一父课程，不把Engineering列为唯一或必要来源。"
+      },
+      "after": {
+        "id": "cambridge-management-studies-tripos-70c51da02b",
+        "university_id": "cambridge",
+        "name_en": "Management Studies Tripos",
+        "name": "管理学Tripos（校内转入）",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/",
+        "raw_key": "engineering-internal:management-studies",
+        "record_type": "在读转入Tripos",
+        "subject": "商科",
+        "subjects": [
+          "商科"
+        ],
+        "intake": "校内转入；2027/28预计条件另列",
+        "duration": "一年、约9个月；此前已在剑桥本科读2或3年",
+        "campus": "Cambridge；外部机构项目地点按实际安排",
+        "language": "英语；所选外语模块另按课程要求",
+        "discovery_source_url": "https://www.jbs.cam.ac.uk/programmes/undergraduate/",
+        "source_period": "2027/28预计招生；当前实际课程及2025规章",
+        "entry_route": "仅现有剑桥本科生内部申请；不是独立高中或校外大学转入入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；校内转入、升读资格与适用年份见正文",
+        "parent_program_ids": [],
+        "relationship_note": "本校多个Tripos可按在读阶段申请；没有唯一父课程，不把Engineering列为唯一或必要来源。",
+        "study_level": "本科",
+        "entity_type": "在读转入Tripos",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Author-reviewed identity and sources retained; Chinese display and explicit course relationships; no additional independent degree award."
+    }
+  ],
+  "display_changes": [
+    {
+      "inventory_id": "cambridge-nst-history-and-philosophy-of-science-part-iii",
+      "field": "entry_summary",
+      "before": "大学内部Part III升读；须尚未领取BA并满足学科与下一年进阶条件。",
+      "after": "大学内部Part III升读；须尚未正式获授BA并满足学科与下一年进阶条件。",
+      "reason": "Clarifies formal BA award, rather than physical collection of a diploma; no eligibility change."
+    },
+    {
+      "inventory_id": "cambridge-nst-materials-science-part-iii",
+      "field": "entry_summary",
+      "before": "大学内部Part III升读；须尚未领取BA并满足学科与下一年进阶条件。",
+      "after": "大学内部Part III升读；须尚未正式获授BA并满足学科与下一年进阶条件。",
+      "reason": "Clarifies formal BA award, rather than physical collection of a diploma; no eligibility change."
+    },
+    {
+      "inventory_id": "cambridge-nst-physics-part-iii",
+      "field": "entry_summary",
+      "before": "大学内部Part III升读；须尚未领取BA并满足学科与下一年进阶条件。",
+      "after": "大学内部Part III升读；须尚未正式获授BA并满足学科与下一年进阶条件。",
+      "reason": "Clarifies formal BA award, rather than physical collection of a diploma; no eligibility change."
+    },
+    {
+      "inventory_id": "cambridge-nst-systems-biology-part-iii",
+      "field": "entry_summary",
+      "before": "大学内部Part III升读；须尚未领取BA并满足学科与下一年进阶条件。",
+      "after": "大学内部Part III升读；须尚未正式获授BA并满足学科与下一年进阶条件。",
+      "reason": "Clarifies formal BA award, rather than physical collection of a diploma; no eligibility change."
+    },
+    {
+      "inventory_id": "cambridge-nst-quantitative-climate-and-environmental-science-part-iii",
+      "field": "entry_summary",
+      "before": "大学内部Part III升读；须尚未领取BA并满足学科与下一年进阶条件。",
+      "after": "大学内部Part III升读；须尚未正式获授BA并满足学科与下一年进阶条件。",
+      "reason": "Clarifies formal BA award, rather than physical collection of a diploma; no eligibility change."
+    }
+  ],
+  "normalisation_review": {
+    "path": "scratch/full-catalog/root/release30-normalisation-review/independent-review.json",
+    "sha256": "2dfacbacc93d1f9ef9fd5964076f59ec627d8b473cb8140d50631e0d70a3e312",
+    "freeze_sha256": "84ddf08f0d4b4f3b52a45e7b4474b0ed5a7063883f4ca7a4ae5afef2926355bf"
+  },
+  "natsci_held_identities": [
+    {
+      "route_key": "NST|Part II|Ecology",
+      "name_en": "Ecology",
+      "name": "生态学",
+      "stage": "Part II",
+      "record_type_proposal": "specialisation",
+      "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+      "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+      "award_scope": "本科BA内第三年学科；不独立高中直入",
+      "direct_school_entry": false,
+      "listed_2027_admissions": true,
+      "listed_department_2026_27": false,
+      "disposition": "held_identity_stage_not_independently_proven",
+      "source_ids": [
+        "CAMNST-admissions-outline-2027",
+        "CAMNST-year3",
+        "CAMNST-reporter6811-pdf",
+        "CAMNST16-plants-part2",
+        "CAMNST16-zoo-part2"
+      ],
+      "checked_at": "2026-09-13",
+      "scope_note": "2027本科招生总览列Ecology；现行2026–27 NST第三年页面未独立列名，2026年1月刊Reg25也未列该考试科目。植物系明确描述Part II Plant Sciences (Ecology)，并说生态学习可在Plant Sciences或Zoology承载，未证明一个独立Ecology Part II class-list。因此不新增独立stage；已核植物生态内部课程的四生态模块、项目与综述，并保留未来身份与生效届次待核。",
+      "existing_inventory_match": null,
+      "import_ready": false
+    },
+    {
+      "route_key": "NST|Part II|Neuroscience",
+      "name_en": "Neuroscience",
+      "name": "神经科学",
+      "stage": "Part II",
+      "record_type_proposal": "specialisation",
+      "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+      "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+      "award_scope": "本科BA内第三年学科；不独立高中直入",
+      "direct_school_entry": false,
+      "listed_2027_admissions": true,
+      "listed_department_2026_27": false,
+      "disposition": "held_identity_stage_not_independently_proven",
+      "source_ids": [
+        "CAMNST-admissions-outline-2027",
+        "CAMNST-year3",
+        "CAMNST-reporter6811-pdf",
+        "CAMNST16-pdn-brochure-2026",
+        "CAMNST16-pdn-course"
+      ],
+      "checked_at": "2026-09-13",
+      "scope_note": "2027本科招生总览列Neuroscience；现行2026–27 NST第三年页面及2026年1月刊Reg25未独立列该考试科目。2026–27 PDN指南将Neuroscience明确列为PDN三主题之一，可选四模块专修或跨主题；未证明独立Neuroscience Part II class-list，不新增独立stage。也不将规章仍列的Psychology名称自行改为Neuroscience。",
+      "existing_inventory_match": null,
+      "import_ready": false
+    }
+  ],
+  "engineering_scope": {
+    "scope": "Engineering nine named specialisms + General; MET; MST; compulsory Engineering Science status",
+    "counts": {
+      "selectable_internal_areas": 10,
+      "internal_triposes": 2,
+      "reference_only": 1,
+      "candidate_records": 12,
+      "new_independent_high_school_entries": 0,
+      "new_additional_awards": 0
+    },
+    "routes": [
+      {
+        "official_name": "Aerospace and Aerothermal Engineering",
+        "disposition": "candidate_internal_area",
+        "inventory_id": "cambridge-aerospace-and-aerothermal-engineering-710e06e77b",
+        "stages": [
+          "IIA",
+          "IIB"
+        ],
+        "independent_undergraduate_entry": false,
+        "additional_degree": false,
+        "source_keys": [
+          "area-aerospace",
+          "engineering-iib-area-index"
+        ]
+      },
+      {
+        "official_name": "Bioengineering",
+        "disposition": "candidate_internal_area",
+        "inventory_id": "cambridge-bioengineering-11b0a6d48b",
+        "stages": [
+          "IIA",
+          "IIB"
+        ],
+        "independent_undergraduate_entry": false,
+        "additional_degree": false,
+        "source_keys": [
+          "area-bioengineering",
+          "engineering-iib-area-index"
+        ]
+      },
+      {
+        "official_name": "Civil Engineering",
+        "disposition": "candidate_internal_area",
+        "inventory_id": "cambridge-civil-engineering-616ebed9f9",
+        "stages": [
+          "IIA",
+          "IIB"
+        ],
+        "independent_undergraduate_entry": false,
+        "additional_degree": false,
+        "source_keys": [
+          "area-civil",
+          "engineering-iib-area-index"
+        ]
+      },
+      {
+        "official_name": "Electrical and Electronic Engineering",
+        "disposition": "candidate_internal_area",
+        "inventory_id": "cambridge-electrical-and-electronic-engineering-01ce26bb79",
+        "stages": [
+          "IIA",
+          "IIB"
+        ],
+        "independent_undergraduate_entry": false,
+        "additional_degree": false,
+        "source_keys": [
+          "area-electrical-electronic",
+          "engineering-iib-area-index"
+        ]
+      },
+      {
+        "official_name": "Electrical and Information Sciences",
+        "disposition": "candidate_internal_area",
+        "inventory_id": "cambridge-electrical-and-information-sciences-9458f36388",
+        "stages": [
+          "IIA",
+          "IIB"
+        ],
+        "independent_undergraduate_entry": false,
+        "additional_degree": false,
+        "source_keys": [
+          "area-electrical-information",
+          "engineering-iib-area-index"
+        ]
+      },
+      {
+        "official_name": "Energy, Sustainability and the Environment",
+        "disposition": "candidate_internal_area",
+        "inventory_id": "cambridge-energy-sustainability-and-the-environment-b919eb087c",
+        "stages": [
+          "IIA",
+          "IIB"
+        ],
+        "independent_undergraduate_entry": false,
+        "additional_degree": false,
+        "source_keys": [
+          "area-energy",
+          "engineering-iib-area-index"
+        ]
+      },
+      {
+        "official_name": "Information and Computer Engineering",
+        "disposition": "candidate_internal_area",
+        "inventory_id": "cambridge-information-and-computer-engineering-57da9c6a7a",
+        "stages": [
+          "IIA",
+          "IIB"
+        ],
+        "independent_undergraduate_entry": false,
+        "additional_degree": false,
+        "source_keys": [
+          "area-information-computer",
+          "engineering-iib-area-index"
+        ]
+      },
+      {
+        "official_name": "Instrumentation and Control",
+        "disposition": "candidate_internal_area",
+        "inventory_id": "cambridge-instrumentation-and-control-0c6c8d07d5",
+        "stages": [
+          "IIA",
+          "IIB"
+        ],
+        "independent_undergraduate_entry": false,
+        "additional_degree": false,
+        "source_keys": [
+          "area-instrumentation",
+          "engineering-iib-area-index"
+        ]
+      },
+      {
+        "official_name": "Mechanical Engineering",
+        "disposition": "candidate_internal_area",
+        "inventory_id": "cambridge-mechanical-engineering-ad24ab5aa4",
+        "stages": [
+          "IIA",
+          "IIB"
+        ],
+        "independent_undergraduate_entry": false,
+        "additional_degree": false,
+        "source_keys": [
+          "area-mechanical",
+          "engineering-iib-area-index"
+        ]
+      },
+      {
+        "official_name": "General Engineering / Engineering",
+        "disposition": "candidate_internal_area",
+        "inventory_id": "cambridge-general-engineering-3db0e0fe15",
+        "stages": [
+          "IIA",
+          "IIB"
+        ],
+        "independent_undergraduate_entry": false,
+        "additional_degree": false,
+        "source_keys": [
+          "engineering-iia-areas",
+          "engineering-iib-area-index"
+        ]
+      },
+      {
+        "official_name": "Manufacturing Engineering Tripos",
+        "disposition": "candidate_internal_tripos_with_entry_variants",
+        "inventory_id": "cambridge-manufacturing-engineering-tripos-0ce3e87d78",
+        "stages": [
+          "IIA",
+          "IIB conditional"
+        ],
+        "entry_variants": [
+          "Engineering IB → IIA, conditional IIB",
+          "Natural/Medical/Veterinary Sciences → one year IIA only",
+          "Chemical Engineering → IIA; IIB source-scope conflict"
+        ],
+        "independent_undergraduate_entry": false,
+        "additional_degree": false,
+        "source_keys": [
+          "manufacturing-apply",
+          "met-non-engineering",
+          "met-iib-handbook",
+          "engineering-progression"
+        ]
+      },
+      {
+        "official_name": "Management Studies Tripos",
+        "disposition": "candidate_internal_tripos",
+        "inventory_id": "cambridge-management-studies-tripos-70c51da02b",
+        "stages": [
+          "one year after prior Cambridge undergraduate study"
+        ],
+        "independent_undergraduate_entry": false,
+        "additional_degree": false,
+        "source_keys": [
+          "management-apply-requirements-open",
+          "management-degree-open",
+          "ordinances"
+        ]
+      },
+      {
+        "official_name": "Engineering Science",
+        "disposition": "reference_only_not_selectable",
+        "inventory_id": null,
+        "stages": [
+          "IIB restricted transcript designation"
+        ],
+        "independent_undergraduate_entry": false,
+        "additional_degree": false,
+        "reason": "Faculty Board explicitly states not selectable by candidates; not included in inventory candidates",
+        "source_keys": [
+          "engineering-science-policy"
+        ]
+      }
+    ],
+    "alias": {
+      "Civil, Structural and Environmental Engineering": "Civil Engineering",
+      "Engineering (IIB general)": "General Engineering"
+    },
+    "not_enumerated": [
+      "individual teaching modules as majors",
+      "arbitrary combinations of areas",
+      "all future exchange or project destinations",
+      "Engineering Science as an elective route"
+    ]
+  },
+  "privacy_metadata_sanitisation": "Raw evidence paths are repository-relative in the evidence ledger; raw_file/raw_path/reused_from are absent from public research sources."
+}

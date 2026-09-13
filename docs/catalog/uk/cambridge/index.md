@@ -23,11 +23,12 @@ hide:
 
 ## 专业与申请资料
 
-58 个专业条目 · 0 个含详细资料 · 58 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+98 个专业条目 · 0 个含详细资料 · 98 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=cambridge#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-aerospace-and-aerothermal-engineering-710e06e77b/">航空与航热工程方向</a><small>BA (Hons) / MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-anglo-saxon-norse-and-celtic-ba-hons-35519eda27/">盎格鲁—撒克逊、古北欧与凯尔特研究（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-archaeology-track-73079711a3/">考古学方向</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-archaeology-ba-hons-0cb97da692/">考古学（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
@@ -39,12 +40,16 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-astrophysics-part-iii/">天体物理学（Part III）</a><small>MSci（本科贯通第四年阶段） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-biochemistry-part-ii/">生物化学（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-biochemistry-part-iii/">生物化学（Part III）</a><small>MSci（本科贯通第四年阶段） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-bioengineering-11b0a6d48b/">生物工程方向</a><small>BA (Hons) / MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-biological-anthropology-track-6983ac2229/">生物人类学方向</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-biological-anthropology-and-archaeology-track-a0601137fd/">生物人类学与考古学联合方向</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-biological-and-biomedical-sciences-part-ii/">生物与生物医学科学（广义方向）（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9/">化学工程与生物技术（BA Hons／MEng）</a><small>BA (Hons) and MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-chemistry-part-ii/">化学（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-chemistry-part-iii/">化学（Part III）</a><small>MSci（本科贯通第四年阶段） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-civil-engineering-616ebed9f9/">土木、结构与环境工程方向</a><small>BA (Hons) / MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-mml-classical-greek-ia-ib-pathway/">古典希腊语（MML前两年路径）</a><small>BA (Hons) — MML古典语言IA/IB路径 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-mml-classical-latin-ia-ib-pathway/">古典拉丁语（MML前两年路径）</a><small>BA (Hons) — MML古典语言IA/IB路径 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-classics-3-year-2565820f33/">古典学（3年制招生路线）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-classics-4-year-3dcff9dde0/">古典学（4年制招生路线）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-classics-ba-hons-55ef8cda1d/">古典学（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
@@ -55,37 +60,72 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-economics-ba-hons-a6d141a9e8/">经济学（文学学士）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-education-ba-hons-39a2386e5b/">教育学（文学学士）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-egyptology-track-be76ebce60/">埃及学方向</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-electrical-and-electronic-engineering-01ce26bb79/">电气与电子工程方向</a><small>BA (Hons) / MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-electrical-and-information-sciences-9458f36388/">电气与信息科学方向</a><small>BA (Hons) / MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-energy-sustainability-and-the-environment-b919eb087c/">能源、可持续发展与环境方向</a><small>BA (Hons) / MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-engineering-ba-hons-and-meng-329b6daa0b/">工程学（文学学士／工程硕士）</a><small>BA (Hons) and MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-english-ba-hons-7ee7deac9d/">英语文学（文学学士）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-environment-law-and-economics-ba-hons-bdc598eda4/">环境、法律与经济（文学学士）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-lml-french-language-pathway/">法语与语言学（LML语言路径）</a><small>BA (Hons) — 语言学与现代语言内部语言路径 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-general-engineering-3db0e0fe15/">通用工程方向</a><small>BA (Hons) / MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-genetics-part-ii/">遗传学（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-geography-ba-hons-b9868dae1e/">地理学（文学学士）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-lml-german-language-pathway/">德语与语言学（LML语言路径）</a><small>BA (Hons) — 语言学与现代语言内部语言路径 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hml-french-language-pathway/">历史与法语（HML语言路径）</a><small>BA (Hons) — 历史与现代语言内部语言路径 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hml-german-language-pathway/">历史与德语（HML语言路径）</a><small>BA (Hons) — 历史与现代语言内部语言路径 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hml-italian-language-pathway/">历史与意大利语（HML语言路径）</a><small>BA (Hons) — 历史与现代语言内部语言路径 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-history-and-modern-languages-ba-hons-900008025a/">历史与现代语言（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-history-and-philosophy-of-science-part-ii/">科学史与科学哲学（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-history-and-philosophy-of-science-part-iii/">科学史与科学哲学（Part III）</a><small>MSci（本科贯通第四年阶段） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-history-and-politics-ba-hons-e099abcd38/">历史与政治（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hml-portuguese-language-pathway/">历史与葡萄牙语（HML语言路径）</a><small>BA (Hons) — 历史与现代语言内部语言路径 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hml-russian-language-pathway/">历史与俄语（HML语言路径）</a><small>BA (Hons) — 历史与现代语言内部语言路径 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hml-spanish-language-pathway/">历史与西班牙语（HML语言路径）</a><small>BA (Hons) — 历史与现代语言内部语言路径 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-history-of-art-ba-hons-419db04af3/">艺术史（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-history-ba-hons-b1ede1b708/">历史学（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21/">人类、社会与政治科学（HSPS，BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-information-and-computer-engineering-57da9c6a7a/">信息与计算机工程方向</a><small>BA (Hons) / MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-instrumentation-and-control-0c6c8d07d5/">仪器与控制方向</a><small>BA (Hons) / MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-lml-italian-language-pathway/">意大利语与语言学（LML语言路径）</a><small>BA (Hons) — 语言学与现代语言内部语言路径 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-law-ba-hons-1c0cf28f9b/">法学（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-linguistics-and-modern-languages-ba-hons-8d1d29b739/">语言学与现代语言（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-linguistics-ba-hons-ded24ea860/">语言学（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-management-studies-tripos-70c51da02b/">管理学Tripos（校内转入）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-manufacturing-engineering-tripos-0ce3e87d78/">制造工程Tripos（校内转入）</a><small>BA (Hons) / MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-materials-science-part-ii/">材料科学（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-materials-science-part-iii/">材料科学（Part III）</a><small>MSci（本科贯通第四年阶段） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-mathematics-ba-hons-and-mmath-978e108d0d/">数学（BA Hons；可升读MMath）</a><small>BA (Hons) and MMath · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-mechanical-engineering-ad24ab5aa4/">机械工程方向</a><small>BA (Hons) / MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-medicine-graduate-course-mb-and-bchir-ad9fa2175e/">医学（毕业生四年制，MB／BChir）</a><small>MB and BChir · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-medicine-mb-and-bchir-b4f8b5b9d3/">医学（六年制，MB／BChir）</a><small>MB and BChir · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-modern-and-medieval-languages-ba-hons-6c89239887/">现代与中世纪语言（BA荣誉）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-music-ba-hons-f12f797f66/">音乐（BA荣誉）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3/">自然科学（BA荣誉／MSci）</a><small>BA (Hons) and MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-pathology-part-ii/">病理学（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-pharmacology-part-ii/">药理学（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-philosophy-ba-hons-3025dcf226/">哲学（BA荣誉）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-physical-sciences-part-ii/">物理科学（广义方向）（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-physics-part-ii/">物理学（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-physics-part-iii/">物理学（Part III）</a><small>MSci（本科贯通第四年阶段） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-physiology-development-and-neuroscience-part-ii/">生理学、发育与神经科学（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-plant-sciences-part-ii/">植物科学（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-politics-international-relations-internal-track/">政治与国际关系（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-politics-sociology-internal-track/">政治学与社会学（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-lml-portuguese-language-pathway/">葡萄牙语与语言学（LML语言路径）</a><small>BA (Hons) — 语言学与现代语言内部语言路径 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-psychological-and-behavioural-sciences-ba-hons-ba034603eb/">心理与行为科学（BA荣誉）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-quantitative-climate-and-environmental-science-part-iii/">定量气候与环境科学（Part III）</a><small>MSci（本科贯通第四年阶段） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-lml-russian-language-pathway/">俄语与语言学（LML语言路径）</a><small>BA (Hons) — 语言学与现代语言内部语言路径 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-social-anthropology-internal-track/">社会人类学（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-social-anthropology-politics-internal-track/">社会人类学与政治学（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-social-anthropology-modern-religion-internal-track/">社会人类学与宗教研究（现代宗教）（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-sociology-internal-track/">社会学（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-sociology-criminology-internal-track/">社会学与犯罪学（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-sociology-social-anthropology-internal-track/">社会学与社会人类学（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-lml-spanish-language-pathway/">西班牙语与语言学（LML语言路径）</a><small>BA (Hons) — 语言学与现代语言内部语言路径 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-systems-biology-part-iii/">系统生物学（Part III）</a><small>MSci（本科贯通第四年阶段） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-theology-religion-and-philosophy-of-religion-ba-hons-2c3b78a432/">神学、宗教与宗教哲学（BA荣誉）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-veterinary-medicine-vetmb-3d7ab7d67e/">兽医学（VetMB；2027招生附认证条件）</a><small>VetMB · 部分专业资料已核实</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-veterinary-medicine-vetmb-3d7ab7d67e/">兽医学（VetMB；2027招生附认证条件）</a><small>VetMB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-zoology-part-ii/">动物学（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -150,23 +190,26 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 58 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 98 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>32个课程概览及既有入口、2个古典学UCAS年制路线、24个校内方向／升读阶段，共58条；条目数不是独立学位或高中招生项目数。</p>
+<p><strong>统计范围：</strong>32个课程概览及既有入口、2个古典学UCAS年制路线、64个校内方向／语言路径／升读或转入阶段，共98条；条目数不是独立学位或高中招生项目数。</p>
 
-<p><strong>对账方法：</strong>保留原招生入口对账与Foundation CertHE排除记录；逐源新增考古4单＋2联合方向、古典学Q800/Q801、HSPS3单＋5联合方向、自然科学6个Part II和4个Part III阶段。各方向链接所属课程；同一学位的概览、申请路线与内部阶段分别标注，未把任意选课组合相乘生成项目。</p>
+<p><strong>对账方法：</strong>保留原招生入口对账与Foundation CertHE排除记录；在既有考古、古典学、HSPS和自然科学方向基础上，新增14个自然科学Part II／III阶段、14个具名语言或古典语言阶段、10个工程领域以及Manufacturing与Management两条校内转入路线。仅收录官网具名选择，各方向链接所属课程；任意选课组合不相乘生成项目。</p>
 
-<p><strong>排除项：</strong>独立本科前置CertHE和外部MASt等纯研究生入口不计；保留本科贯通MSci阶段及有前置本科学历要求的既有本科医学入口，逐条注明身份。未完成研究的具名方向、语言组合和科目选择不自动补造。</p>
+<p><strong>排除项：</strong>独立本科前置CertHE和外部MASt、MPhil等纯研究生入口不计。Engineering Science为受条件约束且不可自行选择的成绩单标注，不作为可选专业。Ecology、Neuroscience等不同年份目录身份尚未闭合的名称保留待核，不另造独立本科入口。</p>
 
 **尚未解决的目录缺口：**
 
-- 当前58条包含32既有课程概览、2申请年制及24校内方向/阶段；自然科学其余具名方向、语言组合、工程专研与Management/Manufacturing等校内转入路线尚未全部逐项闭合，不能称完整内部目录。
+- 当前98条按概览、申请路线和校内阶段分别标注。目录覆盖仍为部分：尚须继续核对其余课程的具名分流与实际开设年份；不能把所有选课组合或课程模块当作独立专业。
 - 2027实际大学与学院学费尚未公布，官网计划最迟2026年10月1日发布；保留2026参考价和原来源日期。医学/兽医第三年按所修课程与原前临床入学年费率，不能把医学年价乘6。
 - 已补中国大陆高考按29学院三组资格、AST差异、国际课程适用规则及英语证书/面试语言区分；个案资格仍取决于课程、学院与学历组合。A101仅Home且需前置学位，校内方向不继承普通高中招生申请条件。
 - 兽医2027招生取决于RCVS后续认证决定：当前conditional，下次访问2026年10月；EAEVE另已获Accreditation，不解除RCVS条件。此处不是已确认停招或个人执业承诺。
 - Design首年5门与列6项、数学STEP一门/两门表述等当前来源差异保留；自然科学第二年生物课程名2027年春再确认。
 - 专业和内部方向独立可比毕业届次、统计分母及薪资仍不齐。自然科学47%是2022年8月至2023年7月毕业者调查应答率，不是就业率。一般职业方向与认证不等于自动注册、职位或工作签证。
 - 本次在读方向主要依据2025版规章和2026–27课程表；不能直接平移为2027入学者未来高年级课表。考古实践周数/论文与旧网页、B6/E4当年停开、A62源内冲突；自然科学目录年份、升读成绩和获授BA时点均按来源分别说明。
+- 新补自然科学高年级规则涉及2025–26及2026–27课程；2027入学者未来课表另核。HPS名额、部分课程名称与野外成本存在官方页面差异，正文保留各口径。
+- 语言路径保留父课程招生、当年语言层级与海外安排适用范围。LML具名国际学费尚待公布；Latin旧总则与2026更新、IL1单课状态按来源分别说明。
+- 工程Part II／制造工程／管理学校内转入不提供独立高中入口。Engineering Science非可自行选择领域；化学工程转MET IIB的旧手册与当前转入页规则差异待校方确认。
 
 - [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses)
 - [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/anglo-saxon-norse-celtic-ba-hons)
@@ -313,5 +356,93 @@ hide:
 - [官方目录来源](https://www.natsci.tripos.cam.ac.uk/admissions/course-costs)
 - [官方目录来源](https://www.esc.cam.ac.uk/undergraduate)
 - [官方目录来源](https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci)
+- [官方目录来源](https://www.gen.cam.ac.uk/files/ib_publicity_booklet_for_part_ii_genetics_2026-27_ver_26_04_26_final.pdf)
+- [官方目录来源](https://www.hps.cam.ac.uk/study/undergraduate/partii)
+- [官方目录来源](https://www.hps.cam.ac.uk/study/undergraduate/faqs)
+- [官方目录来源](https://www.hps.cam.ac.uk/study/undergraduate/partiii)
+- [官方目录来源](https://www.msm.cam.ac.uk/ug-study/part-ii)
+- [官方目录来源](https://www.path.cam.ac.uk/undergraduate/third_year)
+- [官方目录来源](https://www.path.cam.ac.uk/undergraduate/third_year/how-to-apply)
+- [官方目录来源](https://www.path.cam.ac.uk/undergraduate/third_year/career-options)
+- [官方目录来源](https://www.phar.cam.ac.uk/undergrads/bbs)
+- [官方目录来源](https://www.phar.cam.ac.uk/prospective-undergraduates)
+- [官方目录来源](https://www.phy.cam.ac.uk/study/undergraduate/undergraduate-courses/)
+- [官方目录来源](https://www.pdn.cam.ac.uk/files/partii_pdn_brochure_2026-27.pdf)
+- [官方目录来源](https://www.plantsci.cam.ac.uk/undergraduates/part-ii-plant-sciences)
+- [官方目录来源](https://www.zoo.cam.ac.uk/study/NST-II-Zoology)
+- [官方目录来源](https://www.hps.cam.ac.uk/students/partiii-guide/dates)
+- [官方目录来源](https://www.hps.cam.ac.uk/students/partiii-guide/about)
+- [官方目录来源](https://www.hps.cam.ac.uk/students/partiii-guide/examining)
+- [官方目录来源](https://www.msm.cam.ac.uk/ug-study/part-iii)
+- [官方目录来源](https://www.gen.cam.ac.uk/undergraduate/nst-part-iii-systems-biology)
+- [官方目录来源](https://qces.uk/)
+- [官方目录来源](https://qces.uk/applications/)
+- [官方目录来源](https://qces.uk/programme/)
+- [官方目录来源](https://qces.uk/research/)
+- [官方目录来源](https://www.mmll.cam.ac.uk/prospective-students/undergraduate/year-abroad)
+- [官方目录来源](https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/french-papers)
+- [官方目录来源](https://www.mmll.cam.ac.uk/prospective-students/undergraduate/history-and-modern-languages-hml)
+- [官方目录来源](https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/french-papers)
+- [官方目录来源](https://www.mmll.cam.ac.uk/prospective-students/undergraduate/linguistics-and-modern-languages-lml)
+- [官方目录来源](https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/german-papers)
+- [官方目录来源](https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/german-papers)
+- [官方目录来源](https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/italian-papers)
+- [官方目录来源](https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/italian-papers)
+- [官方目录来源](https://www.mmll.cam.ac.uk/portuguese-papers)
+- [官方目录来源](https://www.mmll.cam.ac.uk/spanish-papers)
+- [官方目录来源](https://www.mmll.cam.ac.uk/portuguese-papers)
+- [官方目录来源](https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/slavonic-papers)
+- [官方目录来源](https://www.mmll.cam.ac.uk/prospective-students/undergraduate/undergraduate-papers/slavonic-papers)
+- [官方目录来源](https://www.mmll.cam.ac.uk/subjects/slavonic-studies)
+- [官方目录来源](https://www.mmll.cam.ac.uk/spanish-papers)
+- [官方目录来源](https://www.mmll.cam.ac.uk/subjects/classical-latin-classical-greek-classics)
+- [官方目录来源](https://www.mmll.cam.ac.uk/modern-and-medieval-languages-tripos)
+- [官方目录来源](https://www.classics.cam.ac.uk/student-information/undergraduate-students/part-ia/papers-1-5-greek-and-latin-language-and-classical)
+- [官方目录来源](https://www.classics.cam.ac.uk/student-information/undergraduate-students/part-ia/papers-1-5-greek-and-latin-language-and-classical)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/node/459/)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/node/1304)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/node/753/)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/node/421)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/node/439)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/content/progression-requirements)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/node/4535)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/system/files/Appendix%20D%20-%20FB%20policy%20on%20compensation%20and%20condonement.pdf)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/node/64)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/content/accreditation-meng)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/node/813/)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/node/750/)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/node/797/)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/node/806/)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/node/764/)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/node/803/)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/node/810/)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/node/801/)
+- [官方目录来源](https://www.ifm.eng.cam.ac.uk/education/met/52212/)
+- [官方目录来源](https://www.ifm.eng.cam.ac.uk/uploads/Education/MET/MET_recruitment_Feb_2026_information%20v2.pdf)
+- [官方目录来源](https://www.ifm.eng.cam.ac.uk/uploads/Education/MET/METIIB_Full_Handbook_2025.pdf)
+- [官方目录来源](https://www.ifm.eng.cam.ac.uk/education/met/a/assessment/)
+- [官方目录来源](https://www.ifm.eng.cam.ac.uk/uploads/Education/MET/MET_IIA_Full_Handbook_2025.pdf)
+- [官方目录来源](https://www.ifm.eng.cam.ac.uk/education/met/b/assessment/)
+- [官方目录来源](https://www.ifm.eng.cam.ac.uk/education/met/b/long/)
+- [官方目录来源](https://www.ifm.eng.cam.ac.uk/education/met/application/)
+- [官方目录来源](https://www.ifm.eng.cam.ac.uk/uploads/Education/MET/MET_course_information_2026_Non_Eng_v1.pdf)
+- [官方目录来源](https://teaching.eng.cam.ac.uk/content/part-iia-options-offered-engineering-tripos)
+- [官方目录来源](https://www.ifm.eng.cam.ac.uk/education/met/graduates/)
+- [官方目录来源](https://www.jbs.cam.ac.uk/programmes/undergraduate/)
+- [官方目录来源](https://www.jbs.cam.ac.uk/programmes/undergraduate/)
+- [官方目录来源](https://www.jbs.cam.ac.uk/programmes/undergraduate/apply/)
+- [官方目录来源](https://www.jbs.cam.ac.uk/programmes/undergraduate/curriculum/)
+- [官方目录来源](https://www.jbs.cam.ac.uk/programmes/undergraduate/curriculum/core-courses/)
+- [官方目录来源](https://www.jbs.cam.ac.uk/programmes/undergraduate/curriculum/electives/)
+- [官方目录来源](https://www.jbs.cam.ac.uk/programmes/undergraduate/curriculum/consulting-project/)
+- [官方目录来源](https://www.jbs.cam.ac.uk/programmes/undergraduate/)
+- [官方目录来源](https://www.jbs.cam.ac.uk/programmes/undergraduate/apply/)
+- [官方目录来源](https://www.jbs.cam.ac.uk/programmes/undergraduate/apply/)
+- [官方目录来源](https://www.jbs.cam.ac.uk/programmes/undergraduate/apply/)
+- [官方目录来源](https://www.jbs.cam.ac.uk/programmes/undergraduate/apply/)
+- [官方目录来源](https://www.jbs.cam.ac.uk/programmes/undergraduate/faqs/)
+- [官方目录来源](https://www.jbs.cam.ac.uk/programmes/undergraduate/faqs/)
+- [官方目录来源](https://www.jbs.cam.ac.uk/programmes/undergraduate/class-profile/)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。
