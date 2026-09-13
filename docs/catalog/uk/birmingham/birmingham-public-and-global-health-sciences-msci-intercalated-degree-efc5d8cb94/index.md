@@ -43,6 +43,9 @@ hide:
 <p class="catalog-fact"><strong>仍未解决的目录身份差异：</strong>当前搜索卡片仍列Public and Global Health Sciences MSci、全日制Edgbaston面授并提及公共/全球卫生研究训练，但原详情网址本轮404；医学学院当前完整插读清单没有列此名称。本轮未取得停招、替代或2027招生的正式说明，不把搜索卡片短简介当完整课程。</p>
 <p class="fact-sources"><a href="#source-p-REM-birmingham-public-search">官方依据</a> · <a href="#source-p-REM-birmingham-med-list">官方依据</a></p>
 
+<p class="catalog-fact"><strong>无扩展名旧网址的实际去向：</strong>本次访问不带.aspx的旧公共与全球卫生网址，实际转到医学学院插读总页；总页没有列出这个旧MSci名称，但仍不能仅凭重定向确认停招、改名或并入其他课程。2027/28接收插读的Global Health MSc属于另一个研究生课程，不能视作旧MSci已完成替代。</p>
+<p class="fact-sources"><a href="#source-p-BHIR-public-extensionless">官方依据</a> · <a href="#source-p-BHIR-intercalation">官方依据</a> · <a href="#source-p-BHIR-current-global-msc">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 旧插读条目；现行专业详情本轮未取得
@@ -68,5 +71,8 @@ hide:
 
 <div class="catalog-source" id="source-p-REM-birmingham-public-search"><div><a href="https://www.birmingham.ac.uk/study/courses?term=public+health">伯明翰公共卫生搜索结果中的Public and Global Health Sciences MSci卡片 ↗</a><p>仍未解决的目录身份差异</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-REM-birmingham-med-list"><div><a href="https://www.birmingham.ac.uk/about/college-of-medicine-and-health/undergraduate-degree-courses">伯明翰医学与健康学院当前本科及插读清单 ↗</a><p>仍未解决的目录身份差异</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-BHIR-intercalation"><div><a href="https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees">伯明翰医学学院：现行插读清单及在读地点限制 ↗</a><p>无扩展名旧网址的实际去向</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-BHIR-current-global-msc"><div><a href="https://www.birmingham.ac.uk/study/postgraduate/subjects/medicine-courses/global-health-msc">Global Health MSc：研究生项目及2027/28插读提示 ↗</a><p>无扩展名旧网址的实际去向</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-BHIR-public-extensionless"><div><a href="https://www.birmingham.ac.uk/undergraduate/courses/med/publicandglobalhealthsciencemsci-intercalateddegree">旧公共与全球卫生网址：实际重定向至当前插读总页 ↗</a><p>无扩展名旧网址的实际去向</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/birmingham/">← 返回伯明翰大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

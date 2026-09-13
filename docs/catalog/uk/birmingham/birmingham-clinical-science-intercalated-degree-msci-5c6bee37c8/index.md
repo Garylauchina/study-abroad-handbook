@@ -52,6 +52,9 @@ hide:
 <p class="catalog-fact"><strong>课程内容举例：</strong>网页模块表列出：研究技能（20 学分）；医学科学研究项目（60 学分）；癌症的细胞与分子基础（20 学分）。这里只摘记实际列出的模块，未将示例当作完整必修清单；选修、先修及年度调整以原表为准。</p>
 <p class="fact-sources"><a href="#source-p-BHM-8cd8e97fd98edd7a">官方依据</a></p>
 
+<p class="catalog-fact"><strong>现行插读总表与独立页的范围：</strong>本次现行插读总表列MSci Medical Sciences，未单列此Clinical Science旧独立名称。未取得两者正式合并或替代说明，不直接据总表把现有Clinical Science改名或删除；其开放及适用外校范围须由项目确认。</p>
+<p class="fact-sources"><a href="#source-p-BHIR-intercalation">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 <p class="catalog-fact"><strong>专业申请条件：</strong>仅限已完成医学第三或第四年、至少一年临床训练，并将在插读后返回医学第四或第五年的学生；前两年学分加权平均至少 55%。牙科申请者须先联系负责人。</p>
@@ -83,5 +86,6 @@ hide:
 - [官方目录](https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true)
 
 <div class="catalog-source" id="source-p-BHM-8cd8e97fd98edd7a"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/medical-sciences-msci-intercalated-degree">Clinical Science (Intercalated degree) MSci：官方课程详情 ↗</a><p>学位、学制与版本；校区；授课语言边界；课程内容举例；专业申请条件；2027 插读申请；国际生学费与年份；插读资助条件；毕业资料缺口</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-BHIR-intercalation"><div><a href="https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees">伯明翰医学学院：现行插读清单及在读地点限制 ↗</a><p>现行插读总表与独立页的范围</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/birmingham/">← 返回伯明翰大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

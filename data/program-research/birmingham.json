@@ -1412,6 +1412,13 @@
             "source_ids": [
               "BHM-36191c5f84c309c8"
             ]
+          },
+          {
+            "label": "外校申请的就读地点限制",
+            "text": "医学学院现行插读总页把外校申请范围限定为当前在英国或欧盟学习医学、牙科或药学者。本项目自身允许的在读专业、年级和成绩仍须同时满足；“接受外校”不能理解为中国大陆境内医学生均可直接申请。",
+            "source_ids": [
+              "BHIR-intercalation"
+            ]
           }
         ],
         "applications": [
@@ -1458,6 +1465,14 @@
           "supports": "学位、学制与版本；校区；授课语言边界；课程内容举例；专业申请条件；2027 插读申请；国际生学费与年份；插读资助缺口；毕业资料缺口",
           "sha256": "beffb387417c903014cdb7ddd36b07a582da6502a047ebe5293d2655f883b437",
           "locator": "hero; courseYearItems; course sections yearOfEntry=2027; hero.campus; hero.duration; courseDelivery[2027]; entryRequirements[2027].englishLanguageRequirements; courseModules[2027] .modulesComposer.items[1].text.table[0], .modulesComposer.items[1].text.table[0]; entryRequirements[2027].details; courseApplicationProcess[2027]; courseFees[2027].internationalFeesContent; career[2027]"
+        },
+        {
+          "id": "BHIR-intercalation",
+          "title": "伯明翰医学学院：现行插读清单及在读地点限制",
+          "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+          "checked_at": "2026-09-13",
+          "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+          "supports": "外校申请的就读地点限制"
         }
       ],
       "inventory_id": "birmingham-medical-humanities-intercalated-degree-ba-1b76161411",
@@ -24399,6 +24414,13 @@
             "source_ids": [
               "BHM-fbcda034efb1706d"
             ]
+          },
+          {
+            "label": "外校申请的就读地点限制",
+            "text": "医学学院现行插读总页把外校申请范围限定为当前在英国或欧盟学习医学、牙科或药学者。本项目自身允许的在读专业、年级和成绩仍须同时满足；“接受外校”不能理解为中国大陆境内医学生均可直接申请。",
+            "source_ids": [
+              "BHIR-intercalation"
+            ]
           }
         ],
         "applications": [
@@ -24445,6 +24467,14 @@
           "supports": "学位、学制与版本；校区；授课语言边界；课程内容举例；专业申请条件；2027 插读申请；国际生学费与年份；插读资助缺口；毕业资料缺口",
           "sha256": "655654ff30e3f6b1fd831073642e835758974ed2580c6a9b744961eb9dc402b7",
           "locator": "hero; courseYearItems; course sections yearOfEntry=2027; hero.campus; hero.duration; courseDelivery[2027]; entryRequirements[2027].englishLanguageRequirements; courseModules[2027] .modulesComposer.items[1].text.table[0], .modulesComposer.items[1].text.table[0], .modulesComposer.items[1].text.table[0]; entryRequirements[2027].details; courseApplicationProcess[2027]; courseFees[2027].internationalFeesContent; career[2027]"
+        },
+        {
+          "id": "BHIR-intercalation",
+          "title": "伯明翰医学学院：现行插读清单及在读地点限制",
+          "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+          "checked_at": "2026-09-13",
+          "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+          "supports": "外校申请的就读地点限制"
         }
       ],
       "inventory_id": "birmingham-clinical-anatomy-intercalated-degree-msci-118f4c542d",
@@ -24506,6 +24536,13 @@
             "source_ids": [
               "BHM-8cd8e97fd98edd7a"
             ]
+          },
+          {
+            "label": "现行插读总表与独立页的范围",
+            "text": "本次现行插读总表列MSci Medical Sciences，未单列此Clinical Science旧独立名称。未取得两者正式合并或替代说明，不直接据总表把现有Clinical Science改名或删除；其开放及适用外校范围须由项目确认。",
+            "source_ids": [
+              "BHIR-intercalation"
+            ]
           }
         ],
         "admissions": [
@@ -24561,6 +24598,14 @@
           "supports": "学位、学制与版本；校区；授课语言边界；课程内容举例；专业申请条件；2027 插读申请；国际生学费与年份；插读资助条件；毕业资料缺口",
           "sha256": "ccc1b6b57820f17ee6fdbbd1b4cb8d2db2b01f20e5d8b49d23a2ce39c1ef6245",
           "locator": "hero; courseYearItems; course sections yearOfEntry=2027; hero.campus; hero.duration; courseDelivery[2027]; entryRequirements[2027].englishLanguageRequirements; courseModules[2027] .modulesComposer.items[2].tabItems[0].content.table[0], .modulesComposer.items[2].tabItems[0].content.table[0], .modulesComposer.items[2].tabItems[1].content.table[0]; entryRequirements[2027].details; courseApplicationProcess[2027]; courseFees[2027].internationalFeesContent; courseFees[2027] Intercalation bursaries and awards; career[2027]"
+        },
+        {
+          "id": "BHIR-intercalation",
+          "title": "伯明翰医学学院：现行插读清单及在读地点限制",
+          "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+          "checked_at": "2026-09-13",
+          "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+          "supports": "现行插读总表与独立页的范围"
         }
       ],
       "inventory_id": "birmingham-clinical-science-intercalated-degree-msci-5c6bee37c8",
@@ -32165,6 +32210,13 @@
             "source_ids": [
               "BHM-17f35bcc7589a704"
             ]
+          },
+          {
+            "label": "外校申请的就读地点限制",
+            "text": "医学学院现行插读总页把外校申请范围限定为当前在英国或欧盟学习医学、牙科或药学者。本项目自身允许的在读专业、年级和成绩仍须同时满足；“接受外校”不能理解为中国大陆境内医学生均可直接申请。",
+            "source_ids": [
+              "BHIR-intercalation"
+            ]
           }
         ],
         "applications": [
@@ -32211,6 +32263,14 @@
           "supports": "学位、学制与版本；入学年份边界；校区；授课语言边界；课程内容举例；专业申请条件；插读申请页面冲突；国际生学费与年份；插读资助缺口；官网职业方向",
           "sha256": "d30fc429611d21d429d1fc8ded70ab854cde3900e3a0323d68037a045a00af78",
           "locator": "hero; courseYearItems; course sections yearOfEntry=2026; defaultCourseYear vs hero.startDate and courseFees; hero.campus; hero.duration; courseDelivery[2026]; entryRequirements[2026].englishLanguageRequirements; courseModules[2026] .modulesComposer.items[2].text.table[0], .modulesComposer.items[2].text.table[0], .modulesComposer.items[2].text.table[0]; entryRequirements[2026].details; courseApplicationProcess[2026]; entryRequirements[2026].details vs courseApplicationProcess[2026]; courseFees[2026].internationalFeesContent; career[2026] curriculum-related career content, excluding generic alumni advertising"
+        },
+        {
+          "id": "BHIR-intercalation",
+          "title": "伯明翰医学学院：现行插读清单及在读地点限制",
+          "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+          "checked_at": "2026-09-13",
+          "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+          "supports": "外校申请的就读地点限制"
         }
       ],
       "inventory_id": "birmingham-health-management-and-leadership-intercalated-degree-msci-feadc28f98",
@@ -32683,6 +32743,14 @@
             "source_ids": [
               "BHM-cfd3d750ec220b14"
             ]
+          },
+          {
+            "label": "另列一年插读路线",
+            "text": "医学学院另列本BSc的一年在读插读入口，使用本专业第三年结构。该路径有在读地点/本校限制，不能按此普通三年制的高中门槛和UCAS安排申请；本站已另设条目保留身份区别。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-human-neuroscience"
+            ]
           }
         ],
         "admissions": [
@@ -32764,6 +32832,22 @@
           "supports": "2027 申请渠道",
           "sha256": "943c1e3954fb1faf8682ab086cbc0fb4c5f63735eed2754ef92f93134f38f9de",
           "locator": "13 January 2027 18:00 UK"
+        },
+        {
+          "id": "BHIR-intercalation",
+          "title": "伯明翰医学学院：现行插读清单及在读地点限制",
+          "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+          "checked_at": "2026-09-13",
+          "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+          "supports": "另列一年插读路线"
+        },
+        {
+          "id": "BHIR-human-neuroscience",
+          "title": "Human Neuroscience BSc：普通本科及插读提示、末年课程",
+          "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/psychology-and-neuroscience-courses/human-neuroscience-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "8bc2aa7a13c33067b9a30cf5a289bd1146a24c48a38f7e4c10dbc535ec74883e",
+          "supports": "另列一年插读路线"
         }
       ],
       "inventory_id": "birmingham-human-neuroscience-bsc-1543ab5665",
@@ -39759,6 +39843,13 @@
             "source_ids": [
               "BHM-684b7f2322aa52fa"
             ]
+          },
+          {
+            "label": "本校范围再次确认",
+            "text": "现行插读总页将BMedSc Medical Science列为只向伯明翰本校开放的例外。总表其他项目可收英国／欧盟在读者的规则不能解除本项目本校限制。",
+            "source_ids": [
+              "BHIR-intercalation"
+            ]
           }
         ],
         "applications": [
@@ -39805,6 +39896,14 @@
           "supports": "学位、学制与版本；校区；授课语言边界；医学科学插读培养结构；专业申请条件；2027 插读申请；国际生学费与年份；插读资助缺口；毕业资料缺口",
           "sha256": "55577de40c606c567afbd0fea6841a3ca682601640f8de6ee5dfb7b3e27db23f",
           "locator": "hero; courseYearItems; course sections yearOfEntry=2027; hero.campus; hero.duration; courseDelivery[2027]; entryRequirements[2027].englishLanguageRequirements; courseModules[2027]; entryRequirements[2027].details; courseApplicationProcess[2027]; courseFees[2027].internationalFeesContent; career[2027]"
+        },
+        {
+          "id": "BHIR-intercalation",
+          "title": "伯明翰医学学院：现行插读清单及在读地点限制",
+          "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+          "checked_at": "2026-09-13",
+          "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+          "supports": "本校范围再次确认"
         }
       ],
       "inventory_id": "birmingham-medical-science-intercalated-degree-bmedsci-a4650eedb2",
@@ -39875,6 +39974,13 @@
             "source_ids": [
               "BHM-d3fe14cd87c665a0"
             ]
+          },
+          {
+            "label": "外校申请的就读地点限制",
+            "text": "医学学院现行插读总页把外校申请范围限定为当前在英国或欧盟学习医学、牙科或药学者。本项目自身允许的在读专业、年级和成绩仍须同时满足；“接受外校”不能理解为中国大陆境内医学生均可直接申请。",
+            "source_ids": [
+              "BHIR-intercalation"
+            ]
           }
         ],
         "applications": [
@@ -39921,6 +40027,14 @@
           "supports": "学位、学制与版本；校区；授课语言边界；课程内容举例；专业申请条件；2027 插读申请；国际生学费与年份；插读资助条件；毕业资料缺口",
           "sha256": "ccc1b6b57820f17ee6fdbbd1b4cb8d2db2b01f20e5d8b49d23a2ce39c1ef6245",
           "locator": "hero; courseYearItems; course sections yearOfEntry=2027; hero.campus; hero.duration; courseDelivery[2027]; entryRequirements[2027].englishLanguageRequirements; courseModules[2027] .modulesComposer.items[2].tabItems[0].content.table[0], .modulesComposer.items[2].tabItems[0].content.table[0], .modulesComposer.items[2].tabItems[1].content.table[0]; entryRequirements[2027].details; courseApplicationProcess[2027]; courseFees[2027].internationalFeesContent; courseFees[2027] Intercalation bursaries and awards; career[2027]"
+        },
+        {
+          "id": "BHIR-intercalation",
+          "title": "伯明翰医学学院：现行插读清单及在读地点限制",
+          "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+          "checked_at": "2026-09-13",
+          "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+          "supports": "外校申请的就读地点限制"
         }
       ],
       "inventory_id": "birmingham-medical-sciences-intercalated-degree-msci-d359e4d6a9",
@@ -40410,6 +40524,15 @@
               "REM-birmingham-health-current",
               "REM-birmingham-med-list"
             ]
+          },
+          {
+            "label": "本次复查仍无改名证明",
+            "text": "当前插读清单仍列MSci Health Management and Leadership，系所旧介绍仍提PoSH下的相关方向。两者没有提供旧MMedSc与现MSci的正式替代通知；继续保留旧名待核状态，不复制现行MSci的学费或入学年。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-department",
+              "BHIR-current-management"
+            ]
           }
         ],
         "admissions": [
@@ -40450,6 +40573,30 @@
           "checked_at": "2026-09-13",
           "supports": "旧名称与现行不同学位",
           "sha256": "f875b4bec2eaeb20386a4fe66b1dca74acec3ed7fbd8d5b5b4e1f39cea72fb01"
+        },
+        {
+          "id": "BHIR-intercalation",
+          "title": "伯明翰医学学院：现行插读清单及在读地点限制",
+          "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+          "checked_at": "2026-09-13",
+          "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+          "supports": "本次复查仍无改名证明"
+        },
+        {
+          "id": "BHIR-department",
+          "title": "应用健康科学系：PoSH旧方向说明",
+          "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/applied-health-sciences/work-and-study",
+          "checked_at": "2026-09-13",
+          "sha256": "27f8fed2f59eeb51a0a140370aaf0de5935d8533c85bcd175e5a68ce00bb3ae1",
+          "supports": "本次复查仍无改名证明"
+        },
+        {
+          "id": "BHIR-current-management",
+          "title": "Health Management and Leadership MSci：现行独立项目",
+          "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/health-management-and-leadership-msci-intercalated-degree",
+          "checked_at": "2026-09-13",
+          "sha256": "a3da25d9ece068e4b7b265981fd81eb268ebb616d0a89f7bd3f3ed662305dd2c",
+          "supports": "本次复查仍无改名证明"
         }
       ],
       "inventory_id": "birmingham-mmedsc-posh-health-management-and-leadership-intercalated-degree-8715d05bb5",
@@ -48040,6 +48187,15 @@
               "REM-birmingham-public-search",
               "REM-birmingham-med-list"
             ]
+          },
+          {
+            "label": "无扩展名旧网址的实际去向",
+            "text": "本次访问不带.aspx的旧公共与全球卫生网址，实际转到医学学院插读总页；总页没有列出这个旧MSci名称，但仍不能仅凭重定向确认停招、改名或并入其他课程。2027/28接收插读的Global Health MSc属于另一个研究生课程，不能视作旧MSci已完成替代。",
+            "source_ids": [
+              "BHIR-public-extensionless",
+              "BHIR-intercalation",
+              "BHIR-current-global-msc"
+            ]
           }
         ],
         "admissions": [],
@@ -48063,6 +48219,30 @@
           "checked_at": "2026-09-13",
           "supports": "仍未解决的目录身份差异",
           "sha256": "f875b4bec2eaeb20386a4fe66b1dca74acec3ed7fbd8d5b5b4e1f39cea72fb01"
+        },
+        {
+          "id": "BHIR-intercalation",
+          "title": "伯明翰医学学院：现行插读清单及在读地点限制",
+          "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+          "checked_at": "2026-09-13",
+          "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+          "supports": "无扩展名旧网址的实际去向"
+        },
+        {
+          "id": "BHIR-current-global-msc",
+          "title": "Global Health MSc：研究生项目及2027/28插读提示",
+          "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/medicine-courses/global-health-msc",
+          "checked_at": "2026-09-13",
+          "sha256": "39c856098874a3653db28e615d65de3cd7cf599a5a54d04281ade616fe5aecf9",
+          "supports": "无扩展名旧网址的实际去向"
+        },
+        {
+          "id": "BHIR-public-extensionless",
+          "title": "旧公共与全球卫生网址：实际重定向至当前插读总页",
+          "url": "https://www.birmingham.ac.uk/undergraduate/courses/med/publicandglobalhealthsciencemsci-intercalateddegree",
+          "checked_at": "2026-09-13",
+          "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+          "supports": "无扩展名旧网址的实际去向"
         }
       ],
       "inventory_id": "birmingham-public-and-global-health-sciences-msci-intercalated-degree-efc5d8cb94",
@@ -49452,6 +49632,14 @@
             "source_ids": [
               "BHM-666eba4ac56ca810"
             ]
+          },
+          {
+            "label": "另列一年插读路线",
+            "text": "医学学院另列本BSc的一年在读插读入口，使用本专业第三年结构。该路径有在读地点/本校限制，不能按此普通三年制的高中门槛和UCAS安排申请；本站已另设条目保留身份区别。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-sport"
+            ]
           }
         ],
         "admissions": [
@@ -49533,6 +49721,22 @@
           "supports": "2027 申请渠道",
           "sha256": "943c1e3954fb1faf8682ab086cbc0fb4c5f63735eed2754ef92f93134f38f9de",
           "locator": "13 January 2027 18:00 UK"
+        },
+        {
+          "id": "BHIR-intercalation",
+          "title": "伯明翰医学学院：现行插读清单及在读地点限制",
+          "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+          "checked_at": "2026-09-13",
+          "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+          "supports": "另列一年插读路线"
+        },
+        {
+          "id": "BHIR-sport",
+          "title": "Sport, Exercise and Health Sciences BSc：末年课程及插读提示",
+          "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/sport-sciences-courses/sport-exercise-and-health-sciences-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "e910ae76aaa5c5ac8f27bb5e6c86a21e2a1708f036edf1722d2bf30c21121ae7",
+          "supports": "另列一年插读路线"
         }
       ],
       "inventory_id": "birmingham-sport-exercise-and-health-sciences-bsc-1e98800c86",
@@ -50508,6 +50712,251 @@
         "本轮未取得本独立项目有样本量和调查时期的毕业率/就业率；学科示例保留明确口径。"
       ],
       "research_status": "enriched"
+    },
+    {
+      "university_id": "birmingham",
+      "inventory_id": "birmingham-human-neuroscience-intercalated-bsc-3cd984b7a6",
+      "raw_key": "intercalated:human-neuroscience-bsc",
+      "name_en": "BSc Human Neuroscience (Intercalated degree)",
+      "degree_label": "BSc",
+      "official_url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+      "checked_at": "2026-09-13",
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "sections": {
+        "overview": [
+          {
+            "label": "独立插读入口与母专业",
+            "text": "医学学院把本BSc列为具名插读机会，采用对应普通本科第三年的课程结构；学生从原医学相关课程抽出一年学习。它与母专业三年制高中入口分别收录，不能把普通UCAS代码、三年学制或高中分数直接套到本条。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-human-neuroscience"
+            ]
+          },
+          {
+            "label": "末年研究核心",
+            "text": "公开末年课表列Neuroscience Research Project研究项目40学分及Neuroscience and Society神经科学与社会20学分；另选跨心理学、生命科学等领域课程。母页说明模块正在更新，实际插读学年须再确认。",
+            "source_ids": [
+              "BHIR-human-neuroscience"
+            ]
+          },
+          {
+            "label": "选修数量与学分待澄清",
+            "text": "同一课表文字要求第一学期选两门、第二学期再选两门，所列选项均20学分；与上列60核心相加会得到140。这里保留原文数量差异，不自行把其中一门删除或把140认定为插读毕业总学分。页面选择2027时末年课程链接带academicYear=002028，不能据此认定2027插读实际选课清单。",
+            "source_ids": [
+              "BHIR-human-neuroscience"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本校限制优先核对",
+            "text": "医学学院现行插读总页明确Human Neuroscience只向伯明翰本校学生开放；普通专业页的插读提示较宽泛，只说英国医学在读者可能符合。本站保留本校限制，外校申请者须取得项目确认，不能仅凭后一提示认定获准。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-human-neuroscience"
+            ]
+          },
+          {
+            "label": "学业与语言要求仍缺",
+            "text": "该路线属于在读插读；本轮未取得其独立年级、成绩、选拔表和英语要求。不能用母专业AAA、普通IB或IELTS要求代替插读标准，也不能用其他插读课程的60%门槛代填。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-human-neuroscience"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "通过插读团队确认申请",
+            "text": "母专业把插读咨询单列，可登记兴趣并联系插读团队；总页也提供医学学院插读咨询渠道。普通本科UCAS按钮及截止不能替代此在读程序。本轮未取得该路线2027确定开放日期、截止、名额或完整材料清单。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-human-neuroscience"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "插读费用与母专业分开",
+            "text": "本轮可读的插读总页没有这一路线单独的2027国际报价。母专业页面的普通本科收费或英国本地生资助不能直接作为一年插读价格；须核本人的费率身份、插读年份及正式通知，不预扣奖学金。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-human-neuroscience"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "研究训练与毕业统计范围",
+            "text": "插读总页说明可获得研究、分析及沟通等训练；母专业职业页列其一般毕业方向。本轮未取得本一年插读路线独立毕业届次、响应样本、就业率或薪资，不把母专业校友例子当插读就业结果。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-human-neuroscience"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "BHIR-intercalation",
+          "title": "伯明翰医学学院：现行插读清单及在读地点限制",
+          "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+          "checked_at": "2026-09-13",
+          "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+          "supports": "独立插读入口与母专业；本校限制优先核对；学业与语言要求仍缺；通过插读团队确认申请；插读费用与母专业分开；研究训练与毕业统计范围"
+        },
+        {
+          "id": "BHIR-human-neuroscience",
+          "title": "Human Neuroscience BSc：普通本科及插读提示、末年课程",
+          "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/psychology-and-neuroscience-courses/human-neuroscience-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "8bc2aa7a13c33067b9a30cf5a289bd1146a24c48a38f7e4c10dbc535ec74883e",
+          "supports": "独立插读入口与母专业；末年研究核心；选修数量与学分待澄清；本校限制优先核对；学业与语言要求仍缺；通过插读团队确认申请；插读费用与母专业分开；研究训练与毕业统计范围"
+        }
+      ],
+      "display_fields": {
+        "name": "人类神经科学（BSc，在读插读）",
+        "intake": "现行插读清单；2027具体开放待确认",
+        "duration": "一年插读；确切起止日期待项目确认",
+        "campus": "伯明翰 Edgbaston",
+        "language": "本插读全程授课语种尚未单独核实",
+        "entry_summary": "仅伯明翰本校医学相关在读者；具体年级、成绩与英语待核",
+        "tuition_summary": "2027插读国际学费未取得；普通本科价格不直接套用",
+        "outcomes_summary": "已核插读培养定位；本路线独立毕业统计待补"
+      },
+      "coverage_notes": [
+        "具名在读插读，不以普通本科高考、UCAS、学费或母专业毕业群体替代。"
+      ]
+    },
+    {
+      "university_id": "birmingham",
+      "inventory_id": "birmingham-sport-intercalated-bsc-f3141dc631",
+      "raw_key": "intercalated:sport-bsc",
+      "name_en": "BSc Sport, Exercise and Health Science (Intercalated degree)",
+      "degree_label": "BSc",
+      "official_url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+      "checked_at": "2026-09-13",
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "sections": {
+        "overview": [
+          {
+            "label": "独立插读入口与母专业",
+            "text": "医学学院把本BSc列为具名插读机会，采用对应普通本科第三年的课程结构；学生从原医学相关课程抽出一年学习。它与母专业三年制高中入口分别收录，不能把普通UCAS代码、三年学制或高中分数直接套到本条。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-sport"
+            ]
+          },
+          {
+            "label": "第三年课表的120学分构成",
+            "text": "普通BSc第三年须从Professional Dissertation专业论文和Project项目中选一项，均40学分；另选80学分学科或商学院获批课程，形成120学分年度结构。课程可用性、开班及负责人同意仍是选修前提，不能把两个40学分项目都当必修。",
+            "source_ids": [
+              "BHIR-sport"
+            ]
+          },
+          {
+            "label": "研究方向与额外实习年分界",
+            "text": "选项涵盖运动表现、训练与体能、临床神经科学和康复、运动处方、极端环境、运动与心理健康等。普通母专业另列第三年内部转入的行业年；插读总页只指向第三年结构，本轮未取得本插读也能追加该行业年的规则。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-sport"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在读地点及专业范围",
+            "text": "医学学院插读总页接受当前在英国或欧盟就读医学、牙科或药学者；本项目不在只限本校的两项例外中。母专业另提示英国医学学生可咨询插读。此为就读地点和在读专业范围，不能理解为中国大陆高中或境内医学生可直接依此申请。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-sport"
+            ]
+          },
+          {
+            "label": "具体选拔与英语待核",
+            "text": "总页要求具有良好的医学相关学业表现，但本轮未取得本BSc插读的独立年级、最低均分及英语标准；普通三年制A-level、IB与语言门槛不直接移用，其他插读项目的分数也不通用。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-sport"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "通过插读团队确认申请",
+            "text": "母专业把插读咨询单列，可登记兴趣并联系插读团队；总页也提供医学学院插读咨询渠道。普通本科UCAS按钮及截止不能替代此在读程序。本轮未取得该路线2027确定开放日期、截止、名额或完整材料清单。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-sport"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "插读费用与母专业分开",
+            "text": "本轮可读的插读总页没有这一路线单独的2027国际报价。母专业页面的普通本科收费或英国本地生资助不能直接作为一年插读价格；须核本人的费率身份、插读年份及正式通知，不预扣奖学金。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-sport"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "研究训练与毕业统计范围",
+            "text": "插读总页说明可获得研究、分析及沟通等训练；母专业职业页列其一般毕业方向。本轮未取得本一年插读路线独立毕业届次、响应样本、就业率或薪资，不把母专业校友例子当插读就业结果。",
+            "source_ids": [
+              "BHIR-intercalation",
+              "BHIR-sport"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "BHIR-intercalation",
+          "title": "伯明翰医学学院：现行插读清单及在读地点限制",
+          "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+          "checked_at": "2026-09-13",
+          "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+          "supports": "独立插读入口与母专业；研究方向与额外实习年分界；在读地点及专业范围；具体选拔与英语待核；通过插读团队确认申请；插读费用与母专业分开；研究训练与毕业统计范围"
+        },
+        {
+          "id": "BHIR-sport",
+          "title": "Sport, Exercise and Health Sciences BSc：末年课程及插读提示",
+          "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/sport-sciences-courses/sport-exercise-and-health-sciences-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "e910ae76aaa5c5ac8f27bb5e6c86a21e2a1708f036edf1722d2bf30c21121ae7",
+          "supports": "独立插读入口与母专业；第三年课表的120学分构成；研究方向与额外实习年分界；在读地点及专业范围；具体选拔与英语待核；通过插读团队确认申请；插读费用与母专业分开；研究训练与毕业统计范围"
+        }
+      ],
+      "display_fields": {
+        "name": "运动、锻炼与健康科学（BSc，在读插读）",
+        "intake": "现行插读清单；2027具体开放待确认",
+        "duration": "一年插读；确切起止日期待项目确认",
+        "campus": "伯明翰 Edgbaston",
+        "language": "本插读全程授课语种尚未单独核实",
+        "entry_summary": "当前英国／欧盟医学、牙科或药学在读；具体年级、成绩与英语待核",
+        "tuition_summary": "2027插读国际学费未取得；普通本科价格不直接套用",
+        "outcomes_summary": "已核插读培养定位；本路线独立毕业统计待补"
+      },
+      "coverage_notes": [
+        "具名在读插读，不以普通本科高考、UCAS、学费或母专业毕业群体替代。"
+      ]
     }
   ],
   "profile": {

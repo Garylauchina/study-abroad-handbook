@@ -60,6 +60,9 @@ hide:
 <p class="catalog-fact"><strong>专业申请条件：</strong>医学三/四年级后或牙科二年级后插读；MBChB/BDS 二年级超过 60%，按成绩和申请表回答排序。低于 60% 但能证明明显进步或相关卓越表现仍可申请；外校学生须用指定表格并附成绩单。</p>
 <p class="fact-sources"><a href="#source-p-BHM-17f35bcc7589a704">官方依据</a></p>
 
+<p class="catalog-fact"><strong>外校申请的就读地点限制：</strong>医学学院现行插读总页把外校申请范围限定为当前在英国或欧盟学习医学、牙科或药学者。本项目自身允许的在读专业、年级和成绩仍须同时满足；“接受外校”不能理解为中国大陆境内医学生均可直接申请。</p>
+<p class="fact-sources"><a href="#source-p-BHIR-intercalation">官方依据</a></p>
+
 ## 申请安排 {#applications}
 
 <p class="catalog-fact"><strong>插读申请页面冲突：</strong>招生条件说明外校申请用指定插读表格并附成绩单；同一页申请区却混入 postgraduate 在线申请和 2026 年 7 月 17 日国际截止组件。该组件不能直接认定为本插读入口期限；本轮未核得可用的 2027 截止，应向插读团队确认。</p>
@@ -86,5 +89,6 @@ hide:
 - [官方目录](https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true)
 
 <div class="catalog-source" id="source-p-BHM-17f35bcc7589a704"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/health-management-and-leadership-msci-intercalated-degree">Health Management and Leadership (Intercalated Degree) MSci：官方课程详情 ↗</a><p>学位、学制与版本；入学年份边界；校区；授课语言边界；课程内容举例；专业申请条件；插读申请页面冲突；国际生学费与年份；插读资助缺口；官网职业方向</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-BHIR-intercalation"><div><a href="https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees">伯明翰医学学院：现行插读清单及在读地点限制 ↗</a><p>外校申请的就读地点限制</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/birmingham/">← 返回伯明翰大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

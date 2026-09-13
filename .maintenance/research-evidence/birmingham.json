@@ -128,6 +128,12 @@
       "locator": "hero; courseYearItems; course sections yearOfEntry=2027; hero.campus; hero.duration; courseDelivery[2027]; entryRequirements[2027].englishLanguageRequirements; courseModules[2027] .modulesComposer.items[1].text.table[0], .modulesComposer.items[1].text.table[0]; entryRequirements[2027].details; courseApplicationProcess[2027]; courseFees[2027].internationalFeesContent; career[2027]"
     },
     {
+      "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+      "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+      "raw_file": "scratch/full-catalog/birmingham-legacy-recovery/raw/intercalation.html",
+      "locator": null
+    },
+    {
       "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/criminology-with-year-abroad-ba",
       "sha256": "610182aed421423162d4f652c320585c414c90f6b2abfd9fd519b0bcf0da53c7",
       "raw_file": "scratch/full-catalog/birmingham-enrichment/raw/course-f96ff2f6fd4b838a.html",
@@ -1406,6 +1412,12 @@
       "locator": "hero; courseYearItems; course sections yearOfEntry=2027; courseDelivery[2027]; entryRequirements[2027].englishLanguageRequirements; courseModules[2027] .modulesComposer.items[1].tabItems[0].content.table[0], .modulesComposer.items[1].tabItems[0].content.table[0], .modulesComposer.items[1].tabItems[0].content.table[0]; entryRequirements[2027].requirements; hero.ucas; courseApplicationProcess[2027]; hero.ucas; hero.links; courseFees[2027].internationalFeesContent; courseFees[2026].internationalFeesContent; career[2027] curriculum-related career content, excluding generic alumni advertising"
     },
     {
+      "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/psychology-and-neuroscience-courses/human-neuroscience-bsc",
+      "sha256": "8bc2aa7a13c33067b9a30cf5a289bd1146a24c48a38f7e4c10dbc535ec74883e",
+      "raw_file": "scratch/full-catalog/birmingham-legacy-recovery/raw/human-neuroscience.html",
+      "locator": null
+    },
+    {
       "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/human-sciences-bsc",
       "sha256": "c50e768babe8af24d4eac4764107c0a739550377a45d9377b2c6b443c952401a",
       "raw_file": "scratch/full-catalog/birmingham-enrichment/raw/course-08a757d5fd73c0ff.html",
@@ -1721,6 +1733,18 @@
       "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/undergraduate-degree-courses",
       "sha256": "f875b4bec2eaeb20386a4fe66b1dca74acec3ed7fbd8d5b5b4e1f39cea72fb01",
       "raw_file": "scratch/full-catalog/school-only-remainders/raw/birmingham-med-list.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/applied-health-sciences/work-and-study",
+      "sha256": "27f8fed2f59eeb51a0a140370aaf0de5935d8533c85bcd175e5a68ce00bb3ae1",
+      "raw_file": "scratch/full-catalog/birmingham-legacy-recovery/raw/department.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/health-management-and-leadership-msci-intercalated-degree",
+      "sha256": "a3da25d9ece068e4b7b265981fd81eb268ebb616d0a89f7bd3f3ed662305dd2c",
+      "raw_file": "scratch/full-catalog/birmingham-legacy-recovery/raw/current-management.html",
       "locator": null
     },
     {
@@ -2042,6 +2066,18 @@
       "locator": null
     },
     {
+      "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/medicine-courses/global-health-msc",
+      "sha256": "39c856098874a3653db28e615d65de3cd7cf599a5a54d04281ade616fe5aecf9",
+      "raw_file": "scratch/full-catalog/birmingham-legacy-recovery/raw/current-global-msc.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.birmingham.ac.uk/undergraduate/courses/med/publicandglobalhealthsciencemsci-intercalateddegree",
+      "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+      "raw_file": "scratch/full-catalog/birmingham-legacy-recovery/raw/public-extensionless.html",
+      "locator": null
+    },
+    {
       "url": "https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/robotics-artificial-intelligence-ai-beng-dubai",
       "sha256": "90e57984f60d565309a52a3b7f0c5c1d444e1fe3c13cb515340aaffe5ddffca2",
       "raw_file": "scratch/full-catalog/birmingham-enrichment/raw/course-8cf1656c996be824.html",
@@ -2100,6 +2136,12 @@
       "sha256": "89e407edb29785be35c4d954869aeb006455e5f6826b400df3aef0a78733f464",
       "raw_file": "scratch/full-catalog/birmingham-enrichment/raw/course-666eba4ac56ca810.html",
       "locator": "hero; courseYearItems; course sections yearOfEntry=2027; courseDelivery[2027]; entryRequirements[2027].englishLanguageRequirements; courseModules[2027] .modulesComposer.items[1].tabItems[0].content.table[0], .modulesComposer.items[1].tabItems[0].content.table[0], .modulesComposer.items[1].tabItems[0].content.table[0]; entryRequirements[2027].requirements; hero.ucas; courseApplicationProcess[2027]; hero.ucas; hero.links; courseFees[2027].internationalFeesContent; courseFees[2026].internationalFeesContent; career[2027] curriculum-related career content, excluding generic alumni advertising"
+    },
+    {
+      "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/sport-sciences-courses/sport-exercise-and-health-sciences-bsc",
+      "sha256": "e910ae76aaa5c5ac8f27bb5e6c86a21e2a1708f036edf1722d2bf30c21121ae7",
+      "raw_file": "scratch/full-catalog/birmingham-legacy-recovery/raw/sport.html",
+      "locator": null
     },
     {
       "url": "https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/geography-earth-and-environmental-sciences-courses/bsc-sustainability-with-integrated-foundation-year-dubai",

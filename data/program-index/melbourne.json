@@ -3,9 +3,9 @@
   "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 144,
+    "count": 153,
     "scope": "Every named bachelor and non-minor major/specialisation in 2027 official university guide pp12–13, plus Science Extended in entry table",
-    "method": "{\"pdf_pages\": 24, \"complete_major_spread_pages\": [12, 13], \"visual_review\": true, \"group_counts\": {\"Agriculture\": 3, \"Arts\": 33, \"Biomedicine\": 16, \"Commerce\": 7, \"Design\": 14, \"Fine Arts\": 9, \"Music\": 6, \"Oral Health\": 0, \"Science\": 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。",
+    "method": "{\"pdf_pages\": 24, \"complete_major_spread_pages\": [12, 13], \"visual_review\": true, \"group_counts\": {\"Agriculture\": 3, \"Arts\": 33, \"Biomedicine\": 16, \"Commerce\": 7, \"Design\": 14, \"Fine Arts\": 9, \"Music\": 6, \"Oral Health\": 0, \"Science\": 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。 本次独立对账官方11页129个主修/辅修/方向结果：93主修URL对应115父学位关系，114已在库存、1为已更正的旧数学总项；25荣誉方向URL去重为13方向、12为申请子页；11辅修不作新学位。另补9个具名荣誉学士，现153条，原144身份及事实保留。",
     "exclusions": "Official PDF obtained using normal Chrome downloadMedia on observed download link; archived original + SHA256；Explicit minor-only footnote exclusions: Chinese Societies, Development Studies, Digital Studies, English Language Studies, Environmental Studies, European Studies, Japanese Societies, Law and Justice, Medieval and Early Modern Studies, South Asian Studies；Oral Health four curricular components explicitly not majors and are not separately counted；Exclude concurrent diplomas and standalone postgraduate MD/JD/DVM; Veterinary Bioscience remains bachelor major with later-selection note",
     "sources": [
       {
@@ -2737,13 +2737,394 @@
         "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/",
         "sha256": "3e4f1dd3bb5cb73076c29f95793e39d3b027e0b3e3925d9e82d600f1b5fa56e7",
         "raw_file": "scratch/full-catalog/melbourne-geology-reconciliation/raw/901f381dbf4827b1.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-agriculture-degree-with-honours/how-to-apply/#nav",
+        "sha256": "e71cb9135744ad251d2421c73c23ac5aaa075393bea03f21ab18c7d3342bd39a",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/agriculture-honours-apply.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-agriculture-degree-with-honours/entry-requirements/#nav",
+        "sha256": "9c1be035172825a1ca6c27ef27c16178b1dc049ee0157261363358a997e072c9",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/agriculture-honours-entry.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-agriculture-degree-with-honours",
+        "sha256": "f85013f7e27108e21e5bf00ba2dd875b7946eafc6768751a507d98ba417ab85a",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/agriculture-honours-overview.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-agriculture-degree-with-honours/structure/#nav",
+        "title": "Bachelor of Agriculture (Degree with Honours)",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_public_main_dom",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/agriculture-honours-structure.html",
+        "sha256": "3b5d0445135df45f776427106b1ceb72b81f47fcb2b731a7e67ea052e5064c86",
+        "chars": 16079
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=1&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+        "title": "Find a course - The University of Melbourne",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_public_main_dom",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/all-majors-page-1-dom.html",
+        "sha256": "57ae86766708c91d3f63a123ca3b951ae972d06ef9b141cc35266f36277e616a",
+        "chars": 29574
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/?collection=find-a-course&profile=_default&query=%21showall&num_ranks=12&start_rank=1&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_accessibility_snapshot",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/all-majors-page-1.ax.txt",
+        "sha256": "84ed47d73ddfda63b962bd448bb5aeb08b84812a80a12fa58ecb353a5d816353",
+        "chars": 15267
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=109&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+        "title": "Find a course - The University of Melbourne",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_public_main_dom",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/all-majors-page-10-dom.html",
+        "sha256": "6c546803aa2e9f0e5948af9d5c4ce44c3e44e98208c9d113aa92a45a79ab0bb4",
+        "chars": 29735
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=121&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+        "title": "Find a course - The University of Melbourne",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_public_main_dom",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/all-majors-page-11-dom.html",
+        "sha256": "b3d11f313730f3250fa4e555a7fefe5ab6f215821062632858dd1dd8556b918b",
+        "chars": 25995
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=13&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+        "title": "Find a course - The University of Melbourne",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_public_main_dom",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/all-majors-page-2-dom.html",
+        "sha256": "da60b8091e7b34a1b19d4700246c675d5e9c0199857344dd298f8176020f0ae0",
+        "chars": 29445
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=25&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+        "title": "Find a course - The University of Melbourne",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_public_main_dom",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/all-majors-page-3-dom.html",
+        "sha256": "567a1f1de3e0fc575bc2745543100a7f90801355f2828863bfd603d1afda9c1f",
+        "chars": 30065
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=37&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+        "title": "Find a course - The University of Melbourne",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_public_main_dom",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/all-majors-page-4-dom.html",
+        "sha256": "b94a1e62999458da7875af62bb62d53da9e03c9b45b4d45b8c3cfe1a614d62df",
+        "chars": 29167
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=49&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+        "title": "Find a course - The University of Melbourne",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_public_main_dom",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/all-majors-page-5-dom.html",
+        "sha256": "31c1554f0c6d251a2563ad1acd2692e623a763547432bf2f353eb3dd44de781d",
+        "chars": 29946
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=49&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_accessibility_snapshot",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/all-majors-page-5-reloaded.ax.txt",
+        "sha256": "830848f1a7089cdf660bd4c64d7aab29d36fb203241a0349b467fc9f68d48dc2",
+        "chars": 1645
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=61&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+        "title": "Find a course - The University of Melbourne",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_public_main_dom",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/all-majors-page-6-dom.html",
+        "sha256": "153466c6014eec85119d7dd7b76a53af1274600f7adfb40e6069dbda462ee458",
+        "chars": 29629
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=73&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+        "title": "Find a course - The University of Melbourne",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_public_main_dom",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/all-majors-page-7-dom.html",
+        "sha256": "bf7e18304519dd3ac60b511def8cf01f02a986be685c086110875132c3176db4",
+        "chars": 29837
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=85&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+        "title": "Find a course - The University of Melbourne",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_public_main_dom",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/all-majors-page-8-dom.html",
+        "sha256": "9525f3b69d5f48e309d307f955db3f78980eeaea546004d3a3770be8bdf79686",
+        "chars": 29453
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=97&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+        "title": "Find a course - The University of Melbourne",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_public_main_dom",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/all-majors-page-9-dom.html",
+        "sha256": "94d0d018db683e8daa34d287238cb17940317c97ebf8fc98ad1ca4541322db3a",
+        "chars": 29298
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/how-to-apply/#nav",
+        "sha256": "c2e345b28d54a1a0913c1a13615f7a21fb1a0c97be93a06134b116ea88de615e",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/arts-honours-apply.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/entry-requirements/#nav",
+        "sha256": "f875fefba030089fcae46fe7ad715b5b698f249c72e3f8a61c62a4f4c0378a67",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/arts-honours-entry.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours",
+        "sha256": "7f8f6f683153cd910a3ee29c4a548f8cf217be74929bb04811873ed965fd1c9a",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/arts-honours-overview.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/structure/#nav",
+        "sha256": "42615ff1bdf44eee67ce2d156668a64ada06b9e24d5f48e7685f23a883395f34",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/arts-honours-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-agriculture-degree-with-honours",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_accessibility_snapshot",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/bachelor-of-agriculture-degree-with-honours-overview.ax.txt",
+        "sha256": "ae6a78de2e6563df1b2cdb2e00f34639080e97481e45e7e1041d25c20a52048f",
+        "chars": 13109
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/structure/",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_accessibility_snapshot",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/bachelor-of-agriculture-structure.ax.txt",
+        "sha256": "902bf6664b0f4327465cc2b60360c8e4d16f8ebcaa25bb12d5291367d086bcce",
+        "chars": 24580
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/structure/",
+        "title": "Bachelor of Arts : Course structure - The University of Melbourne",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_public_main_dom",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/bachelor-of-arts-structure.html",
+        "sha256": "f378afdcedfc7aa2bb7cf0c389f71e7527ed89c6f54b231bc475b3dcf73b3191",
+        "chars": 348255
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/structure/",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_accessibility_snapshot",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/bachelor-of-biomedicine-structure.ax.txt",
+        "sha256": "9a209d22d30027d8da9dff3d988472800c67f90e77656203792fc42c66654295",
+        "chars": 48353
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+        "checked_at": "2026-09-13",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/bachelor-of-commerce-structure-ax.txt",
+        "capture_format": "chrome_accessibility_snapshot",
+        "sha256": "d8e22a2cb087d6e645f1e8819dbc6d2fe74396d9fd82f1f77b2c17a79b0a5270",
+        "chars": 37520
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+        "title": "Bachelor of Commerce : Course structure - The University of Melbourne",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_public_main_dom",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/bachelor-of-commerce-structure.html",
+        "sha256": "b0d8e752dab19d15f462dab3c889f5d55bba0b10c08a4af9879bc176c590a027",
+        "chars": 258458
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/structure/",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_accessibility_snapshot",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/bachelor-of-design-structure.ax.txt",
+        "sha256": "4f463debf2aeefdb1a48fb99984dc1883d6b83c778d184625f27ac7294a94916",
+        "chars": 40462
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_accessibility_snapshot",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/bachelor-of-science-structure.ax.txt",
+        "sha256": "59397deddb69c2ac4980541912db262859e2eb3bc8ffdc74028dabc2333cb7a9",
+        "chars": 81525
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours/how-to-apply/#nav",
+        "sha256": "2ec4886805d226a6f1832f22d2d826d1b853e90f36abfd3b3ef2186370ea56d7",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/biomedicine-honours-apply.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours/entry-requirements/#nav",
+        "sha256": "7fc4d20c4a79b36f8a130d48866b9460a71116e7ea72ac913bb92b9dd4b7e6e7",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/biomedicine-honours-entry.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours",
+        "sha256": "d09114381101c0d131db05ad9adb3baf36a3249fd9d88b796c16fb581bf86fb0",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/biomedicine-honours-overview.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours/structure/#nav",
+        "sha256": "415b67b2d74f394dde5179becb7a9a3fa7993bd0063e614cd6b74577f1fc06d0",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/biomedicine-honours-structure.html"
+      },
+      {
+        "url": "https://fbe.unimelb.edu.au/students/bcom/honours/entry-requirements-and-how-to-apply",
+        "sha256": "175bb984178614a0ad59353f773f5964954fd761b3bba0dd89ffaa5ed538b208",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/commerce-honours-entry.html"
+      },
+      {
+        "url": "https://fbe.unimelb.edu.au/students/bcom/honours/what-is-honours",
+        "sha256": "c2267c3fdd73c1a920251fffe0f8c7528b2e61a92ce7fcf17a0b80f57a2686b2",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/commerce-honours-overview.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/study-with-us/the-melbourne-curriculum",
+        "title": "The Melbourne curriculum — undergraduate and honours accordions expanded",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_public_main_dom",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/curriculum-expanded.html",
+        "sha256": "b76141b9b63b410d2b6851b79dae174324982583846d09fd9cc6e94141ff334a"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-design-degree-with-honours/how-to-apply/#nav",
+        "sha256": "ec6ba32acd5b6aa3ae2fc15bc4d0a88e34114a6f08075b2bd0500ae72e66fe57",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/design-honours-apply.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-design-degree-with-honours/entry-requirements/#nav",
+        "sha256": "961ed24d5538c06006cdc09fa6d359a012fed479443c63f22dfe269512a2b42c",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/design-honours-entry.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-design-degree-with-honours",
+        "sha256": "21f5e7666c9b218bb5e42335964b8ebae76b6925d26ac02f8901687e3a215e57",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/design-honours-overview.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-design-degree-with-honours/structure/#nav",
+        "sha256": "aa63ef12195aa4dd4749bb5c12d8feee446b176069d5a1f5b5896c5220e6b312",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/design-honours-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours/how-to-apply/#nav",
+        "sha256": "ce4a249e23a8d53c644ea45f0ef0bab03bad60ce00da71f024e14d61d61e5823",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/fine-arts-honours-apply.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours/entry-requirements/#nav",
+        "sha256": "f294b2985688fc18a877a6f5cf97c689c1422831fa7139c2e277a1fe8df7eadb",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/fine-arts-honours-entry.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours",
+        "sha256": "ac7a581caf794f44f85fabbca31449b354a123e6e76edfd9bc376d7cc1ca2f76",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/fine-arts-honours-overview.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours/structure/#nav",
+        "sha256": "8832eacb9c4d54c034eb0c5f18eecc7128c29d03a51dbfd7effcc640511bd8f5",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/fine-arts-honours-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/study-with-us/programs-for-indigenous-students",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_accessibility_snapshot",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/indigenous-programs.ax.txt",
+        "sha256": "5c289945561981748b96cd62c78314a57512b799e264e739d4fa77d23dba9a92",
+        "chars": 12115
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-medical-science-degree-with-honours/how-to-apply/#nav",
+        "sha256": "486fe45529238c828bbbaf88d64749ef849b266ec45e6f77da0ecb761e03bdcb",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/medical-science-honours-apply.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-medical-science-degree-with-honours/entry-requirements/#nav",
+        "sha256": "3ebd1c90d76471e9b97d59bda4149b406e0ef813347c684f4f1478e6f8b95664",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/medical-science-honours-entry.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-medical-science-degree-with-honours",
+        "sha256": "4cae35d12a7b27ffd9e612d00a0161a138623125cd32e44215e68b77a8047569",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/medical-science-honours-overview.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-medical-science-degree-with-honours/structure/#nav",
+        "sha256": "503f7af5284c47cffca94077392f0bd32b910b9f60ecda9c24c336051273b157",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/medical-science-honours-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/how-to-apply/#nav",
+        "sha256": "21df0c4b3302631ebb6d2ece95e57fc9cf39a5e36a6f7b82b2b225a250c7de2c",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/music-honours-apply.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/entry-requirements/#nav",
+        "sha256": "06755eb5fad5f6aacfee2702a10761f52aceecf5188f48cc2d5e895589e41326",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/music-honours-entry.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours",
+        "sha256": "27aed5592a3e047ee5033857546de0cfc30761a08400798606a567dcf57b1cb3",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/music-honours-overview.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/structure/#nav",
+        "sha256": "3b46db01a2284264af6de4169cd5c3a6e6b92a69d6884f408ce85d6b3edbd16a",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/music-honours-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/how-to-apply/#nav",
+        "sha256": "eb064e139dbfbd9d3a3cbcaed7298e1fcb52bfcbf1bb705f4cb2ce498608fd0f",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/science-honours-apply.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/entry-requirements/#nav",
+        "sha256": "d6f93f5099809a5f2d0cb26bf92bb3f5a9ec29c0b3d0a2a100eddd4dd528292f",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/science-honours-entry.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours",
+        "sha256": "3eda8efd01c3f12b52d2857b5c64d7ebbb1f2f87a0ecc9707d7cee5a304ead37",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/science-honours-overview.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/structure/#nav",
+        "sha256": "befb7169c357af3ff930841d042054e3023d9a14a881c9009003382c75a88cc2",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/science-honours-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/study-with-us/undergraduate-courses",
+        "checked_at": "2026-09-13",
+        "capture_format": "chrome_accessibility_snapshot",
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/undergraduate-courses.ax.txt",
+        "sha256": "780c0a39d3529291730e8cb047cead02b566cb86ec54319ec72d09fda9d84404",
+        "chars": 16141
       }
     ],
     "gaps": [
       "Geology仅供2024年前已开始该主修者继续，现行入口为Geoscience；当前5个数学/化学生物主修已与旧数学总项及2027指南区别。具名2027 Handbook选课规则、数学停止/转换年度和完整specialisation适用组合仍未取得，保持部分覆盖。",
       "9个艺术音乐方向只有2026费用参考；其他费用逐项区分所属学位和2027估算，内部主修不另算一份学费。",
       "课程2027年中截止03-31与学校国际总页05-31不一致，保留两者；艺术音乐采用专门选拔时间。",
-      "本科后荣誉、后续职业学位的完整选拔与个人注册条件，以及按专业和国际生样本定义的毕业统计仍未全部核实。"
+      "本科后荣誉、后续职业学位的完整选拔与个人注册条件，以及按专业和国际生样本定义的毕业统计仍未全部核实。",
+      "9个新荣誉学士须大学阶段资格；Medical Science还限合作国际院校。BFA五方向和Music Tailored Program明确无2027入学，其余荣誉内部学科、BCom十个25学分specialisation与相关主修组合仍未全部逐项闭合。",
+      "8个荣誉学士费用仅2026国际生首年指示价，Commerce Honours专属费用未取得；2027费用、部分申请日期、授课语言及按专业/国际生分母的毕业统计仍缺。官网目录仍保留旧数学总项，不据此恢复；BA Extended仍为未确认线索。"
     ]
   },
   "programs": [
@@ -5336,6 +5717,232 @@
       "checked_at": "2026-09-13",
       "id": "melbourne-chemical-biology-and-therapeutics-9e4399e609",
       "name": "化学生物学与治疗学（理学学士主修）"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-AGR",
+      "name_en": "Bachelor of Agriculture (Degree with Honours)",
+      "name": "农业荣誉学士（学士后一年）",
+      "degree_label": "Bachelor of Agriculture (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-agriculture-degree-with-honours",
+      "discovery_source_url": "https://study.unimelb.edu.au/study-with-us/the-melbourne-curriculum",
+      "record_type": "degree",
+      "entity_type": "学士后荣誉学位入口",
+      "requires_prior_degree": true,
+      "campus": "Parkville",
+      "duration": "1年全日制",
+      "language": "本轮未取得本荣誉学位专属授课语言说明",
+      "intake": "2027年初入学；费用为2026参考",
+      "source_period": "2026-09-13公开页面；2027安排与2026费用逐项分开",
+      "entry_route": "须先完成农业学士或等值学位；近10年WAM至少65%，并提交导师表。",
+      "eligibility": "须大学学位或官网明确等值资格；不继承普通高中直申规则",
+      "status": "current_official_degree_listed",
+      "id": "melbourne-bachelor-of-agriculture-degree-with-honours-f55491c5ef",
+      "subjects": [
+        "环境与农业"
+      ],
+      "subject": "环境与农业"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-ARTS",
+      "name_en": "Bachelor of Arts (Degree with Honours)",
+      "name": "文学荣誉学士（学士后一年）",
+      "degree_label": "Bachelor of Arts (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours",
+      "discovery_source_url": "https://study.unimelb.edu.au/study-with-us/the-melbourne-curriculum",
+      "record_type": "degree",
+      "entity_type": "学士后荣誉学位入口",
+      "requires_prior_degree": true,
+      "campus": "Parkville",
+      "duration": "1年全日制；官网另列2年非全日制，个人可用性另核",
+      "language": "本轮未取得本荣誉学位专属授课语言说明",
+      "intake": "2027起适用新入学要求；截止页未标具体年度",
+      "source_period": "2026-09-13公开页面；2027安排与2026费用逐项分开",
+      "entry_route": "2027起：近5年相关文学学士WAM至少70%；各方向另有先修与论文计划要求。",
+      "eligibility": "须大学学位或官网明确等值资格；不继承普通高中直申规则",
+      "status": "current_official_degree_listed",
+      "id": "melbourne-bachelor-of-arts-degree-with-honours-ac8146e0b6",
+      "subjects": [
+        "人文"
+      ],
+      "subject": "人文"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-BMED",
+      "name_en": "Bachelor of Biomedicine (Degree with Honours)",
+      "name": "生物医学荣誉学士（学士后一年）",
+      "degree_label": "Bachelor of Biomedicine (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours",
+      "discovery_source_url": "https://study.unimelb.edu.au/study-with-us/the-melbourne-curriculum",
+      "record_type": "degree",
+      "entity_type": "学士后荣誉学位入口",
+      "requires_prior_degree": true,
+      "campus": "Parkville；具体研究可在所属医院或研究机构",
+      "duration": "1年全日制；心理学另有非全日制例外",
+      "language": "本轮未取得本荣誉学位专属授课语言说明",
+      "intake": "2027年初MDHS两轮；心理学另核",
+      "source_period": "2026-09-13公开页面；2027安排与2026费用逐项分开",
+      "entry_route": "近10年相关学士WAM至少65%；其他学士分支须两年科技学习及50学分相关三年级课；心理学另核。",
+      "eligibility": "须大学学位或官网明确等值资格；不继承普通高中直申规则",
+      "status": "current_official_degree_listed",
+      "id": "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5",
+      "subjects": [
+        "医学与健康",
+        "自然科学"
+      ],
+      "subject": "医学与健康"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-DES",
+      "name_en": "Bachelor of Design (Degree with Honours)",
+      "name": "设计荣誉学士（学士后一年）",
+      "degree_label": "Bachelor of Design (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-design-degree-with-honours",
+      "discovery_source_url": "https://study.unimelb.edu.au/study-with-us/the-melbourne-curriculum",
+      "record_type": "degree",
+      "entity_type": "学士后荣誉学位入口",
+      "requires_prior_degree": true,
+      "campus": "Parkville",
+      "duration": "1年全日制；官网另列2年非全日制，个人可用性另核",
+      "language": "本轮未取得本荣誉学位专属授课语言说明",
+      "intake": "现行页面仅第一学期；2027专属年度未核",
+      "source_period": "2026-09-13公开页面；2027安排与2026费用逐项分开",
+      "entry_route": "近5年相关设计领域学士WAM至少70%，录取还取决于研究相关性及导师容量。",
+      "eligibility": "须大学学位或官网明确等值资格；不继承普通高中直申规则",
+      "status": "current_official_degree_listed",
+      "id": "melbourne-bachelor-of-design-degree-with-honours-b13c8a43e3",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-FA",
+      "name_en": "Bachelor of Fine Arts (Degree with Honours)",
+      "name": "美术荣誉学士（学士后一年）",
+      "degree_label": "Bachelor of Fine Arts (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours",
+      "discovery_source_url": "https://study.unimelb.edu.au/study-with-us/the-melbourne-curriculum",
+      "record_type": "degree",
+      "entity_type": "学士后荣誉学位入口",
+      "requires_prior_degree": true,
+      "campus": "Southbank",
+      "duration": "1年全日制",
+      "language": "本轮未取得本荣誉学位专属授课语言说明",
+      "intake": "2027年初；五个方向明确不招生",
+      "source_period": "2026-09-13公开页面；2027安排与2026费用逐项分开",
+      "entry_route": "相关美术学士WAM至少70%，作品集、书面计划及入围面试；2027仅Visual Art未列停招。",
+      "eligibility": "须大学学位或官网明确等值资格；不继承普通高中直申规则",
+      "status": "current_official_degree_listed",
+      "id": "melbourne-bachelor-of-fine-arts-degree-with-honours-01ddd7a7f7",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-MEDSCI",
+      "name_en": "Bachelor of Medical Science (Degree with Honours)",
+      "name": "医学科学荣誉学士（合作院校限定入口）",
+      "degree_label": "Bachelor of Medical Science (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-medical-science-degree-with-honours",
+      "discovery_source_url": "https://study.unimelb.edu.au/study-with-us/the-melbourne-curriculum",
+      "record_type": "degree",
+      "entity_type": "学士后荣誉学位入口",
+      "requires_prior_degree": true,
+      "campus": "Parkville",
+      "duration": "1年全日制",
+      "language": "本轮未取得本荣誉学位专属授课语言说明",
+      "intake": "现行页面列1月／7月；2027独立批次未核",
+      "source_period": "2026-09-13公开页面；2027安排与2026费用逐项分开",
+      "entry_route": "仅国际合作院校指定入口；当前要求近5年完成相关AQF7学位且WAM至少70%，非高中直申。",
+      "eligibility": "仅持合作协议国际院校的指定在读生／毕业生，且当前具体入学页要求完成相关AQF7学位；中国院校名单与个人资格另核",
+      "status": "current_official_degree_listed",
+      "id": "melbourne-bachelor-of-medical-science-degree-with-honours-d1d0398614",
+      "subjects": [
+        "医学与健康"
+      ],
+      "subject": "医学与健康"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-MUS",
+      "name_en": "Bachelor of Music (Degree with Honours)",
+      "name": "音乐荣誉学士（学士后一年）",
+      "degree_label": "Bachelor of Music (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours",
+      "discovery_source_url": "https://study.unimelb.edu.au/study-with-us/the-melbourne-curriculum",
+      "record_type": "degree",
+      "entity_type": "学士后荣誉学位入口",
+      "requires_prior_degree": true,
+      "campus": "Southbank",
+      "duration": "1年全日制；官网另列2年非全日制，个人可用性另核",
+      "language": "本轮未取得本荣誉学位专属授课语言说明",
+      "intake": "2027年初；Tailored Program暂停",
+      "source_period": "2026-09-13公开页面；2027安排与2026费用逐项分开",
+      "entry_route": "近5年音乐学士WAM至少65%，按方向提交作品／试演／学术写作；Tailored Program不收2027。",
+      "eligibility": "须大学学位或官网明确等值资格；不继承普通高中直申规则",
+      "status": "current_official_degree_listed",
+      "id": "melbourne-bachelor-of-music-degree-with-honours-4710cee4c0",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-SCI",
+      "name_en": "Bachelor of Science (Degree with Honours)",
+      "name": "理学荣誉学士（学士后一年）",
+      "degree_label": "Bachelor of Science (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours",
+      "discovery_source_url": "https://study.unimelb.edu.au/study-with-us/the-melbourne-curriculum",
+      "record_type": "degree",
+      "entity_type": "学士后荣誉学位入口",
+      "requires_prior_degree": true,
+      "campus": "Parkville；所属医院和研究项目地点另核",
+      "duration": "1年全日制；理学院不提供非全日制，心理学另列例外",
+      "language": "本轮未取得本荣誉学位专属授课语言说明",
+      "intake": "2027年初／部分方向年中；心理学日期另核",
+      "source_period": "2026-09-13公开页面；2027安排与2026费用逐项分开",
+      "entry_route": "近10年三年制学士，至少两年科技领域及50学分相关三年级课程，WAM至少65%；方向可要求更高。",
+      "eligibility": "须大学学位或官网明确等值资格；不继承普通高中直申规则",
+      "status": "current_official_degree_listed",
+      "id": "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b",
+      "subjects": [
+        "待分类"
+      ],
+      "subject": "待分类"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-COM",
+      "name_en": "Bachelor of Commerce (Honours)",
+      "name": "商科荣誉学士（学士后一年）",
+      "degree_label": "Bachelor of Commerce (Honours)",
+      "official_url": "https://fbe.unimelb.edu.au/students/bcom/honours/what-is-honours",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+      "record_type": "degree",
+      "entity_type": "学士后荣誉学位入口",
+      "requires_prior_degree": true,
+      "campus": "",
+      "duration": "全日制增加第4年",
+      "language": "本轮未取得本荣誉学位专属授课语言说明",
+      "intake": "2027第一学期",
+      "source_period": "2026-09-13公开页面；2027安排与2026费用逐项分开",
+      "entry_route": "完成商科学士后两年内开始；会计、精算、经济或金融须满足各自大学三年级先修。",
+      "eligibility": "须大学学位或官网明确等值资格；不继承普通高中直申规则",
+      "status": "current_official_degree_listed",
+      "id": "melbourne-bachelor-of-commerce-honours-46c93dcc1d",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
     }
   ]
 }

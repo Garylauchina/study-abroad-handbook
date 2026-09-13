@@ -2,17 +2,16 @@
   "university_id": "birmingham",
   "checked_at": "2026-09-13",
   "coverage": {
-    "status": "complete",
-    "count": 342,
-    "scope": "Use exact undergraduate academicLevel ID emitted by official UI；pageSize=500 returns 345 cards with no remaining pagination；All subjects and study locations, including Dubai, intercalated and graduate-entry undergraduate programmes；Three non-bachelor standalone records separately excluded: pre-sessional English, Food Safety and Food Legislation CertHE, Professional Golf Studies FdSc. Foundation pathways attached to bachelor degrees are retained.",
-    "method": "[{\"default_pagination\": \"35 pages at 10/page\", \"expanded_source\": \"https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true\", \"pageSize\": 500, \"received_cards\": 345, \"next_button_present\": false}] 逐项复核342条：338个实质课程页、1个2027简章课程、1个明确停招通知；2个旧插读详情仍缺。当前事实区分英国／迪拜、2025／2026／2027版本与特殊入口。",
+    "status": "partial",
+    "count": 344,
+    "scope": "原官方检索345张本科课程卡片与排除记录，另逐项对照医学学院具名插读入口；所有在读路线及独立授位尚未闭合。",
+    "method": "[{\"default_pagination\": \"35 pages at 10/page\", \"expanded_source\": \"https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true\", \"pageSize\": 500, \"received_cards\": 345, \"next_button_present\": false}] 逐项复核342条：338个实质课程页、1个2027简章课程、1个明确停招通知；2个旧插读详情仍缺。当前事实区分英国／迪拜、2025／2026／2027版本与特殊入口。 从医学学院当前插读目录补2个具名BSc入口，10旧项保留78事实并补实际在读地点/本校范围与旧名状态；原342卡片库存保留。",
     "exclusions": "Use exact undergraduate academicLevel ID emitted by official UI；pageSize=500 returns 345 cards with no remaining pagination；All subjects and study locations, including Dubai, intercalated and graduate-entry undergraduate programmes；Three non-bachelor standalone records separately excluded: pre-sessional English, Food Safety and Food Legislation CertHE, Professional Golf Studies FdSc. Foundation pathways attached to bachelor degrees are retained.",
     "sources": [
       {
         "url": "https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true",
         "sha256": "4c5950051ee207e378a28445eab160dd5552882b86dc236bb4f7c333d3ab2797",
-        "raw_file": "scratch/full-catalog/uk/birmingham/raw/directory-all-dom.html",
-        "locator": null
+        "raw_file": "scratch/full-catalog/uk/birmingham/raw/directory-all-dom.html"
       },
       {
         "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-bsc",
@@ -1777,29 +1776,62 @@
       {
         "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/health-management-and-leadership-msci-intercalated-degree",
         "sha256": "011f5164996f83cbe4fa069889667546f26eb00ba1a70573527e37231cdd1c2f",
-        "raw_file": "scratch/full-catalog/school-only-remainders/raw/birmingham-health-current.html",
-        "locator": null
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/birmingham-health-current.html"
       },
       {
         "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/undergraduate-degree-courses",
         "sha256": "f875b4bec2eaeb20386a4fe66b1dca74acec3ed7fbd8d5b5b4e1f39cea72fb01",
-        "raw_file": "scratch/full-catalog/school-only-remainders/raw/birmingham-med-list.html",
-        "locator": null
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/birmingham-med-list.html"
       },
       {
         "url": "https://www.birmingham.ac.uk/study/courses?term=public+health",
         "sha256": "58f5e3ad7a774d8af973604e9be80b826e607bce155febdf04b2e8b5074e6986",
-        "raw_file": "scratch/full-catalog/school-only-remainders/raw/birmingham-public-search.html",
-        "locator": null
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/birmingham-public-search.html"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+        "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+        "raw_file": "scratch/full-catalog/birmingham-legacy-recovery/raw/intercalation.html"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/psychology-and-neuroscience-courses/human-neuroscience-bsc",
+        "sha256": "8bc2aa7a13c33067b9a30cf5a289bd1146a24c48a38f7e4c10dbc535ec74883e",
+        "raw_file": "scratch/full-catalog/birmingham-legacy-recovery/raw/human-neuroscience.html"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/applied-health-sciences/work-and-study",
+        "sha256": "27f8fed2f59eeb51a0a140370aaf0de5935d8533c85bcd175e5a68ce00bb3ae1",
+        "raw_file": "scratch/full-catalog/birmingham-legacy-recovery/raw/department.html"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/health-management-and-leadership-msci-intercalated-degree",
+        "sha256": "a3da25d9ece068e4b7b265981fd81eb268ebb616d0a89f7bd3f3ed662305dd2c",
+        "raw_file": "scratch/full-catalog/birmingham-legacy-recovery/raw/current-management.html"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/medicine-courses/global-health-msc",
+        "sha256": "39c856098874a3653db28e615d65de3cd7cf599a5a54d04281ade616fe5aecf9",
+        "raw_file": "scratch/full-catalog/birmingham-legacy-recovery/raw/current-global-msc.html"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/undergraduate/courses/med/publicandglobalhealthsciencemsci-intercalateddegree",
+        "sha256": "c2e777e85be7cee9ca9f684067a1cb9e5e752b9eea7042b2d82a09a5867bd67a",
+        "raw_file": "scratch/full-catalog/birmingham-legacy-recovery/raw/public-extensionless.html"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/sport-sciences-courses/sport-exercise-and-health-sciences-bsc",
+        "sha256": "e910ae76aaa5c5ac8f27bb5e6c86a21e2a1708f036edf1722d2bf30c21121ae7",
+        "raw_file": "scratch/full-catalog/birmingham-legacy-recovery/raw/sport.html"
       }
     ],
     "gaps": [
       {
         "note": "Current directory presence is distinct from open admissions; entry year is not stated on search cards."
       },
-      "目录345张卡片减3项非学士已闭合为342条；其中1项明确停招、2项旧插读详情缺失。70条实质页面仅2026或2025版本，费用保留各自年份，未据目录存在断言当年开放。",
+      "原345张课程卡片减3项非学士形成342条，另从医学学院插读清单补2个BSc，当前344条。原目录中1项明确停招、2项旧插读详情缺失；旧版课程/费用仍标明各自年份，不能把目录存在当作2027开放。",
       "专业毕业统计和独立完整授课语种仍待补；职业方向不是课程就业率。旧价不是2027已定价。",
-      "两旧插读项详情404；MMedSc PoSH与另列MSci的正式替代关系、Public and Global Health MSci当前开放未确认，继续仅目录资料。"
+      "两旧插读项详情404；MMedSc PoSH与另列MSci的正式替代关系、Public and Global Health MSci当前开放未确认，继续仅目录资料。",
+      "医学插读总表另有Year in Computer Science和Year in Civic Leadership未核独立授位；7个Masters插读不直接作本科新项。两新BSc仍缺2027具体日历、独立选拔/英语/费用/毕业数据；Human Neuroscience本校限制及末年选修数量差异保留。"
     ]
   },
   "programs": [
@@ -7967,6 +7999,53 @@
       "source_course_type": "Integrated Masters, Single honours",
       "id": "birmingham-theoretical-physics-msci-77322c0c2d",
       "name": "理论物理学"
+    },
+    {
+      "id": "birmingham-human-neuroscience-intercalated-bsc-3cd984b7a6",
+      "name": "人类神经科学（BSc，在读插读）",
+      "name_en": "BSc Human Neuroscience (Intercalated degree)",
+      "degree_label": "BSc",
+      "official_url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+      "raw_key": "intercalated:human-neuroscience-bsc",
+      "intake": null,
+      "duration": "一年插读；确切起止日期待项目确认",
+      "campus": "Birmingham (Edgbaston)",
+      "language": null,
+      "discovery_source_url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+      "source_period": "2026-09-13现行插读清单；母专业页面选择2027，插读届次另核",
+      "source_course_type": "Intercalated",
+      "entry_route": "医学相关专业在读插读；不是高中直入",
+      "parent_program_id": "birmingham-human-neuroscience-bsc-1543ab5665",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学",
+        "医学与健康"
+      ],
+      "status": "listed_current",
+      "requires_prior_degree": null
+    },
+    {
+      "id": "birmingham-sport-intercalated-bsc-f3141dc631",
+      "name": "运动、锻炼与健康科学（BSc，在读插读）",
+      "name_en": "BSc Sport, Exercise and Health Science (Intercalated degree)",
+      "degree_label": "BSc",
+      "official_url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+      "raw_key": "intercalated:sport-bsc",
+      "intake": null,
+      "duration": "一年插读；确切起止日期待项目确认",
+      "campus": "Birmingham (Edgbaston)",
+      "language": null,
+      "discovery_source_url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees",
+      "source_period": "2026-09-13现行插读清单；母专业页面选择2027，插读届次另核",
+      "source_course_type": "Intercalated",
+      "entry_route": "医学相关专业在读插读；不是高中直入",
+      "parent_program_id": "birmingham-sport-exercise-and-health-sciences-bsc-1e98800c86",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ],
+      "status": "listed_current",
+      "requires_prior_degree": null
     }
   ]
 }

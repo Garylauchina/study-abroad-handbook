@@ -57,6 +57,9 @@ hide:
 <p class="catalog-fact"><strong>专业申请条件：</strong>医学科学插读 BMedSci 面向伯明翰本校学生，申请区明确只向本校开放，通常不接受外校申请。未完成原课程第二年者，须等全部考试成绩后才能确认录取和最终选课。</p>
 <p class="fact-sources"><a href="#source-p-BHM-684b7f2322aa52fa">官方依据</a></p>
 
+<p class="catalog-fact"><strong>本校范围再次确认：</strong>现行插读总页将BMedSc Medical Science列为只向伯明翰本校开放的例外。总表其他项目可收英国／欧盟在读者的规则不能解除本项目本校限制。</p>
+<p class="fact-sources"><a href="#source-p-BHIR-intercalation">官方依据</a></p>
+
 ## 申请安排 {#applications}
 
 <p class="catalog-fact"><strong>2027 插读申请：</strong>网页标注 2027 申请开放，联系 cmhintercalationenquiries@contacts.bham.ac.uk 索取/确认插读申请方式；不是普通高中生 UCAS 入口。本轮未取得统一截止；页面提示人数不足时该学年可能不开班。</p>
@@ -83,5 +86,6 @@ hide:
 - [官方目录](https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true)
 
 <div class="catalog-source" id="source-p-BHM-684b7f2322aa52fa"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/medical-science-bmedsc-intercalated-degree">Medical Science (Intercalated Degree) BMedSci：官方课程详情 ↗</a><p>学位、学制与版本；校区；授课语言边界；医学科学插读培养结构；专业申请条件；2027 插读申请；国际生学费与年份；插读资助缺口；毕业资料缺口</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-BHIR-intercalation"><div><a href="https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees">伯明翰医学学院：现行插读清单及在读地点限制 ↗</a><p>本校范围再次确认</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/birmingham/">← 返回伯明翰大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

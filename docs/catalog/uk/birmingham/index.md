@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-342 个专业条目 · 0 个含详细资料 · 340 个补有专业资料 · 2 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+344 个专业条目 · 0 个含详细资料 · 342 个补有专业资料 · 2 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=birmingham#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -43,6 +43,8 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-artificial-intelligence-ai-and-computer-science-with-a-year-in-in-dbc9a49fe8/">人工智能与计算机科学（含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-artificial-intelligence-and-public-policy-bsc-5414b0b623/">人工智能与公共政策</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-bsc-business-management-with-communications-and-year-in-industry-343bb1bde5/">工商管理（传播方向）（含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-human-neuroscience-intercalated-bsc-3cd984b7a6/">人类神经科学（BSc，在读插读）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sport-intercalated-bsc-f3141dc631/">运动、锻炼与健康科学（BSc，在读插读）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-bachelor-of-commercial-law-bcl-dubai-4b80d2201f/">商法（迪拜）</a><small>BCL · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-bachelor-of-commercial-law-with-integrated-foundation-year-bcl-du-ad8dc2e48f/">商法（含一体化预科年）（迪拜）</a><small>BCL · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biochemistry-bsc-cf2a230944/">生物化学</a><small>BSc · 部分专业资料已核实</small></article>
@@ -416,20 +418,21 @@ hide:
 
 ## 专业目录覆盖记录
 
-**已完成所列官方目录范围的对账**，共 342 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 344 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>Use exact undergraduate academicLevel ID emitted by official UI；pageSize=500 returns 345 cards with no remaining pagination；All subjects and study locations, including Dubai, intercalated and graduate-entry undergraduate programmes；Three non-bachelor standalone records separately excluded: pre-sessional English, Food Safety and Food Legislation CertHE, Professional Golf Studies FdSc. Foundation pathways attached to bachelor degrees are retained.</p>
+<p><strong>统计范围：</strong>原官方检索345张本科课程卡片与排除记录，另逐项对照医学学院具名插读入口；所有在读路线及独立授位尚未闭合。</p>
 
-<p><strong>对账方法：</strong>[{&quot;default_pagination&quot;: &quot;35 pages at 10/page&quot;, &quot;expanded_source&quot;: &quot;https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&amp;pageSize=500&amp;preventScrollTop=true&quot;, &quot;pageSize&quot;: 500, &quot;received_cards&quot;: 345, &quot;next_button_present&quot;: false}] 逐项复核342条：338个实质课程页、1个2027简章课程、1个明确停招通知；2个旧插读详情仍缺。当前事实区分英国／迪拜、2025／2026／2027版本与特殊入口。</p>
+<p><strong>对账方法：</strong>[{&quot;default_pagination&quot;: &quot;35 pages at 10/page&quot;, &quot;expanded_source&quot;: &quot;https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&amp;pageSize=500&amp;preventScrollTop=true&quot;, &quot;pageSize&quot;: 500, &quot;received_cards&quot;: 345, &quot;next_button_present&quot;: false}] 逐项复核342条：338个实质课程页、1个2027简章课程、1个明确停招通知；2个旧插读详情仍缺。当前事实区分英国／迪拜、2025／2026／2027版本与特殊入口。 从医学学院当前插读目录补2个具名BSc入口，10旧项保留78事实并补实际在读地点/本校范围与旧名状态；原342卡片库存保留。</p>
 
 <p><strong>排除项：</strong>Use exact undergraduate academicLevel ID emitted by official UI；pageSize=500 returns 345 cards with no remaining pagination；All subjects and study locations, including Dubai, intercalated and graduate-entry undergraduate programmes；Three non-bachelor standalone records separately excluded: pre-sessional English, Food Safety and Food Legislation CertHE, Professional Golf Studies FdSc. Foundation pathways attached to bachelor degrees are retained.</p>
 
 **尚未解决的目录缺口：**
 
 - {&#x27;note&#x27;: &#x27;Current directory presence is distinct from open admissions; entry year is not stated on search cards.&#x27;}
-- 目录345张卡片减3项非学士已闭合为342条；其中1项明确停招、2项旧插读详情缺失。70条实质页面仅2026或2025版本，费用保留各自年份，未据目录存在断言当年开放。
+- 原345张课程卡片减3项非学士形成342条，另从医学学院插读清单补2个BSc，当前344条。原目录中1项明确停招、2项旧插读详情缺失；旧版课程/费用仍标明各自年份，不能把目录存在当作2027开放。
 - 专业毕业统计和独立完整授课语种仍待补；职业方向不是课程就业率。旧价不是2027已定价。
 - 两旧插读项详情404；MMedSc PoSH与另列MSci的正式替代关系、Public and Global Health MSci当前开放未确认，继续仅目录资料。
+- 医学插读总表另有Year in Computer Science和Year in Civic Leadership未核独立授位；7个Masters插读不直接作本科新项。两新BSc仍缺2027具体日历、独立选拔/英语/费用/毕业数据；Human Neuroscience本校限制及末年选修数量差异保留。
 
 - [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true)
 - [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-bsc)
@@ -787,5 +790,12 @@ hide:
 - [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/health-management-and-leadership-msci-intercalated-degree)
 - [官方目录来源](https://www.birmingham.ac.uk/about/college-of-medicine-and-health/undergraduate-degree-courses)
 - [官方目录来源](https://www.birmingham.ac.uk/study/courses?term=public+health)
+- [官方目录来源](https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/psychology-and-neuroscience-courses/human-neuroscience-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/about/college-of-medicine-and-health/applied-health-sciences/work-and-study)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/health-management-and-leadership-msci-intercalated-degree)
+- [官方目录来源](https://www.birmingham.ac.uk/study/postgraduate/subjects/medicine-courses/global-health-msc)
+- [官方目录来源](https://www.birmingham.ac.uk/undergraduate/courses/med/publicandglobalhealthsciencemsci-intercalateddegree)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/sport-sciences-courses/sport-exercise-and-health-sciences-bsc)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

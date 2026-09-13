@@ -43,6 +43,9 @@ hide:
 <p class="catalog-fact"><strong>旧名称与现行不同学位：</strong>旧目录卡片仍列MMedSc PoSH名称，详情链接本轮404。现行医学学院清单及独立课程页列Health Management and Leadership MSci，且已被本站另一个稳定ID收录；本轮未取得MMedSc与MSci正式改名/替代通知，不把现行MSci课程和价格直接移植为第二个当前学位。</p>
 <p class="fact-sources"><a href="#source-p-REM-birmingham-old-directory">官方依据</a> · <a href="#source-p-REM-birmingham-health-current">官方依据</a> · <a href="#source-p-REM-birmingham-med-list">官方依据</a></p>
 
+<p class="catalog-fact"><strong>本次复查仍无改名证明：</strong>当前插读清单仍列MSci Health Management and Leadership，系所旧介绍仍提PoSH下的相关方向。两者没有提供旧MMedSc与现MSci的正式替代通知；继续保留旧名待核状态，不复制现行MSci的学费或入学年。</p>
+<p class="fact-sources"><a href="#source-p-BHIR-intercalation">官方依据</a> · <a href="#source-p-BHIR-department">官方依据</a> · <a href="#source-p-BHIR-current-management">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 <p class="catalog-fact"><strong>申请身份边界：</strong>此旧条目属于在读插读，不能按普通高中本科入口申请。当前MSci专页要求医学/牙医学在读，但旧MMedSc目前是否另行接受申请本轮未确认。</p>
@@ -70,5 +73,8 @@ hide:
 <div class="catalog-source" id="source-p-REM-birmingham-old-directory"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&amp;pageSize=500&amp;preventScrollTop=true">伯明翰旧本科目录实际课程卡片 ↗</a><p>旧名称与现行不同学位；申请身份边界</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-REM-birmingham-health-current"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/health-management-and-leadership-msci-intercalated-degree">Health Management and Leadership MSci 当前独立课程页 ↗</a><p>旧名称与现行不同学位；申请身份边界</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-REM-birmingham-med-list"><div><a href="https://www.birmingham.ac.uk/about/college-of-medicine-and-health/undergraduate-degree-courses">伯明翰医学与健康学院当前本科及插读清单 ↗</a><p>旧名称与现行不同学位</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-BHIR-intercalation"><div><a href="https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees">伯明翰医学学院：现行插读清单及在读地点限制 ↗</a><p>本次复查仍无改名证明</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-BHIR-department"><div><a href="https://www.birmingham.ac.uk/about/college-of-medicine-and-health/applied-health-sciences/work-and-study">应用健康科学系：PoSH旧方向说明 ↗</a><p>本次复查仍无改名证明</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-BHIR-current-management"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/health-management-and-leadership-msci-intercalated-degree">Health Management and Leadership MSci：现行独立项目 ↗</a><p>本次复查仍无改名证明</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/birmingham/">← 返回伯明翰大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

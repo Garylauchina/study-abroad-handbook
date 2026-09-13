@@ -52,6 +52,9 @@ hide:
 <p class="catalog-fact"><strong>课程内容举例：</strong>网页模块表列出：心理学与神经科学的大学学习技能（10 学分）；心理学与神经科学的思想、概念与伦理（10 学分）；认知心理学（20 学分）。这里只摘记实际列出的模块，未将示例当作完整必修清单；选修、先修及年度调整以原表为准。</p>
 <p class="fact-sources"><a href="#source-p-BHM-cfd3d750ec220b14">官方依据</a></p>
 
+<p class="catalog-fact"><strong>另列一年插读路线：</strong>医学学院另列本BSc的一年在读插读入口，使用本专业第三年结构。该路径有在读地点/本校限制，不能按此普通三年制的高中门槛和UCAS安排申请；本站已另设条目保留身份区别。</p>
+<p class="fact-sources"><a href="#source-p-BHIR-intercalation">官方依据</a> · <a href="#source-p-BHIR-human-neuroscience">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 <p class="catalog-fact"><strong>A-level / IB 标准门槛：</strong>A-level AAA，含生物/人体生物学；IB 总分 32，HL 6、6、6。</p>
@@ -124,6 +127,8 @@ hide:
 <div class="catalog-source" id="source-p-BHM-cfd3d750ec220b14"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/subjects/psychology-and-neuroscience-courses/human-neuroscience-bsc">Human Neuroscience BSc：官方课程详情 ↗</a><p>学位、学制与版本；授课语言边界；课程内容举例；A-level / IB 标准门槛；课程英语门槛；2027 申请渠道；课程申请代码；国际生学费与年份；官网职业方向</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-BHM-c8359df34001ea3e"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&amp;pageSize=500&amp;preventScrollTop=true">伯明翰官方完整本科目录 ↗</a><p>目录列示校区</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-BHM-d3d4d8b5799952e8"><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">UCAS：2027 普通本科截止 ↗</a><p>2027 申请渠道</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-BHIR-intercalation"><div><a href="https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/intercalated-degrees">伯明翰医学学院：现行插读清单及在读地点限制 ↗</a><p>另列一年插读路线</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-BHIR-human-neuroscience"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/subjects/psychology-and-neuroscience-courses/human-neuroscience-bsc">Human Neuroscience BSc：普通本科及插读提示、末年课程 ↗</a><p>另列一年插读路线</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-BHM-4f34a731b591924e"><div><a href="https://www.birmingham.ac.uk/international/students/country/china/gaokao">伯明翰：中国高考要求 ↗</a><p>中国普高与高考（英国校区普通本科）</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-BHM-13cd72977bec9790"><div><a href="https://www.birmingham.ac.uk/study/international/country/china">伯明翰：中国申请者资格 ↗</a><p>其他中国申请路径（英国校区）；英语及国际课程边界；中国本科奖学金年份</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-BHM-d3d4d8b5799952e8"><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">UCAS：2027 普通本科平等审理截止 ↗</a><p>2027 年 UCAS 普通本科</p><small>核验 2026-09-13</small></div></div>

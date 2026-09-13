@@ -36,7 +36,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-artificial-intelligence-philosophy-bsc-43a16848d2/">人工智能与哲学</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-artificial-intelligence-bsc-c547ca82eb/">人工智能（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-artificial-intelligence-msci-780bef0a10/">人工智能（MSci）</a><small>MSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-artificial-intelligence-with-a-year-in-industry-bsc-739d0dd809/">Artificial Intelligence with a Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-artificial-intelligence-with-a-year-in-industry-bsc-739d0dd809/">人工智能（BSc，含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-biochemistry-bsc-c5e2207738/">生物化学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-biomedical-engineering-beng-00f03c0381/">Biomedical Engineering BEng</a><small>BEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-biomedical-engineering-meng-3e5e64af9f/">Biomedical Engineering MEng</a><small>MEng · 部分专业资料已核实</small></article>
@@ -56,11 +56,11 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-classics-the-ancient-world-ba-3d62e79c23/">古典学与古代世界（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-comparative-literature-ba-bdedca13aa/">比较文学（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-comparative-literature-with-film-studies-ba-e91d7081a1/">比较文学与电影研究（BA，主修／辅修）</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-computer-science-bsc-b4d69ea787/">Computer Science BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-computer-science-msci-90438790d9/">Computer Science MSci</a><small>MSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-computer-science-with-management-a-year-in-industry-bsc-24fb748e8a/">Computer Science with Management &amp; a Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-computer-science-with-management-bsc-7c78bbc49e/">Computer Science with Management BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-computer-science-with-a-year-in-industry-bsc-9a6e70e448/">Computer Science with a Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-computer-science-bsc-b4d69ea787/">计算机科学（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-computer-science-msci-90438790d9/">计算机科学（MSci，本硕一体）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-computer-science-with-management-a-year-in-industry-bsc-24fb748e8a/">计算机科学与管理（BSc，含行业实习年，主修／辅修）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-computer-science-with-management-bsc-7c78bbc49e/">计算机科学与管理（BSc，主修／辅修）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-computer-science-with-a-year-in-industry-bsc-9a6e70e448/">计算机科学（BSc，含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-culture-media-creative-industries-ba-03939b27d0/">文化、媒体与创意产业（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-data-analytics-for-business-finance-bsc-97745bda7c/">Data Analytics for Business &amp; Finance BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-data-analytics-for-business-finance-with-year-in-industry-bsc-15236ab329/">Data Analytics for Business &amp; Finance with Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
@@ -90,8 +90,8 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-european-studies-spanish-pathway-with-a-year-abroad-ba-cb2cb3646c/">European Studies (Spanish pathway) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-extended-medical-degree-programme-mbbs-45e3e1c0b4/">延长学制医学学士</a><small>MBBS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-film-studies-ba-4f4a9cd4fd/">电影研究（BA）</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-general-engineering-beng-ff0c6cbd1c/">General Engineering BEng</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-general-engineering-meng-91ae0935e2/">General Engineering MEng</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-general-engineering-beng-ff0c6cbd1c/">通用工程（BEng）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-general-engineering-meng-91ae0935e2/">通用工程（MEng，本硕一体）</a><small>MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-geography-environmental-science-bsc-80be703cb7/">Geography &amp; Environmental Science BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-geography-ba-cf58e81912/">Geography BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-health-social-medicine-bsc-b0b501dde0/">全球健康与社会医学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
@@ -117,14 +117,14 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-marketing-bsc-c7cc8a29dc/">Marketing BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-marketing-with-year-in-industry-bsc-200524822b/">Marketing with Year In Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-philosophy-bsc-002bb0180a/">Mathematics &amp; Philosophy BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-bsc-9da2bc288d/">Mathematics BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-msci-dbb411c1a2/">Mathematics MSci</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-bsc-9da2bc288d/">数学（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-msci-dbb411c1a2/">数学（MSci，本硕一体）</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-management-finance-bsc-2f900f166e/">Mathematics with Management &amp; Finance BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-management-finance-with-year-in-industry-bsc-4dfe1b388c/">Mathematics with Management &amp; Finance with Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-statistics-bsc-e82791f255/">Mathematics with Statistics BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-statistics-with-year-in-industry-bsc-8bc4d0be74/">Mathematics with Statistics with Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-year-in-industry-bsc-11d05449af/">Mathematics with Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-year-in-industry-msci-dcbfcd2cd2/">Mathematics with Year in Industry MSci</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-year-in-industry-bsc-11d05449af/">数学（BSc，含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-year-in-industry-msci-dcbfcd2cd2/">数学（MSci，本硕一体含行业实习年）</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-medical-physiology-bsc-fb8f2fdaf3/">医学生理学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-medicine-mbbs-a1ae58c1a5/">医学学士</a><small>MBBS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-midwifery-with-registration-as-a-midwife-bsc-17bb75f69b/">助产学理学学士（助产士注册）</a><small>BSc · 部分专业资料已核实</small></article>
@@ -180,8 +180,8 @@ hide:
 
 ### 入学条件
 
-<p class="catalog-fact"><strong>国际课程须核科目：</strong>一般要求页说明成绩以课程为准。IB数学路径有区别：数学、物理、工程要求HL Analysis and Approaches；计算机、经济等所列课程可接受两种HL数学。不能仅凭课程总分字段认定先修科目合格。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-207e7f1516634a">官方依据</a></p>
+<p class="catalog-fact"><strong>国际课程须核科目：</strong>一般要求页说明成绩及先修以具体课程为准；其IB数学总则对数学、物理、工程与部分计算机、经济课程有不同说明。具体课程可更严格：本轮逐项核验的2027人工智能行业年及五个计算机课程均明确要求Mathematics: Analysis &amp; Approaches HL6，不能用Applications &amp; Interpretation替代。申请时须按该课程、该入学年的完整要求核对，不能只凭校级总则或总分字段认定合格。</p>
+<p class="fact-sources"><a href="#source-u-UKENR-207e7f1516634a">官方依据</a> · <a href="#source-u-KCLST-647a1a7aea9edaa5">官方依据</a> · <a href="#source-u-KCLST-af51da4d74b31c0f">官方依据</a> · <a href="#source-u-KCLST-85421a7094cc8a29">官方依据</a> · <a href="#source-u-KCLST-15d3c3bd782daef8">官方依据</a> · <a href="#source-u-KCLST-86ff8de7114de5ec">官方依据</a> · <a href="#source-u-KCLST-917664a03a906d74">官方依据</a></p>
 
 <p class="catalog-fact"><strong>英语适用周期：</strong>当前本科英语页明确适用于2026/27，按课程分Band；须单次考试满足各项，不接受拼分或IELTS One Skill成绩。2027课程适用更新本轮未取得，不能把2026标准自动延期一年。</p>
 <p class="fact-sources"><a href="#source-u-UKENR-2564d42efb560d">官方依据</a></p>
@@ -197,6 +197,12 @@ hide:
 <div class="catalog-source" id="source-u-UKENR-2564d42efb560d"><div><a href="https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements">King’s 本科英语要求 ↗</a><p>英语课程分组、适用2026/27与单次成绩政策</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-6ff2a5ce1a9f38"><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">UCAS 2027平等审理截止 ↗</a><p>2027年1月13日18:00英国时间；迟交不保证同等审理</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-f5da9307fd5b4a"><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS 2026／2027申请日历 ↗</a><p>2027申请提交、牛剑和医学早截止、常规平等审理截止</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KCLST-647a1a7aea9edaa5"><div><a href="https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc/entry-requirements">Artificial Intelligence with a Year in Industry BSc — requirements ↗</a><p>实际标准成绩、数学先修、考试替代与申请类别</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-KCLST-af51da4d74b31c0f"><div><a href="https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc/entry-requirements">Computer Science BSc — requirements ↗</a><p>实际标准成绩、数学先修、考试替代与申请类别</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-KCLST-85421a7094cc8a29"><div><a href="https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci/entry-requirements">Computer Science MSci — requirements ↗</a><p>实际标准成绩、数学先修、考试替代与申请类别</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-KCLST-15d3c3bd782daef8"><div><a href="https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc/entry-requirements">Computer Science with a Year in Industry BSc — requirements ↗</a><p>实际标准成绩、数学先修、考试替代与申请类别</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-KCLST-86ff8de7114de5ec"><div><a href="https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc/entry-requirements">Computer Science with Management BSc — requirements ↗</a><p>实际标准成绩、数学先修、考试替代与申请类别</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-KCLST-917664a03a906d74"><div><a href="https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc/entry-requirements">Computer Science with Management &amp; a Year in Industry BSc — requirements ↗</a><p>实际标准成绩、数学先修、考试替代与申请类别</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
@@ -204,19 +210,20 @@ hide:
 
 <p><strong>统计范围：</strong>148个已发现目录入口中，145个本科及本科在读路线；3个本科后护理硕士另留更正页，内部路径仍待全量对账</p>
 
-<p><strong>对账方法：</strong>复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。</p>
+<p><strong>对账方法：</strong>复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。 再逐课核12计算机、数学与通用工程项目及各自China分支、年度模块与费用，原145入口保持。</p>
 
 <p><strong>排除项：</strong>Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes；本科后首次注册护理MNurs/MSc不计本科项目；MBBS/BDS仍按专业学士保留并注明前置学历。</p>
 
 **尚未解决的目录缺口：**
 
 - 仍有现有课程尚未完成独立分栏补源；所有本科内部路径及完整资格继续逐项核验。
-- 37健康医学、12人文、12艺术媒体与12法律商科已分别取得2027/28课程费用信息；伙伴校旧年度参考、实习减额和全程总费用按各项目边界说明。
-- 英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；Medicine MBBS和人文、艺术媒体、法律商科各12项已逐页取得China资格分支，其余课程不由A-level/IB反推高考直入。
+- 37健康医学、12人文、12艺术媒体、12法律商科与12理工课程已分别取得2027/28课程费用信息；伙伴校旧年度参考、实习减额和全程总费用按各项目边界说明。
+- 英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；Medicine MBBS和人文、艺术媒体、法律商科、理工各12项已逐页取得China资格分支，其余课程不由A-level/IB反推高考直入。
 - iBSc内部／外部申请日与侧栏状态、牙科及部分医学模块学分存在官方差异，均保留原范围；空截止栏不作推断。
 - 本批职业页多为职业注册、服务或案例，未取得专业独立毕业届别、分母、就业率或薪资。
 - 艺术媒体部分年度学分表、比较文学电影交换年段存在官网表述差异；英语语言与语言学校区未确认，创意写作及全球媒体专业页未列截止日期。
 - 法律母页香港LLM与独立香港JD不得混同；M124澳法旧交叉提及未确认为现行独立入口，伙伴阶段未来费率、若干年度学分及资格差异仍按正文待核。
+- 新补12理工项目的部分年度模块数量和跨课程表述有差异；实习/海外费用、2027英语更新与本路线独立毕业数据仍依各条缺口，不能套用商学院规则。
 
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=9)
@@ -765,5 +772,74 @@ hide:
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/careers)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/entry-requirements)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-beng)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-beng/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-beng/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-beng/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-beng/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-beng/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-msci)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-msci/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-msci/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-msci/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc/fees)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

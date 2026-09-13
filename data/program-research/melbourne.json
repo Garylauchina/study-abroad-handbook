@@ -35208,6 +35208,1397 @@
       },
       "inventory_id": "melbourne-chemical-biology-and-therapeutics-9e4399e609",
       "research_status": "program_researched"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-AGR",
+      "name_en": "Bachelor of Agriculture (Degree with Honours)",
+      "degree_label": "Bachelor of Agriculture (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-agriculture-degree-with-honours",
+      "inventory_id": "melbourne-bachelor-of-agriculture-degree-with-honours-f55491c5ef",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "独立学位与课程内容",
+            "text": "在农业学士之后进行一年高级学习，以农业领域的原创研究为核心，结合研究训练和学院研讨活动；官网概述明确为100学分。",
+            "source_ids": [
+              "meldir-agriculture-overview"
+            ]
+          },
+          {
+            "label": "学制、校区与语言边界",
+            "text": "1年全日制；Parkville。专门授课语言说明本轮未取得，不能由英语入学测试反推所有课程语种。",
+            "source_ids": [
+              "meldir-agriculture-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大学阶段入学资格",
+            "text": "须在过去10年内完成农业学士或等值学位，学位加权均分WAM至少65%，并提交已填写的导师表。学校须为申请者匹配适当项目和导师；达到最低要求不保证录取。此为大学成绩要求，不是高考录取线。",
+            "source_ids": [
+              "meldir-agriculture-entry"
+            ]
+          },
+          {
+            "label": "本荣誉学位英语准入",
+            "text": "页面列IELTS总分6.5、各项至少6.0。其他英语满足方式及测试时效须按校方审核；本轮不将本科普遍英语标准替代本入口。",
+            "source_ids": [
+              "meldir-agriculture-entry"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "本学位申请安排",
+            "text": "2027年初入学的及时申请日为2026年10月31日；逾期申请不保证能赶上下一批入学。通过学校申请系统提交以往学习成绩、评分制度、非英文材料的正式认证英译、导师表及英语证明。官网旧2026年初批次日期已过，不代替2027日期。",
+            "source_ids": [
+              "meldir-agriculture-apply"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际生2026首年指示费",
+            "text": "实际公开国际生视图列2026首年指示学费AUD 52,752；只是2026年度参考，不是已核2027报价。生活费、保险及其他收费本轮未核，不能将此数当作全部留学预算。区间不代表所有内部方向同一金额。",
+            "source_ids": [
+              "meldir-agriculture-overview"
+            ]
+          },
+          {
+            "label": "2027费用与资助缺口",
+            "text": "本轮未取得本荣誉学位2027专属学费表及逐项奖学金金额、国际生资格和申请截止；不沿用普通三年学士报价或自动扣减资助。",
+            "source_ids": [
+              "meldir-agriculture-overview"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养去向与统计边界",
+            "text": "官网将本课程作为农业研究就业及研究型硕士、博士的准备，强调独立研究训练。本轮未取得该荣誉学位单列的毕业届次、国际生分母、就业率或薪资统计。",
+            "source_ids": [
+              "meldir-agriculture-overview"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-agriculture-degree-with-honours",
+          "title": "Bachelor of Agriculture (Degree with Honours) - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "f85013f7e27108e21e5bf00ba2dd875b7946eafc6768751a507d98ba417ab85a",
+          "chars": 17970,
+          "id": "meldir-agriculture-overview",
+          "supports": "本荣誉学位名称、课程定位、学制校区、国际视图2026首年指示费及培养用途"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-agriculture-degree-with-honours/entry-requirements/#nav",
+          "title": "Bachelor of Agriculture (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "9c1be035172825a1ca6c27ef27c16178b1dc049ee0157261363358a997e072c9",
+          "chars": 17277,
+          "id": "meldir-agriculture-entry",
+          "supports": "本荣誉学位专属大学学历、成绩、先修、选拔与英语条件；不当高中规则"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-agriculture-degree-with-honours/how-to-apply/#nav",
+          "title": "Bachelor of Agriculture (Degree with Honours) : How to apply - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "e71cb9135744ad251d2421c73c23ac5aaa075393bea03f21ab18c7d3342bd39a",
+          "chars": 19216,
+          "id": "meldir-agriculture-apply",
+          "supports": "本荣誉学位申请阶段、批次、材料与公开日期；按页面明确年份及例外"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "农业荣誉学士（学士后一年）",
+        "duration": "1年全日制",
+        "campus": "Parkville",
+        "language": "本轮未取得本荣誉学位专属授课语言说明",
+        "intake": "2027年初入学；费用为2026参考",
+        "entry_summary": "须先完成农业学士或等值学位；近10年WAM至少65%，并提交导师表。",
+        "tuition_summary": "2026国际生首年参考 AUD 52,752；2027未核",
+        "outcomes_summary": "培养及研究方向已核；本课程分届次、国际生毕业统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "research_status": "program_researched",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": false,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "本包只新增9个独立荣誉学士入口，内部方向名单另列，不自动组合。",
+        "普通本科新生校级政策与学费不继承；未知字段明确保留。"
+      ],
+      "translation_status": "人工阅读当前官方正文，按入口、方向和年度概述"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-ARTS",
+      "name_en": "Bachelor of Arts (Degree with Honours)",
+      "degree_label": "Bachelor of Arts (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours",
+      "inventory_id": "melbourne-bachelor-of-arts-degree-with-honours-ac8146e0b6",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "独立学位与课程内容",
+            "text": "以人文、社会科学和语言的高级课程及受指导独立研究为核心。100学分的通常结构为50学分论文（15,000词）、12.5学分研究方法及37.5学分课程；纯荣誉在同一领域，联合荣誉的课程部分在第二领域。官网强调各方向可有不同结构，且每项课程及论文均须取得荣誉等级。",
+            "source_ids": [
+              "meldir-arts-overview",
+              "meldir-arts-structure"
+            ]
+          },
+          {
+            "label": "学制、校区与语言边界",
+            "text": "1年全日制；官网另列2年非全日制，个人可用性另核；Parkville。专门授课语言说明本轮未取得，不能由英语入学测试反推所有课程语种。",
+            "source_ids": [
+              "meldir-arts-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大学阶段入学资格",
+            "text": "招生页明确下列规则从2027年初入学起适用：近5年完成AQF7文学学士，相关主修WAM至少70%或等值，并满足拟入方向的具体先修及成绩要求。通常须提供最多500词研究计划；心理学走专门程序，地理和经济另用其规定材料。联合荣誉须同时满足两个方向，不可自由组合所有学科。",
+            "source_ids": [
+              "meldir-arts-entry"
+            ]
+          },
+          {
+            "label": "本荣誉学位英语准入",
+            "text": "页面列IELTS总分6.5、各项至少6.0。其他英语满足方式及测试时效须按校方审核；本轮不将本科普遍英语标准替代本入口。",
+            "source_ids": [
+              "meldir-arts-entry"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "本学位申请安排",
+            "text": "国际生当前页面对多数方向列年初10月31日、年中5月31日截止，未将这些日月单独标为2027年度。心理学不适用此流程和日期；经济、心理学以及页面列出的若干人文社科方向无年中入学。不接受延期入学。本校在读生在本科最后一年通过学生系统申请，外校申请者经学校课程申请入口提交材料。",
+            "source_ids": [
+              "meldir-arts-apply"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际生2026首年指示费",
+            "text": "实际公开国际生视图列2026首年指示学费AUD 39,936–57,316；只是2026年度参考，不是已核2027报价。生活费、保险及其他收费本轮未核，不能将此数当作全部留学预算。区间不代表所有内部方向同一金额。",
+            "source_ids": [
+              "meldir-arts-overview"
+            ]
+          },
+          {
+            "label": "2027费用与资助缺口",
+            "text": "本轮未取得本荣誉学位2027专属学费表及逐项奖学金金额、国际生资格和申请截止；不沿用普通三年学士报价或自动扣减资助。",
+            "source_ids": [
+              "meldir-arts-overview"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养去向与统计边界",
+            "text": "官网说明荣誉研究可准备研究型硕士或博士申请，亦培养研究分析、项目实施和沟通能力；部分相关硕士可能给予学分认可，须具体审核，不承诺自动减免一年。本轮未取得该荣誉学位单列的毕业或国际生就业统计。",
+            "source_ids": [
+              "meldir-arts-overview",
+              "meldir-arts-structure"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours",
+          "title": "Bachelor of Arts (Degree with Honours) - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "7f8f6f683153cd910a3ee29c4a548f8cf217be74929bb04811873ed965fd1c9a",
+          "chars": 21749,
+          "id": "meldir-arts-overview",
+          "supports": "本荣誉学位名称、课程定位、学制校区、国际视图2026首年指示费及培养用途"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/entry-requirements/#nav",
+          "title": "Bachelor of Arts (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "f875fefba030089fcae46fe7ad715b5b698f249c72e3f8a61c62a4f4c0378a67",
+          "chars": 26514,
+          "id": "meldir-arts-entry",
+          "supports": "本荣誉学位专属大学学历、成绩、先修、选拔与英语条件；不当高中规则"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/how-to-apply/#nav",
+          "title": "Bachelor of Arts (Degree with Honours) : How to apply - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "c2e345b28d54a1a0913c1a13615f7a21fb1a0c97be93a06134b116ea88de615e",
+          "chars": 23298,
+          "id": "meldir-arts-apply",
+          "supports": "本荣誉学位申请阶段、批次、材料与公开日期；按页面明确年份及例外"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/structure/#nav",
+          "title": "Bachelor of Arts (Degree with Honours)",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "42615ff1bdf44eee67ce2d156668a64ada06b9e24d5f48e7685f23a883395f34",
+          "chars": 20498,
+          "id": "meldir-arts-structure",
+          "supports": "本荣誉学位公开课程组成、学分或学位内方向；不引用页头国内费用"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "文学荣誉学士（学士后一年）",
+        "duration": "1年全日制；官网另列2年非全日制，个人可用性另核",
+        "campus": "Parkville",
+        "language": "本轮未取得本荣誉学位专属授课语言说明",
+        "intake": "2027起适用新入学要求；截止页未标具体年度",
+        "entry_summary": "2027起：近5年相关文学学士WAM至少70%；各方向另有先修与论文计划要求。",
+        "tuition_summary": "2026国际生首年参考 AUD 39,936–57,316；2027未核",
+        "outcomes_summary": "培养及研究方向已核；本课程分届次、国际生毕业统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "research_status": "program_researched",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": false,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "本包只新增9个独立荣誉学士入口，内部方向名单另列，不自动组合。",
+        "普通本科新生校级政策与学费不继承；未知字段明确保留。"
+      ],
+      "translation_status": "人工阅读当前官方正文，按入口、方向和年度概述"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-BMED",
+      "name_en": "Bachelor of Biomedicine (Degree with Honours)",
+      "degree_label": "Bachelor of Biomedicine (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours",
+      "inventory_id": "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "独立学位与课程内容",
+            "text": "100学分由高级课程和研究项目组成：通常2–4门各12.5学分高级课程，研究项目50–75学分，具体比例随研究方向。完成须通过100学分、研究项目至少65%、学分加权均分至少65%；院系可另设门槛。研究领域覆盖生物医学、临床及人群健康，心理学是APAC第四年项目，不能据此把整个学位称作临床执照课程。",
+            "source_ids": [
+              "meldir-biomedicine-overview",
+              "meldir-biomedicine-structure"
+            ]
+          },
+          {
+            "label": "学制、校区与语言边界",
+            "text": "1年全日制；心理学另有非全日制例外；Parkville；具体研究可在所属医院或研究机构。专门授课语言说明本轮未取得，不能由英语入学测试反推所有课程语种。",
+            "source_ids": [
+              "meldir-biomedicine-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大学阶段入学资格",
+            "text": "页面列两条大学学历路径：近10年完成相关生物医学学士，WAM至少65%；或近10年完成其他相关AQF7学士，WAM至少65%，至少两年为科学或技术学习，并完成至少50学分相关健康、科学或技术三年级课程。页面还要求该研究方向所需的高中、大一或大二背景，并提交拟任导师姓名、职称和支持。病理等方向有额外科目要求；心理学须另依专门页面，不能用这条65%代替其专门门槛。达到最低要求不保证录取。",
+            "source_ids": [
+              "meldir-biomedicine-entry"
+            ]
+          },
+          {
+            "label": "本荣誉学位英语准入",
+            "text": "页面列IELTS总分6.5、各项至少6.0。其他英语满足方式及测试时效须按校方审核；本轮不将本科普遍英语标准替代本入口。",
+            "source_ids": [
+              "meldir-biomedicine-entry"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "本学位申请安排",
+            "text": "MDHS的2027年初第1轮申请截止2026年10月31日，项目排序截止11月6日23:59 AEDT；第2轮申请截止2027年1月8日，页面表列项目排序截止1月29日23:59 AEDT。流程包括网上申请、Sonia项目检索及与导师协商；导师同意不保证录取或获该项目。第二轮详细步骤要求提交Honours Project Agreement Form，与表格“排序”栏目措辞不同，须按当轮指南确认，不能直接照搬第一轮Sonia排序。心理学不适用此时间表；生物科学、人类营养、兽医生物科学须直接联系负责院系。",
+            "source_ids": [
+              "meldir-biomedicine-apply"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际生2026首年指示费",
+            "text": "实际公开国际生视图列2026首年指示学费AUD 62,208；只是2026年度参考，不是已核2027报价。生活费、保险及其他收费本轮未核，不能将此数当作全部留学预算。区间不代表所有内部方向同一金额。",
+            "source_ids": [
+              "meldir-biomedicine-overview"
+            ]
+          },
+          {
+            "label": "2027费用与资助缺口",
+            "text": "本轮未取得本荣誉学位2027专属学费表及逐项奖学金金额、国际生资格和申请截止；不沿用普通三年学士报价或自动扣减资助。",
+            "source_ids": [
+              "meldir-biomedicine-overview"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养去向与统计边界",
+            "text": "本课程培养研究方法和独立项目能力，可准备研究生或健康专业后续学习；心理学第四年之后仍须完成注册所需的进一步学习。不能将其写成自动取得医生、牙医或心理师资格。本轮未取得按本荣誉学位、届次及国际生分母统计的就业率或薪资。",
+            "source_ids": [
+              "meldir-biomedicine-overview",
+              "meldir-biomedicine-structure"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours",
+          "title": "Bachelor of Biomedicine (Degree with Honours) - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "d09114381101c0d131db05ad9adb3baf36a3249fd9d88b796c16fb581bf86fb0",
+          "chars": 23505,
+          "id": "meldir-biomedicine-overview",
+          "supports": "本荣誉学位名称、课程定位、学制校区、国际视图2026首年指示费及培养用途"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours/entry-requirements/#nav",
+          "title": "Bachelor of Biomedicine (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "7fc4d20c4a79b36f8a130d48866b9460a71116e7ea72ac913bb92b9dd4b7e6e7",
+          "chars": 22472,
+          "id": "meldir-biomedicine-entry",
+          "supports": "本荣誉学位专属大学学历、成绩、先修、选拔与英语条件；不当高中规则"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours/how-to-apply/#nav",
+          "title": "Bachelor of Biomedicine (Degree with Honours) : How to apply - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "2ec4886805d226a6f1832f22d2d826d1b853e90f36abfd3b3ef2186370ea56d7",
+          "chars": 25961,
+          "id": "meldir-biomedicine-apply",
+          "supports": "本荣誉学位申请阶段、批次、材料与公开日期；按页面明确年份及例外"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours/structure/#nav",
+          "title": "Bachelor of Biomedicine (Degree with Honours)",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "415b67b2d74f394dde5179becb7a9a3fa7993bd0063e614cd6b74577f1fc06d0",
+          "chars": 41636,
+          "id": "meldir-biomedicine-structure",
+          "supports": "本荣誉学位公开课程组成、学分或学位内方向；不引用页头国内费用"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "生物医学荣誉学士（学士后一年）",
+        "duration": "1年全日制；心理学另有非全日制例外",
+        "campus": "Parkville；具体研究可在所属医院或研究机构",
+        "language": "本轮未取得本荣誉学位专属授课语言说明",
+        "intake": "2027年初MDHS两轮；心理学另核",
+        "entry_summary": "近10年相关学士WAM至少65%；其他学士分支须两年科技学习及50学分相关三年级课；心理学另核。",
+        "tuition_summary": "2026国际生首年参考 AUD 62,208；2027未核",
+        "outcomes_summary": "培养及研究方向已核；本课程分届次、国际生毕业统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "research_status": "program_researched",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": false,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "本包只新增9个独立荣誉学士入口，内部方向名单另列，不自动组合。",
+        "普通本科新生校级政策与学费不继承；未知字段明确保留。"
+      ],
+      "translation_status": "人工阅读当前官方正文，按入口、方向和年度概述"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-DES",
+      "name_en": "Bachelor of Design (Degree with Honours)",
+      "degree_label": "Bachelor of Design (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-design-degree-with-honours",
+      "inventory_id": "melbourne-bachelor-of-design-degree-with-honours-b13c8a43e3",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "独立学位与课程内容",
+            "text": "100学分包括50学分论文、12.5学分设计研究方法、37.5学分选修；每项课程及论文须取得荣誉等级。学位内正式列建筑历史／理论与批评、景观建筑、城市规划三个研究方向，均为同一荣誉学位内路径。",
+            "source_ids": [
+              "meldir-design-overview",
+              "meldir-design-structure"
+            ]
+          },
+          {
+            "label": "学制、校区与语言边界",
+            "text": "1年全日制；官网另列2年非全日制，个人可用性另核；Parkville。专门授课语言说明本轮未取得，不能由英语入学测试反推所有课程语种。",
+            "source_ids": [
+              "meldir-design-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大学阶段入学资格",
+            "text": "须近5年完成相关AQF7学士，WAM至少70%或等值。相关主修包括建筑、城市规划、景观建筑、建造、游戏设计、平面设计、室内设计、表演设计、房地产及用户体验。学校按成绩、学习相关性和导师容量选拔；这些相关本科背景不代表本荣誉学位另有十个独立授位方向。",
+            "source_ids": [
+              "meldir-design-entry"
+            ]
+          },
+          {
+            "label": "本荣誉学位英语准入",
+            "text": "页面列IELTS总分6.5、各项至少6.0。其他英语满足方式及测试时效须按校方审核；本轮不将本科普遍英语标准替代本入口。",
+            "source_ids": [
+              "meldir-design-entry"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "本学位申请安排",
+            "text": "现行申请页仅第一学期入学，及时申请日为11月30日，迟交可能获考虑；页面未明确该日月的具体入学年度。可在线或经学校国际代表申请。页头写3月、申请正文写第一学期2月，两处月份差异保留；2027准确开学日期需确认。",
+            "source_ids": [
+              "meldir-design-apply"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际生2026首年指示费",
+            "text": "实际公开国际生视图列2026首年指示学费AUD 56,704；只是2026年度参考，不是已核2027报价。生活费、保险及其他收费本轮未核，不能将此数当作全部留学预算。区间不代表所有内部方向同一金额。",
+            "source_ids": [
+              "meldir-design-overview"
+            ]
+          },
+          {
+            "label": "2027费用与资助缺口",
+            "text": "本轮未取得本荣誉学位2027专属学费表及逐项奖学金金额、国际生资格和申请截止；不沿用普通三年学士报价或自动扣减资助。",
+            "source_ids": [
+              "meldir-design-overview"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养去向与统计边界",
+            "text": "官网将独立研究训练与研究型高等学位准备相联系；完成本课程不是建筑师等职业自动注册证明。本轮未取得本荣誉学位单列的就业率、薪资、调查届次或国际生分母。",
+            "source_ids": [
+              "meldir-design-overview",
+              "meldir-design-structure"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-design-degree-with-honours",
+          "title": "Bachelor of Design (Degree with Honours) - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "21f5e7666c9b218bb5e42335964b8ebae76b6925d26ac02f8901687e3a215e57",
+          "chars": 24042,
+          "id": "meldir-design-overview",
+          "supports": "本荣誉学位名称、课程定位、学制校区、国际视图2026首年指示费及培养用途"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-design-degree-with-honours/entry-requirements/#nav",
+          "title": "Bachelor of Design (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "961ed24d5538c06006cdc09fa6d359a012fed479443c63f22dfe269512a2b42c",
+          "chars": 18152,
+          "id": "meldir-design-entry",
+          "supports": "本荣誉学位专属大学学历、成绩、先修、选拔与英语条件；不当高中规则"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-design-degree-with-honours/how-to-apply/#nav",
+          "title": "Bachelor of Design (Degree with Honours) : How to apply - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "ec6ba32acd5b6aa3ae2fc15bc4d0a88e34114a6f08075b2bd0500ae72e66fe57",
+          "chars": 16226,
+          "id": "meldir-design-apply",
+          "supports": "本荣誉学位申请阶段、批次、材料与公开日期；按页面明确年份及例外"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-design-degree-with-honours/structure/#nav",
+          "title": "Bachelor of Design (Degree with Honours)",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "aa63ef12195aa4dd4749bb5c12d8feee446b176069d5a1f5b5896c5220e6b312",
+          "chars": 16151,
+          "id": "meldir-design-structure",
+          "supports": "本荣誉学位公开课程组成、学分或学位内方向；不引用页头国内费用"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "设计荣誉学士（学士后一年）",
+        "duration": "1年全日制；官网另列2年非全日制，个人可用性另核",
+        "campus": "Parkville",
+        "language": "本轮未取得本荣誉学位专属授课语言说明",
+        "intake": "现行页面仅第一学期；2027专属年度未核",
+        "entry_summary": "近5年相关设计领域学士WAM至少70%，录取还取决于研究相关性及导师容量。",
+        "tuition_summary": "2026国际生首年参考 AUD 56,704；2027未核",
+        "outcomes_summary": "培养及研究方向已核；本课程分届次、国际生毕业统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "research_status": "program_researched",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": false,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "本包只新增9个独立荣誉学士入口，内部方向名单另列，不自动组合。",
+        "普通本科新生校级政策与学费不继承；未知字段明确保留。"
+      ],
+      "translation_status": "人工阅读当前官方正文，按入口、方向和年度概述"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-FA",
+      "name_en": "Bachelor of Fine Arts (Degree with Honours)",
+      "degree_label": "Bachelor of Fine Arts (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours",
+      "inventory_id": "melbourne-bachelor-of-fine-arts-degree-with-honours-01ddd7a7f7",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "独立学位与课程内容",
+            "text": "以受导师指导的一年艺术实践研究项目及批评讨论为主。Visual Art学生在The Stables工作室发展作品，进行正式讲评，并将最终作品呈现在VCA毕业展。网页另列五个方向的历史培养说明，但明确这些方向2027不招生；本轮未取得该学位精确总学分表。",
+            "source_ids": [
+              "meldir-fine-arts-overview",
+              "meldir-fine-arts-structure"
+            ]
+          },
+          {
+            "label": "学制、校区与语言边界",
+            "text": "1年全日制；Southbank。专门授课语言说明本轮未取得，不能由英语入学测试反推所有课程语种。",
+            "source_ids": [
+              "meldir-fine-arts-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大学阶段入学资格",
+            "text": "须相关AQF7美术学士，WAM至少70%或等值，并具拟入方向相关主修；申请需作品集、书面计划及入围后的面试。录取还考虑导师容量。舞蹈、设计与制作、影视、音乐剧、戏剧五个方向均明确不提供2027入学，不将其旧说明计作当年可选。",
+            "source_ids": [
+              "meldir-fine-arts-entry"
+            ]
+          },
+          {
+            "label": "本荣誉学位英语准入",
+            "text": "页面列IELTS总分6.5、各项至少6.0。其他英语满足方式及测试时效须按校方审核；本轮不将本科普遍英语标准替代本入口。",
+            "source_ids": [
+              "meldir-fine-arts-entry"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "本学位申请安排",
+            "text": "2027年初批次页面列8月3日开放、10月31日截止、12月中旬发结果（日月在2027批次标题下，未逐项重写自然年）。须先用BH-FA经学校申请系统递交课程申请，并在截止前另经SlideRoom提交创作材料；只有Visual Art未列入本轮五个停招方向。",
+            "source_ids": [
+              "meldir-fine-arts-apply"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际生2026首年指示费",
+            "text": "实际公开国际生视图列2026首年指示学费AUD 39,936–66,912；只是2026年度参考，不是已核2027报价。生活费、保险及其他收费本轮未核，不能将此数当作全部留学预算。区间不代表所有内部方向同一金额。",
+            "source_ids": [
+              "meldir-fine-arts-overview"
+            ]
+          },
+          {
+            "label": "2027费用与资助缺口",
+            "text": "本轮未取得本荣誉学位2027专属学费表及逐项奖学金金额、国际生资格和申请截止；不沿用普通三年学士报价或自动扣减资助。",
+            "source_ids": [
+              "meldir-fine-arts-overview"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养去向与统计边界",
+            "text": "实践研究及毕业展用于发展艺术创作和研究能力，官网列进一步研究型硕士、博士及创意艺术职业方向。本轮未取得本荣誉学位或Visual Art单独的毕业届次、国际生分母、就业率或薪资数据。",
+            "source_ids": [
+              "meldir-fine-arts-overview",
+              "meldir-fine-arts-structure"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours",
+          "title": "Bachelor of Fine Arts (Degree with Honours) - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "ac7a581caf794f44f85fabbca31449b354a123e6e76edfd9bc376d7cc1ca2f76",
+          "chars": 22317,
+          "id": "meldir-fine-arts-overview",
+          "supports": "本荣誉学位名称、课程定位、学制校区、国际视图2026首年指示费及培养用途"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours/entry-requirements/#nav",
+          "title": "Bachelor of Fine Arts (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "f294b2985688fc18a877a6f5cf97c689c1422831fa7139c2e277a1fe8df7eadb",
+          "chars": 24251,
+          "id": "meldir-fine-arts-entry",
+          "supports": "本荣誉学位专属大学学历、成绩、先修、选拔与英语条件；不当高中规则"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours/how-to-apply/#nav",
+          "title": "Bachelor of Fine Arts (Degree with Honours) : How to apply - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "ce4a249e23a8d53c644ea45f0ef0bab03bad60ce00da71f024e14d61d61e5823",
+          "chars": 19069,
+          "id": "meldir-fine-arts-apply",
+          "supports": "本荣誉学位申请阶段、批次、材料与公开日期；按页面明确年份及例外"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours/structure/#nav",
+          "title": "Bachelor of Fine Arts Honours Year at the Victorian College of the Arts (VCA) | The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "8832eacb9c4d54c034eb0c5f18eecc7128c29d03a51dbfd7effcc640511bd8f5",
+          "chars": 20147,
+          "id": "meldir-fine-arts-structure",
+          "supports": "本荣誉学位公开课程组成、学分或学位内方向；不引用页头国内费用"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "美术荣誉学士（学士后一年）",
+        "duration": "1年全日制",
+        "campus": "Southbank",
+        "language": "本轮未取得本荣誉学位专属授课语言说明",
+        "intake": "2027年初；五个方向明确不招生",
+        "entry_summary": "相关美术学士WAM至少70%，作品集、书面计划及入围面试；2027仅Visual Art未列停招。",
+        "tuition_summary": "2026国际生首年参考 AUD 39,936–66,912；2027未核",
+        "outcomes_summary": "培养及研究方向已核；本课程分届次、国际生毕业统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "research_status": "program_researched",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "本包只新增9个独立荣誉学士入口，内部方向名单另列，不自动组合。",
+        "普通本科新生校级政策与学费不继承；未知字段明确保留。"
+      ],
+      "translation_status": "人工阅读当前官方正文，按入口、方向和年度概述"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-MEDSCI",
+      "name_en": "Bachelor of Medical Science (Degree with Honours)",
+      "degree_label": "Bachelor of Medical Science (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-medical-science-degree-with-honours",
+      "inventory_id": "melbourne-bachelor-of-medical-science-degree-with-honours-d1d0398614",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "独立学位与课程内容",
+            "text": "课程训练以证据支持临床实践，涵盖临床研究设计、记录、伦理报告、文献评估与证据沟通。共100学分，必修MEDS40007医学研究导论、MEDS40006高级医学研究和MEDS40008医学研究项目；学校明确只面向国际学生。",
+            "source_ids": [
+              "meldir-medical-science-overview",
+              "meldir-medical-science-structure"
+            ]
+          },
+          {
+            "label": "学制、校区与语言边界",
+            "text": "1年全日制；Parkville。专门授课语言说明本轮未取得，不能由英语入学测试反推所有课程语种。",
+            "source_ids": [
+              "meldir-medical-science-overview"
+            ]
+          },
+          {
+            "label": "医学研究学位与临床资格分开",
+            "text": "这是学校本科栏目下BH-MEDSCI荣誉学位，须先满足合作院校与大学学历资格；不等同MBBS、MD或牙医首次专业资格。",
+            "source_ids": [
+              "meldir-medical-science-overview",
+              "meldir-medical-science-entry"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大学阶段入学资格",
+            "text": "概述称面向持合作协议的国际大学医学或牙医学在读生；当前具体入学页同时要求申请者属于合作院校在读生／毕业生，并在近5年完成AQF7医学／外科学士、牙医学士或相关健康科学学士，WAM至少70%或等值。必须同时核查合作协议和完成学位要求，不能仅凭概述“在读”推定未获学位者均合格。中国具体合作学校名单与个人资格本轮未取得。",
+            "source_ids": [
+              "meldir-medical-science-entry"
+            ]
+          },
+          {
+            "label": "本荣誉学位英语准入",
+            "text": "页面列IELTS总分7、各项至少6.5。其他英语满足方式及测试时效须按校方审核；本轮不将本科普遍英语标准替代本入口。",
+            "source_ids": [
+              "meldir-medical-science-entry"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "本学位申请安排",
+            "text": "只通过墨尔本大学与伙伴院校的协议安排申请，页面给课程负责人联系入口。页头列1月和7月入学，但本轮未取得2027专属截止、伙伴院校名额或独立面向中国高中生的入口；普通国际本科申请日期不适用于本记录。",
+            "source_ids": [
+              "meldir-medical-science-apply"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际生2026首年指示费",
+            "text": "实际公开国际生视图列2026首年指示学费AUD 64,032；只是2026年度参考，不是已核2027报价。生活费、保险及其他收费本轮未核，不能将此数当作全部留学预算。区间不代表所有内部方向同一金额。",
+            "source_ids": [
+              "meldir-medical-science-overview"
+            ]
+          },
+          {
+            "label": "2027费用与资助缺口",
+            "text": "本轮未取得本荣誉学位2027专属学费表及逐项奖学金金额、国际生资格和申请截止；不沿用普通三年学士报价或自动扣减资助。",
+            "source_ids": [
+              "meldir-medical-science-overview"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养去向与统计边界",
+            "text": "培养用途是循证临床实践及临床研究；本轮未取得该荣誉学位直接授予医疗执业资格的证据，不能把它当作高中起点医学专业。亦未取得本课程按毕业届次和国际生分母的就业率或薪资统计。",
+            "source_ids": [
+              "meldir-medical-science-overview",
+              "meldir-medical-science-structure"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-medical-science-degree-with-honours",
+          "title": "Bachelor of Medical Science (Degree with Honours) - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "4cae35d12a7b27ffd9e612d00a0161a138623125cd32e44215e68b77a8047569",
+          "chars": 17538,
+          "id": "meldir-medical-science-overview",
+          "supports": "本荣誉学位名称、课程定位、学制校区、国际视图2026首年指示费及培养用途"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-medical-science-degree-with-honours/entry-requirements/#nav",
+          "title": "Bachelor of Medical Science (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "3ebd1c90d76471e9b97d59bda4149b406e0ef813347c684f4f1478e6f8b95664",
+          "chars": 16155,
+          "id": "meldir-medical-science-entry",
+          "supports": "本荣誉学位专属大学学历、成绩、先修、选拔与英语条件；不当高中规则"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-medical-science-degree-with-honours/how-to-apply/#nav",
+          "title": "Bachelor of Medical Science (Degree with Honours) : How to apply - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "486fe45529238c828bbbaf88d64749ef849b266ec45e6f77da0ecb761e03bdcb",
+          "chars": 14017,
+          "id": "meldir-medical-science-apply",
+          "supports": "本荣誉学位申请阶段、批次、材料与公开日期；按页面明确年份及例外"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-medical-science-degree-with-honours/structure/#nav",
+          "title": "Bachelor of Medical Science (Degree with Honours) : Course structure - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "503f7af5284c47cffca94077392f0bd32b910b9f60ecda9c24c336051273b157",
+          "chars": 14388,
+          "id": "meldir-medical-science-structure",
+          "supports": "本荣誉学位公开课程组成、学分或学位内方向；不引用页头国内费用"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "医学科学荣誉学士（合作院校限定入口）",
+        "duration": "1年全日制",
+        "campus": "Parkville",
+        "language": "本轮未取得本荣誉学位专属授课语言说明",
+        "intake": "现行页面列1月／7月；2027独立批次未核",
+        "entry_summary": "仅国际合作院校指定入口；当前要求近5年完成相关AQF7学位且WAM至少70%，非高中直申。",
+        "tuition_summary": "2026国际生首年参考 AUD 64,032；2027未核",
+        "outcomes_summary": "培养及研究方向已核；本课程分届次、国际生毕业统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "research_status": "program_researched",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": false,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "本包只新增9个独立荣誉学士入口，内部方向名单另列，不自动组合。",
+        "普通本科新生校级政策与学费不继承；未知字段明确保留。"
+      ],
+      "translation_status": "人工阅读当前官方正文，按入口、方向和年度概述"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-MUS",
+      "name_en": "Bachelor of Music (Degree with Honours)",
+      "degree_label": "Bachelor of Music (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours",
+      "inventory_id": "melbourne-bachelor-of-music-degree-with-honours-4710cee4c0",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "独立学位与课程内容",
+            "text": "学位内列作曲、互动创作、爵士与即兴、音乐学／民族音乐学、表演及Tailored Program。课程以独立研究、大型创作或演出及相关论文为主；表演通过公开演出评估，作曲以自作作品音乐会收束。Tailored Program明确暂停且不收2027。本轮未取得全部方向的精确学分分配。",
+            "source_ids": [
+              "meldir-music-overview",
+              "meldir-music-structure"
+            ]
+          },
+          {
+            "label": "学制、校区与语言边界",
+            "text": "1年全日制；官网另列2年非全日制，个人可用性另核；Southbank。专门授课语言说明本轮未取得，不能由英语入学测试反推所有课程语种。",
+            "source_ids": [
+              "meldir-music-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大学阶段入学资格",
+            "text": "须近5年完成相关AQF7音乐学士，WAM至少65%或等值，并满足拟入方向先修。作曲交作品集；互动创作交作品集及计划；爵士与即兴需试演、计划及入围面试；音乐学／民族音乐学交学术写作样本，可能面试；表演需试演。学校另列本校指定三年级科目达到75%可免部分任务的例外，不能扩为所有申请者免试。",
+            "source_ids": [
+              "meldir-music-entry"
+            ]
+          },
+          {
+            "label": "本荣誉学位英语准入",
+            "text": "页面列IELTS总分6.5、各项至少6.0。其他英语满足方式及测试时效须按校方审核；本轮不将本科普遍英语标准替代本入口。",
+            "source_ids": [
+              "meldir-music-entry"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "本学位申请安排",
+            "text": "2027年初批次页面列8月3日开放、10月31日截止、12月中旬发结果（日月在2027批次标题下，未逐项重写自然年）。先用BH-MUS经学校申请系统申请，再于截止前通过SlideRoom递交创作材料。Tailored Program不收2027；页面页头的年中7月不等于已核2027年中开放与截止。",
+            "source_ids": [
+              "meldir-music-apply"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际生2026首年指示费",
+            "text": "实际公开国际生视图列2026首年指示学费AUD 39,936；只是2026年度参考，不是已核2027报价。生活费、保险及其他收费本轮未核，不能将此数当作全部留学预算。区间不代表所有内部方向同一金额。",
+            "source_ids": [
+              "meldir-music-overview"
+            ]
+          },
+          {
+            "label": "2027费用与资助缺口",
+            "text": "本轮未取得本荣誉学位2027专属学费表及逐项奖学金金额、国际生资格和申请截止；不沿用普通三年学士报价或自动扣减资助。",
+            "source_ids": [
+              "meldir-music-overview"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养去向与统计边界",
+            "text": "官网列音乐职业及音乐研究生学习方向；创作、演出和研究项目均属培养成果，不当作实际就业比例。本轮未取得本荣誉学位或单独方向的毕业届次、国际生分母、就业率或薪资统计。",
+            "source_ids": [
+              "meldir-music-overview",
+              "meldir-music-structure"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours",
+          "title": "Bachelor of Music (Degree with Honours) - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "27aed5592a3e047ee5033857546de0cfc30761a08400798606a567dcf57b1cb3",
+          "chars": 18290,
+          "id": "meldir-music-overview",
+          "supports": "本荣誉学位名称、课程定位、学制校区、国际视图2026首年指示费及培养用途"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/entry-requirements/#nav",
+          "title": "Bachelor of Music (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "06755eb5fad5f6aacfee2702a10761f52aceecf5188f48cc2d5e895589e41326",
+          "chars": 35017,
+          "id": "meldir-music-entry",
+          "supports": "本荣誉学位专属大学学历、成绩、先修、选拔与英语条件；不当高中规则"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/how-to-apply/#nav",
+          "title": "Bachelor of Music (Degree with Honours) : How to apply - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "21df0c4b3302631ebb6d2ece95e57fc9cf39a5e36a6f7b82b2b225a250c7de2c",
+          "chars": 18997,
+          "id": "meldir-music-apply",
+          "supports": "本荣誉学位申请阶段、批次、材料与公开日期；按页面明确年份及例外"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/structure/#nav",
+          "title": "Bachelor of Music Honours Year at the Melbourne Conservatorium of Music | The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "3b46db01a2284264af6de4169cd5c3a6e6b92a69d6884f408ce85d6b3edbd16a",
+          "chars": 18877,
+          "id": "meldir-music-structure",
+          "supports": "本荣誉学位公开课程组成、学分或学位内方向；不引用页头国内费用"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "音乐荣誉学士（学士后一年）",
+        "duration": "1年全日制；官网另列2年非全日制，个人可用性另核",
+        "campus": "Southbank",
+        "language": "本轮未取得本荣誉学位专属授课语言说明",
+        "intake": "2027年初；Tailored Program暂停",
+        "entry_summary": "近5年音乐学士WAM至少65%，按方向提交作品／试演／学术写作；Tailored Program不收2027。",
+        "tuition_summary": "2026国际生首年参考 AUD 39,936；2027未核",
+        "outcomes_summary": "培养及研究方向已核；本课程分届次、国际生毕业统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "research_status": "program_researched",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "本包只新增9个独立荣誉学士入口，内部方向名单另列，不自动组合。",
+        "普通本科新生校级政策与学费不继承；未知字段明确保留。"
+      ],
+      "translation_status": "人工阅读当前官方正文，按入口、方向和年度概述"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-SCI",
+      "name_en": "Bachelor of Science (Degree with Honours)",
+      "degree_label": "Bachelor of Science (Degree with Honours)",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours",
+      "inventory_id": "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "独立学位与课程内容",
+            "text": "由理学院、医学牙医与健康科学学院或心理科学学院依研究方向承办，包含高级课程与受监督研究项目，训练实验设计、文献分析、数据获取、风险及伦理申请和研究沟通。各方向学分安排本轮未完整取得，不能把其他荣誉学位的100学分表无条件套入。",
+            "source_ids": [
+              "meldir-science-overview",
+              "meldir-science-structure"
+            ]
+          },
+          {
+            "label": "学制、校区与语言边界",
+            "text": "1年全日制；理学院不提供非全日制，心理学另列例外；Parkville；所属医院和研究项目地点另核。专门授课语言说明本轮未取得，不能由英语入学测试反推所有课程语种。",
+            "source_ids": [
+              "meldir-science-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大学阶段入学资格",
+            "text": "须近10年完成三年制本科学位，其中至少两年为科学或技术领域，并在近10年完成至少50学分科技领域三年级课程，学位WAM至少65%。另需具体方向先修：地理要求相关主修且大二／大三地理平均至少70%；Austin Health医学要求相关实验科学学位、至少H2B（70%–74%）；心理学需APAC认可主修且相关二／三年级加权平均至少70%，三年级按二年级两倍权重。全部为大学阶段要求，不是高考分。",
+            "source_ids": [
+              "meldir-science-entry"
+            ]
+          },
+          {
+            "label": "本荣誉学位英语准入",
+            "text": "页面列IELTS总分6.5、各项至少6.0。其他英语满足方式及测试时效须按校方审核；本轮不将本科普遍英语标准替代本入口。",
+            "source_ids": [
+              "meldir-science-entry"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "本学位申请安排",
+            "text": "理学院2027年初及时申请日为2026年10月31日，2027年中为2027年4月30日。当前表仅生物科学、化学、地球科学列年中可入，其余所列理学院方向只年初；这些方向不提供非全日制。MDHS方向按生物医学荣誉专门流程，心理学另走独立程序；本页心理学日期仍为2026批次，不能推成2027日期。",
+            "source_ids": [
+              "meldir-science-apply"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际生2026首年指示费",
+            "text": "实际公开国际生视图列2026首年指示学费AUD 52,752–62,208；只是2026年度参考，不是已核2027报价。生活费、保险及其他收费本轮未核，不能将此数当作全部留学预算。区间不代表所有内部方向同一金额。",
+            "source_ids": [
+              "meldir-science-overview"
+            ]
+          },
+          {
+            "label": "2027费用与资助缺口",
+            "text": "本轮未取得本荣誉学位2027专属学费表及逐项奖学金金额、国际生资格和申请截止；不沿用普通三年学士报价或自动扣减资助。",
+            "source_ids": [
+              "meldir-science-overview"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养去向与统计边界",
+            "text": "官网将高级科研训练与研究型硕士、博士及研究相关职业准备相联系；进入后续学位须另行申请。本轮未取得理学荣誉学位或其具体方向按届次、国际生分母统计的就业率或薪资。",
+            "source_ids": [
+              "meldir-science-overview",
+              "meldir-science-structure"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours",
+          "title": "Bachelor of Science (Degree with Honours) - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "3eda8efd01c3f12b52d2857b5c64d7ebbb1f2f87a0ecc9707d7cee5a304ead37",
+          "chars": 27810,
+          "id": "meldir-science-overview",
+          "supports": "本荣誉学位名称、课程定位、学制校区、国际视图2026首年指示费及培养用途"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/entry-requirements/#nav",
+          "title": "Bachelor of Science (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "d6f93f5099809a5f2d0cb26bf92bb3f5a9ec29c0b3d0a2a100eddd4dd528292f",
+          "chars": 23527,
+          "id": "meldir-science-entry",
+          "supports": "本荣誉学位专属大学学历、成绩、先修、选拔与英语条件；不当高中规则"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/how-to-apply/#nav",
+          "title": "Bachelor of Science (Degree with Honours) : How to apply - The University of Melbourne",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "eb064e139dbfbd9d3a3cbcaed7298e1fcb52bfcbf1bb705f4cb2ce498608fd0f",
+          "chars": 21724,
+          "id": "meldir-science-apply",
+          "supports": "本荣誉学位申请阶段、批次、材料与公开日期；按页面明确年份及例外"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/structure/#nav",
+          "title": "Bachelor of Science (Degree with Honours)",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "befb7169c357af3ff930841d042054e3023d9a14a881c9009003382c75a88cc2",
+          "chars": 19686,
+          "id": "meldir-science-structure",
+          "supports": "本荣誉学位公开课程组成、学分或学位内方向；不引用页头国内费用"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "理学荣誉学士（学士后一年）",
+        "duration": "1年全日制；理学院不提供非全日制，心理学另列例外",
+        "campus": "Parkville；所属医院和研究项目地点另核",
+        "language": "本轮未取得本荣誉学位专属授课语言说明",
+        "intake": "2027年初／部分方向年中；心理学日期另核",
+        "entry_summary": "近10年三年制学士，至少两年科技领域及50学分相关三年级课程，WAM至少65%；方向可要求更高。",
+        "tuition_summary": "2026国际生首年参考 AUD 52,752–62,208；2027未核",
+        "outcomes_summary": "培养及研究方向已核；本课程分届次、国际生毕业统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "research_status": "program_researched",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": false,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "本包只新增9个独立荣誉学士入口，内部方向名单另列，不自动组合。",
+        "普通本科新生校级政策与学费不继承；未知字段明确保留。"
+      ],
+      "translation_status": "人工阅读当前官方正文，按入口、方向和年度概述"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "BH-COM",
+      "name_en": "Bachelor of Commerce (Honours)",
+      "degree_label": "Bachelor of Commerce (Honours)",
+      "official_url": "https://fbe.unimelb.edu.au/students/bcom/honours/what-is-honours",
+      "inventory_id": "melbourne-bachelor-of-commerce-honours-46c93dcc1d",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "独立学位与课程内容",
+            "text": "在三年商科学士后增加第四年，限会计、精算、经济或金融四个高级研究领域。课程侧重专门知识、研究与分析能力，采用小班和协作学习；本轮未取得当前校历的完整科目、总学分或各方向具体成绩线。",
+            "source_ids": [
+              "meldir-commerce-overview"
+            ]
+          },
+          {
+            "label": "学制、校区与语言边界",
+            "text": "全日制增加第4年；本轮未取得本荣誉学位单独校区说明。专门授课语言说明本轮未取得，不能由英语入学测试反推所有课程语种。",
+            "source_ids": [
+              "meldir-commerce-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大学阶段入学资格",
+            "text": "须在完成商科学士要求后两年内开始荣誉年，仅全日制第一学期入学。会计、精算、经济或金融各方向可能要求指定三年级科目，按当前校历另核；招生页未列可独立核验的统一WAM数值，不能借其他荣誉课程的65%或70%。外校学位申请者适用相同资格审核，并需提供成绩及课程材料；学校明确接受国际生咨询。",
+            "source_ids": [
+              "meldir-commerce-entry"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "本学位申请安排",
+            "text": "2027入学申请截止2026年11月20日，页面明确不考虑迟交。通过学校系统在线申请；外校毕业生须原件或认证成绩、大学课程手册／课程信息、全部已修三年级科目的完整讲授提纲。录取取决于学术表现、当年名额及院系选拔。",
+            "source_ids": [
+              "meldir-commerce-entry"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本学位费用与奖学金边界",
+            "text": "本轮未取得商科荣誉2026或2027国际学费的可用专属正文，不用三年商科学士报价替代。学院招生页提供Honours奖学金入口；具体金额、国际生适用和截止须分别核查。",
+            "source_ids": [
+              "meldir-commerce-entry"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养去向与统计边界",
+            "text": "学院说明毕业生可进入企业领域或继续读硕士、博士；这些是方向说明及定性描述，本轮没有核得本荣誉学位或其四个方向单列的就业率、工资、毕业届次或国际生分母。",
+            "source_ids": [
+              "meldir-commerce-overview"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://fbe.unimelb.edu.au/students/bcom/honours/what-is-honours",
+          "title": "What is Honours?",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "c2267c3fdd73c1a920251fffe0f8c7528b2e61a92ce7fcf17a0b80f57a2686b2",
+          "chars": 7904,
+          "id": "meldir-commerce-overview",
+          "supports": "商科荣誉第四年身份、四个领域、研究学习与定性升学职业方向"
+        },
+        {
+          "url": "https://fbe.unimelb.edu.au/students/bcom/honours/entry-requirements-and-how-to-apply",
+          "title": "Honours Entry & Application",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "175bb984178614a0ad59353f773f5964954fd761b3bba0dd89ffaa5ed538b208",
+          "chars": 11080,
+          "id": "meldir-commerce-entry",
+          "supports": "2027商科荣誉申请截止、第一学期全日制、学位后两年内入口、外校材料和奖学金入口"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "商科荣誉学士（学士后一年）",
+        "duration": "全日制增加第4年",
+        "campus": "本轮未核本荣誉学位具体校区",
+        "language": "本轮未取得本荣誉学位专属授课语言说明",
+        "intake": "2027第一学期",
+        "entry_summary": "完成商科学士后两年内开始；会计、精算、经济或金融须满足各自大学三年级先修。",
+        "tuition_summary": "本荣誉学位国际学费未取得；不套三年BCom费",
+        "outcomes_summary": "培养及研究方向已核；本课程分届次、国际生毕业统计未取得"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "research_status": "program_researched",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "本包只新增9个独立荣誉学士入口，内部方向名单另列，不自动组合。",
+        "普通本科新生校级政策与学费不继承；未知字段明确保留。"
+      ],
+      "translation_status": "人工阅读当前官方正文，按入口、方向和年度概述"
     }
   ],
   "profile": {

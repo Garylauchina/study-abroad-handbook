@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-144 个专业条目 · 2 个含详细资料 · 142 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+153 个专业条目 · 2 个含详细资料 · 151 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=melbourne#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -44,15 +44,24 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-art-history-fbfe074184/">艺术史（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-asian-studies-907b317013/">亚洲研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-agriculture-deccdddb87/">农业学士</a><small>Bachelor of Agriculture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-agriculture-degree-with-honours-f55491c5ef/">农业荣誉学士（学士后一年）</a><small>Bachelor of Agriculture (Degree with Honours) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-arts-205f275e86/">文学学士</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-arts-degree-with-honours-ac8146e0b6/">文学荣誉学士（学士后一年）</a><small>Bachelor of Arts (Degree with Honours) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-biomedicine-09baa08612/">生物医学学士</a><small>Bachelor of Biomedicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5/">生物医学荣誉学士（学士后一年）</a><small>Bachelor of Biomedicine (Degree with Honours) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-commerce-0271fe4211/">商科学士</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-commerce-honours-46c93dcc1d/">商科荣誉学士（学士后一年）</a><small>Bachelor of Commerce (Honours) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-economics/">商学学士·经济学主修</a><small>Bachelor of Commerce — Economics major · 含详细资料</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-design-a0a4bbe173/">设计学士</a><small>Bachelor of Design · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-design-degree-with-honours-b13c8a43e3/">设计荣誉学士（学士后一年）</a><small>Bachelor of Design (Degree with Honours) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-fine-arts-253934e5fd/">艺术学士（按方向选拔）</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-fine-arts-degree-with-honours-01ddd7a7f7/">美术荣誉学士（学士后一年）</a><small>Bachelor of Fine Arts (Degree with Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-medical-science-degree-with-honours-d1d0398614/">医学科学荣誉学士（合作院校限定入口）</a><small>Bachelor of Medical Science (Degree with Honours) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-music-c75c758b1b/">音乐学士（按主修与选拔路径）</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-music-degree-with-honours-4710cee4c0/">音乐荣誉学士（学士后一年）</a><small>Bachelor of Music (Degree with Honours) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-oral-health-be26303a2d/">口腔健康学士</a><small>Bachelor of Oral Health · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-science-dcf2900f46/">理学学士</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b/">理学荣誉学士（学士后一年）</a><small>Bachelor of Science (Degree with Honours) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-science-extended-0b28e06b5d/">理学学士（原住民延伸课程）</a><small>Bachelor of Science (Extended) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-computing-software-systems/">理学学士·计算机与软件系统主修</a><small>Bachelor of Science — Computing and Software Systems major · 含详细资料</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biochemistry-and-molecular-biology-f3f8223d25/">生物化学与分子生物学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
@@ -214,11 +223,11 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 144 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 153 项；这不是全字段详情的完成状态。
 
 <p><strong>统计范围：</strong>Every named bachelor and non-minor major/specialisation in 2027 official university guide pp12–13, plus Science Extended in entry table</p>
 
-<p><strong>对账方法：</strong>{&quot;pdf_pages&quot;: 24, &quot;complete_major_spread_pages&quot;: [12, 13], &quot;visual_review&quot;: true, &quot;group_counts&quot;: {&quot;Agriculture&quot;: 3, &quot;Arts&quot;: 33, &quot;Biomedicine&quot;: 16, &quot;Commerce&quot;: 7, &quot;Design&quot;: 14, &quot;Fine Arts&quot;: 9, &quot;Music&quot;: 6, &quot;Oral Health&quot;: 0, &quot;Science&quot;: 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。</p>
+<p><strong>对账方法：</strong>{&quot;pdf_pages&quot;: 24, &quot;complete_major_spread_pages&quot;: [12, 13], &quot;visual_review&quot;: true, &quot;group_counts&quot;: {&quot;Agriculture&quot;: 3, &quot;Arts&quot;: 33, &quot;Biomedicine&quot;: 16, &quot;Commerce&quot;: 7, &quot;Design&quot;: 14, &quot;Fine Arts&quot;: 9, &quot;Music&quot;: 6, &quot;Oral Health&quot;: 0, &quot;Science&quot;: 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。 本次独立对账官方11页129个主修/辅修/方向结果：93主修URL对应115父学位关系，114已在库存、1为已更正的旧数学总项；25荣誉方向URL去重为13方向、12为申请子页；11辅修不作新学位。另补9个具名荣誉学士，现153条，原144身份及事实保留。</p>
 
 <p><strong>排除项：</strong>Official PDF obtained using normal Chrome downloadMedia on observed download link; archived original + SHA256；Explicit minor-only footnote exclusions: Chinese Societies, Development Studies, Digital Studies, English Language Studies, Environmental Studies, European Studies, Japanese Societies, Law and Justice, Medieval and Early Modern Studies, South Asian Studies；Oral Health four curricular components explicitly not majors and are not separately counted；Exclude concurrent diplomas and standalone postgraduate MD/JD/DVM; Veterinary Bioscience remains bachelor major with later-selection note</p>
 
@@ -228,6 +237,8 @@ hide:
 - 9个艺术音乐方向只有2026费用参考；其他费用逐项区分所属学位和2027估算，内部主修不另算一份学费。
 - 课程2027年中截止03-31与学校国际总页05-31不一致，保留两者；艺术音乐采用专门选拔时间。
 - 本科后荣誉、后续职业学位的完整选拔与个人注册条件，以及按专业和国际生样本定义的毕业统计仍未全部核实。
+- 9个新荣誉学士须大学阶段资格；Medical Science还限合作国际院校。BFA五方向和Music Tailored Program明确无2027入学，其余荣誉内部学科、BCom十个25学分specialisation与相关主修组合仍未全部逐项闭合。
+- 8个荣誉学士费用仅2026国际生首年指示价，Commerce Honours专属费用未取得；2027费用、部分申请日期、授课语言及按专业/国际生分母的毕业统计仍缺。官网目录仍保留旧数学总项，不据此恢复；BA Extended仍为未确认线索。
 
 - [官方目录来源](https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf)
 - [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/)
@@ -775,5 +786,63 @@ hide:
 - [官方目录来源](https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/fees/)
 - [官方目录来源](https://scholarships.unimelb.edu.au/awards/melbourne-international-excellence-scholarship-undergraduate)
 - [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-agriculture-degree-with-honours/how-to-apply/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-agriculture-degree-with-honours/entry-requirements/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-agriculture-degree-with-honours)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-agriculture-degree-with-honours/structure/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=1&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations)
+- [官方目录来源](https://study.unimelb.edu.au/find/?collection=find-a-course&profile=_default&query=%21showall&num_ranks=12&start_rank=1&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations)
+- [官方目录来源](https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=109&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations)
+- [官方目录来源](https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=121&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations)
+- [官方目录来源](https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=13&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations)
+- [官方目录来源](https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=25&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations)
+- [官方目录来源](https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=37&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations)
+- [官方目录来源](https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=49&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations)
+- [官方目录来源](https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=49&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations)
+- [官方目录来源](https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=61&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations)
+- [官方目录来源](https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=73&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations)
+- [官方目录来源](https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=85&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations)
+- [官方目录来源](https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=97&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/how-to-apply/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/entry-requirements/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/structure/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-agriculture-degree-with-honours)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/structure/)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/structure/)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/structure/)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/structure/)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours/how-to-apply/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours/entry-requirements/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours/structure/#nav)
+- [官方目录来源](https://fbe.unimelb.edu.au/students/bcom/honours/entry-requirements-and-how-to-apply)
+- [官方目录来源](https://fbe.unimelb.edu.au/students/bcom/honours/what-is-honours)
+- [官方目录来源](https://study.unimelb.edu.au/study-with-us/the-melbourne-curriculum)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-design-degree-with-honours/how-to-apply/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-design-degree-with-honours/entry-requirements/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-design-degree-with-honours)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-design-degree-with-honours/structure/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours/how-to-apply/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours/entry-requirements/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours/structure/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/study-with-us/programs-for-indigenous-students)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-medical-science-degree-with-honours/how-to-apply/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-medical-science-degree-with-honours/entry-requirements/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-medical-science-degree-with-honours)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-medical-science-degree-with-honours/structure/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/how-to-apply/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/entry-requirements/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/structure/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/how-to-apply/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/entry-requirements/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/structure/#nav)
+- [官方目录来源](https://study.unimelb.edu.au/study-with-us/undergraduate-courses)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

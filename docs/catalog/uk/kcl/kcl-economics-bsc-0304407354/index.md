@@ -77,8 +77,8 @@ hide:
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
-<p class="catalog-fact"><strong>国际课程须核科目：</strong>一般要求页说明成绩以课程为准。IB数学路径有区别：数学、物理、工程要求HL Analysis and Approaches；计算机、经济等所列课程可接受两种HL数学。不能仅凭课程总分字段认定先修科目合格。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-207e7f1516634a">官方依据</a></p>
+<p class="catalog-fact"><strong>国际课程须核科目：</strong>一般要求页说明成绩及先修以具体课程为准；其IB数学总则对数学、物理、工程与部分计算机、经济课程有不同说明。具体课程可更严格：本轮逐项核验的2027人工智能行业年及五个计算机课程均明确要求Mathematics: Analysis &amp; Approaches HL6，不能用Applications &amp; Interpretation替代。申请时须按该课程、该入学年的完整要求核对，不能只凭校级总则或总分字段认定合格。</p>
+<p class="fact-sources"><a href="#source-u-UKENR-207e7f1516634a">官方依据</a> · <a href="#source-u-KCLST-647a1a7aea9edaa5">官方依据</a> · <a href="#source-u-KCLST-af51da4d74b31c0f">官方依据</a> · <a href="#source-u-KCLST-85421a7094cc8a29">官方依据</a> · <a href="#source-u-KCLST-15d3c3bd782daef8">官方依据</a> · <a href="#source-u-KCLST-86ff8de7114de5ec">官方依据</a> · <a href="#source-u-KCLST-917664a03a906d74">官方依据</a></p>
 
 <p class="catalog-fact"><strong>英语适用周期：</strong>当前本科英语页明确适用于2026/27，按课程分Band；须单次考试满足各项，不接受拼分或IELTS One Skill成绩。2027课程适用更新本轮未取得，不能把2026标准自动延期一年。</p>
 <p class="fact-sources"><a href="#source-u-UKENR-2564d42efb560d">官方依据</a></p>
@@ -138,5 +138,11 @@ hide:
 <div class="catalog-source" id="source-u-UKENR-2564d42efb560d"><div><a href="https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements">King’s 本科英语要求 ↗</a><p>英语课程分组、适用2026/27与单次成绩政策</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-6ff2a5ce1a9f38"><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">UCAS 2027平等审理截止 ↗</a><p>2027年1月13日18:00英国时间；迟交不保证同等审理</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-f5da9307fd5b4a"><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS 2026／2027申请日历 ↗</a><p>2027申请提交、牛剑和医学早截止、常规平等审理截止</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KCLST-647a1a7aea9edaa5"><div><a href="https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc/entry-requirements">Artificial Intelligence with a Year in Industry BSc — requirements ↗</a><p>实际标准成绩、数学先修、考试替代与申请类别</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-KCLST-af51da4d74b31c0f"><div><a href="https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc/entry-requirements">Computer Science BSc — requirements ↗</a><p>实际标准成绩、数学先修、考试替代与申请类别</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-KCLST-85421a7094cc8a29"><div><a href="https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci/entry-requirements">Computer Science MSci — requirements ↗</a><p>实际标准成绩、数学先修、考试替代与申请类别</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-KCLST-15d3c3bd782daef8"><div><a href="https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc/entry-requirements">Computer Science with a Year in Industry BSc — requirements ↗</a><p>实际标准成绩、数学先修、考试替代与申请类别</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-KCLST-86ff8de7114de5ec"><div><a href="https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc/entry-requirements">Computer Science with Management BSc — requirements ↗</a><p>实际标准成绩、数学先修、考试替代与申请类别</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-KCLST-917664a03a906d74"><div><a href="https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc/entry-requirements">Computer Science with Management &amp; a Year in Industry BSc — requirements ↗</a><p>实际标准成绩、数学先修、考试替代与申请类别</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/kcl/">← 返回伦敦国王学院</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -5,7 +5,7 @@
     "status": "partial",
     "count": 145,
     "scope": "148个已发现目录入口中，145个本科及本科在读路线；3个本科后护理硕士另留更正页，内部路径仍待全量对账",
-    "method": "复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。",
+    "method": "复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。 再逐课核12计算机、数学与通用工程项目及各自China分支、年度模块与费用，原145入口保持。",
     "exclusions": "Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes；本科后首次注册护理MNurs/MSc不计本科项目；MBBS/BDS仍按专业学士保留并注明前置学历。",
     "sources": [
       {
@@ -254,7 +254,7 @@
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc",
         "sha256": "ebdf715f77d6fccbcd0aafc878b885ba20c3a79bf9fd8c14bd209407072b0937",
-        "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-56ad79715d0b19.html"
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-artificial-intelligence-with-a-year-in-industry-bsc-739d0dd809-overview.html"
       },
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biochemistry-bsc",
@@ -374,7 +374,7 @@
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc",
         "sha256": "77c3d15631ef8c2063c105af1004e858582913476516daafc209463b16a7933d",
-        "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-501ebfef3ecd35.html"
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-with-management-a-year-in-industry-bsc-24fb748e8a-overview.html"
       },
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba",
@@ -654,7 +654,7 @@
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-bsc",
         "sha256": "415cc01a7fb0d2ae3ab4f6a4ecec6e2a420a1c377d2320127745c85e4c8d8c19",
-        "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-94e7d70e25c056.html"
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-bsc-9da2bc288d-overview.html"
       },
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci",
@@ -2760,16 +2760,362 @@
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/fees",
         "sha256": "d63a83b2988af7f2af3c3324fe4fa4a49f86dc26be72d59228324e258a5d1cf9",
         "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/fees-dom-2.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc/teaching-and-modules",
+        "sha256": "933c5870c1a50d06c91c03a84b16557083eafcd58e7d6688a0cc2198d737ce99",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-artificial-intelligence-with-a-year-in-industry-bsc-739d0dd809-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc/entry-requirements",
+        "sha256": "647a1a7aea9edaa54dbe12f28447c41e06ff4bc5758c7d9efef59c7db8a3454d",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-artificial-intelligence-with-a-year-in-industry-bsc-739d0dd809-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc/careers",
+        "sha256": "0e0846e6c230608780e49ba326a4fa99f4ae9b317d006bd18b31387fb6674e9c",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-artificial-intelligence-with-a-year-in-industry-bsc-739d0dd809-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc/entry-requirements",
+        "sha256": "3cd6350dae8582a0f49555a1ea8c4ef2c18656fabc5a487d2542b461865fc170",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/review/china-dom-0.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc/fees",
+        "sha256": "05a19baba4c71d12865fcebe6a9d471f3ef36a7e5f66cab2388df6dabb0ef8a7",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/fees-dom-0.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc",
+        "sha256": "b9d2d1998de180ded3d76a4bc03e87fab64771b266695a539673b077c28d4522",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-bsc-b4d69ea787-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc/teaching-and-modules",
+        "sha256": "435c078293badba2fb696114e554f20a1ced384f5709e1ca0ddf232168d15e4b",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-bsc-b4d69ea787-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc/entry-requirements",
+        "sha256": "af51da4d74b31c0f09cec71d2731ee5aa010b7c42c79103084e6e5963b1f14c9",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-bsc-b4d69ea787-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc/careers",
+        "sha256": "1b1b49c0528c93fa50959e6015dd03b942c61947a7939ef8dec2821c8a6736f5",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-bsc-b4d69ea787-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc/entry-requirements",
+        "sha256": "29bb7a7165e29fc951d61ec3fddc8595f90cb03f76fd81b7e39caf0040168eff",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/review/china-dom-1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc/fees",
+        "sha256": "85d24046655436e83e05f6406766a624c8233267af92cd19892fd44d5706f780",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/fees-dom-1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci",
+        "sha256": "bd4291632f4438a88ade224de18a2f00e9ecfef3c71a103aeeb1de9b6df7f72d",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-msci-90438790d9-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci/teaching-and-modules",
+        "sha256": "9b43ddb23ba315dfe32f5cff5c51c771049a4077207ac26b732894aa186ed666",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-msci-90438790d9-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci/entry-requirements",
+        "sha256": "85421a7094cc8a29f37c20f7fc7e950798f2a34166d54b024d4698f3f0bec8c7",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-msci-90438790d9-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci/careers",
+        "sha256": "371cd63ce507764eb450a2b742362e02c0d98c681e2e76dae9b8ca9ff811a465",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-msci-90438790d9-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci/entry-requirements",
+        "sha256": "e2748eaf1ba0a4bba443663f06085dbc2a99a38efb542a3c608102f52083a28e",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/review/china-dom-2.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci/fees",
+        "sha256": "31ba7b41272eea0f9f9796b24065b4bac0ed57e3762d98d1946cd0bea7342d20",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/fees-dom-2.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc",
+        "sha256": "52fdaabae19e991f89389d9a9115085b3da3ad182629624c2f3f696a474fe4b9",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-with-a-year-in-industry-bsc-9a6e70e448-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc/teaching-and-modules",
+        "sha256": "188b36dd1a1c472727a2fd571a90798c1450d2af3320028204ee5a061db3229b",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-with-a-year-in-industry-bsc-9a6e70e448-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc/entry-requirements",
+        "sha256": "15d3c3bd782daef8e15dbf5820748544d5025197dbe98046ba349b4e7cd9b16b",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-with-a-year-in-industry-bsc-9a6e70e448-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc/careers",
+        "sha256": "03c246bc07493eff1e3a0fe5a3841c76b791c2ac143d6915b81a19154f02951b",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-with-a-year-in-industry-bsc-9a6e70e448-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc/entry-requirements",
+        "sha256": "930f31c7b042fc072db2c873390df26938358b008681a2cd706d957899cdfd2c",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/review/china-dom-3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc/fees",
+        "sha256": "521e008e08e9ccb7e4e1ec5ce9a95d2c051c31915cf4a34bccf3b0549a3e6ba0",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/fees-dom-3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc",
+        "sha256": "0eebf1c1d49975ddd80ba1f5adfb12a23c62b2836c774dc23347c620b8320dba",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-with-management-bsc-7c78bbc49e-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc/teaching-and-modules",
+        "sha256": "3c695ff76ef0b19372389dca6c7136b971f7cdddaebbedda65d704e212a481e1",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-with-management-bsc-7c78bbc49e-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc/entry-requirements",
+        "sha256": "86ff8de7114de5ec0a9a3d37a7fda0b6c76269931cfa9f1eae3975655d960e69",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-with-management-bsc-7c78bbc49e-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc/careers",
+        "sha256": "da3ff5c6e13ed8794cd9ffd64cd8e50d46b7c9e20417cd1bf4cc1a302c4390e1",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-with-management-bsc-7c78bbc49e-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc/entry-requirements",
+        "sha256": "9c191145e08875ff499c95b4ee4709cffa0fe5a1de5f9dc50f7d6a511a09f724",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/review/china-dom-4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc/fees",
+        "sha256": "4835cd65d3fc88d41854109c197f223ecb138ba7ad733cc889e118b64fba968c",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/fees-dom-4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc/teaching-and-modules",
+        "sha256": "b2a250d41b157c277d7c14d0faa105f6a48363c20dc816f314619a5e14053159",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-with-management-a-year-in-industry-bsc-24fb748e8a-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc/entry-requirements",
+        "sha256": "917664a03a906d74047e73639ffc8921118f464d849b935b531104b3d3ebf04b",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-with-management-a-year-in-industry-bsc-24fb748e8a-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc/careers",
+        "sha256": "cd1d305fcf93c59a0406c922f61e9f137fc8c6da4d2884f0917fcc6254b8ffff",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-computer-science-with-management-a-year-in-industry-bsc-24fb748e8a-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc/entry-requirements",
+        "sha256": "194734cc588cac88d9e8afe505eda6b85ad5b8e4a6a50bcc25a181ca5e1e5235",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/review/china-dom-5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc/fees",
+        "sha256": "4933a763be162be056f32f746c679f4233f406d4c640a3c27a83e42ecbdbe460",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/fees-dom-5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng",
+        "sha256": "b9264647d5ed7bdafaa831762457a8028df46fd4c0481ed4cdf27683c54d3ebd",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-general-engineering-meng-91ae0935e2-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng/teaching-and-modules",
+        "sha256": "369c03479be2cfd6835f73a6ecae906b6f7ff70140585ae53166416aa9eaba96",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-general-engineering-meng-91ae0935e2-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng/entry-requirements",
+        "sha256": "5ae997914c014e53fdf19e89815f99ad319651298e0e5ba2d728f8a9fa461a9b",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-general-engineering-meng-91ae0935e2-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng/careers",
+        "sha256": "235738cc88b1a58c7e3765d1ca51b332f0d4714db511080c2a82676307341fe2",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-general-engineering-meng-91ae0935e2-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng/entry-requirements",
+        "sha256": "d03be0ab48951e5b388ba7fa855fc63121aadcfd9de3a1e4f717758078773f13",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/review/china-dom-11.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng/fees",
+        "sha256": "3ac18b925905d5905368535df2b26c358ca6f1d3c843d09b97515ff99fe06dd7",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/fees-dom-11.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-beng",
+        "sha256": "54878bc35e7e42c88db890b5a15cba38a7dbde14e08bf0efcfb9fd952a122338",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-general-engineering-beng-ff0c6cbd1c-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-beng/teaching-and-modules",
+        "sha256": "46960c10845f962dbbc584762b7f8ccf447e2e5e6ade609f044ac66f3663f6ab",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-general-engineering-beng-ff0c6cbd1c-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-beng/entry-requirements",
+        "sha256": "09f7f3980073e9e90d8fbb4ea862d9eb372c9bfbcdc21fd02702d100c9587fec",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-general-engineering-beng-ff0c6cbd1c-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-beng/careers",
+        "sha256": "7a2234372bef5d03fe56bae97cea835e01ddbd0d3d22a7a39d21533b72bceff0",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-general-engineering-beng-ff0c6cbd1c-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-beng/entry-requirements",
+        "sha256": "aff98463115f4b8445db42f00bb1559dac29270b18d4689bfc72742d8ff99f9f",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/review/china-dom-10.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-beng/fees",
+        "sha256": "f368f62978d274165a67b8cc2bfd903e2aedb374d2920b736e6fc83d92eb2a04",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/fees-dom-10.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-bsc/teaching-and-modules",
+        "sha256": "683598864a066db7d48d9aa82ec70b1d69518b2bf95ba53c6e0f6478f914af09",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-bsc-9da2bc288d-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-bsc/entry-requirements",
+        "sha256": "07674548786e571e5e9229330e0b387452b74cd21d83a2a66ffe980ad80f78df",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-bsc-9da2bc288d-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-bsc/careers",
+        "sha256": "841c3eda7026e5697e8669127816b1cacf5118bf94e303e6c651e957ecb9269a",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-bsc-9da2bc288d-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-bsc/entry-requirements",
+        "sha256": "a1d6587e43bbe5a48d00a7c089cf5ecd7a2c09907d50e12714b24c2df593a1f2",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/review/china-dom-6.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-bsc/fees",
+        "sha256": "3777aff93ead255fbebb502d5e5b807b4b3687fc87d0843040e186d1a1f8d9f7",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/fees-dom-6.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci",
+        "sha256": "269e3a2e084bb3259a148f7d97ddaf6df21ee87edd9c47fc1b1025e3b6230bd7",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-msci-dbb411c1a2-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci/teaching-and-modules",
+        "sha256": "91041e4105d9d207b0396560d1798a1e2a36baf03799fd1044c3cd21d88ead59",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-msci-dbb411c1a2-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci/entry-requirements",
+        "sha256": "e166189203eb7321b43040281dda1be8a1d09e154fac0420820b8f4ffe76048a",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-msci-dbb411c1a2-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci/careers",
+        "sha256": "dfaf3cddb52715b1155f805d3b79e1cce1a42048a8108f4bc916fa08d5caf6d2",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-msci-dbb411c1a2-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci/entry-requirements",
+        "sha256": "f854196a0973d14d9d60a5d6302f65d4bfafb0883fd973a68a66be9a8e036a40",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/review/china-dom-7.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci/fees",
+        "sha256": "e5cc70173911164dfe4a0105f7282341d0a74ec32ab2d5c858e58c110bb0095b",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/fees-dom-7.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-msci",
+        "sha256": "25ab1dfb25b441e29559d570b11a93a718f15b59d608a6016427f7df3b67b952",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-with-year-in-industry-msci-dcbfcd2cd2-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-msci/teaching-and-modules",
+        "sha256": "152400eba77dc28a8868b10f71bd80f0aeeaa5866867b5dab7e4c1f08c5ade48",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-with-year-in-industry-msci-dcbfcd2cd2-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-msci/entry-requirements",
+        "sha256": "7a6d34506433444439608d87c7cd9b5e7cd4db4da516175332c2cc70be5559bf",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-with-year-in-industry-msci-dcbfcd2cd2-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-msci/careers",
+        "sha256": "eeeceb03f6a969e7f44d5bc7fcc00a56648af276bbabc50868680ffe47bb9ce6",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-with-year-in-industry-msci-dcbfcd2cd2-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-msci/entry-requirements",
+        "sha256": "a87f03dc651e7c9624dd7da205785326c95a55087741bd6b5061890d4b5dd77a",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/review/china-dom-9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-msci/fees",
+        "sha256": "26a1997d1adcc895bdb033a7cd11b6d684af069d6db96667840eb74d981b32b5",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/fees-dom-9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc",
+        "sha256": "213bb6757ee8355b438e35ab7d80aec9d539832ad2d23d50aac4caa9e7373ba5",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-with-year-in-industry-bsc-11d05449af-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc/teaching-and-modules",
+        "sha256": "a172807d146563002c1303c88d65ae73ed62b0fd8643da2a50b1ff396998512c",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-with-year-in-industry-bsc-11d05449af-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc/entry-requirements",
+        "sha256": "7c513679f5902d0520c46ffb00b392bd62998609becdd220fed13769b6364a60",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-with-year-in-industry-bsc-11d05449af-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc/careers",
+        "sha256": "79d331adf50e4feba345a1d022b4fbc90a29b2b8ae81d476efabd1cf80585ec1",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/kcl-mathematics-with-year-in-industry-bsc-11d05449af-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc/entry-requirements",
+        "sha256": "1ee6f98e39141b85e9849223f033dfa8364636573cde91542656d3ba932154e8",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/review/china-dom-8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc/fees",
+        "sha256": "6769146f420b2277a6f10170a9bf1d79b491cefc5f7d1a29506bc6c2de80d4f2",
+        "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/fees-dom-8.html"
       }
     ],
     "gaps": [
       "仍有现有课程尚未完成独立分栏补源；所有本科内部路径及完整资格继续逐项核验。",
-      "37健康医学、12人文、12艺术媒体与12法律商科已分别取得2027/28课程费用信息；伙伴校旧年度参考、实习减额和全程总费用按各项目边界说明。",
-      "英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；Medicine MBBS和人文、艺术媒体、法律商科各12项已逐页取得China资格分支，其余课程不由A-level/IB反推高考直入。",
+      "37健康医学、12人文、12艺术媒体、12法律商科与12理工课程已分别取得2027/28课程费用信息；伙伴校旧年度参考、实习减额和全程总费用按各项目边界说明。",
+      "英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；Medicine MBBS和人文、艺术媒体、法律商科、理工各12项已逐页取得China资格分支，其余课程不由A-level/IB反推高考直入。",
       "iBSc内部／外部申请日与侧栏状态、牙科及部分医学模块学分存在官方差异，均保留原范围；空截止栏不作推断。",
       "本批职业页多为职业注册、服务或案例，未取得专业独立毕业届别、分母、就业率或薪资。",
       "艺术媒体部分年度学分表、比较文学电影交换年段存在官网表述差异；英语语言与语言学校区未确认，创意写作及全球媒体专业页未列截止日期。",
-      "法律母页香港LLM与独立香港JD不得混同；M124澳法旧交叉提及未确认为现行独立入口，伙伴阶段未来费率、若干年度学分及资格差异仍按正文待核。"
+      "法律母页香港LLM与独立香港JD不得混同；M124澳法旧交叉提及未确认为现行独立入口，伙伴阶段未来费率、若干年度学分及资格差异仍按正文待核。",
+      "新补12理工项目的部分年度模块数量和跨课程表述有差异；实习/海外费用、2027英语更新与本路线独立毕业数据仍依各条缺口，不能套用商学院规则。"
     ]
   },
   "programs": [
@@ -2954,8 +3300,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=0",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "dc834c5c-07c3-4165-a47d-87f612f560fc",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后四年；全日制；实习年须在读达到成绩并自行落实岗位，非保证配岗。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-artificial-intelligence-with-a-year-in-industry-bsc-739d0dd809"
     },
@@ -3282,8 +3628,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=1",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "ddd7902c-cfe1-4f43-b06e-55e0b418f7b7",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后三年；获批额外海外年可四年；海外变体须在读获批，非另一个已核实独立高中入口。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-computer-science-bsc-b4d69ea787"
     },
@@ -3298,8 +3644,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=1",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "3ed97648-5558-4cf9-b553-c998a32e26df",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后四年；全日制，本硕一体；本硕一体不要求先取得本科。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-computer-science-msci-90438790d9"
     },
@@ -3314,8 +3660,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "c62ec354-ed65-43cf-8b9b-ed5c3dc7e875",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后四年；全日制；实习年须在读达到成绩并自行落实岗位，非保证配岗。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-computer-science-with-a-year-in-industry-bsc-9a6e70e448"
     },
@@ -3330,8 +3676,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "21c8edef-78e7-4b3b-b92e-185b767a155d",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后三年；获批额外海外年可四年；海外变体须在读获批，非另一个已核实独立高中入口。 管理为Major/minor结构。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-computer-science-with-management-bsc-7c78bbc49e"
     },
@@ -3346,8 +3692,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "4c9b9549-5b17-478b-b850-b88d809b6bab",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后四年；全日制；实习年须在读达到成绩并自行落实岗位，非保证配岗。 管理为Major/minor结构。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-computer-science-with-management-a-year-in-industry-bsc-24fb748e8a"
     },
@@ -3818,8 +4164,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=4",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "f5d1e351-0a96-47fc-b2c4-4e6ceaba0fe2",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后四年；全日制，本硕一体；本硕一体不要求先取得本科。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-general-engineering-meng-91ae0935e2"
     },
@@ -3834,8 +4180,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=4",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "3ae521b8-a408-4d4f-8a96-40ab2bbd381f",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后三年；全日制；BEng可申请转MEng，具体转轨门槛本轮未取得。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-general-engineering-beng-ff0c6cbd1c"
     },
@@ -4245,8 +4591,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=5",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "f5bcb164-5db1-47ee-9b9c-8d8721600ef4",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后三年；获批额外海外年可四年；海外变体须在读获批，非另一个已核实独立高中入口。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-mathematics-bsc-9da2bc288d"
     },
@@ -4261,8 +4607,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=6",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "36152e38-1e8a-457e-81e8-293185f965c4",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后四年；获批额外海外年可五年；海外变体须在读获批，非另一个已核实独立高中入口。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-mathematics-msci-dbb411c1a2"
     },
@@ -4357,8 +4703,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=6",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "7531fa94-f0bc-4596-91e9-e92793cb3958",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后五年；全日制，本硕一体含行业年；实习年须在读达到成绩并自行落实岗位，非保证配岗。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-mathematics-with-year-in-industry-msci-dcbfcd2cd2"
     },
@@ -4373,8 +4719,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=6",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "924f238b-52e2-484e-bcb6-4c6018310e95",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后四年；全日制；实习年须在读达到成绩并自行落实岗位，非保证配岗。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-mathematics-with-year-in-industry-bsc-11d05449af"
     },
