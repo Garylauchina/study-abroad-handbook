@@ -23,240 +23,241 @@ hide:
 
 ## 专业与申请资料
 
-229 个专业条目 · 0 个含详细资料 · 185 个补有专业资料 · 44 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+230 个专业条目 · 0 个含详细资料 · 230 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=washington#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-accounting-feda903823/">Accounting</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-accounting-for-business-professionals-903f62c3b7/">Accounting for Business Professionals</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-aeronautical-and-astronautical-engineering-25e771b299/">Aeronautical and Astronautical Engineering</a><small>Bachelor of Science in Aeronautical and Astronautical Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-american-ethnic-studies-f6be18686c/">American Ethnic Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-american-indian-studies-883aaf5a1b/">American Indian Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-american-music-310027b4fa/">American Music</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-d345f10421/">Anthropology</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-anthropology-of-globalization-0ecf05e821/">Anthropology: Anthropology of Globalization</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-archaeological-sciences-92a992e908/">Anthropology: Archaeological Sciences</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-archaeological-sciences-62fe04e77d/">Anthropology: Archaeological Sciences</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-human-evolutionary-biology-9eb8f3b0ab/">Anthropology: Human Evolutionary Biology</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-human-evolutionary-biology-d251b412c9/">Anthropology: Human Evolutionary Biology</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-indigenous-archaeology-fd30c6cb04/">Anthropology: Indigenous Archaeology</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-medical-anthropology-and-global-health-ad02478519/">Anthropology: Medical Anthropology and Global Health</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-medical-anthropology-and-global-health-8e7a22a25b/">Anthropology: Medical Anthropology and Global Health</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-applied-mathematics-92f3ef2f3c/">Applied Mathematics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-applied-mathematics-data-science-8306938fe9/">Applied Mathematics: Data Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-applied-and-computational-math-sciences-data-science-and-statisti-0d48b786a3/">Applied and Computational Math Sciences: Data Science and Statistics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-applied-and-computational-math-sciences-discrete-mathematics-and-6cda74da18/">Applied and Computational Math Sciences: Discrete Mathematics and Algorithms</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-applied-and-computational-math-sciences-mathematical-economics-an-cfd3f9257b/">Applied and Computational Math Sciences: Mathematical Economics and Quantitative Finance</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-applied-and-computational-math-sciences-scientific-computing-and-bc2fd02104/">Applied and Computational Math Sciences: Scientific Computing and Numerical Analysis</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-aquatic-conservation-and-ecology-399a900a25/">Aquatic Conservation and Ecology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-architectural-design-3f437ec577/">Architectural Design</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-architectural-design-w-const-mgmt-76fac12659/">Architectural Design (w/Const Mgmt)</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-architectural-studies-0494ff4727/">Architectural Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-art-3fe70339c8/">Art</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-art-history-e8b7aa61a9/">Art History</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-asian-languages-and-cultures-0e24b73b53/">Asian Languages and Cultures</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-astronomy-73737a5e3b/">Astronomy</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-atmospheric-and-climate-science-chemistry-9f27b83cff/">Atmospheric and Climate Science: Chemistry</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-atmospheric-and-climate-science-climate-6c5d8a7f85/">Atmospheric and Climate Science: Climate</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-atmospheric-and-climate-science-data-science-af3570a34c/">Atmospheric and Climate Science: Data Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-atmospheric-and-climate-science-meteorology-a77beb6c4f/">Atmospheric and Climate Science: Meteorology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-biochemistry-3cefeef1b8/">Biochemistry</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-biochemistry-cb22a0086d/">Biochemistry</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-bioengineering-3ecc780ac2/">Bioengineering</a><small>Bachelor of Science in Bioengineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-bioengineering-data-science-2a6659e325/">Bioengineering: Data Science</a><small>Bachelor of Science in Bioengineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-bioengineering-nanoscience-and-molecular-engineering-0aa1ab3a73/">Bioengineering: Nanoscience and Molecular Engineering</a><small>Bachelor of Science in Bioengineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-biology-8d1c1640c4/">Biology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-biology-320c635591/">Biology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-business-administration-6e26514b2b/">Business Administration</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-chemical-engineering-0b8197e701/">Chemical Engineering</a><small>Bachelor of Science in Chemical Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-chemical-engineering-nanoscience-and-molecular-engineering-794d8d43aa/">Chemical Engineering: Nanoscience and Molecular Engineering</a><small>Bachelor of Science in Chemical Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-chemistry-6bd155db4f/">Chemistry</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-chemistry-84ac92516e/">Chemistry</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-chemistry-acs-certified-4e121a145b/">Chemistry: ACS Certified</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-chinese-c4fa33796b/">Chinese</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-cinema-and-media-studies-7e8127e4da/">Cinema and Media Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-civil-engineering-ec28a9a5ee/">Civil Engineering</a><small>Bachelor of Science in Civil Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-classical-studies-96a2d16c06/">Classical Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-classics-0157734da4/">Classics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-clinical-health-services-61a8dd5bf7/">Clinical Health Services</a><small>Bachelor of Clinical Health Services · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-communication-b815fa842e/">Communication</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-communication-journalism-and-public-interest-communication-86642319ae/">Communication: Journalism and Public Interest Communication</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-community-environment-and-planning-4d96f41684/">Community, Environment, and Planning</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-comparative-history-of-ideas-5b5295b6bf/">Comparative History of Ideas</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-comparative-literature-588d3f9ee7/">Comparative Literature</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-comparative-literature-cinema-studies-edc0298baf/">Comparative Literature: Cinema Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-comparative-religion-5cbd390314/">Comparative Religion</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-composition-f1d5c7884e/">Composition</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-computational-finance-and-risk-management-ba2005490c/">Computational Finance and Risk Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-computational-finance-and-risk-management-data-science-def8cb659c/">Computational Finance and Risk Management: Data Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-computer-engineering-114dbb5ad0/">Computer Engineering</a><small>Bachelor of Science in Computer Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-computer-science-988b029bc4/">Computer Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-computer-science-data-science-06482341e8/">Computer Science: Data Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-construction-management-17397f14a6/">Construction Management</a><small>Bachelor of Science in Construction Management · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-construction-management-w-arch-design-844f12bf34/">Construction Management (w/Arch Design)</a><small>Bachelor of Science in Construction Management · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-dance-bd418c85ab/">Dance</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-danish-e262bd82c4/">Danish</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-drama-c75c4cc20f/">Drama</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-drama-design-56606e98c0/">Drama: Design</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-drama-performance-481fd0655e/">Drama: Performance</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-early-care-and-education-fee-based-online-9f0b742b41/">Early Care and Education (fee-based) (online)</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-early-care-and-education-teaching-and-learning-fee-based-online-n-2cf600a4ab/">Early Care and Education: Teaching and Learning (fee-based) (online) (not admitting)</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-early-childhood-and-family-studies-teaching-and-learning-747a85ee29/">Early Childhood and Family Studies: Teaching and Learning</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-earth-and-space-sciences-30aaa966ef/">Earth and Space Sciences</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-earth-and-space-sciences-biology-a45a5891ef/">Earth and Space Sciences: Biology</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-earth-and-space-sciences-geology-530203a86f/">Earth and Space Sciences: Geology</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-earth-and-space-sciences-geoscience-f239ccafb0/">Earth and Space Sciences: Geoscience</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-earth-and-space-sciences-physics-dba9b3ea70/">Earth and Space Sciences: Physics</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-eastern-european-languages-literature-and-culture-3bbaf97732/">Eastern European Languages, Literature, and Culture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-economics-d56b34469b/">Economics</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-economics-a05dc34b08/">Economics</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-economics-data-science-46d50a1e2b/">Economics: Data Science</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-economics-financial-economics-30efb936de/">Economics: Financial Economics</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-economics-international-economics-3acc7203a4/">Economics: International Economics</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-economics-strategy-9dc70557cf/">Economics: Strategy</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-studies-early-childhood-studies-c5c9b38e7e/">Education Studies: Early Childhood Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-studies-education-research-and-policy-a4c8bd877e/">Education Studies: Education Research and Policy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-studies-foundations-of-teaching-9d04a637ff/">Education Studies: Foundations of Teaching</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-studies-liberatory-education-3899cac1bf/">Education Studies: Liberatory Education</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-studies-multilingual-language-in-education-228bccaea9/">Education Studies: Multilingual/Language in Education</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-studies-sports-and-education-23ac07f04c/">Education Studies: Sports and Education</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-studies-wellness-and-social-emotional-learning-a136e1d403/">Education Studies: Wellness and Social Emotional Learning</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-communities-and-organizations-15266270fb/">Education, Communities and Organizations</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-electrical-and-computer-engineering-9d543f8d98/">Electrical and Computer Engineering</a><small>Bachelor of Science in Electrical and Computer Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-engineering-e9d737ca05/">Engineering</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-engineering-ad3c99f126/">Engineering</a><small>Bachelor of Science in Engineering · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-english-2bfc30b838/">English</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-english-creative-writing-fd73e2e558/">English: Creative Writing</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-entrepreneurship-b0441eb8fe/">Entrepreneurship</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-design-and-sustainability-d59c5d3c74/">Environmental Design and Sustainability</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-engineering-e2353ddca8/">Environmental Engineering</a><small>Bachelor of Science in Environmental Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-public-health-dcbdb2224a/">Environmental Public Health</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-science-and-terrestrial-resource-management-d2f4d2a56f/">Environmental Science and Terrestrial Resource Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-science-and-terrestrial-resource-management-natural-8d233d7bc3/">Environmental Science and Terrestrial Resource Management: Natural Resource and Environmental Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-science-and-terrestrial-resource-management-restora-d5cd08f475/">Environmental Science and Terrestrial Resource Management: Restoration Ecology and Environmental Horticulture</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-science-and-terrestrial-resource-management-sustain-a802723fc9/">Environmental Science and Terrestrial Resource Management: Sustainable Forest Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-science-and-terrestrial-resource-management-wildlif-07dc7b5f2e/">Environmental Science and Terrestrial Resource Management: Wildlife Conservation</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-studies-62d870f14a/">Environmental Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-ethnomusicology-79921626ac/">Ethnomusicology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-finance-a096be071b/">Finance</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-finnish-18c5a6f303/">Finnish</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-food-systems-nutrition-and-health-33a06aecf1/">Food Systems, Nutrition, and Health</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-food-systems-nutrition-and-health-7e6825b544/">Food Systems, Nutrition, and Health</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-french-c8d2396caa/">French</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-gender-women-and-sexuality-studies-3117dde726/">Gender, Women, and Sexuality Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-geography-1376ecf995/">Geography</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-geography-data-science-d961fc714a/">Geography: Data Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-german-studies-22fd772cfa/">German Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-german-studies-cultural-studies-bdfe68b03a/">German Studies: Cultural Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-global-literary-studies-46709f4662/">Global Literary Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-greek-7b32faa1e3/">Greek</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-guitar-0283fcc2d2/">Guitar</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-health-informatics-and-health-information-management-55d98c595e/">Health Informatics and Health Information Management</a><small>Bachelor of Science in Health Informatics and Health Information Management · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-history-178397c5db/">History</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-history-and-philosophy-of-science-3b689ef6d3/">History and Philosophy of Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-history-empire-and-colonialism-e928eb6edd/">History: Empire and Colonialism</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-history-race-gender-and-power-b6881cc2f7/">History: Race, Gender, and Power</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-history-religion-and-society-560e9ebea1/">History: Religion and Society</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-history-war-and-society-415d6c2e72/">History: War and Society</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-human-centered-design-and-engineering-ec2d2ac0ca/">Human Centered Design and Engineering</a><small>Bachelor of Science in Human Centered Design and Engineering · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-human-centered-design-and-engineering-general-option-049752bf2a/">Human Centered Design and Engineering: General Option</a><small>Bachelor of Science in Human Centered Design and Engineering · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-human-resources-management-ff4d946b8b/">Human Resources Management</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-individualized-studies-398a7cf86d/">Individualized Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-individualized-studies-a167808946/">Individualized Studies</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-industrial-design-87e5af0aa2/">Industrial Design</a><small>Bachelor of Design · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-industrial-engineering-eb5c301fba/">Industrial Engineering</a><small>Bachelor of Science in Industrial Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-industrial-engineering-data-science-9e7d3db693/">Industrial Engineering: Data Science</a><small>Bachelor of Science in Industrial Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-informatics-f9321ba1a6/">Informatics</a><small>Bachelor of Science in Informatics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-informatics-biomedical-and-health-informatics-38477fcb22/">Informatics: Biomedical and Health Informatics</a><small>Bachelor of Science in Informatics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-informatics-data-science-ebc0d1ba8d/">Informatics: Data Science</a><small>Bachelor of Science in Informatics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-information-systems-6e3ae60a65/">Information Systems</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-integrated-social-sciences-085e9082c9/">Integrated Social Sciences</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-interaction-design-5075c877b0/">Interaction Design</a><small>Bachelor of Design · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-international-studies-35fba02c5a/">International Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-international-studies-asia-45cb1afbb1/">International Studies: Asia</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-international-studies-canada-20eb641228/">International Studies: Canada</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-international-studies-europe-cd21620383/">International Studies: Europe</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-international-studies-jewish-studies-a288a8a558/">International Studies: Jewish Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-international-studies-latin-america-and-caribbean-a7750b5ee7/">International Studies: Latin America and Caribbean</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-italian-952acff9e8/">Italian</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-japanese-05f6c08408/">Japanese</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-jazz-studies-9981b9a204/">Jazz Studies</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-korean-95c14fd1f4/">Korean</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-landscape-architecture-e194e489e1/">Landscape Architecture</a><small>Bachelor of Landscape Architecture · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-latin-9e395ed86b/">Latin</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-law-societies-and-justice-bc0ac6948d/">Law, Societies, and Justice</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-linguistics-5defcf91c0/">Linguistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-marine-biology-bf5bcd44ea/">Marine Biology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-marketing-243a6988e0/">Marketing</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-materials-science-and-engineering-b4dbe4372c/">Materials Science and Engineering</a><small>Bachelor of Science in Materials Science and Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-materials-science-and-engineering-nanoscience-and-molecular-engin-b2bd53bb6a/">Materials Science and Engineering: Nanoscience and Molecular Engineering</a><small>Bachelor of Science in Materials Science and Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-mathematics-f6cdf64615/">Mathematics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-mathematics-d5ca3ebef6/">Mathematics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-mathematics-philosophy-7191cf1e7b/">Mathematics: Philosophy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-mathematics-teacher-preparation-5142e93a90/">Mathematics: Teacher Preparation</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-mechanical-engineering-ebc5b03cb9/">Mechanical Engineering</a><small>Bachelor of Science in Mechanical Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-mechanical-engineering-biomechanics-3cdb7bb96b/">Mechanical Engineering: Biomechanics</a><small>Bachelor of Science in Mechanical Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-mechanical-engineering-mechatronics-d987dab4aa/">Mechanical Engineering: Mechatronics</a><small>Bachelor of Science in Mechanical Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-medical-laboratory-science-409fd6ec7f/">Medical Laboratory Science</a><small>Bachelor of Science in Medical Laboratory Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-microbiology-43f9b3d5e1/">Microbiology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-middle-eastern-languages-and-cultures-biblical-and-ancient-near-e-a6859eb26a/">Middle Eastern Languages and Cultures: Biblical and Ancient Near Eastern Studies</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-middle-eastern-languages-and-cultures-comparative-cultures-c0a1322d0c/">Middle Eastern Languages and Cultures: Comparative Cultures</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-middle-eastern-languages-and-cultures-languages-and-literatures-71cf4e2541/">Middle Eastern Languages and Cultures: Languages and Literatures</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-music-29ecf3d639/">Music</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-music-education-26dec87e5e/">Music Education</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-music-theory-c6ccd25825/">Music Theory</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-music-early-music-356546e274/">Music: Early Music</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-music-music-history-36cbd41437/">Music: Music History</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-music-voice-29e417812c/">Music: Voice</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-neuroscience-91c5eb5ba1/">Neuroscience</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-norwegian-70cd8195f4/">Norwegian</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-nursing-86642b9237/">Nursing</a><small>Bachelor of Science in Nursing · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-nursing-absn-72cd77f32f/">Nursing (ABSN)</a><small>Bachelor of Science in Nursing (ABSN) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-oceanography-a3aceb3ea2/">Oceanography</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-oceanography-c77c6d7d8a/">Oceanography</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-operations-and-supply-chain-management-6ed5e0b322/">Operations and Supply Chain Management</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-orchestral-instruments-57124ef3dc/">Orchestral Instruments</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-organ-52f8794f3f/">Organ</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-percussion-orchestral-percussion-8755f53ddc/">Percussion: Orchestral Percussion</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-philosophy-a5acdd7e4a/">Philosophy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-philosophy-ethics-333ece276d/">Philosophy: Ethics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-physics-applied-physics-84846452eb/">Physics: Applied Physics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-physics-biophysics-d68121bed2/">Physics: Biophysics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-physics-comprehensive-physics-b4260d9f3c/">Physics: Comprehensive Physics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-physics-teacher-preparation-11d9f00268/">Physics: Teacher Preparation</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-piano-f13ad21237/">Piano</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-political-science-91abd51abb/">Political Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-political-science-international-security-bad1f4aa93/">Political Science: International Security</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-political-science-political-economy-246c3855cb/">Political Science: Political Economy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-psychology-344e64559c/">Psychology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-psychology-f9b44d4686/">Psychology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-public-health-global-health-3b4c5b729c/">Public Health-Global Health</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-public-health-global-health-796f913788/">Public Health-Global Health</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-public-health-global-health-education-and-promotion-ecf47951ef/">Public Health-Global Health: Education and Promotion</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-public-health-global-health-global-health-10ed9d7aeb/">Public Health-Global Health: Global Health</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-public-health-global-health-global-health-14aa313cd6/">Public Health-Global Health: Global Health</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-public-health-global-health-nutritional-sciences-4e28c6ab4e/">Public Health-Global Health: Nutritional Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-public-service-and-policy-2c6a927458/">Public Service and Policy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-real-estate-f76784b76b/">Real Estate</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-romance-linguistics-461c1d2bf9/">Romance Linguistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-russian-language-literature-and-culture-1d00619fbd/">Russian Language, Literature, and Culture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-scandinavian-area-studies-f9728d5354/">Scandinavian Area Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-social-welfare-2559cc049d/">Social Welfare</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-sociology-64f1d06b40/">Sociology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-south-asian-languages-and-cultures-4abc7013af/">South Asian Languages and Cultures</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-spanish-cd86a3840c/">Spanish</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-speech-and-hearing-sciences-c59ec00ed2/">Speech and Hearing Sciences</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-speech-and-hearing-sciences-fee-based-1aa6e2749d/">Speech and Hearing Sciences (Fee-based)</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-speech-and-hearing-sciences-communication-disorders-not-admitting-fc4d60e4bb/">Speech and Hearing Sciences: Communication Disorders (not admitting)</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-statistics-applied-statistics-7b715658b5/">Statistics:  Applied Statistics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-statistics-mathematical-statistics-e7cb4900ae/">Statistics:  Mathematical Statistics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-statistics-data-science-647e3e799f/">Statistics: Data Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-string-instruments-df4f5ce4cf/">String Instruments</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-sustainable-bioresource-systems-engineering-fef8dd9d15/">Sustainable Bioresource Systems Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-swedish-5734bdd5c6/">Swedish</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-visual-communication-design-57a248da4f/">Visual Communication Design</a><small>Bachelor of Design · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-voice-d30a1ad856/">Voice</a><small>Bachelor of Music · 部分专业资料已核实</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-accounting-feda903823/">会计学</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-accounting-for-business-professionals-903f62c3b7/">商业应用会计</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-aeronautical-and-astronautical-engineering-25e771b299/">航空航天工程</a><small>Bachelor of Science in Aeronautical and Astronautical Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-american-ethnic-studies-f6be18686c/">美国族裔研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-american-indian-studies-883aaf5a1b/">美国原住民研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-american-music-310027b4fa/">美洲音乐</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-d345f10421/">人类学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-anthropology-of-globalization-0ecf05e821/">人类学：全球化</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-archaeological-sciences-92a992e908/">人类学：考古科学（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-archaeological-sciences-62fe04e77d/">人类学：考古科学（理学学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-human-evolutionary-biology-9eb8f3b0ab/">人类学：人类进化生物学（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-human-evolutionary-biology-d251b412c9/">人类学：人类进化生物学（理学学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-indigenous-archaeology-fd30c6cb04/">人类学：原住民考古</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-medical-anthropology-and-global-health-ad02478519/">人类学：医学人类学与全球健康（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-anthropology-medical-anthropology-and-global-health-8e7a22a25b/">人类学：医学人类学与全球健康（理学学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-applied-mathematics-92f3ef2f3c/">应用数学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-applied-mathematics-data-science-8306938fe9/">应用数学：数据科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-applied-and-computational-math-sciences-data-science-and-statisti-0d48b786a3/">应用与计算数学科学：数据科学与统计</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-applied-and-computational-math-sciences-discrete-mathematics-and-6cda74da18/">应用与计算数学科学：离散数学与算法</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-applied-and-computational-math-sciences-mathematical-economics-an-cfd3f9257b/">应用与计算数学科学：数理经济与量化金融</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-applied-and-computational-math-sciences-scientific-computing-and-bc2fd02104/">应用与计算数学科学：科学计算与数值分析</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-aquatic-conservation-and-ecology-399a900a25/">水域保护与生态学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-architectural-design-3f437ec577/">建筑设计</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-architectural-design-w-const-mgmt-76fac12659/">建筑设计与施工管理双学位（建筑侧）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-architectural-studies-0494ff4727/">建筑研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-art-3fe70339c8/">艺术</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-art-history-e8b7aa61a9/">艺术史</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-asian-languages-and-cultures-0e24b73b53/">亚洲语言与文化</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-astronomy-73737a5e3b/">天文学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-atmospheric-and-climate-science-chemistry-9f27b83cff/">大气与气候科学：化学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-atmospheric-and-climate-science-climate-6c5d8a7f85/">大气与气候科学：气候</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-atmospheric-and-climate-science-data-science-af3570a34c/">大气与气候科学：数据科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-atmospheric-and-climate-science-meteorology-a77beb6c4f/">大气与气候科学：气象学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-biochemistry-3cefeef1b8/">生物化学（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-biochemistry-cb22a0086d/">生物化学（理学学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-bioengineering-3ecc780ac2/">生物工程</a><small>Bachelor of Science in Bioengineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-bioengineering-data-science-2a6659e325/">生物工程：数据科学</a><small>Bachelor of Science in Bioengineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-bioengineering-nanoscience-and-molecular-engineering-0aa1ab3a73/">生物工程：纳米科学与分子工程</a><small>Bachelor of Science in Bioengineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-biology-8d1c1640c4/">生物学（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-biology-320c635591/">生物学（理学学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-business-administration-6e26514b2b/">工商管理</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-chemical-engineering-0b8197e701/">化学工程</a><small>Bachelor of Science in Chemical Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-chemical-engineering-nanoscience-and-molecular-engineering-794d8d43aa/">化学工程：纳米科学与分子工程</a><small>Bachelor of Science in Chemical Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-chemistry-6bd155db4f/">化学（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-chemistry-84ac92516e/">化学（理学学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-chemistry-acs-certified-4e121a145b/">化学：美国化学会认证路线</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-chinese-c4fa33796b/">中文</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-cinema-and-media-studies-7e8127e4da/">电影与媒体研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-civil-engineering-ec28a9a5ee/">土木工程</a><small>Bachelor of Science in Civil Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-classical-studies-96a2d16c06/">古典研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-classics-0157734da4/">古典学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-clinical-health-services-61a8dd5bf7/">临床卫生服务（历史本科路径）</a><small>Bachelor of Clinical Health Services · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-communication-b815fa842e/">传播学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-communication-journalism-and-public-interest-communication-86642319ae/">传播学：新闻与公共利益传播</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-community-environment-and-planning-4d96f41684/">社区、环境与规划</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-comparative-history-of-ideas-5b5295b6bf/">比较思想史</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-comparative-literature-588d3f9ee7/">比较文学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-comparative-literature-cinema-studies-edc0298baf/">比较文学：电影研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-comparative-religion-5cbd390314/">比较宗教</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-composition-f1d5c7884e/">作曲</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-computational-finance-and-risk-management-ba2005490c/">计算金融与风险管理</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-computational-finance-and-risk-management-data-science-def8cb659c/">计算金融与风险管理：数据科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-computer-engineering-114dbb5ad0/">计算机工程</a><small>Bachelor of Science in Computer Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-computer-science-988b029bc4/">计算机科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-computer-science-data-science-06482341e8/">计算机科学：数据科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-construction-management-17397f14a6/">施工管理</a><small>Bachelor of Science in Construction Management · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-construction-management-w-arch-design-844f12bf34/">施工管理与建筑设计双学位（施工侧）</a><small>Bachelor of Science in Construction Management · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-dance-bd418c85ab/">舞蹈</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-danish-e262bd82c4/">丹麦语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-disability-studies-1e0bad42b8/">残障研究（个性化跨学科文学学士主修）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-drama-c75c4cc20f/">戏剧</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-drama-design-56606e98c0/">戏剧：设计</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-drama-performance-481fd0655e/">戏剧：表演</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-early-care-and-education-fee-based-online-9f0b742b41/">早期照护与教育（在线自费学位）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-early-care-and-education-teaching-and-learning-fee-based-online-n-2cf600a4ab/">早期照护与教育：教学与学习（在线，已停招）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-early-childhood-and-family-studies-teaching-and-learning-747a85ee29/">幼儿与家庭研究：教学与学习</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-earth-and-space-sciences-30aaa966ef/">地球与空间科学（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-earth-and-space-sciences-biology-a45a5891ef/">地球与空间科学：生物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-earth-and-space-sciences-geology-530203a86f/">地球与空间科学：地质学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-earth-and-space-sciences-geoscience-f239ccafb0/">地球与空间科学：地球科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-earth-and-space-sciences-physics-dba9b3ea70/">地球与空间科学：物理学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-eastern-european-languages-literature-and-culture-3bbaf97732/">东欧语言、文学与文化</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-economics-d56b34469b/">经济学（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-economics-a05dc34b08/">经济学（理学学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-economics-data-science-46d50a1e2b/">经济学：数据科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-economics-financial-economics-30efb936de/">经济学：金融经济学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-economics-international-economics-3acc7203a4/">经济学：国际经济学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-economics-strategy-9dc70557cf/">经济学：战略</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-studies-early-childhood-studies-c5c9b38e7e/">教育研究：幼儿研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-studies-education-research-and-policy-a4c8bd877e/">教育研究：教育研究与政策</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-studies-foundations-of-teaching-9d04a637ff/">教育研究：教学基础</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-studies-liberatory-education-3899cac1bf/">教育研究：解放教育</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-studies-multilingual-language-in-education-228bccaea9/">教育研究：多语与教育中的语言</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-studies-sports-and-education-23ac07f04c/">教育研究：体育与教育</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-studies-wellness-and-social-emotional-learning-a136e1d403/">教育研究：身心健康与社会情绪学习</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-education-communities-and-organizations-15266270fb/">教育、社区与组织</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-electrical-and-computer-engineering-9d543f8d98/">电气与计算机工程</a><small>Bachelor of Science in Electrical and Computer Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-engineering-e9d737ca05/">跨学科工程（理学学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-engineering-ad3c99f126/">跨学科工程（工程理学学士）</a><small>Bachelor of Science in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-english-2bfc30b838/">英语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-english-creative-writing-fd73e2e558/">英语：创意写作</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-entrepreneurship-b0441eb8fe/">创业学</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-design-and-sustainability-d59c5d3c74/">环境设计与可持续发展</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-engineering-e2353ddca8/">环境工程</a><small>Bachelor of Science in Environmental Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-public-health-dcbdb2224a/">环境公共卫生</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-science-and-terrestrial-resource-management-d2f4d2a56f/">环境科学与陆域资源管理</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-science-and-terrestrial-resource-management-natural-8d233d7bc3/">环境科学与陆域资源管理：自然资源与环境管理</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-science-and-terrestrial-resource-management-restora-d5cd08f475/">环境科学与陆域资源管理：恢复生态与环境园艺</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-science-and-terrestrial-resource-management-sustain-a802723fc9/">环境科学与陆域资源管理：可持续森林管理</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-science-and-terrestrial-resource-management-wildlif-07dc7b5f2e/">环境科学与陆域资源管理：野生动物保护</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-environmental-studies-62d870f14a/">环境研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-ethnomusicology-79921626ac/">民族音乐学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-finance-a096be071b/">金融学</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-finnish-18c5a6f303/">芬兰语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-food-systems-nutrition-and-health-33a06aecf1/">食物系统、营养与健康（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-food-systems-nutrition-and-health-7e6825b544/">食物系统、营养与健康（理学学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-french-c8d2396caa/">法语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-gender-women-and-sexuality-studies-3117dde726/">性别、女性与性研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-geography-1376ecf995/">地理学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-geography-data-science-d961fc714a/">地理学：数据科学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-german-studies-22fd772cfa/">德国研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-german-studies-cultural-studies-bdfe68b03a/">德国研究：文化研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-global-literary-studies-46709f4662/">全球文学研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-greek-7b32faa1e3/">古希腊语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-guitar-0283fcc2d2/">吉他演奏</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-health-informatics-and-health-information-management-55d98c595e/">健康信息学与健康信息管理</a><small>Bachelor of Science in Health Informatics and Health Information Management · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-history-178397c5db/">历史学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-history-and-philosophy-of-science-3b689ef6d3/">科学史与科学哲学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-history-empire-and-colonialism-e928eb6edd/">历史学：帝国与殖民主义</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-history-race-gender-and-power-b6881cc2f7/">历史学：种族、性别与权力</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-history-religion-and-society-560e9ebea1/">历史学：宗教与社会</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-history-war-and-society-415d6c2e72/">历史学：战争与社会</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-human-centered-design-and-engineering-ec2d2ac0ca/">以人为本的设计与工程</a><small>Bachelor of Science in Human Centered Design and Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-human-centered-design-and-engineering-general-option-049752bf2a/">以人为本的设计与工程：普通选项</a><small>Bachelor of Science in Human Centered Design and Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-human-resources-management-ff4d946b8b/">人力资源管理</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-individualized-studies-398a7cf86d/">个性化跨学科研究（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-individualized-studies-a167808946/">个性化跨学科研究（理学学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-industrial-design-87e5af0aa2/">工业设计</a><small>Bachelor of Design · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-industrial-engineering-eb5c301fba/">工业工程</a><small>Bachelor of Science in Industrial Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-industrial-engineering-data-science-9e7d3db693/">工业工程：数据科学</a><small>Bachelor of Science in Industrial Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-informatics-f9321ba1a6/">信息学</a><small>Bachelor of Science in Informatics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-informatics-biomedical-and-health-informatics-38477fcb22/">信息学：生物医学与健康信息学</a><small>Bachelor of Science in Informatics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-informatics-data-science-ebc0d1ba8d/">信息学：数据科学</a><small>Bachelor of Science in Informatics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-information-systems-6e3ae60a65/">信息系统</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-integrated-social-sciences-085e9082c9/">整合社会科学（在线学位完成）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-interaction-design-5075c877b0/">交互设计</a><small>Bachelor of Design · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-international-studies-35fba02c5a/">国际研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-international-studies-asia-45cb1afbb1/">国际研究：亚洲</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-international-studies-canada-20eb641228/">国际研究：加拿大</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-international-studies-europe-cd21620383/">国际研究：欧洲</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-international-studies-jewish-studies-a288a8a558/">国际研究：犹太研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-international-studies-latin-america-and-caribbean-a7750b5ee7/">国际研究：拉丁美洲与加勒比</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-italian-952acff9e8/">意大利语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-japanese-05f6c08408/">日语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-jazz-studies-9981b9a204/">爵士乐研究</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-korean-95c14fd1f4/">韩语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-landscape-architecture-e194e489e1/">景观建筑学</a><small>Bachelor of Landscape Architecture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-latin-9e395ed86b/">拉丁语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-law-societies-and-justice-bc0ac6948d/">法律、社会与正义</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-linguistics-5defcf91c0/">语言学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-marine-biology-bf5bcd44ea/">海洋生物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-marketing-243a6988e0/">市场营销</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-materials-science-and-engineering-b4dbe4372c/">材料科学与工程</a><small>Bachelor of Science in Materials Science and Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-materials-science-and-engineering-nanoscience-and-molecular-engin-b2bd53bb6a/">材料科学与工程：纳米科学与分子工程</a><small>Bachelor of Science in Materials Science and Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-mathematics-f6cdf64615/">数学（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-mathematics-d5ca3ebef6/">数学（理学学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-mathematics-philosophy-7191cf1e7b/">数学：哲学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-mathematics-teacher-preparation-5142e93a90/">数学：教师准备</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-mechanical-engineering-ebc5b03cb9/">机械工程</a><small>Bachelor of Science in Mechanical Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-mechanical-engineering-biomechanics-3cdb7bb96b/">机械工程：生物力学</a><small>Bachelor of Science in Mechanical Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-mechanical-engineering-mechatronics-d987dab4aa/">机械工程：机电一体化</a><small>Bachelor of Science in Mechanical Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-medical-laboratory-science-409fd6ec7f/">医学检验科学</a><small>Bachelor of Science in Medical Laboratory Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-microbiology-43f9b3d5e1/">微生物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-middle-eastern-languages-and-cultures-biblical-and-ancient-near-e-a6859eb26a/">中东语言与文化：圣经与古代近东研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-middle-eastern-languages-and-cultures-comparative-cultures-c0a1322d0c/">中东语言与文化：比较文化</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-middle-eastern-languages-and-cultures-languages-and-literatures-71cf4e2541/">中东语言与文化：语言与文学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-music-29ecf3d639/">音乐（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-music-education-26dec87e5e/">音乐教育</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-music-theory-c6ccd25825/">音乐理论</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-music-early-music-356546e274/">音乐：早期音乐</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-music-music-history-36cbd41437/">音乐：音乐史</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-music-voice-29e417812c/">音乐：声乐（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-neuroscience-91c5eb5ba1/">神经科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-norwegian-70cd8195f4/">挪威语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-nursing-86642b9237/">护理学（传统BSN）</a><small>Bachelor of Science in Nursing · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-nursing-absn-72cd77f32f/">护理学（加速第二学位ABSN）</a><small>Bachelor of Science in Nursing (ABSN) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-oceanography-a3aceb3ea2/">海洋学（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-oceanography-c77c6d7d8a/">海洋学（理学学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-operations-and-supply-chain-management-6ed5e0b322/">运营与供应链管理</a><small>Bachelor of Arts in Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-orchestral-instruments-57124ef3dc/">管弦乐器演奏</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-organ-52f8794f3f/">管风琴演奏</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-percussion-orchestral-percussion-8755f53ddc/">打击乐：管弦打击乐</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-philosophy-a5acdd7e4a/">哲学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-philosophy-ethics-333ece276d/">哲学：伦理学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-physics-applied-physics-84846452eb/">物理学：应用物理</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-physics-biophysics-d68121bed2/">物理学：生物物理</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-physics-comprehensive-physics-b4260d9f3c/">物理学：综合物理</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-physics-teacher-preparation-11d9f00268/">物理学：教师准备</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-piano-f13ad21237/">钢琴演奏</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-political-science-91abd51abb/">政治学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-political-science-international-security-bad1f4aa93/">政治学：国际安全</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-political-science-political-economy-246c3855cb/">政治学：政治经济学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-psychology-344e64559c/">心理学（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-psychology-f9b44d4686/">心理学（理学学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-public-health-global-health-3b4c5b729c/">公共卫生与全球健康（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-public-health-global-health-796f913788/">公共卫生与全球健康（理学学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-public-health-global-health-education-and-promotion-ecf47951ef/">公共卫生与全球健康：健康教育与促进</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-public-health-global-health-global-health-10ed9d7aeb/">公共卫生与全球健康：全球健康（文学学士）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-public-health-global-health-global-health-14aa313cd6/">公共卫生与全球健康：全球健康（理学学士）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-public-health-global-health-nutritional-sciences-4e28c6ab4e/">公共卫生与全球健康：营养科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-public-service-and-policy-2c6a927458/">公共服务与政策</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-real-estate-f76784b76b/">房地产</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-romance-linguistics-461c1d2bf9/">罗曼语语言学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-russian-language-literature-and-culture-1d00619fbd/">俄语、文学与文化</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-scandinavian-area-studies-f9728d5354/">斯堪的纳维亚区域研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-social-welfare-2559cc049d/">社会福利</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-sociology-64f1d06b40/">社会学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-south-asian-languages-and-cultures-4abc7013af/">南亚语言与文化</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-spanish-cd86a3840c/">西班牙语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-speech-and-hearing-sciences-c59ec00ed2/">言语与听觉科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-speech-and-hearing-sciences-fee-based-1aa6e2749d/">言语与听觉科学（学士后第二学位；现行按标准收费）</a><small>Bachelor of Science（学士后第二学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-speech-and-hearing-sciences-communication-disorders-not-admitting-fc4d60e4bb/">言语与听觉科学：沟通障碍（已停招）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-statistics-applied-statistics-7b715658b5/">统计学：应用统计</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-statistics-mathematical-statistics-e7cb4900ae/">统计学：数理统计</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-statistics-data-science-647e3e799f/">统计学：数据科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-string-instruments-df4f5ce4cf/">弦乐器演奏</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-sustainable-bioresource-systems-engineering-fef8dd9d15/">可持续生物资源系统工程</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-swedish-5734bdd5c6/">瑞典语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-visual-communication-design-57a248da4f/">视觉传达设计</a><small>Bachelor of Design · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/washington/washington-voice-d30a1ad856/">声乐演唱（音乐学士）</a><small>Bachelor of Music · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -264,47 +265,336 @@ hide:
 
 ### 入学条件
 
-<p class="catalog-fact"><strong>高中申请与选专业：</strong>普通新生通过 Common App并在STARS申报课程成绩，须满足六类高中学科准备要求。绝大多数申请人不须SAT/ACT；家庭教育或无字母／数字评分者有例外。这里是大学入口，进入容量受限主修可能另有大学阶段选拔。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-aa5abe189eed59">官方依据</a></p>
+<p class="catalog-fact"><strong>中国大陆高中申请身份：</strong>中国普通高中/国家课程申请者按国际新生提交Common App，并在STARS自报高中课程和成绩；非美国国家/地方课程须上传九年级以来成绩，原语言文件配正式英语翻译。本轮未取得UW针对中国高考的最低分换算；不能将专业大学GPA当中国高中或高考门槛。</p>
+<p class="fact-sources"><a href="#source-u-UW26-1f71bd9bceb4ed">官方依据</a></p>
 
-<p class="catalog-fact"><strong>国际生英语：</strong>最低 IELTS6.0、DET110；TOEFL 2026-01-21前76，该日起4.0。考试须在申请当年12月31日或之前完成并由考试机构直送；未达最低要求不获考虑。英语授课背景或SAT/ACT的豁免必须同时满足官网具体条件。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-f87694d49f67c7">官方依据</a></p>
+<p class="catalog-fact"><strong>高中学科与标化：</strong>CADR要求高中英语4年、数学3年、社会科学3年、世界语言2年、科学3年（其中至少2年实验科学）、高中最后年数学/定量课1年、艺术0.5年及学术选修0.5年。绝大多数新生不要求SAT/ACT；家庭教育或非标准评分学校有例外。各专业大学阶段先修另列。</p>
+<p class="fact-sources"><a href="#source-u-UW26-08584ae0a5752c">官方依据</a> · <a href="#source-u-UW26-1f71bd9bceb4ed">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际新生英语：</strong>最低IELTS6.0、DET110；TOEFL在2026-01-21前考试最低76，新量表该日起最低4.0。须在申请当年12月31日前测试并官方送分。未达最低线不做有条件录取；达到最低不保证录取。</p>
+<p class="fact-sources"><a href="#source-u-UW26-da1a940b614042">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语豁免范围：</strong>指定英语国家完成全部小学和中学可适用一类豁免；另一类须同时具备高中英语写作/文学平均B、10—12年级全部课程英语授课，以及SAT读写580或ACT英语22。单有A-level/IB名称、英语授课或SAT成绩不等于自动豁免。</p>
+<p class="fact-sources"><a href="#source-u-UW26-da1a940b614042">官方依据</a></p>
+
+<p class="catalog-fact"><strong>大学录取与专业录取：</strong>开放主修、满足最低条件后申报、容量限制主修的路径不同。工程Direct to College获录后先为Engineering Undeclared，再参加专业分流；CS/CE等主要依新生直录，入校后余位很少。把专业列第一志愿仍不是进入该专业的保证。</p>
+<p class="fact-sources"><a href="#source-u-UW26-5e15adc7dd9264">官方依据</a></p>
 
 ### 申请安排
 
-<p class="catalog-fact"><strong>申请日期与费用：</strong>现行页面：8月15日开放，11月15日截止，次年3月1–15日通知。国际新生申请费 USD95，不予费用减免；冬季与春季不接收国际新生。页面未逐项标明入学年，保留现行日程口径。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-aa5abe189eed59">官方依据</a></p>
+<p class="catalog-fact"><strong>2027规划与年度日程：</strong>招生办公室现行年度日程为8月15日开放、11月15日截止、次年3月1—15日通知；国际新生仅秋季。按此年度周期规划2027秋季，应以2026年11月15日为截止目标；页面未在每项日期旁单独标2027，此为年度规则对应，不冒充已取得逐项当届通知。</p>
+<p class="fact-sources"><a href="#source-u-UW26-1f71bd9bceb4ed">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请渠道及材料：</strong>Common App国际新生费USD95，国际生不获申请费豁免；包括Common App作文及随后STARS课程成绩。一般新生不交推荐信或参加面试，但艺术、音乐和专用高年级入口可另要求作品集、试听、推荐或部门申请。</p>
+<p class="fact-sources"><a href="#source-u-UW26-1f71bd9bceb4ed">官方依据</a></p>
 
 ### 学费与资助
 
-<p class="catalog-fact"><strong>2026/27 Seattle 费用：</strong>Seattle非居民本科九个月（10月至次年6月）学费栏 USD44,460；校内／校外独立居住总预算67,800。国际生按非居民费率。部分专业可有额外费用，Bothell/Tacoma不同；2027入学价本轮未取得。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-6bf14da3c3fb55">官方依据</a></p>
+<p class="catalog-fact"><strong>正式2026/27学杂费：</strong>Seattle非居民tuition-based本科秋冬春三季纯学费USD44,580；含表列杂费USD45,546，加U-PASS为USD45,789。每季10学分起按全日制、超过18学分另计；夏季和fee-based项目另表。2027/28收费本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-UW26-431da451f3ef60">官方依据</a></p>
 
-<p class="catalog-fact"><strong>国际生校级资助：</strong>学校费用页明确，不向国际本科生提供财务资助或奖学金，应备足全部费用。个别院系目录可能列有高年级奖项，本轮未将其资格泛化为国际新生可得。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-6bf14da3c3fb55">官方依据</a></p>
+<p class="catalog-fact"><strong>招生预算页差异与生活参考：</strong>招生COA页面标2026/27，却仍列学费USD44,460和九个月总预算USD67,800，与正式财务核准表不同步，本轮不把它当已确认总价。该页住房饮食USD18,858、书本900、个人支出2,508及交通1,074可作九个月预算参考；实际花费因居住和修读安排而异。</p>
+<p class="fact-sources"><a href="#source-u-UW26-cf6d9df70b7c8d">官方依据</a> · <a href="#source-u-UW26-431da451f3ef60">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生资助边界：</strong>招生总则明确不向国际本科生提供校级financial aid或scholarships，须准备足够资金。部分院系另列奖项，需逐项核查国籍、居住、经济需求和在读条件；不由院系有奖项推定中国国际新生能获资助。</p>
+<p class="fact-sources"><a href="#source-u-UW26-cf6d9df70b7c8d">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>Seattle本科毕业统计：</strong>职业中心2024届本科去向覆盖毕业后六个月，结合调查与LinkedIn等公开信息，去向可知率57%；85%为正向去向，含全/兼职就业、志愿服务和继续教育，不能称85%就业率。专业页采用公开图表实际学科组与分母，未单列中国申请者。</p>
+<p class="fact-sources"><a href="#source-u-UW26-2d9e5410c2cdc8">官方依据</a></p>
 
 ### 学校资料来源
 
-<div class="catalog-source" id="source-u-USBENR-aa5abe189eed59"><div><a href="https://admit.washington.edu/apply/freshman/how-to-apply/">washington 官方 international ↗</a><p>本条高中申请与选专业及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-USBENR-f87694d49f67c7"><div><a href="https://admit.washington.edu/apply/first-year/how-to-apply/English-proficiency/">washington 官方 english ↗</a><p>本条国际生英语及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-USBENR-6bf14da3c3fb55"><div><a href="https://admit.washington.edu/costs/coa/">washington 官方 tuition ↗</a><p>本条2026/27 Seattle 费用及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-UW26-1f71bd9bceb4ed"><div><a href="https://admit.washington.edu/apply/first-year/how-to-apply/">UW Seattle国际本科新生申请 ↗</a><p>大学国际新生申请渠道、STARS、自报成绩和中国国家/地区高中课程材料、年度日程。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UW26-08584ae0a5752c"><div><a href="https://admit.washington.edu/apply/first-year/cadr/">UW新生高中学科准备要求 ↗</a><p>CADR高中学科年数，不是各容量限制专业的大学先修。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UW26-da1a940b614042"><div><a href="https://admit.washington.edu/apply/first-year/how-to-apply/english-proficiency/">UW Seattle国际本科英语要求 ↗</a><p>国际新生英语最低分、2026新TOEFL量表、测试期限及豁免组合。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UW26-5e15adc7dd9264"><div><a href="https://www.washington.edu/newhuskies/admissions-to-majors/">UW录取所列专业与学院入口 ↗</a><p>明确新生开放主修、满足最低条件后申报、容量限制、Direct to Major与工程Direct to College的区别。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UW26-431da451f3ef60"><div><a href="https://finance.uw.edu/tuition-fees/files/docs/annual-tuition-and-fees/2026-2027tricampusannualtuitionandfees.pdf">UW 2026/27正式年度学费及杂费（Seattle） ↗</a><p>非居民tuition-based本科秋冬春三季收费、全日制/超学分边界；不适用于fee-based项目。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UW26-cf6d9df70b7c8d"><div><a href="https://admit.washington.edu/costs/coa/">UW Seattle 2026/27学生预算及国际生资助说明 ↗</a><p>招生页生活预算、国际生非居民身份及校级资助边界；学费栏与正式财务表不同步。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UW26-2d9e5410c2cdc8"><div><a href="https://careers.uw.edu/outcomes/">UW Seattle本科2024届毕业去向 ↗</a><p>Seattle本科调查与公开图表，毕业后六个月，57% knowledge rate；正向去向包含就业、志愿服务和继续教育。</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**已完成所列官方目录范围的对账**，共 229 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 230 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>University of Washington Seattle General Catalog only; excludes Bothell and Tacoma</p>
+<p><strong>统计范围：</strong>Seattle校区229个既有本科credential记录，加Individualized Studies内残障研究主修；含明确内部选项与历史记录，不等于230独立学位</p>
 
-<p><strong>对账方法：</strong>{&quot;index_pages&quot;: 1, &quot;discovered_links_including_fragment_routes&quot;: 170, &quot;unique_department_page_urls&quot;: 160, &quot;pages_read&quot;: 170, &quot;formal_bachelor_parent_programs&quot;: 114, &quot;pagination&quot;: &quot;Every /gencat/program/S/ departmental and school link in complete Seattle degree index fetched; duplicate credential UUIDs across repeated/fragment URLs deduplicated.&quot;}</p>
+<p><strong>对账方法：</strong>当前学位索引及77个本科院系原页复抓一致，重读逐credential课程、准入及院系共享条件；229旧ID保留，1项具名主修新增。</p>
 
 <p><strong>排除项：</strong>Read all departments including graduate-only units. Keep formal h4 credential headings beginning Bachelor, including second-degree/professional bachelor credentials and explicitly named credential options; exclude non-bachelor credentials. Named options are flagged separately.</p>
 
 **尚未解决的目录缺口：**
 
-- Credential count includes separately headed official options/majors within the same award; parent_program and entity_type make these distinguishable.
-- Current official catalog does not print one academic year on captured program pages; not labeled as a verified future intake.
-- Clinical Health Services and degree-completion routes remain subject to their specific entry restrictions.
+- Art六条BA/BFA拟议路径：不能按六项已正式招生新增；2026-10-09旧BA声明截止后复核批准状态、学位课程与2027材料
+- HCDE现行主修和General Option：保留双UUID供root复核；未无证据合并或把相同培养方案计为两个授位
+- 施工管理/建筑设计双学位两侧入口：corrections建议关系链接，不能作为两个不同双学位统计
+- Musical Theater在Individualized Studies旧概述中出现：2013新闻及2016试听只能作历史线索；本轮未成对新增一个假当前项目
+- Comparative Literature / Cinema Studies 与Global Literary Studies过渡：本科不得由研究生停招推定停招；现行目录保留，2027新生最终可选状态待专项核实
+- 内部方向与h4正式credential范围不同：本轮已补229现存条目的真实内容，但未穷尽各系未独立credential标题的所有内部课程组合；不能声称全校所有内部方向目录已闭合
+- 2027/28费用及专门日程：本批普通/fee-based费率只核2026/27；78条有独立申请安排，其余共享普通新生日程但专业专用2027日期未逐项取得
+- 教学语言与标准学制明示：仅两条目录直接明示教学语言、三个特殊完成阶段有独立duration字段；其他课程含学分结构但不编造四年或全英语保证
+- 院系原页覆盖范围：160院系URL/170片段目录枚举来自9月12日底本；9月13日复抓索引与77本科页面均相同。未重新逐页重爬所有研究生-only页面来排除新增本科，不能据此升级绝对全量
 
 - [官方目录来源](https://www.washington.edu/students/gencat/degree_programs.html)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Business-300.html#credential-624f4ab7a3e96d4c1b871da0)
+- [官方目录来源](https://finance.uw.edu/tuition-fees/files/docs/annual-tuition-and-fees/2026-2027tricampusannualtuitionandfees.pdf)
+- [官方目录来源](https://foster.uw.edu/wp-content/uploads/2026/03/UG-Infographic-2025.pdf)
+- [官方目录来源](https://foster.uw.edu/academics/degree-programs/undergraduate-programs/admissions/direct-to-college/)
+- [官方目录来源](https://foster.uw.edu/academics/degree-programs/undergraduate-programs/admissions/standard-admission/)
+- [官方目录来源](https://admit.washington.edu/apply/first-year/how-to-apply/)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Business-300.html#credential-6283fd92c0f8af54fc29274a)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AeronauticsandAstronautics-400.html#credential-63aa2fc0-9e42-4904-9c20-2b0886f10c76)
+- [官方目录来源](https://careers.uw.edu/outcomes/)
+- [官方目录来源](https://careers.uw.edu/outcomes/)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AmericanEthnicStudies-100.html#credential-290a8bbf-5147-47e0-964f-1f631b858eab)
+- [官方目录来源](https://careers.uw.edu/outcomes/)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AmericanIndianStudies-1015.html#credential-03d1d39c-6a5d-47f0-9358-4b1bfaa3ac62)
+- [官方目录来源](https://careers.uw.edu/outcomes/)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-5a5e5a7c8249dd2e00d6d07c)
+- [官方目录来源](https://careers.uw.edu/outcomes/)
+- [官方目录来源](https://music.washington.edu/audition-sign-ups)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-008019c3-2300-4dba-ae03-b6492b20b99e)
+- [官方目录来源](https://careers.uw.edu/outcomes/)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-8b2b92c5-8e6d-41b2-96e9-30378a258677)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-607f210209917bf05e2cd3ce)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-60e7743209fe055be777d74a)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-5c4793d80c55252400b11b49)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-60e773ce535b40f724aec04d)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-607f222af69503804f6d92fc)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-607f1f9309917b82e42cd3aa)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-60e7745b09fe05a22e77d751)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AppliedandComputationalMathSciences-994.html#credential-67e1c469f30b814dcb572f9e)
+- [官方目录来源](https://careers.uw.edu/outcomes/)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AppliedandComputationalMathSciences-994.html#credential-67e1c54c4addce96354a60e1)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AppliedandComputationalMathSciences-994.html#credential-67e1c5c0de6651d3985542d2)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AppliedandComputationalMathSciences-994.html#credential-67e1c58f223c2c2a10978169)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AppliedMathematics-208.html#credential-625df2939267f6cb4d8853eb)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AppliedMathematics-208.html#credential-6506187f06656faedfb5e11a)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofAquaticandFisherySciences-1078.html#credential-681a73babcce14c94e925170)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Architecture-51.html#credential-b79f9246-25d4-4e34-bf27-1eb923a77638)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Architecture-51.html#credential-67c0c90374a56b9a125a0b1f)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Architecture-51.html#credential-6411eca08972e6ceaca976cd)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Art+ArtHistory+Design-105.html#credential-5fed0af62d034d002698d892)
+- [官方目录来源](https://art.washington.edu/art/ba-art-admissions)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Art+ArtHistory+Design-105.html#credential-5babe1adce4b1d2e0035acf3)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AsianLanguagesandLiterature-144.html#credential-5aafecc94cf7ff2e007084b5)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Astronomy-107.html#credential-357828ef-1aa0-45bc-a963-ba969273cb52)
+- [官方目录来源](https://www.washington.edu/students/gencat/program/S/AtmosphericandClimateScience-1067.html#credential-66eb4e06c6df17f51df9a3ee)
+- [官方目录来源](https://www.washington.edu/students/gencat/program/S/AtmosphericandClimateScience-1067.html#credential-66eb4f7fc6df171928f9a3fb)
+- [官方目录来源](https://www.washington.edu/students/gencat/program/S/AtmosphericandClimateScience-1067.html#credential-66eb4be55e1578ddb9e20fcc)
+- [官方目录来源](https://www.washington.edu/students/gencat/program/S/AtmosphericandClimateScience-1067.html#credential-66eb50075e15782e7ae20feb)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Chemistry-117.html#credential-65de3f5b3b1280f65c14a80f)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Chemistry-117.html#credential-65de3f6f248712fc80e34d70)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Bioengineering-745.html#credential-626c4006a7f8943f13ec3512)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Bioengineering-745.html#credential-626c40897c40fde8282c5769)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Bioengineering-745.html#credential-67ae2b31743d9f9765120387)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Biology-112.html#credential-67b63a1f2fed08357f4244c1)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Biology-112.html#credential-67b634422fed08357f4187f1)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Business-300.html#credential-6283fdddf6447f45c95dffa5)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/ChemicalEngineering-402.html#credential-63bf3befa83deb582d6d4df8)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/ChemicalEngineering-402.html#credential-63c07896240232bb4e763658)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Chemistry-117.html#credential-673d14852c84cd89aaee9eb4)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Chemistry-117.html#credential-673d145abad10bcbbb765a8e)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Chemistry-117.html#credential-673d14127d587199260a29f9)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AsianLanguagesandLiterature-144.html#credential-2cebb662-0295-45d2-860b-6fa4a86b7c42)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CinemaandMediaStudies-132.html#credential-5a00ab0ef652f10100b24e07)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CivilandEnvironmentalEngineering-403.html#credential-47bb6cd3-e3f2-44c4-89ed-1e6349c53e88)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Classics-118.html#credential-ea1fd256-0c72-4dfd-91fc-440130a293be)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Classics-118.html#credential-14ecac65-f181-42ff-a8ae-434b74e1063e)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/FamilyMedicine-949.html#credential-5ace32c7dc96ad2e00883876)
+- [官方目录来源](https://familymedicine.uw.edu/medex/pa-program/degrees-offered/)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Communication-1035.html#credential-60414917f10b3ebc884f13b4)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Communication-1035.html#credential-691bf045192320144aef51de)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/UrbanDesignandPlanning-50.html#credential-a84420ed-2858-4460-97f8-735051436300)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/ComparativeHistoryofIdeas-202.html#credential-cf4498be-e737-4653-86c7-395be858e4af)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CinemaandMediaStudies-132.html#credential-7ba890b1-5985-499b-8d22-f5c52c31d1c3)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CinemaandMediaStudies-132.html#credential-d83678af-bef1-48a0-b7ec-27964bf770f5)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html#credential-b2c253e0-8b94-4e17-bcba-88d081e4384f)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-37970112-9cc0-49ff-bf6d-5bb9dd83015a)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AppliedMathematics-208.html#credential-6385443808da7813dc8a07bf)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AppliedMathematics-208.html#credential-65060a524f9b675f794cb118)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/ComputerScienceandEngineering-406.html#credential-a1b757d5-a897-4704-a576-7419e1bed8c3)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/ComputerScience-210.html#credential-282f765e-0bf9-45db-80f7-1738b8ce7862)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/ComputerScience-210.html#credential-67dd818d0c792892baf0e37d)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/ConstructionManagement-52.html#credential-67a54f6ddb9f54dbcb074751)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/ConstructionManagement-52.html#credential-94fe1f8d-bc57-4602-b4ef-d10f775d45b5)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Dance-133.html#credential-60b927e9bcc770338fb5ecab)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/ScandinavianStudies-281.html#credential-a2df6a61-eaac-4751-b157-97666154c12a)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Drama-134.html#credential-609d60f513141c05a3bb6c48)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Drama-134.html#credential-609d64142271da38091ab356)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Drama-134.html#credential-609d62ac13141c15f1bb6c5a)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-652f07414de74e0c693b2b75)
+- [官方目录来源](https://finance.uw.edu/tuition-fees/files/docs/fee-programs/2026-27-fee-based-program-rates-5.7.2026.pdf)
+- [官方目录来源](https://education.uw.edu/academics/program/early-care-and-education)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-5ff38aef1d041f0027edff9e)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-6529858babf94f5612b6eab4)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/EarthandSpaceSciences-1068.html#credential-68f7c3da50d0bdac75a7f83b)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/EarthandSpaceSciences-1068.html#credential-d9fdd733-535c-4cfb-8235-4ab223f53853)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/EarthandSpaceSciences-1068.html#credential-7a86f242-b274-4087-80b0-0315ca31444d)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/EarthandSpaceSciences-1068.html#credential-5e8ba2ef7fbacb2500c1eb64)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/EarthandSpaceSciences-1068.html#credential-57511a34-1f84-42da-8335-f128a060d0ad)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SlavicLanguagesandLiteratures-163.html#credential-81ba8595-b5ad-404f-afee-5247c4472051)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Economics-135.html#credential-675208ccda118fa0680bc88a)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Economics-135.html#credential-6751ebf9708446ca275f27e3)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Economics-135.html#credential-6737c98ea269d097a4b82313)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Economics-135.html#credential-675201073972fae43e5f68da)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Economics-135.html#credential-675224d73c8b5e6260e80040)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Economics-135.html#credential-6751f9663c8b5e6260e40608)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-6529875c06990865c8238b32)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-64d254efdd5ce4dd309ca01f)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-623a53651b598458bf7a4bce)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-67d1edbdd4f159d57973055e)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-623a54100f967190043404a7)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-661d68dddac3fe4223a46980)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-655d38b3a167835aa1be5527)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-5657a443-fd9b-4a2b-9c42-277b73d50e2a)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/ElectricalandComputerEngineering-410.html#credential-626aa2f30c8a3982bf0d93b9)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Engineering-412.html#credential-79bb0eed-fe3d-4227-b95f-f3598a8e5c63)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Engineering-412.html#credential-cd162a11-1b4f-4347-855d-d5d76d6ffa93)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/English-136.html#credential-60da28b443ece933920e072a)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/English-136.html#credential-60da334718f1462104c572bb)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Business-300.html#credential-6283fa9118cdefc9bf9468fc)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/LandscapeArchitecture-53.html#credential-6882bab455e4077cd70e8a9c)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/CivilandEnvironmentalEngineering-403.html#credential-5aaffbde7967682e00b03fa2)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/EnvironmentalandOccupationalHealthSciences-702.html#credential-6411f810de38b27e0ee5a62a)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofEnvironmentalandForestScience-1069.html#credential-67a55e817048ba49afa3b419)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofEnvironmentalandForestScience-1069.html#credential-67a55df399e12e33bd4d9122)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofEnvironmentalandForestScience-1069.html#credential-67a55dd9be16b40e8c8e0ac0)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofEnvironmentalandForestScience-1069.html#credential-67a55e5a7048ba49afa3b2a8)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofEnvironmentalandForestScience-1069.html#credential-67a55e3e3cafd1c671693b30)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/ProgramontheEnvironment-1070.html#credential-65a801c3d273caf536fd4bf3)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-ad97b590-e083-4f79-8b7c-202f43d1fc26)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Business-300.html#credential-6283fcb8f6447fbbe65dff99)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/ScandinavianStudies-281.html#credential-87a742e1-0a9b-49dd-b0cd-d44d7dd6fc96)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-695ec6f3fad7d90c6577a274)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-695ec10f75806148198581eb)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/FrenchandItalianStudies-1102.html#credential-66f8a1b2-3a67-4f79-ac53-a7b95a02731d)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Gender,Women,andSexualityStudies-298.html#credential-7e6a0f53-ec90-4757-b655-e3f1c6a90cc2)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Geography-188.html#credential-63ec288ebdc9a3b56900bc22)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Geography-188.html#credential-622f8a931175434f7055f609)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/GermanStudies-192.html#credential-648ccc6507151c500d2a8e5c)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/GermanStudies-192.html#credential-60883f05859180137bcc9a0f)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SlavicLanguagesandLiteratures-163.html#credential-63508310d553995b1b646e67)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Classics-118.html#credential-a5ccc7be-0896-4cf3-986f-59c5fbb14bdc)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-63a4f749581ca3a6ad878567)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-600a22ee969868002748acc9)
+- [官方目录来源](https://hspop.uw.edu/hihim/admissions/hihim-admissions-transfer-students/)
+- [官方目录来源](https://hspop.uw.edu/hihim/admissions/)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/History-193.html#credential-62547132-e2c0-48eb-9c31-60c68cdc6a4e)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Philosophy-221.html#credential-ba523be7-b017-4b17-89e9-ca723aff663c)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/History-193.html#credential-7393abc1-8186-48ea-ad42-5b7b47db470a)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/History-193.html#credential-99d398f0-b14b-4aa8-85e8-2f02b856342f)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/History-193.html#credential-91ad0f2f-93ff-4c6a-8a1f-395bdf7a2fab)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/History-193.html#credential-ac52f377-b323-4b03-ade8-e6128eb821d6)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/HumanCenteredDesignandEngineering-438.html#credential-6849b51c083f2e2d4a0ca1fd)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/HumanCenteredDesignandEngineering-438.html#credential-67afdc59664deb1040c6d012)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Business-300.html#credential-676dd4365772f18cb3a8f838)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/GeneralStudies-185.html#credential-b3a4228b-3c5b-488a-9323-a0a12d7deb42)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/GeneralStudies-185.html#credential-fb49304b-4d1a-41e0-94cb-756ab416ca96)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Art+ArtHistory+Design-105.html#credential-63acb70416ef9977f4d8a69c)
+- [官方目录来源](https://art.washington.edu/design/bachelor-design-admissions)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/IndustrialandSystemsEngineering-418.html#credential-60342896d315b8002779a1e5)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/IndustrialandSystemsEngineering-418.html#credential-626c48ec1977aa120f1d37eb)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/TheInformationSchool-671.html#credential-639a5b18b1079f2bc0e67bda)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/TheInformationSchool-671.html#credential-610c59f63456c92714529c7f)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/TheInformationSchool-671.html#credential-6764b131ea56b6d733800b8b)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Business-300.html#credential-6283fb8af6447f1ac35dff8e)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/IntegratedSocialSciences-125.html#credential-d13b349c-ff2d-4520-b8ff-87401b2f99a7)
+- [官方目录来源](https://www.socialsciencesonline.uw.edu/admissions)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Art+ArtHistory+Design-105.html#credential-63acd5bb16ef99af3dd8a750)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html#credential-65efa1da23330124f5b9f8b0)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html#credential-3de9e354-feff-4386-b164-15ad1dc4664d)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html#credential-aee18906-122b-4160-8007-a1d7a61c0eb1)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html#credential-5fd3bfc3e9f12600287fc73b)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html#credential-f6f02d1c-b6f8-4565-ba26-e90c57f72ced)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html#credential-de5ae307-66fe-4109-baa1-8df5deecc0cf)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/FrenchandItalianStudies-1102.html#credential-7960565b-cbef-4971-8247-db224aeaaff9)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AsianLanguagesandLiterature-144.html#credential-0aab95a6-7106-4eba-9c2f-1c48e1bf4252)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-63a4f14f28059dd62d166caa)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AsianLanguagesandLiterature-144.html#credential-ccb6b9dd-879a-4aa3-a0a8-7727f1b4382e)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/LandscapeArchitecture-53.html#credential-6078dddbe5ffc09fa25582d4)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Classics-118.html#credential-37f79c92-2393-4662-a91a-600e5115bd16)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Law,Societies,andJustice-1057.html#credential-ca7affb4-2aa2-4802-99f6-5b321b64d641)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Linguistics-203.html#credential-572bd5d6-ed0e-4057-a68d-d67de31c2e76)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/MarineBiology-1112.html#credential-5ae37b111e62de2e009bc198)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Business-300.html#credential-63925a6d915688593801b5dc)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/MaterialsScienceandEngineering-423.html#credential-65cbb4cbc8d08035c91a30d0)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/MaterialsScienceandEngineering-423.html#credential-645d59e2d5bf3bd1babcbebd)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Mathematics-206.html#credential-6851a0e84d04ffd9606d3268)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Mathematics-206.html#credential-68519fd4072fc5a80cd26a48)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Mathematics-206.html#credential-6851a15747556783ffe0eb4c)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Mathematics-206.html#credential-67ed8374c59a067a8f095eaf)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/MechanicalEngineering-419.html#credential-d2bc625a-f5f7-4ef8-8a9f-d7292bc5d8bf)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/MechanicalEngineering-419.html#credential-5a57a68904d453010010586f)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/MechanicalEngineering-419.html#credential-60f7279b1190ea5b70031d90)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/LaboratoryMedicineandPathology-1123.html#credential-5fecd3492d034d002698d83e)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Microbiology-216.html#credential-85ddac45-6fb9-4f16-933e-1a6c724c9c83)
+- [官方目录来源](https://www.washington.edu/students/gencat/program/S/MiddleEasternLanguagesandCultures-123.html#credential-63acb9a0aeda1718f9f3544c)
+- [官方目录来源](https://www.washington.edu/students/gencat/program/S/MiddleEasternLanguagesandCultures-123.html#credential-63acb7a9db37b15cda255ac0)
+- [官方目录来源](https://www.washington.edu/students/gencat/program/S/MiddleEasternLanguagesandCultures-123.html#credential-63acb48cdb37b13fd4255aad)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-2eb35bdc-bfb6-40cc-8e74-9b74db0665db)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-bbb1b399-58dd-480b-9c4d-60ec0e2817ec)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-baa0c8ef-5bfd-4052-bf1e-6f5f30c9fa11)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-47830959-38b0-4513-9462-a9e9e381862b)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-c07858d4-8e60-44c8-beef-30c210465e86)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-97fa7541-de24-4022-b508-b7d217042df9)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Neuroscience-1018.html#credential-f7857767-21a6-4357-8eb1-aaf46e2dddd6)
+- [官方目录来源](https://www.washington.edu/newhuskies/admissions-to-majors/)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/ScandinavianStudies-281.html#credential-8049c039-f685-4cef-b475-9ecece852da2)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Nursing-552.html#credential-6671c0a8e3e4f1365b7b4cae)
+- [官方目录来源](https://nursing.uw.edu/academics/bsn/)
+- [官方目录来源](https://nursing.uw.edu/admissions/international-applicants/)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Nursing-552.html#credential-6671c3f6a13ac17558fa8d32)
+- [官方目录来源](https://nursing.uw.edu/academics/accelerated-bsn/)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofOceanography-1077.html#credential-69010768465efd0560a81a8f)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofOceanography-1077.html#credential-69011fd8ea5c2904e192f533)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Business-300.html#credential-6283fc652cf11bc1c3621f72)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-34bb71a0-4249-4651-ae2b-5ec49aecdc7f)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-69e75b07-4cbd-40ab-b0d7-1dc911b354ff)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-63a4f6dd8400e8cee50951ff)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Philosophy-221.html#credential-bb3d1eb1-5da8-4e82-b76a-f8ad86d7870d)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Philosophy-221.html#credential-5dced2c349deed2400cc9c25)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Physics-239.html#credential-6011ed3c2c20dc002750ff3f)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Physics-239.html#credential-6011f668c1372c0026298628)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Physics-239.html#credential-6011fcf78842e00027cfd3d5)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Physics-239.html#credential-6011ff068842e00027cfe05e)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-226f56ce-cc6f-4041-8107-2044676d838d)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/PoliticalScience-244.html#credential-38d04ece-620a-4803-94ab-1e92e0a6268d)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/PoliticalScience-244.html#credential-7650b4b8-6192-49f7-b044-4550b7d79c8e)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/PoliticalScience-244.html#credential-efd418eb-2cc3-4433-90c2-8ecd0ce2ae2e)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Psychology-262.html#credential-6009ecab76cd360027b94288)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Psychology-262.html#credential-6513009879ab98885d1c322d)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-64949516660eee2ef01931f0)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-649486de660eee2be51930d3)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-64949165750cbb297bcc9249)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-64949711309b80266d1ed494)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-64949601d3a4e16bc8d9ee4f)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-6494935d96abd71130483e08)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/PublicPolicyandGovernance-770.html#credential-67d34bb05d7813efef078283)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/RealEstate-54.html#credential-5f04955a4d49ee0026470810)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Linguistics-203.html#credential-ca76e28e-2c02-40fb-a64a-6dd6856595a4)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SlavicLanguagesandLiteratures-163.html#credential-cff0fb2e-db41-4ce0-9094-1595ebdaaf69)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/ScandinavianStudies-281.html#credential-69e030f8-206e-46fe-8e6c-bb51d87ff4b7)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SocialWork-779.html#credential-684b026afab5d1d135be9f8c)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Sociology-293.html#credential-d2036843-fca6-475c-81e6-6b4c468910b1)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/AsianLanguagesandLiterature-144.html#credential-63ac8df07f36324df7b35225)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SpanishandPortugueseStudies-1103.html#credential-b22850fd-d850-4c4c-b7bf-3e3cb191785b)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SpeechandHearingSciences-296.html#credential-aff6c898-216a-43bb-a936-feeb950cae33)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SpeechandHearingSciences-296.html#credential-fb96920b-7eeb-48a2-aeb9-ad862213ef2f)
+- [官方目录来源](https://web2.sphsc.washington.edu/tuition-fees)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SpeechandHearingSciences-296.html#credential-5c814ab8dc76f12400307c6e)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Statistics-294.html#credential-6361e9f116e38306a8670590)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Statistics-294.html#credential-6361e4a486d3ba05c2823692)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Statistics-294.html#credential-63618eb67315992389acec0e)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-379cc175-27b2-4514-9b20-420420c8784d)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/SchoolofEnvironmentalandForestScience-1069.html#credential-6539752a6e384e60825ade9f)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/ScandinavianStudies-281.html#credential-7a881da4-bc69-49a0-b4c9-cbfe4291f13d)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Art+ArtHistory+Design-105.html#credential-63ac98e0db37b1354d255a18)
+- [官方目录来源](https://uw.edu/students/gencat/program/S/Music-217.html#credential-538ffe78-9fe6-4751-ba81-e50dcb44642a)
+- [官方目录来源](https://disabilitystudies.washington.edu/DS_major)
+- [官方目录来源](https://admit.washington.edu/apply/first-year/cadr/)
+- [官方目录来源](https://admit.washington.edu/apply/first-year/how-to-apply/english-proficiency/)
+- [官方目录来源](https://admit.washington.edu/costs/coa/)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

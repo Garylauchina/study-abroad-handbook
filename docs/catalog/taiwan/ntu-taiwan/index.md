@@ -23,73 +23,106 @@ hide:
 
 ## 专业与申请资料
 
-62 个专业条目 · 0 个含详细资料 · 6 个补有专业资料 · 56 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+95 个专业条目 · 0 个含详细资料 · 95 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=ntu-taiwan#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-bachelor-program-of-biotechnology-and-food-nutrition-61457671db/">Bachelor Program of Biotechnology and Food Nutrition</a><small>Bachelor&#x27;s degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-bachelor-program-of-international-sports-affairs-7ea28bd3ab/">Bachelor Program of International Sports Affairs</a><small>Bachelor&#x27;s degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-bachelor-s-degree-program-in-biotechnology-and-pharmaceutical-sci-d9bf12350b/">Bachelor’s Degree Program in Biotechnology and Pharmaceutical Sciences</a><small>Bachelor&#x27;s degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-accounting-ce30f444ee/">Department of Accounting</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-agricultural-chemistry-6cb4b0f27c/">Department of Agricultural Chemistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-agricultural-economics-0663e8068f/">Department of Agricultural Economics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-agronomy-5879d9454d/">Department of Agronomy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-animal-science-technology-107ffec45c/">Department of Animal Science &amp; Technology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-anthropology-4a9c384bdc/">Department of Anthropology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-atmospheric-sciences-1eaf7a9a3f/">Department of Atmospheric Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-bio-industry-communication-development-df471d9472/">Department of Bio-industry Communication &amp; Development</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-biochemical-science-technology-34e1452c12/">Department of Biochemical Science &amp; Technology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-bioenvironmental-systems-engineering-1058e4a363/">Department of Bioenvironmental Systems Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-biomechatronics-engineering-cb1341177d/">Department of Biomechatronics Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-biomedical-engineering-a4bc0de3c4/">Department of Biomedical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-business-administration-9b48280a84/">Department of Business Administration</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-chemical-engineering-a8b8adee35/">Department of Chemical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-chemistry-6e53597fc9/">Department of Chemistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-chinese-literature-d875646dfa/">Department of Chinese Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-civil-engineering-4339965eca/">Department of Civil Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-clinical-laboratory-sciences-medical-biotechnology-a961887058/">Department of Clinical Laboratory Sciences &amp; Medical Biotechnology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-computer-science-information-engineering-432fb243ea/">Department of Computer Science &amp; Information Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-dentistry-2c02de6705/">Department of Dentistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-drama-theatre-12d6b09795/">Department of Drama &amp; Theatre</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-economics-22fc90ca0e/">Department of Economics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-electrical-engineering-a4a04cd4ff/">Department of Electrical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-engineering-science-ocean-engineering-ce8aa86c93/">Department of Engineering Science &amp; Ocean Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-entomology-21249ced2e/">Department of Entomology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-finance-704371663b/">Department of Finance</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-foreign-languages-literatures-b2cac1af9e/">Department of Foreign Languages &amp; Literatures</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-geography-aa4d1c65df/">Department of Geography</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-geosciences-b25d58d8a5/">Department of Geosciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-history-2aabfd54b4/">Department of History</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-horticulture-landscape-architecture-6d37fd4955/">Department of Horticulture &amp; Landscape Architecture</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-information-management-ce8a240af1/">Department of Information Management</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-international-business-97bee43f54/">Department of International Business</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-japanese-language-literature-cb94ce97e5/">Department of Japanese Language &amp; Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-law-a31aed35ca/">Department of Law</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-library-information-science-856c0a40ca/">Department of Library &amp; Information Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-life-science-db7143e70a/">Department of Life Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-materials-science-engineering-d98cc024b2/">Department of Materials Science &amp; Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-mathematics-a54cb29d71/">Department of Mathematics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-mechanical-engineering-c7bc2d3792/">Department of Mechanical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-pharmacy-d995829b9f/">Department of Pharmacy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-philosophy-fc37f4b4e8/">Department of Philosophy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-physics-9d067c5ab2/">Department of Physics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-plant-pathology-microbiology-b214e91e80/">Department of Plant Pathology &amp; Microbiology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-political-science-96f0a5a41d/">Department of Political Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-psychology-73913db9a5/">Department of Psychology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-public-health-c168f67720/">Department of Public Health</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-social-work-37e6a1e54c/">Department of Social Work</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-sociology-a04be295ae/">Department of Sociology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-veterinary-medicine-845e508ecb/">Department of Veterinary Medicine</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-english-taught-intelligent-engineering-and-technology-undergradua-a43b7c628f/">English-Taught Intelligent Engineering and Technology Undergraduate Program</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-global-undergraduate-program-in-semiconductors-c8a0f6a4c3/">Global Undergraduate Program in Semiconductors</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-graduate-institute-of-physical-therapy-18f44eb4fe/">School &amp; Graduate Institute of Physical Therapy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-forestry-resource-conservation-1d40f9eea2/">School of Forestry &amp; Resource Conservation</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-medicine-76d2452304/">School of Medicine</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-nursing-0a790fe172/">School of Nursing</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-occupation-therapy-cd32d1c7ff/">School of Occupation Therapy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-second-degree-bachelor-of-science-in-nursing-b3d817908f/">Second Degree Bachelor Of Science In Nursing</a><small>Bachelor&#x27;s degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-trans-disciplinary-bachelor-degree-program-f1b4e5f26e/">Trans-disciplinary Bachelor Degree Program</a><small>Bachelor&#x27;s degree · 仅补学校共用资料</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-1011/">中国文学（国际学生学士班）</a><small>学士班（国际学生中文专班） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-bachelor-program-of-biotechnology-and-food-nutrition-61457671db/">生物科技与食品营养</a><small>Bachelor&#x27;s degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-bachelor-program-of-international-sports-affairs-7ea28bd3ab/">国际体育运动事务</a><small>Bachelor&#x27;s degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-30a0/">社会科学学院跨领域院学士</a><small>跨领域学士（校内入口） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-bachelor-s-degree-program-in-biotechnology-and-pharmaceutical-sci-d9bf12350b/">生技制药</a><small>Bachelor&#x27;s degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-7012/">工商管理—科技管理组</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-a012/">法律学—司法组</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-a013/">法律学—财经法学组</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-a011/">法律学—法学组</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-3022/">政治学—国际关系组</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-3023/">政治学—公共行政组</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-3021/">政治学—政治理论组</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-accounting-ce30f444ee/">会计学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-agricultural-chemistry-6cb4b0f27c/">农业化学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-agricultural-economics-0663e8068f/">农业经济</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-agronomy-5879d9454d/">农艺</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-animal-science-technology-107ffec45c/">动物科学技术</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-anthropology-4a9c384bdc/">人类学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-atmospheric-sciences-1eaf7a9a3f/">大气科学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-bio-industry-communication-development-df471d9472/">生物产业传播暨发展</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-biochemical-science-technology-34e1452c12/">生化科技</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-bioenvironmental-systems-engineering-1058e4a363/">生物环境系统工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-biomechatronics-engineering-cb1341177d/">生物机电工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-biomedical-engineering-a4bc0de3c4/">医学工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-business-administration-9b48280a84/">工商管理</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-chemical-engineering-a8b8adee35/">化学工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-chemistry-6e53597fc9/">化学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-chinese-literature-d875646dfa/">中国文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-civil-engineering-4339965eca/">土木工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-clinical-laboratory-sciences-medical-biotechnology-a961887058/">医学检验暨生物技术</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-computer-science-information-engineering-432fb243ea/">资讯工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-dentistry-2c02de6705/">牙医学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-drama-theatre-12d6b09795/">戏剧</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-economics-22fc90ca0e/">经济学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-electrical-engineering-a4a04cd4ff/">电机工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-engineering-science-ocean-engineering-ce8aa86c93/">工程科学及海洋工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-entomology-21249ced2e/">昆虫学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-finance-704371663b/">财务金融</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-foreign-languages-literatures-b2cac1af9e/">外国语文</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-geography-aa4d1c65df/">地理环境资源</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-geosciences-b25d58d8a5/">地质科学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-history-2aabfd54b4/">历史学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-horticulture-landscape-architecture-6d37fd4955/">园艺暨景观</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-information-management-ce8a240af1/">资讯管理</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-international-business-97bee43f54/">国际企业</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-japanese-language-literature-cb94ce97e5/">日本语文</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-law-a31aed35ca/">法律学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-library-information-science-856c0a40ca/">图书资讯学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-life-science-db7143e70a/">生命科学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-materials-science-engineering-d98cc024b2/">材料科学与工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-mathematics-a54cb29d71/">数学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-mechanical-engineering-c7bc2d3792/">机械工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-occupation-therapy-cd32d1c7ff/">职能治疗</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-pharmacy-d995829b9f/">药学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-philosophy-fc37f4b4e8/">哲学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-physics-9d067c5ab2/">物理</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-plant-pathology-microbiology-b214e91e80/">植物病理与微生物</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-political-science-96f0a5a41d/">政治学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-psychology-73913db9a5/">心理学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-public-health-c168f67720/">公共卫生</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-social-work-37e6a1e54c/">社会工作</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-sociology-a04be295ae/">社会学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-department-of-veterinary-medicine-845e508ecb/">兽医学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-english-taught-intelligent-engineering-and-technology-undergradua-a43b7c628f/">智慧工程科技全英语学士</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-global-undergraduate-program-in-semiconductors-c8a0f6a4c3/">国际半导体学士</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-bioresources-agriculture-college-bachelor/">生物资源暨农学院跨领域院学士</a><small>跨领域理学学士（校内入口） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-50a0/">工学院跨领域院学士</a><small>跨领域学士（校内入口） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-10a0/">文学学院跨领域院学士</a><small>跨领域学士（校内入口） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-b0a0/">生命科学学院跨领域院学士</a><small>跨领域学士（校内入口） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-40a0/">医学学院跨领域院学士（理学学士）</a><small>跨领域理学学士（校内入口） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-20a0/">理学学院院学士—地球系统科学跨领域</a><small>跨领域理学学士（校内入口） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-graduate-institute-of-physical-therapy-18f44eb4fe/">物理治疗</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-forestry-resource-conservation-1d40f9eea2/">森林环境暨资源</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-medicine-76d2452304/">医学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-school-of-nursing-0a790fe172/">护理学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-second-degree-bachelor-of-science-in-nursing-b3d817908f/">学士后护理</a><small>Bachelor&#x27;s degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-trans-disciplinary-bachelor-degree-program-f1b4e5f26e/">创新领域学士</a><small>Bachelor&#x27;s degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-h0a0/">台大跨领域校学士</a><small>跨领域学士（校内入口） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-60800/">园艺暨景观—作物科学群</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-60802/">园艺暨景观—利用学群</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-60803/">园艺暨景观—景观学群</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-50101/">土木工程—土木学群（A）</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-50106/">土木工程—土木构造学群（F）</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-50103/">土木工程—建筑学群（C）</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-50104/">土木工程—环境工程学群（D）</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-50102/">土木工程—轨道运输学群（B）</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-50107/">土木工程—防灾与永续学群（G）</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-20901/">大气科学—大气环境化学学群（A）</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-20902/">大气科学—天气气候学群（B）</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-7011/">工商管理—企业管理组</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-70110/">工商管理—企业管理组英文专班</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-60501/">森林环境暨资源—森林环境学群</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-60500/">森林环境暨资源—森林生物学群</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-60502/">森林环境暨资源—生物材料学群</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-60503/">森林环境暨资源—资源保育及管理学群</a><small>学士学位内培养组别（非独立学位） · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -97,42 +130,564 @@ hide:
 
 ### 入学条件
 
-<p class="catalog-fact"><strong>大陆身份与申请渠道：</strong>台大把国际、侨生、港澳和陆生分开，适用规定、申请通道与学费均不同。页面陆生资格列大陆籍且设籍京、沪、苏、浙、闽、粤、鄂、辽八省市；一律经陆联会申请。国际课程证书本身不改变这种身份分类。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-236d3efaa4c82e">官方依据</a></p>
+<p class="catalog-fact"><strong>先核申请身份：</strong>台大将国际学生、侨生、港澳生和陆生分为不同类别。陆生页面列大陆籍且设籍北京、上海、江苏、浙江、福建、广东、湖北、辽宁八省市，并统一经陆生联招会申请；符合该身份说明仍不等于某年度本科已开放。</p>
+<p class="fact-sources"><a href="#source-u-NTUT-a0ad4e638285a7000">官方依据</a> · <a href="#source-u-NTUT-b52e87f485b798a23">官方依据</a></p>
 
-<p class="catalog-fact"><strong>医学等不能套用国际生规则：</strong>身份页给医学／牙医等部分国际／侨港澳身份额外居留年限，但这些条款不能直接当成大陆普通高中生有可申请通道的证据。每个目录专业是否向当前陆生开放仍须当期本科简章确认。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-236d3efaa4c82e">官方依据</a></p>
+<p class="catalog-fact"><strong>当前本科资格缺口：</strong>本轮未取得2027面向大陆高中生的本科招生简章与开放系表；不把台大普通在校课程先修、国际生要求或硕博士学历条件替代大陆本科录取要求。</p>
+<p class="fact-sources"><a href="#source-u-NTUT-61151f3bf58d1f314">官方依据</a> · <a href="#source-u-NTUT-b52e87f485b798a23">官方依据</a></p>
 
 ### 申请安排
 
-<p class="catalog-fact"><strong>2027大陆高中本科通道缺口：</strong>本轮读取陆联会当前入口只有2026硕博士相关简章与报名链接，未取得可用的2027大陆高中本科招生简章及日期。不能把台大国际生或侨港澳申请期作为陆生可申请期限。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-99fb5240fc8f2d">官方依据</a></p>
+<p class="catalog-fact"><strong>当期简章与时间范围：</strong>2026陆生联招简章为硕博士招生，涉及已由联招分发、在台取得相关既有学位的应届生等资格。2027国际生九月申请时间表明确为另一类别，不能提供给陆生本科申请者直接使用。大陆本科2027报名、材料截止和开放状态本轮未闭合。</p>
+<p class="fact-sources"><a href="#source-u-NTUT-61151f3bf58d1f314">官方依据</a> · <a href="#source-u-NTUT-c028c9d804dcbe08a">官方依据</a></p>
 
 ### 学费与资助
 
-<p class="catalog-fact"><strong>陆生收费待核：</strong>台大明确不同境外身份适用学杂费不同；本轮未取得当前陆生本科按专业、学年列明的有效费用表和奖学金资格，暂不套用一般国际生收费或自动折算为人民币。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-236d3efaa4c82e">官方依据</a></p>
+<p class="catalog-fact"><strong>115学年度正式收费：</strong>2026/27学士班按每学期收费，国际学位生／陆生一栏按学院为新台币50,460至79,120元；具体项目、医学牙医例外及国际生减免身份另见各项。此表有陆生费率，不是该年度招收大陆本科新生的证明；2027/28报价未取得。</p>
+<p class="fact-sources"><a href="#source-u-NTUT-b39c70ea782ad901a">官方依据</a></p>
+
+<p class="catalog-fact"><strong>奖学金入口与资格：</strong>国际处提供境外学位生奖学金查询入口，并说明部分奖学金可随申请办理。本轮未取得可明确用于2027大陆高中本科申请者的奖项、金额与资格，故不将国际生奖学金默认继承给陆生。</p>
+<p class="fact-sources"><a href="#source-u-NTUT-b7c74b5da96d543f3">官方依据</a> · <a href="#source-u-NTUT-a0ad4e638285a7000">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>毕业信息口径：</strong>本批逐项提供115课程与毕业学分；本轮未取得62个项目分别同时明确毕业届次、调查年、样本分母及大陆学生范围的就业统计。官网职业方向和实习应与真实就业结果分开。</p>
+<p class="fact-sources"><a href="#source-u-NTUT-66da54bb0ce305eac">官方依据</a></p>
 
 ### 学校资料来源
 
-<div class="catalog-source" id="source-u-ASREN-236d3efaa4c82e"><div><a href="https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/">台湾大学境外学位生身份类别 ↗</a><p>陆生身份、8省市、独立通道及收费区别</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-ASREN-99fb5240fc8f2d"><div><a href="https://rusen.stust.edu.tw/cpx/">大陆地区学生联合招生委员会现行入口 ↗</a><p>本轮读取为2026硕博士招生链接；不证明可报本科</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-NTUT-61151f3bf58d1f314"><div><a href="https://rusen.stust.edu.tw/cpx/DM/2026/20260615-115Brochure-DM.pdf">rusen-guide ↗</a><p>实际读取的官方课程／培养与申请说明；适用年度、资格和范围见事实。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTUT-66da54bb0ce305eac"><div><a href="https://www.aca.ntu.edu.tw/WebUPD/aca/UAADRules/學則.pdf">academic-regulations ↗</a><p>实际读取的官方课程／培养与申请说明；适用年度、资格和范围见事实。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTUT-a0ad4e638285a7000"><div><a href="https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/">學生身分別 - 台大國際事務處 ↗</a><p>实际读取的官方课程／培养与申请说明；适用年度、资格和范围见事实。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTUT-b39c70ea782ad901a"><div><a href="https://www.aca.ntu.edu.tw/WebUPD/aca/SecretariatService/115學年度學生繳費標準一覽表(核定)_01學士班.pdf">fees115 ↗</a><p>实际读取的官方课程／培养与申请说明；适用年度、资格和范围见事实。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTUT-b52e87f485b798a23"><div><a href="https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/mainland-chinese-students/">陸生學位生申請 - 台大國際事務處 ↗</a><p>实际读取的官方课程／培养与申请说明；适用年度、资格和范围见事实。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTUT-b7c74b5da96d543f3"><div><a href="https://admissions.ntu.edu.tw/zh-hant/fees-scholarships/scholarships/">獎學金 - 台大國際事務處 ↗</a><p>实际读取的官方课程／培养与申请说明；适用年度、资格和范围见事实。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-NTUT-c028c9d804dcbe08a"><div><a href="https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/application-timeline/">申請時程 - 台大國際事務處 ↗</a><p>实际读取的官方课程／培养与申请说明；适用年度、资格和范围见事实。</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 62 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 95 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
+<p><strong>统计范围：</strong>原62个本科系/项目，加24内部组别、1国际中文学士班、8在读院/校学士；层级和申请身份分别注明</p>
 
-<p><strong>对账方法：</strong>[{&quot;pages&quot;: 1, &quot;explicit_department_count&quot;: 50, &quot;special_programmes_additional&quot;: true}]</p>
+<p><strong>对账方法：</strong>115学年度95个查询选项的950份Required/Groups/Academic原文全部复核；保留62旧ID并补33条真实培养项目，共95记录，不等于95独立高中申请学位。</p>
 
 <p><strong>排除项：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
 
 **尚未解决的目录缺口：**
 
-- University-wide structure states 61 departments but includes clinical/graduate units; structural count is not asserted equal to undergraduate degree total.
-- Mainland applicant admission policy and second-degree routes require separate checking; catalogue presence is not application eligibility.
+- 2027大陆高中本科招生开放状态、开放系表、高考与语言及材料期限尚未取得；国际生、侨港澳与陆生类别不能互换。
+- 13个旧内部代码在115课程查询合计为零，尚未取得当届实质培养内容，不据空表判停办或添加独立专业。
+- 院/校学士为本科在读后申请；全部内部领域、公共卫生建议表和会计挡修链等仍待闭合。
+- 2026/27每学期费用按正式身份和学院列价；医学工程归栏、转入双主修收费和2027/28报价仍有缺口。
+- 尚未取得多数项目可比毕业就业或薪资统计；课程、实习及培养方向不能当作实际就业结果。
 
 - [官方目录来源](https://www.ntu.edu.tw/english/academics/academics.html)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1010+&lang=zh&inqudata=Required)
+- [官方目录来源](https://rusen.stust.edu.tw/cpx/DM/2026/20260615-115Brochure-DM.pdf)
+- [官方目录来源](https://www.aca.ntu.edu.tw/WebUPD/aca/UAADRules/學則.pdf)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1010+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1010+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://www.aca.ntu.edu.tw/WebUPD/aca/SecretariatService/115學年度學生繳費標準一覽表(核定)_01學士班.pdf)
+- [官方目录来源](https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/mainland-chinese-students/)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1010+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/application-timeline/)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1010+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1010+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1020+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1020+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1020+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1020+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1020+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1020+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1030+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1030+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1030+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1030+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1030+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1040+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1040+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1040+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1040+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1050+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1050+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1050+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1050+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1050+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1060+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1060+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1060+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1060+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1060+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1060+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1070+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1070+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1070+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1070+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1070+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1070+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1090+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1090+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1090+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1090+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1090+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1090+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2010+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2010+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2010+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2010+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2010+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2020+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2020+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2020+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2020+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2020+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2030+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2030+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2030+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2030+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2030+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2030+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2040+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2040+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2040+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2040+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2040+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2040+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2070+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2070+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2070+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2070+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2070+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2080+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2080+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2080+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2080+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2080+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20901&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20902&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2090+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20902&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20902&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20901&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20902&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2090+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2090+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20901&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2090+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2090+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20902&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20901&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2090+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20901&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20901&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20902&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3023+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3021+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3022+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3022+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3021+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3023+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3023+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3023+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3022+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3023+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3023+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3021+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3021+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3022+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3021+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3022+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3021+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3022+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3030+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3030+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3030+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3030+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3050+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3050+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3050+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3050+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3050+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3100+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3100+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3100+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3100+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3100+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3100+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Academic&MSLGRD=5)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Academic&MSLGRD=6)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Academic&MSLGRD=5)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Academic&MSLGRD=6)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Academic&MSLGRD=6)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Academic&MSLGRD=5)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4060+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4060+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4060+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4060+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4060+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4060+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://exam.aca.ntu.edu.tw/sdbsn/115/brochure/first.pdf)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4120+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4120+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4120+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4120+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4120+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4040+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4040+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4040+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4040+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4040+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4040+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Academic&MSLGRD=5)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Academic&MSLGRD=6)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4090+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4090+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4090+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4090+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4090+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4090+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5080+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5080+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5080+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5080+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5080+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5080+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4130&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4130&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4130&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4130&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4130&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4130&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50103&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5010+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50107&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50103&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50103&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50106&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50103&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50103&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50104&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50101&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50104&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50103&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50104&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50104&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50102&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50107&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50106&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5010+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50102&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50107&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50101&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50106&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50102&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5010+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50101&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50101&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50106&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50102&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50101&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50102&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50106&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50101&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5010+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50104&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50107&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5010+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50107&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5020+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5020+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5020+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5020+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5020+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5040+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5040+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5040+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5040+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5040+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5040+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5050+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5050+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5050+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5050+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5050+&lang=zh&inqudata=Academic&MSLGRD=8)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5050+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5070+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5070+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5070+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5070+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5070+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5090+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5090+&lang=zh&inqudata=Required)
+- [官方目录来源](https://www.eng.ntu.edu.tw/iet/cl_n_182557.html)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5090+&lang=zh&inqudata=Academic&MSLGRD=8)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5090+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5090+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5090+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5090+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://www.eng.ntu.edu.tw/iet/cl_n_182543.html)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6090+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6090+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6090+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6090+&lang=zh&inqudata=Academic&MSLGRD=5)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6090+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6090+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6090+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6010+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6010+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6010+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6010+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6010+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6010+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6020+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6020+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6020+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6020+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6020+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6030+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6030+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6030+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6030+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6030+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6030+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60501&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60501&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60502&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60502&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60503&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60501&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60502&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60503&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60503&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60500&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60502&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60501&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60502&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60500&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60503&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60500&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60503&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60502&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60500&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60501&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60503&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60500&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60500&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60501&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6060+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6060+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6060+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6060+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6060+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6060+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6070+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6070+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6070+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6070+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6070+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6070+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60800&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60802&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60803&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60802&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60803&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60803&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60800&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60803&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60800&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60802&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60802&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60803&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60802&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60802&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60803&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60800&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60800&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60800&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6100+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6100+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6100+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6100+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6100+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6110+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6110+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6110+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6110+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6110+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6110+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6120+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6120+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6120+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6120+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6120+&lang=zh&inqudata=Academic&MSLGRD=8)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6120+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6130+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6130+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6130+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6130+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6130+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6130+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6150+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6150+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6150+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6150+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6150+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6150+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=70110&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7011+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7011+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7012+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7012+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7012+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7012+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7012+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7011+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7011+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=70110&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7012+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7011+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=70110&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=70110&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7011+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=70110&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7020+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7020+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7020+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7020+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7020+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7020+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7030+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7030+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7030+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7030+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7030+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7040+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7040+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7040+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7040+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7040+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7050+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7050+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7050+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7050+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7050+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7050+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=8010+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=8010+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=8010+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=8010+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=8010+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=8010+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9010+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9010+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9010+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9010+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9010+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9010+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9020+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9020+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9020+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9020+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9020+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A012+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A011+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A013+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A013+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A011+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A012+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A012+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A013+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A011+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A012+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A013+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A012+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A011+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A013+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A011+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B010+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B010+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B010+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B010+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B010+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B010+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B020+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B020+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B020+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B020+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B020+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B020+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://gups.ntu.edu.tw/about)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H060+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H060+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H060+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://gups.ntu.edu.tw/admissions)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H060+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H060+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=Z010+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=Z010+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=Z010+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=Z010+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://tbd.ntu.edu.tw/?page_id=1537)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=Z010+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H040+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H040+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H040+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H040+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://bpisa.ntu.edu.tw/cp_n_176037.html)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H040+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1011+&lang=zh&inqudata=Academic&MSLGRD=3)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1011+&lang=zh&inqudata=Academic&MSLGRD=4)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1011+&lang=zh&inqudata=Academic&MSLGRD=2)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1011+&lang=zh&inqudata=Required)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1011+&lang=zh&inqudata=Groups)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/api/departments?year=115&lang=en)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1011+&lang=zh&inqudata=Academic)
+- [官方目录来源](https://www.aca.ntu.edu.tw/WebUPD/aca/SecretariatNews/01文學院.pdf)
+- [官方目录来源](https://curri.aca.ntu.edu.tw/NTUVoxCourse/js/main.js?v20260408)
+- [官方目录来源](https://liberal.ntu.edu.tw/web/unit/unit2.jsp?dm_id=DM1738801506211)
+- [官方目录来源](https://liberal.ntu.edu.tw/uploads/download/tw/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E6%96%87%E5%AD%B8%E9%99%A2%E9%99%A2%E5%AD%B8%E5%A3%AB%E5%AD%B8%E4%BD%8D%E4%BF%AE%E6%A5%AD%E8%BE%A6%E6%B3%95(%E6%96%87%E9%99%A2%E5%85%AC%E5%91%8A).pdf)
+- [官方目录来源](https://www.aca.ntu.edu.tw/WebUPD/aca/SecretariatNews/02理學院.pdf)
+- [官方目录来源](https://coss.ntu.edu.tw/001/Upload/4/relfile/8984/95458/fb3d9abf-d7f0-418f-9640-6849e9518331.pdf)
+- [官方目录来源](https://coss.ntu.edu.tw/cp_n_180357.html)
+- [官方目录来源](https://coss.ntu.edu.tw/001/Upload/4/relfile/8984/95458/924a87a2-a33a-44f4-8d9e-6fecf8826baf.pdf)
+- [官方目录来源](https://www.mc.ntu.edu.tw/ntuibpcm/Fpage.action?muid=4406&fid=3510)
+- [官方目录来源](https://www.mc.ntu.edu.tw/ntuibpcm/files/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E9%86%AB%E5%AD%B8%E9%99%A2%E9%99%A2%E5%AD%B8%E5%A3%AB%E5%AD%B8%E4%BD%8D%E4%BF%AE%E6%A5%AD%E8%BE%A6%E6%B3%95(6).pdf)
+- [官方目录来源](https://www.eng.ntu.edu.tw/upload/_userfilesfiles/%e5%b7%a5%e5%ad%b8%e9%99%a2%e9%99%a2%e5%ad%b8%e5%a3%ab%e5%ad%b8%e4%bd%8d%e4%bf%ae%e6%a5%ad%e8%be%a6%e6%b3%9512_29.pdf)
+- [官方目录来源](https://www.eng.ntu.edu.tw/tc/page.aspx?mid=138)
+- [官方目录来源](https://www.eng.ntu.edu.tw/upload/_userfilesfiles/%e5%b7%a5%e5%ad%b8%e9%99%a2%e9%99%a2%e5%ad%b8%e5%a3%ab%e8%aa%b2%e7%a8%8b%e8%a6%8f%e5%8a%83115_8.pdf)
+- [官方目录来源](https://webpageprodvm.ntu.edu.tw/colsciae.lifescience/bachelorprogram.htm)
+- [官方目录来源](https://webpageprod-ws.ntu.edu.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTI4NS9yZWxmaWxlLzAvNzU3ODIvMzVjYWE2ZmYtMmYxYy00ZDExLTk1NWMtYTExYWRmODExMGJjLnBkZg%3d%3d&n=55Sf56eR6Zmi6Zmi5a245aOr5a245L2N6Kqy56iL6KaP5YqDX2NvdXJzZV8yMDIzMDQyMC5wZGY%3d)
+- [官方目录来源](https://ntuibpu.ntu.edu.tw/cl_n_200269.html)
+- [官方目录来源](https://ntuibpu.ntu.edu.tw/cl_n_165741.html)
+- [官方目录来源](https://ntuibpu.ntu.edu.tw/cp_n_165703.html)
+- [官方目录来源](https://www.aca.ntu.edu.tw/w/aca/SecretariatNews_26041011321400980)
+- [官方目录来源](https://www.aca.ntu.edu.tw/WebUPD/aca/SecretariatNews/06生農學院_1150423_更新.pdf)
+- [官方目录来源](https://admissions.ntu.edu.tw/zh-hant/fees-scholarships/scholarships/)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

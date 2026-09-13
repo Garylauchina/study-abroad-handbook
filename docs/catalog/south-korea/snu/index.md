@@ -23,110 +23,123 @@ hide:
 
 ## 专业与申请资料
 
-99 个专业条目 · 0 个含详细资料 · 34 个补有专业资料 · 65 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+112 个专业条目 · 0 个含详细资料 · 112 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=snu#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-aerospace-engineering-be128f92f3/">Dept. of Aerospace Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-aesthetics-cc9818a322/">Dept. of Aesthetics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-agricultural-economics-and-rural-development-agricultural-cd04712e23/">Dept. of Agricultural Economics and Rural Development — Agricultural &amp; Resource Economics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-agricultural-economics-and-rural-development-regional-inf-eaae9a8013/">Dept. of Agricultural Economics and Rural Development — Regional Information</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-anthropology-fdc675beca/">Dept. of Anthropology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-applied-biology-and-chemistry-applied-biology-73df3ae4b1/">Dept. of Applied Biology and Chemistry — Applied Biology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-applied-biology-and-chemistry-applied-life-chemistry-152aece58b/">Dept. of Applied Biology and Chemistry — Applied Life Chemistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-archaeology-and-art-history-a72e0ac7d7/">Dept. of Archaeology and Art History</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-architecture-and-architectural-engineering-architectural-ce72aac6f9/">Dept. of Architecture and Architectural Engineering — Architectural Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-architecture-and-architectural-engineering-architecture-3928a9d6a4/">Dept. of Architecture and Architectural Engineering — Architecture</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-asian-languages-and-civilizations-5559a00587/">Dept. of Asian Languages and Civilizations</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-biological-sciences-20a0686a55/">Dept. of Biological Sciences</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-biology-education-a2621a7c3e/">Dept. of Biology Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-biosystems-biomaterials-science-and-engineering-biomateri-23f3c0ee6b/">Dept. of Biosystems &amp; Biomaterials Science and Engineering — Biomaterials Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-biosystems-biomaterials-science-and-engineering-biosystem-c794567cc8/">Dept. of Biosystems &amp; Biomaterials Science and Engineering — Biosystems Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-business-administration-f48102449d/">Dept. of Business Administration</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-chemical-and-biological-engineering-787c2b6ea3/">Dept. of Chemical and Biological Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-chemistry-17100faf97/">Dept. of Chemistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-chemistry-education-7ed07fed7d/">Dept. of Chemistry Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-chinese-language-and-literature-27f6039c7e/">Dept. of Chinese Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-civil-urban-and-environmental-engineering-5bec0e9751/">Dept. of Civil, Urban and Environmental Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-communication-bccf111f0f/">Dept. of Communication</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-composition-composition-04c77c4ef6/">Dept. of Composition — Composition</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-composition-theory-e7ba9e1088/">Dept. of Composition — Theory</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-computer-science-and-engineering-64332450b2/">Dept. of Computer Science and Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-crafts-and-design-crafts-d7733cccc0/">Dept. of Crafts and Design — Crafts</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-crafts-and-design-design-8e5054177d/">Dept. of Crafts and Design — Design</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-earth-science-education-2ad44097be/">Dept. of Earth Science Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-earth-and-environmental-sciences-7090fd7c88/">Dept. of Earth and Environmental Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-economics-bbec1f899f/">Dept. of Economics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-education-3be1add4f9/">Dept. of Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-electrical-and-computer-engineering-564b3932e0/">Dept. of Electrical and Computer Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-energy-resources-engineering-71351bad79/">Dept. of Energy Resources Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-english-education-7399b960e8/">Dept. of English Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-english-language-and-literature-cdcb25fde5/">Dept. of English Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-ethics-education-22620394de/">Dept. of Ethics Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-food-and-animal-biotechnology-animal-science-and-biotechn-4d7b7109ef/">Dept. of Food and Animal Biotechnology — Animal Science and Biotechnology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-food-and-animal-biotechnology-food-science-and-biotechnol-c1992b07bb/">Dept. of Food and Animal Biotechnology — Food Science and Biotechnology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-food-and-nutrition-374d2e769d/">Dept. of Food and Nutrition</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-forest-sciences-environmental-materials-science-0367862b8b/">Dept. of Forest Sciences — Environmental Materials Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-forest-sciences-forest-environmental-science-7796ec675f/">Dept. of Forest Sciences — Forest Environmental Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-french-language-education-cdce1845a0/">Dept. of French Language Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-french-language-and-literature-ea609e25ad/">Dept. of French Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-geography-42c5623234/">Dept. of Geography</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-geography-education-820d63b1b9/">Dept. of Geography Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-german-language-education-d71f6330d2/">Dept. of German Language Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-german-language-and-literature-6c26bc2df8/">Dept. of German Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-hispanic-language-and-literature-5322dda799/">Dept. of Hispanic Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-history-7392592c56/">Dept. of History</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-history-education-7a13720ebd/">Dept. of History Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-industrial-engineering-61e34c21fc/">Dept. of Industrial Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-instrumental-music-piano-079a36b838/">Dept. of Instrumental Music — Piano</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-instrumental-music-string-dc993651fa/">Dept. of Instrumental Music — String</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-instrumental-music-wind-90386519a1/">Dept. of Instrumental Music — Wind</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-korean-language-education-71e2bf3095/">Dept. of Korean Language Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-korean-language-and-literature-a2c1f94d46/">Dept. of Korean Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-korean-music-fb6d74f632/">Dept. of Korean Music</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-landscape-architecture-and-rural-system-engineering-lands-5c6fd700f7/">Dept. of Landscape Architecture and Rural System Engineering — Landscape Architecture</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-landscape-architecture-and-rural-system-engineering-rural-1dcccf199d/">Dept. of Landscape Architecture and Rural System Engineering — Rural System Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-linguistics-5ce04790d7/">Dept. of Linguistics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-manufacturing-pharmacy-48d066f305/">Dept. of Manufacturing Pharmacy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-materials-science-and-engineering-ab09a8173e/">Dept. of Materials Science and Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-mathematical-sciences-d6b6a5c4b1/">Dept. of Mathematical Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-mathematics-education-f1fd691044/">Dept. of Mathematics Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-medicine-e1b7d65339/">Dept. of Medicine</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-naval-architecture-and-ocean-engineering-5b5f80991e/">Dept. of Naval Architecture and Ocean Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-nuclear-engineering-0918178cb4/">Dept. of Nuclear Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-nursing-64052f3ac7/">Dept. of Nursing</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-oriental-painting-960f7695a7/">Dept. of Oriental Painting</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-painting-ae42d1c1bb/">Dept. of Painting</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-pharmacy-bb064f1b4a/">Dept. of Pharmacy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-philosophy-fe0ef06acf/">Dept. of Philosophy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-physical-education-12f81d2f48/">Dept. of Physical Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-physics-education-0ae043e2eb/">Dept. of Physics Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-physics-and-astronomy-astronomy-aac928a5a9/">Dept. of Physics and Astronomy — Astronomy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-physics-and-astronomy-physics-e28891c3d4/">Dept. of Physics and Astronomy — Physics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-plant-science-crop-science-and-biotechnology-9e7f3b3ffe/">Dept. of Plant Science — Crop Science and Biotechnology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-plant-science-horticultural-science-and-biotechnology-51d611d377/">Dept. of Plant Science — Horticultural Science and Biotechnology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-plant-science-vocational-education-and-workforce-developm-fc0db4a517/">Dept. of Plant Science — Vocational Education and Workforce Development</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-political-science-and-international-relations-internation-47835bfcd5/">Dept. of Political Science and International Relations — International Relations</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-political-science-and-international-relations-political-s-b5ebf72ad1/">Dept. of Political Science and International Relations — Political Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-preliminary-medicine-013c6af2e0/">Dept. of Preliminary Medicine</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-preliminary-veterinary-medicine-48d501add6/">Dept. of Preliminary Veterinary Medicine</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-psychology-b7b2504afb/">Dept. of Psychology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-religious-studies-6fd9228282/">Dept. of Religious Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-russian-language-and-literature-dcd40df856/">Dept. of Russian Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-sculpture-27d87aa9e4/">Dept. of Sculpture</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-smart-systems-595b1b21db/">Dept. of Smart Systems</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-social-studies-education-f7a3430c60/">Dept. of Social Studies Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-social-welfare-63d7cce993/">Dept. of Social Welfare</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-sociology-1a8a755ac2/">Dept. of Sociology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-statistics-60b5d065e8/">Dept. of Statistics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-textiles-merchandising-and-fashion-design-85cdb2198b/">Dept. of Textiles, Merchandising and Fashion Design</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-veterinary-medicine-12910dd303/">Dept. of Veterinary Medicine</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-vocal-music-3697d6045b/">Dept. of Vocal Music</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-division-of-consumer-and-child-studies-child-development-and-fami-70044870c1/">Division of Consumer and Child Studies — Child Development and Family Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-division-of-consumer-and-child-studies-consumer-science-b44c201271/">Division of Consumer and Child Studies — Consumer Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-school-of-transdisciplinary-innovations-e0e322aaa7/">School of Transdisciplinary Innovations</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-transdisciplinary-learning-sciences-major-0694caf7a6/">Transdisciplinary Learning Sciences Major</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-archaeology-major-4be07427bf/">考古学（考古与艺术史系内主修）</a><small>本科主修（完整学位称号本轮未取得） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-art-history-major-afaaa8e3bb/">艺术史（考古与艺术史系内主修）</a><small>本科主修（完整学位称号本轮未取得） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-architecture-and-architectural-engineering-architectural-ce72aac6f9/">建筑工程（建筑系分流）</a><small>Bachelor of Engineering（공학사） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-architecture-and-architectural-engineering-architecture-3928a9d6a4/">建筑学（建筑系分流，五年制）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-civil-urban-and-environmental-engineering-5bec0e9751/">土木、城市与环境工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-composition-composition-04c77c4ef6/">作曲（含作曲与指挥方向）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-crafts-and-design-crafts-d7733cccc0/">工艺</a><small>Bachelor of Fine Arts in Crafts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dentistry-bachelor-professional-master-220c858c3b/">牙医学（3年学士＋4年专业硕士贯通）</a><small>Integrated Bachelor and Professional Master（3+4 years） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-aerospace-engineering-be128f92f3/">航空航天工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-aesthetics-cc9818a322/">美学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-agricultural-economics-and-rural-development-agricultural-cd04712e23/">农业与资源经济学（农业经济与乡村发展部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-agricultural-economics-and-rural-development-regional-inf-eaae9a8013/">区域信息学（农业经济与乡村发展部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-anthropology-fdc675beca/">人类学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-applied-biology-and-chemistry-applied-biology-73df3ae4b1/">应用生物学（应用生物与化学部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-applied-biology-and-chemistry-applied-life-chemistry-152aece58b/">应用生命化学（应用生物与化学部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-archaeology-and-art-history-a72e0ac7d7/">考古学与艺术史（含两个内部专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-asian-languages-and-civilizations-5559a00587/">亚洲语言与文明</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-biological-sciences-20a0686a55/">生命科学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-biology-education-a2621a7c3e/">生物教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-biosystems-biomaterials-science-and-engineering-biomateri-23f3c0ee6b/">生物材料工程（生物系统与生物材料科学工程部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-biosystems-biomaterials-science-and-engineering-biosystem-c794567cc8/">生物系统工程（生物系统与生物材料科学工程部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-business-administration-f48102449d/">工商管理</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-chemical-and-biological-engineering-787c2b6ea3/">化学与生物工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-chemistry-17100faf97/">化学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-chemistry-education-7ed07fed7d/">化学教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-chinese-language-and-literature-27f6039c7e/">中国语言文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-communication-bccf111f0f/">传播学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-computer-science-and-engineering-64332450b2/">计算机科学与工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-earth-science-education-2ad44097be/">地球科学教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-earth-and-environmental-sciences-7090fd7c88/">地球与环境科学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-economics-bbec1f899f/">经济学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-education-3be1add4f9/">教育学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-energy-resources-engineering-71351bad79/">能源资源工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-english-education-7399b960e8/">英语教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-english-language-and-literature-cdcb25fde5/">英语语言文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-ethics-education-22620394de/">伦理教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-food-and-animal-biotechnology-animal-science-and-biotechn-4d7b7109ef/">动物科学与生物技术（食品与动物生物技术部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-food-and-animal-biotechnology-food-science-and-biotechnol-c1992b07bb/">食品科学与生物技术（食品与动物生物技术部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-food-and-nutrition-374d2e769d/">食品与营养学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-forest-sciences-environmental-materials-science-0367862b8b/">环境材料科学（森林科学部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-forest-sciences-forest-environmental-science-7796ec675f/">森林环境科学（森林科学部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-french-language-education-cdce1845a0/">法语教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-french-language-and-literature-ea609e25ad/">法语语言文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-geography-42c5623234/">地理学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-geography-education-820d63b1b9/">地理教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-german-language-education-d71f6330d2/">德语教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-german-language-and-literature-6c26bc2df8/">德语语言文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-hispanic-language-and-literature-5322dda799/">西班牙语语言文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-history-7392592c56/">历史学（含韩国史、亚洲史及西方史方向）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-history-education-7a13720ebd/">历史教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-industrial-engineering-61e34c21fc/">工业工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-korean-language-education-71e2bf3095/">韩国语教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-korean-language-and-literature-a2c1f94d46/">韩国语言文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-korean-music-fb6d74f632/">韩国音乐</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-landscape-architecture-and-rural-system-engineering-lands-5c6fd700f7/">风景园林（景观与区域系统工程部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-landscape-architecture-and-rural-system-engineering-rural-1dcccf199d/">区域系统工程（景观与区域系统工程部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-linguistics-5ce04790d7/">语言学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-materials-science-and-engineering-ab09a8173e/">材料科学与工程</a><small>B.S.（课程页用语；完整证书称号待核） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-mathematical-sciences-d6b6a5c4b1/">数学科学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-mathematics-education-f1fd691044/">数学教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-nuclear-engineering-0918178cb4/">核工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-nursing-64052f3ac7/">护理学</a><small>Bachelor of Science in Nursing (BSN) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-oriental-painting-960f7695a7/">东方绘画</a><small>Bachelor of Fine Arts in Oriental Painting · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-painting-ae42d1c1bb/">绘画</a><small>Bachelor of Fine Arts in Painting · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-philosophy-fe0ef06acf/">哲学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-physical-education-12f81d2f48/">体育教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-physics-education-0ae043e2eb/">物理教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-physics-and-astronomy-astronomy-aac928a5a9/">天文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-physics-and-astronomy-physics-e28891c3d4/">物理学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-plant-science-crop-science-and-biotechnology-9e7f3b3ffe/">作物科学与生物技术（植物科学部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-plant-science-horticultural-science-and-biotechnology-51d611d377/">园艺科学与生物技术（植物科学部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-plant-science-vocational-education-and-workforce-developm-fc0db4a517/">职业教育与人力开发（植物科学部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-political-science-and-international-relations-internation-47835bfcd5/">国际关系（政治与国际关系学部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-political-science-and-international-relations-political-s-b5ebf72ad1/">政治学（政治与国际关系学部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-psychology-b7b2504afb/">心理学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-religious-studies-6fd9228282/">宗教学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-russian-language-and-literature-dcd40df856/">俄语语言文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-sculpture-27d87aa9e4/">雕塑</a><small>Bachelor of Fine Arts in Sculpture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-smart-systems-595b1b21db/">智能系统科学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-social-studies-education-f7a3430c60/">社会教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-social-welfare-63d7cce993/">社会福利学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-sociology-1a8a755ac2/">社会学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-statistics-60b5d065e8/">统计学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-vocal-music-3697d6045b/">声乐</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-crafts-and-design-design-8e5054177d/">设计</a><small>Bachelor of Fine Arts in Design · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-digital-healthcare-24843817a3/">数字医疗（先进融合学部内主修）</a><small>本科主修（完整学位称号本轮未取得） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-division-of-consumer-and-child-studies-child-development-and-fami-70044870c1/">儿童发展与家庭研究（消费者与儿童研究部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-division-of-consumer-and-child-studies-consumer-science-b44c201271/">消费者科学（消费者与儿童研究部内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-electrical-and-computer-engineering-564b3932e0/">电气与计算机工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-textiles-merchandising-and-fashion-design-85cdb2198b/">服装与纺织品</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-history-asian-d1795b9434/">亚洲史（历史学部内主修）</a><small>本科主修（完整学位称号本轮未取得） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-history-korean-2e2a3f0352/">韩国史（历史学部内主修）</a><small>本科主修（完整学位称号本轮未取得） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-history-western-269814c53b/">西方史（历史学部内主修）</a><small>本科主修（完整学位称号本轮未取得） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-innovative-pharmaceutical-sciences-981ee0e4b0/">创新药物科学（先进融合学部内主修）</a><small>本科主修（完整学位称号本轮未取得） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-integrative-data-science-fa7605ca08/">融合数据科学（先进融合学部内主修）</a><small>本科主修（完整学位称号本轮未取得） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-intelligent-semiconductor-system-93a58b1d6e/">智能半导体系统（先进融合学部内主修）</a><small>本科主修（完整学位称号本轮未取得） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-liberal-studies-b022be3d98/">自由专业（探索与设计主修入口）</a><small>本科主修（完整学位称号本轮未取得） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-manufacturing-pharmacy-48d066f305/">制药学（六年制药学共同课程内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-mechanical-engineering-5a94051f1c/">机械工程</a><small>本科主修（完整学位称号本轮未取得） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-medicine-e1b7d65339/">医学（2027起六年制）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-composition-theory-e7ba9e1088/">音乐学（原作曲系音乐理论专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-naval-architecture-and-ocean-engineering-5b5f80991e/">船舶与海洋工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-orchestral-instruments-5fdc4dc3e4/">管弦乐（共同入口，含弦乐及管乐打击乐）</a><small>本科主修（完整学位称号本轮未取得） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-instrumental-music-string-dc993651fa/">弦乐（管弦乐系内方向）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-instrumental-music-wind-90386519a1/">管乐与打击乐（管弦乐系内方向）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-pharmacy-bb064f1b4a/">药学（六年制药学共同课程内专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-instrumental-music-piano-079a36b838/">钢琴</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-preliminary-veterinary-medicine-48d501add6/">兽医学预科（六年兽医培养的前两年）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-sustainable-technology-9d6508ff22/">可持续技术（先进融合学部内主修）</a><small>本科主修（完整学位称号本轮未取得） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-school-of-transdisciplinary-innovations-e0e322aaa7/">先进融合学部（五方向共同入口）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-transdisciplinary-learning-sciences-major-0694caf7a6/">跨学科学习科学（师范学院在读转入专业）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-veterinary-medicine-12910dd303/">兽医学（兽医预科后的四年专业阶段）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -143,15 +156,33 @@ hide:
 <p class="catalog-fact"><strong>实际授课语言：</strong>FAQ明确多数课程用韩语，且无论专业可能都需修韩语课程才能毕业；不能把允许交英语成绩等同于全英语培养。国际本科没有转学通道，其他高校既修学分不据此自动转入。</p>
 <p class="fact-sources"><a href="#source-u-ASREN-17e0fc82254cd6">官方依据</a></p>
 
+<p class="catalog-fact"><strong>中国普高与高考的作用：</strong>中国普通高中须在2027-02-28前毕业。简章把高考与A-level、IB、SAT等列为可选的补充学术证据，不是以统一高考分数线代替高中学籍和成绩单；国际课程也仍须提交高中成绩单。录取综合评估学术能力、专业匹配、语言及校内外活动。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-f258a72f9d56fc">官方依据</a></p>
+
+<p class="catalog-fact"><strong>大陆材料：学历、国籍与亲属关系：</strong>中国高中毕业生须备毕业证明及CHSI高中学历验证；预计毕业者按简章先交预计毕业证明，预录取后补验证。中国申请人与父母国籍只接受有效护照，或2026-01-01以后由中国公证处出具的国籍证明书；身份证、户口簿不作国籍证明。亲属关系证明书也须在该日以后由公证处出具。非韩语／英语材料附规定的公证翻译。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-f258a72f9d56fc">官方依据</a></p>
+
+<p class="catalog-fact"><strong>International II与I的区别：</strong>II要求从小学一年级到高中全部教育在韩国以外完成，可含外籍或符合条件的韩国籍申请者；另需各阶段就读证明及出入境等材料。若申请人及父母均外籍，简章建议选择I以减少II材料负担；不能把II的全部海外就学条件强加给所有I申请人。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-f258a72f9d56fc">官方依据</a></p>
+
+<p class="catalog-fact"><strong>语言成绩期限与授课边界：</strong>2027春所交考试须在2024-07-09或以后取得并于申请截止前确认。允许英语证明不表示本专业全英语；简章要求向院系核对英语课程，并说明部分录取生须参加入学前韩语测试，结果可能限制选课。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-f258a72f9d56fc">官方依据</a></p>
+
+<p class="catalog-fact"><strong>特殊学历与家庭材料：</strong>无法出具CHSI报告的职业／专业／技术高中，可按简章使用经Apostille或韩国领事认证的毕业／预计毕业证明及省级教育部门确认。单亲、离婚或父母去世者可按监护关系提交相应家长国籍材料，另附官方证明；不能据常规清单断定必须提交无法取得的双亲文件。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-f258a72f9d56fc">官方依据</a></p>
+
 ### 申请安排
 
-<p class="catalog-fact"><strong>2027春申请已结束：</strong>在线申请于2026-07-06 10:00至07-09 17:00韩国时间；推荐信至07-10 17:00。申请费KRW70,000。以2026-09-12为准本周期已经结束；本轮未取得2027秋时间，不沿用春季日期。</p>
+<p class="catalog-fact"><strong>2027春：申请窗口已经结束：</strong>网上申请2026-07-06 10:00至07-09 17:00，推荐信至07-10 17:00，均韩国时间；申请费KRW70,000。当前该窗口已结束。2027秋及其后轮次的完整日期本轮未取得，不能沿用这组春季日期。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-f258a72f9d56fc">官方依据</a></p>
+
+<p class="catalog-fact"><strong>个人陈述与推荐信：</strong>网申须填写个人陈述与学习计划，限4,000字节（含空格换行，约800英文词）；一封在线推荐信限3,000字节（约600英文词），由推荐人提交。两者不得写申请人或父母亲属的姓名、职业等指定个人信息；不能仅按中文字数估算字节。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-f258a72f9d56fc">官方依据</a></p>
+
+<p class="catalog-fact"><strong>预录取后原件与最终结果：</strong>2027春预录取定于2026-10-16 17:00以后公布，原件递交期10-16至11-03 17:00，最终结果11-20 17:00以后；海外学历材料须按具体类别附Apostille或韩国使领馆认证。未按要求交原件可失去录取；录取不得顺延到另一学期。</p>
 <p class="fact-sources"><a href="#source-u-ASREN-f258a72f9d56fc">官方依据</a></p>
 
 ### 学费与资助
-
-<p class="catalog-fact"><strong>2026收费参考与周期边界：</strong>2027春简章附2026学费表：人文／经营2,442,000、工程2,998,000、护理2,975,000韩元等，均为学院类别参考；附表未在表题标明年／学期，故本摘要不直接年化。另注册页说明通常每年开学前分两学期缴费。2027医学改为六年一贯制，不能沿用旧2+4年收费结构。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-f258a72f9d56fc">官方依据</a></p>
 
 <p class="catalog-fact"><strong>缴费方式与资助入口：</strong>通常每年两次、各学期开学前缴费；具体账单以注册通知为准。</p>
 <p class="fact-sources"><a href="#source-u-ASREN-e6c8c2711274a7">官方依据</a></p>
@@ -159,28 +190,139 @@ hide:
 <p class="catalog-fact"><strong>国际新生资助边界：</strong>FAQ列Global Talent Scholarship等录取后选择性资助，可涉及部分学费或生活费；本轮未核到可作为2027中国申请者保证金额和续领标准的完整资助条款。</p>
 <p class="fact-sources"><a href="#source-u-ASREN-17e0fc82254cd6">官方依据</a></p>
 
+<p class="catalog-fact"><strong>2026第二学期费用与2027边界：</strong>已核到2026学年第二学期正式收费表，币种韩元，按学院、专业及在读年级分别计每学期学费；专业页列对应金额。它不是2027新生锁定报价，也不含生活住宿或所有其他费用。医学2027六年制改革尤其不可照搬旧预科／专业阶段收费。</p>
+<p class="fact-sources"><a href="#source-u-SNU-1b0846af1d9011">官方依据</a> · <a href="#source-u-ASREN-f258a72f9d56fc">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>毕业结果数据范围：</strong>本轮取得课程培养目标及部分院系职业介绍；尚未核到能按本专业、明确毕业届次及样本范围比较的就业率或薪资。大学统计年报发布入口已取得，但不能把学院愿景、个别校友或后续读研职业写成实际本科就业比例。</p>
+<p class="fact-sources"><a href="#source-u-SNU-24a01cc5717374">官方依据</a></p>
+
 ### 学校资料来源
 
-<div class="catalog-source" id="source-u-ASREN-f258a72f9d56fc"><div><a href="https://en.snu.ac.kr/webdata/uploads/eng/file/2026/06/Admissions_for_Undergraduate_Spring_2027.pdf">首尔大学2027春国际本科简章 ↗</a><p>国际I身份、语言材料、2027时间、艺术特殊要求、2026收费及医学变化</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-f258a72f9d56fc"><div><a href="https://en.snu.ac.kr/webdata/uploads/eng/file/2026/06/Admissions_for_Undergraduate_Spring_2027.pdf">首尔大学2027春国际本科简章 ↗</a><p>国际I身份、语言材料、2027时间、艺术特殊要求、2026收费及医学变化；中国普高与高考的作用；大陆材料：学历、国籍与亲属关系；International II与I的区别；语言成绩期限与授课边界；2027春：申请窗口已经结束；个人陈述与推荐信；预录取后原件与最终结果；2026第二学期费用与2027边界</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-ASREN-17e0fc82254cd6"><div><a href="https://en.snu.ac.kr/admission/overview/faq/admission">首尔大学国际招生FAQ ↗</a><p>授课语言、无国际转学及奖学金信息</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-ASREN-e6c8c2711274a7"><div><a href="https://en.snu.ac.kr/academics/resources/registration">首尔大学注册缴费 ↗</a><p>每年通常分两学期缴费</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-SNU-1b0846af1d9011"><div><a href="https://snu.ac.kr/webdata/uploads/kor/file/2026/08/2026_tuition.pdf">首尔大学官方课程／招生文件 ↗</a><p>2026第二学期费用与2027边界</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-SNU-24a01cc5717374"><div><a href="https://www.snu.ac.kr/about/downloads?bbsidx=165605&amp;md=v">2025 서울대학교 통계연보 - 자료실 - 대학현황 - 대학소개 - 서울대학교 ↗</a><p>毕业结果数据范围</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 99 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 112 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
+<p><strong>统计范围：</strong>98个保留本科入口/主修/阶段，加14明确入口与内部主修；旧医学预科移为更正说明，共112条而非112种独立学位</p>
 
-<p><strong>对账方法：</strong>[{&quot;faculty&quot;: &quot;College of Humanities humanities.snu.ac.kr&quot;, &quot;records&quot;: 14}, {&quot;faculty&quot;: &quot;College of Social Sciences social.snu.ac.kr&quot;, &quot;records&quot;: 9}, {&quot;faculty&quot;: &quot;College of Natural Sciences science.snu.ac.kr&quot;, &quot;records&quot;: 7}, {&quot;faculty&quot;: &quot;College of Agriculture &amp; Life Sciences cals.snu.ac.kr&quot;, &quot;records&quot;: 16}, {&quot;faculty&quot;: &quot;College of Business Administration cba.snu.ac.kr&quot;, &quot;records&quot;: 1}, {&quot;faculty&quot;: &quot;College of Education edu.snu.ac.kr&quot;, &quot;records&quot;: 16}, {&quot;faculty&quot;: &quot;College of Engineering eng.snu.ac.kr&quot;, &quot;records&quot;: 12}, {&quot;faculty&quot;: &quot;College of Fine Arts art.snu.ac.kr&quot;, &quot;records&quot;: 5}, {&quot;faculty&quot;: &quot;College of Human Ecology che.snu.ac.kr&quot;, &quot;records&quot;: 4}, {&quot;faculty&quot;: &quot;College of Medicine medicine.snu.ac.kr&quot;, &quot;records&quot;: 2}, {&quot;faculty&quot;: &quot;College of Music music.snu.ac.kr&quot;, &quot;records&quot;: 7}, {&quot;faculty&quot;: &quot;College of Nursing nursing.snu.ac.kr&quot;, &quot;records&quot;: 1}, {&quot;faculty&quot;: &quot;College of Pharmacy snupharm.snu.ac.kr&quot;, &quot;records&quot;: 2}, {&quot;faculty&quot;: &quot;College of Veterinary Medicine vet.snu.ac.kr&quot;, &quot;records&quot;: 2}, {&quot;faculty&quot;: &quot;School of Transdisciplinary Innovations snuti.snu.ac.kr&quot;, &quot;records&quot;: 1}]</p>
+<p><strong>对账方法：</strong>对原99稳定ID逐项核中文课程、当前院系与2027招生身份，121字段更正均有来源；新增14配对事实，剔除1旧医学阶段重复。</p>
 
 <p><strong>排除项：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
 
 **尚未解决的目录缺口：**
 
-- English directory has 15 colleges plus interdisciplinary add-on programmes. Medicine/veterinary preliminary and later phases are explicitly retained and not represented as independent full-duration degrees.
-- Nested department/major structure and Korean directory need final reconciliation before claiming full enumeration.
-- English-taught course links do not establish English-taught whole degrees.
+- 全校在读联合/交叉主修仍有未闭合项；亚洲区域、工艺、设计及音乐内部方向不等于已穷尽。
+- 36个既有条目课程使用明确2024官方表，2027完整课程调整尚未取得；多数完整证书称号、标准学制和逐阶段教学场地仍待核。
+- 2027春国际申请已结束；2027秋未取得。牙医、Smart Systems、TLS在读转入及兽医专业阶段不可套普通国际新生入口。
+- 2026第二学期按专业与年级列费；医学2027六年制收费须另核，牙医本科费用不含后四年专业硕士。
+- 多数专业缺有届次、分母与国际生范围的可比就业薪资统计；当前职业介绍不当作毕业调查。
 
 - [官方目录来源](https://en.snu.ac.kr/academics/programs/undergraduate)
+- [官方目录来源](https://en.snu.ac.kr/admission/overview/faq/admission)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=1)
+- [官方目录来源](https://en.snu.ac.kr/webdata/uploads/eng/file/2026/06/Admissions_for_Undergraduate_Spring_2027.pdf)
+- [官方目录来源](https://snu.ac.kr/webdata/uploads/kor/file/2026/08/2026_tuition.pdf)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=2)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=3)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=4)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=5)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=6)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=7)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=8)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=16)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=22)
+- [官方目录来源](https://snu.ac.kr/webdata/uploads/kor/file/2025/04/Undergraduate_Course_List_2024.pdf)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=12)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=13)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=14)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=15)
+- [官方目录来源](https://psir.snu.ac.kr/)
+- [官方目录来源](https://communication.snu.ac.kr/en/)
+- [官方目录来源](https://physics.snu.ac.kr/en/academics/undergraduate/curriculum)
+- [官方目录来源](https://physics.snu.ac.kr/en/academics/undergraduate/courses)
+- [官方目录来源](http://astron.snu.ac.kr/en/)
+- [官方目录来源](https://chem.snu.ac.kr/en/academics/undergraduate-courses)
+- [官方目录来源](https://biosci.snu.ac.kr/en/academics/curriculum/undergraduate)
+- [官方目录来源](https://biosci.snu.ac.kr/en/academics/subject/undergraduate)
+- [官方目录来源](https://sees.snu.ac.kr/en/academics/undergraduate/courses)
+- [官方目录来源](http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=26&majidx=1)
+- [官方目录来源](http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=26&majidx=2)
+- [官方目录来源](http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=26&majidx=3)
+- [官方目录来源](http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=27&majidx=4)
+- [官方目录来源](http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=27&majidx=5)
+- [官方目录来源](http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=28&majidx=6)
+- [官方目录来源](http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=28&majidx=7)
+- [官方目录来源](http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=29&majidx=8)
+- [官方目录来源](http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=29&majidx=9)
+- [官方目录来源](http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=30)
+- [官方目录来源](http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=30&majidx=11)
+- [官方目录来源](http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=31)
+- [官方目录来源](http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=31&majidx=13)
+- [官方目录来源](http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=32&majidx=14)
+- [官方目录来源](http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=32&majidx=15)
+- [官方目录来源](https://cals.snu.ac.kr/academics/undergraduate?deptidx=55)
+- [官方目录来源](https://admission.snu.ac.kr/webdata/admission/files/2027susi.pdf)
+- [官方目录来源](https://cba.snu.ac.kr/en/academics/undergraduate/curriculum/01)
+- [官方目录来源](http://cba.snu.ac.kr/en)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/education/)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ea%b5%ad%ec%96%b4%ea%b5%90%ec%9c%a1%ea%b3%bc/)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/english-language-education/)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/%eb%8f%85%ec%96%b4%ea%b5%90%ec%9c%a1%ea%b3%bc/)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/%eb%b6%88%ec%96%b4%ea%b5%90%ec%9c%a1%ea%b3%bc/)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ec%82%ac%ed%9a%8c%ea%b5%90%ec%9c%a1%ea%b3%bc/)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/history-education/)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ec%a7%80%eb%a6%ac%ea%b5%90%ec%9c%a1%ea%b3%bc/)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ec%9c%a4%eb%a6%ac%ea%b5%90%ec%9c%a1%ea%b3%bc/)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ec%88%98%ed%95%99%ea%b5%90%ec%9c%a1%ea%b3%bc/)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/%eb%ac%bc%eb%a6%ac%ea%b5%90%ec%9c%a1%ea%b3%bc/)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ed%99%94%ed%95%99%ea%b5%90%ec%9c%a1%ea%b3%bc/)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ec%83%9d%eb%ac%bc%ea%b5%90%ec%9c%a1%ea%b3%bc/)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ec%a7%80%ea%b5%ac%ea%b3%bc%ed%95%99%ea%b5%90%ec%9c%a1%ea%b3%bc/)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ec%b2%b4%ec%9c%a1%ea%b5%90%ec%9c%a1%ea%b3%bc/)
+- [官方目录来源](https://edu.snu.ac.kr/en/academics/department-offices-faculty/transdisciplinary-learning-sciences/)
+- [官方目录来源](https://tls.snu.ac.kr/new2/sub_department/graduate.php)
+- [官方目录来源](https://cee.snu.ac.kr/english/)
+- [官方目录来源](https://mse.snu.ac.kr/snumse-main/education/undergraduate/undergraduate-course-offerings/)
+- [官方目录来源](https://ece.snu.ac.kr/academics/undergraduate/curriculum)
+- [官方目录来源](https://cse.snu.ac.kr/en/academics/undergraduate/degree-requirements)
+- [官方目录来源](https://cse.snu.ac.kr/en)
+- [官方目录来源](https://eng.snu.ac.kr/academics/undergraduate-programs/architecture-and-architectural-engineering)
+- [官方目录来源](http://ie.snu.ac.kr/en)
+- [官方目录来源](https://nucleng.snu.ac.kr/en/undergraduate/curriculum)
+- [官方目录来源](http://nucleng.snu.ac.kr/en)
+- [官方目录来源](https://naoe.snu.ac.kr/department/curriculum)
+- [官方目录来源](https://aerospace.snu.ac.kr/en/undergraduate/course-list)
+- [官方目录来源](https://art.snu.ac.kr/en/admissions/degree/)
+- [官方目录来源](https://medicine.snu.ac.kr/en/bbm/bbs/selectBoardArticleView.do?nttId=684)
+- [官方目录来源](https://www.snu.ac.kr/about/multicampus/yongon)
+- [官方目录来源](https://music.snu.ac.kr/content/department_vm)
+- [官方目录来源](https://music.snu.ac.kr/content/department_c)
+- [官方目录来源](https://music.snu.ac.kr/content/department_m)
+- [官方目录来源](https://music.snu.ac.kr/content/department_p)
+- [官方目录来源](https://music.snu.ac.kr/content/department_oi)
+- [官方目录来源](https://music.snu.ac.kr/content/department_kt)
+- [官方目录来源](https://nursing.snu.ac.kr/en/education/undergraduate-curriculum)
+- [官方目录来源](http://snupharm.snu.ac.kr/en)
+- [官方目录来源](http://vet.snu.ac.kr/en)
+- [官方目录来源](https://snuti.snu.ac.kr/curriculum/)
+- [官方目录来源](https://snuti.snu.ac.kr/digital-healthcare/)
+- [官方目录来源](https://snuti.snu.ac.kr/convergence-data-science/)
+- [官方目录来源](https://snuti.snu.ac.kr/sustainable-technology/)
+- [官方目录来源](https://snuti.snu.ac.kr/next-generation-intelligent-semiconductor/)
+- [官方目录来源](https://snuti.snu.ac.kr/innovative-new-drug/)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=9)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=10)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=11)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=24)
+- [官方目录来源](https://humanities.snu.ac.kr/academics/department?deptidx=23)
+- [官方目录来源](https://en.snu.ac.kr/academics/resources/registration)
+- [官方目录来源](https://www.snu.ac.kr/about/downloads?bbsidx=165605&md=v)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

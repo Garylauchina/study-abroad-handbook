@@ -185,7 +185,7 @@ def generate():
             for p in ps:
                 body = front(u['name']+' · '+p['name'], program_context={'catalog_program': True, 'catalog_country': c['name'], 'catalog_country_url': BASE+route(c['id']), 'catalog_university': u['name'], 'catalog_university_url': BASE+route(c['id'],u['id'])}) + crumbs([('','大学与专业'),(route(c['id']),c['name']),(route(c['id'],u['id']),u['name']),(None,p['name'])])
                 body += f'<p class="catalog-eyebrow">{esc(u["name"])} · {esc(p["degree"])} · {esc(p["subject"])}</p>\n\n# {p["name"].strip()}\n\n<p class="program-title-en">{esc(p["name_en"])}</p>\n\n'
-                body += '<div class="program-at-a-glance">' + ''.join(f'<div><span>{label}</span><strong>{esc(value)}</strong></div>' for label,value in [('入学年度',p['intake']),('学制',p['duration']),('国际生学费',p['tuition_summary'])]) + '</div>\n\n'
+                body += '<div class="program-at-a-glance">' + ''.join(f'<div><span>{esc(label)}</span><strong>{esc(value)}</strong></div>' for label,value in [('入学年度',p['intake']),('学制',p['duration']),(p.get('tuition_label','国际生学费'),p['tuition_summary'])]) + '</div>\n\n'
                 body += f'<p class="program-location"><strong>校区：</strong>{esc(p["campus"])} · <strong>授课语言：</strong>{esc(p["language"])}</p>\n\n'
                 body += '<nav class="program-jumps" aria-label="专业详情章节">' + ''.join(f'<a href="#{key}">{title}</a>' for key,title in SECTIONS) + '</nav>\n\n'
                 if p['detail_status'] != 'detailed':
@@ -209,6 +209,10 @@ def generate():
         assert item['id'] not in {p['id'] for p in programs}, 'Excluded item remains in the live catalog'
         body = front(item['name_en']+' · 收录范围说明', program_context={'catalog_program': True, 'catalog_country': c['name'], 'catalog_country_url': BASE+route(c['id']), 'catalog_university': u['name'], 'catalog_university_url': BASE+route(c['id'],u['id'])})
         body += '# '+item['name_en'].strip()+'\n\n> **此项目已移出本科专业清单。** 旧链接保留，供查阅更正说明。\n\n'+esc(item['reason'])+'\n\n'
+        if item.get('replacement_inventory_id'):
+            replacement = next(p for p in programs if p['id'] == item['replacement_inventory_id'])
+            assert replacement['university_id'] == u['id'], 'Replacement must belong to the same university'
+            body += link(route(c['id'],u['id'],replacement['id']), '查看现行专业：'+replacement['name'])+'\n\n'
         body += link(route(c['id'],u['id']), '返回'+u['name']+'的本科专业清单')+'\n\n## 官方依据\n\n'
         for source in item['sources']:
             assert re.fullmatch(r'[a-f0-9]{64}', source['sha256'])

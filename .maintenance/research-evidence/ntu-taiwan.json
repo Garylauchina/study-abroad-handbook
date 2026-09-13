@@ -2,58 +2,3046 @@
   "university_id": "ntu-taiwan",
   "sources": [
     {
-      "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
-      "sha256": "035a0ccc3462b78443c4ad7ce36ecc16a0840caef3258b1a32f2558eb07389f4",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/identity.html",
-      "locator": "陸生／學生身分別"
+      "url": "https://rusen.stust.edu.tw/cpx/DM/2026/20260615-115Brochure-DM.pdf",
+      "sha256": "c899f5c2669ed13036b3764fd0b050d2d25a52f6908f039c8fcdb8e4286f3003",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-0b6b241405c096b74e.pdf",
+      "locator": null
     },
     {
-      "url": "https://rusen.stust.edu.tw/cpx/",
-      "sha256": "5ba4f9a137a68c081ceb8090a664f5de9d840b7d8198767b74bb49f9704ca9ea",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/rusen.html",
-      "locator": "26線上簡章"
+      "url": "https://www.aca.ntu.edu.tw/WebUPD/aca/UAADRules/學則.pdf",
+      "sha256": "4758a8e961e3d4163b757ec57423901ce872a96448198a32ca3b8aa91fdb6993",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-6a92cfecfab2257706.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/student-status/",
+      "sha256": "a25a2a0aa0ba11bc2c37e234d0dc3d7826cebead291cd5191f0b688dc952ee1f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/supp-958c5d540a40bb4ed8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.aca.ntu.edu.tw/WebUPD/aca/SecretariatService/115學年度學生繳費標準一覽表(核定)_01學士班.pdf",
+      "sha256": "25096af85d440adc2537f3abecb128a2f5e87aceac8568f3f54199ec20abf583",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-131403633427a9d0a7.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/mainland-chinese-students/",
+      "sha256": "b0e6997c6a32a71dcf6f074ed2fc8fcde47a69e2a2eb6842764ac53cb5263f2a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-8100c5cf17008842db.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.ntu.edu.tw/zh-hant/fees-scholarships/scholarships/",
+      "sha256": "68ebac106c82e46056b7627d1835d49f8b0dce37058944787d253f0d2055baec",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-149ecb2b408dd3940e.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.ntu.edu.tw/zh-hant/apply/degree-students/admission-information/application-timeline/",
+      "sha256": "5b78f5c41ee19aa29a47ee3478e2b7d2d614e1b585da62b42789b5ea1992488d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-8c1dd7dce640792871.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1010+&lang=zh&inqudata=Required",
+      "sha256": "e597d07564e71e193c7b10da8570943a0fcd87358738e7055ee7443e168df4ed",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1010-Required.html",
+      "locator": null
     },
     {
       "url": "https://www.ntu.edu.tw/english/academics/academics.html",
       "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
       "raw_file": "scratch/full-catalog/asia/ntu-taiwan/raw/directory.html",
-      "locator": "Bachelor Program of International Sports Affairs"
+      "locator": null
     },
     {
-      "url": "https://www.forex.ntu.edu.tw/undergraduate-curriculum/?lang=en",
-      "sha256": "120d263f00408d17df97a23d2465d164bafb86628cf97374e444458ca27819ce",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/curriculum-7c5a86646438e03cd9.html",
-      "locator": "undergraduate curriculum / course list"
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1010+&lang=zh&inqudata=Academic",
+      "sha256": "07d7c6bca8865830633baa4ea74ca38a977f4105ad661a70f3d50c39b51f8bd0",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1010-Academic.html",
+      "locator": null
     },
     {
-      "url": "https://econ.ntu.edu.tw/en/archives/9141",
-      "sha256": "0da13eec17812ffae45941cfcc6c551afc88cc41d06cd6354b3d72ed7829fa77",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/curriculum-4072bfc4bf1762b02c.html",
-      "locator": "Undergraduate / Core Required Courses"
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1010+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "b9b3fb983ab1bf147414390583864c757562bbe45bb87820685cc0637537db40",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1010-Academic-year3.html",
+      "locator": null
     },
     {
-      "url": "https://management.ntu.edu.tw/en/Acc/curriculum/undergraduate",
-      "sha256": "cde1e8c4c46b5bf1070f3465348445d9104e20d94150e0eaaf914f333b380f1a",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/curriculum-c130249e78a476b08b.html",
-      "locator": "undergraduate curriculum / course list"
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1010+&lang=zh&inqudata=Groups",
+      "sha256": "15cff12f423ee197cf8a2854e49627f89bba06554c916cff4055e175bb76f7e9",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1010-Groups.html",
+      "locator": null
     },
     {
-      "url": "https://management.ntu.edu.tw/en/IB/curriculum/undergraduate",
-      "sha256": "06dc5001afac4a9aec3f2580925ba4a27eee7b78d16b6a429996ead96fdbbf70",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/curriculum-5f880767ed34bbdadb.html",
-      "locator": "undergraduate curriculum / course list"
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1010+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "5a5c50f9ff374843290cf4a39422c8b9a93e819f67c3612f47162027a7928903",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1010-Academic-year2.html",
+      "locator": null
     },
     {
-      "url": "https://management.ntu.edu.tw/en/IM/curriculum/undergraduate",
-      "sha256": "1340c0876072ca088c1a0a237cba844d752e7b2a4e874c3768d30089d03329b9",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/curriculum-716fc5f6687e878e66.html",
-      "locator": "undergraduate curriculum / course list"
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1010+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "a5a1402f44f755b7baa0104e03b31eb1d245fca844d6438ba519e162c23ff6c7",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1010-Academic-year4.html",
+      "locator": null
     },
     {
-      "url": "https://dph.ntu.edu.tw/web/curriculum/curriculum.jsp?lang=en",
-      "sha256": "aded4acb57b11dd647690939cc4765ff8ec9c70801953b663718cc5eb2e50bd1",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu-taiwan/raw/curriculum-1e991d92536a2009c9.html",
-      "locator": "Undergraduate / Core Required Courses"
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1020+&lang=zh&inqudata=Required",
+      "sha256": "243f4489e536d5ae8ef610bc512591cd4d2c1a2e4e612d1cd5b6cc70027205ab",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1020-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1020+&lang=zh&inqudata=Groups",
+      "sha256": "d7af0ac7e70c8fecc1436a9fffdaded1a6600e3f6c2fb040d39eeac31fc22207",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1020-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1020+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "b2181d3ab2a4135312a8952ef941e909c87335b98f2a1fecc355fdb550534530",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1020-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1020+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "cad4a9e8acd3335e0844cab29e4dd57536d2ab0d50020b20e0bf7b3b79d981dc",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1020-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1020+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "863e25f9f1a413f8a4041be0b79a1df07a1e75d3d361b93ec224791cfdbc21fa",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1020-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1020+&lang=zh&inqudata=Academic",
+      "sha256": "1307c0a1b3e5ba024501a3d4b193210e6913928925f68c2afefe6130e80bf827",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1020-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1030+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "3723dde6030bbf6902bee9814dfe9c7032c446d6ad9b840f219d8afe236edf17",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1030-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1030+&lang=zh&inqudata=Academic",
+      "sha256": "cce84cdcd0e127aae55d7ac475ad12e4e60eac3b923e01a8d89698803caea049",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1030-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1030+&lang=zh&inqudata=Groups",
+      "sha256": "11689e1fc364ef19da793d2b403ad16f2dde68713eddc21892ea5fa69ca38476",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1030-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1030+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "113ac2c15e8093ad8657fa8806f274f301ce8e60e6460179554746e284e0378e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1030-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1030+&lang=zh&inqudata=Required",
+      "sha256": "7c5b04542348d8ff6829d311dd0ca0dfaea03725c6f1ea9fcd9b51514a8488ce",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1030-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1040+&lang=zh&inqudata=Academic",
+      "sha256": "bc9967aa6146822d663d6b6768af312af78552807f7c7cd1e091588ed501e1e9",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1040-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1040+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "2b1469f87be9c3882ad1fa05f1db5169d4b8a925e3689ba13b1d029502b3b9b3",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1040-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1040+&lang=zh&inqudata=Required",
+      "sha256": "07385592b8bae39d85aecc3d50f3b5c60ffec26e5944028e978ed4647bc935ab",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1040-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1040+&lang=zh&inqudata=Groups",
+      "sha256": "7b6dd0e9f68cafc14266bb6708dbf638d7c17372373e25f538ce335ced2071f6",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1040-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1050+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "d09ee5dbe691192153d60b1cc039b0580c5f3d18223b80ea7e1ad3934ba929be",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1050-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1050+&lang=zh&inqudata=Required",
+      "sha256": "c17ad86f1981db2246579979ce35396575289fda1990dace993b8c906b526e01",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1050-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1050+&lang=zh&inqudata=Groups",
+      "sha256": "98f87ab13d4450e2640587ea92e774d75ee3f81109b1e6097861f82ba90558ca",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1050-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1050+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "143869240ed06b6dfcc58b84e96aea213bb2854fb39bf99dd1c520c7a8068ba0",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1050-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1050+&lang=zh&inqudata=Academic",
+      "sha256": "1c39f4b8c7f7b9f758052749eb74c60ec305b42368256ba131d24bdf9f051c61",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1050-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1060+&lang=zh&inqudata=Groups",
+      "sha256": "6b64c757cd2b245311931190d24ab95684f51e203fb437bbb98e91b649e0e3d6",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1060-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1060+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "1d41612ccde40012a052a5f51fde700fa20b981e90ead9dde6f4b0ee7e60541d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1060-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1060+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "5ad8b870e1b82b3b87c87e0c6e7740f8634cf5142ad63160629145431fed7fda",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1060-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1060+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "3a8ca3a65e463dcf513f1e07c57d88e366cff789f310c21017e37c3bcfd97436",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1060-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1060+&lang=zh&inqudata=Required",
+      "sha256": "f96e692a25956d4f43e9042e199cbb42f95055a350c7c397337d085c35ec72d2",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1060-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1060+&lang=zh&inqudata=Academic",
+      "sha256": "caec244420f3f8ff0b8696ea21c55dffb0c2aeff0ff9b901cdc1b996ed346298",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1060-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1070+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "8610ce05ac8d1cb4167148404668a0d6f6adab642bddb62eaf6fd32e73dcb42e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1070-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1070+&lang=zh&inqudata=Required",
+      "sha256": "14f46d10296dc9b90d5ccb5b8f85a64e5d0d9b8ff1299d9e9a7acdc1f1434450",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1070-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1070+&lang=zh&inqudata=Academic",
+      "sha256": "5528b82a28294849bef54bef0da07172daf87f2a4ac52b4999bf6f22bc46add6",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1070-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1070+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "1f3b40a4b81f9b8829d36d7818b5285dae074927a8777cbcb5a3ed5b5a197e6e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1070-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1070+&lang=zh&inqudata=Groups",
+      "sha256": "f3ed879bb255c8b99e2575b5091f10fc49d001f7698e7ea40549aceba4d5c16f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1070-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1070+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "8d0d9a98d7634e35c5b67bb31bc5f32b09d9576eb84a32cbb502a767afd61a6b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1070-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1090+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "4aa0075da81f133caf819102a23fcbe9e60a4aa29dd6a7b704daa753991d0881",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1090-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1090+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "0b0bbc6f506286206e6f28d9ba9ac83b1f19b711f8992ca0e5526a5e88a472ec",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1090-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1090+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "ad1098c12212ad9b5661c4d0f9a356e091d496f528f3f585790e54db7e44d2dc",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1090-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1090+&lang=zh&inqudata=Academic",
+      "sha256": "b9a9f57a367fb1a6ef43d03f3ccd02cf5c91486e549614c774bb72ac5e45ee67",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1090-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1090+&lang=zh&inqudata=Groups",
+      "sha256": "1685a48b4be4f5755e2592d3876e410c0e574ce0e4e882b8f8e8a32dc1ae29df",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1090-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1090+&lang=zh&inqudata=Required",
+      "sha256": "80bc3995ec0a792fc5fbc8063237504f0e7c6e3c8cbb53855b14a8b3f2dc1398",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1090-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2010+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "a39bfa24c91172f06a49c2ea1388a730ffc14b84ae0ed5ad8ac9425e7b23cff5",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2010-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2010+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "6909f370788437a84446d706bdb4559cdea74c0d66fc7974aa7d2eca4b0a439c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2010-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2010+&lang=zh&inqudata=Required",
+      "sha256": "1cd1939df6741201490297a6bfdbd905cae3d5d1b93325207575629c85b98063",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2010-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2010+&lang=zh&inqudata=Groups",
+      "sha256": "7009c55005b80f88fb35a046a8c4f8309be79f6bb06838c426fd70285a868b49",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2010-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2010+&lang=zh&inqudata=Academic",
+      "sha256": "5cd2620682983ec83edacec89416b2f2d9a14166219082614c2a86973928c7a0",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2010-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2020+&lang=zh&inqudata=Groups",
+      "sha256": "cfd4ad25ff834055e550248a14e1ecb99af7c370b65586bf14e5aae282a1361a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2020-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2020+&lang=zh&inqudata=Academic",
+      "sha256": "346e663b922240cfbe1ee848ec93325aa13642af647e5cbcb5fac6b5d1a1d5f8",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2020-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2020+&lang=zh&inqudata=Required",
+      "sha256": "99255cb5d840dca197e051823f67c5147a7ea3d327fdf3566d141c745eb31326",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2020-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2020+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "ddb4c20550e64e7259331a4e9d935b80c529d475d14f66df7ced74847dfebba4",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2020-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2020+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "a137d4e9c98e700e19b7690e7b3f2ae63873259d689c803e517342f138f5325c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2020-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2030+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "a16472cd005ee8facda8e85a36193f9f04a7ee45c29ca2eae7f65afd6c6b80af",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2030-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2030+&lang=zh&inqudata=Required",
+      "sha256": "6292cc41ced1ee243e4e57d620c0d7fb413539181d2333a78f89b1c43b8f7756",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2030-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2030+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "2a719d7bb4dfe1767d783f47e45206c3861fad8f0ae2465a2b8f03b1bb79c74f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2030-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2030+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "d47f1debda334e1e05d24a3384d8b6ca207a8e9c34130a58e4878dcf6d70f965",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2030-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2030+&lang=zh&inqudata=Groups",
+      "sha256": "41d95a7190b9ed83fd72603c7371fd3baa500bf08231b343d1afa0ea26d120ee",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2030-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2030+&lang=zh&inqudata=Academic",
+      "sha256": "cb81bb777a1d222a91335165bfaaaa3f08a26f7bdc5862a7fd1effa93711229c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2030-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2040+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "57fc66e4bd39d166ba46384a1d2cd947c7ac278efcd54578793a174dce3a4648",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2040-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2040+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "928047614a8eb106b37b5b408741ebd12fa702a60e7dba154f89db4757fc3f9c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2040-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2040+&lang=zh&inqudata=Academic",
+      "sha256": "ecb58800e3599a2101d063b4ee6e8586e7df95b08f207ace94192d5b317b83ab",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2040-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2040+&lang=zh&inqudata=Required",
+      "sha256": "fe05791295901a4b3da0dcfc06fa779dcbbc01f90e33471c1bf81ccb652bcb36",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2040-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2040+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "edd3a763d0a005c2b540b188b1b259eea93bc5dc1c78e933f6873db3fd94e682",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2040-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2040+&lang=zh&inqudata=Groups",
+      "sha256": "382441324b56a402db3ae033630f330965b914cae0e862fca2aecc1acc8af79b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2040-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2070+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "a2dc44ef5a7c92d118848c79f9af033755e0147446083d54325b6b3562d2a51c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2070-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2070+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "1fb64f568993c0febeb36fa33e02732c3a1f0919b056045b423baa268e139ff6",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2070-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2070+&lang=zh&inqudata=Academic",
+      "sha256": "7163ca0c0f6663f6c3c101b40272e2ae283de4cbcb3c20fb5f8b224fecb9edc1",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2070-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2070+&lang=zh&inqudata=Required",
+      "sha256": "277ac629172ee73445c1b2c9e0caf1910ff984a5955fc8d33a3d42afab4a6cba",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2070-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2070+&lang=zh&inqudata=Groups",
+      "sha256": "b8dcb116427fe00891e3133b13ac45db4223eb042dbbbb764765e5b9f4d435b9",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2070-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2080+&lang=zh&inqudata=Academic",
+      "sha256": "ea0e450538ee86af98b5ed2cdb83393228d561c9a1b727a1810310d2c4151ef8",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2080-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2080+&lang=zh&inqudata=Required",
+      "sha256": "ddf5d84edd4a50b27f1058d956e8917d1d4dcd26b3e65d47eaf614d1af0c7c7a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2080-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2080+&lang=zh&inqudata=Groups",
+      "sha256": "35b23e40bb31c9a37bd1a04c11bc31f2cfb972b94c07bd3b72e0d8ed6a62f59e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2080-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2080+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "ef57f78877191b0753d0c3dae5880e02ad5682120a1b608a168e2d2f4ba38c8a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2080-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2080+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "854a3ace8cc9c4640bc4c548403fac841ce193092d5cc1768b7ef10804e960d7",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2080-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20901&lang=zh&inqudata=Academic",
+      "sha256": "0b44910c291f57df135915a189ae4e6e6b69733929231b08f5f7b2a89060d4d8",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-20901-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20902&lang=zh&inqudata=Academic",
+      "sha256": "08cffaf17f4d5c419b1131af8d3efd32e6fba15638bce220092630537972dfda",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-20902-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2090+&lang=zh&inqudata=Required",
+      "sha256": "c949aea6eadc403bb9b5440e2421368f4a413b42c5a00874ce8958cddfcc4ddc",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2090-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20902&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "71d0d62d4f20ba04abd65144b2decb73882768978798b775fad09156fd4a2322",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-20902-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20902&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "bf6aacf28a9c987c95cb51ec0d0ad2a47d00a58ae9e43d123e89299594b11b66",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-20902-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20901&lang=zh&inqudata=Groups",
+      "sha256": "dc667f21c01202ff1dabc53b4f37a7f3046457279403e5922cb258503d518ca6",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-20901-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20902&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "c90e2db50796d130fc4a8a55d0f54fe63530fdb1c53752f2ca9cbead5426a407",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-20902-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2090+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "a5173b21fb53a6cfa62bb3cfc0bb4692bd674b90bba61dc28cbd3d76f68c611c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2090-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2090+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "9b3817fab3a7642d400b76b23ce06e0c126ae5bd0608fbaf4ed5421893bd4631",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2090-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20901&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "1dae088c1bce2cbfb391275c546f0cf6427cf0ca00e61ff67c2469761a1297a0",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-20901-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2090+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "c7bdf9f5c9bfae0dfa57f768671126f7b5011958915ea366f4756438b4472823",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2090-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2090+&lang=zh&inqudata=Groups",
+      "sha256": "94557fb964ac58e966f557aa55488b50b265f00c2f510b88ce8906859b175e64",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2090-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20902&lang=zh&inqudata=Groups",
+      "sha256": "356c95e920016cfbf821fcc2eba6721dfae83607868d4f9f2ae439884b2185ce",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-20902-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20901&lang=zh&inqudata=Required",
+      "sha256": "fec6ae5b0def30928290de3120caf52a5b7faba9ae1ad781a92fcf7083215f3f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-20901-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=2090+&lang=zh&inqudata=Academic",
+      "sha256": "57699cbc9f3281b5427a923cf0cd13a6090479d07df7eef19308088abca45895",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-2090-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20901&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "e76bed52e525f3a4afd1f094f4e48bfe719b81f4e17b50443c3e61dac4dd8182",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-20901-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20901&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "9b790457b98e7d7786ad3a4360cccd06b061bd1b094811831b8c8ac3f8ca6233",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-20901-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=20902&lang=zh&inqudata=Required",
+      "sha256": "913a61066884066c62118e839aa74ecb66964d106f6e5f82580d5b7feab13aeb",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-20902-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3023+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "d753ea8358ac698092a77723f3f48dbea46d7a384d19cb8ee39e191e018d8aad",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3023-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3021+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "3cf13048c5b1d312bc728c630500b86cc373c3da01a837a0f8f0e4c9c11d385c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3021-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3022+&lang=zh&inqudata=Academic",
+      "sha256": "e3d469875ff93c42bfcae775d8ed1206c4f8928a2a81c5989c2664dc8e6b417b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3022-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3022+&lang=zh&inqudata=Required",
+      "sha256": "cffac3fb87a780b2ad2a37a33c8ce528a57187190b9a0bf2f6d13e709fe9644a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3022-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3021+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "84a1b18b77efc5511f3db15938c33cfabddc3cee0564a63e93d1f16ac9a999af",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3021-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3023+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "d526977b814b692840dbd8997a177a0f3d9c181d2c7d3754d38616359ee0470b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3023-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3023+&lang=zh&inqudata=Academic",
+      "sha256": "34d7a207ae46a988f29288a1a4a0c0f2fa745c6b95d1dd8b64e4aca09e70609b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3023-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3023+&lang=zh&inqudata=Groups",
+      "sha256": "29845c3b10b4debbf19fb85c9679e189bc6caf3da649c34f9b436e1a7e8d81a9",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3023-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3022+&lang=zh&inqudata=Groups",
+      "sha256": "968a8014b71edc1ed5737dad02b619b145d8c74437a6e51d83ae8eea122d6a13",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3022-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3023+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "1075400ce75f0c10ad124c1a3437809ff1724f519f9466db98e8d755e7fd7481",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3023-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3023+&lang=zh&inqudata=Required",
+      "sha256": "98778c7bc459917196e367d6a6329b72237dd090c7ee479e7c5976e693a3ee65",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3023-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3021+&lang=zh&inqudata=Academic",
+      "sha256": "ed7c1eba5109d342411fe76ca473134b0ea567e22d0b0672cf3de55ef1a58f1f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3021-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3021+&lang=zh&inqudata=Required",
+      "sha256": "8a30127357440ede0efe2a6e8b7568d0e3afb16784fa9a46d61ffa64836c5706",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3021-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3022+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "778b90113ec2bbfacb12938311d9d1eb79608c161da202d7935900d6161bdb87",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3022-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3021+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "81dbe76dbd328c7d6046649f44bae35d4372f6de2dffb70c9bd736220bb99184",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3021-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3022+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "a974a9fcf299865e766b63ba075b1b2a1223bcc37b834dbf25adcee41f048029",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3022-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3021+&lang=zh&inqudata=Groups",
+      "sha256": "0d6401bda0250256658b6a12db36951d9bddee7452f2c24be00954f2fda0707f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3021-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3022+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "23974a2d07bcb8a093eb92b6f9d3a3e064c8073e961fec2e50d08d64463ea582",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3022-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3030+&lang=zh&inqudata=Required",
+      "sha256": "255fdcbac45121af18e614e2adcff1d4c1863c0144f09c426b49942c1f1404ae",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3030-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3030+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "6d987c9f6369889d13225762cbe8d34133a24e273762ba58fe524fdddc97a000",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3030-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3030+&lang=zh&inqudata=Academic",
+      "sha256": "4a33f03518512d722927f64f4d65444cbcdd90471551514f1cd3275b4dad3f15",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3030-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3030+&lang=zh&inqudata=Groups",
+      "sha256": "1089ef4b386e585283fa54cbd3ff5f93bcf8d19036d30537fe730a373dd47e52",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3030-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3050+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "bc07dccdf4c38641cd3038f7f69c390ac724ecfdf07b132bd1c9a3697dde0691",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3050-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3050+&lang=zh&inqudata=Required",
+      "sha256": "d4ceb860e1af9d67a7a8a96008c5d2a3c0e56c3f234d3689d9bedbb4fc1aad23",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3050-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3050+&lang=zh&inqudata=Groups",
+      "sha256": "f66a7a6d983113719cdbf66bbd2ca4a36a09d41c583f24a23d922baf93e08c31",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3050-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3050+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "e5ac373f905bf435fbcef174985681f69f9d87de5b70b609505164958845ba8a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3050-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3050+&lang=zh&inqudata=Academic",
+      "sha256": "5ff022182b38bb700eaa99c2b171b6a7c3da7c90569d33007bcadcde4a12b4fb",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3050-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3100+&lang=zh&inqudata=Groups",
+      "sha256": "e5f41428e994b3fead314316d0f5befd9788cccc97be221232c67b1e1c0d0cfd",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3100-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3100+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "49c003de97b0686bb9e63feaa03bca371ef2444f5d81248e1a576f47e240d048",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3100-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3100+&lang=zh&inqudata=Required",
+      "sha256": "1a231f05bc68120172bc02a3b01b517958106e40204dbbd07f24c1221c1ed423",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3100-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3100+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "e9aded352d1e98f5f84424f1b217e3f1053e8a4968a3c8faa2df0f38a5b8a078",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3100-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3100+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "c02d7fe97a9f9208e5c2e96a17b9a6081b3f6d5b0d087e0c98e51b0e674fcf37",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3100-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=3100+&lang=zh&inqudata=Academic",
+      "sha256": "da1ad5fc6ec7991cc08da7faa7ce49ab4b6e9588cafe90f3bf04132faacb7818",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-3100-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Academic&MSLGRD=5",
+      "sha256": "f4ab33846adc00bd250afd2a575a06798613315f6e72ed891d607fcd84e858a7",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4020-Academic-year5.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Academic",
+      "sha256": "972c68c7df72ed3c9558723a024a1a8c7e598a48d4d01ba928061a3867b59f7e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4020-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Academic&MSLGRD=6",
+      "sha256": "94332d73acd70f8ae4bb2d930904779dbd30f253072f1d4b2e6be17ed338ac67",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4020-Academic-year6.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "0fb83b182975256f2d7f4079c5600cec7e9fc2d2f8aa1a36685879f2a3e30d5c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4020-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Required",
+      "sha256": "5df22e0e9bf4b33501f38f01e89c7cf99ce5daf025024bbe9c6bd438cc0bf6c7",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4020-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Groups",
+      "sha256": "8046afcd5bf1be8bdc0b701923f1376c52f0bc13cc1103d590a88d6a4254c2ef",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4020-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "dd085e0af993aaf6706fbc9dd85016374b8c2ccf3e8a4c75b4825139520b37a7",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4020-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4020+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "f0bbdf10523e5b5d61e6ec86da7d67b71767625bcecc89a79f51e4a7a78a0aa7",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4020-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Groups",
+      "sha256": "b7d142b1da5017a139bf1a2b5cf3efe9f8c1bc118efd69b0191d05fe7ca3fe07",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4030-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "600fc302ca21b4b943fb99e979e5854c369fc89c6933520c4dde4cab68ae2903",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4030-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Academic&MSLGRD=5",
+      "sha256": "2e928b1faca78236976a21c9f0a701c60f420da9c44c885f32982ebf37d79406",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4030-Academic-year5.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Required",
+      "sha256": "d50b496642fbbc881870ea0d68a7a6d0c8756d99094fb9e85d59d9efd5c562df",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4030-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "58ed1072227e731b638d29b7ce0a2bcb51773fcd28020ba2552ac28303c4d3f0",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4030-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Academic",
+      "sha256": "f99ac6f6bad2255926bf182f3da7411b1b46ccc9f191525eecb8ae361621b34a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4030-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "4e2bfe4ab5f19dcfe7cf2f8cbe7652868fa01cccd70f48f0f4453290f9b64300",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4030-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4030+&lang=zh&inqudata=Academic&MSLGRD=6",
+      "sha256": "a2d256e2f62a52ba8062936bc9c81060821b8b2c95586c9467c91889068785f7",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4030-Academic-year6.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Academic",
+      "sha256": "a688cce7637bb4636d6a77fbde6f2d70f1eaee5e5cff729312ea81cad0c99137",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-40100-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Groups",
+      "sha256": "742a7c84485c0f349542f16786f33ae6061eda7d1d8fb90918bbe9e0b3ac4bda",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-40100-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Academic&MSLGRD=6",
+      "sha256": "cfb6f0504dbf328615ee932c487b19c0b20dfd04cb25d39d808075e7824af159",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-40100-Academic-year6.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "27ec29f542b80cd5f2cbb7097a9704f9a0a4dba424c038e037dc67450581d651",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-40100-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Required",
+      "sha256": "dfec3fbbaec1a20a49e9e8b727881b891acbad7d59457d7c3e6bbd41d4a35d76",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-40100-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "88d95ae9700d3bdf8b051aa31e1556f67f83291d642079deaea3e4a3eb562021",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-40100-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "08cfcd43a9b78c9f50142fd0f1e25b9d34c72ecd8e9882a34f49a44ea3e0c2cb",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-40100-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=40100&lang=zh&inqudata=Academic&MSLGRD=5",
+      "sha256": "f02896b0211e277294275c508ea318dcc455078a49cda576e194ba23e7d247c0",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-40100-Academic-year5.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4060+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "44d21a3ad3dfe975b2241937c507c74beb96171737745ba8650994c06b862d30",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4060-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4060+&lang=zh&inqudata=Required",
+      "sha256": "3713341582d4e7fc768168b378702cd9fbade3226d9ade68e817bd27a5f7802e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4060-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4060+&lang=zh&inqudata=Groups",
+      "sha256": "8d9e2dfb5a624ca0b9d3ade131fb2d562ccad9ecff84ca3b834657cb7e948025",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4060-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4060+&lang=zh&inqudata=Academic",
+      "sha256": "5910c9bc031c0b011e70a4c2aeadc8c88c64554a8ab1ae68858474c9cb9060c0",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4060-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4060+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "d64b1713176bb35cf6715d724b9746539ad77843bb64031318a4a0cb2da4ff8a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4060-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4060+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "24f65ccfca1b2126cab233778a9e714b7d4b37b93c630f2be7f8938b2e62d943",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4060-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://exam.aca.ntu.edu.tw/sdbsn/115/brochure/first.pdf",
+      "sha256": "b0aa45711130014bdf3cad6cdc42a98b4212d271569c464a61ada598f4fd744f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-c409dbaefaef0be26a.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4120+&lang=zh&inqudata=Academic",
+      "sha256": "35721c2f33cf7a4cadb603ee69bc04aa41d81a4f6f98dc7608ad9ddd2eb8af4c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4120-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4120+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "d63a637e989b7d1cc37580afcdf1a21c3e656bf8ff7c141ac64ea708921ab8ad",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4120-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4120+&lang=zh&inqudata=Required",
+      "sha256": "48a902a1332f5cfe2a7448d6c0f959890b9685e77887a81e827ad8c1ef06cdeb",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4120-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4120+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "972e2bef26102f56da28e273ccbd052f151a73bd10b23a3a0aa21c2b69c3198b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4120-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4120+&lang=zh&inqudata=Groups",
+      "sha256": "a2b04d427e4e92d979bdbdc2d4a9f621da590be38d1836c7867f24ab49f2e4fd",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4120-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4040+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "e56b646f96833d8305e6dd0f8f05c9161bdf9a849fee04d3b617a49b1f45909f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4040-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4040+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "236b6f26b96dd19c6293ec273ee710a16fa988659a21b13c9c6c536ab5d8187f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4040-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4040+&lang=zh&inqudata=Required",
+      "sha256": "de73e3d7cc3d39f9029214d3b25b788922ae139d3048a52b41d59d46cf6330ba",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4040-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4040+&lang=zh&inqudata=Groups",
+      "sha256": "d68cd2a0a1af4f341053f3cc1d49dd6810393228ada1be5363f860f96f6d4998",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4040-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4040+&lang=zh&inqudata=Academic",
+      "sha256": "da824579b46ee7b7d31ba638ee061fd62bd6b98cad76b7d3d7878cb2731709e0",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4040-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4040+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "7af2442b718faf45c209381e7e6d6247f1583d12133cfdfbed3070e290d1dd77",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4040-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Academic",
+      "sha256": "d43a8658d9595bfc31bee94e41876f99451f31e291fddcec8da653304e736048",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4080-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Groups",
+      "sha256": "477296c5a6ebb40b1d05d52def3882f8b673b20f9a727e1bba24dd3103a67edb",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4080-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "5d19c34b04f8062d474b6d3b0d46cd2880e8495265e2a470b19443f5010d8df2",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4080-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "f8cdb8a4d5081815b15be9eacd3d85e307cb8ac158f34deff96994b8ed380691",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4080-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Academic&MSLGRD=5",
+      "sha256": "6287ce7ae3b1508d38d856c3f2341cc12f410cfab21561fac83dc14b76788b45",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4080-Academic-year5.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Required",
+      "sha256": "2d7db60a0b9e9551b5d6cfae8b0484bc61954433eb17459f1d808425933b6eb9",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4080-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Academic&MSLGRD=6",
+      "sha256": "8f04cd1325a7490fe051ef4f53f88b36370966568f34fccde58b166125e3d91a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4080-Academic-year6.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4080+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "979763dc59169c4ca1b3fee8884e0be9c3cbb061dc86cd2937e182b66546dc8a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4080-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4090+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "9db7987f3d649723682b4359a8d3020d1fa8241689161e28f9fa7c2ccd808e6c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4090-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4090+&lang=zh&inqudata=Required",
+      "sha256": "153020149c10cea8df1a21b6fcb02b7ffc2a6ec3671f2bc53349bf3cba69a5e0",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4090-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4090+&lang=zh&inqudata=Academic",
+      "sha256": "943b8b0467d07a51335cf5e8ad63e01a1e62f79b8c2900906c2d27413974b79b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4090-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4090+&lang=zh&inqudata=Groups",
+      "sha256": "f74b4b8c6c5fce7812c8afb0cd12f945ea29d91ffe36bc2e48e1d51a33997fee",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4090-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4090+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "47a8ee625b4bb936bbb231d789619ff7a3054090c26cb22633a5d54c0c643276",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4090-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4090+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "d914922ded48508aee6675a53ad20ef0394c24f5a1745522282f15c560ab359f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4090-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5080+&lang=zh&inqudata=Groups",
+      "sha256": "26d56d5c0ece8b6c8424931faaac2f567ec6560f97d8e090c43505e2ee7debc5",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5080-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5080+&lang=zh&inqudata=Required",
+      "sha256": "1d5d3c6afe1d970e045629c96675cd67eac70972216d2b5d89d45cca39202d65",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5080-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5080+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "4770255866e2cba7df11afcd1641260ce9fc317e61eb6e4023fcff8a22f7e6cb",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5080-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5080+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "dfc1c5233c938d6d943e135c1440e3fecc5e67110538b8c8dd530297bd6faff1",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5080-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5080+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "5ad072029c7d0be214a90a78c513bc9cc5715e89fa86e74db8a5fc777a19180a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5080-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5080+&lang=zh&inqudata=Academic",
+      "sha256": "cdd63052a9ca5ed393bf4dfe0bec66da543c127571152e9dfcf9c28f875c2307",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5080-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4130&lang=zh&inqudata=Groups",
+      "sha256": "adbe6d4f875ad3cf2fbce95469fd6753f74d8c8c6e0fec9d641bf82e39ae762d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4130-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4130&lang=zh&inqudata=Academic",
+      "sha256": "91aee5894d6270bbf29820669ae71faa851804fbaea95a748286abbd7345349f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4130-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4130&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "70ff33fd696acaea6968624702fa583f0c8d851baa3b3a076bac4f5210bbdd45",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4130-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4130&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "b5c3e7136a3512c406ea73e9e60bb880e2c33676eb8733e2746f25be50950baa",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4130-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4130&lang=zh&inqudata=Required",
+      "sha256": "9e98d7b4f690aa89df9648984632b7b8b338977803b36361d6a55b252753ecc6",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4130-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=4130&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "fbded83e83eab4753a2b584b7b50179eafd32c3e7d87357dc9441fd33722c152",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-4130-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50103&lang=zh&inqudata=Groups",
+      "sha256": "ea567a72ba039bb5ceb6bd2b70e5186b753b99b7c5d66921bae2b852e92ab38c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50103-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5010+&lang=zh&inqudata=Groups",
+      "sha256": "50a583471e298acac1e1f4c8eb95ad440053c70cd4080edc0cce3755fd84fa03",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5010-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50107&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "d8a99969449bf4c4b36ad73e0c83d49073970db154fab3437f79a02ca2c1bd93",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50107-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50103&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "ca849942acec7492f4bcb7fc284447d5bd65c26748cd684cb4dae2bc726886bd",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50103-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50103&lang=zh&inqudata=Academic",
+      "sha256": "f36c9bb61a01a3c5e98c7b4cf5734444ff900add4e2bae7340d967ded6d7d539",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50103-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50106&lang=zh&inqudata=Groups",
+      "sha256": "4c90a227c4ee01aed9d7b3c487eb5acb1cd9fa8e427039cc6519e1995878d826",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50106-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50103&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "098dd90237e31baf2d892c48244fca7df6f187833dd577a877f370e9fb6924b9",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50103-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50103&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "ffc05d046ac9168e13f6675f892821f97015feb6697193caa292120bb117be4d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50103-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50104&lang=zh&inqudata=Groups",
+      "sha256": "0d60692d7b317227e8330935478d64cae7316c7285235b4811746fb2ad7db63c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50104-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50101&lang=zh&inqudata=Groups",
+      "sha256": "d8e7b7e2fd43049377b46e11eedf67206aabd1d79dfa7cfe253b16ddc8dcef14",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50101-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50104&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "9dfb80b2ffcab148d7421783da79e217a9e057d2a1a409d04fb0b7b67640f98a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50104-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50103&lang=zh&inqudata=Required",
+      "sha256": "26bff32e3baec9831c431867b58c67e6fda6b52cb2d2cfb16075c2eaf237129b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50103-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50104&lang=zh&inqudata=Academic",
+      "sha256": "2f6a1123017c785bb0f14139285257d39d4714b6b38b0e1069108f420d0c49f4",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50104-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50104&lang=zh&inqudata=Required",
+      "sha256": "fc8d47cd6f714803dd83bf9f99cf7da0d837836ed21592d0a32a310c8285df3b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50104-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50102&lang=zh&inqudata=Required",
+      "sha256": "3697a9ca0ee2690bf466c22abb6417cb2e2e0004e1e95cf74e58445d077f6a5e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50102-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50107&lang=zh&inqudata=Groups",
+      "sha256": "482045ca08db9c51573a254190004d62a4b97575ac816d08a614b637541ec22d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50107-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50106&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "3d834e54f1c5059c4e701b61485faaa95f57ff1351fe474e1ff6a69c44c315c0",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50106-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5010+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "4d121e002d62c74d8b70f25accdbd9be61f7005c9d12cf206724949c0064dbe5",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5010-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50102&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "299446931634a15bc36e3bba468bb3482227a08f1098f3cb698ee989cc05e8ae",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50102-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50107&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "36863dbe7550aaeec80c3671f37c0906ba0ad01fa3c0b92d3cf344924b6c8dee",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50107-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50101&lang=zh&inqudata=Academic",
+      "sha256": "fdd877517cf5cebd3f7f412be42818754856297c8a979efbbc5474df86c18938",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50101-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50106&lang=zh&inqudata=Required",
+      "sha256": "5b4b42da878c6d9d584688e2c222d60b54924126305af241f5751039f0db1c66",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50106-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50102&lang=zh&inqudata=Academic",
+      "sha256": "203b78296950656373580207257a6149bc375a57b1e9c5e734a138f873d40022",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50102-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5010+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "25d858fe538b5bce2aef79a97f0be5d18eac2f9b5b20c2acd9e53f891160f0b9",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5010-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50101&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "4b13fe20fd315785fa34c027a7415812d341b5b7d4d2401511befa46f64e4feb",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50101-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50101&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "94dceec5162ec8c80cd8d1cd976c615999c5a7e7e1fea75a168cbd5a6522f75a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50101-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50106&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "0f4d8af412446a57fa67fb554660a362838dff55c3f9b5a4dc62c993ff715e8e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50106-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50102&lang=zh&inqudata=Groups",
+      "sha256": "dbcd1fdc1844ae409db4d87b1d4f4b0d0831785060f1d60771df174bb46182ce",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50102-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50101&lang=zh&inqudata=Required",
+      "sha256": "198c5e32afd16cee6ac440adb9399c394dc08303bf7fc44035f4525f21572046",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50101-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50102&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "cb6370080f7793f7a539553269c08bc4c2efba8545bdc9d5cc28dc1a08ad6d4c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50102-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50106&lang=zh&inqudata=Academic",
+      "sha256": "5b01faa6104c704acc5e93ecdcfd00215d0983461c0a0aa6878ae04d4dd39f23",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50106-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50101&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "87e1980344dad55f30ce5d11181f07959f2d5d43478a2f77928756f92fc727f2",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50101-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5010+&lang=zh&inqudata=Required",
+      "sha256": "8b531ff70420126b8d3cf00258c808fef3baf2f3ff80bab88c38dda05cb43ec6",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5010-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50104&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "d685dc8f69a7d71f14960a30d29c1cf4c85a7bf388c7d7da0749e98e10d8d311",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50104-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50107&lang=zh&inqudata=Academic",
+      "sha256": "381aa5c79d9b9a6053eb9b2cb5a553896425ba9bfb17ba45058988c176f3b6b9",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50107-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5010+&lang=zh&inqudata=Academic",
+      "sha256": "d9e212edea51175ab5987bccd14779b6f2e875b09ac142ee3f5d8addc53b2595",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5010-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=50107&lang=zh&inqudata=Required",
+      "sha256": "8b2ef685d787acf8dc59b4507f0ddcc4557e9343257cf8a442fc3ad6961b018a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-50107-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5020+&lang=zh&inqudata=Groups",
+      "sha256": "cf6ca31c3b6f3cd29ee2e5649d148321634d3473900d2d094a2984a16c67bd48",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5020-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5020+&lang=zh&inqudata=Required",
+      "sha256": "44ca8221437a071a172b466601e5e3b0fd68643ef86f114cba8a468fc9dc5667",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5020-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5020+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "f404cead2b0822abd4e491fcef187035a0e7b9fb6fda6966ae545878a917f6a7",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5020-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5020+&lang=zh&inqudata=Academic",
+      "sha256": "da59db9d41fcadc70460338441abde17a0f5a31dc1ced113b5713d3d676a7871",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5020-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5020+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "b2b303f312b0ef9357bae909297e7504912b1da001ca45ea48b4b4d5007fb819",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5020-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5040+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "d77bb786cc2881da46ff247233e825f7a76c7ba6ec0219e85fd45994179e1fb3",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5040-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5040+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "a565c56b16b097c432541b193e738b884bddbb5ed947a2128552ae5e5023adda",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5040-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5040+&lang=zh&inqudata=Groups",
+      "sha256": "63e4dcfc3afe1f55505759fd4ab8f98fb75ebd943342188a6122727bb202725f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5040-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5040+&lang=zh&inqudata=Required",
+      "sha256": "59c2e49a0531c804629e672e48434fd9a859f690d8a62336de5f01e29fbe05b0",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5040-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5040+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "e1a55db0f9cf119525f943c7fcc672f35e4350f3657758362b048d29a0105193",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5040-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5040+&lang=zh&inqudata=Academic",
+      "sha256": "1ea54af3babf8554e5ad2ca3d7e6f07412ac9dec33d0b24fd299015dbc36ff09",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5040-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5050+&lang=zh&inqudata=Groups",
+      "sha256": "7c7aeb82d7fd27b9f611e560c836547adb7428df8301ec658d101324a6bcca99",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5050-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5050+&lang=zh&inqudata=Academic",
+      "sha256": "f0117389b3c8e615ba2aa69db816df967413935791f5f564e9217d0f5b15b06c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5050-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5050+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "0eed377c3a342c3db0114857443f2e2634836cab8fa63f9deb1c2b995c96185b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5050-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5050+&lang=zh&inqudata=Required",
+      "sha256": "ca68a9da2821fbf674da3b9514010bad359d4a2d7275cb0d1e55de96c3499561",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5050-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5050+&lang=zh&inqudata=Academic&MSLGRD=8",
+      "sha256": "83e9d8db96273374dabcf466d09a3a02d4304741b7893908a3cab293049844da",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5050-Academic-year8.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5050+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "be5316a59c7e6cf5a1591883d790c28c3513c37200dae81372e80d93979d633e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5050-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5070+&lang=zh&inqudata=Required",
+      "sha256": "3926a831393ab0f6edd31cefc9cda82f2ccac221cbc80d44f0a121f47b9e7828",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5070-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5070+&lang=zh&inqudata=Academic",
+      "sha256": "6fc8404f735fe837076f69d65aaf0cf896f163175dd2a74dfa67775ae9b7b908",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5070-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5070+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "a59c2b45841a12a6f022a9269a1578fa7ab36438e75ef10151febd10de734355",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5070-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5070+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "98b9fb404b25e66d111cf24e3327774c2518b10fc2f0809c416ba6f7438cd850",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5070-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5070+&lang=zh&inqudata=Groups",
+      "sha256": "2794652cb4f29db43c27d26036e8c5ae4cfc643dd22c70fcec99fb567396c0bd",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5070-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5090+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "26896384a73a91e620a765107c7c45549b9e21654218bf16e6e48f00cb415aab",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5090-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5090+&lang=zh&inqudata=Required",
+      "sha256": "e07f8f725550d2ed5cba2052c109dbd80f42aa6bc172e805e59485584265b867",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5090-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.eng.ntu.edu.tw/iet/cl_n_182557.html",
+      "sha256": "2cf133afb903cc3cb9f6fefdeaebe3cb3fd9507526c06d63995a49b259db895a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-1b8deacb99f17b1146.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5090+&lang=zh&inqudata=Academic&MSLGRD=8",
+      "sha256": "939b3f0f1c60bef913d00317c35c2e1bc37842b2b64f89df47dc3af9aa1e4f3a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5090-Academic-year8.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5090+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "bdef609bba56643372a35475db68bf4cf0071441bac21569e17adb18fab2c81f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5090-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5090+&lang=zh&inqudata=Academic",
+      "sha256": "5c16ecbefe8194d9bae415c49e1fea426be1d418db22e7a15830addc72856559",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5090-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5090+&lang=zh&inqudata=Groups",
+      "sha256": "f8a37fde2b9d4d1f272eff04cf227d29d3619fc5fc59cd871795164fb27a2f70",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5090-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=5090+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "37a01d67436085c63b6e9a01713318f6fa8a92639e69e9d51fbfe505164821bd",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-5090-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.eng.ntu.edu.tw/iet/cl_n_182543.html",
+      "sha256": "15f360e1ae6eb9ae15250c4d5dd6f779213645b51750623f329dda7cd4e03b09",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-fc4480e461c4d230b7.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6090+&lang=zh&inqudata=Academic",
+      "sha256": "02c9a7a7d6b686e2ff5169e99f94e8d249e5d2f3e97f48209a31ecf9630f2993",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6090-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6090+&lang=zh&inqudata=Groups",
+      "sha256": "8744c4f55e5021d07015f2757539f458df0984a02b64f0c7b8939f6e4637090d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6090-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6090+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "06d24803c05f30284a28375753ad089b1542b2475cdccc36b1f925a8a637805a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6090-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6090+&lang=zh&inqudata=Academic&MSLGRD=5",
+      "sha256": "7f9b9a4d58a158251320ae65aedf9b0fccdaaac29555bc2592887ca9e71766f0",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6090-Academic-year5.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6090+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "2858ece026d4fb38809f73b20608e91ca5d0a9676463d94ab66ef97c43b1da02",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6090-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6090+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "ff507a0815c99d6466f3adc3357e153fb4bce2a0ade799907183bdd1b42d8cd4",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6090-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6090+&lang=zh&inqudata=Required",
+      "sha256": "02db60d9944a9ec92ae489dc962710bf2e77e9bfcd84ac72b97e6dc46ab8a543",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6090-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6010+&lang=zh&inqudata=Required",
+      "sha256": "b1170c068610d56c7fd418bf72dd88cf89a5e9be132901359d26d62734eb0ca9",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6010-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6010+&lang=zh&inqudata=Groups",
+      "sha256": "76ca53385f95502b0fb1b2cfda0ee69c6fbd1c687708f718d33ffb763eb6f2b1",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6010-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6010+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "75f862b46e1476bf1a7273e4c062f1c9a584caec29471e322fb8908aa8fd2795",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6010-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6010+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "b9809fec723788afb9516e2cace7f40725e7222a50a7ad9bdf0442e08753d36d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6010-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6010+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "53a27721b8e5bc00d9cf73d4cb309367a8c23bc91cba104f7ea5a25334deccb5",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6010-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6010+&lang=zh&inqudata=Academic",
+      "sha256": "a3c76798517cc0eedefac70951dae886ef9e8b67bcb99033e632d143c72f92c5",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6010-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6020+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "58c6854b91fbada8040342ee693e9330632a4d9e96f7d15637f7707cd00d97bf",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6020-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6020+&lang=zh&inqudata=Groups",
+      "sha256": "43a13df28bc980c04adb83be8df184a6463a92859256fcde31f0a82de93da1ff",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6020-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6020+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "c633b497a2f2308e5739bbd1588f67645dcc7a826f5847b0cc98507567f8351d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6020-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6020+&lang=zh&inqudata=Required",
+      "sha256": "dec34ab0ad7aedca558b2506c070ea9a4d38f93fbade0adc29cd76bdde0673c8",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6020-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6020+&lang=zh&inqudata=Academic",
+      "sha256": "2881caa29a2f8db29afd490767fcefda8874097ec3a8b3e1144e2da29345301d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6020-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6030+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "97bba24afdb0e194821554d8d627d5291f512ecc7cc18fd53c9bc88bbb08f2b0",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6030-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6030+&lang=zh&inqudata=Groups",
+      "sha256": "57f1de6c99e139f29823a1ac74e9da362f6e0cd59ff8cd750745e696383c6824",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6030-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6030+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "f996bb7fb8e5e0ed9fc0ca3b86ec3fea0a764502bac1d15501dc81ddceeadcb2",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6030-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6030+&lang=zh&inqudata=Academic",
+      "sha256": "371363a86780ba69176f49f1d93cd11fae0116639c8afe8cda661063deb847ec",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6030-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6030+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "3a6e82f6dbc3330ece06d7c73ed57c47e8d2e0bf6f01e5fa9b77f3b1a57439a8",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6030-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6030+&lang=zh&inqudata=Required",
+      "sha256": "48cf2f75c30c327e5e152d55f76851beeaf5f33fd26df0548443c15122e6d7d5",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6030-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60501&lang=zh&inqudata=Required",
+      "sha256": "debff2c044de7395486ab6873591c09e7a5a656cb216a0e34a07ab99fc3dfb94",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60501-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60501&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "5f6e6c727b3cded4285dcea0cf78c5506743a2d8cbeb2f70e9d94185870db23a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60501-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60502&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "7b0ffdbe5973bd483ac438ab8a4d619ae6a4145a82da26d1032fe14bee858905",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60502-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60502&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "4c4bb246809ca6201fb0608cae8a9718fca65465ffb1539abe5cd0e486049504",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60502-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60503&lang=zh&inqudata=Academic",
+      "sha256": "666dd1664a1ead40dc2b450f17671d62acc0b5f5c54400c9209734662e5c9720",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60503-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60501&lang=zh&inqudata=Groups",
+      "sha256": "4c4c203ff1c2ceb2bd35c42e4106f2bc4772923d7038a7ef0ec5aea32d3aed3c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60501-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60502&lang=zh&inqudata=Groups",
+      "sha256": "4648d4ec7017fed84779413e75069e87c8f296927bc2931e9703c876e7571ffb",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60502-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60503&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "998049f0a0966d2a41eee1dc3fdd133cb9b1621c273d109f466796291d6f2915",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60503-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60503&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "f17721a50f32e7948cfdc0c864616075f7e9abce3f2d888917d4d4dd72b5548c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60503-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60500&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "7825f52b168e12e96622ca5b4e33490ef975e392504c416dc951bcb1627eb3fc",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60500-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60502&lang=zh&inqudata=Required",
+      "sha256": "8b1a139f36428569d849d3690df81c83fcc21f3647207d1b7f3e09aa1f34baf8",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60502-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60501&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "b1314331c0e8d822280e7c6afb1b6e2a3f79f15370849febadbcbb1d8094f4c4",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60501-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60502&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "411e1df27c2dfd5a69b413dd3f07422ecc338fbf578a9788eaf88abd26646fd6",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60502-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60500&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "73875c851af4d5200cedcc821338ed7e06f205390382668aaad2801aea7016b3",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60500-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60503&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "70101a8c63fba06fa4daf4e7bff3671abed9811dbb760684af8d08bd230863b5",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60503-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60500&lang=zh&inqudata=Academic",
+      "sha256": "1567d14e985070c044b58ff7367c27b25a010d47253b038e16146652ecfce41b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60500-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60503&lang=zh&inqudata=Required",
+      "sha256": "6b95dc40c640c206870351ce462b93c17485ccaa001c260b77034b2681fa7526",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60503-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60502&lang=zh&inqudata=Academic",
+      "sha256": "43da6f7eece9cb2da02f18827c0a929a1f91c928f183f96ca3da0a718abc6e54",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60502-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60500&lang=zh&inqudata=Required",
+      "sha256": "9400e6da96794887bb423f5b8d0d2f150cb3dc30ab11a8d93156b20513e86b3d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60500-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60501&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "6a43116c32146d7b18f7bb129b5bb2f6d5fa7f79038134b752660173dc3b869d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60501-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60503&lang=zh&inqudata=Groups",
+      "sha256": "3be99a74f368466153c65e89ebb3b27402fb9e8ff266f8a2a3e2e97fc8a8ac7a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60503-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60500&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "28ef69c3b644bd56b9d620dbd277ca5e098b4849f7369cfe3b807569c12659e4",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60500-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60500&lang=zh&inqudata=Groups",
+      "sha256": "e90fb3b99e54e7f4c051b18074116f8f759daa7242a3784b3d5983eb73443633",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60500-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60501&lang=zh&inqudata=Academic",
+      "sha256": "2ef8ade366575b2887d66699876345b37fdb3aacc2c7312d0a5ffd915fcda9a9",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60501-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6060+&lang=zh&inqudata=Groups",
+      "sha256": "2d9787a9efdb927ca46cd912d42b385a5d33f6080d20b342d0998c2a4957d09d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6060-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6060+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "79e92dac384683049ea9314b5d48fab7fd1e74f7fbb7fb0f09ef5fe2c6558b06",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6060-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6060+&lang=zh&inqudata=Academic",
+      "sha256": "456a8f0d25de4d1267ccff3770db820116d5f5d16c893b82d2b17f195e1e4c42",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6060-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6060+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "3adfd8e848f686b5d80e3d27c22e59b3b03d3d8694c33351beb603ce96b9fc1a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6060-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6060+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "9707c4bb2431ee5f27a01a0f233893b208d3b2ab9b5c8e2869b472f07e590c80",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6060-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6060+&lang=zh&inqudata=Required",
+      "sha256": "68283e49bf8b335721671c3921586c0ae24d524ea81ea8fbfe955b33d5bd90ef",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6060-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6070+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "6cc4a9a3aa98a941b9bb794bf2ab8dd330451a5cdf9333dc2cdb44b79321f723",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6070-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6070+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "f1b7f56fbb9f9a96a493aca4b2c92d8eefcb4b8c188981ade144284b27c1415d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6070-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6070+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "583a05e4cb5e86fe9c8f2606a7bece5b873d894576e862130925ffc2016a049f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6070-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6070+&lang=zh&inqudata=Groups",
+      "sha256": "225b6c7916ad5c5a5559c4a414c48bb3b902bb14037471a5f2722212feb7c9ed",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6070-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6070+&lang=zh&inqudata=Academic",
+      "sha256": "65b9e5730a5407f491bcbcb1b8d3705d29108f7854115e9e8800315aa062a924",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6070-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6070+&lang=zh&inqudata=Required",
+      "sha256": "6446d6fbd573a77ca9c40d719d1c640e0864b25edcfccdb2500a0de31a787291",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6070-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60800&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "06646f16423f12c503643555a1a3ce30a38d9206cd62dc4174d15d343389141c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60800-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60802&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "41c76d7865a435636c4c57a0b05918edee9d3233237486f2becaba1f7caba329",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60802-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60803&lang=zh&inqudata=Groups",
+      "sha256": "5a3b4f73605dd0c0d239365c59324cb396e671bc2aa59dac94fd82041c9577c8",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60803-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60802&lang=zh&inqudata=Groups",
+      "sha256": "2a82827c0a6c01f390b89b7ca3354f4f5358a9eaca77159f96e7ee9a99d025f4",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60802-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60803&lang=zh&inqudata=Academic",
+      "sha256": "a0d69fda6f7cd831e0d69faf149f2535ef350146f688ac1178ddbb8cf356392f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60803-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60803&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "0c738720c8272f30b5ba3af985ae404741c7b675f3335f3fde897f8858138eeb",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60803-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60800&lang=zh&inqudata=Required",
+      "sha256": "d98e44d76fe468eb1c3ee8f62e953d60e392931be08674e9323f56a673d6ac46",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60800-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60803&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "a63b9b28ba715d3e72080c56d142de512ae8fa3b78026dda07e3006e15a52365",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60803-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60800&lang=zh&inqudata=Groups",
+      "sha256": "1faa65261b266fa07f26a9ca479e5edffada7a519424f490603e07419f8a5106",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60800-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60802&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "f608c1f575b927b2e2f1fbdd269d761e50b67c7f3f1cd7ab67cf05af8a2dc47b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60802-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60802&lang=zh&inqudata=Required",
+      "sha256": "b083843a2fd6e3132b97d39eb7457c8db8142e7ed0af36cdfebba252b1129e0d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60802-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60803&lang=zh&inqudata=Required",
+      "sha256": "18cb3cecb6fe18a8f3526704521c384cf09a5bd7066f85c5da33355fb0ba3b3e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60803-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60802&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "2ad8f69966d9d9862af1303a3e3c6a97342fd518444606ef69cc1d9cda044a68",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60802-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60802&lang=zh&inqudata=Academic",
+      "sha256": "8da28dad979da863d03b817ec79b056620a4a54195eac7e03bd77f00a2ba309d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60802-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60803&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "ff6b6c8e488d43c1a8ade34d5d200e4e1ac54a03f8c12dcf110563a1a4506807",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60803-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60800&lang=zh&inqudata=Academic",
+      "sha256": "ee93f53ddea9f152cae7f56cb130db76c9e414b3cc573d9b0a35681bde3dc916",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60800-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60800&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "1d7c20ebc4efb50276f55d8c48d42a44d7a5f26db01de43d1cded3b0eeae3319",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60800-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=60800&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "1dea31b2f09b2b6ea79982ddfe2e95c8ec842fe94b86738f48529f4d228c1009",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-60800-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6100+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "ecff22b3b562f15f186894d53406071bdfa7fccb0e9f5b3e4630abeca42e0e40",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6100-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6100+&lang=zh&inqudata=Academic",
+      "sha256": "486316086533cc31fd53c3eefeccb4ee2f92df9110c59a17dbd882adbe25ef7e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6100-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6100+&lang=zh&inqudata=Required",
+      "sha256": "f8a98b490810a486ab7c081aadb95427c09621394124ad767d225ec3018acdec",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6100-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6100+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "17eb0b918e6dcea38417e6640cdc1b6966292f8e63fa1702ecca5822641a1644",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6100-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6100+&lang=zh&inqudata=Groups",
+      "sha256": "1f52998de568b2f0d84068f1fec83c5aff8f7df14190de1a14538668b2c55f9d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6100-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6110+&lang=zh&inqudata=Academic",
+      "sha256": "b347d719d3af58544b3a377d04c0e8fe79f135e4e751c4a56ed6442646f8b70f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6110-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6110+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "a368616d7b35def97a0d03d7802abce9350f23939a7ea1053dba5d635e038ee6",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6110-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6110+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "bfff9a722bf06331ec3a6a657dafd6d8573d649a7880bd4425867e68898c8b8a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6110-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6110+&lang=zh&inqudata=Groups",
+      "sha256": "136c8f505afaa10afd6cd13e58d3a9bc70f8f4e1381c00acde3d2b80cfa3ba91",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6110-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6110+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "98b0080c7b3316e9b4de6b915b440dbde4cdd9ef20f4b4c919cd2590e1679ff8",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6110-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6110+&lang=zh&inqudata=Required",
+      "sha256": "4fe09dca7f5f5712c444c7850d4105c9f40836a0702d9e2516db6191d871fb2b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6110-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6120+&lang=zh&inqudata=Groups",
+      "sha256": "4b2d4768d348f8ab1fa50a39be6b47770520b258cabae0a444aed7a0a4905583",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6120-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6120+&lang=zh&inqudata=Required",
+      "sha256": "54c6929a67bf172bf1e79246caa35a0e9f68aeb2fcfdfe8da2985d69766508d7",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6120-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6120+&lang=zh&inqudata=Academic",
+      "sha256": "1b06a8b9f1ab5fefe293732f8efee6fb9bce7adaa868408709c72b5fa57f733d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6120-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6120+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "e8cce2062d353cb5113c85062bd540950d5a670d348094d4e1a530ce66e1bf03",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6120-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6120+&lang=zh&inqudata=Academic&MSLGRD=8",
+      "sha256": "841717555edb1101b235bf81de5285c72721df1b7cbcf13e987f92ec64839168",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6120-Academic-year8.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6120+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "f27d62ae3e0e1289bd8b60dc0a0c30b0e96abde89b2dbff53d86e84000f2c98a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6120-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6130+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "a4e20cf43fc83aa4065058a049cc0ba797679266461413e642f88434d61de099",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6130-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6130+&lang=zh&inqudata=Groups",
+      "sha256": "a626dd1bd3d6e91507bce2edbd764e90a0166002a68dffe359a5d7001a161847",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6130-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6130+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "9bc435fb72e15b5248f4c0b89a57ff7918e42aa3d285e98dd49de132226c9937",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6130-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6130+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "565037dae1963f623bbecb5b199cf7e5990916bf5687c9cbf7eff47f224fe8d3",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6130-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6130+&lang=zh&inqudata=Required",
+      "sha256": "559abb21a32758f82ca848863c12cbf09d192ea05751096e6783dfc9d4c6e235",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6130-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6130+&lang=zh&inqudata=Academic",
+      "sha256": "48f91f283d97e150fc4620c8843750d0edee58aab258904aa42c1ed6660d80ab",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6130-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6150+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "171584e86ffd29cff4bea6dcf7ec90693b115cd0cb46e609b956c0cfbbfd7651",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6150-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6150+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "355c14475e5a0f56e203ac5024598c2ef77785d6fa6528f636dd811a585be5a2",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6150-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6150+&lang=zh&inqudata=Groups",
+      "sha256": "ea7a82d2bcc46e0d87433cf95ecfa2a272b6e694e48b3550ca0bfd58aa49652c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6150-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6150+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "ebd53220774376978d35b45efe09b44dc2c0f50635077f11b5afa0d840cc1799",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6150-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6150+&lang=zh&inqudata=Required",
+      "sha256": "ec75e44fc8bb82307a0caca7edd01eda9525170e328692471a7e24af996bb0a5",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6150-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=6150+&lang=zh&inqudata=Academic",
+      "sha256": "394472ae0588a9a844d8fb8a8b8ae9db66061da7da1e21bc12b51141f23ea84f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-6150-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=70110&lang=zh&inqudata=Groups",
+      "sha256": "ef89aabd22a0959fc2fdda24745f9dd6a09e6b78c249c3ef369cc8bed7b949f4",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-70110-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7011+&lang=zh&inqudata=Academic",
+      "sha256": "a89686c64a7c806e11cf09edb20c415b3624b3858bceea4e3d7b223ca746fbd0",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7011-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7011+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "bace15d9a77d3914a3ace7f7195f4c5919dcba8d1ee64e742c94337af8c19365",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7011-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7012+&lang=zh&inqudata=Groups",
+      "sha256": "5fe941d62f49d669eded95cb137eefd1fc5b648dcde6a1304df3dd318f401d4f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7012-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7012+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "209f44aecfb56976b36e7fdc7f270e7adbadcaf81ca172dfb7593122a7de8da1",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7012-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7012+&lang=zh&inqudata=Academic",
+      "sha256": "d74cf2df76c4dec9e5bb141a229108394bd9563d5a8358463584dc52cb7e589a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7012-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7012+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "6c191dba97e62645bcc9b553a8b3c8b9072595ef7f58aeb56919cbb64cda12f6",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7012-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7012+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "f586f0cf54b91698e67e9a1a0dfa4d459258193f252ca7922d0db55f9384dc81",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7012-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7011+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "19517bbb65c8722768acec0b28f6621b8916c30de6a5cd37371db9120c811ce9",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7011-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7011+&lang=zh&inqudata=Required",
+      "sha256": "08b41fab0e1e32bedb97b430f601a48f4aabc452d1dadd1c0465cf6220f0dcc6",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7011-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=70110&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "447b2cc54851f86e6a59edd9371e614a7de65464f612f0ea297bb2007f3cf475",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-70110-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7012+&lang=zh&inqudata=Required",
+      "sha256": "6dae41c583ef2114dcbfd30f3ae07e902433db27c7ccbd8ed11aecf8d9f24614",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7012-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7011+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "57b52df6e6ae5141e124ece002cd3e78dff9db0083f1f82efe4ae4941ed9ed47",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7011-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=70110&lang=zh&inqudata=Required",
+      "sha256": "ee6dd7da68c8c0c983b900783b3cdbca3ac490d2a138acc17fe24447202df91e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-70110-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=70110&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "36afd61e5796c285af21c3fb53602150f6dc1fe971f9bce0dc3bbf0a3e033559",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-70110-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7011+&lang=zh&inqudata=Groups",
+      "sha256": "d1f02f67d01a46f2946f3f63328f4ad9e455fc7cc52a3ad1d5283dd391cebb98",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7011-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=70110&lang=zh&inqudata=Academic",
+      "sha256": "2e1779a9702ebf0b6d633f8a77c95301c92b858628f935f2d1805a886ee46bc8",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-70110-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7020+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "28b5162463a94478d56045e804a56eeeca1039425b47e23beb68f794d945021e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7020-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7020+&lang=zh&inqudata=Academic",
+      "sha256": "0fbdc7f96b6c0ffbf716d40ac35d506b71bd72855dac4c74f557d692c34b1b0f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7020-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7020+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "99b7ac1378224836f7c2441dbc5d0e3052a5d11f773a1be7c1cb147fffe7d91f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7020-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7020+&lang=zh&inqudata=Groups",
+      "sha256": "a7300e10c04fb20f4b86261478d1bf2b554ac73d1efbad0358863cfc78e235bd",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7020-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7020+&lang=zh&inqudata=Required",
+      "sha256": "a48424bcfb720efb4b66e4d8ba8342dd55c2a1e59423e28697112dbb9c4575f6",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7020-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7020+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "7ed5b44673f499bfb9ba919f163a848d866fffbb4542e1ecff44867d48bd6f19",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7020-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7030+&lang=zh&inqudata=Groups",
+      "sha256": "ce1e462cddc58dd2a47927d21523ebc1a3ab90667de75f2e324fee1c651a318f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7030-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7030+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "27966177944fe93ed16bec0979a4392f1b2928b76c16cfd3dcec655d70851ee6",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7030-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7030+&lang=zh&inqudata=Academic",
+      "sha256": "0807efcd2ec963fd2904c4611e81d2cf31fe8fbebd442fd097bc16cc412a5a31",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7030-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7030+&lang=zh&inqudata=Required",
+      "sha256": "52b5a036120cb04337a3aabc7262ed7a23e15723d4ba67794c981d7ab4ebe1d8",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7030-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7030+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "4768bfee7e22e04531b24f30c91bba8b7c433bc6a55300c3dedc0312e2302525",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7030-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7040+&lang=zh&inqudata=Academic",
+      "sha256": "e719b432a3eab926f44e23221988a13fa7f005095b0c33584a26bb625d3bc296",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7040-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7040+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "ef505f7403bfa1e607eca200b3701239f567ae5ef3831a633b92b63f2b2c2818",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7040-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7040+&lang=zh&inqudata=Required",
+      "sha256": "153e5b15dda775fd435e3a8bcff8095b6d682984a9e9022f753f1e66b6521ea5",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7040-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7040+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "21bc35048392cf1ab516b8d8e3b94089aea66e754e9bc5ab242315b2f4248e99",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7040-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7040+&lang=zh&inqudata=Groups",
+      "sha256": "0649626eee208368a663d148f25ce6baccf0a18ec41288d162759540651be437",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7040-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7050+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "2b98ef7b99f4b9992b1cc2b5088af4750f55b5e17f5ac9f95b0987f3b33cac75",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7050-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7050+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "376ce4243920d5e9ce6258284e42a690833f51afaf793739b20944756d35f82f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7050-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7050+&lang=zh&inqudata=Academic",
+      "sha256": "769b5fe3c677c8181dd676078a88a357c60a23b7b72d61af83a590dbf9d8367c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7050-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7050+&lang=zh&inqudata=Groups",
+      "sha256": "41f5cbbe36e9dd09bdd78fb33fc55e272d7209d89cf4085a5bedd4486bbfb7ef",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7050-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7050+&lang=zh&inqudata=Required",
+      "sha256": "bf2f5d13c764674815ea71166afd67a3ba6a074f496298cccc98072b4f2f8c5d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7050-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=7050+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "a12dc66225867a4411e81915910353ee2e240039f0e2ea341f8808d5e9011adb",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-7050-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=8010+&lang=zh&inqudata=Groups",
+      "sha256": "e2d84956b0b4b9685f501fd5fab24e282f1ded67a6bd5f2caa8dffdbe106d3ca",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-8010-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=8010+&lang=zh&inqudata=Required",
+      "sha256": "87bc72a7e656a9501043b111f3aa1af8ec3581b70ad2d7ba2c1f7a8ae071fe87",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-8010-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=8010+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "1030e1221612cd5f407580caab72427b86115a04229ac4e513c8eb9eb22144e8",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-8010-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=8010+&lang=zh&inqudata=Academic",
+      "sha256": "8bc4de02669e134ac86420822c8c38fa1b24a47d572f6ef2e374d912b455cc88",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-8010-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=8010+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "032d4615c14dbc781493e68cfcef36ee128466826dfd5d059cd363833adf514b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-8010-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=8010+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "21293888ff15b2eb9e499f566d340c3a56fe8511bb369d23334e3e8652dbfc32",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-8010-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9010+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "82e46796ebc239376b65d0b47ed35aaef97a42b487e42efdbd4da4f731d6ba29",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-9010-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9010+&lang=zh&inqudata=Required",
+      "sha256": "094cf2bb618a399b5fae3d0f7b4e6e063720d0d8704e2238a6b188a21dbdfafd",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-9010-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9010+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "bb9b3855e77610e01555e0243978bd58ca1fc14464f1f1f5c089dcf8a9c149b0",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-9010-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9010+&lang=zh&inqudata=Groups",
+      "sha256": "bbddf611fcbf7c8f6417f31f52fac50b615f8ac13902ffcfb67138f8e557c876",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-9010-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9010+&lang=zh&inqudata=Academic",
+      "sha256": "6728690b284fad1253f0b19d68f6c8cdcf2bb93386ad231f2f90d6406775648f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-9010-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9010+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "0ad9693a3c256a35c1818e608eeb04008a774b6b47a610b4c32c40703a2a82af",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-9010-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9020+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "f0cfe76be217677485a32943a485067885f9993384219bd5eac69be7de92e36c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-9020-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9020+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "3b7ec426bee488689b532fcdbc856853c91adecb7f814c46b22cd93781fc2ab3",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-9020-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9020+&lang=zh&inqudata=Groups",
+      "sha256": "5ee7859bf77d5a93069fa04a86e9bdf1d1635062c96ba5dd34bc064812536eeb",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-9020-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9020+&lang=zh&inqudata=Required",
+      "sha256": "1f81f05a76ef0039cbcb6bb57e0ad25b0cd5cf19057137b2f14bbb4e16d27bac",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-9020-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=9020+&lang=zh&inqudata=Academic",
+      "sha256": "6707d0c63e406cf1d34db197f6a2e04d54a6d2c5f2fe3c4b70288d13bc5f24be",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-9020-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A012+&lang=zh&inqudata=Groups",
+      "sha256": "1a5414d1dee217fb780dcdae802e81a65c3d40cc5a5907e90e8ac8a6af378b08",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-A012-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A011+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "7b246e1098a77b48d33948998b86026e52e721a8e6521ee0ff81e67070d9adeb",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-A011-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A013+&lang=zh&inqudata=Academic",
+      "sha256": "f5bfdaa5763198f099531a595bfaef7d05f76d689b3a87af58611ebefdc28f06",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-A013-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A013+&lang=zh&inqudata=Required",
+      "sha256": "1d790beeefae4105b2e6c538aef10be266bb9a4d12309c35d613d7c7f0acdca3",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-A013-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A011+&lang=zh&inqudata=Groups",
+      "sha256": "9d75fb79671667cd8df18e0f2afbd4bf597a163cd9de99db972c2522b66d7cd2",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-A011-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A012+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "61cc7927abba9ceaebd2fe820a11e552d58684d17806ae7146fca197eb37017d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-A012-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A012+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "b90b66936084f8d3e2ee74720d053f440294efd193ccf8409b1fa9c7295447bb",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-A012-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A013+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "1a4a9f5258f5292190e578bb95841ac1c28e20e7103f307175c0ccb703541745",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-A013-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A011+&lang=zh&inqudata=Academic",
+      "sha256": "567607db74b5dbcf50f47962a186382908865712f5b9b7db7efcae57b3e8c8d2",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-A011-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A012+&lang=zh&inqudata=Academic",
+      "sha256": "2afe11e5802937b9451d9705c23dd5187aa503478be5aa45e053b2c08da5213d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-A012-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A013+&lang=zh&inqudata=Groups",
+      "sha256": "8098ee85f28cc4d14a0276103d113c1f95f512ddd557c44c212642293b9022dd",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-A013-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A012+&lang=zh&inqudata=Required",
+      "sha256": "99cd5309ee0738a0b28e84760b371805abe6f62c80dec1ec80a75986d70ced35",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-A012-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A011+&lang=zh&inqudata=Required",
+      "sha256": "a56027941a14659c21449d31987d3f346a7c115999a30aae52a575d1bbc4e95e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-A011-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A013+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "ff2817abea29945e893dd8d34f4fa0ee0f9e629df4a555e54b64a6a4dc08aa9b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-A013-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=A011+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "a535d206670e1c1647cfc57b64d28a92d78f64717e93184e140185e532539f7e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-A011-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B010+&lang=zh&inqudata=Groups",
+      "sha256": "9a284e7714ef1229b129b2ae295754c2864784685d4b1698e930783896829014",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-B010-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B010+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "ce2a33396f1fe344a082bb3d6a1aa8113e620885260d8cfeb2804410641b38c4",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-B010-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B010+&lang=zh&inqudata=Required",
+      "sha256": "3dff4e03d59fa6e4ce3437735eb53b8403c19a2bd1231de8077f25278f5dbc0c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-B010-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B010+&lang=zh&inqudata=Academic",
+      "sha256": "3c469bcb9fc18c6acf7a03d25c58921618228e87ab1f872b6130f49523d27a16",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-B010-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B010+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "946852934afdebcff3eb061ff2ed6197a210047a10a55298af7c120f8b5bdf11",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-B010-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B010+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "a7285bbdef124e7826aa8977b5d811a77ee513b567329f2fcf5768d6612bae68",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-B010-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B020+&lang=zh&inqudata=Required",
+      "sha256": "729b0431c5a9529310b75948a3547968fd58336b9d6cde9816c9863c6e6f24be",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-B020-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B020+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "8934c9bf9a51a815ce08891175738d98b37069e5644de7004f1a926cc366eef3",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-B020-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B020+&lang=zh&inqudata=Academic",
+      "sha256": "9f5f8f93266c187e11b43d16c0414fc6f12321ed9ccac8bda01da9c14022a446",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-B020-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B020+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "84f3e4ee62c7e83cb91ec9723eaf3123681813f41d64246d0edacea2740fa1c4",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-B020-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B020+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "d260b9b1eed478dbdd21b76da9d89331e686e9887fc28c563ac2b440b90a665b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-B020-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=B020+&lang=zh&inqudata=Groups",
+      "sha256": "6ff31a117365eb68f5480781cc56fb93b94a9e74eced9e34d6a865abee76ae16",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-B020-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://gups.ntu.edu.tw/about",
+      "sha256": "0058660aef5f6ca6e0e403c5f4a661ac20a5c63699b282cacd600b09571194ec",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-a0477e4ab3206c030d.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H060+&lang=zh&inqudata=Required",
+      "sha256": "4f39a21f4000be0926f94324b6b274b485b70b1b8a859f3b80a30e6f9f170594",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-H060-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H060+&lang=zh&inqudata=Academic",
+      "sha256": "049afbc2988282f1ff6b6bc204115b2324ed7033a2f0d114295e11c3c67fe29d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-H060-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H060+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "ce4ec8211ac4148db7f63ace2511e8e28004fdb6b3354dd9e7bc409fe63faf8b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-H060-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://gups.ntu.edu.tw/admissions",
+      "sha256": "78cdd9dcc0da1a22de184c67eac33d168c48735400be9aef66c2304abb322c8e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-3d5c3828ac658cbb1a.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H060+&lang=zh&inqudata=Groups",
+      "sha256": "3a983e4b0ee79d3a5ec3bbd5454a373c86674ee98438a2fd52d4e4904082aed9",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-H060-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H060+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "c55264a18eb4cbd1173a8fa8a3bc54096930db6546bfc9ac4ed1f1f6b0968814",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-H060-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=Z010+&lang=zh&inqudata=Required",
+      "sha256": "90d4ba82b42dbfddd9e8aa4e3eae58038a987a14c614e7b231ec8ac363905a2f",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-Z010-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=Z010+&lang=zh&inqudata=Academic",
+      "sha256": "bd1772d8c4d051d14e18ad3641303c08596cc563f0356ab2ab4ab3af70bd9b4a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-Z010-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=Z010+&lang=zh&inqudata=Groups",
+      "sha256": "3c4442737c1ea2640153b0b6174986300a148de44962ff4017cbb043cbd94d62",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-Z010-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=Z010+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "c81e5e2335e7ec83b96d78d232da9506ca031f2b7836132204084d9b16c76203",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-Z010-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://tbd.ntu.edu.tw/?page_id=1537",
+      "sha256": "a5ce07522469ef25e9053936890542a66be987f1250dd819ad2bac5090d68def",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-dda4e31fa9f613fcd7.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=Z010+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "43062fa8a5bfb303a724691081fe29cb7ea23ea323c3699a03824472222fa6ef",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-Z010-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H040+&lang=zh&inqudata=Required",
+      "sha256": "ead7b998e3f378d8426e3b3ba7cb2101861f66fa2597cba060443ffc813a3440",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-H040-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H040+&lang=zh&inqudata=Academic",
+      "sha256": "8bc0f352634fecff777c8dba4c199782163e0bef4b8d94748c4cf4393813498a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-H040-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H040+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "60a235cc40e94d07086fc7b630485ca538a238b1af70f9bc6f80826ab331b6a2",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-H040-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H040+&lang=zh&inqudata=Groups",
+      "sha256": "e4e1491111de3dc0acc55b653329120251c63cc7f2d7c15814c92a75fc23e68c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-H040-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://bpisa.ntu.edu.tw/cp_n_176037.html",
+      "sha256": "28480c84464e7843b421c1ec76d9081d4d967217b5655701af2756ee6d0757ac",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-fd75ab19239339e837.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=H040+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "685c5b1ea79cba1ba8369475ed5af91ea09adedde2a483234e432faeb70f62b8",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-H040-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1011+&lang=zh&inqudata=Academic&MSLGRD=3",
+      "sha256": "78c70d245fdb5bdec2cd356848dcd91498ff54d3d31c28489a82c1570c495aec",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1011-Academic-year3.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1011+&lang=zh&inqudata=Academic&MSLGRD=4",
+      "sha256": "e8fdad0eb3bd10fc37cd92b7f252712f3c611bc965fb91157617bfab1f881abb",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1011-Academic-year4.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1011+&lang=zh&inqudata=Academic&MSLGRD=2",
+      "sha256": "16d1dc74ad9239a16f1534739eca52a83d255e7c1585e4792cdc539a487423f2",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1011-Academic-year2.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1011+&lang=zh&inqudata=Required",
+      "sha256": "93313aecf2930bcfc8087c95a0d782fa678251d9f8f9a92e478b1b1b2d47a0f9",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1011-Required.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1011+&lang=zh&inqudata=Groups",
+      "sha256": "da3e26354a3f3e035ee243072d63000f5507dd1a84314bd0adc841bfe6f2d0a5",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1011-Groups.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/api/departments?year=115&lang=en",
+      "sha256": "5c8fea85edaf4b8edcde34c1b523bda6b1828acd3a46f3fcf7170e44f2267f14",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-48aa8ce5ca9a08ea40.html",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/index.php/uquery/search-result?semester=115&dpt=1011+&lang=zh&inqudata=Academic",
+      "sha256": "f6de493c516eb72db7a248dcb6f6fe021d6015f60bf15be73afa919664eda8fb",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/115-1011-Academic.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.aca.ntu.edu.tw/WebUPD/aca/SecretariatNews/01文學院.pdf",
+      "sha256": "80d551c586bd779b14d82de22b19888a1e13eb97874bab9fba90f2c72cd4114e",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-64cd50c227726524be.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://curri.aca.ntu.edu.tw/NTUVoxCourse/js/main.js?v20260408",
+      "sha256": "e8bfdf58a52952a4ddb029ca19c006749340e9774704eb7e49c6e54831d3c2dc",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/required-main.js",
+      "locator": null
+    },
+    {
+      "url": "https://liberal.ntu.edu.tw/web/unit/unit2.jsp?dm_id=DM1738801506211",
+      "sha256": "5b0525c7878550c9b854a00eafc5f7df67a7f9241f1262964a5c6291cf2a7342",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/supp-12cffe391970672972.html",
+      "locator": null
+    },
+    {
+      "url": "https://liberal.ntu.edu.tw/uploads/download/tw/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E6%96%87%E5%AD%B8%E9%99%A2%E9%99%A2%E5%AD%B8%E5%A3%AB%E5%AD%B8%E4%BD%8D%E4%BF%AE%E6%A5%AD%E8%BE%A6%E6%B3%95(%E6%96%87%E9%99%A2%E5%85%AC%E5%91%8A).pdf",
+      "sha256": "9bcd785d16f2f9090d07171469c071414c4208b031c830b8518711b7f9284b98",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-c92be2cbb62ab4c973.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.aca.ntu.edu.tw/WebUPD/aca/SecretariatNews/02理學院.pdf",
+      "sha256": "51fe19224273b781e39d2d42fff4673e625504d864e8ee027c413a8001ee5d5d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-1116146974ec458128.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://coss.ntu.edu.tw/001/Upload/4/relfile/8984/95458/fb3d9abf-d7f0-418f-9640-6849e9518331.pdf",
+      "sha256": "15d2b85a4e30b91c676d012b611667c1e6c7f91b4aaff740cad33f1a90d88aae",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-f0a4066c1e1376db47.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://coss.ntu.edu.tw/cp_n_180357.html",
+      "sha256": "065af735490f8446416fffdfbf58651b34e49c221e10d40a8367fda8b44dce7a",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/supp-941da6c98a88d49dfc.html",
+      "locator": null
+    },
+    {
+      "url": "https://coss.ntu.edu.tw/001/Upload/4/relfile/8984/95458/924a87a2-a33a-44f4-8d9e-6fecf8826baf.pdf",
+      "sha256": "d0a0b329daa6038aeb2d2a3b4b9a41e10a78c4534c7852bc3a9e44c8f545c69b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-18ca46b2e23e1d687a.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.mc.ntu.edu.tw/ntuibpcm/Fpage.action?muid=4406&fid=3510",
+      "sha256": "4cded211639851e83dd45f25335c48b509cd2b757dcb0912b02fd0b14f39757b",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/mc-api-entry.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.mc.ntu.edu.tw/ntuibpcm/files/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E9%86%AB%E5%AD%B8%E9%99%A2%E9%99%A2%E5%AD%B8%E5%A3%AB%E5%AD%B8%E4%BD%8D%E4%BF%AE%E6%A5%AD%E8%BE%A6%E6%B3%95(6).pdf",
+      "sha256": "18da46a1ac6b2c5b26bd6a33a025f443e42cf0df50af6343a5fa04a5e97d04be",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-4681436c60161ec521.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.eng.ntu.edu.tw/upload/_userfilesfiles/%e5%b7%a5%e5%ad%b8%e9%99%a2%e9%99%a2%e5%ad%b8%e5%a3%ab%e5%ad%b8%e4%bd%8d%e4%bf%ae%e6%a5%ad%e8%be%a6%e6%b3%9512_29.pdf",
+      "sha256": "2967b9035db793719480abba7b577d1e82e9816659da69d2ccd20a9d4e246b72",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-ce78d76167fe52bb58.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.eng.ntu.edu.tw/tc/page.aspx?mid=138",
+      "sha256": "de39a2cd57a4420a6d156c45ff0a281ef955545f5c8db9f17205c980f6d7bfd8",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/supp-181979f8bca1faac4b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.eng.ntu.edu.tw/upload/_userfilesfiles/%e5%b7%a5%e5%ad%b8%e9%99%a2%e9%99%a2%e5%ad%b8%e5%a3%ab%e8%aa%b2%e7%a8%8b%e8%a6%8f%e5%8a%83115_8.pdf",
+      "sha256": "d4ff8b168b798a281dd500af8a04ba25938e7e083c57b069026d73e4a6736591",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-333749fda8932a5559.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://webpageprodvm.ntu.edu.tw/colsciae.lifescience/bachelorprogram.htm",
+      "sha256": "bce8a97b61673b96ec42d3ad396533b8aa6e51f26d62ffe04d76c42197d7ef42",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/supp-65bc1c0461c6380f8c.html",
+      "locator": null
+    },
+    {
+      "url": "https://webpageprod-ws.ntu.edu.tw/Download.ashx?u=LzAwMS9VcGxvYWQvMTI4NS9yZWxmaWxlLzAvNzU3ODIvMzVjYWE2ZmYtMmYxYy00ZDExLTk1NWMtYTExYWRmODExMGJjLnBkZg%3d%3d&n=55Sf56eR6Zmi6Zmi5a245aOr5a245L2N6Kqy56iL6KaP5YqDX2NvdXJzZV8yMDIzMDQyMC5wZGY%3d",
+      "sha256": "6b7de06ca5559268f7bd297c471c1817f8b48866b7332f02e2fe73245e1d8800",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-c83b07af9cc5feabc7.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://ntuibpu.ntu.edu.tw/cl_n_200269.html",
+      "sha256": "494ec98babaf13e88a2b2603303534656e1879e6c6ecb7e71199bdb15f62c76d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-81a83ddaf107ec0f77.html",
+      "locator": null
+    },
+    {
+      "url": "https://ntuibpu.ntu.edu.tw/cl_n_165741.html",
+      "sha256": "00263e193d1e009405f6a96b86d31003d3e2caf674c6184f0ad5c87bd4b6ddad",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-2c8e1ac98d54e03668.html",
+      "locator": null
+    },
+    {
+      "url": "https://ntuibpu.ntu.edu.tw/cp_n_165703.html",
+      "sha256": "2c8c256299fbd7e28a9deecc362f4ea3357de076760c92efd13edc70ba6d5733",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-8eac08c08205dbe85c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.aca.ntu.edu.tw/w/aca/SecretariatNews_26041011321400980",
+      "sha256": "d72a282a6545d3e754da0dd72f165441c5ba981dce4e37fa723fdac2a4e9ec1d",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-49d4569c0c4809ebe4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.aca.ntu.edu.tw/WebUPD/aca/SecretariatNews/06生農學院_1150423_更新.pdf",
+      "sha256": "36b3f1a7db23d73f310de139b2e73e3431fc97979055a46f5bbf4c7f54150a7c",
+      "raw_file": "scratch/full-catalog/ntu-taiwan-enrichment/raw/follow-c9be779df357cc7de0.pdf",
+      "locator": null
     }
   ]
 }

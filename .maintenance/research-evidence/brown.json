@@ -14,22 +14,40 @@
       "locator": "standardized testing policy"
     },
     {
-      "url": "https://admission.brown.edu/apply/how-apply",
-      "sha256": "44d49f53685c9729433d4d731ef44eb7896a362edf7ecd35a109b13a033d013a",
-      "raw_file": "scratch/full-catalog/us-b-enrichment/brown/raw/apply.html",
-      "locator": "How to Apply / Common Application deadlines"
-    },
-    {
       "url": "https://www.brown.edu/news/2026-05-27/fiscal-year-2027-budget",
       "sha256": "21b8acbebfa8a78024b5db38862a64dfaba5e8bb22c22406b63249f3305857bd",
       "raw_file": "scratch/full-catalog/us-b-enrichment/brown/raw/year-news.html",
       "locator": "Tuition and Fees"
     },
     {
+      "url": "https://admission.brown.edu/international/english-proficiency",
+      "sha256": "14fd0657d12b7503fae3d04a479fe0cf55da2b39718d969facf80bcb4a80e2a9",
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/follow-92c9c7aa16f9c009d7.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.brown.edu/apply/how-apply",
+      "sha256": "44d49f53685c9729433d4d731ef44eb7896a362edf7ecd35a109b13a033d013a",
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/follow-53f1eda55123c203c3.html",
+      "locator": null
+    },
+    {
       "url": "https://finaid.brown.edu/estimate-cost-aid/cost",
       "sha256": "263bec503d1b7a0ad63680b1fc3e9366d8d593ed86da81385653696f35ec2175",
-      "raw_file": "scratch/full-catalog/us-b-enrichment/brown/raw/tuition.html",
-      "locator": "Direct/Billed Charges / Additional Situations / Books / Insurance"
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/follow-81b68f3a784616706a.html",
+      "locator": null
+    },
+    {
+      "url": "https://career-center.brown.edu/pathways-outcomes/student-outcomes",
+      "sha256": "ad6aac4a83024a4614f974fd27e8eb72557b300a7805e6e60c1d85af26976c88",
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/follow-cfd72ff4bada15de3b.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/",
+      "sha256": "e82db40530af244f5010c50295a6e48d8127957f6f03813b7291d6d487637f2b",
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/follow-d8ac317cd68aba02b5.html",
+      "locator": null
     },
     {
       "url": "https://bulletin.brown.edu/the-college/concentrations/afri/",
@@ -54,6 +72,12 @@
       "sha256": "4c6e335592d7a3571ec36e887c78e0598ed7463e58c1c89afdeac86759de011c",
       "raw_file": "scratch/full-catalog/us-details/brown/0215e8ed3d556e30d022.html",
       "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/undergradproftrack/",
+      "sha256": "77016228878a74badae26208faa6589ef8349ee515a616f630fc57e265c583f9",
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/follow-bdbf5092ccaa7b0c3b.html",
+      "locator": null
     },
     {
       "url": "https://bulletin.brown.edu/the-college/concentrations/apmb/",
@@ -558,6 +582,66 @@
       "sha256": "b5ad3b6d3758b99d1a8414d4c5c1b09f911fb19945d467404442ffbaa40f192b",
       "raw_file": "scratch/full-catalog/us-details/brown/33659d6cb3f47862a699.html",
       "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://plme.med.brown.edu/admission",
+      "sha256": "bad68ec785371d11e7cddf7ab1d4968c554d4e6d6d6e49e8b9fe930c0157a260",
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/follow-524b4b3a41f44ecb11.html",
+      "locator": null
+    },
+    {
+      "url": "https://plme.med.brown.edu/admission-aid/requirements",
+      "sha256": "6c9d41337ba6fa3e9790a496230748d9d05ca510c654825a236377582143eebb",
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/follow-82313f5cce2320ca73.html",
+      "locator": null
+    },
+    {
+      "url": "https://plme.med.brown.edu/plme-faq",
+      "sha256": "7ddc9c108d25dd5d64b25b0abd4198c6fd0a9a5cc08ccb86e1ab9ad0d5f3992c",
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/follow-6d93c03bfee1714fa2.html",
+      "locator": null
+    },
+    {
+      "url": "https://plme.med.brown.edu/admission/deadlines",
+      "sha256": "727c1a75d17e43b4dd732d175028a7bf15fe09cd47f9be78b2e2e1daf2989a34",
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/follow-afd17f7d9c6000f204.html",
+      "locator": null
+    },
+    {
+      "url": "https://plme.med.brown.edu/about",
+      "sha256": "9ce5250063f9ef9ca1de5e97092265d99005b008304a20c1b44797b5b0dc69f3",
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/follow-c6dc8cf055778e8cc3.html",
+      "locator": null
+    },
+    {
+      "url": "https://risd.brown.edu/academics",
+      "sha256": "547b5187b7af08646c75d104d6df3526c26a996a16d242b21cf30e486a8a08ba",
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/follow-abe303036dd903c1a0.html",
+      "locator": null
+    },
+    {
+      "url": "https://risd.brown.edu/admissions/apply",
+      "sha256": "78564482ce59ccde8a77c931162918ae5f2ab221517ea9176df21d438af6a865",
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/follow-fb984f531e046b9beb.html",
+      "locator": null
+    },
+    {
+      "url": "https://risd.brown.edu/admissions",
+      "sha256": "3980d55e1b92c9402d093740183c0cd90f59fb37ff94eee83392f8e76d4aadfc",
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/follow-54cb211acf1328ffdb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.risd.edu/admissions/first-year/apply-risd",
+      "sha256": "092d7ee46b1c603021ba951472efc5a144365cb132f0d6e43c7568395f005df4",
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/root-risd-2027.html",
+      "locator": "2027 application requirements; Brown|RISD Dual Degree Program"
+    },
+    {
+      "url": "https://registrar.brown.edu/students/degree-guidelines/college/degree",
+      "sha256": "ce19d27e2f7bd3586668e0ae803a3c3b1d011b2c1a684430fcd64e9f053c08b9",
+      "raw_file": "scratch/full-catalog/brown-enrichment/raw/follow-9cd45176ff5922979c.html",
+      "locator": null
     }
   ]
 }

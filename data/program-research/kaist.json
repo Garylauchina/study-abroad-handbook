@@ -5,10 +5,10 @@
       "raw_key": "Physics",
       "name_en": "Physics",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://natsci.kaist.ac.kr/eng/sub0201",
+      "official_url": "https://physics.kaist.ac.kr/index.php?mid=p_academic3",
       "university_id": "kaist",
       "inventory_id": "kaist-physics-2419871986",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -20,7 +20,7 @@
           },
           {
             "label": "学科范围",
-            "text": "官方本科招生介绍的范围：凝聚态、光学、等离子体、高能理论、复杂系统及生物物理等研究领域。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "text": "官方本科招生介绍的范围：凝聚态、光学、等离子体、高能理论、复杂系统及生物物理等研究领域。这是招生页的学科说明；具体课程与学分见下列专属来源。",
             "source_ids": [
               "ASREN-eb7346b54e3cc7"
             ],
@@ -33,6 +33,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "物理本科课程与学分",
+            "text": "课程目录的必修包括经典力学I、电磁学I、量子力学I及II、热物理、物理实验I及III；另有光学、固体物理、统计物理、量子信息等选修。课程开设学期不代表每年固定不变。",
+            "source_ids": [
+              "KAIST-fafe6c754b9f1b"
+            ],
+            "extraction_locator": "Undergraduate mandatory and elective table"
+          },
+          {
+            "label": "物理研究要求",
+            "text": "2023起至少138总学分，专业43学分（必修19、选修24）之外，研究至少5学分，含毕业研究3和研讨2；双主修者免研究部分。辅修18学分须含量子力学I与物理实验III，双主修40学分须含全部19必修学分；这些在读方式与独立高中招生不同。",
+            "source_ids": [
+              "KAIST-e209357c2023ce"
+            ],
+            "extraction_locator": "2023 undergraduate requirements"
           }
         ],
         "admissions": [],
@@ -58,21 +74,42 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-fafe6c754b9f1b",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://physics.kaist.ac.kr/index.php?mid=p_academic2",
+          "checked_at": "2026-09-13",
+          "supports": "物理本科课程与学分",
+          "sha256": "25871e75fdbecfc2f2672f2a17f2d91dd1d7cc71f1a3158602e95d732900e844",
+          "locator": "Undergraduate mandatory and elective table"
+        },
+        {
+          "id": "KAIST-e209357c2023ce",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://physics.kaist.ac.kr/index.php?mid=p_academic3",
+          "checked_at": "2026-09-13",
+          "supports": "物理研究要求",
+          "sha256": "f725c436916add4507ddbc63ec23ba12ac75513b367c04065a5a4ed44628647f",
+          "locator": "2023 undergraduate requirements"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "物理学",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "partially_enriched"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Matematical Sciences",
       "name_en": "Mathematical Sciences",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://natsci.kaist.ac.kr/eng/sub0202",
+      "official_url": "https://mathsci.kaist.ac.kr/home/edu/requirement/",
       "university_id": "kaist",
       "inventory_id": "kaist-matematical-sciences-cc7733c3d1",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -84,7 +121,7 @@
           },
           {
             "label": "学科范围",
-            "text": "官方本科招生介绍的范围：数学基础与研究训练，并与自然科学、工程及经济等领域交叉。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "text": "官方本科招生介绍的范围：数学基础与研究训练，并与自然科学、工程及经济等领域交叉。这是招生页的学科说明；具体课程与学分见下列专属来源。",
             "source_ids": [
               "ASREN-eb7346b54e3cc7"
             ],
@@ -97,6 +134,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "数学课程与年度边界",
+            "text": "当前公开系网页仍按2016起方案列主修42学分：线性代数、分析I、现代代数I、微分几何、拓扑、复变函数、数理统计七门至少选四。该旧方案总学分136不能当2027毕业要求；尚需与新生适用的全校规则核对。",
+            "source_ids": [
+              "KAIST-8f6bd4104eec82"
+            ],
+            "extraction_locator": "Mathematics page lines8–13; 2016 and after"
+          },
+          {
+            "label": "数学重点修读与研究",
+            "text": "旧方案列金融数学重点修读：在指定数理统计、数值分析、金融数学、勒贝格积分、计算金融、概率模型课程中至少选四，可在成绩单注明；并列研究至少3学分。金融数学为主修内部标注，不是已证实的独立2027高中申请学位。",
+            "source_ids": [
+              "KAIST-8f6bd4104eec82"
+            ],
+            "extraction_locator": "Mathematics page lines10–13"
           }
         ],
         "admissions": [],
@@ -122,21 +175,34 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-8f6bd4104eec82",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://mathsci.kaist.ac.kr/home/edu/requirement/",
+          "checked_at": "2026-09-13",
+          "supports": "数学课程与年度边界；数学重点修读与研究",
+          "sha256": "6ef505b11ca6b111965795db01f722bcd0392f488bba5cc83c280d714eb14003",
+          "locator": "Mathematics page lines8–13; 2016 and after",
+          "capture_format": "web tool text capture; official mathematics page content, not original HTML"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "数学科学",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "partially_enriched"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Chemistry",
       "name_en": "Chemistry",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://natsci.kaist.ac.kr/eng/sub0203",
+      "official_url": "https://chem.kaist.ac.kr/curriculum",
       "university_id": "kaist",
       "inventory_id": "kaist-chemistry-bc0b7fadb5",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -148,7 +214,7 @@
           },
           {
             "label": "学科范围",
-            "text": "官方本科招生介绍的范围：以物理原理解释化学转变，并连接生命过程与材料过程，强调跨学科化学教育。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "text": "官方本科招生介绍的范围：以物理原理解释化学转变，并连接生命过程与材料过程，强调跨学科化学教育。这是招生页的学科说明；具体课程与学分见下列专属来源。",
             "source_ids": [
               "ASREN-eb7346b54e3cc7"
             ],
@@ -161,6 +227,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "化学本科学分与研究",
+            "text": "2024发布的本科要求文件列至少138总学分、主修42学分（必修24、选修18），另须选深化、辅修、双主修或跨学科方案。毕业研究3学分，双主修者免毕业研究，但LRP项目和本科Colloquium仍须完成。",
+            "source_ids": [
+              "KAIST-bc7e742d76fce7"
+            ],
+            "extraction_locator": "2024 file, page1"
+          },
+          {
+            "label": "化学的实际课程",
+            "text": "当前课程目录从量子与热力学基础的物理化学、有机反应与光谱、分析化学及化学实验，延伸至无机化学、生物有机、材料与高分子。例：分析化学导论覆盖滴定、电分析、光谱、质谱和色谱；有机化学II列有机化学I为先修。目录混合本科与相互认可课程，不把所有课程都列作本科必修。",
+            "source_ids": [
+              "KAIST-4c01ed172a0027"
+            ],
+            "extraction_locator": "Undergraduate curriculum and course descriptions"
           }
         ],
         "admissions": [],
@@ -186,21 +268,42 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-bc7e742d76fce7",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://chem.kaist.ac.kr/_files/board/20240124//bce2d455fafbab581bcd27a93731c143.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "化学本科学分与研究",
+          "sha256": "283a3e973b89e0a3082a046e1207b0bb9a8514f7ffb2009e324f820f5a89518b",
+          "locator": "2024 file, page1"
+        },
+        {
+          "id": "KAIST-4c01ed172a0027",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://chem.kaist.ac.kr/curriculum",
+          "checked_at": "2026-09-13",
+          "supports": "化学的实际课程",
+          "sha256": "3434ecae40d1dffc5c14f077c8f61143a285ffde689b0ff6598eee900e22ebe1",
+          "locator": "Undergraduate curriculum and course descriptions"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "化学",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "partially_enriched"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Mechanical Engineering",
       "name_en": "Mechanical Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=74",
+      "official_url": "https://me.kaist.ac.kr/eng/download/%EA%B8%B0%EB%B0%98%EA%B3%BC%EB%AA%A9%20%EC%86%8C%EA%B0%9C%EC%9E%90%EB%A3%8C%282025.11%20%EA%B8%B0%EC%A4%80%29.pdf",
       "university_id": "kaist",
       "inventory_id": "kaist-mechanical-engineering-1cf311b5df",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -212,7 +315,7 @@
           },
           {
             "label": "学科范围",
-            "text": "官方本科招生介绍的范围：围绕机械技术与产业应用培养工程能力；该招生说明未给完整课程表。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "text": "官方本科招生介绍的范围：围绕机械技术与产业应用培养工程能力；这是招生页的学科说明；具体课程与学分见下列专属来源。",
             "source_ids": [
               "ASREN-eb7346b54e3cc7"
             ],
@@ -225,6 +328,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "机械工程课程",
+            "text": "2025年11月官方指南列至少138总学分、主修45学分（必修9、选修36）。三门必修为机械基础实践、Capstone Design I、工程设计；选修须在固体力学、动力学、系统建模控制、热力学、传热、流体、应用电子、材料加工、机械振动九门中至少选五。",
+            "source_ids": [
+              "KAIST-59488f36796eac"
+            ],
+            "extraction_locator": "2025 edition pages1–2"
+          },
+          {
+            "label": "机械实践与研究",
+            "text": "基础实践包含CAD、加工和3D打印。毕业研究3学分可依规则用Capstone Design II替代；另须完成附加专业方案。指南自称并非完整最新规则，2027入学的Co-op抵学分等尚须重新核对；不将2025课程指南标作2027新版。",
+            "source_ids": [
+              "KAIST-59488f36796eac"
+            ],
+            "extraction_locator": "2025 edition pages3–4"
           }
         ],
         "admissions": [],
@@ -250,21 +369,33 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-59488f36796eac",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://me.kaist.ac.kr/eng/download/%EA%B8%B0%EB%B0%98%EA%B3%BC%EB%AA%A9%20%EC%86%8C%EA%B0%9C%EC%9E%90%EB%A3%8C%282025.11%20%EA%B8%B0%EC%A4%80%29.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "机械工程课程；机械实践与研究",
+          "sha256": "6c1460d09696a4847ca37fcdc75f7427ba283239d418daf526ba183fa7d6a127",
+          "locator": "2025 edition pages1–2"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "机械工程",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "partially_enriched"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Aerospace Engineering",
       "name_en": "Aerospace Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=75",
+      "official_url": "https://ae.kaist.ac.kr/pages/sub/sub02_03_02",
       "university_id": "kaist",
       "inventory_id": "kaist-aerospace-engineering-9e987282eb",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -276,7 +407,7 @@
           },
           {
             "label": "学科范围",
-            "text": "官方本科招生介绍的范围：航空航天系统设计、结构动力学、空气与流体动力学、推进燃烧及飞行动力学。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "text": "官方本科招生介绍的范围：航空航天系统设计、结构动力学、空气与流体动力学、推进燃烧及飞行动力学。这是招生页的学科说明；具体课程与学分见下列专属来源。",
             "source_ids": [
               "ASREN-eb7346b54e3cc7"
             ],
@@ -289,6 +420,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "航空航天学分与设计",
+            "text": "现行文件的2023起本科部分列至少138总学分，主修必修18、选修24。选修须包含航空系统设计或空间系统设计至少一门；课程涉及航空航天热力学、材料、传热、数值分析，深化方案另含可压缩流、卫星、燃烧、气动弹性及飞行控制等。",
+            "source_ids": [
+              "KAIST-dc054e3de6f625"
+            ],
+            "extraction_locator": "PDF pages5–6, 2023 and after"
+          },
+          {
+            "label": "2026课程变更与研究",
+            "text": "2026春起旧航空航天系统设计I更为航空系统设计，旧II更为空间系统设计；新的空间系统设计不再抵毕业研究或深化专业。毕业研究3学分仍必修，双主修者免研究部分；24周AE Co-op最多21学分抵研究3、专业选修6、自由选修12，须按校方认可，不自动获得。",
+            "source_ids": [
+              "KAIST-dc054e3de6f625"
+            ],
+            "extraction_locator": "PDF page6 transition and Co-op"
           }
         ],
         "admissions": [],
@@ -314,21 +461,33 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-dc054e3de6f625",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://ae.kaist.ac.kr/resources/wis-layout/file/%ED%95%AD%EA%B3%B5%EC%9A%B0%EC%A3%BC%EA%B3%B5%ED%95%99%EA%B3%BC_%EA%B5%90%EA%B3%BC%EB%AA%A9%EC%9D%B4%EC%88%98%EC%9A%94%EA%B1%B4.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "航空航天学分与设计；2026课程变更与研究",
+          "sha256": "fd4723c676737dce43551826949471be403365769a153c066c62ea530dfd181e",
+          "locator": "PDF pages5–6, 2023 and after"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "航空航天工程",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "partially_enriched"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Electrical Engineering",
       "name_en": "Electrical Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=76",
+      "official_url": "https://ee.kaist.ac.kr/en/under-req/2023/",
       "university_id": "kaist",
       "inventory_id": "kaist-electrical-engineering-f656749a23",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -340,7 +499,7 @@
           },
           {
             "label": "学科范围",
-            "text": "官方本科招生介绍的范围：系统、电子器件和智能系统等领域的教育与研究。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "text": "官方本科招生介绍的范围：系统、电子器件和智能系统等领域的教育与研究。这是招生页的学科说明；具体课程与学分见下列专属来源。",
             "source_ids": [
               "ASREN-eb7346b54e3cc7"
             ],
@@ -353,6 +512,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "电气电子的必修与选修",
+            "text": "2023起至少138总学分；主修50学分，必修15、选修35。必修包含电子设计实验入门及电子设计实验，再从电路、信号与系统、电磁学、电子工程编程、概率随机过程、物理电子六门选三。基础选修9学分中须从线性代数、微分方程和应用分析中至少选二。",
+            "source_ids": [
+              "KAIST-08b2092a4b9db5"
+            ],
+            "extraction_locator": "2023 requirements"
+          },
+          {
+            "label": "电子工程毕业研究",
+            "text": "本科论文研究3学分，双主修者免研究部分；另外须选深化、辅修、双主修或跨学科等方案。24周Co-op的抵学分由委员会评定，不等同人人必有的带薪岗位。",
+            "source_ids": [
+              "KAIST-08b2092a4b9db5"
+            ],
+            "extraction_locator": "Research and Co-op"
           }
         ],
         "admissions": [],
@@ -378,21 +553,33 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-08b2092a4b9db5",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://ee.kaist.ac.kr/en/under-req/2023/",
+          "checked_at": "2026-09-13",
+          "supports": "电气电子的必修与选修；电子工程毕业研究",
+          "sha256": "9b4c2b1b33ea512c0b703fb5e8248614bee826bfca4f979273fa16e083faa48f",
+          "locator": "2023 requirements"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "电气与电子工程",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "partially_enriched"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Computer Science",
       "name_en": "Computer Science",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=77",
+      "official_url": "https://cs.kaist.ac.kr/content?menu=318",
       "university_id": "kaist",
       "inventory_id": "kaist-computer-science-8e385cf2b1",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -404,7 +591,7 @@
           },
           {
             "label": "学科范围",
-            "text": "官方本科招生介绍的范围：以人为中心的计算，涉及硬件软件、人机关系及数据驱动的社会计算。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "text": "官方本科招生介绍的范围：以人为中心的计算，涉及硬件软件、人机关系及数据驱动的社会计算。这是招生页的学科说明；具体课程与学分见下列专属来源。",
             "source_ids": [
               "ASREN-eb7346b54e3cc7"
             ],
@@ -417,6 +604,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "计算机本科课程",
+            "text": "2023起至少138总学分；主修49学分，必修19包含离散结构、数据结构、算法、计算机组织、程序语言、操作系统与实验，另选修30。基础选修须含线性代数；本科论文研究3学分可用计算机项目替代，双主修者免研究部分。",
+            "source_ids": [
+              "KAIST-318c6d22a32231"
+            ],
+            "extraction_locator": "2023 requirements"
+          },
+          {
+            "label": "综合项目和可选内部方向",
+            "text": "主修与双主修均须完成至少一门指定团队Capstone，例如软件工程、数据库、人机交互或计算机项目。可选AI重点修读须在指定列表完成至少四门；信息安全软件开发方向须先获项目选拔并完成至少八门，适用项目期为2025春至2029秋。两者为成绩单内方向，不另作为独立高中直录。",
+            "source_ids": [
+              "KAIST-318c6d22a32231"
+            ],
+            "extraction_locator": "2023 electives and optional concentrations"
           }
         ],
         "admissions": [],
@@ -442,21 +645,33 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-318c6d22a32231",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://cs.kaist.ac.kr/content?menu=318",
+          "checked_at": "2026-09-13",
+          "supports": "计算机本科课程；综合项目和可选内部方向",
+          "sha256": "ea50bf8d265c8a9f13dedfddfd7b96193eef75ac907bd093bca6d99da1ac4181",
+          "locator": "2023 requirements"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "计算机科学",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "partially_enriched"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Civil & Environmental Engineering",
       "name_en": "Civil & Environmental Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=84",
+      "official_url": "https://cee.kaist.ac.kr/pages/sub/sub03_02",
       "university_id": "kaist",
       "inventory_id": "kaist-civil-environmental-engineering-02a536a240",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -468,7 +683,7 @@
           },
           {
             "label": "学科范围",
-            "text": "官方本科招生介绍的范围：住房、产业与交通基础设施，自然与建筑环境保护及资源开发等领域。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "text": "官方本科招生介绍的范围：住房、产业与交通基础设施，自然与建筑环境保护及资源开发等领域。这是招生页的学科说明；具体课程与学分见下列专属来源。",
             "source_ids": [
               "ASREN-eb7346b54e3cc7"
             ],
@@ -481,6 +696,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "土木环境本科课程",
+            "text": "2023起至少138总学分；主修45学分，必修12为智慧城市与数字基础设施、环境与可持续性、土木环境数据科学、基础设施感知技术四门，另选修33。毕业研究3学分可用指定AI与智慧技术基础设施环境设计课替代；双主修者免研究部分。",
+            "source_ids": [
+              "KAIST-daa7176508d28e"
+            ],
+            "extraction_locator": "2023 requirements"
+          },
+          {
+            "label": "土木环境跨专业学习",
+            "text": "还须完成深化、辅修、双主修或跨学科等方案。2023规则允许指定外系课程在9学分上限内计专业选修；旧届方案的15学分不能直接套到新生。",
+            "source_ids": [
+              "KAIST-daa7176508d28e"
+            ],
+            "extraction_locator": "2023 elective recognition vs 2021"
           }
         ],
         "admissions": [],
@@ -506,21 +737,33 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-daa7176508d28e",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://cee.kaist.ac.kr/pages/sub/sub03_02",
+          "checked_at": "2026-09-13",
+          "supports": "土木环境本科课程；土木环境跨专业学习",
+          "sha256": "b34c78a8f4b9093c6b7fe0929ee54b1ae51b0f769215d925686c3c0340ef084d",
+          "locator": "2023 requirements"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "土木与环境工程",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "partially_enriched"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Bio & Brain Engineering",
       "name_en": "Bio & Brain Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=85",
+      "official_url": "https://bioeng.kaist.ac.kr/index.php?document_srl=8924&mid=bio_04_01_01",
       "university_id": "kaist",
       "inventory_id": "kaist-bio-brain-engineering-49fd408108",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -532,7 +775,7 @@
           },
           {
             "label": "学科范围",
-            "text": "官方本科招生介绍的范围：将生物工程与脑工程结合，研究相关技术与人类生活质量。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "text": "官方本科招生介绍的范围：将生物工程与脑工程结合，研究相关技术与人类生活质量。这是招生页的学科说明；具体课程与学分见下列专属来源。",
             "source_ids": [
               "ASREN-eb7346b54e3cc7"
             ],
@@ -545,6 +788,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "生物与脑工程本科课程",
+            "text": "2023起至少138总学分、主修44学分（必修14、选修30）。必修为生物工程基础3、分子与细胞生物学3、生物工程实验I及II各4；研究另5学分含毕业研究3和研讨2，双主修者免研究。基础选修须完成线性代数、微分方程、概率统计三门。",
+            "source_ids": [
+              "KAIST-75dfefed75b28e"
+            ],
+            "extraction_locator": "2023 and after major requirements"
+          },
+          {
+            "label": "生物工程选课主题",
+            "text": "高年级选修围绕生物学、脑工程、生物信息、生物电子、生物纳米，含计算神经科学、医学成像、生物信号、基因组学、微流体与仿生系统。上述为专业内部课程范围；本科工程学习不等同临床医师资格。",
+            "source_ids": [
+              "KAIST-57cada228e774a"
+            ],
+            "extraction_locator": "Undergraduate curriculum structure and field table"
           }
         ],
         "admissions": [],
@@ -570,21 +829,42 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-75dfefed75b28e",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://bioeng.kaist.ac.kr/index.php?mid=bio_04_01_03_03",
+          "checked_at": "2026-09-13",
+          "supports": "生物与脑工程本科课程",
+          "sha256": "d69e0bb8aa843497cdcf4d8ccf3b972f48cb4a40e733c2ccd2ab30d704002a70",
+          "locator": "2023 and after major requirements"
+        },
+        {
+          "id": "KAIST-57cada228e774a",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://bioeng.kaist.ac.kr/index.php?document_srl=8924&mid=bio_04_01_01",
+          "checked_at": "2026-09-13",
+          "supports": "生物工程选课主题",
+          "sha256": "58be0f6a639405fd4cd5071eca511fd45354ab0b644eb5c66a0f1023175ec3ae",
+          "locator": "Undergraduate curriculum structure and field table"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "生物与脑工程",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "partially_enriched"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Industrial Design",
       "name_en": "Industrial Design",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=86",
+      "official_url": "https://id.kaist.ac.kr/education",
       "university_id": "kaist",
       "inventory_id": "kaist-industrial-design-11dc9682ab",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -596,7 +876,7 @@
           },
           {
             "label": "学科范围",
-            "text": "官方本科招生介绍的范围：结合工程技术和人类行为研究进行设计，关注用户需求与创新产品。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "text": "官方本科招生介绍的范围：结合工程技术和人类行为研究进行设计，关注用户需求与创新产品。这是招生页的学科说明；具体课程与学分见下列专属来源。",
             "source_ids": [
               "ASREN-eb7346b54e3cc7"
             ],
@@ -609,6 +889,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "工业设计四年课程结构",
+            "text": "官网按大一至大四列课程：设计导论、创意表达；产品、平面、计算机辅助设计与交互原型；用户体验、人因、界面与软件原型；最终进入系统设计、毕业设计工作室、作品集展览和设计创业。课程说明结合科学工程与设计实践，页面未给2027全学分毕业清单。",
+            "source_ids": [
+              "KAIST-99c57393472146"
+            ],
+            "extraction_locator": "Browser rendered undergraduate Courses, years1–4"
+          },
+          {
+            "label": "设计研究与选专业",
+            "text": "普通本科先未定专业入学，第二学期结束选专业。深化设计或沿用2015及此前规则者须完成毕业设计工作室I及II，不能用URP-B替代毕业研究；2016后非深化方案可按条件申请URP-B研究抵学分。这里的作品集与展览设计是课程，不自动等同2027申请必须交作品集。",
+            "source_ids": [
+              "KAIST-99c57393472146"
+            ],
+            "extraction_locator": "Graduation Research and Admission"
           }
         ],
         "admissions": [],
@@ -634,21 +930,35 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-99c57393472146",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://id.kaist.ac.kr/education",
+          "checked_at": "2026-09-13",
+          "supports": "工业设计四年课程结构；设计研究与选专业",
+          "sha256": "c309597c0e7cada8979b0dc730eb41e3e2967e2af4050123845d923d81ed85e1",
+          "locator": "Browser rendered undergraduate Courses, years1–4",
+          "capture_format": "browser DOM snapshot"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "工业设计",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
+        "duration": "课程按4年安排"
       },
-      "research_status": "partially_enriched"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Industrial & Systems Engineering",
       "name_en": "Industrial & Systems Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=89",
+      "official_url": "https://ise.kaist.ac.kr/curriculum",
       "university_id": "kaist",
       "inventory_id": "kaist-industrial-systems-engineering-e4dc63c861",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -660,7 +970,7 @@
           },
           {
             "label": "学科范围",
-            "text": "官方本科招生介绍的范围：系统分析、问题求解、系统设计与集成，涵盖制造、服务和复杂工程系统。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "text": "官方本科招生介绍的范围：系统分析、问题求解、系统设计与集成，涵盖制造、服务和复杂工程系统。这是招生页的学科说明；具体课程与学分见下列专属来源。",
             "source_ids": [
               "ASREN-eb7346b54e3cc7"
             ],
@@ -673,6 +983,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "工业与系统工程实际课程",
+            "text": "现行课程图分数学方法、工业AI、运营技术及应用。课程含工程统计、随机模型与优化、数据结构、工业数据科学、统计机器学习；再延伸生产管理、建模仿真、供应链、质量控制、人因和医疗系统等。500级部分是本科研究生相互认可课程，不能整张表当作本科必修。",
+            "source_ids": [
+              "KAIST-3fc4fca3f43af5"
+            ],
+            "extraction_locator": "Undergraduate curriculum table"
+          },
+          {
+            "label": "工业工程学分缺口",
+            "text": "院系的总要求页标注2023年7月更新，但目前主要学分文件链接进入学校登录系统。本轮取得课程结构，尚未取得公开可复核的本届完整毕业学分；不从其他工程专业复制42或138到本专业。",
+            "source_ids": [
+              "KAIST-254fc0c9f5da30"
+            ],
+            "extraction_locator": "Undergraduate downloads; July2023; linked bulletin login"
           }
         ],
         "admissions": [],
@@ -698,21 +1024,42 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-3fc4fca3f43af5",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://ise.kaist.ac.kr/curriculum",
+          "checked_at": "2026-09-13",
+          "supports": "工业与系统工程实际课程",
+          "sha256": "178bbc887760fab8d4e9e3231112b2cf124c118afee9b066b76a3afb1a30c38e",
+          "locator": "Undergraduate curriculum table"
+        },
+        {
+          "id": "KAIST-254fc0c9f5da30",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://ise.kaist.ac.kr/overall-requirements",
+          "checked_at": "2026-09-13",
+          "supports": "工业工程学分缺口",
+          "sha256": "88b78566f73e97b770c26f3194c33fab123c9758cbd9374ad8c4085f5b72ea53",
+          "locator": "Undergraduate downloads; July2023; linked bulletin login"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "工业与系统工程",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "partially_enriched"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Chemical & Biomolecular Engineering",
       "name_en": "Chemical & Biomolecular Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=78",
+      "official_url": "https://cbe.kaist.ac.kr/pages/sub/sub04_02_ko",
       "university_id": "kaist",
       "inventory_id": "kaist-chemical-biomolecular-engineering-9264fea890",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -724,7 +1071,7 @@
           },
           {
             "label": "学科范围",
-            "text": "官方本科招生介绍的范围：化工过程与生物分子工程，面向产品制造、能源和环境等问题。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "text": "官方本科招生介绍的范围：化工过程与生物分子工程，面向产品制造、能源和环境等问题。这是招生页的学科说明；具体课程与学分见下列专属来源。",
             "source_ids": [
               "ASREN-eb7346b54e3cc7"
             ],
@@ -737,6 +1084,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "化学与生物分子工程课程",
+            "text": "公开专业要求仍展示2016起方案：主修42学分（必修21、选修21），另毕业研究3和研讨1。页面列分子工程实验、生物化工实验、化工导论、工业有机、工程分析、分子热力学与能源系统、设计项目等课程；原网页136总学分属于旧方案，不能直接作为2027要求。",
+            "source_ids": [
+              "KAIST-a76872451134ba"
+            ],
+            "extraction_locator": "2016 and after requirements; lower course table"
+          },
+          {
+            "label": "化工深化方向",
+            "text": "深化专业须从化工数值计算、生物化工、分子反应工程、化工流体、热与分子传递、高分子导论等指定选修取得至少12学分。该课程组合与主修、辅修、双主修是不同培养方式；本轮仍缺2027完整课程版本。",
+            "source_ids": [
+              "KAIST-a76872451134ba"
+            ],
+            "extraction_locator": "Advanced Major"
           }
         ],
         "admissions": [],
@@ -762,21 +1125,33 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-a76872451134ba",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://cbe.kaist.ac.kr/pages/sub/sub04_02_ko",
+          "checked_at": "2026-09-13",
+          "supports": "化学与生物分子工程课程；化工深化方向",
+          "sha256": "d0fb2c0da04802b168944e0e1bb2cdc662c6c08fb7800e841c1b4d5a4c67ea59",
+          "locator": "2016 and after requirements; lower course table"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "化学与生物分子工程",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "partially_enriched"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Materials Science & Engineering",
       "name_en": "Materials Science & Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=79",
+      "official_url": "https://mse.kaist.ac.kr/index.php?mid=mse_undercurriculum",
       "university_id": "kaist",
       "inventory_id": "kaist-materials-science-engineering-4032c64e9c",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -788,7 +1163,7 @@
           },
           {
             "label": "学科范围",
-            "text": "官方本科招生介绍的范围：研究材料性能与功能，并把材料基础知识应用于实际工艺。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "text": "官方本科招生介绍的范围：研究材料性能与功能，并把材料基础知识应用于实际工艺。这是招生页的学科说明；具体课程与学分见下列专属来源。",
             "source_ids": [
               "ASREN-eb7346b54e3cc7"
             ],
@@ -801,6 +1176,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "材料科学2026起新生课程",
+            "text": "2026及以后入学组列总学分138，主修至少42（必修18、选修24），研究3；双主修者免研究。六门必修代码为MS.20012、20013、20016、30011、30021、30060，包括材料电磁性质与材料力学行为。同页2023／2024组的2026春转换段则将材料量子化学及先进材料实验II计必修；这属于不同入学组，不能混成2027统一必修表。",
+            "source_ids": [
+              "KAIST-14e84b7f5d5723"
+            ],
+            "extraction_locator": "For Undergraduate Students admitted in 2026 and after; contrast earlier cohort transitions"
+          },
+          {
+            "label": "材料科学附加培养",
+            "text": "2026及以后入学组另须完成深化、辅修、双主修或指定跨学科等方案。深化至少12学分；辅修18须必修和选修各9；双主修至少42且含18必修，不能套2023组旧40学分。本科毕业研究以材料科学研究课完成；课程或研究训练不等同实际就业率。",
+            "source_ids": [
+              "KAIST-14e84b7f5d5723"
+            ],
+            "extraction_locator": "2026 and after: Additional Majors and Research"
           }
         ],
         "admissions": [],
@@ -826,21 +1217,33 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-14e84b7f5d5723",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://mse.kaist.ac.kr/index.php?mid=mse_undercurriculum",
+          "checked_at": "2026-09-13",
+          "supports": "材料科学2026起新生课程；材料科学附加培养",
+          "sha256": "8720a9870c544ad126e51d752404580dfe1d24bdacaa5a57d7fc028c3897d456",
+          "locator": "For Undergraduate Students admitted in 2026 and after; contrast earlier cohort transitions"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "材料科学与工程",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "partially_enriched"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Nuclear & Quantum Engineering",
       "name_en": "Nuclear & Quantum Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=87",
+      "official_url": "https://nuclear.kaist.ac.kr/study/curriculum01.php",
       "university_id": "kaist",
       "inventory_id": "kaist-nuclear-quantum-engineering-a12393b491",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -852,7 +1255,7 @@
           },
           {
             "label": "学科范围",
-            "text": "官方本科招生介绍的范围：本科培养涉及核能、辐射、量子技术的基础科学与工程应用。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "text": "官方本科招生介绍的范围：本科培养涉及核能、辐射、量子技术的基础科学与工程应用。这是招生页的学科说明；具体课程与学分见下列专属来源。",
             "source_ids": [
               "ASREN-eb7346b54e3cc7"
             ],
@@ -865,6 +1268,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "核与量子工程课程",
+            "text": "2023起总学分至少138；主修42学分（必修12、选修30）。四门必修为核工程导论、辐射科学与应用、聚变基础、核工程设计项目；选修须从反应堆理论、辐射测量、核燃料循环、材料、生物物理、等离子体与聚变等九门中至少选四。",
+            "source_ids": [
+              "KAIST-3b8fd52785d00a"
+            ],
+            "extraction_locator": "Undergraduate major and 2023 total"
+          },
+          {
+            "label": "核工程研究与语言毕业要求",
+            "text": "毕业研究3学分为必修；2026起另修方案中核工程辅修为21学分、双主修为39学分，不能沿用旧40学分数字。页面说明国际本科生须在入学前或在读期间获得TOPIK2级；这是毕业条件，不当作2027申请英语要求的替代。",
+            "source_ids": [
+              "KAIST-3b8fd52785d00a"
+            ],
+            "extraction_locator": "Research, international TOPIK and 2026 additional majors"
           }
         ],
         "admissions": [],
@@ -890,21 +1309,33 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-3b8fd52785d00a",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://nuclear.kaist.ac.kr/study/curriculum01.php",
+          "checked_at": "2026-09-13",
+          "supports": "核与量子工程课程；核工程研究与语言毕业要求",
+          "sha256": "59a5f9d4e68088f2d737f0691f9f8c15151f02630eddef5bd4a28586cda72b92",
+          "locator": "Undergraduate major and 2023 total"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "核与量子工程",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "partially_enriched"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Business and Technology Management",
       "name_en": "Business and Technology Management",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+      "official_url": "https://btm.kaist.ac.kr/page/en/selectPage.do?menuSeq=3475&pageSeq=3720",
       "university_id": "kaist",
       "inventory_id": "kaist-business-and-technology-management-a489f6bee1",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -921,6 +1352,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "技术管理本科课程与双主修",
+            "text": "2023起规则：至少138总学分，技术管理专业至少48学分（必修9、选修39）。必修为企业管理导论、技术管理、高科技创业；选修三组分别至少15、18、6学分。必须同时完成自然科学、生命科学或工程等另一专业的双主修，另一专业至少40学分；全课程GPA至少2.0/4.3。",
+            "source_ids": [
+              "KAIST-ad069c93103e77"
+            ],
+            "extraction_locator": "2023 requirements, Major and Double Major"
+          },
+          {
+            "label": "实践与国际生课程",
+            "text": "研究部分4学分，包括实践项目、实习或本科论文三选一3学分，加科技商业研讨1学分；国际生可用1学分独立研究替代研讨。国际生另有韩语3、韩语4课程要求；这是在读培养要求，不能当作2027高中申请的TOPIK门槛。",
+            "source_ids": [
+              "KAIST-ad069c93103e77"
+            ],
+            "extraction_locator": "2023 General Course and Research"
           }
         ],
         "admissions": [],
@@ -946,21 +1393,33 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-ad069c93103e77",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://btm.kaist.ac.kr/page/en/selectPage.do?menuSeq=3475&pageSeq=3720",
+          "checked_at": "2026-09-13",
+          "supports": "技术管理本科课程与双主修；实践与国际生课程",
+          "sha256": "00f6f5410dc5065ec5928c1bbb601526a83a116918391078fb1b57d5fc5f6447",
+          "locator": "2023 requirements, Major and Double Major"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "商业与技术管理",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。须完成理科/工科等另一专业双主修。"
       },
-      "research_status": "directory_only"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Biological Sciences",
       "name_en": "Biological Sciences",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+      "official_url": "https://bio.kaist.ac.kr/page/ko/selectPage.do?menuSeq=3357&pageSeq=3406",
       "university_id": "kaist",
       "inventory_id": "kaist-biological-sciences-622772b938",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -977,6 +1436,22 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "2024起生物科学课程",
+            "text": "总学分至少138；基础选修9学分须含生命多样性。主修42学分：分子生物学、生物化学、生物技术导论、生物化学实验、细胞生物学、细胞生物学实验六门必修共18，选修24。另须完成深化、辅修、双主修或个人跨学科方案之一。旧表中的生物化学II不能替代2024起新增的生物技术导论规则。",
+            "source_ids": [
+              "KAIST-53baa8fb52b9d0"
+            ],
+            "extraction_locator": "2024 and thereafter requirements"
+          },
+          {
+            "label": "生物学研究与实习",
+            "text": "课程规则列毕业研究必修3学分。24周BS Co-op 1实习可按规定最多抵21学分，分为毕业研究3、专业选修3、自由选修15；不表示所有学生自动得到实习名额。副修21学分、双主修40学分是不同培养方式，不另计为独立高中申请学位。",
+            "source_ids": [
+              "KAIST-53baa8fb52b9d0"
+            ],
+            "extraction_locator": "2024 Research, Co-op, minor and double major"
           }
         ],
         "admissions": [],
@@ -1002,21 +1477,33 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-53baa8fb52b9d0",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://bio.kaist.ac.kr/page/ko/selectPage.do?menuSeq=3357&pageSeq=3406",
+          "checked_at": "2026-09-13",
+          "supports": "2024起生物科学课程；生物学研究与实习",
+          "sha256": "927e13cac5fdf570884120e24175358ae228955c1a855d57faf52efcb4cd9500",
+          "locator": "2024 and thereafter requirements"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "生物科学",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "directory_only"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "Brain & Cognitive Sciences",
       "name_en": "Brain & Cognitive Sciences",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+      "official_url": "https://bcs.kaist.ac.kr/sub050201",
       "university_id": "kaist",
       "inventory_id": "kaist-brain-cognitive-sciences-ce9a2b8537",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -1033,6 +1520,23 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "脑与认知科学培养",
+            "text": "2023起至少138总学分，主修42学分：动物脑解剖与生理实验、人脑实验、实验数据与模型三门必修共9，另选修33；最多15学分可来自指定自然科学、生命科学和工程课程。基础选修9学分中须从线性代数、微分方程、概率统计和编程四门选至少两门。",
+            "source_ids": [
+              "KAIST-399f68ecf629a4"
+            ],
+            "extraction_locator": "For undergraduate students admitted in 2023 and after"
+          },
+          {
+            "label": "研究训练与课程范围",
+            "text": "研究共9学分，包括本科论文3、独立研究2、研讨4；完成双主修者按规则免研究部分。课程目录含脑工程、神经与精神医学史、数据分析及计算模型等；这是脑科学本科培养，不等同医学学位或医师执照课程。",
+            "source_ids": [
+              "KAIST-399f68ecf629a4",
+              "KAIST-7c0e5155c667f4"
+            ],
+            "extraction_locator": "2023 Research"
           }
         ],
         "admissions": [],
@@ -1058,21 +1562,42 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-399f68ecf629a4",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://bcs.kaist.ac.kr/sub050201",
+          "checked_at": "2026-09-13",
+          "supports": "脑与认知科学培养；研究训练与课程范围",
+          "sha256": "17a37a2d7d06660832c1d1ea635b896d6be134ca773e40ddb8d318eb451a1cb1",
+          "locator": "For undergraduate students admitted in 2023 and after"
+        },
+        {
+          "id": "KAIST-7c0e5155c667f4",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://bcs.kaist.ac.kr/sub050101",
+          "checked_at": "2026-09-13",
+          "supports": "本科课程、学分或本项目专属申请条件；适用年级在正文说明",
+          "sha256": "6eda65c388c02683a22dfcd945a4bd93a8b14cbd0e8d41405b83b81facde2886",
+          "locator": "Undergraduate course descriptions"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "脑与认知科学",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "directory_only"
+      "research_status": "program_researched"
     },
     {
       "raw_key": "School of Transdisciplinary Studies",
       "name_en": "School of Transdisciplinary Studies",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+      "official_url": "https://sts.kaist.ac.kr/sts/html/sub2/020202.html",
       "university_id": "kaist",
       "inventory_id": "kaist-school-of-transdisciplinary-studies-b0970b7881",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -1089,9 +1614,34 @@
               "ASREN-5b6c4de709b7df"
             ],
             "extraction_locator": "PDF pages3 and8"
+          },
+          {
+            "label": "融合人才本科课程",
+            "text": "现行页面列2023起至少138总学分、主修42。必修21须包括文明与智慧经典阅读至少9、技术社会创新实验至少12；另选修21。阅读主题涵盖人、社会、宇宙、生命、艺术、技术；实验提供I至VI，不是六个独立本科学位。",
+            "source_ids": [
+              "KAIST-41b8805b64861d"
+            ],
+            "extraction_locator": "2023 and after; major requirements"
+          },
+          {
+            "label": "个人课程方案与研究",
+            "text": "学生可与导师商定外系课程计入主修选修，获学校批准后按个人意愿在成绩单注明重点领域。毕业研究3学分可由社会创新实验V或VI替代；附加深化、辅修、双主修或跨学科方案仍需完成。",
+            "source_ids": [
+              "KAIST-41b8805b64861d"
+            ],
+            "extraction_locator": "Individual emphasis and Research"
           }
         ],
-        "admissions": [],
+        "admissions": [
+          {
+            "label": "融合人才专业选择",
+            "text": "部门确认普通KAIST新生先未定专业，大二选系时可进入融合人才学部，院系不设选系名额上限；也可在读修该部门的双主修或辅修。申请者先走适用的KAIST本科招生途径，不向每个个人课程主题分别高中申请。",
+            "source_ids": [
+              "KAIST-910638fa70025b"
+            ],
+            "extraction_locator": "Department entry guidance"
+          }
+        ],
         "applications": [],
         "fees": [],
         "outcomes": []
@@ -1114,34 +1664,81 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-41b8805b64861d",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://sts.kaist.ac.kr/sts/html/sub2/020202.html",
+          "checked_at": "2026-09-13",
+          "supports": "融合人才本科课程；个人课程方案与研究",
+          "sha256": "ff09520223fc7ea6b8e5057ce26df3b5a941d1394feca39342bc30ac466cb017",
+          "locator": "2023 and after; major requirements"
+        },
+        {
+          "id": "KAIST-910638fa70025b",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://sts.kaist.ac.kr/sts/html/sub3/0303.html",
+          "checked_at": "2026-09-13",
+          "supports": "融合人才专业选择",
+          "sha256": "64f0dca07621cecaaf24ecc3589b2bf945ed5fbf300b866c9462d7fdea8700b8",
+          "locator": "Department entry guidance"
         }
       ],
       "display_fields": {
-        "language": "英语为主"
+        "language": "英语为主（2027国际本科简章）",
+        "name": "融合人才学",
+        "intake": "2027",
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。"
       },
-      "research_status": "directory_only"
+      "research_status": "program_researched"
     },
     {
       "university_id": "kaist",
       "raw_key": "2027 College of AI|AI Computing",
       "inventory_id": "kaist-ai-computing-4c437076d8",
       "name_en": "AI Computing",
-      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
-      "checked_at": "2026-09-12",
-      "research_status": "directory_only",
+      "official_url": "https://aicollege.kaist.ac.kr/aic/ug-reqs",
+      "checked_at": "2026-09-13",
+      "research_status": "program_researched",
       "display_fields": {
-        "name": "人工智能计算",
+        "name": "AI计算",
         "intake": "2027",
-        "entry_summary": "2027简章列AI学院方向；先按未定专业入学，后选专业。"
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
+        "language": "英语为主（2027国际本科简章）"
       },
       "sections": {
         "overview": [
           {
             "label": "2027目录确认",
-            "text": "2027国际本科简章第4页在College of AI下列出本方向。其专属课程、授予学位名称和独立毕业数据本轮尚未取得；下方招生及费用属于学校共用规则。",
+            "text": "2027国际本科简章第4页在College of AI下列出本专业。具体课程见下列院系要求；正式学位名称与独立毕业统计仍待补充，招生和费用按适用的学校共用规则阅读。",
             "source_ids": [
               "ASREN-5b6c4de709b7df"
             ]
+          },
+          {
+            "label": "AI计算主修要求",
+            "text": "2025起规则至少138总学分，AI计算主修44学分：必修9包括AI伦理与法律、AI计算导论，再从机器学习、深度学习或人工智能导论选一；选修35。机器学习/深度学习作为必修原则上须用AIC课号，2026春及此前课程有过渡安排；计入选修的计算机系课程最多12学分。",
+            "source_ids": [
+              "KAIST-25eed18a825345"
+            ],
+            "extraction_locator": "2025 and thereafter major requirements"
+          },
+          {
+            "label": "数学与研究要求",
+            "text": "基础选修至少9学分须含线性代数，可用数据科学线性代数替代；本科论文研究3学分，双主修者免研究部分。还须完成深化、辅修、双主修或跨学科等附加方案之一。专业必修依据本页，课程展示页的旧CS课号及Required标签与本页不同，尚待学校统一。",
+            "source_ids": [
+              "KAIST-25eed18a825345",
+              "KAIST-390c59f33dd9e3"
+            ],
+            "extraction_locator": "Basic elective, Research and transition"
+          },
+          {
+            "label": "课程展示页的版本差异",
+            "text": "课程展示页列强化学习、图机器学习、三维数据学习、人机交互与可穿戴界面等；其中把CS.10003、CS.40700和CS.30706标为Required，与专门毕业要求页的AIC三项必修规则不同。本条保留差异，不能将两页的必修清单相加。",
+            "source_ids": [
+              "KAIST-390c59f33dd9e3"
+            ],
+            "extraction_locator": "Course table; compare ug-reqs"
           }
         ]
       },
@@ -1154,30 +1751,74 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-25eed18a825345",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://aicollege.kaist.ac.kr/aic/ug-reqs",
+          "checked_at": "2026-09-13",
+          "supports": "AI计算主修要求；数学与研究要求",
+          "sha256": "34d53620ef13dfd0d8db37687c1b053f8a1644c10f9c3bfe9f307a45cff222f5",
+          "locator": "2025 and thereafter major requirements"
+        },
+        {
+          "id": "KAIST-390c59f33dd9e3",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://aicollege.kaist.ac.kr/aic/ug-courses",
+          "checked_at": "2026-09-13",
+          "supports": "课程展示页的版本差异",
+          "sha256": "c2b709f4c157753667693eed9c2131466ba9577c528496c833806b025995e57b",
+          "locator": "Course table; compare ug-reqs"
         }
-      ]
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）"
     },
     {
       "university_id": "kaist",
       "raw_key": "2027 College of AI|AI Systems",
       "inventory_id": "kaist-ai-systems-ad630c0308",
       "name_en": "AI Systems",
-      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
-      "checked_at": "2026-09-12",
-      "research_status": "directory_only",
+      "official_url": "https://aicollege.kaist.ac.kr/ais/ug-reqs",
+      "checked_at": "2026-09-13",
+      "research_status": "program_researched",
       "display_fields": {
-        "name": "人工智能系统",
+        "name": "AI系统",
         "intake": "2027",
-        "entry_summary": "2027简章列AI学院方向；先按未定专业入学，后选专业。"
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
+        "language": "英语为主（2027国际本科简章）"
       },
       "sections": {
         "overview": [
           {
             "label": "2027目录确认",
-            "text": "2027国际本科简章第4页在College of AI下列出本方向。其专属课程、授予学位名称和独立毕业数据本轮尚未取得；下方招生及费用属于学校共用规则。",
+            "text": "2027国际本科简章第4页在College of AI下列出本专业。具体课程见下列院系要求；正式学位名称与独立毕业统计仍待补充，招生和费用按适用的学校共用规则阅读。",
             "source_ids": [
               "ASREN-5b6c4de709b7df"
             ]
+          },
+          {
+            "label": "AI系统主修要求",
+            "text": "2025起至少138总学分，主修44学分（必修12、选修32）。必修组合为AI伦理与法律、AI系统导论、一门信号/电路/电磁/编程/概率/物理电子基础，再加AI基础与实验、人工智能导论、机器学习或深度学习四选一；共享电类课程须用符合规定的AIS课号计必修。",
+            "source_ids": [
+              "KAIST-eaed79734ebbb9"
+            ],
+            "extraction_locator": "2025 and thereafter major requirements"
+          },
+          {
+            "label": "AI系统课程与开设时间",
+            "text": "课程规划分系统基础、计算与存储芯片、系统整合、体系结构与系统软件、应用及综合设计。页面列2026秋端侧AI系统/Capstone等，AI系统导论与基础实验列2027春；未来学期开设计划不能当作本学期全部已开。",
+            "source_ids": [
+              "KAIST-959f2428403bfd"
+            ],
+            "extraction_locator": "Course framework and semester tables"
+          },
+          {
+            "label": "AI系统研究",
+            "text": "本科论文研究3学分，双主修者免研究部分；另须完成深化、辅修、双主修或跨学科等方案之一。9学分基础选修须从线性代数、微分方程、应用分析中至少选二。",
+            "source_ids": [
+              "KAIST-eaed79734ebbb9"
+            ],
+            "extraction_locator": "Basic elective and Research"
           }
         ]
       },
@@ -1190,30 +1831,66 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-eaed79734ebbb9",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://aicollege.kaist.ac.kr/ais/ug-reqs",
+          "checked_at": "2026-09-13",
+          "supports": "AI系统主修要求；AI系统研究",
+          "sha256": "5a3bbb67e39bccb8a9e65f6a35a7858d3501dd43c027c8c95deb2870d262d604",
+          "locator": "2025 and thereafter major requirements"
+        },
+        {
+          "id": "KAIST-959f2428403bfd",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://aicollege.kaist.ac.kr/ais/ug-courses",
+          "checked_at": "2026-09-13",
+          "supports": "AI系统课程与开设时间",
+          "sha256": "70fb06df5565acbd6433adba18577b5df54e2695f0169c38d4b5e5daa7e399f9",
+          "locator": "Course framework and semester tables"
         }
-      ]
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）"
     },
     {
       "university_id": "kaist",
       "raw_key": "2027 College of AI|AX",
       "inventory_id": "kaist-ax-80a1c34e4f",
       "name_en": "AX",
-      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
-      "checked_at": "2026-09-12",
-      "research_status": "directory_only",
+      "official_url": "https://aicollege.kaist.ac.kr/ax/ug-reqs",
+      "checked_at": "2026-09-13",
+      "research_status": "program_researched",
       "display_fields": {
-        "name": "AX（官方专业名称）",
+        "name": "AX人工智能应用",
         "intake": "2027",
-        "entry_summary": "2027简章列AI学院方向；先按未定专业入学，后选专业。"
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
+        "language": "英语为主（2027国际本科简章）"
       },
       "sections": {
         "overview": [
           {
             "label": "2027目录确认",
-            "text": "2027国际本科简章第4页在College of AI下列出本方向。其专属课程、授予学位名称和独立毕业数据本轮尚未取得；下方招生及费用属于学校共用规则。",
+            "text": "2027国际本科简章第4页在College of AI下列出本专业。具体课程见下列院系要求；正式学位名称与独立毕业统计仍待补充，招生和费用按适用的学校共用规则阅读。",
             "source_ids": [
               "ASREN-5b6c4de709b7df"
             ]
+          },
+          {
+            "label": "AX实际公布的必修",
+            "text": "官网列AI伦理与法律、概率统计与优化、AI模型与算法、系统与平台实现、Living Lab I及II六项必修。页面注明要求可能改变，选修清单尚待更新；本轮未取得AX完整总学分与专业学分，不套用其他AI专业的138/44数字。",
+            "source_ids": [
+              "KAIST-2d1ec41654c561"
+            ],
+            "extraction_locator": "Mandatory courses and subject to change notice"
+          },
+          {
+            "label": "AX应用领域",
+            "text": "AI学院把AX应用分为数据与内容、物理系统与制造、生物与材料、可持续发展等主题。这是一个专业的应用范围；尚未取得各主题独立学位或分别高中招生的证据。",
+            "source_ids": [
+              "KAIST-52a9343ce6ed43"
+            ],
+            "extraction_locator": "AX department description"
           }
         ]
       },
@@ -1226,30 +1903,74 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-2d1ec41654c561",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://aicollege.kaist.ac.kr/ax/ug-reqs",
+          "checked_at": "2026-09-13",
+          "supports": "AX实际公布的必修",
+          "sha256": "d9ffd047bbcc36ad53932ddda521f14482c8b362983fd602a5766140c3a94d22",
+          "locator": "Mandatory courses and subject to change notice"
+        },
+        {
+          "id": "KAIST-52a9343ce6ed43",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://aicollege.kaist.ac.kr/majors",
+          "checked_at": "2026-09-13",
+          "supports": "AX应用领域",
+          "sha256": "99e0b649589b99157c78c8b172da7bb5634fa61be3ac56df84db04cef00c77e5",
+          "locator": "AX department description"
         }
-      ]
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）"
     },
     {
       "university_id": "kaist",
       "raw_key": "2027 College of AI|AI and Future Studies",
       "inventory_id": "kaist-ai-and-future-studies-23efee9a28",
       "name_en": "AI and Future Studies",
-      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
-      "checked_at": "2026-09-12",
-      "research_status": "directory_only",
+      "official_url": "https://aicollege.kaist.ac.kr/fx/ug-reqs",
+      "checked_at": "2026-09-13",
+      "research_status": "program_researched",
       "display_fields": {
-        "name": "人工智能与未来研究",
+        "name": "AI与未来学",
         "intake": "2027",
-        "entry_summary": "2027简章列AI学院方向；先按未定专业入学，后选专业。"
+        "entry_summary": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。AI未来学须至少完成一个双主修。",
+        "language": "英语为主（2027国际本科简章）"
       },
       "sections": {
         "overview": [
           {
             "label": "2027目录确认",
-            "text": "2027国际本科简章第4页在College of AI下列出本方向。其专属课程、授予学位名称和独立毕业数据本轮尚未取得；下方招生及费用属于学校共用规则。",
+            "text": "2027国际本科简章第4页在College of AI下列出本专业。具体课程见下列院系要求；正式学位名称与独立毕业统计仍待补充，招生和费用按适用的学校共用规则阅读。",
             "source_ids": [
               "ASREN-5b6c4de709b7df"
             ]
+          },
+          {
+            "label": "AI未来学主修与强制双主修",
+            "text": "2025起至少138总学分，主修44学分（必修12、选修32）。必修四门为AI伦理与法律、媒体与未来、技术与资源、行星智能。学生必须至少完成一个双主修，不能用一般辅修或深化方案代替这一项要求。",
+            "source_ids": [
+              "KAIST-9941959f169eb3"
+            ],
+            "extraction_locator": "2025 requirements; mandatory double major"
+          },
+          {
+            "label": "AI未来学选课与研究",
+            "text": "其他AI专业课程最多计12学分、人文社会课程最多6学分、独立研究最多4学分。毕业研究3学分，双主修者按规则豁免。课程展示页还列知识产权、创新创业、环境与气候政策等选修，不能误写成四门必修。",
+            "source_ids": [
+              "KAIST-9941959f169eb3"
+            ],
+            "extraction_locator": "Major electives and Research"
+          },
+          {
+            "label": "跨领域课程例子",
+            "text": "课程展示页包含未来战略、技术创业、知识产权与商业法律、环境及气候政策等选修；部分本科与研究生相互认可课程不表示高中申请者直接进入硕士。",
+            "source_ids": [
+              "KAIST-8fa25ce8bc427c"
+            ],
+            "extraction_locator": "Elective course table"
           }
         ]
       },
@@ -1262,14 +1983,178 @@
           "supports": "2027申请身份、材料、英语、未定专业与授课语言",
           "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
           "locator": "PDF pages3–8,12"
+        },
+        {
+          "id": "KAIST-9941959f169eb3",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://aicollege.kaist.ac.kr/fx/ug-reqs",
+          "checked_at": "2026-09-13",
+          "supports": "AI未来学主修与强制双主修；AI未来学选课与研究",
+          "sha256": "e28452dacd0f24aed99ca1858269578d8b0f48cbdcb40d6d98ce947c54ddae24",
+          "locator": "2025 requirements; mandatory double major"
+        },
+        {
+          "id": "KAIST-8fa25ce8bc427c",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://aicollege.kaist.ac.kr/fx/ug-courses",
+          "checked_at": "2026-09-13",
+          "supports": "跨领域课程例子",
+          "sha256": "58f36388b0637d8c6bf6f4f1d962aa142637c75d998c98b40837d8998f6b90a9",
+          "locator": "Elective course table"
         }
-      ]
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）"
+    },
+    {
+      "university_id": "kaist",
+      "inventory_id": "kaist-semiconductor-system-engineering",
+      "raw_key": "Semiconductor System Engineering|2027 special admission",
+      "name_en": "Semiconductor System Engineering",
+      "degree_label": "本科专业（正式学位名称待核）",
+      "official_url": "https://sse.kaist.ac.kr/admission-guide/",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "本科专业及课程",
+            "text": "半导体系统工程有专门的本科培养要求。2023起规则列至少138总学分，主修53学分：必修18须含半导体系统导论、半导体电学实验及六门电气基础中的四门，选修35须含一门指定系统/器件/工艺设计实验；研究至少6学分。",
+            "source_ids": [
+              "KAIST-e3961d0013c7ab"
+            ],
+            "extraction_locator": "2023 undergraduate requirements"
+          },
+          {
+            "label": "研究与实习",
+            "text": "研究须含毕业研究3学分和半导体Colloquium1学分；获三星贷款奖学金选拔者还必须完成三星实习2学分。跨系双主修可免毕业研究，但不能免研讨；其他系学生不能将本系作为辅修或双主修。",
+            "source_ids": [
+              "KAIST-e3961d0013c7ab"
+            ],
+            "extraction_locator": "Research and other-department restrictions"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专门入口与不可转入",
+            "text": "官方只允许通过半导体系统人才选拔直接入学，普通未定专业学生不能以后选入或转入。2026及以后该专门入口录取者也不能转出其他系；可在读修其他系辅修或双主修。",
+            "source_ids": [
+              "KAIST-7288684ad61bcf"
+            ],
+            "extraction_locator": "Admission and FAQ"
+          },
+          {
+            "label": "中国申请者资格尚未取得",
+            "text": "2027国际本科简章的专业表未列本项目；本轮未取得专门入口对中国大陆高中毕业生的具体国籍与学历认可规则。不将普通国际生英语、时间及奖学金规则直接套用，也不据此断言所有外国人永久不得申请。",
+            "source_ids": [
+              "KAIST-45eed710a46b69"
+            ],
+            "extraction_locator": "PDF page4: international undergraduate program table"
+          },
+          {
+            "label": "2027春毕业时间与学历路径",
+            "text": "专门计划通常要求截至2027年2月高中毕业或预计毕业（含提前毕业），或按韩国法律认可同等学历；另列经KAIST科学英才委员会认定的入学资格。中国大陆学历认可与国籍适用本轮仍未取得。",
+            "source_ids": [
+              "KAIST-aa845149c3bdba"
+            ],
+            "extraction_locator": "2027 special plan, printed page12, item3"
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027专门选拔计划",
+            "text": "2027春计划约40人；先审材料、后面试，最终材料与面试按40%/60%合成。面试含数学、英语、物理/化学/生物自选一科及专业适配；计划2026年12月公布最终结果。本轮未取得完整申请起止时间。这里的专门选拔不是国际本科Regular批次。",
+            "source_ids": [
+              "KAIST-aa845149c3bdba"
+            ],
+            "extraction_locator": "One-page 2027 special-admission plan, printed page12"
+          }
+        ],
+        "fees": [
+          {
+            "label": "有条件的学费支持",
+            "text": "部门列4年学费支持及相关生活、宿舍等资助；学费可因成绩依学校规则部分自付，合同津贴也可能调整。三星贷款奖学金选拔可从大二下开始，通过后才由三星按相应阶段资助；未通过并非无条件延续同样待遇。2027具体收费与全部合同文本尚未取得。",
+            "source_ids": [
+              "KAIST-7288684ad61bcf"
+            ],
+            "extraction_locator": "Admission privileges and FAQ"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "就业安排不是无条件录用",
+            "text": "须通过三星贷款奖学金选拔、完成规定实习、达到毕业GPA至少2.7/4.3等条件，才按合作安排入职。服务义务为选拔通过后三星实际直接资助期的两倍，前两年院系资助不计入。未通过、未入职或服务不满可能须按规则退还资助；未取得实际毕业就业率或薪资。",
+            "source_ids": [
+              "KAIST-7288684ad61bcf"
+            ],
+            "extraction_locator": "Samsung recruitment conditions and repayment FAQ"
+          },
+          {
+            "label": "就业条件的身份适用缺口",
+            "text": "官网另列男性学生入职前须履行兵役义务，但未说明该条对外国身份如何适用；不能据此认定中国男性须服韩国兵役，也不能承诺中国申请者符合这项合作就业安排。",
+            "source_ids": [
+              "KAIST-7288684ad61bcf"
+            ],
+            "extraction_locator": "Important matters: male students military-service condition; foreign applicability not stated"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "KAIST-e3961d0013c7ab",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://sse.kaist.ac.kr/education-completion/bachelor/",
+          "checked_at": "2026-09-13",
+          "supports": "本科专业及课程；研究与实习",
+          "sha256": "0fab82d27c3c7d18446a12afb377a962d2f000313eceda71dacac0ec8a424cd9",
+          "locator": "2023 undergraduate requirements"
+        },
+        {
+          "id": "KAIST-7288684ad61bcf",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://sse.kaist.ac.kr/admission-guide/",
+          "checked_at": "2026-09-13",
+          "supports": "专门入口与不可转入；有条件的学费支持；就业安排不是无条件录用；就业条件的身份适用缺口",
+          "sha256": "bd26a51738fdaf28f63119dfbb77c16b28b02670e76c397a262ceca15f172ebb",
+          "locator": "Admission and FAQ"
+        },
+        {
+          "id": "KAIST-45eed710a46b69",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "中国申请者资格尚未取得",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF page4: international undergraduate program table"
+        },
+        {
+          "id": "KAIST-aa845149c3bdba",
+          "title": "KAIST官方本科课程与项目说明",
+          "url": "https://sse.kaist.ac.kr/wp-content/uploads/2026/03/%EB%B0%98%EB%8F%84%EC%B2%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%B5%ED%95%99%EA%B3%BC-2027%ED%95%99%EB%85%84%EB%8F%84-%ED%95%99%EC%82%AC%EA%B3%BC%EC%A0%95-%EC%9E%85%ED%95%99%EC%A0%84%ED%98%95-%EC%8B%9C%ED%96%89%EA%B3%84%ED%9A%8D2026.-3.-%EA%B3%B5%ED%91%9C-.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "2027专门选拔计划；2027春毕业时间与学历路径",
+          "sha256": "5b4b2d79589ea3a967782ee68d8ba37939204e74c5d85c0bc7a285ae0a1c10bd",
+          "locator": "One-page 2027 special-admission plan, printed page12"
+        }
+      ],
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "半导体系统工程",
+        "intake": "2027春（专门选拔；国际生资格待核）",
+        "language": "本轮未取得授课语种要求",
+        "entry_summary": "单独半导体人才选拔，普通未定专业入学者不可转入；中国大陆高中申请资格尚未核实。",
+        "tuition_summary": "有条件的4年学费支持；普通国际生奖学金不直接套用。"
+      },
+      "research_status": "program_researched"
     }
   ],
   "profile": {
     "university_id": "kaist",
     "checked_at": "2026-09-12",
-    "scope": "KAIST本部国际本科新生；项目名称不是直接分专业录取入口。",
+    "scope": "普通国际本科未定专业新生，2027简章所列22项；不适用于单独半导体人才选拔。",
     "sections": {
       "admissions": [
         {
@@ -1281,7 +2166,7 @@
         },
         {
           "label": "中国高中／国际课程材料",
-          "text": "2027须至少一项正式标准化成绩，可为SAT/ACT/AP/IB/A-Level或国家高中毕业／大学入学考试；须有数学科学能力证据。高中毕业／大学入学考试成绩还需一页考试背景说明。IB/A-Level可由学校确认预测成绩，后补实际分；本轮未取得专属高考录取分数线。",
+          "text": "2027须至少一项正式标准化成绩，可为SAT/ACT/AP/IB/A-Level或国家高中毕业／大学入学考试；学校强烈鼓励提交体现数学及理科能力的考试成绩；这项建议与至少一种正式考试的必交要求不同。高中毕业／大学入学考试成绩还需一页考试背景说明。IB/A-Level可由学校确认预测成绩，后补实际分；本轮未取得专属高考录取分数线。",
           "source_ids": [
             "ASREN-5b6c4de709b7df"
           ]
@@ -1299,6 +2184,14 @@
           "source_ids": [
             "ASREN-aa009e11a49846"
           ]
+        },
+        {
+          "label": "英语考试日期与豁免范围",
+          "text": "Early接受2024-11-12及以后考试，Regular接受2025-02-04及以后考试，且申请截止时须仍在两年有效期内。国籍自动豁免仅按简章指定国家名单；其他申请者可凭高中出具的全英语授课证明申请豁免，不泛化为任何使用英语的国家均豁免。",
+          "source_ids": [
+            "ASREN-5b6c4de709b7df"
+          ],
+          "extraction_locator": "2027 guide printed page8: Earliest Accepted Test Date and EPT Exemption"
         }
       ],
       "applications": [

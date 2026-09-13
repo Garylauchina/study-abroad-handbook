@@ -5,7 +5,7 @@ import re
 from urllib.parse import urlsplit
 
 SECTIONS = [('overview', '专业说明'), ('admissions', '入学条件'), ('applications', '申请安排'), ('fees', '学费与资助'), ('outcomes', '毕业生情况')]
-DISPLAY_FIELDS = {'name', 'intake', 'duration', 'campus', 'language', 'entry_summary', 'tuition_summary', 'outcomes_summary'}
+DISPLAY_FIELDS = {'name', 'intake', 'duration', 'campus', 'language', 'entry_summary', 'tuition_summary', 'tuition_label', 'outcomes_summary'}
 
 
 def validate_record(record, label):

@@ -1,394 +1,765 @@
 {
   "university_id": "kaist",
-  "checked_at": "2026-09-12",
+  "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 22,
-    "scope": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
-    "method": "[{\"named_department_entries\": 17, \"school_level_entries\": 1}] 对照2027国际本科简章第4页补AI学院四方向，并纠正Mathematical Sciences旧拼写。",
+    "count": 23,
+    "scope": "2027国际简章22本科项目，加1单独选拔半导体系统工程；未将所有辅修和个人组合当独立学位",
+    "method": "逐院系核23项真实课程、适用年份和入口；22稳定ID保留，公开原文及浏览器/网页文本捕获均保留指纹。",
     "exclusions": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
     "sources": [
       {
         "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
         "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
-        "bytes": 47299,
         "raw_file": "scratch/full-catalog/asia/kaist/raw/directory.html",
-        "meta_file": "scratch/full-catalog/asia/kaist/raw/directory.meta.json"
+        "locator": "Before You Apply / Into Your Interest"
       },
       {
         "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
         "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
         "raw_file": "scratch/full-catalog/asia-rest-enrichment/kaist/raw/guide2027.pdf",
-        "bytes": 5060683
+        "locator": "PDF pages3–8,12"
+      },
+      {
+        "url": "https://physics.kaist.ac.kr/index.php?mid=p_academic2",
+        "sha256": "25871e75fdbecfc2f2672f2a17f2d91dd1d7cc71f1a3158602e95d732900e844",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/physics-courses.html",
+        "locator": "Undergraduate mandatory and elective table"
+      },
+      {
+        "url": "https://physics.kaist.ac.kr/index.php?mid=p_academic3",
+        "sha256": "f725c436916add4507ddbc63ec23ba12ac75513b367c04065a5a4ed44628647f",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/physics-req.html",
+        "locator": "2023 undergraduate requirements"
+      },
+      {
+        "url": "https://mathsci.kaist.ac.kr/home/edu/requirement/",
+        "sha256": "6ef505b11ca6b111965795db01f722bcd0392f488bba5cc83c280d714eb14003",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/id-math-open-web.txt",
+        "locator": "Mathematics page lines8–13; 2016 and after"
+      },
+      {
+        "url": "https://chem.kaist.ac.kr/_files/board/20240124//bce2d455fafbab581bcd27a93731c143.pdf",
+        "sha256": "283a3e973b89e0a3082a046e1207b0bb9a8514f7ffb2009e324f820f5a89518b",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/chem-req-pdf.pdf",
+        "locator": "2024 file, page1"
+      },
+      {
+        "url": "https://chem.kaist.ac.kr/curriculum",
+        "sha256": "3434ecae40d1dffc5c14f077c8f61143a285ffde689b0ff6598eee900e22ebe1",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/chem-courses.html",
+        "locator": "Undergraduate curriculum and course descriptions"
+      },
+      {
+        "url": "https://me.kaist.ac.kr/eng/download/%EA%B8%B0%EB%B0%98%EA%B3%BC%EB%AA%A9%20%EC%86%8C%EA%B0%9C%EC%9E%90%EB%A3%8C%282025.11%20%EA%B8%B0%EC%A4%80%29.pdf",
+        "sha256": "6c1460d09696a4847ca37fcdc75f7427ba283239d418daf526ba183fa7d6a127",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/me-req-pdf.pdf",
+        "locator": "2025 edition pages1–2"
+      },
+      {
+        "url": "https://ae.kaist.ac.kr/resources/wis-layout/file/%ED%95%AD%EA%B3%B5%EC%9A%B0%EC%A3%BC%EA%B3%B5%ED%95%99%EA%B3%BC_%EA%B5%90%EA%B3%BC%EB%AA%A9%EC%9D%B4%EC%88%98%EC%9A%94%EA%B1%B4.pdf",
+        "sha256": "fd4723c676737dce43551826949471be403365769a153c066c62ea530dfd181e",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ae-req-pdf.pdf",
+        "locator": "PDF pages5–6, 2023 and after"
+      },
+      {
+        "url": "https://ee.kaist.ac.kr/en/under-req/2023/",
+        "sha256": "9b4c2b1b33ea512c0b703fb5e8248614bee826bfca4f979273fa16e083faa48f",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ee-req.html",
+        "locator": "2023 requirements"
+      },
+      {
+        "url": "https://cs.kaist.ac.kr/content?menu=318",
+        "sha256": "ea50bf8d265c8a9f13dedfddfd7b96193eef75ac907bd093bca6d99da1ac4181",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/cs-req.html",
+        "locator": "2023 requirements"
+      },
+      {
+        "url": "https://cee.kaist.ac.kr/pages/sub/sub03_02",
+        "sha256": "b34c78a8f4b9093c6b7fe0929ee54b1ae51b0f769215d925686c3c0340ef084d",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/cee-req.html",
+        "locator": "2023 requirements"
+      },
+      {
+        "url": "https://bioeng.kaist.ac.kr/index.php?mid=bio_04_01_03_03",
+        "sha256": "d69e0bb8aa843497cdcf4d8ccf3b972f48cb4a40e733c2ccd2ab30d704002a70",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/bis-req2023.html",
+        "locator": "2023 and after major requirements"
+      },
+      {
+        "url": "https://bioeng.kaist.ac.kr/index.php?document_srl=8924&mid=bio_04_01_01",
+        "sha256": "58be0f6a639405fd4cd5071eca511fd45354ab0b644eb5c66a0f1023175ec3ae",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/bis-courses.html",
+        "locator": "Undergraduate curriculum structure and field table"
+      },
+      {
+        "url": "https://id.kaist.ac.kr/education",
+        "sha256": "c309597c0e7cada8979b0dc730eb41e3e2967e2af4050123845d923d81ed85e1",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/id-courses-browser.txt",
+        "locator": "Browser rendered undergraduate Courses, years1–4"
+      },
+      {
+        "url": "https://ise.kaist.ac.kr/curriculum",
+        "sha256": "178bbc887760fab8d4e9e3231112b2cf124c118afee9b066b76a3afb1a30c38e",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ise-courses.html",
+        "locator": "Undergraduate curriculum table"
+      },
+      {
+        "url": "https://ise.kaist.ac.kr/overall-requirements",
+        "sha256": "88b78566f73e97b770c26f3194c33fab123c9758cbd9374ad8c4085f5b72ea53",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ise-req.html",
+        "locator": "Undergraduate downloads; July2023; linked bulletin login"
+      },
+      {
+        "url": "https://cbe.kaist.ac.kr/pages/sub/sub04_02_ko",
+        "sha256": "d0fb2c0da04802b168944e0e1bb2cdc662c6c08fb7800e841c1b4d5a4c67ea59",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/cbe-req.html",
+        "locator": "2016 and after requirements; lower course table"
+      },
+      {
+        "url": "https://mse.kaist.ac.kr/index.php?mid=mse_undercurriculum",
+        "sha256": "8720a9870c544ad126e51d752404580dfe1d24bdacaa5a57d7fc028c3897d456",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ms-req.html",
+        "locator": "For Undergraduate Students admitted in 2026 and after; contrast earlier cohort transitions"
+      },
+      {
+        "url": "https://nuclear.kaist.ac.kr/study/curriculum01.php",
+        "sha256": "59a5f9d4e68088f2d737f0691f9f8c15151f02630eddef5bd4a28586cda72b92",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/nqe-req.html",
+        "locator": "Undergraduate major and 2023 total"
+      },
+      {
+        "url": "https://btm.kaist.ac.kr/page/en/selectPage.do?menuSeq=3475&pageSeq=3720",
+        "sha256": "00f6f5410dc5065ec5928c1bbb601526a83a116918391078fb1b57d5fc5f6447",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/btm-req.html",
+        "locator": "2023 requirements, Major and Double Major"
+      },
+      {
+        "url": "https://bio.kaist.ac.kr/page/ko/selectPage.do?menuSeq=3357&pageSeq=3406",
+        "sha256": "927e13cac5fdf570884120e24175358ae228955c1a855d57faf52efcb4cd9500",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/bio-req.html",
+        "locator": "2024 and thereafter requirements"
+      },
+      {
+        "url": "https://bcs.kaist.ac.kr/sub050201",
+        "sha256": "17a37a2d7d06660832c1d1ea635b896d6be134ca773e40ddb8d318eb451a1cb1",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/bcs-req.html",
+        "locator": "For undergraduate students admitted in 2023 and after"
+      },
+      {
+        "url": "https://bcs.kaist.ac.kr/sub050101",
+        "sha256": "6eda65c388c02683a22dfcd945a4bd93a8b14cbd0e8d41405b83b81facde2886",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/bcs-courses.html",
+        "locator": "Undergraduate course descriptions"
+      },
+      {
+        "url": "https://sts.kaist.ac.kr/sts/html/sub2/020202.html",
+        "sha256": "ff09520223fc7ea6b8e5057ce26df3b5a941d1394feca39342bc30ac466cb017",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/sts-req.html",
+        "locator": "2023 and after; major requirements"
+      },
+      {
+        "url": "https://sts.kaist.ac.kr/sts/html/sub3/0303.html",
+        "sha256": "64f0dca07621cecaaf24ecc3589b2bf945ed5fbf300b866c9462d7fdea8700b8",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/sts-entry.html",
+        "locator": "Department entry guidance"
+      },
+      {
+        "url": "https://aicollege.kaist.ac.kr/aic/ug-reqs",
+        "sha256": "34d53620ef13dfd0d8db37687c1b053f8a1644c10f9c3bfe9f307a45cff222f5",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/aic-req.html",
+        "locator": "2025 and thereafter major requirements"
+      },
+      {
+        "url": "https://aicollege.kaist.ac.kr/aic/ug-courses",
+        "sha256": "c2b709f4c157753667693eed9c2131466ba9577c528496c833806b025995e57b",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/aic-courses.html",
+        "locator": "Course table; compare ug-reqs"
+      },
+      {
+        "url": "https://aicollege.kaist.ac.kr/ais/ug-reqs",
+        "sha256": "5a3bbb67e39bccb8a9e65f6a35a7858d3501dd43c027c8c95deb2870d262d604",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ais-req.html",
+        "locator": "2025 and thereafter major requirements"
+      },
+      {
+        "url": "https://aicollege.kaist.ac.kr/ais/ug-courses",
+        "sha256": "70fb06df5565acbd6433adba18577b5df54e2695f0169c38d4b5e5daa7e399f9",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ais-courses.html",
+        "locator": "Course framework and semester tables"
+      },
+      {
+        "url": "https://aicollege.kaist.ac.kr/ax/ug-reqs",
+        "sha256": "d9ffd047bbcc36ad53932ddda521f14482c8b362983fd602a5766140c3a94d22",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ax-req.html",
+        "locator": "Mandatory courses and subject to change notice"
+      },
+      {
+        "url": "https://aicollege.kaist.ac.kr/majors",
+        "sha256": "99e0b649589b99157c78c8b172da7bb5634fa61be3ac56df84db04cef00c77e5",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ai-majors.html",
+        "locator": "AX department description"
+      },
+      {
+        "url": "https://aicollege.kaist.ac.kr/fx/ug-reqs",
+        "sha256": "e28452dacd0f24aed99ca1858269578d8b0f48cbdcb40d6d98ce947c54ddae24",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/fx-req.html",
+        "locator": "2025 requirements; mandatory double major"
+      },
+      {
+        "url": "https://aicollege.kaist.ac.kr/fx/ug-courses",
+        "sha256": "58f36388b0637d8c6bf6f4f1d962aa142637c75d998c98b40837d8998f6b90a9",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/fx-courses.html",
+        "locator": "Elective course table"
+      },
+      {
+        "url": "https://sse.kaist.ac.kr/education-completion/bachelor/",
+        "sha256": "0fab82d27c3c7d18446a12afb377a962d2f000313eceda71dacac0ec8a424cd9",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/sse-req.html",
+        "locator": "2023 undergraduate requirements"
+      },
+      {
+        "url": "https://sse.kaist.ac.kr/admission-guide/",
+        "sha256": "bd26a51738fdaf28f63119dfbb77c16b28b02670e76c397a262ceca15f172ebb",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/sse-admission.html",
+        "locator": "Admission and FAQ"
+      },
+      {
+        "url": "https://sse.kaist.ac.kr/wp-content/uploads/2026/03/%EB%B0%98%EB%8F%84%EC%B2%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%B5%ED%95%99%EA%B3%BC-2027%ED%95%99%EB%85%84%EB%8F%84-%ED%95%99%EC%82%AC%EA%B3%BC%EC%A0%95-%EC%9E%85%ED%95%99%EC%A0%84%ED%98%95-%EC%8B%9C%ED%96%89%EA%B3%84%ED%9A%8D2026.-3.-%EA%B3%B5%ED%91%9C-.pdf",
+        "sha256": "5b4b2d79589ea3a967782ee68d8ba37939204e74c5d85c0bc7a285ae0a1c10bd",
+        "raw_file": "scratch/full-catalog/kaist-enrichment/raw/sse-plan2027.pdf",
+        "locator": "One-page 2027 special-admission plan, printed page12"
+      },
+      {
+        "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub02",
+        "sha256": "5cbb044b943e17928220d0d864975d46f645c182375c52b02fb01741cf23194e",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/kaist/raw/eligibility.html",
+        "locator": "About Admissions"
+      },
+      {
+        "url": "https://admission.kaist.ac.kr/intl-undergraduate/support/coa",
+        "sha256": "43c79597546f4b17be41c20d0cd2634e446c944d620ad50abce4ab101c5a6a70",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/kaist/raw/coa.html",
+        "locator": "Cost of Attendance tables"
+      },
+      {
+        "url": "https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist",
+        "sha256": "9ce1ec085c023bba31aaf9655c7e208167225a22357f041f4a40a169be6f635c",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/kaist/raw/kaist-scholarship.html",
+        "locator": "Eligibility/Subsidies/Requirement"
       }
     ],
     "gaps": [
-      "2027简章已补齐AI学院四方向；各方向具体学位名称、课程结构和校历完整性仍待核对。"
+      "数学与化工仍有旧届学分版本，工业工程完整学分链接须登录；不能套其他专业数字。",
+      "AX专业选修及完整学分尚待发布或取得；AI计算课程展示与专门要求页有课号/必选标签差异。",
+      "半导体系统工程2027中国大陆高中生的国籍/学历资格未取得，不套普通国际生入口。",
+      "正式学位名称、部分标准学制、全部内部方向及专业单列毕业统计仍待补；现行学费未确认2027锁定报价。"
     ]
   },
   "programs": [
     {
       "name_en": "Physics",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://natsci.kaist.ac.kr/eng/sub0201",
-      "intake": null,
+      "official_url": "https://physics.kaist.ac.kr/index.php?mid=p_academic3",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Physics",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-physics-2419871986"
+      "id": "kaist-physics-2419871986",
+      "name": "物理学",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
     },
     {
       "name_en": "Mathematical Sciences",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://natsci.kaist.ac.kr/eng/sub0202",
-      "intake": null,
+      "official_url": "https://mathsci.kaist.ac.kr/home/edu/requirement/",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Matematical Sciences",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
       "id": "kaist-matematical-sciences-cc7733c3d1",
-      "identity_note": "2027正式简章纠正旧页面拼写，稳定ID与raw_key保留。"
+      "identity_note": "2027正式简章纠正旧页面拼写，稳定ID与raw_key保留。",
+      "name": "数学科学",
+      "subject": "数学与统计",
+      "subjects": [
+        "数学与统计"
+      ]
     },
     {
       "name_en": "Chemistry",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://natsci.kaist.ac.kr/eng/sub0203",
-      "intake": null,
+      "official_url": "https://chem.kaist.ac.kr/curriculum",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Chemistry",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-chemistry-bc0b7fadb5"
+      "id": "kaist-chemistry-bc0b7fadb5",
+      "name": "化学",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
     },
     {
       "name_en": "Mechanical Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=74",
-      "intake": null,
+      "official_url": "https://me.kaist.ac.kr/eng/download/%EA%B8%B0%EB%B0%98%EA%B3%BC%EB%AA%A9%20%EC%86%8C%EA%B0%9C%EC%9E%90%EB%A3%8C%282025.11%20%EA%B8%B0%EC%A4%80%29.pdf",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Mechanical Engineering",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-mechanical-engineering-1cf311b5df"
+      "id": "kaist-mechanical-engineering-1cf311b5df",
+      "name": "机械工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Aerospace Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=75",
-      "intake": null,
+      "official_url": "https://ae.kaist.ac.kr/pages/sub/sub02_03_02",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Aerospace Engineering",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-aerospace-engineering-9e987282eb"
+      "id": "kaist-aerospace-engineering-9e987282eb",
+      "name": "航空航天工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Electrical Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=76",
-      "intake": null,
+      "official_url": "https://ee.kaist.ac.kr/en/under-req/2023/",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Electrical Engineering",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-electrical-engineering-f656749a23"
+      "id": "kaist-electrical-engineering-f656749a23",
+      "name": "电气与电子工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Computer Science",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=77",
-      "intake": null,
+      "official_url": "https://cs.kaist.ac.kr/content?menu=318",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Computer Science",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-computer-science-8e385cf2b1"
+      "id": "kaist-computer-science-8e385cf2b1",
+      "name": "计算机科学",
+      "subject": "计算机",
+      "subjects": [
+        "计算机"
+      ]
     },
     {
       "name_en": "Civil & Environmental Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=84",
-      "intake": null,
+      "official_url": "https://cee.kaist.ac.kr/pages/sub/sub03_02",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Civil & Environmental Engineering",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-civil-environmental-engineering-02a536a240"
+      "id": "kaist-civil-environmental-engineering-02a536a240",
+      "name": "土木与环境工程",
+      "subject": "工程",
+      "subjects": [
+        "工程",
+        "环境与农业"
+      ]
     },
     {
       "name_en": "Bio & Brain Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=85",
-      "intake": null,
+      "official_url": "https://bioeng.kaist.ac.kr/index.php?document_srl=8924&mid=bio_04_01_01",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Bio & Brain Engineering",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-bio-brain-engineering-49fd408108"
+      "id": "kaist-bio-brain-engineering-49fd408108",
+      "name": "生物与脑工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Industrial Design",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=86",
-      "intake": null,
-      "duration": null,
+      "official_url": "https://id.kaist.ac.kr/education",
+      "intake": "2027",
+      "duration": "课程按4年安排",
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Industrial Design",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-industrial-design-11dc9682ab"
+      "id": "kaist-industrial-design-11dc9682ab",
+      "name": "工业设计",
+      "subject": "艺术与设计",
+      "subjects": [
+        "艺术与设计"
+      ]
     },
     {
       "name_en": "Industrial & Systems Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=89",
-      "intake": null,
+      "official_url": "https://ise.kaist.ac.kr/curriculum",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Industrial & Systems Engineering",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-industrial-systems-engineering-e4dc63c861"
+      "id": "kaist-industrial-systems-engineering-e4dc63c861",
+      "name": "工业与系统工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Chemical & Biomolecular Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=78",
-      "intake": null,
+      "official_url": "https://cbe.kaist.ac.kr/pages/sub/sub04_02_ko",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Chemical & Biomolecular Engineering",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-chemical-biomolecular-engineering-9264fea890"
+      "id": "kaist-chemical-biomolecular-engineering-9264fea890",
+      "name": "化学与生物分子工程",
+      "subject": "工程",
+      "subjects": [
+        "工程",
+        "自然科学"
+      ]
     },
     {
       "name_en": "Materials Science & Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=79",
-      "intake": null,
+      "official_url": "https://mse.kaist.ac.kr/index.php?mid=mse_undercurriculum",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Materials Science & Engineering",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-materials-science-engineering-4032c64e9c"
+      "id": "kaist-materials-science-engineering-4032c64e9c",
+      "name": "材料科学与工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Nuclear & Quantum Engineering",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=87",
-      "intake": null,
+      "official_url": "https://nuclear.kaist.ac.kr/study/curriculum01.php",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Nuclear & Quantum Engineering",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-nuclear-quantum-engineering-a12393b491"
+      "id": "kaist-nuclear-quantum-engineering-a12393b491",
+      "name": "核与量子工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Business and Technology Management",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "intake": null,
+      "official_url": "https://btm.kaist.ac.kr/page/en/selectPage.do?menuSeq=3475&pageSeq=3720",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Business and Technology Management",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。须完成理科/工科等另一专业双主修。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-business-and-technology-management-a489f6bee1"
+      "id": "kaist-business-and-technology-management-a489f6bee1",
+      "name": "商业与技术管理",
+      "subject": "商科",
+      "subjects": [
+        "商科"
+      ]
     },
     {
       "name_en": "Biological Sciences",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "intake": null,
+      "official_url": "https://bio.kaist.ac.kr/page/ko/selectPage.do?menuSeq=3357&pageSeq=3406",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Biological Sciences",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-biological-sciences-622772b938"
+      "id": "kaist-biological-sciences-622772b938",
+      "name": "生物科学",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
     },
     {
       "name_en": "Brain & Cognitive Sciences",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "intake": null,
+      "official_url": "https://bcs.kaist.ac.kr/sub050201",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "Brain & Cognitive Sciences",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_major",
-      "id": "kaist-brain-cognitive-sciences-ce9a2b8537"
+      "id": "kaist-brain-cognitive-sciences-ce9a2b8537",
+      "name": "脑与认知科学",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学",
+        "社会科学"
+      ]
     },
     {
       "name_en": "School of Transdisciplinary Studies",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "intake": null,
+      "official_url": "https://sts.kaist.ac.kr/sts/html/sub2/020202.html",
+      "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "discovery_source_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
-      "source_period": "current official directory, checked 2026-09-12",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "School of Transdisciplinary Studies",
-      "entry_route": "Admission as undecided major in freshman year; department/division selected in sophomore year; transfer admission unavailable",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
       "requires_prior_degree": false,
       "status": "listed_current",
       "record_type": "undergraduate_school",
-      "id": "kaist-school-of-transdisciplinary-studies-b0970b7881"
+      "id": "kaist-school-of-transdisciplinary-studies-b0970b7881",
+      "name": "融合人才学",
+      "subject": "人文",
+      "subjects": [
+        "人文",
+        "自然科学"
+      ]
     },
     {
       "name_en": "AI Computing",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
+      "official_url": "https://aicollege.kaist.ac.kr/aic/ug-reqs",
       "discovery_source_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
-      "source_period": "2027国际本科招生简章第4页",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "2027 College of AI|AI Computing",
       "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "program_type": "本科专业，入学后选定",
-      "id": "kaist-ai-computing-4c437076d8"
+      "id": "kaist-ai-computing-4c437076d8",
+      "name": "AI计算",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
+      "subject": "计算机",
+      "subjects": [
+        "计算机",
+        "工程"
+      ]
     },
     {
       "name_en": "AI Systems",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
+      "official_url": "https://aicollege.kaist.ac.kr/ais/ug-reqs",
       "discovery_source_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
-      "source_period": "2027国际本科招生简章第4页",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "2027 College of AI|AI Systems",
       "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "program_type": "本科专业，入学后选定",
-      "id": "kaist-ai-systems-ad630c0308"
+      "id": "kaist-ai-systems-ad630c0308",
+      "name": "AI系统",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
+      "subject": "计算机",
+      "subjects": [
+        "计算机",
+        "工程"
+      ]
     },
     {
       "name_en": "AX",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
+      "official_url": "https://aicollege.kaist.ac.kr/ax/ug-reqs",
       "discovery_source_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
-      "source_period": "2027国际本科招生简章第4页",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "2027 College of AI|AX",
       "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "program_type": "本科专业，入学后选定",
-      "id": "kaist-ax-80a1c34e4f"
+      "id": "kaist-ax-80a1c34e4f",
+      "name": "AX人工智能应用",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。",
+      "subject": "计算机",
+      "subjects": [
+        "计算机",
+        "工程"
+      ]
     },
     {
       "name_en": "AI and Future Studies",
       "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf#page=4",
+      "official_url": "https://aicollege.kaist.ac.kr/fx/ug-reqs",
       "discovery_source_url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
-      "source_period": "2027国际本科招生简章第4页",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
       "raw_key": "2027 College of AI|AI and Future Studies",
       "intake": "2027",
       "duration": null,
       "campus": null,
-      "language": null,
+      "language": "英语为主（2027国际本科简章）",
       "program_type": "本科专业，入学后选定",
-      "id": "kaist-ai-and-future-studies-23efee9a28"
+      "id": "kaist-ai-and-future-studies-23efee9a28",
+      "name": "AI与未来学",
+      "entry_route": "普通国际本科先未定专业入学，大二选择本专业；具体2027资格与时间见学校共用规则。AI未来学须至少完成一个双主修。",
+      "subject": "计算机",
+      "subjects": [
+        "计算机",
+        "人文"
+      ]
+    },
+    {
+      "id": "kaist-semiconductor-system-engineering",
+      "name": "半导体系统工程",
+      "name_en": "Semiconductor System Engineering",
+      "raw_key": "Semiconductor System Engineering|2027 special admission",
+      "degree_label": "本科专业（正式学位名称待核）",
+      "official_url": "https://sse.kaist.ac.kr/admission-guide/",
+      "discovery_source_url": "https://sse.kaist.ac.kr/wp-content/uploads/2026/03/%EB%B0%98%EB%8F%84%EC%B2%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%B5%ED%95%99%EA%B3%BC-2027%ED%95%99%EB%85%84%EB%8F%84-%ED%95%99%EC%82%AC%EA%B3%BC%EC%A0%95-%EC%9E%85%ED%95%99%EC%A0%84%ED%98%95-%EC%8B%9C%ED%96%89%EA%B3%84%ED%9A%8D2026.-3.-%EA%B3%B5%ED%91%9C-.pdf",
+      "source_period": "2027本科目录；院系课程按正文所列适用年份",
+      "program_type": "major",
+      "entry_route": "单独半导体人才选拔，普通未定专业入学者不可转入；中国大陆高中申请资格尚未核实。",
+      "intake": "2027春（专门选拔；国际生资格待核）",
+      "status": "listed_current",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ],
+      "language": "本轮未取得授课语种要求"
     }
   ]
 }

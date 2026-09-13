@@ -5,7 +5,7 @@
       "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
       "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/kaist/raw/guide2027.pdf",
-      "locator": "PDF pages3–8,12"
+      "locator": "PDF page4: international undergraduate program table"
     },
     {
       "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub02",
@@ -30,6 +30,216 @@
       "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
       "raw_file": "scratch/full-catalog/asia/kaist/raw/directory.html",
       "locator": "Before You Apply / Into Your Interest"
+    },
+    {
+      "url": "https://physics.kaist.ac.kr/index.php?mid=p_academic2",
+      "sha256": "25871e75fdbecfc2f2672f2a17f2d91dd1d7cc71f1a3158602e95d732900e844",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/physics-courses.html",
+      "locator": "Undergraduate mandatory and elective table"
+    },
+    {
+      "url": "https://physics.kaist.ac.kr/index.php?mid=p_academic3",
+      "sha256": "f725c436916add4507ddbc63ec23ba12ac75513b367c04065a5a4ed44628647f",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/physics-req.html",
+      "locator": "2023 undergraduate requirements"
+    },
+    {
+      "url": "https://mathsci.kaist.ac.kr/home/edu/requirement/",
+      "sha256": "6ef505b11ca6b111965795db01f722bcd0392f488bba5cc83c280d714eb14003",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/id-math-open-web.txt",
+      "locator": "Mathematics page lines8–13; 2016 and after"
+    },
+    {
+      "url": "https://chem.kaist.ac.kr/_files/board/20240124//bce2d455fafbab581bcd27a93731c143.pdf",
+      "sha256": "283a3e973b89e0a3082a046e1207b0bb9a8514f7ffb2009e324f820f5a89518b",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/chem-req-pdf.pdf",
+      "locator": "2024 file, page1"
+    },
+    {
+      "url": "https://chem.kaist.ac.kr/curriculum",
+      "sha256": "3434ecae40d1dffc5c14f077c8f61143a285ffde689b0ff6598eee900e22ebe1",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/chem-courses.html",
+      "locator": "Undergraduate curriculum and course descriptions"
+    },
+    {
+      "url": "https://me.kaist.ac.kr/eng/download/%EA%B8%B0%EB%B0%98%EA%B3%BC%EB%AA%A9%20%EC%86%8C%EA%B0%9C%EC%9E%90%EB%A3%8C%282025.11%20%EA%B8%B0%EC%A4%80%29.pdf",
+      "sha256": "6c1460d09696a4847ca37fcdc75f7427ba283239d418daf526ba183fa7d6a127",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/me-req-pdf.pdf",
+      "locator": "2025 edition pages1–2"
+    },
+    {
+      "url": "https://ae.kaist.ac.kr/resources/wis-layout/file/%ED%95%AD%EA%B3%B5%EC%9A%B0%EC%A3%BC%EA%B3%B5%ED%95%99%EA%B3%BC_%EA%B5%90%EA%B3%BC%EB%AA%A9%EC%9D%B4%EC%88%98%EC%9A%94%EA%B1%B4.pdf",
+      "sha256": "fd4723c676737dce43551826949471be403365769a153c066c62ea530dfd181e",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ae-req-pdf.pdf",
+      "locator": "PDF pages5–6, 2023 and after"
+    },
+    {
+      "url": "https://ee.kaist.ac.kr/en/under-req/2023/",
+      "sha256": "9b4c2b1b33ea512c0b703fb5e8248614bee826bfca4f979273fa16e083faa48f",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ee-req.html",
+      "locator": "2023 requirements"
+    },
+    {
+      "url": "https://cs.kaist.ac.kr/content?menu=318",
+      "sha256": "ea50bf8d265c8a9f13dedfddfd7b96193eef75ac907bd093bca6d99da1ac4181",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/cs-req.html",
+      "locator": "2023 requirements"
+    },
+    {
+      "url": "https://cee.kaist.ac.kr/pages/sub/sub03_02",
+      "sha256": "b34c78a8f4b9093c6b7fe0929ee54b1ae51b0f769215d925686c3c0340ef084d",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/cee-req.html",
+      "locator": "2023 requirements"
+    },
+    {
+      "url": "https://bioeng.kaist.ac.kr/index.php?mid=bio_04_01_03_03",
+      "sha256": "d69e0bb8aa843497cdcf4d8ccf3b972f48cb4a40e733c2ccd2ab30d704002a70",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/bis-req2023.html",
+      "locator": "2023 and after major requirements"
+    },
+    {
+      "url": "https://bioeng.kaist.ac.kr/index.php?document_srl=8924&mid=bio_04_01_01",
+      "sha256": "58be0f6a639405fd4cd5071eca511fd45354ab0b644eb5c66a0f1023175ec3ae",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/bis-courses.html",
+      "locator": "Undergraduate curriculum structure and field table"
+    },
+    {
+      "url": "https://id.kaist.ac.kr/education",
+      "sha256": "c309597c0e7cada8979b0dc730eb41e3e2967e2af4050123845d923d81ed85e1",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/id-courses-browser.txt",
+      "locator": "Browser rendered undergraduate Courses, years1–4"
+    },
+    {
+      "url": "https://ise.kaist.ac.kr/curriculum",
+      "sha256": "178bbc887760fab8d4e9e3231112b2cf124c118afee9b066b76a3afb1a30c38e",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ise-courses.html",
+      "locator": "Undergraduate curriculum table"
+    },
+    {
+      "url": "https://ise.kaist.ac.kr/overall-requirements",
+      "sha256": "88b78566f73e97b770c26f3194c33fab123c9758cbd9374ad8c4085f5b72ea53",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ise-req.html",
+      "locator": "Undergraduate downloads; July2023; linked bulletin login"
+    },
+    {
+      "url": "https://cbe.kaist.ac.kr/pages/sub/sub04_02_ko",
+      "sha256": "d0fb2c0da04802b168944e0e1bb2cdc662c6c08fb7800e841c1b4d5a4c67ea59",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/cbe-req.html",
+      "locator": "2016 and after requirements; lower course table"
+    },
+    {
+      "url": "https://mse.kaist.ac.kr/index.php?mid=mse_undercurriculum",
+      "sha256": "8720a9870c544ad126e51d752404580dfe1d24bdacaa5a57d7fc028c3897d456",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ms-req.html",
+      "locator": "For Undergraduate Students admitted in 2026 and after; contrast earlier cohort transitions"
+    },
+    {
+      "url": "https://nuclear.kaist.ac.kr/study/curriculum01.php",
+      "sha256": "59a5f9d4e68088f2d737f0691f9f8c15151f02630eddef5bd4a28586cda72b92",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/nqe-req.html",
+      "locator": "Undergraduate major and 2023 total"
+    },
+    {
+      "url": "https://btm.kaist.ac.kr/page/en/selectPage.do?menuSeq=3475&pageSeq=3720",
+      "sha256": "00f6f5410dc5065ec5928c1bbb601526a83a116918391078fb1b57d5fc5f6447",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/btm-req.html",
+      "locator": "2023 requirements, Major and Double Major"
+    },
+    {
+      "url": "https://bio.kaist.ac.kr/page/ko/selectPage.do?menuSeq=3357&pageSeq=3406",
+      "sha256": "927e13cac5fdf570884120e24175358ae228955c1a855d57faf52efcb4cd9500",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/bio-req.html",
+      "locator": "2024 and thereafter requirements"
+    },
+    {
+      "url": "https://bcs.kaist.ac.kr/sub050201",
+      "sha256": "17a37a2d7d06660832c1d1ea635b896d6be134ca773e40ddb8d318eb451a1cb1",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/bcs-req.html",
+      "locator": "For undergraduate students admitted in 2023 and after"
+    },
+    {
+      "url": "https://bcs.kaist.ac.kr/sub050101",
+      "sha256": "6eda65c388c02683a22dfcd945a4bd93a8b14cbd0e8d41405b83b81facde2886",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/bcs-courses.html",
+      "locator": "Undergraduate course descriptions"
+    },
+    {
+      "url": "https://sts.kaist.ac.kr/sts/html/sub2/020202.html",
+      "sha256": "ff09520223fc7ea6b8e5057ce26df3b5a941d1394feca39342bc30ac466cb017",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/sts-req.html",
+      "locator": "2023 and after; major requirements"
+    },
+    {
+      "url": "https://sts.kaist.ac.kr/sts/html/sub3/0303.html",
+      "sha256": "64f0dca07621cecaaf24ecc3589b2bf945ed5fbf300b866c9462d7fdea8700b8",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/sts-entry.html",
+      "locator": "Department entry guidance"
+    },
+    {
+      "url": "https://aicollege.kaist.ac.kr/aic/ug-reqs",
+      "sha256": "34d53620ef13dfd0d8db37687c1b053f8a1644c10f9c3bfe9f307a45cff222f5",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/aic-req.html",
+      "locator": "2025 and thereafter major requirements"
+    },
+    {
+      "url": "https://aicollege.kaist.ac.kr/aic/ug-courses",
+      "sha256": "c2b709f4c157753667693eed9c2131466ba9577c528496c833806b025995e57b",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/aic-courses.html",
+      "locator": "Course table; compare ug-reqs"
+    },
+    {
+      "url": "https://aicollege.kaist.ac.kr/ais/ug-reqs",
+      "sha256": "5a3bbb67e39bccb8a9e65f6a35a7858d3501dd43c027c8c95deb2870d262d604",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ais-req.html",
+      "locator": "2025 and thereafter major requirements"
+    },
+    {
+      "url": "https://aicollege.kaist.ac.kr/ais/ug-courses",
+      "sha256": "70fb06df5565acbd6433adba18577b5df54e2695f0169c38d4b5e5daa7e399f9",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ais-courses.html",
+      "locator": "Course framework and semester tables"
+    },
+    {
+      "url": "https://aicollege.kaist.ac.kr/ax/ug-reqs",
+      "sha256": "d9ffd047bbcc36ad53932ddda521f14482c8b362983fd602a5766140c3a94d22",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ax-req.html",
+      "locator": "Mandatory courses and subject to change notice"
+    },
+    {
+      "url": "https://aicollege.kaist.ac.kr/majors",
+      "sha256": "99e0b649589b99157c78c8b172da7bb5634fa61be3ac56df84db04cef00c77e5",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/ai-majors.html",
+      "locator": "AX department description"
+    },
+    {
+      "url": "https://aicollege.kaist.ac.kr/fx/ug-reqs",
+      "sha256": "e28452dacd0f24aed99ca1858269578d8b0f48cbdcb40d6d98ce947c54ddae24",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/fx-req.html",
+      "locator": "2025 requirements; mandatory double major"
+    },
+    {
+      "url": "https://aicollege.kaist.ac.kr/fx/ug-courses",
+      "sha256": "58f36388b0637d8c6bf6f4f1d962aa142637c75d998c98b40837d8998f6b90a9",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/fx-courses.html",
+      "locator": "Elective course table"
+    },
+    {
+      "url": "https://sse.kaist.ac.kr/education-completion/bachelor/",
+      "sha256": "0fab82d27c3c7d18446a12afb377a962d2f000313eceda71dacac0ec8a424cd9",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/sse-req.html",
+      "locator": "2023 undergraduate requirements"
+    },
+    {
+      "url": "https://sse.kaist.ac.kr/admission-guide/",
+      "sha256": "bd26a51738fdaf28f63119dfbb77c16b28b02670e76c397a262ceca15f172ebb",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/sse-admission.html",
+      "locator": "Admission and FAQ"
+    },
+    {
+      "url": "https://sse.kaist.ac.kr/wp-content/uploads/2026/03/%EB%B0%98%EB%8F%84%EC%B2%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%B5%ED%95%99%EA%B3%BC-2027%ED%95%99%EB%85%84%EB%8F%84-%ED%95%99%EC%82%AC%EA%B3%BC%EC%A0%95-%EC%9E%85%ED%95%99%EC%A0%84%ED%98%95-%EC%8B%9C%ED%96%89%EA%B3%84%ED%9A%8D2026.-3.-%EA%B3%B5%ED%91%9C-.pdf",
+      "sha256": "5b4b2d79589ea3a967782ee68d8ba37939204e74c5d85c0bc7a285ae0a1c10bd",
+      "raw_file": "scratch/full-catalog/kaist-enrichment/raw/sse-plan2027.pdf",
+      "locator": "One-page 2027 special-admission plan, printed page12"
     }
   ]
 }

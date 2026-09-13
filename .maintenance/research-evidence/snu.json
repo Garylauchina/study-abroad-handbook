@@ -5,13 +5,13 @@
       "url": "https://en.snu.ac.kr/webdata/uploads/eng/file/2026/06/Admissions_for_Undergraduate_Spring_2027.pdf",
       "sha256": "efd6a4de95f1c3c292bb27e69f052fe31b1c0ce15dede730dbea3793ec8e4dd6",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/spring2027.pdf",
-      "locator": "English pages4–7,18,24"
+      "locator": "管弦乐系当前介绍；2027春第22页；2027英文第17、23页；2027英文第4—5页；音乐另第18页；2027英文第23、25页，奖助咨询及申请表；特殊入口适用性另核"
     },
     {
       "url": "https://en.snu.ac.kr/admission/overview/faq/admission",
       "sha256": "3e90140cad060488c44167035d6aea19d4459a642029b78a1e9d5acaec3b7cd4",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/faq.html",
-      "locator": "Language/Transfer/Scholarships"
+      "locator": "Language/Transfer/Scholarships；2027英文第23、25页，奖学金联系及申请表；FAQ Scholarship问答标last updated2021"
     },
     {
       "url": "https://en.snu.ac.kr/academics/resources/registration",
@@ -20,10 +20,124 @@
       "locator": "Tuition payment"
     },
     {
+      "url": "https://snu.ac.kr/webdata/uploads/kor/file/2026/08/2026_tuition.pdf",
+      "sha256": "c4eb8c5760b866f149e10de827ff7775413a8c00eb4f48230d034c82262c71c0",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/tuition-2026-2.pdf",
+      "locator": "2026第二学期收费表第1—2页对应类别、年级及脚注"
+    },
+    {
+      "url": "https://www.snu.ac.kr/about/downloads?bbsidx=165605&md=v",
+      "sha256": "e308c1b7e7fef055622b44affe1bc0b1d21f5b1b141ee98ee66c775baa66556b",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/stats2025-entry.html",
+      "locator": "2025统计年报发布页（2026-03-03）；本批尚未核实专业就业统计表"
+    },
+    {
       "url": "https://en.snu.ac.kr/academics/programs/undergraduate",
       "sha256": "67688fbd3dc4b814c4a2d060fafb4cdaec985bff3f65b6537f06cccc5d743a40",
       "raw_file": "scratch/full-catalog/asia/snu/raw/directory.html",
       "locator": "School of Transdisciplinary Innovations snuti.snu.ac.kr:School of Transdisciplinary Innovations"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=1",
+      "sha256": "0e99e2161550aa8b9125248c821a597d525fcc5f369b30a7abf4e48b476e4ccf",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-1.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=2",
+      "sha256": "099cc93065febd4f0fac9d5a347db028e19a0fc1b8bad10f7b032b6011cfcda1",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-2.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=3",
+      "sha256": "b260830e083f8f25f77715e15ddf1c89d5e5ce255f1b3b47e81a9860e10f4374",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-3.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=4",
+      "sha256": "9aeda540dcf3ffae7663de1aa135849392d5576c5b3542bebda75f43362422f3",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-4.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=5",
+      "sha256": "518e9ba9a2e988a3a082f81a4d9b1864e65a12f44f2278342baa6f25f2c4f465",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-5.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=6",
+      "sha256": "16618bd0288f6ac8d0e1abd3abbd392e37d6c0a9c524e6c4aa8a21b2d04e4868",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-6.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=7",
+      "sha256": "46f98cd30128be9bc5390547d79a1ea50a2e7203ecf11b7f4d3c91c2ccf7ec42",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-7.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=8",
+      "sha256": "5ace83af9768651175136ffe8f69fb2a71896a3f652ba05d069934d81f120fcf",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-8.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=16",
+      "sha256": "ab31f290ed44df5e76f0117e0919f65856d9e324384aac9d20fcb9d133b42169",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-16.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=22",
+      "sha256": "e4e77661302aa1026dae9bd79b79dd19b81929f0ff68581745a4998e1a3d7c32",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-22.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://snu.ac.kr/webdata/uploads/kor/file/2025/04/Undergraduate_Course_List_2024.pdf",
+      "sha256": "c938c708b49fde3a87e81ccaff5a0c7f3221a3c1eb9fe547d2f2a69422d5947f",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/central-2.pdf",
+      "locator": "2024课程表第133—134页；2027春第20页"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=12",
+      "sha256": "2e73c088ddd793a3925415f304d1cf2a3174d4c29056a9f7f32c89ba162f0744",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-12.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=13",
+      "sha256": "83154e4cde204924b9cac17e93b675f2ca0ba6cb20447ecf18ffafe5de5f4d61",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-13.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=14",
+      "sha256": "7e76b030649a1e2363d22254d9468a0cd35f98cfcd585eab1b3508847d023034",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-14.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=15",
+      "sha256": "7647f10bc418ed7b45d5dcdbda7738af4a5100764f4b4823a23e9d007a94796b",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-15.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://psir.snu.ac.kr/",
+      "sha256": "2b5465e3db98b6666609c80c40a13cda2fd6dce6308bfbcfb631c8dc3e65b165",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-41851d6fb21b8c0a3e73.html",
+      "locator": "网页页尾联系地址"
+    },
+    {
+      "url": "https://communication.snu.ac.kr/en/",
+      "sha256": "a534b5ce8fe7216cde5fe1a45a27b44412396e9fbef631f152540af2df053758",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-ae748ae3ffdd6df49eb3.html",
+      "locator": "网页页尾联系地址"
     },
     {
       "url": "https://physics.snu.ac.kr/en/academics/undergraduate/curriculum",
@@ -32,10 +146,142 @@
       "locator": "undergraduate curriculum / course list"
     },
     {
+      "url": "https://physics.snu.ac.kr/en/academics/undergraduate/courses",
+      "sha256": "552d72e16bde267e016bcdd91291b0269d1a3f88a62f0400de9f5922015a03e5",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/linked-3755cda75567.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://astron.snu.ac.kr/en/",
+      "sha256": "d5ab87fd8c9b5cae8d4506e680881368fe103b087aae9663c4075e9ae6b6b936",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-724be08d30ff9ac9f2f9.html",
+      "locator": "网页页尾联系地址"
+    },
+    {
+      "url": "https://chem.snu.ac.kr/en/academics/undergraduate-courses",
+      "sha256": "c344d7a63496bad97fb717f04fe13f63cc25e06bd95a9f09df8a23b47391866f",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/linked-1636ba824806.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
       "url": "https://biosci.snu.ac.kr/en/academics/curriculum/undergraduate",
       "sha256": "249261f9ac01aa8e1622a4034c7779359a9551cd2558672eef31261152d05bed",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/curriculum-182028d78cf69aec51.html",
       "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "https://biosci.snu.ac.kr/en/academics/subject/undergraduate",
+      "sha256": "f92d9ae0e4d1ebb988b7bbd23db6fdd5556ab6b2b466fcc7b8be49794dde48ac",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/linked-eb48cb2e839b.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://sees.snu.ac.kr/en/academics/undergraduate/courses",
+      "sha256": "dac0eeca5e0f31e8347887c439af01e85fbf07d1164ab3493744a2e8bbad5e9b",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/linked-c139be496a80.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=26&majidx=1",
+      "sha256": "55862db3a8090896c5dedac44b3c1c4b47ef000e7e7439772bf9baa835465fbd",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-03a3b04da9911bfc73a5.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=26&majidx=2",
+      "sha256": "3414b82ff45e8dde9fee29f42b29c3906bd5db698efbbc35a166c3b9760f9680",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-e8be9d82962a7881d45a.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=26&majidx=3",
+      "sha256": "c3cbe68543af7f6a30c8812fb20c5e900f8b114b6f959cacbd9838d353aee6b2",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-840e5d683a44ca8b27bc.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=27&majidx=4",
+      "sha256": "84d3f364fbc47e2912aca17af3304dee3c87c3d0b77b4890a68e2811c91b0b92",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-c58af002ee6da75f59a3.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=27&majidx=5",
+      "sha256": "8211d7cacf426d7edd0b4a62c510d8d4b1e854853316fcbf4ab082858a449ed4",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-fbab97064600d7c0ece3.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=28&majidx=6",
+      "sha256": "fcdc6c9d38d60bb12511d65dd82f894f18d4a823668f630307b29ec4168a847d",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-fd0d6b49cc1d38f361e4.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=28&majidx=7",
+      "sha256": "ded56f7317d86f1fe2ff0f481fb97065c121152794d73d19b0582efbb46dcb62",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-e23d6f3bbf77fdb7d7bb.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=29&majidx=8",
+      "sha256": "be7b61f22c8dd37fc4fd4cd3c9e0e853702044ad9a60925f5867ca295cc71305",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-e2372c9bb505b58723d0.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=29&majidx=9",
+      "sha256": "517edaa7e3a86fc9be7c1069bd7fd4ac969d990f6ea624f04fdecf74773927f0",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-1a856f0eeedaedf31271.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=30",
+      "sha256": "7d0454257ece7a388f528853ef5f2c71a1ab1f9128e3ee67e881b233bd85ce7a",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-a1e7e467837191f8702d.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=30&majidx=11",
+      "sha256": "fefacb0d2d6f440f280f97edc9d9964a23a5663e0e7857db59a5d4af833df552",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-be9146b91f4d40863f0b.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=31",
+      "sha256": "e5b2bebc2ff59608fa8a0235f6cb6f6587aeaa1f11a91a00f3d73b71386ef8ab",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-39843a565e58e695b489.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=31&majidx=13",
+      "sha256": "2df21e078f8d1eb524d9a256eb75731db1feb6bd3088b8f0b38b99755d2941e7",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-f7c5d95edce01db7058d.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=32&majidx=14",
+      "sha256": "d325f068116ce3d05cd24b0d347ab8d40239a3530c8ab298915754ecb9d0053b",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-2d9f4668623e25963ab4.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "http://cals.snu.ac.kr/en/academics/undergraduate?deptidx=32&majidx=15",
+      "sha256": "d9971c58fbe2deb876b1dceb7679a96517c51270f9a49edb39dcdd0c04021a27",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-9a6029d0e95100b0e263.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://cals.snu.ac.kr/academics/undergraduate?deptidx=55",
+      "sha256": "84ad5e6dc5033229c126ac682138880eea94cc98f03ca09401e2cedaceb72c37",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/smart-undergraduate.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；当前本科身份；具体毕业证书名称以本条已取得证据为限；网页页尾联系地址"
+    },
+    {
+      "url": "https://admission.snu.ac.kr/webdata/admission/files/2027susi.pdf",
+      "sha256": "aff402a9364f5f56b812f2e7ca8829b1881b88b78823e4613e90c8379eeb1a19",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/domestic2027.pdf",
+      "locator": "2027常规本科简章印刷第69页／PDF第73页；国际表第20—22页"
     },
     {
       "url": "https://cba.snu.ac.kr/en/academics/undergraduate/curriculum/01",
@@ -44,10 +290,316 @@
       "locator": "undergraduate curriculum / course list"
     },
     {
+      "url": "http://cba.snu.ac.kr/en",
+      "sha256": "aba7a0b81fc5947762530ffdcb0c948991e95426e46d6c4da9df493d25106703",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-9d57c3575ff165377481.html",
+      "locator": "网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/education/",
+      "sha256": "5256febe192c01e28bb19782e257bc13ca7b5fd18fc67240d83e1f1d6dfe2e49",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-47-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ea%b5%ad%ec%96%b4%ea%b5%90%ec%9c%a1%ea%b3%bc/",
+      "sha256": "2936f075b7caf95a967c04d51ebc10b726dc2aefdec3afc755b427faca5817e1",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-48-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/english-language-education/",
+      "sha256": "7286474e9926f01f2341f3e685eedf41ff43d1da40e2de4292b21bfcd1b6878e",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-49-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/%eb%8f%85%ec%96%b4%ea%b5%90%ec%9c%a1%ea%b3%bc/",
+      "sha256": "f68f1ad8be3c649da1ad938c067d062f22530de7be7e31965eab61402904fa02",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-50-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/%eb%b6%88%ec%96%b4%ea%b5%90%ec%9c%a1%ea%b3%bc/",
+      "sha256": "fbbde0d2ad642e7dcdb1fd53273d4f076d788051b43b58925046d7254e56e662",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-51-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ec%82%ac%ed%9a%8c%ea%b5%90%ec%9c%a1%ea%b3%bc/",
+      "sha256": "2549c5a196b14f710290957279f2b5d380a03da1001e88105ce92a953db087aa",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-52-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/history-education/",
+      "sha256": "cea05b959d542d555823f858bc3cb43de657e896294c1b6bc779ed7699eb7fcf",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-53-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ec%a7%80%eb%a6%ac%ea%b5%90%ec%9c%a1%ea%b3%bc/",
+      "sha256": "ca2f8793c16bd45e8d4cd717a8fd93cdc35c3e1632bbd18adf151bd9c82ec4fd",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-54-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ec%9c%a4%eb%a6%ac%ea%b5%90%ec%9c%a1%ea%b3%bc/",
+      "sha256": "f9f562b79cd9d39b1b5fd7cb1462660f242acb40f8083699ab13519c4e3f5052",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-55-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ec%88%98%ed%95%99%ea%b5%90%ec%9c%a1%ea%b3%bc/",
+      "sha256": "63a29c4ef2f7a197f9140a15dcf8642dc6497ea782472bfb17d4faf5b04c01d5",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-56-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/%eb%ac%bc%eb%a6%ac%ea%b5%90%ec%9c%a1%ea%b3%bc/",
+      "sha256": "0b869b323de8a631a2539b30e7951ac0029ef1b150c21a2369aff0d1f0e2588d",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-57-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ed%99%94%ed%95%99%ea%b5%90%ec%9c%a1%ea%b3%bc/",
+      "sha256": "c1ef14e18344bf9eb9e3f229fa3caa6e34f0eb4eb78846dad798f3948dce23e8",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-58-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ec%83%9d%eb%ac%bc%ea%b5%90%ec%9c%a1%ea%b3%bc/",
+      "sha256": "e475ff2d4846d21b4d2500a6d1e169121587a331943b6f714ab535772905a7a3",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-59-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ec%a7%80%ea%b5%ac%ea%b3%bc%ed%95%99%ea%b5%90%ec%9c%a1%ea%b3%bc/",
+      "sha256": "98d5aa5afde16f3eb09ed859ad2e5c0fcc6b12b37f4a939c55dab89fad56e8bf",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-60-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/%ec%b2%b4%ec%9c%a1%ea%b5%90%ec%9c%a1%ea%b3%bc/",
+      "sha256": "798c9554b23c4a49494ff53cf63d722856a276913258b0adcb38064d9ecc76f2",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-61-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://edu.snu.ac.kr/en/academics/department-offices-faculty/transdisciplinary-learning-sciences/",
+      "sha256": "2cafae69716da6500ea38d834e70a436dcb04a678cd2d35d637d34eb1b7783fe",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/education-62-browser.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；当前本科身份；具体毕业证书名称以本条已取得证据为限；网页页尾联系地址"
+    },
+    {
+      "url": "https://tls.snu.ac.kr/new2/sub_department/graduate.php",
+      "sha256": "9018d42d0acd6870fe4177e13674891648a126d0bb159622d80b848952415c6d",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/tls-entry.html",
+      "locator": "2027春英文第20—22、24页；TLS转入页；Smart另见2027常规简章第69页；전입（转入）条件与选拔方法；전입 학생 및 교원자격증 관련 안내"
+    },
+    {
+      "url": "https://cee.snu.ac.kr/english/",
+      "sha256": "30a0557764c6072acd699855efc703b720bf208a65b6436a6bb777ade336aff1",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-f0e323c9a6279729ce1d.html",
+      "locator": "网页页尾联系地址"
+    },
+    {
+      "url": "https://mse.snu.ac.kr/snumse-main/education/undergraduate/undergraduate-course-offerings/",
+      "sha256": "f1c406b2dd8f531fb9de6ab9fc0da94787e79e2637ebfbe8ed8eefbeddb87782",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/linked-e30b8ad1107e.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；当前本科身份；具体毕业证书名称以本条已取得证据为限；网页页尾联系地址"
+    },
+    {
+      "url": "https://ece.snu.ac.kr/academics/undergraduate/curriculum",
+      "sha256": "d9ac9620b0360e300d1b34e91294995e5134c5b45992fe0cc6516fe94dfba779",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/ece-curriculum.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://cse.snu.ac.kr/en/academics/undergraduate/degree-requirements",
+      "sha256": "22d8e1dc51256d519750c9490a60a0885638a9a4b186853f6e45276e9c9f9514",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/linked-3e7d70281716.html",
+      "locator": "Graduation requirements；Bachelor Thesis Research2027Spring段"
+    },
+    {
+      "url": "https://cse.snu.ac.kr/en",
+      "sha256": "6a5fcc21f1d631642d5ba5fadbc878dd2937ac9af33b8d9950c3b3c5415873e8",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-b0456d36f76a2f4c8361.html",
+      "locator": "网页页尾联系地址"
+    },
+    {
+      "url": "https://eng.snu.ac.kr/academics/undergraduate-programs/architecture-and-architectural-engineering",
+      "sha256": "814b7a451a684910142f0f5815b6bb7dc0e7248e25e599bdef282e698edd672f",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/architecture-current.html",
+      "locator": "当前本科身份；具体毕业证书名称以本条已取得证据为限；学科介绍，2016整合招生与三年级分流段"
+    },
+    {
+      "url": "http://ie.snu.ac.kr/en",
+      "sha256": "9b9e7a1cd74ce2dfec6d31b3a3cf6325cac030fde97f6ea20f355aed1fc9b5e3",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-477caeec9957af09d5f1.html",
+      "locator": "网页页尾联系地址"
+    },
+    {
       "url": "https://nucleng.snu.ac.kr/en/undergraduate/curriculum",
       "sha256": "e293142c3eeed9115d106987cef3d1fb4656dbc826d7051e7b0d58b86804fbe0",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/curriculum-f5e18eadaa7ec9753a.html",
       "locator": "undergraduate curriculum / course list"
+    },
+    {
+      "url": "http://nucleng.snu.ac.kr/en",
+      "sha256": "bbb4195348a284832128ba33a1e2303d0b9d89a06a9570cc36886b458f54bc67",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-1cb3a0693590062b35db.html",
+      "locator": "网页页尾联系地址"
+    },
+    {
+      "url": "https://naoe.snu.ac.kr/department/curriculum",
+      "sha256": "2ed1fa377c761cbe771005fbfd9596bdca79ce83173309b16e4b6dfcdb475151",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/linked-19ad04e081b8.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://aerospace.snu.ac.kr/en/undergraduate/course-list",
+      "sha256": "4714305a8d097d37c8816a65a1ff95ed8bd227af0a176ae5277a35c965f658a5",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/linked-53afc3d9fb42.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://art.snu.ac.kr/en/admissions/degree/",
+      "sha256": "f068315c72ab66fa7e241673df70826f25072d6c1388aa8ad45f15dc727e2b39",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/art-degree.html",
+      "locator": "当前本科身份；具体毕业证书名称以本条已取得证据为限；本科专业学位清单、四年课程说明及学院地址"
+    },
+    {
+      "url": "https://medicine.snu.ac.kr/en/bbm/bbs/selectBoardArticleView.do?nttId=684",
+      "sha256": "b817a7981c6bafef0e2905bd7c72a8bafee0a7a0bdbd07d0702a8be4391f0b73",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/medicine-3.html",
+      "locator": "学院Contact Us；延建校园地址"
+    },
+    {
+      "url": "https://www.snu.ac.kr/about/multicampus/yongon",
+      "sha256": "722e198b0d20d73a17bc75a9a84a5873ddb952a570441177a7939f2704d83655",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/campus-yeongeon.html",
+      "locator": "护理学院页尾地址；延建校园地址"
+    },
+    {
+      "url": "https://music.snu.ac.kr/content/department_vm",
+      "sha256": "c8b14be7fd0c24dcc3c792447262be2e3e5ce9dd013a9f069a4fe3848f76ba8a",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/music-vm.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://music.snu.ac.kr/content/department_c",
+      "sha256": "a6c23b2aaa1239b1e29f64e7088b3f7d45bee4a819135665fef2582bcd4cf007",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/music-c.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://music.snu.ac.kr/content/department_m",
+      "sha256": "4adbc6a618c063a18816c36e95081e7f58444c612c875a63102f04eedc2e83cd",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/music-m.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://music.snu.ac.kr/content/department_p",
+      "sha256": "3c711a80ca8338c31b1e0699006966f4f17d6d27b4d8d0c8f5bfff53794f9ce5",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/music-p.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://music.snu.ac.kr/content/department_oi",
+      "sha256": "aa5612aab6a3d1ca8855f38cb1865cec33e7a6fc8e35dfc39580acc1cea73a23",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/music-oi.html",
+      "locator": "管弦乐系当前介绍；2027春第22页"
+    },
+    {
+      "url": "https://music.snu.ac.kr/content/department_kt",
+      "sha256": "47bbc6634a92d53e83d108300369bdbbc7a472d2d9cea27ce83630496364f5a5",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/music-kt.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；网页页尾联系地址"
+    },
+    {
+      "url": "https://nursing.snu.ac.kr/en/education/undergraduate-curriculum",
+      "sha256": "4d8135081fdadd0a68bc5827ea50717f70388254ef48bfdf5f9333e2c1278d0b",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/linked-f0171b0adf42.html",
+      "locator": "当前本科专业介绍／课程分节（以页面明示年份为准）；当前本科身份；具体毕业证书名称以本条已取得证据为限；护理学院页尾地址；延建校园地址"
+    },
+    {
+      "url": "http://snupharm.snu.ac.kr/en",
+      "sha256": "f645fa13e39a425611a250f0ed51ff22791712d0ef0d3f21423da4cb61c6aa92",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-87f79f39d14508791c45.html",
+      "locator": "网页页尾联系地址"
+    },
+    {
+      "url": "http://vet.snu.ac.kr/en",
+      "sha256": "f6658163da82b1e453ae0361b641ca9af10124a035a7e1f88681d60dae2568f7",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/snu/raw/detail-b9931c697f883e40f654.html",
+      "locator": "网页页尾联系地址"
+    },
+    {
+      "url": "https://snuti.snu.ac.kr/curriculum/",
+      "sha256": "3fba6791aa07b04264b49b055ed60368e08a1c6b3382a1a446b708d624375a7f",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/linked-1b624fc9adb1-browser.html",
+      "locator": "四年课程图；专业分流及变更段"
+    },
+    {
+      "url": "https://snuti.snu.ac.kr/digital-healthcare/",
+      "sha256": "b7ee653c53ef27de3162aafe711c5d420a8775406663bc20346e2488478779c1",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/linked-0af6182888c4-browser.html",
+      "locator": "当前专业页Vision／Education／Career；父学部Curriculum；2027国际表第22页；当前专业页footer Address"
+    },
+    {
+      "url": "https://snuti.snu.ac.kr/convergence-data-science/",
+      "sha256": "ba3199f3bd655053a9d0b9490df3da7f49601fc7ac93c68c79870866bb98e198",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/linked-11af9784b096-browser.html",
+      "locator": "当前专业页Vision／Education／Career；父学部Curriculum；2027国际表第22页；当前专业页footer Address"
+    },
+    {
+      "url": "https://snuti.snu.ac.kr/sustainable-technology/",
+      "sha256": "472505e8ba6019236e17517b16f514bdca218e82e0c71c1ec8de9b2a039ef710",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/linked-766906ce866f-browser.html",
+      "locator": "当前专业页Vision／Education／Career；父学部Curriculum；2027国际表第22页；当前专业页footer Address"
+    },
+    {
+      "url": "https://snuti.snu.ac.kr/next-generation-intelligent-semiconductor/",
+      "sha256": "bf9c5632428fd739ad780624ad2edcec65258c0ebeb853330f4d6df03e84d2eb",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/linked-ce612757d0d4-browser.html",
+      "locator": "当前专业页Vision／Education／Career；父学部Curriculum；2027国际表第22页；当前专业页footer Address"
+    },
+    {
+      "url": "https://snuti.snu.ac.kr/innovative-new-drug/",
+      "sha256": "346cbe1b89d9f5906155a2c1304312761dfdb5ffc7369e18d7c31f2f06c7143d",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/linked-f700f49c49da-browser.html",
+      "locator": "当前专业页Vision／Education／Career；父学部Curriculum；2027国际表第22页；当前专业页footer Address"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=9",
+      "sha256": "a780f952fe89b04b942c440e27892eb86e345404742078c9a79a96c2aab347c8",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-9.html",
+      "locator": "当前人文学院专业介绍；2027国际表第20页"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=10",
+      "sha256": "e380299ba865696614899f530f8ea70f2a5567d99a4e76e73756e59acc944ca0",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-10.html",
+      "locator": "当前人文学院专业介绍；2027国际表第20页"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=11",
+      "sha256": "24a37231b078e42096ac7d3515055515d689f2d59932a78bebe3b23d189fdf90",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-11.html",
+      "locator": "当前人文学院专业介绍；2027国际表第20页"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=24",
+      "sha256": "35e7b4e317d1fac483d3262fc99a51e3a04e06a0aa367c84e889e8c23727aea5",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-24.html",
+      "locator": "当前人文学院专业介绍；2027国际表第20页"
+    },
+    {
+      "url": "https://humanities.snu.ac.kr/academics/department?deptidx=23",
+      "sha256": "21cbfe97457e3a7a104e842119da2280b087f2d40e9e65ab28769e25ce9f6537",
+      "raw_file": "scratch/full-catalog/snu-enrichment/raw/humanities-23.html",
+      "locator": "当前人文学院专业介绍；2027国际表第20页"
     }
   ]
 }

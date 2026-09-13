@@ -1517,5 +1517,20 @@
         "sha256": "7e46a453f28bd6fce09caa0e57ab45d3cafda8168a219a91713e17207a157bac"
       }
     ]
+  },
+  {
+    "id": "snu-dept-of-preliminary-medicine-013c6af2e0",
+    "university_id": "snu",
+    "name_en": "Dept. of Preliminary Medicine",
+    "reason": "此条是旧制医学预科阶段。2027国际本科简章已列Medical Program，说明自2027起采用六年一贯制，原预科和医学不再计为两个独立高中入口。现行条目为“医学（2027起六年制）”；旧2026预科／专业收费不能当2027新生报价。",
+    "replacement_inventory_id": "snu-dept-of-medicine-e1b7d65339",
+    "sources": [
+      {
+        "title": "首尔大学2027春国际本科简章",
+        "url": "https://en.snu.ac.kr/webdata/uploads/eng/file/2026/06/Admissions_for_Undergraduate_Spring_2027.pdf",
+        "checked_at": "2026-09-12",
+        "sha256": "efd6a4de95f1c3c292bb27e69f052fe31b1c0ce15dede730dbea3793ec8e4dd6"
+      }
+    ]
   }
 ]

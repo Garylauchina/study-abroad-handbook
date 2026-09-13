@@ -23,118 +23,228 @@ hide:
 
 ## 专业与申请资料
 
-107 个专业条目 · 0 个含详细资料 · 80 个补有专业资料 · 27 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+217 个专业条目 · 0 个含详细资料 · 217 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=brown#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-africana-studies-69fab4d8bd/">Africana Studies</a><small>A.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-american-studies-b2d16c3344/">American Studies</a><small>A.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-anthropology-1707adb75b/">Anthropology</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-155a7c1334/">Applied Mathematics</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-af4c50c249/">Applied Mathematics</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-biology-fcc071eb66/">Applied Mathematics-Biology</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-computer-science-b79398c5fa/">Applied Mathematics-Computer Science</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-economics-3f63695240/">Applied Mathematics-Economics</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-economics-bf17482c09/">Applied Mathematics-Economics</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-archaeology-and-the-ancient-world-bde8f79855/">Archaeology and the Ancient World</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-architecture-683260536b/">Architecture</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-astronomy-c915e41a81/">Astronomy</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-behavioral-decision-sciences-d2f6155b55/">Behavioral Decision Sciences</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biochemistry-molecular-biology-efc5ce8d19/">Biochemistry &amp; Molecular Biology</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biology-7b3f25b857/">Biology</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biology-8eec343484/">Biology</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biomedical-engineering-bfade9462e/">Biomedical Engineering</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biophysics-c6c487e191/">Biophysics</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-chemical-engineering-aad0cbd448/">Chemical Engineering</a><small>Sc.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-chemical-physics-e9d5e13645/">Chemical Physics</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-chemistry-f2c96a60f5/">Chemistry</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-chemistry-1e341f8260/">Chemistry</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-e63ce89770/">Classics</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-cognitive-neuroscience-e28372e8ac/">Cognitive Neuroscience</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-cognitive-neuroscience-9f79d5a669/">Cognitive Neuroscience</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-cognitive-science-e31b370bc7/">Cognitive Science</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-cognitive-science-9082a05943/">Cognitive Science</a><small>Sc.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-comparative-literature-9c52c43552/">Comparative Literature</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computational-biology-a508872bd7/">Computational Biology</a><small>A.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computational-biology-6212999827/">Computational Biology</a><small>Sc.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computational-chemistry-and-chemical-physics-3723e5fa8e/">Computational Chemistry and Chemical Physics</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computational-neuroscience-6849eb3701/">Computational Neuroscience</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computer-engineering-e2b057e989/">Computer Engineering</a><small>Sc.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computer-science-642d8f1ec4/">Computer Science</a><small>A.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computer-science-675ab5a9d6/">Computer Science</a><small>Sc.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computer-science-economics-44d582598e/">Computer Science-Economics</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computer-science-economics-08afabbbb0/">Computer Science-Economics</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-contemplative-studies-4b97f1b324/">Contemplative Studies</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-critical-native-american-and-indigenous-studies-ba41b89638/">Critical Native American and Indigenous Studies</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-design-engineering-45e7618f2d/">Design Engineering</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-early-modern-world-f723f352d3/">Early Modern World</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-earth-and-planetary-science-339b3673d5/">Earth and Planetary Science</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-earth-and-planetary-science-a793cb7d64/">Earth and Planetary Science</a><small>Sc.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-earth-climate-and-biology-8104741b60/">Earth, Climate, and Biology</a><small>A.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-earth-climate-and-biology-4b6be01171/">Earth, Climate, and Biology</a><small>Sc.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-east-asian-studies-91f11c8a73/">East Asian Studies</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-economics-cb87c00717/">Economics</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-education-studies-87e8349005/">Education Studies</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-egyptology-and-assyriology-1a85864aee/">Egyptology and Assyriology</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-electrical-engineering-f1b17bdee6/">Electrical Engineering</a><small>Sc.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-engineering-09577dcace/">Engineering</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-engineering-and-physics-427b20163d/">Engineering and Physics</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-english-dd94fe54b7/">English</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-environmental-engineering-2f605bef47/">Environmental Engineering</a><small>Sc.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-environmental-sciences-and-studies-bb83630e5b/">Environmental Sciences and Studies</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-environmental-sciences-and-studies-bdb773478b/">Environmental Sciences and Studies</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-ethnic-studies-73d1643bea/">Ethnic Studies</a><small>A.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-french-and-francophone-studies-baa8fc635b/">French and Francophone Studies</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-gender-and-sexuality-studies-e59d25ecd4/">Gender and Sexuality Studies</a><small>A.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-geochemistry-and-environmental-chemistry-abd4e53dfa/">Geochemistry and Environmental Chemistry</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-geochemistry-and-environmental-chemistry-1bf53c1762/">Geochemistry and Environmental Chemistry</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-geophysics-and-climate-physics-b3597999bd/">Geophysics and Climate Physics</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-geophysics-and-climate-physics-6f317ba585/">Geophysics and Climate Physics</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-german-studies-54d61e5ce2/">German Studies</a><small>A.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-health-human-biology-a2a1d18da1/">Health &amp; Human Biology</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-hispanic-literatures-and-cultures-36c06199b6/">Hispanic Literatures and Cultures</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-history-ffe859982f/">History</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-history-of-art-and-architecture-be77c5195b/">History of Art and Architecture</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-independent-concentration-b1ff91ff4e/">Independent Concentration</a><small>A.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-independent-concentration-da46ab46d6/">Independent Concentration</a><small>Sc.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-international-and-public-affairs-16749f2fea/">International and Public Affairs</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-italian-studies-85e0588531/">Italian Studies</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-judaic-studies-719463fd0d/">Judaic Studies</a><small>A.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-latin-american-and-caribbean-studies-a5eca7a29e/">Latin American and Caribbean Studies</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-linguistics-a2d49f3560/">Linguistics</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-linguistics-b1a6a82795/">Linguistics</a><small>Sc.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-literary-arts-20403cb829/">Literary Arts</a><small>A.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-materials-engineering-223cad28af/">Materials Engineering</a><small>Sc.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-mathematics-55c712b625/">Mathematics</a><small>A.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-mathematics-fae2772454/">Mathematics</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-mathematics-computer-science-c3c8903182/">Mathematics-Computer Science</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-mathematics-economics-b8f386e37a/">Mathematics-Economics</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-mechanical-engineering-a75a404312/">Mechanical Engineering</a><small>Sc.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-medieval-cultures-5b12e163c9/">Medieval Cultures</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-middle-east-studies-c62fcacd30/">Middle East Studies</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-modern-culture-and-media-52e43deff0/">Modern Culture and Media</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-music-ce3087f5c5/">Music</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-neuroscience-fbb942d062/">Neuroscience</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-philosophy-ac0d1cff93/">Philosophy</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-physics-f2e8ec3d08/">Physics</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-physics-06b173407f/">Physics</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-physics-and-philosophy-a4ed5bdd8d/">Physics and Philosophy</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-political-science-2e5d805bb3/">Political Science</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-portuguese-and-brazilian-studies-52526c08d9/">Portuguese and Brazilian Studies</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-psychology-245de0a262/">Psychology</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-psychology-e9d62a7551/">Psychology</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-public-health-1c9e1e1892/">Public Health</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-religious-studies-e81e34a38a/">Religious Studies</a><small>A.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-75ced753c8/">Science, Technology, and Society</a><small>A.B. · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-slavic-studies-5d7c6ed219/">Slavic Studies</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-social-analysis-and-research-ba3d7cf51a/">Social Analysis and Research</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-sociology-1c15217127/">Sociology</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-south-asian-studies-f3c5722ea3/">South Asian Studies</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-statistics-13cacb7618/">Statistics</a><small>Sc.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-theatre-arts-and-performance-studies-a17c43ed64/">Theatre Arts and Performance Studies</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-urban-studies-cb01180c8f/">Urban Studies</a><small>A.B. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-visual-art-93a6e4c31a/">Visual Art</a><small>A.B. · 部分专业资料已核实</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-africana-studies-69fab4d8bd/">非洲及非洲离散研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-american-studies-b2d16c3344/">美国研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-anthropology-1707adb75b/">人类学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-anthropology-anthropological-archaeology-9199d6349a/">人类学—人类学考古</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-anthropology-biological-anthropology-5c193692a1/">人类学—生物人类学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-anthropology-general-anthropology-05db3ea032/">人类学—普通人类学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-anthropology-linguistic-anthropology-86e9a3d654/">人类学—语言人类学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-anthropology-medical-anthropology-afb57baff7/">人类学—医学人类学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-anthropology-socio-cultural-anthropology-13948d9c96/">人类学—社会文化人类学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-155a7c1334/">应用数学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-af4c50c249/">应用数学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-professional-track-f5c57bf9ad/">应用数学—专业实践方向</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-professional-track-afab488200/">应用数学—专业实践方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-biology-fcc071eb66/">应用数学—生物学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-biology-professional-track-2e3350c18c/">应用数学—生物学—专业实践方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-computer-science-b79398c5fa/">应用数学—计算机科学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-computer-science-professional-track-fd5d94e49b/">应用数学—计算机科学—专业实践方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-economics-3f63695240/">应用数学—经济学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-economics-bf17482c09/">应用数学—经济学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-economics-mathematical-finance-0f17aea7b7/">应用数学—经济学—金融数学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-economics-mathematical-finance-340f5f7c15/">应用数学—经济学—金融数学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-economics-mathematical-finance-professional-track-1ceabc57bc/">应用数学—经济学—金融数学（专业实践方向）</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-economics-mathematical-finance-professional-track-591b8c0c12/">应用数学—经济学—金融数学（专业实践方向）</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-economics-professional-track-56dd018836/">应用数学—经济学—专业实践方向</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-applied-mathematics-economics-professional-track-0618214843/">应用数学—经济学—专业实践方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-archaeology-and-the-ancient-world-bde8f79855/">考古学与古代世界</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-archaeology-and-the-ancient-world-archaeology-and-the-ancient-world-dc76fc0d78/">考古学与古代世界—考古学与古代世界（一般方向）</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-archaeology-and-the-ancient-world-classical-archaeology-2bf69f665a/">考古学与古代世界—古典考古</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-archaeology-and-the-ancient-world-egyptian-and-near-eastern-archaeology-afe5fb6d8d/">考古学与古代世界—埃及与近东考古</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-architecture-683260536b/">建筑学（旧在读方向）</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-astronomy-c915e41a81/">天文学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-behavioral-decision-sciences-d2f6155b55/">行为决策科学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biochemistry-molecular-biology-efc5ce8d19/">生物化学与分子生物学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biology-7b3f25b857/">生物学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biology-8eec343484/">生物学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biology-biomedical-informatics-fe91819e9c/">生物学—生物医学信息学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biology-cell-and-molecular-biology-d3af73eb3c/">生物学—细胞与分子生物学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biology-ecology-evolution-and-organismal-biology-a368723701/">生物学—生态、进化与个体生物学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biology-immunobiology-187542d64a/">生物学—免疫生物学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biology-neurobiology-4b71a7b230/">生物学—神经生物学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biology-physical-sciences-184870221d/">生物学—物理科学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biology-physiology-and-biotechnology-6bcc530a30/">生物学—生理学与生物技术</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biomedical-engineering-bfade9462e/">生物医学工程</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biomedical-engineering-professional-track-5b269a536f/">生物医学工程—专业实践方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-biophysics-c6c487e191/">生物物理学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-brown-risd-dual-degree-program-e0969f9168/">布朗—罗德岛设计学院双学位</a><small>Brown A.B. or Sc.B. + RISD B.F.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-chemical-engineering-aad0cbd448/">化学工程</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-chemical-engineering-professional-track-d7696f2841/">化学工程—专业实践方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-chemical-physics-e9d5e13645/">化学物理（已关闭新主修声明）</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-chemistry-f2c96a60f5/">化学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-chemistry-1e341f8260/">化学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-chemistry-chemical-biology-15e73bbeea/">化学—化学生物学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-chemistry-chemistry-28bd9e5207/">化学—一般化学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-chemistry-materials-chemistry-8aae321287/">化学—材料化学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-e63ce89770/">古典学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-classics-07a1e68f38/">古典学—一般古典学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-greek-c695820412/">古典学—希腊语</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-greek-and-latin-5ce9f2b65f/">古典学—希腊语与拉丁语</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-greek-and-sanskrit-6eb2be16a3/">古典学—希腊语与梵语</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-latin-7a7882ecd3/">古典学—拉丁语</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-latin-and-sanskrit-e44956533d/">古典学—拉丁语与梵语</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-sanskrit-630e838824/">古典学—梵语</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-south-asian-classics-573584c0b0/">古典学—南亚古典学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-cognitive-neuroscience-e28372e8ac/">认知神经科学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-cognitive-neuroscience-9f79d5a669/">认知神经科学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-cognitive-science-e31b370bc7/">认知科学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-cognitive-science-9082a05943/">认知科学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-comparative-literature-9c52c43552/">比较文学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-comparative-literature-comparative-literature-in-three-languages-fd4a678f3c/">比较文学—三语比较文学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-comparative-literature-comparative-literature-in-two-languages-4a2d4fc61c/">比较文学—双语比较文学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-comparative-literature-literary-translation-96dead71f0/">比较文学—文学翻译</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computational-biology-a508872bd7/">计算生物学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computational-biology-6212999827/">计算生物学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computational-biology-applied-mathematics-statistics-5c61961034/">计算生物学—应用数学与统计</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computational-biology-biological-sciences-4d4b21e24d/">计算生物学—生物科学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computational-biology-computer-science-5000837c1a/">计算生物学—计算机科学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computational-chemistry-and-chemical-physics-3723e5fa8e/">计算化学与化学物理</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computational-neuroscience-6849eb3701/">计算神经科学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computer-engineering-e2b057e989/">计算机工程</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computer-engineering-professional-track-63309920aa/">计算机工程—专业实践方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computer-science-642d8f1ec4/">计算机科学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computer-science-675ab5a9d6/">计算机科学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computer-science-professional-track-deda4261cb/">计算机科学—专业实践方向</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computer-science-professional-track-8bc6cca5f7/">计算机科学—专业实践方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computer-science-economics-44d582598e/">计算机科学—经济学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computer-science-economics-08afabbbb0/">计算机科学—经济学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computer-science-economics-professional-track-391ed1a6f3/">计算机科学—经济学—专业实践方向</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-computer-science-economics-professional-track-b81586ffeb/">计算机科学—经济学—专业实践方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-contemplative-studies-4b97f1b324/">冥想与观照研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-contemplative-studies-humanities-53b9cd2102/">冥想与观照研究—人文</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-contemplative-studies-science-c6ba2ae9ef/">冥想与观照研究—科学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-critical-native-american-and-indigenous-studies-ba41b89638/">美洲原住民与原住民族批判研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-design-engineering-45e7618f2d/">设计工程</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-early-modern-world-f723f352d3/">近世世界研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-earth-and-planetary-science-339b3673d5/">地球与行星科学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-earth-and-planetary-science-a793cb7d64/">地球与行星科学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-earth-climate-and-biology-8104741b60/">地球、气候与生物学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-earth-climate-and-biology-4b6be01171/">地球、气候与生物学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-east-asian-studies-91f11c8a73/">东亚研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-economics-cb87c00717/">经济学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-economics-business-economics-daba148e59/">经济学—商业经济学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-economics-business-economics-professional-track-60a1894038/">经济学—商业经济学（专业实践方向）</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-economics-professional-track-9a046cc48b/">经济学—专业实践方向</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-economics-public-policy-3aefbeaf2d/">经济学—公共政策</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-economics-public-policy-professional-track-aa3893afd2/">经济学—公共政策（专业实践方向）</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-education-studies-87e8349005/">教育研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-egyptology-and-assyriology-1a85864aee/">埃及学与亚述学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-egyptology-and-assyriology-assyriology-11f5000b8b/">埃及学与亚述学—亚述学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-egyptology-and-assyriology-egyptology-56b3121835/">埃及学与亚述学—埃及学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-electrical-engineering-f1b17bdee6/">电气工程</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-electrical-engineering-professional-track-2d0991795e/">电气工程—专业实践方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-engineering-09577dcace/">工程学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-engineering-and-physics-427b20163d/">工程与物理学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-engineering-and-physics-professional-track-7b4b52ad1b/">工程与物理学—专业实践方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-engineering-professional-track-151ef01a8d/">工程学—专业实践方向</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-english-dd94fe54b7/">英语文学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-english-nonfiction-writing-c039b515df/">英语文学—非虚构写作</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-environmental-engineering-2f605bef47/">环境工程</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-environmental-engineering-professional-track-945d39f0fb/">环境工程—专业实践方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-environmental-sciences-and-studies-bb83630e5b/">环境科学与研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-environmental-sciences-and-studies-bdb773478b/">环境科学与研究</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-environmental-sciences-and-studies-climate-and-energy-2447f38e13/">环境科学与研究—气候与能源</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-environmental-sciences-and-studies-conservation-science-and-natural-systems-d62029c5ca/">环境科学与研究—保护科学与自然系统</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-environmental-sciences-and-studies-environmental-justice-and-health-efa93348c3/">环境科学与研究—环境正义与健康</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-environmental-sciences-and-studies-sustainable-development-and-governance-ae41232d07/">环境科学与研究—可持续发展与治理</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-ethnic-studies-73d1643bea/">族裔研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-five-year-combined-a-b-sc-b-program-2a8e489e99/">五年文理合并学位计划</a><small>Combined A.B.–Sc.B. (one distinct Brown degree/diploma) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-french-and-francophone-studies-baa8fc635b/">法国与法语世界研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-gender-and-sexuality-studies-e59d25ecd4/">性别与性研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-geochemistry-and-environmental-chemistry-abd4e53dfa/">地球化学与环境化学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-geochemistry-and-environmental-chemistry-1bf53c1762/">地球化学与环境化学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-geophysics-and-climate-physics-b3597999bd/">地球物理与气候物理</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-geophysics-and-climate-physics-6f317ba585/">地球物理与气候物理</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-german-studies-54d61e5ce2/">德国研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-health-human-biology-a2a1d18da1/">健康与人类生物学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-health-human-biology-global-health-42303fcbda/">健康与人类生物学—全球健康</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-health-human-biology-mind-brain-behavior-c1eb98ec6c/">健康与人类生物学—心智、大脑与行为</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-health-human-biology-planetary-health-17ae4291d3/">健康与人类生物学—行星健康</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-health-human-biology-social-determinants-of-health-1cef9717fa/">健康与人类生物学—健康的社会决定因素</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-hispanic-literatures-and-cultures-36c06199b6/">西班牙语文学与文化</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-history-ffe859982f/">历史学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-history-of-art-and-architecture-be77c5195b/">艺术与建筑史</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-independent-concentration-b1ff91ff4e/">自主设计跨学科主修</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-independent-concentration-da46ab46d6/">自主设计跨学科主修</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-international-and-public-affairs-16749f2fea/">国际与公共事务</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-international-and-public-affairs-development-38f88d22d9/">国际与公共事务—发展</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-international-and-public-affairs-development-professional-track-9e8757b387/">国际与公共事务—发展（专业实践方向）</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-international-and-public-affairs-policy-governance-0a674ce64a/">国际与公共事务—政策与治理</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-international-and-public-affairs-policy-governance-professional-track-a3930bbcbc/">国际与公共事务—政策与治理（专业实践方向）</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-international-and-public-affairs-security-571a5e714f/">国际与公共事务—安全</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-international-and-public-affairs-security-professional-track-6b311f68f7/">国际与公共事务—安全（专业实践方向）</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-italian-studies-85e0588531/">意大利研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-judaic-studies-719463fd0d/">犹太研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-latin-american-and-caribbean-studies-a5eca7a29e/">拉丁美洲与加勒比研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-linguistics-a2d49f3560/">语言学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-linguistics-b1a6a82795/">语言学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-literary-arts-20403cb829/">文学创作</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-materials-engineering-223cad28af/">材料工程</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-materials-engineering-professional-track-a2d7b3defc/">材料工程—专业实践方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-mathematics-55c712b625/">数学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-mathematics-fae2772454/">数学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-mathematics-computer-science-c3c8903182/">数学与计算机科学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-mathematics-computer-science-professional-track-654c8a239f/">数学与计算机科学—专业实践方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-mathematics-economics-b8f386e37a/">数学与经济学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-mathematics-economics-professional-track-ffe1219254/">数学与经济学—专业实践方向</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-mechanical-engineering-a75a404312/">机械工程</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-mechanical-engineering-professional-track-32b2bea8cb/">机械工程—专业实践方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-medieval-cultures-5b12e163c9/">中世纪文化</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-medieval-cultures-late-antique-cultures-724548890a/">中世纪文化—晚期古代文化</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-medieval-cultures-medieval-cultures-33c9097e30/">中世纪文化—中世纪文化</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-middle-east-studies-c62fcacd30/">中东研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-modern-culture-and-media-52e43deff0/">现代文化与媒体</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-modern-culture-and-media-practice-based-9ce74d436b/">现代文化与媒体—实践方向</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-modern-culture-and-media-theory-based-3f2fcc08dc/">现代文化与媒体—理论方向</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-music-ce3087f5c5/">音乐</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-neuroscience-fbb942d062/">神经科学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-philosophy-ac0d1cff93/">哲学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-physics-f2e8ec3d08/">物理学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-physics-06b173407f/">物理学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-physics-and-philosophy-a4ed5bdd8d/">物理与哲学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-physics-astrophysics-4e056f417a/">物理学—天体物理</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-physics-biological-physics-f526f5331e/">物理学—生物物理</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-physics-mathematical-physics-a04a2a83c9/">物理学—数学物理</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-physics-mathematical-physics-659c3368cf/">物理学—数学物理</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-political-science-2e5d805bb3/">政治学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-portuguese-and-brazilian-studies-52526c08d9/">葡萄牙与巴西研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-program-in-liberal-medical-education-plme-57a1e7025d/">文理医学教育计划（PLME）</a><small>A.B. or Sc.B. → M.D. (integrated pathway) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-psychology-245de0a262/">心理学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-psychology-e9d62a7551/">心理学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-public-health-1c9e1e1892/">公共卫生</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-religious-studies-e81e34a38a/">宗教研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-75ced753c8/">科学、技术与社会</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-environment-society-14775d02bc/">科学、技术与社会—环境与社会</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-gender-science-09da569d8b/">科学、技术与社会—性别与科学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-health-medicine-9f167bc117/">科学、技术与社会—健康与医学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-history-philosophy-of-science-9588cf0593/">科学、技术与社会—科学史与科学哲学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-independent-focus-2413cb53d0/">科学、技术与社会—自主专题</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-policy-persuasion-the-rhetoric-of-science-f228539adb/">科学、技术与社会—政策、说服与科学修辞</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-race-science-ethnicity-94ecb225e5/">科学、技术与社会—种族、科学与族裔</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-representing-science-in-literature-culture-0abe761a2f/">科学、技术与社会—文学文化中的科学表现</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-slavic-studies-5d7c6ed219/">斯拉夫研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-social-analysis-and-research-ba3d7cf51a/">社会分析与研究</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-social-analysis-and-research-organizational-studies-be5c4ca1bf/">社会分析与研究—组织研究</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-sociology-1c15217127/">社会学</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-sociology-organizational-studies-5d4c9732e1/">社会学—组织研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-south-asian-studies-f3c5722ea3/">南亚研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-statistics-13cacb7618/">统计学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-statistics-econometrics-ae39fc91e0/">统计学—计量经济学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-statistics-health-data-science-efc39bba17/">统计学—健康数据科学</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-statistics-interdisciplinary-track-c64d6c1715/">统计学—跨学科自定方向</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-statistics-statistical-theory-c800e108ef/">统计学—统计理论</a><small>Sc.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-theatre-arts-and-performance-studies-a17c43ed64/">戏剧艺术与表演研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-theatre-arts-and-performance-studies-dance-81bbbd19bd/">戏剧艺术与表演研究—舞蹈</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-theatre-arts-and-performance-studies-performance-studies-dd31875892/">戏剧艺术与表演研究—表演研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-theatre-arts-and-performance-studies-theatre-arts-a2c9286cac/">戏剧艺术与表演研究—戏剧艺术</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-urban-studies-cb01180c8f/">城市研究</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-visual-art-93a6e4c31a/">视觉艺术</a><small>A.B. · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -148,51 +258,175 @@ hide:
 <p class="catalog-fact"><strong>SAT／ACT：</strong>新生须提交 SAT 或 ACT；Brown 不设统一最低录取分数，成绩结合教育背景整体评估。英语考试不能取代学术标化。</p>
 <p class="fact-sources"><a href="#source-u-USBENR-f2fc400b00cc53">官方依据</a></p>
 
-<p class="catalog-fact"><strong>英语建议标准：</strong>非英语第一语言、家庭主要语言或完整中学授课语言者，学校强烈建议提交英语考试。通常期望 IELTS8.0、DET130；TOEFL旧制105，官网将2026年1月及之后新制列为5.5。这是所列一般期望，不能改写为对所有国际生无例外的硬性考试要求。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-4bee8881e0cd42">官方依据</a></p>
+<p class="catalog-fact"><strong>英语能力与考试建议：</strong>Brown以英语教学，入学前须具备能力，不设本科ESL条件录取。对英语非第一语言、家庭主要语言或完整中学授课语言者，强烈建议英语考试；通常期望TOEFL旧制105、2026年1月起5.5，IELTS8、DET130、PTE75、Cambridge C1/C2 191，不接受MyBest。</p>
+<p class="fact-sources"><a href="#source-u-BR-english">官方依据</a></p>
+
+<p class="catalog-fact"><strong>专业申报与高中申请分开：</strong>通常先入读本科，再于第四学期中期、注册第五学期前申报concentration并取得导师批准；转入大三者与Brown–RISD有例外。主修页面的大学课程、语言级别、荣誉成绩与研究申请要求不能一律当作中国高中申请门槛。</p>
+<p class="fact-sources"><a href="#source-u-BR-college">官方依据</a></p>
 
 ### 申请安排
 
-<p class="catalog-fact"><strong>申请与日程：</strong>2026–27申请周期通过 Common Application 及 Brown 补充问题申请，申请费 USD80或获批豁免。页面现列 ED 11月1日、RD 1月5日。PLME 与 Brown|RISD 双学位另有专门文书。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-9ac8e1ff2d917a">官方依据</a></p>
-
 <p class="catalog-fact"><strong>考试时间：</strong>ED 考试应在最后一次10月考期前完成，RD应在最后一次12月考期前完成；提交时间以收到完整成绩的规定为准。</p>
 <p class="fact-sources"><a href="#source-u-USBENR-f2fc400b00cc53">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027秋普通新生申请：</strong>官网标明2026–2027申请周期，通过Common Application及Brown问题、学校材料申请；ED为2026年11月1日，RD为2027年1月5日。申请费USD80，可申请豁免；材料推荐信允许在截止后接续一周到达的具体规则见官网。核验日2026年9月13日，两轮尚未截止。</p>
+<p class="fact-sources"><a href="#source-u-BR-apply">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027英语正式成绩：</strong>2027秋入学且申请时自报英语成绩者，须在2027年5月提供正式成绩；若此前到期须到期前送达。过期报告不接受，无法核实者须在入学前重考同一考试且不低于原报成绩。</p>
+<p class="fact-sources"><a href="#source-u-BR-english">官方依据</a></p>
 
 ### 学费与资助
 
 <p class="catalog-fact"><strong>2026/27 学费：</strong>董事会公布2026/27本科年学费 USD74,568；标准住宿10,710、餐食8,754。另有学生资源、健康服务、活动和体育费用；这是2026/27而非2027入学报价。</p>
 <p class="fact-sources"><a href="#source-u-USBENR-d37af21d84c1c5">官方依据</a></p>
 
-<p class="catalog-fact"><strong>费用口径与缺口：</strong>费用页还列新生首次学术记录费 USD100，保险和个别费用不含在标准预算内；书本补助对象不同，未获该补助者另按书本用品预算。该页两个总额存在10美元不一致，本轮不采用未解释总额作为完整预算。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-50a0f9bec1847c">官方依据</a></p>
-
 <p class="catalog-fact"><strong>国际新生助学金：</strong>自2024–25申请周期起，国际新生实行 need-blind；对申请资助且获录取者满足学校认定的全部经济需要。金额由家庭情况核定，不能理解为人人免学费；假期和暑期费用不在该说明的覆盖范围内。</p>
 <p class="fact-sources"><a href="#source-u-USBENR-4bee8881e0cd42">官方依据</a></p>
+
+<p class="catalog-fact"><strong>预算单位与额外支出：</strong>2026/27本科年学费USD74,568，费用页列新生杂费3,084（含首次学术记录100）、标准住宿10,710、餐食8,754。保险、交通等另核；未获指定书本材料计划者，书本用品参考1,300。页面两处含杂支总额相差10美元，本轮不把未解释总额当准确完整预算。2027/28报价本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-BR-fees">官方依据</a> · <a href="#source-u-USBENR-d37af21d84c1c5">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>官方毕业去向资料口径：</strong>当前职业中心公开方法说明针对2022届本科1677人取得790人去向，knowledge rate为47%；资料来自毕业起开放六个月的首次去向调查及其他核查。已知去向率不是就业率，也不代表国际生、中国学生或每个专业；本轮未取得能闭合这些分母的逐专业就业／薪酬统计。</p>
+<p class="fact-sources"><a href="#source-u-BR-career-outcomes">官方依据</a></p>
 
 ### 学校资料来源
 
 <div class="catalog-source" id="source-u-USBENR-4bee8881e0cd42"><div><a href="https://admission.brown.edu/ask/international-applicants">brown 官方 international ↗</a><p>本条高中与国际课程及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-USBENR-f2fc400b00cc53"><div><a href="https://admission.brown.edu/first-year/standardized-tests">brown 官方 testing ↗</a><p>本条SAT／ACT及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-USBENR-9ac8e1ff2d917a"><div><a href="https://admission.brown.edu/apply/how-apply">brown 官方 apply ↗</a><p>本条申请与日程及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-USBENR-d37af21d84c1c5"><div><a href="https://www.brown.edu/news/2026-05-27/fiscal-year-2027-budget">brown 官方 year-news ↗</a><p>本条2026/27 学费及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-USBENR-50a0f9bec1847c"><div><a href="https://finaid.brown.edu/estimate-cost-aid/cost">brown 官方 tuition ↗</a><p>本条费用口径与缺口及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-BR-english"><div><a href="https://admission.brown.edu/international/english-proficiency">English Proficiency | Undergraduate Admission | Brown University ↗</a><p>本条学校政策或特殊路线，适用范围与年度见事实；官网公开正文。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-BR-apply"><div><a href="https://admission.brown.edu/apply/how-apply">How to Apply | Undergraduate Admission | Brown University ↗</a><p>本条学校政策或特殊路线，适用范围与年度见事实；官网公开正文。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-BR-fees"><div><a href="https://finaid.brown.edu/estimate-cost-aid/cost">Cost of Attendance | Undergraduate | Financial Aid Undergradute | Brown University ↗</a><p>本条学校政策或特殊路线，适用范围与年度见事实；官网公开正文。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-BR-career-outcomes"><div><a href="https://career-center.brown.edu/pathways-outcomes/student-outcomes">Student Outcomes | Lizzie &amp; Jonathan Tisch Center for Career Exploration | Brown University ↗</a><p>本条学校政策或特殊路线，适用范围与年度见事实；官网公开正文。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-BR-college"><div><a href="https://bulletin.brown.edu/the-college/">The College &lt; Brown University ↗</a><p>本条学校政策或特殊路线，适用范围与年度见事实；官网公开正文。</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**已完成所列官方目录范围的对账**，共 107 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 217 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>Brown undergraduate College concentrations; every AB/ScB variant explicitly shown</p>
+<p><strong>统计范围：</strong>107个原concentration学位记录，加76内部方向、2自主专题模板、29实践方向及3明确结构化路径；不是217个独立学位</p>
 
-<p><strong>对账方法：</strong>{&quot;pages&quot;: 90, &quot;bulletin_concentrations&quot;: 88, &quot;detail_pages_read&quot;: 88, &quot;finder_cards&quot;: 97, &quot;pagination&quot;: &quot;Complete single-page Bulletin concentration index and all 88 linked pages; complete finder cards (no subsequent pages)&quot;}</p>
+<p><strong>对账方法：</strong>复核现行88中央主修页面、逐项中文课程与学位要求，并核验106项既有及1项新增官方来源；107旧ID完整保留，新增不制造自由组合。</p>
 
-<p><strong>排除项：</strong>Current Bulletin 88 concentrations control scope; split all A.B. and Sc.B. labels from official finder, and read new Computational Chemistry degree from current Bulletin. Exclude certificates and 4 finder entries absent from current Bulletin.</p>
+<p><strong>排除项：</strong>不将荣誉称号、自由双主修组合、任意Brown×RISD组合制造为专业；关闭新申报的两条保留旧在读身份。证书、RUE等身份入口另核。</p>
 
 **尚未解决的目录缺口：**
 
-- Four older/general-finder concentrations not in current Bulletin are documented in exclusions; their historical availability is not asserted.
-- Flexible multiple-concentration and Brown/RISD/PLME admission routes do not generate Cartesian-product fabricated majors.
+- 旧finder四项与中央目录不一致，全部内部选课方案与其他结构化路线尚未完全闭合。
+- 公共卫生专业实践方向在主修页与中央列表之间不一致，暂未套用其他主修的实习规则。
+- 部分主修课程量在同页正文和表格中不一致，详情保留差异待校方解释。
+- 2027/28课程及学费尚未取得；2026/27费用页预算总额存在10美元差异，按分项呈现。
+- 已知去向率不是就业率；大多数专业及全部新增路径缺乏有届次、分母和国际生范围的可比毕业统计。
 
 - [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/afri/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/)
+- [官方目录来源](https://admission.brown.edu/international/english-proficiency)
+- [官方目录来源](https://admission.brown.edu/apply/how-apply)
+- [官方目录来源](https://finaid.brown.edu/estimate-cost-aid/cost)
+- [官方目录来源](https://www.brown.edu/news/2026-05-27/fiscal-year-2027-budget)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/amst/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/anth/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/apma/)
+- [官方目录来源](https://bulletin.brown.edu/undergradproftrack/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/apmb/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/apmc/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/apme/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/aran/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/arct/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/astr/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/bds/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/bchm/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/biol/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/enbi/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/biop/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/cheg/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/chph/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/chem/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/clas/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/cogn/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/cogs/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/colt/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/csbi/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/cccp/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/cneu/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/coeg/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/comp/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/csec/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/ctmp/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/nais/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/dese/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/emow/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/eps/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/ecb/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/east/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/econ/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/educ/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/egya/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/eleg/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/engn/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/enph/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/engl/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/eveg/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/envs/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/eths/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/ffs/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/gnss/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/gcec/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/gpcp/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/gmst/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/hhbi/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/hslc/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/hist/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/hiaa/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/indp/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/iapa/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/ital/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/juds/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/lacs/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/ling/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/lita/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/maeg/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/math/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/macs/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/mtec/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/mceg/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/mdvc/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/mide/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/mcmd/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/musc/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/neur/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/phil/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/phys/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/phph/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/pols/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/pobr/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/psyc/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/pubh/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/rels/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/sts/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/slav/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/sar/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/soc/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/sast/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/stat/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/taps/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/urbn/)
+- [官方目录来源](https://bulletin.brown.edu/the-college/concentrations/visa/)
+- [官方目录来源](https://plme.med.brown.edu/admission)
+- [官方目录来源](https://plme.med.brown.edu/admission-aid/requirements)
+- [官方目录来源](https://plme.med.brown.edu/plme-faq)
+- [官方目录来源](https://plme.med.brown.edu/admission/deadlines)
+- [官方目录来源](https://plme.med.brown.edu/about)
+- [官方目录来源](https://admission.brown.edu/ask/international-applicants)
+- [官方目录来源](https://risd.brown.edu/academics)
+- [官方目录来源](https://risd.brown.edu/admissions/apply)
+- [官方目录来源](https://risd.brown.edu/admissions)
+- [官方目录来源](https://www.risd.edu/admissions/first-year/apply-risd)
+- [官方目录来源](https://registrar.brown.edu/students/degree-guidelines/college/degree)
+- [官方目录来源](https://admission.brown.edu/first-year/standardized-tests)
+- [官方目录来源](https://career-center.brown.edu/pathways-outcomes/student-outcomes)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。
