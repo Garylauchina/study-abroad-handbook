@@ -15,7 +15,15 @@ hide:
 
 > **此项目已移出本科专业清单。** 旧链接保留，供查阅更正说明。
 
-当前官网明确旧“数学与统计”不再作为理学主修提供；现列应用数学、纯数学、数学运筹学、统计与随机过程四个主修。2027旧PDF仍保留旧名称，本站已改列四项新主修并保留此旧链接说明。
+当前官网明确Mathematics and Statistics不再作为理学学士主修提供，并指向应用数学、纯数学、数理运筹学、统计与随机过程四个具名主修。已读取的2027招生指南第13页仍列旧总名称，与当前专页不同；本站保留此旧链接说明，并链接四项现行主修，不把旧总名称再作为第五项并行入口。官网本轮可读页面未明确停止提供的具体年度及旧生转换规则，不能套用其他主修的停收年份。
+
+<a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-applied-mathematics-bbb418818c/">查看现行专业：应用数学（理学学士主修）</a>
+
+<a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-pure-mathematics-98ba9559ac/">查看现行专业：纯数学（理学学士主修）</a>
+
+<a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-mathematical-operations-research-86d4bada0b/">查看现行专业：数理运筹学（理学学士主修）</a>
+
+<a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-statistics-and-stochastic-processes-d432f5f8c2/">查看现行专业：统计与随机过程（理学学士主修）</a>
 
 <a class="" href="/study-abroad-handbook/catalog/australia/melbourne/">返回墨尔本大学的本科专业清单</a>
 
@@ -27,3 +35,5 @@ hide:
 - <a href="https://study.unimelb.edu.au/lp/science/pure-mathematics">Pure Mathematics — 官方主修介绍</a>（核对：2026-09-13）
 - <a href="https://study.unimelb.edu.au/lp/science/mathematical-operations-research">Mathematical Operations Research — 官方主修介绍</a>（核对：2026-09-13）
 - <a href="https://study.unimelb.edu.au/lp/science/statistics-and-stochastic-processes">Statistics and Stochastic Processes — 官方主修介绍</a>（核对：2026-09-13）
+- <a href="https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf">Study at Melbourne 2027 — 第13页主修表</a>（核对：2026-09-13）
+- <a href="https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/">Bachelor of Science — 主修与50学分specialisation分列</a>（核对：2026-09-13）

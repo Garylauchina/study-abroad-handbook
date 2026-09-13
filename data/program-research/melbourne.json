@@ -29089,6 +29089,29 @@
               "melbourne-page-bachelor-of-science-overview",
               "melbourne-language-statement-expanded"
             ]
+          },
+          {
+            "label": "2027主修名称与父学位",
+            "text": "2027招生指南第13页在 Bachelor of Science 下列出 Geoscience（地球科学）；当前专业页也明确它是理学学士内的主修，并非另一个独立学士学位。",
+            "source_ids": [
+              "melbourne-geology-reconciliation-guide-2027",
+              "melbourne-page-geoscience-structure"
+            ]
+          },
+          {
+            "label": "Geology旧主修与2024年分界",
+            "text": "学校当前理学学士页面明确：Geology（地质学）主修自2024年起不再向新主修学生提供；在2024年前已开始该主修、计划完成Geology者仍可继续。页面将对地质学感兴趣的学生引导至Geoscience。因此，旧Geology仍出现在网页或历史校历中，不代表2027可作为另一项新生主修申请；该日期针对开始主修，不能擅自改成所有理学学士的入学年份。",
+            "source_ids": [
+              "melbourne-geology-reconciliation-science-structure"
+            ]
+          },
+          {
+            "label": "公开主修结构及校历年度边界",
+            "text": "当前Geoscience培养说明列二、三年级共7门、87.5学分，每门12.5学分：Level 2的A组选修至少25学分，Level 2的B组选修最多12.5学分，Level 3主修选修最多37.5学分，以及Level 3 capstone至少12.5学分；学位其余部分还有科学核心、科学选修和跨学科课程。该网页未单独标明上述结构适用的入学届次；本轮未取得可读的2027 Handbook主修正文，不能把它标作已经核实的2027年度选课规则，也不能把旧Geology课表直接套用到Geoscience。",
+            "source_ids": [
+              "melbourne-page-geoscience-structure",
+              "melbourne-geology-reconciliation-science-structure"
+            ]
           }
         ],
         "admissions": [
@@ -29282,6 +29305,26 @@
           "checked_at": "2026-09-13",
           "supports": "官网公开课程栏目；仅用于已列明内容与年度",
           "sha256": "a39d1e8fd72e39d72bd00dc30e23ae0e2cfbfb184c7a1806a51e1fdcf6637c7d"
+        },
+        {
+          "id": "melbourne-geology-reconciliation-guide-2027",
+          "title": "Study at Melbourne 2027 — 第13页理学学士主修表",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "仅据指南第13页核实2027 Geoscience名称及Bachelor of Science父学位；本地生指南不用于国际资格或费用。",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "capture_format": "official_pdf",
+          "source_locator": "Printed page 13 / physical page 13; visually reviewed guide-page13.png"
+        },
+        {
+          "id": "melbourne-geology-reconciliation-science-structure",
+          "title": "Bachelor of Science — 公开主修列表及Geology旧生限制",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "公开Explore this course / Majors中Geology的2024起停收、2024年前已开始主修者继续完成及转向Geoscience说明；分别链接两个校历组件。",
+          "sha256": "3e4f1dd3bb5cb73076c29f95793e39d3b027e0b3e3925d9e82d600f1b5fa56e7",
+          "capture_format": "official_public_html",
+          "source_locator": "Geology expanded major description; Geoscience description immediately follows"
         }
       ],
       "display_fields": {
@@ -29290,7 +29333,7 @@
         "campus": "Parkville",
         "language": "英语",
         "intake": "2027所属学位入口；主修条件见正文",
-        "entry_summary": "2027：A-level BBB；IB 31；另有科目和英语要求",
+        "entry_summary": "2027：A-level BBB；IB 31；另有科目和英语要求；Geoscience为当前主修，旧Geology仅限2024年前已开始该主修者",
         "tuition_summary": "2027国际生首年参考 A$55,556 - A$65,344（所属学位）",
         "outcomes_summary": "可探索能源、矿产和环境行业的咨询、勘探、运营与研究；官网的行业需求描述不等于本专业就业率。"
       },
@@ -33881,6 +33924,31 @@
               "melbourne-page-bachelor-of-science-overview",
               "melbourne-language-statement-expanded"
             ]
+          },
+          {
+            "label": "现行主修与2027指南旧名称",
+            "text": "当前理学学士目录和本主修专页均将此项目列为具名major。Mathematics and Statistics原专页明确旧总主修已不再提供，并指向应用数学、纯数学、数理运筹学、统计与随机过程四个主修；但已读取的2027指南第13页仍保留旧总名称。专页未明确四主修首次开设或旧生转换的适用届次，不能仅按指南年份推定每项已核实2027年度选课规则。",
+            "source_ids": [
+              "melbourne-new-applied-mathematics",
+              "melbourne-page-mathematics-and-statistics-overview",
+              "melbourne-science-reconciliation-guide-2027",
+              "melbourne-science-reconciliation-major-specialisation"
+            ]
+          },
+          {
+            "label": "与50学分specialisation的区别",
+            "text": "这是87.5学分的Applied Mathematics主修。理学学士另列4科、50学分的specialisation，利用选修补充主修；其中的Physical Mathematics名称不同，本轮未取得两者等同的依据，不能把50学分说明代替应用数学主修。",
+            "source_ids": [
+              "melbourne-new-applied-mathematics",
+              "melbourne-science-reconciliation-major-specialisation"
+            ]
+          },
+          {
+            "label": "87.5学分的分层构成",
+            "text": "当前公开主修页逐项列：Level 2核心12.5学分、A组选修12.5学分、B组选修12.5学分；Level 3核心12.5学分、主修选修25学分、capstone综合项目12.5学分。这些为大学阶段的课程结构，不是中国高中科目或高考分数条件；本轮未取得具名2027 Handbook的科目清单、课程级先修及可适用的转入规则，选课仍须核对应入学届次。",
+            "source_ids": [
+              "melbourne-new-applied-mathematics"
+            ]
           }
         ],
         "admissions": [
@@ -34049,6 +34117,34 @@
           "checked_at": "2026-09-13",
           "supports": "官网公开课程栏目；仅用于已列明内容与年度",
           "sha256": "52f614cd95c5ac932d9c614307e93f87ebc74505b9335da2a9f7f98254a3f5d3"
+        },
+        {
+          "id": "melbourne-science-reconciliation-guide-2027",
+          "title": "Study at Melbourne 2027 — 第13页主修表",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "第13页理学主修表仍列Mathematics and Statistics，未单列本轮5个现行名称；仅用于名称对账，不用于国际资格或费用。",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "capture_format": "official_pdf",
+          "source_locator": "Printed and physical page 13; visually reviewed guide-page13.png in preceding geology reconciliation"
+        },
+        {
+          "id": "melbourne-science-reconciliation-major-specialisation",
+          "title": "Bachelor of Science — 主修与50学分specialisation分列",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "当前理学主修表的5个名称；学位300学分；另列5种4科50学分specialisation，利用选修建立互补方向，非主修学分的同义替换。",
+          "sha256": "3e4f1dd3bb5cb73076c29f95793e39d3b027e0b3e3925d9e82d600f1b5fa56e7",
+          "capture_format": "official_public_html",
+          "source_locator": "Course structure > Major and elective subjects; Specialisations"
+        },
+        {
+          "id": "melbourne-page-mathematics-and-statistics-overview",
+          "title": "Mathematics and Statistics — 课程介绍",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/mathematics-and-statistics/",
+          "checked_at": "2026-09-13",
+          "supports": "官网公开课程栏目；仅用于已列明内容与年度",
+          "sha256": "149d579c2a016cb6cccd321fc31abe82151bd02d9ff0b1e1ab5bdb3fea1f366b"
         }
       ],
       "display_fields": {
@@ -34095,6 +34191,31 @@
               "melbourne-offering-bachelor-of-science",
               "melbourne-page-bachelor-of-science-overview",
               "melbourne-language-statement-expanded"
+            ]
+          },
+          {
+            "label": "现行主修与2027指南旧名称",
+            "text": "当前理学学士目录和本主修专页均将此项目列为具名major。Mathematics and Statistics原专页明确旧总主修已不再提供，并指向应用数学、纯数学、数理运筹学、统计与随机过程四个主修；但已读取的2027指南第13页仍保留旧总名称。专页未明确四主修首次开设或旧生转换的适用届次，不能仅按指南年份推定每项已核实2027年度选课规则。",
+            "source_ids": [
+              "melbourne-new-pure-mathematics",
+              "melbourne-page-mathematics-and-statistics-overview",
+              "melbourne-science-reconciliation-guide-2027",
+              "melbourne-science-reconciliation-major-specialisation"
+            ]
+          },
+          {
+            "label": "与50学分specialisation的区别",
+            "text": "Pure Mathematics同时出现在两种不同层级：本页是87.5学分主修；理学学士总页还列同名specialisation，说明为二、三年级4科、50学分，利用选修形成互补方向。不能因同名把两者合成一项或将主修要求减至50学分。",
+            "source_ids": [
+              "melbourne-new-pure-mathematics",
+              "melbourne-science-reconciliation-major-specialisation"
+            ]
+          },
+          {
+            "label": "87.5学分的分层构成",
+            "text": "当前公开主修页逐项列：Level 2核心12.5学分、A组选修12.5学分、B组选修12.5学分；Level 3主修选修25学分、capstone综合项目25学分。这些为大学阶段的课程结构，不是中国高中科目或高考分数条件；本轮未取得具名2027 Handbook的科目清单、课程级先修及可适用的转入规则，选课仍须核对应入学届次。",
+            "source_ids": [
+              "melbourne-new-pure-mathematics"
             ]
           }
         ],
@@ -34264,6 +34385,34 @@
           "checked_at": "2026-09-13",
           "supports": "官网公开课程栏目；仅用于已列明内容与年度",
           "sha256": "52f614cd95c5ac932d9c614307e93f87ebc74505b9335da2a9f7f98254a3f5d3"
+        },
+        {
+          "id": "melbourne-science-reconciliation-guide-2027",
+          "title": "Study at Melbourne 2027 — 第13页主修表",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "第13页理学主修表仍列Mathematics and Statistics，未单列本轮5个现行名称；仅用于名称对账，不用于国际资格或费用。",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "capture_format": "official_pdf",
+          "source_locator": "Printed and physical page 13; visually reviewed guide-page13.png in preceding geology reconciliation"
+        },
+        {
+          "id": "melbourne-science-reconciliation-major-specialisation",
+          "title": "Bachelor of Science — 主修与50学分specialisation分列",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "当前理学主修表的5个名称；学位300学分；另列5种4科50学分specialisation，利用选修建立互补方向，非主修学分的同义替换。",
+          "sha256": "3e4f1dd3bb5cb73076c29f95793e39d3b027e0b3e3925d9e82d600f1b5fa56e7",
+          "capture_format": "official_public_html",
+          "source_locator": "Course structure > Major and elective subjects; Specialisations"
+        },
+        {
+          "id": "melbourne-page-mathematics-and-statistics-overview",
+          "title": "Mathematics and Statistics — 课程介绍",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/mathematics-and-statistics/",
+          "checked_at": "2026-09-13",
+          "supports": "官网公开课程栏目；仅用于已列明内容与年度",
+          "sha256": "149d579c2a016cb6cccd321fc31abe82151bd02d9ff0b1e1ab5bdb3fea1f366b"
         }
       ],
       "display_fields": {
@@ -34310,6 +34459,31 @@
               "melbourne-offering-bachelor-of-science",
               "melbourne-page-bachelor-of-science-overview",
               "melbourne-language-statement-expanded"
+            ]
+          },
+          {
+            "label": "现行主修与2027指南旧名称",
+            "text": "当前理学学士目录和本主修专页均将此项目列为具名major。Mathematics and Statistics原专页明确旧总主修已不再提供，并指向应用数学、纯数学、数理运筹学、统计与随机过程四个主修；但已读取的2027指南第13页仍保留旧总名称。专页未明确四主修首次开设或旧生转换的适用届次，不能仅按指南年份推定每项已核实2027年度选课规则。",
+            "source_ids": [
+              "melbourne-new-mathematical-operations-research",
+              "melbourne-page-mathematics-and-statistics-overview",
+              "melbourne-science-reconciliation-guide-2027",
+              "melbourne-science-reconciliation-major-specialisation"
+            ]
+          },
+          {
+            "label": "与50学分specialisation的区别",
+            "text": "Mathematical Operations Research同时出现在两种不同层级：本页是87.5学分主修；理学学士总页还列同名specialisation，说明为二、三年级4科、50学分，利用选修形成互补方向。不能因同名把两者合成一项或将主修要求减至50学分。",
+            "source_ids": [
+              "melbourne-new-mathematical-operations-research",
+              "melbourne-science-reconciliation-major-specialisation"
+            ]
+          },
+          {
+            "label": "87.5学分的分层构成",
+            "text": "当前公开主修页逐项列：Level 2核心12.5学分、A组选修12.5学分、B组选修12.5学分；Level 3核心12.5学分、主修选修25学分、capstone综合项目12.5学分。这些为大学阶段的课程结构，不是中国高中科目或高考分数条件；本轮未取得具名2027 Handbook的科目清单、课程级先修及可适用的转入规则，选课仍须核对应入学届次。",
+            "source_ids": [
+              "melbourne-new-mathematical-operations-research"
             ]
           }
         ],
@@ -34479,6 +34653,34 @@
           "checked_at": "2026-09-13",
           "supports": "官网公开课程栏目；仅用于已列明内容与年度",
           "sha256": "52f614cd95c5ac932d9c614307e93f87ebc74505b9335da2a9f7f98254a3f5d3"
+        },
+        {
+          "id": "melbourne-science-reconciliation-guide-2027",
+          "title": "Study at Melbourne 2027 — 第13页主修表",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "第13页理学主修表仍列Mathematics and Statistics，未单列本轮5个现行名称；仅用于名称对账，不用于国际资格或费用。",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "capture_format": "official_pdf",
+          "source_locator": "Printed and physical page 13; visually reviewed guide-page13.png in preceding geology reconciliation"
+        },
+        {
+          "id": "melbourne-science-reconciliation-major-specialisation",
+          "title": "Bachelor of Science — 主修与50学分specialisation分列",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "当前理学主修表的5个名称；学位300学分；另列5种4科50学分specialisation，利用选修建立互补方向，非主修学分的同义替换。",
+          "sha256": "3e4f1dd3bb5cb73076c29f95793e39d3b027e0b3e3925d9e82d600f1b5fa56e7",
+          "capture_format": "official_public_html",
+          "source_locator": "Course structure > Major and elective subjects; Specialisations"
+        },
+        {
+          "id": "melbourne-page-mathematics-and-statistics-overview",
+          "title": "Mathematics and Statistics — 课程介绍",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/mathematics-and-statistics/",
+          "checked_at": "2026-09-13",
+          "supports": "官网公开课程栏目；仅用于已列明内容与年度",
+          "sha256": "149d579c2a016cb6cccd321fc31abe82151bd02d9ff0b1e1ab5bdb3fea1f366b"
         }
       ],
       "display_fields": {
@@ -34525,6 +34727,31 @@
               "melbourne-offering-bachelor-of-science",
               "melbourne-page-bachelor-of-science-overview",
               "melbourne-language-statement-expanded"
+            ]
+          },
+          {
+            "label": "现行主修与2027指南旧名称",
+            "text": "当前理学学士目录和本主修专页均将此项目列为具名major。Mathematics and Statistics原专页明确旧总主修已不再提供，并指向应用数学、纯数学、数理运筹学、统计与随机过程四个主修；但已读取的2027指南第13页仍保留旧总名称。专页未明确四主修首次开设或旧生转换的适用届次，不能仅按指南年份推定每项已核实2027年度选课规则。",
+            "source_ids": [
+              "melbourne-new-statistics-and-stochastic-processes",
+              "melbourne-page-mathematics-and-statistics-overview",
+              "melbourne-science-reconciliation-guide-2027",
+              "melbourne-science-reconciliation-major-specialisation"
+            ]
+          },
+          {
+            "label": "与50学分specialisation的区别",
+            "text": "本页是合称Statistics and Stochastic Processes的87.5学分主修。理学学士另列Statistics和Stochastic Processes两种各4科、50学分的specialisation，用于补充主修；本轮未取得二者能自由叠加或直接等同本主修的规则，不能按名称组合创建新学位。",
+            "source_ids": [
+              "melbourne-new-statistics-and-stochastic-processes",
+              "melbourne-science-reconciliation-major-specialisation"
+            ]
+          },
+          {
+            "label": "87.5学分的分层构成",
+            "text": "当前公开主修页逐项列：Level 2核心12.5学分、A组选修12.5学分、B组选修12.5学分；Level 3主修选修25学分、capstone综合项目25学分。这些为大学阶段的课程结构，不是中国高中科目或高考分数条件；本轮未取得具名2027 Handbook的科目清单、课程级先修及可适用的转入规则，选课仍须核对应入学届次。",
+            "source_ids": [
+              "melbourne-new-statistics-and-stochastic-processes"
             ]
           }
         ],
@@ -34694,6 +34921,34 @@
           "checked_at": "2026-09-13",
           "supports": "官网公开课程栏目；仅用于已列明内容与年度",
           "sha256": "52f614cd95c5ac932d9c614307e93f87ebc74505b9335da2a9f7f98254a3f5d3"
+        },
+        {
+          "id": "melbourne-science-reconciliation-guide-2027",
+          "title": "Study at Melbourne 2027 — 第13页主修表",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "第13页理学主修表仍列Mathematics and Statistics，未单列本轮5个现行名称；仅用于名称对账，不用于国际资格或费用。",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "capture_format": "official_pdf",
+          "source_locator": "Printed and physical page 13; visually reviewed guide-page13.png in preceding geology reconciliation"
+        },
+        {
+          "id": "melbourne-science-reconciliation-major-specialisation",
+          "title": "Bachelor of Science — 主修与50学分specialisation分列",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "当前理学主修表的5个名称；学位300学分；另列5种4科50学分specialisation，利用选修建立互补方向，非主修学分的同义替换。",
+          "sha256": "3e4f1dd3bb5cb73076c29f95793e39d3b027e0b3e3925d9e82d600f1b5fa56e7",
+          "capture_format": "official_public_html",
+          "source_locator": "Course structure > Major and elective subjects; Specialisations"
+        },
+        {
+          "id": "melbourne-page-mathematics-and-statistics-overview",
+          "title": "Mathematics and Statistics — 课程介绍",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/mathematics-and-statistics/",
+          "checked_at": "2026-09-13",
+          "supports": "官网公开课程栏目；仅用于已列明内容与年度",
+          "sha256": "149d579c2a016cb6cccd321fc31abe82151bd02d9ff0b1e1ab5bdb3fea1f366b"
         }
       ],
       "display_fields": {
@@ -34740,6 +34995,23 @@
               "melbourne-offering-bachelor-of-science",
               "melbourne-page-bachelor-of-science-overview",
               "melbourne-language-statement-expanded"
+            ]
+          },
+          {
+            "label": "现行主修与2027指南的收录差异",
+            "text": "当前理学学士主修表和本项目专页均列Chemical Biology and Therapeutics为Bachelor of Science内主修；已读取的2027指南第13页未单独列此名称。不能只凭指南未列名认定不存在，也不能反推其首次开设年份。课程专页未明确主修适用入学届次，本轮未取得具名2027 Handbook的科目级先修或转入规则；现有2027招生与费用数据仅属于承载的理学学位。",
+            "source_ids": [
+              "MELROOT-chemical-biology",
+              "melbourne-science-reconciliation-guide-2027",
+              "melbourne-science-reconciliation-major-specialisation"
+            ]
+          },
+          {
+            "label": "100学分主修在学位内的位置",
+            "text": "本主修的100学分属于二、三年级8门课程；所属理学学士总计300学分、通常全日制3年。这里的主修学分是学位内组成部分，不能再加在300学分之外；也不能与总页另列的4科50学分specialisation互换。",
+            "source_ids": [
+              "MELROOT-chemical-biology",
+              "melbourne-science-reconciliation-major-specialisation"
             ]
           }
         ],
@@ -34902,6 +35174,26 @@
           "checked_at": "2026-09-13",
           "sha256": "d99f52833cef71af5e8536b81cc5bc0a9c2cfa1cad166f2115729a44f9fc5c33",
           "supports": "理学内主修身份、课程训练、8门100学分和官方职业方向；网页未单独列首次开设年度"
+        },
+        {
+          "id": "melbourne-science-reconciliation-guide-2027",
+          "title": "Study at Melbourne 2027 — 第13页主修表",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "第13页理学主修表仍列Mathematics and Statistics，未单列本轮5个现行名称；仅用于名称对账，不用于国际资格或费用。",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "capture_format": "official_pdf",
+          "source_locator": "Printed and physical page 13; visually reviewed guide-page13.png in preceding geology reconciliation"
+        },
+        {
+          "id": "melbourne-science-reconciliation-major-specialisation",
+          "title": "Bachelor of Science — 主修与50学分specialisation分列",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "当前理学主修表的5个名称；学位300学分；另列5种4科50学分specialisation，利用选修建立互补方向，非主修学分的同义替换。",
+          "sha256": "3e4f1dd3bb5cb73076c29f95793e39d3b027e0b3e3925d9e82d600f1b5fa56e7",
+          "capture_format": "official_public_html",
+          "source_locator": "Course structure > Major and elective subjects; Specialisations"
         }
       ],
       "display_fields": {

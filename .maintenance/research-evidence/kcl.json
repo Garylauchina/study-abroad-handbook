@@ -326,10 +326,82 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc",
+      "sha256": "4fd0b952e6ed94d164d2424baf1969fc765154f96049a60720614c72d7d2eedd",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-business-management-bsc-14cbd233d2-overview.html",
+      "locator": "Course essentials; Base campuses; courseInformation and course aims"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/teaching-and-modules",
+      "sha256": "686206b71c9766c8e163d00483605851fd2d112b8977768994648fefd9f2855a",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-business-management-bsc-14cbd233d2-teaching.html",
+      "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/entry-requirements",
+      "sha256": "542672303a638595ee59477818ff22553be2362014c2905fbcb5634709e1a345",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-business-management-bsc-14cbd233d2-requirements.html",
+      "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/careers",
+      "sha256": "a6604f4159d1dc70a31af2cc41af68b050ee384bb72e34a8c63f2851e78cb6b8",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-business-management-bsc-14cbd233d2-careers.html",
+      "locator": "Careers body; exact subject of outcomes statement"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/entry-requirements",
+      "sha256": "4c75fc79f877aececdfe130e1836e87631a843539c61c6457865ff23a568f204",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/review/china-dom-7.html",
+      "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/fees",
+      "sha256": "7e071fb1190aa4ebcd986e34fe7dfc3fd70820e5cf3cb6ecaf0e4e34d68504d8",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/fees-dom-7.html",
+      "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc",
       "sha256": "b17611b0c708828340925853600860ecea267c988a949093b97667bd2c2ca64c",
-      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-f09286a7c07508.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-business-management-with-year-in-industry-bsc-1af0e47d3c-overview.html",
+      "locator": "Course essentials; Base campuses; courseInformation and course aims"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/teaching-and-modules",
+      "sha256": "91508581cf7d0203cfbc9d10ec3f75aac86d856b16af3ee55e931d355007c913",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-business-management-with-year-in-industry-bsc-1af0e47d3c-teaching.html",
+      "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/entry-requirements",
+      "sha256": "9dfe7d61c8f67fc7fa52a29479119e2b5f52d720b535b68fde4b6a71806f5ee1",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-business-management-with-year-in-industry-bsc-1af0e47d3c-requirements.html",
+      "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/careers",
+      "sha256": "81595bc677b6acef3099b78d6b57fcadf967fc357c0613fa2420fe93eae6cec8",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-business-management-with-year-in-industry-bsc-1af0e47d3c-careers.html",
+      "locator": "Careers body; exact subject of outcomes statement"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/entry-requirements",
+      "sha256": "803c35c97a44b5a9edd7c675d8fd8fbbb00be4ee8a8c8f40128bc8dc587b7107",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/review/china-dom-8.html",
+      "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/business/undergraduate/global-placements",
+      "sha256": "5fe93bab078f2900b5cfdb88aac66df1b329a8d1a7c683ac089eed673c61705f",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/placements.html",
+      "locator": "商学院当前行业年资格"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/fees",
+      "sha256": "b33e9da3456bdf46ba33892d9cdafb6cf5e43a08f73027e0fb3731406e6341bc",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/fees-dom-8.html",
+      "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/cardiovascular-medicine-ibsc",
@@ -926,16 +998,118 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc",
+      "sha256": "3d84873eeedb7cf4618e9d87c1a2f50ea595bcac96d0398debf05229bd1d5713",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-economics-bsc-0304407354-overview.html",
+      "locator": "Course essentials; Base campuses; courseInformation and course aims"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/teaching-and-modules",
+      "sha256": "cfc3cc7dcbdbe3dfac7ff133a340dad43f0615e3df8b4f6ad2723d5b81079098",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-economics-bsc-0304407354-teaching.html",
+      "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/entry-requirements",
+      "sha256": "90b277a19a02e1ef0b6bb17ff3f0bc80d981fbbb69cdf39f3f4239826eaa09a3",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-economics-bsc-0304407354-requirements.html",
+      "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/discover-more",
+      "sha256": "efc9fb7e5b1745b38842dd9a7f9fc3aae9cb2fbe4b677decca1d6218a382b041",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-economics-bsc-0304407354-discover.html",
+      "locator": "discover"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/entry-requirements",
+      "sha256": "a0599c50c0b3a6ec6a2678e53dba4403bd1a9f7bab31261a25926f39abc8bb1e",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/review/china-dom-9.html",
+      "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/fees",
+      "sha256": "7f65feba4e786a78f01d63507148e8265a173c9cc42ed29b50f8552953794ccb",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/fees-dom-9.html",
+      "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc",
       "sha256": "f70023eef5f010e398ea6caabc8f46c1e066366be507576011976a13b5f87425",
-      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-920753376ec326.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-economics-management-bsc-245b52a540-overview.html",
+      "locator": "Course essentials; Base campuses; courseInformation and course aims"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/teaching-and-modules",
+      "sha256": "85141b5d0fa13ee461b205dd585f034dec5da50e37f2104ce825b84756dffc71",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-economics-management-bsc-245b52a540-teaching.html",
+      "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/entry-requirements",
+      "sha256": "1b493477a1abba4f53b7b35eefec02c0ae8bc56c89ca1dc210451561d3deaca5",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-economics-management-bsc-245b52a540-requirements.html",
+      "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/careers",
+      "sha256": "05230f496666b0fc5d17e40ffce42ad5687f90f3315822a737d420bdbe7f6acf",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-economics-management-bsc-245b52a540-careers.html",
+      "locator": "Careers body; exact subject of outcomes statement"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/entry-requirements",
+      "sha256": "e9e6107e0187a0addc1d6c42931c66b6303f68798c91512bdb4c960b55bf830e",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/review/china-dom-10.html",
+      "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/fees",
+      "sha256": "7cb4ae3e37b9a7c41f1be617d7bac78b97e153bced1ecd3eb02a5dc2477f3fff",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/fees-dom-10.html",
+      "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc",
       "sha256": "e57c675b374978ed453a3ba6d28673946395d99e46114e1a828b09417b646837",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-31bd9b96a162f7.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc",
+      "sha256": "53b94332173923fb52d586c9f72995643db93f3edbb113f00420323f5124242e",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-economics-management-with-year-in-industry-bsc-7b5aaf88aa-overview.html",
+      "locator": "Course essentials; Base campuses; courseInformation and course aims"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc/teaching-and-modules",
+      "sha256": "5b8faed5120c358343f99313e8cc0526012ae87ec45eaffa01a556a5d8e27b23",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-economics-management-with-year-in-industry-bsc-7b5aaf88aa-teaching.html",
+      "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc/entry-requirements",
+      "sha256": "b6e4b7dd194810468bd2f2af20d1959185d27b13f78f7600bbc58277aeebb3ca",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-economics-management-with-year-in-industry-bsc-7b5aaf88aa-requirements.html",
+      "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc/careers",
+      "sha256": "3c8d0ced5b2a85c6daa11b3449452d09991d897ce8fcd1dc8a45a5adb822bcf7",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-economics-management-with-year-in-industry-bsc-7b5aaf88aa-careers.html",
+      "locator": "Careers body; exact subject of outcomes statement"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc/entry-requirements",
+      "sha256": "5a543b8376f607b3ac1449e80dc6e449d023eb7a68eb80eedaaa14a704fca88c",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/review/china-dom-11.html",
+      "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc/fees",
+      "sha256": "2a01add85ae0566d83019fc0115c1aac926e1f63f3fbff4a97d645a820a7fad3",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/fees-dom-11.html",
+      "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-beng",
@@ -1076,10 +1250,82 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb",
+      "sha256": "cf4751d502e6222b56c9596a6ac25d22e81815e447916c93aa8d72986eab8ab5",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-french-law-llb-and-ma-trise-en-droit-master-1-cee2c45cb2-overview.html",
+      "locator": "Course essentials; Base campuses; courseInformation and course aims"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb/teaching-and-modules",
+      "sha256": "5b0acf87a87ee157d03d4aabf8e85e409d0013ea2dca5944030ff4ced231c01f",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-french-law-llb-and-ma-trise-en-droit-master-1-cee2c45cb2-teaching.html",
+      "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb/entry-requirements",
+      "sha256": "7326f69103c2cb870be16d4a980c9d0e7675c1513fb8bb0b2823f4505fcd52d5",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-french-law-llb-and-ma-trise-en-droit-master-1-cee2c45cb2-requirements.html",
+      "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb/careers",
+      "sha256": "044343d9d61ae0adc8a28d9751ddca2c19dbd2e38eac9bb34cdb2d74224b54ee",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-french-law-llb-and-ma-trise-en-droit-master-1-cee2c45cb2-careers.html",
+      "locator": "Careers body; exact subject of outcomes statement"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb/entry-requirements",
+      "sha256": "837ca3877f60166cef1981412b3bfe37aaf1a87c2a4de06b064f068820c7f67e",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/review/china-dom-3.html",
+      "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb/fees",
+      "sha256": "bf976ae4ebb07c7ca89988ab167dc5ae06386253e05289c504d803e99b9dd552",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/fees-dom-3.html",
+      "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb",
       "sha256": "19bec0d2508d8832b0c85335d6e2ea5501eb539e059533719dd77b26ccf4d54e",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-e9571fbc6441e5.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb",
+      "sha256": "5ca72fad3927785b3a2b9c6f96242252302b0e57262bd0b50af21297c2757cd5",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-german-law-llb-and-llm-or-first-state-exam-erste-juri-4fca52336e-overview.html",
+      "locator": "Course essentials; Base campuses; courseInformation and course aims"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb/teaching-and-modules",
+      "sha256": "52ede507e300d72302638e256ab14873684c4e2a66b686a1e874df40f30d8fef",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-german-law-llb-and-llm-or-first-state-exam-erste-juri-4fca52336e-teaching.html",
+      "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb/entry-requirements",
+      "sha256": "88c45959dbd37bfd3bc474374076c2e86f8d16c783b4106f7dceebf377efd95f",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-german-law-llb-and-llm-or-first-state-exam-erste-juri-4fca52336e-requirements.html",
+      "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb/careers",
+      "sha256": "b2eff185faa1b039a5e24f5593fb60ab9b48c8658b31f7d81f42063f4247e08c",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-german-law-llb-and-llm-or-first-state-exam-erste-juri-4fca52336e-careers.html",
+      "locator": "Careers body; exact subject of outcomes statement"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb/entry-requirements",
+      "sha256": "02eb9b6ef69ca57dab631db2df538b13e493f6651ac43c17e9de4213b4d92dc0",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/review/china-dom-4.html",
+      "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb/fees",
+      "sha256": "6189cca9a567aeb6d7f7144c106fade0afded832d363dda2523e10a31d159164",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/fees-dom-4.html",
+      "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd",
@@ -1088,10 +1334,82 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd",
+      "sha256": "72d7d97ef6cc78230e87f64078f344821d05248ea16053918e0b26045f1c397f",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-hong-kong-law-llb-and-jd-a8471246d1-overview.html",
+      "locator": "Course essentials; Base campuses; courseInformation and course aims"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd/teaching-and-modules",
+      "sha256": "35dd57cc428e0430bcb43eaf089f886be9f87c701bf41e3dde278d2ebcfe779d",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-hong-kong-law-llb-and-jd-a8471246d1-teaching.html",
+      "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd/entry-requirements",
+      "sha256": "f858bb47b09f75a57ed4374b322770ae0db1ab1ece2fcc688b4ffb63d886abad",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-hong-kong-law-llb-and-jd-a8471246d1-requirements.html",
+      "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd/careers",
+      "sha256": "b5cbe48f14117dab77bae652cf1073cafdbbe2faa43f3e5f01fdab4db612085c",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-hong-kong-law-llb-and-jd-a8471246d1-careers.html",
+      "locator": "Careers body; exact subject of outcomes statement"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd/entry-requirements",
+      "sha256": "23a0dbcc5d232c9df4c0ea215e4e171dab7134cced6b69933306d8eeefa8ad5f",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/review/china-dom-5.html",
+      "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd/fees",
+      "sha256": "6e942dc89aaf8ec12f327b1e82cb8f7d48d2985bf2aaae7ae7cac9d34eba0860",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/fees-dom-5.html",
+      "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb",
       "sha256": "2d6183085853f47509f84d1d32f0bdd1756fd099ddded96733ee0358acee27d1",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-a8e4a3a4874051.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb",
+      "sha256": "3796efe8d8160c35794bb284d43d6ef5840eda840d817efa3c457727e75898f6",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-spanish-law-llb-and-grado-en-derecho-spanish-equivale-b94cf76f73-overview.html",
+      "locator": "Course essentials; Base campuses; courseInformation and course aims"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb/teaching-and-modules",
+      "sha256": "f7e434d2ca47842b7ba30bb7988a379f50a89880607c2f40697b6343fc0792c3",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-spanish-law-llb-and-grado-en-derecho-spanish-equivale-b94cf76f73-teaching.html",
+      "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb/entry-requirements",
+      "sha256": "081babf906f65ec31d6ce569db131ad2fa77df683c9a3495c3bdaa3fe3037ee2",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-spanish-law-llb-and-grado-en-derecho-spanish-equivale-b94cf76f73-requirements.html",
+      "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb/careers",
+      "sha256": "c694bd1002c71b89b60a04549c3a04943516441d741db5797e1522e59e04ea78",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-english-law-spanish-law-llb-and-grado-en-derecho-spanish-equivale-b94cf76f73-careers.html",
+      "locator": "Careers body; exact subject of outcomes statement"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb/entry-requirements",
+      "sha256": "3ebeca81f4b22cebddfc4d176407f8b4c7c9618d75b85d776a5f1ea4d316762c",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/review/china-dom-6.html",
+      "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb/fees",
+      "sha256": "90ee5c7a0dae7ae50341018411382d1ec2665856b14d76827432621ae7df333f",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/fees-dom-6.html",
+      "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing",
@@ -1706,10 +2024,82 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-llb",
+      "sha256": "3aa29ffe23a631d319a31d2eb2524311eb06566961ef8f969f454a5c33cc90c0",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-law-llb-c124b3e984-overview.html",
+      "locator": "Course essentials; Base campuses; courseInformation and course aims"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-llb/teaching-and-modules",
+      "sha256": "fcfc2df316e2e25fe755b08f5b20497391e4bac9613b9bd739d4586c3cd8c0f8",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-law-llb-c124b3e984-teaching.html",
+      "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-llb/entry-requirements",
+      "sha256": "92a6d5cf0cb97d4d41797a4cb2fb373cf5ec6220e4e014f909be6807839ab953",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-law-llb-c124b3e984-requirements.html",
+      "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-llb/careers",
+      "sha256": "8c04f6e535367ac152d555c080959abbd8a0e424412c93fe5f270920c689190a",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-law-llb-c124b3e984-careers.html",
+      "locator": "Careers body; exact subject of outcomes statement"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-llb/entry-requirements",
+      "sha256": "931d060453b77e6164d40e133df48950d29e359a7a4b6a4364c060a1a41a2e68",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/review/china-dom-0.html",
+      "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-llb/fees",
+      "sha256": "f5f067e67136755e21bfffc90200eda4fe0a4b6d27b507dfa99f63332f99da21",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/fees-dom-0.html",
+      "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb",
       "sha256": "01a8e95bab4492fe77fb970c947c97034b77e2c46425749809adbfd1d435d267",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-90346583be0ced.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb",
+      "sha256": "6a36349bbb25ea129521cc82111885d3c7d9125ac9feb12101b7b0e7b184c78f",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-law-with-criminology-llb-50768f4ed2-overview.html",
+      "locator": "Course essentials; Base campuses; courseInformation and course aims"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb/teaching-and-modules",
+      "sha256": "4bb0bb2cef604ab5e78d543f11fdc362ddc0796026ca4575afebd6bbc2aede64",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-law-with-criminology-llb-50768f4ed2-teaching.html",
+      "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb/entry-requirements",
+      "sha256": "042f55410ef1f7b540ca9ee79429382933d3778d6677ce8a8b8c2c0d75bf23a9",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-law-with-criminology-llb-50768f4ed2-requirements.html",
+      "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb/careers",
+      "sha256": "709778d7f06cd4498658a026ff683e92291d0442fd265984267494db05eb78e8",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-law-with-criminology-llb-50768f4ed2-careers.html",
+      "locator": "Careers body; exact subject of outcomes statement"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb/entry-requirements",
+      "sha256": "c270474bc1d3ef109cdfb91af0a35bd19542a91a348d9df951615b446c640a41",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/review/china-dom-1.html",
+      "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb/fees",
+      "sha256": "0d8a4755aadf668ac205385b06e2a6db2a4e6cb876cc6043cd1dfc9348a32946",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/fees-dom-1.html",
+      "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba",
@@ -2496,6 +2886,42 @@
       "sha256": "29ec6e577bb8bab1f8f7027f58000ce8fac979a61b8657305218cc14c70f8403",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-ca8cbb2e525eb5.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb",
+      "sha256": "62526fb9edfb1fe768beeb44ba74abf1c18a34af5a5d1b76ac318b9dc236a723",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-politics-philosophy-law-llb-de8d98c886-overview.html",
+      "locator": "Course essentials; Base campuses; courseInformation and course aims"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/teaching-and-modules",
+      "sha256": "12ef1df76aecd03049bf223ecd4f8a95ca1edb9777b8fcc8dd8a60a6f323ae95",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-politics-philosophy-law-llb-de8d98c886-teaching.html",
+      "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/entry-requirements",
+      "sha256": "5e93d98d41b523c6914d1d148cbde12167d64e13200c85b516779378090eb62c",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-politics-philosophy-law-llb-de8d98c886-requirements.html",
+      "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/careers",
+      "sha256": "93f1128756550d16655b31739feeb384bff3876cc1995ec6f4b59eb296f30a33",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/kcl-politics-philosophy-law-llb-de8d98c886-careers.html",
+      "locator": "Careers body; exact subject of outcomes statement"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/entry-requirements",
+      "sha256": "28994ada1e4a1f768a721b00f4432042c03841c4eb64a71b08467af44823640b",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/review/china-dom-2.html",
+      "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/fees",
+      "sha256": "d63a83b2988af7f2af3c3324fe4fa4a49f86dc26be72d59228324e258a5d1cf9",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/fees-dom-2.html",
+      "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc",

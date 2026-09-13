@@ -51,6 +51,15 @@ hide:
 <p class="catalog-fact"><strong>学制、校区与授课语言：</strong>所属理学学士的3 年（全日制）；主要在 Parkville 校区面授。学校授课型课程语言为英语；语言类主修的目标语言练习另属课程内容。</p>
 <p class="fact-sources"><a href="#source-p-melbourne-offering-bachelor-of-science">官方依据</a> · <a href="#source-p-melbourne-page-bachelor-of-science-overview">官方依据</a> · <a href="#source-p-melbourne-language-statement-expanded">官方依据</a></p>
 
+<p class="catalog-fact"><strong>现行主修与2027指南旧名称：</strong>当前理学学士目录和本主修专页均将此项目列为具名major。Mathematics and Statistics原专页明确旧总主修已不再提供，并指向应用数学、纯数学、数理运筹学、统计与随机过程四个主修；但已读取的2027指南第13页仍保留旧总名称。专页未明确四主修首次开设或旧生转换的适用届次，不能仅按指南年份推定每项已核实2027年度选课规则。</p>
+<p class="fact-sources"><a href="#source-p-melbourne-new-pure-mathematics">官方依据</a> · <a href="#source-p-melbourne-page-mathematics-and-statistics-overview">官方依据</a> · <a href="#source-p-melbourne-science-reconciliation-guide-2027">官方依据</a> · <a href="#source-p-melbourne-science-reconciliation-major-specialisation">官方依据</a></p>
+
+<p class="catalog-fact"><strong>与50学分specialisation的区别：</strong>Pure Mathematics同时出现在两种不同层级：本页是87.5学分主修；理学学士总页还列同名specialisation，说明为二、三年级4科、50学分，利用选修形成互补方向。不能因同名把两者合成一项或将主修要求减至50学分。</p>
+<p class="fact-sources"><a href="#source-p-melbourne-new-pure-mathematics">官方依据</a> · <a href="#source-p-melbourne-science-reconciliation-major-specialisation">官方依据</a></p>
+
+<p class="catalog-fact"><strong>87.5学分的分层构成：</strong>当前公开主修页逐项列：Level 2核心12.5学分、A组选修12.5学分、B组选修12.5学分；Level 3主修选修25学分、capstone综合项目25学分。这些为大学阶段的课程结构，不是中国高中科目或高考分数条件；本轮未取得具名2027 Handbook的科目清单、课程级先修及可适用的转入规则，选课仍须核对应入学届次。</p>
+<p class="fact-sources"><a href="#source-p-melbourne-new-pure-mathematics">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 <p class="catalog-fact"><strong>2027国际课程资格：</strong>所属理学学士的A-level参考 BBB；IB参考 31。这是对应国际资格的参考要求，不是高考换算分，也不保证录取。中国普高/高考资格的校级限制仍需同时满足。</p>
@@ -142,6 +151,9 @@ hide:
 <div class="catalog-source" id="source-p-melbourne-page-bachelor-of-science-how-to-apply"><div><a href="https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/how-to-apply/">Bachelor of Science — 申请安排 ↗</a><p>官网公开课程栏目；仅用于已列明内容与年度</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-melbourne-international-apply-2027"><div><a href="https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications">国际本科申请渠道与2027通用日期 ↗</a><p>根据所读资格及地点区分VTAC与直申；通用截止及课程例外</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-melbourne-page-bachelor-of-science-fees"><div><a href="https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/fees/">Bachelor of Science — 费用 ↗</a><p>官网公开课程栏目；仅用于已列明内容与年度</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-melbourne-science-reconciliation-guide-2027"><div><a href="https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf">Study at Melbourne 2027 — 第13页主修表 ↗</a><p>第13页理学主修表仍列Mathematics and Statistics，未单列本轮5个现行名称；仅用于名称对账，不用于国际资格或费用。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-melbourne-science-reconciliation-major-specialisation"><div><a href="https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/">Bachelor of Science — 主修与50学分specialisation分列 ↗</a><p>当前理学主修表的5个名称；学位300学分；另列5种4科50学分specialisation，利用选修建立互补方向，非主修学分的同义替换。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-melbourne-page-mathematics-and-statistics-overview"><div><a href="https://findacourse.study.unimelb.edu.au/find/courses/major/mathematics-and-statistics/">Mathematics and Statistics — 课程介绍 ↗</a><p>官网公开课程栏目；仅用于已列明内容与年度</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-melbourne-profile-browser-china"><div><a href="https://study.unimelb.edu.au/connect-with-us/international/china">melbourne 官方资料：browser-china ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-melbourne-undergraduate-english"><div><a href="https://study.unimelb.edu.au/how-to-apply/english-language-requirements/undergraduate-english-language-requirements">本科英语要求与课程分组 ↗</a><p>列明八类本科 IELTS 6.5 各项6.0、口腔健康7.0各项7.0；替代资格需另核</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-melbourne-international-apply-2027"><div><a href="https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications">国际本科申请渠道与2027通用日期 ↗</a><p>根据所读资格及地点区分VTAC与直申；通用截止及课程例外</p><small>核验 2026-09-13</small></div></div>

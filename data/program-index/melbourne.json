@@ -5,15 +5,13 @@
     "status": "partial",
     "count": 144,
     "scope": "Every named bachelor and non-minor major/specialisation in 2027 official university guide pp12–13, plus Science Extended in entry table",
-    "method": "{\"pdf_pages\": 24, \"complete_major_spread_pages\": [12, 13], \"visual_review\": true, \"group_counts\": {\"Agriculture\": 3, \"Arts\": 33, \"Biomedicine\": 16, \"Commerce\": 7, \"Design\": 14, \"Fine Arts\": 9, \"Music\": 6, \"Oral Health\": 0, \"Science\": 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。",
+    "method": "{\"pdf_pages\": 24, \"complete_major_spread_pages\": [12, 13], \"visual_review\": true, \"group_counts\": {\"Agriculture\": 3, \"Arts\": 33, \"Biomedicine\": 16, \"Commerce\": 7, \"Design\": 14, \"Fine Arts\": 9, \"Music\": 6, \"Oral Health\": 0, \"Science\": 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。",
     "exclusions": "Official PDF obtained using normal Chrome downloadMedia on observed download link; archived original + SHA256；Explicit minor-only footnote exclusions: Chinese Societies, Development Studies, Digital Studies, English Language Studies, Environmental Studies, European Studies, Japanese Societies, Law and Justice, Medieval and Early Modern Studies, South Asian Studies；Oral Health four curricular components explicitly not majors and are not separately counted；Exclude concurrent diplomas and standalone postgraduate MD/JD/DVM; Veterinary Bioscience remains bachelor major with later-selection note",
     "sources": [
       {
         "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
         "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
-        "bytes": 3886506,
-        "raw_file": "scratch/full-catalog/australia/melbourne/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
-        "meta_file": "scratch/full-catalog/australia/melbourne/2027-Domestic-Profile-A4-Bro-WEB-28Jul.meta.json"
+        "raw_file": "scratch/full-catalog/melbourne-geology-reconciliation/raw/guide-2027.pdf"
       },
       {
         "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/",
@@ -2734,10 +2732,15 @@
         "url": "https://scholarships.unimelb.edu.au/awards/melbourne-international-excellence-scholarship-undergraduate",
         "sha256": "77a7cd1ec7921c2cd41fe0e7fd093f969eed3892530359b790d9477decfd4b04",
         "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/excellence-scholarship.html"
+      },
+      {
+        "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/",
+        "sha256": "3e4f1dd3bb5cb73076c29f95793e39d3b027e0b3e3925d9e82d600f1b5fa56e7",
+        "raw_file": "scratch/full-catalog/melbourne-geology-reconciliation/raw/901f381dbf4827b1.html"
       }
     ],
     "gaps": [
-      "原2027指南与当前官网仍有Geoscience/Geology名称差异；当前理学学位结构已列Geology，其与旧Geoscience的年度及替代关系尚未核清。目录继续部分覆盖。",
+      "Geology仅供2024年前已开始该主修者继续，现行入口为Geoscience；当前5个数学/化学生物主修已与旧数学总项及2027指南区别。具名2027 Handbook选课规则、数学停止/转换年度和完整specialisation适用组合仍未取得，保持部分覆盖。",
       "9个艺术音乐方向只有2026费用参考；其他费用逐项区分所属学位和2027估算，内部主修不另算一份学费。",
       "课程2027年中截止03-31与学校国际总页05-31不一致，保留两者；艺术音乐采用专门选拔时间。",
       "本科后荣誉、后续职业学位的完整选拔与个人注册条件，以及按专业和国际生样本定义的毕业统计仍未全部核实。"

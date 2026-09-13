@@ -41,8 +41,8 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-biomedical-engineering-beng-00f03c0381/">Biomedical Engineering BEng</a><small>BEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-biomedical-engineering-meng-3e5e64af9f/">Biomedical Engineering MEng</a><small>MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-biomedical-science-bsc-3ad80a8771/">生物医学科学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-business-management-bsc-14cbd233d2/">Business Management BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-business-management-with-year-in-industry-bsc-1af0e47d3c/">Business Management with Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-business-management-bsc-14cbd233d2/">工商管理（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-business-management-with-year-in-industry-bsc-1af0e47d3c/">工商管理（BSc，含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-cardiovascular-medicine-ibsc-3e3c21e045/">心血管医学插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-bsc-21be8e37f1/">Chemistry BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-msci-bd2ed634ed/">Chemistry MSci</a><small>MSci · 部分专业资料已核实</small></article>
@@ -69,18 +69,18 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-dentistry-entry-programme-for-medical-graduates-bds-522e13b1c1/">医学毕业生牙科学士入口</a><small>BDS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-dentistry-graduate-professional-entry-programme-bds-918aff2f96/">本科后／专业人士牙科学士入口</a><small>BDS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-digital-media-culture-ba-ae88ff0263/">数字媒体与文化（BA）</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-management-bsc-245b52a540/">Economics &amp; Management BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-management-with-year-in-industry-bsc-7b5aaf88aa/">Economics &amp; Management with Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-bsc-0304407354/">Economics BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-management-bsc-245b52a540/">经济与管理（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-management-with-year-in-industry-bsc-7b5aaf88aa/">经济与管理（BSc，含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-bsc-0304407354/">经济学（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-electronic-engineering-beng-0f1cdceea9/">Electronic Engineering BEng</a><small>BEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-electronic-engineering-meng-add0fec710/">电子工程（MEng）</a><small>MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-modern-languages-french-german-portuguese-or-spanish-with-70c18a0997/">英语文学与现代语言（BA，含海外年）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-ba-5fa4c259ea/">英语文学（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-language-linguistics-ba-7f91d5a573/">英语语言与语言学（BA）</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-law-french-law-llb-and-ma-trise-en-droit-master-1-cee2c45cb2/">English Law &amp; French Law LLB and Maîtrise en droit (Master 1)</a><small>LLB and Maîtrise en droit (Master 1) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-law-german-law-llb-and-llm-or-first-state-exam-erste-juri-4fca52336e/">English Law &amp; German Law LLB and LLM or First State Exam (erste juristische Staatsprüfung)</a><small>LLB and LLM or First State Exam (erste juristische Staatsprüfung) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-law-hong-kong-law-llb-and-jd-a8471246d1/">English Law &amp; Hong Kong Law LLB and JD</a><small>LLB and JD · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-law-spanish-law-llb-and-grado-en-derecho-spanish-equivale-b94cf76f73/">English Law &amp; Spanish Law LLB and Grado en Derecho (Spanish equivalent of LLB)</a><small>LLB and Grado en Derecho (Spanish equivalent of LLB) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-law-french-law-llb-and-ma-trise-en-droit-master-1-cee2c45cb2/">英国与法国法律（LLB＋法国学位）</a><small>LLB and Maîtrise en droit (Master 1) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-law-german-law-llb-and-llm-or-first-state-exam-erste-juri-4fca52336e/">英国与德国法律（LLB；国家考试／LLM路线）</a><small>LLB and LLM or First State Exam (erste juristische Staatsprüfung) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-law-hong-kong-law-llb-and-jd-a8471246d1/">英国与香港法律（LLB＋JD）</a><small>LLB and JD · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-law-spanish-law-llb-and-grado-en-derecho-spanish-equivale-b94cf76f73/">英国与西班牙法律（LLB＋Grado）</a><small>LLB and Grado en Derecho (Spanish equivalent of LLB) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-with-creative-writing-ba-ba3383fbc1/">英语与创意写作（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-with-film-studies-ba-5459540fc7/">英语文学与电影研究（BA，主修／辅修）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-enhanced-support-dentistry-programme-bds-e07109ebf2/">增强支持牙科学士</a><small>BDS · 部分专业资料已核实</small></article>
@@ -110,8 +110,8 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-international-development-ba-a16cc238eb/">International Development BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-international-management-bsc-efba86f53b/">International Management BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-international-relations-ba-5d1efb77d0/">International Relations BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-law-llb-c124b3e984/">Law LLB</a><small>LLB · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-law-with-criminology-llb-50768f4ed2/">Law with Criminology LLB</a><small>LLB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-law-llb-c124b3e984/">法律学（LLB）</a><small>LLB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-law-with-criminology-llb-50768f4ed2/">法律与犯罪学（LLB，主修／辅修）</a><small>LLB · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-liberal-arts-ba-3fc5fe3c7f/">Liberal Arts BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-management-modern-languages-french-german-portuguese-or-spanish-w-0b83f3d6ca/">Management &amp; Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-marketing-bsc-c7cc8a29dc/">Marketing BSc</a><small>BSc · 部分专业资料已核实</small></article>
@@ -159,7 +159,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-political-economy-ba-bsc-a74fda0e15/">Political Economy BA/BSc</a><small>BA/BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-politics-international-affairs-ba-fb80a575bf/">Politics &amp; International Affairs BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-politics-ba-bsc-727e4dc47e/">Politics BA/BSc</a><small>BA/BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-politics-philosophy-law-llb-de8d98c886/">Politics, Philosophy &amp; Law LLB</a><small>LLB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-politics-philosophy-law-llb-de8d98c886/">政治、哲学与法律（LLB）</a><small>LLB · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-primary-care-ibsc-3550073213/">Primary Care iBSc</a><small>iBSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-psychology-bsc-aaa6e6c660/">Psychology BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-psychology-and-criminology-bsc-8d069e01f9/">Psychology and Criminology BSc</a><small>BSc · 部分专业资料已核实</small></article>
@@ -204,18 +204,19 @@ hide:
 
 <p><strong>统计范围：</strong>148个已发现目录入口中，145个本科及本科在读路线；3个本科后护理硕士另留更正页，内部路径仍待全量对账</p>
 
-<p><strong>对账方法：</strong>复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。</p>
+<p><strong>对账方法：</strong>复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。</p>
 
 <p><strong>排除项：</strong>Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes；本科后首次注册护理MNurs/MSc不计本科项目；MBBS/BDS仍按专业学士保留并注明前置学历。</p>
 
 **尚未解决的目录缺口：**
 
 - 仍有现有课程尚未完成独立分栏补源；所有本科内部路径及完整资格继续逐项核验。
-- 37健康医学、12人文及12艺术媒体课程已分别取得2027/28费用信息，未来海外/实习年及全程总费用仍按各课程缺口说明。
-- 英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；Medicine MBBS、12人文及12艺术媒体已逐页取得China资格分支，其余课程不由A-level/IB反推高考直入。
+- 37健康医学、12人文、12艺术媒体与12法律商科已分别取得2027/28课程费用信息；伙伴校旧年度参考、实习减额和全程总费用按各项目边界说明。
+- 英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；Medicine MBBS和人文、艺术媒体、法律商科各12项已逐页取得China资格分支，其余课程不由A-level/IB反推高考直入。
 - iBSc内部／外部申请日与侧栏状态、牙科及部分医学模块学分存在官方差异，均保留原范围；空截止栏不作推断。
 - 本批职业页多为职业注册、服务或案例，未取得专业独立毕业届别、分母、就业率或薪资。
 - 艺术媒体部分年度学分表、比较文学电影交换年段存在官网表述差异；英语语言与语言学校区未确认，创意写作及全球媒体专业页未列截止日期。
+- 法律母页香港LLM与独立香港JD不得混同；M124澳法旧交叉提及未确认为现行独立入口，伙伴阶段未来费率、若干年度学分及资格差异仍按正文待核。
 
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=9)
@@ -693,5 +694,76 @@ hide:
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/careers)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/entry-requirements)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/business/undergraduate/global-placements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/discover-more)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/law-llb)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/law-llb/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/law-llb/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/law-llb/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/law-llb/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/law-llb/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/fees)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

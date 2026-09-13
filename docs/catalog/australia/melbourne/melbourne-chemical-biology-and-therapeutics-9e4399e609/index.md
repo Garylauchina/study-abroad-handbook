@@ -51,6 +51,12 @@ hide:
 <p class="catalog-fact"><strong>学制、校区与授课语言：</strong>所属理学学士的3 年（全日制）；主要在 Parkville 校区面授。学校授课型课程语言为英语；语言类主修的目标语言练习另属课程内容。</p>
 <p class="fact-sources"><a href="#source-p-melbourne-offering-bachelor-of-science">官方依据</a> · <a href="#source-p-melbourne-page-bachelor-of-science-overview">官方依据</a> · <a href="#source-p-melbourne-language-statement-expanded">官方依据</a></p>
 
+<p class="catalog-fact"><strong>现行主修与2027指南的收录差异：</strong>当前理学学士主修表和本项目专页均列Chemical Biology and Therapeutics为Bachelor of Science内主修；已读取的2027指南第13页未单独列此名称。不能只凭指南未列名认定不存在，也不能反推其首次开设年份。课程专页未明确主修适用入学届次，本轮未取得具名2027 Handbook的科目级先修或转入规则；现有2027招生与费用数据仅属于承载的理学学位。</p>
+<p class="fact-sources"><a href="#source-p-MELROOT-chemical-biology">官方依据</a> · <a href="#source-p-melbourne-science-reconciliation-guide-2027">官方依据</a> · <a href="#source-p-melbourne-science-reconciliation-major-specialisation">官方依据</a></p>
+
+<p class="catalog-fact"><strong>100学分主修在学位内的位置：</strong>本主修的100学分属于二、三年级8门课程；所属理学学士总计300学分、通常全日制3年。这里的主修学分是学位内组成部分，不能再加在300学分之外；也不能与总页另列的4科50学分specialisation互换。</p>
+<p class="fact-sources"><a href="#source-p-MELROOT-chemical-biology">官方依据</a> · <a href="#source-p-melbourne-science-reconciliation-major-specialisation">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 <p class="catalog-fact"><strong>2027国际课程资格：</strong>所属理学学士的A-level参考 BBB；IB参考 31。这是对应国际资格的参考要求，不是高考换算分，也不保证录取。中国普高/高考资格的校级限制仍需同时满足。</p>
@@ -139,6 +145,8 @@ hide:
 <div class="catalog-source" id="source-p-melbourne-international-apply-2027"><div><a href="https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications">国际本科申请渠道与2027通用日期 ↗</a><p>根据所读资格及地点区分VTAC与直申；通用截止及课程例外</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-melbourne-page-bachelor-of-science-fees"><div><a href="https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/fees/">Bachelor of Science — 费用 ↗</a><p>官网公开课程栏目；仅用于已列明内容与年度</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-MELROOT-chemical-biology"><div><a href="https://study.unimelb.edu.au/lp/science/chemical-biology-and-therapeutics">Chemical Biology and Therapeutics：官方主修说明 ↗</a><p>理学内主修身份、课程训练、8门100学分和官方职业方向；网页未单独列首次开设年度</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-melbourne-science-reconciliation-guide-2027"><div><a href="https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf">Study at Melbourne 2027 — 第13页主修表 ↗</a><p>第13页理学主修表仍列Mathematics and Statistics，未单列本轮5个现行名称；仅用于名称对账，不用于国际资格或费用。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-melbourne-science-reconciliation-major-specialisation"><div><a href="https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/">Bachelor of Science — 主修与50学分specialisation分列 ↗</a><p>当前理学主修表的5个名称；学位300学分；另列5种4科50学分specialisation，利用选修建立互补方向，非主修学分的同义替换。</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-melbourne-profile-browser-china"><div><a href="https://study.unimelb.edu.au/connect-with-us/international/china">melbourne 官方资料：browser-china ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-melbourne-undergraduate-english"><div><a href="https://study.unimelb.edu.au/how-to-apply/english-language-requirements/undergraduate-english-language-requirements">本科英语要求与课程分组 ↗</a><p>列明八类本科 IELTS 6.5 各项6.0、口腔健康7.0各项7.0；替代资格需另核</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-melbourne-international-apply-2027"><div><a href="https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications">国际本科申请渠道与2027通用日期 ↗</a><p>根据所读资格及地点区分VTAC与直申；通用截止及课程例外</p><small>核验 2026-09-13</small></div></div>

@@ -2083,7 +2083,7 @@
       "raw_key": "e2f80458-d36c-43e8-9a7d-70337e3130cf",
       "name_en": "Business Management BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -2101,30 +2101,156 @@
               "UKENR-08220e87d79db8"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "工商管理课程与选课",
+            "text": "首年八门必修各15，涵盖数据、现代企业、社会科学、劳动、市场、经济、组织行为和会计。第二年战略与商业伦理各15，方法组选一，当前列表仅列定性组织研究15，另选五门15。末年总量120，选项含咨询、营销、金融、组织及研究项目；正文称八门，但部分选项是30学分，不能一律按八门15拼课。",
+            "source_ids": [
+              "KCLLB-686206b71c9766c8",
+              "KCLLB-4fd0b952e6ed94d1"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "语言、海外与源文范围",
+            "text": "二年外语15可计入120或作额外学分；未选额外语言者可选5学分Business Accelerator。可申请二年一学期或三年整年海外，全年者转四年版本并须符合模块及额外准入要求。普通三年总览却提第二／第四年，本轮以其三年身份和教学Year3为准保留该年份差异。",
+            "source_ids": [
+              "KCLLB-686206b71c9766c8",
+              "KCLLB-4fd0b952e6ed94d1"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "公开校区与常规学制",
+            "text": "总览列 Strand 校区；常规三年；全日制。本轮未取得独立涵盖全部阶段的授课语言条款；Band B是录取要求，不作为授课语言证明。",
+            "source_ids": [
+              "KCLLB-4fd0b952e6ed94d1"
+            ],
+            "extraction_locator": "Overview > public Base campus(es), Course essentials and Duration"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-08220e87d79db8"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "人文社科与数学门槛",
+            "text": "A-level A*AA且人文或社科A（现代外语除外）；IB38或三门HL19，同类科目HL6。认可科目表含古典学、英语／创意写作、历史、哲学、宗教、商科、经济、地理、政治、法律、社会学和心理。GCSE／IGCSE数学6/B；IB数学AA或AI的SL／HL2或MYP数学5可满足该数学等同项，不是完整IB录取总分。",
+            "source_ids": [
+              "KCLLB-542672303a638595"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "等同、工作经历与转学",
+            "text": "未读GCSE／IGCSE的国际生仍须提供等同学业证据；Functional Skills及Access课程内Numeracy不接受。申请不强制有薪或志愿工作，商业／兼职经历可被考虑；本课程不接受外部转学，重考者可个案审理。",
+            "source_ids": [
+              "KCLLB-542672303a638595"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "A-level计入与实践例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills、Global Perspectives不计入所需A-level，EPQ不用于录取评估。以英格兰线性理科A-level申请者须通过实践考核，无法参加该考核的private candidates有明示例外；不向所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLLB-542672303a638595"
+            ],
+            "extraction_locator": "Visible further A-level information > exclusions / practical endorsement / private candidate"
+          },
+          {
+            "label": "独立预科与再申请",
+            "text": "英国境内独立预科按课程内容个案审理，不接受非英国预科或嵌在另一大学本科中的Year0／Integrated Foundation。重考申请者可被考虑，但不保证录取；不能将此商经政策套到法律课程。",
+            "source_ids": [
+              "KCLLB-542672303a638595"
+            ],
+            "extraction_locator": "Selection > Foundation courses, Resits"
+          },
+          {
+            "label": "本课程中国学历分支",
+            "text": "逐项实际选择China后，页面明确Gao Kao（高考）、Zhao Kao（网页称Senior High School Examination）及Maple Leaf World Schools Programme High School Diploma不用于直接本科录取。所指International Foundation是替代路径信息，仍需核本课程可用路线、进阶成绩及科目条件，不保证进入该学位。",
+            "source_ids": [
+              "KCLLB-4c75fc79f877aece"
+            ],
+            "extraction_locator": "Actual China > Award > three qualifications > not considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求Band B。已取得的英语测试政策明确适用2026/27，IELTS Academic参考总分7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新测试政策与录取条件，不能把旧年清单自动当作最终标准。",
+            "source_ids": [
+              "KCLLB-542672303a638595",
+              "KCLLB-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English Band B; English policy > 2026/27 and validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "N200；课程申请开放状态及截止须再核。",
+            "text": "N200；本轮已核申请状态与截止见下列补充。",
             "source_ids": [
               "UKENR-08220e87d79db8"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "延期及申请材料边界",
+            "text": "可在UCAS选择延期年度，录取后延期仍逐案批准；第二次通常只在极端不可预见情形考虑，超过两年须重申，兵役／国家服务有例外。个人陈述仍参与录取评估，不能以成绩已达标替代全部申请材料。",
+            "source_ids": [
+              "KCLLB-542672303a638595"
+            ],
+            "extraction_locator": "Selection > Deferrals; Personal Statement"
+          },
+          {
+            "label": "2027公开申请窗口",
+            "text": "本课程当前UCAS N200，状态Open，2027年9月入学、2027年1月13日截止。具体材料、先修及申请者类别须同时满足。",
+            "source_ids": [
+              "KCLLB-7e071fb1190aa4eb"
+            ],
+            "extraction_locator": "Actual rendered Key Information > UCAS / Application status / Start date / Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "本课程国际费用栏明确为GBP £40,600／学年，适用2027/28在KCL常规授课阶段；后续年可按条款增加。海外／伙伴校或实习阶段按另列规则，不用首年金额乘总学制当总价。",
+            "source_ids": [
+              "KCLLB-7e071fb1190aa4eb"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与额外支出",
+            "text": "国际申请者坚定接受无条件录取时缴£2,000押金，入学后抵扣首年学费。页面另列书本、打印、文具、毕业及交通等成本，海外／实习还须预算旅行、签证和食宿；这些不因年费已付而自动包含。",
+            "source_ids": [
+              "KCLLB-7e071fb1190aa4eb"
+            ],
+            "extraction_locator": "International deposit; Additional costs and subsistence"
+          },
+          {
+            "label": "海外／实习阶段收费边界",
+            "text": "海外一学期所在学年，国际学生向KCL付正常年度学费三分之二；伙伴通常不另收学费但可能有申请管理费。Home £6,000不是国际学生费率，未来海外年度正常费仍须核。",
+            "source_ids": [
+              "KCLLB-7e071fb1190aa4eb"
+            ],
+            "extraction_locator": "International fee additional information and Further fee information > individual route and explicit reference year"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向与支持服务",
+            "text": "总览列银行、咨询、会计、营销、广告和管理等方向；职业页实际描述商学院的申请反馈、工作坊、雇主活动、实习与创业支持，不是本课程就业调查。没有独立届次、分母、就业率或薪资，也不把支持服务当岗位保证。",
+            "source_ids": [
+              "KCLLB-a6604f4159d1dc70",
+              "KCLLB-4fd0b952e6ed94d1"
+            ],
+            "extraction_locator": "careers实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          }
+        ]
       },
       "sources": [
         {
@@ -2135,32 +2261,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "e8e223f975bda385470c75af2f876c5a7e640f0b459800b6c9b2c9ed4c64dae7",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLLB-4fd0b952e6ed94d1",
+          "title": "Business Management BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "4fd0b952e6ed94d164d2424baf1969fc765154f96049a60720614c72d7d2eedd",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-686206b71c9766c8",
+          "title": "Business Management BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "686206b71c9766c8e163d00483605851fd2d112b8977768994648fefd9f2855a",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-542672303a638595",
+          "title": "Business Management BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "542672303a638595ee59477818ff22553be2362014c2905fbcb5634709e1a345",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-a6604f4159d1dc70",
+          "title": "Business Management BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "a6604f4159d1dc70a31af2cc41af68b050ee384bb72e34a8c63f2851e78cb6b8",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-4c75fc79f877aece",
+          "title": "Business Management BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "4c75fc79f877aececdfe130e1836e87631a843539c61c6457865ff23a568f204",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-dff3755b9680738d",
+          "title": "Business Management BSc — 英语政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27）",
+          "source_period": "明确2026/27，2027/28最终测试政策待核"
+        },
+        {
+          "id": "KCLLB-7e071fb1190aa4eb",
+          "title": "Business Management BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "7e071fb1190aa4ebcd986e34fe7dfc3fd70820e5cf3cb6ecaf0e4e34d68504d8",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28 KCL international annual fee; explicit older partner examples separately labelled"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "逐项核总览、招生、各年模块、职业正文、China实际分支及国际年度费用。",
+        "法律LNAT／重考／预科，双国授位、签证与伙伴收费均按具体路线；不把低年级成绩或校级通则当完整专业门槛。",
+        "保留旧事实、原来源日期和明确缺口；未来英语测试政策、奖学金与专业可比毕业统计未取得。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "三年；获批海外变体可四年",
+        "entry_summary": "高考／Zhao Kao不直入；A*AA＋人文／社科A（不含现代外语）；GCSE数学6/B或已列等同条件",
+        "name": "工商管理（BSc）",
+        "intake": "2027年9月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £40,600／学年（KCL常规阶段）",
+        "outcomes_summary": "已核职业方向及群体；未取得可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese facts per program and actual route; prior evidence retained",
       "inventory_id": "kcl-business-management-bsc-14cbd233d2"
     },
     {
@@ -2168,7 +2378,7 @@
       "raw_key": "196148ab-8e4c-4650-a058-7dabb67aea24",
       "name_en": "Business Management with Year in Industry BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -2186,30 +2396,165 @@
               "UKENR-f3a4a6f7d64483"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "四年工商管理与实习年",
+            "text": "前两年学习企业数据、劳动、市场、经济、组织及会计基础；首年八门各15，二年战略／伦理／当前列出的方法各15加五门选修。第三年行业实习120学分、通过／不通过考核，第四年选修120。末年虽称八门，但含30学分选项，须按批准方案安排，不把所有课程都当15学分。",
+            "source_ids": [
+              "KCLLB-91508581cf7d0203",
+              "KCLLB-b17611b0c7088283"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "实习名额与升读",
+            "text": "学生必须自行落实实习，学校提供支持但不保证岗位；符合资格后才可第三年外出，获批可转回三年项目。二年仍可申请一学期海外交换，不把三年项目的整年交换自动叠加到行业年。二年外语15可计入120或额外，未以语言作额外学分者可选5学分Business Accelerator。",
+            "source_ids": [
+              "KCLLB-91508581cf7d0203",
+              "KCLLB-b17611b0c7088283"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "公开校区与常规学制",
+            "text": "总览列 Strand 校区；常规四年；全日制。本轮未取得独立涵盖全部阶段的授课语言条款；Band B是录取要求，不作为授课语言证明。",
+            "source_ids": [
+              "KCLLB-b17611b0c7088283"
+            ],
+            "extraction_locator": "Overview > public Base campus(es), Course essentials and Duration"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-f3a4a6f7d64483"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "人文社科与数学门槛",
+            "text": "A-level A*AA且人文／社科A（现代外语除外）；IB38或三门HL19，同类科目HL6。GCSE／IGCSE数学6/B；IB数学AA／AI的SL或HL2、MYP数学5可满足此数学等同项，完整学历总分仍须满足。认可科目包括古典学、英语／创作、历史、哲学、宗教、商科、经济、地理、政治、法律、社会学和心理。",
+            "source_ids": [
+              "KCLLB-9dfe7d61c8f67fc7"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "国际等同及个人经历",
+            "text": "未读相应GCSE／IGCSE或IB Standard Level／Middle Years数学类别的国际生，仍需学业等同证据；不接受Functional Skills或Access内Numeracy。入学不强制工作经历，已有商业／兼职经验可考虑；不接受外部转学，重考者可审理。",
+            "source_ids": [
+              "KCLLB-9dfe7d61c8f67fc7"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "A-level计入与实践例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills、Global Perspectives不计入所需A-level，EPQ不用于录取评估。以英格兰线性理科A-level申请者须通过实践考核，无法参加该考核的private candidates有明示例外；不向所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLLB-9dfe7d61c8f67fc7"
+            ],
+            "extraction_locator": "Visible further A-level information > exclusions / practical endorsement / private candidate"
+          },
+          {
+            "label": "独立预科与再申请",
+            "text": "英国境内独立预科按课程内容个案审理，不接受非英国预科或嵌在另一大学本科中的Year0／Integrated Foundation。重考申请者可被考虑，但不保证录取；不能将此商经政策套到法律课程。",
+            "source_ids": [
+              "KCLLB-9dfe7d61c8f67fc7"
+            ],
+            "extraction_locator": "Selection > Foundation courses, Resits"
+          },
+          {
+            "label": "本课程中国学历分支",
+            "text": "逐项实际选择China后，页面明确Gao Kao（高考）、Zhao Kao（网页称Senior High School Examination）及Maple Leaf World Schools Programme High School Diploma不用于直接本科录取。所指International Foundation是替代路径信息，仍需核本课程可用路线、进阶成绩及科目条件，不保证进入该学位。",
+            "source_ids": [
+              "KCLLB-803c35c97a44b5a9"
+            ],
+            "extraction_locator": "Actual China > Award > three qualifications > not considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求Band B。已取得的英语测试政策明确适用2026/27，IELTS Academic参考总分7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新测试政策与录取条件，不能把旧年清单自动当作最终标准。",
+            "source_ids": [
+              "KCLLB-9dfe7d61c8f67fc7",
+              "KCLLB-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English Band B; English policy > 2026/27 and validity"
+          },
+          {
+            "label": "行业年资格与落实时间",
+            "text": "当前Global Placements规则明确：须在四年学位注册，首年平均至少2:2，且截至第二年5月须已自行落实岗位。实习通常9–12个月，处于第三年前后6月至翌年9月区间，随后返校读末年。上述首年成绩豁免只写给International Management，不适用于本条；未来实际外出前仍须再核规则。",
+            "source_ids": [
+              "KCLLB-5fe93bab078f2900"
+            ],
+            "extraction_locator": "Global Placements > Am I eligible? > 4-year degree / first-year 2:2 / placement by May of Year 2; duration"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "N201；课程申请开放状态及截止须再核。",
+            "text": "N201；本轮已核申请状态与截止见下列补充。",
             "source_ids": [
               "UKENR-f3a4a6f7d64483"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "延期及申请材料边界",
+            "text": "可在UCAS选择延期年度，录取后延期仍逐案批准；第二次通常只在极端不可预见情形考虑，超过两年须重申，兵役／国家服务有例外。个人陈述仍参与录取评估，不能以成绩已达标替代全部申请材料。",
+            "source_ids": [
+              "KCLLB-9dfe7d61c8f67fc7"
+            ],
+            "extraction_locator": "Selection > Deferrals; Personal Statement"
+          },
+          {
+            "label": "2027公开申请窗口",
+            "text": "本课程当前UCAS N201，状态Open，2027年9月入学、2027年1月13日截止。具体材料、先修及申请者类别须同时满足。",
+            "source_ids": [
+              "KCLLB-b33e9da3456bdf46"
+            ],
+            "extraction_locator": "Actual rendered Key Information > UCAS / Application status / Start date / Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "本课程国际费用栏明确为GBP £40,600／学年，适用2027/28在KCL常规授课阶段；后续年可按条款增加。海外／伙伴校或实习阶段按另列规则，不用首年金额乘总学制当总价。",
+            "source_ids": [
+              "KCLLB-b33e9da3456bdf46"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与额外支出",
+            "text": "国际申请者坚定接受无条件录取时缴£2,000押金，入学后抵扣首年学费。页面另列书本、打印、文具、毕业及交通等成本，海外／实习还须预算旅行、签证和食宿；这些不因年费已付而自动包含。",
+            "source_ids": [
+              "KCLLB-b33e9da3456bdf46"
+            ],
+            "extraction_locator": "International deposit; Additional costs and subsistence"
+          },
+          {
+            "label": "海外／实习阶段收费边界",
+            "text": "行业年仍保留KCL学籍，国际生明确按正常学费三分之一收费。OfS £1,955只是2026/27参考，且页面称2027/28上限未取得；不能把本地上限当中国学生实习价。未来实习年的正常基准费及生活成本另核。",
+            "source_ids": [
+              "KCLLB-b33e9da3456bdf46"
+            ],
+            "extraction_locator": "International fee additional information and Further fee information > individual route and explicit reference year"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "实习不是毕业就业统计",
+            "text": "职业页列商学院就业指导与实习／创业支持，总览列银行、咨询、会计、营销、广告及管理；教学页雇主例子是过往商学院实习群体，不是本四年专业独立毕业届别。没有可比率或薪资，不以实习机会作保证录用。",
+            "source_ids": [
+              "KCLLB-81595bc677b6acef",
+              "KCLLB-b17611b0c7088283",
+              "KCLLB-91508581cf7d0203"
+            ],
+            "extraction_locator": "careers实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          }
+        ]
       },
       "sources": [
         {
@@ -2220,32 +2565,127 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "b17611b0c708828340925853600860ecea267c988a949093b97667bd2c2ca64c",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLLB-b17611b0c7088283",
+          "title": "Business Management with Year in Industry BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "b17611b0c708828340925853600860ecea267c988a949093b97667bd2c2ca64c",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-91508581cf7d0203",
+          "title": "Business Management with Year in Industry BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "91508581cf7d0203cfbc9d10ec3f75aac86d856b16af3ee55e931d355007c913",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-9dfe7d61c8f67fc7",
+          "title": "Business Management with Year in Industry BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "9dfe7d61c8f67fc7fa52a29479119e2b5f52d720b535b68fde4b6a71806f5ee1",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-81595bc677b6acef",
+          "title": "Business Management with Year in Industry BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "81595bc677b6acef3099b78d6b57fcadf967fc357c0613fa2420fe93eae6cec8",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-803c35c97a44b5a9",
+          "title": "Business Management with Year in Industry BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "803c35c97a44b5a9edd7c675d8fd8fbbb00be4ee8a8c8f40128bc8dc587b7107",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-dff3755b9680738d",
+          "title": "Business Management with Year in Industry BSc — 英语政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27）",
+          "source_period": "明确2026/27，2027/28最终测试政策待核"
+        },
+        {
+          "id": "KCLLB-5fe93bab078f2900",
+          "title": "Business Management with Year in Industry BSc — 商学院当前行业年资格",
+          "url": "https://www.kcl.ac.uk/business/undergraduate/global-placements",
+          "checked_at": "2026-09-13",
+          "sha256": "5fe93bab078f2900b5cfdb88aac66df1b329a8d1a7c683ac089eed673c61705f",
+          "supports": "商学院当前行业年资格",
+          "capture_format": "public_html",
+          "locator": "商学院当前行业年资格",
+          "source_period": "当前未单列届次的Global Placements规则；未来外出前须再核"
+        },
+        {
+          "id": "KCLLB-b33e9da3456bdf46",
+          "title": "Business Management with Year in Industry BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "b33e9da3456bdf46ba33892d9cdafb6cf5e43a08f73027e0fb3731406e6341bc",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28 KCL international annual fee; explicit older partner examples separately labelled"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "逐项核总览、招生、各年模块、职业正文、China实际分支及国际年度费用。",
+        "法律LNAT／重考／预科，双国授位、签证与伙伴收费均按具体路线；不把低年级成绩或校级通则当完整专业门槛。",
+        "保留旧事实、原来源日期和明确缺口；未来英语测试政策、奖学金与专业可比毕业统计未取得。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "四年；全日制",
+        "entry_summary": "高考／Zhao Kao不直入；A*AA＋人文／社科A；数学6/B或等同；实习需首年2:2及自行找岗",
+        "name": "工商管理（BSc，含行业实习年）",
+        "intake": "2027年9月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £40,600／学年（KCL常规阶段）",
+        "outcomes_summary": "已核职业方向及群体；未取得可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese facts per program and actual route; prior evidence retained",
       "inventory_id": "kcl-business-management-with-year-in-industry-bsc-1af0e47d3c"
     },
     {
@@ -7011,7 +7451,7 @@
       "raw_key": "3d2c846a-163e-4100-85ca-9b3bdaebc185",
       "name_en": "Economics BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -7029,30 +7469,148 @@
               "UKENR-4a37b47884fc17"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "经济学学分与定量训练",
+            "text": "普通三年360、每年120。首年经济导论30、世界经济与历史30，统计、数学、进阶数学及经济学习各15，全部必修。第二年微观、宏观及两门计量各15，另选60；末年进阶微观／宏观各15，另选90，可含发展、劳动、金融、政策或30学分论文，论文并非全体必修。",
+            "source_ids": [
+              "KCLLB-cfc3cc7dcbdbe3df",
+              "KCLLB-3d84873eeedb7cf4"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "海外变体及语言选修",
+            "text": "可申请第三年整学年海外，增加120学分并转入含Year Abroad的四年学位，第四年回KCL完成末年课程。二、三年各可另修15学分外语；未列学分的个别选项不据空值填0，具体课程与伙伴可能变动。",
+            "source_ids": [
+              "KCLLB-cfc3cc7dcbdbe3df",
+              "KCLLB-3d84873eeedb7cf4"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "公开校区与常规学制",
+            "text": "总览列 Strand 与 Waterloo 校区；常规三年；全日制。本轮未取得独立涵盖全部阶段的授课语言条款；Band B是录取要求，不作为授课语言证明。",
+            "source_ids": [
+              "KCLLB-3d84873eeedb7cf4"
+            ],
+            "extraction_locator": "Overview > public Base campus(es), Course essentials and Duration"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-4a37b47884fc17"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "数学先修与资格",
+            "text": "A-level A*AA且数学A；IB38或三门HL合计19，数学AA或AI的HL6均可。不能把工商管理的GCSE数学等同门槛替代本项目HL／A-level数学先修；本课程允许审理重考者，但不接受外部转学。",
+            "source_ids": [
+              "KCLLB-90b277a19a02e1ef"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "A-level计入与实践例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills、Global Perspectives不计入所需A-level，EPQ不用于录取评估。以英格兰线性理科A-level申请者须通过实践考核，无法参加该考核的private candidates有明示例外；不向所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLLB-90b277a19a02e1ef"
+            ],
+            "extraction_locator": "Visible further A-level information > exclusions / practical endorsement / private candidate"
+          },
+          {
+            "label": "独立预科与再申请",
+            "text": "英国境内独立预科按课程内容个案审理，不接受非英国预科或嵌在另一大学本科中的Year0／Integrated Foundation。重考申请者可被考虑，但不保证录取；不能将此商经政策套到法律课程。",
+            "source_ids": [
+              "KCLLB-90b277a19a02e1ef"
+            ],
+            "extraction_locator": "Selection > Foundation courses, Resits"
+          },
+          {
+            "label": "本课程中国学历分支",
+            "text": "逐项实际选择China后，页面明确Gao Kao（高考）、Zhao Kao（网页称Senior High School Examination）及Maple Leaf World Schools Programme High School Diploma不用于直接本科录取。所指International Foundation是替代路径信息，仍需核本课程可用路线、进阶成绩及科目条件，不保证进入该学位。",
+            "source_ids": [
+              "KCLLB-a0599c50c0b3a6ec"
+            ],
+            "extraction_locator": "Actual China > Award > three qualifications > not considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求Band B。已取得的英语测试政策明确适用2026/27，IELTS Academic参考总分7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新测试政策与录取条件，不能把旧年清单自动当作最终标准。",
+            "source_ids": [
+              "KCLLB-90b277a19a02e1ef",
+              "KCLLB-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English Band B; English policy > 2026/27 and validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "L100；课程申请开放状态及截止须再核。",
+            "text": "L100；本轮已核申请状态与截止见下列补充。",
             "source_ids": [
               "UKENR-4a37b47884fc17"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "延期及申请材料边界",
+            "text": "可在UCAS选择延期年度，录取后延期仍逐案批准；第二次通常只在极端不可预见情形考虑，超过两年须重申，兵役／国家服务有例外。个人陈述仍参与录取评估，不能以成绩已达标替代全部申请材料。",
+            "source_ids": [
+              "KCLLB-90b277a19a02e1ef"
+            ],
+            "extraction_locator": "Selection > Deferrals; Personal Statement"
+          },
+          {
+            "label": "2027公开申请窗口",
+            "text": "本课程当前UCAS L100，状态Open，2027年9月入学、2027年1月13日截止。具体材料、先修及申请者类别须同时满足。",
+            "source_ids": [
+              "KCLLB-7f65feba4e786a78"
+            ],
+            "extraction_locator": "Actual rendered Key Information > UCAS / Application status / Start date / Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "本课程国际费用栏明确为GBP £40,600／学年，适用2027/28在KCL常规授课阶段；后续年可按条款增加。海外／伙伴校或实习阶段按另列规则，不用首年金额乘总学制当总价。",
+            "source_ids": [
+              "KCLLB-7f65feba4e786a78"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与额外支出",
+            "text": "国际申请者坚定接受无条件录取时缴£2,000押金，入学后抵扣首年学费。页面另列书本、打印、文具、毕业及交通等成本，海外／实习还须预算旅行、签证和食宿；这些不因年费已付而自动包含。",
+            "source_ids": [
+              "KCLLB-7f65feba4e786a78"
+            ],
+            "extraction_locator": "International deposit; Additional costs and subsistence"
+          },
+          {
+            "label": "海外／实习阶段收费边界",
+            "text": "本页列海外一学期国际费为当年KCL正常年费三分之二，Home £6,000不能套中国学生。OfS £1,955／£1,465明确仅2026/27参考，2027/28上限尚未取得；不能把该段当教学页完整海外年的确定国际价格，未来整年费率待核。",
+            "source_ids": [
+              "KCLLB-7f65feba4e786a78"
+            ],
+            "extraction_locator": "International fee additional information and Further fee information > individual route and explicit reference year"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "已取得的职业资料边界",
+            "text": "总览说明训练经济理论、统计、数学、计量、批判性分析及政策问题解决能力。实际导航没有Careers分栏，已链接的Discover More只含课程体验、讲座和社团信息，其中学生引语也有PPE学生；本轮未取得本Economics入口的独立职业去向调查、就业率或薪资，不能用别的专业引语补成结果。",
+            "source_ids": [
+              "KCLLB-efc9fb7e5b1745b3",
+              "KCLLB-3d84873eeedb7cf4"
+            ],
+            "extraction_locator": "discover实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          }
+        ]
       },
       "sources": [
         {
@@ -7063,32 +7621,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "c2b7324765220599242460b59a7ce4607f7c40e320bc7a329473a45ab41a92c4",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLLB-3d84873eeedb7cf4",
+          "title": "Economics BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "3d84873eeedb7cf4618e9d87c1a2f50ea595bcac96d0398debf05229bd1d5713",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-cfc3cc7dcbdbe3df",
+          "title": "Economics BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "cfc3cc7dcbdbe3dfac7ff133a340dad43f0615e3df8b4f6ad2723d5b81079098",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-90b277a19a02e1ef",
+          "title": "Economics BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "90b277a19a02e1ef0b6bb17ff3f0bc80d981fbbb69cdf39f3f4239826eaa09a3",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-efc9fb7e5b1745b3",
+          "title": "Economics BSc — discover",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/discover-more",
+          "checked_at": "2026-09-13",
+          "sha256": "efc9fb7e5b1745b38842dd9a7f9fc3aae9cb2fbe4b677decca1d6218a382b041",
+          "supports": "discover",
+          "capture_format": "public_html",
+          "locator": "discover",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-a0599c50c0b3a6ec",
+          "title": "Economics BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "a0599c50c0b3a6ec6a2678e53dba4403bd1a9f7bab31261a25926f39abc8bb1e",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-dff3755b9680738d",
+          "title": "Economics BSc — 英语政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27）",
+          "source_period": "明确2026/27，2027/28最终测试政策待核"
+        },
+        {
+          "id": "KCLLB-7f65feba4e786a78",
+          "title": "Economics BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "7f65feba4e786a78f01d63507148e8265a173c9cc42ed29b50f8552953794ccb",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28 KCL international annual fee; explicit older partner examples separately labelled"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "逐项核总览、实际招生、公开各年模块与国际年费；Economics实际导航无Careers，仅取得Discover More，其学生体验不替代毕业数据。",
+        "法律LNAT／重考／预科，双国授位、签证与伙伴收费均按具体路线；不把低年级成绩或校级通则当完整专业门槛。",
+        "保留旧事实、原来源日期和明确缺口；未来英语测试政策、奖学金与专业可比毕业统计未取得。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "三年；获批海外变体可四年",
+        "entry_summary": "高考／Zhao Kao不直入；A*AA且数学A／IB数学AA或AI的HL6；普通三年，海外年另申请",
+        "name": "经济学（BSc）",
+        "intake": "2027年9月",
+        "campus": "Strand 与 Waterloo 校区",
+        "tuition_summary": "2027/28 GBP £40,600／学年（KCL常规阶段）",
+        "outcomes_summary": "本轮未取得本专业可比毕业统计"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
+        "fee_amount": true,
         "career_directions": false,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese facts per program and actual route; prior evidence retained",
       "inventory_id": "kcl-economics-bsc-0304407354"
     },
     {
@@ -7096,7 +7738,7 @@
       "raw_key": "c8d8209a-f37e-4c3b-980e-05207a276127",
       "name_en": "Economics & Management BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -7114,30 +7756,156 @@
               "UKENR-37fbbc2927bb38"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "经济与管理的课程配额",
+            "text": "首年经济原理30，数学、统计、市场、工作心理、金融、会计与财务分析各15。二年微观、宏观、计量与商业伦理各15，选修60。末年合120，经济／金融至少60，其余商业／管理；最多一门30学分模块，研究或Capstone并非人人必修，不能任意组合多个30学分项目。",
+            "source_ids": [
+              "KCLLB-85141b5d0fa13ee4",
+              "KCLLB-f70023eef5f010e3"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "额外课程与海外机会",
+            "text": "二年可选一门额外模块：商业语言15、进阶数学15或Business Accelerator5；外语15还可按规则计入年度120。末年外语只能列入当年120。可申请二年一学期或第三年整年海外，全年获批则转四年版本；仍须满足模块及额外入口条件，不保证目的地。",
+            "source_ids": [
+              "KCLLB-85141b5d0fa13ee4",
+              "KCLLB-f70023eef5f010e3"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "公开校区与常规学制",
+            "text": "总览列 Strand 校区；常规三年；全日制。本轮未取得独立涵盖全部阶段的授课语言条款；Band B是录取要求，不作为授课语言证明。",
+            "source_ids": [
+              "KCLLB-f70023eef5f010e3"
+            ],
+            "extraction_locator": "Overview > public Base campus(es), Course essentials and Duration"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-37fbbc2927bb38"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "数学与人文社科同时要求",
+            "text": "A-level A*AA，数学A并且人文／社科A（现代外语除外）；IB38或三门HL19，数学AA或AI的HL6并且人文／社科HL6。认可人文社科表含古典、英语／创作、历史、哲学、宗教、商科、经济、地理、政治、法律、社会学、心理；不能只满足其中一个A／HL6。",
+            "source_ids": [
+              "KCLLB-1b493477a1abba4f"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "录取与转学边界",
+            "text": "重考申请者可被考虑，但不接受外部转学。学位持有者可按本科2:1或等同评估，指定先修仍须满足，不能据已有本科学历自动免数学或人文社科条件。",
+            "source_ids": [
+              "KCLLB-1b493477a1abba4f"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "A-level计入与实践例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills、Global Perspectives不计入所需A-level，EPQ不用于录取评估。以英格兰线性理科A-level申请者须通过实践考核，无法参加该考核的private candidates有明示例外；不向所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLLB-1b493477a1abba4f"
+            ],
+            "extraction_locator": "Visible further A-level information > exclusions / practical endorsement / private candidate"
+          },
+          {
+            "label": "独立预科与再申请",
+            "text": "英国境内独立预科按课程内容个案审理，不接受非英国预科或嵌在另一大学本科中的Year0／Integrated Foundation。重考申请者可被考虑，但不保证录取；不能将此商经政策套到法律课程。",
+            "source_ids": [
+              "KCLLB-1b493477a1abba4f"
+            ],
+            "extraction_locator": "Selection > Foundation courses, Resits"
+          },
+          {
+            "label": "本课程中国学历分支",
+            "text": "逐项实际选择China后，页面明确Gao Kao（高考）、Zhao Kao（网页称Senior High School Examination）及Maple Leaf World Schools Programme High School Diploma不用于直接本科录取。所指International Foundation是替代路径信息，仍需核本课程可用路线、进阶成绩及科目条件，不保证进入该学位。",
+            "source_ids": [
+              "KCLLB-e9e6107e0187a0ad"
+            ],
+            "extraction_locator": "Actual China > Award > three qualifications > not considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求Band B。已取得的英语测试政策明确适用2026/27，IELTS Academic参考总分7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新测试政策与录取条件，不能把旧年清单自动当作最终标准。",
+            "source_ids": [
+              "KCLLB-1b493477a1abba4f",
+              "KCLLB-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English Band B; English policy > 2026/27 and validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "LN12 ；课程申请开放状态及截止须再核。",
+            "text": "LN12 ；本轮已核申请状态与截止见下列补充。",
             "source_ids": [
               "UKENR-37fbbc2927bb38"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "延期及申请材料边界",
+            "text": "可在UCAS选择延期年度，录取后延期仍逐案批准；第二次通常只在极端不可预见情形考虑，超过两年须重申，兵役／国家服务有例外。个人陈述仍参与录取评估，不能以成绩已达标替代全部申请材料。",
+            "source_ids": [
+              "KCLLB-1b493477a1abba4f"
+            ],
+            "extraction_locator": "Selection > Deferrals; Personal Statement"
+          },
+          {
+            "label": "2027公开申请窗口",
+            "text": "本课程当前UCAS LN12，状态Open，2027年9月入学、2027年1月13日截止。具体材料、先修及申请者类别须同时满足。",
+            "source_ids": [
+              "KCLLB-7cb4ae3e37b9a7c4"
+            ],
+            "extraction_locator": "Actual rendered Key Information > UCAS / Application status / Start date / Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "本课程国际费用栏明确为GBP £40,600／学年，适用2027/28在KCL常规授课阶段；后续年可按条款增加。海外／伙伴校或实习阶段按另列规则，不用首年金额乘总学制当总价。",
+            "source_ids": [
+              "KCLLB-7cb4ae3e37b9a7c4"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与额外支出",
+            "text": "国际申请者坚定接受无条件录取时缴£2,000押金，入学后抵扣首年学费。页面另列书本、打印、文具、毕业及交通等成本，海外／实习还须预算旅行、签证和食宿；这些不因年费已付而自动包含。",
+            "source_ids": [
+              "KCLLB-7cb4ae3e37b9a7c4"
+            ],
+            "extraction_locator": "International deposit; Additional costs and subsistence"
+          },
+          {
+            "label": "海外／实习阶段收费边界",
+            "text": "海外一学期国际费为当年KCL正常学费三分之二，合作校通常不另收费但可有申请管理费。Home £6,000不适用于中国国际学生；获批整学年海外的实际未来费率仍待核。",
+            "source_ids": [
+              "KCLLB-7cb4ae3e37b9a7c4"
+            ],
+            "extraction_locator": "International fee additional information and Further fee information > individual route and explicit reference year"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业举例的实际群体",
+            "text": "总览列商业、金融、政府与第三部门方向；职业页的分析师、审计培训、教师、公司董事、企业融资、法律助理及绩效经理例子明确是King’s Business School毕业生群体，非本项目独立调查。本轮不填写无届次／分母的率或薪资。",
+            "source_ids": [
+              "KCLLB-05230f496666b0fc",
+              "KCLLB-f70023eef5f010e3"
+            ],
+            "extraction_locator": "careers实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          }
+        ]
       },
       "sources": [
         {
@@ -7148,32 +7916,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "f70023eef5f010e398ea6caabc8f46c1e066366be507576011976a13b5f87425",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLLB-f70023eef5f010e3",
+          "title": "Economics & Management BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "f70023eef5f010e398ea6caabc8f46c1e066366be507576011976a13b5f87425",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-85141b5d0fa13ee4",
+          "title": "Economics & Management BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "85141b5d0fa13ee461b205dd585f034dec5da50e37f2104ce825b84756dffc71",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-1b493477a1abba4f",
+          "title": "Economics & Management BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "1b493477a1abba4f53b7b35eefec02c0ae8bc56c89ca1dc210451561d3deaca5",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-05230f496666b0fc",
+          "title": "Economics & Management BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "05230f496666b0fc5d17e40ffce42ad5687f90f3315822a737d420bdbe7f6acf",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-e9e6107e0187a0ad",
+          "title": "Economics & Management BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "e9e6107e0187a0addc1d6c42931c66b6303f68798c91512bdb4c960b55bf830e",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-dff3755b9680738d",
+          "title": "Economics & Management BSc — 英语政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27）",
+          "source_period": "明确2026/27，2027/28最终测试政策待核"
+        },
+        {
+          "id": "KCLLB-7cb4ae3e37b9a7c4",
+          "title": "Economics & Management BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "7cb4ae3e37b9a7c41f1be617d7bac78b97e153bced1ecd3eb02a5dc2477f3fff",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28 KCL international annual fee; explicit older partner examples separately labelled"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "逐项核总览、招生、各年模块、职业正文、China实际分支及国际年度费用。",
+        "法律LNAT／重考／预科，双国授位、签证与伙伴收费均按具体路线；不把低年级成绩或校级通则当完整专业门槛。",
+        "保留旧事实、原来源日期和明确缺口；未来英语测试政策、奖学金与专业可比毕业统计未取得。"
       ],
       "display_fields": {
-        "duration": "3 年 ",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "三年；获批海外变体可四年",
+        "entry_summary": "高考／Zhao Kao不直入；A*AA；数学A且人文／社科A，IB对应两门HL6；现代外语不替代社科",
+        "name": "经济与管理（BSc）",
+        "intake": "2027年9月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £40,600／学年（KCL常规阶段）",
+        "outcomes_summary": "已核职业方向及群体；未取得可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese facts per program and actual route; prior evidence retained",
       "inventory_id": "kcl-economics-management-bsc-245b52a540"
     },
     {
@@ -7181,7 +8033,7 @@
       "raw_key": "0e0fa4f0-5357-43e1-9bee-12c182bfd72f",
       "name_en": "Economics & Management with Year in Industry BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -7199,30 +8051,165 @@
               "UKENR-96963017db74da"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "四年经济管理与行业年",
+            "text": "首年经济原理30，数学、统计、市场、工作心理、金融、会计各15；二年微观、宏观、计量及伦理合60，再选四门15。第三年实习120、通过／不通过；第四年120，经济／金融至少60，其余商业／管理，最多一门30学分模块。研究项目只是可选项，不是全体固定毕业论文。",
+            "source_ids": [
+              "KCLLB-5b8faed5120c3583",
+              "KCLLB-53b94332173923fb"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "实习及课程选择条件",
+            "text": "实习岗位须自行落实并满足资格，学校不能保证；获批可转回三年版本。二年可申请一学期海外，不能把普通项目的整年海外自动叠加到实习年。二年额外商业语言15／进阶数学15／职业加速5三选一，外语可按规则计入或额外；末年外语计入年度120。",
+            "source_ids": [
+              "KCLLB-5b8faed5120c3583",
+              "KCLLB-53b94332173923fb"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "公开校区与常规学制",
+            "text": "总览列 Strand 校区；常规四年；全日制。本轮未取得独立涵盖全部阶段的授课语言条款；Band B是录取要求，不作为授课语言证明。",
+            "source_ids": [
+              "KCLLB-53b94332173923fb"
+            ],
+            "extraction_locator": "Overview > public Base campus(es), Course essentials and Duration"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-96963017db74da"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "双科目前置",
+            "text": "A-level A*AA，数学A以及人文／社科A（现代外语除外）；IB38或三门HL19，数学AA／AI的HL6以及人文／社科HL6。认可科目表包含古典、英语／创作、历史、哲学、宗教、商科、经济、地理、政治、法律、社会学和心理，两类先修都要满足。",
+            "source_ids": [
+              "KCLLB-b6e4b7dd19481046"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "申请者类别",
+            "text": "可审理重考申请者，不接受外部转学。已有本科学位可按2:1或等同评估，指定数学与人文社科先修仍然适用；高中录取不代表已满足第三年实习资格或获得岗位。",
+            "source_ids": [
+              "KCLLB-b6e4b7dd19481046"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "A-level计入与实践例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills、Global Perspectives不计入所需A-level，EPQ不用于录取评估。以英格兰线性理科A-level申请者须通过实践考核，无法参加该考核的private candidates有明示例外；不向所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLLB-b6e4b7dd19481046"
+            ],
+            "extraction_locator": "Visible further A-level information > exclusions / practical endorsement / private candidate"
+          },
+          {
+            "label": "独立预科与再申请",
+            "text": "英国境内独立预科按课程内容个案审理，不接受非英国预科或嵌在另一大学本科中的Year0／Integrated Foundation。重考申请者可被考虑，但不保证录取；不能将此商经政策套到法律课程。",
+            "source_ids": [
+              "KCLLB-b6e4b7dd19481046"
+            ],
+            "extraction_locator": "Selection > Foundation courses, Resits"
+          },
+          {
+            "label": "本课程中国学历分支",
+            "text": "逐项实际选择China后，页面明确Gao Kao（高考）、Zhao Kao（网页称Senior High School Examination）及Maple Leaf World Schools Programme High School Diploma不用于直接本科录取。所指International Foundation是替代路径信息，仍需核本课程可用路线、进阶成绩及科目条件，不保证进入该学位。",
+            "source_ids": [
+              "KCLLB-5a543b8376f607b3"
+            ],
+            "extraction_locator": "Actual China > Award > three qualifications > not considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求Band B。已取得的英语测试政策明确适用2026/27，IELTS Academic参考总分7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新测试政策与录取条件，不能把旧年清单自动当作最终标准。",
+            "source_ids": [
+              "KCLLB-b6e4b7dd19481046",
+              "KCLLB-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English Band B; English policy > 2026/27 and validity"
+          },
+          {
+            "label": "行业年资格与落实时间",
+            "text": "当前Global Placements规则明确：须在四年学位注册，首年平均至少2:2，且截至第二年5月须已自行落实岗位。实习通常9–12个月，处于第三年前后6月至翌年9月区间，随后返校读末年。上述首年成绩豁免只写给International Management，不适用于本条；未来实际外出前仍须再核规则。",
+            "source_ids": [
+              "KCLLB-5fe93bab078f2900"
+            ],
+            "extraction_locator": "Global Placements > Am I eligible? > 4-year degree / first-year 2:2 / placement by May of Year 2; duration"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "LN14；课程申请开放状态及截止须再核。",
+            "text": "LN14；本轮已核申请状态与截止见下列补充。",
             "source_ids": [
               "UKENR-96963017db74da"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "延期及申请材料边界",
+            "text": "可在UCAS选择延期年度，录取后延期仍逐案批准；第二次通常只在极端不可预见情形考虑，超过两年须重申，兵役／国家服务有例外。个人陈述仍参与录取评估，不能以成绩已达标替代全部申请材料。",
+            "source_ids": [
+              "KCLLB-b6e4b7dd19481046"
+            ],
+            "extraction_locator": "Selection > Deferrals; Personal Statement"
+          },
+          {
+            "label": "2027公开申请窗口",
+            "text": "本课程当前UCAS LN14，状态Open，2027年9月入学、2027年1月13日截止。具体材料、先修及申请者类别须同时满足。",
+            "source_ids": [
+              "KCLLB-2a01add85ae0566d"
+            ],
+            "extraction_locator": "Actual rendered Key Information > UCAS / Application status / Start date / Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "本课程国际费用栏明确为GBP £40,600／学年，适用2027/28在KCL常规授课阶段；后续年可按条款增加。海外／伙伴校或实习阶段按另列规则，不用首年金额乘总学制当总价。",
+            "source_ids": [
+              "KCLLB-2a01add85ae0566d"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与额外支出",
+            "text": "国际申请者坚定接受无条件录取时缴£2,000押金，入学后抵扣首年学费。页面另列书本、打印、文具、毕业及交通等成本，海外／实习还须预算旅行、签证和食宿；这些不因年费已付而自动包含。",
+            "source_ids": [
+              "KCLLB-2a01add85ae0566d"
+            ],
+            "extraction_locator": "International deposit; Additional costs and subsistence"
+          },
+          {
+            "label": "海外／实习阶段收费边界",
+            "text": "国际学生行业年学费为正常学费三分之一；不要以本地生OfS上限替代。页面£1,955仅2026/27参考，并称2027/28上限未取得，未来实习年的正常基准费、交通及食宿仍须另核。",
+            "source_ids": [
+              "KCLLB-2a01add85ae0566d"
+            ],
+            "extraction_locator": "International fee additional information and Further fee information > individual route and explicit reference year"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "就业与实习举例的群体",
+            "text": "职业页所列分析师、审计培训、教师、企业融资及法律助理等职位以整个King’s Business School毕业生为主语，教学雇主例子是过去商学院实习者。两者都没有本四年学位独立届次、样本率或薪资，不能据此保证毕业去向。",
+            "source_ids": [
+              "KCLLB-3c8d0ced5b2a85c6",
+              "KCLLB-53b94332173923fb",
+              "KCLLB-5b8faed5120c3583"
+            ],
+            "extraction_locator": "careers实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          }
+        ]
       },
       "sources": [
         {
@@ -7233,32 +8220,127 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "e57c675b374978ed453a3ba6d28673946395d99e46114e1a828b09417b646837",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLLB-53b94332173923fb",
+          "title": "Economics & Management with Year in Industry BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "53b94332173923fb52d586c9f72995643db93f3edbb113f00420323f5124242e",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-5b8faed5120c3583",
+          "title": "Economics & Management with Year in Industry BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "5b8faed5120c358343f99313e8cc0526012ae87ec45eaffa01a556a5d8e27b23",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-b6e4b7dd19481046",
+          "title": "Economics & Management with Year in Industry BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "b6e4b7dd194810468bd2f2af20d1959185d27b13f78f7600bbc58277aeebb3ca",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-3c8d0ced5b2a85c6",
+          "title": "Economics & Management with Year in Industry BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "3c8d0ced5b2a85c6daa11b3449452d09991d897ce8fcd1dc8a45a5adb822bcf7",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-5a543b8376f607b3",
+          "title": "Economics & Management with Year in Industry BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "5a543b8376f607b3ac1449e80dc6e449d023eb7a68eb80eedaaa14a704fca88c",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-dff3755b9680738d",
+          "title": "Economics & Management with Year in Industry BSc — 英语政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27）",
+          "source_period": "明确2026/27，2027/28最终测试政策待核"
+        },
+        {
+          "id": "KCLLB-5fe93bab078f2900",
+          "title": "Economics & Management with Year in Industry BSc — 商学院当前行业年资格",
+          "url": "https://www.kcl.ac.uk/business/undergraduate/global-placements",
+          "checked_at": "2026-09-13",
+          "sha256": "5fe93bab078f2900b5cfdb88aac66df1b329a8d1a7c683ac089eed673c61705f",
+          "supports": "商学院当前行业年资格",
+          "capture_format": "public_html",
+          "locator": "商学院当前行业年资格",
+          "source_period": "当前未单列届次的Global Placements规则；未来外出前须再核"
+        },
+        {
+          "id": "KCLLB-2a01add85ae0566d",
+          "title": "Economics & Management with Year in Industry BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "2a01add85ae0566d83019fc0115c1aac926e1f63f3fbff4a97d645a820a7fad3",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28 KCL international annual fee; explicit older partner examples separately labelled"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "逐项核总览、招生、各年模块、职业正文、China实际分支及国际年度费用。",
+        "法律LNAT／重考／预科，双国授位、签证与伙伴收费均按具体路线；不把低年级成绩或校级通则当完整专业门槛。",
+        "保留旧事实、原来源日期和明确缺口；未来英语测试政策、奖学金与专业可比毕业统计未取得。"
       ],
       "display_fields": {
-        "duration": "4 年 ",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "四年；全日制",
+        "entry_summary": "高考／Zhao Kao不直入；A*AA；数学与人文／社科各A／HL6；实习需首年2:2及自行找岗",
+        "name": "经济与管理（BSc，含行业实习年）",
+        "intake": "2027年9月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £40,600／学年（KCL常规阶段）",
+        "outcomes_summary": "已核职业方向及群体；未取得可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese facts per program and actual route; prior evidence retained",
       "inventory_id": "kcl-economics-management-with-year-in-industry-bsc-7b5aaf88aa"
     },
     {
@@ -8193,7 +9275,7 @@
       "raw_key": "2f8ede75-c89a-4391-b8ec-e8fd11426623",
       "name_en": "English Law & French Law LLB and Maîtrise en droit (Master 1)",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -8211,30 +9293,172 @@
               "UKENR-e6e993d730b5ec"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "英法双授位及学分",
+            "text": "第一、二年在KCL，第三、四年在Paris-Panthéon-Assas。首年四门英国法各30，第二年财产／侵权／信托90加选修30。法语法律I／II及首年法律推理技能虽不计学分，仍须通过升读。KCL LLB共360，其中240在伦敦，巴黎第三、四年各折60，不能把巴黎两年各重复算120。",
+            "source_ids": [
+              "KCLLB-5b0acf87a87ee157",
+              "KCLLB-cf4751d502e6222b"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "巴黎阶段与语言",
+            "text": "巴黎第三年读Licence en Droit，可选私法、公法或公私法；成功完成Licence后，本路线自动升Master1的指定方案。完成后可获KCL LLB及Assas的Licence、Master1。法语法律模块和巴黎课程／考试使用法语，语言课及另有说明者除外；前两年须保持并提高法语，语言支持课不替代录取先修。",
+            "source_ids": [
+              "KCLLB-5b0acf87a87ee157",
+              "KCLLB-cf4751d502e6222b"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "公开校区与常规学制",
+            "text": "总览列 Strand 与 Waterloo 校区；第三、四年分别在 Paris-Panthéon-Assas；常规四年；全日制。语言分阶段说明见课程结构；不据外语先修推定全部模块语言。",
+            "source_ids": [
+              "KCLLB-cf4751d502e6222b"
+            ],
+            "extraction_locator": "Overview > public Base campus(es), Course essentials and Duration"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-e6e993d730b5ec"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "法语先修的替代路径",
+            "text": "A-level A*AA且法语A；IB38或三门HL19且法语HL6。未修到该学术级别法语者，可另凭DELF B2配合三门A-level或完整IB Diploma，不能仅凭B2代替总学历。须LNAT；不接受外部转学。希望同时审M100须另填志愿。",
+            "source_ids": [
+              "KCLLB-7326f69103c2cb87"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "A-level计入与实践例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills、Global Perspectives不计入所需A-level，EPQ不用于录取评估。以英格兰线性理科A-level申请者须通过实践考核，无法参加该考核的private candidates有明示例外；不向所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLLB-7326f69103c2cb87"
+            ],
+            "extraction_locator": "Visible further A-level information > exclusions / practical endorsement / private candidate"
+          },
+          {
+            "label": "法律重考及预科的限制",
+            "text": "本页原则上不接受重考，相关学历须首次完成；即使换另一资格重复同级科目也可算重考。已有可接受学历后再读预科／Access寻求入学，也在此限制内；只有重大首次考试影响因素可提交证明个案审查，仍不保证受理。只有原Level3资格本身不适合本科直入时，才可个案审英国独立预科；不接受非英国预科或另一大学学位内Year0。",
+            "source_ids": [
+              "KCLLB-7326f69103c2cb87"
+            ],
+            "extraction_locator": "Selection > Resits and Foundation courses"
+          },
+          {
+            "label": "已有大学学习的申请者",
+            "text": "将完成或已完成本科学位者可按英国2:1或等同评估，高2:1／一等可能更有竞争力；指定语种等先修仍须符合。",
+            "source_ids": [
+              "KCLLB-7326f69103c2cb87"
+            ],
+            "extraction_locator": "Selection > Graduates; incomplete degree limitation where explicitly stated"
+          },
+          {
+            "label": "本课程中国学历分支",
+            "text": "逐项实际选择China后，页面明确Gao Kao（高考）、Zhao Kao（网页称Senior High School Examination）及Maple Leaf World Schools Programme High School Diploma不用于直接本科录取。所指International Foundation是替代路径信息，仍需核本课程可用路线、进阶成绩及科目条件，不保证进入该学位。",
+            "source_ids": [
+              "KCLLB-837ca3877f60166c"
+            ],
+            "extraction_locator": "Actual China > Award > three qualifications > not considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求Band B。已取得的英语测试政策明确适用2026/27，IELTS Academic参考总分7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新测试政策与录取条件，不能把旧年清单自动当作最终标准。",
+            "source_ids": [
+              "KCLLB-7326f69103c2cb87",
+              "KCLLB-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English Band B; English policy > 2026/27 and validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "M121；课程申请开放状态及截止须再核。",
+            "text": "M121；本轮已核申请状态与截止见下列补充。",
             "source_ids": [
               "UKENR-e6e993d730b5ec"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "跨国学籍和签证范围（课程页说明）",
+            "text": "本课程页说明国际学生的英国Student签证通常仅覆盖前两年英国阶段，且该路线不具备申请英国Graduate签证资格；法国学习亦需自行安排合法身份。这是当前课程对分阶段就读的说明，实际出行时仍须核届时移民规则和校方建议。",
+            "source_ids": [
+              "KCLLB-cf4751d502e6222b"
+            ],
+            "extraction_locator": "overview实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "LNAT与UCAS分开安排",
+            "text": "所有本地及海外申请者须在该申请轮9月1日至12月31日参加LNAT，成绩不跨年沿用；UCAS可在考试前后提交，但LNAT截止早于次年1月的UCAS平等审理截止。注册时须选择King’s接收成绩。只有所在国家无考点或无合理距离考点等情形可个案申请豁免，不能因为来自中国便视为免考。",
+            "source_ids": [
+              "KCLLB-7326f69103c2cb87"
+            ],
+            "extraction_locator": "Other requirements > LNAT > 1 September–31 December in application cycle; no carryover; Home and Overseas"
+          },
+          {
+            "label": "法律延期与申请动机",
+            "text": "延期仅在疾病、强制兵役等mitigating circumstances下个案考虑，不保证批准。个人陈述须体现学习本法律方向的理由，英国境外申请者应解释选择英国法的动机；具名双国路线还须针对该路线说明。",
+            "source_ids": [
+              "KCLLB-7326f69103c2cb87"
+            ],
+            "extraction_locator": "Selection > Deferrals and Personal Statement"
+          },
+          {
+            "label": "2027公开申请窗口",
+            "text": "本课程当前UCAS M121，状态Open，2027年9月入学、2027年1月13日截止。LNAT另有申请轮12月31日截止，不能等到UCAS截止才考试。",
+            "source_ids": [
+              "KCLLB-bf976ae4ebb07c7c"
+            ],
+            "extraction_locator": "Actual rendered Key Information > UCAS / Application status / Start date / Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "本课程国际费用栏明确为GBP £13,600／学年，适用2027/28在KCL常规授课阶段；后续年可按条款增加。海外／伙伴校或实习阶段按另列规则，不用首年金额乘总学制当总价。",
+            "source_ids": [
+              "KCLLB-bf976ae4ebb07c7c"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与额外支出",
+            "text": "国际申请者坚定接受无条件录取时缴£2,000押金，入学后抵扣首年学费。页面另列书本、打印、文具、毕业及交通等成本，海外／实习还须预算旅行、签证和食宿；这些不因年费已付而自动包含。",
+            "source_ids": [
+              "KCLLB-bf976ae4ebb07c7c"
+            ],
+            "extraction_locator": "International deposit; Additional costs and subsistence"
+          },
+          {
+            "label": "海外／实习阶段收费边界",
+            "text": "KCL阶段付KCL费、巴黎阶段付伙伴费。页面说明巴黎按国家收费，所举2025/26每年约€254仅历史参考，未来第三／四年收费未核实，不能当2027新生全程固定价。",
+            "source_ids": [
+              "KCLLB-bf976ae4ebb07c7c"
+            ],
+            "extraction_locator": "International fee additional information and Further fee information > individual route and explicit reference year"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及资格边界",
+            "text": "职业页列进一步律师训练、跨国企业法务或继续深造，并附King’s法律毕业生的广泛领域说明。获得两国学历不等于已取得任何一国执业资格；本轮未取得本双授位可比届次、样本就业率或薪资。",
+            "source_ids": [
+              "KCLLB-044343d9d61ae0ad",
+              "KCLLB-cf4751d502e6222b"
+            ],
+            "extraction_locator": "careers实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          }
+        ]
       },
       "sources": [
         {
@@ -8245,32 +9469,117 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "8adcb9545d9807330aac9b7bf3eb25af237956020741d215cb0cd6cbbb137e94",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLLB-cf4751d502e6222b",
+          "title": "English Law & French Law LLB and Maîtrise en droit (Master 1) — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb",
+          "checked_at": "2026-09-13",
+          "sha256": "cf4751d502e6222b56c9596a6ac25d22e81815e447916c93aa8d72986eab8ab5",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-5b0acf87a87ee157",
+          "title": "English Law & French Law LLB and Maîtrise en droit (Master 1) — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "5b0acf87a87ee157d03d4aabf8e85e409d0013ea2dca5944030ff4ced231c01f",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-7326f69103c2cb87",
+          "title": "English Law & French Law LLB and Maîtrise en droit (Master 1) — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "7326f69103c2cb870be16d4a980c9d0e7675c1513fb8bb0b2823f4505fcd52d5",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-044343d9d61ae0ad",
+          "title": "English Law & French Law LLB and Maîtrise en droit (Master 1) — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "044343d9d61ae0adc8a28d9751ddca2c19dbd2e38eac9bb34cdb2d74224b54ee",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-837ca3877f60166c",
+          "title": "English Law & French Law LLB and Maîtrise en droit (Master 1) — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "837ca3877f60166cef1981412b3bfe37aaf1a87c2a4de06b064f068820c7f67e",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-dff3755b9680738d",
+          "title": "English Law & French Law LLB and Maîtrise en droit (Master 1) — 英语政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27）",
+          "source_period": "明确2026/27，2027/28最终测试政策待核"
+        },
+        {
+          "id": "KCLLB-bf976ae4ebb07c7c",
+          "title": "English Law & French Law LLB and Maîtrise en droit (Master 1) — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "bf976ae4ebb07c7ca89988ab167dc5ae06386253e05289c504d803e99b9dd552",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28 KCL international annual fee; explicit older partner examples separately labelled"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "逐项核总览、招生、各年模块、职业正文、China实际分支及国际年度费用。",
+        "法律LNAT／重考／预科，双国授位、签证与伙伴收费均按具体路线；不把低年级成绩或校级通则当完整专业门槛。",
+        "保留旧事实、原来源日期和明确缺口；未来英语测试政策、奖学金与专业可比毕业统计未取得。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "四年；全日制",
+        "entry_summary": "高考／Zhao Kao不直入；A*AA且法语A／IB法语HL6，可审DELF B2替代语言条件；须LNAT",
+        "name": "英国与法国法律（LLB＋法国学位）",
+        "intake": "2027年9月",
+        "campus": "Strand 与 Waterloo 校区；第三、四年分别在 Paris-Panthéon-Assas",
+        "tuition_summary": "2027/28 GBP £13,600／学年（KCL常规阶段）",
+        "outcomes_summary": "已核职业方向及群体；未取得可比就业率／薪资",
+        "language": "法国法模块及Assas阶段法语；KCL其他模块语言条款待核"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese facts per program and actual route; prior evidence retained",
       "inventory_id": "kcl-english-law-french-law-llb-and-ma-trise-en-droit-master-1-cee2c45cb2"
     },
     {
@@ -8278,7 +9587,7 @@
       "raw_key": "dfe2eb18-6785-4de5-9c07-439774109aaf",
       "name_en": "English Law & German Law LLB and LLM or First State Exam (erste juristische Staatsprüfung)",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -8296,30 +9605,172 @@
               "UKENR-798a428a9d1223"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "英德两条路线不能混合",
+            "text": "第一年选择First State Exam或LLM路线，均首两年在KCL。国家考试路线第三、四年赴Humboldt，柏林两年选定成绩合折KCL120；LLM路线仅第三年在柏林，第四年回KCL，柏林LLM不转入KCL学分／分数，而以通过／不通过记录。两者都是高中后进入的四年共同入口，但后续资格不同。",
+            "source_ids": [
+              "KCLLB-52ede507e300d723",
+              "KCLLB-5ca72fad3927785b"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "逐路线课程要求",
+            "text": "首年刑法、合同、公法、德国公法各30，另有法律技能及按能力安排的不计分德语法律语言课。国家考试路线二年须德国民法、德国刑法、财产、侵权、信托五门各30，合150；LLM路线二年四门核心合120、德国刑法列为选项，不能把150套给全体。LLM末年法理30加选修90，KCL授位共360。",
+            "source_ids": [
+              "KCLLB-52ede507e300d723",
+              "KCLLB-5ca72fad3927785b"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "公开校区与常规学制",
+            "text": "总览列 Strand 与 Waterloo 校区；Humboldt阶段依路线；常规四年；全日制。语言分阶段说明见课程结构；不据外语先修推定全部模块语言。",
+            "source_ids": [
+              "KCLLB-5ca72fad3927785b"
+            ],
+            "extraction_locator": "Overview > public Base campus(es), Course essentials and Duration"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-798a428a9d1223"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "德语与国家考试资格",
+            "text": "A-level A*AA且德语A，或IB38／HL合计19且德语HL6；未达该学术德语级别可另配TestDaF四项均TDN4。First State Exam另须中学毕业资格等同德国法律学习所需Hochschulzulassungsberechtigung，并经KCL与Humboldt批准，不能仅凭KCL录取或德语成绩认定符合。须LNAT，不接受外部转学。",
+            "source_ids": [
+              "KCLLB-88c45959dbd37bfd"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "A-level计入与实践例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills、Global Perspectives不计入所需A-level，EPQ不用于录取评估。以英格兰线性理科A-level申请者须通过实践考核，无法参加该考核的private candidates有明示例外；不向所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLLB-88c45959dbd37bfd"
+            ],
+            "extraction_locator": "Visible further A-level information > exclusions / practical endorsement / private candidate"
+          },
+          {
+            "label": "法律重考及预科的限制",
+            "text": "本页原则上不接受重考，相关学历须首次完成；即使换另一资格重复同级科目也可算重考。已有可接受学历后再读预科／Access寻求入学，也在此限制内；只有重大首次考试影响因素可提交证明个案审查，仍不保证受理。只有原Level3资格本身不适合本科直入时，才可个案审英国独立预科；不接受非英国预科或另一大学学位内Year0。",
+            "source_ids": [
+              "KCLLB-88c45959dbd37bfd"
+            ],
+            "extraction_locator": "Selection > Resits and Foundation courses"
+          },
+          {
+            "label": "已有大学学习的申请者",
+            "text": "将完成或已完成本科学位者可按英国2:1或等同评估，高2:1／一等可能更有竞争力；指定语种等先修仍须符合。",
+            "source_ids": [
+              "KCLLB-88c45959dbd37bfd"
+            ],
+            "extraction_locator": "Selection > Graduates; incomplete degree limitation where explicitly stated"
+          },
+          {
+            "label": "本课程中国学历分支",
+            "text": "逐项实际选择China后，页面明确Gao Kao（高考）、Zhao Kao（网页称Senior High School Examination）及Maple Leaf World Schools Programme High School Diploma不用于直接本科录取。所指International Foundation是替代路径信息，仍需核本课程可用路线、进阶成绩及科目条件，不保证进入该学位。",
+            "source_ids": [
+              "KCLLB-02eb9b6ef69ca57d"
+            ],
+            "extraction_locator": "Actual China > Award > three qualifications > not considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求Band B。已取得的英语测试政策明确适用2026/27，IELTS Academic参考总分7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新测试政策与录取条件，不能把旧年清单自动当作最终标准。",
+            "source_ids": [
+              "KCLLB-88c45959dbd37bfd",
+              "KCLLB-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English Band B; English policy > 2026/27 and validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "M122；课程申请开放状态及截止须再核。",
+            "text": "M122；本轮已核申请状态与截止见下列补充。",
             "source_ids": [
               "UKENR-798a428a9d1223"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "分路线英国签证（课程页说明）",
+            "text": "国家考试路线的英国就读仅前两年，课程页称不能申请英国Graduate签证；LLM路线英国Student签证可覆盖四年，毕业后是否符合Graduate签证还受规则变化影响。因一年级才分流，CAS可选默认四年或两年；若先选两年后改LLM，页面要求离境申请覆盖后两年的新签证。不得把某一路线签证结论套到另一条。",
+            "source_ids": [
+              "KCLLB-5ca72fad3927785b"
+            ],
+            "extraction_locator": "overview实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "LNAT与UCAS分开安排",
+            "text": "所有本地及海外申请者须在该申请轮9月1日至12月31日参加LNAT，成绩不跨年沿用；UCAS可在考试前后提交，但LNAT截止早于次年1月的UCAS平等审理截止。注册时须选择King’s接收成绩。只有所在国家无考点或无合理距离考点等情形可个案申请豁免，不能因为来自中国便视为免考。",
+            "source_ids": [
+              "KCLLB-88c45959dbd37bfd"
+            ],
+            "extraction_locator": "Other requirements > LNAT > 1 September–31 December in application cycle; no carryover; Home and Overseas"
+          },
+          {
+            "label": "法律延期与申请动机",
+            "text": "延期仅在疾病、强制兵役等mitigating circumstances下个案考虑，不保证批准。个人陈述须体现学习本法律方向的理由，英国境外申请者应解释选择英国法的动机；具名双国路线还须针对该路线说明。",
+            "source_ids": [
+              "KCLLB-88c45959dbd37bfd"
+            ],
+            "extraction_locator": "Selection > Deferrals and Personal Statement"
+          },
+          {
+            "label": "2027公开申请窗口",
+            "text": "本课程当前UCAS M122，状态Open，2027年9月入学、2027年1月13日截止。LNAT另有申请轮12月31日截止，不能等到UCAS截止才考试。",
+            "source_ids": [
+              "KCLLB-6189cca9a567aeb6"
+            ],
+            "extraction_locator": "Actual rendered Key Information > UCAS / Application status / Start date / Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "本课程国际费用栏明确为GBP £13,600／学年，适用2027/28在KCL常规授课阶段；后续年可按条款增加。海外／伙伴校或实习阶段按另列规则，不用首年金额乘总学制当总价。",
+            "source_ids": [
+              "KCLLB-6189cca9a567aeb6"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与额外支出",
+            "text": "国际申请者坚定接受无条件录取时缴£2,000押金，入学后抵扣首年学费。页面另列书本、打印、文具、毕业及交通等成本，海外／实习还须预算旅行、签证和食宿；这些不因年费已付而自动包含。",
+            "source_ids": [
+              "KCLLB-6189cca9a567aeb6"
+            ],
+            "extraction_locator": "International deposit; Additional costs and subsistence"
+          },
+          {
+            "label": "海外／实习阶段收费边界",
+            "text": "国家考试路线在KCL第一、二年缴KCL费，页面称Humboldt不收该路径学费；LLM路线在第一、二、四年缴KCL费，第三年仍缴KCL减额但金额未列。两路线在Humboldt均有每学期行政费，€321.90只标2025参考，非未来固定金额。",
+            "source_ids": [
+              "KCLLB-6189cca9a567aeb6"
+            ],
+            "extraction_locator": "International fee additional information and Further fee information > individual route and explicit reference year"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "国家考试与职业边界",
+            "text": "国家考试路线完成规定学习是取得First State Examination报考资格的步骤，不等同已通过考试；日后德国执业还涉及Second State Exam等后续资格条件。LLM适合深入学习德国法，但不能因此视为国家考试路线。职业页没有本双路线分别统计的届次、就业率或薪资。",
+            "source_ids": [
+              "KCLLB-b2eff185faa1b039",
+              "KCLLB-5ca72fad3927785b"
+            ],
+            "extraction_locator": "careers实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          }
+        ]
       },
       "sources": [
         {
@@ -8330,32 +9781,117 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "19bec0d2508d8832b0c85335d6e2ea5501eb539e059533719dd77b26ccf4d54e",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLLB-5ca72fad3927785b",
+          "title": "English Law & German Law LLB and LLM or First State Exam (erste juristische Staatsprüfung) — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb",
+          "checked_at": "2026-09-13",
+          "sha256": "5ca72fad3927785b3a2b9c6f96242252302b0e57262bd0b50af21297c2757cd5",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-52ede507e300d723",
+          "title": "English Law & German Law LLB and LLM or First State Exam (erste juristische Staatsprüfung) — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "52ede507e300d72302638e256ab14873684c4e2a66b686a1e874df40f30d8fef",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-88c45959dbd37bfd",
+          "title": "English Law & German Law LLB and LLM or First State Exam (erste juristische Staatsprüfung) — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "88c45959dbd37bfd3bc474374076c2e86f8d16c783b4106f7dceebf377efd95f",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-b2eff185faa1b039",
+          "title": "English Law & German Law LLB and LLM or First State Exam (erste juristische Staatsprüfung) — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "b2eff185faa1b039a5e24f5593fb60ab9b48c8658b31f7d81f42063f4247e08c",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-02eb9b6ef69ca57d",
+          "title": "English Law & German Law LLB and LLM or First State Exam (erste juristische Staatsprüfung) — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "02eb9b6ef69ca57dab631db2df538b13e493f6651ac43c17e9de4213b4d92dc0",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-dff3755b9680738d",
+          "title": "English Law & German Law LLB and LLM or First State Exam (erste juristische Staatsprüfung) — 英语政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27）",
+          "source_period": "明确2026/27，2027/28最终测试政策待核"
+        },
+        {
+          "id": "KCLLB-6189cca9a567aeb6",
+          "title": "English Law & German Law LLB and LLM or First State Exam (erste juristische Staatsprüfung) — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "6189cca9a567aeb6d7f7144c106fade0afded832d363dda2523e10a31d159164",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28 KCL international annual fee; explicit older partner examples separately labelled"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "逐项核总览、招生、各年模块、职业正文、China实际分支及国际年度费用。",
+        "法律LNAT／重考／预科，双国授位、签证与伙伴收费均按具体路线；不把低年级成绩或校级通则当完整专业门槛。",
+        "保留旧事实、原来源日期和明确缺口；未来英语测试政策、奖学金与专业可比毕业统计未取得。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "四年；全日制",
+        "entry_summary": "高考／Zhao Kao不直入；A*AA且德语A／HL6或TestDaF四项TDN4；国家考试路线另核德国学历资格",
+        "name": "英国与德国法律（LLB；国家考试／LLM路线）",
+        "intake": "2027年9月",
+        "campus": "Strand 与 Waterloo 校区；Humboldt阶段依路线",
+        "tuition_summary": "2027/28 GBP £13,600／学年（KCL常规阶段）",
+        "outcomes_summary": "已核职业方向及群体；未取得可比就业率／薪资",
+        "language": "设德语法律语言课；两校各阶段授课语言条款待核"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese facts per program and actual route; prior evidence retained",
       "inventory_id": "kcl-english-law-german-law-llb-and-llm-or-first-state-exam-erste-juri-4fca52336e"
     },
     {
@@ -8363,7 +9899,7 @@
       "raw_key": "d9e89a64-135a-4062-a4a6-00d656bbaba0",
       "name_en": "English Law & Hong Kong Law LLB and JD",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -8381,30 +9917,181 @@
               "UKENR-5d3cbc349c0589"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "KCL与香港中文大学双授位",
+            "text": "前两年在KCL，后两年在CUHK读JD。首年四门法学核心各30并修不计学分的法律技能；二年财产／侵权／信托各30加选修30。建议选Company Law，获通过可免CUHK的对应公司法课程。KCL LLB为360，英国240，香港两年各折60，不能将两年共同120重复计算。",
+            "source_ids": [
+              "KCLLB-35dd57cc428e0430",
+              "KCLLB-72d7d97ef6cc7823"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "JD毕业及PCLL前置",
+            "text": "CUHK阶段须修57–60个当地units；JD总共72 units，其中KCL核心抵12，若通过指定Company Law再抵3。JD课程累计CUHK GPA须至少2.0。欲申请PCLL者还须选完其录取所需选修，并非LLB／JD毕业自动获PCLL名额。CUHK全部课堂与考试使用英语。",
+            "source_ids": [
+              "KCLLB-35dd57cc428e0430",
+              "KCLLB-72d7d97ef6cc7823"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "公开校区与常规学制",
+            "text": "总览列 Strand 与 Waterloo 校区；第三、四年分别在 香港中文大学；常规四年；全日制。语言分阶段说明见课程结构；不据外语先修推定全部模块语言。",
+            "source_ids": [
+              "KCLLB-72d7d97ef6cc7823"
+            ],
+            "extraction_locator": "Overview > public Base campus(es), Course essentials and Duration"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-5d3cbc349c0589"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "标准成绩及原页数字差异",
+            "text": "A-level A*AA；IB主条件写38或三门HL19，但其TOK/EE附注仍写总分35，两处不一致，本轮采用明确主门槛并保留附注问题，提交前须确认。无指定必修科目；该联合入口不设Contextual优惠，所有申请者须满足标准条件。",
+            "source_ids": [
+              "KCLLB-f858bb47b09f75a5"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "联合面试与替代审理",
+            "text": "KCL和CUHK联合学术小组进行网上面试，通常安排二月，面试前不发offer；具体2027面试日未列。申请本路线失败会自动竞争审理Law M100，但不保证录取；其他法律入口须另列UCAS志愿。须LNAT，重考限制照本页，不接受外部转学。",
+            "source_ids": [
+              "KCLLB-f858bb47b09f75a5"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "A-level计入与实践例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills、Global Perspectives不计入所需A-level，EPQ不用于录取评估。以英格兰线性理科A-level申请者须通过实践考核，无法参加该考核的private candidates有明示例外；不向所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLLB-f858bb47b09f75a5"
+            ],
+            "extraction_locator": "Visible further A-level information > exclusions / practical endorsement / private candidate"
+          },
+          {
+            "label": "法律重考及预科的限制",
+            "text": "本页原则上不接受重考，相关学历须首次完成；即使换另一资格重复同级科目也可算重考。已有可接受学历后再读预科／Access寻求入学，也在此限制内；只有重大首次考试影响因素可提交证明个案审查，仍不保证受理。只有原Level3资格本身不适合本科直入时，才可个案审英国独立预科；不接受非英国预科或另一大学学位内Year0。",
+            "source_ids": [
+              "KCLLB-f858bb47b09f75a5"
+            ],
+            "extraction_locator": "Selection > Resits and Foundation courses"
+          },
+          {
+            "label": "已有大学学习的申请者",
+            "text": "将完成或已完成本科学位者可按英国2:1或等同评估，高2:1／一等可能更有竞争力；指定语种等先修仍须符合。",
+            "source_ids": [
+              "KCLLB-f858bb47b09f75a5"
+            ],
+            "extraction_locator": "Selection > Graduates; incomplete degree limitation where explicitly stated"
+          },
+          {
+            "label": "本课程中国学历分支",
+            "text": "逐项实际选择China后，页面明确Gao Kao（高考）、Zhao Kao（网页称Senior High School Examination）及Maple Leaf World Schools Programme High School Diploma不用于直接本科录取。所指International Foundation是替代路径信息，仍需核本课程可用路线、进阶成绩及科目条件，不保证进入该学位。",
+            "source_ids": [
+              "KCLLB-23a0dbcc5d232c9d"
+            ],
+            "extraction_locator": "Actual China > Award > three qualifications > not considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求Band B。已取得的英语测试政策明确适用2026/27，IELTS Academic参考总分7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新测试政策与录取条件，不能把旧年清单自动当作最终标准。",
+            "source_ids": [
+              "KCLLB-f858bb47b09f75a5",
+              "KCLLB-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English Band B; English policy > 2026/27 and validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "M190；课程申请开放状态及截止须再核。",
+            "text": "M190；本轮已核申请状态与截止见下列补充。",
             "source_ids": [
               "UKENR-5d3cbc349c0589"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "跨地区签证范围（课程页说明）",
+            "text": "课程页说明国际学生英国Student签证只覆盖前两年KCL，且本路线不符合英国Graduate签证申请；后两年在香港学习须另安排身份。该说法针对KCL→CUHK这条四年路线，不可套到M100转入的另一项香港LLM路线，亦须在出行时核最新规则。",
+            "source_ids": [
+              "KCLLB-72d7d97ef6cc7823"
+            ],
+            "extraction_locator": "overview实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "LNAT与UCAS分开安排",
+            "text": "所有本地及海外申请者须在该申请轮9月1日至12月31日参加LNAT，成绩不跨年沿用；UCAS可在考试前后提交，但LNAT截止早于次年1月的UCAS平等审理截止。注册时须选择King’s接收成绩。只有所在国家无考点或无合理距离考点等情形可个案申请豁免，不能因为来自中国便视为免考。",
+            "source_ids": [
+              "KCLLB-f858bb47b09f75a5"
+            ],
+            "extraction_locator": "Other requirements > LNAT > 1 September–31 December in application cycle; no carryover; Home and Overseas"
+          },
+          {
+            "label": "法律延期与申请动机",
+            "text": "延期仅在疾病、强制兵役等mitigating circumstances下个案考虑，不保证批准。个人陈述须体现学习本法律方向的理由，英国境外申请者应解释选择英国法的动机；具名双国路线还须针对该路线说明。",
+            "source_ids": [
+              "KCLLB-f858bb47b09f75a5"
+            ],
+            "extraction_locator": "Selection > Deferrals and Personal Statement"
+          },
+          {
+            "label": "2027公开申请窗口",
+            "text": "本课程当前UCAS M190，状态Open，2027年9月入学、2027年1月13日截止。LNAT另有申请轮12月31日截止，不能等到UCAS截止才考试。",
+            "source_ids": [
+              "KCLLB-6e942dc89aaf8ec1"
+            ],
+            "extraction_locator": "Actual rendered Key Information > UCAS / Application status / Start date / Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "本课程国际费用栏明确为GBP £35,900／学年，适用2027/28在KCL常规授课阶段；后续年可按条款增加。海外／伙伴校或实习阶段按另列规则，不用首年金额乘总学制当总价。",
+            "source_ids": [
+              "KCLLB-6e942dc89aaf8ec1"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与额外支出",
+            "text": "国际申请者坚定接受无条件录取时缴£2,000押金，入学后抵扣首年学费。页面另列书本、打印、文具、毕业及交通等成本，海外／实习还须预算旅行、签证和食宿；这些不因年费已付而自动包含。",
+            "source_ids": [
+              "KCLLB-6e942dc89aaf8ec1"
+            ],
+            "extraction_locator": "International deposit; Additional costs and subsistence"
+          },
+          {
+            "label": "海外／实习阶段收费边界",
+            "text": "KCL与CUHK按实际就读学校分别收费。页面所列CUHK每unit HK$7,360明确为2025/26参考，后两年最多60个当地units；未来赴香港实际年度费率未取得，不将历史单价相乘后宣称本届总价。",
+            "source_ids": [
+              "KCLLB-6e942dc89aaf8ec1"
+            ],
+            "extraction_locator": "International fee additional information and Further fee information > individual route and explicit reference year"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及群体范围",
+            "text": "页面列英国／香港律师训练、跨国企业法务和继续深造，并附King’s法律毕业生的一般去向。缺少本LLB＋JD独立届次、样本就业率或薪资；法律训练和PCLL仍有另行准入，不属于毕业自动注册。",
+            "source_ids": [
+              "KCLLB-b5cbe48f14117dab",
+              "KCLLB-72d7d97ef6cc7823",
+              "KCLLB-35dd57cc428e0430"
+            ],
+            "extraction_locator": "careers实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          }
+        ]
       },
       "sources": [
         {
@@ -8415,32 +10102,117 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "9902077edf0be636debbac0b61ec2e23b15b4069bf898cced1ecf93ae80118a4",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLLB-72d7d97ef6cc7823",
+          "title": "English Law & Hong Kong Law LLB and JD — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd",
+          "checked_at": "2026-09-13",
+          "sha256": "72d7d97ef6cc78230e87f64078f344821d05248ea16053918e0b26045f1c397f",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-35dd57cc428e0430",
+          "title": "English Law & Hong Kong Law LLB and JD — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "35dd57cc428e0430bcb43eaf089f886be9f87c701bf41e3dde278d2ebcfe779d",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-f858bb47b09f75a5",
+          "title": "English Law & Hong Kong Law LLB and JD — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "f858bb47b09f75a57ed4374b322770ae0db1ab1ece2fcc688b4ffb63d886abad",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-b5cbe48f14117dab",
+          "title": "English Law & Hong Kong Law LLB and JD — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "b5cbe48f14117dab77bae652cf1073cafdbbe2faa43f3e5f01fdab4db612085c",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-23a0dbcc5d232c9d",
+          "title": "English Law & Hong Kong Law LLB and JD — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "23a0dbcc5d232c9df4c0ea215e4e171dab7134cced6b69933306d8eeefa8ad5f",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-dff3755b9680738d",
+          "title": "English Law & Hong Kong Law LLB and JD — 英语政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27）",
+          "source_period": "明确2026/27，2027/28最终测试政策待核"
+        },
+        {
+          "id": "KCLLB-6e942dc89aaf8ec1",
+          "title": "English Law & Hong Kong Law LLB and JD — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "6e942dc89aaf8ec12f327b1e82cb8f7d48d2985bf2aaae7ae7cac9d34eba0860",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28 KCL international annual fee; explicit older partner examples separately labelled"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "逐项核总览、招生、各年模块、职业正文、China实际分支及国际年度费用。",
+        "法律LNAT／重考／预科，双国授位、签证与伙伴收费均按具体路线；不把低年级成绩或校级通则当完整专业门槛。",
+        "保留旧事实、原来源日期和明确缺口；未来英语测试政策、奖学金与专业可比毕业统计未取得。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "四年；全日制",
+        "entry_summary": "高考／Zhao Kao不直入；A*AA／IB主门槛38或HL19；LNAT＋联合面试，失败可竞争转审M100",
+        "name": "英国与香港法律（LLB＋JD）",
+        "intake": "2027年9月",
+        "campus": "Strand 与 Waterloo 校区；第三、四年分别在 香港中文大学",
+        "tuition_summary": "2027/28 GBP £35,900／学年（KCL常规阶段）",
+        "outcomes_summary": "已核职业方向及群体；未取得可比就业率／薪资",
+        "language": "CUHK阶段英语；KCL全程语言条款待核"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese facts per program and actual route; prior evidence retained",
       "inventory_id": "kcl-english-law-hong-kong-law-llb-and-jd-a8471246d1"
     },
     {
@@ -8448,7 +10220,7 @@
       "raw_key": "a408c16d-4325-41d5-9d32-f2e2ab1fe202",
       "name_en": "English Law & Spanish Law LLB and Grado en Derecho (Spanish equivalent of LLB)",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -8466,30 +10238,180 @@
               "UKENR-ab4447fe6f5cf0"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "英西双授位课程",
+            "text": "前两年在KCL、后两年在巴塞罗那UPF。首年刑法、合同、欧洲法、公法各30，另修须通过但不计学分的法律技能及西班牙法I；二年财产／侵权／信托90加选修30，另须通过不计分的西班牙法II。西班牙法课堂及考试使用西语，另有建议参加的语言支持。",
+            "source_ids": [
+              "KCLLB-f7e434d2ca47842b",
+              "KCLLB-3796efe8d8160c35"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "UPF阶段及授位",
+            "text": "第三、四年在UPF读Grado en Derecho，课堂及考试使用西语。海外成绩按转换方案录为八门各15的KCL外部学分，合120是两年共同转入量；完成指定课程后取得KCL LLB和UPF Grado，不是两国自动执业许可证。",
+            "source_ids": [
+              "KCLLB-f7e434d2ca47842b",
+              "KCLLB-3796efe8d8160c35"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "公开校区与常规学制",
+            "text": "总览列 Strand 与 Waterloo 校区；第三、四年分别在 Universitat Pompeu Fabra；常规四年；全日制。语言分阶段说明见课程结构；不据外语先修推定全部模块语言。",
+            "source_ids": [
+              "KCLLB-3796efe8d8160c35"
+            ],
+            "extraction_locator": "Overview > public Base campus(es), Course essentials and Duration"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-ab4447fe6f5cf0"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "西语是双重要求",
+            "text": "A-level A*AA，西语A且DELE B2；IB38或三门HL19，西语HL6且DELE B2。DELE是同时需要的条件，不像英法／英德的语言替代路线。须LNAT，不接受外部转学；如还想审M100须另填UCAS志愿。",
+            "source_ids": [
+              "KCLLB-081babf906f65ec3"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "个人陈述的淘汰条件",
+            "text": "须说明为何选择英国与西班牙法律。页面明确，若陈述没有表现对这一特定语言路线的兴趣与理解，会直接判申请失败，不继续审其他申请部分；不能用泛泛法学动机替代此专属要求。",
+            "source_ids": [
+              "KCLLB-081babf906f65ec3"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "A-level计入与实践例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills、Global Perspectives不计入所需A-level，EPQ不用于录取评估。以英格兰线性理科A-level申请者须通过实践考核，无法参加该考核的private candidates有明示例外；不向所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLLB-081babf906f65ec3"
+            ],
+            "extraction_locator": "Visible further A-level information > exclusions / practical endorsement / private candidate"
+          },
+          {
+            "label": "法律重考及预科的限制",
+            "text": "本页原则上不接受重考，相关学历须首次完成；即使换另一资格重复同级科目也可算重考。已有可接受学历后再读预科／Access寻求入学，也在此限制内；只有重大首次考试影响因素可提交证明个案审查，仍不保证受理。只有原Level3资格本身不适合本科直入时，才可个案审英国独立预科；不接受非英国预科或另一大学学位内Year0。",
+            "source_ids": [
+              "KCLLB-081babf906f65ec3"
+            ],
+            "extraction_locator": "Selection > Resits and Foundation courses"
+          },
+          {
+            "label": "已有大学学习的申请者",
+            "text": "将完成或已完成本科学位者可按英国2:1或等同评估，高2:1／一等可能更有竞争力；指定语种等先修仍须符合。",
+            "source_ids": [
+              "KCLLB-081babf906f65ec3"
+            ],
+            "extraction_locator": "Selection > Graduates; incomplete degree limitation where explicitly stated"
+          },
+          {
+            "label": "本课程中国学历分支",
+            "text": "逐项实际选择China后，页面明确Gao Kao（高考）、Zhao Kao（网页称Senior High School Examination）及Maple Leaf World Schools Programme High School Diploma不用于直接本科录取。所指International Foundation是替代路径信息，仍需核本课程可用路线、进阶成绩及科目条件，不保证进入该学位。",
+            "source_ids": [
+              "KCLLB-3ebeca81f4b22ceb"
+            ],
+            "extraction_locator": "Actual China > Award > three qualifications > not considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求Band B。已取得的英语测试政策明确适用2026/27，IELTS Academic参考总分7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新测试政策与录取条件，不能把旧年清单自动当作最终标准。",
+            "source_ids": [
+              "KCLLB-081babf906f65ec3",
+              "KCLLB-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English Band B; English policy > 2026/27 and validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "M123；课程申请开放状态及截止须再核。",
+            "text": "M123；本轮已核申请状态与截止见下列补充。",
             "source_ids": [
               "UKENR-ab4447fe6f5cf0"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "跨国签证范围（课程页说明）",
+            "text": "KCL页面说明国际生英国Student签证仅覆盖前两年英国学习，且该路线不符合英国Graduate签证申请；西班牙阶段签证由学生另行安排。此处保存当前课程的分阶段说明，实际申请与出行仍须核届时规则。",
+            "source_ids": [
+              "KCLLB-3796efe8d8160c35"
+            ],
+            "extraction_locator": "overview实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "LNAT与UCAS分开安排",
+            "text": "所有本地及海外申请者须在该申请轮9月1日至12月31日参加LNAT，成绩不跨年沿用；UCAS可在考试前后提交，但LNAT截止早于次年1月的UCAS平等审理截止。注册时须选择King’s接收成绩。只有所在国家无考点或无合理距离考点等情形可个案申请豁免，不能因为来自中国便视为免考。",
+            "source_ids": [
+              "KCLLB-081babf906f65ec3"
+            ],
+            "extraction_locator": "Other requirements > LNAT > 1 September–31 December in application cycle; no carryover; Home and Overseas"
+          },
+          {
+            "label": "法律延期与申请动机",
+            "text": "延期仅在疾病、强制兵役等mitigating circumstances下个案考虑，不保证批准。个人陈述须体现学习本法律方向的理由，英国境外申请者应解释选择英国法的动机；具名双国路线还须针对该路线说明。",
+            "source_ids": [
+              "KCLLB-081babf906f65ec3"
+            ],
+            "extraction_locator": "Selection > Deferrals and Personal Statement"
+          },
+          {
+            "label": "2027公开申请窗口",
+            "text": "本课程当前UCAS M123，状态Open，2027年9月入学、2027年1月13日截止。LNAT另有申请轮12月31日截止，不能等到UCAS截止才考试。",
+            "source_ids": [
+              "KCLLB-90ee5c7a0dae7ae5"
+            ],
+            "extraction_locator": "Actual rendered Key Information > UCAS / Application status / Start date / Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "本课程国际费用栏明确为GBP £13,600／学年，适用2027/28在KCL常规授课阶段；后续年可按条款增加。海外／伙伴校或实习阶段按另列规则，不用首年金额乘总学制当总价。",
+            "source_ids": [
+              "KCLLB-90ee5c7a0dae7ae5"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与额外支出",
+            "text": "国际申请者坚定接受无条件录取时缴£2,000押金，入学后抵扣首年学费。页面另列书本、打印、文具、毕业及交通等成本，海外／实习还须预算旅行、签证和食宿；这些不因年费已付而自动包含。",
+            "source_ids": [
+              "KCLLB-90ee5c7a0dae7ae5"
+            ],
+            "extraction_locator": "International deposit; Additional costs and subsistence"
+          },
+          {
+            "label": "海外／实习阶段收费边界",
+            "text": "KCL及UPF按就读阶段分别收费。UPF示例明确为2024/25：非EU每年€2,600，不能将EU €1,202.32套中国申请者。认可KCL转入120 ECTS另有按每学分价格20%的费用，原页括注€17.69仍属2024/25；未来适用单价及总额未核实，不自行外推。",
+            "source_ids": [
+              "KCLLB-90ee5c7a0dae7ae5"
+            ],
+            "extraction_locator": "International fee additional information and Further fee information > individual route and explicit reference year"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业与进一步训练",
+            "text": "职业页举继续律师训练、跨国企业法务或进一步教育，并附King’s法律毕业生的一般职业领域。没有本英西双授位可比届次、分母就业率或薪资；不能把双学位等同已经具有两地律师资格。",
+            "source_ids": [
+              "KCLLB-c694bd1002c71b89",
+              "KCLLB-3796efe8d8160c35"
+            ],
+            "extraction_locator": "careers实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          }
+        ]
       },
       "sources": [
         {
@@ -8500,32 +10422,117 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "2d6183085853f47509f84d1d32f0bdd1756fd099ddded96733ee0358acee27d1",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLLB-3796efe8d8160c35",
+          "title": "English Law & Spanish Law LLB and Grado en Derecho (Spanish equivalent of LLB) — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb",
+          "checked_at": "2026-09-13",
+          "sha256": "3796efe8d8160c35794bb284d43d6ef5840eda840d817efa3c457727e75898f6",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-f7e434d2ca47842b",
+          "title": "English Law & Spanish Law LLB and Grado en Derecho (Spanish equivalent of LLB) — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "f7e434d2ca47842b7ba30bb7988a379f50a89880607c2f40697b6343fc0792c3",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-081babf906f65ec3",
+          "title": "English Law & Spanish Law LLB and Grado en Derecho (Spanish equivalent of LLB) — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "081babf906f65ec31d6ce569db131ad2fa77df683c9a3495c3bdaa3fe3037ee2",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-c694bd1002c71b89",
+          "title": "English Law & Spanish Law LLB and Grado en Derecho (Spanish equivalent of LLB) — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "c694bd1002c71b89b60a04549c3a04943516441d741db5797e1522e59e04ea78",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-3ebeca81f4b22ceb",
+          "title": "English Law & Spanish Law LLB and Grado en Derecho (Spanish equivalent of LLB) — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "3ebeca81f4b22cebddfc4d176407f8b4c7c9618d75b85d776a5f1ea4d316762c",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-dff3755b9680738d",
+          "title": "English Law & Spanish Law LLB and Grado en Derecho (Spanish equivalent of LLB) — 英语政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27）",
+          "source_period": "明确2026/27，2027/28最终测试政策待核"
+        },
+        {
+          "id": "KCLLB-90ee5c7a0dae7ae5",
+          "title": "English Law & Spanish Law LLB and Grado en Derecho (Spanish equivalent of LLB) — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "90ee5c7a0dae7ae50341018411382d1ec2665856b14d76827432621ae7df333f",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28 KCL international annual fee; explicit older partner examples separately labelled"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "逐项核总览、招生、各年模块、职业正文、China实际分支及国际年度费用。",
+        "法律LNAT／重考／预科，双国授位、签证与伙伴收费均按具体路线；不把低年级成绩或校级通则当完整专业门槛。",
+        "保留旧事实、原来源日期和明确缺口；未来英语测试政策、奖学金与专业可比毕业统计未取得。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "四年；全日制",
+        "entry_summary": "高考／Zhao Kao不直入；A*AA且西语A＋DELE B2／IB西语HL6＋DELE B2；须LNAT与专门动机",
+        "name": "英国与西班牙法律（LLB＋Grado）",
+        "intake": "2027年9月",
+        "campus": "Strand 与 Waterloo 校区；第三、四年分别在 Universitat Pompeu Fabra",
+        "tuition_summary": "2027/28 GBP £13,600／学年（KCL常规阶段）",
+        "outcomes_summary": "已核职业方向及群体；未取得可比就业率／薪资",
+        "language": "西班牙法模块及UPF阶段西语；KCL其他模块语言条款待核"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese facts per program and actual route; prior evidence retained",
       "inventory_id": "kcl-english-law-spanish-law-llb-and-grado-en-derecho-spanish-equivale-b94cf76f73"
     },
     {
@@ -13609,7 +15616,7 @@
       "raw_key": "585d062d-40fb-4c0c-aa31-11fb3fe43385",
       "name_en": "Law LLB",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-llb",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -13627,30 +15634,166 @@
               "UKENR-bf6ccaa85fcc07"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "法律课程结构",
+            "text": "首年刑法、合同法、欧洲法、公法各30学分，另须法律推理与技能；该模块列表未列学分，不据空值填0。第二年财产、侵权及信托法各30，再选30；末年法理与法律理论30，再选90，可涉及商事、人权、AI法律、诊所及论文。考核含考试、论文、模拟法庭或谈判练习。",
+            "source_ids": [
+              "KCLLB-fcfc2df316e2e25f",
+              "KCLLB-3aa29ffe23a631d3",
+              "KCLLB-92a6d5cf0cb97d4d"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "在读申请的变体",
+            "text": "普通M100入学后，第二年竞争申请海外／双授位路线，不能保证转入或名额；部分路线另需外语能力。新加坡交换在末年赴NUS、120学分，替代KCL第三年；普通额外海外年则第三年赴外校、增加120，再返校完成第四年。其他美国／香港／跨国法律路线须另核具体条件，不等同高中直接申请同名学位。",
+            "source_ids": [
+              "KCLLB-fcfc2df316e2e25f",
+              "KCLLB-3aa29ffe23a631d3",
+              "KCLLB-92a6d5cf0cb97d4d"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "公开校区与常规学制",
+            "text": "总览列 Strand 与 Waterloo 校区；常规三年；全日制。本轮未取得独立涵盖全部阶段的授课语言条款；Band B是录取要求，不作为授课语言证明。",
+            "source_ids": [
+              "KCLLB-3aa29ffe23a631d3"
+            ],
+            "extraction_locator": "Overview > public Base campus(es), Course essentials and Duration"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-bf6ccaa85fcc07"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "标准资格与分流申请",
+            "text": "A-level A*AA；IB38或三门HL合计19，无指定必修或优先科目。其他具名法律入口如英法、英德、英西或PPL希望同时考虑M100，须另列UCAS志愿，不能假设自动转审。普通M100的在读路线另作竞争申请，外部转学不接受。",
+            "source_ids": [
+              "KCLLB-92a6d5cf0cb97d4d"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "A-level计入与实践例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills、Global Perspectives不计入所需A-level，EPQ不用于录取评估。以英格兰线性理科A-level申请者须通过实践考核，无法参加该考核的private candidates有明示例外；不向所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLLB-92a6d5cf0cb97d4d"
+            ],
+            "extraction_locator": "Visible further A-level information > exclusions / practical endorsement / private candidate"
+          },
+          {
+            "label": "法律重考及预科的限制",
+            "text": "本页原则上不接受重考，相关学历须首次完成；即使换另一资格重复同级科目也可算重考。已有可接受学历后再读预科／Access寻求入学，也在此限制内；只有重大首次考试影响因素可提交证明个案审查，仍不保证受理。只有原Level3资格本身不适合本科直入时，才可个案审英国独立预科；不接受非英国预科或另一大学学位内Year0。",
+            "source_ids": [
+              "KCLLB-92a6d5cf0cb97d4d"
+            ],
+            "extraction_locator": "Selection > Resits and Foundation courses"
+          },
+          {
+            "label": "已有大学学习的申请者",
+            "text": "本科最后一年在读或已完成学位者可按英国2:1或等同评估，高2:1／一等可能更有竞争力；指定语种等先修仍须符合。本页对未完成的大学学习仅在严重mitigating circumstances下可能考虑，须联系招生。",
+            "source_ids": [
+              "KCLLB-92a6d5cf0cb97d4d"
+            ],
+            "extraction_locator": "Selection > Graduates; incomplete degree limitation where explicitly stated"
+          },
+          {
+            "label": "本课程中国学历分支",
+            "text": "逐项实际选择China后，页面明确Gao Kao（高考）、Zhao Kao（网页称Senior High School Examination）及Maple Leaf World Schools Programme High School Diploma不用于直接本科录取。所指International Foundation是替代路径信息，仍需核本课程可用路线、进阶成绩及科目条件，不保证进入该学位。",
+            "source_ids": [
+              "KCLLB-931d060453b77e61"
+            ],
+            "extraction_locator": "Actual China > Award > three qualifications > not considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求Band B。已取得的英语测试政策明确适用2026/27，IELTS Academic参考总分7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新测试政策与录取条件，不能把旧年清单自动当作最终标准。",
+            "source_ids": [
+              "KCLLB-92a6d5cf0cb97d4d",
+              "KCLLB-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English Band B; English policy > 2026/27 and validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "M100 ；课程申请开放状态及截止须再核。",
+            "text": "M100 ；本轮已核申请状态与截止见下列补充。",
             "source_ids": [
               "UKENR-bf6ccaa85fcc07"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "LNAT与UCAS分开安排",
+            "text": "所有本地及海外申请者须在该申请轮9月1日至12月31日参加LNAT，成绩不跨年沿用；UCAS可在考试前后提交，但LNAT截止早于次年1月的UCAS平等审理截止。注册时须选择King’s接收成绩。只有所在国家无考点或无合理距离考点等情形可个案申请豁免，不能因为来自中国便视为免考。",
+            "source_ids": [
+              "KCLLB-92a6d5cf0cb97d4d"
+            ],
+            "extraction_locator": "Other requirements > LNAT > 1 September–31 December in application cycle; no carryover; Home and Overseas"
+          },
+          {
+            "label": "法律延期与申请动机",
+            "text": "延期仅在疾病、强制兵役等mitigating circumstances下个案考虑，不保证批准。个人陈述须体现学习本法律方向的理由，英国境外申请者应解释选择英国法的动机；具名双国路线还须针对该路线说明。",
+            "source_ids": [
+              "KCLLB-92a6d5cf0cb97d4d"
+            ],
+            "extraction_locator": "Selection > Deferrals and Personal Statement"
+          },
+          {
+            "label": "2027公开申请窗口",
+            "text": "本课程当前UCAS M100，状态Open，2027年9月入学、2027年1月13日截止。LNAT另有申请轮12月31日截止，不能等到UCAS截止才考试。",
+            "source_ids": [
+              "KCLLB-f5f067e67136755e"
+            ],
+            "extraction_locator": "Actual rendered Key Information > UCAS / Application status / Start date / Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "本课程国际费用栏明确为GBP £35,900／学年，适用2027/28在KCL常规授课阶段；后续年可按条款增加。海外／伙伴校或实习阶段按另列规则，不用首年金额乘总学制当总价。",
+            "source_ids": [
+              "KCLLB-f5f067e67136755e"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与额外支出",
+            "text": "国际申请者坚定接受无条件录取时缴£2,000押金，入学后抵扣首年学费。页面另列书本、打印、文具、毕业及交通等成本，海外／实习还须预算旅行、签证和食宿；这些不因年费已付而自动包含。",
+            "source_ids": [
+              "KCLLB-f5f067e67136755e"
+            ],
+            "extraction_locator": "International deposit; Additional costs and subsistence"
+          },
+          {
+            "label": "海外／实习阶段收费边界",
+            "text": "海外变体收费不同：普通Year Abroad及仅LLB的Transnational路线通常不付伙伴学费、仍向KCL付一部分；Transnational LLB＋LLM第一学期付伙伴、第二学期KCL部分费用。美国JD、香港LLM及新加坡交换路径在伙伴学习时付伙伴费。本轮未取得这些在读路线未来实际收费金额，不能套普通LLB年费。",
+            "source_ids": [
+              "KCLLB-f5f067e67136755e"
+            ],
+            "extraction_locator": "International fee additional information and Further fee information > individual route and explicit reference year"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向的群体范围",
+            "text": "职业页主语为King’s法律毕业生，列律师事务所、金融分析、管理咨询、国际发展、公共部门及教学等方向，没有本入口可比届次、分母或薪资；本学位仅是进一步法律资格训练的起点，不等于自动取得律师资格。",
+            "source_ids": [
+              "KCLLB-8c04f6e535367ac1",
+              "KCLLB-3aa29ffe23a631d3"
+            ],
+            "extraction_locator": "careers实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          }
+        ]
       },
       "sources": [
         {
@@ -13661,32 +15804,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "f5780e5f95c5f1d86c60bfb7f594db05f93ce365a309a9f2d8350dccc47667b7",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLLB-3aa29ffe23a631d3",
+          "title": "Law LLB — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-llb",
+          "checked_at": "2026-09-13",
+          "sha256": "3aa29ffe23a631d319a31d2eb2524311eb06566961ef8f969f454a5c33cc90c0",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-fcfc2df316e2e25f",
+          "title": "Law LLB — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-llb/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "fcfc2df316e2e25fe755b08f5b20497391e4bac9613b9bd739d4586c3cd8c0f8",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-92a6d5cf0cb97d4d",
+          "title": "Law LLB — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-llb/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "92a6d5cf0cb97d4d41797a4cb2fb373cf5ec6220e4e014f909be6807839ab953",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-8c04f6e535367ac1",
+          "title": "Law LLB — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-llb/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "8c04f6e535367ac152d555c080959abbd8a0e424412c93fe5f270920c689190a",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-931d060453b77e61",
+          "title": "Law LLB — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-llb/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "931d060453b77e6164d40e133df48950d29e359a7a4b6a4364c060a1a41a2e68",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-dff3755b9680738d",
+          "title": "Law LLB — 英语政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27）",
+          "source_period": "明确2026/27，2027/28最终测试政策待核"
+        },
+        {
+          "id": "KCLLB-f5f067e67136755e",
+          "title": "Law LLB — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-llb/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "f5f067e67136755e21bfffc90200eda4fe0a4b6d27b507dfa99f63332f99da21",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28 KCL international annual fee; explicit older partner examples separately labelled"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "逐项核总览、招生、各年模块、职业正文、China实际分支及国际年度费用。",
+        "法律LNAT／重考／预科，双国授位、签证与伙伴收费均按具体路线；不把低年级成绩或校级通则当完整专业门槛。",
+        "保留旧事实、原来源日期和明确缺口；未来英语测试政策、奖学金与专业可比毕业统计未取得。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "三年；获批海外变体可四年",
+        "entry_summary": "高考／Zhao Kao不直入；A*AA／IB38或HL19；须当轮LNAT，重考与预科有限制",
+        "name": "法律学（LLB）",
+        "intake": "2027年9月",
+        "campus": "Strand 与 Waterloo 校区",
+        "tuition_summary": "2027/28 GBP £35,900／学年（KCL常规阶段）",
+        "outcomes_summary": "已核职业方向及群体；未取得可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese facts per program and actual route; prior evidence retained",
       "inventory_id": "kcl-law-llb-c124b3e984"
     },
     {
@@ -13694,7 +15921,7 @@
       "raw_key": "95dff86f-13e4-46eb-8eec-bc7ab2bb8740",
       "name_en": "Law with Criminology LLB",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -13712,30 +15939,164 @@
               "UKENR-86a5d7d54b486c"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "法律主修与犯罪学辅修",
+            "text": "普通三年合计360学分。首年刑法、合同、欧洲法与犯罪学导论各30，另须法律推理与技能；第二年侵权法及政府与法律各30，选修60；末年财产与信托法各30，再选60。选项可涉及边界犯罪学、司法失误、警务、量刑、惩罚社会学或法律诊所，不把全部列名都当必修。",
+            "source_ids": [
+              "KCLLB-4bb0bb2cef604ab5",
+              "KCLLB-6a36349bbb25ea12"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "海外年与学位变体",
+            "text": "第一年之后可申请额外海外年；获批者第三年在伙伴校学习，变为Law with Criminology with a Year Abroad。犯罪学亦可接触心理学研究视角，但这是法律主修／犯罪学辅修，不是临床心理注册学位或双授位。",
+            "source_ids": [
+              "KCLLB-4bb0bb2cef604ab5",
+              "KCLLB-6a36349bbb25ea12"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "公开校区与常规学制",
+            "text": "总览列 Strand 与 Waterloo 校区；常规三年；全日制。本轮未取得独立涵盖全部阶段的授课语言条款；Band B是录取要求，不作为授课语言证明。",
+            "source_ids": [
+              "KCLLB-6a36349bbb25ea12"
+            ],
+            "extraction_locator": "Overview > public Base campus(es), Course essentials and Duration"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-86a5d7d54b486c"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "标准资格和转学",
+            "text": "A-level A*AA，IB38或三门HL合计19；本页无指定必修或优先科目，不接受外部转学。LNAT和法律重考政策仍须满足，不能因含犯罪学而按心理学本科入口替代。",
+            "source_ids": [
+              "KCLLB-042f55410ef1f7b5"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "A-level计入与实践例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills、Global Perspectives不计入所需A-level，EPQ不用于录取评估。以英格兰线性理科A-level申请者须通过实践考核，无法参加该考核的private candidates有明示例外；不向所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLLB-042f55410ef1f7b5"
+            ],
+            "extraction_locator": "Visible further A-level information > exclusions / practical endorsement / private candidate"
+          },
+          {
+            "label": "法律重考及预科的限制",
+            "text": "本页原则上不接受重考，相关学历须首次完成；即使换另一资格重复同级科目也可算重考。已有可接受学历后再读预科／Access寻求入学，也在此限制内；只有重大首次考试影响因素可提交证明个案审查，仍不保证受理。只有原Level3资格本身不适合本科直入时，才可个案审英国独立预科；不接受非英国预科或另一大学学位内Year0。",
+            "source_ids": [
+              "KCLLB-042f55410ef1f7b5"
+            ],
+            "extraction_locator": "Selection > Resits and Foundation courses"
+          },
+          {
+            "label": "已有大学学习的申请者",
+            "text": "本科最后一年在读或已完成学位者可按英国2:1或等同评估，高2:1／一等可能更有竞争力；指定语种等先修仍须符合。本页对未完成的大学学习仅在严重mitigating circumstances下可能考虑，须联系招生。",
+            "source_ids": [
+              "KCLLB-042f55410ef1f7b5"
+            ],
+            "extraction_locator": "Selection > Graduates; incomplete degree limitation where explicitly stated"
+          },
+          {
+            "label": "本课程中国学历分支",
+            "text": "逐项实际选择China后，页面明确Gao Kao（高考）、Zhao Kao（网页称Senior High School Examination）及Maple Leaf World Schools Programme High School Diploma不用于直接本科录取。所指International Foundation是替代路径信息，仍需核本课程可用路线、进阶成绩及科目条件，不保证进入该学位。",
+            "source_ids": [
+              "KCLLB-c270474bc1d3ef10"
+            ],
+            "extraction_locator": "Actual China > Award > three qualifications > not considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求Band B。已取得的英语测试政策明确适用2026/27，IELTS Academic参考总分7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新测试政策与录取条件，不能把旧年清单自动当作最终标准。",
+            "source_ids": [
+              "KCLLB-042f55410ef1f7b5",
+              "KCLLB-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English Band B; English policy > 2026/27 and validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "M110；课程申请开放状态及截止须再核。",
+            "text": "M110；本轮已核申请状态与截止见下列补充。",
             "source_ids": [
               "UKENR-86a5d7d54b486c"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "LNAT与UCAS分开安排",
+            "text": "所有本地及海外申请者须在该申请轮9月1日至12月31日参加LNAT，成绩不跨年沿用；UCAS可在考试前后提交，但LNAT截止早于次年1月的UCAS平等审理截止。注册时须选择King’s接收成绩。只有所在国家无考点或无合理距离考点等情形可个案申请豁免，不能因为来自中国便视为免考。",
+            "source_ids": [
+              "KCLLB-042f55410ef1f7b5"
+            ],
+            "extraction_locator": "Other requirements > LNAT > 1 September–31 December in application cycle; no carryover; Home and Overseas"
+          },
+          {
+            "label": "法律延期与申请动机",
+            "text": "延期仅在疾病、强制兵役等mitigating circumstances下个案考虑，不保证批准。个人陈述须体现学习本法律方向的理由，英国境外申请者应解释选择英国法的动机；具名双国路线还须针对该路线说明。",
+            "source_ids": [
+              "KCLLB-042f55410ef1f7b5"
+            ],
+            "extraction_locator": "Selection > Deferrals and Personal Statement"
+          },
+          {
+            "label": "2027公开申请窗口",
+            "text": "本课程当前UCAS M110，状态Open，2027年9月入学、2027年1月13日截止。LNAT另有申请轮12月31日截止，不能等到UCAS截止才考试。",
+            "source_ids": [
+              "KCLLB-0d8a4755aadf668a"
+            ],
+            "extraction_locator": "Actual rendered Key Information > UCAS / Application status / Start date / Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "本课程国际费用栏明确为GBP £35,900／学年，适用2027/28在KCL常规授课阶段；后续年可按条款增加。海外／伙伴校或实习阶段按另列规则，不用首年金额乘总学制当总价。",
+            "source_ids": [
+              "KCLLB-0d8a4755aadf668a"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与额外支出",
+            "text": "国际申请者坚定接受无条件录取时缴£2,000押金，入学后抵扣首年学费。页面另列书本、打印、文具、毕业及交通等成本，海外／实习还须预算旅行、签证和食宿；这些不因年费已付而自动包含。",
+            "source_ids": [
+              "KCLLB-0d8a4755aadf668a"
+            ],
+            "extraction_locator": "International deposit; Additional costs and subsistence"
+          },
+          {
+            "label": "海外／实习阶段收费边界",
+            "text": "获准转Year Abroad时，伙伴校通常不收学费但可能有申请管理费，向KCL缴减额海外学费；本页未给该减额的准确数字或适用未来年度。",
+            "source_ids": [
+              "KCLLB-0d8a4755aadf668a"
+            ],
+            "extraction_locator": "International fee additional information and Further fee information > individual route and explicit reference year"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "刑事司法职业及后续资格",
+            "text": "职业页列进一步Solicitors Qualifying／Bar考试、刑事司法机构、警务、康复与社区司法、政策研究及非政府组织等方向。这些不是录用承诺，机构岗位可能另有资格或身份限制；本轮未取得本学位有届次、样本的就业率或薪资。",
+            "source_ids": [
+              "KCLLB-709778d7f06cd449",
+              "KCLLB-6a36349bbb25ea12"
+            ],
+            "extraction_locator": "careers实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          }
+        ]
       },
       "sources": [
         {
@@ -13746,32 +16107,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "01a8e95bab4492fe77fb970c947c97034b77e2c46425749809adbfd1d435d267",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLLB-6a36349bbb25ea12",
+          "title": "Law with Criminology LLB — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb",
+          "checked_at": "2026-09-13",
+          "sha256": "6a36349bbb25ea129521cc82111885d3c7d9125ac9feb12101b7b0e7b184c78f",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-4bb0bb2cef604ab5",
+          "title": "Law with Criminology LLB — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "4bb0bb2cef604ab5e78d543f11fdc362ddc0796026ca4575afebd6bbc2aede64",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-042f55410ef1f7b5",
+          "title": "Law with Criminology LLB — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "042f55410ef1f7b540ca9ee79429382933d3778d6677ce8a8b8c2c0d75bf23a9",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-709778d7f06cd449",
+          "title": "Law with Criminology LLB — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "709778d7f06cd4498658a026ff683e92291d0442fd265984267494db05eb78e8",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-c270474bc1d3ef10",
+          "title": "Law with Criminology LLB — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "c270474bc1d3ef109cdfb91af0a35bd19542a91a348d9df951615b446c640a41",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-dff3755b9680738d",
+          "title": "Law with Criminology LLB — 英语政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27）",
+          "source_period": "明确2026/27，2027/28最终测试政策待核"
+        },
+        {
+          "id": "KCLLB-0d8a4755aadf668a",
+          "title": "Law with Criminology LLB — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "0d8a4755aadf668ac205385b06e2a6db2a4e6cb876cc6043cd1dfc9348a32946",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28 KCL international annual fee; explicit older partner examples separately labelled"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "逐项核总览、招生、各年模块、职业正文、China实际分支及国际年度费用。",
+        "法律LNAT／重考／预科，双国授位、签证与伙伴收费均按具体路线；不把低年级成绩或校级通则当完整专业门槛。",
+        "保留旧事实、原来源日期和明确缺口；未来英语测试政策、奖学金与专业可比毕业统计未取得。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "三年；获批海外变体可四年",
+        "entry_summary": "高考／Zhao Kao不直入；A*AA／IB38或HL19；法律主修、犯罪学辅修；须LNAT",
+        "name": "法律与犯罪学（LLB，主修／辅修）",
+        "intake": "2027年9月",
+        "campus": "Strand 与 Waterloo 校区",
+        "tuition_summary": "2027/28 GBP £35,900／学年（KCL常规阶段）",
+        "outcomes_summary": "已核职业方向及群体；未取得可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese facts per program and actual route; prior evidence retained",
       "inventory_id": "kcl-law-with-criminology-llb-50768f4ed2"
     },
     {
@@ -20896,7 +23341,7 @@
       "raw_key": "5a5fe800-6ed2-48a6-bfd6-533cc34d7db9",
       "name_en": "Politics, Philosophy & Law LLB",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -20914,30 +23359,164 @@
               "UKENR-3383599280716c"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "四年政治、哲学与法律",
+            "text": "首年比较政治、合同及欧洲法各30，哲学选修30，另须法律推理与技能。第二年刑法及政府与法律各30，哲学与政治各30。普通路线在第三／四年间完成法理、财产、侵权、信托各30，另选课使每年120；不是三个独立学位，也不能把两年重复列出的必修计算两次。",
+            "source_ids": [
+              "KCLLB-12ef1df76aecd030",
+              "KCLLB-62526fb9edfb1fe7"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "海外路线的不同必修",
+            "text": "第一年后可申请第三年海外；获批进入PPL with a Year Abroad者，第四年必须修财产、侵权和信托法，却明确不要求法理与法律理论。普通四年与海外变体不能直接互套必修。部分法律论文、诊所等只在最后一年可选。",
+            "source_ids": [
+              "KCLLB-12ef1df76aecd030",
+              "KCLLB-62526fb9edfb1fe7"
+            ],
+            "extraction_locator": "teaching实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "公开校区与常规学制",
+            "text": "总览列 Strand 与 Waterloo 校区；常规四年；全日制。本轮未取得独立涵盖全部阶段的授课语言条款；Band B是录取要求，不作为授课语言证明。",
+            "source_ids": [
+              "KCLLB-62526fb9edfb1fe7"
+            ],
+            "extraction_locator": "Overview > public Base campus(es), Course essentials and Duration"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-3383599280716c"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "标准资格与共同学位",
+            "text": "A-level A*AA；IB38或三门HL合计19，无必修或优先科目。希望同时考虑普通Law M100须另填UCAS志愿，不接受外部转学。它是四年LLB，不是BA/BSc版PPE，仍须本课程LNAT与法律申请条件。",
+            "source_ids": [
+              "KCLLB-5e93d98d41b523c6"
+            ],
+            "extraction_locator": "requirements实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          },
+          {
+            "label": "A-level计入与实践例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills、Global Perspectives不计入所需A-level，EPQ不用于录取评估。以英格兰线性理科A-level申请者须通过实践考核，无法参加该考核的private candidates有明示例外；不向所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLLB-5e93d98d41b523c6"
+            ],
+            "extraction_locator": "Visible further A-level information > exclusions / practical endorsement / private candidate"
+          },
+          {
+            "label": "法律重考及预科的限制",
+            "text": "本页原则上不接受重考，相关学历须首次完成；即使换另一资格重复同级科目也可算重考。已有可接受学历后再读预科／Access寻求入学，也在此限制内；只有重大首次考试影响因素可提交证明个案审查，仍不保证受理。只有原Level3资格本身不适合本科直入时，才可个案审英国独立预科；不接受非英国预科或另一大学学位内Year0。",
+            "source_ids": [
+              "KCLLB-5e93d98d41b523c6"
+            ],
+            "extraction_locator": "Selection > Resits and Foundation courses"
+          },
+          {
+            "label": "已有大学学习的申请者",
+            "text": "将完成或已完成本科学位者可按英国2:1或等同评估，高2:1／一等可能更有竞争力；指定语种等先修仍须符合。",
+            "source_ids": [
+              "KCLLB-5e93d98d41b523c6"
+            ],
+            "extraction_locator": "Selection > Graduates; incomplete degree limitation where explicitly stated"
+          },
+          {
+            "label": "本课程中国学历分支",
+            "text": "逐项实际选择China后，页面明确Gao Kao（高考）、Zhao Kao（网页称Senior High School Examination）及Maple Leaf World Schools Programme High School Diploma不用于直接本科录取。所指International Foundation是替代路径信息，仍需核本课程可用路线、进阶成绩及科目条件，不保证进入该学位。",
+            "source_ids": [
+              "KCLLB-28994ada1e4a1f76"
+            ],
+            "extraction_locator": "Actual China > Award > three qualifications > not considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求Band B。已取得的英语测试政策明确适用2026/27，IELTS Academic参考总分7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新测试政策与录取条件，不能把旧年清单自动当作最终标准。",
+            "source_ids": [
+              "KCLLB-5e93d98d41b523c6",
+              "KCLLB-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English Band B; English policy > 2026/27 and validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "LM21；课程申请开放状态及截止须再核。",
+            "text": "LM21；本轮已核申请状态与截止见下列补充。",
             "source_ids": [
               "UKENR-3383599280716c"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "LNAT与UCAS分开安排",
+            "text": "所有本地及海外申请者须在该申请轮9月1日至12月31日参加LNAT，成绩不跨年沿用；UCAS可在考试前后提交，但LNAT截止早于次年1月的UCAS平等审理截止。注册时须选择King’s接收成绩。只有所在国家无考点或无合理距离考点等情形可个案申请豁免，不能因为来自中国便视为免考。",
+            "source_ids": [
+              "KCLLB-5e93d98d41b523c6"
+            ],
+            "extraction_locator": "Other requirements > LNAT > 1 September–31 December in application cycle; no carryover; Home and Overseas"
+          },
+          {
+            "label": "法律延期与申请动机",
+            "text": "延期仅在疾病、强制兵役等mitigating circumstances下个案考虑，不保证批准。个人陈述须体现学习本法律方向的理由，英国境外申请者应解释选择英国法的动机；具名双国路线还须针对该路线说明。",
+            "source_ids": [
+              "KCLLB-5e93d98d41b523c6"
+            ],
+            "extraction_locator": "Selection > Deferrals and Personal Statement"
+          },
+          {
+            "label": "2027公开申请窗口",
+            "text": "本课程当前UCAS LM21，状态Open，2027年9月入学、2027年1月13日截止。LNAT另有申请轮12月31日截止，不能等到UCAS截止才考试。",
+            "source_ids": [
+              "KCLLB-d63a83b2988af7f2"
+            ],
+            "extraction_locator": "Actual rendered Key Information > UCAS / Application status / Start date / Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "本课程国际费用栏明确为GBP £40,600／学年，适用2027/28在KCL常规授课阶段；后续年可按条款增加。海外／伙伴校或实习阶段按另列规则，不用首年金额乘总学制当总价。",
+            "source_ids": [
+              "KCLLB-d63a83b2988af7f2"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与额外支出",
+            "text": "国际申请者坚定接受无条件录取时缴£2,000押金，入学后抵扣首年学费。页面另列书本、打印、文具、毕业及交通等成本，海外／实习还须预算旅行、签证和食宿；这些不因年费已付而自动包含。",
+            "source_ids": [
+              "KCLLB-d63a83b2988af7f2"
+            ],
+            "extraction_locator": "International deposit; Additional costs and subsistence"
+          },
+          {
+            "label": "海外／实习阶段收费边界",
+            "text": "获批Year Abroad路线者在第一、二、四年缴KCL常规费，第三年仍付KCL减额；页面未列第三年准确比例或金额。",
+            "source_ids": [
+              "KCLLB-d63a83b2988af7f2"
+            ],
+            "extraction_locator": "International fee additional information and Further fee information > individual route and explicit reference year"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业说明",
+            "text": "职业页以King’s法律毕业生为总体，另说明PPL可能通向国际发展、咨询、公共部门、新闻或高等教育。没有独立PPL届次、分母、就业率或薪资；职业列举不能代替受监管职业的进一步资格。",
+            "source_ids": [
+              "KCLLB-93f1128756550d16",
+              "KCLLB-62526fb9edfb1fe7"
+            ],
+            "extraction_locator": "careers实际正文及公开年度模块；事实中的具体路线、资格和年份分别适用"
+          }
+        ]
       },
       "sources": [
         {
@@ -20948,32 +23527,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "29ec6e577bb8bab1f8f7027f58000ce8fac979a61b8657305218cc14c70f8403",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLLB-62526fb9edfb1fe7",
+          "title": "Politics, Philosophy & Law LLB — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb",
+          "checked_at": "2026-09-13",
+          "sha256": "62526fb9edfb1fe768beeb44ba74abf1c18a34af5a5d1b76ac318b9dc236a723",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-12ef1df76aecd030",
+          "title": "Politics, Philosophy & Law LLB — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "12ef1df76aecd03049bf223ecd4f8a95ca1edb9777b8fcc8dd8a60a6f323ae95",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-5e93d98d41b523c6",
+          "title": "Politics, Philosophy & Law LLB — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "5e93d98d41b523c6914d1d148cbde12167d64e13200c85b516779378090eb62c",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-93f1128756550d16",
+          "title": "Politics, Philosophy & Law LLB — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "93f1128756550d16655b31739feeb384bff3876cc1995ec6f4b59eb296f30a33",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-28994ada1e4a1f76",
+          "title": "Politics, Philosophy & Law LLB — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "28994ada1e4a1f768a721b00f4432042c03841c4eb64a71b08467af44823640b",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLLB-dff3755b9680738d",
+          "title": "Politics, Philosophy & Law LLB — 英语政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27）",
+          "source_period": "明确2026/27，2027/28最终测试政策待核"
+        },
+        {
+          "id": "KCLLB-d63a83b2988af7f2",
+          "title": "Politics, Philosophy & Law LLB — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "d63a83b2988af7f2af3c3324fe4fa4a49f86dc26be72d59228324e258a5d1cf9",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28 KCL international annual fee; explicit older partner examples separately labelled"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "逐项核总览、招生、各年模块、职业正文、China实际分支及国际年度费用。",
+        "法律LNAT／重考／预科，双国授位、签证与伙伴收费均按具体路线；不把低年级成绩或校级通则当完整专业门槛。",
+        "保留旧事实、原来源日期和明确缺口；未来英语测试政策、奖学金与专业可比毕业统计未取得。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "四年；全日制",
+        "entry_summary": "高考／Zhao Kao不直入；四年LLB；A*AA／IB38或HL19，须LNAT；海外路线必修不同",
+        "name": "政治、哲学与法律（LLB）",
+        "intake": "2027年9月",
+        "campus": "Strand 与 Waterloo 校区",
+        "tuition_summary": "2027/28 GBP £40,600／学年（KCL常规阶段）",
+        "outcomes_summary": "已核职业方向及群体；未取得可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese facts per program and actual route; prior evidence retained",
       "inventory_id": "kcl-politics-philosophy-law-llb-de8d98c886"
     },
     {

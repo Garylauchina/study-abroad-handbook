@@ -218,13 +218,13 @@ hide:
 
 <p><strong>统计范围：</strong>Every named bachelor and non-minor major/specialisation in 2027 official university guide pp12–13, plus Science Extended in entry table</p>
 
-<p><strong>对账方法：</strong>{&quot;pdf_pages&quot;: 24, &quot;complete_major_spread_pages&quot;: [12, 13], &quot;visual_review&quot;: true, &quot;group_counts&quot;: {&quot;Agriculture&quot;: 3, &quot;Arts&quot;: 33, &quot;Biomedicine&quot;: 16, &quot;Commerce&quot;: 7, &quot;Design&quot;: 14, &quot;Fine Arts&quot;: 9, &quot;Music&quot;: 6, &quot;Oral Health&quot;: 0, &quot;Science&quot;: 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。</p>
+<p><strong>对账方法：</strong>{&quot;pdf_pages&quot;: 24, &quot;complete_major_spread_pages&quot;: [12, 13], &quot;visual_review&quot;: true, &quot;group_counts&quot;: {&quot;Agriculture&quot;: 3, &quot;Arts&quot;: 33, &quot;Biomedicine&quot;: 16, &quot;Commerce&quot;: 7, &quot;Design&quot;: 14, &quot;Fine Arts&quot;: 9, &quot;Music&quot;: 6, &quot;Oral Health&quot;: 0, &quot;Science&quot;: 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。</p>
 
 <p><strong>排除项：</strong>Official PDF obtained using normal Chrome downloadMedia on observed download link; archived original + SHA256；Explicit minor-only footnote exclusions: Chinese Societies, Development Studies, Digital Studies, English Language Studies, Environmental Studies, European Studies, Japanese Societies, Law and Justice, Medieval and Early Modern Studies, South Asian Studies；Oral Health four curricular components explicitly not majors and are not separately counted；Exclude concurrent diplomas and standalone postgraduate MD/JD/DVM; Veterinary Bioscience remains bachelor major with later-selection note</p>
 
 **尚未解决的目录缺口：**
 
-- 原2027指南与当前官网仍有Geoscience/Geology名称差异；当前理学学位结构已列Geology，其与旧Geoscience的年度及替代关系尚未核清。目录继续部分覆盖。
+- Geology仅供2024年前已开始该主修者继续，现行入口为Geoscience；当前5个数学/化学生物主修已与旧数学总项及2027指南区别。具名2027 Handbook选课规则、数学停止/转换年度和完整specialisation适用组合仍未取得，保持部分覆盖。
 - 9个艺术音乐方向只有2026费用参考；其他费用逐项区分所属学位和2027估算，内部主修不另算一份学费。
 - 课程2027年中截止03-31与学校国际总页05-31不一致，保留两者；艺术音乐采用专门选拔时间。
 - 本科后荣誉、后续职业学位的完整选拔与个人注册条件，以及按专业和国际生样本定义的毕业统计仍未全部核实。
@@ -774,5 +774,6 @@ hide:
 - [官方目录来源](https://study.unimelb.edu.au/connect-with-us/international/china)
 - [官方目录来源](https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/fees/)
 - [官方目录来源](https://scholarships.unimelb.edu.au/awards/melbourne-international-excellence-scholarship-undergraduate)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

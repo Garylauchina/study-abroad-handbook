@@ -51,6 +51,15 @@ hide:
 <p class="catalog-fact"><strong>学制、校区与授课语言：</strong>所属理学学士的3 年（全日制）；主要在 Parkville 校区面授。学校授课型课程语言为英语；语言类主修的目标语言练习另属课程内容。</p>
 <p class="fact-sources"><a href="#source-p-melbourne-offering-bachelor-of-science">官方依据</a> · <a href="#source-p-melbourne-page-bachelor-of-science-overview">官方依据</a> · <a href="#source-p-melbourne-language-statement-expanded">官方依据</a></p>
 
+<p class="catalog-fact"><strong>2027主修名称与父学位：</strong>2027招生指南第13页在 Bachelor of Science 下列出 Geoscience（地球科学）；当前专业页也明确它是理学学士内的主修，并非另一个独立学士学位。</p>
+<p class="fact-sources"><a href="#source-p-melbourne-geology-reconciliation-guide-2027">官方依据</a> · <a href="#source-p-melbourne-page-geoscience-structure">官方依据</a></p>
+
+<p class="catalog-fact"><strong>Geology旧主修与2024年分界：</strong>学校当前理学学士页面明确：Geology（地质学）主修自2024年起不再向新主修学生提供；在2024年前已开始该主修、计划完成Geology者仍可继续。页面将对地质学感兴趣的学生引导至Geoscience。因此，旧Geology仍出现在网页或历史校历中，不代表2027可作为另一项新生主修申请；该日期针对开始主修，不能擅自改成所有理学学士的入学年份。</p>
+<p class="fact-sources"><a href="#source-p-melbourne-geology-reconciliation-science-structure">官方依据</a></p>
+
+<p class="catalog-fact"><strong>公开主修结构及校历年度边界：</strong>当前Geoscience培养说明列二、三年级共7门、87.5学分，每门12.5学分：Level 2的A组选修至少25学分，Level 2的B组选修最多12.5学分，Level 3主修选修最多37.5学分，以及Level 3 capstone至少12.5学分；学位其余部分还有科学核心、科学选修和跨学科课程。该网页未单独标明上述结构适用的入学届次；本轮未取得可读的2027 Handbook主修正文，不能把它标作已经核实的2027年度选课规则，也不能把旧Geology课表直接套用到Geoscience。</p>
+<p class="fact-sources"><a href="#source-p-melbourne-page-geoscience-structure">官方依据</a> · <a href="#source-p-melbourne-geology-reconciliation-science-structure">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 <p class="catalog-fact"><strong>2027国际课程资格：</strong>所属理学学士的A-level参考 BBB；IB参考 31。这是对应国际资格的参考要求，不是高考换算分，也不保证录取。中国普高/高考资格的校级限制仍需同时满足。</p>
@@ -145,6 +154,8 @@ hide:
 <div class="catalog-source" id="source-p-melbourne-international-apply-2027"><div><a href="https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications">国际本科申请渠道与2027通用日期 ↗</a><p>根据所读资格及地点区分VTAC与直申；通用截止及课程例外</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-melbourne-page-bachelor-of-science-fees"><div><a href="https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/fees/">Bachelor of Science — 费用 ↗</a><p>官网公开课程栏目；仅用于已列明内容与年度</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-melbourne-page-geoscience-career-outcomes"><div><a href="https://findacourse.study.unimelb.edu.au/find/courses/major/geoscience/career-outcomes/">Geoscience — 毕业方向 ↗</a><p>官网公开课程栏目；仅用于已列明内容与年度</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-melbourne-geology-reconciliation-guide-2027"><div><a href="https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf">Study at Melbourne 2027 — 第13页理学学士主修表 ↗</a><p>仅据指南第13页核实2027 Geoscience名称及Bachelor of Science父学位；本地生指南不用于国际资格或费用。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-melbourne-geology-reconciliation-science-structure"><div><a href="https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/">Bachelor of Science — 公开主修列表及Geology旧生限制 ↗</a><p>公开Explore this course / Majors中Geology的2024起停收、2024年前已开始主修者继续完成及转向Geoscience说明；分别链接两个校历组件。</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-melbourne-profile-browser-china"><div><a href="https://study.unimelb.edu.au/connect-with-us/international/china">melbourne 官方资料：browser-china ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-melbourne-undergraduate-english"><div><a href="https://study.unimelb.edu.au/how-to-apply/english-language-requirements/undergraduate-english-language-requirements">本科英语要求与课程分组 ↗</a><p>列明八类本科 IELTS 6.5 各项6.0、口腔健康7.0各项7.0；替代资格需另核</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-melbourne-international-apply-2027"><div><a href="https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications">国际本科申请渠道与2027通用日期 ↗</a><p>根据所读资格及地点区分VTAC与直申；通用截止及课程例外</p><small>核验 2026-09-13</small></div></div>
