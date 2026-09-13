@@ -5,7 +5,7 @@
     "status": "partial",
     "count": 145,
     "scope": "148个已发现目录入口中，145个本科及本科在读路线；3个本科后护理硕士另留更正页，内部路径仍待全量对账",
-    "method": "复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。 再逐课核12计算机、数学与通用工程项目及各自China分支、年度模块与费用，原145入口保持。 再核12电子工程、化学、物理及相关组合课程，实读12个China分支和43个年度模块视图；原145身份不变，未据在读海外安排另造高中招生入口。",
+    "method": "复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。 再逐课核12计算机、数学与通用工程项目及各自China分支、年度模块与费用，原145入口保持。 再核12电子工程、化学、物理及相关组合课程，实读12个China分支和43个年度模块视图；原145身份不变，未据在读海外安排另造高中招生入口。 再深化12条生物医学工程、数据分析、环境地理、欧洲研究、物理哲学及PrimaryCare插读，实际12China分支和41年度视图；保持145库存及原身份，仅精确入口限制。已完成这一层级分栏研究118项，仍余27项待深化。",
     "exclusions": "Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes；本科后首次注册护理MNurs/MSc不计本科项目；MBBS/BDS仍按专业学士保留并注明前置学历。",
     "sources": [
       {
@@ -489,7 +489,7 @@
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/environmental-science-msci",
         "sha256": "3ecbddb8cf09a9c8266bb13e5cc41b9ae984736f22f53956b2e10e56988f482a",
-        "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-676e80507b6b86.html"
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-environmental-science-msci-fb0de0cc0e-overview.html"
       },
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba",
@@ -504,7 +504,7 @@
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-spanish-pathway-with-a-year-abroad-ba",
         "sha256": "6888fd0e207d181c98186579c7f1a3dd3dda46da31a2d2a83ad6ef6e1efc024e",
-        "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-4fb6effcb732c8.html"
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-spanish-pathway-with-a-year-abroad-ba-cb2cb3646c-overview.html"
       },
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/extended-medical-degree-programme-mbbs",
@@ -534,7 +534,7 @@
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-bsc",
         "sha256": "b2036e5ef0e64bcc53c980e3fdbc619b4fa83fc35edeaf2ee50f8624be7e38ff",
-        "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-e3bc80c6480a44.html"
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-environmental-science-bsc-80be703cb7-overview.html"
       },
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-ibsc",
@@ -3465,6 +3465,351 @@
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc/fees",
         "sha256": "ef239f10f872568a7f8c96f6c64cf87761d624e17ff2b62e39d2f8b1906b0939",
         "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/fees-dom-9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng",
+        "sha256": "252c9dbd24127165a480a877cad0377c7194d9d04f57f90d28cfa8a5aa44a2ca",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-beng-00f03c0381-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng/teaching-and-modules",
+        "sha256": "3e2f8c67c00fd337bc1a3152772cc890a37154468e0e6ce70aba1d289ff158cf",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-beng-00f03c0381-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng/entry-requirements",
+        "sha256": "b724b7f2db1f87b4d5ce4ab0e0862631dbf9cee35424f77d81bd708708dec36c",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-beng-00f03c0381-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng/careers",
+        "sha256": "7da5e27f3ba670a72a80a3ce6049f9ae88972582b87dcaf9784b8409eeace64c",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-beng-00f03c0381-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng/entry-requirements",
+        "sha256": "943f83178ab47aeeb069925bec24c9575063368308df61cf72cfeb591b407585",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-0.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng/fees",
+        "sha256": "02b0715150bbace9d1f811bb63bc0512c6b8e4114dd4911ee56f791d6e8ed574",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-0.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-meng",
+        "sha256": "15bcad7c1190ae2995ee6d182bab44cd8493ad1cda80ffaf7104a60ec4325f74",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-meng-3e5e64af9f-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-meng/teaching-and-modules",
+        "sha256": "40978c22f33d4d45ca70c8281315f98353774d73f81bb360efa2a4e5d6fd7a2d",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-meng-3e5e64af9f-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-meng/entry-requirements",
+        "sha256": "91fc8beb1b4ad0a726a5687e5c4cff55eaca151bdfef006180780cde921fb130",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-meng-3e5e64af9f-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-meng/careers",
+        "sha256": "1e82a08a2590f7101da0bce9a4d8e775d212cdd1dc97e43c2e8626973376c250",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-meng-3e5e64af9f-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-meng/entry-requirements",
+        "sha256": "fc382e708975f5ced4e61b059daa4c9570b1a90ff4e47e4662bdb3daaf538455",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-meng/fees",
+        "sha256": "f7d47bf266ddfc860c9a12404de81b96e791a239c360420a90039c416a8bde40",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-bsc",
+        "sha256": "c688553ca5b9a7f6c0e1fb7860cc02319d0210a9003126a41355980d742a0c4d",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-bsc-97745bda7c-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-bsc/teaching-and-modules",
+        "sha256": "52f143f8bebfb99ad1aa8d9daf62430f9fac6da3e08b8a44e0694875d86552a6",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-bsc-97745bda7c-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-bsc/entry-requirements",
+        "sha256": "acb7a2e241ccc5d3d3eee3a18ca2a7a2b4b9b5d1e5bb1503656572f56c9efe76",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-bsc-97745bda7c-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-bsc/careers",
+        "sha256": "46078fc882cdcea43b573068e0768fe97f84a36e6377a8a6648221a9eb4e270d",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-bsc-97745bda7c-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-bsc/entry-requirements",
+        "sha256": "204b332c0e51af662f253d152ba5aa676ec2c0dd3ffc5c4c8ca836c6ef942575",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-2.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-bsc/fees",
+        "sha256": "fb1939b081402464c31b4ae8313ca59f41efd5467533c20e385a03365bdc442e",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-2.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-with-year-in-industry-bsc",
+        "sha256": "171c0f678ec416dfcd16acc876e5c21d5ebd2346afbf64c733531c0195e1243f",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-with-year-in-industry-bsc-15236ab329-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-with-year-in-industry-bsc/teaching-and-modules",
+        "sha256": "35a38a54ddb23d23e6d1627d349515241b20b951c69331816debaa7ea9c03559",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-with-year-in-industry-bsc-15236ab329-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-with-year-in-industry-bsc/entry-requirements",
+        "sha256": "1f278a4284552819ce851661ef00e3afa40bd235d6a0c6cea6c254e158036a40",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-with-year-in-industry-bsc-15236ab329-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-with-year-in-industry-bsc/careers",
+        "sha256": "2bc2ca1183a9a55b45396ec1d6355509c5ef75cb33b37fcc9e0e421f10a29a5e",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-with-year-in-industry-bsc-15236ab329-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-with-year-in-industry-bsc/entry-requirements",
+        "sha256": "1afb72e3775c8b9c5b6e7091372704340641c116602abbad4b78e9199fde4eef",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-with-year-in-industry-bsc/fees",
+        "sha256": "e560199ae728bae299b128876740c7ac5c95fa8687e989f00b63a1e9362d9b31",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/environmental-science-msci/teaching-and-modules",
+        "sha256": "97419d26ad6444b0fda402a1b3b73c467879a3841b4dc2cb99956dc8164e6030",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-environmental-science-msci-fb0de0cc0e-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/environmental-science-msci/entry-requirements",
+        "sha256": "66b84c3f28ce09828a86565c65467122cadb7a48c98c910abc1f31a4f0af9360",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-environmental-science-msci-fb0de0cc0e-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/environmental-science-msci/careers",
+        "sha256": "7c04d4e7ef1d0a3780330e260d25e368bd1d8aea914f01f90a6ed9a3a476f79f",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-environmental-science-msci-fb0de0cc0e-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/environmental-science-msci/entry-requirements",
+        "sha256": "2dc4a25490e8c4adfeec54fe4314578e12de30205ac7a639367a1d5196061a09",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/environmental-science-msci/fees",
+        "sha256": "6b122896aab9612e605f16d43ba5bd7911e942c2223c09395d95645b2ccc7df7",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba",
+        "sha256": "0ff946ce0452c69c3ecb1a92e51e5809a4e9de476c75fbfbe7efbd84d88d0016",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-french-pathway-with-a-year-abroad-ba-042ee15398-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba/teaching-and-modules",
+        "sha256": "7e3b11244b9311b71901d2ce30a3a2f33aa1653befb8d784231f6ea3caeefadc",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-french-pathway-with-a-year-abroad-ba-042ee15398-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba/entry-requirements",
+        "sha256": "59589af34ad6a21b553e0d877a94e68f18bf3236266df80e6430ad0b7e337245",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-french-pathway-with-a-year-abroad-ba-042ee15398-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba/careers",
+        "sha256": "c2f0c5b99faf5add21f6f6c0ff64ab5002b71229701a4292408649cc05656faf",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-french-pathway-with-a-year-abroad-ba-042ee15398-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba/entry-requirements",
+        "sha256": "075e4e7d35d9af6671625d835ec38b5eb0a06b325f29752c9f0e3e0efd08eaa4",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba/fees",
+        "sha256": "c9787f29ff8df935551e198e4b51f1f16a2b73c50b72a892dc59bc19eebdf541",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba",
+        "sha256": "b31513995a1b208cfd5a0c1041940b3785081907cc26fa62c76ab45dda53f1b0",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-german-pathway-with-a-year-abroad-ba-33f39af931-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba/teaching-and-modules",
+        "sha256": "74cbb528d501d25be1a222bb8b0de5f1d3660d9e5f00d3e77ff94db17681fe97",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-german-pathway-with-a-year-abroad-ba-33f39af931-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba/entry-requirements",
+        "sha256": "43c38ac6f4f03925c90fbc4c76ea70683833a425b5c3d5feb01d67b3f40841f5",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-german-pathway-with-a-year-abroad-ba-33f39af931-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba/careers",
+        "sha256": "f72ff2cad95175e6eab79a4f4a9559509e585e60235d34f54f7addc4015e01c5",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-german-pathway-with-a-year-abroad-ba-33f39af931-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba/entry-requirements",
+        "sha256": "7b5f8a3650d263eb8ed7f8211149502af870d9740c9e6e7c272ec17de4250102",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-6.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba/fees",
+        "sha256": "6117e9110dc82f1aeab613cc0e635106d18f58bd6e247849dc9a3ec3feee6bde",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-6.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-spanish-pathway-with-a-year-abroad-ba/teaching-and-modules",
+        "sha256": "d343b195c13f179e40020605e66188a6a0e480be56b1b685bb6a799c0c8ceb3e",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-spanish-pathway-with-a-year-abroad-ba-cb2cb3646c-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-spanish-pathway-with-a-year-abroad-ba/entry-requirements",
+        "sha256": "b605c46cd64b29f65665d154a6376f3bef199ad8478816b6ae58bfd0b1d3282d",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-spanish-pathway-with-a-year-abroad-ba-cb2cb3646c-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-spanish-pathway-with-a-year-abroad-ba/careers",
+        "sha256": "7e9975adc76b67bca3ceed34bbad765977d26328015e277fc3719f3f133b3b1b",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-spanish-pathway-with-a-year-abroad-ba-cb2cb3646c-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-spanish-pathway-with-a-year-abroad-ba/entry-requirements",
+        "sha256": "30563ce1d8775d7aa328cfa20b8c3ae2b2e7f92a6a7b67e12e0c17dae2c89fca",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-7.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-spanish-pathway-with-a-year-abroad-ba/fees",
+        "sha256": "3c9aa28d52c4d748a133ab78ce65c09015c722ca9ae1e7268f6f9b509e6806cc",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-7.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-ba",
+        "sha256": "84b333c940c4a92e6381be17e966db9dc77cc5c949a69a8abe41b2dfbe14f07f",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-ba-cf58e81912-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-ba/teaching-and-modules",
+        "sha256": "75f150f5c5af96db6960257867ff7b77267d439619bcf39ecba3c2f51a0994ac",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-ba-cf58e81912-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-ba/entry-requirements",
+        "sha256": "0cacb0e2462241253d58938fb30fb9790c559e654ba24e6354225944e16e5203",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-ba-cf58e81912-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-ba/careers",
+        "sha256": "50e378b38f99830a0fe35716871fc1cbd3c64e300b0943ca8d05193111aa34eb",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-ba-cf58e81912-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-ba/entry-requirements",
+        "sha256": "d0bab9da730d86e3055fd41d7de160307b85145941d3445400b26f40f6c4fd9c",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-ba/fees",
+        "sha256": "ccd05853bd87d3e5b68d2193c9700eb5d0d9b70c5c1ccb7515296aaafbc0fe3c",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-bsc/teaching-and-modules",
+        "sha256": "a780cde3691b530f2ec137f3b7a6c904bd7b2b78da876ece7458da6e537ca79b",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-environmental-science-bsc-80be703cb7-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-bsc/entry-requirements",
+        "sha256": "3e2438a95188e484b1ac3a27f360792a10bd956ec33222ff62548bdf3c34c3f3",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-environmental-science-bsc-80be703cb7-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-bsc/discover-more",
+        "sha256": "1c11fe23ed8abef7d2d0bbbf6d199e8b71811a7477f680dcb9aa204f01da4032",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-environmental-science-bsc-80be703cb7-discover.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-bsc/entry-requirements",
+        "sha256": "8996426e73576a70e1039ac98f096540a29e1dd7b84e3d8d57d9d687ccc8a86c",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-bsc/fees",
+        "sha256": "29b800427c0ea8f0890faca44651a455fae0c4ce49e3e8e274beb82710e9c8f4",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-msci",
+        "sha256": "44d68893083ccb7c508d125f4addb3ebf302fccccb6147cb7ce7c5da8dc715ae",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-physics-philosophy-msci-2e6cd7d4fc-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-msci/teaching-and-modules",
+        "sha256": "ed3cdeaa973ace411ad43ce8034f38cbffada3e3d8d77644ffc9f9783c4faca5",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-physics-philosophy-msci-2e6cd7d4fc-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-msci/entry-requirements",
+        "sha256": "75675b7a12cb00f1fa9cf991cafdb0918db899e99a780cca5a8adbf799f1e261",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-physics-philosophy-msci-2e6cd7d4fc-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-msci/careers",
+        "sha256": "26a7c98ddb9cec080ad9cd87ec050097ba98f63636724ab2ec471396faf99e96",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-physics-philosophy-msci-2e6cd7d4fc-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-msci/entry-requirements",
+        "sha256": "978bb4eaa70947c92ddd8e90675f11b1c5cda66a2ac7ce4e756f9813eebf50c1",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-10.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-msci/fees",
+        "sha256": "5237bdb4ed266a7726c9016aad4a646b621b6724934dc4ed49c4a9336c31f87b",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-10.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc",
+        "sha256": "1b35c4901fc46f37f9ad11fb0d9654e1b9d8ce9c97c383da88d6006cc245d163",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-primary-care-ibsc-3550073213-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc/teaching-and-modules",
+        "sha256": "4f775684aacb3194b7bdf369fc02262dea3efbb8b46df9d45bf70f800cab3cde",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-primary-care-ibsc-3550073213-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc/entry-requirements",
+        "sha256": "a3c48531843bcbdd1f31ffa37451d6f55695dc9f667b5d4e047abb44ae4cf673",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-primary-care-ibsc-3550073213-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc/careers",
+        "sha256": "fca3d4c7f336d3b567cb38499fe212be34d5119bd3f87f594d0686cab1bd8cfa",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-primary-care-ibsc-3550073213-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc/entry-requirements",
+        "sha256": "832a48eb3ea34e8d1616da56b7996b81014bcae4418f2ff6fb210051df50eb1f",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-11.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc/fees",
+        "sha256": "3383d13aeb0b29c5561df144e89231938074d1a589dea0c82863d8ce0b348a3d",
+        "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-11.html"
       }
     ],
     "gaps": [
@@ -3476,7 +3821,8 @@
       "艺术媒体部分年度学分表、比较文学电影交换年段存在官网表述差异；英语语言与语言学校区未确认，创意写作及全球媒体专业页未列截止日期。",
       "法律母页香港LLM与独立香港JD不得混同；M124澳法旧交叉提及未确认为现行独立入口，伙伴阶段未来费率、若干年度学分及资格差异仍按正文待核。",
       "新补12理工项目的部分年度模块数量和跨课程表述有差异；实习/海外费用、2027英语更新与本路线独立毕业数据仍依各条缺口，不能套用商学院规则。",
-      "本批理工12项仍缺2027最终英语更新、独立毕业统计及部分外出年度费额；两天体课程旧年份声明、物理哲学375与360学分差异、MSci项目OR分组均在各条保留。具名在读海外变体尚未与独立UCAS身份全部闭合。"
+      "本批理工12项仍缺2027最终英语更新、独立毕业统计及部分外出年度费额；两天体课程旧年份声明、物理哲学375与360学分差异、MSci项目OR分组均在各条保留。具名在读海外变体尚未与独立UCAS身份全部闭合。",
+      "本批保留欧洲研究90学分年度和配额差异、物理哲学MSci495总量、PrimaryCare开放与截止冲突及海外仅MBBS在读资格；部分2027最终英语/海外费与独立毕业统计仍待补。具名在读变体尚未与独立录取身份全部闭合。"
     ]
   },
   "programs": [
@@ -3694,8 +4040,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=0",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "eb672845-86ff-464a-bd59-0e3582c8168d",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "AAA，数学A及另一指定科学A；IB科目规则另列；2027认证待重新批准",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-biomedical-engineering-beng-00f03c0381"
     },
@@ -3710,8 +4056,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=0",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "d217bec1-32e2-4cd9-8b7e-59969dc04873",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "AAA，数学及另一指定科学A；IB条件另列；2027认证待重新批准",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-biomedical-engineering-meng-3e5e64af9f"
     },
@@ -4085,8 +4431,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "1efb5ba2-80d2-4878-9264-27b3d7632356",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "A*AA，数学A；IB数学AA或AI HL6；不接受转学",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-data-analytics-for-business-finance-bsc-97745bda7c"
     },
@@ -4101,8 +4447,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "b2c88a3e-c78b-4aaa-ada0-db7191c4a556",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "A*AA、数学A；行业年首年平均2:2、截至二年五月落实岗位；不接受转学",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-data-analytics-for-business-finance-with-year-in-industry-bsc-15236ab329"
     },
@@ -4428,8 +4774,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=3",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "b7f91b61-ec1a-405c-a21b-678ca63ffaf3",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "AAA，指定科学之一A；IB可选科目另列；转学／预科细项待核",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-environmental-science-msci-fb0de0cc0e"
     },
@@ -4444,8 +4790,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=3",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "52285788-d8d0-4c61-a6b6-6198b754f609",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "AAB；进阶法语B／IB HL5，初学无需法语；第三年法国；不接受转学",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-european-studies-french-pathway-with-a-year-abroad-ba-042ee15398"
     },
@@ -4460,8 +4806,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=3",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "c173a1ad-69d3-439c-a321-4392dac0ce88",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "AAB；进阶德语B／IB HL5，初学无需德语；中级班视人数；不接受转学",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-european-studies-german-pathway-with-a-year-abroad-ba-33f39af931"
     },
@@ -4476,8 +4822,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=3",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "c87f3852-9421-4b83-ab57-50855639705e",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "AAB；进阶西语B／IB HL5，初学无需西语；第三年马德里；不接受转学",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-european-studies-spanish-pathway-with-a-year-abroad-ba-cb2cb3646c"
     },
@@ -4557,8 +4903,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=4",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "296491a8-38e8-4088-ae04-834a265433b4",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "AAB或IB35／HL17，无指定科目；空间数据为在读方向；不接受转学",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-geography-ba-cf58e81912"
     },
@@ -4573,8 +4919,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=4",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "8bff2483-1523-4c65-8bbf-30a4bdcc68bf",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "AAB或IB35／HL17，无指定科目；不接受转学；空间数据为在读方向",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-geography-environmental-science-bsc-80be703cb7"
     },
@@ -5478,8 +5824,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=8",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "bba4129a-58ce-4b48-a0bb-9a831fc02f79",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "AAA，数学与物理A；IB仅数学AA及物理HL6；签证申请者另核ATAS",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-physics-philosophy-msci-2e6cd7d4fc"
     },
@@ -5673,10 +6019,14 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=9",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "f1f93150-ffec-491f-8a9b-ed2d981b26f5",
-      "entry_route": "intercalated degree; prior/current medical or dental studies required",
-      "requires_prior_degree": null,
+      "entry_route": "仅合资格医学等在读插读；海外仅MBBS等同医学至少两年；非高中／UCAS入口",
+      "requires_prior_degree": false,
       "status": "listed_current",
-      "id": "kcl-primary-care-ibsc-3550073213"
+      "id": "kcl-primary-care-ibsc-3550073213",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ]
     },
     {
       "name_en": "Psychology BSc",

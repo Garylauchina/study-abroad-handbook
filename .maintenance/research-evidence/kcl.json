@@ -344,10 +344,82 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng",
+      "sha256": "252c9dbd24127165a480a877cad0377c7194d9d04f57f90d28cfa8a5aa44a2ca",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-beng-00f03c0381-overview.html",
+      "locator": "Public Overview / Course essentials / Base campus / Accreditation"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng/teaching-and-modules",
+      "sha256": "3e2f8c67c00fd337bc1a3152772cc890a37154468e0e6ce70aba1d289ff158cf",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-beng-00f03c0381-teaching.html",
+      "locator": "Public Year selector > Required / Optional modules / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng/entry-requirements",
+      "sha256": "b724b7f2db1f87b4d5ce4ab0e0862631dbf9cee35424f77d81bd708708dec36c",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-beng-00f03c0381-requirements.html",
+      "locator": "Visible Standard / Additional / Selection / Other requirements"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng/careers",
+      "sha256": "7da5e27f3ba670a72a80a3ce6049f9ae88972582b87dcaf9784b8409eeace64c",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-beng-00f03c0381-careers.html",
+      "locator": "Actual Careers body and stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng/entry-requirements",
+      "sha256": "943f83178ab47aeeb069925bec24c9575063368308df61cf72cfeb591b407585",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-0.html",
+      "locator": "Actual selected China > Gao Kao / Zhao Kao / Maple Leaf World Schools Programme"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng/fees",
+      "sha256": "02b0715150bbace9d1f811bb63bc0512c6b8e4114dd4911ee56f791d6e8ed574",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-0.html",
+      "locator": "International tuition / deposit / Additional and Further fee information / Key Information"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-meng",
       "sha256": "b93b82fe5614dcb9f0bc55ce91ac6e04103d03a00fa63692e5f3d4c30fa4a5ef",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-9ff0442cdf3880.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-meng",
+      "sha256": "15bcad7c1190ae2995ee6d182bab44cd8493ad1cda80ffaf7104a60ec4325f74",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-meng-3e5e64af9f-overview.html",
+      "locator": "Public Overview / Course essentials / Base campus / Accreditation"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-meng/teaching-and-modules",
+      "sha256": "40978c22f33d4d45ca70c8281315f98353774d73f81bb360efa2a4e5d6fd7a2d",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-meng-3e5e64af9f-teaching.html",
+      "locator": "Public Year selector > Required / Optional modules / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-meng/entry-requirements",
+      "sha256": "91fc8beb1b4ad0a726a5687e5c4cff55eaca151bdfef006180780cde921fb130",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-meng-3e5e64af9f-requirements.html",
+      "locator": "Visible Standard / Additional / Selection / Other requirements"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-meng/careers",
+      "sha256": "1e82a08a2590f7101da0bce9a4d8e775d212cdd1dc97e43c2e8626973376c250",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-biomedical-engineering-meng-3e5e64af9f-careers.html",
+      "locator": "Actual Careers body and stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-meng/entry-requirements",
+      "sha256": "fc382e708975f5ced4e61b059daa4c9570b1a90ff4e47e4662bdb3daaf538455",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-1.html",
+      "locator": "Actual selected China > Gao Kao / Zhao Kao / Maple Leaf World Schools Programme"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-meng/fees",
+      "sha256": "f7d47bf266ddfc860c9a12404de81b96e791a239c360420a90039c416a8bde40",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-1.html",
+      "locator": "International tuition / deposit / Additional and Further fee information / Key Information"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-science-bsc",
@@ -1172,10 +1244,82 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-bsc",
+      "sha256": "c688553ca5b9a7f6c0e1fb7860cc02319d0210a9003126a41355980d742a0c4d",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-bsc-97745bda7c-overview.html",
+      "locator": "Public Overview / Course essentials / Base campus / Accreditation"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-bsc/teaching-and-modules",
+      "sha256": "52f143f8bebfb99ad1aa8d9daf62430f9fac6da3e08b8a44e0694875d86552a6",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-bsc-97745bda7c-teaching.html",
+      "locator": "Public Year selector > Required / Optional modules / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-bsc/entry-requirements",
+      "sha256": "acb7a2e241ccc5d3d3eee3a18ca2a7a2b4b9b5d1e5bb1503656572f56c9efe76",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-bsc-97745bda7c-requirements.html",
+      "locator": "Visible Standard / Additional / Selection / Other requirements"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-bsc/careers",
+      "sha256": "46078fc882cdcea43b573068e0768fe97f84a36e6377a8a6648221a9eb4e270d",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-bsc-97745bda7c-careers.html",
+      "locator": "Actual Careers body and stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-bsc/entry-requirements",
+      "sha256": "204b332c0e51af662f253d152ba5aa676ec2c0dd3ffc5c4c8ca836c6ef942575",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-2.html",
+      "locator": "Actual selected China > Gao Kao / Zhao Kao / Maple Leaf World Schools Programme"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-bsc/fees",
+      "sha256": "fb1939b081402464c31b4ae8313ca59f41efd5467533c20e385a03365bdc442e",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-2.html",
+      "locator": "International tuition / deposit / Additional and Further fee information / Key Information"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-with-year-in-industry-bsc",
       "sha256": "7fe9333a596af3c24a5f587da60c784cb98c02dbbcac1061a1bce144cedb1246",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-0fdbd11a82e431.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-with-year-in-industry-bsc",
+      "sha256": "171c0f678ec416dfcd16acc876e5c21d5ebd2346afbf64c733531c0195e1243f",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-with-year-in-industry-bsc-15236ab329-overview.html",
+      "locator": "Public Overview / Course essentials / Base campus / Accreditation"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-with-year-in-industry-bsc/teaching-and-modules",
+      "sha256": "35a38a54ddb23d23e6d1627d349515241b20b951c69331816debaa7ea9c03559",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-with-year-in-industry-bsc-15236ab329-teaching.html",
+      "locator": "Public Year selector > Required / Optional modules / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-with-year-in-industry-bsc/entry-requirements",
+      "sha256": "1f278a4284552819ce851661ef00e3afa40bd235d6a0c6cea6c254e158036a40",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-with-year-in-industry-bsc-15236ab329-requirements.html",
+      "locator": "Visible Standard / Additional / Selection / Other requirements"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-with-year-in-industry-bsc/careers",
+      "sha256": "2bc2ca1183a9a55b45396ec1d6355509c5ef75cb33b37fcc9e0e421f10a29a5e",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-data-analytics-for-business-finance-with-year-in-industry-bsc-15236ab329-careers.html",
+      "locator": "Actual Careers body and stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-with-year-in-industry-bsc/entry-requirements",
+      "sha256": "1afb72e3775c8b9c5b6e7091372704340641c116602abbad4b78e9199fde4eef",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-3.html",
+      "locator": "Actual selected China > Gao Kao / Zhao Kao / Maple Leaf World Schools Programme"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-with-year-in-industry-bsc/fees",
+      "sha256": "e560199ae728bae299b128876740c7ac5c95fa8687e989f00b63a1e9362d9b31",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-3.html",
+      "locator": "International tuition / deposit / Additional and Further fee information / Key Information"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dental-therapy-and-hygiene-bsc",
@@ -1912,8 +2056,38 @@
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/environmental-science-msci",
       "sha256": "3ecbddb8cf09a9c8266bb13e5cc41b9ae984736f22f53956b2e10e56988f482a",
-      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-676e80507b6b86.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-environmental-science-msci-fb0de0cc0e-overview.html",
+      "locator": "Public Overview / Course essentials / Base campus / Accreditation"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/environmental-science-msci/teaching-and-modules",
+      "sha256": "97419d26ad6444b0fda402a1b3b73c467879a3841b4dc2cb99956dc8164e6030",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-environmental-science-msci-fb0de0cc0e-teaching.html",
+      "locator": "Public Year selector > Required / Optional modules / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/environmental-science-msci/entry-requirements",
+      "sha256": "66b84c3f28ce09828a86565c65467122cadb7a48c98c910abc1f31a4f0af9360",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-environmental-science-msci-fb0de0cc0e-requirements.html",
+      "locator": "Visible Standard / Additional / Selection / Other requirements"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/environmental-science-msci/careers",
+      "sha256": "7c04d4e7ef1d0a3780330e260d25e368bd1d8aea914f01f90a6ed9a3a476f79f",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-environmental-science-msci-fb0de0cc0e-careers.html",
+      "locator": "Actual Careers body and stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/environmental-science-msci/entry-requirements",
+      "sha256": "2dc4a25490e8c4adfeec54fe4314578e12de30205ac7a639367a1d5196061a09",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-4.html",
+      "locator": "Actual selected China > Gao Kao / Zhao Kao / Maple Leaf World Schools Programme"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/environmental-science-msci/fees",
+      "sha256": "6b122896aab9612e605f16d43ba5bd7911e942c2223c09395d95645b2ccc7df7",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-4.html",
+      "locator": "International tuition / deposit / Additional and Further fee information / Key Information"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba",
@@ -1922,16 +2096,118 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba",
+      "sha256": "0ff946ce0452c69c3ecb1a92e51e5809a4e9de476c75fbfbe7efbd84d88d0016",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-french-pathway-with-a-year-abroad-ba-042ee15398-overview.html",
+      "locator": "Public Overview / Course essentials / Base campus / Accreditation"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba/teaching-and-modules",
+      "sha256": "7e3b11244b9311b71901d2ce30a3a2f33aa1653befb8d784231f6ea3caeefadc",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-french-pathway-with-a-year-abroad-ba-042ee15398-teaching.html",
+      "locator": "Public Year selector > Required / Optional modules / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba/entry-requirements",
+      "sha256": "59589af34ad6a21b553e0d877a94e68f18bf3236266df80e6430ad0b7e337245",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-french-pathway-with-a-year-abroad-ba-042ee15398-requirements.html",
+      "locator": "Visible Standard / Additional / Selection / Other requirements"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba/careers",
+      "sha256": "c2f0c5b99faf5add21f6f6c0ff64ab5002b71229701a4292408649cc05656faf",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-french-pathway-with-a-year-abroad-ba-042ee15398-careers.html",
+      "locator": "Actual Careers body and stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba/entry-requirements",
+      "sha256": "075e4e7d35d9af6671625d835ec38b5eb0a06b325f29752c9f0e3e0efd08eaa4",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-5.html",
+      "locator": "Actual selected China > Gao Kao / Zhao Kao / Maple Leaf World Schools Programme"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba/fees",
+      "sha256": "c9787f29ff8df935551e198e4b51f1f16a2b73c50b72a892dc59bc19eebdf541",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-5.html",
+      "locator": "International tuition / deposit / Additional and Further fee information / Key Information"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba",
       "sha256": "1e347b1efe592fcb330ca496a3e9dd13df6e2b18dd5f351c3dae7ab2146a6270",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-822f2d6d7c4b6e.html",
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba",
+      "sha256": "b31513995a1b208cfd5a0c1041940b3785081907cc26fa62c76ab45dda53f1b0",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-german-pathway-with-a-year-abroad-ba-33f39af931-overview.html",
+      "locator": "Public Overview / Course essentials / Base campus / Accreditation"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba/teaching-and-modules",
+      "sha256": "74cbb528d501d25be1a222bb8b0de5f1d3660d9e5f00d3e77ff94db17681fe97",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-german-pathway-with-a-year-abroad-ba-33f39af931-teaching.html",
+      "locator": "Public Year selector > Required / Optional modules / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba/entry-requirements",
+      "sha256": "43c38ac6f4f03925c90fbc4c76ea70683833a425b5c3d5feb01d67b3f40841f5",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-german-pathway-with-a-year-abroad-ba-33f39af931-requirements.html",
+      "locator": "Visible Standard / Additional / Selection / Other requirements"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba/careers",
+      "sha256": "f72ff2cad95175e6eab79a4f4a9559509e585e60235d34f54f7addc4015e01c5",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-german-pathway-with-a-year-abroad-ba-33f39af931-careers.html",
+      "locator": "Actual Careers body and stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba/entry-requirements",
+      "sha256": "7b5f8a3650d263eb8ed7f8211149502af870d9740c9e6e7c272ec17de4250102",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-6.html",
+      "locator": "Actual selected China > Gao Kao / Zhao Kao / Maple Leaf World Schools Programme"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba/fees",
+      "sha256": "6117e9110dc82f1aeab613cc0e635106d18f58bd6e247849dc9a3ec3feee6bde",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-6.html",
+      "locator": "International tuition / deposit / Additional and Further fee information / Key Information"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-spanish-pathway-with-a-year-abroad-ba",
       "sha256": "6888fd0e207d181c98186579c7f1a3dd3dda46da31a2d2a83ad6ef6e1efc024e",
-      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-4fb6effcb732c8.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-spanish-pathway-with-a-year-abroad-ba-cb2cb3646c-overview.html",
+      "locator": "Public Overview / Course essentials / Base campus / Accreditation"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-spanish-pathway-with-a-year-abroad-ba/teaching-and-modules",
+      "sha256": "d343b195c13f179e40020605e66188a6a0e480be56b1b685bb6a799c0c8ceb3e",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-spanish-pathway-with-a-year-abroad-ba-cb2cb3646c-teaching.html",
+      "locator": "Public Year selector > Required / Optional modules / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-spanish-pathway-with-a-year-abroad-ba/entry-requirements",
+      "sha256": "b605c46cd64b29f65665d154a6376f3bef199ad8478816b6ae58bfd0b1d3282d",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-spanish-pathway-with-a-year-abroad-ba-cb2cb3646c-requirements.html",
+      "locator": "Visible Standard / Additional / Selection / Other requirements"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-spanish-pathway-with-a-year-abroad-ba/careers",
+      "sha256": "7e9975adc76b67bca3ceed34bbad765977d26328015e277fc3719f3f133b3b1b",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-european-studies-spanish-pathway-with-a-year-abroad-ba-cb2cb3646c-careers.html",
+      "locator": "Actual Careers body and stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-spanish-pathway-with-a-year-abroad-ba/entry-requirements",
+      "sha256": "30563ce1d8775d7aa328cfa20b8c3ae2b2e7f92a6a7b67e12e0c17dae2c89fca",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-7.html",
+      "locator": "Actual selected China > Gao Kao / Zhao Kao / Maple Leaf World Schools Programme"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-spanish-pathway-with-a-year-abroad-ba/fees",
+      "sha256": "3c9aa28d52c4d748a133ab78ce65c09015c722ca9ae1e7268f6f9b509e6806cc",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-7.html",
+      "locator": "International tuition / deposit / Additional and Further fee information / Key Information"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/extended-medical-degree-programme-mbbs",
@@ -2084,10 +2360,76 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-ba",
+      "sha256": "84b333c940c4a92e6381be17e966db9dc77cc5c949a69a8abe41b2dfbe14f07f",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-ba-cf58e81912-overview.html",
+      "locator": "Public Overview / Course essentials / Base campus / Accreditation"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-ba/teaching-and-modules",
+      "sha256": "75f150f5c5af96db6960257867ff7b77267d439619bcf39ecba3c2f51a0994ac",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-ba-cf58e81912-teaching.html",
+      "locator": "Public Year selector > Required / Optional modules / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-ba/entry-requirements",
+      "sha256": "0cacb0e2462241253d58938fb30fb9790c559e654ba24e6354225944e16e5203",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-ba-cf58e81912-requirements.html",
+      "locator": "Visible Standard / Additional / Selection / Other requirements"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-ba/careers",
+      "sha256": "50e378b38f99830a0fe35716871fc1cbd3c64e300b0943ca8d05193111aa34eb",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-ba-cf58e81912-careers.html",
+      "locator": "Actual Careers body and stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-ba/entry-requirements",
+      "sha256": "d0bab9da730d86e3055fd41d7de160307b85145941d3445400b26f40f6c4fd9c",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-8.html",
+      "locator": "Actual selected China > Gao Kao / Zhao Kao / Maple Leaf World Schools Programme"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-ba/fees",
+      "sha256": "ccd05853bd87d3e5b68d2193c9700eb5d0d9b70c5c1ccb7515296aaafbc0fe3c",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-8.html",
+      "locator": "International tuition / deposit / Additional and Further fee information / Key Information"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-bsc",
       "sha256": "b2036e5ef0e64bcc53c980e3fdbc619b4fa83fc35edeaf2ee50f8624be7e38ff",
-      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-e3bc80c6480a44.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-environmental-science-bsc-80be703cb7-overview.html",
+      "locator": "Public Overview / Course essentials / Base campus / Accreditation"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-bsc/teaching-and-modules",
+      "sha256": "a780cde3691b530f2ec137f3b7a6c904bd7b2b78da876ece7458da6e537ca79b",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-environmental-science-bsc-80be703cb7-teaching.html",
+      "locator": "Public Year selector > Required / Optional modules / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-bsc/entry-requirements",
+      "sha256": "3e2438a95188e484b1ac3a27f360792a10bd956ec33222ff62548bdf3c34c3f3",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-environmental-science-bsc-80be703cb7-requirements.html",
+      "locator": "Visible Standard / Additional / Selection / Other requirements"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-bsc/discover-more",
+      "sha256": "1c11fe23ed8abef7d2d0bbbf6d199e8b71811a7477f680dcb9aa204f01da4032",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-geography-environmental-science-bsc-80be703cb7-discover.html",
+      "locator": "Public Hear from our students / named programme testimonials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-bsc/entry-requirements",
+      "sha256": "8996426e73576a70e1039ac98f096540a29e1dd7b84e3d8d57d9d687ccc8a86c",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-9.html",
+      "locator": "Actual selected China > Gao Kao / Zhao Kao / Maple Leaf World Schools Programme"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-bsc/fees",
+      "sha256": "29b800427c0ea8f0890faca44651a455fae0c4ce49e3e8e274beb82710e9c8f4",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-9.html",
+      "locator": "International tuition / deposit / Additional and Further fee information / Key Information"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-ibsc",
@@ -3440,6 +3782,42 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-msci",
+      "sha256": "44d68893083ccb7c508d125f4addb3ebf302fccccb6147cb7ce7c5da8dc715ae",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-physics-philosophy-msci-2e6cd7d4fc-overview.html",
+      "locator": "Public Overview / Course essentials / Base campus / Accreditation"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-msci/teaching-and-modules",
+      "sha256": "ed3cdeaa973ace411ad43ce8034f38cbffada3e3d8d77644ffc9f9783c4faca5",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-physics-philosophy-msci-2e6cd7d4fc-teaching.html",
+      "locator": "Public Year selector > Required / Optional modules / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-msci/entry-requirements",
+      "sha256": "75675b7a12cb00f1fa9cf991cafdb0918db899e99a780cca5a8adbf799f1e261",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-physics-philosophy-msci-2e6cd7d4fc-requirements.html",
+      "locator": "Visible Standard / Additional / Selection / Other requirements"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-msci/careers",
+      "sha256": "26a7c98ddb9cec080ad9cd87ec050097ba98f63636724ab2ec471396faf99e96",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-physics-philosophy-msci-2e6cd7d4fc-careers.html",
+      "locator": "Actual Careers body and stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-msci/entry-requirements",
+      "sha256": "978bb4eaa70947c92ddd8e90675f11b1c5cda66a2ac7ce4e756f9813eebf50c1",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-10.html",
+      "locator": "Actual selected China > Gao Kao / Zhao Kao / Maple Leaf World Schools Programme"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-msci/fees",
+      "sha256": "5237bdb4ed266a7726c9016aad4a646b621b6724934dc4ed49c4a9336c31f87b",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-10.html",
+      "locator": "International tuition / deposit / Additional and Further fee information / Key Information"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-bsc",
       "sha256": "914a1b14ffc800ba4a7eb22fec081e3a3e81161b9dd3ce5e88b5742f7b2140c1",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-db6d0c168d3e4d.html",
@@ -3774,6 +4152,42 @@
       "sha256": "8a65cdcfaacae0cdc872efead45431f8d75b935b7b002d19e45fe441726451ee",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-d7e25f83fa5e89.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc",
+      "sha256": "1b35c4901fc46f37f9ad11fb0d9654e1b9d8ce9c97c383da88d6006cc245d163",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-primary-care-ibsc-3550073213-overview.html",
+      "locator": "Public Overview / Course essentials / Base campus / Accreditation"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc/teaching-and-modules",
+      "sha256": "4f775684aacb3194b7bdf369fc02262dea3efbb8b46df9d45bf70f800cab3cde",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-primary-care-ibsc-3550073213-teaching.html",
+      "locator": "Public Year selector > Required / Optional modules / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc/entry-requirements",
+      "sha256": "a3c48531843bcbdd1f31ffa37451d6f55695dc9f667b5d4e047abb44ae4cf673",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-primary-care-ibsc-3550073213-requirements.html",
+      "locator": "Visible Standard / Additional / Selection / Other requirements"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc/careers",
+      "sha256": "fca3d4c7f336d3b567cb38499fe212be34d5119bd3f87f594d0686cab1bd8cfa",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/kcl-primary-care-ibsc-3550073213-careers.html",
+      "locator": "Actual Careers body and stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc/entry-requirements",
+      "sha256": "832a48eb3ea34e8d1616da56b7996b81014bcae4418f2ff6fb210051df50eb1f",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/review/china-dom-11.html",
+      "locator": "Actual selected China > Gao Kao / Zhao Kao / Maple Leaf World Schools Programme"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc/fees",
+      "sha256": "3383d13aeb0b29c5561df144e89231938074d1a589dea0c82863d8ce0b348a3d",
+      "raw_file": "scratch/full-catalog/kcl-final-catalog-enrichment/raw/fees-dom-11.html",
+      "locator": "International tuition / deposit / Additional and Further fee information / Key Information"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc",

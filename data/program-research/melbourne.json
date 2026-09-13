@@ -38469,6 +38469,1521 @@
         "从2026起不自动认定已核2027专项开课；费用明确仅对应2027父学位。"
       ],
       "translation_status": "人工阅读公开课程池和实际国际费视图；父层事实与专项缺口分开"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-specialisation|composition",
+      "name_en": "Composition",
+      "degree_label": "Bachelor of Music (Degree with Honours) — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/composition/",
+      "source_period": "2027申请／资格；公开课程计划按页内年度与2026链接分别标注；费用2026参考",
+      "inventory_id": "melbourne-composition-78b06ea8eb",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与课程内容",
+            "text": "Composition是Bachelor of Music (Degree with Honours)内部的荣誉方向，须在相关本科学习后进入，不是普通同名本科主修或另一高中直入学位。以二重奏至管弦乐创作为范围，发展作曲技术与个人表达；最终以音乐会呈现个人作品，选修可与音乐学院乐团合作。导师指导独立创作与相关研究论文。",
+            "source_ids": [
+              "melhon-direction-3-overview-browser",
+              "melhon-direction-3-structure"
+            ]
+          },
+          {
+            "label": "具体课程与版本边界",
+            "text": "公开示例为100学分、两个50学分学期。第一学期：指挥MUSI40036 12.5、荣誉作曲1 MUSI40067 18.75，另选修12.5及6.25；第二学期：音乐研究过程MUSI40064 12.5、荣誉作曲2 MUSI40068 18.75，另选修12.5及6.25。科目链接指向2026 Handbook，不能当作已核2027正式科目表。",
+            "source_ids": [
+              "melhon-direction-3-structure"
+            ]
+          },
+          {
+            "label": "学制、校区与语言边界",
+            "text": "荣誉阶段全日制1年，校区Southbank；母学位另列2年非全日制，国际生个人可用性本轮未核。本轮未取得本方向专属教学语言声明；英语入学考试要求不等于逐科教学语言证明。",
+            "source_ids": [
+              "melhon-music-honours-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "相关学士资格与成绩",
+            "text": "须在近5年完成AQF7音乐学士或等同资格，具备与所选方向相关的主修，WAM至少65%或等同，并满足该方向特殊任务。外校成绩由学校按认证、评分和及格标准评估；这是大学学历准入，不是大陆高考65%的门槛。",
+            "source_ids": [
+              "melhon-music-honours-entry"
+            ]
+          },
+          {
+            "label": "方向选择与豁免",
+            "text": "其他院校毕业生，或本校Composition 6未达75%的学生须交作品集；本校该科达到75%可免作品集。此豁免不免除正式大学申请与补充创作申请。母页将该科代码写MUSIC30214，方向页仅写科名，本轮不自行改码。",
+            "source_ids": [
+              "melhon-direction-3-application",
+              "melhon-music-honours-entry"
+            ]
+          },
+          {
+            "label": "英语要求",
+            "text": "承载荣誉学位页面列IELTS Academic总分6.5、各项至少6.0；亦有认可的其他测试或既往全英语教学与考核学习途径。本轮仅记录该明确标准，具体豁免须按本人学习经历核定。",
+            "source_ids": [
+              "melhon-music-honours-entry"
+            ]
+          },
+          {
+            "label": "作品集与新作任务",
+            "text": "作品集为3部原创作品，至少2部有PDF乐谱；至少1部在近两年创作，最多1部为管弦乐或大型合奏，总长不超过20分钟。附乐谱与MP3，鼓励现场录音，亦接受MIDI生成音频；另作1分钟大管与颤音琴测试曲并交谱及音频。",
+            "source_ids": [
+              "melhon-direction-3-application"
+            ]
+          },
+          {
+            "label": "补充材料与面试",
+            "text": "提交作品名称、编制、时长和年份列表，以及约90秒视频艺术陈述。方向页明确不需要面试；评审按创意、技术、声音效果及个人声音潜力排序，受名额限制。",
+            "source_ids": [
+              "melhon-direction-3-application"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027年初入学申请",
+            "text": "方向页及母学位申请页的“2027 start year intake”栏列8月3日开放、10月31日截止；母页列12月中旬出结果。月日格未单列日历年份，此处保留对应2027入学轮次，不将其写成2027年10月截止。须同时提交大学线上申请（BH-MUS）及SlideRoom补充创作申请，并在截止前交选拔材料。",
+            "source_ids": [
+              "melhon-direction-3-application",
+              "melhon-music-honours-apply"
+            ]
+          },
+          {
+            "label": "后续批次边界",
+            "text": "本轮已核2027年初入学选拔安排；没有取得本方向另一个2027年中开放轮次的确认，不能从父学位通用月份直接推定。",
+            "source_ids": [
+              "melhon-direction-3-application",
+              "melhon-music-honours-overview"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "荣誉父学位2026国际费参考",
+            "text": "实际国际视图的Bachelor of Music (Degree with Honours)列2026首年指示学费AUD 39,936。这是承载荣誉学位范围的2026参考，未取得本方向2027独立费率或逐科账单；不借普通三年本科费，也不从该数字推算本方向每项创作成本。",
+            "source_ids": [
+              "melhon-music-honours-overview"
+            ]
+          },
+          {
+            "label": "其他费用及资助缺口",
+            "text": "本轮未取得本方向2027额外器材、演出或展览费用、完整生活预算及独立奖学金的国际生资格、金额和截止；不将潜在资助直接从参考学费扣除。",
+            "source_ids": [
+              "melhon-music-honours-overview"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养去向与统计边界",
+            "text": "专属页说明本荣誉方向为音乐职业以及音乐研究生学习作准备；所列创作、演出或研究成果属于培养目标。本轮未取得本方向按毕业届次、国际生或中国学生身份及响应分母统计的就业率或薪资，不能以普通主修、母学位或具名校友替代。",
+            "source_ids": [
+              "melhon-direction-3-overview-browser",
+              "melhon-direction-3-structure"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/composition/application-requirements/#nav",
+          "title": "Composition : Application requirements - The University of Melbourne",
+          "sha256": "e69eac9308509d9096fc240c4c6099e127b0ec09ea0e913cbccd1e6f02aab8d7",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-3-application",
+          "supports": "2027年初入学专属选拔、材料、豁免和申请月份；冲突就近保留"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/composition/",
+          "title": "Composition - The University of Melbourne",
+          "sha256": "3cbd6e9ccc7c148fbc6f1a2a70c1a74fb6589998fc76d0084177de5faeaa8207",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-3-overview-browser",
+          "supports": "真实荣誉内部方向身份、父学位、培养说明；普通同名专业不得替代"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/composition/structure/#nav",
+          "title": "Composition : Course structure - The University of Melbourne",
+          "sha256": "44fe78506411fb327ef9c2202ef262c4bc883e69d239d0642d236abbe9551d95",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-3-structure",
+          "supports": "公开课程构成与研究项目；科目链接年度或缺口在正文注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/how-to-apply/#nav",
+          "title": "Bachelor of Music (Degree with Honours) : How to apply - The University of Melbourne",
+          "sha256": "21df0c4b3302631ebb6d2ece95e57fc9cf39a5e36a6f7b82b2b225a250c7de2c",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-music-honours-apply",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/entry-requirements/#nav",
+          "title": "Bachelor of Music (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "sha256": "06755eb5fad5f6aacfee2702a10761f52aceecf5188f48cc2d5e895589e41326",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-music-honours-entry",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours",
+          "title": "Bachelor of Music (Degree with Honours) - The University of Melbourne",
+          "sha256": "27aed5592a3e047ee5033857546de0cfc30761a08400798606a567dcf57b1cb3",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-music-honours-overview",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "作曲（音乐荣誉学士方向）",
+        "duration": "1年全日制荣誉阶段；公开示例100学分",
+        "campus": "Southbank",
+        "language": "本方向教学语言本轮未取得专属说明",
+        "intake": "2027年初入学；后续批次未核",
+        "entry_summary": "相关音乐荣誉学士入口；相关音乐学士近5年WAM≥65%，另按方向选拔。",
+        "tuition_label": "荣誉父学位费用参考",
+        "tuition_summary": "2026国际首年AUD 39,936；2027方向报价未核",
+        "outcomes_summary": "专属培养方向已核；独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "application_dates": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "内部荣誉方向，须先符合实际承载学位资格；未继承普通高中新生条件。",
+        "2027申请安排与当前／2026课程计划、2026父学位费用分开；不认定全部科目或预算已核。"
+      ],
+      "translation_status": "逐页实际公开正文与方向申请要求人工核读"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-specialisation|interactive-composition",
+      "name_en": "Interactive Composition",
+      "degree_label": "Bachelor of Music (Degree with Honours) — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/interactive-composition/",
+      "source_period": "2027申请／资格；公开课程计划按页内年度与2026链接分别标注；费用2026参考",
+      "inventory_id": "melbourne-interactive-composition-c582e65cb3",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与课程内容",
+            "text": "Interactive Composition是Bachelor of Music (Degree with Honours)内部的荣誉方向，须在相关本科学习后进入，不是普通同名本科主修或另一高中直入学位。围绕声音与其他媒体进行实践研究，可形成现场装置或创作作品集，涉及电影、动画、舞蹈、戏剧、广告或游戏，并附论文。",
+            "source_ids": [
+              "melhon-direction-4-overview-browser"
+            ]
+          },
+          {
+            "label": "具体课程与版本边界",
+            "text": "公开示例为100学分：第一学期交互作曲研究方法MUSI40114 12.5、主要项目A MUSI40115 37.5；第二学期研究论文MUSI40084 12.5、主要项目B MUSI40116 37.5。科目链接指向2026 Handbook；本轮未取得2027逐科规章。",
+            "source_ids": [
+              "melhon-direction-4-structure"
+            ]
+          },
+          {
+            "label": "学制、校区与语言边界",
+            "text": "荣誉阶段全日制1年，校区Southbank；母学位另列2年非全日制，国际生个人可用性本轮未核。本轮未取得本方向专属教学语言声明；英语入学考试要求不等于逐科教学语言证明。",
+            "source_ids": [
+              "melhon-music-honours-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "相关学士资格与成绩",
+            "text": "须在近5年完成AQF7音乐学士或等同资格，具备与所选方向相关的主修，WAM至少65%或等同，并满足该方向特殊任务。外校成绩由学校按认证、评分和及格标准评估；这是大学学历准入，不是大陆高考65%的门槛。",
+            "source_ids": [
+              "melhon-music-honours-entry"
+            ]
+          },
+          {
+            "label": "方向选择与豁免",
+            "text": "专属页顶部规定：外校毕业生或本校Interactive Composition 6（MUSI30230）低于75%者须30分钟面试，包含15分钟作品集及研究计划；本校该科至少75%者免面试和作品集。母学位页面仅明确这类学生免作品集，不能据此免研究计划。",
+            "source_ids": [
+              "melhon-direction-4-application",
+              "melhon-music-honours-entry"
+            ]
+          },
+          {
+            "label": "英语要求",
+            "text": "承载荣誉学位页面列IELTS Academic总分6.5、各项至少6.0；亦有认可的其他测试或既往全英语教学与考核学习途径。本轮仅记录该明确标准，具体豁免须按本人学习经历核定。",
+            "source_ids": [
+              "melhon-music-honours-entry"
+            ]
+          },
+          {
+            "label": "作品与研究计划",
+            "text": "方向页列15分钟作品集，包含2–3件近期原创声音作品或与其他媒体结合的片段，适用时附乐谱；研究项目计划250–350词，按创意、完成能力和与本课程的适配度评估。",
+            "source_ids": [
+              "melhon-direction-4-application"
+            ]
+          },
+          {
+            "label": "同页豁免冲突须确认",
+            "text": "同页中段写所有申请者均须交作品集和研究计划，与顶部75%作品集豁免不同；末段又称所有本校申请者不需面试，比顶部75%条件更宽。本条并列保留原文范围，本校低于75%者或拟用豁免者须向学院确认，不能自行选择最宽解释。",
+            "source_ids": [
+              "melhon-direction-4-application"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027年初入学申请",
+            "text": "方向页及母学位申请页的“2027 start year intake”栏列8月3日开放、10月31日截止；母页列12月中旬出结果。月日格未单列日历年份，此处保留对应2027入学轮次，不将其写成2027年10月截止。须同时提交大学线上申请（BH-MUS）及SlideRoom补充创作申请，并在截止前交选拔材料。",
+            "source_ids": [
+              "melhon-direction-4-application",
+              "melhon-music-honours-apply"
+            ]
+          },
+          {
+            "label": "年中入学限制",
+            "text": "本方向概述明确不提供年中入学；不能继承音乐荣誉父页通用July月份作为可申请批次。",
+            "source_ids": [
+              "melhon-direction-4-overview-browser"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "荣誉父学位2026国际费参考",
+            "text": "实际国际视图的Bachelor of Music (Degree with Honours)列2026首年指示学费AUD 39,936。这是承载荣誉学位范围的2026参考，未取得本方向2027独立费率或逐科账单；不借普通三年本科费，也不从该数字推算本方向每项创作成本。",
+            "source_ids": [
+              "melhon-music-honours-overview"
+            ]
+          },
+          {
+            "label": "其他费用及资助缺口",
+            "text": "本轮未取得本方向2027额外器材、演出或展览费用、完整生活预算及独立奖学金的国际生资格、金额和截止；不将潜在资助直接从参考学费扣除。",
+            "source_ids": [
+              "melhon-music-honours-overview"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养去向与统计边界",
+            "text": "专属页说明本荣誉方向为音乐职业以及音乐研究生学习作准备；所列创作、演出或研究成果属于培养目标。本轮未取得本方向按毕业届次、国际生或中国学生身份及响应分母统计的就业率或薪资，不能以普通主修、母学位或具名校友替代。",
+            "source_ids": [
+              "melhon-direction-4-overview-browser",
+              "melhon-direction-4-structure"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/interactive-composition/application-requirements/#nav",
+          "title": "Interactive Composition : Application Requirements - The University of Melbourne",
+          "sha256": "19e52fd42d904a5a2b750b252cb2994e49299dff9773c860ba24bffe08988765",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-4-application",
+          "supports": "2027年初入学专属选拔、材料、豁免和申请月份；冲突就近保留"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/interactive-composition/",
+          "title": "Interactive Composition - The University of Melbourne",
+          "sha256": "51e1c392132dea92cae2032e395e38f90f7c766588fbe2ea2f8a69793f8515ef",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-4-overview-browser",
+          "supports": "真实荣誉内部方向身份、父学位、培养说明；普通同名专业不得替代"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/interactive-composition/structure/#nav",
+          "title": "Interactive Composition : Course structure - The University of Melbourne",
+          "sha256": "d9c852d6189900be1289b86de0f211c1a6e64606eeb81c896171d3b10b15f0ab",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-4-structure",
+          "supports": "公开课程构成与研究项目；科目链接年度或缺口在正文注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/how-to-apply/#nav",
+          "title": "Bachelor of Music (Degree with Honours) : How to apply - The University of Melbourne",
+          "sha256": "21df0c4b3302631ebb6d2ece95e57fc9cf39a5e36a6f7b82b2b225a250c7de2c",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-music-honours-apply",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/entry-requirements/#nav",
+          "title": "Bachelor of Music (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "sha256": "06755eb5fad5f6aacfee2702a10761f52aceecf5188f48cc2d5e895589e41326",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-music-honours-entry",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours",
+          "title": "Bachelor of Music (Degree with Honours) - The University of Melbourne",
+          "sha256": "27aed5592a3e047ee5033857546de0cfc30761a08400798606a567dcf57b1cb3",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-music-honours-overview",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "交互作曲（音乐荣誉学士方向）",
+        "duration": "1年全日制荣誉阶段；公开示例100学分",
+        "campus": "Southbank",
+        "language": "本方向教学语言本轮未取得专属说明",
+        "intake": "2027年初入学；明确无年中入学",
+        "entry_summary": "相关音乐荣誉学士入口；相关音乐学士近5年WAM≥65%，另按方向选拔。作品集与面试豁免原文冲突须确认。",
+        "tuition_label": "荣誉父学位费用参考",
+        "tuition_summary": "2026国际首年AUD 39,936；2027方向报价未核",
+        "outcomes_summary": "专属培养方向已核；独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "application_dates": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "内部荣誉方向，须先符合实际承载学位资格；未继承普通高中新生条件。",
+        "2027申请安排与当前／2026课程计划、2026父学位费用分开；不认定全部科目或预算已核。"
+      ],
+      "translation_status": "逐页实际公开正文与方向申请要求人工核读"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-specialisation|jazz-improvisation",
+      "name_en": "Jazz & Improvisation",
+      "degree_label": "Bachelor of Music (Degree with Honours) — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/jazz-improvisation/",
+      "source_period": "2027申请／资格；公开课程计划按页内年度与2026链接分别标注；费用2026参考",
+      "inventory_id": "melbourne-jazz-improvisation-d8af853d18",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与课程内容",
+            "text": "Jazz & Improvisation是Bachelor of Music (Degree with Honours)内部的荣誉方向，须在相关本科学习后进入，不是普通同名本科主修或另一高中直入学位。围绕爵士和即兴演奏完成实践型主要创作项目，可形成现场演出、完整CD或新作作品集，并附研究论文。",
+            "source_ids": [
+              "melhon-direction-5-overview-browser"
+            ]
+          },
+          {
+            "label": "具体课程与版本边界",
+            "text": "公开示例为100学分：第一学期爵士与即兴主要项目A MUSI40117及研究方法MUSI40119，各25；第二学期主要项目B MUSI40118及研究论文MUSI40120，各25。科目链接指向2026 Handbook；2027实际开课表本轮未核。",
+            "source_ids": [
+              "melhon-direction-5-structure"
+            ]
+          },
+          {
+            "label": "学制、校区与语言边界",
+            "text": "荣誉阶段全日制1年，校区Southbank；母学位另列2年非全日制，国际生个人可用性本轮未核。本轮未取得本方向专属教学语言声明；英语入学考试要求不等于逐科教学语言证明。",
+            "source_ids": [
+              "melhon-music-honours-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "相关学士资格与成绩",
+            "text": "须在近5年完成AQF7音乐学士或等同资格，具备与所选方向相关的主修，WAM至少65%或等同，并满足该方向特殊任务。外校成绩由学校按认证、评分和及格标准评估；这是大学学历准入，不是大陆高考65%的门槛。",
+            "source_ids": [
+              "melhon-music-honours-entry"
+            ]
+          },
+          {
+            "label": "方向选择与豁免",
+            "text": "外校毕业生或本校Individual Performance Studies 6（MUSI30228）低于75%者须试演；本校该科至少75%可免试演。页面另列研究计划和入围面试，不将试演豁免扩大为二者均免。",
+            "source_ids": [
+              "melhon-direction-5-application",
+              "melhon-music-honours-entry"
+            ]
+          },
+          {
+            "label": "英语要求",
+            "text": "承载荣誉学位页面列IELTS Academic总分6.5、各项至少6.0；亦有认可的其他测试或既往全英语教学与考核学习途径。本轮仅记录该明确标准，具体豁免须按本人学习经历核定。",
+            "source_ids": [
+              "melhon-music-honours-entry"
+            ]
+          },
+          {
+            "label": "研究计划与录像试演",
+            "text": "研究计划100–250词，说明主要项目与配套论文。演奏2首风格对比作品，共10–15分钟，尽可能合奏；可为原创或爵士曲目，需要伴奏时自行安排。每首须连续、无剪辑录像，录制时间在截止前6个月以内。",
+            "source_ids": [
+              "melhon-direction-5-application"
+            ]
+          },
+          {
+            "label": "后续面试",
+            "text": "方向说明试演环节约30分钟，包含项目介绍和讨论；入围申请者通过Zoom讨论研究范围和可行性。入围且主要项目包含新作演出与创作者，须在面试展示原创作品谱，亦可附录音。具体个人面试日期本轮未取得。",
+            "source_ids": [
+              "melhon-direction-5-application"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027年初入学申请",
+            "text": "方向页及母学位申请页的“2027 start year intake”栏列8月3日开放、10月31日截止；母页列12月中旬出结果。月日格未单列日历年份，此处保留对应2027入学轮次，不将其写成2027年10月截止。须同时提交大学线上申请（BH-MUS）及SlideRoom补充创作申请，并在截止前交选拔材料。",
+            "source_ids": [
+              "melhon-direction-5-application",
+              "melhon-music-honours-apply"
+            ]
+          },
+          {
+            "label": "年中入学限制",
+            "text": "本方向概述明确不提供年中入学；不能继承音乐荣誉父页通用July月份作为可申请批次。",
+            "source_ids": [
+              "melhon-direction-5-overview-browser"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "荣誉父学位2026国际费参考",
+            "text": "实际国际视图的Bachelor of Music (Degree with Honours)列2026首年指示学费AUD 39,936。这是承载荣誉学位范围的2026参考，未取得本方向2027独立费率或逐科账单；不借普通三年本科费，也不从该数字推算本方向每项创作成本。",
+            "source_ids": [
+              "melhon-music-honours-overview"
+            ]
+          },
+          {
+            "label": "其他费用及资助缺口",
+            "text": "本轮未取得本方向2027额外器材、演出或展览费用、完整生活预算及独立奖学金的国际生资格、金额和截止；不将潜在资助直接从参考学费扣除。",
+            "source_ids": [
+              "melhon-music-honours-overview"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养去向与统计边界",
+            "text": "专属页说明本荣誉方向为音乐职业以及音乐研究生学习作准备；所列创作、演出或研究成果属于培养目标。本轮未取得本方向按毕业届次、国际生或中国学生身份及响应分母统计的就业率或薪资，不能以普通主修、母学位或具名校友替代。",
+            "source_ids": [
+              "melhon-direction-5-overview-browser",
+              "melhon-direction-5-structure"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/jazz-improvisation/application-requirements/#nav",
+          "title": "Jazz & Improvisation : Application Requirements - The University of Melbourne",
+          "sha256": "7544f984d67f95cf07abed753830fea9fc787bbe9a010b9b856703e56a52a12d",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-5-application",
+          "supports": "2027年初入学专属选拔、材料、豁免和申请月份；冲突就近保留"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/jazz-improvisation/",
+          "title": "Jazz & Improvisation - The University of Melbourne",
+          "sha256": "e2215830da52964c25389cdc74ee050f0166b4ddf47cc27bdd3340c034d969b7",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-5-overview-browser",
+          "supports": "真实荣誉内部方向身份、父学位、培养说明；普通同名专业不得替代"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/jazz-improvisation/structure/#nav",
+          "title": "Jazz & Improvisation : Course structure - The University of Melbourne",
+          "sha256": "53321bf7e58b3f7f3316f9bf4dc7c1e060d7488b49867a6cd1c9fd99711910f6",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-5-structure",
+          "supports": "公开课程构成与研究项目；科目链接年度或缺口在正文注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/how-to-apply/#nav",
+          "title": "Bachelor of Music (Degree with Honours) : How to apply - The University of Melbourne",
+          "sha256": "21df0c4b3302631ebb6d2ece95e57fc9cf39a5e36a6f7b82b2b225a250c7de2c",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-music-honours-apply",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/entry-requirements/#nav",
+          "title": "Bachelor of Music (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "sha256": "06755eb5fad5f6aacfee2702a10761f52aceecf5188f48cc2d5e895589e41326",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-music-honours-entry",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours",
+          "title": "Bachelor of Music (Degree with Honours) - The University of Melbourne",
+          "sha256": "27aed5592a3e047ee5033857546de0cfc30761a08400798606a567dcf57b1cb3",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-music-honours-overview",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "爵士与即兴（音乐荣誉学士方向）",
+        "duration": "1年全日制荣誉阶段；公开示例100学分",
+        "campus": "Southbank",
+        "language": "本方向教学语言本轮未取得专属说明",
+        "intake": "2027年初入学；明确无年中入学",
+        "entry_summary": "相关音乐荣誉学士入口；相关音乐学士近5年WAM≥65%，另按方向选拔。",
+        "tuition_label": "荣誉父学位费用参考",
+        "tuition_summary": "2026国际首年AUD 39,936；2027方向报价未核",
+        "outcomes_summary": "专属培养方向已核；独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "application_dates": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "内部荣誉方向，须先符合实际承载学位资格；未继承普通高中新生条件。",
+        "2027申请安排与当前／2026课程计划、2026父学位费用分开；不认定全部科目或预算已核。"
+      ],
+      "translation_status": "逐页实际公开正文与方向申请要求人工核读"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-specialisation|musicology-ethnomusicology",
+      "name_en": "Musicology & Ethnomusicology",
+      "degree_label": "Bachelor of Music (Degree with Honours) — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/musicology-ethnomusicology/",
+      "source_period": "2027申请／资格；公开课程计划按页内年度与2026链接分别标注；费用2026参考",
+      "inventory_id": "melbourne-musicology-ethnomusicology-4fd48f12a2",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与课程内容",
+            "text": "Musicology & Ethnomusicology是Bachelor of Music (Degree with Honours)内部的荣誉方向，须在相关本科学习后进入，不是普通同名本科主修或另一高中直入学位。围绕音乐学或民族音乐学构思、规划并完成较大研究项目，要求理解前沿文献并运用该领域研究方法；另有专业项目及高级学术选修。",
+            "source_ids": [
+              "melhon-direction-7-overview-browser"
+            ]
+          },
+          {
+            "label": "具体课程与版本边界",
+            "text": "结构页说明在导师指导下完成独立研究、主要成果及相关研究论文，训练实践研究与项目管理。专属公开页未给可核对的逐科代码、学分及完整年度分配；本条不借其他音乐方向的100学分示例补成自身科目表。",
+            "source_ids": [
+              "melhon-direction-7-structure"
+            ]
+          },
+          {
+            "label": "学制、校区与语言边界",
+            "text": "荣誉阶段全日制1年，校区Southbank；母学位另列2年非全日制，国际生个人可用性本轮未核。本轮未取得本方向专属教学语言声明；英语入学考试要求不等于逐科教学语言证明。",
+            "source_ids": [
+              "melhon-music-honours-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "相关学士资格与成绩",
+            "text": "须在近5年完成AQF7音乐学士或等同资格，具备与所选方向相关的主修，WAM至少65%或等同，并满足该方向特殊任务。外校成绩由学校按认证、评分和及格标准评估；这是大学学历准入，不是大陆高考65%的门槛。",
+            "source_ids": [
+              "melhon-music-honours-entry"
+            ]
+          },
+          {
+            "label": "方向选择与豁免",
+            "text": "外校毕业生，或本校音乐学士学生未在一门三年级学术选修中达到75%者须交学术写作样本；本校学生在一门该层级学术选修达到75%者可免样本，不是要求全体选修均分75%。来自艺术史、文化研究、人类学等音乐学或民族音乐学以外领域者可能另需线上面试，仍须符合母学位相关背景认定。",
+            "source_ids": [
+              "melhon-direction-7-application",
+              "melhon-music-honours-entry"
+            ]
+          },
+          {
+            "label": "英语要求",
+            "text": "承载荣誉学位页面列IELTS Academic总分6.5、各项至少6.0；亦有认可的其他测试或既往全英语教学与考核学习途径。本轮仅记录该明确标准，具体豁免须按本人学习经历核定。",
+            "source_ids": [
+              "melhon-music-honours-entry"
+            ]
+          },
+          {
+            "label": "学术写作样本",
+            "text": "需提交者交近5年内写作的2000–3000词学术样本，可为研究论文、民族志报告、计划或文献综述；应展示学术表达、近期文献理解，按内容附参考文献、唱片目录或访谈清单，并使用可识别的引注体例。",
+            "source_ids": [
+              "melhon-direction-7-application"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027年初入学申请",
+            "text": "方向页及母学位申请页的“2027 start year intake”栏列8月3日开放、10月31日截止；母页列12月中旬出结果。月日格未单列日历年份，此处保留对应2027入学轮次，不将其写成2027年10月截止。须同时提交大学线上申请（BH-MUS）及SlideRoom补充创作申请，并在截止前交选拔材料。",
+            "source_ids": [
+              "melhon-direction-7-application",
+              "melhon-music-honours-apply"
+            ]
+          },
+          {
+            "label": "后续批次边界",
+            "text": "本轮已核2027年初入学选拔安排；没有取得本方向另一个2027年中开放轮次的确认，不能从父学位通用月份直接推定。",
+            "source_ids": [
+              "melhon-direction-7-application",
+              "melhon-music-honours-overview"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "荣誉父学位2026国际费参考",
+            "text": "实际国际视图的Bachelor of Music (Degree with Honours)列2026首年指示学费AUD 39,936。这是承载荣誉学位范围的2026参考，未取得本方向2027独立费率或逐科账单；不借普通三年本科费，也不从该数字推算本方向每项创作成本。",
+            "source_ids": [
+              "melhon-music-honours-overview"
+            ]
+          },
+          {
+            "label": "其他费用及资助缺口",
+            "text": "本轮未取得本方向2027额外器材、演出或展览费用、完整生活预算及独立奖学金的国际生资格、金额和截止；不将潜在资助直接从参考学费扣除。",
+            "source_ids": [
+              "melhon-music-honours-overview"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养去向与统计边界",
+            "text": "专属页说明本荣誉方向为音乐职业以及音乐研究生学习作准备；所列创作、演出或研究成果属于培养目标。本轮未取得本方向按毕业届次、国际生或中国学生身份及响应分母统计的就业率或薪资，不能以普通主修、母学位或具名校友替代。",
+            "source_ids": [
+              "melhon-direction-7-overview-browser",
+              "melhon-direction-7-structure"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/musicology-ethnomusicology/application-requirements/#nav",
+          "title": "Musicology & Ethnomusicology : Application Requirements - The University of Melbourne",
+          "sha256": "2ecf0791c3b60d3415899cdb7ca764343290853c08d2c4397109c107e0cca4f9",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-7-application",
+          "supports": "2027年初入学专属选拔、材料、豁免和申请月份；冲突就近保留"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/musicology-ethnomusicology/",
+          "title": "Musicology & Ethnomusicology - The University of Melbourne",
+          "sha256": "e7c6c89e3ae67c22975c8acb7eb133fac05ec6213cb52199af5785abe6790646",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-7-overview-browser",
+          "supports": "真实荣誉内部方向身份、父学位、培养说明；普通同名专业不得替代"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/musicology-ethnomusicology/structure/#nav",
+          "title": "Musicology & Ethnomusicology : Course structure - The University of Melbourne",
+          "sha256": "e853c6a555869a47ada5e117f78144232aefbe64ae8c59427bf140b31b21a6cc",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-7-structure",
+          "supports": "公开课程构成与研究项目；科目链接年度或缺口在正文注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/how-to-apply/#nav",
+          "title": "Bachelor of Music (Degree with Honours) : How to apply - The University of Melbourne",
+          "sha256": "21df0c4b3302631ebb6d2ece95e57fc9cf39a5e36a6f7b82b2b225a250c7de2c",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-music-honours-apply",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/entry-requirements/#nav",
+          "title": "Bachelor of Music (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "sha256": "06755eb5fad5f6aacfee2702a10761f52aceecf5188f48cc2d5e895589e41326",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-music-honours-entry",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours",
+          "title": "Bachelor of Music (Degree with Honours) - The University of Melbourne",
+          "sha256": "27aed5592a3e047ee5033857546de0cfc30761a08400798606a567dcf57b1cb3",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-music-honours-overview",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "音乐学与民族音乐学（音乐荣誉学士方向）",
+        "duration": "1年全日制荣誉阶段；逐科总学分本轮未核",
+        "campus": "Southbank",
+        "language": "本方向教学语言本轮未取得专属说明",
+        "intake": "2027年初入学；后续批次未核",
+        "entry_summary": "相关音乐荣誉学士入口；相关音乐学士近5年WAM≥65%，另按方向选拔。",
+        "tuition_label": "荣誉父学位费用参考",
+        "tuition_summary": "2026国际首年AUD 39,936；2027方向报价未核",
+        "outcomes_summary": "专属培养方向已核；独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "application_dates": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "内部荣誉方向，须先符合实际承载学位资格；未继承普通高中新生条件。",
+        "2027申请安排与当前／2026课程计划、2026父学位费用分开；不认定全部科目或预算已核。"
+      ],
+      "translation_status": "逐页实际公开正文与方向申请要求人工核读"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-specialisation|performance",
+      "name_en": "Performance",
+      "degree_label": "Bachelor of Music (Degree with Honours) — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/performance/",
+      "source_period": "2027申请／资格；公开课程计划按页内年度与2026链接分别标注；费用2026参考",
+      "inventory_id": "melbourne-performance-3382b76956",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与课程内容",
+            "text": "Performance是Bachelor of Music (Degree with Honours)内部的荣誉方向，须在相关本科学习后进入，不是普通同名本科主修或另一高中直入学位。集中发展独奏与合奏、扩大曲目与音乐表现深度，以公开演出评估；导师指导研究、主要艺术成果及相关研究论文。",
+            "source_ids": [
+              "melhon-direction-8-overview-browser",
+              "melhon-direction-8-structure"
+            ]
+          },
+          {
+            "label": "具体课程与版本边界",
+            "text": "公开100学分示例：第一学期协奏曲MUSI40060 18.75、室内乐1 MUSI40062 6.25、合奏1 MUSI40063 6.25、音乐研究过程MUSI40064 12.5及选修6.25；第二学期独奏会MUSI40061 18.75、室内乐2 MUSI40081 6.25、合奏2 MUSI40080 6.25及选修12.5和6.25。科目链接指向2026 Handbook，不升级为2027确定表。",
+            "source_ids": [
+              "melhon-direction-8-structure"
+            ]
+          },
+          {
+            "label": "学制、校区与语言边界",
+            "text": "荣誉阶段全日制1年，校区Southbank；母学位另列2年非全日制，国际生个人可用性本轮未核。本轮未取得本方向专属教学语言声明；英语入学考试要求不等于逐科教学语言证明。",
+            "source_ids": [
+              "melhon-music-honours-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "相关学士资格与成绩",
+            "text": "须在近5年完成AQF7音乐学士或等同资格，具备与所选方向相关的主修，WAM至少65%或等同，并满足该方向特殊任务。外校成绩由学校按认证、评分和及格标准评估；这是大学学历准入，不是大陆高考65%的门槛。",
+            "source_ids": [
+              "melhon-music-honours-entry"
+            ]
+          },
+          {
+            "label": "方向选择与豁免",
+            "text": "外校毕业生，或本校Performance 6／Practical Music 6低于75%者须试演；本校指定科达到75%者可免试演，补充申请须填写本校学生状态以核定，不将后文“所有人试演”概括句抹去明确例外。",
+            "source_ids": [
+              "melhon-direction-8-application",
+              "melhon-music-honours-entry"
+            ]
+          },
+          {
+            "label": "英语要求",
+            "text": "承载荣誉学位页面列IELTS Academic总分6.5、各项至少6.0；亦有认可的其他测试或既往全英语教学与考核学习途径。本轮仅记录该明确标准，具体豁免须按本人学习经历核定。",
+            "source_ids": [
+              "melhon-music-honours-entry"
+            ]
+          },
+          {
+            "label": "录像曲目与伴奏",
+            "text": "准备3首不同风格、时期和作曲家的作品，总长25–30分钟；除电吉他和贝斯外取西方艺术音乐曲目。整场须单次连续、无剪辑录制为一个文件。适用的器乐和声乐至少部分曲目有伴奏；古典钢琴、古典吉他和打击乐通常不伴奏，钢琴按标准音乐会惯例背谱。",
+            "source_ids": [
+              "melhon-direction-8-application"
+            ]
+          },
+          {
+            "label": "打击乐、设备与后续评审",
+            "text": "打击乐分别准备小鼓、定音鼓、双槌键盘作品及四槌演奏展示；无法取得全部乐器可联系学院讨论替代安排。学校不要求为录像购置手机、平板或电脑以外设备；遴选委员会可能要求第二次试演或讨论，并按技术、音色、舞台表现和音乐理解排序。",
+            "source_ids": [
+              "melhon-direction-8-application"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027年初入学申请",
+            "text": "方向页及母学位申请页的“2027 start year intake”栏列8月3日开放、10月31日截止；母页列12月中旬出结果。月日格未单列日历年份，此处保留对应2027入学轮次，不将其写成2027年10月截止。须同时提交大学线上申请（BH-MUS）及SlideRoom补充创作申请，并在截止前交选拔材料。",
+            "source_ids": [
+              "melhon-direction-8-application",
+              "melhon-music-honours-apply"
+            ]
+          },
+          {
+            "label": "后续批次边界",
+            "text": "本轮已核2027年初入学选拔安排；没有取得本方向另一个2027年中开放轮次的确认，不能从父学位通用月份直接推定。",
+            "source_ids": [
+              "melhon-direction-8-application",
+              "melhon-music-honours-overview"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "荣誉父学位2026国际费参考",
+            "text": "实际国际视图的Bachelor of Music (Degree with Honours)列2026首年指示学费AUD 39,936。这是承载荣誉学位范围的2026参考，未取得本方向2027独立费率或逐科账单；不借普通三年本科费，也不从该数字推算本方向每项创作成本。",
+            "source_ids": [
+              "melhon-music-honours-overview"
+            ]
+          },
+          {
+            "label": "其他费用及资助缺口",
+            "text": "本轮未取得本方向2027额外器材、演出或展览费用、完整生活预算及独立奖学金的国际生资格、金额和截止；不将潜在资助直接从参考学费扣除。",
+            "source_ids": [
+              "melhon-music-honours-overview"
+            ]
+          },
+          {
+            "label": "录像设备不是强制购买",
+            "text": "试演页明确不期待申请者购买基本手机、平板或电脑以外的录制设备；这是申请录像的设备说明，不代表课程所需乐器或其他学习成本全免。",
+            "source_ids": [
+              "melhon-direction-8-application"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养去向与统计边界",
+            "text": "专属页说明本荣誉方向为音乐职业以及音乐研究生学习作准备；所列创作、演出或研究成果属于培养目标。本轮未取得本方向按毕业届次、国际生或中国学生身份及响应分母统计的就业率或薪资，不能以普通主修、母学位或具名校友替代。",
+            "source_ids": [
+              "melhon-direction-8-overview-browser",
+              "melhon-direction-8-structure"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/performance/application-requirements/#nav",
+          "title": "Performance : Application Requirements - The University of Melbourne",
+          "sha256": "bd4e9a5f8b1ff37ba824cde06115401f3d94d7df76d99c5c0d1d1960cbe4b41f",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-8-application",
+          "supports": "2027年初入学专属选拔、材料、豁免和申请月份；冲突就近保留"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/performance/",
+          "title": "Performance - The University of Melbourne",
+          "sha256": "dc83d53c6f04f371f5d979572f20135cfc2b168ae175ae3a6ec9ca1669e296f5",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-8-overview-browser",
+          "supports": "真实荣誉内部方向身份、父学位、培养说明；普通同名专业不得替代"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/performance/structure/#nav",
+          "title": "Performance : Course structure - The University of Melbourne",
+          "sha256": "0874df606674a78e098f76c185c64452b8a45ca471117e346a6cf0a2d8380255",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-8-structure",
+          "supports": "公开课程构成与研究项目；科目链接年度或缺口在正文注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/how-to-apply/#nav",
+          "title": "Bachelor of Music (Degree with Honours) : How to apply - The University of Melbourne",
+          "sha256": "21df0c4b3302631ebb6d2ece95e57fc9cf39a5e36a6f7b82b2b225a250c7de2c",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-music-honours-apply",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours/entry-requirements/#nav",
+          "title": "Bachelor of Music (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "sha256": "06755eb5fad5f6aacfee2702a10761f52aceecf5188f48cc2d5e895589e41326",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-music-honours-entry",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-music-degree-with-honours",
+          "title": "Bachelor of Music (Degree with Honours) - The University of Melbourne",
+          "sha256": "27aed5592a3e047ee5033857546de0cfc30761a08400798606a567dcf57b1cb3",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-music-honours-overview",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "表演（音乐荣誉学士方向）",
+        "duration": "1年全日制荣誉阶段；公开示例100学分",
+        "campus": "Southbank",
+        "language": "本方向教学语言本轮未取得专属说明",
+        "intake": "2027年初入学；后续批次未核",
+        "entry_summary": "相关音乐荣誉学士入口；相关音乐学士近5年WAM≥65%，另按方向选拔。",
+        "tuition_label": "荣誉父学位费用参考",
+        "tuition_summary": "2026国际首年AUD 39,936；2027方向报价未核",
+        "outcomes_summary": "专属培养方向已核；独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "application_dates": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "内部荣誉方向，须先符合实际承载学位资格；未继承普通高中新生条件。",
+        "2027申请安排与当前／2026课程计划、2026父学位费用分开；不认定全部科目或预算已核。"
+      ],
+      "translation_status": "逐页实际公开正文与方向申请要求人工核读"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-specialisation|visual-art",
+      "name_en": "Visual Art",
+      "degree_label": "Bachelor of Fine Arts (Degree with Honours) — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/visual-art/",
+      "source_period": "2027申请／资格；公开课程计划按页内年度与2026链接分别标注；费用2026参考",
+      "inventory_id": "melbourne-visual-art-254d982359",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "方向身份与课程内容",
+            "text": "Visual Art是Bachelor of Fine Arts (Degree with Honours)内部的荣誉方向，须在相关本科学习后进入，不是普通同名本科主修或另一高中直入学位。以独立工作室实践推进视觉艺术创作，研究概念、材料、技法与过程，并学习批评理论和专业艺术实践；通过学生展和年度毕业展向公众呈现成果。",
+            "source_ids": [
+              "melhon-direction-11-overview-browser"
+            ]
+          },
+          {
+            "label": "具体课程与版本边界",
+            "text": "专属公开计划明确100学分：全年视觉艺术主要项目FINA40003为75；第一学期创意艺术研究方法CREA40001为12.5；第二学期研究论文CREA40002为12.5。最终以艺术学院毕业展呈现作品。当前科目链接指向2026 Handbook，2027科目版本本轮未取得。",
+            "source_ids": [
+              "melhon-direction-11-structure"
+            ]
+          },
+          {
+            "label": "学制、校区与语言边界",
+            "text": "荣誉阶段全日制1年，校区Southbank；本轮未取得本方向专属教学语言声明；英语入学考试要求不等于逐科教学语言证明。",
+            "source_ids": [
+              "melhon-fine-arts-honours-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "相关学士资格与成绩",
+            "text": "须完成AQF7相关美术学士或等同资格，相关主修与拟入方向相符，WAM至少70%或等同。外校背景与成绩由学校评估，并完成该方向书面计划、作品集和面试；不是大陆高考70%的条件。",
+            "source_ids": [
+              "melhon-fine-arts-honours-entry"
+            ]
+          },
+          {
+            "label": "方向选择与豁免",
+            "text": "除母学位相关美术学士及70%要求外，按书面研究计划、作品集和入围面试选择。评审看课题相关性、资源和导师容量，以及原创性、技能和创作经历；达到最低要求不保证录取。",
+            "source_ids": [
+              "melhon-direction-11-application",
+              "melhon-fine-arts-honours-entry"
+            ]
+          },
+          {
+            "label": "英语要求",
+            "text": "承载荣誉学位页面列IELTS Academic总分6.5、各项至少6.0；亦有认可的其他测试或既往全英语教学与考核学习途径。本轮仅记录该明确标准，具体豁免须按本人学习经历核定。",
+            "source_ids": [
+              "melhon-fine-arts-honours-entry"
+            ]
+          },
+          {
+            "label": "计划与作品集",
+            "text": "书面陈述700–1000词，说明拟进行的工作室项目、研究论文及相关经历；提交与计划有关的近期作品，最多10张图和／或8分钟视频，逐件标作品名、日期、媒介及尺寸或时长。",
+            "source_ids": [
+              "melhon-direction-11-application"
+            ]
+          },
+          {
+            "label": "入围面试及时间栏",
+            "text": "入围者参加约30分钟面试，可通过Zoom或Southbank面授，讨论计划、兴趣、期望和动机。2027年初入学页面列11月16–20日面试、12月中旬出结果；月日栏未再次写日历年份，须按该轮面试通知核实。",
+            "source_ids": [
+              "melhon-direction-11-application"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027年初入学申请",
+            "text": "方向页及母学位申请页的“2027 start year intake”栏列8月3日开放、10月31日截止；母页列12月中旬出结果。月日格未单列日历年份，此处保留对应2027入学轮次，不将其写成2027年10月截止。须同时提交大学线上申请（BH-FA）及SlideRoom补充创作申请，并在截止前交选拔材料。",
+            "source_ids": [
+              "melhon-direction-11-application",
+              "melhon-fine-arts-honours-apply"
+            ]
+          },
+          {
+            "label": "后续批次边界",
+            "text": "本轮已核2027年初入学选拔安排；没有取得本方向另一个2027年中开放轮次的确认，不能从父学位通用月份直接推定。",
+            "source_ids": [
+              "melhon-direction-11-application",
+              "melhon-fine-arts-honours-overview"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "荣誉父学位2026国际费参考",
+            "text": "实际国际视图的Bachelor of Fine Arts (Degree with Honours)列2026首年指示学费AUD 39,936–66,912。这是承载荣誉学位范围的2026参考，未取得本方向2027独立费率或逐科账单；不借普通三年本科费，也不从该数字推算本方向每项创作成本。",
+            "source_ids": [
+              "melhon-fine-arts-honours-overview"
+            ]
+          },
+          {
+            "label": "其他费用及资助缺口",
+            "text": "本轮未取得本方向2027额外器材、演出或展览费用、完整生活预算及独立奖学金的国际生资格、金额和截止；不将潜在资助直接从参考学费扣除。",
+            "source_ids": [
+              "melhon-fine-arts-honours-overview"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养去向与统计边界",
+            "text": "专属页说明可准备研究型高等学位及专业艺术实践；毕业展属于课程成果。本轮未取得本方向按毕业届次、国际生或中国学生身份及响应分母统计的就业率或薪资，不能以普通主修、母学位或具名校友替代。",
+            "source_ids": [
+              "melhon-direction-11-overview-browser",
+              "melhon-direction-11-structure"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/visual-art/application-requirements/#nav",
+          "title": "Visual Art : Application Requirements - The University of Melbourne",
+          "sha256": "9fec328229235409a1a960398e850d90ca66bedef24c36af27455958b76d2ad6",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-11-application",
+          "supports": "2027年初入学专属选拔、材料、豁免和申请月份；冲突就近保留"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/visual-art/",
+          "title": "Visual Art - The University of Melbourne",
+          "sha256": "4509f58f0d702b4a3f2ccd28dca605f5f3f02a900db41fce22e708d240e15157",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-11-overview-browser",
+          "supports": "真实荣誉内部方向身份、父学位、培养说明；普通同名专业不得替代"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/visual-art/structure/#nav",
+          "title": "Visual Art : Course structure - The University of Melbourne",
+          "sha256": "7eebc72b9be72449f68c5b7831b2630ca8bf617053b7034513a27b8cebc6cead",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-direction-11-structure",
+          "supports": "公开课程构成与研究项目；科目链接年度或缺口在正文注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours/how-to-apply/#nav",
+          "title": "Bachelor of Fine Arts (Degree with Honours) : How to apply - The University of Melbourne",
+          "sha256": "ce4a249e23a8d53c644ea45f0ef0bab03bad60ce00da71f024e14d61d61e5823",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-fine-arts-honours-apply",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours/entry-requirements/#nav",
+          "title": "Bachelor of Fine Arts (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "sha256": "f294b2985688fc18a877a6f5cf97c689c1422831fa7139c2e277a1fe8df7eadb",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-fine-arts-honours-entry",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-fine-arts-degree-with-honours",
+          "title": "Bachelor of Fine Arts (Degree with Honours) - The University of Melbourne",
+          "sha256": "ac7a581caf794f44f85fabbca31449b354a123e6e76edfd9bc376d7cc1ca2f76",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-fine-arts-honours-overview",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "视觉艺术（美术荣誉学士方向）",
+        "duration": "1年全日制荣誉阶段；公开示例100学分",
+        "campus": "Southbank",
+        "language": "本方向教学语言本轮未取得专属说明",
+        "intake": "2027年初入学；后续批次未核",
+        "entry_summary": "相关美术荣誉学士入口；相关美术学士WAM≥70%，另交计划、作品集及入围面试。",
+        "tuition_label": "荣誉父学位费用参考",
+        "tuition_summary": "2026国际首年AUD 39,936–66,912；2027方向报价未核",
+        "outcomes_summary": "专属培养方向已核；独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "application_dates": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "内部荣誉方向，须先符合实际承载学位资格；未继承普通高中新生条件。",
+        "2027申请安排与当前／2026课程计划、2026父学位费用分开；不认定全部科目或预算已核。"
+      ],
+      "translation_status": "逐页实际公开正文与方向申请要求人工核读"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-specialisation|psychology",
+      "name_en": "Psychology",
+      "degree_label": "Arts / Biomedicine / Science honours — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/psychology/",
+      "source_period": "2027申请／资格；公开课程计划按页内年度与2026链接分别标注；费用2026参考",
+      "inventory_id": "melbourne-psychology-a3cff9c245",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "一个方向与三个荣誉入口",
+            "text": "Psychology是Arts、Biomedicine与Science三个荣誉学士的共同第四年方向，并非三个自由组合或新的独立学位。申请者应按先前学历选择一个符合资格的承载学位；Graduate Diploma in Psychology (Advanced)是另一个研究生文凭入口，本本科方向不包含该文凭。",
+            "source_ids": [
+              "melhon-psychology-overview",
+              "melhon-psychology-entry"
+            ]
+          },
+          {
+            "label": "研究与课程构成",
+            "text": "专属结构为三门必修（含研究项目）及两门选修，研究与高级授课各半。院系实际展开课程表列：PSYC40005高级设计与数据分析12.5、PSYC40006伦理与循证实践12.5、全年PSYC40010研究项目50学分。",
+            "source_ids": [
+              "melhon-psychology-structure",
+              "melhon-psychology-faculty-expanded"
+            ]
+          },
+          {
+            "label": "选修范围与年度边界",
+            "text": "院系表列第二学期四选二，各12.5学分：PSYC40001发展心理学当前专题、PSYC40002社会心理学当前专题、PSYC40004行为与认知神经科学、PSYC40012心理过程模型。该资源页含2026迎新材料，完整课程合计100学分；2027入学安排另已核，但本轮未取得2027正式逐科手册，不能合并成同一年度确证。",
+            "source_ids": [
+              "melhon-psychology-faculty-expanded"
+            ]
+          },
+          {
+            "label": "学制、校区与文学荣誉例外",
+            "text": "三个承载荣誉学位均列全日制1年、Parkville。文学荣誉结构明确Psychology没有combined honours选项；本条不套文学荣誉一般15,000词论文或任意另一科组合。本轮未取得本方向专属教学语言说明。",
+            "source_ids": [
+              "melhon-arts-honours-overview",
+              "melhon-biomedicine-honours-overview",
+              "melhon-science-honours-overview",
+              "melhon-arts-honours-structure"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "共同心理学先修与成绩",
+            "text": "须完成符合承载学位资格的相关本科及APAC认可心理学三年序列；二、三级心理学科目的加权成绩至少70%，三级平均权重为二级的两倍，即(a+2b)/3。学校按等同背景评估海外资格；不是高考70%或普通生物医学／理学65%规则。达到最低要求不保证有名额。",
+            "source_ids": [
+              "melhon-psychology-entry"
+            ]
+          },
+          {
+            "label": "文学荣誉学士资格",
+            "text": "文学荣誉入口要求已完成BA且在近5年内；心理学专属页面的共同APAC及加权70%条件仍须满足。不能用其他任意学士自动选择Arts荣誉入口。",
+            "source_ids": [
+              "melhon-psychology-entry"
+            ]
+          },
+          {
+            "label": "理学与生物医学荣誉资格",
+            "text": "理学入口要求BSc或理学院认可的等同学历，生物医学入口要求BBiomed或MDHS认可的等同学历，两者均列近10年内完成。须同时符合心理学序列和成绩条件；不将合作医学荣誉入口的医学院资格套入心理学。",
+            "source_ids": [
+              "melhon-psychology-entry",
+              "melhon-psychology-overview"
+            ]
+          },
+          {
+            "label": "海外心理学资格与材料",
+            "text": "澳大利亚以外完成心理学学习者须提供Australian Psychological Society（APS）学历评估函；材料包括正式成绩单、完整科目成绩和评分说明，以及适用的英语证明。当前完成中的学位可在截止后补更新成绩和完成证明，仍须先按时递交申请，越早补齐越好。",
+            "source_ids": [
+              "melhon-psychology-entry"
+            ]
+          },
+          {
+            "label": "英语要求与范围",
+            "text": "心理学申请页指向6.5英语要求，三个实际承载荣誉学位概述均列IELTS总分6.5、单项不低于6.0；具体认可测试与既往全英语学习豁免须依申请者和所选父学位核定。",
+            "source_ids": [
+              "melhon-psychology-entry",
+              "melhon-arts-honours-overview",
+              "melhon-biomedicine-honours-overview",
+              "melhon-science-honours-overview"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027申请截止与单一申请",
+            "text": "2027名额申请截止为2026年10月16日23:59，不收迟交申请；应只提交一个符合资格的荣誉课程申请，重复申请不会增加录取机会。对于在澳大利亚以外学习的外校申请者，APS评估函截止2026年11月13日23:59，不收迟交函。该页面未在时间旁明确时区。",
+            "source_ids": [
+              "melhon-psychology-entry"
+            ]
+          },
+          {
+            "label": "2027开学与通知",
+            "text": "本方向不设年中入学，采用提前开始的第一学期；结果通知预计从2026年12月下旬至2027年2月中旬。页面列2027年2月25日10:00迎新、2月26日开始上课，不从父学位普通July批次推定可转入。",
+            "source_ids": [
+              "melhon-psychology-entry"
+            ]
+          },
+          {
+            "label": "申请补充说明",
+            "text": "页面还列Graduate Access Melbourne的2026年10月16日材料截止，但本轮未核大陆国际申请者是否满足该专项准入，因此不将其作为人人可用的加分或资助。GDA条款及其毕业典礼说明亦不转用到三个本科荣誉学位。",
+            "source_ids": [
+              "melhon-psychology-entry"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "三个承载学位2026国际参考费",
+            "text": "已读实际国际视图：Arts荣誉2026首年AUD 39,936–57,316；Biomedicine荣誉AUD 62,208；Science荣誉AUD 52,752–62,208。分别为三个父学位范围的指示价，不能任选较低值当心理学报价，也不是三份费用相加。",
+            "source_ids": [
+              "melhon-arts-honours-overview",
+              "melhon-biomedicine-honours-overview",
+              "melhon-science-honours-overview"
+            ]
+          },
+          {
+            "label": "方向2027费用及资助缺口",
+            "text": "本轮未取得心理学荣誉方向2027逐科实际学费、国际奖学金金额与资格、APS评估费用或完整留学生活预算；父学位2026区间不能证明本方向每种资格同价，亦不把GDA文凭费用混入本科。",
+            "source_ids": [
+              "melhon-psychology-entry",
+              "melhon-arts-honours-overview",
+              "melhon-biomedicine-honours-overview",
+              "melhon-science-honours-overview"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "APAC第四年与专业注册边界",
+            "text": "心理学第四年为APAC认可的进一步心理学学习路径；其后仍须完成成为注册心理师所需的进一步学习，不是读完本荣誉年便自动获得执业资格。官网亦将其作为心理学研究型高等学位的准备。",
+            "source_ids": [
+              "melhon-psychology-overview",
+              "melhon-biomedicine-honours-structure"
+            ]
+          },
+          {
+            "label": "毕业统计与名额口径",
+            "text": "本轮未取得本方向按毕业届次、国际生或中国学生身份、响应样本和分母定义的就业率或薪酬。申请页提及每年约100个第四年项目名额，范围包含不同第四年资格，不是三个荣誉学士各100名或中国学生专属名额，更非就业调查样本。",
+            "source_ids": [
+              "melhon-psychology-entry"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours",
+          "title": "Bachelor of Arts (Degree with Honours) - The University of Melbourne",
+          "sha256": "7f8f6f683153cd910a3ee29c4a548f8cf217be74929bb04811873ed965fd1c9a",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-arts-honours-overview",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/structure/#nav",
+          "title": "Bachelor of Arts (Degree with Honours)",
+          "sha256": "42615ff1bdf44eee67ce2d156668a64ada06b9e24d5f48e7685f23a883395f34",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-arts-honours-structure",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours",
+          "title": "Bachelor of Biomedicine (Degree with Honours) - The University of Melbourne",
+          "sha256": "d09114381101c0d131db05ad9adb3baf36a3249fd9d88b796c16fb581bf86fb0",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-biomedicine-honours-overview",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours/structure/#nav",
+          "title": "Bachelor of Biomedicine (Degree with Honours)",
+          "sha256": "415b67b2d74f394dde5179becb7a9a3fa7993bd0063e614cd6b74577f1fc06d0",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-biomedicine-honours-structure",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/psychology/entry-requirements/",
+          "title": "Psychology : Entry requirements - The University of Melbourne",
+          "sha256": "17a42b45e5c04b67d53d529771a3c5e47ac973bf5d5548bac90022eec6ded3d5",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-psychology-entry",
+          "supports": "2027第四年入学、APAC资格、加权70、毕业年限、申请与海外APS截止；GDA另属研究生文凭"
+        },
+        {
+          "url": "https://psychologicalsciences.unimelb.edu.au/study/fourth-year-honours",
+          "title": "Fourth Year (Honours and Graduate Diploma Advanced)",
+          "sha256": "c80b0c8761e3504e270bda079361427f7b90adb93f18ac7428a7c9b148772bf8",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-psychology-faculty-expanded",
+          "supports": "实际展开Program Structure；2026在读资源页的具体科名、学分及选修范围，不当已核2027手册"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/psychology/",
+          "title": "Psychology - The University of Melbourne",
+          "sha256": "214c2dacf5af8be00d6dfe854890123b35e6a61930da69733d75f36376af92cf",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-psychology-overview",
+          "supports": "心理学第四年方向、三个荣誉父学位与独立GDA资格区别"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/psychology/structure/",
+          "title": "Psychology : Course structure - The University of Melbourne",
+          "sha256": "e0284ecdce474ac25f5793fca2020981f9908671358035e8ec8d93d45982f567",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-psychology-structure",
+          "supports": "心理学第四年三必修两选修、研究与授课各半"
+        },
+        {
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours",
+          "title": "Bachelor of Science (Degree with Honours) - The University of Melbourne",
+          "sha256": "3eda8efd01c3f12b52d2857b5c64d7ebbb1f2f87a0ecc9707d7cee5a304ead37",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "id": "melhon-science-honours-overview",
+          "supports": "荣誉父学位的实际公开说明；大学学历、英语与校区、2026国际指示费或选择程序，适用范围在事实内注明"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "心理学（文学／生物医学／理学荣誉方向）",
+        "duration": "1年全日制荣誉阶段；当前课程表100学分",
+        "campus": "Parkville",
+        "language": "本方向教学语言本轮未取得专属说明",
+        "intake": "2027年初；无年中入学",
+        "entry_summary": "学士后APAC心理学第四年；按Arts／Biomedicine／Science分别核先前学位，加权心理学成绩≥70%。",
+        "tuition_label": "三个荣誉父学位费用参考",
+        "tuition_summary": "2026 Arts／Biomedicine／Science各自费表；心理学2027价未核",
+        "outcomes_summary": "APAC第四年；进一步学习与注册另有条件，独立就业统计未核"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "application_dates": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "内部荣誉方向，须先符合实际承载学位资格；未继承普通高中新生条件。",
+        "2027申请安排与当前／2026课程计划、2026父学位费用分开；不认定全部科目或预算已核。"
+      ],
+      "translation_status": "逐页实际公开正文与方向申请要求人工核读"
     }
   ],
   "profile": {

@@ -3,9 +3,9 @@
   "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 163,
+    "count": 170,
     "scope": "Every named bachelor and non-minor major/specialisation in 2027 official university guide pp12–13, plus Science Extended in entry table",
-    "method": "{\"pdf_pages\": 24, \"complete_major_spread_pages\": [12, 13], \"visual_review\": true, \"group_counts\": {\"Agriculture\": 3, \"Arts\": 33, \"Biomedicine\": 16, \"Commerce\": 7, \"Design\": 14, \"Fine Arts\": 9, \"Music\": 6, \"Oral Health\": 0, \"Science\": 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。 本次独立对账官方11页129个主修/辅修/方向结果：93主修URL对应115父学位关系，114已在库存、1为已更正的旧数学总项；25荣誉方向URL去重为13方向、12为申请子页；11辅修不作新学位。另补9个具名荣誉学士，现153条，原144身份及事实保留。 新补BCom总表明确列名的10个学位内specialisation，与七主修形成16个真实资格关系；Ethics共享一条，不枚举自由组合。当前163条，原153条及来源日期保持；方向课程例子、费用和职业信息明确限定父主修/父学位范围。",
+    "method": "{\"pdf_pages\": 24, \"complete_major_spread_pages\": [12, 13], \"visual_review\": true, \"group_counts\": {\"Agriculture\": 3, \"Arts\": 33, \"Biomedicine\": 16, \"Commerce\": 7, \"Design\": 14, \"Fine Arts\": 9, \"Music\": 6, \"Oral Health\": 0, \"Science\": 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。 本次独立对账官方11页129个主修/辅修/方向结果：93主修URL对应115父学位关系，114已在库存、1为已更正的旧数学总项；25荣誉方向URL去重为13方向、12为申请子页；11辅修不作新学位。另补9个具名荣誉学士，现153条，原144身份及事实保留。 新补BCom总表明确列名的10个学位内specialisation，与七主修形成16个真实资格关系；Ethics共享一条，不枚举自由组合。当前163条，原153条及来源日期保持；方向课程例子、费用和职业信息明确限定父主修/父学位范围。 全majors目录25个荣誉方向结果去重为13个真实方向，6项明确无2027招生留存处置；新增7个内部荣誉方向，9条真实父学位关系，心理学共用一条连接Arts/Biomedicine/Science。原163记录保持，总170；未把普通同名主修或GDA文凭并入。",
     "exclusions": "Official PDF obtained using normal Chrome downloadMedia on observed download link; archived original + SHA256；Explicit minor-only footnote exclusions: Chinese Societies, Development Studies, Digital Studies, English Language Studies, Environmental Studies, European Studies, Japanese Societies, Law and Justice, Medieval and Early Modern Studies, South Asian Studies；Oral Health four curricular components explicitly not majors and are not separately counted；Exclude concurrent diplomas and standalone postgraduate MD/JD/DVM; Veterinary Bioscience remains bachelor major with later-selection note",
     "sources": [
       {
@@ -3152,6 +3152,116 @@
         "url": "https://study.unimelb.edu.au/find/courses/major/actuarial-studies/structure/",
         "sha256": "5dfb142ead0ac2cb8842cdfd329bdd2110e068583497432447fe0c9468a2e7c4",
         "raw_file": "scratch/full-catalog/melbourne-commerce-specialisations/raw/actuarial-studies-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/composition/application-requirements/#nav",
+        "sha256": "e69eac9308509d9096fc240c4c6099e127b0ec09ea0e913cbccd1e6f02aab8d7",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-3-application.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/composition/",
+        "sha256": "3cbd6e9ccc7c148fbc6f1a2a70c1a74fb6589998fc76d0084177de5faeaa8207",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-3-overview-browser.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/composition/structure/#nav",
+        "sha256": "44fe78506411fb327ef9c2202ef262c4bc883e69d239d0642d236abbe9551d95",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-3-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/interactive-composition/application-requirements/#nav",
+        "sha256": "19e52fd42d904a5a2b750b252cb2994e49299dff9773c860ba24bffe08988765",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-4-application.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/interactive-composition/",
+        "sha256": "51e1c392132dea92cae2032e395e38f90f7c766588fbe2ea2f8a69793f8515ef",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-4-overview-browser.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/interactive-composition/structure/#nav",
+        "sha256": "d9c852d6189900be1289b86de0f211c1a6e64606eeb81c896171d3b10b15f0ab",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-4-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/jazz-improvisation/application-requirements/#nav",
+        "sha256": "7544f984d67f95cf07abed753830fea9fc787bbe9a010b9b856703e56a52a12d",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-5-application.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/jazz-improvisation/",
+        "sha256": "e2215830da52964c25389cdc74ee050f0166b4ddf47cc27bdd3340c034d969b7",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-5-overview-browser.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/jazz-improvisation/structure/#nav",
+        "sha256": "53321bf7e58b3f7f3316f9bf4dc7c1e060d7488b49867a6cd1c9fd99711910f6",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-5-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/musicology-ethnomusicology/application-requirements/#nav",
+        "sha256": "2ecf0791c3b60d3415899cdb7ca764343290853c08d2c4397109c107e0cca4f9",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-7-application.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/musicology-ethnomusicology/",
+        "sha256": "e7c6c89e3ae67c22975c8acb7eb133fac05ec6213cb52199af5785abe6790646",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-7-overview-browser.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/musicology-ethnomusicology/structure/#nav",
+        "sha256": "e853c6a555869a47ada5e117f78144232aefbe64ae8c59427bf140b31b21a6cc",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-7-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/performance/application-requirements/#nav",
+        "sha256": "bd4e9a5f8b1ff37ba824cde06115401f3d94d7df76d99c5c0d1d1960cbe4b41f",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-8-application.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/performance/",
+        "sha256": "dc83d53c6f04f371f5d979572f20135cfc2b168ae175ae3a6ec9ca1669e296f5",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-8-overview-browser.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/performance/structure/#nav",
+        "sha256": "0874df606674a78e098f76c185c64452b8a45ca471117e346a6cf0a2d8380255",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-8-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/visual-art/application-requirements/#nav",
+        "sha256": "9fec328229235409a1a960398e850d90ca66bedef24c36af27455958b76d2ad6",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-11-application.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/visual-art/",
+        "sha256": "4509f58f0d702b4a3f2ccd28dca605f5f3f02a900db41fce22e708d240e15157",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-11-overview-browser.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/visual-art/structure/#nav",
+        "sha256": "7eebc72b9be72449f68c5b7831b2630ca8bf617053b7034513a27b8cebc6cead",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/direction-11-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/psychology/entry-requirements/",
+        "sha256": "17a42b45e5c04b67d53d529771a3c5e47ac973bf5d5548bac90022eec6ded3d5",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/psychology-entry.html"
+      },
+      {
+        "url": "https://psychologicalsciences.unimelb.edu.au/study/fourth-year-honours",
+        "sha256": "c80b0c8761e3504e270bda079361427f7b90adb93f18ac7428a7c9b148772bf8",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/psychology-faculty-expanded.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/psychology/",
+        "sha256": "214c2dacf5af8be00d6dfe854890123b35e6a61930da69733d75f36376af92cf",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/psychology-overview.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/psychology/structure/",
+        "sha256": "e0284ecdce474ac25f5793fca2020981f9908671358035e8ec8d93d45982f567",
+        "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/psychology-structure.html"
       }
     ],
     "gaps": [
@@ -3161,7 +3271,8 @@
       "本科后荣誉、后续职业学位的完整选拔与个人注册条件，以及按专业和国际生样本定义的毕业统计仍未全部核实。",
       "9个新荣誉学士须大学阶段资格；Medical Science还限合作国际院校。BFA五方向和Music Tailored Program明确无2027入学，其余荣誉内部学科仍未全部逐项闭合；BCom十个专项的身份及16个主修资格关系已补，规定课程组合仍待核。",
       "8个荣誉学士费用仅2026国际生首年指示价，Commerce Honours专属费用未取得；2027费用、部分申请日期、授课语言及按专业/国际生分母的毕业统计仍缺。官网目录仍保留旧数学总项，不据此恢复；BA Extended仍为未确认线索。",
-      "BCom专项官网称从2026起，并非已核2027课程表；多数总表25学分与商业分析页50、管理页two与三列名差异保留。专项实际科目组合、专属准入/申报和毕业统计未取得；所列2027国际费用只为父BCom估算。"
+      "BCom专项官网称从2026起，并非已核2027课程表；多数总表25学分与商业分析页50、管理页two与三列名差异保留。专项实际科目组合、专属准入/申报和毕业统计未取得；所列2027国际费用只为父BCom估算。",
+      "五音乐、视觉艺术和心理学荣誉方向的2027选拔已补；2026课程示例与国际父学位指示费保持年度和范围边界，2027逐科规章/方向学费/毕业统计仍待核。全majors中13方向不等于全校荣誉研究学科，Arts/Science/各生医院系其余具名stream尚待逐项对账。"
     ]
   },
   "programs": [
@@ -6287,6 +6398,225 @@
         "商科"
       ],
       "subject": "商科"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-specialisation|composition",
+      "name_en": "Composition",
+      "name": "作曲（音乐荣誉学士方向）",
+      "degree_label": "Bachelor of Music (Degree with Honours) — specialisation",
+      "parent_degree_label": "Bachelor of Music (Degree with Honours)",
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-music-degree-with-honours-4710cee4c0"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/composition/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=1&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+      "campus": "Southbank",
+      "language": "本方向教学语言本轮未取得专属说明",
+      "duration": "1年全日制荣誉阶段；公开示例100学分",
+      "intake": "2027年初入学；后续批次未核",
+      "source_period": "2027申请／资格；公开课程计划按页内年度与2026链接分别标注；费用2026参考",
+      "entry_route": "相关音乐荣誉学士入口；相关音乐学士近5年WAM≥65%，另按方向选拔。",
+      "eligibility": "相关学士后的荣誉方向选择，不是高中直接申请专业；详见各父资格和方向任务。",
+      "requires_prior_degree": true,
+      "status": "2027_application_route_published",
+      "parent_program_id": "melbourne-bachelor-of-music-degree-with-honours-4710cee4c0",
+      "id": "melbourne-composition-78b06ea8eb",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-specialisation|interactive-composition",
+      "name_en": "Interactive Composition",
+      "name": "交互作曲（音乐荣誉学士方向）",
+      "degree_label": "Bachelor of Music (Degree with Honours) — specialisation",
+      "parent_degree_label": "Bachelor of Music (Degree with Honours)",
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-music-degree-with-honours-4710cee4c0"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/interactive-composition/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=1&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+      "campus": "Southbank",
+      "language": "本方向教学语言本轮未取得专属说明",
+      "duration": "1年全日制荣誉阶段；公开示例100学分",
+      "intake": "2027年初入学；明确无年中入学",
+      "source_period": "2027申请／资格；公开课程计划按页内年度与2026链接分别标注；费用2026参考",
+      "entry_route": "相关音乐荣誉学士入口；相关音乐学士近5年WAM≥65%，另按方向选拔。作品集与面试豁免原文冲突须确认。",
+      "eligibility": "相关学士后的荣誉方向选择，不是高中直接申请专业；详见各父资格和方向任务。",
+      "requires_prior_degree": true,
+      "status": "2027_application_route_published",
+      "parent_program_id": "melbourne-bachelor-of-music-degree-with-honours-4710cee4c0",
+      "id": "melbourne-interactive-composition-c582e65cb3",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-specialisation|jazz-improvisation",
+      "name_en": "Jazz & Improvisation",
+      "name": "爵士与即兴（音乐荣誉学士方向）",
+      "degree_label": "Bachelor of Music (Degree with Honours) — specialisation",
+      "parent_degree_label": "Bachelor of Music (Degree with Honours)",
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-music-degree-with-honours-4710cee4c0"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/jazz-improvisation/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=1&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+      "campus": "Southbank",
+      "language": "本方向教学语言本轮未取得专属说明",
+      "duration": "1年全日制荣誉阶段；公开示例100学分",
+      "intake": "2027年初入学；明确无年中入学",
+      "source_period": "2027申请／资格；公开课程计划按页内年度与2026链接分别标注；费用2026参考",
+      "entry_route": "相关音乐荣誉学士入口；相关音乐学士近5年WAM≥65%，另按方向选拔。",
+      "eligibility": "相关学士后的荣誉方向选择，不是高中直接申请专业；详见各父资格和方向任务。",
+      "requires_prior_degree": true,
+      "status": "2027_application_route_published",
+      "parent_program_id": "melbourne-bachelor-of-music-degree-with-honours-4710cee4c0",
+      "id": "melbourne-jazz-improvisation-d8af853d18",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-specialisation|musicology-ethnomusicology",
+      "name_en": "Musicology & Ethnomusicology",
+      "name": "音乐学与民族音乐学（音乐荣誉学士方向）",
+      "degree_label": "Bachelor of Music (Degree with Honours) — specialisation",
+      "parent_degree_label": "Bachelor of Music (Degree with Honours)",
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-music-degree-with-honours-4710cee4c0"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/musicology-ethnomusicology/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=13&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+      "campus": "Southbank",
+      "language": "本方向教学语言本轮未取得专属说明",
+      "duration": "1年全日制荣誉阶段；逐科总学分本轮未核",
+      "intake": "2027年初入学；后续批次未核",
+      "source_period": "2027申请／资格；公开课程计划按页内年度与2026链接分别标注；费用2026参考",
+      "entry_route": "相关音乐荣誉学士入口；相关音乐学士近5年WAM≥65%，另按方向选拔。",
+      "eligibility": "相关学士后的荣誉方向选择，不是高中直接申请专业；详见各父资格和方向任务。",
+      "requires_prior_degree": true,
+      "status": "2027_application_route_published",
+      "parent_program_id": "melbourne-bachelor-of-music-degree-with-honours-4710cee4c0",
+      "id": "melbourne-musicology-ethnomusicology-4fd48f12a2",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-specialisation|performance",
+      "name_en": "Performance",
+      "name": "表演（音乐荣誉学士方向）",
+      "degree_label": "Bachelor of Music (Degree with Honours) — specialisation",
+      "parent_degree_label": "Bachelor of Music (Degree with Honours)",
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-music-degree-with-honours-4710cee4c0"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/performance/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=13&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+      "campus": "Southbank",
+      "language": "本方向教学语言本轮未取得专属说明",
+      "duration": "1年全日制荣誉阶段；公开示例100学分",
+      "intake": "2027年初入学；后续批次未核",
+      "source_period": "2027申请／资格；公开课程计划按页内年度与2026链接分别标注；费用2026参考",
+      "entry_route": "相关音乐荣誉学士入口；相关音乐学士近5年WAM≥65%，另按方向选拔。",
+      "eligibility": "相关学士后的荣誉方向选择，不是高中直接申请专业；详见各父资格和方向任务。",
+      "requires_prior_degree": true,
+      "status": "2027_application_route_published",
+      "parent_program_id": "melbourne-bachelor-of-music-degree-with-honours-4710cee4c0",
+      "id": "melbourne-performance-3382b76956",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-specialisation|visual-art",
+      "name_en": "Visual Art",
+      "name": "视觉艺术（美术荣誉学士方向）",
+      "degree_label": "Bachelor of Fine Arts (Degree with Honours) — specialisation",
+      "parent_degree_label": "Bachelor of Fine Arts (Degree with Honours)",
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-fine-arts-degree-with-honours-01ddd7a7f7"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/visual-art/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=13&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+      "campus": "Southbank",
+      "language": "本方向教学语言本轮未取得专属说明",
+      "duration": "1年全日制荣誉阶段；公开示例100学分",
+      "intake": "2027年初入学；后续批次未核",
+      "source_period": "2027申请／资格；公开课程计划按页内年度与2026链接分别标注；费用2026参考",
+      "entry_route": "相关美术荣誉学士入口；相关美术学士WAM≥70%，另交计划、作品集及入围面试。",
+      "eligibility": "相关学士后的荣誉方向选择，不是高中直接申请专业；详见各父资格和方向任务。",
+      "requires_prior_degree": true,
+      "status": "2027_application_route_published",
+      "parent_program_id": "melbourne-bachelor-of-fine-arts-degree-with-honours-01ddd7a7f7",
+      "id": "melbourne-visual-art-254d982359",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-specialisation|psychology",
+      "name_en": "Psychology",
+      "name": "心理学（文学／生物医学／理学荣誉方向）",
+      "degree_label": "Arts / Biomedicine / Science honours — specialisation",
+      "parent_degree_label": "Bachelor of Arts / Biomedicine / Science (Degree with Honours)",
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-arts-degree-with-honours-ac8146e0b6",
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5",
+        "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/psychology/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/?collection=uom%7Esp-courses&profile=_default&query=%21showall&num_ranks=12&start_rank=49&f.Tabs%7CtypeMaMiSp=Majors%2C+minors+%26+specialisations",
+      "campus": "Parkville",
+      "language": "本方向教学语言本轮未取得专属说明",
+      "duration": "1年全日制荣誉阶段；当前课程表100学分",
+      "intake": "2027年初；无年中入学",
+      "source_period": "2027申请／资格；公开课程计划按页内年度与2026链接分别标注；费用2026参考",
+      "entry_route": "学士后APAC心理学第四年；按Arts／Biomedicine／Science分别核先前学位，加权心理学成绩≥70%。",
+      "eligibility": "相关学士后的荣誉方向选择，不是高中直接申请专业；详见各父资格和方向任务。",
+      "requires_prior_degree": true,
+      "status": "2027_application_route_published",
+      "parent_program_ids": [
+        "melbourne-bachelor-of-arts-degree-with-honours-ac8146e0b6",
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5",
+        "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b"
+      ],
+      "id": "melbourne-psychology-a3cff9c245",
+      "subjects": [
+        "医学与健康",
+        "自然科学",
+        "社会科学",
+        "人文"
+      ],
+      "subject": "医学与健康"
     }
   ]
 }
