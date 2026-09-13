@@ -1775,5 +1775,209 @@
         "sha256": "f26762ccf76a62d27b9610ab7a1d35a79c1b37d556a975671e5e0ca682dc9764"
       }
     ]
+  },
+  {
+    "id": "kcl-master-of-nursing-in-nursing-with-registration-as-an-adult-nurse-7f4b95bac0",
+    "university_id": "kcl",
+    "name_en": "Master of Nursing in Nursing with Registration as an Adult Nurse and a Mental Health Nurse MNurs",
+    "reason": "经逐项核对，本课程实际为两年制、须先取得本科学位的首次注册护理硕士（MNurs），要求任意学科本科至少英国2:2或获认可等同学历，并具备900小时合资格医疗照护经验，其他条件以官方课程页为准。虽然大学将其列在undergraduate目录且通过UCAS申请，本课程不授予本科学位，也不是高中直入的本硕一体。因此移出本站本科专业检索；原链接保留以说明更正。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "UKENR-53d6f43e8e9ecc",
+        "title": "Master of Nursing in Nursing with Registration as an Adult Nurse and a Mental Health Nurse MNurs 官方课程页",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/master-of-nursing-dual-award-with-registration-as-an-adult-nurse-and-a-mental-health-nurse",
+        "checked_at": "2026-09-12",
+        "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+        "sha256": "e38c28dc30d8956108d83cbf8ea67748161b66250a84829c807d7da02cfd35b6",
+        "locator": "See each fact extraction_locator"
+      },
+      {
+        "id": "KCLHE-1542f0baa0104502",
+        "title": "Master of Nursing in Nursing with Registration as an Adult Nurse and a Mental Health Nurse MNurs — requirements",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/master-of-nursing-dual-award-with-registration-as-an-adult-nurse-and-a-mental-health-nurse/requirements",
+        "checked_at": "2026-09-13",
+        "supports": "本课程标准资格、科目、英语分档、申请者身份与专业选拔",
+        "sha256": "1542f0baa0104502acbc4ff224fb8a6b49621d4a5d251b74d8120b95d51e861e",
+        "locator": "Public course tab正文；课程表对应Year与模块标题；fees为可见Tuition fees及Key Information",
+        "source_period": "2027/28费用和2027申请按可见字段；其余正文内部明确旧年的内容单列"
+      },
+      {
+        "id": "KCLHE-5704792587d904d4",
+        "title": "Master of Nursing in Nursing with Registration as an Adult Nurse and a Mental Health Nurse MNurs — teaching",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/master-of-nursing-dual-award-with-registration-as-an-adult-nurse-and-a-mental-health-nurse/teaching",
+        "checked_at": "2026-09-13",
+        "supports": "本课程模块、学分、临床实践、学习地点及升读限制",
+        "sha256": "5704792587d904d46cabead4b49e9a9e916bf25f6df1d852a8784fd3c9ff4eba",
+        "locator": "Public course tab正文；课程表对应Year与模块标题；fees为可见Tuition fees及Key Information",
+        "source_period": "2027/28费用和2027申请按可见字段；其余正文内部明确旧年的内容单列"
+      },
+      {
+        "id": "KCLHE-eb9097d5f5ec404e",
+        "title": "Master of Nursing in Nursing with Registration as an Adult Nurse and a Mental Health Nurse MNurs — careers",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/master-of-nursing-dual-award-with-registration-as-an-adult-nurse-and-a-mental-health-nurse/careers",
+        "checked_at": "2026-09-13",
+        "supports": "本课程官方职业方向说明；非独立毕业调查",
+        "sha256": "eb9097d5f5ec404eb7cb87b7f61ec6351c1b1cefd6f4236e22f018fff3b51d5d",
+        "locator": "Public course tab正文；课程表对应Year与模块标题；fees为可见Tuition fees及Key Information",
+        "source_period": "2027/28费用和2027申请按可见字段；其余正文内部明确旧年的内容单列"
+      },
+      {
+        "id": "KCLHE-dff3755b9680738d",
+        "title": "Master of Nursing in Nursing with Registration as an Adult Nurse and a Mental Health Nurse MNurs — 英语政策（明确2026/27参考）",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+        "checked_at": "2026-09-13",
+        "supports": "课程要求Band对应2026/27公开英语政策；不能当作已经公布的2027/28政策",
+        "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+        "locator": "Public course tab正文；课程表对应Year与模块标题；fees为可见Tuition fees及Key Information",
+        "source_period": "原页明确2026/27，2027/28待更新"
+      },
+      {
+        "id": "KCLHE-279f96423b37a7f7",
+        "title": "Master of Nursing in Nursing with Registration as an Adult Nurse and a Mental Health Nurse MNurs — fees",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/master-of-nursing-dual-award-with-registration-as-an-adult-nurse-and-a-mental-health-nurse/fees",
+        "checked_at": "2026-09-13",
+        "supports": "Chrome 公开渲染的2027/28费用、计价单位和当前申请信息",
+        "sha256": "279f96423b37a7f7d4b751ff8c5c4dd6401cae18f2784a5a1fec783ee8768c34",
+        "locator": "Public course tab正文；课程表对应Year与模块标题；fees为可见Tuition fees及Key Information",
+        "source_period": "2027/28费用和2027申请按可见字段；其余正文内部明确旧年的内容单列"
+      }
+    ]
+  },
+  {
+    "id": "kcl-nursing-with-registration-as-a-mental-health-nurse-msc-b892f1fd5a",
+    "university_id": "kcl",
+    "name_en": "Nursing with Registration as a Mental Health Nurse MSc",
+    "reason": "经逐项核对，本课程实际为两年制、须先取得本科学位的首次注册护理硕士（MSc），要求任意学科本科至少英国2:2或获认可等同学历，并具备575小时合资格医疗照护经验，其他条件以官方课程页为准。虽然大学将其列在undergraduate目录且通过UCAS申请，本课程不授予本科学位，也不是高中直入的本硕一体。因此移出本站本科专业检索；原链接保留以说明更正。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "UKENR-d880999d055b8d",
+        "title": "Nursing with Registration as a Mental Health Nurse MSc 官方课程页",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-msc",
+        "checked_at": "2026-09-12",
+        "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+        "sha256": "e6de342fff217cde7a0f324d33ed46f95a4cb6e2ff2f2e3023ddbefebea6f83d",
+        "locator": "See each fact extraction_locator"
+      },
+      {
+        "id": "KCLHE-3c4d996036436cd2",
+        "title": "Nursing with Registration as a Mental Health Nurse MSc — requirements",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-msc/requirements",
+        "checked_at": "2026-09-13",
+        "supports": "本课程标准资格、科目、英语分档、申请者身份与专业选拔",
+        "sha256": "3c4d996036436cd27f32d9ab753b7dc9f73d710fcc4be5432996e85348bb69e6",
+        "locator": "Public course tab正文；课程表对应Year与模块标题；fees为可见Tuition fees及Key Information",
+        "source_period": "2027/28费用和2027申请按可见字段；其余正文内部明确旧年的内容单列"
+      },
+      {
+        "id": "KCLHE-31dcd70384fd8731",
+        "title": "Nursing with Registration as a Mental Health Nurse MSc — teaching",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-msc/teaching",
+        "checked_at": "2026-09-13",
+        "supports": "本课程模块、学分、临床实践、学习地点及升读限制",
+        "sha256": "31dcd70384fd87316f18083f56fcc4de8dbe85240278e4550175d4356cd497b7",
+        "locator": "Public course tab正文；课程表对应Year与模块标题；fees为可见Tuition fees及Key Information",
+        "source_period": "2027/28费用和2027申请按可见字段；其余正文内部明确旧年的内容单列"
+      },
+      {
+        "id": "KCLHE-f236056f5404b86f",
+        "title": "Nursing with Registration as a Mental Health Nurse MSc — careers",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-msc/careers",
+        "checked_at": "2026-09-13",
+        "supports": "本课程官方职业方向说明；非独立毕业调查",
+        "sha256": "f236056f5404b86f1110b8880b72d9ff9779d2e7e53c023e2be00684385ee64f",
+        "locator": "Public course tab正文；课程表对应Year与模块标题；fees为可见Tuition fees及Key Information",
+        "source_period": "2027/28费用和2027申请按可见字段；其余正文内部明确旧年的内容单列"
+      },
+      {
+        "id": "KCLHE-dff3755b9680738d",
+        "title": "Nursing with Registration as a Mental Health Nurse MSc — 英语政策（明确2026/27参考）",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+        "checked_at": "2026-09-13",
+        "supports": "课程要求Band对应2026/27公开英语政策；不能当作已经公布的2027/28政策",
+        "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+        "locator": "Public course tab正文；课程表对应Year与模块标题；fees为可见Tuition fees及Key Information",
+        "source_period": "原页明确2026/27，2027/28待更新"
+      },
+      {
+        "id": "KCLHE-c788ec953a849e15",
+        "title": "Nursing with Registration as a Mental Health Nurse MSc — fees",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-msc/fees",
+        "checked_at": "2026-09-13",
+        "supports": "Chrome 公开渲染的2027/28费用、计价单位和当前申请信息",
+        "sha256": "c788ec953a849e154851e86705cf96d08fa2115dcaba6d9c7ccb42954b196364",
+        "locator": "Public course tab正文；课程表对应Year与模块标题；fees为可见Tuition fees及Key Information",
+        "source_period": "2027/28费用和2027申请按可见字段；其余正文内部明确旧年的内容单列"
+      }
+    ]
+  },
+  {
+    "id": "kcl-nursing-with-registration-as-an-adult-nurse-msc-7d428f6c8f",
+    "university_id": "kcl",
+    "name_en": "Nursing with Registration as an Adult Nurse MSc",
+    "reason": "经逐项核对，本课程实际为两年制、须先取得本科学位的首次注册护理硕士（MSc），要求任意学科本科至少英国2:2或获认可等同学历，并具备575小时合资格医疗照护经验，其他条件以官方课程页为准。虽然大学将其列在undergraduate目录且通过UCAS申请，本课程不授予本科学位，也不是高中直入的本硕一体。因此移出本站本科专业检索；原链接保留以说明更正。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "UKENR-f623cf58947a2c",
+        "title": "Nursing with Registration as an Adult Nurse MSc 官方课程页",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-msc",
+        "checked_at": "2026-09-12",
+        "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+        "sha256": "b74361017a89e9b5cbeea09560d49bbf07cf89fde6d2dd4e2161a0489a17bd2d",
+        "locator": "See each fact extraction_locator"
+      },
+      {
+        "id": "KCLHE-626a06450deaba33",
+        "title": "Nursing with Registration as an Adult Nurse MSc — requirements",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-msc/requirements",
+        "checked_at": "2026-09-13",
+        "supports": "本课程标准资格、科目、英语分档、申请者身份与专业选拔",
+        "sha256": "626a06450deaba3348c33d6e8cbfa6ed94f81e8b0b98bcf47606b6aac43a73d8",
+        "locator": "Public course tab正文；课程表对应Year与模块标题；fees为可见Tuition fees及Key Information",
+        "source_period": "2027/28费用和2027申请按可见字段；其余正文内部明确旧年的内容单列"
+      },
+      {
+        "id": "KCLHE-6895fa65036c3f43",
+        "title": "Nursing with Registration as an Adult Nurse MSc — teaching",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-msc/teaching",
+        "checked_at": "2026-09-13",
+        "supports": "本课程模块、学分、临床实践、学习地点及升读限制",
+        "sha256": "6895fa65036c3f431f8d1c6352993cbbb1725aac50af562e0b679ce0839522b3",
+        "locator": "Public course tab正文；课程表对应Year与模块标题；fees为可见Tuition fees及Key Information",
+        "source_period": "2027/28费用和2027申请按可见字段；其余正文内部明确旧年的内容单列"
+      },
+      {
+        "id": "KCLHE-ad70524b75589ce1",
+        "title": "Nursing with Registration as an Adult Nurse MSc — careers",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-msc/careers",
+        "checked_at": "2026-09-13",
+        "supports": "本课程官方职业方向说明；非独立毕业调查",
+        "sha256": "ad70524b75589ce144e32008be0fe84e41b0e3f5e4f3dd742696c6f3dc3eb66e",
+        "locator": "Public course tab正文；课程表对应Year与模块标题；fees为可见Tuition fees及Key Information",
+        "source_period": "2027/28费用和2027申请按可见字段；其余正文内部明确旧年的内容单列"
+      },
+      {
+        "id": "KCLHE-dff3755b9680738d",
+        "title": "Nursing with Registration as an Adult Nurse MSc — 英语政策（明确2026/27参考）",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+        "checked_at": "2026-09-13",
+        "supports": "课程要求Band对应2026/27公开英语政策；不能当作已经公布的2027/28政策",
+        "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+        "locator": "Public course tab正文；课程表对应Year与模块标题；fees为可见Tuition fees及Key Information",
+        "source_period": "原页明确2026/27，2027/28待更新"
+      },
+      {
+        "id": "KCLHE-8973b75093a4376d",
+        "title": "Nursing with Registration as an Adult Nurse MSc — fees",
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-msc/fees",
+        "checked_at": "2026-09-13",
+        "supports": "Chrome 公开渲染的2027/28费用、计价单位和当前申请信息",
+        "sha256": "8973b75093a4376da7e52f6c664fb2d4f80611a67115afd1403ba92ca088be5a",
+        "locator": "Public course tab正文；课程表对应Year与模块标题；fees为可见Tuition fees及Key Information",
+        "source_period": "2027/28费用和2027申请按可见字段；其余正文内部明确旧年的内容单列"
+      }
+    ]
   }
 ]

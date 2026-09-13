@@ -3,40 +3,35 @@
   "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 128,
+    "count": 143,
     "scope": "现有本科主修、音乐方向、特殊护理及兼读项目、双学位和本硕衔接组；各条注明层级和入口",
-    "method": "95项普通及特殊本科由独立研究者核验，33联合项目另逐项核验并交叉审阅；保留全部128旧ID，更新中文课程、实际招生及分阶段收费和毕业调查口径。",
+    "method": "95项普通及特殊本科由独立研究者核验，33联合项目另逐项核验并交叉审阅；保留全部128旧ID，更新中文课程、实际招生及分阶段收费和毕业调查口径。 本次逐项加入8法律Exchange Plus、AI与数学双学位、社会工作MPH及2个SCALE具名本硕框架，按实际在读入口、收费阶段和年份独立复核。",
     "exclusions": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
     "sources": [
       {
         "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-loo-lin-school-of-medicine-including-nursing/undergraduate-education/",
         "sha256": "19c77495d1fc245284a9daa55a34eec08774470b473dc7f7410b5a6342a502fc",
-        "raw_file": "scratch/full-catalog/asia/nus/raw/yong-loo-lin-school-of-medicine-including-nursing-ug-dom.html",
-        "locator": "课程名称下 Degree Requirements／Curriculum Structure"
+        "raw_file": "scratch/full-catalog/asia/nus/raw/yong-loo-lin-school-of-medicine-including-nursing-ug-dom.html"
       },
       {
         "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-siew-toh-conservatory-of-music/undergraduate-education/",
         "sha256": "9c804f00d91de74ebafc4612be7a07bf0aed0ca9d39c796b27f0195d42d7b10e",
-        "raw_file": "scratch/full-catalog/asia/nus/raw/yong-siew-toh-conservatory-of-music-ug-dom.html",
-        "locator": "课程名称下 Degree Requirements／Curriculum Structure"
+        "raw_file": "scratch/full-catalog/asia/nus/raw/yong-siew-toh-conservatory-of-music-ug-dom.html"
       },
       {
         "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-business/undergraduate-education/",
         "sha256": "328ba484e1207aa3bfb10a8b7ecf9b399265c1eef2eec31d01c16043a781b611",
-        "raw_file": "scratch/full-catalog/asia/nus/raw/school-of-business-ug-dom.html",
-        "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-business/undergraduate-education/:Business Administration — Real Estate"
+        "raw_file": "scratch/full-catalog/asia/nus/raw/school-of-business-ug-dom.html"
       },
       {
         "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/college-of-design-and-engineering/undergraduate-education/",
         "sha256": "41f41dbba78fedbbcc87259e62d4aab34df8f5921858f353b94ebdadb2be2bc8",
-        "raw_file": "scratch/full-catalog/asia/nus/raw/cde-bulletin-dom.html",
-        "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/college-of-design-and-engineering/undergraduate-education/:Bachelor of Landscape Architecture"
+        "raw_file": "scratch/full-catalog/asia/nus/raw/cde-bulletin-dom.html"
       },
       {
         "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-arts-and-social-sciences/undergraduate-education/",
         "sha256": "a0de25b1f030762539bb2c68e164c9af3c87a8605466146f8f78d2b161400cbd",
-        "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-arts-and-social-sciences-ug-dom.html",
-        "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-arts-and-social-sciences/undergraduate-education/:Theatre and Performance Studies"
+        "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-arts-and-social-sciences-ug-dom.html"
       },
       {
         "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/college-of-design-and-engineering/undergraduate-education/",
@@ -62,8 +57,7 @@
       {
         "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-continuing-lifelong-education/undergraduate-education/",
         "sha256": "dc03e0868ce486cfcd22dbba1f278c181fb4b3de3e01dff9a48d3b7812ac9e2e",
-        "raw_file": "scratch/full-catalog/asia/nus/raw/school-of-continuing-lifelong-education-ug-dom.html",
-        "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-continuing-lifelong-education/undergraduate-education/:Bachelor of Information Technology"
+        "raw_file": "scratch/full-catalog/asia/nus/raw/school-of-continuing-lifelong-education-ug-dom.html"
       },
       {
         "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/concurrent-degree-programmes/",
@@ -75,775 +69,782 @@
       {
         "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-law/undergraduate-education/",
         "sha256": "15abf2d15df6bb4f89f7f054082df7b3dcd881a8df9ec4e145d6e65892d42c12",
-        "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-law-ug-dom.html",
-        "locator": "课程名称下 Degree Requirements／Curriculum Structure"
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/common-NUS26-3b0cec5b065f6e.html"
       },
       {
         "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-computing/undergraduate-education/",
         "sha256": "ef03a0da87cdbb109f4f3733e3717a33c73a71db6455491dac59625db0bfe2a5",
-        "raw_file": "scratch/full-catalog/asia/nus/raw/school-of-computing-ug-dom.html",
-        "locator": "课程名称下 Degree Requirements／Curriculum Structure"
+        "raw_file": "scratch/full-catalog/asia/nus/raw/school-of-computing-ug-dom.html"
       },
       {
         "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-dentistry/undergraduate-education/",
         "sha256": "18d00d086475c480d3c8f044deaeadfd8a87d5676b073e47e3a43a7bba02c5a2",
-        "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-dentistry-ug-dom.html",
-        "locator": "课程名称下 Degree Requirements／Curriculum Structure"
+        "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-dentistry-ug-dom.html"
       },
       {
         "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-science/undergraduate-education/",
         "sha256": "8814764676c1737f40b5d778934423b7001be11f50882cacbdf09fff320da8ba",
-        "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-science-ug-dom.html",
-        "locator": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-science/undergraduate-education/:Pharmacy"
+        "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-science-ug-dom.html"
       },
       {
         "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
         "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/english-dates-subjects-web.json",
-        "locator": "PDF page1"
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/english-dates-subjects-web.json"
       },
       {
         "url": "https://fass.nus.edu.sg/socanth/overview-programmes-anthropology/",
         "sha256": "10a78ff8298669b7962a8566127d48dfc92705f21cea6e6ed9757509e786d6c8",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/000-anthropology.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/000-anthropology.txt"
       },
       {
         "url": "https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
         "sha256": "1bb50375e3299184c60f5c1006ebe331a220e996500366513596e5a22f103d5e",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/fees-ges-music-web.json",
-        "locator": "PDF p2, A: New undergraduate intake AY2026/27; p14–15 notes"
+        "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/common-NUS26-06231ba1d17578.json"
       },
       {
         "url": "https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf",
         "sha256": "8dec4235695865ea34a95af325a1bc8b367b604440826a499e14aed6e986999e",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/ges-final-web.json",
-        "locator": "Degree rows; notes1–10, pp1–3"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/ges-final-web.json"
       },
       {
         "url": "https://fass.nus.edu.sg/chs/honours-programme/",
         "sha256": "09602b36ba6e483797e1b90878c48df617e3182540dfaa3d501ef0b704283709",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/001.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/001.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/cs/discoverchs/",
         "sha256": "7596ac8f05951fa7a031d22e38e429aea32dd8366df1d7687fe57c82d51070b9",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/fass-followup-search.json",
-        "locator": "Chinese Languages and Cultures; Chinese Studies (Bilingual); Subject Prerequisite"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/fass-followup-search.json"
       },
       {
         "url": "https://fass.nus.edu.sg/chs/honours-programme/",
         "sha256": "db7dd95ae27868b544321fa9c4b3acc02ee590f4929b0fb3c5792aa40372186a",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/002-expanded.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/002-expanded.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/cnm/undergraduate-major/",
         "sha256": "d1b1f3d1bbe61ab5da8011f224af9d95c6fe0997d271df9df66206c93b1dd871",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cnm-current-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cnm-current-web.json"
       },
       {
         "url": "https://fass.nus.edu.sg/ecs/requirements-for-economics-major/",
         "sha256": "5401330aae59081d90e0c7f732e62fd89a1c54fb3330573808aea1ced7bc45d0",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/004.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/004.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/ell/ug_el/",
         "sha256": "cb34a1d01210903143facb54aa5c6c33297cd7ca9d374d3d1bdd91faacb63eef",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/005.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/005.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/elts/undergraduate-degrees-in-english-literature/",
         "sha256": "a76dd200abfc1da923283979e5827667508200da63a236358f38260657dcc558",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/006.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/006.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/geog/undergraduate/",
         "sha256": "90a4371d883cf3a017213e226adade6122aa3d8cd4169923164e6bb7eecb97f1",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/007.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/007.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/globalstudies/discoverglobalstudies/",
         "sha256": "357bb445fc3495b1c85ff5cbbd39008a6d2dc9b3e4d13ea1032388551c35273e",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cnm-gls-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cnm-gls-web.json"
       },
       {
         "url": "https://fass.nus.edu.sg/hist/history-requirements/",
         "sha256": "11d642f78e3ea54e88c829c70a9d0e828d26f5dc3786a1555f7a9399793d2d05",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/009-expanded.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/009-expanded.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/jps/honours-programme/",
         "sha256": "be5371e2736eac87b79df74811e8afea26e8b81105a5a784fd4471c06c09ed58",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/010.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/010.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/mls/honours-programme-and-single-major/",
         "sha256": "086e6d56e75d95cadf2b8c415f5ff0421404b3129d04e8c3c9837d696e8b9411",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/011.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/011.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/ppe/",
         "sha256": "3034a980123d658ca3d9ae64a5db8bfcc454fcc1471671d7044102b05f1ff64d",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/012.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/012.txt"
       },
       {
         "url": "https://chs.nus.edu.sg/programmes/ppe/",
         "sha256": "357bb445fc3495b1c85ff5cbbd39008a6d2dc9b3e4d13ea1032388551c35273e",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cnm-gls-web.json",
-        "locator": "Admission Information; Curriculum Structure"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cnm-gls-web.json"
       },
       {
         "url": "https://fass.nus.edu.sg/philo/overview/academic-requirements/",
         "sha256": "d31b8ed00c26d00645d83de4fb64f28c84d69d05f258abdbd522146b416073a4",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/013-expanded.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/013-expanded.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/pol/graduation-requirements-cohort-2021-onwards/",
         "sha256": "10e97a16935add1ff28e549a726119ae36d745436c1110ba732b4f280cf1cf88",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/014-expanded.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/014-expanded.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/psy/honours-programme/",
         "sha256": "192da9fd8a120947d2d78addc78dc9a790b2e5f08eae70410eda3ae4cab5942d",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/015-expanded.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/015-expanded.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/swk/entry-graduation-requirement-undergraduate/",
         "sha256": "9b0d9ed11ba8fcc90a2d92f3cd8a281bba9ac85373ba526a608c7e89caa6da07",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/016-expanded.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/common-NUS26-bc74df3425eabc.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/socanth/overview-programmes-sociology/",
         "sha256": "a3080994d6d3bfe4a238512125570843c5eb7328f5e785f01ceac1e2006381f2",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/017-expanded.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/017-expanded.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/sas/honours-programme/",
         "sha256": "2956405557321a37047281ee3fd969cf12df4ce0f1dada2ea0a5032125b22b9f",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/018.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/018.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/sea/single-major/",
         "sha256": "3d774c7faa8b5fe38fd172832a8d346f944e288eb7ee088730ac3ed26aff3665",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/019.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/019.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/elts/undergraduate-degrees-in-theatre-and-performance-studies/",
         "sha256": "91a92745641cde241086e78109f9681f1a1c75a58e56d57d46a4161ef4f9a983",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/020.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/020.txt"
       },
       {
         "url": "https://www.nus.edu.sg/oam/docs/default-source/international-qualifications/cat-d-sdp.pdf",
         "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/english-dates-subjects-web.json",
-        "locator": "PDF pages1–3"
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/english-dates-subjects-web.json"
       },
       {
         "url": "https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/",
         "sha256": "72353150aa52c2daa7a821acaaf5885751eff1feb055b1e0f7481baa7a32d3e0",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/bba2026-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/bba2026-web.json"
       },
       {
         "url": "https://bba.nus.edu.sg/",
         "sha256": "0d21ff672f78b2840ea7feac5f4182860dc16e7c0a029e2b994fc724b196a1dc",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/bba-web.json",
-        "locator": "4-year direct honours; majors declaration"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/bba-web.json"
       },
       {
         "url": "https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/",
         "sha256": "643c541c9844ec6afe57f6b5a9b6096dce33b0541a50e4d155b12704609aa122",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/bba-later-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/bba-later-web.json"
       },
       {
         "url": "https://cde.nus.edu.sg/arch/programmes/bachelor-of-arts-in-architecture/",
         "sha256": "df0ac074c0badbed28f5fd09fa0b057bf51afecf9fe6a6eac5e23e456f32129f",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/030.txt",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/browser/030.txt"
       },
       {
         "url": "https://cde.nus.edu.sg/arch/programmes/master-of-architecture/",
         "sha256": "273cf9d61356ee2da1afc7f15bd3b6eaa296ffe256dcf223fc84a825b5a7e535",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-architecture.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-architecture.txt"
       },
       {
         "url": "https://cde.nus.edu.sg/did/undergraduate/",
         "sha256": "d8dc57326e6924ce7e85925ae0d8b9f38a25da1b1967939884570eebe48b0d8b",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-30-33-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-30-33-web.json"
       },
       {
         "url": "https://cde.nus.edu.sg/bme/wp-content/uploads/sites/8/2026/05/BME-requirements-and-schedules-2025-2026-onward.pdf",
         "sha256": "0e8788a079424734378e84c6aadcb21238034371b0bfd011cf21a688ebae6b96",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/bme2025-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/bme2025-web.json"
       },
       {
         "url": "https://cde.nus.edu.sg/chbe/wp-content/uploads/sites/5/2026/07/Direct-Entry-Students_AY2026-2027-Cohort.pdf",
         "sha256": "46b2c501413930cb6e148bbd182bc691093f41a4634cc6825993336c9c72a0ca",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/che-plan2026-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/che-plan2026-web.json"
       },
       {
         "url": "https://cde.nus.edu.sg/cee/undergraduate/beng-civil/build-your-own-degree-civil-engineering/",
         "sha256": "9bdf6d5cbbd2eaa3161c105d9c486abf5f911c5e1c9249976445dd106ae8f85d",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-34-44-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-34-44-web.json"
       },
       {
         "url": "https://ceg.nus.edu.sg/curriculum/",
         "sha256": "2f84fff5eb525ce1cf2b8fc82315a8f62dff2419b767106c6cff78378540ec0d",
-        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/curriculum-ea69ed119046645b1f.html",
-        "locator": "undergraduate curriculum / course list"
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/curriculum-ea69ed119046645b1f.html"
       },
       {
         "url": "https://ceg.nus.edu.sg/curriculum/requirements/",
         "sha256": "60cf04c11d470ad475ad4dd227ae3e0fddd70ff2fa5bbbcfd7ec48b4978eadb6",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-ceg-focused-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-ceg-focused-web.json"
       },
       {
         "url": "https://cde.nus.edu.sg/ece/undergraduate/electrical-engineering/ee-curriculum-structure-ay2025-26/",
         "sha256": "7c975e70fe4347a15050f07d369348c96051c59c949252f22b87ff604504a340",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-ee2025-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-ee2025-web.json"
       },
       {
         "url": "https://cde.nus.edu.sg/esp/undergraduate/b-eng-engineering-science/curriculum-structure/",
         "sha256": "e7e7828f39b8f99b7dbef5b0eeb5f8532d3c2b3a47e80f03ca86225a95b22289",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-esp-focused-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-esp-focused-web.json"
       },
       {
         "url": "https://cde.nus.edu.sg/cee/undergraduate/beng-env/",
         "sha256": "65b3667238f45b8e2cff967608fdaac05b64d3f4cf60523fc891855ce9c68451",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-env-focused-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-env-focused-web.json"
       },
       {
         "url": "https://cde.nus.edu.sg/isem/wp-content/uploads/sites/12/2026/06/AY2025-26-ISE-Curriculum_Jun2026.pdf",
         "sha256": "9cfd1188d15e474bec18aaece52d035ef47d87aa8e979e6c18e9f1dedc03fc3a",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-ise2025-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-ise2025-web.json"
       },
       {
         "url": "https://cde.nus.edu.sg/dbe/wp-content/uploads/sites/26/2026/07/ProgrammeStructure_AY2025_VJul2026.pdf",
         "sha256": "79388df416b0a943ccb45b333116ef66f673cc724519da57183649f00e76a534",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-ipm-plan-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-ipm-plan-web.json"
       },
       {
         "url": "https://cde.nus.edu.sg/dbe/ipm-curriculum-and-programme-structure-2-5/",
         "sha256": "1e565e9f06576e60521d7d9599611b6815dd73ed2fb7aa8c9b8160aacde0c2f2",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-ipm2025-web.json",
-        "locator": "Department of the Built Environment; BEng IPM"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-ipm2025-web.json"
       },
       {
         "url": "https://cde.nus.edu.sg/mse/wp-content/uploads/sites/4/2026/08/Matriculated_fm_AY2627.pdf",
         "sha256": "8dbe5b6d575a0e05f909941b60d77037243c671cefcfc6c4168b8fbc9299483d",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/mse2026-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/mse2026-web.json"
       },
       {
         "url": "https://cde.nus.edu.sg/me/undergraduate/beng-me/curriculum/",
         "sha256": "d6cec0d8c393c69e07a34abaf668250686193a0a50661567bfe6ec9702a39c43",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-me-focused-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-me-focused-web.json"
       },
       {
         "url": "https://cde.nus.edu.sg/me/undergraduate/beng-rmi/overview/",
         "sha256": "17bdfdd8f015c3ed1ef83587dbf2fd439b78ce322a0c236ba7cefc187a0afa4a",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-rmi-focused-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-rmi-focused-web.json"
       },
       {
         "url": "https://cde.nus.edu.sg/arch/programmes/bachelor-of-landscape-architecture/",
         "sha256": "6654e7b2df254152d98aeab20adffbbb69be43066c85b2b987e598afc24616c6",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-bla-focused-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cde-bla-focused-web.json"
       },
       {
         "url": "https://chemistry.nus.edu.sg/undergraduates-cohort-2021-and-after/",
         "sha256": "319aa152c625adcddd3b10f4254c4fd549bdbac2508a302b9161557ff3be7769",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/chem-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/chem-web.json"
       },
       {
         "url": "https://www.stat.nus.edu.sg/education/undergraduate/prospective-student/major-in-data-science-applied-ai/",
         "sha256": "f5980ca2a9f98ed8fe34bf1f522af539625567d46ad3eb868b0cf638ecd308db",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/dsaa-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/dsaa-web.json"
       },
       {
         "url": "https://www.fst.nus.edu.sg/education/undergraduate-programme/course-structure/primary-major-in-fst/",
         "sha256": "8d3859ad617c5d06a13c060fd525886ae44c4a6df367b3f6349977ec58e87f04",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/fst-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/fst-web.json"
       },
       {
         "url": "https://www.dbs.nus.edu.sg/lifesciences/",
         "sha256": "cb98f589fae0a4c87f2b613344e45db69873eb5ed35b6bb2290afdd46718233f",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/life-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/life-web.json"
       },
       {
         "url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2026/06/MA_2122_15062026.pdf",
         "sha256": "259108b421b90ffc583cf037a9d70950eda012191bafbc0c323d3f5f8dd8088e",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/science-requirements-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/science-requirements-web.json"
       },
       {
         "url": "https://pharmacy.nus.edu.sg/study/undergraduate/bachelor-of-science-pharmaceutical-science/",
         "sha256": "76b0fa5b232165a3d0c3bee950a1c329fdffb5851266642118a6e0db3f2c1a7a",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/pharmsci-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/pharmsci-web.json"
       },
       {
         "url": "https://www.physics.nus.edu.sg/student/major-in-physics/",
         "sha256": "c7d3eb48a65ae72e86d13dad4bbeeb6682e765374f050bb799878c6735e8b9cd",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/physics-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/physics-web.json"
       },
       {
         "url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2026/02/QF_2122_23022026.pdf",
         "sha256": "4bb833f5e2b81c8ac45d6b9b4159e84b3e0688bc78e2f33279bd491ae3c6d94a",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/qf-plan-valid-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/qf-plan-valid-web.json"
       },
       {
         "url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2026/07/STHON-AY21-22-after_updated-July-2026.pdf",
         "sha256": "0cadd6f05cccdd236a2332a28a560d650b801d5a2f5412e8f6c278ce777e5032",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/stat2021-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/stat2021-web.json"
       },
       {
         "url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2026/07/DSE_2627_06072026.pdf",
         "sha256": "259108b421b90ffc583cf037a9d70950eda012191bafbc0c323d3f5f8dd8088e",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/science-requirements-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/science-requirements-web.json"
       },
       {
         "url": "https://envstudies.nus.edu.sg/programme/programme-and-university-requirements/",
         "sha256": "259108b421b90ffc583cf037a9d70950eda012191bafbc0c323d3f5f8dd8088e",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/science-requirements-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/science-requirements-web.json"
       },
       {
         "url": "https://pharmacy.nus.edu.sg/study/undergraduate/bachelor-of-pharmacy/",
         "sha256": "d23a311611f8774d243c6185609827226a6ddbab1690cbf9bca4418240e49d16",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/pharmacy-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/pharmacy-web.json"
       },
       {
         "url": "https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering/btech-chemical-engineering",
         "sha256": "cf1ae793a080ac8d035b2838f36393f4c40b1714cfbf74450eda8400342ad1f5",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-chemical-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-chemical-web.json"
       },
       {
         "url": "https://scale.nus.edu.sg/programmes/undergraduate-programmes/programme-fees",
         "sha256": "da9e64b23d0d0ac83b5f52c8a7d1996d0cfd9dd7f8e146ae23ea1b3e56924253",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-fees-web.json",
-        "locator": "International Students (no subsidy), fee per Unit"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-fees-web.json"
       },
       {
         "url": "https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering/btech-civil-engineering",
         "sha256": "760a4a50c0050d24a24c2886d6ece89b13046c3e7d0a768415fb56389b2cc178",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-civil-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-civil-web.json"
       },
       {
         "url": "https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering/btech-electronics-engineering",
         "sha256": "79d79cc2ebbd2c0fec20da60b116b2f0406cc345fb49ef4bd4a538a026a85604",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-electronics-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-electronics-web.json"
       },
       {
         "url": "https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering/btech-industrial-management-engineering",
         "sha256": "3830b75b763db2248e553c2864ef8d44105772ad6d9ab8b5ad0f9e15a7315387",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-industrial-current-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-industrial-current-web.json"
       },
       {
         "url": "https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering/btech-mechanical-engineering",
         "sha256": "cc349c0b7db35c964a57cc6c7f644e6d380e01c6d01d8a84cf423ad1e89a1006",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-mechanical-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-mechanical-web.json"
       },
       {
         "url": "https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering/btech-supply-chain-management",
         "sha256": "6c0c0f8caad95edd7dc4d9cbc7d04deff06547d4f8bf15804a39adffb976a4d3",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-supply-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-supply-web.json"
       },
       {
         "url": "https://scale.nus.edu.sg/programmes/undergraduate-programmes/bachelor-of-information-technology",
         "sha256": "24a54259046d2ef2e458d4bf06a54880cb27b92c70f7d3aa8e3dfbd42b67c390",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-bit-web.json",
-        "locator": "对应项目课程／资格／费用栏目"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/scale-bit-web.json"
       },
       {
         "url": "https://medicine.nus.edu.sg/prospective-students/nus-medicine-pre-requisites/",
         "sha256": "cdf42106c05e1f27ad49d4512e5235208c716f9060a64ef3228df9420257cd52",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/med-requirements-web.json",
-        "locator": "All Other Qualifications; IB Actual/Forecast distinction"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/med-requirements-web.json"
       },
       {
         "url": "https://medicine.nus.edu.sg/prospective-students/admissions-frequently-asked-questions/",
         "sha256": "9215ef686c2e15a782528f9f5165258241e947d61a2d0ef5974cb9c4b579dc2a",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/special-law-med-web.json",
-        "locator": "Application; Admissions Assessment; bond"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/special-law-med-web.json"
       },
       {
         "url": "https://www.ucat.ac.uk/about-ucat/ucat-test-dates/",
         "sha256": "98be196743b48a03146236dac707157ded53018e6b453e9e79bf4be543b4d312",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/ucat2026-web.json",
-        "locator": "2026 registration/booking deadline; last test date"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/ucat2026-web.json"
       },
       {
         "url": "https://medicine.nus.edu.sg/nursing/education-admissions/undergraduate/bachelor-of-science-nursing-bachelor-of-science-nursing-honours/admission-requirements/",
         "sha256": "2267e8c9a193b8f3c8bb8f863a49f5e1b46de3196eb89348bb20fa97e9e71729",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/nursing-special-focused-web.json",
-        "locator": "Admission Requirements; Health Requirements & Interview"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/nursing-special-focused-web.json"
       },
       {
         "url": "https://medicine.nus.edu.sg/nursing/education-admissions/undergraduate/career-conversion-programme-for-registered-nurses-degree/",
         "sha256": "53e12d9aee7172c20b47901a6b214bdb09d8794db5d227578037b6d3b462458a",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/nursing-ccp-web.json",
-        "locator": "How to Apply; Admission Requirements"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/nursing-ccp-web.json"
       },
       {
         "url": "https://medicine.nus.edu.sg/nursing/education-admissions/undergraduate/bachelor-of-science-nursing-practice-part-time/admission-requirements/",
         "sha256": "521596be3b10d7921b91aca76bb1bca3361f01284c82fe11eb971f3fd99b1826",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/nursing-practice-web.json",
-        "locator": "Entry Requirements"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/nursing-practice-web.json"
       },
       {
         "url": "https://medicine.nus.edu.sg/nursing/education-admissions/undergraduate/bachelor-of-science-nursing-practice-part-time/how-to-apply/",
         "sha256": "225e54006b6f3e3778c3d66a52f00cfefcbe5727de761d9ef803b86f8a67776e",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/nursing-practice-apply-fee-web.json",
-        "locator": "Application AY2026/2027"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/nursing-practice-apply-fee-web.json"
       },
       {
         "url": "https://medicine.nus.edu.sg/nursing/education-admissions/undergraduate/bachelor-of-science-nursing-practice-part-time/tuition-fees-others/",
         "sha256": "2267e8c9a193b8f3c8bb8f863a49f5e1b46de3196eb89348bb20fa97e9e71729",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/nursing-special-focused-web.json",
-        "locator": "Tuition Fees; scholarships/bursaries"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/nursing-special-focused-web.json"
       },
       {
         "url": "https://law1a.nus.edu.sg/admissions/4_yrs_llb_prog.html",
         "sha256": "e722540b2be0d0e26085d36d8493ac865cf33b84a5abb3568eca3b772da3e123",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/law-four-year-web.json",
-        "locator": "International Qualifications; Written Test and Interview; first/second choice"
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/common-NUS26-a6b5eb235fa824.json"
       },
       {
         "url": "https://www.dentistry.nus.edu.sg/ug/prospective-students/",
         "sha256": "c89f2f0f0f8bed223826639a51bd51faf50004b812c8d594afe82666e6a444ec",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/dental-current-web.json",
-        "locator": "Selection Process; Manual Dexterity Test and MMI"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/dental-current-web.json"
       },
       {
         "url": "https://www.ystmusic.nus.edu.sg/english-and-music-theory-req/",
         "sha256": "057eb76407269df172b0ae07898d59d0cd1d2b92caf37d4a7814ba3f31961d4c",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/yst-english-audition-web.json",
-        "locator": "English Requirements (BMus and MMus); Music Aptitude Test"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/yst-english-audition-web.json"
       },
       {
         "url": "https://www.ystmusic.nus.edu.sg/qualifications/",
         "sha256": "1986b49ed03508963f6ba5fe9cc5ddefd98656274ef1044c2e0d5b247493053c",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/ges-music-end-web.json",
-        "locator": "BMus performance/composition; Audio Arts & Sciences/MCP"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/ges-music-end-web.json"
       },
       {
         "url": "https://www.ystmusic.nus.edu.sg/admissions-how-to-apply-audition-requirements-for-bmus-yap-mmus/",
         "sha256": "3a5ad0cccbc3c73b5c4e1608a6e0fc59a73e085c7c5f599d08a19d18e3a20d46",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/yst-audition-current-web.json",
-        "locator": "BMus rows, not graduate-only programmes"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/yst-audition-current-web.json"
       },
       {
         "url": "https://www.ystmusic.nus.edu.sg/how-to-apply/",
         "sha256": "1986b49ed03508963f6ba5fe9cc5ddefd98656274ef1044c2e0d5b247493053c",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/ges-music-end-web.json",
-        "locator": "Applying for Bachelor of Music Degree; Immersion 2027"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/ges-music-end-web.json"
       },
       {
         "url": "https://www.ystmusic.nus.edu.sg/admissions-cost-of-attendance/",
         "sha256": "50f4ca5fae1a3d8f9372907ca79416739be9aa0e31ffa2b256452c42827903de",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/yst-cost-web.json",
-        "locator": "BMus; Scholarships; AY2026/2027 table"
+        "raw_file": "scratch/full-catalog/nus-enrichment/raw/yst-cost-web.json"
       },
       {
         "url": "https://nus.edu.sg/prog/bzabba/",
         "sha256": "1126a7c0db7dec01af4b3b95be7a9a28051177dabcfb5a13049e82fbc9795175",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-details1.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-details1.txt"
       },
       {
         "url": "https://nus.edu.sg/prog/bizcnm/",
         "sha256": "1126a7c0db7dec01af4b3b95be7a9a28051177dabcfb5a13049e82fbc9795175",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-details1.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-details1.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/special-degree-programmes/",
         "sha256": "c3973c292fb79654536ad8e50fab5ba77d208154d0e5677ef4b88ae9850930af",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-fass-pm-find.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-fass-pm-find.txt"
       },
       {
         "url": "https://nus.edu.sg/prog/bizsoc/",
         "sha256": "1126a7c0db7dec01af4b3b95be7a9a28051177dabcfb5a13049e82fbc9795175",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-details1.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-details1.txt"
       },
       {
         "url": "https://cde.nus.edu.sg/undergraduate/programmes/double-degree-programme-in-engineering-business-administration/",
         "sha256": "f3acc7bc50dacd353df5e3a9ccc8ed408266e0a93afb2852651e313ddc5c2beb",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-search-current.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-search-current.txt"
       },
       {
         "url": "https://bba.nus.edu.sg/double-degree-programmes/",
         "sha256": "ca4d042dcb3bb408da538150935ce2aac36512e95c37c5753515713d63178624",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-current-business-foreign.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-current-business-foreign.txt"
       },
       {
         "url": "https://cde.nus.edu.sg/undergraduate/programmes/cde-internal-ddp/",
         "sha256": "b58f463a0f5030db997e3873bf302114e305712be493c2b23d13308442cf73c8",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-find-admission.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-find-admission.txt"
       },
       {
         "url": "https://law.nus.edu.sg/wp-content/uploads/2026/02/2026-NUS-Law-Undergraduate.pdf",
         "sha256": "aae90400502130ef3faf63c9f7f96e87fceb241ee503a9c80873de8d7cb3cc8f",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-eng-current-pm.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-eng-current-pm.txt"
       },
       {
         "url": "https://nus.edu.sg/prog/bbalaw/",
         "sha256": "1126a7c0db7dec01af4b3b95be7a9a28051177dabcfb5a13049e82fbc9795175",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-details1.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-details1.txt"
       },
       {
         "url": "https://www.math.nus.edu.sg/ug/ddp/",
         "sha256": "b58f463a0f5030db997e3873bf302114e305712be493c2b23d13308442cf73c8",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-find-admission.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-find-admission.txt"
       },
       {
         "url": "https://www.nus.edu.sg/prog/bizecon/index.html",
         "sha256": "b4788499a772ef4da79ce3bbcdb62fb5d847bf75527abd9224175d91e87c89b0",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-policy2.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-policy2.txt"
       },
       {
         "url": "https://www.comp.nus.edu.sg/cug/per-cohort/ddp-ba-econs/ba-econs-26-27/",
         "sha256": "608ead68dcd70e385d2e4deb35053d0398d202d729b49b0bba1ae4d6d52e59cd",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-life-current-computing.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-life-current-computing.txt"
       },
       {
         "url": "https://www.comp.nus.edu.sg/cug/per-cohort/ddp-ba-econs/",
         "sha256": "19bd825d2c5d1fec0733cd7353e35ba8bc9356bd8e28c9533ddfb9b1dc989250",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/77704c44dea225c8.html",
-        "locator": "公开HTML main正文"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/77704c44dea225c8.html"
       },
       {
         "url": "https://www.nus.edu.sg/prog/econlaw/overview.html",
         "sha256": "b4788499a772ef4da79ce3bbcdb62fb5d847bf75527abd9224175d91e87c89b0",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-policy2.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-policy2.txt"
       },
       {
         "url": "https://law.nus.edu.sg/prospective-students/",
         "sha256": "c009a7c6e61911a2a79369f344c593f702d93e856cfe5c416a393231a82abaaa",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-law-current-guide.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-law-current-guide.txt"
       },
       {
         "url": "https://www.comp.nus.edu.sg/cug/per-cohort/bais/ddp-bais-econs-cohort-26-27/",
         "sha256": "8f1f814fb81b532485895ca55486f31702632a5be975f5565e0d84a495e4cb2f",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-life-pdf-bais.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-life-pdf-bais.txt"
       },
       {
         "url": "https://www.comp.nus.edu.sg/cug/per-cohort/ddp-is-econs/",
         "sha256": "d9351abbd2e43137d37f4dd1fb80b8f833db9b195e189658b81faed9b0465d9a",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/550ac0114137adda.html",
-        "locator": "公开HTML main正文"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/550ac0114137adda.html"
       },
       {
         "url": "https://cde.nus.edu.sg/undergraduate/programmes/cde-chs-double-degree-programme/",
         "sha256": "aae90400502130ef3faf63c9f7f96e87fceb241ee503a9c80873de8d7cb3cc8f",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-eng-current-pm.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-eng-current-pm.txt"
       },
       {
         "url": "https://www.science.nus.edu.sg/undergraduates/study-abroad-programmes/outgoing/fddp/",
         "sha256": "ca4d042dcb3bb408da538150935ce2aac36512e95c37c5753515713d63178624",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-current-business-foreign.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-current-business-foreign.txt"
       },
       {
         "url": "https://nuscollege.nus.edu.sg/academics/double-degrees-program/nus-sciences-po/",
         "sha256": "f3acc7bc50dacd353df5e3a9ccc8ed408266e0a93afb2852651e313ddc5c2beb",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-search-current.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-search-current.txt"
       },
       {
         "url": "https://nuscollege.nus.edu.sg/academics/double-degrees-program/nus-sciences-po/apply/",
         "sha256": "f3acc7bc50dacd353df5e3a9ccc8ed408266e0a93afb2852651e313ddc5c2beb",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-search-current.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-search-current.txt"
       },
       {
         "url": "https://nuscollege.nus.edu.sg/academics/double-degrees-program/nus-waseda/",
         "sha256": "ca4d042dcb3bb408da538150935ce2aac36512e95c37c5753515713d63178624",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-current-business-foreign.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-current-business-foreign.txt"
       },
       {
         "url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf",
         "sha256": "62951eadf093b642dbd156370f8992af96bbdb45ef3617b004dce6b886b35db7",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-life-admissions-arch.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-life-admissions-arch.txt"
       },
       {
         "url": "https://bba.nus.edu.sg/concurrent-degree-programme-with-master-of-public-policy/",
         "sha256": "b4788499a772ef4da79ce3bbcdb62fb5d847bf75527abd9224175d91e87c89b0",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-policy2.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-policy2.txt"
       },
       {
         "url": "https://mim.nus.edu.sg/academics/concurrent-degree-programme/",
         "sha256": "86c284fecf93b0c4520d9811c730ce1d4a54b609d2cd08f53e2d31ccf53d813a",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-mim-psych-web.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-mim-psych-web.txt"
       },
       {
         "url": "https://www.comp.nus.edu.sg/programmes/sp/cdp/bcomp-msc/",
         "sha256": "c7aa94c8c61880bf1bb359b48446863f086be036cfcdf20d350334b7c8a18bfc",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-fass-pm-law.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-fass-pm-law.txt"
       },
       {
         "url": "https://www.nus.edu.sg/prog/mpplaw/admission.htm",
         "sha256": "c009a7c6e61911a2a79369f344c593f702d93e856cfe5c416a393231a82abaaa",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-law-current-guide.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-law-current-guide.txt"
       },
       {
         "url": "https://cde.nus.edu.sg/arch/programmes/master-of-urban-planning/concurrent-degree-programme-bsc-real-estate-mup/",
         "sha256": "8f1f814fb81b532485895ca55486f31702632a5be975f5565e0d84a495e4cb2f",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-life-pdf-bais.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-life-pdf-bais.txt"
       },
       {
         "url": "https://cde.nus.edu.sg/arch/programmes/master-of-landscape-architecture/",
         "sha256": "273cf9d61356ee2da1afc7f15bd3b6eaa296ffe256dcf223fc84a825b5a7e535",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-architecture.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-architecture.txt"
       },
       {
         "url": "https://cde.nus.edu.sg/dbe/graduate/msc-project-management/",
         "sha256": "aae90400502130ef3faf63c9f7f96e87fceb241ee503a9c80873de8d7cb3cc8f",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-eng-current-pm.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-eng-current-pm.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/psy/concurrent-degree-programme/",
         "sha256": "0f244b812faf9b276690612f820243ac0fa112bb5892273a552da0eb2a41041e",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-psych-details.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-psych-details.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/psy/cdp-cp/",
         "sha256": "a8d96d9fc05c0a273a90820d612dd88f88265014679e7ed75e3853874e24fd2a",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-cross-review-live.json",
-        "locator": "FAQ11、31、45及Registration of Interest；L255–257、332–333、383–392"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-cross-review-live.json"
       },
       {
         "url": "https://fass.nus.edu.sg/psy/cdp-cp/",
         "sha256": "0f244b812faf9b276690612f820243ac0fa112bb5892273a552da0eb2a41041e",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-psych-details.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-psych-details.txt"
       },
       {
         "url": "https://mim.nus.edu.sg/academics/concurrent-double-master-programme/",
         "sha256": "86c284fecf93b0c4520d9811c730ce1d4a54b609d2cd08f53e2d31ccf53d813a",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-mim-psych-web.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-mim-psych-web.txt"
       },
       {
         "url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2026/06/lsm_cdpunimelbdvm.pdf",
         "sha256": "62951eadf093b642dbd156370f8992af96bbdb45ef3617b004dce6b886b35db7",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-life-admissions-arch.txt",
-        "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-life-admissions-arch.txt"
       },
       {
         "url": "https://www.comp.nus.edu.sg/programmes/sp/cdp/carnegie-is/",
         "sha256": "053ad3d48bcacab0f4282108468b9008c2a2b1b06defacc4d70e8b0ef88ba7d6",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/d8af178dff7d8c57.html",
-        "locator": "公开HTML main正文"
+        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/d8af178dff7d8c57.html"
       },
       {
         "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination",
         "sha256": "0abafbe12c137a089e798d233685c31ca6ecada98c71c1c1cc0d42248a537de1",
-        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/requirements-web.json",
-        "locator": "Gaokao table and notes"
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/requirements-web.json"
       },
       {
         "url": "https://www.nus.edu.sg/oam/admissions/important-dates",
         "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/english-dates-subjects-web.json",
-        "locator": "AY2027/2028 International Qualifications"
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/english-dates-subjects-web.json"
       },
       {
         "url": "https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
         "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
-        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/fees-scholarship-web.json",
-        "locator": "PDF page2 AY2026/27 new entrants"
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/fees-scholarship-web.json"
       },
       {
         "url": "https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees",
         "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
-        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/fees-scholarship-web.json",
-        "locator": "Fees/Tuition Grant"
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/fees-scholarship-web.json"
       },
       {
         "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship",
         "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
-        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/fees-scholarship-web.json",
-        "locator": "Eligibility/Benefits/Terms"
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/fees-scholarship-web.json"
+      },
+      {
+        "url": "https://www.law.nyu.edu/financialaid/budgetandbudgeting/studentexpensebudget",
+        "sha256": "b9b5e30ae9a8277f811378fa2dd6473351db334ef674c02b54a710da6ab8bd3e",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-fees-web.txt"
+      },
+      {
+        "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/new-york-university-nus-llb-llm/",
+        "sha256": "6b76e67316b1fa3515a62aa609718315f9b1f64f71eba1b116d596e323b3f97a",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-first3-web.txt"
+      },
+      {
+        "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/",
+        "sha256": "1d48b6afe700c758dae06ee2e5e508d91ef687a6918426437a8725c0cb818d99",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-exchange-browser.txt"
+      },
+      {
+        "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-boston-university-llb-llm/",
+        "sha256": "6b76e67316b1fa3515a62aa609718315f9b1f64f71eba1b116d596e323b3f97a",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-first3-web.txt"
+      },
+      {
+        "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-erasmus-university-llb-llm/",
+        "sha256": "6b76e67316b1fa3515a62aa609718315f9b1f64f71eba1b116d596e323b3f97a",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-first3-web.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/master-of-laws-llm/fees",
+        "sha256": "77a483517955f82120415d9ac00562e68db3697da4eb745291bbb96f0ed5eb65",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/kcl-ai-confirm-web.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/master-of-laws-llm",
+        "sha256": "77a483517955f82120415d9ac00562e68db3697da4eb745291bbb96f0ed5eb65",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/kcl-ai-confirm-web.txt"
+      },
+      {
+        "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-kings-college-london-llb-llm/",
+        "sha256": "636893896469211bea36db85f1135d952158d1d9ac499c858a50aff1bb099974",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-last4-web.txt"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-laws/fees/",
+        "sha256": "2bb445be0179d7c74591134eaba6b56fa583cc42f1fa5b0ee98adae4892440de",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/melbourne-international-fees-dom.txt"
+      },
+      {
+        "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-university-of-melbourne-llb-llm/",
+        "sha256": "636893896469211bea36db85f1135d952158d1d9ac499c858a50aff1bb099974",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-last4-web.txt"
+      },
+      {
+        "url": "https://jackmanlaw.utoronto.ca/graduate-programs/fees",
+        "sha256": "0a7b09ac8a68963ad0f778f6ed86e591d6b830abe5258a81dffa56b3c8065866",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/cdp-main-web.txt"
+      },
+      {
+        "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-university-of-toronto-llb-llm/",
+        "sha256": "636893896469211bea36db85f1135d952158d1d9ac499c858a50aff1bb099974",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-last4-web.txt"
+      },
+      {
+        "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-ie-llb-mdbi_msbt/",
+        "sha256": "5045d4b6c27814c27d82412319f072f3ea9990331072eb721be0da02c0256395",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/social-ai-ie-web.txt"
+      },
+      {
+        "url": "https://www.math.nus.edu.sg/ug/double-degree-with-school-of-computing/double-degree-with-artificial-intelligence/",
+        "sha256": "5045d4b6c27814c27d82412319f072f3ea9990331072eb721be0da02c0256395",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/social-ai-ie-web.txt"
+      },
+      {
+        "url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2026/02/MA-AI-DDP-Cohorts-AY2526.pdf",
+        "sha256": "c3e4ff6575338ebbab41d1a02c6984a5f157d5756f6afe08b7058a22e086b826",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/ai-sw-plans-cdp-web.txt"
+      },
+      {
+        "url": "https://www.nus.edu.sg/registrar/academic-information-policies/undergraduate-students/continuation-and-graduation-requirements",
+        "sha256": "a3cf5e6c562de9b9b610239546e7cda61550bed2094316a9205e115f02590498",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/fee-ddp-policy-web.txt"
+      },
+      {
+        "url": "https://www.nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/double-degree-programmes/double-degree-programme-framework-and-guidelines",
+        "sha256": "a3cf5e6c562de9b9b610239546e7cda61550bed2094316a9205e115f02590498",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/fee-ddp-policy-web.txt"
+      },
+      {
+        "url": "https://sph.nus.edu.sg/education/mph/curriculum/",
+        "sha256": "3362b0bb59c8ff9a47856a99808b604497bcfba76f3c0f2cc4b2e74e75073cb0",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/mph-body-web.txt"
+      },
+      {
+        "url": "https://fass.nus.edu.sg/swk/concurrent-degree-programme/",
+        "sha256": "5045d4b6c27814c27d82412319f072f3ea9990331072eb721be0da02c0256395",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/social-ai-ie-web.txt"
+      },
+      {
+        "url": "https://www.nus.edu.sg/registrar/docs/info/administrative-policies-procedures/gdtuitioncurrent.pdf",
+        "sha256": "bb5de9c4760840dec754a4e313c417221fa0e95b91ad2341b83f01136e99efbf",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/mph-registrar-web.json"
+      },
+      {
+        "url": "https://fass.nus.edu.sg/swk/wp-content/uploads/sites/30/2026/02/CDP-SWK-SSHSPH_Sample-Study-Plan_20260219.pdf",
+        "sha256": "c3e4ff6575338ebbab41d1a02c6984a5f157d5756f6afe08b7058a22e086b826",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/ai-sw-plans-cdp-web.txt"
+      },
+      {
+        "url": "https://sph.nus.edu.sg/education/mph/fees/",
+        "sha256": "d8c509850f956279877fe873dfe4562b8cd7dd8a62241b88b42cc13ed3d939e2",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/sw-mph-fees-curriculum-web.txt"
+      },
+      {
+        "url": "https://scale.nus.edu.sg/programmes/graduate/msc-(environmental-management)",
+        "sha256": "0a7b09ac8a68963ad0f778f6ed86e591d6b830abe5258a81dffa56b3c8065866",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/cdp-main-web.txt"
+      },
+      {
+        "url": "https://scale.nus.edu.sg/programmes/graduate/msc-(environmental-management)/cdp",
+        "sha256": "c3e4ff6575338ebbab41d1a02c6984a5f157d5756f6afe08b7058a22e086b826",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/ai-sw-plans-cdp-web.txt"
+      },
+      {
+        "url": "https://scale.nus.edu.sg/programmes/graduate/msc-(smart-industries-and-digital-transformation)/cdp",
+        "sha256": "c3e4ff6575338ebbab41d1a02c6984a5f157d5756f6afe08b7058a22e086b826",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/ai-sw-plans-cdp-web.txt"
+      },
+      {
+        "url": "https://scale.nus.edu.sg/programmes/graduate/msc-(smart-industries-and-digital-transformation)",
+        "sha256": "d8c509850f956279877fe873dfe4562b8cd7dd8a62241b88b42cc13ed3d939e2",
+        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/sw-mph-fees-curriculum-web.txt"
+      },
+      {
+        "url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf",
+        "sha256": "ca6b9f76205896f7412693264184009840e5a268def6824ff6633d8ace05f13a",
+        "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/dundee-tail-web.txt"
       }
     ],
     "gaps": [
-      "Social Work+MPH、Law Exchange Plus的合作路线、工业工程衔接及AI+数学等候选仍需逐项入库；当前128项不等于全部路线已闭合。",
-      "部分联合条目仍含旧会计或不同荣誉学位变体，未按所有当届组合拆分；邓迪三方向等仍有待逐项扩列。",
+      "已收录8条Law Exchange Plus、Social Work+MPH、AI+数学及两个SCALE本硕框架；SCALE未给所有适用本科专业的封闭清单，不枚举无据自由组合。工业工程没有另造未证实的专属本硕项目。",
+      "部分联合条目仍含旧会计或不同荣誉学位变体，未按所有当届组合拆分；邓迪3具名方向已补，其他在读方向继续按官方逐项对账。",
       "大多数2027/28新生收费和专业考试日期未取得；已核2026/27费表按非ASEAN国际生TG与非TG两价标年使用。",
       "BAIS与旧IS课程表存在标题、学位及总学分矛盾；暂停及旧建筑衔接路径不能当2027开放招生。",
       "GES调查仅用于对应学位与毕业届，未单列大陆学生；大多联合组合没有独立毕业就业率与薪资。"
@@ -3203,6 +3204,427 @@
       "record_type": "combined_degree_group",
       "id": "nus-concurrent-programme-in-bachelor-of-computing-information-systems-bb7adee441",
       "name": "信息系统与卡内基梅隆软件工程本硕衔接（暂停审查）"
+    },
+    {
+      "id": "nus-law-exchange-plus-nyu-llm-c052bf618c",
+      "university_id": "nus",
+      "name": "法学荣誉学士＋纽约大学法学硕士",
+      "name_en": "NUS LLB (Honours) and New York University Master of Laws (Exchange Plus)",
+      "degree_label": "LLB (Honours) + Master of Laws",
+      "official_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/new-york-university-nus-llb-llm/",
+      "raw_key": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/new-york-university-nus-llb-llm/#law-exchange-plus-nyu-llm",
+      "record_type": "具名本硕衔接路线",
+      "entry_route": "NUS四年LLB在读选拔，非高中直录",
+      "requires_prior_degree": false,
+      "status": "官网当前列有；具体入口与选拔见申请说明",
+      "intake": "在读选拔2026；境外2027/28或2028/29",
+      "duration": "4年：NUS 3年＋合作校1年",
+      "campus": "前三年NUS，第四年纽约大学；具体校区另核",
+      "language": "英语（NUS）；境外要求另核",
+      "discovery_source_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/new-york-university-nus-llb-llm/",
+      "source_period": "2026-09核验；招生及费用年度逐条注明",
+      "parent_program_id": "nus-law-c0e924629d",
+      "parent_program_ids": [
+        "nus-law-c0e924629d"
+      ],
+      "parent_name_en": "Law",
+      "parent_program_url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-law/undergraduate-education/",
+      "subjects": [
+        "法律"
+      ],
+      "subject": "法律"
+    },
+    {
+      "id": "nus-law-exchange-plus-bu-llm-8e91d476eb",
+      "university_id": "nus",
+      "name": "法学荣誉学士＋波士顿大学法学硕士",
+      "name_en": "NUS LLB (Honours) and Boston University Master of Laws (Exchange Plus)",
+      "degree_label": "LLB (Honours) + Master of Laws",
+      "official_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-boston-university-llb-llm/",
+      "raw_key": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-boston-university-llb-llm/#law-exchange-plus-bu-llm",
+      "record_type": "具名本硕衔接路线",
+      "entry_route": "NUS四年LLB在读选拔，非高中直录",
+      "requires_prior_degree": false,
+      "status": "官网当前列有；具体入口与选拔见申请说明",
+      "intake": "在读选拔2026；境外2027/28或2028/29",
+      "duration": "4年：NUS 3年＋合作校1年",
+      "campus": "前三年NUS，第四年波士顿大学；具体校区另核",
+      "language": "英语（NUS）；境外要求另核",
+      "discovery_source_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-boston-university-llb-llm/",
+      "source_period": "2026-09核验；招生及费用年度逐条注明",
+      "parent_program_id": "nus-law-c0e924629d",
+      "parent_program_ids": [
+        "nus-law-c0e924629d"
+      ],
+      "parent_name_en": "Law",
+      "parent_program_url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-law/undergraduate-education/",
+      "subjects": [
+        "法律"
+      ],
+      "subject": "法律"
+    },
+    {
+      "id": "nus-law-exchange-plus-erasmus-llm-0ae5298262",
+      "university_id": "nus",
+      "name": "法学荣誉学士＋鹿特丹伊拉斯谟大学法学硕士",
+      "name_en": "NUS LLB (Honours) and Erasmus University Master of Laws (Exchange Plus)",
+      "degree_label": "LLB (Honours) + Master of Laws",
+      "official_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-erasmus-university-llb-llm/",
+      "raw_key": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-erasmus-university-llb-llm/#law-exchange-plus-erasmus-llm",
+      "record_type": "具名本硕衔接路线",
+      "entry_route": "NUS四年LLB在读选拔，非高中直录",
+      "requires_prior_degree": false,
+      "status": "官网当前列有；具体入口与选拔见申请说明",
+      "intake": "在读选拔2026；境外2027/28或2028/29",
+      "duration": "4年：NUS 3年＋合作校1年",
+      "campus": "前三年NUS，第四年鹿特丹伊拉斯谟大学；具体校区另核",
+      "language": "英语（NUS）；境外要求另核",
+      "discovery_source_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-erasmus-university-llb-llm/",
+      "source_period": "2026-09核验；招生及费用年度逐条注明",
+      "parent_program_id": "nus-law-c0e924629d",
+      "parent_program_ids": [
+        "nus-law-c0e924629d"
+      ],
+      "parent_name_en": "Law",
+      "parent_program_url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-law/undergraduate-education/",
+      "subjects": [
+        "法律"
+      ],
+      "subject": "法律"
+    },
+    {
+      "id": "nus-law-exchange-plus-kcl-llm-08d5528c48",
+      "university_id": "nus",
+      "name": "法学荣誉学士＋伦敦国王学院法学硕士",
+      "name_en": "NUS LLB (Honours) and King's College London Master of Laws (Exchange Plus)",
+      "degree_label": "LLB (Honours) + Master of Laws",
+      "official_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-kings-college-london-llb-llm/",
+      "raw_key": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-kings-college-london-llb-llm/#law-exchange-plus-kcl-llm",
+      "record_type": "具名本硕衔接路线",
+      "entry_route": "NUS四年LLB在读选拔，非高中直录",
+      "requires_prior_degree": false,
+      "status": "官网当前列有；具体入口与选拔见申请说明",
+      "intake": "在读选拔2026；境外2027/28或2028/29",
+      "duration": "4年：NUS 3年＋合作校1年",
+      "campus": "前三年NUS，第四年伦敦国王学院；具体校区另核",
+      "language": "英语（NUS）；境外要求另核",
+      "discovery_source_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-kings-college-london-llb-llm/",
+      "source_period": "2026-09核验；招生及费用年度逐条注明",
+      "parent_program_id": "nus-law-c0e924629d",
+      "parent_program_ids": [
+        "nus-law-c0e924629d"
+      ],
+      "parent_name_en": "Law",
+      "parent_program_url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-law/undergraduate-education/",
+      "subjects": [
+        "法律"
+      ],
+      "subject": "法律"
+    },
+    {
+      "id": "nus-law-exchange-plus-melbourne-llm-7d7398a24e",
+      "university_id": "nus",
+      "name": "法学荣誉学士＋墨尔本大学法学硕士",
+      "name_en": "NUS LLB (Honours) and University of Melbourne Master of Laws (Exchange Plus)",
+      "degree_label": "LLB (Honours) + Master of Laws",
+      "official_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-university-of-melbourne-llb-llm/",
+      "raw_key": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-university-of-melbourne-llb-llm/#law-exchange-plus-melbourne-llm",
+      "record_type": "具名本硕衔接路线",
+      "entry_route": "NUS四年LLB在读选拔，非高中直录",
+      "requires_prior_degree": false,
+      "status": "官网当前列有；具体入口与选拔见申请说明",
+      "intake": "在读选拔2026；境外2027/28或2028/29",
+      "duration": "4年：NUS 3年＋合作校1年",
+      "campus": "前三年NUS，第四年墨尔本大学；具体校区另核",
+      "language": "英语（NUS）；境外要求另核",
+      "discovery_source_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-university-of-melbourne-llb-llm/",
+      "source_period": "2026-09核验；招生及费用年度逐条注明",
+      "parent_program_id": "nus-law-c0e924629d",
+      "parent_program_ids": [
+        "nus-law-c0e924629d"
+      ],
+      "parent_name_en": "Law",
+      "parent_program_url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-law/undergraduate-education/",
+      "subjects": [
+        "法律"
+      ],
+      "subject": "法律"
+    },
+    {
+      "id": "nus-law-exchange-plus-toronto-llm-ef378aed72",
+      "university_id": "nus",
+      "name": "法学荣誉学士＋多伦多大学法学硕士",
+      "name_en": "NUS LLB (Honours) and University of Toronto Master of Laws (Exchange Plus)",
+      "degree_label": "LLB (Honours) + Master of Laws",
+      "official_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-university-of-toronto-llb-llm/",
+      "raw_key": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-university-of-toronto-llb-llm/#law-exchange-plus-toronto-llm",
+      "record_type": "具名本硕衔接路线",
+      "entry_route": "NUS四年LLB在读选拔，非高中直录",
+      "requires_prior_degree": false,
+      "status": "官网当前列有；具体入口与选拔见申请说明",
+      "intake": "在读选拔2026；境外2027/28或2028/29",
+      "duration": "4年：NUS 3年＋合作校1年",
+      "campus": "前三年NUS，第四年多伦多大学；具体校区另核",
+      "language": "英语（NUS）；境外要求另核",
+      "discovery_source_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-university-of-toronto-llb-llm/",
+      "source_period": "2026-09核验；招生及费用年度逐条注明",
+      "parent_program_id": "nus-law-c0e924629d",
+      "parent_program_ids": [
+        "nus-law-c0e924629d"
+      ],
+      "parent_name_en": "Law",
+      "parent_program_url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-law/undergraduate-education/",
+      "subjects": [
+        "法律"
+      ],
+      "subject": "法律"
+    },
+    {
+      "id": "nus-law-exchange-plus-ie-mdbi-d13a851d5f",
+      "university_id": "nus",
+      "name": "法学荣誉学士＋IE大学数字商业与创新硕士",
+      "name_en": "NUS LLB (Honours) and IE University Master in Digital Business & Innovation (Exchange Plus)",
+      "degree_label": "LLB (Honours) + Master in Digital Business & Innovation",
+      "official_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-ie-llb-mdbi_msbt/",
+      "raw_key": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-ie-llb-mdbi_msbt/#law-exchange-plus-ie-mdbi",
+      "record_type": "具名本硕衔接路线",
+      "entry_route": "NUS四年LLB在读选拔，非高中直录",
+      "requires_prior_degree": false,
+      "status": "官网当前列有；具体入口与选拔见申请说明",
+      "intake": "在读选拔2026；境外2027/28或2028/29",
+      "duration": "4年：NUS 3年＋合作校1年",
+      "campus": "前三年NUS，第四年IE大学；具体校区另核",
+      "language": "英语（NUS）；境外要求另核",
+      "discovery_source_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-ie-llb-mdbi_msbt/",
+      "source_period": "2026-09核验；招生及费用年度逐条注明",
+      "parent_program_id": "nus-law-c0e924629d",
+      "parent_program_ids": [
+        "nus-law-c0e924629d"
+      ],
+      "parent_name_en": "Law",
+      "parent_program_url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-law/undergraduate-education/",
+      "subjects": [
+        "法律",
+        "商科"
+      ],
+      "subject": "法律"
+    },
+    {
+      "id": "nus-law-exchange-plus-ie-msbt-28240e8f8a",
+      "university_id": "nus",
+      "name": "法学荣誉学士＋IE大学可持续发展与商业转型硕士",
+      "name_en": "NUS LLB (Honours) and IE University Master in Sustainability and Business Transformation (Exchange Plus)",
+      "degree_label": "LLB (Honours) + Master in Sustainability and Business Transformation",
+      "official_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-ie-llb-mdbi_msbt/",
+      "raw_key": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-ie-llb-mdbi_msbt/#law-exchange-plus-ie-msbt",
+      "record_type": "具名本硕衔接路线",
+      "entry_route": "NUS四年LLB在读选拔，非高中直录",
+      "requires_prior_degree": false,
+      "status": "官网当前列有；具体入口与选拔见申请说明",
+      "intake": "在读选拔2026；境外2027/28或2028/29",
+      "duration": "4年：NUS 3年＋合作校1年",
+      "campus": "前三年NUS，第四年IE大学；具体校区另核",
+      "language": "英语（NUS）；境外要求另核",
+      "discovery_source_url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-ie-llb-mdbi_msbt/",
+      "source_period": "2026-09核验；招生及费用年度逐条注明",
+      "parent_program_id": "nus-law-c0e924629d",
+      "parent_program_ids": [
+        "nus-law-c0e924629d"
+      ],
+      "parent_name_en": "Law",
+      "parent_program_url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-law/undergraduate-education/",
+      "subjects": [
+        "法律",
+        "商科",
+        "环境与农业"
+      ],
+      "subject": "法律"
+    },
+    {
+      "id": "nus-artificial-intelligence-mathematics-ddp-1c1275958f",
+      "university_id": "nus",
+      "name": "人工智能与数学双学位",
+      "name_en": "Bachelor of Computing (Artificial Intelligence) and Bachelor of Science (Mathematics)",
+      "degree_label": "Bachelor of Computing (Artificial Intelligence) + Bachelor of Science (Mathematics)",
+      "official_url": "https://www.math.nus.edu.sg/ug/double-degree-with-school-of-computing/double-degree-with-artificial-intelligence/",
+      "raw_key": "https://www.math.nus.edu.sg/ug/double-degree-with-school-of-computing/double-degree-with-artificial-intelligence/#artificial-intelligence-mathematics-ddp",
+      "record_type": "本科双学位",
+      "entry_route": "可高中申请，或相应荣誉本科完成大一后申请",
+      "requires_prior_degree": false,
+      "status": "官网当前列有；具体入口与选拔见申请说明",
+      "intake": "AY2025/26及以后方案；2027申请另核",
+      "duration": "200–207学分；本组合固定学制待核",
+      "campus": null,
+      "language": "英语（NUS）",
+      "discovery_source_url": "https://www.math.nus.edu.sg/ug/double-degree-with-school-of-computing/double-degree-with-artificial-intelligence/",
+      "source_period": "2026-09核验；招生及费用年度逐条注明",
+      "parent_program_id": "nus-bachelor-of-computing-in-artificial-intelligence-76aed1f9ba",
+      "parent_program_ids": [
+        "nus-bachelor-of-computing-in-artificial-intelligence-76aed1f9ba",
+        "nus-mathematics-97b0c6b5c3"
+      ],
+      "parent_name_en": "Bachelor of Computing in Artificial Intelligence",
+      "parent_program_url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-computing/undergraduate-education/",
+      "subjects": [
+        "计算机",
+        "数学与统计"
+      ],
+      "subject": "计算机"
+    },
+    {
+      "id": "nus-social-work-public-health-cdp-0459f07789",
+      "university_id": "nus",
+      "name": "社会工作荣誉学士与公共卫生硕士",
+      "name_en": "Bachelor of Social Sciences (Honours) in Social Work and Master of Public Health",
+      "degree_label": "BSocSci (Honours) in Social Work + Master of Public Health",
+      "official_url": "https://fass.nus.edu.sg/swk/concurrent-degree-programme/",
+      "raw_key": "https://fass.nus.edu.sg/swk/concurrent-degree-programme/#social-work-public-health-cdp",
+      "record_type": "具名本硕衔接路线",
+      "entry_route": "社会工作第一主修完成大一后竞争选拔",
+      "requires_prior_degree": false,
+      "status": "官网当前列有；具体入口与选拔见申请说明",
+      "intake": "2026/27起开设；在读申请",
+      "duration": "4.5年全日制",
+      "campus": null,
+      "language": "英语（NUS）",
+      "discovery_source_url": "https://fass.nus.edu.sg/swk/concurrent-degree-programme/",
+      "source_period": "2026-09核验；招生及费用年度逐条注明",
+      "parent_program_id": "nus-social-work-13798d4982",
+      "parent_program_ids": [
+        "nus-social-work-13798d4982"
+      ],
+      "parent_name_en": "Social Work",
+      "parent_program_url": "https://fass.nus.edu.sg/swk/entry-graduation-requirement-undergraduate/",
+      "subjects": [
+        "医学与健康",
+        "社会科学"
+      ],
+      "subject": "医学与健康"
+    },
+    {
+      "id": "nus-mem-concurrent-degree-framework-270e397f0b",
+      "university_id": "nus",
+      "name": "原荣誉学士与环境管理硕士（本硕框架）",
+      "name_en": "Bachelor's Degree (Honours) and MSc (Environmental Management) Concurrent Degree Programme",
+      "degree_label": "Bachelor's Degree (Honours) + MSc (Environmental Management)",
+      "official_url": "https://scale.nus.edu.sg/programmes/graduate/msc-(environmental-management)/cdp",
+      "raw_key": "https://scale.nus.edu.sg/programmes/graduate/msc-(environmental-management)/cdp#mem-concurrent-degree-framework",
+      "record_type": "在读本硕框架",
+      "entry_route": "NUS大一至大三在读申请；原学院参与范围须确认",
+      "requires_prior_degree": false,
+      "status": "官网当前列有；具体入口与选拔见申请说明",
+      "intake": "CDP下一入口2027年1月",
+      "duration": "正常9学期（4.5年），最多11学期",
+      "campus": null,
+      "language": "英语（NUS）",
+      "discovery_source_url": "https://scale.nus.edu.sg/programmes/graduate/msc-(environmental-management)/cdp",
+      "source_period": "2026-09核验；招生及费用年度逐条注明",
+      "subjects": [
+        "商科",
+        "环境与农业"
+      ],
+      "subject": "商科"
+    },
+    {
+      "id": "nus-sidt-concurrent-degree-framework-6ed38eaa3c",
+      "university_id": "nus",
+      "name": "原荣誉学士与智慧产业与数字化转型硕士（本硕框架）",
+      "name_en": "Bachelor's Degree (Honours) and MSc (Smart Industries and Digital Transformation) Concurrent Degree Programme",
+      "degree_label": "Bachelor's Degree (Honours) + MSc (Smart Industries and Digital Transformation)",
+      "official_url": "https://scale.nus.edu.sg/programmes/graduate/msc-(smart-industries-and-digital-transformation)/cdp",
+      "raw_key": "https://scale.nus.edu.sg/programmes/graduate/msc-(smart-industries-and-digital-transformation)/cdp#sidt-concurrent-degree-framework",
+      "record_type": "在读本硕框架",
+      "entry_route": "NUS大一至大三在读申请；原学院参与范围须确认",
+      "requires_prior_degree": false,
+      "status": "官网当前列有；具体入口与选拔见申请说明",
+      "intake": "CDP下一入口2027年1月",
+      "duration": "正常9学期（4.5年），最多11学期",
+      "campus": null,
+      "language": "英语（NUS）",
+      "discovery_source_url": "https://scale.nus.edu.sg/programmes/graduate/msc-(smart-industries-and-digital-transformation)/cdp",
+      "source_period": "2026-09核验；招生及费用年度逐条注明",
+      "subjects": [
+        "待分类"
+      ],
+      "subject": "待分类"
+    },
+    {
+      "id": "nus-dundee-drug-design-discovery-b161a45c3b",
+      "university_id": "nus",
+      "name": "药物设计与发现（NUS–邓迪联合学位方向）",
+      "name_en": "Drug Design and Discovery",
+      "degree_label": "Jointly validated BSc (Honours) in Life Sciences — Biomedical Science Specialisation (BMS)",
+      "raw_key": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf#nus-jdp-track-drug-design-discovery",
+      "official_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf",
+      "record_type": "联合学位在读方向",
+      "parent_program_id": "nus-joint-bachelor-of-science-honours-in-life-sciences-nus-and-bachel-ac4bfeadbc",
+      "parent_name_en": "Joint Bachelor of Science (Honours) in Life Sciences, NUS and Bachelor of Science (Honours) in Biological Sciences/Biomedical Sciences from University of Dundee",
+      "parent_program_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf",
+      "entry_route": "NUS生命科学第一主修在读选拔后选择方向；非高中单独直录",
+      "requires_prior_degree": false,
+      "status": "2026联合学位方案列有；2027在读申请窗口未取得",
+      "intake": "CHS2023/24及以后方案；2026窗口为历史参考",
+      "duration": "4年：NUS2.5年＋邓迪1.5年",
+      "campus": "第1–5学期NUS，第6–8学期邓迪大学；具体校区另核",
+      "language": "英语（NUS）；邓迪具体语言要求另核",
+      "discovery_source_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf",
+      "source_period": "2026-06-23方案，Annex A p4",
+      "subjects": [
+        "艺术与设计"
+      ],
+      "subject": "艺术与设计"
+    },
+    {
+      "id": "nus-dundee-developmental-biology-3f571042ff",
+      "university_id": "nus",
+      "name": "发育生物学（NUS–邓迪联合学位方向）",
+      "name_en": "Developmental Biology",
+      "degree_label": "Jointly validated BSc (Honours) in Life Sciences — Biomedical Science Specialisation (BMS)",
+      "raw_key": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf#nus-jdp-track-developmental-biology",
+      "official_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf",
+      "record_type": "联合学位在读方向",
+      "parent_program_id": "nus-joint-bachelor-of-science-honours-in-life-sciences-nus-and-bachel-ac4bfeadbc",
+      "parent_name_en": "Joint Bachelor of Science (Honours) in Life Sciences, NUS and Bachelor of Science (Honours) in Biological Sciences/Biomedical Sciences from University of Dundee",
+      "parent_program_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf",
+      "entry_route": "NUS生命科学第一主修在读选拔后选择方向；非高中单独直录",
+      "requires_prior_degree": false,
+      "status": "2026联合学位方案列有；2027在读申请窗口未取得",
+      "intake": "CHS2023/24及以后方案；2026窗口为历史参考",
+      "duration": "4年：NUS2.5年＋邓迪1.5年",
+      "campus": "第1–5学期NUS，第6–8学期邓迪大学；具体校区另核",
+      "language": "英语（NUS）；邓迪具体语言要求另核",
+      "discovery_source_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf",
+      "source_period": "2026-06-23方案，Annex A p5",
+      "subjects": [
+        "自然科学"
+      ],
+      "subject": "自然科学"
+    },
+    {
+      "id": "nus-dundee-plant-science-4cad9d87ac",
+      "university_id": "nus",
+      "name": "植物科学（NUS–邓迪联合学位方向）",
+      "name_en": "Plant Science",
+      "degree_label": "Jointly validated BSc (Honours) in Life Sciences — Ecology, Evolution and Biodiversity Specialisation (EEB)",
+      "raw_key": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf#nus-jdp-track-plant-science",
+      "official_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf",
+      "record_type": "联合学位在读方向",
+      "parent_program_id": "nus-joint-bachelor-of-science-honours-in-life-sciences-nus-and-bachel-ac4bfeadbc",
+      "parent_name_en": "Joint Bachelor of Science (Honours) in Life Sciences, NUS and Bachelor of Science (Honours) in Biological Sciences/Biomedical Sciences from University of Dundee",
+      "parent_program_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf",
+      "entry_route": "NUS生命科学第一主修在读选拔后选择方向；非高中单独直录",
+      "requires_prior_degree": false,
+      "status": "2026联合学位方案列有；2027在读申请窗口未取得",
+      "intake": "CHS2023/24及以后方案；2026窗口为历史参考",
+      "duration": "4年：NUS2.5年＋邓迪1.5年",
+      "campus": "第1–5学期NUS，第6–8学期邓迪大学；具体校区另核",
+      "language": "英语（NUS）；邓迪具体语言要求另核",
+      "discovery_source_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf",
+      "source_period": "2026-06-23方案，Annex A p6",
+      "subjects": [
+        "待分类"
+      ],
+      "subject": "待分类"
     }
   ]
 }

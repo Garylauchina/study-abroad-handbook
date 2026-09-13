@@ -3,10 +3,10 @@
   "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 148,
-    "scope": "原147本科目录入口＋分页重复边界遗漏的Electronic Engineering MEng H611；内部路径仍待全量对账",
-    "method": "复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。",
-    "exclusions": "Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes",
+    "count": 145,
+    "scope": "148个已发现目录入口中，145个本科及本科在读路线；3个本科后护理硕士另留更正页，内部路径仍待全量对账",
+    "method": "复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。",
+    "exclusions": "Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes；本科后首次注册护理MNurs/MSc不计本科项目；MBBS/BDS仍按专业学士保留并注明前置学历。",
     "sources": [
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2",
@@ -89,7 +89,7 @@
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
         "sha256": "2f493d3979db93dc1b3793e055bdde787674d9d1cf572e9f7c8f916f162492ec",
-        "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/english-undergraduate.html"
+        "raw_file": "scratch/full-catalog/kcl-supplement/raw/english.html"
       },
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/fees",
@@ -985,14 +985,739 @@
         "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
         "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
         "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biochemistry-bsc/requirements",
+        "sha256": "5a1a7850b5cca804047eab256905d6a90ffed1eb1cd87041143bdefa91bb8e45",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/0ff74bf31d22a3d1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biochemistry-bsc/teaching",
+        "sha256": "2e53ce10d2e65e8c5fc1a6ed97337600b10e5d24e28249f7660e0987409cd8da",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/40dcdb684c9e30ab.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biochemistry-bsc/careers",
+        "sha256": "8c9fcc1ae1d6d2d3a5b7250aa92f2b3fcdb3ace325e51e73cd9ae2333d7debc8",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/6b49c72d03fff636.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+        "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/english.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biochemistry-bsc/fees",
+        "sha256": "bf08ef8ba8811ea647ecc5ee53e6571a16a528ba4a69a175962aa851327f1be2",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-0.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-science-bsc/requirements",
+        "sha256": "edb3056605ce21eb3220f04b45110b1803bcdcd113e20d02118156cd9af42c4e",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/0fcf4411c2650971.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-science-bsc/teaching",
+        "sha256": "4242d5ca2447f82a5593684e8bc1c90215972c8bd981b8734df01bf481f7dd7e",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/3f23d9b9a6341503.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-science-bsc/careers",
+        "sha256": "b4fbe76e2f84a100c92db71da26f009c3517b4a870ffaeb3ea9b718db225c39c",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/457baac7557149e1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-science-bsc/fees",
+        "sha256": "b63d6cd4869d254aa57a3a25d097262d1ebc80a546f56591146c7975c15de4dd",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/cardiovascular-medicine-ibsc/requirements",
+        "sha256": "1334a90c9a61df730fa3a9abccefb3aacb34b8ed8fc7fdab05b3565dbf4dc50d",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/64305c733ff419a4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/cardiovascular-medicine-ibsc/teaching",
+        "sha256": "511a20422e0cd339025069717761ce3c06b54142d76924ced4951ba293c8d3a3",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/56f34ca4f42943d9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/cardiovascular-medicine-ibsc/careers",
+        "sha256": "d33ec8c9b7caec0d911000e85361f6da524fa7cc1d7e9a4c90b7de44b4eee4a0",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/3dd9523ead1b9a96.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/cardiovascular-medicine-ibsc/fees",
+        "sha256": "b9e5813c156b1665a8fb03f5dd87f105b7baedef134e59981d0eb2eb62292a98",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-2.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-msci/requirements",
+        "sha256": "b4d82123416c7fffab70e84ab7bd50cf8fdf727d0c462f1e168150c0ebf19d4f",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/5f3a93e7a2d866d3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-msci/teaching",
+        "sha256": "2f16a82e918ac0fd0c51e9d592100d2e309dfa47555173c277b3ab9fff8fecd7",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/d4a8bc8dafb5d0b8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-msci/careers",
+        "sha256": "0ce16b7fa6e239e86cda62a47568a23e96ab7bee00803c36a1008d77fb288baf",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/4458a12410fdf657.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-msci/fees",
+        "sha256": "0eccde8d285167e210c74fb1e956d3d0c618c1943d9cf81779b31385c276727b",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-bsc/requirements",
+        "sha256": "ca2e6b7664b51631d659a424b9e330a74f06d739472d20fc48f115a3e16a48b1",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/46d11f8c99bc182b.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-bsc/teaching",
+        "sha256": "0f1dfa48b466e1a9b9433014c230b2dcb4ec4b1e468bfbe408a400909a69f49e",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/c06c072de7088e24.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-bsc/careers",
+        "sha256": "ed21d726ea3a5101d2d34d97c8b9f1ee6584ef0fabc3a54c35dec0e904ae165f",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/ace8d8942ab103b8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-bsc/fees",
+        "sha256": "3d7d53c13cb1209202e8ed74eb4c7b42a0946d0d3d4b07c848b40d3a19977b84",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry-msci/requirements",
+        "sha256": "3546070c2d067190034065f51a225e84bf9a199fb7e5a8b8d2d96f24d5388444",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/e8ea556cac864f8f.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry-msci/teaching",
+        "sha256": "f2a3f802f9f859f43a1fcb900b3a83229adc06315b7dda9e954c379abc5a8b5b",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/06f41e239c77e843.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry-msci/careers",
+        "sha256": "fc0d3922758052aaa461092c9f3cc6b96be0dac1a830e06f57e74eac28e9233e",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fb6da0c6df687b90.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry-msci/fees",
+        "sha256": "2bb9ef1d41a967cb8f444b4b906994055a37f308d6f6a52b4d9849739e816c1a",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry/requirements",
+        "sha256": "09ef9d27517583f355732a34d25ed0ed938163c0669fb1d0e0e3ee46e806ee4a",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/518305c04cfa8378.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry/teaching",
+        "sha256": "fa7bbc8c764e64624d5d607edde7a7eb4d262b86b1ba2d484aeadd36ba25a90d",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/813144b8fe06b346.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry/careers",
+        "sha256": "d58307d15fedd0f3bd8d991aedf5b128ba7bdbf97cd9f7cb2ac94f1a955224e1",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/02313958c02f05e4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry/fees",
+        "sha256": "2ffdbf7f4996014aedb182eb28b114710b20d86b55e3b5b7e89c7746614dad9b",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-6.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dental-therapy-and-hygiene-bsc/requirements",
+        "sha256": "d73a419c60b803f3347ae9b9996ed21e07bfc17fb2d2e06d336b64149792bda0",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/1d2a24bec1854b69.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dental-therapy-and-hygiene-bsc/teaching",
+        "sha256": "3a28eb873ee86658b5e1a19d74e8ff793f9dfdc10e18360c1656e0a6bc08c0ca",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/7083df2d28a264a2.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dental-therapy-and-hygiene-bsc/careers",
+        "sha256": "3cdc4f6cff165f96df816b1028d37dd33e8cead7c71b1784cff96a63ad1e90a1",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/640a4711953afe21.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dental-therapy-and-hygiene-bsc/fees",
+        "sha256": "dfb162b6f91f09235b251f3f784bc7d591c20a64728d834d39a24133497cc918",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-7.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-bds/requirements",
+        "sha256": "48a92b2761b4ec27ce544ec97a534626bae2781f0d54c6c4108129bcb19d9551",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/1589ed27cf1238ab.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-bds/teaching",
+        "sha256": "fe6b32eee5c4b79162a4f33501be6d6c957e63c119c9e4a9909c117e23ea6e22",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/40d0305904cc4764.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-bds/careers",
+        "sha256": "b742098112073cc8fc53a530aa9c265bde61daec1c783543b4e37e18963b89df",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/b68aab6a7148ffb8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-bds/fees",
+        "sha256": "272ca5d8b6e43bf1e9dd0706a1653099f07e44407fa477def641085678fd0e26",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-entry-programme-for-medical-graduates-bds/requirements",
+        "sha256": "2ca2ced28c087c995722b473aef4a94ef101afb9f028ec39851091441bd32912",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/07ad72f289e423c1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-entry-programme-for-medical-graduates-bds/teaching",
+        "sha256": "be0c849c3d009c928c202cdd9428ab1a1930646142a6f08a06cdf92fb6102363",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/37d0a57b1186beeb.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-entry-programme-for-medical-graduates-bds/careers",
+        "sha256": "cae1a9a9541f0085a5a8eb318aa6222c16c742f237a011afeb1f682b85cdaf13",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/1bc7d61a5aedcd15.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-entry-programme-for-medical-graduates-bds/fees",
+        "sha256": "20adf242f5f0e8be01517ab9f5624bdef0bb81640755ed7d6b85be336e3744d4",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-graduate-professional-entry-bds/requirements",
+        "sha256": "542d07f4b939edabd3cb703e61d1c81efa395451a0f71f04a9edea9f2a5cd6d3",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/d20dc568dddac9a9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-graduate-professional-entry-bds/teaching",
+        "sha256": "e93ff2f094ede4e195c32976b4bee08652076106d69674193384eaaf374ccc42",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/5fcc0ba6f6be8d97.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-graduate-professional-entry-bds/careers",
+        "sha256": "5b7b2d0e88c52eec09467c72d9c79bfaa8953d5e32d1cc6ce96348e6c526f704",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/416f79929f214e35.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-graduate-professional-entry-bds/fees",
+        "sha256": "4f71202f9c5f094d4b86bde0dd9e4d310c9b7697cffc983b12713ae7c53f580f",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-10.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/enhanced-support-dentistry-programme-bds/requirements",
+        "sha256": "1c48cfb265f2e7c0fc4990787110798a7a33e97444a74c44207ef1f386c0a455",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/77dfd9dc101fa7d9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/enhanced-support-dentistry-programme-bds/teaching",
+        "sha256": "bda04d3f3af5bec17135c51d51c1d8d3c5eeff9f2cb04aa0d20745c8eabd5486",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/24517157f7725cbb.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/enhanced-support-dentistry-programme-bds/careers",
+        "sha256": "1adb25313fe13d235147bdd6d4614249a6187861e80580349ad221c000efd7fa",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/dee99d074a2a7c39.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/enhanced-support-dentistry-programme-bds/fees",
+        "sha256": "90c2c256e7fa51c1b78badcb3891133f3a6fae01e6409a011ef1b1357729e716",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-11.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/extended-medical-degree-programme-mbbs/requirements",
+        "sha256": "869f6b9c8555768f986d52dd1e1092369d67524a390f363bb69ec1f468bbee06",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/a4b26b1e31794e30.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/extended-medical-degree-programme-mbbs/teaching",
+        "sha256": "629da7b0e0dcd66ce6814b586d5c0ef872a8f3d429b1d662d53860e1016cb33d",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/b2ee38f1d80eb67d.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/extended-medical-degree-programme-mbbs/fees",
+        "sha256": "22c1244eff78c12339a76d948048dad1f07a761a9237d32c5201e147e64fc2c6",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-12.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-ibsc/requirements",
+        "sha256": "2e4e76f0f72774cb6c0d86c4e3dc0b849df71074799eb110a4bfa7de06243652",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/9c680014f0382a99.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-ibsc/teaching",
+        "sha256": "e4d11807b827935379017c44b2c8abb1975326b067942f83ffdbc906c6489b5b",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/ddf79e7b48b1daed.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-ibsc/careers",
+        "sha256": "5a30779beacaa723c33dd953770ed2ee273f48489a0f4de8040e3cbcfc3bcd76",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/590a408349e47cde.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-ibsc/fees",
+        "sha256": "c30de62e92456711f6924ea1a2f19cf1008ccec0e08b309d67689157f9e705dd",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-13.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-medicine-bsc/requirements",
+        "sha256": "469acdc300dd3319c02ecf4bab9686bd87187976c4ff18e7b5d418d77b0d3d35",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/6f31212de1c06e44.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-medicine-bsc/teaching",
+        "sha256": "07f525a70ac912da3c2df5d4119f1b497117542976468bbf50624b33b29e7087",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/138f1fe342a504ce.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-medicine-bsc/global-health-social-science-ba-careers-copy",
+        "sha256": "99fccb0b72d05442bb877aa638561179dbd36747c5a831874f8bdb4aa15e041c",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/58909e547eff5aa3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-medicine-bsc/fees",
+        "sha256": "c554c362e585c701bd53f3893ed251168ae6b5ba643a024d789437aeacb81c24",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-14.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/medicine-graduate-professional-entry-mbbs/requirements",
+        "sha256": "2271c1efab7ea00fce9bddfd260ecddf3aa1beeb54825572c1695b7b9fe49879",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/b60404bad960e170.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/medicine-graduate-professional-entry-mbbs/teaching",
+        "sha256": "0952ee548ddf152fc54b1775285db856f26c02fc2ab005590cccecfba49517e6",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/02bffbb06b1bc449.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/medicine-graduate-professional-entry-mbbs/fees",
+        "sha256": "d495c4e99fde63b9c1b27e60689e6ae52a24ed353722ef8491ca76b112da90cd",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-15.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/graduate-entry-medicine-programme-university-of-portsmouth-campus/requirements",
+        "sha256": "d9255153e2531eeb6ed096c8124e3713c2784c2561bed646157d825435039e01",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/5068d3be15966c90.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/graduate-entry-medicine-programme-university-of-portsmouth-campus/teaching",
+        "sha256": "b2b41748614588ae80693cc9c18d07ef90c3f100aaee2bcfab139996d29dfbf7",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/9c74560db8722185.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/graduate-entry-medicine-programme-university-of-portsmouth-campus/fees",
+        "sha256": "96d35bf62d82d7a07aab483cb885140a30d0174eb5bebb383dc56f023cc3fb45",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-16.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-entry-medicine-mbbs/requirements",
+        "sha256": "6a59b0786b1e005e5f54afdaedb9fca12af6be74d8fb09c9399c5ed9dd278379",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/2878a04575b30390.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-entry-medicine-mbbs/teaching",
+        "sha256": "1e16105b1472d5ccb6652da4848cb399a95ec942534cacb8edbe6097614bc8f7",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/b6bfed66e337fd79.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-entry-medicine-mbbs/fees",
+        "sha256": "a33aeddaab0f3dd7d36cd24a99738bd77e897f6179dcb6a3ebdf1a1f41dd2c8e",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-17.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-genetics-and-genomics-ibsc/entry-requirements",
+        "sha256": "a52af4b607bf27173135739253f7af03027ef355a194f78def98c5277ed4a333",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/dcde787056b8a5ce.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-genetics-and-genomics-ibsc/teaching-and-modules",
+        "sha256": "6fdb19574cd6566b23de5627f5b32f3956a0440d3baee4cbec42793b0db58748",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/5faa11acc789bfc5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-genetics-and-genomics-ibsc/careers",
+        "sha256": "10961098132ca7c15fa64811a9413235e401322fc03a32a4d83b254a6446ef8b",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/f8d59f417a114583.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-genetics-and-genomics-ibsc/fees",
+        "sha256": "71f0ceb32bd8d5a2843d93e6d88471757fa4f20c204e39d0222816f47611c256",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-18.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/medical-physiology-bsc/requirements",
+        "sha256": "a8da811e0c8018356427e076009ce1f456d6c30d8aca4e538d8ff47960e20497",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/7d406935fbcdcfd4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/medical-physiology-bsc/teaching",
+        "sha256": "80da08b50625c494b9e928e8b74a06705cadc441a6baa4ab3987b28b30dcd890",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/f93206880ef62fe6.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/medical-physiology-bsc/careers",
+        "sha256": "d450368a52235b7abd087bdf97186185bca3e4f3d96f563e7703a9963e281b15",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/2e6afeeebcafb1b7.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/medical-physiology-bsc/fees",
+        "sha256": "aa6bb6a0da6196361e84783282fb989a753cbbada4d928e58bf571d3e2a05ae3",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-20.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs/requirements",
+        "sha256": "a56940225f66b689b33a3ed353cfb0b952829dfab05ff5fe1896624aee3a6008",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/109959e414da1743.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs/teaching",
+        "sha256": "0ae6c38e08f257a3af6da0aa563df74f964625e1dccf3822007aaa87adbec431",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/5ab94a394aee68b5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs/requirements",
+        "sha256": "f4e3c8cd873007f6d360ab917c3c99ae5ffe7ceeb88f84ec19a96666ffa1ab54",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/review/medicine-china-ax.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs/fees",
+        "sha256": "c17019c68a59eb175cb7f3b8796fae6b05b5f47a4e00188b52832e72766171a4",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/medicine-fees-dom.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/midwifery-with-registration-as-a-midwife-bsc/requirements",
+        "sha256": "d00739df741e3bdc3ed36e7abb9d4053aa90089836b44a188594e482c09b94ae",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/102650234ae1ce58.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/midwifery-with-registration-as-a-midwife-bsc/teaching-and-modules",
+        "sha256": "b0e38dcf44f6f4e1ebb9ffa2fde1e590c744e1f771202a9bce2f6efde622293d",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/0a8346b36fcd63c9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/midwifery-with-registration-as-a-midwife-bsc/careers",
+        "sha256": "1ed042d8dffaf7c723a2cba33ec21901b09daa294fbe9680c2d235a7acda5871",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/5e41d4e4daa88500.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/midwifery-with-registration-as-a-midwife-bsc/fees",
+        "sha256": "ca398dc749419f7d3b9cbc5f1fa4b5e5203c7a640e02f7f69836a07440d62759",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-22.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/molecular-genetics-bsc/requirements",
+        "sha256": "0eb41b2ed3552d06fd4e68b1863957980c315b7a76b09e934e54f399e5e90dca",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/140b1ea9bdc06752.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/molecular-genetics-bsc/teaching",
+        "sha256": "7fbc92b32310bb8a6ee092e648ead73de7dddaebfb2ab216d3ea3cc4ec744db4",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/8fee4c01a850e386.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/molecular-genetics-bsc/careers",
+        "sha256": "9b7ba8b29ce4c7541800c5b3643fd9b27b6922088f2c28f35e978c5e162fa5e6",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/6fce370f2756d804.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/molecular-genetics-bsc/fees",
+        "sha256": "3afaa70895f1764da0b0da19f6ec2999f4c0d810bcc0d555f58192ac04409077",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-23.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-bsc/requirements",
+        "sha256": "eee29b3300f8f1f22a39bb89fedeedf3a61815dd39ffaf97f8ddaea3186b7405",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/4b63e500b1be1c1b.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-bsc/teaching",
+        "sha256": "d5e7e21b1b228dcc366163d3d723e976dc287377f83accc05faa7bfcde146db2",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/1d33f5bcc4cf941c.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-bsc/careers",
+        "sha256": "6f47bbe2c233823d0a1b112e94ecd42f4e674e9459184cdc8e383fa818f05551",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/35b5d512ae7d6d8b.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-bsc/fees",
+        "sha256": "6961cebc48c9d0f4abbcf7757b140189e3ae9431f4bb29995a2e67b591adce8a",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-24.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-ibsc/requirements",
+        "sha256": "3a408ee5985dc0a5f3708523f5e79bdaad8cc8c3e174d74c03351ca45e05fa6c",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/67abccd073cbd27b.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-ibsc/teaching",
+        "sha256": "16f3bfb6c1ad99dd07ebfafdb613869493668911be4cb1b02e1e535a71f3e34b",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/c281d08438807f8b.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-ibsc/careers",
+        "sha256": "5f34955a8cb49803e051bcf42fbb6f2712861e467174042afbe64270efac708a",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/f6f6d056f3a9fcca.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-ibsc/fees",
+        "sha256": "d11a3478c0ba534ae77ad440ba872c0242370e8a9e276e94cfdbae8288621a0f",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-25.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-and-psychology-bsc/requirements",
+        "sha256": "c5fccb1babb61ba8aefd5c3bc68899e31ef6517100a4465298b6d5d4d5b2bbc3",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/3febacda6899ff63.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-and-psychology-bsc/teaching",
+        "sha256": "704fbff6678c17519e22dce73cead0fbb66b8823d2832e66d7517f5ee98172c5",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/745c99a2f089bc5c.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-and-psychology-bsc/careers",
+        "sha256": "e460eb0b4df14e584a05dab8f4bb013fa70738d6edc5f52164ad8b974e284961",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/4132762da97861d2.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-and-psychology-bsc/fees",
+        "sha256": "759b664b402b5330e797a754c156f8dc8d9b02627590f2ac1276509387eff989",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-26.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-childrens-nurse-bsc/requirements",
+        "sha256": "e832d854fe7a56b3add242bcbc0db8946e3231e9b6ee38fc08f1c4b5b32f4c29",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/18511e9df834469e.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-childrens-nurse-bsc/teaching",
+        "sha256": "091aa26550a71666a9540db92a85d3f41ef02bea62b7dcbb989636d3e4af63f5",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/9a16d69865f4b5e5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-childrens-nurse-bsc/careers",
+        "sha256": "05fd11fe1efb2e31ff32f907c16c4178626a0119f3103b7147fa549cf26c8348",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/625fe9065b1ceab5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-childrens-nurse-bsc/fees",
+        "sha256": "69e09bd23bf5ce5dd5b7e0a5af3b8e17a87384f01e1e4c39ec0458e619b3d36f",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-27.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-bsc/requirements",
+        "sha256": "b78c0ec6e94c624530c83596dbb6ee364e027ac83dc8163848ab6675c96921b8",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/144bd5a753560d97.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-bsc/teaching",
+        "sha256": "f4bcf3c631db7288401d01e87b81ffecb8eb1deb14dcba86b66e95a78af9431e",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/272fb2e207eb9af7.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-bsc/careers",
+        "sha256": "1bb8a9918121dcf38da031e85fc7a9cc28801beff94ba47dcf53aa6ceab73f3e",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/201f310dc4236d3a.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-bsc/fees",
+        "sha256": "8dd541bd55ca489d7a9e0a513979313db9494ef055236db1d556e08dd765fe1e",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-29.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-bsc/requirements",
+        "sha256": "ad0d625bf3576354b5714107f6357c68b4612ec668460e6168b31c1a2daa9b3d",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/d782d7e23a6919b4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-bsc/teaching",
+        "sha256": "3c1e9656a0dac5580dc0515456eddd3f12cdf4996114fa3921d1eb643074dbfd",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/ef81bb5f1a37af6b.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-bsc/careers",
+        "sha256": "6fa09c09ae1effbfb63552279e2be954a9a9b5f3fcffd61337f945f03aeb2e3d",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/c59883849b079e9c.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-bsc/fees",
+        "sha256": "1800d85ecebc8b49b94b10ebcd096402aada696017b4f96273c79832b1b8e443",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-31.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nutrition-bsc/requirements",
+        "sha256": "254e62fb73f457c92155b2dc36dedef99c0f910cc617a46451795c7db1d64e07",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/c02fa993760a0ff0.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nutrition-bsc/teaching",
+        "sha256": "183f6e0e8bb810a52517263308024e2ebdfa5bfca012e28bffa8f9db232d114d",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/d02abd0bbabcc98b.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nutrition-bsc/careers",
+        "sha256": "a6f522739c55caa67c288b4955ea61ac169c4564127d178930b2fd532e81e308",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/00985972f90e94b3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nutrition-bsc/fees",
+        "sha256": "a51a72378044412657431f5b248463c47e365925842111df5e9a81173f5e4d8b",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-32.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/pharmacology-bsc/requirements",
+        "sha256": "4a9030eded101c3d0fdcf6307587b0983e8f238ac62170d4452ace0cf30c513e",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/cd043faba7fc6c7c.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/pharmacology-bsc/teaching",
+        "sha256": "8e8a2b1c839d668e8f3ec38f5dd09c99abfcfd6aa0c32d12034419bbbf6b9ea7",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fb79932fb1747538.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/pharmacology-bsc/careers",
+        "sha256": "91fbd600697eb0afb2e16e340115a96dae6472425873b4a4979340275614261f",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/1192651cde2f3f18.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/pharmacology-bsc/fees",
+        "sha256": "5cf0d37a81c06bb5918ecc3e04e5d6ab30ffc49e555ced24b484ffe4e8f35422",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-33.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/pharmacy-mpharm/requirements",
+        "sha256": "b6e2b4e314294ddfdaf9bec58cce31b8794406335714c171615a3879719a3e38",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/8f18aa8f00a99b87.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/pharmacy-mpharm/teaching",
+        "sha256": "dde4fad3677c7ba1327f4163958977c14cfa052775dbe720ef9f1eb553fa316f",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/131ae48487ddbecc.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/pharmacy-mpharm/careers",
+        "sha256": "e342fedd0e283e82bec559e215260914d04a19d21aad25daa1438388eae9429d",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/dae8eb710f3047ab.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/pharmacy-mpharm/fees",
+        "sha256": "5e85a76d54d1bc14d8b3174af883ef5b690b66e145e4d29317492b86afbdd0af",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-34.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physiology-ibsc/requirements",
+        "sha256": "3e50d59e86bcfc0435e577b0804c0bd34edb588a36fbe4f3326a3493757c1f48",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/6385f08d1c871031.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physiology-ibsc/teaching",
+        "sha256": "43a328e84c99be30ba29236863097a2c8deaa06d9436c0bb9c379352baf44bdf",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/530f58ba2d59063f.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physiology-ibsc/careers",
+        "sha256": "4d1c1245a0f9177b193691667577a8fa56ed2104b499038c3facc0bc8bea2145",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/c6fb8b62109005a5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physiology-ibsc/fees",
+        "sha256": "7aa892b0971809b572014e5ca79f4a2fe19c39b4de098d7753c6f6e5a53220d9",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/fees-dom-35.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physiotherapy-bsc/requirements",
+        "sha256": "85bff43c501d9b4fd6adc7d00ed1e1d981f27c639cedc9362d7afe23d2267e28",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/b04ab85494200f58.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physiotherapy-bsc/teaching",
+        "sha256": "3f4309f04b0e8aa515ad8f3862f9bdfd455fd8deac5db3e1e658a288e8ac5966",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/a6b1b14babb0611c.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physiotherapy-bsc/careers",
+        "sha256": "9910cb90897ece3b638a632f65389c6bec9297357a55d6535e55f8a9f342dda9",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/ab12b06539339509.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physiotherapy-bsc/fees",
+        "sha256": "2eebb2882e32e434135c4cca7aef21ea56a83edabc55075feb47a275afb488d3",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/review/fees-dom-36.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/regenerative-medicine-and-innovation-technology-ibsc/requirements",
+        "sha256": "412fdf1e187daf5723a63502e3382ab3718337c8ac3865c195962634932c48eb",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/083d5dcb80aa3cf9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/regenerative-medicine-and-innovation-technology-ibsc/teaching",
+        "sha256": "e987748333280f74ef43adb467c00f7c34083f831fc5032e063cd5272ffe3f7f",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/ac256d4ac3f1d2b6.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/regenerative-medicine-and-innovation-technology-ibsc/careers",
+        "sha256": "9a075d091b80f26bbb89d1d67fa5f795d75ec18c7d203a8a8d4bc3f71ce7f391",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/f296cff2d8db4701.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/regenerative-medicine-and-innovation-technology-ibsc/fees",
+        "sha256": "2de3a03d4e00cecdc5c70b01e028795d5a27fcdb478748cf6fee045aedb51c79",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/review/fees-dom-37.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sport-and-exercise-medical-sciences-bsc/requirements",
+        "sha256": "aae0226d86b53c23926186db26799817d65eeef9b358f1f2c5282677a36c6250",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/501f0f92fef410a8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sport-and-exercise-medical-sciences-bsc/teaching",
+        "sha256": "69771b8e1fd49485ee10bbd958688d4dedb890779150cea050a9e419f814bb21",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/a2eeb9d7044ef05a.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sport-and-exercise-medical-sciences-bsc/careers",
+        "sha256": "453422b4bdd9616ccb4f57eb561e3add612ffab40b3f8a9386116c3f7cf301b9",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/7b1bba825a4098f3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sport-and-exercise-medical-sciences-bsc/fees",
+        "sha256": "c84234fc8c97f16a651b62823e20bf261e6eea29fa5bfb865b20942a8ba5f103",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/review/fees-dom-38.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/womens-health-ibsc/requirements",
+        "sha256": "b71679952c770bd4559661170230cca9dc5dfbb7223220fdc9d2f873b03be226",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/f836e3bdd7471964.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/womens-health-ibsc/teaching",
+        "sha256": "324f3e39d9873ed95f2ae90a76e85afc1d2ff294b30aee02e1aee6e65ed9393d",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/59bd4ba305886d91.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/womens-health-ibsc/careers",
+        "sha256": "a522f7a9a3b5977c4ab61ff06e352ee25c883ad88c6218425d2aaff02ee114fd",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/raw/165592b478803f8e.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/womens-health-ibsc/fees",
+        "sha256": "83d3e802155de549f0d75012ef6a9911636453b67db7551f78544693d057a260",
+        "raw_file": "scratch/full-catalog/kcl-health-enrichment/review/fees-dom-39.html"
       }
     ],
     "gaps": [
-      "139条旧记录本轮未补充独立分栏资料；所有本科内部路径及完整资格仍待继续逐项核验。",
-      "已取得课程收费字段，但主要学费年度与单位未完整闭合；2027报价不作猜测，课程实践年比例及无押金安排逐条引用。",
-      "英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；中国普高/高考具体等值门槛尚缺。",
-      "官网学分分项有会计135、选修15/30、人工智能研究0学分等差异，未擅改数字。",
-      "本批职业页多为服务/案例，未取得专业独立毕业届别、分母、就业率或薪资。"
+      "另有99条现有记录尚未完成独立分栏补源；所有本科内部路径及完整资格继续逐项核验。",
+      "本次37项已取得2027/28年度课程费用，但不据此外推所有145项、未来实习年或全程总费用；Home-only限制与国际报价分别说明。",
+      "英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；仅Medicine MBBS取得中国资格分支，其他课程不由A-level/IB反推高考直入。",
+      "iBSc内部／外部申请日与侧栏状态、牙科及部分医学模块学分存在官方差异，均保留原范围；空截止栏不作推断。",
+      "本批职业页多为职业注册、服务或案例，未取得专业独立毕业届别、分母、就业率或薪资。"
     ]
   },
   "programs": [
@@ -1186,17 +1911,18 @@
       "name_en": "Biochemistry BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/biochemistry-bsc",
-      "intake": null,
-      "duration": "Three years, or four years with a year abroad or extra-mural year, or four years with transfer to MSci Biochemistry / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "3 年；获批海外／校外年或转 MSci 可为 4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=0",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "a59aa7bc-f34d-475f-9bb6-e2e1a4fa38f7",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "生物与化学 A；Common Year One 后按本课程规定分流／选课",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-biochemistry-bsc-c5e2207738"
+      "id": "kcl-biochemistry-bsc-c5e2207738",
+      "name": "生物化学理学学士"
     },
     {
       "name_en": "Biomedical Engineering BEng",
@@ -1234,17 +1960,18 @@
       "name_en": "Biomedical Science BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-science-bsc",
-      "intake": null,
-      "duration": "Three years, or four years if includes either a year abroad or extra-mural year / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "3 年；获批海外／校外年可为 4 年",
+      "campus": "Guy’s／Waterloo",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=0",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "72023ce6-e58c-44ba-8801-ad21472c7166",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "生物与化学 A；Common Year One 后按本课程规定分流／选课",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-biomedical-science-bsc-3ad80a8771"
+      "id": "kcl-biomedical-science-bsc-3ad80a8771",
+      "name": "生物医学科学理学学士"
     },
     {
       "name_en": "Business Management BSc",
@@ -1282,17 +2009,19 @@
       "name_en": "Cardiovascular Medicine iBSc",
       "degree_label": "iBSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/cardiovascular-medicine-ibsc",
-      "intake": null,
-      "duration": "One year  / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "1 年插读",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=1",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "fe995218-45c3-4a31-8fca-f4a52beb38da",
-      "entry_route": "intercalated degree; prior/current medical or dental studies required",
-      "requires_prior_degree": null,
+      "entry_route": "医学在读期间的一年插读；境外仅受理合资格 MBBS 等同医学在读者",
+      "requires_prior_degree": false,
       "status": "listed_current",
-      "id": "kcl-cardiovascular-medicine-ibsc-3e3c21e045"
+      "id": "kcl-cardiovascular-medicine-ibsc-3e3c21e045",
+      "name": "心血管医学插读理学学士",
+      "record_type": "在读医学等专业插读学士"
     },
     {
       "name_en": "Chemistry MSci",
@@ -1362,65 +2091,69 @@
       "name_en": "Chemistry with Biomedicine MSci",
       "degree_label": "MSci",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-msci",
-      "intake": null,
-      "duration": "4 years / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "4 年",
+      "campus": "主要 Waterloo，部分 Guy’s",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=1",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "5e17adba-5e16-42a2-8c84-bad7a12b6443",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "化学 A＋指定数理／生物 A；IB 数学若用于科目条件须 HL AA",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-chemistry-with-biomedicine-msci-626754f1e3"
+      "id": "kcl-chemistry-with-biomedicine-msci-626754f1e3",
+      "name": "生物医学化学理学本硕一体"
     },
     {
       "name_en": "Chemistry with Biomedicine BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-bsc",
-      "intake": null,
-      "duration": "3 years / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "3 年",
+      "campus": "主要 Waterloo，部分 Guy’s",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=1",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "06896880-e9bc-4273-8e0c-4cfc263123db",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "化学 A＋指定数理／生物 A；IB 数学若用于科目条件须 HL AA",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-chemistry-with-biomedicine-bsc-20a60983ad"
+      "id": "kcl-chemistry-with-biomedicine-bsc-20a60983ad",
+      "name": "生物医学化学理学学士"
     },
     {
       "name_en": "Chemistry with Biomedicine with a Year in Industry MSci",
       "degree_label": "MSci",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry-msci",
-      "intake": null,
-      "duration": "5 years / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "5 年（含产业年）",
+      "campus": "主要 Waterloo／Guy’s，另有产业实习",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=1",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "406c873a-acfa-4bfb-814d-30aef18053ca",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "化学 A＋指定数理／生物 A；IB 数学若用于科目条件须 HL AA",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-chemistry-with-biomedicine-with-a-year-in-industry-msci-45b2f1655a"
+      "id": "kcl-chemistry-with-biomedicine-with-a-year-in-industry-msci-45b2f1655a",
+      "name": "生物医学化学理学本硕一体（含产业年）"
     },
     {
       "name_en": "Chemistry with Biomedicine with a Year in Industry BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry",
-      "intake": null,
-      "duration": "4 years / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "4 年（含产业年）",
+      "campus": "主要 Waterloo／Guy’s，另有产业实习",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=1",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "782f622f-f2ed-4b50-945f-47dffed37849",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "化学 A＋指定数理／生物 A；IB 数学若用于科目条件须 HL AA",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-chemistry-with-biomedicine-with-a-year-in-industry-bsc-aaaa5bfdd8"
+      "id": "kcl-chemistry-with-biomedicine-with-a-year-in-industry-bsc-aaaa5bfdd8",
+      "name": "生物医学化学理学学士（含产业年）"
     },
     {
       "name_en": "Classical Studies with English BA",
@@ -1618,65 +2351,71 @@
       "name_en": "Dental Therapy & Hygiene BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/dental-therapy-and-hygiene-bsc",
-      "intake": null,
-      "duration": "Three years / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "3 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "7cc7026b-a6aa-40b2-b292-cc9bcf189e8a",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "招生栏目前排除 Overseas 身份；与国际费用栏冲突，申请前须由学校确认",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-dental-therapy-hygiene-bsc-0cd5e182a2"
+      "id": "kcl-dental-therapy-hygiene-bsc-0cd5e182a2",
+      "name": "牙科治疗与卫生理学学士"
     },
     {
       "name_en": "Dentistry BDS",
       "degree_label": "BDS",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-bds",
-      "intake": null,
-      "duration": "Five years / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "5 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "198dbe1d-55ab-4172-89c1-066ec4a96cad",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "普通五年牙科；生物／化学及另一指定科目，UCAT＋面试",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-dentistry-bds-5b87585020"
+      "id": "kcl-dentistry-bds-5b87585020",
+      "name": "牙科学士"
     },
     {
       "name_en": "Dentistry Entry Programme for Medical Graduates BDS",
       "degree_label": "BDS",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-entry-programme-for-medical-graduates-bds",
-      "intake": null,
-      "duration": "Three years / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "3 年（本科后入口）",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "e0ff786a-c565-45a3-b8e5-bc131b5d0198",
-      "entry_route": "graduate_entry",
-      "requires_prior_degree": null,
+      "entry_route": "仅 Home 身份的 GMC 注册医生；已完成 FY1＋FY2，三年牙科入口",
+      "requires_prior_degree": true,
       "status": "listed_current",
-      "id": "kcl-dentistry-entry-programme-for-medical-graduates-bds-522e13b1c1"
+      "id": "kcl-dentistry-entry-programme-for-medical-graduates-bds-522e13b1c1",
+      "name": "医学毕业生牙科学士入口",
+      "record_type": "本科后入学的医学／牙科专业学士"
     },
     {
       "name_en": "Dentistry Graduate/Professional Entry Programme BDS",
       "degree_label": "BDS",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-graduate-professional-entry-bds",
-      "intake": null,
-      "duration": "Four years / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "4 年（本科后入口）",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "64e951c9-fc33-4cb8-bea6-5cbec196ebf1",
-      "entry_route": "graduate_entry",
-      "requires_prior_degree": null,
+      "entry_route": "本科后四年牙科；相关生物科学学位＋UCAT＋面试",
+      "requires_prior_degree": true,
       "status": "listed_current",
-      "id": "kcl-dentistry-graduate-professional-entry-programme-bds-918aff2f96"
+      "id": "kcl-dentistry-graduate-professional-entry-programme-bds-918aff2f96",
+      "name": "本科后／专业人士牙科学士入口",
+      "record_type": "本科后入学的医学／牙科专业学士"
     },
     {
       "name_en": "Digital Media & Culture BA",
@@ -1906,17 +2645,18 @@
       "name_en": "Enhanced Support Dentistry Programme BDS",
       "degree_label": "BDS",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/enhanced-support-dentistry-programme-bds",
-      "intake": null,
-      "duration": "Five years / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "5 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=3",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "f8a7a5f2-dc52-4b8d-b0a9-1fd78edfc79a",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "仅合资格 Home 及伦敦非选拔公立教育背景；K+ 有地域例外",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-enhanced-support-dentistry-programme-bds-e07109ebf2"
+      "id": "kcl-enhanced-support-dentistry-programme-bds-e07109ebf2",
+      "name": "增强支持牙科学士"
     },
     {
       "name_en": "Environmental Science MSci",
@@ -1986,17 +2726,18 @@
       "name_en": "Extended Medical Degree Programme MBBS",
       "degree_label": "MBBS",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/extended-medical-degree-programme-mbbs",
-      "intake": null,
-      "duration": "Six years (seven if an optional intercalated degree is undertaken) / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "6 年；选插读学位为 7 年",
+      "campus": "伦敦南部及英格兰南部临床机构",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=4",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "23bbae6e-b3c1-4319-b326-c97744cc0577",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "仅符合拓宽参与条件的 Home 申请者；六年医学，UCAT＋面试",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-extended-medical-degree-programme-mbbs-45e3e1c0b4"
+      "id": "kcl-extended-medical-degree-programme-mbbs-45e3e1c0b4",
+      "name": "延长学制医学学士"
     },
     {
       "name_en": "Film Studies BA",
@@ -2082,33 +2823,36 @@
       "name_en": "Global Health iBSc",
       "degree_label": "iBSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-ibsc",
-      "intake": null,
-      "duration": "One year / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "1 年插读",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=4",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "346841bc-ad32-4577-b3d0-b5d30c6c820f",
-      "entry_route": "intercalated degree; prior/current medical or dental studies required",
-      "requires_prior_degree": null,
+      "entry_route": "医学在读期间的一年插读；境外仅受理合资格 MBBS 等同医学在读者",
+      "requires_prior_degree": false,
       "status": "listed_current",
-      "id": "kcl-global-health-ibsc-ab1586f2f9"
+      "id": "kcl-global-health-ibsc-ab1586f2f9",
+      "name": "全球健康插读理学学士",
+      "record_type": "在读医学等专业插读学士"
     },
     {
       "name_en": "Global Health & Social Medicine BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-medicine-bsc",
-      "intake": null,
-      "duration": "Three years full-time or four years with a year abroad / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "3 年；获批海外年为 4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=4",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "d229a554-8ff0-4e24-b96c-61c6d5c2018c",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "全球健康／社会医学 BSc；生物或化学 B，毕业不授医生资格",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-global-health-social-medicine-bsc-b0b501dde0"
+      "id": "kcl-global-health-social-medicine-bsc-b0b501dde0",
+      "name": "全球健康与社会医学理学学士"
     },
     {
       "name_en": "Global Health & Social Science BA",
@@ -2146,65 +2890,73 @@
       "name_en": "Graduate Entry Medicine Programme MBBS",
       "degree_label": "MBBS",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/medicine-graduate-professional-entry-mbbs",
-      "intake": null,
-      "duration": "Four years / Full-time",
-      "campus": null,
+      "intake": "2027 年 8 月",
+      "duration": "4 年（本科后入口）",
+      "campus": "伦敦南部及英格兰南部临床机构",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=4",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "7e793e26-14b6-4795-b5ac-b799dfcf4af6",
-      "entry_route": "graduate_entry",
+      "entry_route": "仅 Home 学费身份的本科后医学入口；相关生物科学 2:1＋UCAT＋面试",
       "requires_prior_degree": true,
       "status": "listed_current",
-      "id": "kcl-graduate-entry-medicine-programme-mbbs-31bff8cf95"
+      "id": "kcl-graduate-entry-medicine-programme-mbbs-31bff8cf95",
+      "name": "本科后医学学士入口",
+      "record_type": "本科后入学的医学／牙科专业学士"
     },
     {
       "name_en": "Graduate Entry Medicine Programme (University of Portsmouth branch campus) MBBS",
       "degree_label": "MBBS",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/graduate-entry-medicine-programme-university-of-portsmouth-campus",
-      "intake": null,
-      "duration": "Four years / Full-time",
-      "campus": null,
+      "intake": "2027 年 8 月",
+      "duration": "4 年（本科后入口）",
+      "campus": "Portsmouth 及周边临床机构（含 Isle of Wight）",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=4",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "bdc9145e-ab5f-42aa-b6da-fc3ae2bc36f1",
-      "entry_route": "graduate_entry",
+      "entry_route": "仅 Home 学费身份的本科后医学入口；相关生物科学 2:1＋UCAT＋面试",
       "requires_prior_degree": true,
       "status": "listed_current",
-      "id": "kcl-graduate-entry-medicine-programme-university-of-portsmouth-branch-18f4100000"
+      "id": "kcl-graduate-entry-medicine-programme-university-of-portsmouth-branch-18f4100000",
+      "name": "本科后医学学士（朴次茅斯分校）",
+      "record_type": "本科后入学的医学／牙科专业学士"
     },
     {
       "name_en": "Healthcare Entry Medicine MBBS",
       "degree_label": "MBBS",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-entry-medicine-mbbs",
-      "intake": null,
-      "duration": "Four years / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "4 年（医护从业者入口）",
+      "campus": "Guy’s 与合作临床机构",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=4",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "aa440af8-5c49-4580-9b0a-0fd0c2d06f96",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "仅 Home 身份；医疗卫生 BSc Hons 2:1＋两年 NHS 患者服务经验＋UCAT",
+      "requires_prior_degree": true,
       "status": "listed_current",
-      "id": "kcl-healthcare-entry-medicine-mbbs-11c1f6450c"
+      "id": "kcl-healthcare-entry-medicine-mbbs-11c1f6450c",
+      "name": "医护从业者医学学士入口",
+      "record_type": "本科后入学的医学／牙科专业学士"
     },
     {
       "name_en": "Healthcare Genetics & Genomics iBSc",
       "degree_label": "iBSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-genetics-and-genomics-ibsc",
-      "intake": null,
-      "duration": "One year / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "1 年插读",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=4",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "2a4779c5-49e5-4a12-8fee-0b087db7bcbd",
-      "entry_route": "intercalated degree; prior/current medical or dental studies required",
-      "requires_prior_degree": null,
+      "entry_route": "医学在读期间的一年插读；境外仅受理合资格 MBBS 等同医学在读者",
+      "requires_prior_degree": false,
       "status": "listed_current",
-      "id": "kcl-healthcare-genetics-genomics-ibsc-feb9587647"
+      "id": "kcl-healthcare-genetics-genomics-ibsc-feb9587647",
+      "name": "医疗遗传与基因组学插读理学学士",
+      "record_type": "在读医学等专业插读学士"
     },
     {
       "name_en": "History BA",
@@ -2431,22 +3183,6 @@
       "id": "kcl-marketing-with-year-in-industry-bsc-200524822b"
     },
     {
-      "name_en": "Master of Nursing in Nursing with Registration as an Adult Nurse and a Mental Health Nurse MNurs",
-      "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/master-of-nursing-dual-award-with-registration-as-an-adult-nurse-and-a-mental-health-nurse",
-      "intake": null,
-      "duration": "Two years / Full-time",
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=5",
-      "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
-      "raw_key": "1fd2558e-8579-4e5c-b24c-9d465ba517d7",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
-      "status": "listed_current",
-      "id": "kcl-master-of-nursing-in-nursing-with-registration-as-an-adult-nurse-7f4b95bac0"
-    },
-    {
       "name_en": "Mathematics BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-bsc",
@@ -2594,49 +3330,52 @@
       "name_en": "Medical Physiology BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/medical-physiology-bsc",
-      "intake": null,
-      "duration": "Three years, or four years with a year’s study abroad / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "3 年；海外年变体为 4 年",
+      "campus": "Guy’s／Waterloo",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=6",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "b5c66b57-c42d-4b8b-a5e9-c5784befb8b4",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "A-level 生物与化学 A；以本专业课程规章选择高年级模块",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-medical-physiology-bsc-fb8f2fdaf3"
+      "id": "kcl-medical-physiology-bsc-fb8f2fdaf3",
+      "name": "医学生理学理学学士"
     },
     {
       "name_en": "Medicine MBBS",
       "degree_label": "MBBS",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs",
-      "intake": null,
-      "duration": "Five years (six if an optional intercalated degree is undertaken) / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "5 年；选插读学位为 6 年",
+      "campus": "伦敦南部及英格兰南部临床机构",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=6",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "52945e28-418a-40bf-bd13-2d025aa36960",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "医学 MBBS：中国高考／Zhao Kao 不直入；合格替代学历＋UCAT＋面试",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-medicine-mbbs-a1ae58c1a5"
+      "id": "kcl-medicine-mbbs-a1ae58c1a5",
+      "name": "医学学士"
     },
     {
       "name_en": "Midwifery with Registration as a Midwife BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/midwifery-with-registration-as-a-midwife-bsc",
-      "intake": null,
-      "duration": "Three years / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "3 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=6",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "8be5111c-745b-4344-b0f5-c039f662daf9",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "普通助产本科；GCSE 五门等同＋面试、健康及 DBS 条件",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-midwifery-with-registration-as-a-midwife-bsc-17bb75f69b"
+      "id": "kcl-midwifery-with-registration-as-a-midwife-bsc-17bb75f69b",
+      "name": "助产学理学学士（助产士注册）"
     },
     {
       "name_en": "Modern Languages (French, German, Spanish, Portuguese) with a year abroad BA",
@@ -2658,17 +3397,18 @@
       "name_en": "Molecular Genetics BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/molecular-genetics-bsc",
-      "intake": null,
-      "duration": "Three years, or four years with a year abroad or extra-mural year, or four years with transfer to MSci / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "3 年；获批海外／校外年或转 MSci 可为 4 年",
+      "campus": "Guy’s／Waterloo",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=6",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "fe0f3e3c-b19e-4d44-acaa-8dd039c2a3d2",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "A-level 生物与化学 A；以本专业课程规章选择高年级模块",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-molecular-genetics-bsc-6412d6b7a6"
+      "id": "kcl-molecular-genetics-bsc-6412d6b7a6",
+      "name": "分子遗传学理学学士"
     },
     {
       "name_en": "Music BMus",
@@ -2738,177 +3478,155 @@
       "name_en": "Neuroscience BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-bsc",
-      "intake": null,
-      "duration": "Three years or four years with an extra-mural year or year abroad / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "3 年；海外／校外年可为 4 年",
+      "campus": "Guy’s／Denmark Hill",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=7",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "1ec8dbea-c7ee-4d35-a428-10e6f3d9677c",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "A-level 生物与化学 A；以本专业课程规章选择高年级模块",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-neuroscience-bsc-d93be1f745"
+      "id": "kcl-neuroscience-bsc-d93be1f745",
+      "name": "神经科学理学学士"
     },
     {
       "name_en": "Neuroscience iBSc",
       "degree_label": "iBSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-ibsc",
-      "intake": null,
-      "duration": "One year / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "1 年插读",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=7",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "e47f823a-dd09-4eb8-8a89-ee4c4c856cf4",
-      "entry_route": "intercalated degree; prior/current medical or dental studies required",
-      "requires_prior_degree": null,
+      "entry_route": "医学在读期间的一年插读；境外仅受理合资格 MBBS 等同医学在读者",
+      "requires_prior_degree": false,
       "status": "listed_current",
-      "id": "kcl-neuroscience-ibsc-a245d57d91"
+      "id": "kcl-neuroscience-ibsc-a245d57d91",
+      "name": "神经科学插读理学学士",
+      "record_type": "在读医学等专业插读学士"
     },
     {
       "name_en": "Neuroscience and Psychology BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-and-psychology-bsc",
-      "intake": null,
-      "duration": "Three years or 4 years with a year abroad or a professional placement year / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "3 年；海外／职业实习年为 4 年",
+      "campus": "Denmark Hill",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=7",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "3b3490d7-2ea1-400e-baf0-89a0fd80b79b",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "两门指定科学／心理／数理 A；GCSE 数学 6/B 或国际等同",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-neuroscience-and-psychology-bsc-7a88cc02c5"
+      "id": "kcl-neuroscience-and-psychology-bsc-7a88cc02c5",
+      "name": "神经科学与心理学理学学士"
     },
     {
       "name_en": "Nursing with Registration as a Children’s Nurse BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-childrens-nurse-bsc",
-      "intake": null,
-      "duration": "Three years / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "3 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=7",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "a70f152d-9c13-40d0-b1d8-fcfb2895e4a8",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "儿童护理 BSc；无指定 A-level 科目，GCSE 五科等同＋面试／健康审查",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-nursing-with-registration-as-a-children-s-nurse-bsc-845d84af00"
-    },
-    {
-      "name_en": "Nursing with Registration as a Mental Health Nurse MSc",
-      "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-msc",
-      "intake": null,
-      "duration": "Two years / Full-time",
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=7",
-      "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
-      "raw_key": "4f63cc13-526b-4a13-a5f4-9f5b3fc48656",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
-      "status": "listed_current",
-      "id": "kcl-nursing-with-registration-as-a-mental-health-nurse-msc-b892f1fd5a"
+      "id": "kcl-nursing-with-registration-as-a-children-s-nurse-bsc-845d84af00",
+      "name": "儿童护理理学学士（注册护士）"
     },
     {
       "name_en": "Nursing with Registration as a Mental Health Nurse BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-bsc",
-      "intake": null,
-      "duration": "Three years / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "3 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=7",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "2f882689-e44f-47db-8539-0411c8611ec2",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "精神健康护理 BSc；无指定 A-level 科目，GCSE 五科等同＋面试／健康审查",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-nursing-with-registration-as-a-mental-health-nurse-bsc-7d89a749af"
-    },
-    {
-      "name_en": "Nursing with Registration as an Adult Nurse MSc",
-      "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-msc",
-      "intake": null,
-      "duration": "Two years / Full-time",
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=7",
-      "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
-      "raw_key": "638891be-81b5-4813-913c-e4cc6793e26b",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
-      "status": "listed_current",
-      "id": "kcl-nursing-with-registration-as-an-adult-nurse-msc-7d428f6c8f"
+      "id": "kcl-nursing-with-registration-as-a-mental-health-nurse-bsc-7d89a749af",
+      "name": "精神健康护理理学学士（注册护士）"
     },
     {
       "name_en": "Nursing with Registration as an Adult Nurse BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-bsc",
-      "intake": null,
-      "duration": "Three years / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "3 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=7",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "2ab54040-58e3-4c26-b9a5-9427d3c9acce",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "成人护理 BSc；无指定 A-level 科目，GCSE 五科等同＋面试／健康审查",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-nursing-with-registration-as-an-adult-nurse-bsc-d0501688b4"
+      "id": "kcl-nursing-with-registration-as-an-adult-nurse-bsc-d0501688b4",
+      "name": "成人护理理学学士（注册护士）"
     },
     {
       "name_en": "Nutritional Sciences BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/nutrition-bsc",
-      "intake": null,
-      "duration": "Three-years, or four years if taking extra mural year / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "3 年；获批校外年为 4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=7",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "8ccd109e-4335-478d-b628-5bf8d9c74691",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "营养科学 BSc；生物先修，职业注册需区分营养学与 dietetics",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-nutritional-sciences-bsc-b2ac51516e"
+      "id": "kcl-nutritional-sciences-bsc-b2ac51516e",
+      "name": "营养科学理学学士"
     },
     {
       "name_en": "Pharmacology BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/pharmacology-bsc",
-      "intake": null,
-      "duration": "Three years or four years with a year abroad, or with an MSci / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "3 年；海外年或 MSci 变体为 4 年",
+      "campus": "Guy’s／Waterloo",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=7",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "8aee7288-b850-48c5-8b0a-919195bc6874",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "药理学 BSc；生物与化学先修，不等同 MPharm 药师课程",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-pharmacology-bsc-e8d72214a9"
+      "id": "kcl-pharmacology-bsc-e8d72214a9",
+      "name": "药理学理学学士"
     },
     {
       "name_en": "Pharmacy MPharm",
       "degree_label": "MPharm",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/pharmacy-mpharm",
-      "intake": null,
-      "duration": "Four years / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "4 年",
+      "campus": "Waterloo；临床含伦敦及英格兰东南部",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=7",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "2958e509-611d-44e5-9503-fc7ae74a8857",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "药学四年本硕一体；化学及指定理科 A，须面试及临床健康审查",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-pharmacy-mpharm-3e0905569e"
+      "id": "kcl-pharmacy-mpharm-3e0905569e",
+      "name": "药学本硕一体 MPharm"
     },
     {
       "name_en": "Philosophy BA",
@@ -3090,33 +3808,36 @@
       "name_en": "Physiology iBSc",
       "degree_label": "iBSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/physiology-ibsc",
-      "intake": null,
-      "duration": "One year / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "1 年插读",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=8",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "dcbfb6a4-0f27-486b-9b46-f8312a0b8c02",
-      "entry_route": "intercalated degree; prior/current medical or dental studies required",
-      "requires_prior_degree": null,
+      "entry_route": "医学在读期间的一年插读；境外仅受理合资格 MBBS 等同医学在读者",
+      "requires_prior_degree": false,
       "status": "listed_current",
-      "id": "kcl-physiology-ibsc-66498ae592"
+      "id": "kcl-physiology-ibsc-66498ae592",
+      "name": "生理学插读理学学士",
+      "record_type": "在读医学等专业插读学士"
     },
     {
       "name_en": "Physiotherapy BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/physiotherapy-bsc",
-      "intake": null,
-      "duration": "Three years / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "3 年",
+      "campus": "Guy’s；临床含大伦敦及英格兰东南部",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=8",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "1ab73ab2-4676-42c7-9219-06e55f53b732",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "八门 GCSE 等同＋指定两科 A/B＋面试；三年含至少 1,000 小时临床",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-physiotherapy-bsc-8a4821f2f5"
+      "id": "kcl-physiotherapy-bsc-8a4821f2f5",
+      "name": "物理治疗理学学士"
     },
     {
       "name_en": "Political Economy BA/BSc",
@@ -3250,17 +3971,19 @@
       "name_en": "Regenerative Medicine & Innovation Technology iBSc",
       "degree_label": "iBSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/regenerative-medicine-and-innovation-technology-ibsc",
-      "intake": null,
-      "duration": "One year / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "1 年插读",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=9",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "a304d85e-cab1-429b-9b38-23cb3c3b63ab",
-      "entry_route": "intercalated degree; prior/current medical or dental studies required",
-      "requires_prior_degree": null,
+      "entry_route": "医学在读期间的一年插读；境外仅受理合资格 MBBS 等同医学在读者",
+      "requires_prior_degree": false,
       "status": "listed_current",
-      "id": "kcl-regenerative-medicine-innovation-technology-ibsc-1df623ce1d"
+      "id": "kcl-regenerative-medicine-innovation-technology-ibsc-1df623ce1d",
+      "name": "再生医学与创新技术插读理学学士",
+      "record_type": "在读医学等专业插读学士"
     },
     {
       "name_en": "Religion, Philosophy & Ethics BA",
@@ -3330,17 +4053,18 @@
       "name_en": "Sport & Exercise Medical Sciences BSc",
       "degree_label": "BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/sport-and-exercise-medical-sciences-bsc",
-      "intake": null,
-      "duration": "Three years / Full-time",
-      "campus": null,
+      "intake": "2027 年 9 月",
+      "duration": "3 年",
+      "campus": "主要 Guy’s",
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=9",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "b96bbb52-f58c-424f-83b4-3945d26ecec6",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "运动与医学科学 BSc；两门指定科学／心理／体育／数学 B",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-sport-exercise-medical-sciences-bsc-b27cabc830"
+      "id": "kcl-sport-exercise-medical-sciences-bsc-b27cabc830",
+      "name": "运动与医学科学理学学士"
     },
     {
       "name_en": "War Studies BA",
@@ -3378,17 +4102,19 @@
       "name_en": "Women's Health iBSc",
       "degree_label": "iBSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/womens-health-ibsc",
-      "intake": null,
-      "duration": "One year / Full-time",
+      "intake": "2027 年 9 月",
+      "duration": "1 年插读",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=9",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "8f4b6343-28b8-4ccd-80c1-9e644f1da57a",
-      "entry_route": "intercalated degree; prior/current medical or dental studies required",
-      "requires_prior_degree": null,
+      "entry_route": "医学在读期间的一年插读；境外仅受理合资格 MBBS 等同医学在读者",
+      "requires_prior_degree": false,
       "status": "listed_current",
-      "id": "kcl-women-s-health-ibsc-9812da633f"
+      "id": "kcl-women-s-health-ibsc-9812da633f",
+      "name": "女性健康插读理学学士",
+      "record_type": "在读医学等专业插读学士"
     },
     {
       "id": "kcl-electronic-engineering-meng-add0fec710",

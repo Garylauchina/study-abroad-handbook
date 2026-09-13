@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-148 个专业条目 · 0 个含详细资料 · 148 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+145 个专业条目 · 0 个含详细资料 · 145 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=kcl#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -37,19 +37,19 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-artificial-intelligence-bsc-c547ca82eb/">人工智能（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-artificial-intelligence-msci-780bef0a10/">人工智能（MSci）</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-artificial-intelligence-with-a-year-in-industry-bsc-739d0dd809/">Artificial Intelligence with a Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-biochemistry-bsc-c5e2207738/">Biochemistry BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-biochemistry-bsc-c5e2207738/">生物化学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-biomedical-engineering-beng-00f03c0381/">Biomedical Engineering BEng</a><small>BEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-biomedical-engineering-meng-3e5e64af9f/">Biomedical Engineering MEng</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-biomedical-science-bsc-3ad80a8771/">Biomedical Science BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-biomedical-science-bsc-3ad80a8771/">生物医学科学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-business-management-bsc-14cbd233d2/">Business Management BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-business-management-with-year-in-industry-bsc-1af0e47d3c/">Business Management with Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-cardiovascular-medicine-ibsc-3e3c21e045/">Cardiovascular Medicine iBSc</a><small>iBSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-cardiovascular-medicine-ibsc-3e3c21e045/">心血管医学插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-bsc-21be8e37f1/">Chemistry BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-msci-bd2ed634ed/">Chemistry MSci</a><small>MSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-biomedicine-bsc-20a60983ad/">Chemistry with Biomedicine BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-biomedicine-msci-626754f1e3/">Chemistry with Biomedicine MSci</a><small>MSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-biomedicine-with-a-year-in-industry-bsc-aaaa5bfdd8/">Chemistry with Biomedicine with a Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-biomedicine-with-a-year-in-industry-msci-45b2f1655a/">Chemistry with Biomedicine with a Year in Industry MSci</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-biomedicine-bsc-20a60983ad/">生物医学化学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-biomedicine-msci-626754f1e3/">生物医学化学理学本硕一体</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-biomedicine-with-a-year-in-industry-bsc-aaaa5bfdd8/">生物医学化学理学学士（含产业年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-biomedicine-with-a-year-in-industry-msci-45b2f1655a/">生物医学化学理学本硕一体（含产业年）</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-a-year-in-industry-bsc-395d8be2bf/">Chemistry with a Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-a-year-in-industry-msci-c7d70a2e48/">Chemistry with a Year in Industry MSci</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-classical-studies-with-english-ba-5b6ef57016/">Classical Studies with English BA</a><small>BA · 部分专业资料已核实</small></article>
@@ -64,10 +64,10 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-culture-media-creative-industries-ba-03939b27d0/">Culture, Media &amp; Creative Industries BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-data-analytics-for-business-finance-bsc-97745bda7c/">Data Analytics for Business &amp; Finance BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-data-analytics-for-business-finance-with-year-in-industry-bsc-15236ab329/">Data Analytics for Business &amp; Finance with Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-dental-therapy-hygiene-bsc-0cd5e182a2/">Dental Therapy &amp; Hygiene BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-dentistry-bds-5b87585020/">Dentistry BDS</a><small>BDS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-dentistry-entry-programme-for-medical-graduates-bds-522e13b1c1/">Dentistry Entry Programme for Medical Graduates BDS</a><small>BDS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-dentistry-graduate-professional-entry-programme-bds-918aff2f96/">Dentistry Graduate/Professional Entry Programme BDS</a><small>BDS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-dental-therapy-hygiene-bsc-0cd5e182a2/">牙科治疗与卫生理学学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-dentistry-bds-5b87585020/">牙科学士</a><small>BDS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-dentistry-entry-programme-for-medical-graduates-bds-522e13b1c1/">医学毕业生牙科学士入口</a><small>BDS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-dentistry-graduate-professional-entry-programme-bds-918aff2f96/">本科后／专业人士牙科学士入口</a><small>BDS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-digital-media-culture-ba-ae88ff0263/">Digital Media &amp; Culture BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-management-bsc-245b52a540/">Economics &amp; Management BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-management-with-year-in-industry-bsc-7b5aaf88aa/">Economics &amp; Management with Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
@@ -83,25 +83,25 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-law-spanish-law-llb-and-grado-en-derecho-spanish-equivale-b94cf76f73/">English Law &amp; Spanish Law LLB and Grado en Derecho (Spanish equivalent of LLB)</a><small>LLB and Grado en Derecho (Spanish equivalent of LLB) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-with-creative-writing-ba-ba3383fbc1/">English with Creative Writing BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-with-film-studies-ba-5459540fc7/">English with Film Studies BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-enhanced-support-dentistry-programme-bds-e07109ebf2/">Enhanced Support Dentistry Programme BDS</a><small>BDS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-enhanced-support-dentistry-programme-bds-e07109ebf2/">增强支持牙科学士</a><small>BDS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-environmental-science-msci-fb0de0cc0e/">Environmental Science MSci</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-european-studies-french-pathway-with-a-year-abroad-ba-042ee15398/">European Studies (French pathway) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-european-studies-german-pathway-with-a-year-abroad-ba-33f39af931/">European Studies (German pathway) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-european-studies-spanish-pathway-with-a-year-abroad-ba-cb2cb3646c/">European Studies (Spanish pathway) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-extended-medical-degree-programme-mbbs-45e3e1c0b4/">Extended Medical Degree Programme MBBS</a><small>MBBS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-extended-medical-degree-programme-mbbs-45e3e1c0b4/">延长学制医学学士</a><small>MBBS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-film-studies-ba-4f4a9cd4fd/">Film Studies BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-general-engineering-beng-ff0c6cbd1c/">General Engineering BEng</a><small>BEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-general-engineering-meng-91ae0935e2/">General Engineering MEng</a><small>MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-geography-environmental-science-bsc-80be703cb7/">Geography &amp; Environmental Science BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-geography-ba-cf58e81912/">Geography BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-health-social-medicine-bsc-b0b501dde0/">Global Health &amp; Social Medicine BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-health-social-medicine-bsc-b0b501dde0/">全球健康与社会医学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-health-social-science-ba-b801ada3f0/">Global Health &amp; Social Science BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-health-ibsc-ab1586f2f9/">Global Health iBSc</a><small>iBSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-health-ibsc-ab1586f2f9/">全球健康插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-media-and-languages-ba-9d72da541f/">Global Media and Languages BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-graduate-entry-medicine-programme-university-of-portsmouth-branch-18f4100000/">Graduate Entry Medicine Programme (University of Portsmouth branch campus) MBBS</a><small>MBBS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-graduate-entry-medicine-programme-mbbs-31bff8cf95/">Graduate Entry Medicine Programme MBBS</a><small>MBBS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-healthcare-entry-medicine-mbbs-11c1f6450c/">Healthcare Entry Medicine MBBS</a><small>MBBS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-healthcare-genetics-genomics-ibsc-feb9587647/">Healthcare Genetics &amp; Genomics iBSc</a><small>iBSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-graduate-entry-medicine-programme-university-of-portsmouth-branch-18f4100000/">本科后医学学士（朴次茅斯分校）</a><small>MBBS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-graduate-entry-medicine-programme-mbbs-31bff8cf95/">本科后医学学士入口</a><small>MBBS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-healthcare-entry-medicine-mbbs-11c1f6450c/">医护从业者医学学士入口</a><small>MBBS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-healthcare-genetics-genomics-ibsc-feb9587647/">医疗遗传与基因组学插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-history-international-relations-ba-6588b9a859/">History &amp; International Relations BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-history-modern-languages-french-german-portuguese-or-spanish-with-ce67d68eb3/">History &amp; Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-history-political-economy-ba-bsc-8a566898aa/">History &amp; Political Economy BA/BSc</a><small>BA/BSc · 部分专业资料已核实</small></article>
@@ -116,7 +116,6 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-management-modern-languages-french-german-portuguese-or-spanish-w-0b83f3d6ca/">Management &amp; Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-marketing-bsc-c7cc8a29dc/">Marketing BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-marketing-with-year-in-industry-bsc-200524822b/">Marketing with Year In Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-master-of-nursing-in-nursing-with-registration-as-an-adult-nurse-7f4b95bac0/">Master of Nursing in Nursing with Registration as an Adult Nurse and a Mental Health Nurse MNurs</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-philosophy-bsc-002bb0180a/">Mathematics &amp; Philosophy BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-bsc-9da2bc288d/">Mathematics BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-msci-dbb411c1a2/">Mathematics MSci</a><small>MSci · 部分专业资料已核实</small></article>
@@ -126,26 +125,24 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-statistics-with-year-in-industry-bsc-8bc4d0be74/">Mathematics with Statistics with Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-year-in-industry-bsc-11d05449af/">Mathematics with Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-year-in-industry-msci-dcbfcd2cd2/">Mathematics with Year in Industry MSci</a><small>MSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-medical-physiology-bsc-fb8f2fdaf3/">Medical Physiology BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-medicine-mbbs-a1ae58c1a5/">Medicine MBBS</a><small>MBBS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-midwifery-with-registration-as-a-midwife-bsc-17bb75f69b/">Midwifery with Registration as a Midwife BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-medical-physiology-bsc-fb8f2fdaf3/">医学生理学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-medicine-mbbs-a1ae58c1a5/">医学学士</a><small>MBBS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-midwifery-with-registration-as-a-midwife-bsc-17bb75f69b/">助产学理学学士（助产士注册）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-modern-languages-french-german-spanish-portuguese-with-a-year-abr-5b28a228c7/">Modern Languages (French, German, Spanish, Portuguese) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-molecular-genetics-bsc-6412d6b7a6/">Molecular Genetics BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-molecular-genetics-bsc-6412d6b7a6/">分子遗传学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-music-bmus-81751a2f19/">Music BMus</a><small>BMus · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-natural-sciences-bsc-6983a21800/">Natural Sciences BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-natural-sciences-msci-4dabed4621/">Natural Sciences MSci</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-natural-sciences-with-a-year-in-industry-bsc-f7bff12f56/">Natural Sciences with a Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-neuroscience-bsc-d93be1f745/">Neuroscience BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-neuroscience-and-psychology-bsc-7a88cc02c5/">Neuroscience and Psychology BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-neuroscience-ibsc-a245d57d91/">Neuroscience iBSc</a><small>iBSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-nursing-with-registration-as-a-children-s-nurse-bsc-845d84af00/">Nursing with Registration as a Children’s Nurse BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-nursing-with-registration-as-a-mental-health-nurse-bsc-7d89a749af/">Nursing with Registration as a Mental Health Nurse BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-nursing-with-registration-as-a-mental-health-nurse-msc-b892f1fd5a/">Nursing with Registration as a Mental Health Nurse MSc</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-nursing-with-registration-as-an-adult-nurse-bsc-d0501688b4/">Nursing with Registration as an Adult Nurse BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-nursing-with-registration-as-an-adult-nurse-msc-7d428f6c8f/">Nursing with Registration as an Adult Nurse MSc</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-nutritional-sciences-bsc-b2ac51516e/">Nutritional Sciences BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-pharmacology-bsc-e8d72214a9/">Pharmacology BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-pharmacy-mpharm-3e0905569e/">Pharmacy MPharm</a><small>MPharm · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-neuroscience-bsc-d93be1f745/">神经科学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-neuroscience-and-psychology-bsc-7a88cc02c5/">神经科学与心理学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-neuroscience-ibsc-a245d57d91/">神经科学插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-nursing-with-registration-as-a-children-s-nurse-bsc-845d84af00/">儿童护理理学学士（注册护士）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-nursing-with-registration-as-a-mental-health-nurse-bsc-7d89a749af/">精神健康护理理学学士（注册护士）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-nursing-with-registration-as-an-adult-nurse-bsc-d0501688b4/">成人护理理学学士（注册护士）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-nutritional-sciences-bsc-b2ac51516e/">营养科学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-pharmacology-bsc-e8d72214a9/">药理学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-pharmacy-mpharm-3e0905569e/">药学本硕一体 MPharm</a><small>MPharm · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-philosophy-modern-languages-french-german-portuguese-or-spanish-w-ee56a0b5b6/">Philosophy &amp; Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-philosophy-ba-7448041388/">Philosophy BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-philosophy-politics-economics-ba-bsc-2c599e390c/">Philosophy, Politics &amp; Economics BA/BSc</a><small>BA/BSc · 部分专业资料已核实</small></article>
@@ -157,8 +154,8 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-with-astrophysics-and-cosmology-msci-7222170a71/">Physics with Astrophysics and Cosmology MSci</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-with-theoretical-physics-bsc-224ce54a65/">Physics with Theoretical Physics BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-with-theoretical-physics-msci-5e88cf1160/">Physics with Theoretical Physics MSci</a><small>MSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physiology-ibsc-66498ae592/">Physiology iBSc</a><small>iBSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physiotherapy-bsc-8a4821f2f5/">Physiotherapy BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physiology-ibsc-66498ae592/">生理学插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physiotherapy-bsc-8a4821f2f5/">物理治疗理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-political-economy-ba-bsc-a74fda0e15/">Political Economy BA/BSc</a><small>BA/BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-politics-international-affairs-ba-fb80a575bf/">Politics &amp; International Affairs BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-politics-ba-bsc-727e4dc47e/">Politics BA/BSc</a><small>BA/BSc · 部分专业资料已核实</small></article>
@@ -167,15 +164,15 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-psychology-bsc-aaa6e6c660/">Psychology BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-psychology-and-criminology-bsc-8d069e01f9/">Psychology and Criminology BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-quantitative-mathematics-bsc-3f96586e9b/">Quantitative Mathematics BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-regenerative-medicine-innovation-technology-ibsc-1df623ce1d/">Regenerative Medicine &amp; Innovation Technology iBSc</a><small>iBSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-regenerative-medicine-innovation-technology-ibsc-1df623ce1d/">再生医学与创新技术插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-religion-philosophy-ethics-ba-fec715cc95/">Religion, Philosophy &amp; Ethics BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-social-sciences-ba-4802989398/">Social Sciences BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-sociology-bsc-379708c018/">Sociology BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-sociology-politics-and-religion-ba-c6ea9f1b88/">Sociology, Politics and Religion BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-sport-exercise-medical-sciences-bsc-b27cabc830/">Sport &amp; Exercise Medical Sciences BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-sport-exercise-medical-sciences-bsc-b27cabc830/">运动与医学科学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-war-studies-history-ba-67b9d28bb9/">War Studies &amp; History BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-war-studies-ba-d738816759/">War Studies BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-women-s-health-ibsc-9812da633f/">Women&#x27;s Health iBSc</a><small>iBSc · 部分专业资料已核实</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-women-s-health-ibsc-9812da633f/">女性健康插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -203,21 +200,21 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 148 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 145 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>原147本科目录入口＋分页重复边界遗漏的Electronic Engineering MEng H611；内部路径仍待全量对账</p>
+<p><strong>统计范围：</strong>148个已发现目录入口中，145个本科及本科在读路线；3个本科后护理硕士另留更正页，内部路径仍待全量对账</p>
 
-<p><strong>对账方法：</strong>复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。</p>
+<p><strong>对账方法：</strong>复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。</p>
 
-<p><strong>排除项：</strong>Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes</p>
+<p><strong>排除项：</strong>Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes；本科后首次注册护理MNurs/MSc不计本科项目；MBBS/BDS仍按专业学士保留并注明前置学历。</p>
 
 **尚未解决的目录缺口：**
 
-- 139条旧记录本轮未补充独立分栏资料；所有本科内部路径及完整资格仍待继续逐项核验。
-- 已取得课程收费字段，但主要学费年度与单位未完整闭合；2027报价不作猜测，课程实践年比例及无押金安排逐条引用。
-- 英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；中国普高/高考具体等值门槛尚缺。
-- 官网学分分项有会计135、选修15/30、人工智能研究0学分等差异，未擅改数字。
-- 本批职业页多为服务/案例，未取得专业独立毕业届别、分母、就业率或薪资。
+- 另有99条现有记录尚未完成独立分栏补源；所有本科内部路径及完整资格继续逐项核验。
+- 本次37项已取得2027/28年度课程费用，但不据此外推所有145项、未来实习年或全程总费用；Home-only限制与国际报价分别说明。
+- 英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；仅Medicine MBBS取得中国资格分支，其他课程不由A-level/IB反推高考直入。
+- iBSc内部／外部申请日与侧栏状态、牙科及部分医学模块学分存在官方差异，均保留原范围；空截止栏不作推断。
+- 本批职业页多为职业注册、服务或案例，未取得专业独立毕业届别、分母、就业率或薪资。
 
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=9)
@@ -411,5 +408,150 @@ hide:
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/how-to-apply/entry-requirements)
 - [官方目录来源](https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546)
 - [官方目录来源](https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/biochemistry-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/biochemistry-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/biochemistry-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/biochemistry-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-science-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-science-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-science-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-science-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/cardiovascular-medicine-ibsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/cardiovascular-medicine-ibsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/cardiovascular-medicine-ibsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/cardiovascular-medicine-ibsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-msci/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-msci/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-msci/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-msci/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry-msci/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry-msci/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry-msci/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry-msci/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dental-therapy-and-hygiene-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dental-therapy-and-hygiene-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dental-therapy-and-hygiene-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dental-therapy-and-hygiene-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-bds/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-bds/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-bds/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-bds/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-entry-programme-for-medical-graduates-bds/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-entry-programme-for-medical-graduates-bds/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-entry-programme-for-medical-graduates-bds/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-entry-programme-for-medical-graduates-bds/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-graduate-professional-entry-bds/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-graduate-professional-entry-bds/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-graduate-professional-entry-bds/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-graduate-professional-entry-bds/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/enhanced-support-dentistry-programme-bds/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/enhanced-support-dentistry-programme-bds/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/enhanced-support-dentistry-programme-bds/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/enhanced-support-dentistry-programme-bds/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/extended-medical-degree-programme-mbbs/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/extended-medical-degree-programme-mbbs/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/extended-medical-degree-programme-mbbs/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-health-ibsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-health-ibsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-health-ibsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-health-ibsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-medicine-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-medicine-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-medicine-bsc/global-health-social-science-ba-careers-copy)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-medicine-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/medicine-graduate-professional-entry-mbbs/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/medicine-graduate-professional-entry-mbbs/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/medicine-graduate-professional-entry-mbbs/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/graduate-entry-medicine-programme-university-of-portsmouth-campus/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/graduate-entry-medicine-programme-university-of-portsmouth-campus/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/graduate-entry-medicine-programme-university-of-portsmouth-campus/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-entry-medicine-mbbs/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-entry-medicine-mbbs/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-entry-medicine-mbbs/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-genetics-and-genomics-ibsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-genetics-and-genomics-ibsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-genetics-and-genomics-ibsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-genetics-and-genomics-ibsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/medical-physiology-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/medical-physiology-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/medical-physiology-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/medical-physiology-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/midwifery-with-registration-as-a-midwife-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/midwifery-with-registration-as-a-midwife-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/midwifery-with-registration-as-a-midwife-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/midwifery-with-registration-as-a-midwife-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/molecular-genetics-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/molecular-genetics-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/molecular-genetics-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/molecular-genetics-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-ibsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-ibsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-ibsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-ibsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-and-psychology-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-and-psychology-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-and-psychology-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-and-psychology-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-childrens-nurse-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-childrens-nurse-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-childrens-nurse-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-childrens-nurse-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nutrition-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nutrition-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nutrition-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/nutrition-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/pharmacology-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/pharmacology-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/pharmacology-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/pharmacology-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/pharmacy-mpharm/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/pharmacy-mpharm/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/pharmacy-mpharm/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/pharmacy-mpharm/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physiology-ibsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physiology-ibsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physiology-ibsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physiology-ibsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physiotherapy-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physiotherapy-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physiotherapy-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physiotherapy-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/regenerative-medicine-and-innovation-technology-ibsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/regenerative-medicine-and-innovation-technology-ibsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/regenerative-medicine-and-innovation-technology-ibsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/regenerative-medicine-and-innovation-technology-ibsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/sport-and-exercise-medical-sciences-bsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/sport-and-exercise-medical-sciences-bsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/sport-and-exercise-medical-sciences-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/sport-and-exercise-medical-sciences-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/womens-health-ibsc/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/womens-health-ibsc/teaching)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/womens-health-ibsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/womens-health-ibsc/fees)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

@@ -4,19 +4,19 @@
     {
       "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination",
       "sha256": "0abafbe12c137a089e798d233685c31ca6ecada98c71c1c1cc0d42248a537de1",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/requirements-web.json",
+      "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/common-ASREN-91c45582176a42.json",
       "locator": "Gaokao table and notes"
     },
     {
       "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
       "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/english-dates-subjects-web.json",
+      "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/ASREN-dd5861bce6faef.json",
       "locator": "PDF page1"
     },
     {
       "url": "https://www.nus.edu.sg/oam/admissions/important-dates",
       "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/english-dates-subjects-web.json",
+      "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/common-ASREN-0acd9e45ef5adf.json",
       "locator": "AY2027/2028 International Qualifications"
     },
     {
@@ -28,7 +28,7 @@
     {
       "url": "https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees",
       "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/fees-scholarship-web.json",
+      "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/common-ASREN-a7c9f06a434aa5.json",
       "locator": "Fees/Tuition Grant"
     },
     {
@@ -40,7 +40,7 @@
     {
       "url": "https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf",
       "sha256": "8dec4235695865ea34a95af325a1bc8b367b604440826a499e14aed6e986999e",
-      "raw_file": "scratch/full-catalog/nus-enrichment/raw/ges-final-web.json",
+      "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/common-NUS26-efe847f8074c14.json",
       "locator": "Degree rows; notes1–10, pp1–3"
     },
     {
@@ -58,7 +58,7 @@
     {
       "url": "https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
       "sha256": "1bb50375e3299184c60f5c1006ebe331a220e996500366513596e5a22f103d5e",
-      "raw_file": "scratch/full-catalog/nus-enrichment/raw/fees-ges-music-web.json",
+      "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/common-NUS26-06231ba1d17578.json",
       "locator": "PDF p2, A: New undergraduate intake AY2026/27; p14–15 notes"
     },
     {
@@ -166,7 +166,7 @@
     {
       "url": "https://fass.nus.edu.sg/swk/entry-graduation-requirement-undergraduate/",
       "sha256": "9b0d9ed11ba8fcc90a2d92f3cd8a281bba9ac85373ba526a608c7e89caa6da07",
-      "raw_file": "scratch/full-catalog/nus-enrichment/browser/016-expanded.txt",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/common-NUS26-bc74df3425eabc.txt",
       "locator": "对应项目课程／资格／费用栏目"
     },
     {
@@ -532,13 +532,13 @@
     {
       "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-law/undergraduate-education/",
       "sha256": "15abf2d15df6bb4f89f7f054082df7b3dcd881a8df9ec4e145d6e65892d42c12",
-      "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-law-ug-dom.html",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/common-NUS26-3b0cec5b065f6e.html",
       "locator": "课程名称下 Degree Requirements／Curriculum Structure"
     },
     {
       "url": "https://law1a.nus.edu.sg/admissions/4_yrs_llb_prog.html",
       "sha256": "e722540b2be0d0e26085d36d8493ac865cf33b84a5abb3568eca3b772da3e123",
-      "raw_file": "scratch/full-catalog/nus-enrichment/raw/law-four-year-web.json",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/common-NUS26-a6b5eb235fa824.json",
       "locator": "International Qualifications; Written Test and Interview; first/second choice"
     },
     {
@@ -804,6 +804,168 @@
       "sha256": "053ad3d48bcacab0f4282108468b9008c2a2b1b06defacc4d70e8b0ef88ba7d6",
       "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/d8af178dff7d8c57.html",
       "locator": "公开HTML main正文"
+    },
+    {
+      "url": "https://www.law.nyu.edu/financialaid/budgetandbudgeting/studentexpensebudget",
+      "sha256": "b9b5e30ae9a8277f811378fa2dd6473351db334ef674c02b54a710da6ab8bd3e",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-fees-web.txt",
+      "locator": "2026–27 academic-year tuition and fees; not 2027/28 locked fee"
+    },
+    {
+      "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/new-york-university-nus-llb-llm/",
+      "sha256": "6b76e67316b1fa3515a62aa609718315f9b1f64f71eba1b116d596e323b3f97a",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-first3-web.txt",
+      "locator": "Programme outline, eligibility, application, FAQs and tuition; locate by exact URL"
+    },
+    {
+      "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/",
+      "sha256": "1d48b6afe700c758dae06ee2e5e508d91ef687a6918426437a8725c0cb818d99",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-exchange-browser.txt",
+      "locator": "Exchange Plus Programmes main text and seven partner cards"
+    },
+    {
+      "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-boston-university-llb-llm/",
+      "sha256": "6b76e67316b1fa3515a62aa609718315f9b1f64f71eba1b116d596e323b3f97a",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-first3-web.txt",
+      "locator": "Programme outline, eligibility, application, FAQs and tuition; locate by exact URL"
+    },
+    {
+      "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-erasmus-university-llb-llm/",
+      "sha256": "6b76e67316b1fa3515a62aa609718315f9b1f64f71eba1b116d596e323b3f97a",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-first3-web.txt",
+      "locator": "Programme outline, eligibility, application, FAQs and tuition; locate by exact URL"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/master-of-laws-llm/fees",
+      "sha256": "77a483517955f82120415d9ac00562e68db3697da4eb745291bbb96f0ed5eb65",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/kcl-ai-confirm-web.txt",
+      "locator": "L90–105"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/master-of-laws-llm",
+      "sha256": "77a483517955f82120415d9ac00562e68db3697da4eb745291bbb96f0ed5eb65",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/kcl-ai-confirm-web.txt",
+      "locator": "L85–121; differs from NUS eight-pathway wording"
+    },
+    {
+      "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-kings-college-london-llb-llm/",
+      "sha256": "636893896469211bea36db85f1135d952158d1d9ac499c858a50aff1bb099974",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-last4-web.txt",
+      "locator": "Programme outline, eligibility, application, FAQs and tuition; locate by exact URL"
+    },
+    {
+      "url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-laws/fees/",
+      "sha256": "2bb445be0179d7c74591134eaba6b56fa583cc42f1fa5b0ee98adae4892440de",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/melbourne-international-fees-dom.txt",
+      "locator": "International students checked; 2026/2027 fees; 1 EFTSL/semester-one assumption"
+    },
+    {
+      "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-university-of-melbourne-llb-llm/",
+      "sha256": "636893896469211bea36db85f1135d952158d1d9ac499c858a50aff1bb099974",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-last4-web.txt",
+      "locator": "Programme outline, eligibility, application, FAQs and tuition; locate by exact URL"
+    },
+    {
+      "url": "https://jackmanlaw.utoronto.ca/graduate-programs/fees",
+      "sha256": "0a7b09ac8a68963ad0f778f6ed86e591d6b830abe5258a81dffa56b3c8065866",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/cdp-main-web.txt",
+      "locator": "L17–25, international table"
+    },
+    {
+      "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-university-of-toronto-llb-llm/",
+      "sha256": "636893896469211bea36db85f1135d952158d1d9ac499c858a50aff1bb099974",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/law-last4-web.txt",
+      "locator": "Programme outline, eligibility, application, FAQs and tuition; locate by exact URL"
+    },
+    {
+      "url": "https://law.nus.edu.sg/global-programmes/exchange-plus-programmes/nus-ie-llb-mdbi_msbt/",
+      "sha256": "5045d4b6c27814c27d82412319f072f3ea9990331072eb721be0da02c0256395",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/social-ai-ie-web.txt",
+      "locator": "Programme outline, eligibility, application, FAQs and tuition; locate by exact URL"
+    },
+    {
+      "url": "https://www.math.nus.edu.sg/ug/double-degree-with-school-of-computing/double-degree-with-artificial-intelligence/",
+      "sha256": "5045d4b6c27814c27d82412319f072f3ea9990331072eb721be0da02c0256395",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/social-ai-ie-web.txt",
+      "locator": "L144–171"
+    },
+    {
+      "url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2026/02/MA-AI-DDP-Cohorts-AY2526.pdf",
+      "sha256": "c3e4ff6575338ebbab41d1a02c6984a5f157d5756f6afe08b7058a22e086b826",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/ai-sw-plans-cdp-web.txt",
+      "locator": "PDF pages1–2; programme table and notes1–7"
+    },
+    {
+      "url": "https://www.nus.edu.sg/registrar/academic-information-policies/undergraduate-students/continuation-and-graduation-requirements",
+      "sha256": "a3cf5e6c562de9b9b610239546e7cda61550bed2094316a9205e115f02590498",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/fee-ddp-policy-web.txt",
+      "locator": "L344–372"
+    },
+    {
+      "url": "https://www.nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/double-degree-programmes/double-degree-programme-framework-and-guidelines",
+      "sha256": "a3cf5e6c562de9b9b610239546e7cda61550bed2094316a9205e115f02590498",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/fee-ddp-policy-web.txt",
+      "locator": "sections9,10,12,13; 2021/22-onwards continuation; home-programme fee"
+    },
+    {
+      "url": "https://sph.nus.edu.sg/education/mph/curriculum/",
+      "sha256": "3362b0bb59c8ff9a47856a99808b604497bcfba76f3c0f2cc4b2e74e75073cb0",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/mph-body-web.txt",
+      "locator": "L112–138, core SPH prefix and normal-candidature clause"
+    },
+    {
+      "url": "https://fass.nus.edu.sg/swk/concurrent-degree-programme/",
+      "sha256": "5045d4b6c27814c27d82412319f072f3ea9990331072eb721be0da02c0256395",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/social-ai-ie-web.txt",
+      "locator": "L74–162"
+    },
+    {
+      "url": "https://www.nus.edu.sg/registrar/docs/info/administrative-policies-procedures/gdtuitioncurrent.pdf",
+      "sha256": "bb5de9c4760840dec754a4e313c417221fa0e95b91ad2341b83f01136e99efbf",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/mph-registrar-web.json",
+      "locator": "PDF p2 cohort/annual two instalments; p3 Public Health; p4 notes3–5"
+    },
+    {
+      "url": "https://fass.nus.edu.sg/swk/wp-content/uploads/sites/30/2026/02/CDP-SWK-SSHSPH_Sample-Study-Plan_20260219.pdf",
+      "sha256": "c3e4ff6575338ebbab41d1a02c6984a5f157d5756f6afe08b7058a22e086b826",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/ai-sw-plans-cdp-web.txt",
+      "locator": "PDF page1, Year1–5 table and note"
+    },
+    {
+      "url": "https://sph.nus.edu.sg/education/mph/fees/",
+      "sha256": "d8c509850f956279877fe873dfe4562b8cd7dd8a62241b88b42cc13ed3d939e2",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/sw-mph-fees-curriculum-web.txt",
+      "locator": "L112–134; standalone MPH reference, not CDP all-stage quotation"
+    },
+    {
+      "url": "https://scale.nus.edu.sg/programmes/graduate/msc-(environmental-management)",
+      "sha256": "0a7b09ac8a68963ad0f778f6ed86e591d6b830abe5258a81dffa56b3c8065866",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/cdp-main-web.txt",
+      "locator": "Programme structure; tuition S$51,500/S$56,135; full MSc entry separate from CDP"
+    },
+    {
+      "url": "https://scale.nus.edu.sg/programmes/graduate/msc-(environmental-management)/cdp",
+      "sha256": "c3e4ff6575338ebbab41d1a02c6984a5f157d5756f6afe08b7058a22e086b826",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/ai-sw-plans-cdp-web.txt",
+      "locator": "L43–126"
+    },
+    {
+      "url": "https://scale.nus.edu.sg/programmes/graduate/msc-(smart-industries-and-digital-transformation)/cdp",
+      "sha256": "c3e4ff6575338ebbab41d1a02c6984a5f157d5756f6afe08b7058a22e086b826",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/ai-sw-plans-cdp-web.txt",
+      "locator": "L43–122; legacy Industry4.0 URL redirects here"
+    },
+    {
+      "url": "https://scale.nus.edu.sg/programmes/graduate/msc-(smart-industries-and-digital-transformation)",
+      "sha256": "d8c509850f956279877fe873dfe4562b8cd7dd8a62241b88b42cc13ed3d939e2",
+      "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/sw-mph-fees-curriculum-web.txt",
+      "locator": "L106–217 and L225–229; standalone MSc versus CDP"
+    },
+    {
+      "url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf",
+      "sha256": "ca6b9f76205896f7412693264184009840e5a268def6824ff6633d8ace05f13a",
+      "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/dundee-tail-web.txt",
+      "locator": "PDF p1–2 entry/fees; p4–6 three tracks; p7 course mapping"
     }
   ]
 }
