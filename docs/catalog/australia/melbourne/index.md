@@ -23,13 +23,14 @@ hide:
 
 ## 专业与申请资料
 
-153 个专业条目 · 2 个含详细资料 · 151 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+163 个专业条目 · 2 个含详细资料 · 161 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=melbourne#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-accounting-11a0a1c993/">会计（商科学士主修）</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-acting-63232e00e9/">艺术学士（表演）</a><small>Bachelor of Fine Arts — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-actuarial-risk-management-8d2e2e7720/">精算风险管理专项</a><small>Bachelor of Commerce — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-actuarial-studies-af83830d47/">精算研究（商科学士主修）</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-agricultural-economics-a5995f2f83/">农业经济学（农业学士主修）</a><small>Bachelor of Agriculture — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-agricultural-science-4a0d4f020b/">农业科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
@@ -82,6 +83,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-classics-ancient-greek-and-latin-29913a906e/">古典学（古希腊语与拉丁语）（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-climate-and-weather-ffd2acc341/">气候与天气（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-composition-91b30cae70/">音乐学士（作曲）</a><small>Bachelor of Music — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-computational-finance-804819c543/">计算金融专项</a><small>Bachelor of Commerce — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-computing-and-software-systems-0ab70bf08a/">计算与软件系统（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-construction-50b0f205e5/">建筑施工（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-creative-writing-6e1c76df76/">创意写作（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
@@ -90,13 +92,17 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-data-science-8424630e14/">数据科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-digital-infrastructure-engineering-systems-e39f18ec95/">数字基础设施工程系统（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-digital-infrastructure-engineering-systems-6c45a7f18b/">数字基础设施工程系统（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-digital-marketing-bbbcfa8970/">数字营销专项</a><small>Bachelor of Commerce — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-ecology-and-evolutionary-biology-a3e8ed72a6/">生态与进化生物学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-econometrics-627916fecd/">计量经济学专项</a><small>Bachelor of Commerce — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-economic-policy-d5c8fecc22/">经济政策专项</a><small>Bachelor of Commerce — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-economics-bd703d7588/">经济学（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-ecosystem-science-8609f37400/">生态系统科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-electrical-engineering-systems-cd44227e06/">电气工程系统（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-english-and-theatre-studies-de46bc6a03/">英语与戏剧研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-environmental-engineering-systems-a445ed9dc9/">环境工程系统（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-environmental-science-7c6c7c7405/">环境科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-ethics-sustainability-1947b3048b/">伦理与可持续性专项</a><small>Bachelor of Commerce — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-film-and-television-8ce48c8dac/">艺术学士（电影与电视）</a><small>Bachelor of Fine Arts — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-finance-2e163d2188/">金融学（商科学士主修）</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-food-science-38f7c49453/">食品科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
@@ -115,6 +121,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-history-and-philosophy-of-science-7da1122d83/">科学史与科学哲学（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-human-nutrition-9112cdb3bd/">人体营养学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-human-nutrition-666b201a2c/">人体营养学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-human-resource-management-db0abf2efe/">人力资源管理专项</a><small>Bachelor of Commerce — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-human-structure-and-function-1bf61b39dc/">人体结构与功能（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-human-structure-and-function-ce92baa615/">人体结构与功能（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-immunology-f65c37ebe0/">免疫学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
@@ -175,9 +182,12 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-sociology-30d5507538/">社会学（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-spanish-and-latin-american-studies-e316e09ee9/">西班牙语与拉丁美洲研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-statistics-and-stochastic-processes-d432f5f8c2/">统计与随机过程（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-strategic-marketing-f022ef99b4/">战略营销专项</a><small>Bachelor of Commerce — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-supply-chain-management-bdf92b7bde/">供应链管理专项</a><small>Bachelor of Commerce — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-theatre-fccf928b64/">艺术学士（戏剧创作与表演）</a><small>Bachelor of Fine Arts — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-urban-planning-7e190b2429/">城市规划（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-user-experience-design-73d713a5ee/">用户体验设计（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-valuation-modelling-ee8ec0a0e8/">估值与建模专项</a><small>Bachelor of Commerce — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-veterinary-bioscience-267de13612/">兽医生物科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-visual-art-8d2c0dcf61/">艺术学士（视觉艺术）</a><small>Bachelor of Fine Arts — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-zoology-064846729d/">动物学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article></div>
@@ -223,11 +233,11 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 153 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 163 项；这不是全字段详情的完成状态。
 
 <p><strong>统计范围：</strong>Every named bachelor and non-minor major/specialisation in 2027 official university guide pp12–13, plus Science Extended in entry table</p>
 
-<p><strong>对账方法：</strong>{&quot;pdf_pages&quot;: 24, &quot;complete_major_spread_pages&quot;: [12, 13], &quot;visual_review&quot;: true, &quot;group_counts&quot;: {&quot;Agriculture&quot;: 3, &quot;Arts&quot;: 33, &quot;Biomedicine&quot;: 16, &quot;Commerce&quot;: 7, &quot;Design&quot;: 14, &quot;Fine Arts&quot;: 9, &quot;Music&quot;: 6, &quot;Oral Health&quot;: 0, &quot;Science&quot;: 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。 本次独立对账官方11页129个主修/辅修/方向结果：93主修URL对应115父学位关系，114已在库存、1为已更正的旧数学总项；25荣誉方向URL去重为13方向、12为申请子页；11辅修不作新学位。另补9个具名荣誉学士，现153条，原144身份及事实保留。</p>
+<p><strong>对账方法：</strong>{&quot;pdf_pages&quot;: 24, &quot;complete_major_spread_pages&quot;: [12, 13], &quot;visual_review&quot;: true, &quot;group_counts&quot;: {&quot;Agriculture&quot;: 3, &quot;Arts&quot;: 33, &quot;Biomedicine&quot;: 16, &quot;Commerce&quot;: 7, &quot;Design&quot;: 14, &quot;Fine Arts&quot;: 9, &quot;Music&quot;: 6, &quot;Oral Health&quot;: 0, &quot;Science&quot;: 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。 本次独立对账官方11页129个主修/辅修/方向结果：93主修URL对应115父学位关系，114已在库存、1为已更正的旧数学总项；25荣誉方向URL去重为13方向、12为申请子页；11辅修不作新学位。另补9个具名荣誉学士，现153条，原144身份及事实保留。 新补BCom总表明确列名的10个学位内specialisation，与七主修形成16个真实资格关系；Ethics共享一条，不枚举自由组合。当前163条，原153条及来源日期保持；方向课程例子、费用和职业信息明确限定父主修/父学位范围。</p>
 
 <p><strong>排除项：</strong>Official PDF obtained using normal Chrome downloadMedia on observed download link; archived original + SHA256；Explicit minor-only footnote exclusions: Chinese Societies, Development Studies, Digital Studies, English Language Studies, Environmental Studies, European Studies, Japanese Societies, Law and Justice, Medieval and Early Modern Studies, South Asian Studies；Oral Health four curricular components explicitly not majors and are not separately counted；Exclude concurrent diplomas and standalone postgraduate MD/JD/DVM; Veterinary Bioscience remains bachelor major with later-selection note</p>
 
@@ -237,8 +247,9 @@ hide:
 - 9个艺术音乐方向只有2026费用参考；其他费用逐项区分所属学位和2027估算，内部主修不另算一份学费。
 - 课程2027年中截止03-31与学校国际总页05-31不一致，保留两者；艺术音乐采用专门选拔时间。
 - 本科后荣誉、后续职业学位的完整选拔与个人注册条件，以及按专业和国际生样本定义的毕业统计仍未全部核实。
-- 9个新荣誉学士须大学阶段资格；Medical Science还限合作国际院校。BFA五方向和Music Tailored Program明确无2027入学，其余荣誉内部学科、BCom十个25学分specialisation与相关主修组合仍未全部逐项闭合。
+- 9个新荣誉学士须大学阶段资格；Medical Science还限合作国际院校。BFA五方向和Music Tailored Program明确无2027入学，其余荣誉内部学科仍未全部逐项闭合；BCom十个专项的身份及16个主修资格关系已补，规定课程组合仍待核。
 - 8个荣誉学士费用仅2026国际生首年指示价，Commerce Honours专属费用未取得；2027费用、部分申请日期、授课语言及按专业/国际生分母的毕业统计仍缺。官网目录仍保留旧数学总项，不据此恢复；BA Extended仍为未确认线索。
+- BCom专项官网称从2026起，并非已核2027课程表；多数总表25学分与商业分析页50、管理页two与三列名差异保留。专项实际科目组合、专属准入/申报和毕业统计未取得；所列2027国际费用只为父BCom估算。
 
 - [官方目录来源](https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf)
 - [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/)
@@ -844,5 +855,13 @@ hide:
 - [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours)
 - [官方目录来源](https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/structure/#nav)
 - [官方目录来源](https://study.unimelb.edu.au/study-with-us/undergraduate-courses)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/major/finance/structure/)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/major/management/structure/)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/major/business-analytics/structure/)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/fees/)
+- [官方目录来源](https://students.unimelb.edu.au/course-admin/planning-your-course-and-subjects/choosing-your-major)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/major/economics/structure/)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/major/marketing/structure/)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/major/actuarial-studies/structure/)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

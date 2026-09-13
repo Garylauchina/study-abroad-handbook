@@ -36599,6 +36599,1876 @@
         "普通本科新生校级政策与学费不继承；未知字段明确保留。"
       ],
       "translation_status": "人工阅读当前官方正文，按入口、方向和年度概述"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|ethics-sustainability",
+      "name_en": "Ethics & Sustainability",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+      "inventory_id": "melbourne-ethics-sustainability-1947b3048b",
+      "checked_at": "2026-09-13",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "sections": {
+        "overview": [
+          {
+            "label": "专项身份、主修与学分",
+            "text": "Ethics & Sustainability是商科学士内的专项；官网列可入主修：会计、精算、商业分析、经济、金融、管理、营销。BCom总表规定从2026起集中25个Level 3选修学分；不是独立学位，也不是另读三年。",
+            "source_ids": [
+              "melcom-bcom-structure"
+            ]
+          },
+          {
+            "label": "课程背景与已核边界",
+            "text": "不同主修提供不同的相关课程背景。例如管理主修的 Managing Sustainably 讨论企业社会责任、利益相关方和气候等议题；金融主修的 Essentials of Sustainable Investing 讨论投资中的 ESG、影响力和股东参与。两课分别属于各自主修的公开课程池，不是已核实的跨主修统一专项必修组合。",
+            "source_ids": [
+              "melcom-management-structure",
+              "melcom-finance-structure"
+            ]
+          },
+          {
+            "label": "校区与语言适用范围",
+            "text": "承载学位BCom为Parkville面授；学校授课型课程在读证明注明教学语言英语。本条继承学位环境，不把25学分专项单列为另一完整学位。",
+            "source_ids": [
+              "melcom-bcom-international-fees",
+              "melcom-coursework-language"
+            ]
+          },
+          {
+            "label": "商业分析页的25与50学分差异",
+            "text": "BCom总表及其他主修页给此专项25个Level 3学分；Business Analytics结构却写可选50学分且只列Ethics and Sustainability。两处尚未取得校方解释。此记录保留BCom总表25学分及该差异，商业分析学生的实际专项组合须核定，不自行将50改成25。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-business-analytics-structure"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在校主修与先修",
+            "text": "可在商科学士的会计、精算、商业分析、经济、金融、管理或营销主修内选择。须遵循所选主修和具体科目的先修要求；本轮未取得统一的专项准入分数或可互换课程表。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-choosing-major"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "在校选择与2027核验边界",
+            "text": "这是主修内选修序列。学校主修指引要求最迟在三年级申报主修，并逐科核对先修与开课学期；此为一般主修安排，不是本专项专属截止。当前专项页写从2026起，本轮未取得本专项2027规定组合、逐科开课表、申报操作或专门截止。高中阶段申请者应另查父学位BCom正式入学与该年度申请条件，不能把在校专项选课当作独立本科录取。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-choosing-major"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "仅承载学位2027国际费参考",
+            "text": "BCom国际生2027首年指示学费AUD56,451–62,464；全课程指示总额AUD180,714–200,139。全课程估算假设所列年份第一学期开始、每年1 EFTSL并计估计涨幅。这些是整个BCom的估算，不是本25学分专项报价，不能直接按四分之一折算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "按实际科目计费及其他费用",
+            "text": "国际学费按具体科目的学科费率与学分计算，并每年复核；选课后金额可能不同。签证学生另须安排OSHC。本轮未取得本专项完整科目组合及适用修读年的逐科费用，亦未核完整生活预算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "奖学金范围",
+            "text": "BCom费用页提供校级和学院奖学金入口，部分奖项限特定国家、合作院校或本地身份。不能由选择此专项推定获得资助；本轮未取得本专项独立奖项、大陆学生资格与截止。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母主修职业方向与专项统计边界",
+            "text": "商科学士官方职业页面举例包括可持续性分析、商业分析和咨询等。这是整个 BCom 的职业方向示例，不是本专项毕业生的去向调查。 本轮未取得本专项按毕业届次、国际生或中国学生身份、响应样本及分母定义的就业率或薪酬统计。",
+            "source_ids": [
+              "melcom-bachelor-of-commerce-careers"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melcom-bcom-structure",
+          "title": "Bachelor of Commerce — 十项专项及七主修关系",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "BCom学位内专项的10名称、可入主修、从2026起25 Level3学分；不是2027完整科目规章",
+          "sha256": "b0d8e752dab19d15f462dab3c889f5d55bba0b10c08a4af9879bc176c590a027",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-finance-structure",
+          "title": "finance — 公开主修结构与课程说明",
+          "url": "https://study.unimelb.edu.au/find/courses/major/finance/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "可入专项、父主修课程池与大学阶段课程顺序；未据此认定专项规定组合",
+          "sha256": "95ea7c2337e82b81d1f93e2d69c7d6f45d212ee991b6e21dfb50ed71a5c18181",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-management-structure",
+          "title": "management — 公开主修结构与课程说明",
+          "url": "https://study.unimelb.edu.au/find/courses/major/management/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "可入专项、父主修课程池与大学阶段课程顺序；未据此认定专项规定组合",
+          "sha256": "7f4449eacecf391b996b029edee03863d9cc4e5e77ecedbbc4304f18705d588d",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-business-analytics-structure",
+          "title": "business-analytics — 公开主修结构与课程说明",
+          "url": "https://study.unimelb.edu.au/find/courses/major/business-analytics/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "可入专项、父主修课程池与大学阶段课程顺序；未据此认定专项规定组合",
+          "sha256": "896c46c04fede8abab99af8cb8b3ca0b7a3f32e74a71d717a831fae5c41cf36f",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-bcom-international-fees",
+          "title": "Bachelor of Commerce — 2027国际学费实际视图",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/fees/",
+          "checked_at": "2026-09-13",
+          "supports": "父学位2027首年和全课程指示学费、按科目收费、OSHC与奖学金入口；非25学分专项报价",
+          "sha256": "20023625ee1488434a7c035b18d5dfbc8705675af4c07336c234e4ac97a10e33",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-choosing-major",
+          "title": "Choosing your major — 在校学习计划",
+          "url": "https://students.unimelb.edu.au/course-admin/planning-your-course-and-subjects/choosing-your-major",
+          "checked_at": "2026-09-13",
+          "supports": "major和specialisation定义、大学阶段申报与逐科先修；不是10专项的单独截止表",
+          "sha256": "73feed0ca1423d54b4529be04faa1757facfdda0f78e6d9844b7f440ab00b1ce",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-coursework-language",
+          "title": "Evidence of Enrolment — 授课语言说明",
+          "url": "https://students.unimelb.edu.au/course-admin/academic-transcripts-and-statements/evidence-of-enrolment",
+          "checked_at": "2026-09-13",
+          "supports": "授课型学生在读证明注明教学语言英语；用于承载BCom的共享语言范围",
+          "sha256": "3cf027a232e661cbeeaf168a7ad6c8b4fe135a9facb09177f45743c8ad418c84",
+          "capture_format": "chrome_public_expanded_dom"
+        },
+        {
+          "id": "melcom-bachelor-of-commerce-careers",
+          "title": "bachelor-of-commerce — Career outcomes",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/career-outcomes/",
+          "checked_at": "2026-09-13",
+          "supports": "所列母学位或主修职业方向和注册边界；没有专项独立毕业统计",
+          "sha256": "19ff456785ecd1d4ef71df8cff245e7a5dfea273287a495f7a459e08ce3ce427",
+          "capture_format": "public_http_html"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "伦理与可持续性专项",
+        "duration": "25个Level 3学分（BCom总表；商业分析页另写50）",
+        "campus": "Parkville",
+        "language": "英语（BCom授课型课程共用说明）",
+        "intake": "官网称从2026起；2027专项课程表未核",
+        "entry_summary": "商科学士在校选课路径；可入主修：会计、精算、商业分析、经济、金融、管理、营销。",
+        "tuition_label": "承载BCom学位费用参考",
+        "tuition_summary": "2027 BCom首年AUD56,451–62,464；非25学分专项价",
+        "outcomes_summary": "仅母主修职业方向；专项独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": false,
+        "parent_major_course_context": true,
+        "specialisation_identity": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": false,
+        "parent_major_career_context": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "已核专项真实身份、25学分、可入主修；未取得专项规定科目组合。",
+        "课程说明为已读父主修课程示例，不宣称已完成专项逐科规章核验。",
+        "从2026起不自动认定已核2027专项开课；费用明确仅对应2027父学位。"
+      ],
+      "translation_status": "人工阅读公开课程池和实际国际费视图；父层事实与专项缺口分开"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|econometrics",
+      "name_en": "Econometrics",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/economics/structure/",
+      "inventory_id": "melbourne-econometrics-627916fecd",
+      "checked_at": "2026-09-13",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "sections": {
+        "overview": [
+          {
+            "label": "专项身份、主修与学分",
+            "text": "Econometrics是商科学士内的专项；官网列可入主修：经济。BCom总表规定从2026起集中25个Level 3选修学分；不是独立学位，也不是另读三年。",
+            "source_ids": [
+              "melcom-bcom-structure"
+            ]
+          },
+          {
+            "label": "课程背景与已核边界",
+            "text": "所属经济主修的公开课程池包括 Applied Microeconometric Modelling（横截面与面板数据、估计和检验）及 Time Series Analysis and Forecasting（回归、ARIMA、向量自回归和预测评价）。两课各列12.5学分；本轮未取得它们构成本专项规定25学分组合的正式条款。",
+            "source_ids": [
+              "melcom-economics-structure"
+            ]
+          },
+          {
+            "label": "校区与语言适用范围",
+            "text": "承载学位BCom为Parkville面授；学校授课型课程在读证明注明教学语言英语。本条继承学位环境，不把25学分专项单列为另一完整学位。",
+            "source_ids": [
+              "melcom-bcom-international-fees",
+              "melcom-coursework-language"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在校主修与先修",
+            "text": "限商科学士经济主修。该主修公开结构要求先完成 Level 1 的 Introductory Macroeconomics，再进入 Level 2 主修必修；此为在校课程顺序，不是高考科目门槛。本轮未取得计量专项额外准入均分或逐科先修表。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-economics-structure"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "在校选择与2027核验边界",
+            "text": "这是主修内选修序列。学校主修指引要求最迟在三年级申报主修，并逐科核对先修与开课学期；此为一般主修安排，不是本专项专属截止。当前专项页写从2026起，本轮未取得本专项2027规定组合、逐科开课表、申报操作或专门截止。高中阶段申请者应另查父学位BCom正式入学与该年度申请条件，不能把在校专项选课当作独立本科录取。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-choosing-major"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "仅承载学位2027国际费参考",
+            "text": "BCom国际生2027首年指示学费AUD56,451–62,464；全课程指示总额AUD180,714–200,139。全课程估算假设所列年份第一学期开始、每年1 EFTSL并计估计涨幅。这些是整个BCom的估算，不是本25学分专项报价，不能直接按四分之一折算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "按实际科目计费及其他费用",
+            "text": "国际学费按具体科目的学科费率与学分计算，并每年复核；选课后金额可能不同。签证学生另须安排OSHC。本轮未取得本专项完整科目组合及适用修读年的逐科费用，亦未核完整生活预算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "奖学金范围",
+            "text": "BCom费用页提供校级和学院奖学金入口，部分奖项限特定国家、合作院校或本地身份。不能由选择此专项推定获得资助；本轮未取得本专项独立奖项、大陆学生资格与截止。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母主修职业方向与专项统计边界",
+            "text": "经济主修页面列咨询、政府、金融机构及研究等方向。这是经济主修的范围，不是计量专项独立毕业生统计。 本轮未取得本专项按毕业届次、国际生或中国学生身份、响应样本及分母定义的就业率或薪酬统计。",
+            "source_ids": [
+              "melcom-economics-careers"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melcom-bcom-structure",
+          "title": "Bachelor of Commerce — 十项专项及七主修关系",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "BCom学位内专项的10名称、可入主修、从2026起25 Level3学分；不是2027完整科目规章",
+          "sha256": "b0d8e752dab19d15f462dab3c889f5d55bba0b10c08a4af9879bc176c590a027",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-economics-structure",
+          "title": "economics — 公开主修结构与课程说明",
+          "url": "https://study.unimelb.edu.au/find/courses/major/economics/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "可入专项、父主修课程池与大学阶段课程顺序；未据此认定专项规定组合",
+          "sha256": "00259912cf7194ac34ce5647ef0f6b327c3c652b287893c8b2749007f33dbd61",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-bcom-international-fees",
+          "title": "Bachelor of Commerce — 2027国际学费实际视图",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/fees/",
+          "checked_at": "2026-09-13",
+          "supports": "父学位2027首年和全课程指示学费、按科目收费、OSHC与奖学金入口；非25学分专项报价",
+          "sha256": "20023625ee1488434a7c035b18d5dfbc8705675af4c07336c234e4ac97a10e33",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-choosing-major",
+          "title": "Choosing your major — 在校学习计划",
+          "url": "https://students.unimelb.edu.au/course-admin/planning-your-course-and-subjects/choosing-your-major",
+          "checked_at": "2026-09-13",
+          "supports": "major和specialisation定义、大学阶段申报与逐科先修；不是10专项的单独截止表",
+          "sha256": "73feed0ca1423d54b4529be04faa1757facfdda0f78e6d9844b7f440ab00b1ce",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-coursework-language",
+          "title": "Evidence of Enrolment — 授课语言说明",
+          "url": "https://students.unimelb.edu.au/course-admin/academic-transcripts-and-statements/evidence-of-enrolment",
+          "checked_at": "2026-09-13",
+          "supports": "授课型学生在读证明注明教学语言英语；用于承载BCom的共享语言范围",
+          "sha256": "3cf027a232e661cbeeaf168a7ad6c8b4fe135a9facb09177f45743c8ad418c84",
+          "capture_format": "chrome_public_expanded_dom"
+        },
+        {
+          "id": "melcom-economics-careers",
+          "title": "economics — Career outcomes",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/economics/career-outcomes/",
+          "checked_at": "2026-09-13",
+          "supports": "所列母学位或主修职业方向和注册边界；没有专项独立毕业统计",
+          "sha256": "96abdd02882b1d5c66f9e74bc82742fd7c2c21b83b779d4a9ee334a87b019cb9",
+          "capture_format": "public_http_html"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "计量经济学专项",
+        "duration": "25学分（Level 3；主修内部）",
+        "campus": "Parkville",
+        "language": "英语（BCom授课型课程共用说明）",
+        "intake": "官网称从2026起；2027专项课程表未核",
+        "entry_summary": "商科学士在校选课路径；可入主修：经济。",
+        "tuition_label": "承载BCom学位费用参考",
+        "tuition_summary": "2027 BCom首年AUD56,451–62,464；非25学分专项价",
+        "outcomes_summary": "仅母主修职业方向；专项独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": false,
+        "parent_major_course_context": true,
+        "specialisation_identity": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": false,
+        "parent_major_career_context": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "已核专项真实身份、25学分、可入主修；未取得专项规定科目组合。",
+        "课程说明为已读父主修课程示例，不宣称已完成专项逐科规章核验。",
+        "从2026起不自动认定已核2027专项开课；费用明确仅对应2027父学位。"
+      ],
+      "translation_status": "人工阅读公开课程池和实际国际费视图；父层事实与专项缺口分开"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|economic-policy",
+      "name_en": "Economic Policy",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/economics/structure/",
+      "inventory_id": "melbourne-economic-policy-d5c8fecc22",
+      "checked_at": "2026-09-13",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "sections": {
+        "overview": [
+          {
+            "label": "专项身份、主修与学分",
+            "text": "Economic Policy是商科学士内的专项；官网列可入主修：经济。BCom总表规定从2026起集中25个Level 3选修学分；不是独立学位，也不是另读三年。",
+            "source_ids": [
+              "melcom-bcom-structure"
+            ]
+          },
+          {
+            "label": "课程背景与已核边界",
+            "text": "所属经济主修的 Economic Analysis and Policy 课程用微观经济学分析健康、收入分配、贫困或其他公共政策；International Trade Policy 分析贸易政策的福利和分配影响。两课各列12.5学分，作为主修课程示例；本轮未取得本专项规定科目组合。",
+            "source_ids": [
+              "melcom-economics-structure"
+            ]
+          },
+          {
+            "label": "校区与语言适用范围",
+            "text": "承载学位BCom为Parkville面授；学校授课型课程在读证明注明教学语言英语。本条继承学位环境，不把25学分专项单列为另一完整学位。",
+            "source_ids": [
+              "melcom-bcom-international-fees",
+              "melcom-coursework-language"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在校主修与先修",
+            "text": "限商科学士经济主修。该主修公开结构要求先完成 Level 1 的 Introductory Macroeconomics，再进入 Level 2 主修必修；不是大陆高中录取条件。本轮未取得本专项额外准入分数或逐科先修表。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-economics-structure"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "在校选择与2027核验边界",
+            "text": "这是主修内选修序列。学校主修指引要求最迟在三年级申报主修，并逐科核对先修与开课学期；此为一般主修安排，不是本专项专属截止。当前专项页写从2026起，本轮未取得本专项2027规定组合、逐科开课表、申报操作或专门截止。高中阶段申请者应另查父学位BCom正式入学与该年度申请条件，不能把在校专项选课当作独立本科录取。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-choosing-major"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "仅承载学位2027国际费参考",
+            "text": "BCom国际生2027首年指示学费AUD56,451–62,464；全课程指示总额AUD180,714–200,139。全课程估算假设所列年份第一学期开始、每年1 EFTSL并计估计涨幅。这些是整个BCom的估算，不是本25学分专项报价，不能直接按四分之一折算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "按实际科目计费及其他费用",
+            "text": "国际学费按具体科目的学科费率与学分计算，并每年复核；选课后金额可能不同。签证学生另须安排OSHC。本轮未取得本专项完整科目组合及适用修读年的逐科费用，亦未核完整生活预算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "奖学金范围",
+            "text": "BCom费用页提供校级和学院奖学金入口，部分奖项限特定国家、合作院校或本地身份。不能由选择此专项推定获得资助；本轮未取得本专项独立奖项、大陆学生资格与截止。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母主修职业方向与专项统计边界",
+            "text": "经济主修页面列政府、政策分析、咨询与行业组织等职业领域。这是母主修的职业方向，不能当作本专项的就业率或职业保证。 本轮未取得本专项按毕业届次、国际生或中国学生身份、响应样本及分母定义的就业率或薪酬统计。",
+            "source_ids": [
+              "melcom-economics-careers"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melcom-bcom-structure",
+          "title": "Bachelor of Commerce — 十项专项及七主修关系",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "BCom学位内专项的10名称、可入主修、从2026起25 Level3学分；不是2027完整科目规章",
+          "sha256": "b0d8e752dab19d15f462dab3c889f5d55bba0b10c08a4af9879bc176c590a027",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-economics-structure",
+          "title": "economics — 公开主修结构与课程说明",
+          "url": "https://study.unimelb.edu.au/find/courses/major/economics/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "可入专项、父主修课程池与大学阶段课程顺序；未据此认定专项规定组合",
+          "sha256": "00259912cf7194ac34ce5647ef0f6b327c3c652b287893c8b2749007f33dbd61",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-bcom-international-fees",
+          "title": "Bachelor of Commerce — 2027国际学费实际视图",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/fees/",
+          "checked_at": "2026-09-13",
+          "supports": "父学位2027首年和全课程指示学费、按科目收费、OSHC与奖学金入口；非25学分专项报价",
+          "sha256": "20023625ee1488434a7c035b18d5dfbc8705675af4c07336c234e4ac97a10e33",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-choosing-major",
+          "title": "Choosing your major — 在校学习计划",
+          "url": "https://students.unimelb.edu.au/course-admin/planning-your-course-and-subjects/choosing-your-major",
+          "checked_at": "2026-09-13",
+          "supports": "major和specialisation定义、大学阶段申报与逐科先修；不是10专项的单独截止表",
+          "sha256": "73feed0ca1423d54b4529be04faa1757facfdda0f78e6d9844b7f440ab00b1ce",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-coursework-language",
+          "title": "Evidence of Enrolment — 授课语言说明",
+          "url": "https://students.unimelb.edu.au/course-admin/academic-transcripts-and-statements/evidence-of-enrolment",
+          "checked_at": "2026-09-13",
+          "supports": "授课型学生在读证明注明教学语言英语；用于承载BCom的共享语言范围",
+          "sha256": "3cf027a232e661cbeeaf168a7ad6c8b4fe135a9facb09177f45743c8ad418c84",
+          "capture_format": "chrome_public_expanded_dom"
+        },
+        {
+          "id": "melcom-economics-careers",
+          "title": "economics — Career outcomes",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/economics/career-outcomes/",
+          "checked_at": "2026-09-13",
+          "supports": "所列母学位或主修职业方向和注册边界；没有专项独立毕业统计",
+          "sha256": "96abdd02882b1d5c66f9e74bc82742fd7c2c21b83b779d4a9ee334a87b019cb9",
+          "capture_format": "public_http_html"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "经济政策专项",
+        "duration": "25学分（Level 3；主修内部）",
+        "campus": "Parkville",
+        "language": "英语（BCom授课型课程共用说明）",
+        "intake": "官网称从2026起；2027专项课程表未核",
+        "entry_summary": "商科学士在校选课路径；可入主修：经济。",
+        "tuition_label": "承载BCom学位费用参考",
+        "tuition_summary": "2027 BCom首年AUD56,451–62,464；非25学分专项价",
+        "outcomes_summary": "仅母主修职业方向；专项独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": false,
+        "parent_major_course_context": true,
+        "specialisation_identity": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": false,
+        "parent_major_career_context": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "已核专项真实身份、25学分、可入主修；未取得专项规定科目组合。",
+        "课程说明为已读父主修课程示例，不宣称已完成专项逐科规章核验。",
+        "从2026起不自动认定已核2027专项开课；费用明确仅对应2027父学位。"
+      ],
+      "translation_status": "人工阅读公开课程池和实际国际费视图；父层事实与专项缺口分开"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|computational-finance",
+      "name_en": "Computational Finance",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/finance/structure/",
+      "inventory_id": "melbourne-computational-finance-804819c543",
+      "checked_at": "2026-09-13",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "sections": {
+        "overview": [
+          {
+            "label": "专项身份、主修与学分",
+            "text": "Computational Finance是商科学士内的专项；官网列可入主修：金融。BCom总表规定从2026起集中25个Level 3选修学分；不是独立学位，也不是另读三年。",
+            "source_ids": [
+              "melcom-bcom-structure"
+            ]
+          },
+          {
+            "label": "课程背景与已核边界",
+            "text": "所属金融主修课程池包括 Algorithmic Trading（电子市场、算法交易与模拟交易实践）和 Machine Learning in Finance（金融问题的机器学习方法、案例和实践项目）。两课各列12.5学分；本轮未取得将两者规定为本专项25学分组合的正式条款。",
+            "source_ids": [
+              "melcom-finance-structure"
+            ]
+          },
+          {
+            "label": "校区与语言适用范围",
+            "text": "承载学位BCom为Parkville面授；学校授课型课程在读证明注明教学语言英语。本条继承学位环境，不把25学分专项单列为另一完整学位。",
+            "source_ids": [
+              "melcom-bcom-international-fees",
+              "melcom-coursework-language"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在校主修与先修",
+            "text": "限商科学士金融主修。金融主修须先完成 Level 1 的 Principles of Finance，再进入 Level 2 主修必修。本轮未取得本专项额外编程、数学或均分门槛，不能按名称自行增设要求。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-finance-structure"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "在校选择与2027核验边界",
+            "text": "这是主修内选修序列。学校主修指引要求最迟在三年级申报主修，并逐科核对先修与开课学期；此为一般主修安排，不是本专项专属截止。当前专项页写从2026起，本轮未取得本专项2027规定组合、逐科开课表、申报操作或专门截止。高中阶段申请者应另查父学位BCom正式入学与该年度申请条件，不能把在校专项选课当作独立本科录取。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-choosing-major"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "仅承载学位2027国际费参考",
+            "text": "BCom国际生2027首年指示学费AUD56,451–62,464；全课程指示总额AUD180,714–200,139。全课程估算假设所列年份第一学期开始、每年1 EFTSL并计估计涨幅。这些是整个BCom的估算，不是本25学分专项报价，不能直接按四分之一折算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "按实际科目计费及其他费用",
+            "text": "国际学费按具体科目的学科费率与学分计算，并每年复核；选课后金额可能不同。签证学生另须安排OSHC。本轮未取得本专项完整科目组合及适用修读年的逐科费用，亦未核完整生活预算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "奖学金范围",
+            "text": "BCom费用页提供校级和学院奖学金入口，部分奖项限特定国家、合作院校或本地身份。不能由选择此专项推定获得资助；本轮未取得本专项独立奖项、大陆学生资格与截止。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母主修职业方向与专项统计边界",
+            "text": "金融主修页面列基金管理、银行、交易、咨询等方向，并说明其 CFA Program Partner 身份帮助准备 CFA 考试。该认可属于主修与专业考试衔接，不是计算金融专项自动授予 CFA 资格。 本轮未取得本专项按毕业届次、国际生或中国学生身份、响应样本及分母定义的就业率或薪酬统计。",
+            "source_ids": [
+              "melcom-finance-careers"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melcom-bcom-structure",
+          "title": "Bachelor of Commerce — 十项专项及七主修关系",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "BCom学位内专项的10名称、可入主修、从2026起25 Level3学分；不是2027完整科目规章",
+          "sha256": "b0d8e752dab19d15f462dab3c889f5d55bba0b10c08a4af9879bc176c590a027",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-finance-structure",
+          "title": "finance — 公开主修结构与课程说明",
+          "url": "https://study.unimelb.edu.au/find/courses/major/finance/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "可入专项、父主修课程池与大学阶段课程顺序；未据此认定专项规定组合",
+          "sha256": "95ea7c2337e82b81d1f93e2d69c7d6f45d212ee991b6e21dfb50ed71a5c18181",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-bcom-international-fees",
+          "title": "Bachelor of Commerce — 2027国际学费实际视图",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/fees/",
+          "checked_at": "2026-09-13",
+          "supports": "父学位2027首年和全课程指示学费、按科目收费、OSHC与奖学金入口；非25学分专项报价",
+          "sha256": "20023625ee1488434a7c035b18d5dfbc8705675af4c07336c234e4ac97a10e33",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-choosing-major",
+          "title": "Choosing your major — 在校学习计划",
+          "url": "https://students.unimelb.edu.au/course-admin/planning-your-course-and-subjects/choosing-your-major",
+          "checked_at": "2026-09-13",
+          "supports": "major和specialisation定义、大学阶段申报与逐科先修；不是10专项的单独截止表",
+          "sha256": "73feed0ca1423d54b4529be04faa1757facfdda0f78e6d9844b7f440ab00b1ce",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-coursework-language",
+          "title": "Evidence of Enrolment — 授课语言说明",
+          "url": "https://students.unimelb.edu.au/course-admin/academic-transcripts-and-statements/evidence-of-enrolment",
+          "checked_at": "2026-09-13",
+          "supports": "授课型学生在读证明注明教学语言英语；用于承载BCom的共享语言范围",
+          "sha256": "3cf027a232e661cbeeaf168a7ad6c8b4fe135a9facb09177f45743c8ad418c84",
+          "capture_format": "chrome_public_expanded_dom"
+        },
+        {
+          "id": "melcom-finance-careers",
+          "title": "finance — Career outcomes",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/finance/career-outcomes/",
+          "checked_at": "2026-09-13",
+          "supports": "所列母学位或主修职业方向和注册边界；没有专项独立毕业统计",
+          "sha256": "b69ce6309912990a20d43593c9adbaea60a76905369ed75c4b64767d195be9dd",
+          "capture_format": "public_http_html"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "计算金融专项",
+        "duration": "25学分（Level 3；主修内部）",
+        "campus": "Parkville",
+        "language": "英语（BCom授课型课程共用说明）",
+        "intake": "官网称从2026起；2027专项课程表未核",
+        "entry_summary": "商科学士在校选课路径；可入主修：金融。",
+        "tuition_label": "承载BCom学位费用参考",
+        "tuition_summary": "2027 BCom首年AUD56,451–62,464；非25学分专项价",
+        "outcomes_summary": "仅母主修职业方向；专项独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": false,
+        "parent_major_course_context": true,
+        "specialisation_identity": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": false,
+        "parent_major_career_context": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "已核专项真实身份、25学分、可入主修；未取得专项规定科目组合。",
+        "课程说明为已读父主修课程示例，不宣称已完成专项逐科规章核验。",
+        "从2026起不自动认定已核2027专项开课；费用明确仅对应2027父学位。"
+      ],
+      "translation_status": "人工阅读公开课程池和实际国际费视图；父层事实与专项缺口分开"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|valuation-modelling",
+      "name_en": "Valuation & Modelling",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/finance/structure/",
+      "inventory_id": "melbourne-valuation-modelling-ee8ec0a0e8",
+      "checked_at": "2026-09-13",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "sections": {
+        "overview": [
+          {
+            "label": "专项身份、主修与学分",
+            "text": "Valuation & Modelling是商科学士内的专项；官网列可入主修：金融。BCom总表规定从2026起集中25个Level 3选修学分；不是独立学位，也不是另读三年。",
+            "source_ids": [
+              "melcom-bcom-structure"
+            ]
+          },
+          {
+            "label": "课程背景与已核边界",
+            "text": "所属金融主修的 Essentials of Corporate Valuation 讨论现金流、倍数、折现率、杠杆和实际企业估值案例；Derivative Securities 讨论远期、期货、互换、期权、定价和套期保值。两课各列12.5学分，仅作为父主修课程背景，本轮未核本专项规定组合。",
+            "source_ids": [
+              "melcom-finance-structure"
+            ]
+          },
+          {
+            "label": "校区与语言适用范围",
+            "text": "承载学位BCom为Parkville面授；学校授课型课程在读证明注明教学语言英语。本条继承学位环境，不把25学分专项单列为另一完整学位。",
+            "source_ids": [
+              "melcom-bcom-international-fees",
+              "melcom-coursework-language"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在校主修与先修",
+            "text": "限商科学士金融主修。金融主修须先完成 Level 1 的 Principles of Finance，再进入 Level 2 主修必修。本轮未取得本专项额外均分或逐科先修要求。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-finance-structure"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "在校选择与2027核验边界",
+            "text": "这是主修内选修序列。学校主修指引要求最迟在三年级申报主修，并逐科核对先修与开课学期；此为一般主修安排，不是本专项专属截止。当前专项页写从2026起，本轮未取得本专项2027规定组合、逐科开课表、申报操作或专门截止。高中阶段申请者应另查父学位BCom正式入学与该年度申请条件，不能把在校专项选课当作独立本科录取。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-choosing-major"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "仅承载学位2027国际费参考",
+            "text": "BCom国际生2027首年指示学费AUD56,451–62,464；全课程指示总额AUD180,714–200,139。全课程估算假设所列年份第一学期开始、每年1 EFTSL并计估计涨幅。这些是整个BCom的估算，不是本25学分专项报价，不能直接按四分之一折算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "按实际科目计费及其他费用",
+            "text": "国际学费按具体科目的学科费率与学分计算，并每年复核；选课后金额可能不同。签证学生另须安排OSHC。本轮未取得本专项完整科目组合及适用修读年的逐科费用，亦未核完整生活预算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "奖学金范围",
+            "text": "BCom费用页提供校级和学院奖学金入口，部分奖项限特定国家、合作院校或本地身份。不能由选择此专项推定获得资助；本轮未取得本专项独立奖项、大陆学生资格与截止。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母主修职业方向与专项统计边界",
+            "text": "金融主修页面列投资咨询、基金管理、银行、资金管理和交易等领域。这是母主修方向，不是估值与建模专项的独立就业调查。 本轮未取得本专项按毕业届次、国际生或中国学生身份、响应样本及分母定义的就业率或薪酬统计。",
+            "source_ids": [
+              "melcom-finance-careers"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melcom-bcom-structure",
+          "title": "Bachelor of Commerce — 十项专项及七主修关系",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "BCom学位内专项的10名称、可入主修、从2026起25 Level3学分；不是2027完整科目规章",
+          "sha256": "b0d8e752dab19d15f462dab3c889f5d55bba0b10c08a4af9879bc176c590a027",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-finance-structure",
+          "title": "finance — 公开主修结构与课程说明",
+          "url": "https://study.unimelb.edu.au/find/courses/major/finance/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "可入专项、父主修课程池与大学阶段课程顺序；未据此认定专项规定组合",
+          "sha256": "95ea7c2337e82b81d1f93e2d69c7d6f45d212ee991b6e21dfb50ed71a5c18181",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-bcom-international-fees",
+          "title": "Bachelor of Commerce — 2027国际学费实际视图",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/fees/",
+          "checked_at": "2026-09-13",
+          "supports": "父学位2027首年和全课程指示学费、按科目收费、OSHC与奖学金入口；非25学分专项报价",
+          "sha256": "20023625ee1488434a7c035b18d5dfbc8705675af4c07336c234e4ac97a10e33",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-choosing-major",
+          "title": "Choosing your major — 在校学习计划",
+          "url": "https://students.unimelb.edu.au/course-admin/planning-your-course-and-subjects/choosing-your-major",
+          "checked_at": "2026-09-13",
+          "supports": "major和specialisation定义、大学阶段申报与逐科先修；不是10专项的单独截止表",
+          "sha256": "73feed0ca1423d54b4529be04faa1757facfdda0f78e6d9844b7f440ab00b1ce",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-coursework-language",
+          "title": "Evidence of Enrolment — 授课语言说明",
+          "url": "https://students.unimelb.edu.au/course-admin/academic-transcripts-and-statements/evidence-of-enrolment",
+          "checked_at": "2026-09-13",
+          "supports": "授课型学生在读证明注明教学语言英语；用于承载BCom的共享语言范围",
+          "sha256": "3cf027a232e661cbeeaf168a7ad6c8b4fe135a9facb09177f45743c8ad418c84",
+          "capture_format": "chrome_public_expanded_dom"
+        },
+        {
+          "id": "melcom-finance-careers",
+          "title": "finance — Career outcomes",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/finance/career-outcomes/",
+          "checked_at": "2026-09-13",
+          "supports": "所列母学位或主修职业方向和注册边界；没有专项独立毕业统计",
+          "sha256": "b69ce6309912990a20d43593c9adbaea60a76905369ed75c4b64767d195be9dd",
+          "capture_format": "public_http_html"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "估值与建模专项",
+        "duration": "25学分（Level 3；主修内部）",
+        "campus": "Parkville",
+        "language": "英语（BCom授课型课程共用说明）",
+        "intake": "官网称从2026起；2027专项课程表未核",
+        "entry_summary": "商科学士在校选课路径；可入主修：金融。",
+        "tuition_label": "承载BCom学位费用参考",
+        "tuition_summary": "2027 BCom首年AUD56,451–62,464；非25学分专项价",
+        "outcomes_summary": "仅母主修职业方向；专项独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": false,
+        "parent_major_course_context": true,
+        "specialisation_identity": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": false,
+        "parent_major_career_context": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "已核专项真实身份、25学分、可入主修；未取得专项规定科目组合。",
+        "课程说明为已读父主修课程示例，不宣称已完成专项逐科规章核验。",
+        "从2026起不自动认定已核2027专项开课；费用明确仅对应2027父学位。"
+      ],
+      "translation_status": "人工阅读公开课程池和实际国际费视图；父层事实与专项缺口分开"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|human-resource-management",
+      "name_en": "Human Resource Management",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/management/structure/",
+      "inventory_id": "melbourne-human-resource-management-db0abf2efe",
+      "checked_at": "2026-09-13",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "sections": {
+        "overview": [
+          {
+            "label": "专项身份、主修与学分",
+            "text": "Human Resource Management是商科学士内的专项；官网列可入主修：管理。BCom总表规定从2026起集中25个Level 3选修学分；不是独立学位，也不是另读三年。",
+            "source_ids": [
+              "melcom-bcom-structure"
+            ]
+          },
+          {
+            "label": "课程背景与已核边界",
+            "text": "所属管理主修的 Human Resource Analytics 讨论用人员数据支持招聘、绩效、薪酬和继任决策；Managing Employee Relations 讨论劳动关系中的制度、参与者、薪酬及争议处理。两课各列12.5学分；这里只列主修课程背景，本轮未核本专项规定两科。",
+            "source_ids": [
+              "melcom-management-structure"
+            ]
+          },
+          {
+            "label": "校区与语言适用范围",
+            "text": "承载学位BCom为Parkville面授；学校授课型课程在读证明注明教学语言英语。本条继承学位环境，不把25学分专项单列为另一完整学位。",
+            "source_ids": [
+              "melcom-bcom-international-fees",
+              "melcom-coursework-language"
+            ]
+          },
+          {
+            "label": "目录计数文字差异",
+            "text": "管理主修段落称two specialisations，但实际列人力资源管理、供应链管理、伦理与可持续性三项；BCom总表也分别列这三种可选关系。本记录按真实列名收录，不按two删除其中一项。",
+            "source_ids": [
+              "melcom-management-structure",
+              "melcom-bcom-structure"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在校主修与先修",
+            "text": "限商科学士管理主修。管理主修须先完成 Level 1 的 Principles of Management，再进入 Level 2 主修必修；后续仍需满足实际科目先修。本轮未取得本专项单独均分或遴选程序。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-management-structure"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "在校选择与2027核验边界",
+            "text": "这是主修内选修序列。学校主修指引要求最迟在三年级申报主修，并逐科核对先修与开课学期；此为一般主修安排，不是本专项专属截止。当前专项页写从2026起，本轮未取得本专项2027规定组合、逐科开课表、申报操作或专门截止。高中阶段申请者应另查父学位BCom正式入学与该年度申请条件，不能把在校专项选课当作独立本科录取。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-choosing-major"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "仅承载学位2027国际费参考",
+            "text": "BCom国际生2027首年指示学费AUD56,451–62,464；全课程指示总额AUD180,714–200,139。全课程估算假设所列年份第一学期开始、每年1 EFTSL并计估计涨幅。这些是整个BCom的估算，不是本25学分专项报价，不能直接按四分之一折算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "按实际科目计费及其他费用",
+            "text": "国际学费按具体科目的学科费率与学分计算，并每年复核；选课后金额可能不同。签证学生另须安排OSHC。本轮未取得本专项完整科目组合及适用修读年的逐科费用，亦未核完整生活预算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "奖学金范围",
+            "text": "BCom费用页提供校级和学院奖学金入口，部分奖项限特定国家、合作院校或本地身份。不能由选择此专项推定获得资助；本轮未取得本专项独立奖项、大陆学生资格与截止。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母主修职业方向与专项统计边界",
+            "text": "管理主修页面列组织发展、咨询、项目管理和政府及非营利机构等方向。页面没有提供本专项独立毕业生的就业分母、届次或薪酬结果。 本轮未取得本专项按毕业届次、国际生或中国学生身份、响应样本及分母定义的就业率或薪酬统计。",
+            "source_ids": [
+              "melcom-management-careers"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melcom-bcom-structure",
+          "title": "Bachelor of Commerce — 十项专项及七主修关系",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "BCom学位内专项的10名称、可入主修、从2026起25 Level3学分；不是2027完整科目规章",
+          "sha256": "b0d8e752dab19d15f462dab3c889f5d55bba0b10c08a4af9879bc176c590a027",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-management-structure",
+          "title": "management — 公开主修结构与课程说明",
+          "url": "https://study.unimelb.edu.au/find/courses/major/management/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "可入专项、父主修课程池与大学阶段课程顺序；未据此认定专项规定组合",
+          "sha256": "7f4449eacecf391b996b029edee03863d9cc4e5e77ecedbbc4304f18705d588d",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-bcom-international-fees",
+          "title": "Bachelor of Commerce — 2027国际学费实际视图",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/fees/",
+          "checked_at": "2026-09-13",
+          "supports": "父学位2027首年和全课程指示学费、按科目收费、OSHC与奖学金入口；非25学分专项报价",
+          "sha256": "20023625ee1488434a7c035b18d5dfbc8705675af4c07336c234e4ac97a10e33",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-choosing-major",
+          "title": "Choosing your major — 在校学习计划",
+          "url": "https://students.unimelb.edu.au/course-admin/planning-your-course-and-subjects/choosing-your-major",
+          "checked_at": "2026-09-13",
+          "supports": "major和specialisation定义、大学阶段申报与逐科先修；不是10专项的单独截止表",
+          "sha256": "73feed0ca1423d54b4529be04faa1757facfdda0f78e6d9844b7f440ab00b1ce",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-coursework-language",
+          "title": "Evidence of Enrolment — 授课语言说明",
+          "url": "https://students.unimelb.edu.au/course-admin/academic-transcripts-and-statements/evidence-of-enrolment",
+          "checked_at": "2026-09-13",
+          "supports": "授课型学生在读证明注明教学语言英语；用于承载BCom的共享语言范围",
+          "sha256": "3cf027a232e661cbeeaf168a7ad6c8b4fe135a9facb09177f45743c8ad418c84",
+          "capture_format": "chrome_public_expanded_dom"
+        },
+        {
+          "id": "melcom-management-careers",
+          "title": "management — Career outcomes",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/management/career-outcomes/",
+          "checked_at": "2026-09-13",
+          "supports": "所列母学位或主修职业方向和注册边界；没有专项独立毕业统计",
+          "sha256": "575430e45b20258ec58b30ec405bc04ff4b64d0e09657c727ada27e7c9b9579f",
+          "capture_format": "public_http_html"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "人力资源管理专项",
+        "duration": "25学分（Level 3；主修内部）",
+        "campus": "Parkville",
+        "language": "英语（BCom授课型课程共用说明）",
+        "intake": "官网称从2026起；2027专项课程表未核",
+        "entry_summary": "商科学士在校选课路径；可入主修：管理。",
+        "tuition_label": "承载BCom学位费用参考",
+        "tuition_summary": "2027 BCom首年AUD56,451–62,464；非25学分专项价",
+        "outcomes_summary": "仅母主修职业方向；专项独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": false,
+        "parent_major_course_context": true,
+        "specialisation_identity": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": false,
+        "parent_major_career_context": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "已核专项真实身份、25学分、可入主修；未取得专项规定科目组合。",
+        "课程说明为已读父主修课程示例，不宣称已完成专项逐科规章核验。",
+        "从2026起不自动认定已核2027专项开课；费用明确仅对应2027父学位。"
+      ],
+      "translation_status": "人工阅读公开课程池和实际国际费视图；父层事实与专项缺口分开"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|supply-chain-management",
+      "name_en": "Supply Chain Management",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/management/structure/",
+      "inventory_id": "melbourne-supply-chain-management-bdf92b7bde",
+      "checked_at": "2026-09-13",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "sections": {
+        "overview": [
+          {
+            "label": "专项身份、主修与学分",
+            "text": "Supply Chain Management是商科学士内的专项；官网列可入主修：管理。BCom总表规定从2026起集中25个Level 3选修学分；不是独立学位，也不是另读三年。",
+            "source_ids": [
+              "melcom-bcom-structure"
+            ]
+          },
+          {
+            "label": "课程背景与已核边界",
+            "text": "所属管理主修的 Managing Supply Chain Networks 研究生产服务网络、绩效数据、技术与合同；Analytics for Supply Chain & Operations 讨论需求预测、订货、生产计划、排队和人员配置。两课各列12.5学分；不是本轮已核的专项规定组合。",
+            "source_ids": [
+              "melcom-management-structure"
+            ]
+          },
+          {
+            "label": "校区与语言适用范围",
+            "text": "承载学位BCom为Parkville面授；学校授课型课程在读证明注明教学语言英语。本条继承学位环境，不把25学分专项单列为另一完整学位。",
+            "source_ids": [
+              "melcom-bcom-international-fees",
+              "melcom-coursework-language"
+            ]
+          },
+          {
+            "label": "目录计数文字差异",
+            "text": "管理主修段落称two specialisations，但实际列人力资源管理、供应链管理、伦理与可持续性三项；BCom总表也分别列这三种可选关系。本记录按真实列名收录，不按two删除其中一项。",
+            "source_ids": [
+              "melcom-management-structure",
+              "melcom-bcom-structure"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在校主修与先修",
+            "text": "限商科学士管理主修。管理主修须先完成 Level 1 的 Principles of Management，再进入 Level 2 主修必修。本轮未取得本专项额外数学、编程或均分门槛，不自行推定。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-management-structure"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "在校选择与2027核验边界",
+            "text": "这是主修内选修序列。学校主修指引要求最迟在三年级申报主修，并逐科核对先修与开课学期；此为一般主修安排，不是本专项专属截止。当前专项页写从2026起，本轮未取得本专项2027规定组合、逐科开课表、申报操作或专门截止。高中阶段申请者应另查父学位BCom正式入学与该年度申请条件，不能把在校专项选课当作独立本科录取。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-choosing-major"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "仅承载学位2027国际费参考",
+            "text": "BCom国际生2027首年指示学费AUD56,451–62,464；全课程指示总额AUD180,714–200,139。全课程估算假设所列年份第一学期开始、每年1 EFTSL并计估计涨幅。这些是整个BCom的估算，不是本25学分专项报价，不能直接按四分之一折算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "按实际科目计费及其他费用",
+            "text": "国际学费按具体科目的学科费率与学分计算，并每年复核；选课后金额可能不同。签证学生另须安排OSHC。本轮未取得本专项完整科目组合及适用修读年的逐科费用，亦未核完整生活预算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "奖学金范围",
+            "text": "BCom费用页提供校级和学院奖学金入口，部分奖项限特定国家、合作院校或本地身份。不能由选择此专项推定获得资助；本轮未取得本专项独立奖项、大陆学生资格与截止。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母主修职业方向与专项统计边界",
+            "text": "管理主修官方职业领域包括运营与供应链管理、流程改进和质量保证。这些为母主修培养方向，不是本专项毕业生统计或职位保证。 本轮未取得本专项按毕业届次、国际生或中国学生身份、响应样本及分母定义的就业率或薪酬统计。",
+            "source_ids": [
+              "melcom-management-careers"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melcom-bcom-structure",
+          "title": "Bachelor of Commerce — 十项专项及七主修关系",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "BCom学位内专项的10名称、可入主修、从2026起25 Level3学分；不是2027完整科目规章",
+          "sha256": "b0d8e752dab19d15f462dab3c889f5d55bba0b10c08a4af9879bc176c590a027",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-management-structure",
+          "title": "management — 公开主修结构与课程说明",
+          "url": "https://study.unimelb.edu.au/find/courses/major/management/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "可入专项、父主修课程池与大学阶段课程顺序；未据此认定专项规定组合",
+          "sha256": "7f4449eacecf391b996b029edee03863d9cc4e5e77ecedbbc4304f18705d588d",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-bcom-international-fees",
+          "title": "Bachelor of Commerce — 2027国际学费实际视图",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/fees/",
+          "checked_at": "2026-09-13",
+          "supports": "父学位2027首年和全课程指示学费、按科目收费、OSHC与奖学金入口；非25学分专项报价",
+          "sha256": "20023625ee1488434a7c035b18d5dfbc8705675af4c07336c234e4ac97a10e33",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-choosing-major",
+          "title": "Choosing your major — 在校学习计划",
+          "url": "https://students.unimelb.edu.au/course-admin/planning-your-course-and-subjects/choosing-your-major",
+          "checked_at": "2026-09-13",
+          "supports": "major和specialisation定义、大学阶段申报与逐科先修；不是10专项的单独截止表",
+          "sha256": "73feed0ca1423d54b4529be04faa1757facfdda0f78e6d9844b7f440ab00b1ce",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-coursework-language",
+          "title": "Evidence of Enrolment — 授课语言说明",
+          "url": "https://students.unimelb.edu.au/course-admin/academic-transcripts-and-statements/evidence-of-enrolment",
+          "checked_at": "2026-09-13",
+          "supports": "授课型学生在读证明注明教学语言英语；用于承载BCom的共享语言范围",
+          "sha256": "3cf027a232e661cbeeaf168a7ad6c8b4fe135a9facb09177f45743c8ad418c84",
+          "capture_format": "chrome_public_expanded_dom"
+        },
+        {
+          "id": "melcom-management-careers",
+          "title": "management — Career outcomes",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/management/career-outcomes/",
+          "checked_at": "2026-09-13",
+          "supports": "所列母学位或主修职业方向和注册边界；没有专项独立毕业统计",
+          "sha256": "575430e45b20258ec58b30ec405bc04ff4b64d0e09657c727ada27e7c9b9579f",
+          "capture_format": "public_http_html"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "供应链管理专项",
+        "duration": "25学分（Level 3；主修内部）",
+        "campus": "Parkville",
+        "language": "英语（BCom授课型课程共用说明）",
+        "intake": "官网称从2026起；2027专项课程表未核",
+        "entry_summary": "商科学士在校选课路径；可入主修：管理。",
+        "tuition_label": "承载BCom学位费用参考",
+        "tuition_summary": "2027 BCom首年AUD56,451–62,464；非25学分专项价",
+        "outcomes_summary": "仅母主修职业方向；专项独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": false,
+        "parent_major_course_context": true,
+        "specialisation_identity": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": false,
+        "parent_major_career_context": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "已核专项真实身份、25学分、可入主修；未取得专项规定科目组合。",
+        "课程说明为已读父主修课程示例，不宣称已完成专项逐科规章核验。",
+        "从2026起不自动认定已核2027专项开课；费用明确仅对应2027父学位。"
+      ],
+      "translation_status": "人工阅读公开课程池和实际国际费视图；父层事实与专项缺口分开"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|digital-marketing",
+      "name_en": "Digital Marketing",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/marketing/structure/",
+      "inventory_id": "melbourne-digital-marketing-bbbcfa8970",
+      "checked_at": "2026-09-13",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "sections": {
+        "overview": [
+          {
+            "label": "专项身份、主修与学分",
+            "text": "Digital Marketing是商科学士内的专项；官网列可入主修：营销。BCom总表规定从2026起集中25个Level 3选修学分；不是独立学位，也不是另读三年。",
+            "source_ids": [
+              "melcom-bcom-structure"
+            ]
+          },
+          {
+            "label": "课程背景与已核边界",
+            "text": "所属营销主修课程池中的 Digital Marketing 单科说明列互联网消费者行为、数字商业模式、线上传播和分析工具，单科12.5学分。专项本身总量按BCom结构为25学分，不能把这一同名单科当作整个专项；其余规定科目及备选组合本轮未核。",
+            "source_ids": [
+              "melcom-marketing-structure"
+            ]
+          },
+          {
+            "label": "校区与语言适用范围",
+            "text": "承载学位BCom为Parkville面授；学校授课型课程在读证明注明教学语言英语。本条继承学位环境，不把25学分专项单列为另一完整学位。",
+            "source_ids": [
+              "melcom-bcom-international-fees",
+              "melcom-coursework-language"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在校主修与先修",
+            "text": "限商科学士营销主修。营销主修须先完成 Level 1 的 Principles of Marketing，再进入 Level 2 主修必修。本轮未取得本专项额外选拔分数或全部科目先修表。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-marketing-structure"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "在校选择与2027核验边界",
+            "text": "这是主修内选修序列。学校主修指引要求最迟在三年级申报主修，并逐科核对先修与开课学期；此为一般主修安排，不是本专项专属截止。当前专项页写从2026起，本轮未取得本专项2027规定组合、逐科开课表、申报操作或专门截止。高中阶段申请者应另查父学位BCom正式入学与该年度申请条件，不能把在校专项选课当作独立本科录取。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-choosing-major"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "仅承载学位2027国际费参考",
+            "text": "BCom国际生2027首年指示学费AUD56,451–62,464；全课程指示总额AUD180,714–200,139。全课程估算假设所列年份第一学期开始、每年1 EFTSL并计估计涨幅。这些是整个BCom的估算，不是本25学分专项报价，不能直接按四分之一折算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "按实际科目计费及其他费用",
+            "text": "国际学费按具体科目的学科费率与学分计算，并每年复核；选课后金额可能不同。签证学生另须安排OSHC。本轮未取得本专项完整科目组合及适用修读年的逐科费用，亦未核完整生活预算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "奖学金范围",
+            "text": "BCom费用页提供校级和学院奖学金入口，部分奖项限特定国家、合作院校或本地身份。不能由选择此专项推定获得资助；本轮未取得本专项独立奖项、大陆学生资格与截止。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母主修职业方向与专项统计边界",
+            "text": "营销主修页面举例包括客户洞察、营销协调、媒体策划以及数字传播等职业路径。该页面讨论整个营销主修，不是数字营销专项独立就业调查。 本轮未取得本专项按毕业届次、国际生或中国学生身份、响应样本及分母定义的就业率或薪酬统计。",
+            "source_ids": [
+              "melcom-marketing-careers"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melcom-bcom-structure",
+          "title": "Bachelor of Commerce — 十项专项及七主修关系",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "BCom学位内专项的10名称、可入主修、从2026起25 Level3学分；不是2027完整科目规章",
+          "sha256": "b0d8e752dab19d15f462dab3c889f5d55bba0b10c08a4af9879bc176c590a027",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-marketing-structure",
+          "title": "marketing — 公开主修结构与课程说明",
+          "url": "https://study.unimelb.edu.au/find/courses/major/marketing/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "可入专项、父主修课程池与大学阶段课程顺序；未据此认定专项规定组合",
+          "sha256": "7f149e247b9e19ca89be4729162afece656a879889370b2e931d8503a8cb7eda",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-bcom-international-fees",
+          "title": "Bachelor of Commerce — 2027国际学费实际视图",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/fees/",
+          "checked_at": "2026-09-13",
+          "supports": "父学位2027首年和全课程指示学费、按科目收费、OSHC与奖学金入口；非25学分专项报价",
+          "sha256": "20023625ee1488434a7c035b18d5dfbc8705675af4c07336c234e4ac97a10e33",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-choosing-major",
+          "title": "Choosing your major — 在校学习计划",
+          "url": "https://students.unimelb.edu.au/course-admin/planning-your-course-and-subjects/choosing-your-major",
+          "checked_at": "2026-09-13",
+          "supports": "major和specialisation定义、大学阶段申报与逐科先修；不是10专项的单独截止表",
+          "sha256": "73feed0ca1423d54b4529be04faa1757facfdda0f78e6d9844b7f440ab00b1ce",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-coursework-language",
+          "title": "Evidence of Enrolment — 授课语言说明",
+          "url": "https://students.unimelb.edu.au/course-admin/academic-transcripts-and-statements/evidence-of-enrolment",
+          "checked_at": "2026-09-13",
+          "supports": "授课型学生在读证明注明教学语言英语；用于承载BCom的共享语言范围",
+          "sha256": "3cf027a232e661cbeeaf168a7ad6c8b4fe135a9facb09177f45743c8ad418c84",
+          "capture_format": "chrome_public_expanded_dom"
+        },
+        {
+          "id": "melcom-marketing-careers",
+          "title": "marketing — Career outcomes",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/marketing/career-outcomes/",
+          "checked_at": "2026-09-13",
+          "supports": "所列母学位或主修职业方向和注册边界；没有专项独立毕业统计",
+          "sha256": "23c6191081096b1aca35c8f41f46400e1cbf0dcc8881c4cada001d5e821a5ae5",
+          "capture_format": "public_http_html"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "数字营销专项",
+        "duration": "25学分（Level 3；主修内部）",
+        "campus": "Parkville",
+        "language": "英语（BCom授课型课程共用说明）",
+        "intake": "官网称从2026起；2027专项课程表未核",
+        "entry_summary": "商科学士在校选课路径；可入主修：营销。",
+        "tuition_label": "承载BCom学位费用参考",
+        "tuition_summary": "2027 BCom首年AUD56,451–62,464；非25学分专项价",
+        "outcomes_summary": "仅母主修职业方向；专项独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": false,
+        "parent_major_course_context": true,
+        "specialisation_identity": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": false,
+        "parent_major_career_context": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "已核专项真实身份、25学分、可入主修；未取得专项规定科目组合。",
+        "课程说明为已读父主修课程示例，不宣称已完成专项逐科规章核验。",
+        "从2026起不自动认定已核2027专项开课；费用明确仅对应2027父学位。"
+      ],
+      "translation_status": "人工阅读公开课程池和实际国际费视图；父层事实与专项缺口分开"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|strategic-marketing",
+      "name_en": "Strategic Marketing",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/marketing/structure/",
+      "inventory_id": "melbourne-strategic-marketing-f022ef99b4",
+      "checked_at": "2026-09-13",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "sections": {
+        "overview": [
+          {
+            "label": "专项身份、主修与学分",
+            "text": "Strategic Marketing是商科学士内的专项；官网列可入主修：营销。BCom总表规定从2026起集中25个Level 3选修学分；不是独立学位，也不是另读三年。",
+            "source_ids": [
+              "melcom-bcom-structure"
+            ]
+          },
+          {
+            "label": "课程背景与已核边界",
+            "text": "所属营销主修的同名 Strategic Marketing 单科列12.5学分，涉及内外部环境、竞争者、市场与产品组合分析、差异化、增长和战略实施。专项总量是25学分；同名单科不等于整个专项，本轮未取得其余规定科目及获批备选组合。",
+            "source_ids": [
+              "melcom-marketing-structure"
+            ]
+          },
+          {
+            "label": "校区与语言适用范围",
+            "text": "承载学位BCom为Parkville面授；学校授课型课程在读证明注明教学语言英语。本条继承学位环境，不把25学分专项单列为另一完整学位。",
+            "source_ids": [
+              "melcom-bcom-international-fees",
+              "melcom-coursework-language"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在校主修与先修",
+            "text": "限商科学士营销主修。营销主修须先完成 Level 1 的 Principles of Marketing，再进入 Level 2 主修必修。本轮未取得本专项额外均分门槛或完整科目先修表。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-marketing-structure"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "在校选择与2027核验边界",
+            "text": "这是主修内选修序列。学校主修指引要求最迟在三年级申报主修，并逐科核对先修与开课学期；此为一般主修安排，不是本专项专属截止。当前专项页写从2026起，本轮未取得本专项2027规定组合、逐科开课表、申报操作或专门截止。高中阶段申请者应另查父学位BCom正式入学与该年度申请条件，不能把在校专项选课当作独立本科录取。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-choosing-major"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "仅承载学位2027国际费参考",
+            "text": "BCom国际生2027首年指示学费AUD56,451–62,464；全课程指示总额AUD180,714–200,139。全课程估算假设所列年份第一学期开始、每年1 EFTSL并计估计涨幅。这些是整个BCom的估算，不是本25学分专项报价，不能直接按四分之一折算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "按实际科目计费及其他费用",
+            "text": "国际学费按具体科目的学科费率与学分计算，并每年复核；选课后金额可能不同。签证学生另须安排OSHC。本轮未取得本专项完整科目组合及适用修读年的逐科费用，亦未核完整生活预算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "奖学金范围",
+            "text": "BCom费用页提供校级和学院奖学金入口，部分奖项限特定国家、合作院校或本地身份。不能由选择此专项推定获得资助；本轮未取得本专项独立奖项、大陆学生资格与截止。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母主修职业方向与专项统计边界",
+            "text": "营销主修页面列市场研究、品牌管理、营销传播及公关等方向。不能用其职业发展示例推算本专项毕业后的任职速度或就业率。 本轮未取得本专项按毕业届次、国际生或中国学生身份、响应样本及分母定义的就业率或薪酬统计。",
+            "source_ids": [
+              "melcom-marketing-careers"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melcom-bcom-structure",
+          "title": "Bachelor of Commerce — 十项专项及七主修关系",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "BCom学位内专项的10名称、可入主修、从2026起25 Level3学分；不是2027完整科目规章",
+          "sha256": "b0d8e752dab19d15f462dab3c889f5d55bba0b10c08a4af9879bc176c590a027",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-marketing-structure",
+          "title": "marketing — 公开主修结构与课程说明",
+          "url": "https://study.unimelb.edu.au/find/courses/major/marketing/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "可入专项、父主修课程池与大学阶段课程顺序；未据此认定专项规定组合",
+          "sha256": "7f149e247b9e19ca89be4729162afece656a879889370b2e931d8503a8cb7eda",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-bcom-international-fees",
+          "title": "Bachelor of Commerce — 2027国际学费实际视图",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/fees/",
+          "checked_at": "2026-09-13",
+          "supports": "父学位2027首年和全课程指示学费、按科目收费、OSHC与奖学金入口；非25学分专项报价",
+          "sha256": "20023625ee1488434a7c035b18d5dfbc8705675af4c07336c234e4ac97a10e33",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-choosing-major",
+          "title": "Choosing your major — 在校学习计划",
+          "url": "https://students.unimelb.edu.au/course-admin/planning-your-course-and-subjects/choosing-your-major",
+          "checked_at": "2026-09-13",
+          "supports": "major和specialisation定义、大学阶段申报与逐科先修；不是10专项的单独截止表",
+          "sha256": "73feed0ca1423d54b4529be04faa1757facfdda0f78e6d9844b7f440ab00b1ce",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-coursework-language",
+          "title": "Evidence of Enrolment — 授课语言说明",
+          "url": "https://students.unimelb.edu.au/course-admin/academic-transcripts-and-statements/evidence-of-enrolment",
+          "checked_at": "2026-09-13",
+          "supports": "授课型学生在读证明注明教学语言英语；用于承载BCom的共享语言范围",
+          "sha256": "3cf027a232e661cbeeaf168a7ad6c8b4fe135a9facb09177f45743c8ad418c84",
+          "capture_format": "chrome_public_expanded_dom"
+        },
+        {
+          "id": "melcom-marketing-careers",
+          "title": "marketing — Career outcomes",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/marketing/career-outcomes/",
+          "checked_at": "2026-09-13",
+          "supports": "所列母学位或主修职业方向和注册边界；没有专项独立毕业统计",
+          "sha256": "23c6191081096b1aca35c8f41f46400e1cbf0dcc8881c4cada001d5e821a5ae5",
+          "capture_format": "public_http_html"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "战略营销专项",
+        "duration": "25学分（Level 3；主修内部）",
+        "campus": "Parkville",
+        "language": "英语（BCom授课型课程共用说明）",
+        "intake": "官网称从2026起；2027专项课程表未核",
+        "entry_summary": "商科学士在校选课路径；可入主修：营销。",
+        "tuition_label": "承载BCom学位费用参考",
+        "tuition_summary": "2027 BCom首年AUD56,451–62,464；非25学分专项价",
+        "outcomes_summary": "仅母主修职业方向；专项独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": false,
+        "parent_major_course_context": true,
+        "specialisation_identity": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": false,
+        "parent_major_career_context": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "已核专项真实身份、25学分、可入主修；未取得专项规定科目组合。",
+        "课程说明为已读父主修课程示例，不宣称已完成专项逐科规章核验。",
+        "从2026起不自动认定已核2027专项开课；费用明确仅对应2027父学位。"
+      ],
+      "translation_status": "人工阅读公开课程池和实际国际费视图；父层事实与专项缺口分开"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|actuarial-risk-management",
+      "name_en": "Actuarial Risk Management",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/actuarial-studies/structure/",
+      "inventory_id": "melbourne-actuarial-risk-management-8d2e2e7720",
+      "checked_at": "2026-09-13",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "sections": {
+        "overview": [
+          {
+            "label": "专项身份、主修与学分",
+            "text": "Actuarial Risk Management是商科学士内的专项；官网列可入主修：精算。BCom总表规定从2026起集中25个Level 3选修学分；不是独立学位，也不是另读三年。",
+            "source_ids": [
+              "melcom-bcom-structure"
+            ]
+          },
+          {
+            "label": "课程背景与已核边界",
+            "text": "所属精算主修的 Actuarial Modelling III 讨论损失分布、再保险、依赖建模和时间序列；Advanced Financial Mathematics 讨论衍生品定价、随机模型、套保与信用风险。两课各列12.5学分，属于主修课程示例；本轮未核本专项规定组合。",
+            "source_ids": [
+              "melcom-actuarial-studies-structure"
+            ]
+          },
+          {
+            "label": "校区与语言适用范围",
+            "text": "承载学位BCom为Parkville面授；学校授课型课程在读证明注明教学语言英语。本条继承学位环境，不把25学分专项单列为另一完整学位。",
+            "source_ids": [
+              "melcom-bcom-international-fees",
+              "melcom-coursework-language"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在校主修与先修",
+            "text": "限商科学士精算主修。其公开结构明确 Introduction to Actuarial Studies（ACTL10001）只是建议课，不是必修或后续课先修；数学路线另列加速数学1、2或微积分2与线性代数。不能把精算导论错当本专项硬性门槛；具体高年级科目先修仍须另核。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-actuarial-studies-structure"
+            ]
+          },
+          {
+            "label": "精算专业认证与选课分开",
+            "text": "BCom结构提醒，寻求精算专业认证者应从第一年开始相应科目序列；若同时双主修，认证路线只可搭配商业分析、经济或金融。这是精算认证及双主修条件，不是给本专项新增三个可入父主修。",
+            "source_ids": [
+              "melcom-bcom-structure"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "在校选择与2027核验边界",
+            "text": "这是主修内选修序列。学校主修指引要求最迟在三年级申报主修，并逐科核对先修与开课学期；此为一般主修安排，不是本专项专属截止。当前专项页写从2026起，本轮未取得本专项2027规定组合、逐科开课表、申报操作或专门截止。高中阶段申请者应另查父学位BCom正式入学与该年度申请条件，不能把在校专项选课当作独立本科录取。",
+            "source_ids": [
+              "melcom-bcom-structure",
+              "melcom-choosing-major"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "仅承载学位2027国际费参考",
+            "text": "BCom国际生2027首年指示学费AUD56,451–62,464；全课程指示总额AUD180,714–200,139。全课程估算假设所列年份第一学期开始、每年1 EFTSL并计估计涨幅。这些是整个BCom的估算，不是本25学分专项报价，不能直接按四分之一折算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "按实际科目计费及其他费用",
+            "text": "国际学费按具体科目的学科费率与学分计算，并每年复核；选课后金额可能不同。签证学生另须安排OSHC。本轮未取得本专项完整科目组合及适用修读年的逐科费用，亦未核完整生活预算。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          },
+          {
+            "label": "奖学金范围",
+            "text": "BCom费用页提供校级和学院奖学金入口，部分奖项限特定国家、合作院校或本地身份。不能由选择此专项推定获得资助；本轮未取得本专项独立奖项、大陆学生资格与截止。",
+            "source_ids": [
+              "melcom-bcom-international-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "母主修职业方向与专项统计边界",
+            "text": "精算主修页面列保险、资本与风险管理、数据科学和养老金等领域，并明确成为精算师须满足专业机构考试或豁免等后续条件。完成25学分专项本身不等于完成职业注册。 本轮未取得本专项按毕业届次、国际生或中国学生身份、响应样本及分母定义的就业率或薪酬统计。",
+            "source_ids": [
+              "melcom-actuarial-studies-careers"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melcom-bcom-structure",
+          "title": "Bachelor of Commerce — 十项专项及七主修关系",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "BCom学位内专项的10名称、可入主修、从2026起25 Level3学分；不是2027完整科目规章",
+          "sha256": "b0d8e752dab19d15f462dab3c889f5d55bba0b10c08a4af9879bc176c590a027",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-actuarial-studies-structure",
+          "title": "actuarial-studies — 公开主修结构与课程说明",
+          "url": "https://study.unimelb.edu.au/find/courses/major/actuarial-studies/structure/",
+          "checked_at": "2026-09-13",
+          "supports": "可入专项、父主修课程池与大学阶段课程顺序；未据此认定专项规定组合",
+          "sha256": "5dfb142ead0ac2cb8842cdfd329bdd2110e068583497432447fe0c9468a2e7c4",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-bcom-international-fees",
+          "title": "Bachelor of Commerce — 2027国际学费实际视图",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/fees/",
+          "checked_at": "2026-09-13",
+          "supports": "父学位2027首年和全课程指示学费、按科目收费、OSHC与奖学金入口；非25学分专项报价",
+          "sha256": "20023625ee1488434a7c035b18d5dfbc8705675af4c07336c234e4ac97a10e33",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-choosing-major",
+          "title": "Choosing your major — 在校学习计划",
+          "url": "https://students.unimelb.edu.au/course-admin/planning-your-course-and-subjects/choosing-your-major",
+          "checked_at": "2026-09-13",
+          "supports": "major和specialisation定义、大学阶段申报与逐科先修；不是10专项的单独截止表",
+          "sha256": "73feed0ca1423d54b4529be04faa1757facfdda0f78e6d9844b7f440ab00b1ce",
+          "capture_format": "chrome_public_main_dom"
+        },
+        {
+          "id": "melcom-coursework-language",
+          "title": "Evidence of Enrolment — 授课语言说明",
+          "url": "https://students.unimelb.edu.au/course-admin/academic-transcripts-and-statements/evidence-of-enrolment",
+          "checked_at": "2026-09-13",
+          "supports": "授课型学生在读证明注明教学语言英语；用于承载BCom的共享语言范围",
+          "sha256": "3cf027a232e661cbeeaf168a7ad6c8b4fe135a9facb09177f45743c8ad418c84",
+          "capture_format": "chrome_public_expanded_dom"
+        },
+        {
+          "id": "melcom-actuarial-studies-careers",
+          "title": "actuarial-studies — Career outcomes",
+          "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/actuarial-studies/career-outcomes/",
+          "checked_at": "2026-09-13",
+          "supports": "所列母学位或主修职业方向和注册边界；没有专项独立毕业统计",
+          "sha256": "813b4ef446fef4fac25180f4e6db8af319c5b01390bb982eeb4f909f2954c0be",
+          "capture_format": "public_http_html"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "精算风险管理专项",
+        "duration": "25学分（Level 3；主修内部）",
+        "campus": "Parkville",
+        "language": "英语（BCom授课型课程共用说明）",
+        "intake": "官网称从2026起；2027专项课程表未核",
+        "entry_summary": "商科学士在校选课路径；可入主修：精算。",
+        "tuition_label": "承载BCom学位费用参考",
+        "tuition_summary": "2027 BCom首年AUD56,451–62,464；非25学分专项价",
+        "outcomes_summary": "仅母主修职业方向；专项独立毕业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": false,
+        "parent_major_course_context": true,
+        "specialisation_identity": true,
+        "entry_conditions": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": false,
+        "parent_major_career_context": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "已核专项真实身份、25学分、可入主修；未取得专项规定科目组合。",
+        "课程说明为已读父主修课程示例，不宣称已完成专项逐科规章核验。",
+        "从2026起不自动认定已核2027专项开课；费用明确仅对应2027父学位。"
+      ],
+      "translation_status": "人工阅读公开课程池和实际国际费视图；父层事实与专项缺口分开"
     }
   ],
   "profile": {

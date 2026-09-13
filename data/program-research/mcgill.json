@@ -21072,13 +21072,16 @@
       "inventory_id": "mcgill-honours-law-b-c-l-j-d-149242ac55",
       "name_en": "Honours Law (B.C.L./J.D.)",
       "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/honours-law-bcl-jd/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "research_status": "partially_verified",
       "display_fields": {
-        "name": "法律双学位（荣誉）",
-        "entry_summary": "大学阶段后申请BCL/JD；须英法双语，普通中国高中不直接进入。",
-        "intake": "2027",
-        "tuition_summary": "2026/27参考 CAD 65,167.50／秋冬30学分"
+        "name": "法律双学位荣誉方向（BCL/JD Honours）",
+        "entry_summary": "基础BCL/JD在读四学期后申请荣誉；最低法律CGPA3.0，须研究计划及导师，非高中直申。",
+        "intake": "2027（BCL/JD入口）；方向另需在读申请",
+        "tuition_summary": "2026/27参考 CAD 65,167.50／秋冬30学分",
+        "duration": "通常4年（含额外荣誉／主修学分）",
+        "language": "英语与法语双语",
+        "outcomes_summary": "BCL/JD整体定性去向；本路线独立毕业统计未取得"
       },
       "sections": {
         "overview": [
@@ -21091,9 +21094,39 @@
           },
           {
             "label": "专业学分与学位结构",
-            "text": "校历标注本专业／方向权重120学分；该数字可能仅对应主修、荣誉或专项组件，完整学位、基础年及其他必修要求还须同时满足。标题与正文出现不同数字时，以上方说明所列差异为准。",
+            "text": "2026–2027校历的120学分是这条BCL/JD路线的完整毕业总量。在基础105学分之外增加15学分荣誉论文；不是单独120学分的主修组件。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "前两年必修与跨法系学习",
+            "text": "2026–2027校历：一年级33学分含合同、侵权、刑事司法各6，原住民法律传统3、整合研习3、宪法6及法律基础3；二年级13学分为法律伦理3、财产法6、司法制度与民事程序4。一年级以后再修1学分Advocacy。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "指定选修与研究写作",
+            "text": "指定范围选修共12学分，分民法沉浸、普通法沉浸、社会多样性／人权／原住民法及加拿大行政法原则四组，各至少按该组3学分要求选课；另有46学分其他选修。须完成至少一篇独立研究论文，可用占该课总评至少75%的论文、法学院内经独立指导的学分论文，或已在McGill Law Journal发表／获接收且内容相当的文章、评注等满足；期刊路径须经该刊Faculty Adviser批准，不能泛指任意法律期刊。合写论文不满足此最低写作要求。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "荣誉论文与阶段安排",
+            "text": "荣誉部分为WRIT450（3学分）、WRIT451（6）和WRIT452（6）。SAO说明通常三年级秋季申请，三年级冬／夏修第一阶段，四年级秋冬修第二、三阶段；论文约30,000–35,000词（含脚注及参考文献），由导师与另一评审按Pass/Fail评定，完成标准为具发表质量的实质研究。",
+            "source_ids": [
+              "law22-student-affairs",
+              "program"
+            ]
+          },
+          {
+            "label": "学位层级与通常用时",
+            "text": "BCL/JD将民法、普通法与原住民法律传统纳入整合法律培养，并同时授予BCL及JD；当前学院说明多数学生3或3.5年完成基础路线，修读额外主修／荣誉通常使整个路线达到4年。这里的用时不是仅修主修组件或论文的独立学制，也不代表2027新生具体排课已全部确定。",
+            "source_ids": [
+              "law22-honours-majors",
+              "law22-program-description"
             ]
           }
         ],
@@ -21118,6 +21151,35 @@
             "source_ids": [
               "law"
             ]
+          },
+          {
+            "label": "荣誉选拔与持续成绩要求",
+            "text": "完成法学院两年全日制学习／四学期后方可申请；法律CGPA最低3.00且须持续保持。达到最低分不自动录取，还看学业记录、研究计划与导师资源。须与本院教师拟定约1,200词研究计划，由SAO审批；名额受指导资源限制。",
+            "source_ids": [
+              "law22-student-affairs",
+              "law22-honours-majors"
+            ]
+          },
+          {
+            "label": "法语不能由英语成绩替代",
+            "text": "C1／B2指两种语言分别达到的能力；几乎所有一年级学生至少有一门法语授课，阅读及考题也可能含两种语言。作业、讨论、考试和口头辩护可用英语或法语，但不能据此免除理解另一种语言的要求。",
+            "source_ids": [
+              "law22-eligibility"
+            ]
+          },
+          {
+            "label": "双语材料及期限",
+            "text": "无豁免者可按官网列明的路径提交成绩单、语言课程或认可测试证明。例如法语认可测试须在申请日前三年内达到B2书面及口头理解；已在修课或待成绩的申请人仍须补交结果。英语路径可包括IB Group1 English至少5，或规定的GCSE／IGCSE／GCE O-Level英语至少B／5；这些仅证明英语能力，不使境外高中申请人满足大学学习资格，也不直接证明所有C1要求。官网未给统一可替换的IELTS分数。",
+            "source_ids": [
+              "law22-eligibility"
+            ]
+          },
+          {
+            "label": "LSAT非必考但必须如实申报",
+            "text": "麦吉尔不强制LSAT；已参加或计划参加者须申报所有场次、LSAC识别号并授权调取成绩，即使成绩不利也不能隐瞒。多次考试取平均；所有待出LSAT结果到齐才审理。官网建议最迟在申请入学前一年的11月考试，1月考试可能因滚动录取而较晚获得审理。",
+            "source_ids": [
+              "law22-lsat"
+            ]
           }
         ],
         "applications": [
@@ -21125,6 +21187,42 @@
             "label": "2027大学类别日程",
             "text": "2026年9月15日开放，普通University／Mature类别申请截至2026年11月1日、材料11月8日。Advanced Standing等类别材料另有日期；以上不是所有类别统一窗口。",
             "source_ids": [
+              "law-dates"
+            ]
+          },
+          {
+            "label": "荣誉在读申请与进度",
+            "text": "向SAO提交签署的Honours申请表；WRIT450及451各学期结束须由学生和导师提交进度报告，论文须在第四学年结束前按当年截止提交。当前页面课程开设列到Summer/Fall2026及Winter2027，不代表2027新生数年后的排课已确定。",
+            "source_ids": [
+              "law22-student-affairs"
+            ]
+          },
+          {
+            "label": "申请材料及翻译",
+            "text": "一般University／Mature类别需全部高等教育成绩单、最多750词个人陈述、最多2页CV、英法语言证明和两份推荐。非英法文成绩单须附学校出具或认证翻译员提供的英／法译文；初审上传成绩单，获录后按要求提交并核实正式件。",
+            "source_ids": [
+              "law22-supporting-documents"
+            ]
+          },
+          {
+            "label": "个人陈述与推荐提交",
+            "text": "个人陈述末尾注明词数、每页右上角署名；CV与陈述仅接受一版，重新申请须更新。推荐人通过系统邮件指引直接提交，学校不接受额外第三封；通常优先熟悉学术能力的教师，无法取得时可选能评价相关能力的主管。须使用机构／公司邮箱，公开邮箱不视为正式推荐。",
+            "source_ids": [
+              "law22-supporting-documents"
+            ]
+          },
+          {
+            "label": "在线申请与审理",
+            "text": "使用麦吉尔Applicant Portal并持续查看清单；当前申请过程页列不可退申请费CAD136.08，未将其声称为锁定2027费率。材料不齐可取消申请，仅待LSAT成绩有专门例外。University类别不是人人必须面试；学校可按个案要求，候补无排序，最终候补决定可能持续到8月底。",
+            "source_ids": [
+              "law22-application-process"
+            ]
+          },
+          {
+            "label": "已有法律学位者的另一路径",
+            "text": "已完成获麦吉尔认可的加拿大或海外法律学位者可核Advanced Standing类别，不能自动按普通转学生抵学分；获录仍须在麦吉尔完成至少75学分，不能只取BCL或只取JD。2027指南列该类别申请2026年11月1日、材料2027年1月15日；交换、访学及等值课程等另有不授BCL/JD的类别。",
+            "source_ids": [
+              "law22-applicant-categories",
               "law-dates"
             ]
           }
@@ -21135,6 +21233,30 @@
             "text": "秋冬30学分参考年：教学学费CAD 65,167.50，加表列强制附加费合计CAD 69,010.80。不含生活费，不是2027/28报价。按实际注册学分、学位与适用新生档核定；小于30学分的专项组件不据此作为完整一年或整项目报价。",
             "source_ids": [
               "fee-87"
+            ]
+          },
+          {
+            "label": "国际生费用表的适用档",
+            "text": "本轮再次核表：2026/27学年、2026年首次入学、秋冬30学分，学费CAD65,167.50；表列总额CAD69,010.80含国际医疗保险CAD1,212和牙科保险CAD150等。2025及更早入学档金额不同；附加费中有按年收取项目，不把该总额按学分简单等比例推算成荣誉／主修加修或整个学位费用。",
+            "source_ids": [
+              "law22-international-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向与统计边界",
+            "text": "BCL/JD学院介绍列律师事务所、企业法务、公共服务、国际争议处理和学术研究等去向；实践页有毕业生进入加拿大最高法院、联邦及省法院担任clerk的例子。以上是整个BCL/JD的定性介绍，未提供本路线／主修独立毕业年份、样本数、国际生分母、就业率或起薪；不能由个别校友经历推算录取或就业概率。",
+            "source_ids": [
+              "law22-program-description",
+              "law22-beyond-classroom"
+            ]
+          },
+          {
+            "label": "实践机会及职业支持",
+            "text": "BCL/JD可接触模拟法庭、法律诊所、学术期刊和法院实践；高年级学生clerkship须选拔，页面写每学期至少100小时，不能与主修必修的200小时实习混作一项。职业办公室从一年级提供规划、信息及联络活动；这些机会和双学位不等于自动获得岗位或执业资格。",
+            "source_ids": [
+              "law22-beyond-classroom"
             ]
           }
         ]
@@ -21171,13 +21293,104 @@
           "checked_at": "2026-09-12",
           "supports": "Fall2026新生学费与强制附加费；其他学生档不混用",
           "sha256": "33baa9ec6d8e7e03175bd84a07506da65add2083db3f377fd2c0d9f5f31e57ca"
+        },
+        {
+          "id": "law22-eligibility",
+          "title": "McGill BCL/JD 学历与双语资格（本轮复核）",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/eligibility",
+          "checked_at": "2026-09-13",
+          "supports": "大学阶段资格、英法双语的课堂与证明方式；2025入学样本不是录取门槛",
+          "sha256": "c173b8cc3c36d478f3649be6f903cd584993cc6e866600efb61caa322ced872b"
+        },
+        {
+          "id": "law22-lsat",
+          "title": "McGill BCL/JD：LSAT 安排",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/lsat",
+          "checked_at": "2026-09-13",
+          "supports": "非强制考试，但已考或拟考必须申报；多次成绩、结果取得及审理顺序",
+          "sha256": "c42bfc7b032cafc193a52f845f927088f19832a707c42788d87b870bc0b14674"
+        },
+        {
+          "id": "law22-application-process",
+          "title": "McGill BCL/JD 申请过程",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/application-process",
+          "checked_at": "2026-09-13",
+          "supports": "在线申请、当前申请费、材料清单、面试类别和候补安排",
+          "sha256": "e48dcf96aba4ec7ce91fa889c7744d8ced8b76d1989f5d0ed738c597fde541d7"
+        },
+        {
+          "id": "law22-supporting-documents",
+          "title": "McGill BCL/JD 支持材料",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/supporting-documents",
+          "checked_at": "2026-09-13",
+          "supports": "成绩单与翻译、个人陈述、简历、两份推荐及申请平台要求",
+          "sha256": "3fccbb6a92f58b1e904841ba17e245cfeddeecc2ea75290f6485260f86d38cbc"
+        },
+        {
+          "id": "law22-applicant-categories",
+          "title": "McGill BCL/JD 申请类别",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/applicant-categories",
+          "checked_at": "2026-09-13",
+          "supports": "University与Mature、已有法律学位的Advanced Standing及非授位类别边界",
+          "sha256": "ad62413a3a2e2cf07411ea7fd14a804c86a6c1b42f57c99d85b13221e1709351"
+        },
+        {
+          "id": "law22-honours-majors",
+          "title": "McGill BCL/JD：主修及荣誉方向",
+          "url": "https://www.mcgill.ca/law/bcl-jd/program-description/minors-majors-and-honours",
+          "checked_at": "2026-09-13",
+          "supports": "基础双学位常见完成时间；学位内主修与荣誉身份及额外学分",
+          "sha256": "f4698f8841d715d1d013129bb4486ae71c1cdfc0b3f4bda904e3c227ed09560f"
+        },
+        {
+          "id": "law22-international-fees",
+          "title": "McGill 2026/27 BCL/JD 国际学生费用表（本轮复核）",
+          "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=87&field_fee_residency_status_tid=141",
+          "checked_at": "2026-09-13",
+          "supports": "2026入学档、秋冬30学分的教学学费与逐项附加费；不等于2027入学报价",
+          "sha256": "804d6a43e0675b212a1693dc0c4bd7aecdb635df14500252a3ab432e5ddcdfcc"
+        },
+        {
+          "id": "law22-program-description",
+          "title": "McGill BCL/JD 培养与职业方向",
+          "url": "https://www.mcgill.ca/law/bcl-jd/program-description",
+          "checked_at": "2026-09-13",
+          "supports": "同时授予BCL和JD、民法普通法及原住民法律传统；法学院定性职业方向",
+          "sha256": "0ec703a22555b9e2ee323cd2a8ad41550c204c5387d04ffcc034092a25dda2e9"
+        },
+        {
+          "id": "law22-beyond-classroom",
+          "title": "McGill BCL/JD 课堂外学习及职业支持",
+          "url": "https://www.mcgill.ca/law/bcl-jd/program-description/beyond-classroom",
+          "checked_at": "2026-09-13",
+          "supports": "须选拔的实践、毕业生clerkship例子及职业服务；无专项就业统计",
+          "sha256": "51fce784fa6fee4f3078df4fdc1b9ea6f5e4540ef60c54c77aeced5eab1ff266"
+        },
+        {
+          "id": "law22-student-affairs",
+          "title": "McGill 法律学生事务：主修及荣誉",
+          "url": "https://www.mcgill.ca/law-studies/node/36/MINOR",
+          "checked_at": "2026-09-13",
+          "supports": "当前在读申请CGPA、36学分主修与200小时实习；荣誉研究计划和论文进度",
+          "sha256": "022103c425c08c08f0d10bb85ae76f8e31b0ae9d27fe0c9c8e3186758a185c8a"
         }
       ],
       "excluded_school_sections": [
+        "overview",
         "admissions",
         "applications",
-        "fees"
-      ]
+        "fees",
+        "outcomes"
+      ],
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_requirements": true,
+        "application_process": true,
+        "fee_amount": true,
+        "fee_period": "2026/27 first enrolled Fall2026, Fall/Winter30credits",
+        "outcome_statistics": false,
+        "year_specific_module_schedule_2027": false
+      }
     },
     {
       "university_id": "mcgill",
@@ -21185,13 +21398,16 @@
       "inventory_id": "mcgill-law-b-c-l-j-d-b0a33c83e9",
       "name_en": "Law (B.C.L./J.D.)",
       "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/law-bcl-jd/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "research_status": "partially_verified",
       "display_fields": {
         "name": "法律双学位（BCL/JD）",
-        "entry_summary": "大学阶段后申请BCL/JD；须英法双语，普通中国高中不直接进入。",
+        "entry_summary": "大学阶段后申请BCL/JD；一般类别最低60学分且无学位者极少录取，须英法双语，非高中直申。",
         "intake": "2027",
-        "tuition_summary": "2026/27参考 CAD 65,167.50／秋冬30学分"
+        "tuition_summary": "2026/27参考 CAD 65,167.50／秋冬30学分",
+        "duration": "多数学生3或3.5年完成基础BCL/JD",
+        "language": "英语与法语双语",
+        "outcomes_summary": "BCL/JD整体定性去向；本路线独立毕业统计未取得"
       },
       "sections": {
         "overview": [
@@ -21204,9 +21420,31 @@
           },
           {
             "label": "专业学分与学位结构",
-            "text": "校历标注本专业／方向权重105学分；该数字可能仅对应主修、荣誉或专项组件，完整学位、基础年及其他必修要求还须同时满足。标题与正文出现不同数字时，以上方说明所列差异为准。",
+            "text": "2026–2027校历的105学分是这条BCL/JD路线的完整毕业总量。基础路线为47学分必修、12学分指定范围选修和46学分其他选修，共105学分，同时获得BCL与JD。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "前两年必修与跨法系学习",
+            "text": "2026–2027校历：一年级33学分含合同、侵权、刑事司法各6，原住民法律传统3、整合研习3、宪法6及法律基础3；二年级13学分为法律伦理3、财产法6、司法制度与民事程序4。一年级以后再修1学分Advocacy。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "指定选修与研究写作",
+            "text": "指定范围选修共12学分，分民法沉浸、普通法沉浸、社会多样性／人权／原住民法及加拿大行政法原则四组，各至少按该组3学分要求选课；另有46学分其他选修。须完成至少一篇独立研究论文，可用占该课总评至少75%的论文、法学院内经独立指导的学分论文，或已在McGill Law Journal发表／获接收且内容相当的文章、评注等满足；期刊路径须经该刊Faculty Adviser批准，不能泛指任意法律期刊。合写论文不满足此最低写作要求。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "学位层级与通常用时",
+            "text": "BCL/JD将民法、普通法与原住民法律传统纳入整合法律培养，并同时授予BCL及JD；当前学院说明多数学生3或3.5年完成基础路线，修读额外主修／荣誉通常使整个路线达到4年。这里的用时不是仅修主修组件或论文的独立学制，也不代表2027新生具体排课已全部确定。",
+            "source_ids": [
+              "law22-honours-majors",
+              "law22-program-description"
             ]
           }
         ],
@@ -21224,6 +21462,27 @@
             "source_ids": [
               "law"
             ]
+          },
+          {
+            "label": "法语不能由英语成绩替代",
+            "text": "C1／B2指两种语言分别达到的能力；几乎所有一年级学生至少有一门法语授课，阅读及考题也可能含两种语言。作业、讨论、考试和口头辩护可用英语或法语，但不能据此免除理解另一种语言的要求。",
+            "source_ids": [
+              "law22-eligibility"
+            ]
+          },
+          {
+            "label": "双语材料及期限",
+            "text": "无豁免者可按官网列明的路径提交成绩单、语言课程或认可测试证明。例如法语认可测试须在申请日前三年内达到B2书面及口头理解；已在修课或待成绩的申请人仍须补交结果。英语路径可包括IB Group1 English至少5，或规定的GCSE／IGCSE／GCE O-Level英语至少B／5；这些仅证明英语能力，不使境外高中申请人满足大学学习资格，也不直接证明所有C1要求。官网未给统一可替换的IELTS分数。",
+            "source_ids": [
+              "law22-eligibility"
+            ]
+          },
+          {
+            "label": "LSAT非必考但必须如实申报",
+            "text": "麦吉尔不强制LSAT；已参加或计划参加者须申报所有场次、LSAC识别号并授权调取成绩，即使成绩不利也不能隐瞒。多次考试取平均；所有待出LSAT结果到齐才审理。官网建议最迟在申请入学前一年的11月考试，1月考试可能因滚动录取而较晚获得审理。",
+            "source_ids": [
+              "law22-lsat"
+            ]
           }
         ],
         "applications": [
@@ -21231,6 +21490,35 @@
             "label": "2027大学类别日程",
             "text": "2026年9月15日开放，普通University／Mature类别申请截至2026年11月1日、材料11月8日。Advanced Standing等类别材料另有日期；以上不是所有类别统一窗口。",
             "source_ids": [
+              "law-dates"
+            ]
+          },
+          {
+            "label": "申请材料及翻译",
+            "text": "一般University／Mature类别需全部高等教育成绩单、最多750词个人陈述、最多2页CV、英法语言证明和两份推荐。非英法文成绩单须附学校出具或认证翻译员提供的英／法译文；初审上传成绩单，获录后按要求提交并核实正式件。",
+            "source_ids": [
+              "law22-supporting-documents"
+            ]
+          },
+          {
+            "label": "个人陈述与推荐提交",
+            "text": "个人陈述末尾注明词数、每页右上角署名；CV与陈述仅接受一版，重新申请须更新。推荐人通过系统邮件指引直接提交，学校不接受额外第三封；通常优先熟悉学术能力的教师，无法取得时可选能评价相关能力的主管。须使用机构／公司邮箱，公开邮箱不视为正式推荐。",
+            "source_ids": [
+              "law22-supporting-documents"
+            ]
+          },
+          {
+            "label": "在线申请与审理",
+            "text": "使用麦吉尔Applicant Portal并持续查看清单；当前申请过程页列不可退申请费CAD136.08，未将其声称为锁定2027费率。材料不齐可取消申请，仅待LSAT成绩有专门例外。University类别不是人人必须面试；学校可按个案要求，候补无排序，最终候补决定可能持续到8月底。",
+            "source_ids": [
+              "law22-application-process"
+            ]
+          },
+          {
+            "label": "已有法律学位者的另一路径",
+            "text": "已完成获麦吉尔认可的加拿大或海外法律学位者可核Advanced Standing类别，不能自动按普通转学生抵学分；获录仍须在麦吉尔完成至少75学分，不能只取BCL或只取JD。2027指南列该类别申请2026年11月1日、材料2027年1月15日；交换、访学及等值课程等另有不授BCL/JD的类别。",
+            "source_ids": [
+              "law22-applicant-categories",
               "law-dates"
             ]
           }
@@ -21241,6 +21529,30 @@
             "text": "秋冬30学分参考年：教学学费CAD 65,167.50，加表列强制附加费合计CAD 69,010.80。不含生活费，不是2027/28报价。按实际注册学分、学位与适用新生档核定；小于30学分的专项组件不据此作为完整一年或整项目报价。",
             "source_ids": [
               "fee-87"
+            ]
+          },
+          {
+            "label": "国际生费用表的适用档",
+            "text": "本轮再次核表：2026/27学年、2026年首次入学、秋冬30学分，学费CAD65,167.50；表列总额CAD69,010.80含国际医疗保险CAD1,212和牙科保险CAD150等。2025及更早入学档金额不同；附加费中有按年收取项目，不把该总额按学分简单等比例推算成荣誉／主修加修或整个学位费用。",
+            "source_ids": [
+              "law22-international-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向与统计边界",
+            "text": "BCL/JD学院介绍列律师事务所、企业法务、公共服务、国际争议处理和学术研究等去向；实践页有毕业生进入加拿大最高法院、联邦及省法院担任clerk的例子。以上是整个BCL/JD的定性介绍，未提供本路线／主修独立毕业年份、样本数、国际生分母、就业率或起薪；不能由个别校友经历推算录取或就业概率。",
+            "source_ids": [
+              "law22-program-description",
+              "law22-beyond-classroom"
+            ]
+          },
+          {
+            "label": "实践机会及职业支持",
+            "text": "BCL/JD可接触模拟法庭、法律诊所、学术期刊和法院实践；高年级学生clerkship须选拔，页面写每学期至少100小时，不能与主修必修的200小时实习混作一项。职业办公室从一年级提供规划、信息及联络活动；这些机会和双学位不等于自动获得岗位或执业资格。",
+            "source_ids": [
+              "law22-beyond-classroom"
             ]
           }
         ]
@@ -21277,13 +21589,96 @@
           "checked_at": "2026-09-12",
           "supports": "Fall2026新生学费与强制附加费；其他学生档不混用",
           "sha256": "33baa9ec6d8e7e03175bd84a07506da65add2083db3f377fd2c0d9f5f31e57ca"
+        },
+        {
+          "id": "law22-eligibility",
+          "title": "McGill BCL/JD 学历与双语资格（本轮复核）",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/eligibility",
+          "checked_at": "2026-09-13",
+          "supports": "大学阶段资格、英法双语的课堂与证明方式；2025入学样本不是录取门槛",
+          "sha256": "c173b8cc3c36d478f3649be6f903cd584993cc6e866600efb61caa322ced872b"
+        },
+        {
+          "id": "law22-lsat",
+          "title": "McGill BCL/JD：LSAT 安排",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/lsat",
+          "checked_at": "2026-09-13",
+          "supports": "非强制考试，但已考或拟考必须申报；多次成绩、结果取得及审理顺序",
+          "sha256": "c42bfc7b032cafc193a52f845f927088f19832a707c42788d87b870bc0b14674"
+        },
+        {
+          "id": "law22-application-process",
+          "title": "McGill BCL/JD 申请过程",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/application-process",
+          "checked_at": "2026-09-13",
+          "supports": "在线申请、当前申请费、材料清单、面试类别和候补安排",
+          "sha256": "e48dcf96aba4ec7ce91fa889c7744d8ced8b76d1989f5d0ed738c597fde541d7"
+        },
+        {
+          "id": "law22-supporting-documents",
+          "title": "McGill BCL/JD 支持材料",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/supporting-documents",
+          "checked_at": "2026-09-13",
+          "supports": "成绩单与翻译、个人陈述、简历、两份推荐及申请平台要求",
+          "sha256": "3fccbb6a92f58b1e904841ba17e245cfeddeecc2ea75290f6485260f86d38cbc"
+        },
+        {
+          "id": "law22-applicant-categories",
+          "title": "McGill BCL/JD 申请类别",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/applicant-categories",
+          "checked_at": "2026-09-13",
+          "supports": "University与Mature、已有法律学位的Advanced Standing及非授位类别边界",
+          "sha256": "ad62413a3a2e2cf07411ea7fd14a804c86a6c1b42f57c99d85b13221e1709351"
+        },
+        {
+          "id": "law22-honours-majors",
+          "title": "McGill BCL/JD：主修及荣誉方向",
+          "url": "https://www.mcgill.ca/law/bcl-jd/program-description/minors-majors-and-honours",
+          "checked_at": "2026-09-13",
+          "supports": "基础双学位常见完成时间；学位内主修与荣誉身份及额外学分",
+          "sha256": "f4698f8841d715d1d013129bb4486ae71c1cdfc0b3f4bda904e3c227ed09560f"
+        },
+        {
+          "id": "law22-international-fees",
+          "title": "McGill 2026/27 BCL/JD 国际学生费用表（本轮复核）",
+          "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=87&field_fee_residency_status_tid=141",
+          "checked_at": "2026-09-13",
+          "supports": "2026入学档、秋冬30学分的教学学费与逐项附加费；不等于2027入学报价",
+          "sha256": "804d6a43e0675b212a1693dc0c4bd7aecdb635df14500252a3ab432e5ddcdfcc"
+        },
+        {
+          "id": "law22-program-description",
+          "title": "McGill BCL/JD 培养与职业方向",
+          "url": "https://www.mcgill.ca/law/bcl-jd/program-description",
+          "checked_at": "2026-09-13",
+          "supports": "同时授予BCL和JD、民法普通法及原住民法律传统；法学院定性职业方向",
+          "sha256": "0ec703a22555b9e2ee323cd2a8ad41550c204c5387d04ffcc034092a25dda2e9"
+        },
+        {
+          "id": "law22-beyond-classroom",
+          "title": "McGill BCL/JD 课堂外学习及职业支持",
+          "url": "https://www.mcgill.ca/law/bcl-jd/program-description/beyond-classroom",
+          "checked_at": "2026-09-13",
+          "supports": "须选拔的实践、毕业生clerkship例子及职业服务；无专项就业统计",
+          "sha256": "51fce784fa6fee4f3078df4fdc1b9ea6f5e4540ef60c54c77aeced5eab1ff266"
         }
       ],
       "excluded_school_sections": [
+        "overview",
         "admissions",
         "applications",
-        "fees"
-      ]
+        "fees",
+        "outcomes"
+      ],
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_requirements": true,
+        "application_process": true,
+        "fee_amount": true,
+        "fee_period": "2026/27 first enrolled Fall2026, Fall/Winter30credits",
+        "outcome_statistics": false,
+        "year_specific_module_schedule_2027": false
+      }
     },
     {
       "university_id": "mcgill",
@@ -21291,13 +21686,16 @@
       "inventory_id": "mcgill-major-concentration-law-with-major-concentration-commercial-negot-b881181e53",
       "name_en": "Major Concentration Law with Major Concentration Commercial Negotiation and Dispute Resolution (B.C.L./J.D.)",
       "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/major-concentration-law-commercial-negotiation-dispute-resolution-bcl-jd/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "research_status": "partially_verified",
       "display_fields": {
-        "name": "法律—商业谈判与争议解决",
-        "entry_summary": "大学阶段后申请BCL/JD；须英法双语，普通中国高中不直接进入。",
-        "intake": "2027",
-        "tuition_summary": "2026/27参考 CAD 65,167.50／秋冬30学分"
+        "name": "法律双学位：商业谈判与争议解决主修",
+        "entry_summary": "BCL/JD在读两个学期后申报商业谈判与争议解决主修；CGPA至少2.70并须保持，非高中直申。",
+        "intake": "2027（BCL/JD入口）；方向另需在读申请",
+        "tuition_summary": "2026/27参考 CAD 65,167.50／秋冬30学分",
+        "duration": "通常4年（含额外荣誉／主修学分）",
+        "language": "英语与法语双语",
+        "outcomes_summary": "BCL/JD整体定性去向；本路线独立毕业统计未取得"
       },
       "sections": {
         "overview": [
@@ -21310,9 +21708,47 @@
           },
           {
             "label": "专业学分与学位结构",
-            "text": "校历标注本专业／方向权重123学分；该数字可能仅对应主修、荣誉或专项组件，完整学位、基础年及其他必修要求还须同时满足。标题与正文出现不同数字时，以上方说明所列差异为准。",
+            "text": "2026–2027校历的123学分是这条BCL/JD路线的完整毕业总量。主修组件36学分，其中18计入基础105学分，另外18增加到学位总量，合计123；不得计算成105＋36，也不是独立的36学分学位。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "主修课程分配与论文",
+            "text": "36学分包括6学分WRIT300D1/D2实习及30学分配套课程；后者含3学分主题论文和27学分课程，课程分法律15–21、非法律6–12。全BCL/JD非法律课最多12学分：本主修已用6／9／12时，其余学位最多再用6／3／0。主题论文通常四年级冬季完成并须副院长批准。",
+            "source_ids": [
+              "program",
+              "law22-student-affairs"
+            ]
+          },
+          {
+            "label": "主修选修内容",
+            "text": "法律选项涵盖破产与清算、公司融资与治理、证券、争议解决、国际贸易、劳动及税务；非法律选项包括经济学、管理及政治学中的贸易、产业组织、博弈、会计、谈判等。须从该主修批准清单选课，不能仅凭相似名称替代。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "实习的实际工作量",
+            "text": "主修实习为无薪6学分、200小时，须在相应领域律师指导下完成；通常最后学年秋冬、冬夏或夏季安排。若提前到三年级夏季，须已完成至少24个主修学分；至少提前一学期联系SAO协助找岗位。安排或资助并非自动保证。",
+            "source_ids": [
+              "law22-student-affairs"
+            ]
+          },
+          {
+            "label": "论文代码的官网差异",
+            "text": "2026–2027主修校历列WRIT491–495，当前SAO页面另列WRIT496；本次保留两者差异，选课前由SAO确认496是否适用本届、本方向，未将其直接加入已确定选修清单。",
+            "source_ids": [
+              "program",
+              "law22-student-affairs"
+            ]
+          },
+          {
+            "label": "学位层级与通常用时",
+            "text": "BCL/JD将民法、普通法与原住民法律传统纳入整合法律培养，并同时授予BCL及JD；当前学院说明多数学生3或3.5年完成基础路线，修读额外主修／荣誉通常使整个路线达到4年。这里的用时不是仅修主修组件或论文的独立学制，也不代表2027新生具体排课已全部确定。",
+            "source_ids": [
+              "law22-honours-majors",
+              "law22-program-description"
             ]
           }
         ],
@@ -21337,6 +21773,34 @@
             "source_ids": [
               "law"
             ]
+          },
+          {
+            "label": "主修在读申请及维持条件",
+            "text": "须已在法学院完成两个学期、CGPA至少2.70，并持续保持2.70；最迟在第三年注册截止前申报。SAO待此前学期最终成绩齐全后决定；并非以高考成绩直接申请的独立本科。",
+            "source_ids": [
+              "law22-student-affairs"
+            ]
+          },
+          {
+            "label": "法语不能由英语成绩替代",
+            "text": "C1／B2指两种语言分别达到的能力；几乎所有一年级学生至少有一门法语授课，阅读及考题也可能含两种语言。作业、讨论、考试和口头辩护可用英语或法语，但不能据此免除理解另一种语言的要求。",
+            "source_ids": [
+              "law22-eligibility"
+            ]
+          },
+          {
+            "label": "双语材料及期限",
+            "text": "无豁免者可按官网列明的路径提交成绩单、语言课程或认可测试证明。例如法语认可测试须在申请日前三年内达到B2书面及口头理解；已在修课或待成绩的申请人仍须补交结果。英语路径可包括IB Group1 English至少5，或规定的GCSE／IGCSE／GCE O-Level英语至少B／5；这些仅证明英语能力，不使境外高中申请人满足大学学习资格，也不直接证明所有C1要求。官网未给统一可替换的IELTS分数。",
+            "source_ids": [
+              "law22-eligibility"
+            ]
+          },
+          {
+            "label": "LSAT非必考但必须如实申报",
+            "text": "麦吉尔不强制LSAT；已参加或计划参加者须申报所有场次、LSAC识别号并授权调取成绩，即使成绩不利也不能隐瞒。多次考试取平均；所有待出LSAT结果到齐才审理。官网建议最迟在申请入学前一年的11月考试，1月考试可能因滚动录取而较晚获得审理。",
+            "source_ids": [
+              "law22-lsat"
+            ]
           }
         ],
         "applications": [
@@ -21344,6 +21808,42 @@
             "label": "2027大学类别日程",
             "text": "2026年9月15日开放，普通University／Mature类别申请截至2026年11月1日、材料11月8日。Advanced Standing等类别材料另有日期；以上不是所有类别统一窗口。",
             "source_ids": [
+              "law-dates"
+            ]
+          },
+          {
+            "label": "申报主修与实习安排",
+            "text": "填写并签署Application to enroll in a Major Program，提交SAO批准；跨领域主题课或学生发起研讨课也须SAO确认。具体2027注册日历、实习岗位及国际学生手续应按届次核对，本轮未取得本方向的独立年度截止表。",
+            "source_ids": [
+              "law22-student-affairs"
+            ]
+          },
+          {
+            "label": "申请材料及翻译",
+            "text": "一般University／Mature类别需全部高等教育成绩单、最多750词个人陈述、最多2页CV、英法语言证明和两份推荐。非英法文成绩单须附学校出具或认证翻译员提供的英／法译文；初审上传成绩单，获录后按要求提交并核实正式件。",
+            "source_ids": [
+              "law22-supporting-documents"
+            ]
+          },
+          {
+            "label": "个人陈述与推荐提交",
+            "text": "个人陈述末尾注明词数、每页右上角署名；CV与陈述仅接受一版，重新申请须更新。推荐人通过系统邮件指引直接提交，学校不接受额外第三封；通常优先熟悉学术能力的教师，无法取得时可选能评价相关能力的主管。须使用机构／公司邮箱，公开邮箱不视为正式推荐。",
+            "source_ids": [
+              "law22-supporting-documents"
+            ]
+          },
+          {
+            "label": "在线申请与审理",
+            "text": "使用麦吉尔Applicant Portal并持续查看清单；当前申请过程页列不可退申请费CAD136.08，未将其声称为锁定2027费率。材料不齐可取消申请，仅待LSAT成绩有专门例外。University类别不是人人必须面试；学校可按个案要求，候补无排序，最终候补决定可能持续到8月底。",
+            "source_ids": [
+              "law22-application-process"
+            ]
+          },
+          {
+            "label": "已有法律学位者的另一路径",
+            "text": "已完成获麦吉尔认可的加拿大或海外法律学位者可核Advanced Standing类别，不能自动按普通转学生抵学分；获录仍须在麦吉尔完成至少75学分，不能只取BCL或只取JD。2027指南列该类别申请2026年11月1日、材料2027年1月15日；交换、访学及等值课程等另有不授BCL/JD的类别。",
+            "source_ids": [
+              "law22-applicant-categories",
               "law-dates"
             ]
           }
@@ -21354,6 +21854,30 @@
             "text": "秋冬30学分参考年：教学学费CAD 65,167.50，加表列强制附加费合计CAD 69,010.80。不含生活费，不是2027/28报价。按实际注册学分、学位与适用新生档核定；小于30学分的专项组件不据此作为完整一年或整项目报价。",
             "source_ids": [
               "fee-87"
+            ]
+          },
+          {
+            "label": "国际生费用表的适用档",
+            "text": "本轮再次核表：2026/27学年、2026年首次入学、秋冬30学分，学费CAD65,167.50；表列总额CAD69,010.80含国际医疗保险CAD1,212和牙科保险CAD150等。2025及更早入学档金额不同；附加费中有按年收取项目，不把该总额按学分简单等比例推算成荣誉／主修加修或整个学位费用。",
+            "source_ids": [
+              "law22-international-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向与统计边界",
+            "text": "BCL/JD学院介绍列律师事务所、企业法务、公共服务、国际争议处理和学术研究等去向；实践页有毕业生进入加拿大最高法院、联邦及省法院担任clerk的例子。以上是整个BCL/JD的定性介绍，未提供本路线／主修独立毕业年份、样本数、国际生分母、就业率或起薪；不能由个别校友经历推算录取或就业概率。",
+            "source_ids": [
+              "law22-program-description",
+              "law22-beyond-classroom"
+            ]
+          },
+          {
+            "label": "实践机会及职业支持",
+            "text": "BCL/JD可接触模拟法庭、法律诊所、学术期刊和法院实践；高年级学生clerkship须选拔，页面写每学期至少100小时，不能与主修必修的200小时实习混作一项。职业办公室从一年级提供规划、信息及联络活动；这些机会和双学位不等于自动获得岗位或执业资格。",
+            "source_ids": [
+              "law22-beyond-classroom"
             ]
           }
         ]
@@ -21390,13 +21914,104 @@
           "checked_at": "2026-09-12",
           "supports": "Fall2026新生学费与强制附加费；其他学生档不混用",
           "sha256": "33baa9ec6d8e7e03175bd84a07506da65add2083db3f377fd2c0d9f5f31e57ca"
+        },
+        {
+          "id": "law22-eligibility",
+          "title": "McGill BCL/JD 学历与双语资格（本轮复核）",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/eligibility",
+          "checked_at": "2026-09-13",
+          "supports": "大学阶段资格、英法双语的课堂与证明方式；2025入学样本不是录取门槛",
+          "sha256": "c173b8cc3c36d478f3649be6f903cd584993cc6e866600efb61caa322ced872b"
+        },
+        {
+          "id": "law22-lsat",
+          "title": "McGill BCL/JD：LSAT 安排",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/lsat",
+          "checked_at": "2026-09-13",
+          "supports": "非强制考试，但已考或拟考必须申报；多次成绩、结果取得及审理顺序",
+          "sha256": "c42bfc7b032cafc193a52f845f927088f19832a707c42788d87b870bc0b14674"
+        },
+        {
+          "id": "law22-application-process",
+          "title": "McGill BCL/JD 申请过程",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/application-process",
+          "checked_at": "2026-09-13",
+          "supports": "在线申请、当前申请费、材料清单、面试类别和候补安排",
+          "sha256": "e48dcf96aba4ec7ce91fa889c7744d8ced8b76d1989f5d0ed738c597fde541d7"
+        },
+        {
+          "id": "law22-supporting-documents",
+          "title": "McGill BCL/JD 支持材料",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/supporting-documents",
+          "checked_at": "2026-09-13",
+          "supports": "成绩单与翻译、个人陈述、简历、两份推荐及申请平台要求",
+          "sha256": "3fccbb6a92f58b1e904841ba17e245cfeddeecc2ea75290f6485260f86d38cbc"
+        },
+        {
+          "id": "law22-applicant-categories",
+          "title": "McGill BCL/JD 申请类别",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/applicant-categories",
+          "checked_at": "2026-09-13",
+          "supports": "University与Mature、已有法律学位的Advanced Standing及非授位类别边界",
+          "sha256": "ad62413a3a2e2cf07411ea7fd14a804c86a6c1b42f57c99d85b13221e1709351"
+        },
+        {
+          "id": "law22-honours-majors",
+          "title": "McGill BCL/JD：主修及荣誉方向",
+          "url": "https://www.mcgill.ca/law/bcl-jd/program-description/minors-majors-and-honours",
+          "checked_at": "2026-09-13",
+          "supports": "基础双学位常见完成时间；学位内主修与荣誉身份及额外学分",
+          "sha256": "f4698f8841d715d1d013129bb4486ae71c1cdfc0b3f4bda904e3c227ed09560f"
+        },
+        {
+          "id": "law22-international-fees",
+          "title": "McGill 2026/27 BCL/JD 国际学生费用表（本轮复核）",
+          "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=87&field_fee_residency_status_tid=141",
+          "checked_at": "2026-09-13",
+          "supports": "2026入学档、秋冬30学分的教学学费与逐项附加费；不等于2027入学报价",
+          "sha256": "804d6a43e0675b212a1693dc0c4bd7aecdb635df14500252a3ab432e5ddcdfcc"
+        },
+        {
+          "id": "law22-program-description",
+          "title": "McGill BCL/JD 培养与职业方向",
+          "url": "https://www.mcgill.ca/law/bcl-jd/program-description",
+          "checked_at": "2026-09-13",
+          "supports": "同时授予BCL和JD、民法普通法及原住民法律传统；法学院定性职业方向",
+          "sha256": "0ec703a22555b9e2ee323cd2a8ad41550c204c5387d04ffcc034092a25dda2e9"
+        },
+        {
+          "id": "law22-beyond-classroom",
+          "title": "McGill BCL/JD 课堂外学习及职业支持",
+          "url": "https://www.mcgill.ca/law/bcl-jd/program-description/beyond-classroom",
+          "checked_at": "2026-09-13",
+          "supports": "须选拔的实践、毕业生clerkship例子及职业服务；无专项就业统计",
+          "sha256": "51fce784fa6fee4f3078df4fdc1b9ea6f5e4540ef60c54c77aeced5eab1ff266"
+        },
+        {
+          "id": "law22-student-affairs",
+          "title": "McGill 法律学生事务：主修及荣誉",
+          "url": "https://www.mcgill.ca/law-studies/node/36/MINOR",
+          "checked_at": "2026-09-13",
+          "supports": "当前在读申请CGPA、36学分主修与200小时实习；荣誉研究计划和论文进度",
+          "sha256": "022103c425c08c08f0d10bb85ae76f8e31b0ae9d27fe0c9c8e3186758a185c8a"
         }
       ],
       "excluded_school_sections": [
+        "overview",
         "admissions",
         "applications",
-        "fees"
-      ]
+        "fees",
+        "outcomes"
+      ],
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_requirements": true,
+        "application_process": true,
+        "fee_amount": true,
+        "fee_period": "2026/27 first enrolled Fall2026, Fall/Winter30credits",
+        "outcome_statistics": false,
+        "year_specific_module_schedule_2027": false
+      }
     },
     {
       "university_id": "mcgill",
@@ -21404,13 +22019,16 @@
       "inventory_id": "mcgill-major-concentration-law-with-major-international-human-rights-and-7433602442",
       "name_en": "Major Concentration Law with Major International Human Rights and Development (B.C.L./J.D.)",
       "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/major-concentration-law-major-international-human-rights-development-bcl-jd/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "research_status": "partially_verified",
       "display_fields": {
-        "name": "法律—国际人权与发展",
-        "entry_summary": "大学阶段后申请BCL/JD；须英法双语，普通中国高中不直接进入。",
-        "intake": "2027",
-        "tuition_summary": "2026/27参考 CAD 65,167.50／秋冬30学分"
+        "name": "法律双学位：国际人权与发展主修",
+        "entry_summary": "BCL/JD在读两个学期后申报国际人权与发展主修；CGPA至少2.70并须保持，非高中直申。",
+        "intake": "2027（BCL/JD入口）；方向另需在读申请",
+        "tuition_summary": "2026/27参考 CAD 65,167.50／秋冬30学分",
+        "duration": "通常4年（含额外荣誉／主修学分）",
+        "language": "英语与法语双语",
+        "outcomes_summary": "BCL/JD整体定性去向；本路线独立毕业统计未取得"
       },
       "sections": {
         "overview": [
@@ -21423,9 +22041,47 @@
           },
           {
             "label": "专业学分与学位结构",
-            "text": "校历标注本专业／方向权重123学分；该数字可能仅对应主修、荣誉或专项组件，完整学位、基础年及其他必修要求还须同时满足。标题与正文出现不同数字时，以上方说明所列差异为准。",
+            "text": "2026–2027校历的123学分是这条BCL/JD路线的完整毕业总量。主修组件36学分，其中18计入基础105学分，另外18增加到学位总量，合计123；不得计算成105＋36，也不是独立的36学分学位。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "主修课程分配与论文",
+            "text": "36学分包括6学分WRIT300D1/D2实习及30学分配套课程；后者含3学分主题论文和27学分课程，课程分法律15–21、非法律6–12。全BCL/JD非法律课最多12学分：本主修已用6／9／12时，其余学位最多再用6／3／0。主题论文通常四年级冬季完成并须副院长批准。",
+            "source_ids": [
+              "program",
+              "law22-student-affairs"
+            ]
+          },
+          {
+            "label": "主修选修内容",
+            "text": "法律选项涵盖国际发展、人权、人道法、环境、国际刑事法及移民难民；非法律选项来自人类学、经济发展、地理、国际发展、管理、政治与社会学等。课程选择须与主修批准清单及具体先修相符。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "实习的实际工作量",
+            "text": "主修实习为无薪6学分、200小时，须在相应领域律师指导下完成；通常最后学年秋冬、冬夏或夏季安排。若提前到三年级夏季，须已完成至少24个主修学分；至少提前一学期联系SAO协助找岗位。安排或资助并非自动保证。",
+            "source_ids": [
+              "law22-student-affairs"
+            ]
+          },
+          {
+            "label": "论文代码的官网差异",
+            "text": "2026–2027主修校历列WRIT491–495，当前SAO页面另列WRIT496；本次保留两者差异，选课前由SAO确认496是否适用本届、本方向，未将其直接加入已确定选修清单。",
+            "source_ids": [
+              "program",
+              "law22-student-affairs"
+            ]
+          },
+          {
+            "label": "学位层级与通常用时",
+            "text": "BCL/JD将民法、普通法与原住民法律传统纳入整合法律培养，并同时授予BCL及JD；当前学院说明多数学生3或3.5年完成基础路线，修读额外主修／荣誉通常使整个路线达到4年。这里的用时不是仅修主修组件或论文的独立学制，也不代表2027新生具体排课已全部确定。",
+            "source_ids": [
+              "law22-honours-majors",
+              "law22-program-description"
             ]
           }
         ],
@@ -21450,6 +22106,34 @@
             "source_ids": [
               "law"
             ]
+          },
+          {
+            "label": "主修在读申请及维持条件",
+            "text": "须已在法学院完成两个学期、CGPA至少2.70，并持续保持2.70；最迟在第三年注册截止前申报。SAO待此前学期最终成绩齐全后决定；并非以高考成绩直接申请的独立本科。",
+            "source_ids": [
+              "law22-student-affairs"
+            ]
+          },
+          {
+            "label": "法语不能由英语成绩替代",
+            "text": "C1／B2指两种语言分别达到的能力；几乎所有一年级学生至少有一门法语授课，阅读及考题也可能含两种语言。作业、讨论、考试和口头辩护可用英语或法语，但不能据此免除理解另一种语言的要求。",
+            "source_ids": [
+              "law22-eligibility"
+            ]
+          },
+          {
+            "label": "双语材料及期限",
+            "text": "无豁免者可按官网列明的路径提交成绩单、语言课程或认可测试证明。例如法语认可测试须在申请日前三年内达到B2书面及口头理解；已在修课或待成绩的申请人仍须补交结果。英语路径可包括IB Group1 English至少5，或规定的GCSE／IGCSE／GCE O-Level英语至少B／5；这些仅证明英语能力，不使境外高中申请人满足大学学习资格，也不直接证明所有C1要求。官网未给统一可替换的IELTS分数。",
+            "source_ids": [
+              "law22-eligibility"
+            ]
+          },
+          {
+            "label": "LSAT非必考但必须如实申报",
+            "text": "麦吉尔不强制LSAT；已参加或计划参加者须申报所有场次、LSAC识别号并授权调取成绩，即使成绩不利也不能隐瞒。多次考试取平均；所有待出LSAT结果到齐才审理。官网建议最迟在申请入学前一年的11月考试，1月考试可能因滚动录取而较晚获得审理。",
+            "source_ids": [
+              "law22-lsat"
+            ]
           }
         ],
         "applications": [
@@ -21457,6 +22141,42 @@
             "label": "2027大学类别日程",
             "text": "2026年9月15日开放，普通University／Mature类别申请截至2026年11月1日、材料11月8日。Advanced Standing等类别材料另有日期；以上不是所有类别统一窗口。",
             "source_ids": [
+              "law-dates"
+            ]
+          },
+          {
+            "label": "申报主修与实习安排",
+            "text": "填写并签署Application to enroll in a Major Program，提交SAO批准；跨领域主题课或学生发起研讨课也须SAO确认。具体2027注册日历、实习岗位及国际学生手续应按届次核对，本轮未取得本方向的独立年度截止表。",
+            "source_ids": [
+              "law22-student-affairs"
+            ]
+          },
+          {
+            "label": "申请材料及翻译",
+            "text": "一般University／Mature类别需全部高等教育成绩单、最多750词个人陈述、最多2页CV、英法语言证明和两份推荐。非英法文成绩单须附学校出具或认证翻译员提供的英／法译文；初审上传成绩单，获录后按要求提交并核实正式件。",
+            "source_ids": [
+              "law22-supporting-documents"
+            ]
+          },
+          {
+            "label": "个人陈述与推荐提交",
+            "text": "个人陈述末尾注明词数、每页右上角署名；CV与陈述仅接受一版，重新申请须更新。推荐人通过系统邮件指引直接提交，学校不接受额外第三封；通常优先熟悉学术能力的教师，无法取得时可选能评价相关能力的主管。须使用机构／公司邮箱，公开邮箱不视为正式推荐。",
+            "source_ids": [
+              "law22-supporting-documents"
+            ]
+          },
+          {
+            "label": "在线申请与审理",
+            "text": "使用麦吉尔Applicant Portal并持续查看清单；当前申请过程页列不可退申请费CAD136.08，未将其声称为锁定2027费率。材料不齐可取消申请，仅待LSAT成绩有专门例外。University类别不是人人必须面试；学校可按个案要求，候补无排序，最终候补决定可能持续到8月底。",
+            "source_ids": [
+              "law22-application-process"
+            ]
+          },
+          {
+            "label": "已有法律学位者的另一路径",
+            "text": "已完成获麦吉尔认可的加拿大或海外法律学位者可核Advanced Standing类别，不能自动按普通转学生抵学分；获录仍须在麦吉尔完成至少75学分，不能只取BCL或只取JD。2027指南列该类别申请2026年11月1日、材料2027年1月15日；交换、访学及等值课程等另有不授BCL/JD的类别。",
+            "source_ids": [
+              "law22-applicant-categories",
               "law-dates"
             ]
           }
@@ -21467,6 +22187,30 @@
             "text": "秋冬30学分参考年：教学学费CAD 65,167.50，加表列强制附加费合计CAD 69,010.80。不含生活费，不是2027/28报价。按实际注册学分、学位与适用新生档核定；小于30学分的专项组件不据此作为完整一年或整项目报价。",
             "source_ids": [
               "fee-87"
+            ]
+          },
+          {
+            "label": "国际生费用表的适用档",
+            "text": "本轮再次核表：2026/27学年、2026年首次入学、秋冬30学分，学费CAD65,167.50；表列总额CAD69,010.80含国际医疗保险CAD1,212和牙科保险CAD150等。2025及更早入学档金额不同；附加费中有按年收取项目，不把该总额按学分简单等比例推算成荣誉／主修加修或整个学位费用。",
+            "source_ids": [
+              "law22-international-fees"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向与统计边界",
+            "text": "BCL/JD学院介绍列律师事务所、企业法务、公共服务、国际争议处理和学术研究等去向；实践页有毕业生进入加拿大最高法院、联邦及省法院担任clerk的例子。以上是整个BCL/JD的定性介绍，未提供本路线／主修独立毕业年份、样本数、国际生分母、就业率或起薪；不能由个别校友经历推算录取或就业概率。",
+            "source_ids": [
+              "law22-program-description",
+              "law22-beyond-classroom"
+            ]
+          },
+          {
+            "label": "实践机会及职业支持",
+            "text": "BCL/JD可接触模拟法庭、法律诊所、学术期刊和法院实践；高年级学生clerkship须选拔，页面写每学期至少100小时，不能与主修必修的200小时实习混作一项。职业办公室从一年级提供规划、信息及联络活动；这些机会和双学位不等于自动获得岗位或执业资格。",
+            "source_ids": [
+              "law22-beyond-classroom"
             ]
           }
         ]
@@ -21503,13 +22247,104 @@
           "checked_at": "2026-09-12",
           "supports": "Fall2026新生学费与强制附加费；其他学生档不混用",
           "sha256": "33baa9ec6d8e7e03175bd84a07506da65add2083db3f377fd2c0d9f5f31e57ca"
+        },
+        {
+          "id": "law22-eligibility",
+          "title": "McGill BCL/JD 学历与双语资格（本轮复核）",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/eligibility",
+          "checked_at": "2026-09-13",
+          "supports": "大学阶段资格、英法双语的课堂与证明方式；2025入学样本不是录取门槛",
+          "sha256": "c173b8cc3c36d478f3649be6f903cd584993cc6e866600efb61caa322ced872b"
+        },
+        {
+          "id": "law22-lsat",
+          "title": "McGill BCL/JD：LSAT 安排",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/lsat",
+          "checked_at": "2026-09-13",
+          "supports": "非强制考试，但已考或拟考必须申报；多次成绩、结果取得及审理顺序",
+          "sha256": "c42bfc7b032cafc193a52f845f927088f19832a707c42788d87b870bc0b14674"
+        },
+        {
+          "id": "law22-application-process",
+          "title": "McGill BCL/JD 申请过程",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/application-process",
+          "checked_at": "2026-09-13",
+          "supports": "在线申请、当前申请费、材料清单、面试类别和候补安排",
+          "sha256": "e48dcf96aba4ec7ce91fa889c7744d8ced8b76d1989f5d0ed738c597fde541d7"
+        },
+        {
+          "id": "law22-supporting-documents",
+          "title": "McGill BCL/JD 支持材料",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/supporting-documents",
+          "checked_at": "2026-09-13",
+          "supports": "成绩单与翻译、个人陈述、简历、两份推荐及申请平台要求",
+          "sha256": "3fccbb6a92f58b1e904841ba17e245cfeddeecc2ea75290f6485260f86d38cbc"
+        },
+        {
+          "id": "law22-applicant-categories",
+          "title": "McGill BCL/JD 申请类别",
+          "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/applicant-categories",
+          "checked_at": "2026-09-13",
+          "supports": "University与Mature、已有法律学位的Advanced Standing及非授位类别边界",
+          "sha256": "ad62413a3a2e2cf07411ea7fd14a804c86a6c1b42f57c99d85b13221e1709351"
+        },
+        {
+          "id": "law22-honours-majors",
+          "title": "McGill BCL/JD：主修及荣誉方向",
+          "url": "https://www.mcgill.ca/law/bcl-jd/program-description/minors-majors-and-honours",
+          "checked_at": "2026-09-13",
+          "supports": "基础双学位常见完成时间；学位内主修与荣誉身份及额外学分",
+          "sha256": "f4698f8841d715d1d013129bb4486ae71c1cdfc0b3f4bda904e3c227ed09560f"
+        },
+        {
+          "id": "law22-international-fees",
+          "title": "McGill 2026/27 BCL/JD 国际学生费用表（本轮复核）",
+          "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=87&field_fee_residency_status_tid=141",
+          "checked_at": "2026-09-13",
+          "supports": "2026入学档、秋冬30学分的教学学费与逐项附加费；不等于2027入学报价",
+          "sha256": "804d6a43e0675b212a1693dc0c4bd7aecdb635df14500252a3ab432e5ddcdfcc"
+        },
+        {
+          "id": "law22-program-description",
+          "title": "McGill BCL/JD 培养与职业方向",
+          "url": "https://www.mcgill.ca/law/bcl-jd/program-description",
+          "checked_at": "2026-09-13",
+          "supports": "同时授予BCL和JD、民法普通法及原住民法律传统；法学院定性职业方向",
+          "sha256": "0ec703a22555b9e2ee323cd2a8ad41550c204c5387d04ffcc034092a25dda2e9"
+        },
+        {
+          "id": "law22-beyond-classroom",
+          "title": "McGill BCL/JD 课堂外学习及职业支持",
+          "url": "https://www.mcgill.ca/law/bcl-jd/program-description/beyond-classroom",
+          "checked_at": "2026-09-13",
+          "supports": "须选拔的实践、毕业生clerkship例子及职业服务；无专项就业统计",
+          "sha256": "51fce784fa6fee4f3078df4fdc1b9ea6f5e4540ef60c54c77aeced5eab1ff266"
+        },
+        {
+          "id": "law22-student-affairs",
+          "title": "McGill 法律学生事务：主修及荣誉",
+          "url": "https://www.mcgill.ca/law-studies/node/36/MINOR",
+          "checked_at": "2026-09-13",
+          "supports": "当前在读申请CGPA、36学分主修与200小时实习；荣誉研究计划和论文进度",
+          "sha256": "022103c425c08c08f0d10bb85ae76f8e31b0ae9d27fe0c9c8e3186758a185c8a"
         }
       ],
       "excluded_school_sections": [
+        "overview",
         "admissions",
         "applications",
-        "fees"
-      ]
+        "fees",
+        "outcomes"
+      ],
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_requirements": true,
+        "application_process": true,
+        "fee_amount": true,
+        "fee_period": "2026/27 first enrolled Fall2026, Fall/Winter30credits",
+        "outcome_statistics": false,
+        "year_specific_module_schedule_2027": false
+      }
     },
     {
       "university_id": "mcgill",

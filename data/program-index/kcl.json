@@ -5,7 +5,7 @@
     "status": "partial",
     "count": 145,
     "scope": "148个已发现目录入口中，145个本科及本科在读路线；3个本科后护理硕士另留更正页，内部路径仍待全量对账",
-    "method": "复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。 再逐课核12计算机、数学与通用工程项目及各自China分支、年度模块与费用，原145入口保持。",
+    "method": "复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。 再逐课核12计算机、数学与通用工程项目及各自China分支、年度模块与费用，原145入口保持。 再核12电子工程、化学、物理及相关组合课程，实读12个China分支和43个年度模块视图；原145身份不变，未据在读海外安排另造高中招生入口。",
     "exclusions": "Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes；本科后首次注册护理MNurs/MSc不计本科项目；MBBS/BDS仍按专业学士保留并注明前置学历。",
     "sources": [
       {
@@ -834,12 +834,12 @@
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-msci",
         "sha256": "96f5ca23b6894a78f078de26ae426c72ac0b3bb2496389747e7907cffac25204",
-        "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-a541efc6a2a484.html"
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-astrophysics-and-cosmology-msci-7222170a71-overview.html"
       },
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-bsc",
         "sha256": "fbfeb6b0326b5ac6ab26baf5a441db5da18ef2010e5dfb045a3f8b9e5b7af15a",
-        "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-8082166a567a45.html"
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-astrophysics-and-cosmology-bsc-c72aa1500b-overview.html"
       },
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci",
@@ -3105,6 +3105,366 @@
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc/fees",
         "sha256": "6769146f420b2277a6f10170a9bf1d79b491cefc5f7d1a29506bc6c2de80d4f2",
         "raw_file": "scratch/full-catalog/kcl-stem-enrichment/raw/fees-dom-8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-msci",
+        "sha256": "93d98fcf5ea911092451e4ecd5b1b601dcd10fd873f66c45b68f3e69204ee817",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-msci-bd2ed634ed-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-msci/teaching-and-modules",
+        "sha256": "8304ca528ff20cb5c0a2c48a86e7c77191b0667acf4654d9e17af4ed29dd8a29",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-msci-bd2ed634ed-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-msci/entry-requirements",
+        "sha256": "6a3f533c97e6d5d088866301866290e23fad229bfc161c2da6a1b212f6bc1626",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-msci-bd2ed634ed-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-msci/careers",
+        "sha256": "4698de89da234b2038fdbe5851cc808f298ec7d59cdeb03725f4cc7a0c23a149",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-msci-bd2ed634ed-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-msci/entry-requirements",
+        "sha256": "39dd0c9264ee570426278eec602552f0827ddceadfe70edfca56f12fd922abfd",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/review/china-dom-2.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-msci/fees",
+        "sha256": "b39af30885b6eed1ca7c2b2e5d65384ad66d100efdf1ecca4f2a324ed706c345",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/fees-dom-2.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-bsc",
+        "sha256": "820fa4ece3764dd7b2f73e0df3e68a3050d9fc794d461ba561ca19dce6fb9346",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-bsc-21be8e37f1-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-bsc/teaching-and-modules",
+        "sha256": "6ffc01529cb3f833b7f27dff4048ab0677431a1dd0a46b388f5b093f31036ecd",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-bsc-21be8e37f1-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-bsc/entry-requirements",
+        "sha256": "895d94e74d7d924b201685fc96aca1a3591a5e03c7b75b4f715c27f0cbdea7ad",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-bsc-21be8e37f1-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-bsc/careers",
+        "sha256": "84135382f2ccfac5d8bb398078aa2b988c94093e68542827f101be59375c1681",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-bsc-21be8e37f1-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-bsc/entry-requirements",
+        "sha256": "a388c6e1de195f3361d79d5570805de264fcd8f45cd26cf37b39f261e9d08b75",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/review/china-dom-1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-bsc/fees",
+        "sha256": "bc998cd83ee6c7058acaa29453c469a98781f70e2c80ab969342ef9447ca3402",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/fees-dom-1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-msci",
+        "sha256": "71466d6e8a35a59a74e7f9885765fa9cd01b935fbbba877df363ec6fdec2109f",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-with-a-year-in-industry-msci-c7d70a2e48-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-msci/teaching-and-modules",
+        "sha256": "65b962b45740e125f400294d6e51c98d921918670f3c617792477c59e5e890f2",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-with-a-year-in-industry-msci-c7d70a2e48-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-msci/entry-requirements",
+        "sha256": "91b6ed3c183db83524190e794fdbfa7c6e54652df661fae8fb79e8cda4ed8381",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-with-a-year-in-industry-msci-c7d70a2e48-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-msci/careers",
+        "sha256": "a453494057c5870af9ebd1f6b96eba3879e93176e4e7afaeafca92ed81eb8e73",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-with-a-year-in-industry-msci-c7d70a2e48-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-msci/entry-requirements",
+        "sha256": "e28c075a298cf2aec1088b51c94f445f4d3248fc70b6e4b8b1e1caafac729554",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/review/china-dom-4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-msci/fees",
+        "sha256": "2f2707d22fd23c373cd98bf2367f925f83bd49fcbc1bb18ba273f4bcc2e22aaf",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/fees-dom-4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-bsc",
+        "sha256": "1299a80067bf25b2563dfe8136ae66c5cb4eed5681f0ffcaca80fb388f362c74",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-with-a-year-in-industry-bsc-395d8be2bf-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-bsc/teaching-and-modules",
+        "sha256": "4ecca2357d6b9d9cf1ea596e697b30adfc49229098c9f2ca61f66854118ddd73",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-with-a-year-in-industry-bsc-395d8be2bf-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-bsc/entry-requirements",
+        "sha256": "a4c1e0605c4124d3bd837694f81b7a4640a5f92ad91c4782ba00706cfc995453",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-with-a-year-in-industry-bsc-395d8be2bf-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-bsc/careers",
+        "sha256": "2e48a2776fcce7788abcdfdd29eadee3456859fceabf2bf3e161fd2893922c88",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-chemistry-with-a-year-in-industry-bsc-395d8be2bf-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-bsc/entry-requirements",
+        "sha256": "197f680a600c70328054c8164b0683a14933209a31ecc7986aaa2f0ace9e584c",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/review/china-dom-3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-bsc/fees",
+        "sha256": "39b1725cc3e0d437a36b99adaf2cfb1c4ebe03bc8af913bbe4b93b50f80e1666",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/fees-dom-3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-beng",
+        "sha256": "73739a59087a93edb95fc982bd33ae37589af05230832286ef8a29e826e12245",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-electronic-engineering-beng-0f1cdceea9-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-beng/teaching-and-modules",
+        "sha256": "e33d342eb59b0c0fc664bf3256e9254030f6bac10e3df572da3d0717fe41cb41",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-electronic-engineering-beng-0f1cdceea9-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-beng/entry-requirements",
+        "sha256": "e55a2866978078f2290a22e874d1a264f9d43667edc4b87dd5f803a7f3b97af2",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-electronic-engineering-beng-0f1cdceea9-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-beng/careers",
+        "sha256": "3c4f1439fa08db1dce61dbb60d86fb69209cb0345a3e85c8257d06af4e5d71a1",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-electronic-engineering-beng-0f1cdceea9-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-beng/entry-requirements",
+        "sha256": "36665b3f2f29c728c252dec89ca45deda8056668338bd5e78ec4a594f4749388",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/review/china-dom-0.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-beng/fees",
+        "sha256": "83e5c876482a16c5a9025cb790e753a0358f77608c0182e5ada38b728a579c72",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/fees-dom-0.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci",
+        "sha256": "b7d6e057d784b25e0113e6fe0c456ab4ce58c75e690bb2517b1efaa40669ce0a",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-msci-59ea77265d-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci/teaching-and-modules",
+        "sha256": "92c1a393ea2f69bd830c04d33813f0e6d893532a8c0d785f6eb4117b28694f90",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-msci-59ea77265d-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci/entry-requirements",
+        "sha256": "cfd64aa3c5fb09185b391fb7426dae3251b778d34584040a825f6fae8de37022",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-msci-59ea77265d-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci/careers",
+        "sha256": "3751f02737da4d7ab548af8c6f908ac170972c9cc6be2b9382140bd7947a70b6",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-msci-59ea77265d-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci/entry-requirements",
+        "sha256": "f5733fc7efd34c188a83e1973d6407a78f0f92dff4e07d23b379d2b8c156a5d6",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/review/china-dom-6.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci/fees",
+        "sha256": "0285f73129a939b04d8b7307c76f4efb20c97dd3dffd9ae842b6596ada7c0bc0",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/fees-dom-6.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc",
+        "sha256": "35309195bae1f5437506b116afbb3ab8776fb04d8174166f029bdd00f866e9dc",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-bsc-094d2b24a5-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc/teaching-and-modules",
+        "sha256": "85574110036e8352435ce1c948f71c0f51362718ecf5fb5921998dbbe3359450",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-bsc-094d2b24a5-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc/entry-requirements",
+        "sha256": "9db24802d14ec4b73d73937d8afa52b434e92f964cc7543e3e05bdc5640752ff",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-bsc-094d2b24a5-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc/careers",
+        "sha256": "599a58023432c498c3992d6640ed32d8cb00f96dc488f2ca7be8a4d9bec4e88c",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-bsc-094d2b24a5-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc/entry-requirements",
+        "sha256": "ce69f6ec3d0fa934a9e500fe2629ec30631cc0d8c6cd34e21f5dfc02ff784ee8",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/review/china-dom-5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc/fees",
+        "sha256": "2bb6259a018f9b98d3b12296fee0cf516ff60bed7906ddd2adcd6f94e976e48c",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/fees-dom-5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-bsc",
+        "sha256": "c1603dc0ad8bf161f78f11ef160ba10d7bef1743fca02291b5e86f886dbefe23",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-philosophy-bsc-b7793b0acd-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-bsc/teaching-and-modules",
+        "sha256": "b4a2a78425b1511cf938c59109c15d6c0f7127353842bd87d365376f9f051ae3",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-philosophy-bsc-b7793b0acd-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-bsc/entry-requirements",
+        "sha256": "0cfd76f1fbcd507449466f90c566e2f179b5a8367bf9750ad4906ea097d80f8f",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-philosophy-bsc-b7793b0acd-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-bsc/careers",
+        "sha256": "463d04cc27f0737d0a4bd55207cea2df89be6a4d4b77dfb6fb7023d28db63d36",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-philosophy-bsc-b7793b0acd-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-bsc/entry-requirements",
+        "sha256": "cc37fbba9b20c5984acbef1a271cd9525fc3aa935487c1b38affce95af7eefe0",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/review/china-dom-11.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-bsc/fees",
+        "sha256": "fe184990f848f9668008fe2b59ada2a3a7d7be1fa989319017eca97806ca6ffa",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/fees-dom-11.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-msci/teaching-and-modules",
+        "sha256": "13ad4099c40103e3a6bb4928bc490b0708d1377e16ed3ed1adbfb13b351fd25b",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-astrophysics-and-cosmology-msci-7222170a71-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-msci/entry-requirements",
+        "sha256": "6b047185198f7ef0bd0bc04953982ccd0aa6d54487ee6d91c76ac52dece91da7",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-astrophysics-and-cosmology-msci-7222170a71-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-msci/careers",
+        "sha256": "68f1758aa3a233ab9fa86ca9ff4a7a064e4b97cfa2c93878982c117dd28cbdc1",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-astrophysics-and-cosmology-msci-7222170a71-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-msci/entry-requirements",
+        "sha256": "df43265975a86d814db30410431a61c02a9aae40bf40b10ad21ca56875a7c9eb",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/review/china-dom-8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-msci/fees",
+        "sha256": "841fb9ee5a9e44246e06cbf8999a6c91d202502a708b68f70b522a5b7667209b",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/fees-dom-8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-msci/teaching-and-modules",
+        "sha256": "5936af4828df2fe256b0e9efaac2c75539702cf76cbe2da5083d68a27aa8af9d",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/review/modules-dom-8-year-1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-bsc/teaching-and-modules",
+        "sha256": "e8ded724ce184597e01b066195c238b32879a7216062404480dcb1bd059a81c6",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-astrophysics-and-cosmology-bsc-c72aa1500b-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-bsc/entry-requirements",
+        "sha256": "4ec5a03fd7a64e79aefee168d33078eaad82c307da60b3d345620507ee76dd93",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-astrophysics-and-cosmology-bsc-c72aa1500b-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-bsc/careers",
+        "sha256": "38f84ef37b257d45b57b51e2b01f8b817de8355b370dc41c2cebd809c26daa49",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-astrophysics-and-cosmology-bsc-c72aa1500b-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-bsc/entry-requirements",
+        "sha256": "894f02f45f4a46a966ab24eb122bf06cf79cc5a10c9a85aa46f9bb12da5a52d3",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/review/china-dom-7.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-bsc/fees",
+        "sha256": "b8057232f05f5eac610a4561db9366e16d564366766cd0795064b2308a5c28ff",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/fees-dom-7.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-bsc/teaching-and-modules",
+        "sha256": "9fc8a0b425470ff6a09f5331fd1950c04828f870f0f0dc546eb43335ce42464f",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/review/modules-dom-7-year-1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci",
+        "sha256": "cf89f53d19d8a37354d34585d887a22146c975e4e03528743d650ac019d6a0e3",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-theoretical-physics-msci-5e88cf1160-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci/teaching-and-modules",
+        "sha256": "044a84662ec64635e9f1e880c714b8c486d12c1d35d9da45854656e00725d512",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-theoretical-physics-msci-5e88cf1160-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci/entry-requirements",
+        "sha256": "8ea58b615fb356e842a20b32065c12a84aec32fe515eff9195f2ec83c9115f96",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-theoretical-physics-msci-5e88cf1160-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci/careers",
+        "sha256": "127375e723a26266ec4282b141f16ec8e6cd85b14f718fd6f6470af1d7bbdf94",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-theoretical-physics-msci-5e88cf1160-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci/entry-requirements",
+        "sha256": "9e7f15eb17320eed445f0f03d6d6bc0fd7e4f5f9805567f1bc81aca1ecb1bd27",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/review/china-dom-10.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci/fees",
+        "sha256": "a7d0be09f16b54dba5a6f9ff8bba471c6454b732e7836991573c8b1c8f2a8111",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/fees-dom-10.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc",
+        "sha256": "1008619914998bdbec6c3d3b5eed60e2ad01a812307a6dba02acd4e7d0c3d9fe",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-theoretical-physics-bsc-224ce54a65-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc/teaching-and-modules",
+        "sha256": "3927932358489a4db55b870be047289e4d82d5947e3e19baa4611939cdff9593",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-theoretical-physics-bsc-224ce54a65-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc/entry-requirements",
+        "sha256": "4c6990f84b01235132888fe1335995cbb5c33ea6a57956bd520a741f2eb87ec3",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-theoretical-physics-bsc-224ce54a65-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc/careers",
+        "sha256": "ebcfc9808cbd03f206649bd01625185fbb4e68f274ba7666990256e5a3074bb1",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/kcl-physics-with-theoretical-physics-bsc-224ce54a65-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc/entry-requirements",
+        "sha256": "be23139b20db6a2b07de964d40ac80d34ee641b51615d32e3f4a178827191998",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/review/china-dom-9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc/fees",
+        "sha256": "ef239f10f872568a7f8c96f6c64cf87761d624e17ff2b62e39d2f8b1906b0939",
+        "raw_file": "scratch/full-catalog/kcl-science-engineering-enrichment/raw/fees-dom-9.html"
       }
     ],
     "gaps": [
@@ -3115,7 +3475,8 @@
       "本批职业页多为职业注册、服务或案例，未取得专业独立毕业届别、分母、就业率或薪资。",
       "艺术媒体部分年度学分表、比较文学电影交换年段存在官网表述差异；英语语言与语言学校区未确认，创意写作及全球媒体专业页未列截止日期。",
       "法律母页香港LLM与独立香港JD不得混同；M124澳法旧交叉提及未确认为现行独立入口，伙伴阶段未来费率、若干年度学分及资格差异仍按正文待核。",
-      "新补12理工项目的部分年度模块数量和跨课程表述有差异；实习/海外费用、2027英语更新与本路线独立毕业数据仍依各条缺口，不能套用商学院规则。"
+      "新补12理工项目的部分年度模块数量和跨课程表述有差异；实习/海外费用、2027英语更新与本路线独立毕业数据仍依各条缺口，不能套用商学院规则。",
+      "本批理工12项仍缺2027最终英语更新、独立毕业统计及部分外出年度费额；两天体课程旧年份声明、物理哲学375与360学分差异、MSci项目OR分组均在各条保留。具名在读海外变体尚未与独立UCAS身份全部闭合。"
     ]
   },
   "programs": [
@@ -3432,8 +3793,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=1",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "5bd03e45-aef5-4a3b-9dfb-991c0cbdf88c",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后四年；获批整年海外路线可五年；海外变体须在读获批，不据课程内名称制造新的高中直申入口。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-chemistry-msci-bd2ed634ed"
     },
@@ -3448,8 +3809,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=1",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "f8aef96f-ee85-4202-9df5-a061ced5dcec",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后三年；全日制；可考虑二年级转学，变体另需课程条件。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-chemistry-bsc-21be8e37f1"
     },
@@ -3464,8 +3825,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=1",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "5190916d-9c22-43e4-a149-f8ec27ee460b",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后五年；全日制，本硕一体含行业年；行业岗位竞争申请、非保证配岗。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-chemistry-with-a-year-in-industry-msci-c7d70a2e48"
     },
@@ -3480,8 +3841,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=1",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "09ec9de4-c3d1-4c6a-b3d6-38d0fd130e4d",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后四年；全日制，含行业年；行业岗位竞争申请、非保证配岗。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-chemistry-with-a-year-in-industry-bsc-395d8be2bf"
     },
@@ -3890,8 +4251,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=3",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "db5d7926-b4e1-4dd3-8af7-70530b98f9e2",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后三年；全日制；不接受外部转学。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-electronic-engineering-beng-0f1cdceea9"
     },
@@ -5085,8 +5446,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=8",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "bf01c5a2-3927-492a-adf3-3a4844ae92a8",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后四年；获批整年海外路线可五年；海外变体须在读获批，不据课程内名称制造新的高中直申入口。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-physics-msci-59ea77265d"
     },
@@ -5101,8 +5462,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=8",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "3ff4e856-585b-4d4e-9219-498963c52568",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后三年；获批整年海外路线可四年；海外变体须在读获批，不据课程内名称制造新的高中直申入口。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-physics-bsc-094d2b24a5"
     },
@@ -5133,8 +5494,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=8",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "a8ec0ff9-da05-410a-8e11-10a80f94b226",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后三年；获批整年海外路线可四年；总学分原页有差异；海外变体须在读获批，不据课程内名称制造新的高中直申入口。 Joint honours为一项学位，不是两项独立学位。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-physics-philosophy-bsc-b7793b0acd"
     },
@@ -5149,8 +5510,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=8",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "00a88a74-0bf0-4fa3-9527-399b46e2abc7",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后四年；获批整年海外路线可五年；海外变体须在读获批，不据课程内名称制造新的高中直申入口。 Joint honours为一项学位，不是两项独立学位。 当前2027信息与总览旧年声明冲突，最终适用须确认。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-physics-with-astrophysics-and-cosmology-msci-7222170a71"
     },
@@ -5165,8 +5526,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=8",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "f115a307-03dc-408b-9872-deda7ee20151",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后三年；获批整年海外路线可四年；海外变体须在读获批，不据课程内名称制造新的高中直申入口。 Joint honours为一项学位，不是两项独立学位。 当前2027信息与总览旧年声明冲突，最终适用须确认。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-physics-with-astrophysics-and-cosmology-bsc-c72aa1500b"
     },
@@ -5181,8 +5542,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=8",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "eb2b6377-fc85-459f-893b-c50ab0eed11d",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后四年；获批整年海外路线可五年；海外变体须在读获批，不据课程内名称制造新的高中直申入口。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-physics-with-theoretical-physics-msci-5e88cf1160"
     },
@@ -5197,8 +5558,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=8",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "3032a1f9-483d-4a18-a3c9-ff4347919949",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "高中后三年；获批整年海外路线可四年；海外变体须在读获批，不据课程内名称制造新的高中直申入口。",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-physics-with-theoretical-physics-bsc-224ce54a65"
     },

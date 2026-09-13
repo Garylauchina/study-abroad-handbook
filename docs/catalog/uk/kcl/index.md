@@ -44,14 +44,14 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-business-management-bsc-14cbd233d2/">工商管理（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-business-management-with-year-in-industry-bsc-1af0e47d3c/">工商管理（BSc，含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-cardiovascular-medicine-ibsc-3e3c21e045/">心血管医学插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-bsc-21be8e37f1/">Chemistry BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-msci-bd2ed634ed/">Chemistry MSci</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-bsc-21be8e37f1/">化学（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-msci-bd2ed634ed/">化学（MSci，本硕一体）</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-biomedicine-bsc-20a60983ad/">生物医学化学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-biomedicine-msci-626754f1e3/">生物医学化学理学本硕一体</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-biomedicine-with-a-year-in-industry-bsc-aaaa5bfdd8/">生物医学化学理学学士（含产业年）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-biomedicine-with-a-year-in-industry-msci-45b2f1655a/">生物医学化学理学本硕一体（含产业年）</a><small>MSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-a-year-in-industry-bsc-395d8be2bf/">Chemistry with a Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-a-year-in-industry-msci-c7d70a2e48/">Chemistry with a Year in Industry MSci</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-a-year-in-industry-bsc-395d8be2bf/">化学（BSc，含行业年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-a-year-in-industry-msci-c7d70a2e48/">化学（MSci，本硕一体含行业年）</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-classical-studies-with-english-ba-5b6ef57016/">古典学与英语文学（BA，主修／辅修）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-classics-the-ancient-world-ba-3d62e79c23/">古典学与古代世界（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-comparative-literature-ba-bdedca13aa/">比较文学（BA）</a><small>BA · 部分专业资料已核实</small></article>
@@ -72,7 +72,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-management-bsc-245b52a540/">经济与管理（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-management-with-year-in-industry-bsc-7b5aaf88aa/">经济与管理（BSc，含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-bsc-0304407354/">经济学（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-electronic-engineering-beng-0f1cdceea9/">Electronic Engineering BEng</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-electronic-engineering-beng-0f1cdceea9/">电子工程（BEng）</a><small>BEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-electronic-engineering-meng-add0fec710/">电子工程（MEng）</a><small>MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-modern-languages-french-german-portuguese-or-spanish-with-70c18a0997/">英语文学与现代语言（BA，含海外年）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-ba-5fa4c259ea/">英语文学（BA）</a><small>BA · 部分专业资料已核实</small></article>
@@ -146,14 +146,14 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-philosophy-modern-languages-french-german-portuguese-or-spanish-w-ee56a0b5b6/">哲学与现代语言（BA，含海外年）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-philosophy-ba-7448041388/">哲学（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-philosophy-politics-economics-ba-bsc-2c599e390c/">哲学、政治与经济（BA／BSc共同入口）</a><small>BA/BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-philosophy-bsc-b7793b0acd/">Physics &amp; Philosophy BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-philosophy-bsc-b7793b0acd/">物理与哲学（BSc，联合荣誉）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-philosophy-msci-2e6cd7d4fc/">Physics &amp; Philosophy MSci</a><small>MSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-bsc-094d2b24a5/">Physics BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-msci-59ea77265d/">Physics MSci</a><small>MSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-with-astrophysics-and-cosmology-bsc-c72aa1500b/">Physics with Astrophysics and Cosmology BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-with-astrophysics-and-cosmology-msci-7222170a71/">Physics with Astrophysics and Cosmology MSci</a><small>MSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-with-theoretical-physics-bsc-224ce54a65/">Physics with Theoretical Physics BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-with-theoretical-physics-msci-5e88cf1160/">Physics with Theoretical Physics MSci</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-bsc-094d2b24a5/">物理（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-msci-59ea77265d/">物理（MSci，本硕一体）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-with-astrophysics-and-cosmology-bsc-c72aa1500b/">物理、天体物理与宇宙学（BSc，联合荣誉）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-with-astrophysics-and-cosmology-msci-7222170a71/">物理、天体物理与宇宙学（MSci，联合荣誉本硕一体）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-with-theoretical-physics-bsc-224ce54a65/">物理与理论物理（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-with-theoretical-physics-msci-5e88cf1160/">物理与理论物理（MSci，本硕一体）</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physiology-ibsc-66498ae592/">生理学插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physiotherapy-bsc-8a4821f2f5/">物理治疗理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-political-economy-ba-bsc-a74fda0e15/">Political Economy BA/BSc</a><small>BA/BSc · 部分专业资料已核实</small></article>
@@ -210,7 +210,7 @@ hide:
 
 <p><strong>统计范围：</strong>148个已发现目录入口中，145个本科及本科在读路线；3个本科后护理硕士另留更正页，内部路径仍待全量对账</p>
 
-<p><strong>对账方法：</strong>复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。 再逐课核12计算机、数学与通用工程项目及各自China分支、年度模块与费用，原145入口保持。</p>
+<p><strong>对账方法：</strong>复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。 再逐课核12计算机、数学与通用工程项目及各自China分支、年度模块与费用，原145入口保持。 再核12电子工程、化学、物理及相关组合课程，实读12个China分支和43个年度模块视图；原145身份不变，未据在读海外安排另造高中招生入口。</p>
 
 <p><strong>排除项：</strong>Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes；本科后首次注册护理MNurs/MSc不计本科项目；MBBS/BDS仍按专业学士保留并注明前置学历。</p>
 
@@ -224,6 +224,7 @@ hide:
 - 艺术媒体部分年度学分表、比较文学电影交换年段存在官网表述差异；英语语言与语言学校区未确认，创意写作及全球媒体专业页未列截止日期。
 - 法律母页香港LLM与独立香港JD不得混同；M124澳法旧交叉提及未确认为现行独立入口，伙伴阶段未来费率、若干年度学分及资格差异仍按正文待核。
 - 新补12理工项目的部分年度模块数量和跨课程表述有差异；实习/海外费用、2027英语更新与本路线独立毕业数据仍依各条缺口，不能套用商学院规则。
+- 本批理工12项仍缺2027最终英语更新、独立毕业统计及部分外出年度费额；两天体课程旧年份声明、物理哲学375与360学分差异、MSci项目OR分组均在各条保留。具名在读海外变体尚未与独立UCAS身份全部闭合。
 
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=9)
@@ -841,5 +842,77 @@ hide:
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc/careers)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc/entry-requirements)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-msci)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-msci/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-msci/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-msci/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-msci)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-msci/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-msci/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-msci/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-beng)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-beng/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-beng/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-beng/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-beng/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-beng/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-msci/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-msci/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-msci/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-msci/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc/fees)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

@@ -5,7 +5,7 @@
     "status": "partial",
     "count": 390,
     "scope": "2026–2027本科及专业学位校历中可识别学位名称的正式专业、主修、荣誉、联合荣誉组件与专项方向。",
-    "method": "完整A–Z共1396节点；读取167个本科院系programs节点并合并校历导航的605个含本科/专业学位标签条目，按URL去重后排除辅修、基础年及聚合入口。 逐页核验后再合并3处学院间重复条目，并移除1处院系总览。 另据现行招生页补Music BA，以及音乐学院明确列出的在读后BMus+BSc双学位路径；旧Faculty Program按实际队列合并至MusicStudies。",
+    "method": "完整A–Z共1396节点；读取167个本科院系programs节点并合并校历导航的605个含本科/专业学位标签条目，按URL去重后排除辅修、基础年及聚合入口。 逐页核验后再合并3处学院间重复条目，并移除1处院系总览。 另据现行招生页补Music BA，以及音乐学院明确列出的在读后BMus+BSc双学位路径；旧Faculty Program按实际队列合并至MusicStudies。 逐项深化4条既有BCL/JD路线，明确基础105、荣誉120和两主修123完整学位学分及主修36组件；补当前在读CGPA、英法证明、LSAT、申请材料及费用适用档，390库存保持。",
     "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
     "sources": [
       {
@@ -33,10 +33,2201 @@
         "url": "https://www.mcgill.ca/music/programs/double",
         "sha256": "7734aab9de298cbb0e3fff9f097483271d1925f501f098767efdb35e73ace56f",
         "raw_file": "scratch/full-catalog/root/mcgill-music-double.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/animal-science/livestock-major-bsc-agenvsc/",
+        "sha256": "b1d424103f05a0356e710f904f5a61ad0dfbcba48d7053a4305c51a35686fad8",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-000.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=79&field_fee_residency_status_tid=141",
+        "sha256": "fde0eb85d6561ae8b71ff2360e4d121bcd15bf16d5677126b8284b31401ac5d8",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-79.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/bioresource-engineering/animal-health-biology-concentration-beng/",
+        "sha256": "974241d19c3b1a2973ca153f49334411ff3ae617223903434643ca4a9cb5d95e",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-001.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/bioresource-engineering/bioresource-engineering-honours-beng/",
+        "sha256": "7b2f41c7f5e2b89ce6cc5f3db89bb802305b5bd75f53e5194c9d073c1f5e1a49",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-002.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=72&field_fee_residency_status_tid=141",
+        "sha256": "ee7b28811c9a0057ba2f1567f7ba388be256a1a58571aa64a12202ef80d71983",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-72.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/bioresource-engineering/bioresource-engineering-major-beng/",
+        "sha256": "7bcc5ba42d155d7b5c27df32d291aee93225994dd86c7b9a8a2903520b9140db",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-003.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/bioresource-engineering/bioresource-engineering-professional-agrology-beng/",
+        "sha256": "b3cfa88f0b3c9829820d12e4f2c46460f6db2fb37a48202d29eec3dcf92562ef",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-004.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/food-science-agricultural-chemistry/food-science-chemistry-option-bsc-fsc/",
+        "sha256": "fc67a0cdee90dfacbf799e34d64673ed81b427de2ee794b5854e9af817dee86e",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-005.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=81&field_fee_residency_status_tid=141",
+        "sha256": "57bedc2d07a110f4708c3b7e3958fab539d24426aebb06c47e7a3689eb317b7d",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-81.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/food-science-agricultural-chemistry/food-science-nutritional-honours-concurrent-bsc-fsc-nutrsc/",
+        "sha256": "1dfcac022a1556f09f19a7bd00d972acf37c3761c9cb0ee33f15e8b69c0be98e",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-006.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/food-science-agricultural-chemistry/food-science-nutritional-major-concurrent-bsc-fsc-nutrsc/",
+        "sha256": "cb37e3b2d8455b7d5cd58329a00d674e536e3f08e0ebbfa4b21bf82e95516f88",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-007.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/food-science-agricultural-chemistry/food-science-option-bsc-fsc/",
+        "sha256": "21cb537c355692369ee3cf1c5b74d23754c4de6cda19c795b66e098994cb59cd",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-008.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/food-science-agricultural-chemistry/food-science-option-honours-bsc-fsc/",
+        "sha256": "acdeb8d86804ca5237591e2e5b6b45d583896b85a1c1e2b507d1d79b343da988",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-009.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/human-nutrition/dietetics-major-bsc-nutrsc/",
+        "sha256": "3c62d3f2201b406d9d8929d5d08af4f3fa11ce137f23161afd7d1a7cd40760b1",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-010.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/undergraduate-admissions/french-proficiency",
+        "sha256": "9ee3ffce03a6aec231d0b21ab43d07353e2b4df49bb241feee3c962f891e5732",
+        "raw_file": "scratch/full-catalog/root/mcgill-health-french.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=82&field_fee_residency_status_tid=141",
+        "sha256": "b61797d7682c89fe4a29e4ea18f4b8a08cfd4c2d32237b1a36df43946bfc4723",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-82.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/human-nutrition/nutrition-honours-bsc-nutrsc/",
+        "sha256": "5235266e2b6f914aa75ba4d76803db10f8cd6033e5843c2b92c1bc7c4c50f0d6",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-011.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/human-nutrition/nutrition-major-food-function-safety-bsc-nutrsc/",
+        "sha256": "6733bcc42bb3bec14f59523c8ccf0e07d04a0429f0c7c5973134a3fefa9f6669",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-012.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/human-nutrition/nutrition-major-global-bsc-nutrsc/",
+        "sha256": "20eecd73c6ec73bd20e2fec7137086f0efea288982fee4036dbb1ff7c1139e72",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-013.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/human-nutrition/nutrition-major-metabolism-health-disease-bsc-nutrsc/",
+        "sha256": "12e726fb9508c4681b6d027623a86a296f2b9a2190506453f3351346de9a76cb",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-014.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/human-nutrition/nutrition-major-sports-bsc-nutrsc/",
+        "sha256": "455bf5012bffb4947e54201d5ced983d1782823b14caba697d0474e301a879eb",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-015.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/agribusiness-major-bsc-agenvsc/",
+        "sha256": "96dfc1f9cee5c0eb7dbb609b5ee3c9cb6a7c8b7d5fb0ad7d420ab2ce662891d8",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-016.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/agricultural-economics-honours-bsc-agenvsc/",
+        "sha256": "ce2fee4558f924a808bc24f27193ee01ca237a157a57688220e742213fe8d0c3",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-017.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/agricultural-economics-major-bsc-agenvsc/",
+        "sha256": "5ef0bd512e41d6d7d0859b719e3342ea351c8ef6e3068c596de2c710f18934eb",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-018.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/applied-ecology-major-bsc-agenvsc/",
+        "sha256": "905a62e11953accad7e4d694224a054de2eec41869e7a2cdd94bd67530290e39",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-019.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/environmental-biology-honours-bsc-agenvsc/",
+        "sha256": "9912fa677ef90ed95be394342a456f840009e476f5fe1efc97d827ffa6fc6513",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-020.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/environmental-biology-major-bsc-agenvsc/",
+        "sha256": "b31b66c5ce8708070d08b4dec44f5df0983ecfab2bc95a123feda930f14cec88",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-021.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/environmental-economics-major-bsc-agenvsc/",
+        "sha256": "7d6e0807d85f30e14920f957e37b078593fad7f24c28613469d76fdf633b5c6d",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-022.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/life-sciences-biological-agricultural-honours-bsc-agenvsc/",
+        "sha256": "cad673d6940591de081ecadc2466e36ddf97b5a5557234e7ca4a2c2b41b812e2",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-023.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/life-sciences-biological-agricultural-major-bsc-agenvsc/",
+        "sha256": "27e58044c9bafc235762353a95f467b9a26e27c2670c1a0b3adf71851b8965d9",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-024.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/life-sciences-multidisciplinary-major-bsc-agenvsc/",
+        "sha256": "b6666c415c5f1b212651a69499005922ebeedbb97a41a05c79efb26d872d6956",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-025.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/microbiology-molecular-biotechnology-major-bsc-agenvsc/",
+        "sha256": "2124a56335059423c69dd9f51689502437bb2bdb738b981f9a845d7eb201a752",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-026.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/plant-biology-major-bsc-agenvsc/",
+        "sha256": "3127bff163bb00ac392302a02a9cea3803fe5569f18f04890b4954dc8d892693",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-027.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/professional-agrology-agribusiness-major-bsc-agenvsc/",
+        "sha256": "0f8f8cee2405788c9d6e5119e12f000b8f6ebb62fef572f5fe9075ddf79f68fa",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-028.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/professional-agrology-major-bsc-agenvsc/",
+        "sha256": "190c135a729abc6c00d21fa8b9cd29db4cd0276e96b27261a99673eaa9208f16",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-029.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/wildlife-biology-major-bsc-agenvsc/",
+        "sha256": "129debc3c5befed1743cb45ab4af961991a2354e836bb34f00dbb5719971aff7",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-030.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/field-crops-horticulture-major-bsc-agenvsc/",
+        "sha256": "dab99102a80262e12dcd97c937286d29fed32edc59118fbb63bd81398e6960fa",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-031.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/global-food-security-major-bsc-agenvsc/",
+        "sha256": "990fdedb4b2b9778b5e6d45959b7748c6201ace1f43ff4076518e1e368fe6569",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-032.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/soil-water-resources-major-bsc-agenvsc/",
+        "sha256": "91eb10462d00dbe8b85c81ffc04ee0b091da3544337e174b7b0d21fc7787e9d9",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-033.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/sustainable-agricultural-systems-major-bsc-agenvsc/",
+        "sha256": "7bf92296645ab8e3341da38b20d6a315ac541762a5fd75eff9dc4daf06a7db24",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-034.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/anthropology/anthropology-major-concentration-ba/",
+        "sha256": "492acc3cb8ba8bc6d4ea5065915ac518a0436a92993a8bd24ef3f766b9492fd2",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-035.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/anthropology/anthropology-honours-ba/",
+        "sha256": "be829b6758c605016cea619754b18312eac256d177fbbc6284273495a5294985",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-036.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/anthropology/anthropology-joint-honours-component-ba/",
+        "sha256": "f043173613ee832b08b4c86034c0ae06da0cf5a291b3e08fcf35e18aa71a2280",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-037.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/art-history-communication-studies/art-history-major-concentration-ba/",
+        "sha256": "86a5c9c8de1f70d6571d1d19117e2fd68b697e1f7ee80ae5903e752803ddc0de",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-038.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/art-history-communication-studies/art-history-honours-ba/",
+        "sha256": "4be2c6aaa03000ae7bf948cf7501f74e0fd7cfe1a2427aa608a4d32a01bc2404",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-039.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/art-history-communication-studies/art-history-joint-honours-component-ba/",
+        "sha256": "279ff3c9f667caa0003f1b860e9d14d2c719433f6027ab5f8a897baf11cf080e",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-040.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/computer-science/computer-science-major-concentration-ba/",
+        "sha256": "0a7c9241cfb56a9ea225fb56cd1a072eb082e33cd97d713f7acb0162f40d1959",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-041.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/computer-science/software-engineering-major-concentration-ba/",
+        "sha256": "e85ae6cf95f098e0010a8bc9c4d2329a19fbbb919636f572318d3b4e5a39dd05",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-042.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/east-asian-studies/east-asian-studies-major-concentration-ba/",
+        "sha256": "8ee09aa8e12d587486abd2ac730ad9c423af1ef0d08d1b29cd3e9ee9165819da",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-043.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/east-asian-studies/east-asian-studies-honours-ba/",
+        "sha256": "9234ccae450a2fb233c485c559033943c755f902ef0e3b8b8a99c0fcee7f8af4",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-044.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/east-asian-studies/east-asian-studies-joint-honours-component-ba/",
+        "sha256": "4324ec82fd827e395fcdbb1ac6b1afea11857bb3fbf996e5acc357f3b9a2ef1b",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-045.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/economics/economics-major-concentration-ba/",
+        "sha256": "53a25bf50bb47f0b357066549f374a3fb2beaa21f0de59b27c2cc8663bb8af3c",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-046.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/economics/economics-honours-ba/",
+        "sha256": "9c91743a59f0f2359f7f44fa9675d9a1d40faac9eb18f2e54ac6a38121d45c92",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-047.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/economics/economics-joint-honours-component-ba/",
+        "sha256": "3e28f99ca89b452e41c177c966da1ce3a10f226971e259bb621d7374edcbdf4d",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-048.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/economics/economics-accounting-joint-honours-component-ba/",
+        "sha256": "54300be6da9392f5f75227a6b28015047d55e2e1e434d89495474e20f6a0af65",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-049.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/economics/economics-finance-joint-honours-component-ba/",
+        "sha256": "7a1b93fc58cfd7d92024d449ac6c19eef21314e827c5607bbe6f8593d8977069",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-050.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-literature-major-concentration-ba/",
+        "sha256": "c24f0ad08386ab4aa522157656286181e6aed16ca9e84ab91678dd98d9b52524",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-051.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-major-concentration-ba/",
+        "sha256": "25ca9f045cd5dd75c82652f5633c9b3c3465fb5b4e596e2ce48e441455c21ad4",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-052.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-drama-theatre-major-concentration-ba/",
+        "sha256": "16e89385ddbf7c88a1d1fef0ee54be24b0ee17585cd7b10c28881d4a6de2fb48",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-053.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-literature-honours-ba/",
+        "sha256": "8550d2b00c65e744f73b48113aff21f49e051bf576f40aa6917af6bb37c935df",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-054.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-drama-theatre-honours-ba/",
+        "sha256": "9c2f61a50c5975fafd0e21b9259fd7154ece43c04867ede2819ae915fd41e057",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-055.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-honours-ba/",
+        "sha256": "9c2379016b4a7a4e00b09a8f0ca765cad455c785bc357e1122892c44df2534aa",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-056.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-literature-joint-honours-component-ba/",
+        "sha256": "e2fa383a1f722f6102cd10f1df55e53f9aad19bb9a5099e5dbfd13504021cae0",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-057.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-drama-theatre-joint-honours-component-ba/",
+        "sha256": "71e5eea6ae5fcb822aa17d66e9209c6fb4fd21c66e96260477fa0bf3a1507d22",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-058.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-joint-honours-component-ba/",
+        "sha256": "1a698d7a7c52348bb10042e44a6889ecdb3c8e5787646c707b4e875265b8a676",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-059.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/gender-sexuality-feminist-studies/gender-sexuality-feminist-social-justice-studies-major-concentration-ba/",
+        "sha256": "b6437f396d6ba2620d5fb421cf5ffff6a87213c732974c523f29501dbd8f6891",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-060.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/gender-sexuality-feminist-studies/gender-sexuality-feminist-social-justice-studies-honours-ba/",
+        "sha256": "60ae2a43305292b8091f91fcae46a4676b35d3c25f2656970aab6e6ea13862c6",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-061.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/gender-sexuality-feminist-studies/gender-sexuality-feminist-social-justice-studies-jt-honours-component-ba/",
+        "sha256": "71c5042212bacd39ab34eed7bc5ee664f0261a9964130540c5babadca5784300",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-062.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/geography-major-concentration-ba/",
+        "sha256": "31477c890749415581c1ca56e0deec160d241c00314de5db5e1528a4d1c27d05",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-063.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/geography-urban-studies-major-concentration-ba/",
+        "sha256": "e1b235e48ef630e1fa7e6b08066f5271b3dab60994e612d297286e1e6823ebb9",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-064.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/geography-honours-ba/",
+        "sha256": "9f75380eb9cf10364f8118039bbfbab03e78b4c9f870a5e5d014fb4f061379a9",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-065.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/urban-studies-honours-ba/",
+        "sha256": "eb16fdae9e7bd49c4bf3cffac6f8b9074b30c8a1d27ab3240f007b4c70a7f713",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-066.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/geography-joint-honours-component-ba/",
+        "sha256": "3c021b45bef593250a597defd3236c74f56b8a35159441cbdd8dd049e53d51af",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-067.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/history-classical-studies/history-major-concentration-ba/",
+        "sha256": "56b0567a3f88e9248455b5f6deee748f93ee054c9ba6cc2367824ef9a967268f",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-068.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/history-classical-studies/history-honours-ba/",
+        "sha256": "e5a76df655141c0c6a0cf1db8bde50022566dc9b67963fc49f09e171f6055bca",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-069.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/history-classical-studies/history-joint-honours-component-ba/",
+        "sha256": "e27f79e17a536125779faf5839d1ff951c316aa8f1f4fdb589bf589242516ddf",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-070.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/history-classical-studies/classics-major-concentration-ba/",
+        "sha256": "653d1894822b62a2b0467475d9d827c9334792ed232e189d3460953d24148089",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-071.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/history-classical-studies/classics-honours-ba/",
+        "sha256": "7105c5c0460dd8ecd44f59e53412df58f5b7dcced42ba6370bba4cc01d9cb9fa",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-072.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/history-classical-studies/classics-joint-honours-component-ba/",
+        "sha256": "54caee7cc4eaff8fbb30a0b55211c6a3e65e0a2395fbf4e72e8e5d33fac1b2fb",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-073.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/islamic-studies/african-studies-major-concentration-ba/",
+        "sha256": "7591f7cd44903fb74ee94caecc6c9fb66a631fee193936a30917ddba59a752ec",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-074.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/islamic-studies/african-studies-joint-honours-component-ba/",
+        "sha256": "30d58855ec7e230ed39116ca947ffc364c9a7396f605c34cb75132ba7b4718d8",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-075.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/islamic-studies/world-islamic-middle-east-studies-major-concentration-ba/",
+        "sha256": "9a1ef9c4d698072ab20c2b96c60d9668d1ab9ef00ffd5a30c4d39fdcf2336222",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-076.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/islamic-studies/world-islamic-middle-east-studies-honours-ba/",
+        "sha256": "e510abc3927df8cb14b8417a963d84afdf0ed025ad3cde3a219a8c85248f78c4",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-077.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/islamic-studies/world-islamic-middle-east-studies-joint-honours-component-ba/",
+        "sha256": "55daf172dde0fd2f77fa20ff0ac6a69cdc0fba5137cc6bd059039885400e312e",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-078.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-major-concentration-ba/",
+        "sha256": "a3f66ccc0f2aec9c7b1bb22d53dab72dec8152c6d00bb282d2d688c81a27c424",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-079.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-honours-ba/",
+        "sha256": "d0e404dc8764e9bd7fc6d61911851f306dfce88792cf267b7e73deb1dd8610df",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-080.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-joint-honours-component-ba/",
+        "sha256": "bb3be77d8358088178dba086bc0660ae0cdbaa594908012e6cc71d371e507215",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-081.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/international-development/international-development-studies-major-concentration-ba/",
+        "sha256": "29547654099130d06f669fb5237d4156ac3451479868790c4b9ba498a3a2c437",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-082.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/international-development/international-development-studies-honours-ba/",
+        "sha256": "bd35cf600114bb901c0d85e221ba053937c1022b33d220a5e0750ae86aa361f3",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-083.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/international-development/international-development-studies-joint-honours-component-ba/",
+        "sha256": "9f9b8cd061a255efae9c3b7b0b5d4337039a43e81047d627c4c7eda280d463ad",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-084.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-major-concentration-ba/",
+        "sha256": "e56ff7d69525364717693c493294b85ee53bc1f689b021d7931d7665af7a2a67",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-085.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-honours-ba/",
+        "sha256": "6f4cd11f6286034c5b3d014b91133cbbd0aa1d3cdeb6cbdfc4ef88e872ff8f3a",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-086.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-joint-honours-component-ba/",
+        "sha256": "690f038013ce730632685f1d42471b89c90ee62352edcb9c8bc92a3e35de022c",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-087.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/german-studies-major-concentration-ba/",
+        "sha256": "063a20fcae027a979cf512b261829eb88f4a46810b87730314c892db17681aa2",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-088.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/german-studies-honours-ba/",
+        "sha256": "a1410fe9513ce011aac57415700c04431f6a23831885f1065a80997833ed90bd",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-089.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/german-studies-joint-honours-component-ba/",
+        "sha256": "40853b118665320d568d8661294fb5858b21359f1bbc244764179382d77e171e",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-090.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/hispanic-studies-major-concentration-ba/",
+        "sha256": "97d7e79c72121fa6f498151ad3f29183804615b5f226834ab3689f1e7f5aee2c",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-091.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/hispanic-studies-honours-ba/",
+        "sha256": "51e9ef77df333790c87f47aa55edb2928b6b1ed18e8edcbf2fd10997b91eacea",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-092.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/hispanic-studies-joint-honours-component-ba/",
+        "sha256": "32421280b13d936b1c1096804b32ed63549308165a457bc9a4a7653c099192ec",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-093.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/italian-studies-major-concentration-ba/",
+        "sha256": "d31749eb4787c0d71f6b930b71efba930eb24d58d8e9131970084b9d3426f835",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-094.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/italian-studies-honours-ba/",
+        "sha256": "1d45da5bb2dcaa4159766f4abb298a19ac209bae453d6e5af51e11737f07bdc3",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-095.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/italian-studies-joint-honours-component-ba/",
+        "sha256": "1776b52099cefb37da747f16bfbc5afb0213e915d46916bf4b9ef65b75d51e50",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-096.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/latin-american-caribbean-studies-major-concentration-ba/",
+        "sha256": "2f594b648651c112a094a26483480897d753a88aebb7f4a1ea64a1095ffd170c",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-097.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/latin-american-caribbean-studies-honours-ba/",
+        "sha256": "0d41892292e7fb37779d61ef9fb6da108c2b1a519fe46ceaf977cca455b01328",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-098.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/latin-american-caribbean-studies-joint-honours-component-ba/",
+        "sha256": "4d51f6ff440fdf2e4e4fd07ce88ef65bffda30e25a9a929e8a6f3dc020835cf1",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-099.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/liberal-arts-major-concentration-ba/",
+        "sha256": "8edfd3cb1ec7a12ad3f65da3741dc4af6f8ec278e0d7ebe925b635ec8a78bab2",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-100.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/liberal-arts-honours-ba/",
+        "sha256": "1c502d2f8d72a2dca13714dc319e0a97629cdc4d395ce8cc673756d4eed9ad82",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-101.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/russian-major-concentration-ba/",
+        "sha256": "97521d54a7671816af338a0c389e1dbbf661909c7b67a661f66e37e0d7ad5d73",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-102.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/russian-honours-ba/",
+        "sha256": "c3c3f0512ae32ee9ee6afcd60758c8add63864de8db1ed4edab0df723aceafe5",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-103.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/russian-joint-honours-component-ba/",
+        "sha256": "850235a9a98c414a29cc642e03cfe7f3caa016ab2ec816fa22e04574b743d5a1",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-104.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-major-concentration-ba/",
+        "sha256": "b3f97011650e810c84edeb177f2c20b4d6df6abfd0ec2c6b8dee9a9221110b6f",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-105.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-honours-ba/",
+        "sha256": "40f894ef290a8fc9ddb4b2ed440d90d2f0d50487eeec5a4933d1189de2fdbfc7",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-106.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-joint-honours-component-ba/",
+        "sha256": "a0f358f1a671911498f10df9c4e9602a6d06ad96767cc041d45a7d585cf68d1c",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-107.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/litteratures-langue-francaise-traduction-creation/langue-et-litterature-francaises-etudes-et-pratiques-litteraires-concentration-ba/",
+        "sha256": "60258e84992a67c511e2f905950fba7ac5affd4023a56c0c87c3c87c86324c07",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-108.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/litteratures-langue-francaise-traduction-creation/langue-litterature-francaises-etudes-et-pratiques-litteraires-specialisation-enrichie-ba/",
+        "sha256": "82a00671621037f1e4459a3b6edd0cd2ddfca57b77fc25ae9e8fdc3feb520cda",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-109.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/litteratures-langue-francaise-traduction-creation/langue-litterature-francaises-etudes-et-pratiques-litteraires-double-specialisation-ba/",
+        "sha256": "73accfac85c24da629499ce6e91c85369df39f450c2f110f3c3196e47ac94836",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-110.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/litteratures-langue-francaise-traduction-creation/langue-et-litterature-francaises-traduction-concentration-ba/",
+        "sha256": "a56cf21d57c02dcd5829f8b37d876f0b344cd4dc66a1f438aad7011022169e95",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-111.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/statistics-major-concentration-ba/",
+        "sha256": "12511de8113d8c92c7ef34ebe61a9780c8bd5227309937ed4d0c33b87032926a",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-112.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/statistics-honours-ba/",
+        "sha256": "fcbe4101f1e2c8705030e1b1adc77b6e3d8fda87396b7784a95f70575e5ccca8",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-113.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-major-concentration-ba/",
+        "sha256": "eead0714778bb35e9e411706b1ea07c2b2e5eb06981a0913f5d15dc2d09dd6c2",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-114.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-joint-honours-component-ba/",
+        "sha256": "68947fc258ea56e4a0b85a47253deca5d5121ba6e28e6016efd8b8eb793b0d1c",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-115.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/applied-mathematics-honours-bsc/",
+        "sha256": "4a0ff22ca7e4388baf42bae0ff74110ef017aed2e591f0bc8426409cb06ae748",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-116.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-honours-bsc/",
+        "sha256": "2801db2ff7742a6c77da0d9f6e6ea266d4d2f621db95971be2caf05af7086ede",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-117.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-computer-science-honours-bsc/",
+        "sha256": "0eb6661cdc93cfee0d765823b2bf0587864acd74bbbf73fbcc74a56ecc84d873",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-118.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-major-concentration-ba/",
+        "sha256": "546aeaa3b9f4d3414a1b37b3e0c88815b4ef41c2c09d6e54812218505da4161f",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-119.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-honours-ba/",
+        "sha256": "874336cd1de697791fca2a4b9fdf9e9eb6b47bb77b66f87e8fecbbdc9ee50c24",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-120.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-joint-honours-component-ba/",
+        "sha256": "ffcac2c82190a0d3388108995dbfe178b9137f8fff69754cabd04765f2f0e497",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-121.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/political-science/political-science-major-concentration-ba/",
+        "sha256": "4167595634bbb346faa08898fb13056bed5c1ecc64e01e667c32368a6547c1ca",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-122.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/political-science/political-science-honours-ba/",
+        "sha256": "5425b33153442b98aaa0e4b52d5d72cda3d8418b16a968722408b4716da31def",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-123.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/political-science/political-science-joint-honours-component-ba/",
+        "sha256": "3f1e64ec135829976b926bc3c07c2acf8e422dd4aef98ed8eea66218899f19f2",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-124.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/population-global-health/faculty-program-population-global-health-ba/",
+        "sha256": "40767a1c9ab6bd1548119ba128bcc4ca8f0a08d23f9e4f19b223fe7053b7942b",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-125.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-major-concentration-ba/",
+        "sha256": "97bbc268c252b3fd9c02ab0481c2784d4b5f165533bb0bbf546cd86dfb1050d3",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-126.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-honours-ba/",
+        "sha256": "aeb56258aa1717065e93270df1439dc191ce1d9ee6a23282d24433df3d035f57",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-127.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-joint-honours-component-ba/",
+        "sha256": "1d69b8195a530019364f12e58651fa8056e4149c35fc131934fe08404307347a",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-128.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-major-concentration-ba/",
+        "sha256": "6c9454bca53fa5c1b4a20e00e2ef598fc64afdfc9b9d2688da6756c96679ca03",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-129.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-ba/",
+        "sha256": "09019a3ada77299554b21885bd3dc84da3efaedf3b720835295adb84011d494c",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-130.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-joint-honours-component-ba/",
+        "sha256": "eca9f985e83b638aa5b29d4d1fd1d304b9ddfd40b8cfb611b4b67c9ee79ec593",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-131.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-bth/",
+        "sha256": "d56df2c0548796bc5ece09c96221fcb4c33be696bbae53a6f4b185b520cfe3fe",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-132.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=85&field_fee_residency_status_tid=141",
+        "sha256": "3f85c155a58e988e70162ff36fa3460e73468a34653052e5db4b03542f4d3021",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-85.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-honours-bth/",
+        "sha256": "273ba78c6be52fb009a640027a824e0da60ff29c716e56c63942f50b8ab541dc",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-133.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/social-work/social-work-bsw/",
+        "sha256": "1ccc3b80eb9f67d56168a75c274684c028819430f5f0f02cd8c5961204904276",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-134.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=83&field_fee_residency_status_tid=141",
+        "sha256": "ff7ea28ed6ec0e6d0fe8751387b24b0df9688adbe7530e62bb86bd8cbf91833c",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-83.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/sociology/sociology-major-concentration-ba/",
+        "sha256": "8b1de7542e3351c3f52f5450d4c3c39e37644ea693e3be953045b0e900276998",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-135.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/sociology/sociology-honours-ba/",
+        "sha256": "241eef63d64eb33c3debe49eed3922a79ee194c913c87139704b6900d70fc597",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-136.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/sociology/sociology-joint-honours-component-ba/",
+        "sha256": "0bd04f7cf691dbcaaa9449208e918a0d00e66e3b828a07252e2ca3b0a66977aa",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-137.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/anthropology/anthropology-joint-honours-component-ba/",
+        "sha256": "6d9d10a8923bcfe2d0419033e3aef0638911ca745ade8971ded2eede7ddf175f",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-138.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=68&field_fee_residency_status_tid=141",
+        "sha256": "3a2e4ed881544ec9ec9dffc3c502a61250d9495e58da5edf4a6c22859964e3b8",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-68.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/anthropology/anthropology-major-concentration-ba/",
+        "sha256": "09aead8c8a2b19534596e71fb8ec589390f8206997fc457ad8b8b85887c2462a",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-139.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/art-history-communication-studies/art-history-major-concentration-ba/",
+        "sha256": "97abce41dbb42302fa1a8d6d062a7051dd4289d81663e35de78d7c132425a8e4",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-140.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/art-history-communication-studies/art-history-joint-honours-component-ba/",
+        "sha256": "58d7b85ddb146bf73fd1d176244a2bba3fee319f007e0b048060be520d17c323",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-141.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/biology/biology-concentration-basc/",
+        "sha256": "f8ab59ae7dff77ea2aa6432872905996d67a0477193b11189b0fef7633dbf002",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-142.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/chemistry/chemistry-major-concentration-basc/",
+        "sha256": "f96a8d7ac51b9d3abba987423a11f571dfef35e542b49672e285a2d736bb0778",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-143.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/cognitive-science/cognitive-science-honours-basc/",
+        "sha256": "7166dd976ea62c8476ea655f0af96ef8e0e68c1fa4dfd328d38d95273c4b2988",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-144.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/cognitive-science/cognitive-science-interfaculty-program-basc/",
+        "sha256": "226b94d9edf37cff6f95f71c4291fea48437ffcc695454dba23ac08325d55daf",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-145.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/computer-science/computer-science-major-concentration-ba/",
+        "sha256": "3cb53f0ef7d2cdb5a6299aff29230902dc050cab00ef17431ff43b3539a279fa",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-146.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/computer-science/software-engineering-major-concentration-basc/",
+        "sha256": "90e76247326d771cf44ec976d2840feb728408a32ff524f32b218fa92667def7",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-147.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/east-asian-studies/east-asian-studies-major-concentration-ba/",
+        "sha256": "953e4529a939e0124866307c60b3f338491d6210f02d48cf3f97abcdda1c19b0",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-148.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/east-asian-studies/east-asian-studies-joint-honours-component-ba/",
+        "sha256": "2f6557d17b36ea54452ea65612eb5c114a4db95ea462b64d1e87bcb602eab28f",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-149.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/economics/economics-major-concentration-ba/",
+        "sha256": "3ce367566efd4c56d69ae2ca8789a8cdcfa861ca949dbf17ea21b8199ca4ec8b",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-150.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/economics/economics-joint-honours-component-ba/",
+        "sha256": "f4ba7a737660f336bf84fb56ae43e1ffd778ee8b7a000c33daeb23c6052b4af7",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-151.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-cultural-studies-major-concentration-ba/",
+        "sha256": "6700c29c5a4200955097a1a56162f140d30088c43b3ae9521437549b2bb9ffec",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-152.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-drama-theatre-major-concentration-ba/",
+        "sha256": "6de380c2690362943e332dd2ebbbcbde109f462574410b011a5ce96820af2925",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-153.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-literature-major-concentration-ba/",
+        "sha256": "42638ee164bdf327399ca5465f0e0cb791e598de44d46c772cdd0d540a334657",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-154.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-cultural-studies-joint-honours-component-ba/",
+        "sha256": "d5a952e45e6abe1a5fb0bcee6afe072f235c7f7a0aea243e7a4fb52958f32af8",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-155.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-drama-theatre-joint-honours-component-ba/",
+        "sha256": "b4cad25766fdb092b247486220314fa9e0a687a9f222cfd6b184de37aaeef6c2",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-156.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-literature-joint-honours-component-ba/",
+        "sha256": "3c3cde8a8153b52e62a23b8d5c893c7cf60a3dfdf0b342ea6d640d79cfae0d1f",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-157.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/environment/interfaculty-program-environment-basc/",
+        "sha256": "96a6d3fd3dcd95f9e380285a309cea51d70e09183ca9f4c916bd3f6aabe35dfa",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-158.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/environment/environment-honours-basc/",
+        "sha256": "17abdf334ab31901c46f09e05f5795d221c46fc1edb4aae0bd63735a38ad7882",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-159.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/gender-sexuality-feminist-studies/gender-sexuality-feminist-social-justice-studies-major-concentration-ba/",
+        "sha256": "3f26c4549f5a5fc5cf4ff6974a392009d51d837ddfe87891a9f25cae02c81aba",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-160.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/gender-sexuality-feminist-studies/gender-sexuality-feminist-social-justice-studies-jt-honours-component-ba/",
+        "sha256": "47dcb1f2ba612e70e32f54365448240c643e347af09683f50ecf16cd72e62b0f",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-161.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/geography/geography-physical-major-concentration-basc/",
+        "sha256": "7e25ab32e06f0a770416dbae30ae1c874619e9a0990e96f07f79ed451d4332a0",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-162.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/geography/geography-major-concentration-ba/",
+        "sha256": "0e5f7a9da32bb7ec7510da1702ca34bfcb8d096fa480336e1c0dc7e51ac62623",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-163.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/geography/geography-urban-studies-major-concentration-ba/",
+        "sha256": "cf0c78eb94d83b25efbe593affbab6669526f5e0804cc0e56f2c263a36937e1c",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-164.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/geography/geography-joint-honours-component-ba/",
+        "sha256": "00a0742576302e99bdc3fea855079d92622ac4f495082b0becbc74a343d66d01",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-165.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/history-classical-studies/classics-major-concentration-ba/",
+        "sha256": "a45cdcdca1959af1b58d48f3cdb3d2a9f4004fec7860141bf9e714711fe6ea72",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-166.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/history-classical-studies/history-major-concentration-ba/",
+        "sha256": "be0ec6a2836ea8fa4a50ed85d0436a55cfeea5bdef7518e279dd8158e13926cb",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-167.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/history-classical-studies/classics-joint-honours-component-ba/",
+        "sha256": "ea24de790d60d56ce0c815300df0896b74852f6c954186bc6972ce8913c37b9c",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-168.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/history-classical-studies/history-joint-honours-component-ba/",
+        "sha256": "bb8ccbc36c2e7a7f738649ca78dd0f660c135e5a049afc2dee9948f2a7d42a91",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-169.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/institute-study-canada/canadian-studies-major-concentration-ba/",
+        "sha256": "d48c9b4bfbfb182f944cdc54b04acdc783b7694b0337c2271e90caebdb0d94c8",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-170.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/institute-study-canada/canadian-studies-joint-honours-concentration-ba/",
+        "sha256": "6c7e8afa38e02f15cbbad1c0c9ebefed69937fa34e850493b03e221e7f283dee",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-171.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/international-development/international-development-studies-major-concentration-ba/",
+        "sha256": "d2569c3fc5a32bfb96bba95d4eb483f94a202ba50325eb48d00407c2f10c8261",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-172.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/international-development/international-development-studies-joint-honours-component-ba/",
+        "sha256": "d1a7ac48625eb432208e332be15735a516b01967fe6cc5fea478e1632f3555cb",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-173.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/world-islamic-middle-east-studies/african-studies-major-concentration-ba/",
+        "sha256": "92e065f9074bb8da8f8712e879b16c14f43345e828f0940e9187b4bf7ca2bf96",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-174.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/world-islamic-middle-east-studies/african-studies-joint-honours-concentration-ba/",
+        "sha256": "78b5905d73eaab70a7d2af174789ef7767813611fa23e6885335c3d13ce604ae",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-175.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/world-islamic-middle-east-studies/world-islamic-middle-east-studies-major-concentration-ba/",
+        "sha256": "beb826ea8ab78492eb9d9315c4b6b6c9fe119d1ea6139569c952fc3cbfc7ff76",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-176.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/world-islamic-middle-east-studies/world-islamic-middle-east-studies-joint-honours-component-ba/",
+        "sha256": "d7590043a9c284e391f7ad13c00ec0aea48137dae03d312af576510fb4d00fe7",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-177.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/jewish-studies/jewish-studies-major-concentration-ba/",
+        "sha256": "8da9a743e4641657412328205b23d949c82ba908461ae027cdcd6a667416d99c",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-178.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/jewish-studies/jewish-studies-joint-honours-component-ba/",
+        "sha256": "b5ca4f93fb677046c638cf8979922c29faa80d7eb9abce178b72e3b3b3885456",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-179.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/french-language-literature/langue-litterature-fracnaises-etudes-et-pratiques-litteraires-double-specialisation-ba/",
+        "sha256": "a708a90a73b0941a69d37b3294a3220b58a7fbb502e588ed40b5f2facb9065ba",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-180.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/french-language-literature/langue-et-litterature-francaises-traduction-concentration-ba/",
+        "sha256": "f903fac49c6fecaeba77ae7b993c2c61b6e9e51c424e6ed6336e408e236145ef",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-181.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/french-language-literature/langue-et-litterature-francaises-etudes-et-pratiques-litteraires-concentration-ba/",
+        "sha256": "3bd60a417b022bce6e6481f49175c313444d3edc37d4d427ce7180590e58859d",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-182.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/german-studies-major-concentration-ba/",
+        "sha256": "c6689c7cb6980f3ca35f04601b74b5e67cc7e97872f138ea9fa9f930cce37c31",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-183.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/german-studies-joint-honours-component-ba/",
+        "sha256": "314d0979a0a2cf1f568a24f3b6bca19c049b5df93b67b96867157fd1ea238c9a",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-184.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/hispanic-studies-major-concentration-ba/",
+        "sha256": "456226bddfaebf170014e50d4df4cb8addcd3a526b73f872c7fbaeb7c61293a7",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-185.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/hispanic-studies-joint-honours-component-ba/",
+        "sha256": "02068e9d99fa85b125d0e15e7f33d60151bf226aa173eb55101c91b653174b06",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-186.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/italian-studies-major-concentration-ba/",
+        "sha256": "1acb0fdc63e295135e41e984d94e0e38eadd0e337601cf2ba5554a2f631d6a11",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-187.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/italian-studies-joint-honours-component-ba/",
+        "sha256": "ebb40baf3c0cd1d9a1f6865df8982745deb51e56e08f9206057f490a410d9936",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-188.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/latin-american-caribbean-studies-major-concentration-ba/",
+        "sha256": "ccc8802928008d5b9d9747339d240529402e32745fa16ba9109756509fde30ce",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-189.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/latin-american-caribbean-studies-joint-honours-component-ba/",
+        "sha256": "3323fc685a6fc9e86482b95f93f10a0009afd71264e268414c6141c24c605999",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-190.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/russian-major-concentration-ba/",
+        "sha256": "dd63ff5df015149db7e976addef562f2832ac77c816f9ab08c2ae027064cb4ad",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-191.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/russian-joint-honours-component-ba/",
+        "sha256": "ae2d846fafee847aceb9a10ae1aa43f03251f663da0b9e0843056db07ba0c708",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-192.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-major-concentration-ba/",
+        "sha256": "fa738035f1b0b8759e6c630658c45e13e966b920ae90112d5515d94c2f557e1f",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-193.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-joint-honours-component-ba/",
+        "sha256": "f641c7d2a237db6c0bfa1d22fe9fa8c784566b0805c77d1c52ffa2ac6f38134d",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-194.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/mathematics-statistics/mathematics-major-concentration-ba/",
+        "sha256": "8a397b203f68cae71e0a8db79396c567f036a243b98e699873d4a9bcc47cac4e",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-195.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/mathematics-statistics/statistics-major-concentration-ba/",
+        "sha256": "6679ed60a791bb7743103996ddf361f6c96f502311e9a65905960a566bbaefea",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-196.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/mathematics-statistics/mathematics-joint-honours-component-bs/",
+        "sha256": "d1a25e446112cf6af883006c56c3faeac734e7b43abaa0bbe80bcacc4651c3b7",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-197.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/philosophy/philosophy-major-concentration-ba/",
+        "sha256": "0ab8bb6749d0dcd9d520a3decaaf0dee1168aac11db50b0c482de192de7653f8",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-198.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/philosophy/philosophy-joint-honours-component-ba/",
+        "sha256": "c37e00d4f06fe0e81840394ebeac9dd87cb231f8cba136f3edea8a5de9a7e4bb",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-199.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/physics/physics-major-concentration-basc/",
+        "sha256": "93ddd4089ac86d6977d4126efabc314a6c3ddf6f27ef8eac8219e8b44d888afa",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-200.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/political-science/political-science-major-concentration-ba/",
+        "sha256": "da56013058dfbb33106a8170acd7bc78523d01fd09cf10c0c80a29bfba6224d5",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-201.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/political-science/political-science-joint-honours-component-ba/",
+        "sha256": "39baab4bf39e29943926701d24b7cf867d65dcc36e1923eef3f90f410fd3b484",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-202.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/psychology-major-concentration-ba/",
+        "sha256": "bab0fd97de9ba044a78b89fa7b853f5f14eea5af7aa98339828343f21986ed9e",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-203.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/psychology-joint-honours-component-bs/",
+        "sha256": "b4ff115e242daa55c24b4fe52cc3286610bb48ef5c5a308c607ce34b8d2ab0a8",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-204.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/religious-studies/religious-studies-major-concentration-ba/",
+        "sha256": "77ea6631e0620a154534d869efc19f0abd21297cbe9edc1e326705e99d4ba3f5",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-205.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/religious-studies/religious-studies-joint-honours-component-ba/",
+        "sha256": "b26b78d6e63d97d02001ff68e0021d8ba9448df163792788c8d25b90625b767c",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-206.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/sociology/sociology-major-concentration-ba/",
+        "sha256": "7b69896b493be4a71615ff6262969f1f477443b9c6955ff1f7e312a92834f6f7",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-207.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/sociology/sociology-joint-honours-component-ba/",
+        "sha256": "3dc76dc102ee27ece8087f94c445077a7a57df3f1ed24646ee24f932c4054706",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-208.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/sustainability-science-society/sustainability-science-society-honours-basc/",
+        "sha256": "2fc7c9d9e437453ad625fd584488a2f2d4d7dcfbea6b5ea074ed895950eb9798",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-209.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/sustainability-science-society/sustainability-science-society-interfaculty-program-basc/",
+        "sha256": "2b6aa10f19863562813a08d6d3b75fe03b2f3e5f212113dee5e10b4c1b2fa6ca",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-210.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/",
+        "sha256": "ca4dff81988cf4022b693dd8d176afd2b6e95862d794297e8f10f770b6c2153b",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-211.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/requirements",
+        "sha256": "dc67cd6428442b8ff0beadfb8cb40d666749e8c9a7debf01777b1dc988a4a9b8",
+        "raw_file": "scratch/full-catalog/root/mcgill-dmd-requirements.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/applicant-categories",
+        "sha256": "b158a549c8a0974c0c226b3c5de32a4c6b6a21896c697c63b52bb6b4d31bcd5a",
+        "raw_file": "scratch/full-catalog/root/mcgill-dmd-categories.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/supporting-documents",
+        "sha256": "ea3c3a93324c336c11074fdfb6b12481114f3bac8ffb4590fbfe1a4e18093f06",
+        "raw_file": "scratch/full-catalog/root/mcgill-dmd-docs.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/offer-admission-dmd-program",
+        "sha256": "5e3004e1b8b6c4d5068d4f08ddd69e11a721873c0f19e5f1f855d2465e38ebf2",
+        "raw_file": "scratch/full-catalog/root/mcgill-dmd-offer.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=91&field_fee_residency_status_tid=141",
+        "sha256": "809f305b723f56b4c0067edfbba71993f081ce41f126138f61680ba29f08fc39",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-91.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/kindergarten-elementary-bed/",
+        "sha256": "44bbad19062655d4c9103aad3f22da5fb3fee04e1ba118f48ca9307e6d07e55d",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-212.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=70&field_fee_residency_status_tid=141",
+        "sha256": "06d4f26210b154df5eca182966c89b48a93ccb9e25b15a400b32c802521eaa90",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-70.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/kindergarten-elementary-bed-first-nations-inuit-studies/",
+        "sha256": "b7558c8cd36130a4b438ecc88a12a204a649fc5f46aeeb6362196be9fff93756",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-213.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/kindergarten-elementary-jewish-studies-bed/",
+        "sha256": "bc59893be0469c7873bb8498a0908106829e72e3c450b6d93c7c6176af8d1d72",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-214.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/kindergarten-elementary-pedagogie-immersion-francaise-bed/",
+        "sha256": "7734dae1b7e160449e122a4e5d091fe41e9a1be5b3b25eb72afbd788fb33b59f",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-215.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/education-global-contexts-ba/",
+        "sha256": "62d0e47a2771b2606bb1171a1896050b61b81f0d035960479bd70973200a236b",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-216.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-english-bed/",
+        "sha256": "704a64dd406e005cf036e56f9d75950287a2e82c7d4df99c24fd9b95381a1f0a",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-218.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-mathematics-bed/",
+        "sha256": "a1f8ea9cc9deaf3c9924c553d1b0522680eb5db85dc7d64d6c1d46ef18cea0ed",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-219.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-science-technology-bed/",
+        "sha256": "172925948f03e6526807274e374eb17ed6ef471ebad2bf816974f7a63039d99b",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-220.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-social-sciences-bed-history-culture-citizenship-quebec/",
+        "sha256": "0dbbb464207cad68f65174b8ae4d053bf84167fbb35af3467f742c7990a6922c",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-221.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/secondary-social-sciences-history-citizenship-geography-bed/",
+        "sha256": "ccf9feef8c950776b171c1772edf759e8b7bf465647e35bdb87accb55d34eeba",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-222.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/tesl-bed-elementary-secondary-teaching-greek-language-culture/",
+        "sha256": "ac9a07556c46ed2fe4c47620df30810ad3f514ded74e5df18f92aab206c7ced6",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-223.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/tesl-bed-elementary-secondary/",
+        "sha256": "c095b68d51db2ae15789739826519410da851d6bd4b1b07427a3a16839470b83",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-224.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/vocational-studies-bed/",
+        "sha256": "9986a482de2d8f3496bf1c99a00e4e5ad9cb5e24dc5e62f3b98d2ab9e44ea4c7",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-225.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/programs-first-nations-inuit/elementary-education-indigenous-bed-certified-teachers/",
+        "sha256": "4c6c11cb46ea4f0f68bf73cac2ba19c9b76e3dc31048a0b98325e3a3196f07fe",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-226.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/kinesiology-physical-education/physical-health-education-bed/",
+        "sha256": "0210969086d44efce25dbc002857ea3f96495b673d9f3bf527e2ae27728599dc",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-227.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/kinesiology-physical-education/kinesiology-bsc/",
+        "sha256": "13302f598cad09954f7856c733b20c5acfe1c5d72dc6b96223ebbbb7d3c66bf3",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-228.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/kinesiology-physical-education/kinesiology-honours-bsc/",
+        "sha256": "549e9b85e2d30dd626cd0d3169865a0b922ee1917291847dd524d89392a27a8b",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-229.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/architecture/architecture-bsc/",
+        "sha256": "fc50080c63337fa5cc42d88d39f647685eda0f9b315338acb0cccc09352647ae",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-230.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=80&field_fee_residency_status_tid=141",
+        "sha256": "fb8a38a0f4cd184610ef22ddd783a122680577188fb3ebe1a62410d4db24d3bf",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-80.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/bioengineering/bioengineering-beng/",
+        "sha256": "534f6c98d41c9ec7b4aaf8a341e0a338586d3a4e90da4f8ca0ae00cb07ee8002",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-231.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=71&field_fee_residency_status_tid=141",
+        "sha256": "de7d2a0caf80f3ff753d747361afdf6cacf1653a89041810fe05b5468c692a93",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-71.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/chemical-engineering/chemical-engineering-beng/",
+        "sha256": "757e38fbb3261b406fe2d769e75ee1a32651a08b80ddb7e777cd9013129232c0",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-232.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/civil-engineering/civil-engineering-beng/",
+        "sha256": "d32364307bcc88ef7139a4e2cd82578e83f834537da62d7cdf0a1a96b12c28ff",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-233.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/electrical-engineering-beng/",
+        "sha256": "251083d84c55a9f1b9372d824c3f6122ba224589b2bfac5e00fb4ace6529f5ce",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-234.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/electrical-engineering-honours-beng/",
+        "sha256": "a6494814fa37cf21ad30b2a8072edeb6bf604ccbc97a29d14277a445f96e4513",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-235.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/computer-engineering-beng/",
+        "sha256": "9bce6bd7e90a93292c55b2bc49353cf220852b723ee03d8ebc5291b0d045c2d6",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-236.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/co-op-software-engineering-beng/",
+        "sha256": "fa8feed397e8e1ecb2b31cd6fce458369b569faed5829680a45645cea21ff8a9",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-237.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/global-engineering/global-engineering-geng/",
+        "sha256": "4dd86e219d7dd30ae8b1e841d8cca8693c9fe7d99211a6017f940bf4a59875aa",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-238.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/mechanical-engineering/mechanical-engineering-beng/",
+        "sha256": "6cc10e0fe2b217f599761a36af7cef763dc429e5dc044ced0a8e3527982a4e63",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-239.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/mechanical-engineering/mechanical-engineering-honours-beng/",
+        "sha256": "062206af96e0cbb7ee5a858cae834e079ae3ddb7de4c598c915ec40910ed3df5",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-240.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/mining-materials-engineering/materials-engineering-beng/",
+        "sha256": "5d9b309d7d42772ee1f0effcc1003c73bc6539483879a0eb2031ac928d58c507",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-241.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/mining-materials-engineering/co-op-materials-engineering-beng/",
+        "sha256": "34a1394a476ce2e0ce267df8e66cbbda255f65f961c9daa1a71a402e1b874e1a",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-242.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/mining-materials-engineering/mining-engineering-beng/",
+        "sha256": "6e7b0bbaac7b9489a0d683887baa4939269fb81b61490aebbbaa1288fcf01105",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-243.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/mining-materials-engineering/co-op-mining-engineering-beng/",
+        "sha256": "3b8a85c5bc77eca9603b0d21898fa0e5089dc5b5636f4ad7076dc2812b4c389c",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-244.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/ba-faculty-program-environment/environment-ecological-determinants-health-society-ba/",
+        "sha256": "66a1387eb94e6830714567259a69db307e43fe73e2c97b86837e2741b81ad156",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-245.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/ba-faculty-program-environment/environment-economics-earths-ba/",
+        "sha256": "296095c21c6a64fd65070e4fad240d3c6a533358cd4a021bb6da3bf41189f68f",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-246.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/ba-faculty-program-environment/environment-development-ba/",
+        "sha256": "495dc8f8584ee8c7c13183c039434fa51cbb499583351403db245da4f444b99d",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-247.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/environment-bscagenvsc-bsc/environment-major-biodiversity-conservation-bscagenvsc-bsc/",
+        "sha256": "d8079a7416d51ebe68c2b71d28f27cabd1863e9b0269d621c1b64b6ddcdd9df9",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-249.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=75&field_fee_residency_status_tid=141",
+        "sha256": "3db69a0f68f3273920c415d4f5e1dae82e1cf928074131b965f62893420c381b",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-75.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/environment-bscagenvsc-bsc/environment-major-ecological-determinants-health-cellular-bscagenvsc-bsc/",
+        "sha256": "135415bc019941726130dadfae72905e4a8901b8d40cae5cfe52cd8332c51aea",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-250.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/environment-bscagenvsc-bsc/environment-major-ecological-determinants-health-population-bscagenvsc-bsc/",
+        "sha256": "1ceec370ae6fca6e27fc3488fc400c7a2ccec50013e8d3ebabd0933756d94c74",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-251.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/environment-bscagenvsc-bsc/environment-major-environmetrics-bscagenvsc-bsc/",
+        "sha256": "20ccbea5b4293ee418fd2c21989e67c9701e957667701c6ba64d496b88df1669",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-252.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/environment-bscagenvsc-bsc/environment-major-food-production-bscagenvsc-bsc/",
+        "sha256": "721d0061d2098ea9a411f0d530949457fc0f374b8725dd9ba5620f883dc2a249",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-253.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/environment-bscagenvsc-bsc/environment-major-land-surface-processes-change-bscagenvsc-bsc/",
+        "sha256": "b006b888de637180c9c8e2643d6127463df69e3c00da6c228caa42a3ff767f9e",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-254.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/environment-bscagenvsc-bsc/environment-major-renewable-resource-management-bscagenvsc-bsc/",
+        "sha256": "60643c4f6ffaef4b7d22fcc2529893da30d00325b347051aab671f935fd38f82",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-255.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/environment-bscagenvsc-bsc/environment-major-environments-ecosystems-bscagenvsc-bsc/",
+        "sha256": "a7bc98b075447ca4880cf5f4aa8a4cc1867e31c73b7dfcf1616d5399f4b4262d",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-256.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/major-environment-bsc/atmospheric-major-environment-air-quality-bsc/",
+        "sha256": "17b7911e7a8d587626db48e9bf1ad276da5f096a9ff5274de59899010ce074d6",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-257.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/major-environment-bsc/environment-major-earth-sciences-economics-bsc/",
+        "sha256": "58051b9c07e3a0db6901639a6d484943503c94476a02cdc8f0efa47660eb8de4",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-258.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/honours-program-environment/environment-honours-ba/",
+        "sha256": "05596752a5db6878364624da0f4c997e8ed1d17a732a98854eae78ce4ebed033",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-260.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/honours-program-environment/environment-honours-bscagenvsc/",
+        "sha256": "809212ab9b3ccca3fc1d5bdb2e66627f502252ddf89541e9c4ff7d065e30063f",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-261.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/honours-program-environment/environment-honours-bsc/",
+        "sha256": "fd217ac1ef140b8998ab20ee486eb3c4f2f4f4749dd77a64edb13cc76a5addc2",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-262.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/joint-honours-component/environment-joint-honours-component-ba/",
+        "sha256": "206c62dca2f679f96477a2c6f4f515d2f1a1b2cf8c78deacbf189acee39641a3",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-263.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/honours-law-bcl-jd/",
+        "sha256": "d747aec5e86ca304891dc6b7bf8985445250cafd05ee13ad86caa2ac283c951a",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-264.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/eligibility",
+        "sha256": "c0b32c99bb701997c0b3a7f504079e5583fa18677ff7c1730e0480158c074f35",
+        "raw_file": "scratch/full-catalog/root/mcgill-law-eligibility.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide",
+        "sha256": "80bd9180a224deabca6e386b2b1a0f4b08c0bb53a45c6e9b369e5421a5db20ee",
+        "raw_file": "scratch/full-catalog/root/mcgill-law-guide.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=87&field_fee_residency_status_tid=141",
+        "sha256": "33baa9ec6d8e7e03175bd84a07506da65add2083db3f377fd2c0d9f5f31e57ca",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-87.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/eligibility",
+        "sha256": "c173b8cc3c36d478f3649be6f903cd584993cc6e866600efb61caa322ced872b",
+        "raw_file": "scratch/full-catalog/mcgill-law-enrichment/raw/eligibility.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/lsat",
+        "sha256": "c42bfc7b032cafc193a52f845f927088f19832a707c42788d87b870bc0b14674",
+        "raw_file": "scratch/full-catalog/mcgill-law-enrichment/raw/lsat.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/application-process",
+        "sha256": "e48dcf96aba4ec7ce91fa889c7744d8ced8b76d1989f5d0ed738c597fde541d7",
+        "raw_file": "scratch/full-catalog/mcgill-law-enrichment/raw/application-process.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/supporting-documents",
+        "sha256": "3fccbb6a92f58b1e904841ba17e245cfeddeecc2ea75290f6485260f86d38cbc",
+        "raw_file": "scratch/full-catalog/mcgill-law-enrichment/raw/supporting-documents.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/law/bcl-jd/admissions-guide/applicant-categories",
+        "sha256": "ad62413a3a2e2cf07411ea7fd14a804c86a6c1b42f57c99d85b13221e1709351",
+        "raw_file": "scratch/full-catalog/mcgill-law-enrichment/raw/applicant-categories.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/law/bcl-jd/program-description/minors-majors-and-honours",
+        "sha256": "f4698f8841d715d1d013129bb4486ae71c1cdfc0b3f4bda904e3c227ed09560f",
+        "raw_file": "scratch/full-catalog/mcgill-law-enrichment/raw/honours-majors.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=87&field_fee_residency_status_tid=141",
+        "sha256": "804d6a43e0675b212a1693dc0c4bd7aecdb635df14500252a3ab432e5ddcdfcc",
+        "raw_file": "scratch/full-catalog/mcgill-law-enrichment/raw/international-fees.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/law/bcl-jd/program-description",
+        "sha256": "0ec703a22555b9e2ee323cd2a8ad41550c204c5387d04ffcc034092a25dda2e9",
+        "raw_file": "scratch/full-catalog/mcgill-law-enrichment/raw/program-description.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/law/bcl-jd/program-description/beyond-classroom",
+        "sha256": "51fce784fa6fee4f3078df4fdc1b9ea6f5e4540ef60c54c77aeced5eab1ff266",
+        "raw_file": "scratch/full-catalog/mcgill-law-enrichment/raw/beyond-classroom.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/law-studies/node/36/MINOR",
+        "sha256": "022103c425c08c08f0d10bb85ae76f8e31b0ae9d27fe0c9c8e3186758a185c8a",
+        "raw_file": "scratch/full-catalog/mcgill-law-enrichment/raw/student-affairs.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/law-bcl-jd/",
+        "sha256": "e7efbbbb6c0fcc07acabdb0813f55d64329c0feba49b7c28b58a96b810fa756d",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-265.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/major-concentration-law-commercial-negotiation-dispute-resolution-bcl-jd/",
+        "sha256": "95a7bbb9231c0ed0c690d8a67abc60fd3b30fd8143ec1085589999fb8b2b8ef3",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-266.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/major-concentration-law-major-international-human-rights-development-bcl-jd/",
+        "sha256": "fd745c6c8e38a50d3aa13f7c586e97aacb0b425d79cc3ab2eb745d9bbe799a71",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-267.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/accounting-concentration-bcom/",
+        "sha256": "b5bc24f8f7570eda22b393c56cfdb76c4c2adf0772593fbc03b3c0ece10992f4",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-268.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=69&field_fee_residency_status_tid=141",
+        "sha256": "e2a70ece8f0c955f4c406c94d25b869d78b22c4d5d21d6b646a4a5205acdb9b6",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-69.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/business-analytics-concentration-bcom/",
+        "sha256": "7dde92b86f9d7fcef8a29ac10614792fbe2fcc1ce01c2dd91e039bd37c8f4a37",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-269.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/entrepreneurship-concentration-bcom/",
+        "sha256": "a99c1e1416b076b83ccde23693c90002a349546df76363c39f36a905ba954125",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-270.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/ethics-concentration-bcom/",
+        "sha256": "89f0a1ed38f1a7637d533a2a3abed0123f0cdb70dbf576d8e2acdad43398956b",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-271.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/finance-concentration-bcom/",
+        "sha256": "28b69cc284ee741323b7e80752841ad3393b4678fa250c2bc0a39e797c881d0a",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-272.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/human-resources-mgmt-concentration-bcom/",
+        "sha256": "d5f538052c33541ce79466557112d636a603da59945de921d566ee51f4a63377",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-273.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/information-technology-management-concentration-bcom/",
+        "sha256": "e37a67279c9892ac9e2340b4f77b61671e789352a6793c2b1d30d1d87ed64395",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-274.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/international-business-concentration-bcom/",
+        "sha256": "a946e55f72bbe148faec7729c3c3590a2061a66b34911b60c01036cac62a62f4",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-275.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/leadership-people-mgmt-concentration-bcom/",
+        "sha256": "6de222e8352bf720188d0687e74311d244349c91f199129fa5dc9d825e1c41b2",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-276.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/managing-sustainability-concentration-bcom/",
+        "sha256": "95947c9a0f1a7f09dbcec557c9e23f657455af65d4669d4eb4beb7723d857a4e",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-277.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/marketing-concentration-bcom/",
+        "sha256": "305b4f11699ba6de63ab4472fe3c4d1d0fa9011dacab76f2836ccaaea2685cfa",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-278.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/operations-management-concentration-bcom/",
+        "sha256": "3dd419b0e354769f8a56258377869158b29f5199908968e978a576ee4ae5eb70",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-279.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/retail-management-concentration-bcom/",
+        "sha256": "0c38dc72a3d78a3af4d24d5f237068a8d45d9509805358fd1b5f978f4b2a4943",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-280.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/strategic-management-global-concentration-bcom/",
+        "sha256": "ad8e8c49cf2253c8b144e7999d2ab4e06787cd89b762ab98ac7a7c27cf517ea6",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-281.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/strategic-management-social-business-enterprise-concentration-bcom/",
+        "sha256": "af004d9ffab62b39628216b2181cfee45763113fc0e0c58314ac1f7b83480db4",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-282.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/accounting-major-bcom/",
+        "sha256": "d95e18bdbf832e33e43b5306c52170212eed3d7c15c75cf267944212978e5285",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-283.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/business-analytics-major-bcom/",
+        "sha256": "6e9bce86f3bc7e09570e15cf2762025d4d7144ca1672af8219e81f2b07fd0d4b",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-284.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/economics-management-students-major-bcom/",
+        "sha256": "415001b3df323a6626bcca4f437ace3727df5f7d32224a51ed245bc4551d7ea6",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-285.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/finance-major-bcom/",
+        "sha256": "bb9c7acb1809f90cdea186e2522c88dde47d2a67ab47ad606cd077f8b06aff77",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-286.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/information-technology-management-major-bcom/",
+        "sha256": "66aea100ac31a4306fff906b08edb54264414c3efe49996366804b6ae3496141",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-287.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/international-management-major-bcom/",
+        "sha256": "32281432ba37bc2c6772fd4d50bfe5a482fde32fe2fbcea04a05147d757b4995",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-288.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/managing-sustainability-major-bcom/",
+        "sha256": "b6b016f6d5ea54579c595d7dbd61aa1000ec0d1e8ce7855bd235a1e016b71acf",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-289.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/marketing-major-bcom/",
+        "sha256": "5be4bac438757f92426e2c4307e9fe2ed7fe6b96918f4e0ad8455ec9203c2326",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-290.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/mathematics-statistics-management-major-bcom/",
+        "sha256": "eab8b633b0167d0b0b93db6449f5ca22aebb18671574cfe73b1202d39baebc6e",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-291.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/organizational-behaviour-human-resources-mgmt-major-bcom/",
+        "sha256": "a9770d85fc5c4f16ebe25c79f69d4afdf4e26dbc256697067c96e975a82bf1fb",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-292.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/retail-management-major-bcom/",
+        "sha256": "e8563b18c262432629aa8de32698ed23e4d179b09d807262829f7e0611cd4487",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-293.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/strategic-management-major-bcom/",
+        "sha256": "f1e9e070ad8a448139dd93629904324ea0955329a395ffc2a4c8951070dba706",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-294.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/honours/investment-management-honours-bcom/",
+        "sha256": "1b372b118760e1b9b8d3c29c96c370cfef712b06fe80f2e36e0c15fbcd3c00e1",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-295.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/medicine-health-sciences/professional/programs/mdcm/",
+        "sha256": "26fa824e62769e01212288b76051b26d776caf90a6f6887473d2a522fad9b75f",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-296.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/medadmissions/applying/categories/int",
+        "sha256": "0c44bdef14022feb17e486734f83f561823c53179c9a9e32b24da2cce4bc2318",
+        "raw_file": "scratch/full-catalog/root/mcgill-med-intl.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/medadmissions/applying/requirements/requirements-edu",
+        "sha256": "adb1420986feffe31050c148edf14f592aff8a2274b73f4f3b9ff6241f09d43b",
+        "raw_file": "scratch/full-catalog/root/mcgill-med-academic.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/medadmissions/applying/requirements/general-requirements/language",
+        "sha256": "41ec6714767e87a9ada7bfe1b24c85c23b9a053c2d70865938080b8bfdd80b7e",
+        "raw_file": "scratch/full-catalog/root/mcgill-med-language.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/medadmissions/applying/application-process",
+        "sha256": "ef052e6bca2e2ab8374076952666baa47488f19a76b1604f09ed8b02644baada",
+        "raw_file": "scratch/full-catalog/root/mcgill-med-apply.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=92&field_fee_residency_status_tid=141",
+        "sha256": "a09f87402ddd88eaece8959157fce05e384a4fcb9b231e590b28ef64c55c2c13",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-92.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/composition-major-bmus/",
+        "sha256": "d096ef88047692b9c272782dcc952f347b09162d5ad9b1be223b3856a2dff203",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-297.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/music/admissions/undergraduate",
+        "sha256": "e21ea69828fc6a6ccee3144870c4a7cbe6acdb15eb03cad2fb061240292a33de",
+        "raw_file": "scratch/full-catalog/root/mcgill-music-admit.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/undergraduate-admissions/apply/english-proficiency",
+        "sha256": "5504ee1d7dff455464bc7bf748af2089d4cc24fa9d960c8fbf6cb146a2dcb46b",
+        "raw_file": "scratch/full-catalog/root/mcgill-language.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=73&field_fee_residency_status_tid=141",
+        "sha256": "e6b98b19ac5e3ae0cc20a7f076068d25ea54ec11926b471bd640c94488cbcbd4",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-73.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/major-music-studies-bmus/",
+        "sha256": "5428c98c4b7929a512dcec091e2f7c1612cb9e80b43bc4f852eee6b9b9645219",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-298.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/music/programs/bmus/faculty-program",
+        "sha256": "15bd8ed897b5ab153bb3975f280e1e3e09f598219106ca1c6dc41b6cfbcf3b26",
+        "raw_file": "scratch/full-catalog/root/mcgill-music-faculty-0.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/music/programs/bmus/faculty-program-jazz",
+        "sha256": "d417e7407a012921fdb373ed6bd935cdf09b90d3a2a171c9dbbf2d72772ef73f",
+        "raw_file": "scratch/full-catalog/root/mcgill-music-faculty-1.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/music-elementary-secondary-concurrent-major-bmus-bed/",
+        "sha256": "a069a21fc03ef730b60b9994ab99670257c73b7c4d56324f73f4cf447afc3d61",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-299.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/music-history-major-bmus/",
+        "sha256": "53a38eb2e6ea45c5000337ef134cccaa3e8a47d4a04573b4db7a5430b670e940",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-300.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/theory-major-bmus/",
+        "sha256": "5cba41e16c6a31e973fbba093a82a0654d5abcb111bd0bd3f12ae2e981bc56f3",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-301.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/performance-piano-major-bmus/",
+        "sha256": "7e9ae452d3583966cbb8a716fe68a9f07d8b5216fc9f3986eb0b44bf35c9efb8",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-302.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/performance-voice-major-bmus/",
+        "sha256": "0787c116f51223bc8b58ed9e46b938b09fda41980826cac42a7c3c36f6d809b8",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-303.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/performance-orchestral-instruments-major-bmus/",
+        "sha256": "b4f8eb629d4907fde4bd908e6abb08f051528355c76364469825b8e76a62ce80",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-304.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/early-music-performance-major-bmus/",
+        "sha256": "f656fd8af860b7080d55390758eef895b7da72e51af17971474e493bc7f77640",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-305.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/early-music-performance-voice-major-bmus/",
+        "sha256": "8cd6b26709becef3ea2f209821cc2652f680ad6e66aa233133cd138ba1bb9521",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-306.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/performance-jazz-major-bmus/",
+        "sha256": "f422fac1b8b153853013763c994d2a95f99eab63294e1bb88f33a7c6ea0ae486",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-307.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/performance-organ-guitar-major-bmus/",
+        "sha256": "2861d57f407839381a774310916df616917b31facca0ef7e2347840b0b946240",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-308.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/",
+        "sha256": "0d82f270e6a960ca7a6eb3dd7ea98d1845310916064dd5a36f313dfe6ccf834b",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-309.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=171&field_fee_residency_status_tid=141",
+        "sha256": "b258fd9993f9d68dd6ba2e27f496d6ba23a7e7f9c4a31a7f93bff728fec3f4f3",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-171.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/",
+        "sha256": "70c35b3c418dacdc2519873a59599efe750d63813ee95d26b3e4c6c04f727e2d",
+        "raw_file": "scratch/full-catalog/root/mcgill-nursing-current.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/integrated-nursing-bni/",
+        "sha256": "5b0e10b11e0a330c8383a1caf64eb1eb3c84b531d61cc5ad7fe122fbcf4c6142",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-310.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/physical-occupational-therapy/physical-occupational-therapy-programs/occupational-therapy-bsc-rehabilitation-science/",
+        "sha256": "2b08891cf8fa972a901f75234aa01e16f81f27208b81f376251a9572747b030a",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-311.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/spot/programs/admissions/undergraduate-programs",
+        "sha256": "9bbc20c387c05058a6486276fbe1c9f13fb07fd55fcc681e3f168973699bfa49",
+        "raw_file": "scratch/full-catalog/root/mcgill-spot-admit.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/spot/application-route",
+        "sha256": "99ee9dea9db9df8290af134fcd6a429700efd7862f614a8aa5c28f50a235fd2e",
+        "raw_file": "scratch/full-catalog/root/mcgill-spot-route.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/importantdates/channels/event/application-deadline-fall-2027-admission-undergraduate-programs-applicants-studying-or-who-last-370820",
+        "sha256": "76116aa808bf2be5659dea3b45140a0838444c17c855eadf9f6ff4dda50ff980",
+        "raw_file": "scratch/full-catalog/root/mcgill-2027-deadline.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=77&field_fee_residency_status_tid=141",
+        "sha256": "6ed639d87d131060c327d6f327ddb095e33fc0475ee27f780bdab3ac1bbba9fb",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-77.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/physical-occupational-therapy/physical-occupational-therapy-programs/physical-therapy-bsc-rehabilitation-science/",
+        "sha256": "1d8bede8d30cad01bd364be91fc5becd09c955f643633aae4d88aa7a2c020f58",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-312.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=78&field_fee_residency_status_tid=141",
+        "sha256": "e51881fd3d07e37eacbfa94166710f2969eb39d9bdf2a9fb44e2db7cc01fac4c",
+        "raw_file": "scratch/full-catalog/root/mcgill-fee-78.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/anatomy-cell-biology/anatomy-cell-biology-major-bsc/",
+        "sha256": "a3fd6e8ec625827fd1480bc8feca6ed227b24cd40e1bf8bd3b941087a001647a",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-313.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/anatomy-cell-biology/anatomy-cell-biology-liberal-program-core-science-component-bsc/",
+        "sha256": "400c738aa9637ce4de0807f888e65447dfad742092fd4d0b985d9069694c99dc",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-314.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/anatomy-cell-biology/anatomy-cell-biology-honours-bsc/",
+        "sha256": "3eca395f581722818b022623ab9b75ad6f0bed2ee4265cc8818f2d97ca503c52",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-315.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-oceanic-sciences-liberal-program-core-science-component-bsc/",
+        "sha256": "2710c8f5ae473161c29db3a47d6f5f5d649e656a0520454bd383b369dc4e70ea",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-316.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-major-bsc/",
+        "sha256": "b5192d648438c0de49ac5dd2ce2a860ea1411291e0fa9366ac3e1aced2157e67",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-317.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-physics-major-bsc/",
+        "sha256": "71e0c41ed4f00e4369ac15838639851a6d8bb9075cc40423609391aaaa235236",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-318.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-honours-bsc/",
+        "sha256": "250a4a84efa051ceefc8c56d4599e766ae0c1b93c542bd3783b8ec36a8b758b5",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-319.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biochemistry/biochemistry-liberal-program-core-science-component-bsc/",
+        "sha256": "3d26ab4324dc8c480708d08f5b1dd2c4698dd4e3650b9a270971e1783bfc7c73",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-320.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biochemistry/biochemistry-major-bsc/",
+        "sha256": "023e9147cb7bc158c21dc33efb228a7f31f688516045368b3c1db321082553dd",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-321.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biochemistry/biochemistry-honours-bsc/",
+        "sha256": "5c45e440c3f967db5aec9531de24fdda8242fb7cb991f34567dabb6f7d6c83af",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-322.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-major-bsc/",
+        "sha256": "f177e6dfa8b95d0fef146e23c8234e7f8ea34a2ad890e350f3f9cf25924e61a1",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-323.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-quantitative-major-bsc/",
+        "sha256": "cb99f36778b5f0c4e5d8fdabca73257bd31039e0f959bed7548b97725e9f7944",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-324.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-mathematics-major-bsc/",
+        "sha256": "3c12b2d3c4874d388285a2c9949cfcfaf85d32b592397cb409994a95891ff337",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-325.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-bsc/",
+        "sha256": "931a28c1befa9250962df56afe6d7cf37b03261703b5e50cd2f74d5cad85f258",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-326.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/honours-biology-quantitative-bsc/",
+        "sha256": "b01663988403965600edf48c428d1e8ccd1de51697417f96a0dcbad9d04180c1",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-327.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-general-liberal-program-core-science-component-bsc/",
+        "sha256": "39ab11276ffe3b5faa60ffb2bec88919c1e0a0912bc901a325c634b8c4c4d8ac",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-328.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-major-bsc/",
+        "sha256": "e0e1e940ce3df3b5e218e22427707601081b5a96ebc7043a40b67bf31d13c8ab",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-329.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-bio-organic-major-bsc/",
+        "sha256": "a436a21e424ed8eb29ba95c433ce454af7fe3a5a7580b2365a149b975f647441",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-330.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-major-bsc/",
+        "sha256": "07d5a2289912b51370c64a9536952c97759b69116b9633e9bf56ec3126613684",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-331.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-honours-bsc/",
+        "sha256": "771a9ca2bbd2c1382d47513c1eed6cbc1819203569c94b2a0a695a3ff4713a32",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-332.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-bio-organic-honours-bsc/",
+        "sha256": "709739d12dbb6228f318c7818ca2943865af6eee8baf1752d6604e4bdec3d704",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-333.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-biophysical-honours-bsc/",
+        "sha256": "954803855b1f6e4778397fea1bd85576966ef48197413c5f1b3eaf849dcb0d3b",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-334.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/computer-science/computer-science-liberal-program-core-component-bsc/",
+        "sha256": "3aca291218a50d8bc3c256ba89187ece67f8446a3423003d314a98b3f673fec6",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-335.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/computer-science/software-engineering-liberal-program-core-science-component-bsc/",
+        "sha256": "2533b25ab5949e860a74bdc505f7e99742d4959e419fcacd9ecb19b8e5051204",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-336.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/computer-science/computer-science-major-bsc/",
+        "sha256": "0d930e6f086f782b4adab90d0092684e5c77f8ba50a59bb54a4aa4e3544325ac",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-337.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/computer-science/computer-science-artificial-intelligence-major-bsc/",
+        "sha256": "89e5f95c17c15ce6b452b754238a1efbb036e230b54e2064f2905551e672be98",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-338.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/computer-science/computer-science-biology-major-bsc/",
+        "sha256": "d7da547ef790f2c43e6335aa28209d053bcd8d1bb9228d5de4eb0c90893dbc7a",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-339.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/computer-science/computer-science-games-major-bsc/",
+        "sha256": "6926252876f4d4e1e8b4dcd15d8c2382185e3b217cdd2c8ad7cf3027603e5481",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-340.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/computer-science/computer-science-honours-bsc/",
+        "sha256": "10cfcac534e6732655ba41355e726c8538ad22ac1cf0dea95b2413d6620eb4cd",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-341.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/computer-science/computer-science-biology-honours-bsc/",
+        "sha256": "075ae2b97de8db0a87fd4b9faa6bb14517958b301fa75787213478dcef23c5b1",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-342.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/computer-science/software-engineering-major-bsc/",
+        "sha256": "008ab7c693a86b49833b40c6714725b260f88383a6bb9ddc0d98031ee39c25c0",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-343.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/computer-science/software-engineering-honours-bsc/",
+        "sha256": "47da55ccb9d0bf77c20542206f8e3def3ad692ffc87edab90dfe15752737a10d",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-344.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/earth-planetary-sciences/earth-planetary-sciences-liberal-program-core-component-bsc/",
+        "sha256": "b1436a1b2b3668c226e90a2d116074bf19c32329fd29d902a75a59f1c3318b0f",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-345.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/earth-planetary-sciences/geology-major-bsc/",
+        "sha256": "16e4da8bff2f4060e2ec68054b97c35a7d83eeff8358eaab20a0e0c60e9193fe",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-346.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/earth-planetary-sciences/geology-honours-bsc/",
+        "sha256": "da380be593177ed666c396c90fd8e3eeca2e71151e224bff7cf444a5282e75e5",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-347.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/earth-planetary-sciences/planetary-sciences-honours-bsc/",
+        "sha256": "2a0bb812b69e379cd4b0825ebdfe3b5b889d0757c9eef5c5120919cc6761296e",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-348.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/earth-system-science/earth-system-science-major-bsc/",
+        "sha256": "9134592f588c7bf8bb39aaaa8feb7e2bdc8f7ca38b6ab40cf6388c84f2ab78ff",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-349.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/earth-system-science/earth-system-science-honours-bsc/",
+        "sha256": "a9ed188a93fcac87d362d4c696f000471db2737b2c1f58d348fe5a174bc73bd8",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-350.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/geography/geography-liberal-program-core-science-component-bsc/",
+        "sha256": "458961ffad5ca0dd2ee9d7a2bc629f3adb50151d71692b2c40e5b4974008924c",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-351.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/geography/geography-major-bsc/",
+        "sha256": "55d969941aecfc923fef8b88e455c78bce9c0b25ff218d4458fa75adf66860a4",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-352.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/geography/geography-honours-bsc/",
+        "sha256": "617682023339c2d797669feb91e3a58b796834916f26789c437bcd2a03aae484",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-353.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/immunology/immunology-interdepartmental-honours-bsc/",
+        "sha256": "5b8cf78ca944450a976c59ccd10de470fccb050a7635192979e7cae0aac55c62",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-354.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/mathematics-liberal-program-core-science-component-bsc/",
+        "sha256": "8804b1f0a295685ed156cedabe4bfa8eca4e4c3946848866cebd8eb389e6a7f0",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-355.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/statistics-liberal-program-core-science-component-bsc/",
+        "sha256": "36b3283a7b40b084595eb7c012cd486a6a6e548e04722a2e8b3a23b27d3b3fd4",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-356.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/mathematics-major-bsc/",
+        "sha256": "a02c8c60da74b5903f031602fea90bc5ddd8f0d8753f79728f840401a78909c7",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-357.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/statistics-major-bsc/",
+        "sha256": "8a1fc07c357a57a355f6dc3e60f793a606d2c6deec56fd2fa307951c80523ce8",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-358.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/mathematics-computer-science-major-bsc/",
+        "sha256": "c5de491d316c3d8fa4fb0355f57d2fbaa00ef49b78336e25aaf7d39d8f45f523",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-359.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/statistics-computer-science-major-bsc/",
+        "sha256": "9da4b0594f312a42435b9834d799ea52a8ae4d09f3e0551be5fdc0649c823853",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-360.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/applied-mathematics-honours-bsc/",
+        "sha256": "38e1fe74c67237303534ac55171f0bac291c3b154a5967791a8a531995cebbf7",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-361.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/mathematics-honours-bsc/",
+        "sha256": "09ecd372b9b842fa0f4a69f3546280c4cc9753ef878dec30a6c8f88bec80c820",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-362.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/statistics-honours-bsc/",
+        "sha256": "e3f6f88221f35309b30adaf52216eac8e542452a6f9f081657063d5a586eaac5",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-363.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/statistics-computer-science-honours-bsc/",
+        "sha256": "4c2ebbe713a83915d594f8207fad5a50cf3e66638cf16390bd0be92008f6b36b",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-364.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/mathematics-computer-science-honours-bsc/",
+        "sha256": "086f9b21b2935e260f55ec3ba6c900958cc765f2e51d06e7f9ac1a99784aeb56",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-365.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/microbiology-immunology/microbiology-immunology-liberal-program-core-science-component-bsc/",
+        "sha256": "27aa51dcc885ab7ff8c8b02e5afd8a8ca2547b82c1df35456a2212facb3298fa",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-366.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/microbiology-immunology/microbiology-immunology-major-bsc/",
+        "sha256": "bb7ffea2e6445dfac506dc00846a14c3eb45d140744848320bd3acb92822c2a6",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-367.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/microbiology-immunology/microbiology-immunology-honours-bsc/",
+        "sha256": "5fa5e8ffcac18ae3ece6bb908444b2e97ed85372395014c93b50d3f2f5af2c71",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-368.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-major-bsc/",
+        "sha256": "a4348cad4bbfefdcfd69f0a86facd99e99b6be699777e4b35e2edbc0d4488abb",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-369.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-honours-bsc/",
+        "sha256": "bf555a4a273e95d7c850bbb538699a2051043bdcb6c19eb273ebb2871df7565c",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-370.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/pharmacology-therapeutics/pharmacology-major-bsc/",
+        "sha256": "430e8225f792f31ca9aaeccc36d60bb45bda174327c98573e643e875bca50205",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-371.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/pharmacology-therapeutics/pharmacology-honours-bsc/",
+        "sha256": "4a5d39c7a585038ddea331ba64dd4383ad190ff0cda608a0e87239bae24cc2c3",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-372.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-liberal-program-core-science-component-bsc/",
+        "sha256": "552bf25a472d12c7700016f6b9c702ebd1c856f11e5bb6ece69197a86d7e0c92",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-373.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-major-bsc/",
+        "sha256": "fa2fb9820a15ffccd7fe89bfb4463aca73752c43bda43c1ed510f2a00adb2f61",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-374.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-major-bsc/",
+        "sha256": "8fc6ed025924db931cc6ad006c3f69b6e8efa8ce1f7f7112df57f18d3ec78486",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-375.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-geophysics-major-bsc/",
+        "sha256": "9fc36eaa9dbfcbe429de07de28729b38c84b08d6dad927cdca999ac7cea9d29b",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-376.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-computer-science-major-bsc/",
+        "sha256": "01125889fb3bd6bafb6f52e41dc432f38ac099b17beee23dd1d27c5c91ab384e",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-377.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-honours-bsc/",
+        "sha256": "482e4072d578b92f3aa49bca86b7844db39558477cce84b6b413e27300083894",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-378.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-biological-honours-bsc/",
+        "sha256": "76c339c29cbda9d336f6cf8e075cb87a0e7e5d58f4b84d616e46d5b560affe6f",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-379.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-chemistry-honours-bsc/",
+        "sha256": "80407e316fec961cfda1d6dce588925a6b63486884f33c76b6f54d9b468ec178",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-380.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-computer-science-honours-bsc/",
+        "sha256": "8af60acc526551ac9b2488dd10e91a0519242f96d8e08932e04553c9b8f29e82",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-381.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/mathematics-physics-honours-bsc/",
+        "sha256": "4e7784398dca0e3943734b0458991383f023d9a570d468bc859a521d1cf2fbc1",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-382.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-liberal-program-core-science-component-bsc/",
+        "sha256": "09625ad2cedb9db89cecb69f22054cf0907da7e66c679fd676fed0eeb7c81cf3",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-383.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-major-bsc/",
+        "sha256": "26c1d0b821f7518174ae51293781812a7a5dd84812ae737ac7c5c8bfa2b15c6b",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-384.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-mathematics-major-bsc/",
+        "sha256": "6d79626579d518dd3a9f99ac594e89ebc1ce13513c7bf60c7ecfbacf7d420895",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-385.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-physics-major-bsc/",
+        "sha256": "1a6ea236f9fbf637b1778e28a68f300c08d1c98b5852c31f6d92b8e6ac5d42dd",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-386.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/physiology-honours-bsc/",
+        "sha256": "ffc7d09fe25b3f215471ec74834385372fcf414ef5b9d8c3be8184e2f0385297",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-387.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-liberal-program-core-science-component-bsc/",
+        "sha256": "ad1fe9410375bb16459dd9105baf302abec2b0d02553512cfbf8635494e00bd9",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-388.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-major-bsc/",
+        "sha256": "cb0a52b785c23f9c32332b1f7210e64d6f25d14813bb36172f0e2894a9c4dd4d",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-389.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-honours-bsc/",
+        "sha256": "80c0960dfe38153c33729ea1dcf0668b8a01455b050d6ad4e9e7f9852264d4aa",
+        "raw_file": "scratch/full-catalog/root/mcgill-program-390.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/undergraduate-admissions/apply",
+        "sha256": "1bfacbdf32350ac1a36ca469a5d878344345d80775d12bac08bb95e8173931a0",
+        "raw_file": "scratch/full-catalog/root/mcgill-apply.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/caps/files/caps/destination_survey_class_2023.pdf",
+        "sha256": "ff6acb04609d244c3cfa75a6b2346bc43c9631db634375a57eacdba9b379eb5c",
+        "raw_file": "scratch/full-catalog/root/mcgill-outcomes-pdf.html"
       }
     ],
     "gaps": [
-      "目录中的独立方向和联合荣誉组件不等于独立学位数；尚需逐学院核对停招状态、遗漏的无学位标签节点及Second Degree限制。"
+      "目录中的独立方向和联合荣誉组件不等于独立学位数；尚需逐学院核对停招状态、遗漏的无学位标签节点及Second Degree限制。",
+      "法律4路线的课程结构为已保存2026–2027校历，2027入口日历与2026/27国际费分开。2027/28学费、后续学年排课、主修/荣誉在读年度截止与独立毕业调查仍待补；WRIT496在SAO与校历的清单差异保留。"
     ]
   },
   "programs": [
@@ -3589,8 +5780,11 @@
       "campus": null,
       "language": null,
       "raw_key": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/honours-law-bcl-jd/",
-      "entry_note": "专业学位路径；适用的先前大学学习、语言及申请者身份条件尚待逐项核实，不能按普通高中直申理解。",
-      "id": "mcgill-honours-law-b-c-l-j-d-149242ac55"
+      "entry_note": "基础BCL/JD在读四学期后申请荣誉；最低法律CGPA3.0，须研究计划及导师，非高中直申。",
+      "id": "mcgill-honours-law-b-c-l-j-d-149242ac55",
+      "parent_program_id": "mcgill-law-b-c-l-j-d-b0a33c83e9",
+      "record_type": "honours_pathway",
+      "parent_degree_label": "BCL/JD"
     },
     {
       "name_en": "Law (B.C.L./J.D.)",
@@ -3603,7 +5797,7 @@
       "campus": null,
       "language": null,
       "raw_key": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/law-bcl-jd/",
-      "entry_note": "专业学位路径；适用的先前大学学习、语言及申请者身份条件尚待逐项核实，不能按普通高中直申理解。",
+      "entry_note": "大学阶段后申请BCL/JD；一般类别最低60学分且无学位者极少录取，须英法双语，非高中直申。",
       "id": "mcgill-law-b-c-l-j-d-b0a33c83e9"
     },
     {
@@ -3618,8 +5812,11 @@
       "language": null,
       "raw_key": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/major-concentration-law-commercial-negotiation-dispute-resolution-bcl-jd/",
       "program_type": "本科主修 / 学位内正式方向",
-      "entry_note": "专业学位路径；适用的先前大学学习、语言及申请者身份条件尚待逐项核实，不能按普通高中直申理解。",
-      "id": "mcgill-major-concentration-law-with-major-concentration-commercial-negot-b881181e53"
+      "entry_note": "BCL/JD在读两个学期后申报商业谈判与争议解决主修；CGPA至少2.70并须保持，非高中直申。",
+      "id": "mcgill-major-concentration-law-with-major-concentration-commercial-negot-b881181e53",
+      "parent_program_id": "mcgill-law-b-c-l-j-d-b0a33c83e9",
+      "record_type": "major",
+      "parent_degree_label": "BCL/JD"
     },
     {
       "name_en": "Major Concentration Law with Major International Human Rights and Development (B.C.L./J.D.)",
@@ -3633,8 +5830,11 @@
       "language": null,
       "raw_key": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/major-concentration-law-major-international-human-rights-development-bcl-jd/",
       "program_type": "本科主修 / 学位内正式方向",
-      "entry_note": "专业学位路径；适用的先前大学学习、语言及申请者身份条件尚待逐项核实，不能按普通高中直申理解。",
-      "id": "mcgill-major-concentration-law-with-major-international-human-rights-and-7433602442"
+      "entry_note": "BCL/JD在读两个学期后申报国际人权与发展主修；CGPA至少2.70并须保持，非高中直申。",
+      "id": "mcgill-major-concentration-law-with-major-international-human-rights-and-7433602442",
+      "parent_program_id": "mcgill-law-b-c-l-j-d-b0a33c83e9",
+      "record_type": "major",
+      "parent_degree_label": "BCL/JD"
     },
     {
       "name_en": "Accounting Concentration (B.Com.)",

@@ -3,9 +3,9 @@
   "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 153,
+    "count": 163,
     "scope": "Every named bachelor and non-minor major/specialisation in 2027 official university guide pp12–13, plus Science Extended in entry table",
-    "method": "{\"pdf_pages\": 24, \"complete_major_spread_pages\": [12, 13], \"visual_review\": true, \"group_counts\": {\"Agriculture\": 3, \"Arts\": 33, \"Biomedicine\": 16, \"Commerce\": 7, \"Design\": 14, \"Fine Arts\": 9, \"Music\": 6, \"Oral Health\": 0, \"Science\": 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。 本次独立对账官方11页129个主修/辅修/方向结果：93主修URL对应115父学位关系，114已在库存、1为已更正的旧数学总项；25荣誉方向URL去重为13方向、12为申请子页；11辅修不作新学位。另补9个具名荣誉学士，现153条，原144身份及事实保留。",
+    "method": "{\"pdf_pages\": 24, \"complete_major_spread_pages\": [12, 13], \"visual_review\": true, \"group_counts\": {\"Agriculture\": 3, \"Arts\": 33, \"Biomedicine\": 16, \"Commerce\": 7, \"Design\": 14, \"Fine Arts\": 9, \"Music\": 6, \"Oral Health\": 0, \"Science\": 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。 本次独立对账官方11页129个主修/辅修/方向结果：93主修URL对应115父学位关系，114已在库存、1为已更正的旧数学总项；25荣誉方向URL去重为13方向、12为申请子页；11辅修不作新学位。另补9个具名荣誉学士，现153条，原144身份及事实保留。 新补BCom总表明确列名的10个学位内specialisation，与七主修形成16个真实资格关系；Ethics共享一条，不枚举自由组合。当前163条，原153条及来源日期保持；方向课程例子、费用和职业信息明确限定父主修/父学位范围。",
     "exclusions": "Official PDF obtained using normal Chrome downloadMedia on observed download link; archived original + SHA256；Explicit minor-only footnote exclusions: Chinese Societies, Development Studies, Digital Studies, English Language Studies, Environmental Studies, European Studies, Japanese Societies, Law and Justice, Medieval and Early Modern Studies, South Asian Studies；Oral Health four curricular components explicitly not majors and are not separately counted；Exclude concurrent diplomas and standalone postgraduate MD/JD/DVM; Veterinary Bioscience remains bachelor major with later-selection note",
     "sources": [
       {
@@ -2940,12 +2940,8 @@
       },
       {
         "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
-        "title": "Bachelor of Commerce : Course structure - The University of Melbourne",
-        "checked_at": "2026-09-13",
-        "capture_format": "chrome_public_main_dom",
-        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/bachelor-of-commerce-structure.html",
         "sha256": "b0d8e752dab19d15f462dab3c889f5d55bba0b10c08a4af9879bc176c590a027",
-        "chars": 258458
+        "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/bachelor-of-commerce-structure.html"
       },
       {
         "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/structure/",
@@ -3116,6 +3112,46 @@
         "raw_file": "scratch/full-catalog/melbourne-directory-reconciliation/raw/undergraduate-courses.ax.txt",
         "sha256": "780c0a39d3529291730e8cb047cead02b566cb86ec54319ec72d09fda9d84404",
         "chars": 16141
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/major/finance/structure/",
+        "sha256": "95ea7c2337e82b81d1f93e2d69c7d6f45d212ee991b6e21dfb50ed71a5c18181",
+        "raw_file": "scratch/full-catalog/melbourne-commerce-specialisations/raw/finance-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/major/management/structure/",
+        "sha256": "7f4449eacecf391b996b029edee03863d9cc4e5e77ecedbbc4304f18705d588d",
+        "raw_file": "scratch/full-catalog/melbourne-commerce-specialisations/raw/management-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/major/business-analytics/structure/",
+        "sha256": "896c46c04fede8abab99af8cb8b3ca0b7a3f32e74a71d717a831fae5c41cf36f",
+        "raw_file": "scratch/full-catalog/melbourne-commerce-specialisations/raw/business-analytics-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/fees/",
+        "sha256": "20023625ee1488434a7c035b18d5dfbc8705675af4c07336c234e4ac97a10e33",
+        "raw_file": "scratch/full-catalog/melbourne-commerce-specialisations/raw/bcom-international-fees.html"
+      },
+      {
+        "url": "https://students.unimelb.edu.au/course-admin/planning-your-course-and-subjects/choosing-your-major",
+        "sha256": "73feed0ca1423d54b4529be04faa1757facfdda0f78e6d9844b7f440ab00b1ce",
+        "raw_file": "scratch/full-catalog/melbourne-commerce-specialisations/raw/choosing-major.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/major/economics/structure/",
+        "sha256": "00259912cf7194ac34ce5647ef0f6b327c3c652b287893c8b2749007f33dbd61",
+        "raw_file": "scratch/full-catalog/melbourne-commerce-specialisations/raw/economics-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/major/marketing/structure/",
+        "sha256": "7f149e247b9e19ca89be4729162afece656a879889370b2e931d8503a8cb7eda",
+        "raw_file": "scratch/full-catalog/melbourne-commerce-specialisations/raw/marketing-structure.html"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/find/courses/major/actuarial-studies/structure/",
+        "sha256": "5dfb142ead0ac2cb8842cdfd329bdd2110e068583497432447fe0c9468a2e7c4",
+        "raw_file": "scratch/full-catalog/melbourne-commerce-specialisations/raw/actuarial-studies-structure.html"
       }
     ],
     "gaps": [
@@ -3123,8 +3159,9 @@
       "9个艺术音乐方向只有2026费用参考；其他费用逐项区分所属学位和2027估算，内部主修不另算一份学费。",
       "课程2027年中截止03-31与学校国际总页05-31不一致，保留两者；艺术音乐采用专门选拔时间。",
       "本科后荣誉、后续职业学位的完整选拔与个人注册条件，以及按专业和国际生样本定义的毕业统计仍未全部核实。",
-      "9个新荣誉学士须大学阶段资格；Medical Science还限合作国际院校。BFA五方向和Music Tailored Program明确无2027入学，其余荣誉内部学科、BCom十个25学分specialisation与相关主修组合仍未全部逐项闭合。",
-      "8个荣誉学士费用仅2026国际生首年指示价，Commerce Honours专属费用未取得；2027费用、部分申请日期、授课语言及按专业/国际生分母的毕业统计仍缺。官网目录仍保留旧数学总项，不据此恢复；BA Extended仍为未确认线索。"
+      "9个新荣誉学士须大学阶段资格；Medical Science还限合作国际院校。BFA五方向和Music Tailored Program明确无2027入学，其余荣誉内部学科仍未全部逐项闭合；BCom十个专项的身份及16个主修资格关系已补，规定课程组合仍待核。",
+      "8个荣誉学士费用仅2026国际生首年指示价，Commerce Honours专属费用未取得；2027费用、部分申请日期、授课语言及按专业/国际生分母的毕业统计仍缺。官网目录仍保留旧数学总项，不据此恢复；BA Extended仍为未确认线索。",
+      "BCom专项官网称从2026起，并非已核2027课程表；多数总表25学分与商业分析页50、管理页two与三列名差异保留。专项实际科目组合、专属准入/申报和毕业统计未取得；所列2027国际费用只为父BCom估算。"
     ]
   },
   "programs": [
@@ -5939,6 +5976,313 @@
       "eligibility": "须大学学位或官网明确等值资格；不继承普通高中直申规则",
       "status": "current_official_degree_listed",
       "id": "melbourne-bachelor-of-commerce-honours-46c93dcc1d",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|ethics-sustainability",
+      "name_en": "Ethics & Sustainability",
+      "name": "伦理与可持续性专项",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "parent_degree_label": "Bachelor of Commerce",
+      "parent_program_id": "melbourne-bachelor-of-commerce-0271fe4211",
+      "eligible_parent_program_ids": [
+        "melbourne-accounting-11a0a1c993",
+        "melbourne-actuarial-studies-af83830d47",
+        "melbourne-business-analytics-515feb1d35",
+        "melbourne-economics-11da1488ee",
+        "melbourne-finance-2e163d2188",
+        "melbourne-management-a17ba01d9f",
+        "melbourne-marketing-f232a24a26"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+      "campus": "Parkville",
+      "language": "英语（BCom授课型课程共用说明）",
+      "duration": "25个Level 3学分（BCom总表；商业分析页另写50）",
+      "intake": "官网称从2026起；2027专项课程表未核",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "entry_route": "商科学士在校选课路径；可入主修：会计、精算、商业分析、经济、金融、管理、营销。",
+      "eligibility": "须处于所列BCom主修并满足实际科目先修；不构成独立高中录取入口。",
+      "status": "current_official_specialisation_listed",
+      "requires_prior_degree": false,
+      "id": "melbourne-ethics-sustainability-1947b3048b",
+      "subjects": [
+        "环境与农业"
+      ],
+      "subject": "环境与农业"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|econometrics",
+      "name_en": "Econometrics",
+      "name": "计量经济学专项",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "parent_degree_label": "Bachelor of Commerce",
+      "parent_program_id": "melbourne-bachelor-of-commerce-0271fe4211",
+      "eligible_parent_program_ids": [
+        "melbourne-economics-11da1488ee"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/economics/structure/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+      "campus": "Parkville",
+      "language": "英语（BCom授课型课程共用说明）",
+      "duration": "25学分（Level 3；主修内部）",
+      "intake": "官网称从2026起；2027专项课程表未核",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "entry_route": "商科学士在校选课路径；可入主修：经济。",
+      "eligibility": "须处于所列BCom主修并满足实际科目先修；不构成独立高中录取入口。",
+      "status": "current_official_specialisation_listed",
+      "requires_prior_degree": false,
+      "id": "melbourne-econometrics-627916fecd",
+      "subjects": [
+        "经济"
+      ],
+      "subject": "经济"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|economic-policy",
+      "name_en": "Economic Policy",
+      "name": "经济政策专项",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "parent_degree_label": "Bachelor of Commerce",
+      "parent_program_id": "melbourne-bachelor-of-commerce-0271fe4211",
+      "eligible_parent_program_ids": [
+        "melbourne-economics-11da1488ee"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/economics/structure/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+      "campus": "Parkville",
+      "language": "英语（BCom授课型课程共用说明）",
+      "duration": "25学分（Level 3；主修内部）",
+      "intake": "官网称从2026起；2027专项课程表未核",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "entry_route": "商科学士在校选课路径；可入主修：经济。",
+      "eligibility": "须处于所列BCom主修并满足实际科目先修；不构成独立高中录取入口。",
+      "status": "current_official_specialisation_listed",
+      "requires_prior_degree": false,
+      "id": "melbourne-economic-policy-d5c8fecc22",
+      "subjects": [
+        "经济"
+      ],
+      "subject": "经济"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|computational-finance",
+      "name_en": "Computational Finance",
+      "name": "计算金融专项",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "parent_degree_label": "Bachelor of Commerce",
+      "parent_program_id": "melbourne-bachelor-of-commerce-0271fe4211",
+      "eligible_parent_program_ids": [
+        "melbourne-finance-2e163d2188"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/finance/structure/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+      "campus": "Parkville",
+      "language": "英语（BCom授课型课程共用说明）",
+      "duration": "25学分（Level 3；主修内部）",
+      "intake": "官网称从2026起；2027专项课程表未核",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "entry_route": "商科学士在校选课路径；可入主修：金融。",
+      "eligibility": "须处于所列BCom主修并满足实际科目先修；不构成独立高中录取入口。",
+      "status": "current_official_specialisation_listed",
+      "requires_prior_degree": false,
+      "id": "melbourne-computational-finance-804819c543",
+      "subjects": [
+        "计算机",
+        "商科"
+      ],
+      "subject": "计算机"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|valuation-modelling",
+      "name_en": "Valuation & Modelling",
+      "name": "估值与建模专项",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "parent_degree_label": "Bachelor of Commerce",
+      "parent_program_id": "melbourne-bachelor-of-commerce-0271fe4211",
+      "eligible_parent_program_ids": [
+        "melbourne-finance-2e163d2188"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/finance/structure/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+      "campus": "Parkville",
+      "language": "英语（BCom授课型课程共用说明）",
+      "duration": "25学分（Level 3；主修内部）",
+      "intake": "官网称从2026起；2027专项课程表未核",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "entry_route": "商科学士在校选课路径；可入主修：金融。",
+      "eligibility": "须处于所列BCom主修并满足实际科目先修；不构成独立高中录取入口。",
+      "status": "current_official_specialisation_listed",
+      "requires_prior_degree": false,
+      "id": "melbourne-valuation-modelling-ee8ec0a0e8",
+      "subjects": [
+        "待分类"
+      ],
+      "subject": "待分类"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|human-resource-management",
+      "name_en": "Human Resource Management",
+      "name": "人力资源管理专项",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "parent_degree_label": "Bachelor of Commerce",
+      "parent_program_id": "melbourne-bachelor-of-commerce-0271fe4211",
+      "eligible_parent_program_ids": [
+        "melbourne-management-a17ba01d9f"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/management/structure/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+      "campus": "Parkville",
+      "language": "英语（BCom授课型课程共用说明）",
+      "duration": "25学分（Level 3；主修内部）",
+      "intake": "官网称从2026起；2027专项课程表未核",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "entry_route": "商科学士在校选课路径；可入主修：管理。",
+      "eligibility": "须处于所列BCom主修并满足实际科目先修；不构成独立高中录取入口。",
+      "status": "current_official_specialisation_listed",
+      "requires_prior_degree": false,
+      "id": "melbourne-human-resource-management-db0abf2efe",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|supply-chain-management",
+      "name_en": "Supply Chain Management",
+      "name": "供应链管理专项",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "parent_degree_label": "Bachelor of Commerce",
+      "parent_program_id": "melbourne-bachelor-of-commerce-0271fe4211",
+      "eligible_parent_program_ids": [
+        "melbourne-management-a17ba01d9f"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/management/structure/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+      "campus": "Parkville",
+      "language": "英语（BCom授课型课程共用说明）",
+      "duration": "25学分（Level 3；主修内部）",
+      "intake": "官网称从2026起；2027专项课程表未核",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "entry_route": "商科学士在校选课路径；可入主修：管理。",
+      "eligibility": "须处于所列BCom主修并满足实际科目先修；不构成独立高中录取入口。",
+      "status": "current_official_specialisation_listed",
+      "requires_prior_degree": false,
+      "id": "melbourne-supply-chain-management-bdf92b7bde",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|digital-marketing",
+      "name_en": "Digital Marketing",
+      "name": "数字营销专项",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "parent_degree_label": "Bachelor of Commerce",
+      "parent_program_id": "melbourne-bachelor-of-commerce-0271fe4211",
+      "eligible_parent_program_ids": [
+        "melbourne-marketing-f232a24a26"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/marketing/structure/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+      "campus": "Parkville",
+      "language": "英语（BCom授课型课程共用说明）",
+      "duration": "25学分（Level 3；主修内部）",
+      "intake": "官网称从2026起；2027专项课程表未核",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "entry_route": "商科学士在校选课路径；可入主修：营销。",
+      "eligibility": "须处于所列BCom主修并满足实际科目先修；不构成独立高中录取入口。",
+      "status": "current_official_specialisation_listed",
+      "requires_prior_degree": false,
+      "id": "melbourne-digital-marketing-bbbcfa8970",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|strategic-marketing",
+      "name_en": "Strategic Marketing",
+      "name": "战略营销专项",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "parent_degree_label": "Bachelor of Commerce",
+      "parent_program_id": "melbourne-bachelor-of-commerce-0271fe4211",
+      "eligible_parent_program_ids": [
+        "melbourne-marketing-f232a24a26"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/marketing/structure/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+      "campus": "Parkville",
+      "language": "英语（BCom授课型课程共用说明）",
+      "duration": "25学分（Level 3；主修内部）",
+      "intake": "官网称从2026起；2027专项课程表未核",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "entry_route": "商科学士在校选课路径；可入主修：营销。",
+      "eligibility": "须处于所列BCom主修并满足实际科目先修；不构成独立高中录取入口。",
+      "status": "current_official_specialisation_listed",
+      "requires_prior_degree": false,
+      "id": "melbourne-strategic-marketing-f022ef99b4",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "B-COM|specialisation|actuarial-risk-management",
+      "name_en": "Actuarial Risk Management",
+      "name": "精算风险管理专项",
+      "degree_label": "Bachelor of Commerce — specialisation",
+      "parent_degree_label": "Bachelor of Commerce",
+      "parent_program_id": "melbourne-bachelor-of-commerce-0271fe4211",
+      "eligible_parent_program_ids": [
+        "melbourne-actuarial-studies-af83830d47"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "specialisation",
+      "official_url": "https://study.unimelb.edu.au/find/courses/major/actuarial-studies/structure/",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+      "campus": "Parkville",
+      "language": "英语（BCom授课型课程共用说明）",
+      "duration": "25学分（Level 3；主修内部）",
+      "intake": "官网称从2026起；2027专项课程表未核",
+      "source_period": "2026起的现行公开专项说明；父学位费用另有2027明确表",
+      "entry_route": "商科学士在校选课路径；可入主修：精算。",
+      "eligibility": "须处于所列BCom主修并满足实际科目先修；不构成独立高中录取入口。",
+      "status": "current_official_specialisation_listed",
+      "requires_prior_degree": false,
+      "id": "melbourne-actuarial-risk-management-8d2e2e7720",
       "subjects": [
         "商科"
       ],
