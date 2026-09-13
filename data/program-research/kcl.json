@@ -4393,7 +4393,7 @@
       "raw_key": "87b685be-303a-41af-a8bd-b0561223ceac",
       "name_en": "Comparative Literature BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -4411,30 +4411,139 @@
               "UKENR-90d35b24a1f19c"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "比较文学课程结构",
+            "text": "课程跨语言、地区和时期比较文学，明确采用英语译文教学，鼓励具备能力者读原文。首年四门理论／方法核心各15学分，另修比较文学30及获批选修30；第二年帝国文学、民族观念、现代世界中的书各15，另修45＋30。第三年没有指定必修，至少75为比较文学，总量120；30学分论文可选。",
+            "source_ids": [
+              "KCLAM-11cbdf8964ccde86",
+              "KCLAM-96a2b6cf4e73a593"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "交换与选课边界",
+            "text": "第二年可申请一学期交换；意大利、德国及法国伙伴有对应语言要求，部分系际交换须有空余名额。具体模块和合作校可能调整，不将原文旧伙伴名或目录列表视作保证名额。",
+            "source_ids": [
+              "KCLAM-11cbdf8964ccde86",
+              "KCLAM-96a2b6cf4e73a593"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "校区、学制与授课语言依据",
+            "text": "课程总览的 Base campus 列 Strand 校区；全日制三年。比较文学部分明确以英语译文教学，其他语种能力用于原文阅读或交换选择。",
+            "source_ids": [
+              "KCLAM-96a2b6cf4e73a593"
+            ],
+            "extraction_locator": "Overview > Base campus, duration, Course essentials"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAB；此为原概览总成绩；本轮实际可见招生正文、专属科目及资格见下列补充。",
             "source_ids": [
               "UKENR-90d35b24a1f19c"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "英语文学先修及转学",
+            "text": "标准A-level AAB且英语文学／英语语言与文学A；IB总分35或三门HL合计17，同一英语科目HL6。现代或古代语言仅为优先科目；本页无指定GCSE要求。仅在有mitigating circumstances时可个案考虑转入第二年，不能简化为普遍开放转学。",
+            "source_ids": [
+              "KCLAM-289195644145ccc7"
+            ],
+            "extraction_locator": "requirements正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在另一大学本科中的 Year 0／Integrated Foundation。标准 A-level／IB 不直接换算为高考分数，Contextual 优惠也不自动适用所有中国申请者。",
+            "source_ids": [
+              "KCLAM-289195644145ccc7"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; standard/contextual distinction"
+          },
+          {
+            "label": "A-level可计资格与适用例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills 和 Global Perspectives 不计为所需 A-level。本页也不以 EPQ 参与录取评估。以英格兰线性理科 A-level 申请者须通过实践考核；无法参加该考核的 private candidates 有明确例外。此条不是另给中国高考生添加英国考试。",
+            "source_ids": [
+              "KCLAM-289195644145ccc7"
+            ],
+            "extraction_locator": "Actual A-level exclusions; EPQ / practical endorsement only when this page explicitly states them"
+          },
+          {
+            "label": "本课程中国学历：不直接入学的三类",
+            "text": "该课程实际 China 分支明确不以 Gao Kao（高考）、Zhao Kao（官网标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。所链接 International Foundation 是替代路径信息；课程选择、进阶条件与本专业科目仍须符合，不是保证进入此学位。",
+            "source_ids": [
+              "KCLAM-4fc0b6c8def7f3f3"
+            ],
+            "extraction_locator": "Actual China selection > three Award entries > will not be considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求 Band B。已取得的共用英语政策明确适用 2026/27，IELTS Academic 参考为总分7.0、每项6.5；须在开课月份首日前两年内、单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学须再核最新测试政策及录取条件，不把旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLAM-289195644145ccc7",
+              "KCLAM-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English band B; English policy > 2026/27 > Band B / test validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "Q200；课程申请开放状态及截止须再核。",
+            "text": "Q200；当前窗口及已核状态见本轮补充；未列截止的项目保留缺口。",
             "source_ids": [
               "UKENR-90d35b24a1f19c"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请状态与截止字段",
+            "text": "课程当前列 UCAS Q200，2027年9月开课、2027年1月13日截止，实际页面状态 Open。仍须符合本课程学术和材料条件，提交前应复查名额及页面变化。",
+            "source_ids": [
+              "KCLAM-3f8d527e51a5cfce"
+            ],
+            "extraction_locator": "Rendered individual Key Information > UCAS, Application status, Start date, Application deadline if present"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费明确为 GBP £30,750／学年，适用 2027/28 常规授课年；后续学年可依学校条款增加。海外阶段如适用另按安排，不用本年价乘学制推定总学费。",
+            "source_ids": [
+              "KCLAM-3f8d527e51a5cfce"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与课程附加成本",
+            "text": "国际生坚定接受无条件录取时缴 £2,000 押金，入学后抵扣首年学费。书本、打印、文具、毕业及伦敦／跨校区交通等可能另付。",
+            "source_ids": [
+              "KCLAM-3f8d527e51a5cfce"
+            ],
+            "extraction_locator": "International tuition deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段费用的年度范围",
+            "text": "本页说明伙伴校通常不另收学费，但可能收申请管理费；海外生活、旅行及签证须另预算。本轮未取得本课程未来海外阶段 KCL 的准确计费比例或金额，不能把正常授课年价直接套到海外安排。",
+            "source_ids": [
+              "KCLAM-3f8d527e51a5cfce"
+            ],
+            "extraction_locator": "Further fee information; explicit dated reference retained separately"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向与调查边界",
+            "text": "职业页列会计、行政、银行、广播、公务、新闻、法律、市场、教学与旅游，也可深造；这些是毕业领域描述，没有本学位明确届次、分母的就业率或薪资，亦不等于直接取得受监管职业资格。",
+            "source_ids": [
+              "KCLAM-3c2a6a009e47fd1c"
+            ],
+            "extraction_locator": "careers正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          }
+        ]
       },
       "sources": [
         {
@@ -4445,32 +4554,117 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "b4aac9c395f260c2cb9a8bc0a7cd3893dc35b9c31ec6e37ad5934383a2571bd4",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLAM-96a2b6cf4e73a593",
+          "title": "Comparative Literature BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "96a2b6cf4e73a5930349471260ad5fe648d333e6ca2b3444d4df755fa1afb11f",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-289195644145ccc7",
+          "title": "Comparative Literature BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "289195644145ccc735caba9f86c265efd696fac214e20c04fa7316279549da35",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-11cbdf8964ccde86",
+          "title": "Comparative Literature BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "11cbdf8964ccde861d3d0134cd439c0efa5df63fca67ea02b4f71dc6a259a6a6",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-3c2a6a009e47fd1c",
+          "title": "Comparative Literature BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "3c2a6a009e47fd1c1ff1fefe36c2d8f67e45532529adc3893f09ca4cb0924499",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-4fc0b6c8def7f3f3",
+          "title": "Comparative Literature BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba/requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "4fc0b6c8def7f3f3f651dbe000d9b3187d844886a4172f7da9b2953630f5f52f",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-dff3755b9680738d",
+          "title": "Comparative Literature BA — 英语政策（明确2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（明确2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（明确2026/27）",
+          "source_period": "2026/27官方测试政策；2027/28最终条件待核"
+        },
+        {
+          "id": "KCLAM-3f8d527e51a5cfce",
+          "title": "Comparative Literature BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "3f8d527e51a5cfceb2af3602bf404612386715a0c6e6e8c95fa2994a60650f44",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28国际常规年费；海外参考的旧年度逐条保留"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项读取本课程总览、要求、公开年度模块和职业正文，并取得实际 China 分支及国际费用显示。",
+        "只保留有依据的模块配额、申请类别与职业领域，表内不一致另列；不将课程选项或职业例子当作保证。",
+        "原事实及其核验日期保留，旧缺口后缀更新写入 ledger；2027英语最终清单、资助与可比毕业调查仍未取得。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAB；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAB且英语文学A／IB英语HL6；交换目的地可能另需外语",
+        "name": "比较文学（BA）",
+        "intake": "2027年9月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核职业方向；未取得可比届次就业率／薪资",
+        "language": "英语（以译文教学）"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored program-specific Chinese facts; exact old evidence preserved",
       "inventory_id": "kcl-comparative-literature-ba-bdedca13aa"
     },
     {
@@ -4478,7 +4672,7 @@
       "raw_key": "1d54b6c3-6db2-4985-a8cf-9ec941963150",
       "name_en": "Comparative Literature with Film Studies BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -4496,30 +4690,139 @@
               "UKENR-a2464c6a8509a9"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "比较文学主修与电影辅修",
+            "text": "第一年比较文学四门核心各15、电影形式与批评讨论各15，另选比较文学15及获批选修15。第二年比较文学核心45（其中现代世界中的书／经典二选一），另选比较文学30、获批选修15、电影30；末年比较文学至少60、额外获批选修30及电影30，论文30可选。电影侧含史学、纪录片、亚洲电影及理论，不能把全部选项都列成必修。",
+            "source_ids": [
+              "KCLAM-e6b87b71766b8cc7",
+              "KCLAM-fad86d3cc99b54f2"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "交换与学习边界",
+            "text": "教学分栏列第二年一学期交换，总览却称第三年选定学生可海外，两页年份不一致，实际安排须向课程确认；部分意／德／法语伙伴另需语言能力及名额。比较文学为主要部分、电影为辅修，不是各授一个学位。",
+            "source_ids": [
+              "KCLAM-e6b87b71766b8cc7",
+              "KCLAM-fad86d3cc99b54f2"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "校区、学制与授课语言依据",
+            "text": "课程总览的 Base campus 列 Strand 校区；全日制三年。比较文学部分明确以英语译文教学，其他语种能力用于原文阅读或交换选择。",
+            "source_ids": [
+              "KCLAM-fad86d3cc99b54f2"
+            ],
+            "extraction_locator": "Overview > Base campus, duration, Course essentials"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAB；此为原概览总成绩；本轮实际可见招生正文、专属科目及资格见下列补充。",
             "source_ids": [
               "UKENR-a2464c6a8509a9"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "英语文学条件与转学限制",
+            "text": "标准A-level AAB且英语文学／英语语言与文学A；IB35或三门HL合计17，对应英语HL6。现代或古代语言为优先而非必修，无指定GCSE。只有存在mitigating circumstances者可个案申请转入第二年，不保证批准。",
+            "source_ids": [
+              "KCLAM-637563c917c832a7"
+            ],
+            "extraction_locator": "requirements正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在另一大学本科中的 Year 0／Integrated Foundation。标准 A-level／IB 不直接换算为高考分数，Contextual 优惠也不自动适用所有中国申请者。",
+            "source_ids": [
+              "KCLAM-637563c917c832a7"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; standard/contextual distinction"
+          },
+          {
+            "label": "A-level可计资格与适用例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills 和 Global Perspectives 不计为所需 A-level。本页也不以 EPQ 参与录取评估。以英格兰线性理科 A-level 申请者须通过实践考核；无法参加该考核的 private candidates 有明确例外。此条不是另给中国高考生添加英国考试。",
+            "source_ids": [
+              "KCLAM-637563c917c832a7"
+            ],
+            "extraction_locator": "Actual A-level exclusions; EPQ / practical endorsement only when this page explicitly states them"
+          },
+          {
+            "label": "本课程中国学历：不直接入学的三类",
+            "text": "该课程实际 China 分支明确不以 Gao Kao（高考）、Zhao Kao（官网标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。所链接 International Foundation 是替代路径信息；课程选择、进阶条件与本专业科目仍须符合，不是保证进入此学位。",
+            "source_ids": [
+              "KCLAM-58463d45ceaf68ed"
+            ],
+            "extraction_locator": "Actual China selection > three Award entries > will not be considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求 Band B。已取得的共用英语政策明确适用 2026/27，IELTS Academic 参考为总分7.0、每项6.5；须在开课月份首日前两年内、单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学须再核最新测试政策及录取条件，不把旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLAM-637563c917c832a7",
+              "KCLAM-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English band B; English policy > 2026/27 > Band B / test validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "Q2P3；课程申请开放状态及截止须再核。",
+            "text": "Q2P3；当前窗口及已核状态见本轮补充；未列截止的项目保留缺口。",
             "source_ids": [
               "UKENR-a2464c6a8509a9"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请状态与截止字段",
+            "text": "课程当前列 UCAS Q2P3，2027年9月开课、2027年1月13日截止，实际页面状态 Open。仍须符合本课程学术和材料条件，提交前应复查名额及页面变化。",
+            "source_ids": [
+              "KCLAM-22fc219e93777589"
+            ],
+            "extraction_locator": "Rendered individual Key Information > UCAS, Application status, Start date, Application deadline if present"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费明确为 GBP £30,750／学年，适用 2027/28 常规授课年；后续学年可依学校条款增加。海外阶段如适用另按安排，不用本年价乘学制推定总学费。",
+            "source_ids": [
+              "KCLAM-22fc219e93777589"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与课程附加成本",
+            "text": "国际生坚定接受无条件录取时缴 £2,000 押金，入学后抵扣首年学费。书本、打印、文具、毕业及伦敦／跨校区交通等可能另付。",
+            "source_ids": [
+              "KCLAM-22fc219e93777589"
+            ],
+            "extraction_locator": "International tuition deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段费用的年度范围",
+            "text": "本页说明伙伴校通常不另收学费，但可能收申请管理费；海外生活、旅行及签证须另预算。本轮未取得本课程未来海外阶段 KCL 的准确计费比例或金额，不能把正常授课年价直接套到海外安排。",
+            "source_ids": [
+              "KCLAM-22fc219e93777589"
+            ],
+            "extraction_locator": "Further fee information; explicit dated reference retained separately"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向的群体范围",
+            "text": "本课程职业页的栏目以Comparative Literature为题，列法律、银行、公务、IT、图书馆、教育、文化遗产、新闻及表演等方向；不能改写为此联合入口的独立跟踪调查。本轮未取得可比届次就业率或薪资。",
+            "source_ids": [
+              "KCLAM-312da6c5d0b34e04"
+            ],
+            "extraction_locator": "careers正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          }
+        ]
       },
       "sources": [
         {
@@ -4530,32 +4833,117 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "0b83591727cf3b1999e987af6475faec509125fe0ee477f4fc6ef94eae46304d",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLAM-fad86d3cc99b54f2",
+          "title": "Comparative Literature with Film Studies BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "fad86d3cc99b54f2596acf90aaeaff804c6bcffd0dba30d11883c04d685138dd",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-637563c917c832a7",
+          "title": "Comparative Literature with Film Studies BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "637563c917c832a7d9614a8242b2450fcab973509f8a12bf98b57b0c58368177",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-e6b87b71766b8cc7",
+          "title": "Comparative Literature with Film Studies BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "e6b87b71766b8cc729d8c695b648367939bef7dcdbee49578e640a37f27bc30f",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-312da6c5d0b34e04",
+          "title": "Comparative Literature with Film Studies BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "312da6c5d0b34e04245484870504572a38c57d633d386b2b1b526bf090f65df0",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-58463d45ceaf68ed",
+          "title": "Comparative Literature with Film Studies BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "58463d45ceaf68edc03224e4225b7d292a071e113a2ff77261c052f70d8f35ea",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-dff3755b9680738d",
+          "title": "Comparative Literature with Film Studies BA — 英语政策（明确2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（明确2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（明确2026/27）",
+          "source_period": "2026/27官方测试政策；2027/28最终条件待核"
+        },
+        {
+          "id": "KCLAM-22fc219e93777589",
+          "title": "Comparative Literature with Film Studies BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "22fc219e9377758996518a195d995f29813016132c9a8a1410182c57943f556c",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28国际常规年费；海外参考的旧年度逐条保留"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项读取本课程总览、要求、公开年度模块和职业正文，并取得实际 China 分支及国际费用显示。",
+        "只保留有依据的模块配额、申请类别与职业领域，表内不一致另列；不将课程选项或职业例子当作保证。",
+        "原事实及其核验日期保留，旧缺口后缀更新写入 ledger；2027英语最终清单、资助与可比毕业调查仍未取得。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAB；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAB且英语文学A；比较文学主修、电影辅修",
+        "name": "比较文学与电影研究（BA，主修／辅修）",
+        "intake": "2027年9月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核职业方向；未取得可比届次就业率／薪资",
+        "language": "英语（以译文教学）"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored program-specific Chinese facts; exact old evidence preserved",
       "inventory_id": "kcl-comparative-literature-with-film-studies-ba-e91d7081a1"
     },
     {
@@ -4988,7 +5376,7 @@
       "raw_key": "b35f19bc-bf67-4496-9a4f-1c84d21ea1c3",
       "name_en": "Culture, Media & Creative Industries BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -5006,30 +5394,141 @@
               "UKENR-4f227e0c1c46ed"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "文化产业理论与课程安排",
+            "text": "这是分析文化、媒体和创意产业的理论型课程，不是艺术／媒体制作职业训练。第一年六门核心各15、两门选修各15，涵盖媒体史、受众、文化身份、生产与产业政策；第二年多样性及创意学习各15，另选90；末年活动与节庆30、论文30均必修，另选60。每年最多30可获批以学院或伦敦大学伙伴模块替代。",
+            "source_ids": [
+              "KCLAM-a9f9bc725c97dedc",
+              "KCLAM-2a760f45bffd22a8",
+              "KCLAM-8802039742ea0e8b"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "实践形式与考核",
+            "text": "采用论文、小组展示、反思评论、创意项目、作品材料集、视频论文及毕业论文等评估。存在创意考核不改变理论课程定位；第二年可申请伙伴校交换，具体目的地和名额须确认。",
+            "source_ids": [
+              "KCLAM-a9f9bc725c97dedc",
+              "KCLAM-2a760f45bffd22a8",
+              "KCLAM-8802039742ea0e8b"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "校区、学制与授课语言依据",
+            "text": "课程总览的 Base campus 列 Strand 校区；全日制三年。本轮未取得明确覆盖全部阶段的授课语言条款；英语录取分档与现代语言学习要求另列。",
+            "source_ids": [
+              "KCLAM-2a760f45bffd22a8"
+            ],
+            "extraction_locator": "Overview > Base campus, duration, Course essentials"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAA；此为原概览总成绩；本轮实际可见招生正文、专属科目及资格见下列补充。",
             "source_ids": [
               "UKENR-4f227e0c1c46ed"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "论述或创意科目前置",
+            "text": "标准A-level AAA，IB总分36或三门HL合计18，均须有论述型或创意型科目。既有认可例子含历史、文学、经济、媒体、语言，也含艺术、设计、音乐、戏剧、摄影及计算机／IT；名单非穷尽，未列科目可按申请个案评估。不能自行添加必须作品集，也不能把创意背景等同完全免学术写作；不接受转学。",
+            "source_ids": [
+              "KCLAM-8802039742ea0e8b"
+            ],
+            "extraction_locator": "requirements正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在另一大学本科中的 Year 0／Integrated Foundation。标准 A-level／IB 不直接换算为高考分数，Contextual 优惠也不自动适用所有中国申请者。",
+            "source_ids": [
+              "KCLAM-8802039742ea0e8b"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; standard/contextual distinction"
+          },
+          {
+            "label": "A-level可计资格与适用例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills 和 Global Perspectives 不计为所需 A-level。本页也不以 EPQ 参与录取评估。以英格兰线性理科 A-level 申请者须通过实践考核；无法参加该考核的 private candidates 有明确例外。此条不是另给中国高考生添加英国考试。",
+            "source_ids": [
+              "KCLAM-8802039742ea0e8b"
+            ],
+            "extraction_locator": "Actual A-level exclusions; EPQ / practical endorsement only when this page explicitly states them"
+          },
+          {
+            "label": "本课程中国学历：不直接入学的三类",
+            "text": "该课程实际 China 分支明确不以 Gao Kao（高考）、Zhao Kao（官网标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。所链接 International Foundation 是替代路径信息；课程选择、进阶条件与本专业科目仍须符合，不是保证进入此学位。",
+            "source_ids": [
+              "KCLAM-57c47d655c2f75b6"
+            ],
+            "extraction_locator": "Actual China selection > three Award entries > will not be considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求 Band B。已取得的共用英语政策明确适用 2026/27，IELTS Academic 参考为总分7.0、每项6.5；须在开课月份首日前两年内、单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学须再核最新测试政策及录取条件，不把旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLAM-8802039742ea0e8b",
+              "KCLAM-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English band B; English policy > 2026/27 > Band B / test validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "P300；课程申请开放状态及截止须再核。",
+            "text": "P300；当前窗口及已核状态见本轮补充；未列截止的项目保留缺口。",
             "source_ids": [
               "UKENR-4f227e0c1c46ed"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请状态与截止字段",
+            "text": "课程当前列 UCAS P300，2027年9月开课、2027年1月13日截止，实际页面状态 Open。仍须符合本课程学术和材料条件，提交前应复查名额及页面变化。",
+            "source_ids": [
+              "KCLAM-a4e35dae1ec83709"
+            ],
+            "extraction_locator": "Rendered individual Key Information > UCAS, Application status, Start date, Application deadline if present"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费明确为 GBP £30,750／学年，适用 2027/28 常规授课年；后续学年可依学校条款增加。海外阶段如适用另按安排，不用本年价乘学制推定总学费。",
+            "source_ids": [
+              "KCLAM-a4e35dae1ec83709"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与课程附加成本",
+            "text": "国际生坚定接受无条件录取时缴 £2,000 押金，入学后抵扣首年学费。书本、打印、文具、毕业及伦敦／跨校区交通等可能另付。",
+            "source_ids": [
+              "KCLAM-a4e35dae1ec83709"
+            ],
+            "extraction_locator": "International tuition deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段费用的年度范围",
+            "text": "本页明确国际（Overseas）学生海外学习一学期所在学年的 KCL 学费为正常年费三分之二，合作校通常不另收学费但可能有申请管理费。实际海外发生年度的正常年费、旅行、签证及食宿仍须另核，不把首年价当未来阶段固定价。",
+            "source_ids": [
+              "KCLAM-a4e35dae1ec83709"
+            ],
+            "extraction_locator": "Further fee information; explicit dated reference retained separately"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业发展",
+            "text": "职业页列艺术管理与营销、策展、文化遗产与博物馆，以及电影电视、数字媒体和游戏等方向；这是职业领域说明，没有本项目明确届次、分母的就业率或薪资。",
+            "source_ids": [
+              "KCLAM-4deda8cbe88e1d97"
+            ],
+            "extraction_locator": "careers正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          }
+        ]
       },
       "sources": [
         {
@@ -5040,32 +5539,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "a9e5466458009478b123138a8064ec52b51dc2802af61d192ebaebb52b3d3d22",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLAM-2a760f45bffd22a8",
+          "title": "Culture, Media & Creative Industries BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "2a760f45bffd22a826dd069e3efed562819bf38a8c01f7bfb8c264f2d8ab36b5",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-8802039742ea0e8b",
+          "title": "Culture, Media & Creative Industries BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "8802039742ea0e8b54193c5b057a31087d9ff9da0185f9dc1fe33c1f6866872b",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-a9f9bc725c97dedc",
+          "title": "Culture, Media & Creative Industries BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "a9f9bc725c97dedc187c005c66906dbe4fcad5c4aae24ffc6dd4c80cc1a3337c",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-4deda8cbe88e1d97",
+          "title": "Culture, Media & Creative Industries BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "4deda8cbe88e1d970c5da11d8974ad22ef60ae3bf3775e78595d8bfe9b799453",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-57c47d655c2f75b6",
+          "title": "Culture, Media & Creative Industries BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "57c47d655c2f75b6c30865ac3e7fb50b4a9dbd67c04a296183c30007a7a81866",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-dff3755b9680738d",
+          "title": "Culture, Media & Creative Industries BA — 英语政策（明确2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（明确2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（明确2026/27）",
+          "source_period": "2026/27官方测试政策；2027/28最终条件待核"
+        },
+        {
+          "id": "KCLAM-a4e35dae1ec83709",
+          "title": "Culture, Media & Creative Industries BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "a4e35dae1ec8370965451d68ea81974bb4c073b84f7e4dea196f6ca0ae21c5a4",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28国际常规年费；海外参考的旧年度逐条保留"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项读取本课程总览、要求、公开年度模块和职业正文，并取得实际 China 分支及国际费用显示。",
+        "只保留有依据的模块配额、申请类别与职业领域，表内不一致另列；不将课程选项或职业例子当作保证。",
+        "原事实及其核验日期保留，旧缺口后缀更新写入 ledger；2027英语最终清单、资助与可比毕业调查仍未取得。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAA；须论述型或创意型科目，课程重理论分析而非制作训练",
+        "name": "文化、媒体与创意产业（BA）",
+        "intake": "2027年9月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核职业方向；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored program-specific Chinese facts; exact old evidence preserved",
       "inventory_id": "kcl-culture-media-creative-industries-ba-03939b27d0"
     },
     {
@@ -6150,7 +6733,7 @@
       "raw_key": "a9b1190d-2530-4755-a11c-f2edee671734",
       "name_en": "Digital Media & Culture BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -6168,30 +6751,139 @@
               "UKENR-db0b75f6beadbc"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "数字文化研究与课程",
+            "text": "第一年数字经济、政治、网络技术史、新媒体理论、研究方法和媒体知识生产各15，数字媒体文化导论30，共120且无选修。第二年数据方法15、数字文化争论15及城市语境30为核心，另选60。第三年论文或数字文化项目30必修，另选90，涉及AI社会、数字传播、计算人文、游戏及营销等主题。",
+            "source_ids": [
+              "KCLAM-a3eb73d43da9af70",
+              "KCLAM-8419b52e3ebff421"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "实习与交换的性质",
+            "text": "第三年选项含15学分Digital Culture实习，不是人人必修或保证岗位；跨学院模块须负责人批准。第二年下学期有交换机会，伙伴及实际可选课程仍须批准，不由清单推定可自由申请所有目的地。",
+            "source_ids": [
+              "KCLAM-a3eb73d43da9af70",
+              "KCLAM-8419b52e3ebff421"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "校区、学制与授课语言依据",
+            "text": "课程总览的 Base campus 列 Strand 校区；全日制三年。本轮未取得明确覆盖全部阶段的授课语言条款；英语录取分档与现代语言学习要求另列。",
+            "source_ids": [
+              "KCLAM-8419b52e3ebff421"
+            ],
+            "extraction_locator": "Overview > Base campus, duration, Course essentials"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAB；此为原概览总成绩；本轮实际可见招生正文、专属科目及资格见下列补充。",
             "source_ids": [
               "UKENR-db0b75f6beadbc"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "标准资格和优先科目",
+            "text": "标准A-level AAB、IB35或三门HL合计17，没有指定必修科目。艺术设计、英语文学／语言、传播文化、历史、媒体或哲学属优先科目，不是额外硬门槛；不接受转学。",
+            "source_ids": [
+              "KCLAM-8693900d5ac837f2"
+            ],
+            "extraction_locator": "requirements正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在另一大学本科中的 Year 0／Integrated Foundation。标准 A-level／IB 不直接换算为高考分数，Contextual 优惠也不自动适用所有中国申请者。",
+            "source_ids": [
+              "KCLAM-8693900d5ac837f2"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; standard/contextual distinction"
+          },
+          {
+            "label": "A-level可计资格与适用例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills 和 Global Perspectives 不计为所需 A-level。本页也不以 EPQ 参与录取评估。以英格兰线性理科 A-level 申请者须通过实践考核；无法参加该考核的 private candidates 有明确例外。此条不是另给中国高考生添加英国考试。",
+            "source_ids": [
+              "KCLAM-8693900d5ac837f2"
+            ],
+            "extraction_locator": "Actual A-level exclusions; EPQ / practical endorsement only when this page explicitly states them"
+          },
+          {
+            "label": "本课程中国学历：不直接入学的三类",
+            "text": "该课程实际 China 分支明确不以 Gao Kao（高考）、Zhao Kao（官网标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。所链接 International Foundation 是替代路径信息；课程选择、进阶条件与本专业科目仍须符合，不是保证进入此学位。",
+            "source_ids": [
+              "KCLAM-4e993e853856a422"
+            ],
+            "extraction_locator": "Actual China selection > three Award entries > will not be considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求 Band B。已取得的共用英语政策明确适用 2026/27，IELTS Academic 参考为总分7.0、每项6.5；须在开课月份首日前两年内、单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学须再核最新测试政策及录取条件，不把旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLAM-8693900d5ac837f2",
+              "KCLAM-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English band B; English policy > 2026/27 > Band B / test validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "P390；课程申请开放状态及截止须再核。",
+            "text": "P390；当前窗口及已核状态见本轮补充；未列截止的项目保留缺口。",
             "source_ids": [
               "UKENR-db0b75f6beadbc"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请状态与截止字段",
+            "text": "课程当前列 UCAS P390，2027年9月开课、2027年1月13日截止，实际页面状态 Open。仍须符合本课程学术和材料条件，提交前应复查名额及页面变化。",
+            "source_ids": [
+              "KCLAM-bab4ac30988b06a3"
+            ],
+            "extraction_locator": "Rendered individual Key Information > UCAS, Application status, Start date, Application deadline if present"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费明确为 GBP £30,750／学年，适用 2027/28 常规授课年；后续学年可依学校条款增加。海外阶段如适用另按安排，不用本年价乘学制推定总学费。",
+            "source_ids": [
+              "KCLAM-bab4ac30988b06a3"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与课程附加成本",
+            "text": "国际生坚定接受无条件录取时缴 £2,000 押金，入学后抵扣首年学费。书本、打印、文具、毕业及伦敦／跨校区交通等可能另付。",
+            "source_ids": [
+              "KCLAM-bab4ac30988b06a3"
+            ],
+            "extraction_locator": "International tuition deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段费用的年度范围",
+            "text": "本页说明伙伴校通常不另收学费，但可能收申请管理费；海外生活、旅行及签证须另预算。本轮未取得本课程未来海外阶段 KCL 的准确计费比例或金额，不能把正常授课年价直接套到海外安排。",
+            "source_ids": [
+              "KCLAM-bab4ac30988b06a3"
+            ],
+            "extraction_locator": "Further fee information; explicit dated reference retained separately"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业领域",
+            "text": "职业页列社交媒体分析、用户体验设计、数字项目管理和数字营销，也可继续法律、传播及商业分析等研究生学习。本轮未取得本项目有可比届次与样本的就业率或薪资；深造例子不等于直接具备法律执业资格。",
+            "source_ids": [
+              "KCLAM-77140845f3a64993"
+            ],
+            "extraction_locator": "careers正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          }
+        ]
       },
       "sources": [
         {
@@ -6202,32 +6894,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "93c1d072fe7db634579f85a783b1ae3bf2d9e15f892d5a9192bafa8cc9417d87",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLAM-8419b52e3ebff421",
+          "title": "Digital Media & Culture BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "8419b52e3ebff421be24129bf4b39bff94af01b2d3840e53f5d131df3978a313",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-8693900d5ac837f2",
+          "title": "Digital Media & Culture BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "8693900d5ac837f2da47a59eafc9ce53257760401e0828565565f6015d20be4e",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-a3eb73d43da9af70",
+          "title": "Digital Media & Culture BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "a3eb73d43da9af705156de422cb9c7ab28c03888627e4acfacd384dfa8fb0453",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-77140845f3a64993",
+          "title": "Digital Media & Culture BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "77140845f3a649932be7839ff3a557c57cdee71294d20fecabc2cc7187f1b911",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-4e993e853856a422",
+          "title": "Digital Media & Culture BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "4e993e853856a422d583548e9e064fb4dcfd16960d9579cfa0165988c14a15f1",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-dff3755b9680738d",
+          "title": "Digital Media & Culture BA — 英语政策（明确2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（明确2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（明确2026/27）",
+          "source_period": "2026/27官方测试政策；2027/28最终条件待核"
+        },
+        {
+          "id": "KCLAM-bab4ac30988b06a3",
+          "title": "Digital Media & Culture BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "bab4ac30988b06a38a7595897380501934af3fc51590a52fbcf99044488e4a00",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28国际常规年费；海外参考的旧年度逐条保留"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项读取本课程总览、要求、公开年度模块和职业正文，并取得实际 China 分支及国际费用显示。",
+        "只保留有依据的模块配额、申请类别与职业领域，表内不一致另列；不将课程选项或职业例子当作保证。",
+        "原事实及其核验日期保留，旧缺口后缀更新写入 ledger；2027英语最终清单、资助与可比毕业调查仍未取得。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAB；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAB、无必修科目；数字研究方法必修，实习为选项",
+        "name": "数字媒体与文化（BA）",
+        "intake": "2027年9月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核职业方向；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored program-specific Chinese facts; exact old evidence preserved",
       "inventory_id": "kcl-digital-media-culture-ba-ae88ff0263"
     },
     {
@@ -6575,7 +7351,7 @@
       "raw_key": "ff19ea66-e374-4706-98f5-af232177302e",
       "name_en": "English BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -6593,30 +7369,139 @@
               "UKENR-e3b7ab26fab958"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "英语文学学分与历史范围",
+            "text": "首年八门必修各15学分，含中世纪、近代早期、美洲文学、诗歌、理论、族裔性别与伦敦写作，共120。第二年按1800年前／后分组，至少选四门前1800课程，其中一门须中世纪，总量120。第三年可选八门15，或六门15加论文；论文并非人人必修。课程含小说、诗歌、戏剧、批评及创作等多种考核。",
+            "source_ids": [
+              "KCLAM-5eda9b5d6e99492b",
+              "KCLAM-05d8cb09b7310a30"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "海外学期及外语限制",
+            "text": "第二年下学期可申请交换；其中Berlin伙伴即使以英语教学，仍明确要求基础德语。课程、名额与合作校可能变化，不把现行伙伴清单或临近文化机构当作保证实践岗位。",
+            "source_ids": [
+              "KCLAM-5eda9b5d6e99492b",
+              "KCLAM-05d8cb09b7310a30"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "校区、学制与授课语言依据",
+            "text": "课程总览的 Base campus 列 Strand 校区；全日制三年。本轮未取得明确覆盖全部阶段的授课语言条款；英语录取分档与现代语言学习要求另列。",
+            "source_ids": [
+              "KCLAM-05d8cb09b7310a30"
+            ],
+            "extraction_locator": "Overview > Base campus, duration, Course essentials"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAA；此为原概览总成绩；本轮实际可见招生正文、专属科目及资格见下列补充。",
             "source_ids": [
               "UKENR-e3b7ab26fab958"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "英语文学先修",
+            "text": "标准A-level AAA且英语文学／英语语言与文学A；IB总分36或三门HL合计18，对应英语科目HL6；不接受转学。不能把普通英语语言考试Band B替代学术英语文学科目。",
+            "source_ids": [
+              "KCLAM-d9a13915c43d124f"
+            ],
+            "extraction_locator": "requirements正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在另一大学本科中的 Year 0／Integrated Foundation。标准 A-level／IB 不直接换算为高考分数，Contextual 优惠也不自动适用所有中国申请者。",
+            "source_ids": [
+              "KCLAM-d9a13915c43d124f"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; standard/contextual distinction"
+          },
+          {
+            "label": "A-level可计资格与适用例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills 和 Global Perspectives 不计为所需 A-level。本页也不以 EPQ 参与录取评估。以英格兰线性理科 A-level 申请者须通过实践考核；无法参加该考核的 private candidates 有明确例外。此条不是另给中国高考生添加英国考试。",
+            "source_ids": [
+              "KCLAM-d9a13915c43d124f"
+            ],
+            "extraction_locator": "Actual A-level exclusions; EPQ / practical endorsement only when this page explicitly states them"
+          },
+          {
+            "label": "本课程中国学历：不直接入学的三类",
+            "text": "该课程实际 China 分支明确不以 Gao Kao（高考）、Zhao Kao（官网标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。所链接 International Foundation 是替代路径信息；课程选择、进阶条件与本专业科目仍须符合，不是保证进入此学位。",
+            "source_ids": [
+              "KCLAM-ddfde80411b145ad"
+            ],
+            "extraction_locator": "Actual China selection > three Award entries > will not be considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求 Band B。已取得的共用英语政策明确适用 2026/27，IELTS Academic 参考为总分7.0、每项6.5；须在开课月份首日前两年内、单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学须再核最新测试政策及录取条件，不把旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLAM-d9a13915c43d124f",
+              "KCLAM-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English band B; English policy > 2026/27 > Band B / test validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "Q300；课程申请开放状态及截止须再核。",
+            "text": "Q300；当前窗口及已核状态见本轮补充；未列截止的项目保留缺口。",
             "source_ids": [
               "UKENR-e3b7ab26fab958"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请状态与截止字段",
+            "text": "课程当前列 UCAS Q300，2027年9月开课、2027年1月13日截止，实际页面状态 Open。仍须符合本课程学术和材料条件，提交前应复查名额及页面变化。",
+            "source_ids": [
+              "KCLAM-bdd109cd5e912541"
+            ],
+            "extraction_locator": "Rendered individual Key Information > UCAS, Application status, Start date, Application deadline if present"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费明确为 GBP £30,750／学年，适用 2027/28 常规授课年；后续学年可依学校条款增加。海外阶段如适用另按安排，不用本年价乘学制推定总学费。",
+            "source_ids": [
+              "KCLAM-bdd109cd5e912541"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与课程附加成本",
+            "text": "国际生坚定接受无条件录取时缴 £2,000 押金，入学后抵扣首年学费。书本、打印、文具、毕业及伦敦／跨校区交通等可能另付。",
+            "source_ids": [
+              "KCLAM-bdd109cd5e912541"
+            ],
+            "extraction_locator": "International tuition deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段费用的年度范围",
+            "text": "本页说明伙伴校通常不另收学费，但可能收申请管理费；海外生活、旅行及签证须另预算。本轮未取得本课程未来海外阶段 KCL 的准确计费比例或金额，不能把正常授课年价直接套到海外安排。",
+            "source_ids": [
+              "KCLAM-bdd109cd5e912541"
+            ],
+            "extraction_locator": "Further fee information; explicit dated reference retained separately"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业实例的范围",
+            "text": "职业页列创意文化、教育研究、管理咨询与公共服务；并列编辑、筹款、艺术管理培训、脚本阅读等岗位实例，但没有可比届次或分母。转法律职业需进一步转换课程，列高校教师也不表示本科学位足以直接任教；本轮不填就业率或薪资。",
+            "source_ids": [
+              "KCLAM-b0fbc87ac6024ef7"
+            ],
+            "extraction_locator": "careers正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          }
+        ]
       },
       "sources": [
         {
@@ -6627,32 +7512,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "4f6fd3a1e5e7fe882555b7b1ac6efaf96e7b332e5231676351c20441f302ca5b",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLAM-05d8cb09b7310a30",
+          "title": "English BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "05d8cb09b7310a306c266223ea63c9bbc6a4f08aed7b063a8f279d4d6e59a4ed",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-d9a13915c43d124f",
+          "title": "English BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "d9a13915c43d124f014e0210dd535b76947fededee5695ed5e2b34bfa2a16258",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-5eda9b5d6e99492b",
+          "title": "English BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "5eda9b5d6e99492b071588073275f954eb051b878bedd09ce0663901efee180b",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-b0fbc87ac6024ef7",
+          "title": "English BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "b0fbc87ac6024ef7bbda3dba3c09d0440d1899ce6b781c801465819994033b21",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-ddfde80411b145ad",
+          "title": "English BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "ddfde80411b145ad5cda58f593a79438d65dda1616d4384cced40c4da7bb18ec",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-dff3755b9680738d",
+          "title": "English BA — 英语政策（明确2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（明确2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（明确2026/27）",
+          "source_period": "2026/27官方测试政策；2027/28最终条件待核"
+        },
+        {
+          "id": "KCLAM-bdd109cd5e912541",
+          "title": "English BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "bdd109cd5e9125415e11ecd9a8bff0fb60bf6adf339c1852888309a13f7ecf5b",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28国际常规年费；海外参考的旧年度逐条保留"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项读取本课程总览、要求、公开年度模块和职业正文，并取得实际 China 分支及国际费用显示。",
+        "只保留有依据的模块配额、申请类别与职业领域，表内不一致另列；不将课程选项或职业例子当作保证。",
+        "原事实及其核验日期保留，旧缺口后缀更新写入 ledger；2027英语最终清单、资助与可比毕业调查仍未取得。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAA且英语文学A／IB英语HL6；第二年须满足1800年前与中世纪配额",
+        "name": "英语文学（BA）",
+        "intake": "2027年9月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核职业方向；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored program-specific Chinese facts; exact old evidence preserved",
       "inventory_id": "kcl-english-ba-5fa4c259ea"
     },
     {
@@ -6660,7 +7629,7 @@
       "raw_key": "60f9686b-7dbb-48f0-af8a-3a8bdac3aa6a",
       "name_en": "English & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -6678,30 +7647,147 @@
               "UKENR-085402755643ec"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "英语与一门现代语言",
+            "text": "第一、二和四年各为英语60＋现代语言60。首年英语诗歌和理论各15，另选30；二年英语选前1800与后1800各30。语言按法／德／葡／西语及既有水平分班，含语言与文化文学；第三年在相应语区交换、英语助教或获批工作，考核依活动和目的地。最后一年英语选修60并继续语言模块。",
+            "source_ids": [
+              "KCLAM-4bec8c2bb36a12e1",
+              "KCLAM-2293fca7a540dc97"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "公开模块表的边界",
+            "text": "德／葡中间级班可能因人数不足不开，不等于整个语种停招。法语二年Post-A-level列表的15＋30再加30与该学科60配额不一致；四年法语45选修组又列60学分论文。此处保留60配额，不据异常列表拼造可行组合，具体选课须向系方确认。",
+            "source_ids": [
+              "KCLAM-4bec8c2bb36a12e1",
+              "KCLAM-2293fca7a540dc97"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "校区、学制与授课语言依据",
+            "text": "课程总览的 Base campus 列 Strand 校区；全日制四年，含必修海外年。本轮未取得明确覆盖全部阶段的授课语言条款；英语录取分档与现代语言学习要求另列。",
+            "source_ids": [
+              "KCLAM-2293fca7a540dc97"
+            ],
+            "extraction_locator": "Overview > Base campus, duration, Course essentials"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAB；此为原概览总成绩；本轮实际可见招生正文、专属科目及资格见下列补充。",
             "source_ids": [
               "UKENR-085402755643ec"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "英语和现代语言不同先修",
+            "text": "标准A-level AAB且英语文学／英语语言与文学A；IB35或三门HL合计17，并须HL英语文学／语言与文学，但本页未给该HL单科具体分数，不能套邻项HL6。高级语种要求对应语言A-level B或等同；零基础路线无该现代语言前置。",
+            "source_ids": [
+              "KCLAM-43f9587893efa730"
+            ],
+            "extraction_locator": "requirements正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "入学后的语言确认",
+            "text": "申请时无需填语种，获录取者夏初填偏好表，最终成绩收到后确认高级／零基础路线资格；本页不接受转学。它是英语与一门现代语言的四年共同入口，不是同时读四门外语或取得多个学位。",
+            "source_ids": [
+              "KCLAM-43f9587893efa730"
+            ],
+            "extraction_locator": "requirements正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在另一大学本科中的 Year 0／Integrated Foundation。标准 A-level／IB 不直接换算为高考分数，Contextual 优惠也不自动适用所有中国申请者。",
+            "source_ids": [
+              "KCLAM-43f9587893efa730"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; standard/contextual distinction"
+          },
+          {
+            "label": "A-level可计资格与适用例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills 和 Global Perspectives 不计为所需 A-level。本页也不以 EPQ 参与录取评估。以英格兰线性理科 A-level 申请者须通过实践考核；无法参加该考核的 private candidates 有明确例外。此条不是另给中国高考生添加英国考试。",
+            "source_ids": [
+              "KCLAM-43f9587893efa730"
+            ],
+            "extraction_locator": "Actual A-level exclusions; EPQ / practical endorsement only when this page explicitly states them"
+          },
+          {
+            "label": "本课程中国学历：不直接入学的三类",
+            "text": "该课程实际 China 分支明确不以 Gao Kao（高考）、Zhao Kao（官网标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。所链接 International Foundation 是替代路径信息；课程选择、进阶条件与本专业科目仍须符合，不是保证进入此学位。",
+            "source_ids": [
+              "KCLAM-5ee277c2b28f93e4"
+            ],
+            "extraction_locator": "Actual China selection > three Award entries > will not be considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求 Band B。已取得的共用英语政策明确适用 2026/27，IELTS Academic 参考为总分7.0、每项6.5；须在开课月份首日前两年内、单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学须再核最新测试政策及录取条件，不把旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLAM-43f9587893efa730",
+              "KCLAM-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English band B; English policy > 2026/27 > Band B / test validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "R904；课程申请开放状态及截止须再核。",
+            "text": "R904；当前窗口及已核状态见本轮补充；未列截止的项目保留缺口。",
             "source_ids": [
               "UKENR-085402755643ec"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请状态与截止字段",
+            "text": "课程当前列 UCAS R904，2027年9月开课、2027年1月13日截止，实际页面状态 Open。仍须符合本课程学术和材料条件，提交前应复查名额及页面变化。",
+            "source_ids": [
+              "KCLAM-f186abd49e42aa61"
+            ],
+            "extraction_locator": "Rendered individual Key Information > UCAS, Application status, Start date, Application deadline if present"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费明确为 GBP £30,750／学年，适用 2027/28 常规授课年；后续学年可依学校条款增加。海外阶段如适用另按安排，不用本年价乘学制推定总学费。",
+            "source_ids": [
+              "KCLAM-f186abd49e42aa61"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与课程附加成本",
+            "text": "国际生坚定接受无条件录取时缴 £2,000 押金，入学后抵扣首年学费。书本、打印、文具、毕业及伦敦／跨校区交通等可能另付。",
+            "source_ids": [
+              "KCLAM-f186abd49e42aa61"
+            ],
+            "extraction_locator": "International tuition deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段费用的年度范围",
+            "text": "本页常规国际年费是2027/28，但后续海外／实习说明仍引用旧年：国际附加段指向2026/27；OfS £1,905 与海外 £1,430 明确是2025/26上限，并仍称2026/27上限未取得。旧年度段不能作为中国新生2027或未来必修海外年的报价，本轮未取得该阶段准确年费。",
+            "source_ids": [
+              "KCLAM-f186abd49e42aa61"
+            ],
+            "extraction_locator": "Further fee information; explicit dated reference retained separately"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业说明的内容边界",
+            "text": "当前职业正文主要说明跨文化理解、批评、解释与推理能力，以及面对多语言社会的训练；未提供本项目独立就业岗位调查、届次、就业率或薪资。不能用页面简短宣传描述中的职业名替代正文结果。",
+            "source_ids": [
+              "KCLAM-c9fa949764085151"
+            ],
+            "extraction_locator": "careers正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          }
+        ]
       },
       "sources": [
         {
@@ -6712,32 +7798,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "9e1532400ddcde81993b83ed53dcb3dbbde6eb9344da75bea963ddee5adb74df",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLAM-2293fca7a540dc97",
+          "title": "English & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "2293fca7a540dc97738d2aa69e4f35dc2f170faf5597e56558fb831a0212c18e",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-43f9587893efa730",
+          "title": "English & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "43f9587893efa73054986cf90efbd246331e20403073180e65b6c07af0a31e80",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-4bec8c2bb36a12e1",
+          "title": "English & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "4bec8c2bb36a12e1f8c39beb343ce07648d77562188d994145def3258e5b743e",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-c9fa949764085151",
+          "title": "English & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "c9fa949764085151a930c015040d050860298d29307aa2659590aae955686a2d",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-5ee277c2b28f93e4",
+          "title": "English & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "5ee277c2b28f93e41731869df7bd8789f06c9d074db730c4b46dff1c83a58a68",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-dff3755b9680738d",
+          "title": "English & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — 英语政策（明确2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（明确2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（明确2026/27）",
+          "source_period": "2026/27官方测试政策；2027/28最终条件待核"
+        },
+        {
+          "id": "KCLAM-f186abd49e42aa61",
+          "title": "English & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "f186abd49e42aa612672c3b8e572410a8811d0f6db2ddeeb57525c942756d895",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28国际常规年费；海外参考的旧年度逐条保留"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项读取本课程总览、要求、公开年度模块和职业正文，并取得实际 China 分支及国际费用显示。",
+        "只保留有依据的模块配额、申请类别与职业领域，表内不一致另列；不将课程选项或职业例子当作保证。",
+        "原事实及其核验日期保留，旧缺口后缀更新写入 ledger；2027英语最终清单、资助与可比毕业调查仍未取得。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level AAB；其他科目/考试见详情"
+        "duration": "四年（含必修海外年）",
+        "entry_summary": "高考／Zhao Kao 不直入；AAB且英语文学A；高级语种另需B，IB英语HL单科分数本页未列",
+        "name": "英语文学与现代语言（BA，含海外年）",
+        "intake": "2027年9月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "仅有专业能力说明；未取得独立毕业统计"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
+        "fee_amount": true,
         "career_directions": false,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored program-specific Chinese facts; exact old evidence preserved",
       "inventory_id": "kcl-english-modern-languages-french-german-portuguese-or-spanish-with-70c18a0997"
     },
     {
@@ -6745,7 +7915,7 @@
       "raw_key": "b5103a64-dfa5-424e-a238-e4d853ff115e",
       "name_en": "English Language & Linguistics BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -6763,30 +7933,139 @@
               "UKENR-43909bf96a7656"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "语言学研究结构",
+            "text": "课程通常360学分、每年120。首年社会语言学与英语分析各30，语言发展、二语学习、沟通和英语描述各15；另有三项不计学分学习工作坊。第二年定量与定性方法各15，语法／词汇／语音三选二共30，再选60；跨本专业选修全程最多30，外语模块不计入该上限，仍受批准与名额约束。",
+            "source_ids": [
+              "KCLAM-e5fefac3b61ec917",
+              "KCLAM-b68017d0d5a0ef49"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "毕业研究与合计差异",
+            "text": "第三年列应用语言研究论文30为必修，同时写总量120，却又列选修90或105；30＋105不等120，本轮不自行判定多出的15如何适用。第二年下学期可申请交换；末年可继续此前已修外语的更高水平。",
+            "source_ids": [
+              "KCLAM-e5fefac3b61ec917",
+              "KCLAM-b68017d0d5a0ef49"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "校区、学制与授课语言依据",
+            "text": "本轮未取得公开总览明确的授课校区／全程教学地点说明；全日制三年。本轮未取得明确覆盖全部阶段的授课语言条款；英语录取分档与现代语言学习要求另列。",
+            "source_ids": [
+              "KCLAM-b68017d0d5a0ef49"
+            ],
+            "extraction_locator": "Overview > Base campus, duration, Course essentials"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAB；此为原概览总成绩；本轮实际可见招生正文、专属科目及资格见下列补充。",
             "source_ids": [
               "UKENR-43909bf96a7656"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "可满足先修的科目",
+            "text": "标准A-level AAB，英语语言、英语文学、创意写作、现代外语或心理学之一须A；IB35或三门HL合计17，同组科目之一HL6。可个案考虑转入第二年，不保证批准；不强加其他文学项目较窄的英语文学必修。",
+            "source_ids": [
+              "KCLAM-4c3a3dde212808b1"
+            ],
+            "extraction_locator": "requirements正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在另一大学本科中的 Year 0／Integrated Foundation。标准 A-level／IB 不直接换算为高考分数，Contextual 优惠也不自动适用所有中国申请者。",
+            "source_ids": [
+              "KCLAM-4c3a3dde212808b1"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; standard/contextual distinction"
+          },
+          {
+            "label": "A-level可计资格与适用例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills 和 Global Perspectives 不计为所需 A-level。本页也不以 EPQ 参与录取评估。",
+            "source_ids": [
+              "KCLAM-4c3a3dde212808b1"
+            ],
+            "extraction_locator": "Actual A-level exclusions; EPQ / practical endorsement only when this page explicitly states them"
+          },
+          {
+            "label": "本课程中国学历：不直接入学的三类",
+            "text": "该课程实际 China 分支明确不以 Gao Kao（高考）、Zhao Kao（官网标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。所链接 International Foundation 是替代路径信息；课程选择、进阶条件与本专业科目仍须符合，不是保证进入此学位。",
+            "source_ids": [
+              "KCLAM-f15e5683d7dd8a3d"
+            ],
+            "extraction_locator": "Actual China selection > three Award entries > will not be considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求 Band B。已取得的共用英语政策明确适用 2026/27，IELTS Academic 参考为总分7.0、每项6.5；须在开课月份首日前两年内、单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学须再核最新测试政策及录取条件，不把旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLAM-4c3a3dde212808b1",
+              "KCLAM-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English band B; English policy > 2026/27 > Band B / test validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "Q100；课程申请开放状态及截止须再核。",
+            "text": "Q100；当前窗口及已核状态见本轮补充；未列截止的项目保留缺口。",
             "source_ids": [
               "UKENR-43909bf96a7656"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请状态与截止字段",
+            "text": "课程当前列 UCAS Q100，2027年9月开课、2027年1月13日截止，实际页面状态 Open。仍须符合本课程学术和材料条件，提交前应复查名额及页面变化。",
+            "source_ids": [
+              "KCLAM-9156da5f98f76a1a"
+            ],
+            "extraction_locator": "Rendered individual Key Information > UCAS, Application status, Start date, Application deadline if present"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费明确为 GBP £30,750／学年，适用 2027/28 常规授课年；后续学年可依学校条款增加。海外阶段如适用另按安排，不用本年价乘学制推定总学费。",
+            "source_ids": [
+              "KCLAM-9156da5f98f76a1a"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与课程附加成本",
+            "text": "国际生坚定接受无条件录取时缴 £2,000 押金，入学后抵扣首年学费。书本、打印、文具、毕业及伦敦／跨校区交通等可能另付。",
+            "source_ids": [
+              "KCLAM-9156da5f98f76a1a"
+            ],
+            "extraction_locator": "International tuition deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段费用的年度范围",
+            "text": "本页说明伙伴校通常不另收学费，但可能收申请管理费；海外生活、旅行及签证须另预算。本轮未取得本课程未来海外阶段 KCL 的准确计费比例或金额，不能把正常授课年价直接套到海外安排。",
+            "source_ids": [
+              "KCLAM-9156da5f98f76a1a"
+            ],
+            "extraction_locator": "Further fee information; explicit dated reference retained separately"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向与许可",
+            "text": "职业页列语言研究、出版、传播、公关、媒体、教学与多语言社区工作，并举数据分析、英语教师及言语语言治疗师等职位。它没有给执业资格或本项目独立就业调查，不能据职位列名认为此BA自动满足临床治疗师注册要求；本轮不报率或薪资。",
+            "source_ids": [
+              "KCLAM-aba0fc1b3bc44001"
+            ],
+            "extraction_locator": "careers正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          }
+        ]
       },
       "sources": [
         {
@@ -6797,32 +8076,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "5b9b28d6dbf09efce543de45c18fedaf612a5e085c2422f844cce19d3142c800",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLAM-b68017d0d5a0ef49",
+          "title": "English Language & Linguistics BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "b68017d0d5a0ef499dd80fe7c434d2737fc7c1b5ce7f6b95f3d300c328b80b0c",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-4c3a3dde212808b1",
+          "title": "English Language & Linguistics BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "4c3a3dde212808b1a7de47f62fd7ff39665166f30604628e324f87995f45d544",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-e5fefac3b61ec917",
+          "title": "English Language & Linguistics BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "e5fefac3b61ec917d589cc06326d1f92d4750873dbb63621f76dc290a6919143",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-aba0fc1b3bc44001",
+          "title": "English Language & Linguistics BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "aba0fc1b3bc44001342014b5791805fb869cbf8459cdeaf340c5ae1ccd1f5d4e",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-f15e5683d7dd8a3d",
+          "title": "English Language & Linguistics BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "f15e5683d7dd8a3db62ace85f64e44a4c49ca8492cc915dbb8dfef793a89f18a",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-dff3755b9680738d",
+          "title": "English Language & Linguistics BA — 英语政策（明确2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（明确2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（明确2026/27）",
+          "source_period": "2026/27官方测试政策；2027/28最终条件待核"
+        },
+        {
+          "id": "KCLAM-9156da5f98f76a1a",
+          "title": "English Language & Linguistics BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "9156da5f98f76a1af4e40191bac2a87506b3dd66b2042f481bc25482d8deceef",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28国际常规年费；海外参考的旧年度逐条保留"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项读取本课程总览、要求、公开年度模块和职业正文，并取得实际 China 分支及国际费用显示。",
+        "只保留有依据的模块配额、申请类别与职业领域，表内不一致另列；不将课程选项或职业例子当作保证。",
+        "原事实及其核验日期保留，旧缺口后缀更新写入 ledger；2027英语最终清单、资助与可比毕业调查仍未取得。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAB；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAB；英语／创意写作／现代外语／心理学之一A，研究方法与论文必修",
+        "name": "英语语言与语言学（BA）",
+        "intake": "2027年9月",
+        "campus": "授课校区本轮未核实",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核职业方向；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored program-specific Chinese facts; exact old evidence preserved",
       "inventory_id": "kcl-english-language-linguistics-ba-7f91d5a573"
     },
     {
@@ -7170,7 +8533,7 @@
       "raw_key": "393901ba-3e1a-40a1-abe7-b189ca4e8566",
       "name_en": "English with Creative Writing BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -7188,30 +8551,123 @@
               "UKENR-76acf8e5841920"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "英语主修与写作训练",
+            "text": "首年诗歌阅读和创意写作基础各15，另选文学90。第二年虽无指定单门必修，仍须写作30、Band1文学45及Band2文学45；第三年创意写作论文30必修，写作工作坊至少15、文学文化至少45，其余选课须满足学位计划。本页未在该段交代剩余配额，不把最低组别合计当全年总量。",
+            "source_ids": [
+              "KCLAM-165cce6d689842bd",
+              "KCLAM-cdd105d16f12d385"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "作品集是学习产出",
+            "text": "创作贯穿三年，采用工作坊、同伴编辑反馈、原创作品集及合作实践；评估包含课程作业、考试与创作提交。课程产出的作品集不等于本页已宣布的入学作品集要求，本轮未取得另行作品提交或试选规则。",
+            "source_ids": [
+              "KCLAM-165cce6d689842bd",
+              "KCLAM-cdd105d16f12d385"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "校区、学制与授课语言依据",
+            "text": "课程总览的 Base campus 列 Strand 校区；全日制三年。本轮未取得明确覆盖全部阶段的授课语言条款；英语录取分档与现代语言学习要求另列。",
+            "source_ids": [
+              "KCLAM-cdd105d16f12d385"
+            ],
+            "extraction_locator": "Overview > Base campus, duration, Course essentials"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAA；此为原概览总成绩；本轮实际可见招生正文、专属科目及资格见下列补充。",
             "source_ids": [
               "UKENR-76acf8e5841920"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "本课程英语先修与缺口",
+            "text": "标准A-level AAA，英语文学或英语语言须A；IB36或三门HL合计18，同一英语类别HL6。与English BA不同，本页明确接受English Language，不擅改成必须English Literature。当前要求正文未取得详细转学、延期或额外作品集选拔条款，保留这一缺口。",
+            "source_ids": [
+              "KCLAM-3d15ef71dfc12c2f"
+            ],
+            "extraction_locator": "requirements正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "A-level可计资格与适用例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills 和 Global Perspectives 不计为所需 A-level。",
+            "source_ids": [
+              "KCLAM-3d15ef71dfc12c2f"
+            ],
+            "extraction_locator": "Actual A-level exclusions; EPQ / practical endorsement only when this page explicitly states them"
+          },
+          {
+            "label": "本课程中国学历：不直接入学的三类",
+            "text": "该课程实际 China 分支明确不以 Gao Kao（高考）、Zhao Kao（官网标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。所链接 International Foundation 是替代路径信息；课程选择、进阶条件与本专业科目仍须符合，不是保证进入此学位。",
+            "source_ids": [
+              "KCLAM-7ffa0597ed75606a"
+            ],
+            "extraction_locator": "Actual China selection > three Award entries > will not be considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求 Band B。已取得的共用英语政策明确适用 2026/27，IELTS Academic 参考为总分7.0、每项6.5；须在开课月份首日前两年内、单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学须再核最新测试政策及录取条件，不把旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLAM-3d15ef71dfc12c2f",
+              "KCLAM-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English band B; English policy > 2026/27 > Band B / test validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "QW10；课程申请开放状态及截止须再核。",
+            "text": "QW10；当前窗口及已核状态见本轮补充；未列截止的项目保留缺口。",
             "source_ids": [
               "UKENR-76acf8e5841920"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请状态与截止字段",
+            "text": "课程当前列 UCAS QW10，2027年9月开课、实际状态 Open，但本页面未列申请截止字段。本轮不以其他课程日期补入该空栏，具体截止须向招生部门核实。",
+            "source_ids": [
+              "KCLAM-450d971f89a22d17"
+            ],
+            "extraction_locator": "Rendered individual Key Information > UCAS, Application status, Start date, Application deadline if present"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费明确为 GBP £30,750／学年，适用 2027/28 常规授课年；后续学年可依学校条款增加。海外阶段如适用另按安排，不用本年价乘学制推定总学费。",
+            "source_ids": [
+              "KCLAM-450d971f89a22d17"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与课程附加成本",
+            "text": "国际生坚定接受无条件录取时缴 £2,000 押金，入学后抵扣首年学费。书本、打印、文具、毕业及伦敦／跨校区交通等可能另付。",
+            "source_ids": [
+              "KCLAM-450d971f89a22d17"
+            ],
+            "extraction_locator": "International tuition deposit; Additional costs"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向与作品经验",
+            "text": "职业页列出版编辑、新闻媒体、营销传播、文案内容、文化组织、教学及自由写作；完成原创作品集与编辑实践属于课程经验。本轮没有本项目明确届次、分母的就业率或薪资，不将方向举例解释为保证签约或受雇。",
+            "source_ids": [
+              "KCLAM-c7ad13d6f1928e7c"
+            ],
+            "extraction_locator": "careers正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          }
+        ]
       },
       "sources": [
         {
@@ -7222,32 +8678,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "1bd292811bad03fdb183116e4f5afdc5a38b1e90733ad46c3b9fcbbee6b0140a",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLAM-cdd105d16f12d385",
+          "title": "English with Creative Writing BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing",
+          "checked_at": "2026-09-13",
+          "sha256": "cdd105d16f12d38528e2935e3b539821870ce121d850225e30be998c628b1ce3",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-3d15ef71dfc12c2f",
+          "title": "English with Creative Writing BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "3d15ef71dfc12c2f8394a35035faeff4aa3e997c7639b5b56822af2a9037c5c9",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-165cce6d689842bd",
+          "title": "English with Creative Writing BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "165cce6d689842bd3301c8fd5cc6e9f9b82e2a14443a9d4ab9ddb7b8e6b1490d",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-c7ad13d6f1928e7c",
+          "title": "English with Creative Writing BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "c7ad13d6f1928e7c0ef4b459a8f5fd326e4ce1de980b2f8f22ea1a01ed375368",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-7ffa0597ed75606a",
+          "title": "English with Creative Writing BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "7ffa0597ed75606ad306525c63b955535d93b7cdb0a81f028e21fdd8d6d30e16",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-dff3755b9680738d",
+          "title": "English with Creative Writing BA — 英语政策（明确2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（明确2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（明确2026/27）",
+          "source_period": "2026/27官方测试政策；2027/28最终条件待核"
+        },
+        {
+          "id": "KCLAM-450d971f89a22d17",
+          "title": "English with Creative Writing BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "450d971f89a22d17a88408d331a7d6b68dcb577b337268b9f33939d81d164e87",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28国际常规年费；海外参考的旧年度逐条保留"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项读取本课程总览、要求、公开年度模块和职业正文，并取得实际 China 分支及国际费用显示。",
+        "只保留有依据的模块配额、申请类别与职业领域，表内不一致另列；不将课程选项或职业例子当作保证。",
+        "原事实及其核验日期保留，旧缺口后缀更新写入 ledger；2027英语最终清单、资助与可比毕业调查仍未取得。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAA；英语文学或英语语言A／HL6，创意写作论文必修",
+        "name": "英语与创意写作（BA）",
+        "intake": "2027年9月；本页未列截止",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核职业方向；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored program-specific Chinese facts; exact old evidence preserved",
       "inventory_id": "kcl-english-with-creative-writing-ba-ba3383fbc1"
     },
     {
@@ -7255,7 +8795,7 @@
       "raw_key": "6f1d6ebd-a96e-48e8-8250-662e55ddd6e1",
       "name_en": "English with Film Studies BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -7273,30 +8813,139 @@
               "UKENR-89c9fbcb60fc38"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "英语主修与电影辅修",
+            "text": "首年英语90（诗歌15必修并选五门15）＋电影形式和批评讨论各15；正文同时称无选修，实际仍有组内选择。第二年英语须至少三门Band1、其中一门中世纪，电影另须30；“全年120”位于英语段，不能误算成英语120再加电影30。末年英语90、电影30，英语论文30可替代两门15。",
+            "source_ids": [
+              "KCLAM-1f0bfd52f5bf63aa",
+              "KCLAM-8bdca94247790a8d"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "学习与海外机会",
+            "text": "采用文学细读、电影序列分析、论文、考试、创意作业，以及视频论文／播客等形式；第二年下学期可申请交换。本学位为英语主修、电影辅修，不是两个学位；模块与交换名额须按正式方案确认。",
+            "source_ids": [
+              "KCLAM-1f0bfd52f5bf63aa",
+              "KCLAM-8bdca94247790a8d"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "校区、学制与授课语言依据",
+            "text": "课程总览的 Base campus 列 Strand 校区；全日制三年。本轮未取得明确覆盖全部阶段的授课语言条款；英语录取分档与现代语言学习要求另列。",
+            "source_ids": [
+              "KCLAM-8bdca94247790a8d"
+            ],
+            "extraction_locator": "Overview > Base campus, duration, Course essentials"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAA；此为原概览总成绩；本轮实际可见招生正文、专属科目及资格见下列补充。",
             "source_ids": [
               "UKENR-89c9fbcb60fc38"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "英语文学先修",
+            "text": "标准A-level AAA且英语文学／英语语言与文学A；IB36或三门HL合计18，对应英语HL6。艺术或人文学科只是优先背景，不是另加必修；不接受转学。",
+            "source_ids": [
+              "KCLAM-6f2336f4d87026a5"
+            ],
+            "extraction_locator": "requirements正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在另一大学本科中的 Year 0／Integrated Foundation。标准 A-level／IB 不直接换算为高考分数，Contextual 优惠也不自动适用所有中国申请者。",
+            "source_ids": [
+              "KCLAM-6f2336f4d87026a5"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; standard/contextual distinction"
+          },
+          {
+            "label": "A-level可计资格与适用例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills 和 Global Perspectives 不计为所需 A-level。本页也不以 EPQ 参与录取评估。以英格兰线性理科 A-level 申请者须通过实践考核；无法参加该考核的 private candidates 有明确例外。此条不是另给中国高考生添加英国考试。",
+            "source_ids": [
+              "KCLAM-6f2336f4d87026a5"
+            ],
+            "extraction_locator": "Actual A-level exclusions; EPQ / practical endorsement only when this page explicitly states them"
+          },
+          {
+            "label": "本课程中国学历：不直接入学的三类",
+            "text": "该课程实际 China 分支明确不以 Gao Kao（高考）、Zhao Kao（官网标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。所链接 International Foundation 是替代路径信息；课程选择、进阶条件与本专业科目仍须符合，不是保证进入此学位。",
+            "source_ids": [
+              "KCLAM-15577255f9d2f7bb"
+            ],
+            "extraction_locator": "Actual China selection > three Award entries > will not be considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求 Band B。已取得的共用英语政策明确适用 2026/27，IELTS Academic 参考为总分7.0、每项6.5；须在开课月份首日前两年内、单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学须再核最新测试政策及录取条件，不把旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLAM-6f2336f4d87026a5",
+              "KCLAM-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English band B; English policy > 2026/27 > Band B / test validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "Q3P3；课程申请开放状态及截止须再核。",
+            "text": "Q3P3；当前窗口及已核状态见本轮补充；未列截止的项目保留缺口。",
             "source_ids": [
               "UKENR-89c9fbcb60fc38"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请状态与截止字段",
+            "text": "课程当前列 UCAS Q3P3，2027年9月开课、2027年1月13日截止，实际页面状态 Open。仍须符合本课程学术和材料条件，提交前应复查名额及页面变化。",
+            "source_ids": [
+              "KCLAM-7603523dfabf13e6"
+            ],
+            "extraction_locator": "Rendered individual Key Information > UCAS, Application status, Start date, Application deadline if present"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费明确为 GBP £30,750／学年，适用 2027/28 常规授课年；后续学年可依学校条款增加。海外阶段如适用另按安排，不用本年价乘学制推定总学费。",
+            "source_ids": [
+              "KCLAM-7603523dfabf13e6"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与课程附加成本",
+            "text": "国际生坚定接受无条件录取时缴 £2,000 押金，入学后抵扣首年学费。书本、打印、文具、毕业及伦敦／跨校区交通等可能另付。",
+            "source_ids": [
+              "KCLAM-7603523dfabf13e6"
+            ],
+            "extraction_locator": "International tuition deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段费用的年度范围",
+            "text": "本页说明伙伴校通常不另收学费，但可能收申请管理费；海外生活、旅行及签证须另预算。本轮未取得本课程未来海外阶段 KCL 的准确计费比例或金额，不能把正常授课年价直接套到海外安排。",
+            "source_ids": [
+              "KCLAM-7603523dfabf13e6"
+            ],
+            "extraction_locator": "Further fee information; explicit dated reference retained separately"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业说明",
+            "text": "职业页列创意文化、教育研究、管理咨询与公共服务；法律职业需要进一步转换课程。正文是职业发展描述，没有本联合入口可比届次、分母的就业率或薪资，不能将全部领域看作毕业保证。",
+            "source_ids": [
+              "KCLAM-2a98ef63aeac5776"
+            ],
+            "extraction_locator": "careers正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          }
+        ]
       },
       "sources": [
         {
@@ -7307,32 +8956,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "02a9fab9aa1ba19e80cdecc690959aa6a3de40558b0801535c53116d21266495",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLAM-8bdca94247790a8d",
+          "title": "English with Film Studies BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "8bdca94247790a8d9b2619dd926f3fb0afe5936e40dae850fb563f8caf16adb2",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-6f2336f4d87026a5",
+          "title": "English with Film Studies BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "6f2336f4d87026a539bf95a35d01e3c2d1581a6a3e105951959d72627b5b417c",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-1f0bfd52f5bf63aa",
+          "title": "English with Film Studies BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "1f0bfd52f5bf63aae51eb438a5a16890c53a6c8fee18ca148729d4c223c35b1a",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-2a98ef63aeac5776",
+          "title": "English with Film Studies BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "2a98ef63aeac57768386f7ff423103299a8adef5bff02ccce179ab0e00ef4aab",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-15577255f9d2f7bb",
+          "title": "English with Film Studies BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "15577255f9d2f7bb87928d492fead1f185fbb4dec23f5e985b024710988ded9c",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-dff3755b9680738d",
+          "title": "English with Film Studies BA — 英语政策（明确2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（明确2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（明确2026/27）",
+          "source_period": "2026/27官方测试政策；2027/28最终条件待核"
+        },
+        {
+          "id": "KCLAM-7603523dfabf13e6",
+          "title": "English with Film Studies BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "7603523dfabf13e607bd3e020a7bf993b7328a8ae99e6f7f0249fd18e93b2463",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28国际常规年费；海外参考的旧年度逐条保留"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项读取本课程总览、要求、公开年度模块和职业正文，并取得实际 China 分支及国际费用显示。",
+        "只保留有依据的模块配额、申请类别与职业领域，表内不一致另列；不将课程选项或职业例子当作保证。",
+        "原事实及其核验日期保留，旧缺口后缀更新写入 ledger；2027英语最终清单、资助与可比毕业调查仍未取得。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAA且英语文学A；英语主修、电影辅修，二年须含中世纪文学",
+        "name": "英语文学与电影研究（BA，主修／辅修）",
+        "intake": "2027年9月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核职业方向；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored program-specific Chinese facts; exact old evidence preserved",
       "inventory_id": "kcl-english-with-film-studies-ba-5459540fc7"
     },
     {
@@ -8141,7 +9874,7 @@
       "raw_key": "08274815-4a58-493b-9871-44a60dc1bae3",
       "name_en": "Film Studies BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -8159,30 +9892,141 @@
               "UKENR-ca8458ecda17d0"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "电影分析与实践的关系",
+            "text": "要求页将本课程定位为电影分析与评论，并非电影制作／技术专业；教学仍含短片、影像论文等实践形式。首年电影形式、批评、学术研究及电影史三门，共六门各15，另选30；第二年电影理论I 15必修，另选105；末年新媒体15、理论II 15、独立研究30为核心，再选60。",
+            "source_ids": [
+              "KCLAM-b6d6f965d049b1b5",
+              "KCLAM-40c2d5a4bbd6be68",
+              "KCLAM-b828a52bc80ca0f3"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "独立研究及交换",
+            "text": "独立研究可为书面论文，或影音创作配较短论文。第二年可申请上或下学期交换，法语／日语伙伴有语言条件；二年跨系选修最多30，须导师及项目管理员批准。课程含制作实践不改变其分析型学位定位。",
+            "source_ids": [
+              "KCLAM-b6d6f965d049b1b5",
+              "KCLAM-40c2d5a4bbd6be68",
+              "KCLAM-b828a52bc80ca0f3"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "校区、学制与授课语言依据",
+            "text": "课程总览的 Base campus 列 Strand 校区；全日制三年。本轮未取得明确覆盖全部阶段的授课语言条款；英语录取分档与现代语言学习要求另列。",
+            "source_ids": [
+              "KCLAM-40c2d5a4bbd6be68"
+            ],
+            "extraction_locator": "Overview > Base campus, duration, Course essentials"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAB；此为原概览总成绩；本轮实际可见招生正文、专属科目及资格见下列补充。",
             "source_ids": [
               "UKENR-ca8458ecda17d0"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "论述型科目要求",
+            "text": "标准A-level AAB；IB35或三门HL合计17，IB须HL论述型科目。要求论述型科目，既有例子含文学语言、历史、媒体、经济、心理、地理等，名单非穷尽、按个案评估。可考虑转入第二年，不保证批准；本页不据课程名统一要求拍片作品集。",
+            "source_ids": [
+              "KCLAM-b828a52bc80ca0f3"
+            ],
+            "extraction_locator": "requirements正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在另一大学本科中的 Year 0／Integrated Foundation。标准 A-level／IB 不直接换算为高考分数，Contextual 优惠也不自动适用所有中国申请者。",
+            "source_ids": [
+              "KCLAM-b828a52bc80ca0f3"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; standard/contextual distinction"
+          },
+          {
+            "label": "A-level可计资格与适用例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills 和 Global Perspectives 不计为所需 A-level。本页也不以 EPQ 参与录取评估。以英格兰线性理科 A-level 申请者须通过实践考核；无法参加该考核的 private candidates 有明确例外。此条不是另给中国高考生添加英国考试。",
+            "source_ids": [
+              "KCLAM-b828a52bc80ca0f3"
+            ],
+            "extraction_locator": "Actual A-level exclusions; EPQ / practical endorsement only when this page explicitly states them"
+          },
+          {
+            "label": "本课程中国学历：不直接入学的三类",
+            "text": "该课程实际 China 分支明确不以 Gao Kao（高考）、Zhao Kao（官网标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。所链接 International Foundation 是替代路径信息；课程选择、进阶条件与本专业科目仍须符合，不是保证进入此学位。",
+            "source_ids": [
+              "KCLAM-e787d726a768bf79"
+            ],
+            "extraction_locator": "Actual China selection > three Award entries > will not be considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求 Band B。已取得的共用英语政策明确适用 2026/27，IELTS Academic 参考为总分7.0、每项6.5；须在开课月份首日前两年内、单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学须再核最新测试政策及录取条件，不把旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLAM-b828a52bc80ca0f3",
+              "KCLAM-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English band B; English policy > 2026/27 > Band B / test validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "P303；课程申请开放状态及截止须再核。",
+            "text": "P303；当前窗口及已核状态见本轮补充；未列截止的项目保留缺口。",
             "source_ids": [
               "UKENR-ca8458ecda17d0"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请状态与截止字段",
+            "text": "课程当前列 UCAS P303，2027年9月开课、2027年1月13日截止，实际页面状态 Open。仍须符合本课程学术和材料条件，提交前应复查名额及页面变化。",
+            "source_ids": [
+              "KCLAM-5bfb86f7b8cc444a"
+            ],
+            "extraction_locator": "Rendered individual Key Information > UCAS, Application status, Start date, Application deadline if present"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费明确为 GBP £30,750／学年，适用 2027/28 常规授课年；后续学年可依学校条款增加。海外阶段如适用另按安排，不用本年价乘学制推定总学费。",
+            "source_ids": [
+              "KCLAM-5bfb86f7b8cc444a"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与课程附加成本",
+            "text": "国际生坚定接受无条件录取时缴 £2,000 押金，入学后抵扣首年学费。书本、打印、文具、毕业及伦敦／跨校区交通等可能另付。电影课程另列便携影像存储设备。",
+            "source_ids": [
+              "KCLAM-5bfb86f7b8cc444a"
+            ],
+            "extraction_locator": "International tuition deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段费用的年度范围",
+            "text": "本页说明伙伴校通常不另收学费，但可能收申请管理费；海外生活、旅行及签证须另预算。本轮未取得本课程未来海外阶段 KCL 的准确计费比例或金额，不能把正常授课年价直接套到海外安排。",
+            "source_ids": [
+              "KCLAM-5bfb86f7b8cc444a"
+            ],
+            "extraction_locator": "Further fee information; explicit dated reference retained separately"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业领域的层次",
+            "text": "职业页说明电影与媒体相关领域，部分人进一步读电影制作、表演、制片、策划或电影学研究生；也列新闻、艺术管理、保存与策展。不能把研究生学习方向写成本科直接就业结果；未取得本学位可比就业率或薪资。",
+            "source_ids": [
+              "KCLAM-02e09c2a1ebe8b67"
+            ],
+            "extraction_locator": "careers正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          }
+        ]
       },
       "sources": [
         {
@@ -8193,32 +10037,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "40c2d5a4bbd6be686115f54dbd81362671734660fbda97b8a5d65fad4c473862",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLAM-40c2d5a4bbd6be68",
+          "title": "Film Studies BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "40c2d5a4bbd6be686115f54dbd81362671734660fbda97b8a5d65fad4c473862",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-b828a52bc80ca0f3",
+          "title": "Film Studies BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "b828a52bc80ca0f3adfa47d33c91ec4babac2be08ebb5fe07243c6fe7f2cdc4d",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-b6d6f965d049b1b5",
+          "title": "Film Studies BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "b6d6f965d049b1b537407281478a752674a21489c3686c78fc5c07e3ec9fd896",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-02e09c2a1ebe8b67",
+          "title": "Film Studies BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "02e09c2a1ebe8b671abe8922896945bb8f3ae4968151460d5a6c4085a5de02a4",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-e787d726a768bf79",
+          "title": "Film Studies BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "e787d726a768bf796d45ad788cf4a6d8d645e5a206460ea207a2987753d35c26",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-dff3755b9680738d",
+          "title": "Film Studies BA — 英语政策（明确2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（明确2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（明确2026/27）",
+          "source_period": "2026/27官方测试政策；2027/28最终条件待核"
+        },
+        {
+          "id": "KCLAM-5bfb86f7b8cc444a",
+          "title": "Film Studies BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "5bfb86f7b8cc444ac7a0f947c7497fab285fd3d2fa4b27d97a82bc34cc21cfa7",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28国际常规年费；海外参考的旧年度逐条保留"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项读取本课程总览、要求、公开年度模块和职业正文，并取得实际 China 分支及国际费用显示。",
+        "只保留有依据的模块配额、申请类别与职业领域，表内不一致另列；不将课程选项或职业例子当作保证。",
+        "原事实及其核验日期保留，旧缺口后缀更新写入 ledger；2027英语最终清单、资助与可比毕业调查仍未取得。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAB；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAB、须论述型科目；电影分析为主，含可选与考核性影像实践",
+        "name": "电影研究（BA）",
+        "intake": "2027年9月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核职业方向；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored program-specific Chinese facts; exact old evidence preserved",
       "inventory_id": "kcl-film-studies-ba-4f4a9cd4fd"
     },
     {
@@ -9111,7 +11039,7 @@
       "raw_key": "60b18257-b825-48fc-b9e0-98506d9823ac",
       "name_en": "Global Media and Languages BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -9129,30 +11057,131 @@
               "UKENR-7c35c35553047e"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "语言与全球媒体共同入口",
+            "text": "四年学位，第三年须在主修语言使用地区交换、任英语助教或参加获批工作；海外教学／工作使用目标语言。第一年语言侧按水平学习语言30及文化30，另有全球媒体导论30、媒体选修30；第二年继续语言文化与媒体选修60。可在获准范围内选择第二语言模块，零基础第二语言有主修语言水平条件。",
+            "source_ids": [
+              "KCLAM-0ab801dcd00492cc",
+              "KCLAM-2fb999b4281eddc5"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "末年论文及公开表差异",
+            "text": "末年全球媒体论文30及媒体选修30明确；语言侧分语种表列不同配额，法语／西语仅列15＋30，而德语／葡语为60，本轮未取得如何对齐完整年度的说明。葡语一年级高级路线模块也未列全；不能由表遗漏判定正式高级入口停办，或借另一语言表补学分。",
+            "source_ids": [
+              "KCLAM-0ab801dcd00492cc",
+              "KCLAM-2fb999b4281eddc5"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "校区、学制与授课语言依据",
+            "text": "课程总览的 Base campus 列 Strand 校区；全日制四年，含必修海外年。本轮未取得明确覆盖全部阶段的授课语言条款；英语录取分档与现代语言学习要求另列。",
+            "source_ids": [
+              "KCLAM-2fb999b4281eddc5"
+            ],
+            "extraction_locator": "Overview > Base campus, duration, Course essentials"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAB；此为原概览总成绩；本轮实际可见招生正文、专属科目及资格见下列补充。",
             "source_ids": [
               "UKENR-7c35c35553047e"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "全球媒体与语言标准资格",
+            "text": "可见招生正文标准A-level AAB；IB35或三门HL合计17。高级法／德／葡／西语须A-level B或对应IB HL5；零基础路线无该现代语言前置。语种课程按学习水平分流，不能用语言证书代替全部本科总成绩要求。",
+            "source_ids": [
+              "KCLAM-8f5caf0c8098c911"
+            ],
+            "extraction_locator": "requirements正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "尚未取得的细则",
+            "text": "当前要求正文未取得完整转学、延期或额外材料选拔条款。语种水平须符合对应路线，不能将共同入口当作四种语言同时学习或同时取得多个学位。",
+            "source_ids": [
+              "KCLAM-8f5caf0c8098c911"
+            ],
+            "extraction_locator": "requirements正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "A-level可计资格与适用例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills 和 Global Perspectives 不计为所需 A-level。",
+            "source_ids": [
+              "KCLAM-8f5caf0c8098c911"
+            ],
+            "extraction_locator": "Actual A-level exclusions; EPQ / practical endorsement only when this page explicitly states them"
+          },
+          {
+            "label": "本课程中国学历：不直接入学的三类",
+            "text": "该课程实际 China 分支明确不以 Gao Kao（高考）、Zhao Kao（官网标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。所链接 International Foundation 是替代路径信息；课程选择、进阶条件与本专业科目仍须符合，不是保证进入此学位。",
+            "source_ids": [
+              "KCLAM-db33fdb084f89c8b"
+            ],
+            "extraction_locator": "Actual China selection > three Award entries > will not be considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求 Band B。已取得的共用英语政策明确适用 2026/27，IELTS Academic 参考为总分7.0、每项6.5；须在开课月份首日前两年内、单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学须再核最新测试政策及录取条件，不把旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLAM-8f5caf0c8098c911",
+              "KCLAM-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English band B; English policy > 2026/27 > Band B / test validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "P900；课程申请开放状态及截止须再核。",
+            "text": "P900；当前窗口及已核状态见本轮补充；未列截止的项目保留缺口。",
             "source_ids": [
               "UKENR-7c35c35553047e"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请状态与截止字段",
+            "text": "课程当前列 UCAS P900，2027年9月开课、实际状态 Open，但本页面未列申请截止字段。本轮不以其他课程日期补入该空栏，具体截止须向招生部门核实。",
+            "source_ids": [
+              "KCLAM-40f9e27959196fb1"
+            ],
+            "extraction_locator": "Rendered individual Key Information > UCAS, Application status, Start date, Application deadline if present"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费明确为 GBP £30,750／学年，适用 2027/28 常规授课年；后续学年可依学校条款增加。海外阶段如适用另按安排，不用本年价乘学制推定总学费。",
+            "source_ids": [
+              "KCLAM-40f9e27959196fb1"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与课程附加成本",
+            "text": "国际生坚定接受无条件录取时缴 £2,000 押金，入学后抵扣首年学费。书本、打印、文具、毕业及伦敦／跨校区交通等可能另付。",
+            "source_ids": [
+              "KCLAM-40f9e27959196fb1"
+            ],
+            "extraction_locator": "International tuition deposit; Additional costs"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业说明与调查",
+            "text": "职业页列媒体传播、营销、电影电视、文化组织、国际组织、政策、翻译、教育、商业金融及法律转换路径；所谓语言学位就业价值不是本入口独立调查。本轮没有可比届次、分母的就业率或薪资，法律等职业仍需进一步资格。",
+            "source_ids": [
+              "KCLAM-6f305e24b1cd53b2"
+            ],
+            "extraction_locator": "careers正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          }
+        ]
       },
       "sources": [
         {
@@ -9163,32 +11192,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "2fb999b4281eddc53fce696eb90a5943bdab61af0a0f20c1c0f3449e406a84c0",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLAM-2fb999b4281eddc5",
+          "title": "Global Media and Languages BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages",
+          "checked_at": "2026-09-13",
+          "sha256": "2fb999b4281eddc53fce696eb90a5943bdab61af0a0f20c1c0f3449e406a84c0",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-8f5caf0c8098c911",
+          "title": "Global Media and Languages BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "8f5caf0c8098c911803e13a55b5e1f27ee18f03c634ee8eca85c8e79acea6563",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-0ab801dcd00492cc",
+          "title": "Global Media and Languages BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "0ab801dcd00492ccfe32e89a2fe5481efebb01b6873abacc3247dafef765ccd0",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-6f305e24b1cd53b2",
+          "title": "Global Media and Languages BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "6f305e24b1cd53b2888b449add1d4085a58a9bea8f5882bddbdb5dde81006445",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-db33fdb084f89c8b",
+          "title": "Global Media and Languages BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "db33fdb084f89c8b1fcf8aa823b65465ffa63212846ac3f9c90dafaf4322e74a",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-dff3755b9680738d",
+          "title": "Global Media and Languages BA — 英语政策（明确2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（明确2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（明确2026/27）",
+          "source_period": "2026/27官方测试政策；2027/28最终条件待核"
+        },
+        {
+          "id": "KCLAM-40f9e27959196fb1",
+          "title": "Global Media and Languages BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "40f9e27959196fb1fa87980975318cd117aef0af23bbc09716fe98eb60dde17e",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28国际常规年费；海外参考的旧年度逐条保留"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项读取本课程总览、要求、公开年度模块和职业正文，并取得实际 China 分支及国际费用显示。",
+        "只保留有依据的模块配额、申请类别与职业领域，表内不一致另列；不将课程选项或职业例子当作保证。",
+        "原事实及其核验日期保留，旧缺口后缀更新写入 ledger；2027英语最终清单、资助与可比毕业调查仍未取得。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level AAB；其他科目/考试见详情"
+        "duration": "四年（含必修海外年）",
+        "entry_summary": "高考／Zhao Kao 不直入；AAB；高级语种B或HL5，零基础免该外语先修；第三年海外必修",
+        "name": "全球媒体与语言（BA）",
+        "intake": "2027年9月；本页未列截止",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核职业方向；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored program-specific Chinese facts; exact old evidence preserved",
       "inventory_id": "kcl-global-media-and-languages-ba-9d72da541f"
     },
     {
@@ -13854,7 +15967,7 @@
       "raw_key": "85b3aea5-8291-4a25-b683-e312a4863bd9",
       "name_en": "Music BMus",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -13872,30 +15985,147 @@
               "UKENR-22cd5d56cc0ea9"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "音乐学位与个性化选课",
+            "text": "首年音乐议题四门各15，另选60，可含听觉训练、分析、理论和表演；第二、三年各选120，无全体指定必修。可侧重音乐史、民族音乐学、作曲或演奏；末年选择进阶表演30须试奏，Special Study作曲作品集须作曲负责人同意。第三年所有作曲／表演模块都有先修，不能由列入选项推定人人可选。",
+            "source_ids": [
+              "KCLAM-f0b66c79b69d43cf",
+              "KCLAM-6c4afc89373e89c4"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "教学、选修与交换",
+            "text": "表演采用一对一个别课，其他模块含讲座、研讨和小组；考核可为论文、独奏、讲解音乐会、作品集、听觉测试或考试。末年120中最多30可来自其他KCL学科或SOAS音乐，仍按批准计划；第二年下学期可申请交换。",
+            "source_ids": [
+              "KCLAM-f0b66c79b69d43cf",
+              "KCLAM-6c4afc89373e89c4"
+            ],
+            "extraction_locator": "teaching正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "校区、学制与授课语言依据",
+            "text": "课程总览的 Base campus 列 Strand 校区；全日制三年。本轮未取得明确覆盖全部阶段的授课语言条款；英语录取分档与现代语言学习要求另列。",
+            "source_ids": [
+              "KCLAM-6c4afc89373e89c4"
+            ],
+            "extraction_locator": "Overview > Base campus, duration, Course essentials"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAB；此为原概览总成绩；本轮实际可见招生正文、专属科目及资格见下列补充。",
             "source_ids": [
               "UKENR-22cd5d56cc0ea9"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "音乐学术先修分学历",
+            "text": "标准A-level AAB，须含Music，或另外通过乐理Grade5。IB35或三门HL合计17，须Music HL5，或另外通过乐理Grade6。器乐／声乐同级证书不能替代理论考试。音乐专门学校仅能修两门A-level的特定申请者，可在招生导师学术面试后个案考虑，不是普遍两门即可。",
+            "source_ids": [
+              "KCLAM-f9b2e5edbbafa457"
+            ],
+            "extraction_locator": "requirements正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "入学选拔和表演模块不同",
+            "text": "一般学位申请不要求面试、试奏、既往课程作业或音乐作品集；资格经历不清楚时可能要求面试。希望修Performance及接受Royal Academy of Music个别课者，须入学前达到主乐器／声乐ABRSM Grade8或短试奏证明等同，也可审其他认可分级考试。转学按个案考虑。",
+            "source_ids": [
+              "KCLAM-f9b2e5edbbafa457"
+            ],
+            "extraction_locator": "requirements正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在另一大学本科中的 Year 0／Integrated Foundation。标准 A-level／IB 不直接换算为高考分数，Contextual 优惠也不自动适用所有中国申请者。",
+            "source_ids": [
+              "KCLAM-f9b2e5edbbafa457"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; standard/contextual distinction"
+          },
+          {
+            "label": "A-level可计资格与适用例外",
+            "text": "General Studies、Critical Thinking、Thinking Skills 和 Global Perspectives 不计为所需 A-level。本页也不以 EPQ 参与录取评估。以英格兰线性理科 A-level 申请者须通过实践考核；无法参加该考核的 private candidates 有明确例外。此条不是另给中国高考生添加英国考试。",
+            "source_ids": [
+              "KCLAM-f9b2e5edbbafa457"
+            ],
+            "extraction_locator": "Actual A-level exclusions; EPQ / practical endorsement only when this page explicitly states them"
+          },
+          {
+            "label": "本课程中国学历：不直接入学的三类",
+            "text": "该课程实际 China 分支明确不以 Gao Kao（高考）、Zhao Kao（官网标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。所链接 International Foundation 是替代路径信息；课程选择、进阶条件与本专业科目仍须符合，不是保证进入此学位。",
+            "source_ids": [
+              "KCLAM-35d67f8a105735cc"
+            ],
+            "extraction_locator": "Actual China selection > three Award entries > will not be considered for direct entry"
+          },
+          {
+            "label": "英语Band与测试年度",
+            "text": "本课程要求 Band B。已取得的共用英语政策明确适用 2026/27，IELTS Academic 参考为总分7.0、每项6.5；须在开课月份首日前两年内、单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学须再核最新测试政策及录取条件，不把旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLAM-f9b2e5edbbafa457",
+              "KCLAM-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English band B; English policy > 2026/27 > Band B / test validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "W302；课程申请开放状态及截止须再核。",
+            "text": "W302；当前窗口及已核状态见本轮补充；未列截止的项目保留缺口。",
             "source_ids": [
               "UKENR-22cd5d56cc0ea9"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请状态与截止字段",
+            "text": "课程当前列 UCAS W302，2027年9月开课、2027年1月13日截止，实际页面状态 Open。仍须符合本课程学术和材料条件，提交前应复查名额及页面变化。",
+            "source_ids": [
+              "KCLAM-d44489f14bb98a6f"
+            ],
+            "extraction_locator": "Rendered individual Key Information > UCAS, Application status, Start date, Application deadline if present"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费明确为 GBP £30,750／学年，适用 2027/28 常规授课年；后续学年可依学校条款增加。海外阶段如适用另按安排，不用本年价乘学制推定总学费。",
+            "source_ids": [
+              "KCLAM-d44489f14bb98a6f"
+            ],
+            "extraction_locator": "Full time tuition fees international > 2027-2028 academic year > per year"
+          },
+          {
+            "label": "押金与课程附加成本",
+            "text": "国际生坚定接受无条件录取时缴 £2,000 押金，入学后抵扣首年学费。书本、打印、文具及伦敦／跨校区交通等可能另付。音乐课程另列乐器购租、维护与保险、配件乐谱及伴奏费用。",
+            "source_ids": [
+              "KCLAM-d44489f14bb98a6f"
+            ],
+            "extraction_locator": "International tuition deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段费用的年度范围",
+            "text": "本页说明伙伴校通常不另收学费，但可能收申请管理费；海外生活、旅行及签证须另预算。本轮未取得本课程未来海外阶段 KCL 的准确计费比例或金额，不能把正常授课年价直接套到海外安排。",
+            "source_ids": [
+              "KCLAM-d44489f14bb98a6f"
+            ],
+            "extraction_locator": "Further fee information; explicit dated reference retained separately"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业实例与后续训练",
+            "text": "职业页列演出、指挥、编辑、电视制作、音乐出版推广、音乐厅管理及教学等实例，也有继续音乐高等学位或法律、医学、商科职业训练者。没有本学位可比届次、分母的就业率或薪资；进一步训练不能写成本科自动获得相应执业资格。",
+            "source_ids": [
+              "KCLAM-1ac5212f16ec1a8d"
+            ],
+            "extraction_locator": "careers正文；公开年度课程 text/title/credit 逐项人工摘要，例外对应事实中的具体年份／科目"
+          }
+        ]
       },
       "sources": [
         {
@@ -13906,32 +16136,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "d507c9ec9ca00e7bca640df7792d238d657e620c627dc79e2b9472e0acdeee7b",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLAM-6c4afc89373e89c4",
+          "title": "Music BMus — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus",
+          "checked_at": "2026-09-13",
+          "sha256": "6c4afc89373e89c4ea68865fa1d5ff78f46a1fe3ebc0257a8bb36d4dadb43d03",
+          "supports": "本课程身份、学制、校区与课程定位",
+          "capture_format": "public_html",
+          "locator": "Course essentials; Base campuses; courseInformation and course aims",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-f9b2e5edbbafa457",
+          "title": "Music BMus — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "f9b2e5edbbafa4571d8b4387f4051394776e310ec584c361c57b97109030e83b",
+          "supports": "本课程实际可见标准成绩、先修及申请类别",
+          "capture_format": "public_html",
+          "locator": "Visible Standard requirements and Additional requirements; not unused entryRequirement metadata",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-f0b66c79b69d43cf",
+          "title": "Music BMus — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "f0b66c79b69d43cf979a31ed6a7dd09716a79af85e19acde4d1709e1413433a0",
+          "supports": "公开各年度课程列表、模块标题与学分、选课和外出条件",
+          "capture_format": "public_html",
+          "locator": "Public Teaching & Modules > Year selector > text/title/credits; no backend module description used",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-1ac5212f16ec1a8d",
+          "title": "Music BMus — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "1ac5212f16ec1a8d2164a37383799c8624eca2a5d831267c35eb105dc3a35d4d",
+          "supports": "职业正文实际列明的方向、能力与群体范围；不视为毕业率调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; exact subject of outcomes statement",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-35d67f8a105735cc",
+          "title": "Music BMus — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "35d67f8a105735cccce0e27c6b3a768f8a5ae05339676f12c34a6b06e2a575ce",
+          "supports": "该课程真实选择China后中国三种学历的直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools",
+          "source_period": "2027 entry; explicitly dated older policies remain labelled in facts"
+        },
+        {
+          "id": "KCLAM-dff3755b9680738d",
+          "title": "Music BMus — 英语政策（明确2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（明确2026/27）",
+          "capture_format": "public_html",
+          "locator": "英语政策（明确2026/27）",
+          "source_period": "2026/27官方测试政策；2027/28最终条件待核"
+        },
+        {
+          "id": "KCLAM-d44489f14bb98a6f",
+          "title": "Music BMus — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "d44489f14bb98a6fc8c53ca05e24aa62b6036a1a9ec5077f34c9f73dd1996c86",
+          "supports": "2027/28国际常规年费、押金、额外费用与实际申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "International tuition; Additional costs; Further fee information; individual Key Information fields",
+          "source_period": "2027/28国际常规年费；海外参考的旧年度逐条保留"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项读取本课程总览、要求、公开年度模块和职业正文，并取得实际 China 分支及国际费用显示。",
+        "只保留有依据的模块配额、申请类别与职业领域，表内不一致另列；不将课程选项或职业例子当作保证。",
+        "原事实及其核验日期保留，旧缺口后缀更新写入 ledger；2027英语最终清单、资助与可比毕业调查仍未取得。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAB；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAB；A-level需Music或乐理5级，IB需Music HL5或乐理6级；表演另核8级",
+        "name": "音乐（BMus）",
+        "intake": "2027年9月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核职业方向；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored program-specific Chinese facts; exact old evidence preserved",
       "inventory_id": "kcl-music-bmus-81751a2f19"
     },
     {

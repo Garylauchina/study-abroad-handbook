@@ -53,6 +53,9 @@ hide:
 <p class="catalog-fact"><strong>校区与语种待核：</strong>本专业统一授课语种及完整教学地点本轮未核实，特殊实践另列。</p>
 <p class="fact-sources"><a href="#source-p-UTAE-5be4a26c294d98">官方依据</a></p>
 
+<p class="catalog-fact"><strong>商科荣誉贯通已独立列项：</strong>Cockrell-McCombs BS/MS Honors现有2027秋季新生入口，按本工程专业另列具名路线。它含五年工程本科与四个商科MS择一的框架，三年级仍需正式获MS录取；普通工程本科录取不自动附带该荣誉或商科硕士。</p>
+<p class="fact-sources"><a href="#source-p-UTASP-ba91c8af42f780d4">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 <p class="catalog-fact"><strong>申请类别与专业条件边界：</strong>大陆高中申请者按国际新生规则准备材料；本页的大学学分、升段或毕业成绩要求不能换算成高考门槛。本轮未取得本专业单列的高考最低分。</p>
@@ -63,6 +66,9 @@ hide:
 
 <p class="catalog-fact"><strong>工程与商科荣誉贯通另行申请：</strong>机械工程或石油工程新生可另申请Cockrell-McCombs B.S./M.S. Honors，衔接工程本科与商科硕士；需不超过500词说明工程与商科结合如何服务职业目标。这不是普通工程录取后自动获得的双学位。</p>
 <p class="fact-sources"><a href="#source-p-UTAE-5931a3a3258bdf">官方依据</a> · <a href="#source-p-UTAE-f22453566e4e95">官方依据</a></p>
+
+<p class="catalog-fact"><strong>荣誉路线3.5的适用阶段：</strong>新荣誉项目的GPA至少3.5是入学后的维持条件；高中另经竞争选拔，不能把此数值解释成高考换算或普通工程录取最低GPA。</p>
+<p class="fact-sources"><a href="#source-p-UTASP-ba91c8af42f780d4">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -124,7 +130,7 @@ hide:
 
 ## 毕业生情况 {#outcomes}
 
-<p class="catalog-fact"><strong>官方工程起薪参考：</strong>工程职业中心2025年5月22日更新页列对应工程主修的BS毕业生平均起薪USD86,665。页面本轮未取得明确毕业届次、样本数、回收率或国际生拆分，故仅保留来源原值，不能作为2027入学者毕业收入预测。</p>
+<p class="catalog-fact"><strong>官方工程起薪参考：</strong>工程职业中心2025年5月22日更新页列对应工程主修的BS毕业生平均起薪USD86,665。ECAC说明这些起薪资料针对毕业时获全职职位聘用的薪资，不代表所有毕业生均已就业。页面本轮未取得明确毕业届次、样本数、回收率或国际生拆分，故仅保留来源原值，不能作为2027入学者毕业收入预测。</p>
 <p class="fact-sources"><a href="#source-p-UTAE-d348548a1a5f37">官方依据</a></p>
 
 <p class="catalog-fact"><strong>培养方向（非就业调查）：</strong>课程介绍列出的准备方向包括：机械、能源转换与相关工程设计研发。</p>
@@ -153,6 +159,7 @@ hide:
 <div class="catalog-source" id="source-p-UTAE-d348548a1a5f37"><div><a href="https://cockrell.utexas.edu/student-life/career-services/salaries-and-statistics/">Salaries and Statistics - Cockrell School of Engineering - University of Texas at Austin ↗</a><p>官方工程起薪参考</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UTAE-e79e803f8d6668"><div><a href="https://onestop.utexas.edu/managing-costs/cost-tuition-rates/tuition-rates/">Tuition Rates - Texas One Stop - University of Texas at Austin ↗</a><p>Fee reference does not establish program scholarship entitlement</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UTAE-f22453566e4e95"><div><a href="https://admissions.utexas.edu/explore/colleges-degrees/">Academic Degrees - University of Texas Admissions ↗</a><p>工程与商科荣誉贯通另行申请</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UTASP-ba91c8af42f780d4"><div><a href="https://cockrell.utexas.edu/admissions/undergraduate/honors-program/cockrell-mccombs-b-s-m-s-honors-program/">Cockrell-McCombs B.S./M.S. Honors Program - Cockrell School of Engineering - University of Texas at Austin ↗</a><p>商科荣誉贯通已独立列项；荣誉路线3.5的适用阶段</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-UTAE-01ea00e57f81fe"><div><a href="https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/">Tuition Tables &lt; The University of Texas at Austin ↗</a><p>Undergraduate Traditional Flat Rate Tuition: Fall 2026–Spring 2027 / Nonresident / 12+</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-UTAE-2ddb06d8ae7459"><div><a href="https://admissions.utexas.edu/apply/international-students/">International Students - University of Texas Admissions ↗</a><p>International Freshman / High School Transcripts</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-UTAE-31efddfc4f0df8"><div><a href="https://admissions.utexas.edu/info-for/international-students/">International Students - University of Texas Admissions ↗</a><p>TOEFL/IELTS/DET Information</p><small>核验 2026-09-13</small></div></div>

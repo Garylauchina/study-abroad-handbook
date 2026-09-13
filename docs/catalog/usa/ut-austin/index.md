@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-163 个专业条目 · 0 个含详细资料 · 163 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+165 个专业条目 · 0 个含详细资料 · 165 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=ut-austin#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -70,6 +70,8 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-classical-languages-students-specialize-in-classics-greek-or-lati-935cbef43f/">古典语言</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-classical-studies-students-specialize-in-ancient-history-or-class-a17e810489/">古典研究</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-climate-system-science-6a247d7d38/">气候系统科学</a><small>BSGS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-cockrell-mccombs-mechanical-engineering-92a47d7e04/">机械工程＋商科硕士荣誉贯通（Cockrell-McCombs）</a><small>BSME + specialized business MS (Cockrell-McCombs Honors) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-cockrell-mccombs-petroleum-engineering-c036fb70ac/">石油工程＋商科硕士荣誉贯通（Cockrell-McCombs）</a><small>BSPE + specialized business MS (Cockrell-McCombs Honors) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-communication-and-leadership-7e13ce1673/">传播与领导力</a><small>BSComm&amp;Lead · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-communication-studies-7f940d90cf/">传播学</a><small>BSCommStds · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-composition-726510bfdf/">作曲（音乐学士）</a><small>BMusic · 部分专业资料已核实</small></article>
@@ -103,7 +105,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geophysics-51fd947a97/">地球物理学</a><small>BSGS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geosciences-5c0647c736/">地球科学（文学学士）</a><small>BAGS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geosciences-287fb36785/">环境科学：地球科学</a><small>BSEnvirSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geosciences-81231b8df2/">地球科学（BSGS；方向身份待区分）</a><small>BSGS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geosciences-81231b8df2/">地球科学：教学方向（BSGS）</a><small>BSGS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geosystems-engineering-7b42ad4e74/">地球系统工程</a><small>BSGE · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-german-251f64922a/">德语</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-government-1f035f3a58/">政治学</a><small>BA · 部分专业资料已核实</small></article>
@@ -139,7 +141,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mathematics-ab735fa36b/">数学（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mathematics-f05d9cd935/">数学（理学与文学学士）</a><small>BSA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mathematics-312457cfa5/">数学（理学学士）</a><small>BSMath · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mechanical-engineering-f663df2844/">机械工程本硕贯通</a><small>BSME/MSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mechanical-engineering-f663df2844/">机械工程本科＋工程硕士（校内贯通）</a><small>BSME/MSE · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mechanical-engineering-6d75bc21b9/">机械工程</a><small>BSME · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-medical-laboratory-science-54a7abef1d/">医学检验科学</a><small>BSMedLabSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mexican-american-and-latina-o-studies-a735cf08a7/">墨西哥裔美国人与拉丁裔研究</a><small>BA · 部分专业资料已核实</small></article>
@@ -256,20 +258,21 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 163 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 165 项；这不是全字段详情的完成状态。
 
 <p><strong>统计范围：</strong>The University of Texas at Austin undergraduate degree programs, including named dual and integrated undergraduate pathways</p>
 
-<p><strong>对账方法：</strong>{&quot;pages&quot;: 1, &quot;major_award_rows&quot;: 214, &quot;tables&quot;: 19, &quot;pagination&quot;: &quot;One complete page with Overview, Dual Degree, Integrated Degree and Degrees tabs; all tab HTML read&quot;} 2026—2028 A–Z的470链接逐项对账，272学位/方向叶页承载于原161条；新增2027材料科学本科和先修后PharmD。</p>
+<p><strong>对账方法：</strong>{&quot;pages&quot;: 1, &quot;major_award_rows&quot;: 214, &quot;tables&quot;: 19, &quot;pagination&quot;: &quot;One complete page with Overview, Dual Degree, Integrated Degree and Degrees tabs; all tab HTML read&quot;} 2026—2028 A–Z的470链接逐项对账，272学位/方向叶页承载于原161条；新增2027材料科学本科和先修后PharmD。 补2027新生Cockrell-McCombs机械与石油两个BS/MS具名荣誉入口，并将既有BSGS精确对齐Geosciences, Teaching；原163项不删除。</p>
 
 <p><strong>排除项：</strong>排除minor、certificate及独立研究生学位；包含明确标注的本科贯通及先修后第一职业PharmD入口，不将其视作高中直入学士。</p>
 
 **尚未解决的目录缺口：**
 
-- 原本科总表与当前A–Z已逐项核对；新生荣誉B.S./M.S.路径暂附机械/石油工程，尚未独立拆分。Geosciences通称与Teaching身份尚未唯一闭合，目录完整性保守标为部分。
+- 原本科总表与当前A–Z已逐项核对；新生荣誉B.S./M.S.现拆为机械和石油两具名入口，既有BSGS已与Teaching闭合。多方向聚合条目内部的独立身份和全校所有在读路线仍未全部展开，目录维持部分覆盖。
 - 161条原ID保留；多方向聚合记录的官网入口指向一个代表性已核页面，各实际方向另列来源。
 - 费用按2026—2027学期、学院和非居民类别；新材料专业首届2027报价仍缺，PharmD暑期另计。
 - 学校中文高考固定分数门槛、多数专业实际毕业统计及授课语言仍有未核字段。
+- 两条2027工程商科荣誉路线的完整联合学分表、三年级MS录取细则、贯通计费及专属毕业统计未取得；普通MS当前价格不作为未来荣誉全程报价。Teaching资格依2026–28校历，教师注册仍有个人身份条件。
 
 - [官方目录来源](https://catalog.utexas.edu/undergraduate/degree-programs/)
 - [官方目录来源](https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/)
@@ -569,5 +572,16 @@ hide:
 - [官方目录来源](https://admissions.utexas.edu/info-for/international-students/)
 - [官方目录来源](https://global.utexas.edu/isss/advising-services/scholarships)
 - [官方目录来源](https://onestop.utexas.edu/managing-costs/cost-tuition-rates/cost-of-attendance/)
+- [官方目录来源](https://catalog.utexas.edu/undergraduate/programs/uteach-natural-sciences-secondary-teaching-option-undergraduate-track-certificate/)
+- [官方目录来源](https://catalog.utexas.edu/undergraduate/colleges-schools/geosciences/)
+- [官方目录来源](https://www.jsg.utexas.edu/academics/undergraduate/degrees-offered/bs-in-teaching/)
+- [官方目录来源](https://catalog.utexas.edu/undergraduate/programs/)
+- [官方目录来源](https://cockrell.utexas.edu/admissions/undergraduate/honors-program/cockrell-mccombs-b-s-m-s-honors-program/)
+- [官方目录来源](https://admissions.utexas.edu/apply/international-students/)
+- [官方目录来源](https://admissions.utexas.edu/info-for/international-students/)
+- [官方目录来源](https://admissions.utexas.edu/apply/application-materials/high-school-prerequisites/)
+- [官方目录来源](https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-business-analytics-and-artificial-intelligence/on-campus/admissions/tuition-financial-aid/)
+- [官方目录来源](https://news.mccombs.utexas.edu/news/mccombs-m-s-programs-get-new-names/)
+- [官方目录来源](https://admissions.utexas.edu/apply/honors/)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

@@ -3,9 +3,9 @@
   "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 163,
+    "count": 165,
     "scope": "The University of Texas at Austin undergraduate degree programs, including named dual and integrated undergraduate pathways",
-    "method": "{\"pages\": 1, \"major_award_rows\": 214, \"tables\": 19, \"pagination\": \"One complete page with Overview, Dual Degree, Integrated Degree and Degrees tabs; all tab HTML read\"} 2026—2028 A–Z的470链接逐项对账，272学位/方向叶页承载于原161条；新增2027材料科学本科和先修后PharmD。",
+    "method": "{\"pages\": 1, \"major_award_rows\": 214, \"tables\": 19, \"pagination\": \"One complete page with Overview, Dual Degree, Integrated Degree and Degrees tabs; all tab HTML read\"} 2026—2028 A–Z的470链接逐项对账，272学位/方向叶页承载于原161条；新增2027材料科学本科和先修后PharmD。 补2027新生Cockrell-McCombs机械与石油两个BS/MS具名荣誉入口，并将既有BSGS精确对齐Geosciences, Teaching；原163项不删除。",
     "exclusions": "排除minor、certificate及独立研究生学位；包含明确标注的本科贯通及先修后第一职业PharmD入口，不将其视作高中直入学士。",
     "sources": [
       {
@@ -736,7 +736,7 @@
       {
         "url": "https://catalog.utexas.edu/undergraduate/programs/geosciences-teaching-bsgs/",
         "sha256": "4af84c1febc176fb2f8e7ff0306b7ab13da64744e921e274ab13956f16b5bdcd",
-        "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--geosciences-teaching-bsgs.html"
+        "raw_file": "scratch/full-catalog/ut-austin-special-routes/raw/90e29f2148db8f2e.html"
       },
       {
         "url": "https://catalog.utexas.edu/undergraduate/programs/geosystems-engineering-bsge/",
@@ -1021,12 +1021,12 @@
       {
         "url": "https://catalog.utexas.edu/undergraduate/programs/mechanical-engineering-bsme/",
         "sha256": "5a1ab463fe0fa9ea62b1b159249873bd158ea70724bc517b75dbad6a3bd25ac1",
-        "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--mechanical-engineering-bsme.html"
+        "raw_file": "scratch/full-catalog/ut-austin-special-routes/raw/5be4a26c294d98f4.html"
       },
       {
         "url": "https://catalog.utexas.edu/undergraduate/programs/mechanical-engineering-bsme-mse/",
         "sha256": "08ed0ff75ebc45ca12c959f6422bdaae9840bbf252150319badb06081ebe24cd",
-        "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--mechanical-engineering-bsme-mse.html"
+        "raw_file": "scratch/full-catalog/ut-austin-special-routes/raw/541b645cf45bfd13.html"
       },
       {
         "url": "https://catalog.utexas.edu/undergraduate/programs/medical-laboratory-science-bsmedlabsci/",
@@ -1151,7 +1151,7 @@
       {
         "url": "https://catalog.utexas.edu/undergraduate/programs/petroleum-engineering-bspe/",
         "sha256": "f0da14e5b0caf401f6c222ca32b26bfdd99fcb82cb031c4bd0228c1eb68e400c",
-        "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--petroleum-engineering-bspe.html"
+        "raw_file": "scratch/full-catalog/ut-austin-special-routes/raw/6a16ea4aa63e0480.html"
       },
       {
         "url": "https://catalog.utexas.edu/undergraduate/programs/philosophy-ba/",
@@ -1497,13 +1497,69 @@
         "url": "https://onestop.utexas.edu/managing-costs/cost-tuition-rates/cost-of-attendance/",
         "sha256": "62a8a5bebb1a8e9d96b6605526bee23aff567c283519d8469edf5cd0a2dd5385",
         "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-fees-coa.html"
+      },
+      {
+        "url": "https://catalog.utexas.edu/undergraduate/programs/uteach-natural-sciences-secondary-teaching-option-undergraduate-track-certificate/",
+        "sha256": "7d677c033bd50c5b4c278da2976695fc5954c996cfa46c65905bc45f8177e40c",
+        "raw_file": "scratch/full-catalog/ut-austin-special-routes/raw/425fd7f118ab698c.html"
+      },
+      {
+        "url": "https://catalog.utexas.edu/undergraduate/colleges-schools/geosciences/",
+        "sha256": "32e2b624d112e5904db5d58007ea8f986c2c88fffca07f94cd59e3511a28b9ca",
+        "raw_file": "scratch/full-catalog/ut-austin-special-routes/raw/5d3d1bd5b220a8da.html"
+      },
+      {
+        "url": "https://www.jsg.utexas.edu/academics/undergraduate/degrees-offered/bs-in-teaching/",
+        "sha256": "ed346969b93e5a5df46e328cd57e6dfb3cd2dd6aaedcb29712be3049e72f90ff",
+        "raw_file": "scratch/full-catalog/ut-austin-special-routes/raw/614f681acf163cb4.html"
+      },
+      {
+        "url": "https://catalog.utexas.edu/undergraduate/programs/",
+        "sha256": "75fb07f604f657a6a1e9c56a3dfbc2b082e50ee01fa3fbc7ba1c88cbe37e1006",
+        "raw_file": "scratch/full-catalog/ut-austin-special-routes/raw/c15fd3ed6613e587.html"
+      },
+      {
+        "url": "https://cockrell.utexas.edu/admissions/undergraduate/honors-program/cockrell-mccombs-b-s-m-s-honors-program/",
+        "sha256": "5399ef5a7fad29386e1a790a7ffc3b58c750eb00f40666b194a7afc0171e5a6d",
+        "raw_file": "scratch/full-catalog/ut-austin-special-routes/raw/ba91c8af42f780d4.html"
+      },
+      {
+        "url": "https://admissions.utexas.edu/apply/international-students/",
+        "sha256": "91e0134a74c3586df04e7a4a9e769b0357c3413bc85becc60fd52db8abdebc06",
+        "raw_file": "scratch/full-catalog/ut-austin-special-routes/raw/2ddb06d8ae745912.html"
+      },
+      {
+        "url": "https://admissions.utexas.edu/info-for/international-students/",
+        "sha256": "760b7f8d689aeefc709a1de1216971f91e27f81c1e54a13989a942de9d292d2d",
+        "raw_file": "scratch/full-catalog/ut-austin-special-routes/raw/31efddfc4f0df8aa.html"
+      },
+      {
+        "url": "https://admissions.utexas.edu/apply/application-materials/high-school-prerequisites/",
+        "sha256": "da315f4924786147523a50e95b91622a97b95307f0e3ab654a4aca935b417c82",
+        "raw_file": "scratch/full-catalog/ut-austin-special-routes/raw/3aa70264a352ad6e.html"
+      },
+      {
+        "url": "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-business-analytics-and-artificial-intelligence/on-campus/admissions/tuition-financial-aid/",
+        "sha256": "c6b739dd415a63e932c39643d09695a720746c7077320b1c838e4c0755b5e739",
+        "raw_file": "scratch/full-catalog/ut-austin-special-routes/raw/4abdfe0bdb4bddea.html"
+      },
+      {
+        "url": "https://news.mccombs.utexas.edu/news/mccombs-m-s-programs-get-new-names/",
+        "sha256": "24257511802f5cdaa8c2fc791430bbc3371729231699c4299e28e56b9f00d9a0",
+        "raw_file": "scratch/full-catalog/ut-austin-special-routes/raw/4d1ddc68d04d83bb.html"
+      },
+      {
+        "url": "https://admissions.utexas.edu/apply/honors/",
+        "sha256": "901b567a046e98d357e2a777a6a9dd661ca40aa9a04f8b4be75ef5f5411d6064",
+        "raw_file": "scratch/full-catalog/ut-austin-special-routes/raw/5931a3a3258bdf6f.html"
       }
     ],
     "gaps": [
-      "原本科总表与当前A–Z已逐项核对；新生荣誉B.S./M.S.路径暂附机械/石油工程，尚未独立拆分。Geosciences通称与Teaching身份尚未唯一闭合，目录完整性保守标为部分。",
+      "原本科总表与当前A–Z已逐项核对；新生荣誉B.S./M.S.现拆为机械和石油两具名入口，既有BSGS已与Teaching闭合。多方向聚合条目内部的独立身份和全校所有在读路线仍未全部展开，目录维持部分覆盖。",
       "161条原ID保留；多方向聚合记录的官网入口指向一个代表性已核页面，各实际方向另列来源。",
       "费用按2026—2027学期、学院和非居民类别；新材料专业首届2027报价仍缺，PharmD暑期另计。",
-      "学校中文高考固定分数门槛、多数专业实际毕业统计及授课语言仍有未核字段。"
+      "学校中文高考固定分数门槛、多数专业实际毕业统计及授课语言仍有未核字段。",
+      "两条2027工程商科荣誉路线的完整联合学分表、三年级MS录取细则、贯通计费及专属毕业统计未取得；普通MS当前价格不作为未来荣誉全程报价。Teaching资格依2026–28校历，教师注册仍有个人身份条件。"
     ]
   },
   "programs": [
@@ -2783,7 +2839,7 @@
       "name": "环境科学：地球科学"
     },
     {
-      "name_en": "Geosciences",
+      "name_en": "Geosciences, Teaching",
       "degree_label": "BSGS",
       "official_url": "https://catalog.utexas.edu/undergraduate/programs/geosciences-teaching-bsgs/",
       "intake": null,
@@ -2795,9 +2851,10 @@
       "raw_key": "Geosciences | BSGS",
       "academic_unit": "JOHN A. AND KATHERINE G. JACKSON SCHOOL OF GEOSCIENCES",
       "entity_type": "bachelor program",
-      "entry_route": null,
+      "entry_route": "新生按JSG地球科学门类申请；校内选／转Teaching方向；教师认证另审",
       "id": "ut-austin-geosciences-81231b8df2",
-      "name": "地球科学（BSGS；方向身份待区分）"
+      "name": "地球科学：教学方向（BSGS）",
+      "record_type": "BSGS学位内教学方向"
     },
     {
       "name_en": "Geosystems engineering",
@@ -4277,6 +4334,60 @@
       "source_period": "2027招生；2026—2028课程目录",
       "discovery_source_url": "https://catalog.utexas.edu/undergraduate/programs/pharmacy-pharmd/",
       "study_level": "先修后专业学位"
+    },
+    {
+      "id": "ut-austin-cockrell-mccombs-mechanical-engineering-92a47d7e04",
+      "university_id": "ut-austin",
+      "name": "机械工程＋商科硕士荣誉贯通（Cockrell-McCombs）",
+      "name_en": "Cockrell-McCombs B.S./M.S. Honors Program — Mechanical Engineering",
+      "degree_label": "BSME + specialized business MS (Cockrell-McCombs Honors)",
+      "official_url": "https://cockrell.utexas.edu/admissions/undergraduate/honors-program/cockrell-mccombs-b-s-m-s-honors-program/",
+      "raw_key": "https://cockrell.utexas.edu/admissions/undergraduate/honors-program/cockrell-mccombs-b-s-m-s-honors-program/#catalog-named-mechanical-engineering",
+      "entity_type": "named undergraduate-to-graduate honors pathway",
+      "record_type": "本科衔接硕士的具名荣誉路线",
+      "academic_unit": "Cockrell School of Engineering and McCombs School of Business",
+      "parent_program_id": "ut-austin-mechanical-engineering-6d75bc21b9",
+      "parent_name_en": "Mechanical engineering",
+      "parent_program_url": "https://catalog.utexas.edu/undergraduate/programs/mechanical-engineering-bsme/",
+      "entry_route": "2027秋季新生另申荣誉路线；须先获相应工程本科录取，三年级另经商科硕士正式录取",
+      "requires_prior_degree": false,
+      "intake": "Fall 2027",
+      "duration": "5年",
+      "campus": "工程学院与商学院；一年级含境外学习，地点未列",
+      "language": null,
+      "discovery_source_url": "https://cockrell.utexas.edu/admissions/undergraduate/honors-program/cockrell-mccombs-b-s-m-s-honors-program/",
+      "source_period": "2027荣誉招生页；本科课程目录2026—2028；阶段费用各自注明年度",
+      "subjects": [
+        "工程"
+      ],
+      "subject": "工程"
+    },
+    {
+      "id": "ut-austin-cockrell-mccombs-petroleum-engineering-c036fb70ac",
+      "university_id": "ut-austin",
+      "name": "石油工程＋商科硕士荣誉贯通（Cockrell-McCombs）",
+      "name_en": "Cockrell-McCombs B.S./M.S. Honors Program — Petroleum Engineering",
+      "degree_label": "BSPE + specialized business MS (Cockrell-McCombs Honors)",
+      "official_url": "https://cockrell.utexas.edu/admissions/undergraduate/honors-program/cockrell-mccombs-b-s-m-s-honors-program/",
+      "raw_key": "https://cockrell.utexas.edu/admissions/undergraduate/honors-program/cockrell-mccombs-b-s-m-s-honors-program/#catalog-named-petroleum-engineering",
+      "entity_type": "named undergraduate-to-graduate honors pathway",
+      "record_type": "本科衔接硕士的具名荣誉路线",
+      "academic_unit": "Cockrell School of Engineering and McCombs School of Business",
+      "parent_program_id": "ut-austin-petroleum-engineering-6dafb9f562",
+      "parent_name_en": "Petroleum engineering",
+      "parent_program_url": "https://catalog.utexas.edu/undergraduate/programs/petroleum-engineering-bspe/",
+      "entry_route": "2027秋季新生另申荣誉路线；须先获相应工程本科录取，三年级另经商科硕士正式录取",
+      "requires_prior_degree": false,
+      "intake": "Fall 2027",
+      "duration": "5年",
+      "campus": "工程学院与商学院；一年级含境外学习，地点未列",
+      "language": null,
+      "discovery_source_url": "https://cockrell.utexas.edu/admissions/undergraduate/honors-program/cockrell-mccombs-b-s-m-s-honors-program/",
+      "source_period": "2027荣誉招生页；本科课程目录2026—2028；阶段费用各自注明年度",
+      "subjects": [
+        "工程"
+      ],
+      "subject": "工程"
     }
   ]
 }

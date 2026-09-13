@@ -5,7 +5,7 @@
     "status": "partial",
     "count": 145,
     "scope": "148个已发现目录入口中，145个本科及本科在读路线；3个本科后护理硕士另留更正页，内部路径仍待全量对账",
-    "method": "复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。",
+    "method": "复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。",
     "exclusions": "Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes；本科后首次注册护理MNurs/MSc不计本科项目；MBBS/BDS仍按专业学士保留并注明前置学历。",
     "sources": [
       {
@@ -514,7 +514,7 @@
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba",
         "sha256": "40c2d5a4bbd6be686115f54dbd81362671734660fbda97b8a5d65fad4c473862",
-        "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-5deabadb7eb42e.html"
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-film-studies-ba-4f4a9cd4fd-overview.html"
       },
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng",
@@ -554,7 +554,7 @@
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages",
         "sha256": "2fb999b4281eddc53fce696eb90a5943bdab61af0a0f20c1c0f3449e406a84c0",
-        "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-d95eaea46e9a5f.html"
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-global-media-and-languages-ba-9d72da541f-overview.html"
       },
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/medicine-graduate-professional-entry-mbbs",
@@ -2055,14 +2055,365 @@
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba/fees",
         "sha256": "d0177a3341e14a9c9499c2d0970298e7cff0e3c24bf38763d4884452d364e23a",
         "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/fees-dom-11.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba",
+        "sha256": "96a2b6cf4e73a5930349471260ad5fe648d333e6ca2b3444d4df755fa1afb11f",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-comparative-literature-ba-bdedca13aa-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba/entry-requirements",
+        "sha256": "289195644145ccc735caba9f86c265efd696fac214e20c04fa7316279549da35",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-comparative-literature-ba-bdedca13aa-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba/teaching-and-modules",
+        "sha256": "11cbdf8964ccde861d3d0134cd439c0efa5df63fca67ea02b4f71dc6a259a6a6",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-comparative-literature-ba-bdedca13aa-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba/careers",
+        "sha256": "3c2a6a009e47fd1c1ff1fefe36c2d8f67e45532529adc3893f09ca4cb0924499",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-comparative-literature-ba-bdedca13aa-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba/requirements",
+        "sha256": "4fc0b6c8def7f3f3f651dbe000d9b3187d844886a4172f7da9b2953630f5f52f",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/review/china-dom-0.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba/fees",
+        "sha256": "3f8d527e51a5cfceb2af3602bf404612386715a0c6e6e8c95fa2994a60650f44",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/fees-dom-0.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba",
+        "sha256": "fad86d3cc99b54f2596acf90aaeaff804c6bcffd0dba30d11883c04d685138dd",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-comparative-literature-with-film-studies-ba-e91d7081a1-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba/entry-requirements",
+        "sha256": "637563c917c832a7d9614a8242b2450fcab973509f8a12bf98b57b0c58368177",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-comparative-literature-with-film-studies-ba-e91d7081a1-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba/teaching-and-modules",
+        "sha256": "e6b87b71766b8cc729d8c695b648367939bef7dcdbee49578e640a37f27bc30f",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-comparative-literature-with-film-studies-ba-e91d7081a1-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba/careers",
+        "sha256": "312da6c5d0b34e04245484870504572a38c57d633d386b2b1b526bf090f65df0",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-comparative-literature-with-film-studies-ba-e91d7081a1-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba/entry-requirements",
+        "sha256": "58463d45ceaf68edc03224e4225b7d292a071e113a2ff77261c052f70d8f35ea",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/review/china-dom-1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba/fees",
+        "sha256": "22fc219e9377758996518a195d995f29813016132c9a8a1410182c57943f556c",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/fees-dom-1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba",
+        "sha256": "2a760f45bffd22a826dd069e3efed562819bf38a8c01f7bfb8c264f2d8ab36b5",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-culture-media-creative-industries-ba-03939b27d0-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba/entry-requirements",
+        "sha256": "8802039742ea0e8b54193c5b057a31087d9ff9da0185f9dc1fe33c1f6866872b",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-culture-media-creative-industries-ba-03939b27d0-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba/teaching-and-modules",
+        "sha256": "a9f9bc725c97dedc187c005c66906dbe4fcad5c4aae24ffc6dd4c80cc1a3337c",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-culture-media-creative-industries-ba-03939b27d0-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba/careers",
+        "sha256": "4deda8cbe88e1d970c5da11d8974ad22ef60ae3bf3775e78595d8bfe9b799453",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-culture-media-creative-industries-ba-03939b27d0-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba/entry-requirements",
+        "sha256": "57c47d655c2f75b6c30865ac3e7fb50b4a9dbd67c04a296183c30007a7a81866",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/review/china-dom-2.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba/fees",
+        "sha256": "a4e35dae1ec8370965451d68ea81974bb4c073b84f7e4dea196f6ca0ae21c5a4",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/fees-dom-2.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba",
+        "sha256": "8419b52e3ebff421be24129bf4b39bff94af01b2d3840e53f5d131df3978a313",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-digital-media-culture-ba-ae88ff0263-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba/entry-requirements",
+        "sha256": "8693900d5ac837f2da47a59eafc9ce53257760401e0828565565f6015d20be4e",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-digital-media-culture-ba-ae88ff0263-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba/teaching-and-modules",
+        "sha256": "a3eb73d43da9af705156de422cb9c7ab28c03888627e4acfacd384dfa8fb0453",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-digital-media-culture-ba-ae88ff0263-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba/careers",
+        "sha256": "77140845f3a649932be7839ff3a557c57cdee71294d20fecabc2cc7187f1b911",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-digital-media-culture-ba-ae88ff0263-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba/entry-requirements",
+        "sha256": "4e993e853856a422d583548e9e064fb4dcfd16960d9579cfa0165988c14a15f1",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/review/china-dom-3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba/fees",
+        "sha256": "bab4ac30988b06a38a7595897380501934af3fc51590a52fbcf99044488e4a00",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/fees-dom-3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-ba",
+        "sha256": "05d8cb09b7310a306c266223ea63c9bbc6a4f08aed7b063a8f279d4d6e59a4ed",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-ba-5fa4c259ea-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-ba/entry-requirements",
+        "sha256": "d9a13915c43d124f014e0210dd535b76947fededee5695ed5e2b34bfa2a16258",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-ba-5fa4c259ea-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-ba/teaching-and-modules",
+        "sha256": "5eda9b5d6e99492b071588073275f954eb051b878bedd09ce0663901efee180b",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-ba-5fa4c259ea-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-ba/careers",
+        "sha256": "b0fbc87ac6024ef7bbda3dba3c09d0440d1899ce6b781c801465819994033b21",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-ba-5fa4c259ea-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-ba/entry-requirements",
+        "sha256": "ddfde80411b145ad5cda58f593a79438d65dda1616d4384cced40c4da7bb18ec",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/review/china-dom-4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-ba/fees",
+        "sha256": "bdd109cd5e9125415e11ecd9a8bff0fb60bf6adf339c1852888309a13f7ecf5b",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/fees-dom-4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba",
+        "sha256": "2293fca7a540dc97738d2aa69e4f35dc2f170faf5597e56558fb831a0212c18e",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-modern-languages-french-german-portuguese-or-spanish-with-70c18a0997-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba/entry-requirements",
+        "sha256": "43f9587893efa73054986cf90efbd246331e20403073180e65b6c07af0a31e80",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-modern-languages-french-german-portuguese-or-spanish-with-70c18a0997-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba/teaching-and-modules",
+        "sha256": "4bec8c2bb36a12e1f8c39beb343ce07648d77562188d994145def3258e5b743e",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-modern-languages-french-german-portuguese-or-spanish-with-70c18a0997-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba/careers",
+        "sha256": "c9fa949764085151a930c015040d050860298d29307aa2659590aae955686a2d",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-modern-languages-french-german-portuguese-or-spanish-with-70c18a0997-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba/entry-requirements",
+        "sha256": "5ee277c2b28f93e41731869df7bd8789f06c9d074db730c4b46dff1c83a58a68",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/review/china-dom-5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba/fees",
+        "sha256": "f186abd49e42aa612672c3b8e572410a8811d0f6db2ddeeb57525c942756d895",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/fees-dom-5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba",
+        "sha256": "b68017d0d5a0ef499dd80fe7c434d2737fc7c1b5ce7f6b95f3d300c328b80b0c",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-language-linguistics-ba-7f91d5a573-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba/entry-requirements",
+        "sha256": "4c3a3dde212808b1a7de47f62fd7ff39665166f30604628e324f87995f45d544",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-language-linguistics-ba-7f91d5a573-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba/teaching-and-modules",
+        "sha256": "e5fefac3b61ec917d589cc06326d1f92d4750873dbb63621f76dc290a6919143",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-language-linguistics-ba-7f91d5a573-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba/careers",
+        "sha256": "aba0fc1b3bc44001342014b5791805fb869cbf8459cdeaf340c5ae1ccd1f5d4e",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-language-linguistics-ba-7f91d5a573-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba/entry-requirements",
+        "sha256": "f15e5683d7dd8a3db62ace85f64e44a4c49ca8492cc915dbb8dfef793a89f18a",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/review/china-dom-6.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba/fees",
+        "sha256": "9156da5f98f76a1af4e40191bac2a87506b3dd66b2042f481bc25482d8deceef",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/fees-dom-6.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing",
+        "sha256": "cdd105d16f12d38528e2935e3b539821870ce121d850225e30be998c628b1ce3",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-with-creative-writing-ba-ba3383fbc1-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing/entry-requirements",
+        "sha256": "3d15ef71dfc12c2f8394a35035faeff4aa3e997c7639b5b56822af2a9037c5c9",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-with-creative-writing-ba-ba3383fbc1-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing/teaching-and-modules",
+        "sha256": "165cce6d689842bd3301c8fd5cc6e9f9b82e2a14443a9d4ab9ddb7b8e6b1490d",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-with-creative-writing-ba-ba3383fbc1-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing/careers",
+        "sha256": "c7ad13d6f1928e7c0ef4b459a8f5fd326e4ce1de980b2f8f22ea1a01ed375368",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-with-creative-writing-ba-ba3383fbc1-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing/entry-requirements",
+        "sha256": "7ffa0597ed75606ad306525c63b955535d93b7cdb0a81f028e21fdd8d6d30e16",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/review/china-dom-7.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing/fees",
+        "sha256": "450d971f89a22d17a88408d331a7d6b68dcb577b337268b9f33939d81d164e87",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/fees-dom-7.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba",
+        "sha256": "8bdca94247790a8d9b2619dd926f3fb0afe5936e40dae850fb563f8caf16adb2",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-with-film-studies-ba-5459540fc7-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba/entry-requirements",
+        "sha256": "6f2336f4d87026a539bf95a35d01e3c2d1581a6a3e105951959d72627b5b417c",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-with-film-studies-ba-5459540fc7-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba/teaching-and-modules",
+        "sha256": "1f0bfd52f5bf63aae51eb438a5a16890c53a6c8fee18ca148729d4c223c35b1a",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-with-film-studies-ba-5459540fc7-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba/careers",
+        "sha256": "2a98ef63aeac57768386f7ff423103299a8adef5bff02ccce179ab0e00ef4aab",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-english-with-film-studies-ba-5459540fc7-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba/entry-requirements",
+        "sha256": "15577255f9d2f7bb87928d492fead1f185fbb4dec23f5e985b024710988ded9c",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/review/china-dom-8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba/fees",
+        "sha256": "7603523dfabf13e607bd3e020a7bf993b7328a8ae99e6f7f0249fd18e93b2463",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/fees-dom-8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba/entry-requirements",
+        "sha256": "b828a52bc80ca0f3adfa47d33c91ec4babac2be08ebb5fe07243c6fe7f2cdc4d",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-film-studies-ba-4f4a9cd4fd-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba/teaching-and-modules",
+        "sha256": "b6d6f965d049b1b537407281478a752674a21489c3686c78fc5c07e3ec9fd896",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-film-studies-ba-4f4a9cd4fd-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba/careers",
+        "sha256": "02e09c2a1ebe8b671abe8922896945bb8f3ae4968151460d5a6c4085a5de02a4",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-film-studies-ba-4f4a9cd4fd-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba/entry-requirements",
+        "sha256": "e787d726a768bf796d45ad788cf4a6d8d645e5a206460ea207a2987753d35c26",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/review/china-dom-9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba/fees",
+        "sha256": "5bfb86f7b8cc444ac7a0f947c7497fab285fd3d2fa4b27d97a82bc34cc21cfa7",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/fees-dom-9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages/entry-requirements",
+        "sha256": "8f5caf0c8098c911803e13a55b5e1f27ee18f03c634ee8eca85c8e79acea6563",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-global-media-and-languages-ba-9d72da541f-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages/teaching-and-modules",
+        "sha256": "0ab801dcd00492ccfe32e89a2fe5481efebb01b6873abacc3247dafef765ccd0",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-global-media-and-languages-ba-9d72da541f-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages/careers",
+        "sha256": "6f305e24b1cd53b2888b449add1d4085a58a9bea8f5882bddbdb5dde81006445",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-global-media-and-languages-ba-9d72da541f-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages/entry-requirements",
+        "sha256": "db33fdb084f89c8b1fcf8aa823b65465ffa63212846ac3f9c90dafaf4322e74a",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/review/china-dom-10.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages/fees",
+        "sha256": "40f9e27959196fb1fa87980975318cd117aef0af23bbc09716fe98eb60dde17e",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/fees-dom-10.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus",
+        "sha256": "6c4afc89373e89c4ea68865fa1d5ff78f46a1fe3ebc0257a8bb36d4dadb43d03",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-music-bmus-81751a2f19-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/entry-requirements",
+        "sha256": "f9b2e5edbbafa4571d8b4387f4051394776e310ec584c361c57b97109030e83b",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-music-bmus-81751a2f19-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/teaching-and-modules",
+        "sha256": "f0b66c79b69d43cf979a31ed6a7dd09716a79af85e19acde4d1709e1413433a0",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-music-bmus-81751a2f19-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/careers",
+        "sha256": "1ac5212f16ec1a8d2164a37383799c8624eca2a5d831267c35eb105dc3a35d4d",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/kcl-music-bmus-81751a2f19-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/entry-requirements",
+        "sha256": "35d67f8a105735cccce0e27c6b3a768f8a5ae05339676f12c34a6b06e2a575ce",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/review/china-dom-11.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/fees",
+        "sha256": "d44489f14bb98a6fc8c53ca05e24aa62b6036a1a9ec5077f34c9f73dd1996c86",
+        "raw_file": "scratch/full-catalog/kcl-arts-media-enrichment/raw/fees-dom-11.html"
       }
     ],
     "gaps": [
       "仍有现有课程尚未完成独立分栏补源；所有本科内部路径及完整资格继续逐项核验。",
-      "37健康医学与12人文课程已取得各自2027/28费用信息，不据此外推全部145项、未来海外/实习年或全程总费用；Home-only限制与国际报价分别说明。",
-      "英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；Medicine MBBS和本次12人文课程已逐页取得China资格分支，其余不由A-level/IB反推高考直入。",
+      "37健康医学、12人文及12艺术媒体课程已分别取得2027/28费用信息，未来海外/实习年及全程总费用仍按各课程缺口说明。",
+      "英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；Medicine MBBS、12人文及12艺术媒体已逐页取得China资格分支，其余课程不由A-level/IB反推高考直入。",
       "iBSc内部／外部申请日与侧栏状态、牙科及部分医学模块学分存在官方差异，均保留原范围；空截止栏不作推断。",
-      "本批职业页多为职业注册、服务或案例，未取得专业独立毕业届别、分母、就业率或薪资。"
+      "本批职业页多为职业注册、服务或案例，未取得专业独立毕业届别、分母、就业率或薪资。",
+      "艺术媒体部分年度学分表、比较文学电影交换年段存在官网表述差异；英语语言与语言学校区未确认，创意写作及全球媒体专业页未列截止日期。"
     ]
   },
   "programs": [
@@ -2559,8 +2910,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=1",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "1d54b6c3-6db2-4985-a8cf-9ec941963150",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "独立 BA；比较文学为主要学科、电影研究为辅修",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-comparative-literature-with-film-studies-ba-e91d7081a1"
     },
@@ -2869,8 +3220,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=3",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "60f9686b-7dbb-48f0-af8a-3a8bdac3aa6a",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "英语文学与一门现代语言共同入口，依水平分流并含必修海外年",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-english-modern-languages-french-german-portuguese-or-spanish-with-70c18a0997"
     },
@@ -2965,8 +3316,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=3",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "393901ba-3e1a-40a1-abe7-b189ca4e8566",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "独立 BA；英语与创意写作，不由学习作品集推定入学作品集要求",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-english-with-creative-writing-ba-ba3383fbc1"
     },
@@ -2981,8 +3332,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=3",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "6f1d6ebd-a96e-48e8-8250-662e55ddd6e1",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "独立 BA；英语为主要学科、电影研究为辅修",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-english-with-film-studies-ba-5459540fc7"
     },
@@ -3226,8 +3577,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=4",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "60b18257-b825-48fc-b9e0-98506d9823ac",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "全球媒体与一门现代语言共同入口，按语种／水平分流，含必修海外年",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-global-media-and-languages-ba-9d72da541f"
     },

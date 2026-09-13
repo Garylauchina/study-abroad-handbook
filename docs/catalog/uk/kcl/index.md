@@ -54,42 +54,42 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-chemistry-with-a-year-in-industry-msci-c7d70a2e48/">Chemistry with a Year in Industry MSci</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-classical-studies-with-english-ba-5b6ef57016/">古典学与英语文学（BA，主修／辅修）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-classics-the-ancient-world-ba-3d62e79c23/">古典学与古代世界（BA）</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-comparative-literature-ba-bdedca13aa/">Comparative Literature BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-comparative-literature-with-film-studies-ba-e91d7081a1/">Comparative Literature with Film Studies BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-comparative-literature-ba-bdedca13aa/">比较文学（BA）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-comparative-literature-with-film-studies-ba-e91d7081a1/">比较文学与电影研究（BA，主修／辅修）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-computer-science-bsc-b4d69ea787/">Computer Science BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-computer-science-msci-90438790d9/">Computer Science MSci</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-computer-science-with-management-a-year-in-industry-bsc-24fb748e8a/">Computer Science with Management &amp; a Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-computer-science-with-management-bsc-7c78bbc49e/">Computer Science with Management BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-computer-science-with-a-year-in-industry-bsc-9a6e70e448/">Computer Science with a Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-culture-media-creative-industries-ba-03939b27d0/">Culture, Media &amp; Creative Industries BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-culture-media-creative-industries-ba-03939b27d0/">文化、媒体与创意产业（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-data-analytics-for-business-finance-bsc-97745bda7c/">Data Analytics for Business &amp; Finance BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-data-analytics-for-business-finance-with-year-in-industry-bsc-15236ab329/">Data Analytics for Business &amp; Finance with Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-dental-therapy-hygiene-bsc-0cd5e182a2/">牙科治疗与卫生理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-dentistry-bds-5b87585020/">牙科学士</a><small>BDS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-dentistry-entry-programme-for-medical-graduates-bds-522e13b1c1/">医学毕业生牙科学士入口</a><small>BDS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-dentistry-graduate-professional-entry-programme-bds-918aff2f96/">本科后／专业人士牙科学士入口</a><small>BDS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-digital-media-culture-ba-ae88ff0263/">Digital Media &amp; Culture BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-digital-media-culture-ba-ae88ff0263/">数字媒体与文化（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-management-bsc-245b52a540/">Economics &amp; Management BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-management-with-year-in-industry-bsc-7b5aaf88aa/">Economics &amp; Management with Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-bsc-0304407354/">Economics BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-electronic-engineering-beng-0f1cdceea9/">Electronic Engineering BEng</a><small>BEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-electronic-engineering-meng-add0fec710/">电子工程（MEng）</a><small>MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-modern-languages-french-german-portuguese-or-spanish-with-70c18a0997/">English &amp; Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-ba-5fa4c259ea/">English BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-language-linguistics-ba-7f91d5a573/">English Language &amp; Linguistics BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-modern-languages-french-german-portuguese-or-spanish-with-70c18a0997/">英语文学与现代语言（BA，含海外年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-ba-5fa4c259ea/">英语文学（BA）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-language-linguistics-ba-7f91d5a573/">英语语言与语言学（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-law-french-law-llb-and-ma-trise-en-droit-master-1-cee2c45cb2/">English Law &amp; French Law LLB and Maîtrise en droit (Master 1)</a><small>LLB and Maîtrise en droit (Master 1) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-law-german-law-llb-and-llm-or-first-state-exam-erste-juri-4fca52336e/">English Law &amp; German Law LLB and LLM or First State Exam (erste juristische Staatsprüfung)</a><small>LLB and LLM or First State Exam (erste juristische Staatsprüfung) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-law-hong-kong-law-llb-and-jd-a8471246d1/">English Law &amp; Hong Kong Law LLB and JD</a><small>LLB and JD · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-law-spanish-law-llb-and-grado-en-derecho-spanish-equivale-b94cf76f73/">English Law &amp; Spanish Law LLB and Grado en Derecho (Spanish equivalent of LLB)</a><small>LLB and Grado en Derecho (Spanish equivalent of LLB) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-with-creative-writing-ba-ba3383fbc1/">English with Creative Writing BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-with-film-studies-ba-5459540fc7/">English with Film Studies BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-with-creative-writing-ba-ba3383fbc1/">英语与创意写作（BA）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-with-film-studies-ba-5459540fc7/">英语文学与电影研究（BA，主修／辅修）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-enhanced-support-dentistry-programme-bds-e07109ebf2/">增强支持牙科学士</a><small>BDS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-environmental-science-msci-fb0de0cc0e/">Environmental Science MSci</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-european-studies-french-pathway-with-a-year-abroad-ba-042ee15398/">European Studies (French pathway) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-european-studies-german-pathway-with-a-year-abroad-ba-33f39af931/">European Studies (German pathway) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-european-studies-spanish-pathway-with-a-year-abroad-ba-cb2cb3646c/">European Studies (Spanish pathway) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-extended-medical-degree-programme-mbbs-45e3e1c0b4/">延长学制医学学士</a><small>MBBS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-film-studies-ba-4f4a9cd4fd/">Film Studies BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-film-studies-ba-4f4a9cd4fd/">电影研究（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-general-engineering-beng-ff0c6cbd1c/">General Engineering BEng</a><small>BEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-general-engineering-meng-91ae0935e2/">General Engineering MEng</a><small>MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-geography-environmental-science-bsc-80be703cb7/">Geography &amp; Environmental Science BSc</a><small>BSc · 部分专业资料已核实</small></article>
@@ -97,7 +97,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-health-social-medicine-bsc-b0b501dde0/">全球健康与社会医学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-health-social-science-ba-b801ada3f0/">Global Health &amp; Social Science BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-health-ibsc-ab1586f2f9/">全球健康插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-media-and-languages-ba-9d72da541f/">Global Media and Languages BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-media-and-languages-ba-9d72da541f/">全球媒体与语言（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-graduate-entry-medicine-programme-university-of-portsmouth-branch-18f4100000/">本科后医学学士（朴次茅斯分校）</a><small>MBBS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-graduate-entry-medicine-programme-mbbs-31bff8cf95/">本科后医学学士入口</a><small>MBBS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-healthcare-entry-medicine-mbbs-11c1f6450c/">医护从业者医学学士入口</a><small>MBBS · 部分专业资料已核实</small></article>
@@ -130,7 +130,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-midwifery-with-registration-as-a-midwife-bsc-17bb75f69b/">助产学理学学士（助产士注册）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-modern-languages-french-german-spanish-portuguese-with-a-year-abr-5b28a228c7/">Modern Languages (French, German, Spanish, Portuguese) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-molecular-genetics-bsc-6412d6b7a6/">分子遗传学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-music-bmus-81751a2f19/">Music BMus</a><small>BMus · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-music-bmus-81751a2f19/">音乐（BMus）</a><small>BMus · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-natural-sciences-bsc-6983a21800/">Natural Sciences BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-natural-sciences-msci-4dabed4621/">Natural Sciences MSci</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-natural-sciences-with-a-year-in-industry-bsc-f7bff12f56/">Natural Sciences with a Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
@@ -204,17 +204,18 @@ hide:
 
 <p><strong>统计范围：</strong>148个已发现目录入口中，145个本科及本科在读路线；3个本科后护理硕士另留更正页，内部路径仍待全量对账</p>
 
-<p><strong>对账方法：</strong>复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。</p>
+<p><strong>对账方法：</strong>复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。</p>
 
 <p><strong>排除项：</strong>Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes；本科后首次注册护理MNurs/MSc不计本科项目；MBBS/BDS仍按专业学士保留并注明前置学历。</p>
 
 **尚未解决的目录缺口：**
 
 - 仍有现有课程尚未完成独立分栏补源；所有本科内部路径及完整资格继续逐项核验。
-- 37健康医学与12人文课程已取得各自2027/28费用信息，不据此外推全部145项、未来海外/实习年或全程总费用；Home-only限制与国际报价分别说明。
-- 英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；Medicine MBBS和本次12人文课程已逐页取得China资格分支，其余不由A-level/IB反推高考直入。
+- 37健康医学、12人文及12艺术媒体课程已分别取得2027/28费用信息，未来海外/实习年及全程总费用仍按各课程缺口说明。
+- 英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；Medicine MBBS、12人文及12艺术媒体已逐页取得China资格分支，其余课程不由A-level/IB反推高考直入。
 - iBSc内部／外部申请日与侧栏状态、牙科及部分医学模块学分存在官方差异，均保留原范围；空截止栏不作推断。
 - 本批职业页多为职业注册、服务或案例，未取得专业独立毕业届别、分母、就业率或薪资。
+- 艺术媒体部分年度学分表、比较文学电影交换年段存在官网表述差异；英语语言与语言学校区未确认，创意写作及全球媒体专业页未列截止日期。
 
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=9)
@@ -622,5 +623,75 @@ hide:
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba/war-studies-history-ba-careers)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba/entry-requirements)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba/requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus/fees)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。
