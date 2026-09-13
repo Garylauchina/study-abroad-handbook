@@ -527,7 +527,7 @@
       "url": "https://www.kcl.ac.uk/business/undergraduate/global-placements",
       "sha256": "5fe93bab078f2900b5cfdb88aac66df1b329a8d1a7c683ac089eed673c61705f",
       "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/placements.html",
-      "locator": "商学院当前行业年资格"
+      "locator": "Global Placements explicit eligibility"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/fees",
@@ -2494,8 +2494,44 @@
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-science-ba",
       "sha256": "b502d1a3456bf7f1dfa886307e32573212e29644cc5c0c13bb227c0b0033b0c6",
-      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-dc1f5d0b830fd6.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-global-health-social-science-ba-b801ada3f0-overview.html",
+      "locator": "Public Overview / Course essentials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-science-ba/teaching-and-modules",
+      "sha256": "8317797447f036b07f62cf739fb8fbe48ac505b19f673c283e143647ba71e299",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-global-health-social-science-ba-b801ada3f0-teaching.html",
+      "locator": "Actual public Year selector, Required / Optional / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-science-ba/entry-requirements",
+      "sha256": "289317c19816e27a0fc3f7f86f93cbddc8188f540580b87e2e93899b57883fdc",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-global-health-social-science-ba-b801ada3f0-requirements.html",
+      "locator": "Visible Standard A-level / IB / Other requirements / Selection"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-science-ba/global-health-social-science-ba-careers",
+      "sha256": "27f624334ce6d4ac004bda3fccfa1a501839bb665242e7db5d2eefc7a8393aa4",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-global-health-social-science-ba-b801ada3f0-careers.html",
+      "locator": "Public Careers body and explicitly stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-science-ba",
+      "sha256": "050247a7e02450348974dc85eb59367af97c8d6055e375247615955a913f12f8",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/nav-ax-0.txt",
+      "locator": "Actual Overview accessibility body > Base campus(es)"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-science-ba/entry-requirements",
+      "sha256": "cec72d386af235dc46390162a36ac09bdc33a0259fd284bd31017f8b311d96ed",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/capture/china-dom-0.html",
+      "locator": "Actual selected China > Award; visible A-level / IB / Other requirements / language pathways / Selectionprocess"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-science-ba/fees",
+      "sha256": "d97d382bb3cf2ca600897b0b4bed71982ff51ec3e3c425c15ee41c7a3bed6397",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-0.html",
+      "locator": "International tuition / deposit / Further fee information / Key Information"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages",
@@ -2798,10 +2834,100 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-business-analytics-and-management-bsc",
+      "sha256": "90d3ee17b7d91d8018040b579a8da58aedc558a5bed2caef3236049993acc44a",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-business-analytics-management-bsc-04008740f9-overview.html",
+      "locator": "Public Overview / Course essentials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-business-analytics-and-management-bsc/teaching-and-modules",
+      "sha256": "2cce5e7bf07a3582974c57694df7fdeef5487961d34f8535e8f8e47b0d5ba7d6",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-business-analytics-management-bsc-04008740f9-teaching.html",
+      "locator": "Actual public Year selector, Required / Optional / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-business-analytics-and-management-bsc/entry-requirements",
+      "sha256": "f244a186f9c3b0a48af6f2dc849a7f93294b44b7e66957faf4b99336778d2ae5",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-business-analytics-management-bsc-04008740f9-requirements.html",
+      "locator": "Visible Standard A-level / IB / Other requirements / Selection"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-business-analytics-and-management-bsc/careers",
+      "sha256": "e2b5951950b23aa2025d5037cff55a2289afbfda5f02b3feba1054feb0e90e18",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-business-analytics-management-bsc-04008740f9-careers.html",
+      "locator": "Public Careers body and explicitly stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-business-analytics-and-management-bsc",
+      "sha256": "b159b7ad34d98d74d0acc92513fc1ea6730bb7ca505b35a11405dd4e47d39ee7",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/nav-ax-1.txt",
+      "locator": "Actual Overview accessibility body > Base campus(es)"
+    },
+    {
+      "url": "https://www.edhec.edu/sites/default/files/communiques-presse/Kings%20EDHEC%2006%202025%20Final.pdf",
+      "sha256": "de7d9ce4a93f3ee421bbf4c1b76cff82f4b15f4a038a49c90347160183bd71f3",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/edhec-announcement.pdf",
+      "locator": "PDF page1, Paris June25 2025; English; first cohort; degrees; internships"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-business-analytics-and-management-bsc/entry-requirements",
+      "sha256": "49d4c2262f46507bce2f403389e4c720a264c718edbc7766ddad927b0ffad8dc",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/capture/china-dom-1.html",
+      "locator": "Actual selected China > Award; visible A-level / IB / Other requirements / language pathways / Selectionprocess"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-business-analytics-and-management-bsc/fees",
+      "sha256": "4e42c62701c02e3c4de9e44eb3a254d66e4b2995ede13d14bed5c9e61e29e57f",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-1.html",
+      "locator": "International tuition / deposit / Further fee information / Key Information"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba",
       "sha256": "3a682bcd585e0e7526ebe125a9676dd499bfae469ed989135209628bddb324a5",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-bac1a0b913167a.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba",
+      "sha256": "64b2535d0ef8e413ecdb6812588b0a37b256cc74526de024dac9a357e74e556b",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-development-ba-a16cc238eb-overview.html",
+      "locator": "Public Overview / Course essentials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba/teaching-and-modules",
+      "sha256": "45d554ce3fb348e90228511b9108d9984ae715776326ecdd44e1f9681c399c67",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-development-ba-a16cc238eb-teaching.html",
+      "locator": "Actual public Year selector, Required / Optional / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba/entry-requirements",
+      "sha256": "4a84032056a4f66993bf91f865f82a192c77d12a5d1be2c81aab1d3337aee20c",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-development-ba-a16cc238eb-requirements.html",
+      "locator": "Visible Standard A-level / IB / Other requirements / Selection"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba/careers",
+      "sha256": "cd52ca46999bf65479155781a2fdbc31477e2b64a40d139b001b0c5c68db58ea",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-development-ba-a16cc238eb-careers.html",
+      "locator": "Public Careers body and explicitly stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba",
+      "sha256": "b57d41c4c0ce4a6de9b1941d527e8d79313f0042db07309fdc64fdf373c7ce4b",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/nav-ax-2.txt",
+      "locator": "Actual Overview accessibility body > Base campus(es)"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba/entry-requirements",
+      "sha256": "535313915ba255bcf8f04a9ad618a8cc633cbb6c110d8f64c3ec0a11ac668788",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/capture/china-dom-2.html",
+      "locator": "Actual selected China > Award; visible A-level / IB / Other requirements / language pathways / Selectionprocess"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba/fees",
+      "sha256": "af02457466576af94a8d1c361a9059ee2ccf4ec8993b2e8da98310d08bef4057",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-2.html",
+      "locator": "International tuition / deposit / Further fee information / Key Information"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc",
@@ -2810,10 +2936,94 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc",
+      "sha256": "1ce49badd02ffcee23a23a23ebd78b679b9aad3a18051c77a0e8cd2f59b9cb0a",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-management-bsc-efba86f53b-overview.html",
+      "locator": "Public Overview / Course essentials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc/teaching-and-modules",
+      "sha256": "2bfdacc103cd248a2a9c3b66eb7a04aa6d12db6a50f5c86ff60aba7c66b3b7b8",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-management-bsc-efba86f53b-teaching.html",
+      "locator": "Actual public Year selector, Required / Optional / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc/entry-requirements",
+      "sha256": "aebbe9a70d6abeb4a0eb59488dc2363c78cd793e5be0241b593b3df28a87ad91",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-management-bsc-efba86f53b-requirements.html",
+      "locator": "Visible Standard A-level / IB / Other requirements / Selection"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc/careers",
+      "sha256": "936a082a3e740ec546de54ed72abdcadfbf93450f83fdf0a35ccdbed719f5beb",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-management-bsc-efba86f53b-careers.html",
+      "locator": "Public Careers body and explicitly stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc",
+      "sha256": "ddc323598b8c6e9b7288fe855f2f0d916b58f0386a6f5026d8c1ccca01d5d537",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/nav-ax-3.txt",
+      "locator": "Actual Overview accessibility body > Base campus(es)"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc/entry-requirements",
+      "sha256": "d868fdc482de1f5679d9b83ed8e453df016cc7882bfb862e4e44d6f42b2cf41b",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/capture/china-dom-3.html",
+      "locator": "Actual selected China > Award; visible A-level / IB / Other requirements / language pathways / Selectionprocess"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc/fees",
+      "sha256": "f27c5292732a94bac494cd5f9e397a6f00d4511095047b0af36a61abaca14a17",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-3.html",
+      "locator": "International tuition / deposit / Further fee information / Key Information"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba",
       "sha256": "2abfffa5e4f31b488ea97e430d288b1643540c0caf581471cef3b4ca92d44ad5",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-da119cea4b7eb5.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba",
+      "sha256": "66ee5768e0764e54a7d0f41fb633ccb0a4c561286e53c22033844e868273beb8",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-relations-ba-5d1efb77d0-overview.html",
+      "locator": "Public Overview / Course essentials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba/teaching-and-modules",
+      "sha256": "78373880c07412fcc31f17bcb419e468ecd2b27d11a995f653f41bc89f379c0b",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-relations-ba-5d1efb77d0-teaching.html",
+      "locator": "Actual public Year selector, Required / Optional / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba/entry-requirements",
+      "sha256": "5ab40a0e2a5f22c3753baab1b34625d2f068c9e3a50ec92b48b0116006486ab1",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-relations-ba-5d1efb77d0-requirements.html",
+      "locator": "Visible Standard A-level / IB / Other requirements / Selection"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba/international-relations-ba-careers",
+      "sha256": "8b2c4acc045351e4a71af2f61bfd4d0809e12cd62810f77992ba306a3e1fca51",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-international-relations-ba-5d1efb77d0-careers.html",
+      "locator": "Public Careers body and explicitly stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba",
+      "sha256": "78c0b1a19bb9a860bd1eed4d3579906d9fc4518b5ac9b0c3beeb4c940e0d141d",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/nav-ax-4.txt",
+      "locator": "Actual Overview accessibility body > Base campus(es)"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba/entry-requirements",
+      "sha256": "a7235a3dd921db3f3f0139798f6a42882ec2dfdd56e792eccf92ca8c6fcd9da2",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/capture/china-dom-4.html",
+      "locator": "Actual selected China > Award; visible A-level / IB / Other requirements / language pathways / Selectionprocess"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba/fees",
+      "sha256": "dcfe2b2e6c480203e513254ca87375d6ee6b5640cc8e4b1cad90ac37be3fdb0e",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-4.html",
+      "locator": "International tuition / deposit / Further fee information / Key Information"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-llb",
@@ -2906,10 +3116,94 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba",
+      "sha256": "1e725bf8a491ebf8744a1a8dc05facd02a24d9070de3e698bd0ed11a3c614a78",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-liberal-arts-ba-3fc5fe3c7f-overview.html",
+      "locator": "Public Overview / Course essentials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba/teaching-and-modules",
+      "sha256": "f6c64a95f2f607bac27a22a2dca6bd9aca57b5fe8c72ca9a8a4d6534f6db5407",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-liberal-arts-ba-3fc5fe3c7f-teaching.html",
+      "locator": "Actual public Year selector, Required / Optional / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba/entry-requirements",
+      "sha256": "145c55565fc7e576134e717b2d273e08dcf4f242b90b38b3e32524b268f0b25a",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-liberal-arts-ba-3fc5fe3c7f-requirements.html",
+      "locator": "Visible Standard A-level / IB / Other requirements / Selection"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba/careers",
+      "sha256": "abdf75c1d542990b5b546753fbacf6ea5d5bbb59c715cd736e000e309fd4c871",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-liberal-arts-ba-3fc5fe3c7f-careers.html",
+      "locator": "Public Careers body and explicitly stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba",
+      "sha256": "ef1620012d4cb9202fad19822272dfd2e9df4bb1c88e23ce74bb3729cca242f2",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/nav-ax-5.txt",
+      "locator": "Actual Overview accessibility body > Base campus(es)"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba/entry-requirements",
+      "sha256": "7adca74e0a52e206b6d9b82c389526c893dd552f545e97c4e9bb624dcd509f1c",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/capture/china-dom-5.html",
+      "locator": "Actual selected China > Award; visible A-level / IB / Other requirements / language pathways / Selectionprocess"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba/fees",
+      "sha256": "49a6382d3e2c2785b01906a00476d72deda781ba68929e3b44a5262413e2daf6",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-5.html",
+      "locator": "International tuition / deposit / Further fee information / Key Information"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba",
       "sha256": "7db21e67c243e7e01a4b8198404199def77df36d3330484c84bf35c2891de301",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-c24a25cacc3866.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba",
+      "sha256": "a063f804d802be4ca9d31384231d9fb4cd0fce416230db0f7189fdcea5f3123b",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-management-modern-languages-french-german-portuguese-or-spanish-w-0b83f3d6ca-overview.html",
+      "locator": "Public Overview / Course essentials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba/teaching-and-modules",
+      "sha256": "2a4db43a8a7d50396c76df9e4710b7f9e5ce8f9d3f6be2197375667a9651ba97",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-management-modern-languages-french-german-portuguese-or-spanish-w-0b83f3d6ca-teaching.html",
+      "locator": "Actual public Year selector, Required / Optional / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba/entry-requirements",
+      "sha256": "3aedeeeadaf5475f833fae0ad00672bdf2a7118cb2c64232270b9befe4a1de40",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-management-modern-languages-french-german-portuguese-or-spanish-w-0b83f3d6ca-requirements.html",
+      "locator": "Visible Standard A-level / IB / Other requirements / Selection"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba/careers",
+      "sha256": "24f04e2c2a3b61ff221e4c9c78b8473783aa9dc85d4de52c3cfcebf17d4f207c",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-management-modern-languages-french-german-portuguese-or-spanish-w-0b83f3d6ca-careers.html",
+      "locator": "Public Careers body and explicitly stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba",
+      "sha256": "89c9819bc2c4595408101d54bd39daf8b83e8f98b385934a20728d1bea2ce0ec",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/nav-ax-6.txt",
+      "locator": "Actual Overview accessibility body > Base campus(es)"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba/entry-requirements",
+      "sha256": "0cc0f8cb35010f460504aab8721dc2da2cce0d7ca0c40ba9a6933086e9d2e098",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/capture/china-dom-6.html",
+      "locator": "Actual selected China > Award; visible A-level / IB / Other requirements / language pathways / Selectionprocess"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba/fees",
+      "sha256": "f6c92afe4a29da7f21f310957f4aa2ff800ef65f5e55fcd36ea4c924df291e14",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-6.html",
+      "locator": "International tuition / deposit / Further fee information / Key Information"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing",
@@ -2918,10 +3212,88 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing",
+      "sha256": "ce939ce85337a64614ab7c8a247a79e47b9be77679c8a0b2b1ba0a38bebe48a3",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-marketing-bsc-c7cc8a29dc-overview.html",
+      "locator": "Public Overview / Course essentials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing/teaching-and-modules",
+      "sha256": "9043a61b599a6904efabddda2014e89be92da2fa7107faf9ec974a2e4090417b",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-marketing-bsc-c7cc8a29dc-teaching.html",
+      "locator": "Actual public Year selector, Required / Optional / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing/entry-requirements",
+      "sha256": "85fbb9145fda99219089729881621647881cb8c2749b0850a74dfdbad735ea59",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-marketing-bsc-c7cc8a29dc-requirements.html",
+      "locator": "Visible Standard A-level / IB / Other requirements / Selection"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing/careers",
+      "sha256": "ffe0044437cc19e9af0b4813513895ef1f58cd7ebf35703075f8856020763650",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-marketing-bsc-c7cc8a29dc-careers.html",
+      "locator": "Public Careers body and explicitly stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing",
+      "sha256": "ccfe4e31d627aabb6503697ee719b2f7109703ca08d1d25ca6ae112f67bcdb78",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/nav-ax-7.txt",
+      "locator": "Actual Overview accessibility body > Base campus(es)"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing/entry-requirements",
+      "sha256": "9431221640515484e8b4d9bdf0d8943b988229bf3bd9a63209bc965b09cb752d",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/capture/china-dom-7.html",
+      "locator": "Actual selected China > Award; visible A-level / IB / Other requirements / language pathways / Selectionprocess"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing/fees",
+      "sha256": "a5a939d9ed166cb1b066afa050babba7833aee8d049287f076ee132b92e2e752",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-7.html",
+      "locator": "International tuition / deposit / Further fee information / Key Information"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing-with-year-in-industry-bsc",
       "sha256": "96756e3eda0d353ab3d659e05bea5c21c28456cf1f6163d5b786a0ea6c68900c",
-      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-e2f471be3e7e06.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-marketing-with-year-in-industry-bsc-200524822b-overview.html",
+      "locator": "Public Overview / Course essentials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing-with-year-in-industry-bsc/teaching-and-modules",
+      "sha256": "cb993011e6fd1304cc5ebbe94e5b56c67e362c1f2209544e8c8bb5809b6179ab",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-marketing-with-year-in-industry-bsc-200524822b-teaching.html",
+      "locator": "Actual public Year selector, Required / Optional / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing-with-year-in-industry-bsc/entry-requirements",
+      "sha256": "183fcb7af474028a826dbaac0d39f8b7adcaef51a49880251bc32b2fc0f98258",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-marketing-with-year-in-industry-bsc-200524822b-requirements.html",
+      "locator": "Visible Standard A-level / IB / Other requirements / Selection"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing-with-year-in-industry-bsc/careers",
+      "sha256": "799509925a6fefc0302c94cdffea7456cff8b5b00ec48ae58572406ead829d66",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-marketing-with-year-in-industry-bsc-200524822b-careers.html",
+      "locator": "Public Careers body and explicitly stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing-with-year-in-industry-bsc",
+      "sha256": "a1fc7c0a7d8d8290456901a48cac7aabe22fdfc1893506056a6825251ad43b8a",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/nav-ax-8.txt",
+      "locator": "Actual Overview accessibility body > Base campus(es)"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing-with-year-in-industry-bsc/entry-requirements",
+      "sha256": "7887d94b4f56d42ef20fa07df98afff393f4c470713a2dde6877476613e761db",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/capture/china-dom-8.html",
+      "locator": "Actual selected China > Award; visible A-level / IB / Other requirements / language pathways / Selectionprocess"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing-with-year-in-industry-bsc/fees",
+      "sha256": "6292276487f4322f5f79ee7392346d1b0f0ff27a12baf4299529efdfe9f39c78",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-8.html",
+      "locator": "International tuition / deposit / Further fee information / Key Information"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-bsc",
@@ -3210,6 +3582,48 @@
       "sha256": "c9add8e73f78a4f6f9a2175892b9af0e07c75c208064c80782a540663c8425f1",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-3712bd35efb21f.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba",
+      "sha256": "446c55c675e3ac0f5c0b10f7b1522c337492e0087f0423eaa7125ae5d0d7b8d3",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-modern-languages-french-german-spanish-portuguese-with-a-year-abr-5b28a228c7-overview.html",
+      "locator": "Public Overview / Course essentials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba/teaching-and-modules",
+      "sha256": "0e176480871d3e34543ca1fc59b304f3bf05dd1ba01fc9d37b4a018a8f1521ac",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-modern-languages-french-german-spanish-portuguese-with-a-year-abr-5b28a228c7-teaching.html",
+      "locator": "Actual public Year selector, Required / Optional / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba/entry-requirements",
+      "sha256": "83126546ec966e6e61e6c28b8a27a133eeac949c7d1b6fe7f0055b879926db24",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-modern-languages-french-german-spanish-portuguese-with-a-year-abr-5b28a228c7-requirements.html",
+      "locator": "Visible Standard A-level / IB / Other requirements / Selection"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba/careers",
+      "sha256": "020f755130488df1bb23bbf2097b7b544a46d31136d04cf6d74679c06c4d105a",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-modern-languages-french-german-spanish-portuguese-with-a-year-abr-5b28a228c7-careers.html",
+      "locator": "Public Careers body and explicitly stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba",
+      "sha256": "bf0e1b4efb57461de4fa642a0e988a8ffb2acffc0ba0c368262715236410dd29",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/nav-ax-9.txt",
+      "locator": "Actual Overview accessibility body > Base campus(es)"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba/entry-requirements",
+      "sha256": "f274d3bba809a0cce0e7020baae8b39713aac8ff132517b972fd0dc8173d5826",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/capture/china-dom-9.html",
+      "locator": "Actual selected China > Award; visible A-level / IB / Other requirements / language pathways / Selectionprocess"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba/fees",
+      "sha256": "639e788b093004331f502b1824525487c38dec8b55c459d8e1f5605a5076fc4a",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-9.html",
+      "locator": "International tuition / deposit / Further fee information / Key Information"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/molecular-genetics-bsc",
@@ -4090,8 +4504,44 @@
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc",
       "sha256": "027c2f2cc0d5a2d54da69fbaefc004edc9c51d654c1d2379cfec6f10ddd24590",
-      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-55310da311a675.html",
-      "locator": "See each fact extraction_locator"
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-political-economy-ba-bsc-a74fda0e15-overview.html",
+      "locator": "Public Overview / Course essentials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc/teaching-and-modules",
+      "sha256": "f14d2822e47ea9a7034df5d7acb4dbbd399651601ec14f1ba23ff81093293abe",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-political-economy-ba-bsc-a74fda0e15-teaching.html",
+      "locator": "Actual public Year selector, Required / Optional / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc/entry-requirements",
+      "sha256": "bdd01dfa419fee4655f7cf99a7f498fac01297cdbdc23bd02a50cde13e53a9fd",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-political-economy-ba-bsc-a74fda0e15-requirements.html",
+      "locator": "Visible Standard A-level / IB / Other requirements / Selection"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc/careers",
+      "sha256": "192bb01ed426f676c79564b1d6d537b7485b31701315fef8b44925adc5863e65",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-political-economy-ba-bsc-a74fda0e15-careers.html",
+      "locator": "Public Careers body and explicitly stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc",
+      "sha256": "0c3527796c7fc90ea9dbd9d6088a567b1290dfb34d6d8b6b6d701463f8f5db83",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/nav-ax-10.txt",
+      "locator": "Actual Overview accessibility body > Base campus(es)"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc/entry-requirements",
+      "sha256": "c6d31818708edd5a65795cdbec83af5086ff5f0cb3dc09ae82fdf6a58714a0b5",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/capture/china-dom-10.html",
+      "locator": "Actual selected China > Award; visible A-level / IB / Other requirements / language pathways / Selectionprocess"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc/fees",
+      "sha256": "234eb6acedf53ef26348bbb8e2b6ebe9f1c23dc7fbcd390eab1d9aedad48eaf7",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-10.html",
+      "locator": "International tuition / deposit / Further fee information / Key Information"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc",
@@ -4100,10 +4550,94 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc",
+      "sha256": "c3fd34e28314b48630bb1059e9fdb32f2c8a830e0406bea0edcba85b16e67b8c",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-politics-ba-bsc-727e4dc47e-overview.html",
+      "locator": "Public Overview / Course essentials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc/teaching-and-modules",
+      "sha256": "41bf75e6d35fe4889089514666c7e8396faf9ddb69ce3eb7ab14178a1aa5237f",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-politics-ba-bsc-727e4dc47e-teaching.html",
+      "locator": "Actual public Year selector, Required / Optional / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc/entry-requirements",
+      "sha256": "f3cca021e5888d43d2ef3851eb321a5fe519a7909d06ae57ec3dcc2c65c783f6",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-politics-ba-bsc-727e4dc47e-requirements.html",
+      "locator": "Visible Standard A-level / IB / Other requirements / Selection"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc/careers",
+      "sha256": "033a5bd777b9f85ff2494c938a73d2aedfcfe622aff42490a41ee958b3add7b4",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-politics-ba-bsc-727e4dc47e-careers.html",
+      "locator": "Public Careers body and explicitly stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc",
+      "sha256": "a7056348402c87640646fd421ebfccdf2465f13a37649a7c75bde2aa44c33ed2",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/nav-ax-11.txt",
+      "locator": "Actual Overview accessibility body > Base campus(es)"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc/entry-requirements",
+      "sha256": "57695bee63be545cf42af73b98830fc7a88b1adf127b9d222c15fa3b7c017da2",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/capture/china-dom-11.html",
+      "locator": "Actual selected China > Award; visible A-level / IB / Other requirements / language pathways / Selectionprocess"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc/fees",
+      "sha256": "b3f72d4e7372184b55e34d12ce53d0558ceaa5d0d2c65f181981f4918158fcd6",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-11.html",
+      "locator": "International tuition / deposit / Further fee information / Key Information"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba",
       "sha256": "86e1516987509af93b77877301866abf7c21f4a9ae284f7b2ad5e5336646c17f",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-bc4da326c1444f.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba",
+      "sha256": "c25ec2f9a60d69ec98a4912af5371171d715d6b9372b3577e33bfbf186d8a03a",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-politics-international-affairs-ba-fb80a575bf-overview.html",
+      "locator": "Public Overview / Course essentials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba/teaching-and-modules",
+      "sha256": "a747d632435a22711bb541c31a34440e26689aa277cd65b7dabd41ea86f67562",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-politics-international-affairs-ba-fb80a575bf-teaching.html",
+      "locator": "Actual public Year selector, Required / Optional / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba/entry-requirements",
+      "sha256": "97a113296a7f3b11522908d16a980fe24104ca0ea2800ca7e61c0fdbcd9458a5",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-politics-international-affairs-ba-fb80a575bf-requirements.html",
+      "locator": "Visible Standard A-level / IB / Other requirements / Selection"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba/careers",
+      "sha256": "55fccd2ef31318ca45a80ba1f3e4be10de02d845397f75d6d03a294a8f5c098d",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-politics-international-affairs-ba-fb80a575bf-careers.html",
+      "locator": "Public Careers body and explicitly stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba",
+      "sha256": "aa7cbbaf62a9819bfa621df90944a86c2cd8996930545cb8f6f73404c8bdaac0",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/nav-ax-12.txt",
+      "locator": "Actual Overview accessibility body > Base campus(es)"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba/entry-requirements",
+      "sha256": "92f94f45cb0ef12441175bc48825c8431706b24f507a4f2ea10c11d2506f7b8d",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/capture/china-dom-12.html",
+      "locator": "Actual selected China > Award; visible A-level / IB / Other requirements / language pathways / Selectionprocess"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba/fees",
+      "sha256": "e07e59866eb265a0c89cb475cfcc717d010c2ce859b4d726a3c79fc7ff455e8b",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-12.html",
+      "locator": "International tuition / deposit / Further fee information / Key Information"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb",
@@ -4286,10 +4820,94 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba",
+      "sha256": "2d58d223bd35e660f642076e7c60d8872871b9c5250795e5b122d6bde6f7d2b4",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-social-sciences-ba-4802989398-overview.html",
+      "locator": "Public Overview / Course essentials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba/teaching-and-modules",
+      "sha256": "6edb786ea8e0649e9d8e5e54352ed4fcad97f76de954e3b9aaa0c6e5fd87c388",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-social-sciences-ba-4802989398-teaching.html",
+      "locator": "Actual public Year selector, Required / Optional / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba/entry-requirements",
+      "sha256": "3901922ec29ef5798c6c168fe0d07d2ade5619edc5f302d9efe1484bade59352",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-social-sciences-ba-4802989398-requirements.html",
+      "locator": "Visible Standard A-level / IB / Other requirements / Selection"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba/careers",
+      "sha256": "a8e37076c0c20fb73a60f0ef9ce77f6214c22260d7f968eee73c4cf7f419808e",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-social-sciences-ba-4802989398-careers.html",
+      "locator": "Public Careers body and explicitly stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba",
+      "sha256": "145315af2357ab4e2b10d7e2ccd3432522db469dc26a115f553334380796fed8",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/nav-ax-13.txt",
+      "locator": "Actual Overview accessibility body > Base campus(es)"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba/entry-requirements",
+      "sha256": "2e64f035394954f8d48b40430ea60aaa929d019ca87673b650e16e35aea89044",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/capture/china-dom-13.html",
+      "locator": "Actual selected China > Award; visible A-level / IB / Other requirements / language pathways / Selectionprocess"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba/fees",
+      "sha256": "9f12e6980411543f64b97b3295f978fbc24cb46b8d4fa1603b648e2b27008c05",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-13.html",
+      "locator": "International tuition / deposit / Further fee information / Key Information"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc",
       "sha256": "b78847821dcaa37a1f68c9be1527fa501563e6b84a73349b7a070cc5cd286894",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-6c831cdf11163d.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc",
+      "sha256": "9bcd6f2c5769dc25724d275e9341d7cb0c850a57e3e6d7cc19d205b1c758624e",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-sociology-bsc-379708c018-overview.html",
+      "locator": "Public Overview / Course essentials"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc/teaching-modules",
+      "sha256": "d4fc12773c4ef8a8c82da930721d7042150ac3dc5da52419781a9f351516422d",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-sociology-bsc-379708c018-teaching.html",
+      "locator": "Actual public Year selector, Required / Optional / Teaching / Assessment"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc/entry-requirements",
+      "sha256": "96783050a1f19fb0120318323e391a8144547e77fb00fe5506d2aa6814057483",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-sociology-bsc-379708c018-requirements.html",
+      "locator": "Visible Standard A-level / IB / Other requirements / Selection"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc/careers",
+      "sha256": "874450c8b59e25e6da7808c9752b58bc53d4a4d6b1a7e83e99ad01721f7d6e93",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/kcl-sociology-bsc-379708c018-careers.html",
+      "locator": "Public Careers body and explicitly stated cohort"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc",
+      "sha256": "1634ab185b38e87b2aa341cf3f4c994fc1bf7c67c19476779bf02e3d9695c1db",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/nav-ax-14.txt",
+      "locator": "Actual Overview accessibility body > Base campus(es)"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc/entry-requirements",
+      "sha256": "bfb14898569f8e5723c1bec367e3286da83273cbc5090cc203c5722da795f90b",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/capture/china-dom-14.html",
+      "locator": "Actual selected China > Award; visible A-level / IB / Other requirements / language pathways / Selectionprocess"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc/fees",
+      "sha256": "6f21af46a53071c826fe63049956406ecca7b59ca5a3547015e1a966633b5e56",
+      "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-14.html",
+      "locator": "International tuition / deposit / Further fee information / Key Information"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba",

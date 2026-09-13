@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-170 个专业条目 · 2 个含详细资料 · 168 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+177 个专业条目 · 2 个含详细资料 · 175 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=melbourne#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -67,6 +67,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-computing-software-systems/">理学学士·计算机与软件系统主修</a><small>Bachelor of Science — Computing and Software Systems major · 含详细资料</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biochemistry-and-molecular-biology-f3f8223d25/">生物化学与分子生物学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biochemistry-and-molecular-biology-bcf582332e/">生物化学与分子生物学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biochemistry-and-pharmacology-460243a0ba/">生物化学与药理学（理学／生物医学荣誉方向）</a><small>Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours) — honours specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biomedical-engineering-systems-277b4cfd25/">生物医学工程系统（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biomedical-engineering-systems-aeacce352c/">生物医学工程系统（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biotechnology-80d61e19a3/">生物技术（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
@@ -89,6 +90,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-construction-50b0f205e5/">建筑施工（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-creative-writing-6e1c76df76/">创意写作（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-criminology-1b87952ebc/">犯罪学（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-critical-care-ee4173f347/">重症监护研究（生物医学荣誉方向）</a><small>Bachelor of Biomedicine (Degree with Honours) — honours specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-dance-ce3d5802bb/">艺术学士（舞蹈）</a><small>Bachelor of Fine Arts — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-data-science-8424630e14/">数据科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-digital-infrastructure-engineering-systems-e39f18ec95/">数字基础设施工程系统（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
@@ -110,6 +112,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-french-studies-039938a21c/">法语研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-game-design-8fc550695b/">游戏设计（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-gender-studies-02d6739c56/">性别研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-general-practice-and-primary-care-d14c6fd821/">全科医学与初级卫生保健（理学／生物医学荣誉方向）</a><small>Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours) — honours specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-genetics-d68ec905d1/">遗传学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-genetics-4b672219ef/">遗传学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-geography-1516f90aaa/">地理学（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
@@ -151,16 +154,20 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-mechanical-engineering-systems-2492d6e23a/">机械工程系统（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-mechatronics-engineering-systems-f2cb5c7cf5/">机电一体化工程系统（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-media-and-communications-80436c9628/">媒体与传播（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-medical-biology-walter-and-eliza-hall-institute-d4c60163a9/">医学生物学（WEHI）（理学／生物医学荣誉方向）</a><small>Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours) — honours specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-microbiology-d65dbdc6dc/">微生物学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-microbiology-ec6aa84c2f/">微生物学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-microbiology-and-immunology-bd0549b77d/">微生物学与免疫学（理学／生物医学荣誉方向）</a><small>Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours) — honours specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-music-studies-2369b232d0/">音乐学士（音乐研究综合方向）</a><small>Bachelor of Music — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-music-theatre-4f99c58a95/">艺术学士（音乐剧）</a><small>Bachelor of Fine Arts — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-musicology-ethnomusicology-4fd48f12a2/">音乐学与民族音乐学（音乐荣誉学士方向）</a><small>Bachelor of Music (Degree with Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-musicology-and-ethnomusicology-0221bdb8f9/">音乐学士（音乐学与民族音乐学）</a><small>Bachelor of Music — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-neuroscience-208ed8221d/">神经科学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-neuroscience-b7327db62e/">神经科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-paediatrics-murdoch-children-s-research-institute-94ca15cb57/">儿科学（MCRI）（理学／生物医学荣誉方向）</a><small>Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours) — honours specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-pathology-38edbee03d/">病理学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-pathology-7f9e2dceaf/">病理学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-pathology-9af24d54e9/">病理学（理学／生物医学荣誉方向）</a><small>Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours) — honours specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-performance-0151629429/">音乐学士（演奏与演唱）</a><small>Bachelor of Music — major · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-performance-3382b76956/">表演（音乐荣誉学士方向）</a><small>Bachelor of Music (Degree with Honours) — specialisation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-performance-design-ff9f7e9ac8/">演出设计（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
@@ -240,11 +247,11 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 170 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 177 项；这不是全字段详情的完成状态。
 
 <p><strong>统计范围：</strong>Every named bachelor and non-minor major/specialisation in 2027 official university guide pp12–13, plus Science Extended in entry table</p>
 
-<p><strong>对账方法：</strong>{&quot;pdf_pages&quot;: 24, &quot;complete_major_spread_pages&quot;: [12, 13], &quot;visual_review&quot;: true, &quot;group_counts&quot;: {&quot;Agriculture&quot;: 3, &quot;Arts&quot;: 33, &quot;Biomedicine&quot;: 16, &quot;Commerce&quot;: 7, &quot;Design&quot;: 14, &quot;Fine Arts&quot;: 9, &quot;Music&quot;: 6, &quot;Oral Health&quot;: 0, &quot;Science&quot;: 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。 本次独立对账官方11页129个主修/辅修/方向结果：93主修URL对应115父学位关系，114已在库存、1为已更正的旧数学总项；25荣誉方向URL去重为13方向、12为申请子页；11辅修不作新学位。另补9个具名荣誉学士，现153条，原144身份及事实保留。 新补BCom总表明确列名的10个学位内specialisation，与七主修形成16个真实资格关系；Ethics共享一条，不枚举自由组合。当前163条，原153条及来源日期保持；方向课程例子、费用和职业信息明确限定父主修/父学位范围。 全majors目录25个荣誉方向结果去重为13个真实方向，6项明确无2027招生留存处置；新增7个内部荣誉方向，9条真实父学位关系，心理学共用一条连接Arts/Biomedicine/Science。原163记录保持，总170；未把普通同名主修或GDA文凭并入。</p>
+<p><strong>对账方法：</strong>{&quot;pdf_pages&quot;: 24, &quot;complete_major_spread_pages&quot;: [12, 13], &quot;visual_review&quot;: true, &quot;group_counts&quot;: {&quot;Agriculture&quot;: 3, &quot;Arts&quot;: 33, &quot;Biomedicine&quot;: 16, &quot;Commerce&quot;: 7, &quot;Design&quot;: 14, &quot;Fine Arts&quot;: 9, &quot;Music&quot;: 6, &quot;Oral Health&quot;: 0, &quot;Science&quot;: 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。 本次独立对账官方11页129个主修/辅修/方向结果：93主修URL对应115父学位关系，114已在库存、1为已更正的旧数学总项；25荣誉方向URL去重为13方向、12为申请子页；11辅修不作新学位。另补9个具名荣誉学士，现153条，原144身份及事实保留。 新补BCom总表明确列名的10个学位内specialisation，与七主修形成16个真实资格关系；Ethics共享一条，不枚举自由组合。当前163条，原153条及来源日期保持；方向课程例子、费用和职业信息明确限定父主修/父学位范围。 全majors目录25个荣誉方向结果去重为13个真实方向，6项明确无2027招生留存处置；新增7个内部荣誉方向，9条真实父学位关系，心理学共用一条连接Arts/Biomedicine/Science。原163记录保持，总170；未把普通同名主修或GDA文凭并入。 在Arts/Science/Biomedicine三个父目录79条方向关系对账后，从60个尚待详情核定的候选中新增7项有现行院系正文支持的健康理科荣誉方向，100事实和13父关系；原170条保持，总177。其他53候选仍待核，并未加入发布库存。</p>
 
 <p><strong>排除项：</strong>Official PDF obtained using normal Chrome downloadMedia on observed download link; archived original + SHA256；Explicit minor-only footnote exclusions: Chinese Societies, Development Studies, Digital Studies, English Language Studies, Environmental Studies, European Studies, Japanese Societies, Law and Justice, Medieval and Early Modern Studies, South Asian Studies；Oral Health four curricular components explicitly not majors and are not separately counted；Exclude concurrent diplomas and standalone postgraduate MD/JD/DVM; Veterinary Bioscience remains bachelor major with later-selection note</p>
 
@@ -258,6 +265,7 @@ hide:
 - 8个荣誉学士费用仅2026国际生首年指示价，Commerce Honours专属费用未取得；2027费用、部分申请日期、授课语言及按专业/国际生分母的毕业统计仍缺。官网目录仍保留旧数学总项，不据此恢复；BA Extended仍为未确认线索。
 - BCom专项官网称从2026起，并非已核2027课程表；多数总表25学分与商业分析页50、管理页two与三列名差异保留。专项实际科目组合、专属准入/申报和毕业统计未取得；所列2027国际费用只为父BCom估算。
 - 五音乐、视觉艺术和心理学荣誉方向的2027选拔已补；2026课程示例与国际父学位指示费保持年度和范围边界，2027逐科规章/方向学费/毕业统计仍待核。全majors中13方向不等于全校荣誉研究学科，Arts/Science/各生医院系其余具名stream尚待逐项对账。
+- 新增七项均是本科后的荣誉学位内部研究方向，六项共享Science/Biomedicine、CriticalCare仅Biomedicine。2027项目/申请、当前课程及2026父学位国际费用分别标注；方向2027逐科收费、全量Handbook模块与毕业统计未核，不等于临床执业资格。
 
 - [官方目录来源](https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf)
 - [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/)
@@ -893,5 +901,15 @@ hide:
 - [官方目录来源](https://psychologicalsciences.unimelb.edu.au/study/fourth-year-honours)
 - [官方目录来源](https://study.unimelb.edu.au/find/courses/honours-specialisation/psychology/)
 - [官方目录来源](https://study.unimelb.edu.au/find/courses/honours-specialisation/psychology/structure/)
+- [官方目录来源](https://biomedicalsciences.unimelb.edu.au/departments/department-of-biochemistry-and-pharmacology/study/honours-and-masters-by-coursework-biochemistry-and-pharmacology)
+- [官方目录来源](https://www.wehi.edu.au/education/honours/how-to-apply-for-honours/)
+- [官方目录来源](https://www.wehi.edu.au/honours)
+- [官方目录来源](https://www.wehi.edu.au/education/honours/honours-and-masters-scholarship/)
+- [官方目录来源](https://biomedicalsciences.unimelb.edu.au/departments/microbiology-Immunology/study/opportunities-for-honours-students)
+- [官方目录来源](https://medicine.unimelb.edu.au/school-structure/paediatrics/research/honours-and-masters)
+- [官方目录来源](https://medicine.unimelb.edu.au/school-structure/general-practice-and-primary-care/study/honours)
+- [官方目录来源](https://medicine.unimelb.edu.au/school-structure/general-practice-and-primary-care/study/honours#application-procedure2)
+- [官方目录来源](https://medicine.unimelb.edu.au/school-structure/general-practice-and-primary-care/study/honours#application-process)
+- [官方目录来源](https://medicine.unimelb.edu.au/school-structure/critcare/study/coursework-degrees/honours)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

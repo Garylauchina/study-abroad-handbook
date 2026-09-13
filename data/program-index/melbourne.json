@@ -3,9 +3,9 @@
   "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 170,
+    "count": 177,
     "scope": "Every named bachelor and non-minor major/specialisation in 2027 official university guide pp12–13, plus Science Extended in entry table",
-    "method": "{\"pdf_pages\": 24, \"complete_major_spread_pages\": [12, 13], \"visual_review\": true, \"group_counts\": {\"Agriculture\": 3, \"Arts\": 33, \"Biomedicine\": 16, \"Commerce\": 7, \"Design\": 14, \"Fine Arts\": 9, \"Music\": 6, \"Oral Health\": 0, \"Science\": 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。 本次独立对账官方11页129个主修/辅修/方向结果：93主修URL对应115父学位关系，114已在库存、1为已更正的旧数学总项；25荣誉方向URL去重为13方向、12为申请子页；11辅修不作新学位。另补9个具名荣誉学士，现153条，原144身份及事实保留。 新补BCom总表明确列名的10个学位内specialisation，与七主修形成16个真实资格关系；Ethics共享一条，不枚举自由组合。当前163条，原153条及来源日期保持；方向课程例子、费用和职业信息明确限定父主修/父学位范围。 全majors目录25个荣誉方向结果去重为13个真实方向，6项明确无2027招生留存处置；新增7个内部荣誉方向，9条真实父学位关系，心理学共用一条连接Arts/Biomedicine/Science。原163记录保持，总170；未把普通同名主修或GDA文凭并入。",
+    "method": "{\"pdf_pages\": 24, \"complete_major_spread_pages\": [12, 13], \"visual_review\": true, \"group_counts\": {\"Agriculture\": 3, \"Arts\": 33, \"Biomedicine\": 16, \"Commerce\": 7, \"Design\": 14, \"Fine Arts\": 9, \"Music\": 6, \"Oral Health\": 0, \"Science\": 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。 本次独立对账官方11页129个主修/辅修/方向结果：93主修URL对应115父学位关系，114已在库存、1为已更正的旧数学总项；25荣誉方向URL去重为13方向、12为申请子页；11辅修不作新学位。另补9个具名荣誉学士，现153条，原144身份及事实保留。 新补BCom总表明确列名的10个学位内specialisation，与七主修形成16个真实资格关系；Ethics共享一条，不枚举自由组合。当前163条，原153条及来源日期保持；方向课程例子、费用和职业信息明确限定父主修/父学位范围。 全majors目录25个荣誉方向结果去重为13个真实方向，6项明确无2027招生留存处置；新增7个内部荣誉方向，9条真实父学位关系，心理学共用一条连接Arts/Biomedicine/Science。原163记录保持，总170；未把普通同名主修或GDA文凭并入。 在Arts/Science/Biomedicine三个父目录79条方向关系对账后，从60个尚待详情核定的候选中新增7项有现行院系正文支持的健康理科荣誉方向，100事实和13父关系；原170条保持，总177。其他53候选仍待核，并未加入发布库存。",
     "exclusions": "Official PDF obtained using normal Chrome downloadMedia on observed download link; archived original + SHA256；Explicit minor-only footnote exclusions: Chinese Societies, Development Studies, Digital Studies, English Language Studies, Environmental Studies, European Studies, Japanese Societies, Law and Justice, Medieval and Early Modern Studies, South Asian Studies；Oral Health four curricular components explicitly not majors and are not separately counted；Exclude concurrent diplomas and standalone postgraduate MD/JD/DVM; Veterinary Bioscience remains bachelor major with later-selection note",
     "sources": [
       {
@@ -3262,6 +3262,56 @@
         "url": "https://study.unimelb.edu.au/find/courses/honours-specialisation/psychology/structure/",
         "sha256": "e0284ecdce474ac25f5793fca2020981f9908671358035e8ec8d93d45982f567",
         "raw_file": "scratch/full-catalog/melbourne-honours-specialisations/raw/psychology-structure.html"
+      },
+      {
+        "url": "https://biomedicalsciences.unimelb.edu.au/departments/department-of-biochemistry-and-pharmacology/study/honours-and-masters-by-coursework-biochemistry-and-pharmacology",
+        "sha256": "7e5729f00504ccd451ee6c1ca5856add61d63d7d10cce7043a86128fa946ac0a",
+        "raw_file": "scratch/full-catalog/melbourne-honours-stream-directory/raw/biochemistry-browser.html"
+      },
+      {
+        "url": "https://www.wehi.edu.au/education/honours/how-to-apply-for-honours/",
+        "sha256": "7b9b69f5b1b7b8e87832a52c22421ffade2367d71c7896df3a9e8ca34e1cab67",
+        "raw_file": "scratch/melbourne-health-science-honours/raw/wehi-apply-http.html"
+      },
+      {
+        "url": "https://www.wehi.edu.au/honours",
+        "sha256": "39bd50ac34f7c92f42e4c083847fbcf28c9e52668138689c4506d869095d7469",
+        "raw_file": "scratch/full-catalog/melbourne-honours-stream-directory/raw/9912d1b12915bd.html"
+      },
+      {
+        "url": "https://www.wehi.edu.au/education/honours/honours-and-masters-scholarship/",
+        "sha256": "421ea71b4381b1095cb670cfb779324109cd48e29e119d6146d92be5e6447456",
+        "raw_file": "scratch/melbourne-health-science-honours/raw/wehi-scholarship.html"
+      },
+      {
+        "url": "https://biomedicalsciences.unimelb.edu.au/departments/microbiology-Immunology/study/opportunities-for-honours-students",
+        "sha256": "5f84102dff7d9840323c5adf29c0d6ed2ef45f048cf0f72c6c0a66ed019fcfb3",
+        "raw_file": "scratch/full-catalog/melbourne-honours-stream-directory/raw/microbiology-browser.html"
+      },
+      {
+        "url": "https://medicine.unimelb.edu.au/school-structure/paediatrics/research/honours-and-masters",
+        "sha256": "ced9c071d648e06d9a34853249e3b355fb6a4c377a48056e72640cb548d0ba0c",
+        "raw_file": "scratch/full-catalog/melbourne-honours-stream-directory/raw/paediatrics-browser.html"
+      },
+      {
+        "url": "https://medicine.unimelb.edu.au/school-structure/general-practice-and-primary-care/study/honours",
+        "sha256": "fd97d0ef526194b886cc60398e6734dead4314310396ce4600716c2714c4a7b0",
+        "raw_file": "scratch/full-catalog/melbourne-honours-stream-directory/raw/general-practice-browser.html"
+      },
+      {
+        "url": "https://medicine.unimelb.edu.au/school-structure/general-practice-and-primary-care/study/honours#application-procedure2",
+        "sha256": "afd95efee37b4f86c3fd1e7e23e78a25ef2a0b5b3e4188428ff73d62927211fb",
+        "raw_file": "scratch/melbourne-health-science-honours/raw/general-practice-details.html"
+      },
+      {
+        "url": "https://medicine.unimelb.edu.au/school-structure/general-practice-and-primary-care/study/honours#application-process",
+        "sha256": "80b4913d0f80d29293a250eea393abf7e134575e417a5e9613a7bece54b3cb2e",
+        "raw_file": "scratch/melbourne-health-science-honours/raw/general-practice-application.html"
+      },
+      {
+        "url": "https://medicine.unimelb.edu.au/school-structure/critcare/study/coursework-degrees/honours",
+        "sha256": "f3ddb4f3c65e7a3a59df19d8815e988979610d8e5123e221f8c30e1207120f12",
+        "raw_file": "scratch/full-catalog/melbourne-honours-stream-directory/raw/critical-care-browser.html"
       }
     ],
     "gaps": [
@@ -3272,7 +3322,8 @@
       "9个新荣誉学士须大学阶段资格；Medical Science还限合作国际院校。BFA五方向和Music Tailored Program明确无2027入学，其余荣誉内部学科仍未全部逐项闭合；BCom十个专项的身份及16个主修资格关系已补，规定课程组合仍待核。",
       "8个荣誉学士费用仅2026国际生首年指示价，Commerce Honours专属费用未取得；2027费用、部分申请日期、授课语言及按专业/国际生分母的毕业统计仍缺。官网目录仍保留旧数学总项，不据此恢复；BA Extended仍为未确认线索。",
       "BCom专项官网称从2026起，并非已核2027课程表；多数总表25学分与商业分析页50、管理页two与三列名差异保留。专项实际科目组合、专属准入/申报和毕业统计未取得；所列2027国际费用只为父BCom估算。",
-      "五音乐、视觉艺术和心理学荣誉方向的2027选拔已补；2026课程示例与国际父学位指示费保持年度和范围边界，2027逐科规章/方向学费/毕业统计仍待核。全majors中13方向不等于全校荣誉研究学科，Arts/Science/各生医院系其余具名stream尚待逐项对账。"
+      "五音乐、视觉艺术和心理学荣誉方向的2027选拔已补；2026课程示例与国际父学位指示费保持年度和范围边界，2027逐科规章/方向学费/毕业统计仍待核。全majors中13方向不等于全校荣誉研究学科，Arts/Science/各生医院系其余具名stream尚待逐项对账。",
+      "新增七项均是本科后的荣誉学位内部研究方向，六项共享Science/Biomedicine、CriticalCare仅Biomedicine。2027项目/申请、当前课程及2026父学位国际费用分别标注；方向2027逐科收费、全量Handbook模块与毕业统计未核，不等于临床执业资格。"
     ]
   },
   "programs": [
@@ -6615,6 +6666,244 @@
         "自然科学",
         "社会科学",
         "人文"
+      ],
+      "subject": "医学与健康"
+    },
+    {
+      "id": "melbourne-biochemistry-and-pharmacology-460243a0ba",
+      "university_id": "melbourne",
+      "raw_key": "honours-stream|science-biomedicine|Biochemistry and Pharmacology",
+      "name_en": "Biochemistry and Pharmacology",
+      "degree_label": "Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours) — honours specialisation",
+      "parent_degree_label": "Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours)",
+      "parent_program_ids": [
+        "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b",
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5"
+      ],
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b",
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5"
+      ],
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/structure/#nav",
+      "aliases": [
+        "Biochemistry and Pharmacology (2022)"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "official_url": "https://biomedicalsciences.unimelb.edu.au/departments/department-of-biochemistry-and-pharmacology/study/honours-and-masters-by-coursework-biochemistry-and-pharmacology",
+      "name": "生物化学与药理学（理学／生物医学荣誉方向）",
+      "requires_prior_degree": true,
+      "source_period": "当前公开方向正文；2027院系项目/MDHS申请与2026父学位指示费用分别标注，逐科年份未核处留缺口",
+      "entry_route": "相关学士之后的荣誉研究方向；BH-SCI与BH-BMED各按自身学历路径和方向先修评估。",
+      "eligibility": "不是普通高中直接申请的独立本科或临床执照项目；须按实际父学位完成相关本科资格与导师/研究项目选拔。",
+      "intake": "2027年初MDHS流程；院系2027项目已列",
+      "status": "current_named_direction_with_partial_2027_evidence",
+      "subjects": [
+        "医学与健康",
+        "自然科学"
+      ],
+      "subject": "医学与健康"
+    },
+    {
+      "id": "melbourne-medical-biology-walter-and-eliza-hall-institute-d4c60163a9",
+      "university_id": "melbourne",
+      "raw_key": "honours-stream|science-biomedicine|Medical Biology (Walter and Eliza Hall Institute)",
+      "name_en": "Medical Biology (Walter and Eliza Hall Institute)",
+      "degree_label": "Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours) — honours specialisation",
+      "parent_degree_label": "Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours)",
+      "parent_program_ids": [
+        "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b",
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5"
+      ],
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b",
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5"
+      ],
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/structure/#nav",
+      "aliases": [
+        "Medical Biology (WEHI)"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "official_url": "https://www.wehi.edu.au/education/honours/how-to-apply-for-honours/",
+      "name": "医学生物学（WEHI）（理学／生物医学荣誉方向）",
+      "requires_prior_degree": true,
+      "source_period": "当前公开方向正文；2027院系项目/MDHS申请与2026父学位指示费用分别标注，逐科年份未核处留缺口",
+      "entry_route": "相关学士之后的荣誉研究方向；BH-SCI与BH-BMED各按自身学历路径和方向先修评估。",
+      "eligibility": "不是普通高中直接申请的独立本科或临床执照项目；须按实际父学位完成相关本科资格与导师/研究项目选拔。",
+      "intake": "首学期；2026年申请节点对应2027 MDHS年初流程",
+      "status": "current_named_direction_with_partial_2027_evidence",
+      "subjects": [
+        "医学与健康",
+        "自然科学"
+      ],
+      "subject": "医学与健康"
+    },
+    {
+      "id": "melbourne-microbiology-and-immunology-bd0549b77d",
+      "university_id": "melbourne",
+      "raw_key": "honours-stream|science-biomedicine|Microbiology and Immunology",
+      "name_en": "Microbiology and Immunology",
+      "degree_label": "Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours) — honours specialisation",
+      "parent_degree_label": "Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours)",
+      "parent_program_ids": [
+        "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b",
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5"
+      ],
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b",
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5"
+      ],
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/structure/#nav",
+      "aliases": [],
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "official_url": "https://biomedicalsciences.unimelb.edu.au/departments/microbiology-Immunology/study/opportunities-for-honours-students",
+      "name": "微生物学与免疫学（理学／生物医学荣誉方向）",
+      "requires_prior_degree": true,
+      "source_period": "当前公开方向正文；2027院系项目/MDHS申请与2026父学位指示费用分别标注，逐科年份未核处留缺口",
+      "entry_route": "相关学士之后的荣誉研究方向；BH-SCI与BH-BMED各按自身学历路径和方向先修评估。",
+      "eligibility": "不是普通高中直接申请的独立本科或临床执照项目；须按实际父学位完成相关本科资格与导师/研究项目选拔。",
+      "intake": "年初2月；2027走MDHS共同申请流程，方向项目另核",
+      "status": "current_named_direction_with_partial_2027_evidence",
+      "subjects": [
+        "医学与健康",
+        "自然科学"
+      ],
+      "subject": "医学与健康"
+    },
+    {
+      "id": "melbourne-paediatrics-murdoch-children-s-research-institute-94ca15cb57",
+      "university_id": "melbourne",
+      "raw_key": "honours-stream|science-biomedicine|Paediatrics (Murdoch Children's Research Institute)",
+      "name_en": "Paediatrics (Murdoch Children's Research Institute)",
+      "degree_label": "Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours) — honours specialisation",
+      "parent_degree_label": "Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours)",
+      "parent_program_ids": [
+        "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b",
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5"
+      ],
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b",
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5"
+      ],
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/structure/#nav",
+      "aliases": [
+        "Paediatrics (Murdoch Children’s Research Institute)"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "official_url": "https://medicine.unimelb.edu.au/school-structure/paediatrics/research/honours-and-masters",
+      "name": "儿科学（MCRI）（理学／生物医学荣誉方向）",
+      "requires_prior_degree": true,
+      "source_period": "当前公开方向正文；2027院系项目/MDHS申请与2026父学位指示费用分别标注，逐科年份未核处留缺口",
+      "entry_route": "相关学士之后的荣誉研究方向；BH-SCI与BH-BMED各按自身学历路径和方向先修评估。",
+      "eligibility": "不是普通高中直接申请的独立本科或临床执照项目；须按实际父学位完成相关本科资格与导师/研究项目选拔。",
+      "intake": "2027年初MDHS流程；2027项目已列",
+      "status": "current_named_direction_with_partial_2027_evidence",
+      "subjects": [
+        "医学与健康",
+        "自然科学"
+      ],
+      "subject": "医学与健康"
+    },
+    {
+      "id": "melbourne-pathology-9af24d54e9",
+      "university_id": "melbourne",
+      "raw_key": "honours-stream|science-biomedicine|Pathology",
+      "name_en": "Pathology",
+      "degree_label": "Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours) — honours specialisation",
+      "parent_degree_label": "Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours)",
+      "parent_program_ids": [
+        "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b",
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5"
+      ],
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b",
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5"
+      ],
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/structure/#nav",
+      "aliases": [],
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "official_url": "https://biomedicalsciences.unimelb.edu.au/departments/microbiology-Immunology/study/opportunities-for-honours-students",
+      "name": "病理学（理学／生物医学荣誉方向）",
+      "requires_prior_degree": true,
+      "source_period": "当前公开方向正文；2027院系项目/MDHS申请与2026父学位指示费用分别标注，逐科年份未核处留缺口",
+      "entry_route": "相关学士之后的荣誉研究方向；BH-SCI与BH-BMED各按自身学历路径和方向先修评估。",
+      "eligibility": "不是普通高中直接申请的独立本科或临床执照项目；须按实际父学位完成相关本科资格与导师/研究项目选拔。",
+      "intake": "年初；2027走MDHS共同流程，病理项目另核",
+      "status": "current_named_direction_with_partial_2027_evidence",
+      "subjects": [
+        "医学与健康",
+        "自然科学"
+      ],
+      "subject": "医学与健康"
+    },
+    {
+      "id": "melbourne-general-practice-and-primary-care-d14c6fd821",
+      "university_id": "melbourne",
+      "raw_key": "honours-stream|science-biomedicine|General Practice and Primary Care",
+      "name_en": "General Practice and Primary Care",
+      "degree_label": "Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours) — honours specialisation",
+      "parent_degree_label": "Bachelor of Science (Degree with Honours) / Bachelor of Biomedicine (Degree with Honours)",
+      "parent_program_ids": [
+        "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b",
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5"
+      ],
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-science-degree-with-honours-94cc2e2f6b",
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5"
+      ],
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-science-degree-with-honours/structure/#nav",
+      "aliases": [
+        "Primary Care (General Practice)"
+      ],
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "official_url": "https://medicine.unimelb.edu.au/school-structure/general-practice-and-primary-care/study/honours",
+      "name": "全科医学与初级卫生保健（理学／生物医学荣誉方向）",
+      "requires_prior_degree": true,
+      "source_period": "当前公开方向正文；2027院系项目/MDHS申请与2026父学位指示费用分别标注，逐科年份未核处留缺口",
+      "entry_route": "相关学士之后的荣誉研究方向；BH-SCI与BH-BMED各按自身学历路径和方向先修评估。",
+      "eligibility": "不是普通高中直接申请的独立本科或临床执照项目；须按实际父学位完成相关本科资格与导师/研究项目选拔。",
+      "intake": "2027年2月初；只收年初",
+      "status": "current_named_direction_with_partial_2027_evidence",
+      "subjects": [
+        "医学与健康",
+        "自然科学"
+      ],
+      "subject": "医学与健康"
+    },
+    {
+      "id": "melbourne-critical-care-ee4173f347",
+      "university_id": "melbourne",
+      "raw_key": "honours-stream|science-biomedicine|Critical Care",
+      "name_en": "Critical Care",
+      "degree_label": "Bachelor of Biomedicine (Degree with Honours) — honours specialisation",
+      "parent_degree_label": "Bachelor of Biomedicine (Degree with Honours)",
+      "parent_program_ids": [
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5"
+      ],
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5"
+      ],
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-biomedicine-degree-with-honours/structure/#nav",
+      "aliases": [],
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "official_url": "https://medicine.unimelb.edu.au/school-structure/critcare/study/coursework-degrees/honours",
+      "name": "重症监护研究（生物医学荣誉方向）",
+      "requires_prior_degree": true,
+      "source_period": "当前公开方向正文；2027院系项目/MDHS申请与2026父学位指示费用分别标注，逐科年份未核处留缺口",
+      "entry_route": "相关学士之后的荣誉研究方向；仅BH-BMED承载，须符合大学学历和方向先修。",
+      "eligibility": "不是普通高中直接申请的独立本科或临床执照项目；须按实际父学位完成相关本科资格与导师/研究项目选拔。",
+      "intake": "2027年初BH-BMED流程；2027项目已列",
+      "status": "current_named_direction_with_partial_2027_evidence",
+      "parent_program_id": "melbourne-bachelor-of-biomedicine-degree-with-honours-094f8360c5",
+      "subjects": [
+        "医学与健康",
+        "自然科学"
       ],
       "subject": "医学与健康"
     }

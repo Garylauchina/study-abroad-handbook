@@ -95,7 +95,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-geography-environmental-science-bsc-80be703cb7/">地理与环境科学（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-geography-ba-cf58e81912/">地理学（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-health-social-medicine-bsc-b0b501dde0/">全球健康与社会医学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-health-social-science-ba-b801ada3f0/">Global Health &amp; Social Science BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-health-social-science-ba-b801ada3f0/">全球健康与社会科学（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-health-ibsc-ab1586f2f9/">全球健康插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-global-media-and-languages-ba-9d72da541f/">全球媒体与语言（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-graduate-entry-medicine-programme-university-of-portsmouth-branch-18f4100000/">本科后医学学士（朴次茅斯分校）</a><small>MBBS · 部分专业资料已核实</small></article>
@@ -106,16 +106,16 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-history-modern-languages-french-german-portuguese-or-spanish-with-ce67d68eb3/">历史与现代语言（BA，含海外年）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-history-political-economy-ba-bsc-8a566898aa/">历史与政治经济（BA／BSc共同入口）</a><small>BA/BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-history-ba-789f6fee0a/">历史学（BA）</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-international-business-analytics-management-bsc-04008740f9/">International Business Analytics &amp; Management BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-international-development-ba-a16cc238eb/">International Development BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-international-management-bsc-efba86f53b/">International Management BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-international-relations-ba-5d1efb77d0/">International Relations BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-international-business-analytics-management-bsc-04008740f9/">国际商业分析与管理（理学学士；KCL与EDHEC双学位）</a><small>KCL Bachelor of Science + EDHEC International BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-international-development-ba-a16cc238eb/">国际发展（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-international-management-bsc-efba86f53b/">国际管理（理学学士）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-international-relations-ba-5d1efb77d0/">国际关系（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-law-llb-c124b3e984/">法律学（LLB）</a><small>LLB · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-law-with-criminology-llb-50768f4ed2/">法律与犯罪学（LLB，主修／辅修）</a><small>LLB · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-liberal-arts-ba-3fc5fe3c7f/">Liberal Arts BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-management-modern-languages-french-german-portuguese-or-spanish-w-0b83f3d6ca/">Management &amp; Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-marketing-bsc-c7cc8a29dc/">Marketing BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-marketing-with-year-in-industry-bsc-200524822b/">Marketing with Year In Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-liberal-arts-ba-3fc5fe3c7f/">博雅教育（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-management-modern-languages-french-german-portuguese-or-spanish-w-0b83f3d6ca/">管理与现代语言（法语、德语、葡萄牙语或西班牙语；含海外年文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-marketing-bsc-c7cc8a29dc/">市场营销（理学学士）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-marketing-with-year-in-industry-bsc-200524822b/">市场营销（含行业实习年理学学士）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-philosophy-bsc-002bb0180a/">Mathematics &amp; Philosophy BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-bsc-9da2bc288d/">数学（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-msci-dbb411c1a2/">数学（MSci，本硕一体）</a><small>MSci · 部分专业资料已核实</small></article>
@@ -128,7 +128,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-medical-physiology-bsc-fb8f2fdaf3/">医学生理学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-medicine-mbbs-a1ae58c1a5/">医学学士</a><small>MBBS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-midwifery-with-registration-as-a-midwife-bsc-17bb75f69b/">助产学理学学士（助产士注册）</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-modern-languages-french-german-spanish-portuguese-with-a-year-abr-5b28a228c7/">Modern Languages (French, German, Spanish, Portuguese) with a year abroad BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-modern-languages-french-german-spanish-portuguese-with-a-year-abr-5b28a228c7/">现代语言（法语、德语、西班牙语、葡萄牙语；含海外年文学学士）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-molecular-genetics-bsc-6412d6b7a6/">分子遗传学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-music-bmus-81751a2f19/">音乐（BMus）</a><small>BMus · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-natural-sciences-bsc-6983a21800/">Natural Sciences BSc</a><small>BSc · 部分专业资料已核实</small></article>
@@ -156,9 +156,9 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physics-with-theoretical-physics-msci-5e88cf1160/">物理与理论物理（MSci，本硕一体）</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physiology-ibsc-66498ae592/">生理学插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-physiotherapy-bsc-8a4821f2f5/">物理治疗理学学士</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-political-economy-ba-bsc-a74fda0e15/">Political Economy BA/BSc</a><small>BA/BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-politics-international-affairs-ba-fb80a575bf/">Politics &amp; International Affairs BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-politics-ba-bsc-727e4dc47e/">Politics BA/BSc</a><small>BA/BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-political-economy-ba-bsc-a74fda0e15/">政治经济学（文学／理学学士）</a><small>BA/BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-politics-international-affairs-ba-fb80a575bf/">政治与国际事务（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-politics-ba-bsc-727e4dc47e/">政治学（文学／理学学士）</a><small>BA/BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-politics-philosophy-law-llb-de8d98c886/">政治、哲学与法律（LLB）</a><small>LLB · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-primary-care-ibsc-3550073213/">基层医疗（iBSc，医学在读插读）</a><small>iBSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-psychology-bsc-aaa6e6c660/">Psychology BSc</a><small>BSc · 部分专业资料已核实</small></article>
@@ -166,8 +166,8 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-quantitative-mathematics-bsc-3f96586e9b/">Quantitative Mathematics BSc</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-regenerative-medicine-innovation-technology-ibsc-1df623ce1d/">再生医学与创新技术插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-religion-philosophy-ethics-ba-fec715cc95/">宗教、哲学与伦理（BA）</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-social-sciences-ba-4802989398/">Social Sciences BA</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-sociology-bsc-379708c018/">Sociology BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-social-sciences-ba-4802989398/">社会科学（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-sociology-bsc-379708c018/">社会学（理学学士）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-sociology-politics-and-religion-ba-c6ea9f1b88/">社会学、政治与宗教（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-sport-exercise-medical-sciences-bsc-b27cabc830/">运动与医学科学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-war-studies-history-ba-67b9d28bb9/">战争研究与历史（BA）</a><small>BA · 部分专业资料已核实</small></article>
@@ -210,7 +210,7 @@ hide:
 
 <p><strong>统计范围：</strong>148个已发现目录入口中，145个本科及本科在读路线；3个本科后护理硕士另留更正页，内部路径仍待全量对账</p>
 
-<p><strong>对账方法：</strong>复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。 再逐课核12计算机、数学与通用工程项目及各自China分支、年度模块与费用，原145入口保持。 再核12电子工程、化学、物理及相关组合课程，实读12个China分支和43个年度模块视图；原145身份不变，未据在读海外安排另造高中招生入口。 再深化12条生物医学工程、数据分析、环境地理、欧洲研究、物理哲学及PrimaryCare插读，实际12China分支和41年度视图；保持145库存及原身份，仅精确入口限制。已完成这一层级分栏研究118项，仍余27项待深化。</p>
+<p><strong>对账方法：</strong>复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。 再逐课核12计算机、数学与通用工程项目及各自China分支、年度模块与费用，原145入口保持。 再核12电子工程、化学、物理及相关组合课程，实读12个China分支和43个年度模块视图；原145身份不变，未据在读海外安排另造高中招生入口。 再深化12条生物医学工程、数据分析、环境地理、欧洲研究、物理哲学及PrimaryCare插读，实际12China分支和41年度视图；保持145库存及原身份，仅精确入口限制。已完成这一层级分栏研究118项，仍余27项待深化。 本批继续深化15条社科、语言、商科及博雅课程，298事实，15实际China分支、50年度模块和国际费用视图；本批后这一层级已深化133条，仍余12条。IBAM按两校官方声明明确KCL BSc加EDHEC International BBA，145原ID保持。</p>
 
 <p><strong>排除项：</strong>Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes；本科后首次注册护理MNurs/MSc不计本科项目；MBBS/BDS仍按专业学士保留并注明前置学历。</p>
 
@@ -226,6 +226,7 @@ hide:
 - 新补12理工项目的部分年度模块数量和跨课程表述有差异；实习/海外费用、2027英语更新与本路线独立毕业数据仍依各条缺口，不能套用商学院规则。
 - 本批理工12项仍缺2027最终英语更新、独立毕业统计及部分外出年度费额；两天体课程旧年份声明、物理哲学375与360学分差异、MSci项目OR分组均在各条保留。具名在读海外变体尚未与独立UCAS身份全部闭合。
 - 本批保留欧洲研究90学分年度和配额差异、物理哲学MSci495总量、PrimaryCare开放与截止冲突及海外仅MBBS在读资格；部分2027最终英语/海外费与独立毕业统计仍待补。具名在读变体尚未与独立录取身份全部闭合。
+- 本批保留政治学BA/BSc与营销选修学分、现代语言及国际关系分年表差异；EDHEC约30000欧元缺明确收费周期且属旧年度上下文，不作2027伙伴年费。具名在读方向与全量独立入口仍待对账，2027最终英语及毕业统计仍未全核。
 
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=9)
@@ -984,5 +985,108 @@ hide:
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc/careers)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc/entry-requirements)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-science-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-science-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-science-ba/global-health-social-science-ba-careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-science-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-science-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-science-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-business-analytics-and-management-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-business-analytics-and-management-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-business-analytics-and-management-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-business-analytics-and-management-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-business-analytics-and-management-bsc)
+- [官方目录来源](https://www.edhec.edu/sites/default/files/communiques-presse/Kings%20EDHEC%2006%202025%20Final.pdf)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-business-analytics-and-management-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-business-analytics-and-management-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba/international-relations-ba-careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/marketing)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/marketing/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/marketing/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/marketing/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/marketing)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/marketing/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/marketing/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/marketing-with-year-in-industry-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/marketing-with-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/marketing-with-year-in-industry-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/marketing-with-year-in-industry-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/marketing-with-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/marketing-with-year-in-industry-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc/teaching-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc/fees)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。
