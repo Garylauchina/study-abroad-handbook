@@ -21,7 +21,7 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4年（页面所述培养阶段）</strong></div><div><span>国际生学费</span><strong>2026/27参考 CAD 1,769.40／学分（Vancouver国际新生档）</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -36,43 +36,34 @@ hide:
 
 <p><strong>目录适用期：</strong>官网当前目录；未标明确入学年度，核对于2026-09-12</p>
 
+<p><strong>条目类型：</strong>共同学位下的主修</p>
+
+<p><strong>目录条目类别：</strong>共同学位下的主修</p>
+
+<p><strong>所属学位：</strong>Bachelor of Science in Natural Resources</p>
+
+<p><strong>申请路径：</strong>BSNR内主修：升二年级申报，须完成至少24个规定一年级学分</p>
+
 <p class="catalog-fact"><strong>项目内容：</strong>作为自然资源理学士内主修，研究野生生物、森林、河流、海洋与土地的保护管理。</p>
 <p class="fact-sources"><a href="#source-p-program">官方依据</a></p>
+
+<p class="catalog-fact"><strong>现行课程与旧学位界线：</strong>现行BSNR Conservation主修；二年级结束后选Science and Management或Global Perspectives，容量不足按成绩。旧BSc Natural Resources Conservation自2024年9月暂停新招生。</p>
+<p class="fact-sources"><a href="#source-p-ubcf-conservation">官方依据</a> · <a href="#source-p-ubcf-old-conservation-admission">官方依据</a></p>
+
+<p class="catalog-fact"><strong>主要教学语言及适用范围：</strong>学校说明以英语为主要教学语言；本条引用学校通则，具体语言课程、海外或校外教学阶段须另核。</p>
+<p class="fact-sources"><a href="#source-p-UBCR-teaching-language">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
 <p class="catalog-fact"><strong>所属学位的中国高中先修：</strong>高中高年级数学（Pre-calculus）和化学，和高年级物理和／或生物；部分专业另特别建议生物或高年级物理。 这是vancouver校区学位入口要求，具体主修的后续选拔条件仍须另核。</p>
 <p class="fact-sources"><a href="#source-p-china-degree">官方依据</a></p>
 
-<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
-
-<p class="catalog-fact"><strong>中国普高资格与提交渠道：</strong>两校区的中国申请页均要求大学预科性质的高中毕业资格及高中成绩，并通过CSSD提交会考／学业水平考试和高考成绩。校方期望达到本省一本／Tier 1大学分数线；不参加高考者须提交至少三个不同学科的AP考试成绩，且成绩须有竞争力。不能把AP替代路径省略成“无需高考即可申请”。</p>
-<p class="fact-sources"><a href="#source-u-china-v">官方依据</a> · <a href="#source-u-china-o">官方依据</a></p>
-
-<p class="catalog-fact"><strong>历史成绩参考的校区差异：</strong>官网称过往中国百分制参考平均成绩为Vancouver 84%、Okanagan 75%（及格线60%的量表）；同时明确每个学位、每年要求会变化。这些是历史参考，并非2027保证录取线，也不是高考门槛百分比。</p>
-<p class="fact-sources"><a href="#source-u-china-v">官方依据</a> · <a href="#source-u-china-o">官方依据</a></p>
-
-<p class="catalog-fact"><strong>英语能力与学位先修：</strong>英语为UBC教学语言，申请者须在录取前证明英语能力；中国资格、英语标准及所申请学位的先修科目须同时满足。申请通常对应学位入口，进入具体主修还可能有后续选拔。</p>
-<p class="fact-sources"><a href="#source-u-china-v">官方依据</a> · <a href="#source-u-china-o">官方依据</a></p>
-
-</details>
+<p class="catalog-fact"><strong>主修的实际申报阶段：</strong>高中先进入BSNR。学院升二年级要求申报主修并完成至少24个规定一年级学分；这是大学在读要求，不是中国高中录取分数。</p>
+<p class="fact-sources"><a href="#source-p-ubcf-forestry-regulations">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
-
-<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
-
-<p class="catalog-fact"><strong>2027普通本科日历：</strong>2027 Winter Session（2027年9月至2028年4月）申请预计2026年10月初开放，常规截止2027年1月15日23:59 PST。英语证明截止2027年2月15日，境外高中申请材料截止3月15日；专业补充申请、第二学位和专业学位另核。</p>
-<p class="fact-sources"><a href="#source-u-dates">官方依据</a></p>
-
-<p class="catalog-fact"><strong>国际学者奖更早截止：</strong>如申请International Scholars Program，官网要求2026年11月15日23:59 PST前同时提交UBC申请和奖项申请，2027年1月31日前满足英语及材料要求；不能沿用普通本科1月15日作为该奖学金的申请截止。</p>
-<p class="fact-sources"><a href="#source-u-dates">官方依据</a></p>
-
-<p class="catalog-fact"><strong>申请费与旧页面边界：</strong>当前普通申请说明页列需学习许可的国际申请者申请费CAD 173.25且不退；同页仍保留2026年Okanagan延长窗口，不能用于2027。具体2027提交时费用仍以申请系统为准。</p>
-<p class="fact-sources"><a href="#source-u-apply">官方依据</a></p>
-
-</details>
 
 ## 学费与资助 {#fees}
 
@@ -100,13 +91,13 @@ hide:
 - [官方项目页面或项目所在目录](https://you.ubc.ca/programs/conservation/)
 - [官方目录](https://you.ubc.ca/programs/)
 
-<div class="catalog-source" id="source-p-program"><div><a href="https://you.ubc.ca/programs/">UBC官方本科项目资料：Conservation ↗</a><p>公开完整programsListData中的培养内容、项目类型及官方项目入口</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-china-degree"><div><a href="https://you.ubc.ca/applying-ubc/requirements/international-high-schools/">UBC中国申请：所属学位先修 ↗</a><p>该校区中国资格选择器下的学位特定要求</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-fee"><div><a href="https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate">UBC Vancouver2026/27本科收费表 ↗</a><p>国际新生档 Forestry 的每学分金额与适用批次</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-china-v"><div><a href="https://you.ubc.ca/applying-ubc/requirements/international-high-schools/">UBC中国资格：Vancouver ↗</a><p>动态选择中国和Vancouver的正式资格、先修与历史参考成绩</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-china-o"><div><a href="https://you.ubc.ca/applying-ubc/requirements/international-high-schools/">UBC中国资格：Okanagan ↗</a><p>动态选择中国和Okanagan的正式资格、先修与历史参考成绩</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-dates"><div><a href="https://you.ubc.ca/applying-ubc/dates-deadlines/">UBC2027申请日历 ↗</a><p>申请、英语和境外高中材料、International Scholars截止</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-apply"><div><a href="https://you.ubc.ca/applying-ubc/how-to-apply/application/">UBC普通本科申请说明 ↗</a><p>当前申请费与申请流程；旧年延长日期不外推</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-program"><div><a href="https://you.ubc.ca/programs/">UBC官方本科项目资料：Conservation ↗</a><p>公开完整programsListData中的培养内容、项目类型及官方项目入口</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ubcf-conservation"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/conservation">Conservation | UBC Academic Calendar ↗</a><p>Opening specialization selection; Science and Management; Global Perspectives; cultural experience footnote4</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-ubcf-forestry-regulations"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/academic-regulations">Academic Regulations | UBC Academic Calendar ↗</a><p>Graduation Requirements; Year Promotion; Graduating with Honours or Distinction</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-ubcf-old-conservation-admission"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsc-natural-resources-conservation/admission">Admission | UBC Academic Calendar ↗</a><p>Opening suspension September2024 and replacement by BSNR Conservation major</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCR-teaching-language"><div><a href="https://you.ubc.ca/applying-ubc/requirements/english-language-competency/">UBC — English language competency ↗</a><p>开头说明UBC以英语为主要教学语言；具体语言课程、海外与合作校阶段另核；不把2026/27英语考试条件推定为2027/28</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-fees-v"><div><a href="https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate">UBC Vancouver2026/27本科学费 ↗</a><p>2026S及以后新生档、国际每学分金额与后续年度规则</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-fee-policy"><div><a href="https://vancouver.calendar.ubc.ca/fees/policies-fees">UBC Vancouver收费政策 ↗</a><p>收费身份、工作许可旧豁免停止及过渡规则</p><small>核验 2026-09-12</small></div></div>
 

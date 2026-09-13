@@ -21,7 +21,7 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27校历；2027招生细则未单独核实</strong></div><div><span>学制</span><strong>5年</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -42,6 +42,9 @@ hide:
 
 <p class="catalog-fact"><strong>具名并行学位：</strong>科学＋教育现仅开放数学和物理major。须完成两学位及所属专业要求，部分课程可共用；两者完成后才共同毕业，通常具备申请BC专业教师证书的资格。</p>
 <p class="fact-sources"><a href="#source-p-UBCS-dual-17db23087740">官方依据</a></p>
+
+<p class="catalog-fact"><strong>主要教学语言及适用范围：</strong>学校说明以英语为主要教学语言；本条引用学校通则，具体语言课程、海外或校外教学阶段须另核。</p>
+<p class="fact-sources"><a href="#source-p-UBCR-teaching-language">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -73,5 +76,6 @@ hide:
 
 <div class="catalog-source" id="source-p-UBCS-dual-17db23087740"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/double-major-and-dual-degree-options">UBC — Double Major and Dual Degree Options ↗</a><p>具名并行学位；在校资格</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UBCS-science-dual"><div><a href="https://science.ubc.ca/students/dual">UBC — Dual Degrees ↗</a><p>授予学位与分阶段安排</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCR-teaching-language"><div><a href="https://you.ubc.ca/applying-ubc/requirements/english-language-competency/">UBC — English language competency ↗</a><p>开头说明UBC以英语为主要教学语言；具体语言课程、海外与合作校阶段另核；不把2026/27英语考试条件推定为2027/28</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/ubc/">← 返回英属哥伦比亚大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-419 个专业条目 · 0 个含详细资料 · 419 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+436 个专业条目 · 0 个含详细资料 · 436 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=ubc#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -78,10 +78,13 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-n-e-kepmx-language-fluency-and-bachelor-of-education-65cc8a09e0/">NłeɁkepmx语流利能力学士＋教育学士</a><small>Bachelor of NłeɁkepmx Language Fluency + Bachelor of Education · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-science-and-master-of-management-35975893f0/">理学学士＋管理学硕士</a><small>Bachelor of Science + Master of Management · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-science-and-master-of-management-50aa0fd9db/">理学学士＋管理学硕士</a><small>Bachelor of Science + Master of Management · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-science-in-applied-biology-bd18343070/">应用生物学理学士（共同学位入口）</a><small>Bachelor of Science in Applied Biology · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-science-in-applied-biology-and-master-of-management-7971b52cd3/">应用生物学理学学士＋管理学硕士</a><small>Bachelor of Science in Applied Biology + Master of Management · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-food-and-resource-economics-d470a73931/">食品与资源经济理学士（共同学位入口）</a><small>Bachelor of Science in Food and Resource Economics · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-science-in-food-and-resource-economics-and-master-of-29c414b947/">食品与资源经济学理学学士＋管理学硕士</a><small>Bachelor of Science in Food and Resource Economics + Master of Management · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-science-in-food-nutrition-and-health-and-master-of-ma-8693fe039a/">食品营养与健康理学学士＋管理学硕士</a><small>Bachelor of Science in Food, Nutrition, and Health + Master of Management · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-science-in-global-resource-systems-and-master-of-mana-4b68eb2c31/">全球资源系统理学学士＋管理学硕士</a><small>Bachelor of Science in Global Resource Systems + Master of Management · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-science-in-natural-resources-80456b59e3/">自然资源理学士（共同学位入口）</a><small>Bachelor of Science in Natural Resources · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-science-in-natural-resources-and-master-of-management-854afda285/">自然资源理学学士＋管理学硕士</a><small>Bachelor of Science in Natural Resources + Master of Management · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-science-in-nursing-and-master-of-management-eecb350cdc/">护理理学学士＋管理学硕士</a><small>Bachelor of Science in Nursing + Master of Management · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-secwe-pemc-language-fluency-and-bachelor-of-education-158e2c3bb6/">Secwépemc语流利能力学士＋教育学士</a><small>Bachelor of Secwépemc Language Fluency + Bachelor of Education · 部分专业资料已核实</small></article>
@@ -96,6 +99,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biochemistry-and-molecular-biology-94246d0427/">生物化学与分子生物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biochemistry-and-molecular-biology-honours-101f85392a/">生物化学与分子生物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bioeconomy-sciences-and-technology-544397d919/">生物经济科学与技术</a><small>Bachelor of Science in Natural Resources · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bioeconomy-sciences-and-technology-co-operative-education-b9d287b2b1/">生物经济科学与技术（Co-op）</a><small>Bachelor of Science in Natural Resources — Bioeconomy Sciences and Technology (Co-operative Education) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biology-9bbed50c78/">生物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biology-dee4db0286/">生物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-biology-honours-b18de54b69/">生物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
@@ -108,6 +112,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-business-technology-management-bcom-concentration-4f9d5ca3bd/">商学：商业技术管理方向</a><small>Bachelor of Commerce — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-business-and-computer-science-24f6afb8f5/">商科与计算机科学</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-business-and-markets-49cd8096d9/">商业与市场</a><small>Bachelor of Science in Food and Resource Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-food-resource-economics-business-markets-575338797b/">食品与资源经济：商业与市场</a><small>Bachelor of Science in Food and Resource Economics — Business and Markets · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-business-in-real-estate-6ee51214a4/">房地产商业学士（文凭后衔接）</a><small>Bachelor of Business in Real Estate · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-canadian-studies-32157837ae/">加拿大研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-cell-and-developmental-biology-honours-7ac8e830ea/">细胞与发育生物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
@@ -164,10 +169,13 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-statistics-combined-honours-d06d72ab55/">计算机科学与统计学（联合荣誉）</a><small>Bachelor of Science — Combined Honours · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-conservation-90530694b6/">自然保护</a><small>Bachelor of Science in Natural Resources · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-conservation-biology-honours-6a06be1824/">保护生物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-conservation-global-perspectives-specialization-047dcc2b1c/">自然保护：全球视野方向</a><small>Bachelor of Science in Natural Resources — Major in Conservation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-conservation-science-and-management-specialization-0383ed6c9a/">自然保护：科学与管理方向</a><small>Bachelor of Science in Natural Resources — Major in Conservation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-creative-writing-15f66cfad0/">创意写作</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-creative-writing-d6568c5c8a/">创意写作</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-cultural-studies-dcb5a40200/">文化研究</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-data-analytics-5e79f0357e/">数据分析</a><small>Bachelor of Science in Food and Resource Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-food-resource-economics-data-analytics-208265b39c/">食品与资源经济：数据分析</a><small>Bachelor of Science in Food and Resource Economics — Data Analytics · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-data-science-1dbc3aa9dd/">数据科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-data-science-ef44b047ac/">数据科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-data-science-honours-8289cb43c9/">数据科学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article>
@@ -239,8 +247,16 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-food-and-nutritional-sciences-96362171f1/">食品与营养科学</a><small>Bachelor of Science in Food, Nutrition, and Health · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-food-nutrition-and-health-d1381b52c2/">食品、营养与健康</a><small>Bachelor of Science in Food, Nutrition, and Health · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-management-948b3d5178/">森林管理</a><small>Bachelor of Science in Natural Resources · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-management-community-and-indigenous-forestry-concentration-f05de48e4e/">森林管理：社区与原住民林业方向</a><small>Bachelor of Science in Natural Resources — Major in Forest Management · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-operations-600750349c/">森林作业</a><small>Bachelor of Science in Natural Resources · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-operations-harvest-planning-and-engineering-specialization-a40dfd3ca1/">森林作业：采伐规划与工程方向</a><small>Bachelor of Science in Natural Resources — Major in Forest Operations · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-sciences-95f3233a62/">森林科学</a><small>Bachelor of Science in Natural Resources · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-sciences-honours-410b257b44/">森林科学（荣誉研究方向）</a><small>Bachelor of Science in Natural Resources — Honours in Forest Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-sciences-biodiversity-conservation-and-management-6f09f8f32a/">森林科学：生物多样性保护与管理</a><small>Bachelor of Science in Natural Resources — Forest Sciences area of concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-sciences-forest-ecology-and-management-50a58b41b8/">森林科学：森林生态与管理</a><small>Bachelor of Science in Natural Resources — Forest Sciences area of concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-sciences-geomatics-mensuration-17e8302b9a/">森林科学：地理空间技术与森林测量</a><small>Bachelor of Science in Natural Resources — Forest Sciences area of concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-sciences-international-forestry-sustainability-c30abeef8c/">森林科学：国际林业与可持续性</a><small>Bachelor of Science in Natural Resources — Forest Sciences area of concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-sciences-plant-genetics-genomics-physiology-58e84b1279/">森林科学：植物遗传、基因组与生理</a><small>Bachelor of Science in Natural Resources — Forest Sciences area of concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-french-9e4e9b08fe/">法语</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-french-aa82c4a8fb/">法语、文学与文化</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-french-language-literatures-and-cultures-honours-9a393c2d8a/">法语语言、文学与文化（荣誉）</a><small>Bachelor of Arts — Honours · 部分专业资料已核实</small></article>
@@ -445,6 +461,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-visual-computing-concentration-7423d16dfe/">视觉计算（方向）</a><small>Bachelor of Science — Concentration · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-voice-53cd974201/">声乐（音乐学士主修）</a><small>Bachelor of Music — Voice · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-wood-products-209a0f638d/">木产品</a><small>Bachelor of Science in Natural Resources · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-wood-products-co-operative-education-048533666a/">木产品（Co-op）</a><small>Bachelor of Science in Natural Resources — Wood Products (Co-operative Education) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-zoology-53da66c270/">动物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-zoology-honours-415a30b5de/">动物学（荣誉）</a><small>Bachelor of Science — Honours · 部分专业资料已核实</small></article></div>
 
@@ -493,9 +510,9 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 419 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 436 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>419个本科学位、具名方向与专业阶段条目；包括167个本批新增，非419个独立高中招生学位</p>
+<p><strong>统计范围：</strong>419原记录＋3共同学位入口＋14在读主修与方向；非436个独立高中招生项目</p>
 
 <p><strong>对账方法：</strong>按两校区现行校历的实际具名条目逐项比对、保留旧入口和适用届次；联合荣誉、集中方向和工程共享组件分别核验，不排列组合。</p>
 
@@ -503,13 +520,16 @@ hide:
 
 **尚未解决的目录缺口：**
 
-- 目录仍未全部闭合，419不是UBC官方宣布的本科专业总数。
+- 目录仍未全部闭合，436不是UBC官方宣布的本科专业总数。
 - Behavioural Neuroscience普通major暂停；荣誉旧表存在，但2027新增入口仍待确认。
 - Oceanography的部分例示联合荣誉、Okanagan泛称combined-major组件、Engineering Physics技术选修及BME新版方向仍待具名注册证据。
-- Forestry/BSNR与Applied Biology的2026W重组及其他尚未重审学院仍需继续核对；旧BME streams和停开的Thermofluids不作为现行入口。
+- BSNR转轨已核为2024年9月，Applied Biology旧届界线为2018W；林学院其他联合项目及尚未重审学院仍需继续核对；旧BME streams和停开的Thermofluids不作为现行入口。
 - 2027逐专业招生日期、中国高中资格、名额及毕业统计仍存在未核项。校内成绩与普通高中录取要求分别说明。
 - UBC/BCIT联合项目仍缺完整分校、分阶段国际收费；单校参考价不适用于全部阶段。2026/27费率不等于2027/28报价。
 - 课程表已核的主要规则不代表每门选修先修或每一历史届次已完整复核。
+- Forest Sciences普通方向课15/9及荣誉12/15、BEST第五年15/18学分和Wood Co-op工作课312/121存在官方内部差异，仍待学院确认。
+- Co-op具体学位校历门槛已核，学院当期统一条款正文未取得；不能据此保证录取或岗位。
+- FRE共同学位及两个现行主修已补；直入意向信范围、专门主修日历和2027/28报价仍待核。
 
 - [官方目录来源](https://you.ubc.ca/programs/)
 - [官方目录来源](https://you.ubc.ca/applying-ubc/requirements/international-high-schools/)
@@ -661,5 +681,38 @@ hide:
 - [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/marketing)
 - [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/operations-and-logistics)
 - [官方目录来源](https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/organizational-behaviour-and-human-resources)
+- [官方目录来源](https://you.ubc.ca/applying-ubc/requirements/english-language-competency/)
+- [官方目录来源](https://you.ubc.ca/applying-ubc/requirements/english-language-competency-ok/)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/registration-and-program-approval)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/bioeconomy-sciences-and-technology)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/academic-regulations)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsc-forest-bioeconomy-sciences-and-technology/admission)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/conservation)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsc-natural-resources-conservation/admission)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-management)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsf-bachelor-science-forestry/admission)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-operations)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-sciences)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsc-forest-sciences/introduction)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/food-and-environment-major)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/applied-plant-and-soil-science-major)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsc-wood-products-processing/admission)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/wood-products)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/admission)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/first-year-curriculum)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/introduction)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/fees/policies-fees)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/fees/program-course-and-faculty-fees)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/admission)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/introduction)
+- [官方目录来源](https://you.ubc.ca/appliedbiology/)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/forestry-co-op)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/admission)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/business-and-markets-major)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/data-analytics-major)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/introduction)
+- [官方目录来源](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/degree-requirements-students-entering-program-202324-or-earlier)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

@@ -21,7 +21,7 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>3年JD；入学前另须大学学习</strong></div><div><span>国际生学费</span><strong>2026/27参考CAD 1,520.25／学分；2027/28未确认</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -49,6 +49,9 @@ hide:
 <p class="catalog-fact"><strong>入口与名称说明：</strong>并非所有JD申请者都必须已经取得学士，但均不能由大陆高中直接套普通本科入口。</p>
 <p class="fact-sources"><a href="#source-p-UBCS-professional-ace5df2eaf85">官方依据</a> · <a href="#source-p-UBCS-professional-bcb818f8d3b7">官方依据</a> · <a href="#source-p-UBCS-professional-95424ff16a1b">官方依据</a></p>
 
+<p class="catalog-fact"><strong>主要教学语言及适用范围：</strong>学校说明以英语为主要教学语言；本条引用学校通则，具体语言课程、海外或校外教学阶段须另核。</p>
+<p class="fact-sources"><a href="#source-p-UBCR-teaching-language">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 <p class="catalog-fact"><strong>申请类别需单独核对：</strong>本条涉及前置学习、第二学位或专业／专门培养入口。上方培养说明与官方项目页给出已核实范围；本轮未把普通高中资格和常规1月15日截止直接套用本条。</p>
@@ -69,7 +72,7 @@ hide:
 
 ## 学费与资助 {#fees}
 
-<p class="catalog-fact"><strong>2026/27专业收费参考：</strong>2026/27官方收费表的JD、2026 Summer或以后开始该学位的国际生档为CAD 1,520.25／学分。其他学生费用、课程材料及适用的临床费用另核；这是当前学年参考，不是全程总价，也不是已公布的2027/28报价。更早入读者按自己的原学位入学批次核表。</p>
+<p class="catalog-fact"><strong>2026/27专业收费参考：</strong>2026/27官方收费表的JD、2026 Summer或以后开始该学位的国际生档为CAD 1,520.25／学分。其他学生费用及课程材料费用另核；这是当前学年参考，不是全程总价，也不是已公布的2027/28报价。更早入读者按自己的原学位入学批次核表。</p>
 <p class="fact-sources"><a href="#source-p-UBC2-FEE-VANCOUVER">官方依据</a></p>
 
 ## 毕业生情况 {#outcomes}
@@ -89,5 +92,6 @@ hide:
 <div class="catalog-source" id="source-p-UBCS-professional-bcb818f8d3b7"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/peter-allard-school-law/juris-doctor/introduction">UBC — Introduction ↗</a><p>真实JD结构；职业资格边界</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UBCS-professional-95424ff16a1b"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/peter-allard-school-law/juris-doctor/admission">UBC — Admission ↗</a><p>大学后专业入口；选拔而非保证分数</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UBC2-FEE-VANCOUVER"><div><a href="https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate">Vancouver Academic Calendar — Undergraduate fees ↗</a><p>2026/27对应专业国际收费、单位及2026S或以后学位入学批次</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCR-teaching-language"><div><a href="https://you.ubc.ca/applying-ubc/requirements/english-language-competency/">UBC — English language competency ↗</a><p>开头说明UBC以英语为主要教学语言；具体语言课程、海外与合作校阶段另核；不把2026/27英语考试条件推定为2027/28</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/ubc/">← 返回英属哥伦比亚大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

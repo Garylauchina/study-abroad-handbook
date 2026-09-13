@@ -21,7 +21,7 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27校历；2027专门招生细则未逐项核实</strong></div><div><span>学制</span><strong>4年；132学分</strong></div><div><span>国际生学费</span><strong>UBC与BCIT联合路线，分校分阶段费用本轮未取得。</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>UBC Vancouver + BCIT · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>UBC Vancouver + BCIT · <strong>授课语言：</strong>UBC阶段英语为主；BCIT阶段待核</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -42,6 +42,9 @@ hide:
 
 <p class="catalog-fact"><strong>两校联合授位与课程：</strong>一年级在UBC，其后三年课程在UBC与BCIT两处，须在校园间通勤；学习生化实验和理论、法庭科学课程、研究训练，总132学分，共同授予一张Combined Honours BSc。</p>
 <p class="fact-sources"><a href="#source-p-UBC2-vancouver-b0241c7c3669">官方依据</a></p>
+
+<p class="catalog-fact"><strong>主要教学语言及适用范围：</strong>UBC说明本校以英语为主要教学语言；本联合项目BCIT阶段的具体授课语言尚未单独核实。</p>
+<p class="fact-sources"><a href="#source-p-UBCR-teaching-language">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -69,5 +72,6 @@ hide:
 - [官方目录](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/forensic-science)
 
 <div class="catalog-source" id="source-p-UBC2-vancouver-b0241c7c3669"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/forensic-science">UBC Academic Calendar — Forensic Science ↗</a><p>两校联合授位与课程；大学二年级入口；双校费用缺口</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCR-teaching-language"><div><a href="https://you.ubc.ca/applying-ubc/requirements/english-language-competency/">UBC — English language competency ↗</a><p>开头说明UBC以英语为主要教学语言；具体语言课程、海外与合作校阶段另核；不把2026/27英语考试条件推定为2027/28</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/ubc/">← 返回英属哥伦比亚大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

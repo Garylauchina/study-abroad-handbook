@@ -21,7 +21,7 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27校历；2027招生细则未单独核实</strong></div><div><span>学制</span><strong>非全日制远程；本轮未取得固定完成年限</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Distance delivery; UBC Vancouver administration · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Distance delivery; UBC Vancouver administration · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -42,6 +42,9 @@ hide:
 
 <p class="catalog-fact"><strong>120学分含已有学习：</strong>BBRE为文凭后学位完成路径，120学分包括通识21、商业39、房地产27、房地产specialty15、选修18；至少60学分须在UBC完成。通过远程非全日制学习，部分通识/商业课程由Thompson Rivers University提供。</p>
 <p class="fact-sources"><a href="#source-p-UBCS-vancouver-e8ca7470a456">官方依据</a></p>
+
+<p class="catalog-fact"><strong>主要教学语言及适用范围：</strong>学校说明以英语为主要教学语言；本条引用学校通则，具体语言课程、海外或校外教学阶段须另核。</p>
+<p class="fact-sources"><a href="#source-p-UBCR-teaching-language">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -69,5 +72,6 @@ hide:
 - [官方目录](https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-business-real-estate)
 
 <div class="catalog-source" id="source-p-UBCS-vancouver-e8ca7470a456"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-business-real-estate">UBC — Bachelor of Business in Real Estate ↗</a><p>120学分含已有学习；明确前置资格；高中与签证边界</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCR-teaching-language"><div><a href="https://you.ubc.ca/applying-ubc/requirements/english-language-competency/">UBC — English language competency ↗</a><p>开头说明UBC以英语为主要教学语言；具体语言课程、海外与合作校阶段另核；不把2026/27英语考试条件推定为2027/28</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/ubc/">← 返回英属哥伦比亚大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

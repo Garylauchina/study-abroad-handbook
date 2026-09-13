@@ -4,8 +4,8 @@
     {
       "url": "https://you.ubc.ca/applying-ubc/requirements/international-high-schools/",
       "sha256": "0b6d582b49dd2d400ed1e842a92526c323f74d6505953670440d28633816f63f",
-      "raw_file": "scratch/full-catalog/root/ubc-china-vancouver-post.html",
-      "locator": "bachelor-of-science-in-natural-resources"
+      "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/china-vancouver.json",
+      "locator": "China / Vancouver: programme576578 Food and Resource Economics, senior-level Pre-calculus minimum"
     },
     {
       "url": "https://you.ubc.ca/applying-ubc/requirements/international-high-schools/",
@@ -17,7 +17,7 @@
       "url": "https://you.ubc.ca/applying-ubc/dates-deadlines/",
       "sha256": "0c7a7b033c5f5e45c342f12ecb37f45b3ee6432be591286e312543dda945186e",
       "raw_file": "scratch/full-catalog/root/ubc-dates.html",
-      "locator": null
+      "locator": "Preparing to apply: Early October2026 and15January2027 deadline;15FebruaryELAS;15MarchoutsideCanada transcript"
     },
     {
       "url": "https://you.ubc.ca/applying-ubc/how-to-apply/application/",
@@ -29,7 +29,7 @@
       "url": "https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate",
       "sha256": "b9851a501fc48168b08b53baaffa6b6511d57e2bfabf98dd79781dfad58e389a",
       "raw_file": "scratch/full-catalog/root/ubc-fees-vancouver.html",
-      "locator": "Undergraduate Degree Programs > International Students; 2026S or later column; footnotes 1–3"
+      "locator": "2026/27 international table: Forestry and Land and Food Systems, commenced2026S or later column; footnotes1–3"
     },
     {
       "url": "https://vancouver.calendar.ubc.ca/fees/policies-fees",
@@ -42,6 +42,48 @@
       "sha256": "948b180a8b6d899414df45932b166b4c5c9aaad447c2f57a632f25923bdc9b2d",
       "raw_file": "scratch/full-catalog/root/ubc.html",
       "locator": "programsListData.programs[id=1043]；official_url=https://you.ubc.ca/programs/zoology/"
+    },
+    {
+      "url": "https://you.ubc.ca/applying-ubc/requirements/english-language-competency/",
+      "sha256": "b439dfd82132a9fff447f39b8ec30e4e9f502a45156e8e9071efe83a4b8c453d",
+      "raw_file": "scratch/full-catalog/root/ubc-teaching-language.html",
+      "locator": null
+    },
+    {
+      "url": "https://you.ubc.ca/applying-ubc/requirements/english-language-competency-ok/",
+      "sha256": "e4162eb98cb27cfdbd6853abe80ac575b8bfbfc05eac9f99dcbaf59e9bf8e5d2",
+      "raw_file": "scratch/full-catalog/root/ubc-teaching-language-okanagan.html",
+      "locator": "Opening paragraph, primary teaching language only"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/applied-animal-biology-major",
+      "sha256": "b07bd4507ff9e54f75e95d533e89845f244fea1efe0bac780f6d60957309dcd0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-a9f3fa89cb65.html",
+      "locator": "Applied Animal Biology major curriculum:123 credits,45 upper-level; Honours132 and entry requirements"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/registration-and-program-approval",
+      "sha256": "ae617a06bdcb85a2a40372d88d29f76a33b6c55c3d6d8c608f0f2499ce236911",
+      "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/lfs-major-registration.html",
+      "locator": "Declaring a Major: second session of faculty registration; Workday; Program Deficiency"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/bioeconomy-sciences-and-technology",
+      "sha256": "70c87e19bb0613920a0b690394052283ee85e85480cd5a4ae8594209bf72586d",
+      "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/bsnr-bioeconomy.html",
+      "locator": "Degree Requirements; Co-operative Education Program admission and five work terms"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/academic-regulations",
+      "sha256": "24904fb62334d351ff86098cbc39d4ca2c57ccc041ee63148f1b8eeccd360be4",
+      "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/forestry-regulations.html",
+      "locator": "Graduation Requirements; Year Promotion; Graduating with Honours or Distinction"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsc-forest-bioeconomy-sciences-and-technology/admission",
+      "sha256": "11fcd6375efcb320ec0891c1f6a9c2f695ac9482e29773caed762a27f213414c",
+      "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/old-best-admission.html",
+      "locator": "Opening suspension September2024 and replacement by BSNR Bioeconomy major"
     },
     {
       "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/physics",
@@ -92,6 +134,18 @@
       "locator": "Undergraduate Degree Programs > International Students; 2026S or later column; footnotes 1–3; Management-to-Commerce asterisk"
     },
     {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/conservation",
+      "sha256": "68cb7fabdb0a115702f101c70d1b10db05faf964215db32d5da7d7d2cffbcb39",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-6de85c856f4f.html",
+      "locator": "Opening specialization selection; Science and Management; Global Perspectives; cultural experience footnote4"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsc-natural-resources-conservation/admission",
+      "sha256": "1dca59c3e5cba37df1942684496c166c2331c2d6f6c28dc5438cf0b51523a2ae",
+      "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/old-conservation-admission.html",
+      "locator": "Opening suspension September2024 and replacement by BSNR Conservation major"
+    },
+    {
       "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-dentistry/doctor-dental-medicine/admission",
       "sha256": "0045670c61ceb1342ea6a910490d5fb376e8e3d3c44aa8f23017400b05feb113",
       "raw_file": "scratch/full-catalog/ubc-supplement/raw/professional-05a4aff87392.html",
@@ -108,6 +162,36 @@
       "sha256": "65ba295de36ca490fcc1479166d33cc777dbee1e213ea98c50f52b23bd6d97bd",
       "raw_file": "scratch/full-catalog/ubc-supplement/raw/okanagan-27666ae2c987.html",
       "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-management",
+      "sha256": "31c74da82bab2c09c8d412ed24aa2ae810728fc8237412e715217d7cc92226d5",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-329fc4f47330.html",
+      "locator": "Community and Indigenous Forestry Concentration; course tables; fieldwork requirements"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsf-bachelor-science-forestry/admission",
+      "sha256": "464855d05fdd15e0a62a2b53f917dd8a390a60ba362a8b2ad198dfa23c00d98a",
+      "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/old-bsf-admission.html",
+      "locator": "Opening suspension September2024; old B.S.F. and transfer routes kept as historical text"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-operations",
+      "sha256": "a49a46d0be6d20cf145181b1be33c7d68e523e6c2bfc73cae5bbaaf53a9ffea7",
+      "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/bsnr-forest-operations.html",
+      "locator": "Harvest Planning and Engineering; degree table; footnotes1/3; field-trip costs"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-sciences",
+      "sha256": "a603add7a502b897e0901c1ce398c162d85abb663158c8bd9ec525cc68934bc0",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-b6773e6477e9.html",
+      "locator": "Opening area requirement; major table and footnote7; Honours admission, table and footnotes7–9"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsc-forest-sciences/introduction",
+      "sha256": "8d916063870a79deeca0a357d382cad42cad644c2ebdab51b8a798e61d5d6957",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-468753a1012e.html",
+      "locator": "Opening suspension September2024 and replacement by BSNR Forest Sciences major"
     },
     {
       "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/french-language-literatures-and-cultures",
@@ -234,6 +318,36 @@
       "sha256": "6ab23b50e47b7fe7dcd16c4c32367a6ae5c3f0195e577adfe091e461ee4e5996",
       "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-05ec456cd697.html",
       "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/sustainable-agriculture-and-environment-major",
+      "sha256": "747626c49b1055e0b3716a5f7ec9f4c5bdd0b86a365d0ee980a81bd0a06dbd35",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-394e58f00bb3.html",
+      "locator": "Sustainable Agriculture and Environment major123/124 credits; curriculum and Honours"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/food-and-environment-major",
+      "sha256": "aa126da7fc16fdb0945a2c22b500c0efc4ac0a8c08036390e6957e237c9d9bc8",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-a8ace76502ce.html",
+      "locator": "Opening: renamed Sustainable Agriculture and Environment; pre2018W curriculum only"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/applied-plant-and-soil-science-major",
+      "sha256": "8c5e7a82d3cfaf702b32b9c7664d42c031ed69060ef35bf992a3fedc03d72325",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-300df10059a2.html",
+      "locator": "Opening: no new students; pre2018W students only; change to Sustainable Agriculture requires adviser"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsc-wood-products-processing/admission",
+      "sha256": "225b447f77bfb7854816a21808256f4626a8536413646df575ad658bc73465ee",
+      "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/old-wood-admission.html",
+      "locator": "Opening suspension September2024 and replacement by BSNR Wood Products major"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/wood-products",
+      "sha256": "2b4093e594193f25c9511ee3f0f245dd408ea0a943ec054e41a989e512ff4f50",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-328195b1b089.html",
+      "locator": "Four-year major; Co-operative Education Program admissions; five work terms; displayed course table"
     },
     {
       "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/bachelor-commerce/accounting",
@@ -842,18 +956,6 @@
       "locator": null
     },
     {
-      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/applied-animal-biology-major",
-      "sha256": "b07bd4507ff9e54f75e95d533e89845f244fea1efe0bac780f6d60957309dcd0",
-      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-a9f3fa89cb65.html",
-      "locator": null
-    },
-    {
-      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/sustainable-agriculture-and-environment-major",
-      "sha256": "747626c49b1055e0b3716a5f7ec9f4c5bdd0b86a365d0ee980a81bd0a06dbd35",
-      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-394e58f00bb3.html",
-      "locator": null
-    },
-    {
       "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/accounting",
       "sha256": "5cdceb3b93da824d14871d45e3bef7f1af37c0b9b37e23e17e2f10b85596e2a9",
       "raw_file": "scratch/full-catalog/ubc-supplement-2/raw/ok-bcom-0.html",
@@ -899,6 +1001,102 @@
       "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/organizational-behaviour-and-human-resources",
       "sha256": "fa679735391fcdd61ef8536f8866556d610a01ed9065d203ec08ae75a410fb79",
       "raw_file": "scratch/full-catalog/ubc-supplement-2/raw/ok-bcom-7.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/admission",
+      "sha256": "361a48ddddcc7eaf63d6146beda19f12a6e7048ffb8a225c655e10066791b08a",
+      "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/bsnr-admission.html",
+      "locator": "Admission: secondary/transfer routes; footnotes for HP&E and Wood Products"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/first-year-curriculum",
+      "sha256": "70108f5612e4e0ec6b602dd46e6daa3bec8fb8f99683cc0c2514cf4f894155a5",
+      "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/bsnr-first-year.html",
+      "locator": "First Year Core:20 core credits and12/13 major-specific credits"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024",
+      "sha256": "66be968b52b0f8f1be915120583bd2a2e9cbb552e1191082697518865deb7d20",
+      "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-0354bada87fa.html",
+      "locator": "2026/27校历：September 2024起新生章节、六主修目录"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/introduction",
+      "sha256": "31bee79714bebb6114375d7ceedd410374cd9fbf1a2d5eebbc23079d155fc8b8",
+      "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/bsnr-intro.html",
+      "locator": "BSNR Introduction: six majors and experiential curriculum"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/fees/policies-fees",
+      "sha256": "32f124930ac37fc9d0bfa40db75ce629c97847a55f7bf56c5ed0bef6533d7eab",
+      "raw_file": "scratch/full-catalog/ubc-supplement-2/review/fee-policy.html",
+      "locator": "All fees are in Canadian dollars unless otherwise stated"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/fees/program-course-and-faculty-fees",
+      "sha256": "78e243c3e8054fe84241a9dde503aa66cd13766b046cc62ae456565ef26039b6",
+      "raw_file": "scratch/full-catalog/root/ubc-course-fees.html",
+      "locator": "Program and Course Fees first2 rows, NRES100 row and footnote1"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/admission",
+      "sha256": "7d83e71b1b479a3ba423f969efce18f6222fdd638eb8a57f6991279d1eb46d14",
+      "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/apbi-admission.html",
+      "locator": "Admission: secondary school, transfer24 credits, mature applicant routes"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/introduction",
+      "sha256": "d08490c3b3a1b00e4b076298a48e6c6b678b3afda21ee1a1ec4009110086841a",
+      "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/apbi-intro.html",
+      "locator": "Introduction and note1: BSc Applied Biology distinct from BSc/BASc"
+    },
+    {
+      "url": "https://you.ubc.ca/appliedbiology/",
+      "sha256": "247e40a2e99fdb0a85a506ff44174fa9d4323ad9b882743ccfbff5fd1e53cbe3",
+      "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/apbi-public.html",
+      "locator": "Explore your majors: Applied Animal Biology and Sustainable Agriculture; Vancouver"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/forestry-co-op",
+      "sha256": "1b76a4980078c04390799f196ecf4a8a9290c5b6b4e01d58c88368b3eab10eb2",
+      "raw_file": "scratch/full-catalog/root/ubc-forestry-coop-calendar.html",
+      "locator": "Admissions and Program Terms & Conditions; final paragraph"
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/admission",
+      "sha256": "2ff1ff8f8f8d327d7b2889831bfc749423fa7a6b1bd13ef84d099186007368ba",
+      "raw_file": "scratch/full-catalog/ubc-fre-supplement/admission.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/business-and-markets-major",
+      "sha256": "a36d17070c3a6b203e4996f5ea05f7eeca73cec7a29f8d9acbbcc6a36b531fc4",
+      "raw_file": "scratch/full-catalog/ubc-fre-supplement/business-markets.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/data-analytics-major",
+      "sha256": "3d5ec147a1e41b5e47feaed9a093c7562867d733d3c796d2a817ae27e68367de",
+      "raw_file": "scratch/full-catalog/ubc-fre-supplement/data-analytics.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre",
+      "sha256": "0079c1dc456b077c7793d0d343c725eb21eca357459836e560f6e52c6a6f384b",
+      "raw_file": "scratch/full-catalog/ubc-fre-supplement/degree.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/introduction",
+      "sha256": "dacee82b601211af464a404f80f8ea43929097376256f22dc534195f2d569241",
+      "raw_file": "scratch/full-catalog/ubc-fre-supplement/intro.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/degree-requirements-students-entering-program-202324-or-earlier",
+      "sha256": "50b81d03de3adb0c3c7fc366b900d6fea7b33d070b98b3e4b97325a89f519ee7",
+      "raw_file": "scratch/full-catalog/ubc-fre-supplement/old.html",
       "locator": null
     }
   ]

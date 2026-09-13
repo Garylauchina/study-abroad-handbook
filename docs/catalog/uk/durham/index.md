@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-176 个专业条目 · 0 个含详细资料 · 176 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+260 个专业条目 · 0 个含详细资料 · 260 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=durham#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -37,8 +37,14 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-accounting-and-finance-with-foundation-af6c1e5193/">会计与金融（含基础年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-accounting-with-study-abroad-0b1b337666/">会计学（含海外学习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-ancient-history-a6eed6ccf5/">古代史</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-ancient-history-with-year-abroad-b025c7a75f/">古代史（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-ancient-history-and-archaeology-cf34f7d1c0/">古代史与考古学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-ancient-history-and-archaeology-with-placement-year-b804c6cdf5/">古代史与考古学（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-ancient-history-and-archaeology-with-year-abroad-c11601dc06/">古代史与考古学（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-ancient-history-with-placement-year-6da68aa4ab/">古代史（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-ancient-medieval-and-modern-history-235843d18b/">古代、中世纪与现代史</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-ancient-medieval-and-modern-history-with-year-abroad-418d0ece7d/">古代、中世纪与现代史（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-ancient-medieval-and-modern-history-with-placement-year-1901885d82/">古代、中世纪与现代史（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-anthropology-35f25c790a/">人类学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-anthropology-9a913649ef/">人类学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-anthropology-and-archaeology-3760c63fc3/">人类学与考古学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
@@ -53,8 +59,12 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-artificial-intelligence-meng-f4e8b63518/">人工智能</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-artificial-intelligence-5ed15286a5/">人工智能</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-biochemistry-cb8aa14bda/">生物化学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-biochemistry-with-placement-345d187d91/">生物化学（实习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-biochemistry-with-year-abroad-0d40257b53/">生物化学（海外年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-biological-sciences-8338b0f555/">生物科学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-biological-sciences-with-foundation-49d3537843/">生物科学（含基础年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-biological-sciences-with-placement-2af004aae1/">生物科学（实习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-biological-sciences-with-year-abroad-0dffcda11d/">生物科学（海外年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-biology-and-chemistry-msci-3dfb9de4f7/">生物学与化学</a><small>MSci (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-biology-and-chemistry-f1b5ed6036/">生物学与化学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-biology-and-psychology-c0c787bc59/">生物学与心理学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
@@ -73,9 +83,15 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-chemistry-and-physics-f32b9af225/">化学与物理学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-chinese-studies-with-year-abroad-23f5873411/">中国研究（含海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-classical-civilisation-fe70751dab/">古典文明</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-classical-civilisation-with-year-abroad-66834016a9/">古典文明（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-classical-civilisation-with-placement-year-62de5a7944/">古典文明（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-classics-d0ffccdfcb/">古典学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-classics-with-year-abroad-f102ab98f9/">古典学（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-classics-with-foundation-1ad9b0ee9a/">古典学（含基础年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-classics-with-placement-year-0fc2788c92/">古典学（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-climate-science-64e73bb6f0/">气候科学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-climate-science-with-placement-582eb65319/">气候科学（实习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-climate-science-with-year-abroad-54ec92af79/">气候科学（海外年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-combined-honours-in-social-sciences-94b0b3a9b2/">社会科学联合荣誉</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-combined-honours-in-social-sciences-with-foundation-d8fb33c008/">社会科学联合荣誉（含基础年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-computer-science-699d2129d6/">计算机科学</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
@@ -83,6 +99,10 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-computer-science-and-mathematics-msci-cefbf0f05b/">计算机科学与数学</a><small>MSci (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-computer-science-and-mathematics-a4fe6e2769/">计算机科学与数学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-computer-science-with-foundation-b3d8704a1f/">计算机科学（含基础年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-computer-science-with-placement-f2d38f9954/">计算机科学（实习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-computer-science-with-placement-97552a91cf/">计算机科学（实习年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-computer-science-with-year-abroad-2706ff128e/">计算机科学（海外年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-computer-science-with-year-abroad-c8ed28c27d/">计算机科学（海外年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-criminology-a72d83810b/">犯罪学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-criminology-with-foundation-51632741b5/">犯罪学（含基础年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-earth-sciences-26db9e02f4/">地球科学</a><small>MSci (Hons) · 部分专业资料已核实</small></article>
@@ -91,6 +111,8 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-economics-with-study-abroad-1a641bb12f/">经济学（含海外学习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-economics-and-mathematics-1d292b5fc9/">经济学与数学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-economics-and-politics-0018587b27/">经济学与政治学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-economics-and-politics-with-placement-year-159e4fc1b7/">经济学与政治学（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-economics-and-politics-with-study-abroad-d037b9424e/">经济学与政治学（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-economics-with-foundation-0d5a827cac/">经济学（含基础年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-economics-with-management-4ca1a9fc05/">经济学与管理学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-economics-with-management-with-placement-year-f894d07a15/">经济学与管理学（含实习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
@@ -101,44 +123,88 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-education-studies-sociology-5f2dca636d/">教育研究—社会学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-education-studies-with-foundation-f02375b30f/">教育研究（含基础年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-aeronautical-3bda6b560c/">工程学（航空工程）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-aeronautical-with-placement-86c4a4fd97/">工程学（航空工程）（实习年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-aeronautical-with-year-abroad-cda0f6e2f3/">工程学（航空工程）（海外年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-bioengineering-7908e5736c/">工程学（生物工程）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-bioengineering-with-placement-d6c2c89d73/">工程学（生物工程）（实习年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-bioengineering-with-year-abroad-837969d415/">工程学（生物工程）（海外年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-civil-8d0b97b60e/">工程学（土木工程）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-civil-75278b7498/">工程学（土木工程）</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-civil-with-placement-63342a813c/">工程学（土木工程）（实习年）</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-civil-with-placement-54f4965eea/">工程学（土木工程）（实习年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-civil-with-year-abroad-f57c47fcbc/">工程学（土木工程）（海外年）</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-civil-with-year-abroad-c4a499544b/">工程学（土木工程）（海外年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-electrical-bf173fbed9/">工程学（电气工程）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-electrical-301d2d67e0/">工程学（电气工程）</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-electrical-with-placement-4c08472d0d/">工程学（电气工程）（实习年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-electrical-with-placement-e9a621ee22/">工程学（电气工程）（实习年）</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-electrical-with-year-abroad-4911737e0e/">工程学（电气工程）（海外年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-electrical-with-year-abroad-7127fc7b8e/">工程学（电气工程）（海外年）</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-electronic-e850284ce7/">工程学（电子工程）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-electronic-ec4e06c1dc/">工程学（电子工程）</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-electronic-with-placement-8f863f41ec/">工程学（电子工程）（实习年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-electronic-with-placement-10aa0c07cf/">工程学（电子工程）（实习年）</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-electronic-with-year-abroad-ed71574807/">工程学（电子工程）（海外年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-electronic-with-year-abroad-59118e4d20/">工程学（电子工程）（海外年）</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-mechanical-5146999b26/">工程学（机械工程）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-mechanical-989ba77a1b/">工程学（机械工程）</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-mechanical-with-placement-e3e5f8f84c/">工程学（机械工程）（实习年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-mechanical-with-placement-9d57d05cc0/">工程学（机械工程）（实习年）</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-mechanical-with-year-abroad-94787ec87e/">工程学（机械工程）（海外年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-mechanical-with-year-abroad-4254e78950/">工程学（机械工程）（海外年）</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-renewable-energy-4f640b5dde/">工程学（可再生能源）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-renewable-energy-with-placement-7bac04a6ce/">工程学（可再生能源）（实习年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-engineering-renewable-energy-with-year-abroad-da2507954d/">工程学（可再生能源）（海外年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-english-literature-31c3121d48/">英语文学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-english-literature-with-year-abroad-956630fcca/">英语文学（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-english-literature-and-history-bcf4873041/">英语文学与历史</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-english-literature-and-history-with-year-abroad-1c3630cf36/">英语文学与历史（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-english-literature-and-history-with-placement-year-f41e7662da/">英语文学与历史（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-english-literature-and-philosophy-43f4431b3a/">英语文学与哲学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-english-literature-and-philosophy-with-year-abroad-180ec307ce/">英语文学与哲学（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-english-literature-and-philosophy-with-placement-year-7563d75ae1/">英语文学与哲学（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-english-literature-with-placement-year-1b47d1badb/">英语文学（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-english-with-foundation-08d6dbca4c/">英语（含基础年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-environmental-geoscience-b5f58c5d4a/">环境地球科学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-environmental-geosciences-with-placement-6ab5f6d7a9/">环境地球科学（实习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-environmental-geosciences-with-year-abroad-cbf214d27b/">环境地球科学（海外年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-finance-6563f20683/">金融学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-finance-with-placement-year-24abb0fd37/">金融学（含实习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-finance-with-study-abroad-37cbd5f822/">金融学（含海外学习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-finance-with-foundation-9951670c1f/">金融学（含基础年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-general-engineering-a73ab3a389/">通用工程</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-general-engineering-5d45e1011b/">通用工程</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-general-engineering-with-placement-year-ceb3318712/">通用工程（实习年）</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-general-engineering-with-placement-year-891e18600c/">通用工程（实习年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-general-engineering-with-year-abroad-8dd6844068/">通用工程（海外年）</a><small>BEng (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-general-engineering-with-year-abroad-713a4befe6/">通用工程（海外年）</a><small>MEng (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-geography-66be8b9607/">地理学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-geography-9bcab7d18d/">地理学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-geography-with-foundation-7a3fe8d9d2/">地理学（含基础年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-geology-d45a52d524/">地质学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-geology-with-placement-d52a9022f1/">地质学（实习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-geology-with-year-abroad-d875b9cc79/">地质学（海外年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-geophysics-c3732d1aa4/">地球物理学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-geophysics-with-placement-39f257d609/">地球物理学（实习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-geophysics-with-year-abroad-94adb082fa/">地球物理学（海外年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-geoscience-4a4d71ba12/">地球科学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-geoscience-with-placement-f925652747/">地球科学（实习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-geoscience-with-year-abroad-8cf0379446/">地球科学（海外年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-health-and-human-sciences-6cd30bed33/">健康与人文科学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-health-and-human-sciences-with-foundation-ab0d34ef59/">健康与人文科学（含基础年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-historical-archaeology-5e771a758e/">历史考古学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-history-92fc52efca/">历史学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-history-year-abroad-bc1c00e8bd/">历史学（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-history-with-foundation-be456750c2/">历史学（含基础年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-history-with-placement-year-40519fb3dd/">历史学（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-international-relations-5b7fb56a4f/">国际关系</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-japanese-studies-with-year-abroad-e261cd4a2e/">日本研究（含海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-law-senior-status-79e2aa9142/">法律（已有学位者加速课程）</a><small>LLB (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-law-9b6dc521d1/">法律</a><small>LLB (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-law-with-foundation-bf26fa35fc/">法律（含基础年）</a><small>LLB (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-liberal-arts-cb71c79ed3/">博雅教育</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-liberal-arts-with-placement-year-ee6b7e8e4a/">博雅教育（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-liberal-arts-with-year-abroad-a8106967f2/">博雅教育（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-liberal-arts-with-foundation-28da432d32/">博雅教育（含基础年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-marketing-and-management-be041a1a7e/">市场营销与管理</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-marketing-and-management-with-placement-year-3c244c6cde/">市场营销与管理（含实习年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
@@ -154,6 +220,8 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-modern-languages-and-cultures-with-year-abroad-42eccb5c06/">现代语言与文化（含海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-modern-european-languages-and-history-with-year-abroad-03dd8b0a90/">现代语言与历史（含海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-music-28db0b1de3/">音乐</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-music-with-year-abroad-d3fa964490/">音乐（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-music-with-placement-year-07f988bd96/">音乐（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-natural-sciences-23f6a85259/">自然科学</a><small>MSci (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-natural-sciences-4b9e6da3b4/">自然科学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-natural-sciences-psychology-pathway-a8511d0651/">自然科学：心理学认证路径</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
@@ -174,12 +242,22 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-earth-sciences-and-geography-bsc-natsci-fc5cd091a9/">自然科学：地球科学与地理学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-mathematics-and-psychology-bsc-natsci-b7662f4a50/">自然科学：数学与心理学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-2fd13e9a28/">哲学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-with-year-abroad-b35b14095b/">哲学（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-and-physics-fdbf88a91f/">哲学与物理学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-and-politics-304ef55011/">哲学与政治学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-and-politics-with-year-abroad-86feaeabb8/">哲学与政治学（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-and-politics-with-placement-year-969b096788/">哲学与政治学（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-and-psychology-b48956199d/">哲学与心理学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-and-psychology-with-year-abroad-dc7357a3b9/">哲学与心理学（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-and-psychology-with-placement-year-4d69cc153f/">哲学与心理学（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-and-theology-e7c25f2970/">哲学与神学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-and-theology-with-year-abroad-c7808a2343/">哲学与神学（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-and-theology-with-placement-year-bfd036727d/">哲学与神学（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-with-foundation-a245ad3a53/">哲学（含基础年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-with-placement-year-6b59fcc778/">哲学（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-politics-and-economics-e7d1bac57f/">哲学、政治学与经济学（PPE）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-politics-and-economics-with-placement-year-e3e329330c/">哲学、政治学与经济学（PPE）（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-philosophy-politics-and-economics-with-study-abroad-9d2f5f0038/">哲学、政治学与经济学（PPE）（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-physics-351831f101/">物理学</a><small>MPhys (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-physics-29a5d432c8/">物理学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-physics-and-astronomy-362701d1a6/">物理学与天文学</a><small>MPhys (Hons) · 部分专业资料已核实</small></article>
@@ -194,16 +272,22 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-psychology-and-anthropology-028d47c46f/">心理学与人类学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-psychology-with-foundation-d97f744b03/">心理学（含基础年）</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-religion-society-and-culture-04b0ad1b49/">宗教、社会与文化</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-religion-society-and-culture-with-year-abroad-813e084000/">宗教、社会与文化（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-religion-society-and-culture-with-placement-year-1547e09696/">宗教、社会与文化（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-sociology-1ae8f90de0/">社会学</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-sociology-with-foundation-5b03446424/">社会学（含基础年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-sport-and-exercise-sciences-6bc158ee6d/">运动与锻炼科学</a><small>BSc (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-sport-exercise-and-physical-activity-e734de90d1/">运动、锻炼与身体活动</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-sport-exercise-and-physical-activity-with-foundation-bd0ef2d4fc/">运动、锻炼与身体活动（含基础年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-theology-and-religion-aef77f6178/">神学与宗教</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-theology-and-religion-with-year-abroad-5e433241f2/">神学与宗教（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-theology-and-religion-with-foundation-a96c5066e4/">神学与宗教（含基础年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-theology-and-religion-with-placement-year-62f84f7c19/">神学与宗教（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-theology-ministry-and-mission-efdc53621b/">神学、教牧与宣教</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-theoretical-physics-05392aa0ba/">理论物理学</a><small>MPhys (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-visual-arts-and-film-62389ac5f8/">视觉艺术与电影</a><small>BA (Hons) · 部分专业资料已核实</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-visual-arts-and-film-62389ac5f8/">视觉艺术与电影</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-visual-arts-and-film-with-placement-year-2401236dc3/">视觉艺术与电影（实习年）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-visual-arts-and-film-with-year-abroad-078dede428/">视觉艺术与电影（海外年）</a><small>BA (Hons) · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -253,18 +337,18 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 176 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 260 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>159原记录＋11具名联合方向＋6在读注册路线；非176个独立高中UCAS项目</p>
+<p><strong>统计范围：</strong>159原记录＋11具名自然科学联合方向＋90在读注册路线；非260个独立高中UCAS项目</p>
 
-<p><strong>对账方法：</strong>41个部门规章目录共428行，按代码合并为371项并逐项比对；155已收录、6注册路径本批补入、179待研究、19旧届、6暂停、6武汉联办分别记录。</p>
+<p><strong>对账方法：</strong>41部门428行按代码合并为371项；155旧收录、90本次三批注册路径、95待研究、19旧届、6暂停和6武汉分别对账。</p>
 
 <p><strong>排除项：</strong>Course sectiontype only; exact official DegreeCourseLevel_ss Undergraduate；All subjects, modes, sites; exclude postgraduate and unclassified non-course pages；Single record per course URL; if one page advertises 2026 and 2027 retain current 2027 intake and preserve all dates</p>
 
 **尚未解决的目录缺口：**
 
-- 371是包含旧届、暂停、在读路径和合作校区的规章代码数，不是2027开放招生总数；176条当前查询记录仍未覆盖全校全部路线。
-- 尚有179个现行规章候选待核实际入口与详情，其中175个海外或实习变体及4个专门入口。
+- 371是包含旧届、暂停、在读路径和合作校区的规章代码数，不是2027开放招生总数；260条当前查询记录仍未覆盖全校全部路线。
+- 尚有95个现行规章候选待核实际入口与详情，其中91个海外或实习变体及4个专门入口。
 - 6个武汉联办项目须分别核地点、合作招生身份、授位与费用；不套杜伦市普通国际生规则。
 - 19个Last intake及6个2026/27暂停条目不据此推定2027恢复，也不一律认定永久停招。
 - 原有2027人工智能BSc/MEng、Cranmer神学及旧2026 NN4H虽未在当期规章索引列出，仍保留既有证据与适用年度。
@@ -504,5 +588,89 @@ hide:
 - [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Geography)
 - [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Law)
 - [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/department/Sport%20and%20Exercise%20Sciences)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/V113)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/V114)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/QV15)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/QV16)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/V104)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/V106)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/Q821)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/Q822)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/Q806)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/Q808)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/Q302)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/Q303)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/Q2V1)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/Q2V2)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/Q3V5)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/Q3V6)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/V103)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/V105)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/LA02)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/LA03)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/VA02)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/VA03)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/W302)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/W303)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/V500A)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/V500P)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/L2V5)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/L2V6)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CV58)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/C8V5)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/V5V6)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/V5V7)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/VLLA)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/VLL6)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/V618)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/V619)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/V615)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/V620)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/LL01)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/LL02)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/C703)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/C704)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/C105)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/C108)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/G409)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/G410)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/G407)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/G408)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/F649)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/F648)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/F632)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/F631)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/F605)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/F603)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/F667)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/F666)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/F647)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/F646)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H216)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H215)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H413)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H412)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H913)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H912)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H213)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H212)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H513)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H516)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H512)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H515)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H713)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H716)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H712)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H715)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H313)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H316)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H312)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H315)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H813)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H812)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H107)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H108)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H105)
+- [官方目录来源](https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/H106)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

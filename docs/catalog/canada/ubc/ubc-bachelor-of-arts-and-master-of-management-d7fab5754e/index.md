@@ -21,7 +21,7 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27校历；2027招生细则未单独核实</strong></div><div><span>学制</span><strong>本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明</strong></div><div><span>国际生学费</span><strong>本科费＋另计MM费；2027准确报价未核</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Okanagan · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Okanagan · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -45,6 +45,9 @@ hide:
 
 <p class="catalog-fact"><strong>公开版本差异：</strong>现行学院页列本科COMM_O101与105及可选拓展活动；校历专页仍列MGMT_O100、110和至少两次一周workshop。学院页本身同时写总长4.5年与“本科4年＋MM8个月”；部分校历专页写4.5年，BSc及BSust写4年8个月。本条保留两种公开说明，未将不同版本课程和年限拼成确定2027方案。</p>
 <p class="fact-sources"><a href="#source-p-UBCS-ok-bmm-new">官方依据</a> · <a href="#source-p-UBCS-ok-ba-mm">官方依据</a></p>
+
+<p class="catalog-fact"><strong>主要教学语言及适用范围：</strong>学校说明以英语为主要教学语言；本条引用学校通则，具体语言课程、海外或校外教学阶段须另核。</p>
+<p class="fact-sources"><a href="#source-p-UBCR-teaching-language-okanagan">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -74,5 +77,6 @@ hide:
 
 <div class="catalog-source" id="source-p-UBCS-ok-bmm-new"><div><a href="https://management.ok.ubc.ca/academic-programs/bachelor-master-of-management-dual-degree/">UBC — Bachelor + Master of Management Dual Degree ↗</a><p>正式组合与课程阶段；公开版本差异；申请与学位边界；在校申请周期；分段费用</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UBCS-ok-ba-mm"><div><a href="https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/dual-degree-program-option-bachelor-arts-and-master-management">UBC — Dual Degree Program Option: Bachelor of Arts and Master of Management ↗</a><p>正式组合与课程阶段；公开版本差异；分段费用</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCR-teaching-language-okanagan"><div><a href="https://you.ubc.ca/applying-ubc/requirements/english-language-competency-ok/">UBC Okanagan — English language competency ↗</a><p>Okanagan页面开头：UBC以英语为主要教学语言；不继承本页具体考试年份及分数</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/ubc/">← 返回英属哥伦比亚大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -21,7 +21,7 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>大学先修后4年MD</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Vancouver、Okanagan、Victoria、Northern BC（一个分布式MD） · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Vancouver、Okanagan、Victoria、Northern BC（一个分布式MD） · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -48,6 +48,9 @@ hide:
 
 <p class="catalog-fact"><strong>入口与名称说明：</strong>四地点为同一授位与招生体系，不创建四个独立MD记录。</p>
 <p class="fact-sources"><a href="#source-p-UBCS-professional-16815c2e127d">官方依据</a> · <a href="#source-p-UBCS-professional-25ac408254fb">官方依据</a> · <a href="#source-p-UBCS-professional-82e611e2057e">官方依据</a></p>
+
+<p class="catalog-fact"><strong>主要教学语言及适用范围：</strong>学校说明以英语为主要教学语言；本条引用学校通则，具体语言课程、海外或校外教学阶段须另核。</p>
+<p class="fact-sources"><a href="#source-p-UBCR-teaching-language-okanagan">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -84,5 +87,6 @@ hide:
 <div class="catalog-source" id="source-p-UBCS-professional-16815c2e127d"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-medicine/doctor-medicine/introduction">UBC — Introduction ↗</a><p>一个分布式MD，不是四个独立学位；医学职业阶段</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UBCS-professional-25ac408254fb"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-medicine/doctor-medicine/degree-requirements">UBC — Degree Requirements ↗</a><p>一个分布式MD，不是四个独立学位</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UBCS-professional-82e611e2057e"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-medicine/doctor-medicine/admission">UBC — Admission ↗</a><p>国籍/居留与大学学分；2027入学课程条件</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCR-teaching-language-okanagan"><div><a href="https://you.ubc.ca/applying-ubc/requirements/english-language-competency-ok/">UBC Okanagan — English language competency ↗</a><p>Okanagan页面开头：UBC以英语为主要教学语言；不继承本页具体考试年份及分数</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/ubc/">← 返回英属哥伦比亚大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

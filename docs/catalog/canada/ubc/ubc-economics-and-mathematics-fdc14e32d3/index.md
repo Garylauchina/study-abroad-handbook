@@ -21,7 +21,7 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27校历；2027招生细则未单独核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>2026/27参考CAD 1,717.68／学分；2027/28未确认</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -42,6 +42,9 @@ hide:
 
 <p class="catalog-fact"><strong>联合专业课程：</strong>BA路线，含初阶经济学、编程、微积分、线性代数及微分方程，高年级经济学至少18学分、数学至少18；同时满足全BA要求。</p>
 <p class="fact-sources"><a href="#source-p-UBCS-vancouver-562cf498153f">官方依据</a></p>
+
+<p class="catalog-fact"><strong>主要教学语言及适用范围：</strong>学校说明以英语为主要教学语言；本条引用学校通则，具体语言课程、海外或校外教学阶段须另核。</p>
+<p class="fact-sources"><a href="#source-p-UBCR-teaching-language">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -81,6 +84,7 @@ hide:
 
 <div class="catalog-source" id="source-p-UBCS-vancouver-562cf498153f"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/vancouver-school-economics/bachelor-arts-economics">UBC — Bachelor of Arts in Economics ↗</a><p>联合专业课程；校内专门申请</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UBCR-vancouver-fee-202627"><div><a href="https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate">UBC Vancouver — 2026/27 undergraduate tuition ↗</a><p>所属单一本科学位的2026/27国际每学分收费与后续调价边界</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCR-teaching-language"><div><a href="https://you.ubc.ca/applying-ubc/requirements/english-language-competency/">UBC — English language competency ↗</a><p>开头说明UBC以英语为主要教学语言；具体语言课程、海外与合作校阶段另核；不把2026/27英语考试条件推定为2027/28</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-fees-v"><div><a href="https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate">UBC Vancouver2026/27本科学费 ↗</a><p>2026S及以后新生档、国际每学分金额与后续年度规则</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-fee-policy"><div><a href="https://vancouver.calendar.ubc.ca/fees/policies-fees">UBC Vancouver收费政策 ↗</a><p>收费身份、工作许可旧豁免停止及过渡规则</p><small>核验 2026-09-12</small></div></div>
 

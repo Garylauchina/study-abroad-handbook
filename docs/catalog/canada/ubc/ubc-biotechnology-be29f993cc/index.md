@@ -21,7 +21,7 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>5年；132学术学分</strong></div><div><span>国际生学费</span><strong>UBC与BCIT联合路线，分校分阶段费用本轮未取得。</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Vancouver与BCIT校区 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Vancouver与BCIT校区 · <strong>授课语言：</strong>UBC阶段英语为主；BCIT阶段待核</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -51,6 +51,9 @@ hide:
 
 <p class="catalog-fact"><strong>实习阶段与时间要求：</strong>须完成四次可用实习中的三次，且至少一次在秋季或冬季。第二三年BCIT阶段若只完成一次，第四五年须至少两次；BCIT阶段若完成两次，后段须至少一次。实习学分不计入132学术学分，项目通常以最后一个学习学期结束。</p>
 <p class="fact-sources"><a href="#source-p-UBC2-vancouver-5919287fa01a">官方依据</a></p>
+
+<p class="catalog-fact"><strong>主要教学语言及适用范围：</strong>UBC说明本校以英语为主要教学语言；本联合项目BCIT阶段的具体授课语言尚未单独核实。</p>
+<p class="fact-sources"><a href="#source-p-UBCR-teaching-language">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -82,5 +85,6 @@ hide:
 
 <div class="catalog-source" id="source-p-program"><div><a href="https://you.ubc.ca/programs/">UBC官方本科项目资料：Biotechnology ↗</a><p>公开完整programsListData中的培养内容、项目类型及官方项目入口</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-UBC2-vancouver-5919287fa01a"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/biotechnology">UBC Academic Calendar — Biotechnology ↗</a><p>联合荣誉学位及阶段；二年级专门入口；实习次数脚注优先；双校费用缺口</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCR-teaching-language"><div><a href="https://you.ubc.ca/applying-ubc/requirements/english-language-competency/">UBC — English language competency ↗</a><p>开头说明UBC以英语为主要教学语言；具体语言课程、海外与合作校阶段另核；不把2026/27英语考试条件推定为2027/28</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/ubc/">← 返回英属哥伦比亚大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

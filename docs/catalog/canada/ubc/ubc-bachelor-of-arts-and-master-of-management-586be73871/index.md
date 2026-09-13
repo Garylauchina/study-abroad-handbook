@@ -21,7 +21,7 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27校历；2027招生细则未单独核实</strong></div><div><span>学制</span><strong>通常4.5年；先完成本科再完成MM阶段</strong></div><div><span>国际生学费</span><strong>本科费＋另计MM费；2027全程国际报价未核</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -45,6 +45,9 @@ hide:
 
 <p class="catalog-fact"><strong>本科内管理课程：</strong>共同校历列本科阶段12学分商业课程：COMM120、220各3学分，320、321、420、421各1.5学分，覆盖商业体验、沟通、会计、组织行为、营销与金融；其中6学分高年级课程按规则可同时计入MM。</p>
 <p class="fact-sources"><a href="#source-p-UBCS-dual-a351f90de156">官方依据</a></p>
+
+<p class="catalog-fact"><strong>主要教学语言及适用范围：</strong>学校说明以英语为主要教学语言；本条引用学校通则，具体语言课程、海外或校外教学阶段须另核。</p>
+<p class="fact-sources"><a href="#source-p-UBCR-teaching-language">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -73,5 +76,6 @@ hide:
 
 <div class="catalog-source" id="source-p-UBCS-van-ba-mm"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/dual-degree-program-option-bachelor-arts-and-master-management">UBC — Dual Degree Program Option: Bachelor of Arts and Master of Management ↗</a><p>授予学位与分阶段安排</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UBCS-dual-a351f90de156"><div><a href="https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-commerce-and-business-administration/undergraduate-program-master-management-dual-degree-program-option">UBC — Undergraduate Program-Master of Management Dual Degree Program Option ↗</a><p>本科内管理课程；双申请与升段；费用范围</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UBCR-teaching-language"><div><a href="https://you.ubc.ca/applying-ubc/requirements/english-language-competency/">UBC — English language competency ↗</a><p>开头说明UBC以英语为主要教学语言；具体语言课程、海外与合作校阶段另核；不把2026/27英语考试条件推定为2027/28</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/canada/ubc/">← 返回英属哥伦比亚大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -1,32 +1,33 @@
 {
   "summary": {
-    "checked_at": "2026-09-13",
-    "department_list_pages": 41,
-    "department_rows": 428,
-    "unique_programme_codes": 371,
-    "classification": {
-      "existing": 155,
-      "new": 185,
-      "historical_not_current": 19,
-      "partner_route": 6,
-      "suspended_2026_27": 6
-    },
-    "dispositions": {
+    "registry_unique_codes": 371,
+    "original_inventory": 159,
+    "new_batch1": 17,
+    "new_batch2": 40,
+    "new_batch3": 44,
+    "first_batch_named_nonregistry_combinations": 11,
+    "new_total_three_batches": 101,
+    "current_snapshot_inventory": 260,
+    "disposition_counts": {
       "retain_existing": 155,
-      "defer_registered_variant_detail_review": 175,
+      "ready_batch2_registered_variant": 40,
       "defer_specific_entry_identity_review": 4,
       "do_not_add_current_last_intake": 19,
+      "ready_batch3_registered_variant": 44,
       "defer_partner_route_separate_identity": 6,
+      "defer_registered_variant_detail_review": 91,
       "prepared_new_registered_pathway": 6,
       "do_not_add_current_suspension": 6
     },
-    "new_named_routes_outside_separate_handbook_codes": 11,
-    "new_registered_codes_prepared": 6,
-    "existing_inventory_retained": 159,
-    "existing_outside_handbook": 4,
-    "prepared_new_records": 17,
-    "complete_2027_admission_catalogue": false,
-    "counts_are": "programme regulations registry including current internal variants, prior cohorts, temporary suspensions and partner-campus programmes; not a count of standalone UCAS courses"
+    "remaining_detail_candidates": 95,
+    "partner_routes_separate": 6,
+    "complete_2027_catalogue_proven": false,
+    "notes": [
+      "371个正式在读规章代码不是371个2027独立高中招生学位。",
+      "19个末次招生历史项、6个2026/27暂停项和6个Wuhan合作项均未变更。",
+      "第三批只推进44个具名外出路线的课程与转入事实；2027费用金额及本路线单列毕业统计仍未取得。",
+      "当前全量260快照保留第二批冻结216；root已在产品作的展示精确化不在此快照，集成时以44增量合并，不用快照覆盖产品。"
+    ]
   },
   "records": [
     {
@@ -91,8 +92,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-ancient-history-with-year-abroad-b025c7a75f"
     },
     {
       "department": "Archaeology",
@@ -168,8 +171,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-ancient-history-and-archaeology-with-placement-year-b804c6cdf5"
     },
     {
       "department": "Archaeology",
@@ -206,8 +211,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-ancient-history-and-archaeology-with-year-abroad-c11601dc06"
     },
     {
       "department": "Classics and Ancient History",
@@ -238,8 +245,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-ancient-history-with-placement-year-6da68aa4ab"
     },
     {
       "department": "History",
@@ -315,8 +324,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-ancient-medieval-and-modern-history-with-year-abroad-418d0ece7d"
     },
     {
       "department": "History",
@@ -353,8 +364,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-ancient-medieval-and-modern-history-with-placement-year-1901885d82"
     },
     {
       "department": "Classics and Ancient History",
@@ -418,8 +431,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-classical-civilisation-with-year-abroad-66834016a9"
     },
     {
       "department": "Classics and Ancient History",
@@ -450,8 +465,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-classical-civilisation-with-placement-year-62de5a7944"
     },
     {
       "department": "Classics and Ancient History",
@@ -508,8 +525,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-classics-with-year-abroad-f102ab98f9"
     },
     {
       "department": "Classics and Ancient History",
@@ -540,8 +559,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-classics-with-placement-year-0fc2788c92"
     },
     {
       "department": "English Studies",
@@ -598,8 +619,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-english-literature-with-year-abroad-956630fcca"
     },
     {
       "department": "History",
@@ -668,8 +691,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-english-literature-and-history-with-year-abroad-1c3630cf36"
     },
     {
       "department": "History",
@@ -706,8 +731,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-english-literature-and-history-with-placement-year-f41e7662da"
     },
     {
       "department": "Philosophy",
@@ -776,8 +803,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-english-literature-and-philosophy-with-year-abroad-180ec307ce"
     },
     {
       "department": "Philosophy",
@@ -814,8 +843,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-english-literature-and-philosophy-with-placement-year-7563d75ae1"
     },
     {
       "department": "English Studies",
@@ -846,8 +877,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-english-literature-with-placement-year-1b47d1badb"
     },
     {
       "department": "History",
@@ -904,8 +937,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-history-year-abroad-bc1c00e8bd"
     },
     {
       "department": "History",
@@ -936,8 +971,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-history-with-placement-year-40519fb3dd"
     },
     {
       "department": "Modern Languages and Cultures",
@@ -1064,8 +1101,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-liberal-arts-with-placement-year-ee6b7e8e4a"
     },
     {
       "department": "Liberal Arts",
@@ -1096,8 +1135,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-liberal-arts-with-year-abroad-a8106967f2"
     },
     {
       "department": "Modern Languages and Cultures (Chinese)",
@@ -1333,8 +1374,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-visual-arts-and-film-with-placement-year-2401236dc3"
     },
     {
       "department": "Modern Languages and Cultures (Visual)",
@@ -1371,8 +1414,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-visual-arts-and-film-with-year-abroad-078dede428"
     },
     {
       "department": "Music",
@@ -1429,8 +1474,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-music-with-year-abroad-d3fa964490"
     },
     {
       "department": "Philosophy",
@@ -1572,8 +1619,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-music-with-placement-year-07f988bd96"
     },
     {
       "department": "Philosophy",
@@ -1630,8 +1679,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-philosophy-with-year-abroad-b35b14095b"
     },
     {
       "department": "Government and International Affairs",
@@ -1700,8 +1751,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-philosophy-and-politics-with-year-abroad-86feaeabb8"
     },
     {
       "department": "Government and International Affairs",
@@ -1738,8 +1791,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-philosophy-and-politics-with-placement-year-969b096788"
     },
     {
       "department": "Psychology",
@@ -1808,8 +1863,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-philosophy-and-psychology-with-year-abroad-dc7357a3b9"
     },
     {
       "department": "Psychology",
@@ -1846,8 +1903,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-philosophy-and-psychology-with-placement-year-4d69cc153f"
     },
     {
       "department": "Theology and Religion",
@@ -1916,8 +1975,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-philosophy-and-theology-with-year-abroad-c7808a2343"
     },
     {
       "department": "Theology and Religion",
@@ -1954,8 +2015,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-philosophy-and-theology-with-placement-year-bfd036727d"
     },
     {
       "department": "Philosophy",
@@ -1986,8 +2049,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-philosophy-with-placement-year-6b59fcc778"
     },
     {
       "department": "Government and International Affairs",
@@ -2068,8 +2133,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-philosophy-politics-and-economics-with-placement-year-e3e329330c"
     },
     {
       "department": "Government and International Affairs",
@@ -2112,8 +2179,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-philosophy-politics-and-economics-with-study-abroad-9d2f5f0038"
     },
     {
       "department": "Theology and Religion",
@@ -2170,8 +2239,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-religion-society-and-culture-with-year-abroad-813e084000"
     },
     {
       "department": "Theology and Religion",
@@ -2202,8 +2273,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-religion-society-and-culture-with-placement-year-1547e09696"
     },
     {
       "department": "Theology and Religion",
@@ -2260,8 +2333,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-theology-and-religion-with-year-abroad-5e433241f2"
     },
     {
       "department": "Theology and Religion",
@@ -2292,8 +2367,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-theology-and-religion-with-placement-year-62f84f7c19"
     },
     {
       "department": "Accounting",
@@ -2775,8 +2852,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-economics-and-politics-with-placement-year-159e4fc1b7"
     },
     {
       "department": "Government and International Affairs",
@@ -2813,8 +2892,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch2_registered_variant",
+      "note": "2026/27具名在读外出路线已逐条核课程与转入条件；仍非已核2027独立UCAS入口，外出学费和路线单列毕业统计未取得。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-economics-and-politics-with-study-abroad-d037b9424e"
     },
     {
       "department": "Economics",
@@ -3511,8 +3592,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-biochemistry-with-placement-345d187d91"
     },
     {
       "department": "Biosciences",
@@ -3543,8 +3626,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-biochemistry-with-year-abroad-0d40257b53"
     },
     {
       "department": "Biosciences",
@@ -3601,8 +3686,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-biological-sciences-with-placement-2af004aae1"
     },
     {
       "department": "Biosciences",
@@ -3633,8 +3720,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-biological-sciences-with-year-abroad-0dffcda11d"
     },
     {
       "department": "Biosciences",
@@ -3839,8 +3928,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-computer-science-with-placement-f2d38f9954"
     },
     {
       "department": "Computer Science",
@@ -3871,8 +3962,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-computer-science-with-placement-97552a91cf"
     },
     {
       "department": "Computer Science",
@@ -3903,8 +3996,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-computer-science-with-year-abroad-2706ff128e"
     },
     {
       "department": "Computer Science",
@@ -3935,8 +4030,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-computer-science-with-year-abroad-c8ed28c27d"
     },
     {
       "department": "Earth Sciences",
@@ -3993,8 +4090,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-climate-science-with-placement-582eb65319"
     },
     {
       "department": "Earth Sciences",
@@ -4025,8 +4124,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-climate-science-with-year-abroad-54ec92af79"
     },
     {
       "department": "Earth Sciences",
@@ -4109,8 +4210,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-environmental-geosciences-with-placement-6ab5f6d7a9"
     },
     {
       "department": "Earth Sciences",
@@ -4141,8 +4244,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-environmental-geosciences-with-year-abroad-cbf214d27b"
     },
     {
       "department": "Earth Sciences",
@@ -4199,8 +4304,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-geology-with-placement-d52a9022f1"
     },
     {
       "department": "Earth Sciences",
@@ -4231,8 +4338,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-geology-with-year-abroad-d875b9cc79"
     },
     {
       "department": "Earth Sciences",
@@ -4289,8 +4398,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-geophysics-with-placement-39f257d609"
     },
     {
       "department": "Earth Sciences",
@@ -4321,8 +4432,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-geophysics-with-year-abroad-94adb082fa"
     },
     {
       "department": "Earth Sciences",
@@ -4379,8 +4492,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-geoscience-with-placement-f925652747"
     },
     {
       "department": "Earth Sciences",
@@ -4411,8 +4526,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-geoscience-with-year-abroad-8cf0379446"
     },
     {
       "department": "Engineering",
@@ -4469,8 +4586,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-civil-with-placement-63342a813c"
     },
     {
       "department": "Engineering",
@@ -4501,8 +4620,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-civil-with-year-abroad-f57c47fcbc"
     },
     {
       "department": "Engineering",
@@ -4559,8 +4680,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-aeronautical-with-placement-86c4a4fd97"
     },
     {
       "department": "Engineering",
@@ -4591,8 +4714,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-aeronautical-with-year-abroad-cda0f6e2f3"
     },
     {
       "department": "Engineering",
@@ -4649,8 +4774,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-bioengineering-with-placement-d6c2c89d73"
     },
     {
       "department": "Engineering",
@@ -4681,8 +4808,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-bioengineering-with-year-abroad-837969d415"
     },
     {
       "department": "Engineering",
@@ -4739,8 +4868,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-civil-with-placement-54f4965eea"
     },
     {
       "department": "Engineering",
@@ -4771,8 +4902,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-civil-with-year-abroad-c4a499544b"
     },
     {
       "department": "Engineering",
@@ -4855,8 +4988,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-electrical-with-placement-4c08472d0d"
     },
     {
       "department": "Engineering",
@@ -4887,8 +5022,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-electrical-with-placement-e9a621ee22"
     },
     {
       "department": "Engineering",
@@ -4919,8 +5056,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-electrical-with-year-abroad-4911737e0e"
     },
     {
       "department": "Engineering",
@@ -4951,8 +5090,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-electrical-with-year-abroad-7127fc7b8e"
     },
     {
       "department": "Engineering",
@@ -5035,8 +5176,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-electronic-with-placement-8f863f41ec"
     },
     {
       "department": "Engineering",
@@ -5067,8 +5210,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-electronic-with-placement-10aa0c07cf"
     },
     {
       "department": "Engineering",
@@ -5099,8 +5244,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-electronic-with-year-abroad-ed71574807"
     },
     {
       "department": "Engineering",
@@ -5131,8 +5278,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-electronic-with-year-abroad-59118e4d20"
     },
     {
       "department": "Engineering",
@@ -5215,8 +5364,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-mechanical-with-placement-e3e5f8f84c"
     },
     {
       "department": "Engineering",
@@ -5247,8 +5398,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-mechanical-with-placement-9d57d05cc0"
     },
     {
       "department": "Engineering",
@@ -5279,8 +5432,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-mechanical-with-year-abroad-94787ec87e"
     },
     {
       "department": "Engineering",
@@ -5311,8 +5466,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-mechanical-with-year-abroad-4254e78950"
     },
     {
       "department": "Engineering",
@@ -5369,8 +5526,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-renewable-energy-with-placement-7bac04a6ce"
     },
     {
       "department": "Engineering",
@@ -5401,8 +5560,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-engineering-renewable-energy-with-year-abroad-da2507954d"
     },
     {
       "department": "Engineering",
@@ -5485,8 +5646,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-general-engineering-with-placement-year-ceb3318712"
     },
     {
       "department": "Engineering",
@@ -5517,8 +5680,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-general-engineering-with-placement-year-891e18600c"
     },
     {
       "department": "Engineering",
@@ -5549,8 +5714,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-general-engineering-with-year-abroad-8dd6844068"
     },
     {
       "department": "Engineering",
@@ -5581,8 +5748,10 @@
         "capture_format": "public_pdf",
         "body_review_status": "acquired_for_followup_not_fully_authored"
       },
-      "disposition": "defer_registered_variant_detail_review",
-      "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
+      "disposition": "ready_batch3_registered_variant",
+      "note": "2026/27当前具名本科／整合硕士在读外出路线已核；非已核2027独立UCAS入口，金额与单列毕业统计仍缺。",
+      "prior_disposition": "defer_registered_variant_detail_review",
+      "prepared_inventory_id": "durham-general-engineering-with-year-abroad-713a4befe6"
     },
     {
       "department": "Global Wuhan",
@@ -11351,5 +11520,5 @@
       "note": "具名外出路线已列在正式规章；需要逐条转入规则、学制与阶段费用，未完成中文详情前不加入本批可导入数据。"
     }
   ],
-  "source_manifest_sha256": "69933d65c52fb9f431b84c6f9ec31896305f7d3eee1cc82dac554442ef1d538b"
+  "source_manifest_sha256": "48f9d4637414b232fb63518f9f1fb1e96571706dfa8d2dab2f011b300bbd08e7"
 }

@@ -3,8 +3,8 @@
   "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 419,
-    "scope": "419个本科学位、具名方向与专业阶段条目；包括167个本批新增，非419个独立高中招生学位",
+    "count": 436,
+    "scope": "419原记录＋3共同学位入口＋14在读主修与方向；非436个独立高中招生项目",
     "method": "按两校区现行校历的实际具名条目逐项比对、保留旧入口和适用届次；联合荣誉、集中方向和工程共享组件分别核验，不排列组合。",
     "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
     "sources": [
@@ -16,7 +16,7 @@
       {
         "url": "https://you.ubc.ca/applying-ubc/requirements/international-high-schools/",
         "sha256": "0b6d582b49dd2d400ed1e842a92526c323f74d6505953670440d28633816f63f",
-        "raw_file": "scratch/full-catalog/root/ubc-china-vancouver-post.html"
+        "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/china-vancouver.json"
       },
       {
         "url": "https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate",
@@ -757,16 +757,184 @@
         "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-management/bachelor-commerce-program-students-entering-program-20262027-or-later/concentrations/organizational-behaviour-and-human-resources",
         "sha256": "fa679735391fcdd61ef8536f8866556d610a01ed9065d203ec08ae75a410fb79",
         "raw_file": "scratch/full-catalog/ubc-supplement-2/raw/ok-bcom-7.html"
+      },
+      {
+        "url": "https://you.ubc.ca/applying-ubc/requirements/english-language-competency/",
+        "sha256": "b439dfd82132a9fff447f39b8ec30e4e9f502a45156e8e9071efe83a4b8c453d",
+        "raw_file": "scratch/full-catalog/root/ubc-teaching-language.html"
+      },
+      {
+        "url": "https://you.ubc.ca/applying-ubc/requirements/english-language-competency-ok/",
+        "sha256": "e4162eb98cb27cfdbd6853abe80ac575b8bfbfc05eac9f99dcbaf59e9bf8e5d2",
+        "raw_file": "scratch/full-catalog/root/ubc-teaching-language-okanagan.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/registration-and-program-approval",
+        "sha256": "ae617a06bdcb85a2a40372d88d29f76a33b6c55c3d6d8c608f0f2499ce236911",
+        "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/lfs-major-registration.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/bioeconomy-sciences-and-technology",
+        "sha256": "70c87e19bb0613920a0b690394052283ee85e85480cd5a4ae8594209bf72586d",
+        "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/bsnr-bioeconomy.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/academic-regulations",
+        "sha256": "24904fb62334d351ff86098cbc39d4ca2c57ccc041ee63148f1b8eeccd360be4",
+        "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/forestry-regulations.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsc-forest-bioeconomy-sciences-and-technology/admission",
+        "sha256": "11fcd6375efcb320ec0891c1f6a9c2f695ac9482e29773caed762a27f213414c",
+        "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/old-best-admission.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/conservation",
+        "sha256": "68cb7fabdb0a115702f101c70d1b10db05faf964215db32d5da7d7d2cffbcb39",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-6de85c856f4f.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsc-natural-resources-conservation/admission",
+        "sha256": "1dca59c3e5cba37df1942684496c166c2331c2d6f6c28dc5438cf0b51523a2ae",
+        "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/old-conservation-admission.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-management",
+        "sha256": "31c74da82bab2c09c8d412ed24aa2ae810728fc8237412e715217d7cc92226d5",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-329fc4f47330.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsf-bachelor-science-forestry/admission",
+        "sha256": "464855d05fdd15e0a62a2b53f917dd8a390a60ba362a8b2ad198dfa23c00d98a",
+        "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/old-bsf-admission.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-operations",
+        "sha256": "a49a46d0be6d20cf145181b1be33c7d68e523e6c2bfc73cae5bbaaf53a9ffea7",
+        "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/bsnr-forest-operations.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-sciences",
+        "sha256": "a603add7a502b897e0901c1ce398c162d85abb663158c8bd9ec525cc68934bc0",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-b6773e6477e9.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsc-forest-sciences/introduction",
+        "sha256": "8d916063870a79deeca0a357d382cad42cad644c2ebdab51b8a798e61d5d6957",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-468753a1012e.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/food-and-environment-major",
+        "sha256": "aa126da7fc16fdb0945a2c22b500c0efc4ac0a8c08036390e6957e237c9d9bc8",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-a8ace76502ce.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/applied-plant-and-soil-science-major",
+        "sha256": "8c5e7a82d3cfaf702b32b9c7664d42c031ed69060ef35bf992a3fedc03d72325",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-300df10059a2.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-degrees-students-who-started-prior-september-2024/bsc-wood-products-processing/admission",
+        "sha256": "225b447f77bfb7854816a21808256f4626a8536413646df575ad658bc73465ee",
+        "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/old-wood-admission.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/wood-products",
+        "sha256": "2b4093e594193f25c9511ee3f0f245dd408ea0a943ec054e41a989e512ff4f50",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-328195b1b089.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/admission",
+        "sha256": "361a48ddddcc7eaf63d6146beda19f12a6e7048ffb8a225c655e10066791b08a",
+        "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/bsnr-admission.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/first-year-curriculum",
+        "sha256": "70108f5612e4e0ec6b602dd46e6daa3bec8fb8f99683cc0c2514cf4f894155a5",
+        "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/bsnr-first-year.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024",
+        "sha256": "66be968b52b0f8f1be915120583bd2a2e9cbb552e1191082697518865deb7d20",
+        "raw_file": "scratch/full-catalog/ubc-supplement/raw/vancouver-0354bada87fa.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/introduction",
+        "sha256": "31bee79714bebb6114375d7ceedd410374cd9fbf1a2d5eebbc23079d155fc8b8",
+        "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/bsnr-intro.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/fees/policies-fees",
+        "sha256": "32f124930ac37fc9d0bfa40db75ce629c97847a55f7bf56c5ed0bef6533d7eab",
+        "raw_file": "scratch/full-catalog/ubc-supplement-2/review/fee-policy.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/fees/program-course-and-faculty-fees",
+        "sha256": "78e243c3e8054fe84241a9dde503aa66cd13766b046cc62ae456565ef26039b6",
+        "raw_file": "scratch/full-catalog/root/ubc-course-fees.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/admission",
+        "sha256": "7d83e71b1b479a3ba423f969efce18f6222fdd638eb8a57f6991279d1eb46d14",
+        "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/apbi-admission.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/introduction",
+        "sha256": "d08490c3b3a1b00e4b076298a48e6c6b678b3afda21ee1a1ec4009110086841a",
+        "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/apbi-intro.html"
+      },
+      {
+        "url": "https://you.ubc.ca/appliedbiology/",
+        "sha256": "247e40a2e99fdb0a85a506ff44174fa9d4323ad9b882743ccfbff5fd1e53cbe3",
+        "raw_file": "scratch/full-catalog/ubc-forestry-supplement/raw/apbi-public.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/forestry-co-op",
+        "sha256": "1b76a4980078c04390799f196ecf4a8a9290c5b6b4e01d58c88368b3eab10eb2",
+        "raw_file": "scratch/full-catalog/root/ubc-forestry-coop-calendar.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/admission",
+        "sha256": "2ff1ff8f8f8d327d7b2889831bfc749423fa7a6b1bd13ef84d099186007368ba",
+        "raw_file": "scratch/full-catalog/ubc-fre-supplement/admission.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/business-and-markets-major",
+        "sha256": "a36d17070c3a6b203e4996f5ea05f7eeca73cec7a29f8d9acbbcc6a36b531fc4",
+        "raw_file": "scratch/full-catalog/ubc-fre-supplement/business-markets.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/data-analytics-major",
+        "sha256": "3d5ec147a1e41b5e47feaed9a093c7562867d733d3c796d2a817ae27e68367de",
+        "raw_file": "scratch/full-catalog/ubc-fre-supplement/data-analytics.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre",
+        "sha256": "0079c1dc456b077c7793d0d343c725eb21eca357459836e560f6e52c6a6f384b",
+        "raw_file": "scratch/full-catalog/ubc-fre-supplement/degree.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/introduction",
+        "sha256": "dacee82b601211af464a404f80f8ea43929097376256f22dc534195f2d569241",
+        "raw_file": "scratch/full-catalog/ubc-fre-supplement/intro.html"
+      },
+      {
+        "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/degree-requirements-students-entering-program-202324-or-earlier",
+        "sha256": "50b81d03de3adb0c3c7fc366b900d6fea7b33d070b98b3e4b97325a89f519ee7",
+        "raw_file": "scratch/full-catalog/ubc-fre-supplement/old.html"
       }
     ],
     "gaps": [
-      "目录仍未全部闭合，419不是UBC官方宣布的本科专业总数。",
+      "目录仍未全部闭合，436不是UBC官方宣布的本科专业总数。",
       "Behavioural Neuroscience普通major暂停；荣誉旧表存在，但2027新增入口仍待确认。",
       "Oceanography的部分例示联合荣誉、Okanagan泛称combined-major组件、Engineering Physics技术选修及BME新版方向仍待具名注册证据。",
-      "Forestry/BSNR与Applied Biology的2026W重组及其他尚未重审学院仍需继续核对；旧BME streams和停开的Thermofluids不作为现行入口。",
+      "BSNR转轨已核为2024年9月，Applied Biology旧届界线为2018W；林学院其他联合项目及尚未重审学院仍需继续核对；旧BME streams和停开的Thermofluids不作为现行入口。",
       "2027逐专业招生日期、中国高中资格、名额及毕业统计仍存在未核项。校内成绩与普通高中录取要求分别说明。",
       "UBC/BCIT联合项目仍缺完整分校、分阶段国际收费；单校参考价不适用于全部阶段。2026/27费率不等于2027/28报价。",
-      "课程表已核的主要规则不代表每门选修先修或每一历史届次已完整复核。"
+      "课程表已核的主要规则不代表每门选修先修或每一历史届次已完整复核。",
+      "Forest Sciences普通方向课15/9及荣誉12/15、BEST第五年15/18学分和Wood Co-op工作课312/121存在官方内部差异，仍待学院确认。",
+      "Co-op具体学位校历门槛已核，学院当期统一条款正文未取得；不能据此保证录取或岗位。",
+      "FRE共同学位及两个现行主修已补；直入意向信范围、专门主修日历和2027/28报价仍待核。"
     ]
   },
   "programs": [
@@ -779,7 +947,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "149486",
       "official_topics": [
         "history-law-and-politics",
@@ -796,7 +964,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "552361",
       "official_topics": [
         "people-culture-and-society"
@@ -812,7 +980,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "543",
       "official_topics": [
         "people-culture-and-society"
@@ -828,12 +996,18 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "545",
       "official_topics": [
         "health-and-life-sciences"
       ],
-      "id": "ubc-applied-animal-biology-14da95b660"
+      "id": "ubc-applied-animal-biology-14da95b660",
+      "entity_type": "共同学位下的主修",
+      "parent_program_id": "ubc-bachelor-of-science-in-applied-biology-bd18343070",
+      "parent_degree_label": "Bachelor of Science in Applied Biology",
+      "entry_route": "BSc Applied Biology内主修：不迟于学院第二个注册Session申报",
+      "record_type": "共同学位下的主修",
+      "parent_program_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/introduction"
     },
     {
       "name_en": "Archaeology",
@@ -844,7 +1018,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "539",
       "official_topics": [
         "earth-environment-and-sustainability",
@@ -863,7 +1037,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "549241",
       "official_topics": [
         "earth-environment-and-sustainability",
@@ -880,7 +1054,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "557",
       "official_topics": [
         "media-and-fine-arts"
@@ -896,7 +1070,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "555",
       "official_topics": [
         "media-and-fine-arts"
@@ -912,7 +1086,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "552362",
       "official_topics": [
         "history-law-and-politics",
@@ -929,7 +1103,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "561",
       "official_topics": [
         "languages-and-linguistics",
@@ -946,7 +1120,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "552202",
       "official_topics": [
         "math-chemistry-and-physics"
@@ -962,7 +1136,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "565",
       "official_topics": [
         "earth-environment-and-sustainability"
@@ -978,7 +1152,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "571",
       "official_topics": [
         "health-and-life-sciences",
@@ -995,7 +1169,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "569",
       "official_topics": [
         "health-and-life-sciences",
@@ -1012,7 +1186,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "560275",
       "official_topics": [
         "business-and-economics",
@@ -1020,7 +1194,13 @@
         "engineering-and-technology",
         "math-chemistry-and-physics"
       ],
-      "id": "ubc-bioeconomy-sciences-and-technology-544397d919"
+      "id": "ubc-bioeconomy-sciences-and-technology-544397d919",
+      "entity_type": "共同学位下的主修",
+      "parent_program_id": "ubc-bachelor-of-science-in-natural-resources-80456b59e3",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "entry_route": "BSNR内主修：升二年级申报，须完成至少24个规定一年级学分",
+      "record_type": "共同学位下的主修",
+      "parent_program_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024"
     },
     {
       "name_en": "Biology",
@@ -1031,7 +1211,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "573",
       "official_topics": [
         "health-and-life-sciences"
@@ -1047,7 +1227,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "575",
       "official_topics": [
         "health-and-life-sciences"
@@ -1063,7 +1243,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "560541",
       "official_topics": [
         "engineering-and-technology",
@@ -1080,7 +1260,7 @@
       "intake": null,
       "duration": "4年（页面所述培养阶段）",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "577",
       "official_topics": [
         "health-and-life-sciences",
@@ -1105,7 +1285,7 @@
       "intake": null,
       "duration": "5年；132学术学分",
       "campus": "Vancouver与BCIT校区",
-      "language": null,
+      "language": "UBC阶段英语为主；BCIT阶段待核",
       "raw_key": "579",
       "official_topics": [
         "health-and-life-sciences"
@@ -1129,7 +1309,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "581",
       "official_topics": [
         "business-and-economics"
@@ -1145,7 +1325,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "570973",
       "official_topics": [
         "business-and-economics",
@@ -1162,7 +1342,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "589",
       "official_topics": [
         "history-law-and-politics",
@@ -1179,7 +1359,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "945",
       "official_topics": [
         "health-and-life-sciences"
@@ -1195,7 +1375,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "593",
       "official_topics": [
         "engineering-and-technology"
@@ -1211,7 +1391,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "83801",
       "official_topics": [
         "engineering-and-technology"
@@ -1227,7 +1407,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "595",
       "official_topics": [
         "math-chemistry-and-physics"
@@ -1243,7 +1423,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "597",
       "official_topics": [
         "math-chemistry-and-physics"
@@ -1259,7 +1439,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "693",
       "official_topics": [
         "media-and-fine-arts"
@@ -1275,7 +1455,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "599",
       "official_topics": [
         "engineering-and-technology"
@@ -1291,7 +1471,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "601",
       "official_topics": [
         "engineering-and-technology"
@@ -1307,7 +1487,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "607",
       "official_topics": [
         "languages-and-linguistics"
@@ -1323,7 +1503,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "609",
       "official_topics": [
         "engineering-and-technology",
@@ -1340,7 +1520,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "979",
       "official_topics": [
         "earth-environment-and-sustainability",
@@ -1358,7 +1538,7 @@
       "intake": null,
       "duration": "4年；最低122学分",
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "827",
       "official_topics": [
         "business-and-economics"
@@ -1380,7 +1560,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "551378",
       "official_topics": [
         "business-and-economics"
@@ -1396,7 +1576,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "570546",
       "official_topics": [
         "engineering-and-technology"
@@ -1412,7 +1592,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "615",
       "official_topics": [
         "engineering-and-technology"
@@ -1428,7 +1608,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "617",
       "official_topics": [
         "engineering-and-technology"
@@ -1444,7 +1624,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "621",
       "official_topics": [
         "engineering-and-technology"
@@ -1460,7 +1640,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "619",
       "official_topics": [
         "engineering-and-technology"
@@ -1476,7 +1656,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "623",
       "official_topics": [
         "engineering-and-technology"
@@ -1492,13 +1672,19 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "905",
       "official_topics": [
         "earth-environment-and-sustainability",
         "health-and-life-sciences"
       ],
-      "id": "ubc-conservation-90530694b6"
+      "id": "ubc-conservation-90530694b6",
+      "entity_type": "共同学位下的主修",
+      "parent_program_id": "ubc-bachelor-of-science-in-natural-resources-80456b59e3",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "entry_route": "BSNR内主修：升二年级申报，须完成至少24个规定一年级学分",
+      "record_type": "共同学位下的主修",
+      "parent_program_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024"
     },
     {
       "name_en": "Creative Writing",
@@ -1509,7 +1695,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "627",
       "official_topics": [
         "media-and-fine-arts"
@@ -1525,7 +1711,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "629",
       "official_topics": [
         "media-and-fine-arts"
@@ -1541,7 +1727,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "633",
       "official_topics": [
         "people-culture-and-society"
@@ -1557,7 +1743,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "570977",
       "official_topics": [
         "business-and-economics",
@@ -1574,7 +1760,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "546580",
       "official_topics": [
         "engineering-and-technology"
@@ -1590,7 +1776,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "577276",
       "official_topics": [
         "engineering-and-technology"
@@ -1606,7 +1792,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "637",
       "official_topics": [
         "health-and-life-sciences"
@@ -1622,7 +1808,7 @@
       "intake": null,
       "duration": "大学前置学习后4年DMD",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "639",
       "official_topics": [
         "health-and-life-sciences"
@@ -1647,7 +1833,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "641",
       "official_topics": [
         "health-and-life-sciences"
@@ -1663,7 +1849,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "645",
       "official_topics": [
         "earth-environment-and-sustainability"
@@ -1679,7 +1865,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "647",
       "official_topics": [
         "earth-environment-and-sustainability"
@@ -1695,7 +1881,7 @@
       "intake": null,
       "duration": "4年（页面所述培养阶段）",
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "649",
       "official_topics": [
         "earth-environment-and-sustainability",
@@ -1719,7 +1905,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "655",
       "official_topics": [
         "business-and-economics"
@@ -1735,7 +1921,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "651",
       "official_topics": [
         "business-and-economics"
@@ -1751,7 +1937,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "653",
       "official_topics": [
         "business-and-economics"
@@ -1767,7 +1953,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "869",
       "official_topics": [
         "education"
@@ -1783,7 +1969,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "901",
       "official_topics": [
         "education"
@@ -1799,7 +1985,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "546362",
       "official_topics": [
         "education"
@@ -1815,7 +2001,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "985",
       "official_topics": [
         "education"
@@ -1831,7 +2017,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "546555",
       "official_topics": [
         "education"
@@ -1847,7 +2033,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "657",
       "official_topics": [
         "education"
@@ -1863,7 +2049,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "1035",
       "official_topics": [
         "education"
@@ -1879,7 +2065,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "661",
       "official_topics": [
         "engineering-and-technology"
@@ -1895,7 +2081,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "663",
       "official_topics": [
         "engineering-and-technology"
@@ -1911,7 +2097,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "667",
       "official_topics": [
         "engineering-and-technology",
@@ -1928,7 +2114,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "669",
       "official_topics": [
         "languages-and-linguistics",
@@ -1945,7 +2131,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "671",
       "official_topics": [
         "languages-and-linguistics",
@@ -1962,7 +2148,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "679",
       "official_topics": [
         "earth-environment-and-sustainability",
@@ -1979,7 +2165,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "562723",
       "official_topics": [
         "earth-environment-and-sustainability",
@@ -1996,7 +2182,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "683",
       "official_topics": [
         "earth-environment-and-sustainability",
@@ -2013,7 +2199,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "685",
       "official_topics": [
         "earth-environment-and-sustainability"
@@ -2029,7 +2215,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "691",
       "official_topics": [
         "media-and-fine-arts"
@@ -2045,7 +2231,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "697",
       "official_topics": [
         "languages-and-linguistics",
@@ -2062,7 +2248,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "699",
       "official_topics": [
         "history-law-and-politics",
@@ -2079,7 +2265,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "703",
       "official_topics": [
         "health-and-life-sciences"
@@ -2095,7 +2281,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "552201",
       "official_topics": [
         "health-and-life-sciences"
@@ -2111,7 +2297,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "709",
       "official_topics": [
         "health-and-life-sciences"
@@ -2127,13 +2313,19 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "569489",
       "official_topics": [
         "earth-environment-and-sustainability",
         "engineering-and-technology"
       ],
-      "id": "ubc-forest-management-948b3d5178"
+      "id": "ubc-forest-management-948b3d5178",
+      "entity_type": "共同学位下的主修",
+      "parent_program_id": "ubc-bachelor-of-science-in-natural-resources-80456b59e3",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "entry_route": "BSNR内主修：升二年级申报，须完成至少24个规定一年级学分",
+      "record_type": "共同学位下的主修",
+      "parent_program_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024"
     },
     {
       "name_en": "Forest Operations",
@@ -2144,14 +2336,20 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "711",
       "official_topics": [
         "business-and-economics",
         "earth-environment-and-sustainability",
         "engineering-and-technology"
       ],
-      "id": "ubc-forest-operations-600750349c"
+      "id": "ubc-forest-operations-600750349c",
+      "entity_type": "共同学位下的主修",
+      "parent_program_id": "ubc-bachelor-of-science-in-natural-resources-80456b59e3",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "entry_route": "BSNR内主修：升二年级申报，须完成至少24个规定一年级学分",
+      "record_type": "共同学位下的主修",
+      "parent_program_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024"
     },
     {
       "name_en": "Forest Sciences",
@@ -2162,14 +2360,20 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "715",
       "official_topics": [
         "earth-environment-and-sustainability",
         "health-and-life-sciences",
         "math-chemistry-and-physics"
       ],
-      "id": "ubc-forest-sciences-95f3233a62"
+      "id": "ubc-forest-sciences-95f3233a62",
+      "entity_type": "共同学位下的主修",
+      "parent_program_id": "ubc-bachelor-of-science-in-natural-resources-80456b59e3",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "entry_route": "BSNR内主修：升二年级申报，须完成至少24个规定一年级学分",
+      "record_type": "共同学位下的主修",
+      "parent_program_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024"
     },
     {
       "name_en": "French",
@@ -2180,7 +2384,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "719",
       "official_topics": [
         "languages-and-linguistics"
@@ -2196,7 +2400,7 @@
       "intake": null,
       "duration": "4年（页面所述培养阶段）",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "721",
       "official_topics": [
         "languages-and-linguistics",
@@ -2222,7 +2426,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "725",
       "official_topics": [
         "earth-environment-and-sustainability",
@@ -2239,7 +2443,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "1037",
       "official_topics": [
         "people-culture-and-society"
@@ -2255,7 +2459,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "729",
       "official_topics": [
         "people-culture-and-society"
@@ -2271,7 +2475,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "733",
       "official_topics": [
         "earth-environment-and-sustainability",
@@ -2289,7 +2493,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "737",
       "official_topics": [
         "business-and-economics",
@@ -2311,7 +2515,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "739",
       "official_topics": [
         "earth-environment-and-sustainability"
@@ -2327,7 +2531,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "741",
       "official_topics": [
         "earth-environment-and-sustainability"
@@ -2343,7 +2547,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "743",
       "official_topics": [
         "earth-environment-and-sustainability"
@@ -2359,7 +2563,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "745",
       "official_topics": [
         "earth-environment-and-sustainability",
@@ -2376,7 +2580,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "747",
       "official_topics": [
         "engineering-and-technology"
@@ -2392,7 +2596,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "749",
       "official_topics": [
         "earth-environment-and-sustainability"
@@ -2408,7 +2612,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "751",
       "official_topics": [
         "earth-environment-and-sustainability",
@@ -2425,7 +2629,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "753",
       "official_topics": [
         "languages-and-linguistics"
@@ -2441,7 +2645,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "757",
       "official_topics": [
         "earth-environment-and-sustainability"
@@ -2457,7 +2661,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "566880",
       "official_topics": [
         "health-and-life-sciences"
@@ -2473,7 +2677,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "765",
       "official_topics": [
         "history-law-and-politics"
@@ -2489,7 +2693,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "767",
       "official_topics": [
         "history-law-and-politics"
@@ -2505,7 +2709,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "569692",
       "official_topics": [
         "earth-environment-and-sustainability",
@@ -2523,7 +2727,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "777",
       "official_topics": [
         "history-law-and-politics",
@@ -2540,7 +2744,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "779",
       "official_topics": [
         "engineering-and-technology"
@@ -2557,7 +2761,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "781",
       "official_topics": [
         "engineering-and-technology"
@@ -2573,7 +2777,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "783",
       "official_topics": [
         "earth-environment-and-sustainability",
@@ -2591,7 +2795,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "787",
       "official_topics": [
         "business-and-economics",
@@ -2613,7 +2817,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "791",
       "official_topics": [
         "business-and-economics"
@@ -2629,7 +2833,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "793",
       "official_topics": [
         "history-law-and-politics"
@@ -2645,7 +2849,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "795",
       "official_topics": [
         "history-law-and-politics"
@@ -2661,7 +2865,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "805",
       "official_topics": [
         "health-and-life-sciences"
@@ -2677,7 +2881,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "807",
       "official_topics": [
         "health-and-life-sciences"
@@ -2693,7 +2897,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "809",
       "official_topics": [
         "health-and-life-sciences"
@@ -2709,7 +2913,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "717",
       "official_topics": [
         "languages-and-linguistics"
@@ -2725,7 +2929,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "817",
       "official_topics": [
         "history-law-and-politics",
@@ -2742,7 +2946,7 @@
       "intake": null,
       "duration": "3年JD；入学前另须大学学习",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "819",
       "official_topics": [
         "history-law-and-politics"
@@ -2767,7 +2971,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "823",
       "official_topics": [
         "languages-and-linguistics"
@@ -2783,7 +2987,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "560623",
       "official_topics": [
         "business-and-economics",
@@ -2801,7 +3005,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "560625",
       "official_topics": [
         "business-and-economics",
@@ -2818,7 +3022,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "831",
       "official_topics": [
         "engineering-and-technology"
@@ -2834,7 +3038,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "835",
       "official_topics": [
         "math-chemistry-and-physics"
@@ -2850,7 +3054,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "841",
       "official_topics": [
         "math-chemistry-and-physics"
@@ -2866,7 +3070,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "845",
       "official_topics": [
         "math-chemistry-and-physics"
@@ -2882,7 +3086,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "843",
       "official_topics": [
         "math-chemistry-and-physics"
@@ -2898,7 +3102,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "847",
       "official_topics": [
         "math-chemistry-and-physics"
@@ -2914,7 +3118,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "837",
       "official_topics": [
         "business-and-economics",
@@ -2931,7 +3135,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "851",
       "official_topics": [
         "engineering-and-technology"
@@ -2947,7 +3151,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "853",
       "official_topics": [
         "engineering-and-technology"
@@ -2963,7 +3167,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "530436",
       "official_topics": [
         "media-and-fine-arts"
@@ -2979,7 +3183,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "149747",
       "official_topics": [
         "media-and-fine-arts"
@@ -2995,7 +3199,7 @@
       "intake": null,
       "duration": "先修之后2年；非高中起算2年",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "552197",
       "official_topics": [
         "health-and-life-sciences"
@@ -3019,7 +3223,7 @@
       "intake": null,
       "duration": "大学先修后4年MD",
       "campus": "Vancouver、Okanagan、Victoria、Northern BC（一个分布式MD）",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "555222",
       "official_topics": [
         "health-and-life-sciences"
@@ -3044,7 +3248,7 @@
       "intake": null,
       "duration": "4年（页面所述培养阶段）",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "863",
       "official_topics": [
         "history-law-and-politics"
@@ -3069,7 +3273,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "867",
       "official_topics": [
         "health-and-life-sciences"
@@ -3085,7 +3289,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "865",
       "official_topics": [
         "health-and-life-sciences"
@@ -3101,7 +3305,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "871",
       "official_topics": [
         "health-and-life-sciences"
@@ -3119,7 +3323,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "875",
       "official_topics": [
         "engineering-and-technology"
@@ -3135,7 +3339,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "877",
       "official_topics": [
         "history-law-and-politics",
@@ -3153,7 +3357,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "883",
       "official_topics": [
         "people-culture-and-society"
@@ -3171,7 +3375,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "893",
       "official_topics": [
         "media-and-fine-arts"
@@ -3187,7 +3391,7 @@
       "intake": null,
       "duration": "4年（页面所述培养阶段）",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "885",
       "official_topics": [
         "media-and-fine-arts"
@@ -3211,7 +3415,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "887",
       "official_topics": [
         "media-and-fine-arts"
@@ -3227,7 +3431,7 @@
       "intake": null,
       "duration": "4年（页面所述培养阶段）",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "889",
       "official_topics": [
         "media-and-fine-arts"
@@ -3249,7 +3453,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "891",
       "official_topics": [
         "media-and-fine-arts"
@@ -3265,7 +3469,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "568741",
       "official_topics": [
         "health-and-life-sciences"
@@ -3313,7 +3517,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "911",
       "official_topics": [
         "health-and-life-sciences"
@@ -3329,7 +3533,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "913",
       "official_topics": [
         "health-and-life-sciences"
@@ -3347,7 +3551,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "915",
       "official_topics": [
         "health-and-life-sciences"
@@ -3363,7 +3567,7 @@
       "intake": null,
       "duration": "4年（页面所述培养阶段）",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "921",
       "official_topics": [
         "earth-environment-and-sustainability"
@@ -3387,7 +3591,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "561295",
       "official_topics": [
         "health-and-life-sciences"
@@ -3403,7 +3607,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "927",
       "official_topics": [
         "health-and-life-sciences"
@@ -3419,7 +3623,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "929",
       "official_topics": [
         "health-and-life-sciences"
@@ -3437,7 +3641,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "933",
       "official_topics": [
         "people-culture-and-society"
@@ -3453,7 +3657,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "931",
       "official_topics": [
         "people-culture-and-society"
@@ -3469,7 +3673,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "935",
       "official_topics": [
         "business-and-economics",
@@ -3487,7 +3691,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "941",
       "official_topics": [
         "math-chemistry-and-physics"
@@ -3503,7 +3707,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "943",
       "official_topics": [
         "math-chemistry-and-physics"
@@ -3519,7 +3723,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "947",
       "official_topics": [
         "history-law-and-politics"
@@ -3535,7 +3739,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "949",
       "official_topics": [
         "history-law-and-politics"
@@ -3551,7 +3755,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "957",
       "official_topics": [
         "health-and-life-sciences",
@@ -3568,7 +3772,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "953",
       "official_topics": [
         "health-and-life-sciences",
@@ -3585,7 +3789,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "955",
       "official_topics": [
         "health-and-life-sciences",
@@ -3602,7 +3806,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "967",
       "official_topics": [
         "history-law-and-politics",
@@ -3619,7 +3823,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "971",
       "official_topics": [
         "languages-and-linguistics",
@@ -3650,7 +3854,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "989",
       "official_topics": [
         "people-culture-and-society"
@@ -3666,7 +3870,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "991",
       "official_topics": [
         "people-culture-and-society"
@@ -3682,7 +3886,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "993",
       "official_topics": [
         "people-culture-and-society"
@@ -3698,7 +3902,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "997",
       "official_topics": [
         "languages-and-linguistics",
@@ -3715,7 +3919,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "999",
       "official_topics": [
         "health-and-life-sciences",
@@ -3748,7 +3952,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "1001",
       "official_topics": [
         "math-chemistry-and-physics"
@@ -3764,7 +3968,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "1003",
       "official_topics": [
         "math-chemistry-and-physics"
@@ -3780,7 +3984,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "566514",
       "official_topics": [
         "earth-environment-and-sustainability"
@@ -3796,12 +4000,18 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "555107",
       "official_topics": [
         "earth-environment-and-sustainability"
       ],
-      "id": "ubc-sustainable-agriculture-and-environment-219cbd0474"
+      "id": "ubc-sustainable-agriculture-and-environment-219cbd0474",
+      "entity_type": "共同学位下的主修",
+      "parent_program_id": "ubc-bachelor-of-science-in-applied-biology-bd18343070",
+      "parent_degree_label": "Bachelor of Science in Applied Biology",
+      "entry_route": "BSc Applied Biology内主修：不迟于学院第二个注册Session申报",
+      "record_type": "共同学位下的主修",
+      "parent_program_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/introduction"
     },
     {
       "name_en": "Theatre Studies",
@@ -3812,7 +4022,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "1009",
       "official_topics": [
         "media-and-fine-arts"
@@ -3828,7 +4038,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "1013",
       "official_topics": [
         "media-and-fine-arts"
@@ -3844,7 +4054,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "1015",
       "official_topics": [
         "media-and-fine-arts"
@@ -3860,7 +4070,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "1021",
       "official_topics": [
         "history-law-and-politics",
@@ -3877,7 +4087,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "341396",
       "official_topics": [
         "earth-environment-and-sustainability",
@@ -3896,7 +4106,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "568680",
       "official_topics": [
         "earth-environment-and-sustainability"
@@ -3912,7 +4122,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "1029",
       "official_topics": [
         "media-and-fine-arts"
@@ -3928,7 +4138,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "1031",
       "official_topics": [
         "media-and-fine-arts"
@@ -3944,7 +4154,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "1027",
       "official_topics": [
         "media-and-fine-arts"
@@ -3960,7 +4170,7 @@
       "intake": null,
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "1039",
       "official_topics": [
         "business-and-economics",
@@ -3968,7 +4178,13 @@
         "engineering-and-technology",
         "math-chemistry-and-physics"
       ],
-      "id": "ubc-wood-products-209a0f638d"
+      "id": "ubc-wood-products-209a0f638d",
+      "entity_type": "共同学位下的主修",
+      "parent_program_id": "ubc-bachelor-of-science-in-natural-resources-80456b59e3",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "entry_route": "BSNR内主修：升二年级申报，须完成至少24个规定一年级学分",
+      "record_type": "共同学位下的主修",
+      "parent_program_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024"
     },
     {
       "name_en": "Zoology",
@@ -3979,7 +4195,7 @@
       "intake": null,
       "duration": null,
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "raw_key": "1043",
       "official_topics": [
         "health-and-life-sciences"
@@ -3998,7 +4214,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "option",
       "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
       "parent_inventory_id": "ubc-commerce-691090826b",
@@ -4023,7 +4239,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "option",
       "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
       "parent_inventory_id": "ubc-commerce-691090826b",
@@ -4048,7 +4264,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "option",
       "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
       "parent_inventory_id": "ubc-commerce-691090826b",
@@ -4073,7 +4289,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "option",
       "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
       "parent_inventory_id": "ubc-commerce-691090826b",
@@ -4098,7 +4314,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "option",
       "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
       "parent_inventory_id": "ubc-commerce-691090826b",
@@ -4123,7 +4339,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "option",
       "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
       "parent_inventory_id": "ubc-commerce-691090826b",
@@ -4148,7 +4364,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "option",
       "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
       "parent_inventory_id": "ubc-commerce-691090826b",
@@ -4173,7 +4389,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "option",
       "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
       "parent_inventory_id": "ubc-commerce-691090826b",
@@ -4198,7 +4414,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "option",
       "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
       "parent_inventory_id": "ubc-commerce-691090826b",
@@ -4223,7 +4439,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "option",
       "entry_route": "先申请Vancouver BCom，再按校内规则申报或选拔本方向；不是独立高中直录。",
       "parent_inventory_id": "ubc-commerce-691090826b",
@@ -4248,7 +4464,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "通常4.5年；先完成本科再完成MM阶段",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
       "id": "ubc-bachelor-of-arts-and-master-of-management-586be73871",
@@ -4270,7 +4486,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "通常4.5年；先完成本科再完成MM阶段",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
       "id": "ubc-bachelor-of-fine-arts-and-master-of-management-ef131eb47c",
@@ -4292,7 +4508,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "通常4.5年；先完成本科再完成MM阶段",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
       "id": "ubc-bachelor-of-media-studies-and-master-of-management-66a6ea337b",
@@ -4313,7 +4529,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "通常4.5年；先完成本科再完成MM阶段",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
       "id": "ubc-bachelor-of-music-and-master-of-management-0ec0cf8bcd",
@@ -4335,7 +4551,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "通常4.5年；先完成本科再完成MM阶段",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
       "id": "ubc-bachelor-of-kinesiology-and-master-of-management-d5d38f47a6",
@@ -4357,7 +4573,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "通常4.5年；先完成本科再完成MM阶段",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
       "id": "ubc-bachelor-of-science-and-master-of-management-35975893f0",
@@ -4378,7 +4594,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "通常4.5年；先完成本科再完成MM阶段",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
       "id": "ubc-bachelor-of-science-in-natural-resources-and-master-of-management-854afda285",
@@ -4399,7 +4615,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "通常4.5年；先完成本科再完成MM阶段",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
       "id": "ubc-bachelor-of-science-in-applied-biology-and-master-of-management-7971b52cd3",
@@ -4421,7 +4637,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "通常4.5年；先完成本科再完成MM阶段",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
       "id": "ubc-bachelor-of-science-in-food-nutrition-and-health-and-master-of-ma-8693fe039a",
@@ -4443,7 +4659,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "通常4.5年；先完成本科再完成MM阶段",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
       "id": "ubc-bachelor-of-science-in-food-and-resource-economics-and-master-of-29c414b947",
@@ -4465,7 +4681,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "通常4.5年；先完成本科再完成MM阶段",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科＋B+MM双申请；满足成绩与本科毕业条件后审核进入MM",
       "id": "ubc-bachelor-of-science-in-global-resource-systems-and-master-of-mana-4b68eb2c31",
@@ -4486,7 +4702,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
       "id": "ubc-bachelor-of-applied-science-and-master-of-management-c6178a5e21",
@@ -4508,7 +4724,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
       "id": "ubc-bachelor-of-arts-and-master-of-management-d7fab5754e",
@@ -4530,7 +4746,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
       "id": "ubc-bachelor-of-commerce-and-master-of-management-e7f67c3b56",
@@ -4551,7 +4767,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
       "id": "ubc-bachelor-of-fine-arts-and-master-of-management-ca53c52754",
@@ -4573,7 +4789,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
       "id": "ubc-bachelor-of-health-and-exercise-sciences-and-master-of-management-bc7a61117b",
@@ -4595,7 +4811,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
       "id": "ubc-bachelor-of-media-studies-and-master-of-management-b03bd328f7",
@@ -4616,7 +4832,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
       "id": "ubc-bachelor-of-science-and-master-of-management-50aa0fd9db",
@@ -4637,7 +4853,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "依BSN护理Cohort 3进度完成后进入MM；MM8个月，整体年限待个案确认",
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "护理学生须在BSN二年级结束前书面申请并注明Cohort 3；完成BSN及MM条件后进入MM。",
       "id": "ubc-bachelor-of-science-in-nursing-and-master-of-management-eecb350cdc",
@@ -4659,7 +4875,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "本科4年后MM8个月；部分校历专页仍写4.5年，见差异说明",
       "campus": "Okanagan",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_bachelor_master",
       "entry_route": "本科与B+MM分别申请；按两个阶段条件继续",
       "id": "ubc-bachelor-of-sustainability-and-master-of-management-661e7cdf83",
@@ -4769,7 +4985,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "5个Winter Sessions，另含暑期安排",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "dual_bachelor",
       "entry_route": "BSNR对应专业二年级校内申请",
       "id": "ubc-natural-resources-conservation-and-education-86e210c5e5",
@@ -4791,7 +5007,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "5个Winter Sessions，另含暑期安排",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "dual_bachelor",
       "entry_route": "BSNR对应专业二年级校内申请",
       "id": "ubc-natural-resources-forest-sciences-and-education-87af74b2d4",
@@ -4813,7 +5029,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "5年",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "dual_bachelor",
       "entry_route": "在UBC相应BSc major二年级秋季申请；不接受已有学位者",
       "id": "ubc-mathematics-and-education-64c90882bb",
@@ -4835,7 +5051,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "5年",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "dual_bachelor",
       "entry_route": "在UBC相应BSc major二年级秋季申请；不接受已有学位者",
       "id": "ubc-physics-and-education-f0955c435c",
@@ -4857,7 +5073,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "通常4.5–5.5个Winter Sessions",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "dual_bachelor",
       "entry_route": "在获BSc major后、四年级前申请；各session至少68%；不接受已有学位者。",
       "id": "ubc-science-and-arts-3e0d25b445",
@@ -4878,7 +5094,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "多数组合6个Winter Sessions",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "dual_bachelor",
       "entry_route": "BSc一或二年级可申请，须音乐试演、学院推荐及学业目的说明；每学期至少68%；不接受已有学位者。",
       "id": "ubc-science-and-music-133948ae45",
@@ -4899,7 +5115,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "非全日制远程；本轮未取得固定完成年限",
       "campus": "Distance delivery; UBC Vancouver administration",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "bachelor_completion",
       "entry_route": "已有Diploma in Urban Land Economics或同等资格，非高中直接入读",
       "id": "ubc-business-in-real-estate-6ee51214a4",
@@ -4920,7 +5136,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程安排",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "major",
       "entry_route": "大学学术要求＋本专业试演；2027具体日期与曲目未核",
       "parent_inventory_id": "ubc-music-advanced-performance-37913ab897",
@@ -4945,7 +5161,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程安排",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "major",
       "entry_route": "大学学术要求＋本专业试演；2027具体日期与曲目未核",
       "parent_inventory_id": "ubc-music-advanced-performance-37913ab897",
@@ -4970,7 +5186,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程安排",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "major",
       "entry_route": "大学学术要求＋本专业试演；2027具体日期与曲目未核",
       "parent_inventory_id": "ubc-music-advanced-performance-37913ab897",
@@ -4995,7 +5211,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程安排",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "major",
       "entry_route": "大学学术要求＋本专业试演；2027具体日期与曲目未核",
       "parent_inventory_id": "ubc-music-advanced-performance-37913ab897",
@@ -5020,7 +5236,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程安排",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "major",
       "entry_route": "大学学术要求＋本专业试演；2027具体日期与曲目未核",
       "parent_inventory_id": "ubc-music-advanced-performance-37913ab897",
@@ -5045,7 +5261,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程安排",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "major",
       "entry_route": "大学学术要求＋本专业试演；2027具体日期与曲目未核",
       "parent_inventory_id": "ubc-music-advanced-performance-37913ab897",
@@ -5070,7 +5286,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程安排",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "major",
       "entry_route": "大学学术要求＋本专业试演；2027具体日期与曲目未核",
       "parent_inventory_id": "ubc-music-advanced-performance-37913ab897",
@@ -5095,7 +5311,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程表；120学分",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_major",
       "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
       "id": "ubc-computer-science-and-biology-6094df773f",
@@ -5117,7 +5333,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程表；120学分",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_major",
       "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
       "id": "ubc-computer-science-and-chemistry-cdbe014d5d",
@@ -5139,7 +5355,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程表；120学分",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_major",
       "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
       "id": "ubc-computer-science-and-physics-677de29432",
@@ -5161,7 +5377,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程表；120学分",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_major",
       "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
       "id": "ubc-computer-science-and-microbiology-and-immunology-b9784ee64e",
@@ -5183,7 +5399,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程表；120学分",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_major",
       "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
       "id": "ubc-computer-science-and-statistics-5c1742480f",
@@ -5205,7 +5421,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程表；120学分",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_major",
       "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
       "id": "ubc-statistics-and-economics-9268250d9c",
@@ -5227,7 +5443,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_major",
       "entry_route": "BA学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
       "id": "ubc-economics-and-statistics-1c7a3be859",
@@ -5249,7 +5465,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年；120学分",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_major",
       "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
       "id": "ubc-computer-science-and-mathematics-d6ad4b2d36",
@@ -5271,7 +5487,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程表；132学分",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "honours_major",
       "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
       "parent_inventory_id": "ubc-statistics-7ccc5e803b",
@@ -5296,7 +5512,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程表；132学分",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_honours",
       "entry_route": "BSc学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
       "id": "ubc-mathematics-and-statistics-combined-honours-269331a33b",
@@ -5317,7 +5533,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_major",
       "entry_route": "BA学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
       "id": "ubc-economics-and-political-science-e01158eb65",
@@ -5339,7 +5555,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_major",
       "entry_route": "BA学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
       "id": "ubc-economics-and-philosophy-29e78c1705",
@@ -5361,7 +5577,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": null,
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "combined_major",
       "entry_route": "BA学位内的具名联合主修或荣誉路线；本科入学与专业准入分别审查。",
       "id": "ubc-economics-and-mathematics-fdc14e32d3",
@@ -5383,7 +5599,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程安排",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "stream",
       "entry_route": "BMus内部教育预备路线；初次BMus录取与毕业后BEd另行申请分开。",
       "parent_inventory_id": "ubc-music-general-studies-662f38e73f",
@@ -5408,7 +5624,7 @@
       "intake": "2026/27校历；2027招生细则未单独核实",
       "duration": "4年课程安排",
       "campus": "Vancouver",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "entity_type": "stream",
       "entry_route": "BMus内部教育预备路线；初次BMus录取与毕业后BEd另行申请分开。",
       "parent_inventory_id": "ubc-music-general-studies-662f38e73f",
@@ -5435,7 +5651,7 @@
       "entry_route": "校内分流/后续入口：该校历区分major及honours。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-atmospheric-science-d7b8acf37a",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-atmospheric-science-honours-e6ffce4d7f",
@@ -5462,7 +5678,7 @@
       "entry_route": "校内分流/后续入口：按Science honours和相关系要求申请；选择CPSC449者第三年还须零学分CPSC349研讨课。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-atmospheric-science-d7b8acf37a",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-atmospheric-science-and-computer-science-combined-honours-90dd238319",
@@ -5488,7 +5704,7 @@
       "entry_route": "校内分流/后续入口：第二年分流通过Science统一申请；单科Honours不直接分配二年级席位，先入major后由合格学生联系顾问转入，combined honours可按统一流程选择。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-biochemistry-08fff198c7",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-biochemistry-honours-3ad52eff9e",
@@ -5514,7 +5730,7 @@
       "entry_route": "校内分流/后续入口：第二年联合专业需使用指定Standard Timetable；转入时以BIOL201或BIOC202替代BIOC203须至少76%，其他替代课程仍按脚注批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；120学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-biochemistry-and-chemistry-combined-major-eb0eeee802",
       "source_entity_type": "combined_major",
       "subjects": [
@@ -5536,7 +5752,7 @@
       "entry_route": "校内分流/后续入口：第二年分流通过Science统一申请；单科Honours不直接分配二年级席位，先入major后由合格学生联系顾问转入，combined honours可按统一流程选择。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-biochemistry-and-chemistry-combined-honours-59520681bb",
       "source_entity_type": "combined_honours",
       "subjects": [
@@ -5558,7 +5774,7 @@
       "entry_route": "校内分流/后续入口：单科生物honours须符合Science honours要求并联系Biology Office；可于5月或8月申请，已有二年级Biology学生转honours仍须另申请。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-biology-dee4db0286",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-biology-honours-b18de54b69",
@@ -5584,7 +5800,7 @@
       "entry_route": "校内分流/后续入口：单科生物honours须符合Science honours要求并联系Biology Office；可于5月或8月申请，已有二年级Biology学生转honours仍须另申请。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-biology-dee4db0286",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-animal-biology-honours-5ad16225b4",
@@ -5610,7 +5826,7 @@
       "entry_route": "校内分流/后续入口：单科生物honours须符合Science honours要求并联系Biology Office；可于5月或8月申请，已有二年级Biology学生转honours仍须另申请。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-biology-dee4db0286",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-cell-and-developmental-biology-honours-7ac8e830ea",
@@ -5636,7 +5852,7 @@
       "entry_route": "校内分流/后续入口：单科生物honours须符合Science honours要求并联系Biology Office；可于5月或8月申请，已有二年级Biology学生转honours仍须另申请。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-biology-dee4db0286",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-conservation-biology-honours-6a06be1824",
@@ -5662,7 +5878,7 @@
       "entry_route": "校内分流/后续入口：单科生物honours须符合Science honours要求并联系Biology Office；可于5月或8月申请，已有二年级Biology学生转honours仍须另申请。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-biology-dee4db0286",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-ecology-honours-5ca27f4893",
@@ -5688,7 +5904,7 @@
       "entry_route": "校内分流/后续入口：单科生物honours须符合Science honours要求并联系Biology Office；可于5月或8月申请，已有二年级Biology学生转honours仍须另申请。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-biology-dee4db0286",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-evolutionary-biology-honours-9dcfc25c6f",
@@ -5714,7 +5930,7 @@
       "entry_route": "校内分流/后续入口：单科生物honours须符合Science honours要求并联系Biology Office；可于5月或8月申请，已有二年级Biology学生转honours仍须另申请。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-biology-dee4db0286",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-marine-biology-honours-0b2c0781dc",
@@ -5741,7 +5957,7 @@
       "entry_route": "校内分流/后续入口：单科生物honours须符合Science honours要求并联系Biology Office；可于5月或8月申请，已有二年级Biology学生转honours仍须另申请。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-biology-dee4db0286",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-plant-biology-honours-781cf0aea2",
@@ -5767,7 +5983,7 @@
       "entry_route": "校内分流/后续入口：须联系计算机顾问申请该combined honours。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-computer-science-and-biology-combined-honours-651f036222",
       "source_entity_type": "combined_honours",
       "subjects": [
@@ -5790,7 +6006,7 @@
       "entry_route": "校内分流/后续入口：CHEM123及MATH100/101或同等课程为常规专业先修；Science二年级统一分流可录联合major/honours，单科Chemistry honours先入major后联系顾问转入。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-chemistry-e288e2ee28",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-chemistry-honours-8526bda0f2",
@@ -5816,7 +6032,7 @@
       "entry_route": "校内分流/后续入口：CHEM123及MATH100/101或同等课程为常规专业先修；Science二年级统一分流可录联合major/honours，单科Chemistry honours先入major后联系顾问转入。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；120学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-chemical-biology-combined-major-04400f9241",
       "source_entity_type": "combined_major",
       "subjects": [
@@ -5838,7 +6054,7 @@
       "entry_route": "校内分流/后续入口：CHEM123及MATH100/101或同等课程为常规专业先修；Science二年级统一分流可录联合major/honours，单科Chemistry honours先入major后联系顾问转入。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-chemical-biology-combined-honours-9241b3e245",
       "source_entity_type": "combined_honours",
       "subjects": [
@@ -5860,7 +6076,7 @@
       "entry_route": "校内分流/后续入口：CHEM123及MATH100/101或同等课程为常规专业先修；Science二年级统一分流可录联合major/honours，单科Chemistry honours先入major后联系顾问转入。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-chemistry-and-mathematics-combined-honours-64dbf811f8",
       "source_entity_type": "combined_honours",
       "subjects": [
@@ -5883,7 +6099,7 @@
       "entry_route": "校内分流/后续入口：第二年Physics/Astronomy分流用Science在线流程；第三年从其他专业转入须联系院系获批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-physics-5707ddadc4",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-physics-honours-32b92de207",
@@ -5909,7 +6125,7 @@
       "entry_route": "校内分流/后续入口：第二年Physics/Astronomy分流用Science在线流程；第三年从其他专业转入须联系院系获批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-physics-and-astronomy-combined-honours-3b9e4da1c1",
       "source_entity_type": "combined_honours",
       "subjects": [
@@ -5932,7 +6148,7 @@
       "entry_route": "校内分流/后续入口：第二年Physics/Astronomy分流用Science在线流程；第三年从其他专业转入须联系院系获批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-chemical-physics-combined-honours-89385ef599",
       "source_entity_type": "combined_honours",
       "subjects": [
@@ -5954,7 +6170,7 @@
       "entry_route": "校内分流/后续入口：第二年Physics/Astronomy分流用Science在线流程；第三年从其他专业转入须联系院系获批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-physics-and-mathematics-combined-honours-c7b61a5d72",
       "source_entity_type": "combined_honours",
       "subjects": [
@@ -5977,7 +6193,7 @@
       "entry_route": "校内分流/后续入口：Science二年级统一申请只直接录major或combined major；合格学生可在第三年申请转honours。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-microbiology-and-immunology-28ac3a311d",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-microbiology-and-immunology-honours-cd54805a7c",
@@ -6003,7 +6219,7 @@
       "entry_route": "校内分流/后续入口：Science二年级统一申请只直接录major或combined major；合格学生可在第三年申请转honours。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-computer-science-and-microbiology-and-immunology-combined-honours-e964afb055",
       "source_entity_type": "combined_honours",
       "subjects": [
@@ -6026,7 +6242,7 @@
       "entry_route": "校内分流/后续入口：二年级申请Science联合major；MICB322对本专业为必修，第三年良好学业状态学生安排实验席位，校外或其他专业转入仍受容量。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；120学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-microbiology-and-oceanography-combined-major-81dc827f7c",
       "source_entity_type": "combined_major",
       "subjects": [
@@ -6049,7 +6265,7 @@
       "entry_route": "校内分流/后续入口：一年级末统一申请可直接选该honours；最低学业平均80%、communications课程至少70%，以后每年平均须80%；不达honours继续条件转major。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-cellular-anatomical-and-physiological-sciences-277d8d788f",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-cellular-anatomical-and-physiological-sciences-honours-e95d0127bf",
@@ -6075,7 +6291,7 @@
       "entry_route": "校内分流/后续入口：须满足对应Science专业的大学先修；本轮未取得2027本具名组合单独录取分数，不把专业学习目标当保证进入研究生或就业。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；120学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-oceanography-04d1165eac",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-oceanography-and-biology-combined-major-111c6b8d5a",
@@ -6102,7 +6318,7 @@
       "entry_route": "校内分流/后续入口：须满足对应Science专业的大学先修；本轮未取得2027本具名组合单独录取分数，不把专业学习目标当保证进入研究生或就业。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；120学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-oceanography-04d1165eac",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-oceanography-and-chemistry-combined-major-7cf12e0044",
@@ -6129,7 +6345,7 @@
       "entry_route": "校内分流/后续入口：须满足对应Science专业的大学先修；本轮未取得2027本具名组合单独录取分数，不把专业学习目标当保证进入研究生或就业。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；120学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-oceanography-04d1165eac",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-oceanography-and-physics-combined-major-d72c51daf9",
@@ -6156,7 +6372,7 @@
       "entry_route": "校内分流/后续入口：须符合Science honours条件；官方培养方向包括渔业/环境技术或初级咨询及进一步研究，不是保证执业资格或已核就业率。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-oceanography-04d1165eac",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-fisheries-oceanography-honours-a73a895ec5",
@@ -6182,7 +6398,7 @@
       "entry_route": "校内分流/后续入口：第二、三、四年级注册前均须两系顾问正式批准；选择BIOL449还须额外6学分300级以上EOSC，以保持海洋要求。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-oceanography-04d1165eac",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-oceanography-and-biology-combined-honours-13bdb8de76",
@@ -6209,7 +6425,7 @@
       "entry_route": "校内分流/后续入口：完成规定一年级先修及Science二年级honours最低申请平均后经统一分流申请；其他年级或院校转入需生化顾问。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年；132学分",
-      "language": null,
+      "language": "UBC阶段英语为主；BCIT阶段待核",
       "id": "ubc-biochemistry-and-forensic-science-combined-honours-247edb2ba3",
       "source_entity_type": "joint_bachelor",
       "subjects": [
@@ -6231,7 +6447,7 @@
       "entry_route": "校内分流/后续入口：当前开头说明Science二年级统一流程只录major/combined major，已在CS者于二年级或最迟三年级4月向系申请转honours；同页下方仍有“二年级注册前须honours顾问批准”的旧式表述。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-computer-science-bsc-52a00c8ed5",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-computer-science-honours-eea3c5096c",
@@ -6257,7 +6473,7 @@
       "entry_route": "校内分流/后续入口：当前开头说明Science二年级统一流程只录major/combined major，已在CS者于二年级或最迟三年级4月向系申请转honours；同页下方仍有“二年级注册前须honours顾问批准”的旧式表述。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-computer-science-and-mathematics-combined-honours-554a48a3ad",
       "source_entity_type": "combined_honours",
       "subjects": [
@@ -6280,7 +6496,7 @@
       "entry_route": "校内分流/后续入口：当前开头说明Science二年级统一流程只录major/combined major，已在CS者于二年级或最迟三年级4月向系申请转honours；同页下方仍有“二年级注册前须honours顾问批准”的旧式表述。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-computer-science-and-physics-combined-honours-7e43ff89b8",
       "source_entity_type": "combined_honours",
       "subjects": [
@@ -6303,7 +6519,7 @@
       "entry_route": "校内分流/后续入口：当前开头说明Science二年级统一流程只录major/combined major，已在CS者于二年级或最迟三年级4月向系申请转honours；同页下方仍有“二年级注册前须honours顾问批准”的旧式表述。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-computer-science-and-statistics-combined-honours-d06d72ab55",
       "source_entity_type": "combined_honours",
       "subjects": [
@@ -6326,7 +6542,7 @@
       "entry_route": "校内分流/后续入口：只有已录取CS major或honours的学生可按对应方案完成AI课程，毕业申请前须告知系登记该option；不需要把AI另当一张独立学位。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程安排；120学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-computer-science-bsc-52a00c8ed5",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-computer-science-major-artificial-intelligence-e6f087cc46",
@@ -6352,7 +6568,7 @@
       "entry_route": "校内分流/后续入口：只有已录取CS major或honours的学生可按对应方案完成AI课程，毕业申请前须告知系登记该option；不需要把AI另当一张独立学位。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程安排；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-computer-science-bsc-52a00c8ed5",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-computer-science-honours-artificial-intelligence-b63ece6bc6",
@@ -6378,7 +6594,7 @@
       "entry_route": "校内分流/后续入口：名额有限且看学业表现，须在二年级结束前向计算机系申请；Honours还须该级别条件。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程安排；120学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-computer-science-bsc-52a00c8ed5",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-computer-science-and-software-engineering-major-ae4512034d",
@@ -6405,7 +6621,7 @@
       "entry_route": "校内分流/后续入口：名额有限且看学业表现，须在二年级结束前向计算机系申请；Honours还须该级别条件。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程安排；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-computer-science-bsc-52a00c8ed5",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-computer-science-and-software-engineering-honours-4483092829",
@@ -6432,7 +6648,7 @@
       "entry_route": "校内分流/后续入口：部分地质课程须野外考察；专业注册P.Geo.另有课程和其他资格条件，学位不是自动注册。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-geology-9ad8f8b8de",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-geological-sciences-honours-ea12fb9b85",
@@ -6458,7 +6674,7 @@
       "entry_route": "校内分流/后续入口：P.Geo.申请须另向EGBC确认课程与其他条件；校历强调major/honours适合作职业或进一步研究准备，不保证执照。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-geophysics-8fb59050fb",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-geophysics-honours-f9be402195",
@@ -6485,7 +6701,7 @@
       "entry_route": "校内分流/后续入口：拟进入药理specialization须完成全部先修，第一、二年级各自平均均须大于75%，向系申请并评估药理研究适合度。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-pharmacology-f94bb6f949",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-pharmacology-honours-cd870ae26d",
@@ -6511,7 +6727,7 @@
       "entry_route": "校内分流/后续入口：Honours入门须MATH121至少68%，或6学分100级MATH平均至少80%，并满足Science honours一般规则。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mathematics-bsc-58bc330063",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-mathematics-honours-0ba4fa7417",
@@ -6537,7 +6753,7 @@
       "entry_route": "校内分流/后续入口：二年级先入major，三年级可转honours；须具三年级升级资格、已获批准的Degree Proposal和关键先修，并满足Science honours要求。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-integrated-sciences-0e2ebebfb8",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-integrated-sciences-honours-32a077f1dd",
@@ -6563,7 +6779,7 @@
       "entry_route": "校内分流/后续入口：所有Math majors可修，毋须特别录取或预先批准；入major后按指引完成课程，毕业前登记已完成方向获得正式认可。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mathematics-bsc-58bc330063",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-mathematics-differential-equations-and-analysis-4497d763e0",
@@ -6589,7 +6805,7 @@
       "entry_route": "校内分流/后续入口：所有Math majors可修，毋须特别录取或预先批准；入major后按指引完成课程，毕业前登记已完成方向获得正式认可。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mathematics-bsc-58bc330063",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-mathematics-computational-mathematics-4af350003c",
@@ -6616,7 +6832,7 @@
       "entry_route": "校内分流/后续入口：所有Math majors可修，毋须特别录取或预先批准；入major后按指引完成课程，毕业前登记已完成方向获得正式认可。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mathematics-bsc-58bc330063",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-mathematics-mathematics-of-information-6c2a13ca26",
@@ -6642,7 +6858,7 @@
       "entry_route": "校内分流/后续入口：所有Math majors可修，毋须特别录取或预先批准；入major后按指引完成课程，毕业前登记已完成方向获得正式认可。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mathematics-bsc-58bc330063",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-mathematics-mathematical-modelling-daa0853b8a",
@@ -6668,7 +6884,7 @@
       "entry_route": "校内分流/后续入口：所有Math majors可修，毋须特别录取或预先批准；入major后按指引完成课程，毕业前登记已完成方向获得正式认可。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mathematics-bsc-58bc330063",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-mathematics-classical-mathematical-structures-b99f2a9def",
@@ -6695,7 +6911,7 @@
       "entry_route": "校内分流/后续入口：二年级统一流程只录Environmental Sciences major；合格学生再联系顾问转honours。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；132学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-environmental-sciences-4ce0ed1b85",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-environmental-sciences-honours-8d56fee82a",
@@ -6721,7 +6937,7 @@
       "entry_route": "校内分流/后续入口：二年级统一流程只录Environmental Sciences major；合格学生再联系顾问转honours。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-environmental-sciences-4ce0ed1b85",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-environmental-sciences-major-land-air-water-ae384c4176",
@@ -6747,7 +6963,7 @@
       "entry_route": "校内分流/后续入口：二年级统一流程只录Environmental Sciences major；合格学生再联系顾问转honours。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-environmental-sciences-4ce0ed1b85",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-environmental-sciences-honours-land-air-water-7409e447ca",
@@ -6773,7 +6989,7 @@
       "entry_route": "校内分流/后续入口：二年级统一流程只录Environmental Sciences major；合格学生再联系顾问转honours。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-environmental-sciences-4ce0ed1b85",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-environmental-sciences-major-ecology-and-conservation-bb9ee2ede8",
@@ -6799,7 +7015,7 @@
       "entry_route": "校内分流/后续入口：二年级统一流程只录Environmental Sciences major；合格学生再联系顾问转honours。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-environmental-sciences-4ce0ed1b85",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-environmental-sciences-honours-ecology-and-conservation-90c223fbfe",
@@ -6825,7 +7041,7 @@
       "entry_route": "校内分流/后续入口：二年级统一流程只录Environmental Sciences major；合格学生再联系顾问转honours。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-environmental-sciences-4ce0ed1b85",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-environmental-sciences-major-energy-transitions-and-sustainabilit-a02eb97f0e",
@@ -6851,7 +7067,7 @@
       "entry_route": "校内分流/后续入口：二年级统一流程只录Environmental Sciences major；合格学生再联系顾问转honours。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-environmental-sciences-4ce0ed1b85",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-environmental-sciences-honours-energy-transitions-and-sustainabil-0e1faba5e3",
@@ -6877,7 +7093,7 @@
       "entry_route": "校内分流/后续入口：二年级统一流程只录Environmental Sciences major；合格学生再联系顾问转honours。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-environmental-sciences-4ce0ed1b85",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-environmental-sciences-major-environmental-impacts-on-human-healt-2056fe64eb",
@@ -6904,7 +7120,7 @@
       "entry_route": "校内分流/后续入口：二年级统一流程只录Environmental Sciences major；合格学生再联系顾问转honours。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-environmental-sciences-4ce0ed1b85",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-environmental-sciences-honours-environmental-impacts-on-human-hea-2a8389fc65",
@@ -6931,7 +7147,7 @@
       "entry_route": "校内分流/后续入口：二年级统一流程只录Environmental Sciences major；合格学生再联系顾问转honours。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-environmental-sciences-4ce0ed1b85",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-environmental-sciences-major-environmental-analytics-d67f93c8dc",
@@ -6957,7 +7173,7 @@
       "entry_route": "校内分流/后续入口：二年级统一流程只录Environmental Sciences major；合格学生再联系顾问转honours。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-environmental-sciences-4ce0ed1b85",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-environmental-sciences-honours-environmental-analytics-d5b2eedc37",
@@ -6983,7 +7199,7 @@
       "entry_route": "校内分流/后续入口：四年级申请；已修本专业至少78学分，平均分至少76%，须获认可的导师、研究项目及选课许可。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-biochemistry-and-molecular-biology-94246d0427",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-biochemistry-and-molecular-biology-honours-101f85392a",
@@ -7009,7 +7225,7 @@
       "entry_route": "校内分流/后续入口：四年级申请；已完成全部课程的总体平均分至少75%，导师及研究方案须获系主任认可。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-biology-9bbed50c78",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-biology-honours-38a7a7cae6",
@@ -7035,7 +7251,7 @@
       "entry_route": "校内分流/后续入口：四年级申请；在化学major已修至少78学分，累计平均分至少76%，须系主任许可。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-chemistry-cf52b63024",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-chemistry-honours-4a6221f20d",
@@ -7061,7 +7277,7 @@
       "entry_route": "校内分流/后续入口：四年级申请；须为Data Science major，适用于该major的全部课程平均分至少76%，导师和研究计划须获学科负责人批准；特殊转入情形仅可个别审核。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-data-science-1dbc3aa9dd",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-data-science-honours-8289cb43c9",
@@ -7087,7 +7303,7 @@
       "entry_route": "校内分流/后续入口：四年级申请；在校历指定EESC及GEOG/GISC课程中最佳24学分平均分至少76%，导师、项目及系主任批准；专业地学执照是否认可具体课程由外部监管机构决定。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；120学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-earth-and-environmental-sciences-0b520d501d",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-earth-and-environmental-sciences-honours-d9a4feb990",
@@ -7113,7 +7329,7 @@
       "entry_route": "校内分流/后续入口：四年级申请；全部已修课程总体平均分至少75%，研究主题须属本专业并获得导师和系主任批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-ecology-evolution-and-conservation-biology-80c0bd21aa",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-ecology-evolution-and-conservation-biology-honours-a665d64062",
@@ -7140,7 +7356,7 @@
       "entry_route": "校内分流/后续入口：四年级申请；本major已修至少78学分，累计平均分至少76%，须系主任许可；major要求相当于Chemistry11及Math12或Pre-calculus12背景，Chemistry12为强烈建议。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-environmental-chemistry-3a8b283cfe",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-environmental-chemistry-honours-f034e484a0",
@@ -7167,7 +7383,7 @@
       "entry_route": "校内分流/后续入口：四年级申请；指定BIOL、CHEM、EESC、FWSC及GEOG/GISC课程最佳24学分平均分至少76%，导师、研究方案及系主任批准，特殊转入仅个案审核。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；120学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-freshwater-science-0fc2e0f712",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-freshwater-science-honours-a387072d7b",
@@ -7194,7 +7410,7 @@
       "entry_route": "校内分流/后续入口：四年级申请；全部已完成课程总体平均分至少75%，须认可的导师、项目及系主任批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-microbiology-61be15504c",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-microbiology-honours-efa7ce4578",
@@ -7220,7 +7436,7 @@
       "entry_route": "校内分流/后续入口：四年级申请；全部已修课程总体平均分至少75%，导师和研究计划须获系主任批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-zoology-53da66c270",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-zoology-honours-415a30b5de",
@@ -7246,7 +7462,7 @@
       "entry_route": "校内分流/后续入口：这是Biochemistry and Molecular Biology major官方列出的两个选项之一；本轮未取得该选项独立于major的2027录取分数或单独申请程序。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-biochemistry-and-molecular-biology-94246d0427",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-biochemistry-option-f333fa7096",
@@ -7272,7 +7488,7 @@
       "entry_route": "校内分流/后续入口：这是Biochemistry and Molecular Biology major官方列出的两个选项之一；本轮未取得该选项独立于major的2027录取分数或单独申请程序。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-biochemistry-and-molecular-biology-94246d0427",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-medical-and-molecular-biology-option-095e77178b",
@@ -7299,7 +7515,7 @@
       "entry_route": "校内分流/后续入口：四年级CS major；适用于本专业的已修课程平均分至少76%，导师和论文计划须获系主任批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-computer-science-ba-3bf2633d80",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-computer-science-honours-4a9808d2bb",
@@ -7325,7 +7541,7 @@
       "entry_route": "校内分流/后续入口：四年级CS major；适用于本专业的已修课程平均分至少76%，导师和论文计划须获系主任批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-computer-science-bsc-79dee3796e",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-computer-science-honours-d901d1e8e2",
@@ -7351,7 +7567,7 @@
       "entry_route": "校内分流/后续入口：在CS BSc内选修形成，成绩单仅显示一个concentration；三年级COSC304/310/341是四年级COSC499先修。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-computer-science-bsc-79dee3796e",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-software-engineering-and-application-development-concentration-e1381ec4a9",
@@ -7378,7 +7594,7 @@
       "entry_route": "校内分流/后续入口：在CS BSc内选修形成，成绩单仅显示一个concentration；三年级COSC304/310/341是四年级COSC499先修。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-computer-science-bsc-79dee3796e",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-ai-and-data-driven-computing-concentration-b82cdafe66",
@@ -7404,7 +7620,7 @@
       "entry_route": "校内分流/后续入口：在CS BSc内选修形成，成绩单仅显示一个concentration；三年级COSC304/310/341是四年级COSC499先修。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-computer-science-bsc-79dee3796e",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-visual-computing-concentration-7423d16dfe",
@@ -7430,7 +7646,7 @@
       "entry_route": "校内分流/后续入口：在CS BSc内选修形成，成绩单仅显示一个concentration；三年级COSC304/310/341是四年级COSC499先修。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-computer-science-bsc-79dee3796e",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-high-performance-computing-concentration-ccc5610d70",
@@ -7457,7 +7673,7 @@
       "entry_route": "校内分流/后续入口：四年级Economics major；本专业适用课程平均至少78%，ECON204与205各至少78%，指定两门微积分平均至少78%，已完成ECON327和328，获协调员及系主任批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-economics-ba-53fc592094",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-economics-honours-9ca22a9ee7",
@@ -7483,7 +7699,7 @@
       "entry_route": "校内分流/后续入口：四年级Economics major；本专业适用课程平均至少78%，ECON204与205各至少78%，指定两门微积分平均至少78%，已完成ECON327和328，获协调员及系主任批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-economics-bsc-ee3b4b1e5d",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-economics-honours-a2b2c11a2a",
@@ -7509,7 +7725,7 @@
       "entry_route": "校内分流/后续入口：二年级资格且完成ENGL220或221后申请；二年级英语平均至少80%，入选后300/400级课程平均须保持70%。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-english-528ce2cabc",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-english-honours-2853774d1a",
@@ -7535,7 +7751,7 @@
       "entry_route": "校内分流/后续入口：三年级资格，至少12历史学分；总体平均至少72%、历史平均至少76%，须申请及证明材料，研究导师须获系主任批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-history-a8443c5b2a",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-history-honours-8e7ae8972e",
@@ -7561,7 +7777,7 @@
       "entry_route": "校内分流/后续入口：所读页面列出毕业要求，本轮未取得Honours单独申请日期或额外准入门槛。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；120学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mathematics-bsc-191c2cc589",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-mathematics-honours-eea632dc06",
@@ -7587,7 +7803,7 @@
       "entry_route": "校内分流/后续入口：是数学major内进一步集中选课，Honours也可满足相应concentration；不独立于数学申请。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mathematics-bsc-191c2cc589",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-applied-mathematics-concentration-089df148ab",
@@ -7613,7 +7829,7 @@
       "entry_route": "校内分流/后续入口：是数学major内进一步集中选课，Honours也可满足相应concentration；不独立于数学申请。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mathematics-bsc-191c2cc589",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-pure-mathematics-concentration-128fde4510",
@@ -7639,7 +7855,7 @@
       "entry_route": "校内分流/后续入口：是数学major内进一步集中选课，Honours也可满足相应concentration；不独立于数学申请。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mathematics-bsc-191c2cc589",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-mathematical-finance-concentration-6f9d37cde3",
@@ -7666,7 +7882,7 @@
       "entry_route": "校内分流/后续入口：四年级资格；各PPE学科平均至少78%，总体至少76%，PHIL338、POLI400或441、ECON327/353/363之一各至少76%，须协调员许可。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-philosophy-politics-and-economics-4c058a5913",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-philosophy-politics-and-economics-honours-6d8f142350",
@@ -7694,7 +7910,7 @@
       "entry_route": "校内分流/后续入口：四年级资格；各PPE学科平均至少78%，总体至少76%，PHIL338、POLI400或441、ECON327/353/363之一各至少76%，须协调员许可。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-philosophy-politics-and-economics-4c058a5913",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-philosophy-emphasis-option-00b788621a",
@@ -7720,7 +7936,7 @@
       "entry_route": "校内分流/后续入口：四年级资格；各PPE学科平均至少78%，总体至少76%，PHIL338、POLI400或441、ECON327/353/363之一各至少76%，须协调员许可。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-philosophy-politics-and-economics-4c058a5913",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-political-science-emphasis-option-f85cff0a15",
@@ -7746,7 +7962,7 @@
       "entry_route": "校内分流/后续入口：四年级资格；各PPE学科平均至少78%，总体至少76%，PHIL338、POLI400或441、ECON327/353/363之一各至少76%，须协调员许可。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-philosophy-politics-and-economics-4c058a5913",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-economics-emphasis-option-b6fb4cda8c",
@@ -7772,7 +7988,7 @@
       "entry_route": "校内分流/后续入口：四年级资格；各PPE学科平均至少78%，总体至少76%，PHIL338、POLI400或441、ECON327/353/363之一各至少76%，须协调员许可。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-philosophy-politics-and-economics-4c058a5913",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-law-emphasis-option-01cd9d2527",
@@ -7798,7 +8014,7 @@
       "entry_route": "校内分流/后续入口：二年级MATH317是PHYS301先修；同一PHYS401/402/418只能满足一个要求，不可重复计入。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；120学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-physics-and-mathematics-combined-major-3001cc7d67",
       "source_entity_type": "combined_major",
       "subjects": [
@@ -7821,7 +8037,7 @@
       "entry_route": "校内分流/后续入口：四年级Physics major且全部课程平均至少76%方可申请；名额可排名竞争，导师和计划须系批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；120学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-physics-0f335ceb3c",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-physics-honours-5bd9f2f213",
@@ -7847,7 +8063,7 @@
       "entry_route": "校内分流/后续入口：须四年级联合major资格且全部课程平均至少76%，系主任可按排名决定；使用物理论文路线须系批准导师和计划。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；120学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-physics-and-mathematics-combined-honours-4dc4232f72",
       "source_entity_type": "combined_honours",
       "subjects": [
@@ -7870,7 +8086,7 @@
       "entry_route": "校内分流/后续入口：四年级资格；心理课加权平均及最后60学分平均均至少76%，PSYO372与373各至少76%；初步题目和导师须批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-psychology-ba-1190064317",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-psychology-honours-fa34703726",
@@ -7896,7 +8112,7 @@
       "entry_route": "校内分流/后续入口：四年级资格；心理课加权平均及最后60学分平均均至少76%，PSYO372与373各至少76%；初步题目和导师须批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-psychology-bsc-205bd9d4fd",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-psychology-honours-8989f242e8",
@@ -7922,7 +8138,7 @@
       "entry_route": "校内分流/后续入口：四年级且在该major至少78学分，适用课程平均至少76%；须具有项目及导师并注册STAT448。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": "4年课程表；120学分",
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-statistics-1149a2e597",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-statistics-honours-33471eaee0",
@@ -7948,7 +8164,7 @@
       "entry_route": "校内分流/后续入口：总体平均76%且系许可；入读后预期保持专业80%平均，通常不能替代AMNE200/300。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-ancient-mediterranean-and-near-eastern-studies-80d8fca3c1",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-ancient-mediterranean-and-near-eastern-studies-honours-cf10c6ecad",
@@ -7974,7 +8190,7 @@
       "entry_route": "校内分流/后续入口：须high B平均，完成ANTH100、ARCL103或140，以及另6学分200级ANTH/ARCL；本页未将high B换算为统一百分数。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-anthropology-12c3f4a1b4",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-anthropology-honours-3f3eb9ef5b",
@@ -8000,7 +8216,7 @@
       "entry_route": "校内分流/后续入口：预计已完成12艺术史学分，其中最多6可来自视觉艺术；通常一二年级总体high B，艺术史至少A-，第三年艺术史须保持该最低水平。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-art-history-d4d7a7e94f",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-art-history-honours-cf188c2509",
@@ -8027,7 +8243,7 @@
       "entry_route": "校内分流/后续入口：入学后书面申请，100/200级电影课平均85%；在第三年注册前申请，校历为5月初截止、5月31日前通知，未核得2027具体日。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-cinema-studies-ac90eeaf49",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-cinema-studies-honours-e44a1dcb13",
@@ -8053,7 +8269,7 @@
       "entry_route": "校内分流/后续入口：需系许可，依据近期系内文化内容或语言课程的强劲表现审核；本页未给2027独立数值录取线。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-asian-area-studies-2a3616967f",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-asian-area-studies-honours-a9f17f03ed",
@@ -8079,7 +8295,7 @@
       "entry_route": "校内分流/后续入口：这是该major明确公布的Area of Focus，语言课按课程水平及先修选修；本轮未取得与此方向单独对应的高中门槛。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-asian-language-and-culture-0b2280a108",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-asian-language-and-culture-china-option-4be14bf67c",
@@ -8105,7 +8321,7 @@
       "entry_route": "校内分流/后续入口：需系许可，依据近期系内文化内容或语言课程的强劲表现审核；本页未给2027独立数值录取线。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-asian-language-and-culture-0b2280a108",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-asian-language-and-culture-china-honours-feca01c1b9",
@@ -8131,7 +8347,7 @@
       "entry_route": "校内分流/后续入口：这是该major明确公布的Area of Focus，语言课按课程水平及先修选修；本轮未取得与此方向单独对应的高中门槛。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-asian-language-and-culture-0b2280a108",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-asian-language-and-culture-chinese-literature-option-82bfcbf434",
@@ -8157,7 +8373,7 @@
       "entry_route": "校内分流/后续入口：需系许可，依据近期系内文化内容或语言课程的强劲表现审核；本页未给2027独立数值录取线。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-asian-language-and-culture-0b2280a108",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-asian-language-and-culture-chinese-literature-honours-f1ca83d16c",
@@ -8183,7 +8399,7 @@
       "entry_route": "校内分流/后续入口：这是该major明确公布的Area of Focus，语言课按课程水平及先修选修；本轮未取得与此方向单独对应的高中门槛。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-asian-language-and-culture-0b2280a108",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-asian-language-and-culture-japan-option-0342d1a082",
@@ -8209,7 +8425,7 @@
       "entry_route": "校内分流/后续入口：需系许可，依据近期系内文化内容或语言课程的强劲表现审核；本页未给2027独立数值录取线。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-asian-language-and-culture-0b2280a108",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-asian-language-and-culture-japan-honours-c0755a3f34",
@@ -8235,7 +8451,7 @@
       "entry_route": "校内分流/后续入口：这是该major明确公布的Area of Focus，语言课按课程水平及先修选修；本轮未取得与此方向单独对应的高中门槛。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-asian-language-and-culture-0b2280a108",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-asian-language-and-culture-korea-option-0551b3fcaa",
@@ -8261,7 +8477,7 @@
       "entry_route": "校内分流/后续入口：需系许可，依据近期系内文化内容或语言课程的强劲表现审核；本页未给2027独立数值录取线。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-asian-language-and-culture-0b2280a108",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-asian-language-and-culture-korea-honours-34b21517a8",
@@ -8287,7 +8503,7 @@
       "entry_route": "校内分流/后续入口：这是该major明确公布的Area of Focus，语言课按课程水平及先修选修；本轮未取得与此方向单独对应的高中门槛。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-asian-language-and-culture-0b2280a108",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-asian-language-and-culture-south-asian-languages-option-c229129cc2",
@@ -8313,7 +8529,7 @@
       "entry_route": "校内分流/后续入口：需系许可，依据近期系内文化内容或语言课程的强劲表现审核；本页未给2027独立数值录取线。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-asian-language-and-culture-0b2280a108",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-asian-language-and-culture-south-asian-languages-honours-2877805fc9",
@@ -8339,7 +8555,7 @@
       "entry_route": "校内分流/后续入口：可在English major申报该侧重。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-english-9fefa79c99",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-english-literature-emphasis-option-2faee9a91a",
@@ -8365,7 +8581,7 @@
       "entry_route": "校内分流/后续入口：可在English major申报该侧重。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-english-9fefa79c99",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-english-language-emphasis-option-897cf50025",
@@ -8391,7 +8607,7 @@
       "entry_route": "校内分流/后续入口：可在English major申报该侧重。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-english-9fefa79c99",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-english-language-and-literature-emphasis-option-a521a27e1e",
@@ -8417,7 +8633,7 @@
       "entry_route": "校内分流/后续入口：三年级进入；ENGL200加ENGL220–249中3学分的平均至少76%。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-english-9fefa79c99",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-english-literature-emphasis-honours-1e1a8e7faa",
@@ -8443,7 +8659,7 @@
       "entry_route": "校内分流/后续入口：三年级进入；ENGL200至少76%，ENGL229亦至少76%。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-english-9fefa79c99",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-english-language-and-literature-emphasis-honours-2e44149242",
@@ -8469,7 +8685,7 @@
       "entry_route": "校内分流/后续入口：通常二年级末申请；PHIL220或222、230、240中至少两门通常各80%，还须哲学教师推荐。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-philosophy-f3b4b4591e",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-philosophy-honours-ba4c46aefe",
@@ -8495,7 +8711,7 @@
       "entry_route": "校内分流/后续入口：Arts学生CS录取非自动，通常达到二年级27学分后在4月申请系审核；该页未另列Honours精确录取线。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-computer-science-ba-103d772315",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-computer-science-honours-d14e2ce0b5",
@@ -8521,7 +8737,7 @@
       "entry_route": "校内分流/后续入口：三年级或即将升三年级；法语及总体均B+，已修FREN301/302或达到CEFR B1，向顾问申请。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-french-aa82c4a8fb",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-french-language-literatures-and-cultures-honours-9a393c2d8a",
@@ -8547,7 +8763,7 @@
       "entry_route": "校内分流/后续入口：无需预有德语；已有基础者须语言水平评估后插入适当课程。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-german-de29cc05ba",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-german-studies-honours-3b4fc875f0",
@@ -8573,7 +8789,7 @@
       "entry_route": "校内分流/后续入口：二年级末前咨询；低年级历史12学分（100级6或Arts One，200级6），其中6学分平均至少80%。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-history-2a7f42a02a",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-history-honours-da93bc6559",
@@ -8599,7 +8815,7 @@
       "entry_route": "校内分流/后续入口：低年级15学分含指定100级历史6、200级历史6及POLI260；其中6学分平均至少80%，二年级末前咨询历史顾问。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-history-2a7f42a02a",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-history-with-international-relations-honours-bfb208ada1",
@@ -8626,7 +8842,7 @@
       "entry_route": "校内分流/后续入口：全部课程平均至少74%是入选及毕业要求；完成54学分后、72学分之前向系申报。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-geography-human-geography-987303d03b",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-human-geography-honours-1f3ea59071",
@@ -8652,7 +8868,7 @@
       "entry_route": "校内分流/后续入口：含LING200/201在内至少33学分总体平均76%，这两门各至少80%，本科顾问批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-linguistics-ed9326884a",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-linguistics-honours-493aaa73d6",
@@ -8678,7 +8894,7 @@
       "entry_route": "校内分流/后续入口：含LING200/201在内至少33学分总体平均76%，这两门各至少80%，本科顾问批准；欲申临床硕士须另核目标学校先修。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-speech-sciences-4e0a7ea052",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-speech-sciences-honours-6cb21798bc",
@@ -8705,7 +8921,7 @@
       "entry_route": "校内分流/后续入口：二年级至少27学分后竞争申请，含微积分6与写作3且不可Credit/D/Fail；Honours须MATH121至少68%，或指定普通第二学期微积分至少80%且对应两学期平均80%；校历书面申请5月20日前。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mathematics-ba-41bf794629",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-mathematics-honours-903438f026",
@@ -8731,7 +8947,7 @@
       "entry_route": "校内分流/后续入口：Honours限显示特殊能力者，每年平均至少68%，但达到68不保证保留资格；本BA本身不设演奏准入，参加合奏课程仍须试演。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-music-2603cf4a2c",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-music-honours-0ef3c65c49",
@@ -8757,7 +8973,7 @@
       "entry_route": "校内分流/后续入口：第三年按成绩、研究经历、公开表达与团队研究综合选拔；二年级平均至少76%，PSYC217/218至少80%，不足者可提出个案申请。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-psychology-2e7abc1dc6",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-psychology-honours-a44c222aef",
@@ -8783,7 +8999,7 @@
       "entry_route": "校内分流/后续入口：三年级或将升三年级，总体B+，完成RMST300/301/302，并已具一门罗曼语CEFR A2或指定202/203课程。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-romance-studies-90cfd36506",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-romance-studies-honours-5d797622b5",
@@ -8809,7 +9025,7 @@
       "entry_route": "校内分流/后续入口：三年级major申请第四年honours；100/200级总体68%、其中社会学75%；300/400级总体75%、其中社会学80%；应于第三年末或其后暑期安排导师并正式申请。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-sociology-4fd3f99e16",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-sociology-honours-e5854b2915",
@@ -8835,7 +9051,7 @@
       "entry_route": "校内分流/后续入口：须协调员批准，并在RGST及认可相关课程显示强劲表现；预期专业平均保持76%。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-religion-955ae2c71f",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-study-of-religion-honours-87e1e59d7a",
@@ -8861,7 +9077,7 @@
       "entry_route": "校内分流/后续入口：须申请；THTR210与211至少76%，不能将此BA条件套用BFA表演试演入口。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-theatre-studies-d64cc517f8",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-theatre-honours-9699f8700a",
@@ -8887,7 +9103,7 @@
       "entry_route": "校内分流/后续入口：须视觉艺术本科顾问许可，预期维持至少80%平均；BFA可高中直入或二三年级转入，皆另需补充申请。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-visual-art-bfa-0819357a21",
       "parent_degree_label": "Bachelor of Fine Arts",
       "id": "ubc-visual-art-honours-1ea555e52e",
@@ -8913,7 +9129,7 @@
       "entry_route": "校内分流/后续入口：达到二年级资格可申报。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-philosophy-and-political-science-combined-major-eab673f28f",
       "source_entity_type": "combined_major",
       "subjects": [
@@ -8936,7 +9152,7 @@
       "entry_route": "校内分流/后续入口：至少二年级27学分，包含指定微积分、6哲学、数学线性代数/证明及计算先修，不能Credit/D/Fail；MATH121至少68%或指定普通第二学期微积分80%，并预期PHIL230/240/340中两门至少76%。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-mathematics-and-philosophy-combined-honours-02ff8a48f1",
       "source_entity_type": "combined_honours",
       "subjects": [
@@ -8959,7 +9175,7 @@
       "entry_route": "校内分流/后续入口：至少54学分申请，容量有限；总体平均80%且至少一门POLI80%者鼓励申请，并非保证录取。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-political-science-c8d0acc2a5",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-political-science-honours-2e005cf429",
@@ -8985,7 +9201,7 @@
       "entry_route": "校内分流/后续入口：至少54学分申请，容量有限；总体平均80%且至少一门POLI80%者鼓励申请，并非保证录取。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-political-science-c8d0acc2a5",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-political-science-with-international-relations-honours-6f449ba297",
@@ -9011,7 +9227,7 @@
       "entry_route": "校内分流/后续入口：二年级27学分后可申报政治major；该选项非独立公共管理学位。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-political-science-c8d0acc2a5",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-political-science-politics-policy-and-administration-option-670231d3cc",
@@ -9038,7 +9254,7 @@
       "entry_route": "校内分流/后续入口：Arts学生只可选其三条BA stream，Science学生只可选两条BSc stream。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-cognitive-systems-ba-e3d3561d38",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-cognitive-systems-cognition-and-the-brain-ba-003fa8aacd",
@@ -9064,7 +9280,7 @@
       "entry_route": "校内分流/后续入口：Arts学生只可选其三条BA stream，Science学生只可选两条BSc stream。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-cognitive-systems-ba-e3d3561d38",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-cognitive-systems-language-ba-4dfde52379",
@@ -9090,7 +9306,7 @@
       "entry_route": "校内分流/后续入口：Arts学生只可选其三条BA stream，Science学生只可选两条BSc stream。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-cognitive-systems-ba-e3d3561d38",
       "parent_degree_label": "Bachelor of Arts",
       "id": "ubc-cognitive-systems-mind-language-and-computation-ba-a40d59d07e",
@@ -9117,7 +9333,7 @@
       "entry_route": "校内分流/后续入口：Arts学生只可选其三条BA stream，Science学生只可选两条BSc stream。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-cognitive-systems-bsc-b0cc1137ab",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-cognitive-systems-cognition-and-brain-bsc-2803b74588",
@@ -9144,7 +9360,7 @@
       "entry_route": "校内分流/后续入口：Arts学生只可选其三条BA stream，Science学生只可选两条BSc stream。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-cognitive-systems-bsc-b0cc1137ab",
       "parent_degree_label": "Bachelor of Science",
       "id": "ubc-cognitive-systems-computational-intelligence-and-design-bsc-643add19ee",
@@ -9171,7 +9387,7 @@
       "entry_route": "校内分流/后续入口：二年级末按学业成绩、方向兴趣及协调员许可选入。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mechanical-engineering-f8430796e6",
       "parent_degree_label": "Bachelor of Applied Science (Engineering)",
       "id": "ubc-mechanical-engineering-aerospace-option-e81c2929ab",
@@ -9197,7 +9413,7 @@
       "entry_route": "校内分流/后续入口：二年级末按学业成绩、方向兴趣及协调员许可选入。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mechanical-engineering-f8430796e6",
       "parent_degree_label": "Bachelor of Applied Science (Engineering)",
       "id": "ubc-mechanical-engineering-biomechanics-and-medical-devices-option-5d1106191a",
@@ -9225,7 +9441,7 @@
       "entry_route": "校内分流/后续入口：二年级末按学业成绩、方向兴趣及协调员许可选入。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mechanical-engineering-f8430796e6",
       "parent_degree_label": "Bachelor of Applied Science (Engineering)",
       "id": "ubc-mechanical-engineering-energy-and-environment-option-d2c6e5a8df",
@@ -9252,7 +9468,7 @@
       "entry_route": "校内分流/后续入口：二年级末按学业成绩、方向兴趣及协调员许可选入。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mechanical-engineering-f8430796e6",
       "parent_degree_label": "Bachelor of Applied Science (Engineering)",
       "id": "ubc-mechanical-engineering-mechatronics-option-e9cf3c2a09",
@@ -9278,7 +9494,7 @@
       "entry_route": "校内分流/后续入口：二年级末按学业成绩、方向兴趣及协调员许可选入。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-mechanical-engineering-f8430796e6",
       "parent_degree_label": "Bachelor of Applied Science (Engineering)",
       "id": "ubc-mechanical-engineering-naval-architecture-and-marine-engineering-188a046091",
@@ -9306,7 +9522,7 @@
       "entry_route": "校内分流/后续入口：须二年级前申请，一年级末按工程平均分、所表达的生物医学兴趣及协调员许可录取，可能限额；本轮未取得2027实际录取线。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-electrical-engineering-77e41198da",
       "parent_degree_label": "Bachelor of Applied Science (Engineering)",
       "id": "ubc-electrical-engineering-biomedical-engineering-option-bde99a691b",
@@ -9334,7 +9550,7 @@
       "entry_route": "校内分流/后续入口：仅适用于上述指定工程专业，具体选修清单由工程学院提供；本轮未取得独立于父专业的2027申请日期或数值门槛。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-aerospace-engineering-concentration-5805790260",
       "eligible_parent_inventory_ids": [
         "ubc-manufacturing-engineering-808ef8e696",
@@ -9360,7 +9576,7 @@
       "entry_route": "校内分流/后续入口：仅适用于上述指定工程专业，具体选修清单由工程学院提供；本轮未取得独立于父专业的2027申请日期或数值门槛。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-biomedical-engineering-engineering-concentration-61d188c771",
       "eligible_parent_inventory_ids": [
         "ubc-mechanical-engineering-da1a9e3d2f",
@@ -9388,7 +9604,7 @@
       "entry_route": "校内分流/后续入口：仅适用于上述指定工程专业，具体选修清单由工程学院提供；本轮未取得独立于父专业的2027申请日期或数值门槛。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-civil-engineering-c312a0f6cb",
       "parent_degree_label": "Bachelor of Applied Science (Engineering)",
       "id": "ubc-environmental-engineering-engineering-concentration-64ac788c8e",
@@ -9418,7 +9634,7 @@
       "entry_route": "校内分流/后续入口：仅适用于上述指定工程专业，具体选修清单由工程学院提供；本轮未取得独立于父专业的2027申请日期或数值门槛。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-integrated-systems-design-engineering-concentration-6241cc977f",
       "eligible_parent_inventory_ids": [
         "ubc-electrical-engineering-7435e4e2e0",
@@ -9445,7 +9661,7 @@
       "entry_route": "校内分流/后续入口：仅适用于上述指定工程专业，具体选修清单由工程学院提供；本轮未取得独立于父专业的2027申请日期或数值门槛。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "id": "ubc-mechatronics-engineering-concentration-c2ca5d8855",
       "eligible_parent_inventory_ids": [
         "ubc-mechanical-engineering-da1a9e3d2f",
@@ -9471,7 +9687,7 @@
       "entry_route": "校内分流/后续入口：仅适用于上述指定工程专业，具体选修清单由工程学院提供；本轮未取得独立于父专业的2027申请日期或数值门槛。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-civil-engineering-c312a0f6cb",
       "parent_degree_label": "Bachelor of Applied Science (Engineering)",
       "id": "ubc-resilient-infrastructure-engineering-concentration-f7b05cdf54",
@@ -9500,7 +9716,7 @@
       "entry_route": "校内分流/后续入口：三年级或以上可申报，累计平均至少75%；第三四年不得不及格、每学年至少30学分且每门300/400级课至少70%，例外须负责人批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-applied-animal-biology-14da95b660",
       "parent_degree_label": "Bachelor of Science in Applied Biology",
       "id": "ubc-applied-animal-biology-honours-f048b60115",
@@ -9526,7 +9742,7 @@
       "entry_route": "校内分流/后续入口：三年级或以上可申报，累计平均至少75%；第三四年不得不及格、每学年至少30学分且每门300/400级课至少70%，例外须负责人批准。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-sustainable-agriculture-and-environment-219cbd0474",
       "parent_degree_label": "Bachelor of Science in Applied Biology",
       "id": "ubc-sustainable-agriculture-and-environment-honours-7fab9bb58f",
@@ -9553,7 +9769,7 @@
       "entry_route": "校内分流/后续入口：第三年在Workday选concentration，为毕业必选且最多一个；高年级课可能有低年级先修，应提前规划。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-commerce-4df2f72374",
       "parent_degree_label": "Bachelor of Commerce",
       "id": "ubc-accounting-bcom-concentration-0948aa761c",
@@ -9579,7 +9795,7 @@
       "entry_route": "校内分流/后续入口：第三年在Workday选concentration，为毕业必选且最多一个；高年级课可能有低年级先修，应提前规划。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-commerce-4df2f72374",
       "parent_degree_label": "Bachelor of Commerce",
       "id": "ubc-business-technology-management-bcom-concentration-4f9d5ca3bd",
@@ -9605,7 +9821,7 @@
       "entry_route": "校内分流/后续入口：第三年在Workday选concentration，为毕业必选且最多一个；高年级课可能有低年级先修，应提前规划。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-commerce-4df2f72374",
       "parent_degree_label": "Bachelor of Commerce",
       "id": "ubc-entrepreneurship-bcom-concentration-c30250a5d5",
@@ -9631,7 +9847,7 @@
       "entry_route": "校内分流/后续入口：第三年在Workday选concentration，为毕业必选且最多一个；高年级课可能有低年级先修，应提前规划。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-commerce-4df2f72374",
       "parent_degree_label": "Bachelor of Commerce",
       "id": "ubc-finance-bcom-concentration-5007310772",
@@ -9657,7 +9873,7 @@
       "entry_route": "校内分流/后续入口：第三年在Workday选concentration，为毕业必选且最多一个；高年级课可能有低年级先修，应提前规划。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-commerce-4df2f72374",
       "parent_degree_label": "Bachelor of Commerce",
       "id": "ubc-general-business-management-bcom-concentration-7fc4135df8",
@@ -9683,7 +9899,7 @@
       "entry_route": "校内分流/后续入口：第三年在Workday选concentration，为毕业必选且最多一个；高年级课可能有低年级先修，应提前规划。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-commerce-4df2f72374",
       "parent_degree_label": "Bachelor of Commerce",
       "id": "ubc-marketing-bcom-concentration-518877ebdb",
@@ -9709,7 +9925,7 @@
       "entry_route": "校内分流/后续入口：第三年在Workday选concentration，为毕业必选且最多一个；高年级课可能有低年级先修，应提前规划。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-commerce-4df2f72374",
       "parent_degree_label": "Bachelor of Commerce",
       "id": "ubc-operations-and-logistics-bcom-concentration-6e39dd1641",
@@ -9735,7 +9951,7 @@
       "entry_route": "校内分流/后续入口：第三年在Workday选concentration，为毕业必选且最多一个；高年级课可能有低年级先修，应提前规划。",
       "intake": "2026/27校历；2027专门招生细则未逐项核实",
       "duration": null,
-      "language": null,
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
       "parent_inventory_id": "ubc-commerce-4df2f72374",
       "parent_degree_label": "Bachelor of Commerce",
       "id": "ubc-organizational-behaviour-and-human-resources-bcom-concentration-ca07e46e32",
@@ -9746,6 +9962,482 @@
         "商科"
       ],
       "subject": "商科"
+    },
+    {
+      "university_id": "ubc",
+      "id": "ubc-bachelor-of-science-in-natural-resources-80456b59e3",
+      "raw_key": "ubcf-bsnr-degree",
+      "name_en": "Bachelor of Science in Natural Resources",
+      "name": "自然资源理学士（共同学位入口）",
+      "degree_label": "Bachelor of Science in Natural Resources",
+      "campus": "Vancouver",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024",
+      "source_period": "2026/27 UBC Academic Calendar; checked2026-09-13",
+      "entity_type": "本科学位共同入口",
+      "entry_route": "高中先申请BSNR；升二年级须申报主修并完成至少24规定学分",
+      "intake": "2026/27现行校历；2027方向规则未单独核实",
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
+      "duration": "通常至少4年；按主修课程要求",
+      "source_record_type": "degree",
+      "record_type": "本科学位共同入口",
+      "status": "2026/27校历已列；按申请阶段与原入学批次核条件",
+      "subject": "环境与农业",
+      "subjects": [
+        "环境与农业"
+      ]
+    },
+    {
+      "university_id": "ubc",
+      "id": "ubc-bachelor-of-science-in-applied-biology-bd18343070",
+      "raw_key": "ubcf-apbi-degree",
+      "name_en": "Bachelor of Science in Applied Biology",
+      "name": "应用生物学理学士（共同学位入口）",
+      "degree_label": "Bachelor of Science in Applied Biology",
+      "campus": "Vancouver",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/introduction",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-applied-biology-apbi/introduction",
+      "source_period": "2026/27 UBC Academic Calendar; checked2026-09-13",
+      "entity_type": "本科学位共同入口",
+      "entry_route": "高中先申请BSc Applied Biology；在学院第二个注册session申报主修",
+      "intake": "2026/27现行校历；2027方向规则未单独核实",
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
+      "duration": "4年课程表；普通主修123–124学分",
+      "source_record_type": "degree",
+      "record_type": "本科学位共同入口",
+      "status": "2026/27校历已列；按申请阶段与原入学批次核条件",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
+    },
+    {
+      "university_id": "ubc",
+      "id": "ubc-conservation-science-and-management-specialization-0383ed6c9a",
+      "raw_key": "ubcf-conservation-science-management",
+      "name_en": "Conservation — Science and Management Specialization",
+      "name": "自然保护：科学与管理方向",
+      "degree_label": "Bachelor of Science in Natural Resources — Major in Conservation",
+      "campus": "Vancouver",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/conservation",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/conservation",
+      "source_period": "2026/27 UBC Academic Calendar; checked2026-09-13",
+      "entity_type": "所属主修内专业方向",
+      "entry_route": "在读方向：完成二年级后选择；名额受限时按学业成绩筛选",
+      "intake": "2026/27现行校历；2027方向规则未单独核实",
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
+      "duration": "所属学位4年课程表；完成二年级后选方向",
+      "parent_program_id": "ubc-conservation-90530694b6",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "source_record_type": "specialization",
+      "record_type": "所属主修内专业方向",
+      "status": "2026/27校历已列；按申请阶段与原入学批次核条件",
+      "subject": "商科",
+      "subjects": [
+        "商科"
+      ],
+      "parent_program_url": "https://you.ubc.ca/programs/conservation/"
+    },
+    {
+      "university_id": "ubc",
+      "id": "ubc-conservation-global-perspectives-specialization-047dcc2b1c",
+      "raw_key": "ubcf-conservation-global-perspectives",
+      "name_en": "Conservation — Global Perspectives Specialization",
+      "name": "自然保护：全球视野方向",
+      "degree_label": "Bachelor of Science in Natural Resources — Major in Conservation",
+      "campus": "Vancouver",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/conservation",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/conservation",
+      "source_period": "2026/27 UBC Academic Calendar; checked2026-09-13",
+      "entity_type": "所属主修内专业方向",
+      "entry_route": "在读方向：完成二年级后选择；名额受限时按学业成绩筛选",
+      "intake": "2026/27现行校历；2027方向规则未单独核实",
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
+      "duration": "所属学位4年课程表；完成二年级后选方向",
+      "parent_program_id": "ubc-conservation-90530694b6",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "source_record_type": "specialization",
+      "record_type": "所属主修内专业方向",
+      "status": "2026/27校历已列；按申请阶段与原入学批次核条件",
+      "subject": "环境与农业",
+      "subjects": [
+        "环境与农业"
+      ],
+      "parent_program_url": "https://you.ubc.ca/programs/conservation/"
+    },
+    {
+      "university_id": "ubc",
+      "id": "ubc-forest-management-community-and-indigenous-forestry-concentration-f05de48e4e",
+      "raw_key": "ubcf-community-indigenous-forestry",
+      "name_en": "Forest Management — Community and Indigenous Forestry Concentration",
+      "name": "森林管理：社区与原住民林业方向",
+      "degree_label": "Bachelor of Science in Natural Resources — Major in Forest Management",
+      "campus": "Vancouver",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-management",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-management",
+      "source_period": "2026/27 UBC Academic Calendar; checked2026-09-13",
+      "entity_type": "所属主修内集中方向",
+      "entry_route": "在读方向：BSNR Forest Management内选择；额外GPA/2027窗口未核实",
+      "intake": "2026/27现行校历；2027方向规则未单独核实",
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
+      "duration": "所属学位4年课程表",
+      "parent_program_id": "ubc-forest-management-948b3d5178",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "source_record_type": "concentration",
+      "record_type": "所属主修内集中方向",
+      "status": "2026/27校历已列；按申请阶段与原入学批次核条件",
+      "subject": "商科",
+      "subjects": [
+        "商科",
+        "环境与农业"
+      ],
+      "parent_program_url": "https://you.ubc.ca/programs/forest-management/"
+    },
+    {
+      "university_id": "ubc",
+      "id": "ubc-forest-sciences-honours-410b257b44",
+      "raw_key": "ubcf-forest-sciences-honours",
+      "name_en": "Forest Sciences (Honours)",
+      "name": "森林科学（荣誉研究方向）",
+      "degree_label": "Bachelor of Science in Natural Resources — Honours in Forest Sciences",
+      "campus": "Vancouver",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-sciences",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-sciences",
+      "source_period": "2026/27 UBC Academic Calendar; checked2026-09-13",
+      "entity_type": "所属学位内具名方向",
+      "entry_route": "在读荣誉：指定5门NRES核心平均80%；第三学年9/1/5月初向主任申请",
+      "intake": "2026/27现行校历；2027方向规则未单独核实",
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
+      "duration": "四年课程表；方向学分有官方表内差异",
+      "parent_program_id": "ubc-forest-sciences-95f3233a62",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "source_record_type": "honours_major",
+      "record_type": "所属学位内具名方向",
+      "status": "2026/27校历已列；按申请阶段与原入学批次核条件",
+      "subject": "环境与农业",
+      "subjects": [
+        "环境与农业"
+      ],
+      "parent_program_url": "https://you.ubc.ca/programs/forest-sciences/"
+    },
+    {
+      "university_id": "ubc",
+      "id": "ubc-forest-sciences-plant-genetics-genomics-physiology-58e84b1279",
+      "raw_key": "ubcf-forest-sciences-plant-genetics",
+      "name_en": "Forest Sciences — Plant Genetics/Genomics/Physiology",
+      "name": "森林科学：植物遗传、基因组与生理",
+      "degree_label": "Bachelor of Science in Natural Resources — Forest Sciences area of concentration",
+      "campus": "Vancouver",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-sciences",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-sciences",
+      "source_period": "2026/27 UBC Academic Calendar; checked2026-09-13",
+      "entity_type": "所属主修内集中方向",
+      "entry_route": "在读方向：不迟于三年级开始选择，由主任批准；荣誉另须获准",
+      "intake": "2026/27现行校历；2027方向规则未单独核实",
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
+      "duration": "在所属四年学位中完成；方向学分待确认",
+      "parent_program_id": "ubc-forest-sciences-95f3233a62",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "eligible_parent_program_ids": [
+        "ubc-forest-sciences-95f3233a62",
+        "ubc-forest-sciences-honours-410b257b44"
+      ],
+      "source_record_type": "concentration",
+      "record_type": "所属主修内集中方向",
+      "status": "2026/27校历已列；按申请阶段与原入学批次核条件",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ],
+      "parent_program_url": "https://you.ubc.ca/programs/forest-sciences/"
+    },
+    {
+      "university_id": "ubc",
+      "id": "ubc-forest-sciences-forest-ecology-and-management-50a58b41b8",
+      "raw_key": "ubcf-forest-sciences-forest-ecology",
+      "name_en": "Forest Sciences — Forest Ecology and Management",
+      "name": "森林科学：森林生态与管理",
+      "degree_label": "Bachelor of Science in Natural Resources — Forest Sciences area of concentration",
+      "campus": "Vancouver",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-sciences",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-sciences",
+      "source_period": "2026/27 UBC Academic Calendar; checked2026-09-13",
+      "entity_type": "所属主修内集中方向",
+      "entry_route": "在读方向：不迟于三年级开始选择，由主任批准；荣誉另须获准",
+      "intake": "2026/27现行校历；2027方向规则未单独核实",
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
+      "duration": "在所属四年学位中完成；方向学分待确认",
+      "parent_program_id": "ubc-forest-sciences-95f3233a62",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "eligible_parent_program_ids": [
+        "ubc-forest-sciences-95f3233a62",
+        "ubc-forest-sciences-honours-410b257b44"
+      ],
+      "source_record_type": "concentration",
+      "record_type": "所属主修内集中方向",
+      "status": "2026/27校历已列；按申请阶段与原入学批次核条件",
+      "subject": "商科",
+      "subjects": [
+        "商科",
+        "环境与农业"
+      ],
+      "parent_program_url": "https://you.ubc.ca/programs/forest-sciences/"
+    },
+    {
+      "university_id": "ubc",
+      "id": "ubc-forest-sciences-biodiversity-conservation-and-management-6f09f8f32a",
+      "raw_key": "ubcf-forest-sciences-biodiversity",
+      "name_en": "Forest Sciences — Biodiversity Conservation and Management",
+      "name": "森林科学：生物多样性保护与管理",
+      "degree_label": "Bachelor of Science in Natural Resources — Forest Sciences area of concentration",
+      "campus": "Vancouver",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-sciences",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-sciences",
+      "source_period": "2026/27 UBC Academic Calendar; checked2026-09-13",
+      "entity_type": "所属主修内集中方向",
+      "entry_route": "在读方向：不迟于三年级开始选择，由主任批准；荣誉另须获准",
+      "intake": "2026/27现行校历；2027方向规则未单独核实",
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
+      "duration": "在所属四年学位中完成；方向学分待确认",
+      "parent_program_id": "ubc-forest-sciences-95f3233a62",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "eligible_parent_program_ids": [
+        "ubc-forest-sciences-95f3233a62",
+        "ubc-forest-sciences-honours-410b257b44"
+      ],
+      "source_record_type": "concentration",
+      "record_type": "所属主修内集中方向",
+      "status": "2026/27校历已列；按申请阶段与原入学批次核条件",
+      "subject": "商科",
+      "subjects": [
+        "商科",
+        "自然科学"
+      ],
+      "parent_program_url": "https://you.ubc.ca/programs/forest-sciences/"
+    },
+    {
+      "university_id": "ubc",
+      "id": "ubc-forest-sciences-international-forestry-sustainability-c30abeef8c",
+      "raw_key": "ubcf-forest-sciences-international-forestry",
+      "name_en": "Forest Sciences — International Forestry/Sustainability",
+      "name": "森林科学：国际林业与可持续性",
+      "degree_label": "Bachelor of Science in Natural Resources — Forest Sciences area of concentration",
+      "campus": "Vancouver",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-sciences",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-sciences",
+      "source_period": "2026/27 UBC Academic Calendar; checked2026-09-13",
+      "entity_type": "所属主修内集中方向",
+      "entry_route": "在读方向：不迟于三年级开始选择，由主任批准；荣誉另须获准",
+      "intake": "2026/27现行校历；2027方向规则未单独核实",
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
+      "duration": "在所属四年学位中完成；方向学分待确认",
+      "parent_program_id": "ubc-forest-sciences-95f3233a62",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "eligible_parent_program_ids": [
+        "ubc-forest-sciences-95f3233a62",
+        "ubc-forest-sciences-honours-410b257b44"
+      ],
+      "source_record_type": "concentration",
+      "record_type": "所属主修内集中方向",
+      "status": "2026/27校历已列；按申请阶段与原入学批次核条件",
+      "subject": "环境与农业",
+      "subjects": [
+        "环境与农业"
+      ],
+      "parent_program_url": "https://you.ubc.ca/programs/forest-sciences/"
+    },
+    {
+      "university_id": "ubc",
+      "id": "ubc-forest-sciences-geomatics-mensuration-17e8302b9a",
+      "raw_key": "ubcf-forest-sciences-geomatics",
+      "name_en": "Forest Sciences — Geomatics/Mensuration",
+      "name": "森林科学：地理空间技术与森林测量",
+      "degree_label": "Bachelor of Science in Natural Resources — Forest Sciences area of concentration",
+      "campus": "Vancouver",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-sciences",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-sciences",
+      "source_period": "2026/27 UBC Academic Calendar; checked2026-09-13",
+      "entity_type": "所属主修内集中方向",
+      "entry_route": "在读方向：不迟于三年级开始选择，由主任批准；荣誉另须获准",
+      "intake": "2026/27现行校历；2027方向规则未单独核实",
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
+      "duration": "在所属四年学位中完成；方向学分待确认",
+      "parent_program_id": "ubc-forest-sciences-95f3233a62",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "eligible_parent_program_ids": [
+        "ubc-forest-sciences-95f3233a62",
+        "ubc-forest-sciences-honours-410b257b44"
+      ],
+      "source_record_type": "concentration",
+      "record_type": "所属主修内集中方向",
+      "status": "2026/27校历已列；按申请阶段与原入学批次核条件",
+      "subject": "环境与农业",
+      "subjects": [
+        "环境与农业"
+      ],
+      "parent_program_url": "https://you.ubc.ca/programs/forest-sciences/"
+    },
+    {
+      "university_id": "ubc",
+      "id": "ubc-forest-operations-harvest-planning-and-engineering-specialization-a40dfd3ca1",
+      "raw_key": "ubcf-harvest-planning-engineering",
+      "name_en": "Forest Operations — Harvest Planning and Engineering Specialization",
+      "name": "森林作业：采伐规划与工程方向",
+      "degree_label": "Bachelor of Science in Natural Resources — Major in Forest Operations",
+      "campus": "Vancouver",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-operations",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/forest-operations",
+      "source_period": "2026/27 UBC Academic Calendar; checked2026-09-13",
+      "entity_type": "所属主修内专业方向",
+      "entry_route": "BSNR Forest Operations内方向；工程注册需另补课程及核完整资格",
+      "intake": "2026/27现行校历；2027方向规则未单独核实",
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
+      "duration": "所属学位4年课程表",
+      "parent_program_id": "ubc-forest-operations-600750349c",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "source_record_type": "specialization",
+      "record_type": "所属主修内专业方向",
+      "status": "2026/27校历已列；按申请阶段与原入学批次核条件",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ],
+      "parent_program_url": "https://you.ubc.ca/programs/forest-operations/"
+    },
+    {
+      "university_id": "ubc",
+      "id": "ubc-bioeconomy-sciences-and-technology-co-operative-education-b9d287b2b1",
+      "raw_key": "ubcf-best-coop",
+      "name_en": "Bioeconomy Sciences and Technology (Co-operative Education)",
+      "name": "生物经济科学与技术（Co-op）",
+      "degree_label": "Bachelor of Science in Natural Resources — Bioeconomy Sciences and Technology (Co-operative Education)",
+      "campus": "Vancouver",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/bioeconomy-sciences-and-technology",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/bioeconomy-sciences-and-technology",
+      "source_period": "2026/27 UBC Academic Calendar; checked2026-09-13",
+      "entity_type": "所属主修内Co-op培养方案",
+      "entry_route": "在读Co-op：二年级秋季申请；64%及面试，后续须维持64%",
+      "intake": "2026/27现行校历；2027方向规则未单独核实",
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
+      "duration": "5年；含5个各4个月工作学期",
+      "parent_program_id": "ubc-bioeconomy-sciences-and-technology-544397d919",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "source_record_type": "cooperative_education_option",
+      "record_type": "所属主修内Co-op培养方案",
+      "status": "2026/27校历已列；按申请阶段与原入学批次核条件",
+      "subject": "环境与农业",
+      "subjects": [
+        "环境与农业"
+      ],
+      "parent_program_url": "https://you.ubc.ca/programs/bioeconomy-sciences-technology/"
+    },
+    {
+      "university_id": "ubc",
+      "id": "ubc-wood-products-co-operative-education-048533666a",
+      "raw_key": "ubcf-wood-coop",
+      "name_en": "Wood Products (Co-operative Education)",
+      "name": "木产品（Co-op）",
+      "degree_label": "Bachelor of Science in Natural Resources — Wood Products (Co-operative Education)",
+      "campus": "Vancouver",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/wood-products",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-forestry-and-environmental-stewardship/bsc-natural-resources-students-starting-september-2024/wood-products",
+      "source_period": "2026/27 UBC Academic Calendar; checked2026-09-13",
+      "entity_type": "所属主修内Co-op培养方案",
+      "entry_route": "在读Co-op：二年级秋季申请；首次求职64%，WOOD311起68%并维持",
+      "intake": "2026/27现行校历；2027方向规则未单独核实",
+      "language": "英语为主（学校通则；语言课程及校外阶段另核）",
+      "duration": "5年；含5个各4个月工作学期",
+      "parent_program_id": "ubc-wood-products-209a0f638d",
+      "parent_degree_label": "Bachelor of Science in Natural Resources",
+      "source_record_type": "cooperative_education_option",
+      "record_type": "所属主修内Co-op培养方案",
+      "status": "2026/27校历已列；按申请阶段与原入学批次核条件",
+      "subject": "环境与农业",
+      "subjects": [
+        "环境与农业"
+      ],
+      "parent_program_url": "https://you.ubc.ca/programs/wood-products/"
+    },
+    {
+      "id": "ubc-food-and-resource-economics-d470a73931",
+      "university_id": "ubc",
+      "raw_key": "UBCR-FRE-degree",
+      "name": "食品与资源经济理学士（共同学位入口）",
+      "name_en": "Bachelor of Science in Food and Resource Economics",
+      "degree_label": "Bachelor of Science in Food and Resource Economics",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre",
+      "record_type": "本科学位共同入口",
+      "entity_type": "本科学位共同入口",
+      "campus": "Vancouver",
+      "language": "英语为主（学校通则；语言课程另核）",
+      "duration": "4年课程表；121学分，含至少45高年级学分",
+      "intake": "2026/27现行校历；2027专门主修安排仍待核",
+      "source_period": "2026/27 Academic Calendar; 2023/24 or earlier requirements separately archived",
+      "status": "current_calendar_listed",
+      "subject": "经济",
+      "subjects": [
+        "经济",
+        "环境与农业",
+        "商科"
+      ],
+      "entry_route": "可高中直入FRE或大学转入；两主修按学院规则申报"
+    },
+    {
+      "id": "ubc-food-resource-economics-data-analytics-208265b39c",
+      "university_id": "ubc",
+      "raw_key": "UBCR-FRE-data-analytics",
+      "name": "食品与资源经济：数据分析",
+      "name_en": "Data Analytics Major",
+      "degree_label": "Bachelor of Science in Food and Resource Economics — Data Analytics",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/data-analytics-major",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre",
+      "record_type": "共同学位下的主修",
+      "entity_type": "共同学位下的主修",
+      "campus": "Vancouver",
+      "language": "英语为主（学校通则；语言课程另核）",
+      "duration": "4年课程表；121学分，含至少45高年级学分",
+      "intake": "2026/27现行校历；2027专门主修安排仍待核",
+      "source_period": "2026/27 Academic Calendar; 2023/24 or earlier requirements separately archived",
+      "status": "current_calendar_listed",
+      "subject": "经济",
+      "subjects": [
+        "经济",
+        "环境与农业",
+        "计算机"
+      ],
+      "parent_program_id": "ubc-food-and-resource-economics-d470a73931",
+      "parent_program_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre",
+      "parent_degree_label": "Bachelor of Science in Food and Resource Economics",
+      "entry_route": "先申请所属FRE学位；主修最迟在学院第二个注册Session申报"
+    },
+    {
+      "id": "ubc-food-resource-economics-business-markets-575338797b",
+      "university_id": "ubc",
+      "raw_key": "UBCR-FRE-business-markets",
+      "name": "食品与资源经济：商业与市场",
+      "name_en": "Business and Markets Major",
+      "degree_label": "Bachelor of Science in Food and Resource Economics — Business and Markets",
+      "official_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre/business-and-markets-major",
+      "discovery_source_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre",
+      "record_type": "共同学位下的主修",
+      "entity_type": "共同学位下的主修",
+      "campus": "Vancouver",
+      "language": "英语为主（学校通则；语言课程另核）",
+      "duration": "4年课程表；121学分，含至少45高年级学分",
+      "intake": "2026/27现行校历；2027专门主修安排仍待核",
+      "source_period": "2026/27 Academic Calendar; 2023/24 or earlier requirements separately archived",
+      "status": "current_calendar_listed",
+      "subject": "经济",
+      "subjects": [
+        "经济",
+        "环境与农业",
+        "商科"
+      ],
+      "parent_program_id": "ubc-food-and-resource-economics-d470a73931",
+      "parent_program_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-land-and-food-systems/bsc-food-and-resource-economics-fre",
+      "parent_degree_label": "Bachelor of Science in Food and Resource Economics",
+      "entry_route": "先申请所属FRE学位；主修最迟在学院第二个注册Session申报"
     }
   ]
 }

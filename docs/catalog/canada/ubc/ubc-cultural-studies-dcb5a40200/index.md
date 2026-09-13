@@ -21,7 +21,7 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4年（页面所述培养阶段）</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Okanagan · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Okanagan · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -38,6 +38,9 @@ hide:
 
 <p class="catalog-fact"><strong>项目内容：</strong>结合媒介与大众文化、全球文化研究及批评理论，研究互联网、影视、行动主义、全球化与人权。</p>
 <p class="fact-sources"><a href="#source-p-program">官方依据</a></p>
+
+<p class="catalog-fact"><strong>主要教学语言及适用范围：</strong>学校说明以英语为主要教学语言；本条引用学校通则，具体语言课程、海外或校外教学阶段须另核。</p>
+<p class="fact-sources"><a href="#source-p-UBCR-teaching-language-okanagan">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -91,6 +94,7 @@ hide:
 
 <div class="catalog-source" id="source-p-program"><div><a href="https://you.ubc.ca/programs/">UBC官方本科项目资料：Cultural Studies ↗</a><p>公开完整programsListData中的培养内容、项目类型及官方项目入口</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-china-degree"><div><a href="https://you.ubc.ca/applying-ubc/requirements/international-high-schools/">UBC中国申请：所属学位先修 ↗</a><p>该校区中国资格选择器下的学位特定要求</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-UBCR-teaching-language-okanagan"><div><a href="https://you.ubc.ca/applying-ubc/requirements/english-language-competency-ok/">UBC Okanagan — English language competency ↗</a><p>Okanagan页面开头：UBC以英语为主要教学语言；不继承本页具体考试年份及分数</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-china-v"><div><a href="https://you.ubc.ca/applying-ubc/requirements/international-high-schools/">UBC中国资格：Vancouver ↗</a><p>动态选择中国和Vancouver的正式资格、先修与历史参考成绩</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-china-o"><div><a href="https://you.ubc.ca/applying-ubc/requirements/international-high-schools/">UBC中国资格：Okanagan ↗</a><p>动态选择中国和Okanagan的正式资格、先修与历史参考成绩</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-dates"><div><a href="https://you.ubc.ca/applying-ubc/dates-deadlines/">UBC2027申请日历 ↗</a><p>申请、英语和境外高中材料、International Scholars截止</p><small>核验 2026-09-12</small></div></div>
