@@ -19,7 +19,7 @@ hide:
 
 <p class="program-title-en">Mathematical Sciences</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4年</strong></div><div><span>国际生学费</span><strong>2026：SGD21,400／年（获TG）；无TG分类待核</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026课程；2027资格与学费分别核年</strong></div><div><span>学制</span><strong>4年</strong></div><div><span>国际生学费</span><strong>2026：SGD21,400／年（获TG）；无TG分类待核</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
@@ -42,8 +42,8 @@ hide:
 
 <p><strong>目录状态：</strong>目录已收录；申请身份与年度见详情</p>
 
-<p class="catalog-fact"><strong>学位与学习内容：</strong>从微积分、统计和离散数学建立基础，校内选择纯数学、应用数学、统计或商业分析方向。现页适用于2021及以后，四路径总量均129 AU，但核心及专业实践的分配不同。</p>
-<p class="fact-sources"><a href="#source-p-NTU-002a10e03e7b6abe">官方依据</a></p>
+<p class="catalog-fact"><strong>2026课程及内部方向：</strong>2026入学数学科学为130AU，现有计算数学与建模、密码学与网络安全、数据分析与统计学习、金融科技与量化分析、纯数学五方向；最多选二，也可不选。每方向至少20AU。</p>
+<p class="fact-sources"><a href="#source-p-NTUS-232be911970895a6">官方依据</a></p>
 
 <p class="catalog-fact"><strong>学制：</strong>4年；减免、加速与个别培养方案须由学校确认。</p>
 <p class="fact-sources"><a href="#source-p-NTU-002a10e03e7b6abe">官方依据</a></p>
@@ -155,6 +155,7 @@ hide:
 <div class="catalog-source" id="source-p-NTU-c85fe49a73991279"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide">Admission Guide | NTU Singapore ↗</a><p>AY2027/28国际资格与IB开放窗口，资格截止差异</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-NTU-d53f995e88d4d767"><div><a href="https://www.moe.gov.sg/media/files/post-secondary/ges-2025/Web%20Publication%20NTU%20GES%202025.pdf">Singapore MOE NTU 2025 Graduate Employment Survey ↗</a><p>MOE NTU GES2025三页官方表、42个统计组、调查分母及脚注1–15；医学为2024届随访</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-NTU-fcdab2a3fdb808a4"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-fees/accepted-programme-offer-in-2026">Accepted Programme Offer in 2026 | NTU Singapore ↗</a><p>2026接受录取者按项目组、国际身份及补贴状态的年费；含GST及固定费率</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NTUS-232be911970895a6"><div><a href="https://www.ntu.edu.sg/spms/about-us/mathematics/undergrad/degree-programmes/math-(matric-yr-2026">MATH (Matric Yr 2026) | School of Physical and Mathematical Sciences | NTU Singapore ↗</a><p>具名专业身份、课程结构与所列适用条件；按事实定位</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-NTU-25a15840eec9d2c3"><div><a href="https://www.ntu.edu.sg/media/docs/default-source/undergraduate-admissions/msr/emsr_ib.pdf?sfvrsn=22f65e0e_3">NTU官方资料 ↗</a><p>截至2026年2月IB各项目科目层级与选拔表；非2027已确认门槛</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-NTU-2f7359644a289141"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-grants">Tuition Grants | NTU Singapore ↗</a><p>国际生选择、获批及签署TG；三年工作义务、未完成手续自费；2026注册日期</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-NTU-4071c0a04323c002"><div><a href="https://www.ntu.edu.sg/media/docs/default-source/undergraduate-admissions/msr/emsr_intnl.pdf?sfvrsn=35f52b2c_5">NTU国际及其他资格最低科目表（2026参考） ↗</a><p>国际资格各课程高中／初中先修、HSK、选拔及NIE／REP身份限制</p><small>核验 2026-09-13</small></div></div>

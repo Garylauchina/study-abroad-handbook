@@ -97,7 +97,7 @@ hide:
 - [官方项目页面或项目所在目录](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-marketing-bsc)
 - [官方目录](https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true)
 
-<div class="catalog-source" id="source-p-BHM-dc3df0fc2bc19fb0"><div><a href="https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-marketing-bsc">Business Management with Marketing  BSc (Dubai)：官方课程详情 ↗</a><p>学位、学制与版本；入学年份边界；校区；授课语言边界；课程内容举例；A-level / IB 标准门槛；迪拜国际学费与入学期；毕业资料缺口</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-BHM-dc3df0fc2bc19fb0"><div><a href="https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-marketing-bsc">Business Management with Marketing BSc (Dubai)：官方课程详情 ↗</a><p>学位、学制与版本；入学年份边界；校区；授课语言边界；课程内容举例；A-level / IB 标准门槛；迪拜国际学费与入学期；毕业资料缺口</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-BHM-65beda4ed6845ed8"><div><a href="https://www.birmingham.ac.uk/dubai/study/apply/entry-requirements">伯明翰迪拜：国际入学要求 ↗</a><p>中国本科直入边界（迪拜）；迪拜英语要求</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-BHM-13cd72977bec9790"><div><a href="https://www.birmingham.ac.uk/study/international/country/china">伯明翰：中国资格的迪拜适用限制 ↗</a><p>迪拜学历认可</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-BHM-0034f8741ffe6fa6"><div><a href="https://www.birmingham.ac.uk/dubai/study/apply">伯明翰迪拜：如何申请 ↗</a><p>迪拜申请渠道与期限</p><small>核验 2026-09-13</small></div></div>

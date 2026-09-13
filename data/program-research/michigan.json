@@ -18955,52 +18955,6 @@
       },
       "inventory_id": "michigan-biotechnology-and-bioenvironmental-sciences-ef2435ba81",
       "degree_label": "本科主修（具体学位名称本轮未核实）"
-    },
-    {
-      "university_id": "michigan",
-      "inventory_id": "michigan-plant-biology-267b379902",
-      "degree_label": "本科项目（学位名称尚未核实）",
-      "raw_key": "Plant Biology | College of Literature, Science, and the Arts (LSA)",
-      "name_en": "Plant Biology",
-      "official_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#plant_biology-maj",
-      "checked_at": "2026-09-12",
-      "sections": {
-        "overview": [
-          {
-            "label": "目录身份",
-            "text": "官方目录收录 Plant Biology（本科项目（学位名称尚未核实））。本轮尚未完成该独立项目课程、费用及毕业去向的逐项核对；学校通用规则另列。",
-            "source_ids": [
-              "USBENR-fc23bbf18aa15f"
-            ]
-          }
-        ],
-        "admissions": [],
-        "applications": [],
-        "fees": [],
-        "outcomes": []
-      },
-      "sources": [
-        {
-          "id": "USBENR-fc23bbf18aa15f",
-          "title": "Plant Biology — 官方本科目录",
-          "url": "https://admissions.umich.edu/academics-majors/majors-degrees",
-          "checked_at": "2026-09-12",
-          "supports": "专业名称与目录入口；本轮未取得独立课程完整详情",
-          "sha256": "7c5349187a2c49dc21fc3d8111322369415894e99678c1b6ee4308cc97756337",
-          "locator": "official undergraduate program listing"
-        }
-      ],
-      "display_fields": {
-        "name": "植物生物学（当前目录身份待确认）",
-        "entry_summary": "旧目录条目；当前招生身份仍待核实",
-        "intake": "当前目录未列，尚未确认停招或替代关系"
-      },
-      "research_status": "directory_only",
-      "excluded_school_sections": [
-        "admissions",
-        "applications",
-        "fees"
-      ]
     }
   ],
   "profile": {

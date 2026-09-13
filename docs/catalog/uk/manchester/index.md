@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-301 个专业条目 · 4 个含详细资料 · 293 个补有专业资料 · 4 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+301 个专业条目 · 4 个含详细资料 · 297 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=manchester#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -170,13 +170,13 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-genetics-with-industrial-professional-experience-728872e613/">Genetics with Industrial/Professional Experience</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-genetics-with-international-study-85065f0eb8/">Genetics with International Study</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-genetics-with-a-modern-language-0c9df9e388/">Genetics with a Modern Language</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-geography-b1603dd93d/">Geography</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-geography-b1603dd93d/">地理学（人文地理BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-geography-105d142d87/">Geography</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-geography-5e52258d35/">Geography</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-geography-with-international-study-af6d279027/">Geography with International Study</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-geography-with-international-study-af6d279027/">地理学（人文地理BA，含海外学习）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-geography-with-international-study-de6f446053/">Geography with International Study</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-geography-with-international-study-eb54645e44/">Geography with International Study</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-geography-with-international-study-e9d5024679/">Geography with International Study</a><small>BSc · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-geography-with-international-study-e9d5024679/">地理学（自然地理BSc，含海外学习）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-geography-with-professional-placement-7957128fb4/">Geography with Professional Placement</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-geography-with-professional-placement-e0d01d69cd/">Geography with Professional Placement</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-geology-46503ac9e0/">Geology</a><small>BSc · 部分专业资料已核实</small></article>
@@ -273,7 +273,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-neuroscience-with-industrial-professional-experience-a5a193925a/">Neuroscience with Industrial/Professional Experience</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-neuroscience-with-international-study-b9ede5d403/">Neuroscience with International Study</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-neuroscience-with-a-modern-language-68c96bb514/">Neuroscience with a Modern Language</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-nursing-practice-cpd-86c5781243/">Nursing Practice (CPD)</a><small>Bachelor of Science (Honours) · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-nursing-practice-cpd-86c5781243/">护理实践（在职继续专业教育）</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-optometry-a31b3efd25/">Optometry</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-pharmacology-201fe6d0cc/">Pharmacology</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-pharmacology-5656d081ef/">Pharmacology</a><small>MSci · 部分专业资料已核实</small></article>
@@ -376,8 +376,13 @@ hide:
 
 - Directory/JSON presence is not confirmation applications remain open.
 - Nursing Practice CPD is a post-qualification route and is not available as ordinary high-school direct entry.
+- 三项新地理2027有课程正文但顶栏TBA，具体门槛与费用未取得；护理实践CPD须已有护理资格，不用于初始注册。
 
 - [官方目录来源](https://www.manchester.ac.uk/study/undergraduate/courses/2027/json/)
 - [官方目录来源](https://www.manchester.ac.uk/study/undergraduate/courses/2027/xml/)
+- [官方目录来源](https://www.manchester.ac.uk/study/undergraduate/courses/2027/22121/ba-geography/all-content/)
+- [官方目录来源](https://www.manchester.ac.uk/study/undergraduate/courses/2027/22123/ba-geography-with-international-study/all-content/)
+- [官方目录来源](https://www.manchester.ac.uk/study/undergraduate/courses/2027/22124/bsc-geography-with-international-study/all-content/)
+- [官方目录来源](https://www.manchester.ac.uk/study/undergraduate/courses/2027/00623/bsc-nursing-practice-cpd/all-content/)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

@@ -1,6 +1,6 @@
 {
   "university_id": "manchester",
-  "checked_at": "2026-09-12",
+  "checked_at": "2026-09-13",
   "coverage": {
     "status": "complete",
     "count": 301,
@@ -21,11 +21,36 @@
         "bytes": 85635,
         "raw_file": "scratch/full-catalog/uk/manchester/raw/directory-xml.html",
         "meta_file": "scratch/full-catalog/uk/manchester/raw/directory-xml.meta.json"
+      },
+      {
+        "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22121/ba-geography/all-content/",
+        "sha256": "975a1eedbf410f8bf412c8737e86358571c4c625a3bcbc921b03818df82d22b4",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/22121-full.html",
+        "locator": null
+      },
+      {
+        "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22123/ba-geography-with-international-study/all-content/",
+        "sha256": "b6676a6800ecfdf4a7d8b03196fb1c3da57e4c18e710e64fb7d9027016f60806",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/22123-full.html",
+        "locator": null
+      },
+      {
+        "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22124/bsc-geography-with-international-study/all-content/",
+        "sha256": "93eacba3abef2e10e8757f58cced9ad2faf1ffd9104dd9556f7828ad08085a6c",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/22124-full.html",
+        "locator": null
+      },
+      {
+        "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00623/bsc-nursing-practice-cpd/all-content/",
+        "sha256": "ff18d4fff2537003668ff7c1f4273ba6789ff5b9022d13793781ca3e2514de3e",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/00623-full.html",
+        "locator": null
       }
     ],
     "gaps": [
       "Directory/JSON presence is not confirmation applications remain open.",
-      "Nursing Practice CPD is a post-qualification route and is not available as ordinary high-school direct entry."
+      "Nursing Practice CPD is a post-qualification route and is not available as ordinary high-school direct entry.",
+      "三项新地理2027有课程正文但顶栏TBA，具体门槛与费用未取得；护理实践CPD须已有护理资格，不用于初始注册。"
     ]
   },
   "programs": [
@@ -2416,17 +2441,22 @@
       "degree_label": "BA",
       "official_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22121/ba-geography/",
       "intake": "2027",
-      "duration": "3 years",
+      "duration": "3年（正文按年级结构；顶栏TBA）",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/xml/",
-      "source_period": "2027 entry",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "source_period": "2026-09-13核对官方资料；课程、招生与费用适用年度见正文",
+      "entry_route": "2027已核课程内容；具体成绩与科目门槛本轮未取得",
       "requires_prior_degree": null,
       "status": "listed_current",
       "raw_key": "22121",
       "ucas_code": "L700",
-      "id": "manchester-geography-b1603dd93d"
+      "id": "manchester-geography-b1603dd93d",
+      "name": "地理学（人文地理BA）",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Geography",
@@ -2467,17 +2497,22 @@
       "degree_label": "BA",
       "official_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22123/ba-geography-with-international-study/",
       "intake": "2027",
-      "duration": "4 years",
+      "duration": "4年（正文按年级结构；顶栏TBA）",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/xml/",
-      "source_period": "2027 entry",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "source_period": "2026-09-13核对官方资料；课程、招生与费用适用年度见正文",
+      "entry_route": "2027已核课程内容；具体成绩与科目门槛本轮未取得",
       "requires_prior_degree": null,
       "status": "listed_current",
       "raw_key": "22123",
       "ucas_code": "LF78",
-      "id": "manchester-geography-with-international-study-af6d279027"
+      "id": "manchester-geography-with-international-study-af6d279027",
+      "name": "地理学（人文地理BA，含海外学习）",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Geography with International Study",
@@ -2518,17 +2553,22 @@
       "degree_label": "BSc",
       "official_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22124/bsc-geography-with-international-study/",
       "intake": "2027",
-      "duration": "4 years",
+      "duration": "4年（正文按年级结构；顶栏TBA）",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/xml/",
-      "source_period": "2027 entry",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "source_period": "2026-09-13核对官方资料；课程、招生与费用适用年度见正文",
+      "entry_route": "2027已核课程内容；具体成绩与科目门槛本轮未取得",
       "requires_prior_degree": null,
       "status": "listed_current",
       "raw_key": "22124",
       "ucas_code": "FL87",
-      "id": "manchester-geography-with-international-study-e9d5024679"
+      "id": "manchester-geography-with-international-study-e9d5024679",
+      "name": "地理学（自然地理BSc，含海外学习）",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Geography with Professional Placement",
@@ -5138,17 +5178,23 @@
       "degree_label": "Bachelor of Science (Honours)",
       "official_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00623/bsc-nursing-practice-cpd/",
       "intake": "2027",
-      "duration": "Up to 5 years (part-time)",
+      "duration": "最长5年，非全日制",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/json/",
-      "source_period": "2027 entry",
+      "source_period": "2026-09-13核对官方资料；课程、招生与费用适用年度见正文",
       "raw_key": "00623",
-      "entry_route": "post-qualification CPD degree route for qualified nurses or other health professionals; not high-school direct entry; individual CPD units excluded",
+      "entry_route": "已有护理/助产专业资历的Level 6 CPD学位；不是初始护士资格入口",
       "requires_prior_degree": null,
       "status": "listed_current",
       "detail_source_file": "manchester/raw/json-only-00623.html",
-      "id": "manchester-nursing-practice-cpd-86c5781243"
+      "id": "manchester-nursing-practice-cpd-86c5781243",
+      "name": "护理实践（在职继续专业教育）",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康",
+        "教育"
+      ]
     }
   ]
 }

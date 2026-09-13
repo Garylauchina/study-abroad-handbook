@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-145 个专业条目 · 0 个含详细资料 · 144 个补有专业资料 · 1 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+144 个专业条目 · 0 个含详细资料 · 144 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=michigan#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -143,7 +143,6 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-philosophy-politics-and-economics-58af52d32b/">哲学、政治与经济（PPE）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-physics-6bfec9093d/">物理学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-piano-performance-bb38cef35e/">钢琴表演音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-plant-biology-267b379902/">植物生物学（当前目录身份待确认）</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-polish-e52a6c6d12/">波兰语</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-political-science-3bb1acf799/">政治学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-psychology-7655da6deb/">心理学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
@@ -230,17 +229,16 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 145 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 144 项；这不是全字段详情的完成状态。
 
 <p><strong>统计范围：</strong>Ann Arbor当前本科顶层学位／主修及已逐项核实的内部方向和补全入口</p>
 
-<p><strong>对账方法：</strong>保留原140稳定ID；新增BBS主修、口腔卫生补全、体育管理两个方向及最后本科IONM方向。LSA71、工程19、SMTD29及其他学院逐项原文对账；目录仍未完全闭合。</p>
+<p><strong>对账方法：</strong>保留原140稳定ID；新增BBS主修、口腔卫生补全、体育管理两个方向及最后本科IONM方向。LSA71、工程19、SMTD29及其他学院逐项原文对账；目录仍未完全闭合。；2026-09-13按官方明确2026年4月停办说明移出Plant Biology，旧链接保留更正。</p>
 
 <p><strong>排除项：</strong>Exclude explicit sub-majors and certificate from independent-degree count, preserving them in submajors/excluded files. Replace broad SMTD and Stamps discipline listings with named awards. Merge same joint major repeated under two colleges. Keep second-entry/continuing-student majors.</p>
 
 **尚未解决的目录缺口：**
 
-- 旧Plant Biology未列当前LSA72主修，尚无明确停招、更名或替代关系证据，保留旧条目并隔离普通新生规则。
 - 工程Robotics五方向、数学及生物物理等全部内部方向尚未逐个独立收录；当前145条不代表全量专业与详情已完成。
 - 多数学位2027—2028费用、独立毕业调查及逐课程授课语言仍有缺口；2026—2027费率为明确学院与学分层级参考。
 - 明确区分高中新生、大学转入、校内主修申报、既有美国注册专业人士补全及本科最后批次。
@@ -513,5 +511,7 @@ hide:
 - [官方目录来源](https://internationalcenter.umich.edu/healthins/coverage-and-rates)
 - [官方目录来源](https://internationalcenter.umich.edu/healthins/requirement-and-enrollment)
 - [官方目录来源](https://internationalcenter.umich.edu/resources/student-funding/ss-fund)
+- [官方目录来源](https://prod.lsa.umich.edu/biology/undergraduates/majors---minors.html)
+- [官方目录来源](https://prod.lsa.umich.edu/content/dam/biology-assets/PLANTBIO-MAJOR.pdf)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

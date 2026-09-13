@@ -1,6 +1,6 @@
 {
   "university_id": "ucl",
-  "checked_at": "2026-09-12",
+  "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
     "count": 582,
@@ -173,12 +173,31 @@
         "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/engineering-foundation-year",
         "sha256": "13701127f893ef0835891948c60b0d75e85697f7c2b6bd7737c588288643423e",
         "raw_file": "scratch/full-catalog/uk-gap-enrichment/ucl/raw/course-228.html"
+      },
+      {
+        "url": "https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-yiddish-ba-2026",
+        "sha256": "9d0757ffa83bfb77fe23e823dc4520d24a4f9fe805ca6498294b4250b0234c3b",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/ucl-bulgarian2026-web.json",
+        "locator": null
+      },
+      {
+        "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?search=bulgarian-and-yiddish-ba",
+        "sha256": "d0639ed80edde96e24d32061fe35da40ddcd4ea5d48f7134777d9f203884b8f7",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/ucl-web-open.json",
+        "locator": null
+      },
+      {
+        "url": "https://www.ucl.ac.uk/ioe/courses/apprenticeships/mathematics-and-secondary-mathematics-education-teacher-degree-apprenticeship-bsc-qts",
+        "sha256": "d0639ed80edde96e24d32061fe35da40ddcd4ea5d48f7134777d9f203884b8f7",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/ucl-web-open.json",
+        "locator": null
       }
     ],
     "gaps": [
       "Current listing is not proof that applications are still open; status listed_current means present in the current directory.",
       "Nested study options can require transfer after initial enrolment; individual-course route classification is pending.",
-      "Engineering Foundation Year is a grouped foundation entry with no degree badge; its individual progression awards/UCAS routes are not fully expanded."
+      "Engineering Foundation Year is a grouped foundation entry with no degree badge; its individual progression awards/UCAS routes are not fully expanded.",
+      "保加利亚/意第绪2027详情仍coming soon，已核2026历史课程；数学教师学徒不适用Student visa且2027周期未确认。"
     ]
   },
   "programs": [
@@ -1648,19 +1667,24 @@
       "name_en": "Bulgarian and Yiddish BA",
       "degree_label": "Bachelor of Arts (BA)",
       "official_url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=2",
-      "intake": null,
-      "duration": null,
-      "campus": null,
+      "intake": "2027目录coming soon；详情参考2026",
+      "duration": "4年全日制（2026参考）",
+      "campus": "London, Bloomsbury；第三年海外",
       "language": null,
       "discovery_source_url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=2",
-      "source_period": "2027 entry",
+      "source_period": "2026-09-13核对官方资料；课程、招生与费用适用年度见正文",
       "raw_key": null,
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "2027仍coming soon；2026 ABB含一门外语，2027门槛未确认",
       "requires_prior_degree": null,
       "status": "coming_soon",
       "is_variant": false,
       "id": "ucl-bulgarian-and-yiddish-ba-9901ba0ee0",
-      "official_url_kind": "directory_only"
+      "official_url_kind": "directory_only",
+      "name": "保加利亚语与意第绪语（2026课程参考）",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Business and Health BSc",
@@ -6768,19 +6792,25 @@
       "name_en": "Mathematics and Secondary Mathematics Education Teacher Degree Apprenticeship BSc",
       "degree_label": "Bachelor of Science (BSc)",
       "official_url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=15",
-      "intake": null,
-      "duration": null,
-      "campus": null,
+      "intake": "页面申请截止2026-07-22；2027未确认",
+      "duration": "4年全日制",
+      "campus": "UCL Bloomsbury与雇用学校",
       "language": null,
       "discovery_source_url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=15",
-      "source_period": "2027 entry",
+      "source_period": "2026-09-13核对官方资料；课程、招生与费用适用年度见正文",
       "raw_key": null,
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "不接受Student visa；须在英格兰居住至少3年并有雇用学校",
       "requires_prior_degree": null,
       "status": "coming_soon",
       "is_variant": false,
       "id": "ucl-mathematics-and-secondary-mathematics-education-teacher-degree-ap-d13a4c3197",
-      "official_url_kind": "directory_only"
+      "official_url_kind": "directory_only",
+      "name": "数学与中学数学教育教师学徒制",
+      "subject": "教育",
+      "subjects": [
+        "教育",
+        "数学与统计"
+      ]
     },
     {
       "name_en": "Mathematics and Statistical Science BSc",

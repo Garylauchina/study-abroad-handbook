@@ -38,7 +38,7 @@ hide:
 
 <p><strong>目录条目类别：</strong>degree</p>
 
-<p><strong>申请路径：</strong>offshore</p>
+<p><strong>申请路径：</strong>境外合作项目；资格、申请及收费需按合作路径核实。</p>
 
 <p class="catalog-fact"><strong>课程内容与路径：</strong>学习AI、数学和软件基础、深度及强化学习、图像与自然语言处理；这是独立列出的Offshore版本，不能套用悉尼校区申请及费用。144学分由IT核心48、AI核心48、数字科学核心24及选修24组成，与澳洲版本结构不同。</p>
 <p class="fact-sources"><a href="#source-p-uts-handbook-c10487">官方依据</a></p>
@@ -68,13 +68,6 @@ hide:
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
 
-<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
-
-<p class="catalog-fact"><strong>结果统计缺口：</strong>本轮未取得完整覆盖本科专业、明确毕业届次及国际生分组的就业调查。部分手册宣传就业数字缺少本轮核实的分母和样本，未写成课程就业率。</p>
-<p class="fact-sources"><a href="#source-u-uts-profile-apply">官方依据</a></p>
-
-</details>
-
 ## 官方来源与核验记录 {#sources}
 
 目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
@@ -85,6 +78,5 @@ hide:
 <div class="catalog-source" id="source-p-uts-handbook-c10487"><div><a href="https://coursehandbook.uts.edu.au/course/2027/C10487">UTS 2027 手册：Bachelor of Artificial Intelligence (Offshore)（C10487） ↗</a><p>2027手册中的课程身份、公开说明、课程结构、Notes及侧栏学习安排；不是所有申请者的新生录取确认。</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-uts-C10487-handbook2027"><div><a href="https://coursehandbook.uts.edu.au/course/2027/C10487">C10487 Bachelor of Artificial Intelligence (Offshore) — 2027 UTS Handbook ↗</a><p>课程身份、招生或转入限制</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-uts-shared-admissions-procedure"><div><a href="https://www.uts.edu.au/about/leadership-governance/policies/a-z/admissions-procedure">Admissions Procedure ↗</a><p>Admissions Procedure</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-u-uts-profile-apply"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants">uts 官方资料：apply ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/australia/uts/">← 返回悉尼科技大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

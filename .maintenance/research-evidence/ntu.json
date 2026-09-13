@@ -272,6 +272,12 @@
       "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
     },
     {
+      "url": "https://www.ntu.edu.sg/spms/about-us/mathematics/undergrad/degree-programmes/math-(matric-yr-2026",
+      "sha256": "3c01e4621cfa139df083f81e9eff4d11fb501475cab29f41e21ddd92fc1a4ba5",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/new2026-0.html",
+      "locator": "正文及课程表"
+    },
+    {
       "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-mechanical-engineering",
       "sha256": "448431bb449a2a5f52dc036562dd7bb86b5f647cf588055d0a7fb3faf016968b",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-450e3dc57e2340fe406b.html",
@@ -294,6 +300,12 @@
       "sha256": "820624e8a7d560a2180ef15b64f88c6d42f295511dce8d0f7d6138b50783d834",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-9267704a52865ad13144.html",
       "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/spms/about-us/physics/undergrad/degree-programmes/phy-(matric-yr-2026",
+      "sha256": "fde883322425144e508dbbe9de3f8eb079d6dfe0e9cb618a8bfdf0ac92213fb3",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/new2026-5.html",
+      "locator": "正文及课程表"
     },
     {
       "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-philosophy",
@@ -520,8 +532,8 @@
     {
       "url": "https://www.ntu.edu.sg/education/degree-programmes",
       "sha256": "ecb00757ab504083702dc05fdf84764082960e65531b4ca27d4934351ce2b2d0",
-      "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/directory.html",
-      "locator": "公开正文相应标题、表格"
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/directory-current.html",
+      "locator": "正文及课程表"
     },
     {
       "url": "https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-accountancy-and-science",
@@ -594,6 +606,276 @@
       "sha256": "8b8e8c5f492e0b3c5c332d7a00ea73e0d86f389f8bf0724bb4230132e1d6d76b",
       "raw_file": "scratch/full-catalog/ntu-singapore-enrichment/raw/econ-36.html",
       "locator": "公开正文相应标题、表格"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/adm/programmes/undergraduate-programmes/bachelor-of-fine-arts-programme-%28admission-year-2026%29",
+      "sha256": "ccf774061bbb356f8734b943c3009cc502092a015beede540eaf14bac775e4a3",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/adm-2026.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/docs/librariesprovider114/default-document-library/programme-structure-ay2026-onwards.pdf?sfvrsn=ec69b522_1",
+      "sha256": "7a03706a8dd60ade73be2f398c9edbb163c4c0b1ea428000d12da7b603f07ac3",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/adm-structure-2026.pdf",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/media/docs/librariesprovider84/nbs-ug/programme-curriculum/bacf.pdf?sfvrsn=2e4131b7_1",
+      "sha256": "10ed8a9a66a498214aec3034909d856692d4b70ac55f3890a750b4b23039b800",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/initial-00.pdf",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/media/docs/librariesprovider118/ug/btechincomputing/2025-btech-comp-brochure-web.pdf?sfvrsn=1aeb9dc3_1",
+      "sha256": "08f3e152c6dbd8b6375de5bb834b3c923d42188b99025a53ec90f16fa45ec325",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/btech-brochure.pdf",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/media/docs/librariesprovider139/ase-ug/curriculum-ay2022/curriculum-for-students-admitted-in-ay2021-onwards_ecology.pdf?sfvrsn=2b4c7d5d_3",
+      "sha256": "e18238df79f7e7300c186ea72e3a779469ada0ffe3a03c089237d01e9a0eab6f",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/initial-04.pdf",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/media/docs/librariesprovider139/ase-ug/curriculum-ay2022/curriculum-for-students-admitted-in-ay2021-onwards_geosciences.pdf?sfvrsn=eff60807_3",
+      "sha256": "e8cc7451843e136f97af7102a157933d84ade349eee1e4d6ceb444b96f3211ef",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/initial-05.pdf",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/media/docs/librariesprovider139/ase-ug/curriculum-ay2022/curriculum-for-students-admitted-in-ay2021-onwards_society-and-the-earth-systems.pdf?sfvrsn=a295d78a_3",
+      "sha256": "76fb9aa0fad8f17d5cb29c230ec1973186e3a99481ec71b70106c41cb9e7f4ae",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/initial-06.pdf",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/honours-college/signature-programmes/renaissance-engineering-programme/curriculum",
+      "sha256": "9c0c97f063ab77064be10c88dedb7aad7c79105143616d9a8ab03ad9b22fae02",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/rep-curriculum.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/soh/admissions/undergraduate/art-history/second-major-in-art-history",
+      "sha256": "5b841ce7fc6116fc4582b227dceac7db6a8874b95f317eb044a539cedcae12ce",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/soh-0.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/hass/admissions/programmes/second-majors",
+      "sha256": "2ca4f33c698739e9d29e6a03f44fad8420ea05e19ea294ca0a417f83f53eeb9a",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/hass-second.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/spms/about-us/physics/undergrad/degree-programmes/phap-(matric-yr-2026)",
+      "sha256": "ec19131e5de68e6749c53dc2eeb6f8e835f4fbf7fa106172cd0c17d72768adf4",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/science-20.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/media/docs/librariesprovider124/undergraduate-programmes/psychology/curriculum-and-study-plan/curriculum/psbs-curriculum_ay2025-2026.pdf?sfvrsn=f5ae4c0_2",
+      "sha256": "fdc6698df349131d74125f7b81be39610c37bd0706d54e22333a42ee2cc049ba",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/psychbio-second-link-14.pdf",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/hass/admissions/programmes/undergraduate-programmes/detail/bachelor-of-social-sciences-in-psychology-with-second-major-in-biological-sciences",
+      "sha256": "586cd943bd59d7b2e3ff395567cc65d24e8401160fb3717d7097655663842f01",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/psychbio-admission.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-biological-sciences-with-second-major-in-biomedical-structural-biology",
+      "sha256": "f3a0944610bd7d2bd17754673d16da72e36dcc2a55fd2d520b345537f7e85239",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/biomed-structural.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/sbs/admissions/undergraduate/curriculum/bsbsb/bssb-curriculum-ay2026-intake",
+      "sha256": "7472d8d0daef4639501fb5f8a661af7b84c0672db00ee14ffe5a495f0f040f0d",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/biomed-structural-link-13.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/cee/admissions/undergraduate/second-major",
+      "sha256": "26ac1247600a3df153b8fd2b68aadfa6cf0aad7dabf8a01d547de0e6612139ce",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/cee-second.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/hass/admissions/programmes/undergraduate-programmes/detail/bachelor-of-social-sciences-in-economics-with-second-major-in-business",
+      "sha256": "cec249ad91d7a135ca35216bc2770b5125abced556bd3d4beb15386fe407bd69",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/econ-business-second.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/soh/admissions/undergraduate/chinese/second-major-in-chinese",
+      "sha256": "845edf270f50c8c1cf2ba3b4ee257fa181e34a416c0a2aa772bea8eaca69ad9d",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/soh-1.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/soh/admissions/undergraduate/minor-second-major/second-major-in-chinese-culture-and-society",
+      "sha256": "3e95d4a00dfeb92e6eece65869cd22315314429354f47fda00f1e15954b8f6a6",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/soh-2.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/wkwsci/admissions/useful-links/undergraduate/second-majors-and-minors-in-cs",
+      "sha256": "c46503e28cff1f1bbd761719ed6ac70b81446147694f56f33b17ea684a568b2c",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/soh-3.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/spms/about-us/mathematics/undergrad/degree-programmes/mada-(matric-yr-2025)",
+      "sha256": "b595d31df602ac56c3a6af8a8edfec84ae8edf4365b417a6fdb10ffaac837c6e",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/science-15.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/sss/admissions/undergraduate-education/economics/second-major-in-economics",
+      "sha256": "979a9c7835becf278a485da777d2afd2071051b73beb2a810827498666f7a8bf",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/hass-second-link-0.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/soh/admissions/undergraduate/english/second-major-in-english",
+      "sha256": "a65c55fd58d9c95885621a19ba7bd4048b48ef14e744cf26b5cfefbb7ee11712",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/soh-4.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/ntupreneur/programmes/undergraduate-programmes/second-major-in-entrepreneurship",
+      "sha256": "5fb9efe97d627a855d82689f151606ea141bd63a52095732f10a823b02bb43f9",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/science-16.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-chemistry-and-biological-chemistry-with-second-major-in-environmental-science",
+      "sha256": "103f8cba8c6f5c05f5e5aa899ca7b2166c5013572a76148e4acbe999afb17407",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/environmental-second.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/cceb/admissions/undergraduates/second-major-in-future-food",
+      "sha256": "b3b3644283281fdd20dfcf2aec140b9f0c47b9e4866130ff44f4fb251f141a3f",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/future-foods.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/spms/admissions/undergrad/detail/bachelor-of-communication-studies-with-second-major-in-governance-and-international-relations",
+      "sha256": "64ed5598861ed25c747f3615f17484c7c70e3895541f8e36b0914a00827070fa",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/governance-second.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/media/docs/librariesprovider143/undergraduate/curriculum/csgr-curriculum-ay25-26-(aug26).pdf?sfvrsn=f6fe142f_1",
+      "sha256": "921e4c1368f4ddb974a63f9278c0f423ebbd11fbdc0194147087b30ee501ab5d",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/governance-second-link-6.pdf",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/soh/admissions/undergraduate/history/second-major-in-history",
+      "sha256": "291af5597fca1b1d2dca9f85b5f5f8c01001aa3abb90c966a2b4a725e785c182",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/soh-6.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/soh/admissions/undergraduate/linguistics-and-multilingual-studies/second-major-in-lms",
+      "sha256": "6733383a38b3321d6d7cb53ebeaff72b220c9609bac5b55a3b8a1485d7e0b14d",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/soh-7.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/spms/about-us/physics/undergrad/degree-programmes/phpt-(matric-yr-2026)",
+      "sha256": "ac5515d371d09ee50060f94377a66eccd4e0389cb1656ddee23a53265ea1cb79",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/science-21.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/hass/admissions/programmes/undergraduate-programmes/detail/bachelor-of-social-sciences-in-public-policy-and-global-affairs-with-a-second-major-in-media-and-journalism-studies",
+      "sha256": "f0fe5866c52f81add1dc23b4a6e6fb3fef3dff3b81cd8d6cfc88333bd4f46df2",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/hass-second-link-2.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-materials-engineering-with-a-second-major-in-medical-biology",
+      "sha256": "aaec39138b367ff3b9a15e218b2302d65c9c5f7c378c1833e908139ec179b564",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/medicalbio-second.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/spms/about-us/physics/undergrad/degree-programmes/phmp-(matric-yr-2025)",
+      "sha256": "1097689e150a8d02302bd66605cc9bebdcd040beafa3bc4dd61d8b5f2537364f",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/science-24.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/sbs/admissions/undergraduate/curriculum/bsmcp/bsmcp-curriculum-ay2026-intake",
+      "sha256": "15b87089c300a31b2e666e453d0e269e45be8858cad786dc1889d3b9686e2163",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/medicinal-second-link-4.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/spms/admissions/undergrad/detail/bachelor-of-science-in-biological-sciences-with-second-major-in-medicinal-chemistry-and-pharmacology",
+      "sha256": "90a4f3004e5e225a5e2dacfc0b22d14d5bfe2a80e223b1debdd8f527e15331a4",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/medicinal-second.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/spms/about-us/physics/undergrad/degree-programmes/phme-(matric-yr-2026",
+      "sha256": "7021e7628986814329794162f1f47f95fcd18263ac1bc820af7f33cda94cb5b8",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/new2026-7.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/cml/programmes/2nd-major-in-modern-languages",
+      "sha256": "ad94316934b78f8bcc3cfe865098270fe95afa5e442d50da71de7880f2ca3485",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/soh-8.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-bioengineering-with-second-major-in-pharmaceutical-engineering",
+      "sha256": "05467a88b5bac72f73584c4c41bd9c2f6af4dc29b139fd52ac063de3da0206a4",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/bioeng-pharm.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/soh/admissions/undergraduate/philosophy/second-major-in-philosophy",
+      "sha256": "a620dbba8043323fdbbf92762732c6a98cc34662fd0522725d61381618674da4",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/soh-10.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/sss/admissions/undergraduate-education/psychology/second-major-in-psychology",
+      "sha256": "62ae4cae543194fd6725115fd934b0377f05632cb60ce72a81d27a3ccdf7cf27",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/hass-second-link-1.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/sss/admissions/undergraduate-education/public-policy-and-global-affairs",
+      "sha256": "34e325bdb5eb1a1ae35f555b02bf0364afc11c0bcf6c0c30eca5989880041f60",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/ppga-second.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/spms/about-us/physics/undergrad/degree-programmes/phqt-(matric-yr-2026",
+      "sha256": "6b6141e7843abeb75df9b47babc6d63236e7e3fe4ba62879401b631d02bc2385",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/new2026-6.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/sss/about-us/sociology/sociology-curriculum/second-major-in-sociology",
+      "sha256": "c5ebfad0c98308fb5275dfa43bd8e010e7446f6b53ddaac5d0488d6c7d4623a6",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/sociology-second.html",
+      "locator": "正文及课程表"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/soh/admissions/undergraduate/minor-second-major/second-major-in-theatre-and-drama",
+      "sha256": "2bef21fe37b4e73e9ad14662b62664fc5a1a7a16559754627409ce97cd7d445d",
+      "raw_file": "scratch/full-catalog/ntu-singapore-supplement/raw/soh-9.html",
+      "locator": "正文及课程表"
     }
   ]
 }

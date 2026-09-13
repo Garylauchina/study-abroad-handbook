@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-270 个专业条目 · 0 个含详细资料 · 267 个补有专业资料 · 3 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+270 个专业条目 · 0 个含详细资料 · 270 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=bristol#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -115,7 +115,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-economics-ba-9e6e7ac44a/">Economics (BA)</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-economics-bsc-31f3a76b99/">Economics (BSc)</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-economics-and-accounting-bsc-2108f86f99/">Economics and Accounting (BSc)</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-economics-and-accounting-with-professional-placement-bsc-0216786a2a/">Economics and Accounting with Professional Placement (BSc)</a><small>BSc · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-economics-and-accounting-with-professional-placement-bsc-0216786a2a/">经济与会计（含专业实习，校内转入）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-economics-and-accounting-with-study-abroad-bsc-19eaaf24d0/">Economics and Accounting with Study Abroad (BSc)</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-economics-and-data-science-bsc-317e501bdb/">Economics and Data Science (BSc)</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-economics-and-econometrics-bsc-60bb5b5e22/">Economics and Econometrics (BSc)</a><small>BSc · 部分专业资料已核实</small></article>
@@ -148,10 +148,10 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-english-and-modern-languages-ba-ba293f75e3/">English and Modern Languages (BA)</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-english-and-philosophy-ba-4af4a57464/">English and Philosophy (BA)</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-english-with-study-abroad-ba-94abeb6e94/">English with Study Abroad (BA)</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-environmental-geoscience-bsc-e4eba872ba/">Environmental Geoscience (BSc)</a><small>BSc · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-environmental-geoscience-bsc-e4eba872ba/">环境地球科学</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-environmental-geoscience-msci-eaf59acd9a/">Environmental Geoscience (MSci)</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-environmental-geoscience-with-study-abroad-msci-82a388cf79/">Environmental Geoscience with Study Abroad (MSci)</a><small>MSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-film-and-english-ba-96be281525/">Film and English (BA)</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-film-and-english-ba-96be281525/">电影与英语文学</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-film-and-modern-languages-ba-f146ecc058/">Film and Modern Languages (BA)</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-film-and-television-ba-443edc6991/">Film and Television (BA)</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/bristol/bristol-film-and-television-with-innovation-marts-a5bbb71717/">Film and Television with Innovation (MArts)</a><small>MArts · 部分专业资料已核实</small></article>
@@ -343,5 +343,10 @@ hide:
 - Directory presence is not proof applications remain open; source_study_options preserved for later eligibility/route classification.
 
 - [官方目录来源](https://www.bristol.ac.uk/study/undergraduate/search/)
+- [官方目录来源](https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-economics-and-accounting-with-professional-placement/)
+- [官方目录来源](https://www.bristol.ac.uk/study/undergraduate/2027/geoscience/bsc-environmental-geoscience/)
+- [官方目录来源](https://www.bristol.ac.uk/study/media/undergraduate/admissions-statements/2027/earth-sciences.pdf)
+- [官方目录来源](https://www.bristol.ac.uk/study/undergraduate/2027/film-television/ba-film-and-english/)
+- [官方目录来源](https://www.bristol.ac.uk/study/media/undergraduate/admissions-statements/2027/film-english.pdf)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

@@ -2,12 +2,6 @@
   "university_id": "uts",
   "sources": [
     {
-      "url": "https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants",
-      "sha256": "8856dd3830356c697a939265f77b236029cfda6a2a08e9719231d23b79b93dd3",
-      "raw_file": "scratch/full-catalog/australia-enrichment/uts/apply.html",
-      "locator": null
-    },
-    {
       "url": "https://www.uts.edu.au/for-students/admissions-entry/fees-costs/international-fees",
       "sha256": "d4092771a7dbf654ddff13c5bba05e4b0799fc1f946d8e8c22907a7ee1e3289b",
       "raw_file": "scratch/full-catalog/australia-enrichment/uts/fees.html",
@@ -17,12 +11,6 @@
       "url": "https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants/academic-entry-requirements",
       "sha256": "3973e8f25187e2035f9f8ec85a6a87b2929ab9c84a2a2c70dcf44dbe27f28679",
       "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/raw/china.html",
-      "locator": null
-    },
-    {
-      "url": "https://www.uts.edu.au/for-students/international/guides-for-international-students/contentassets/utsi-listing-grid-international-undergraduate-course-summary-table-china.pdf",
-      "sha256": "f825732592d4b22eff330d5c64259e558cb1f75d35ebd9670ea6da6cee12ddef",
-      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/raw/guide-china2026.html",
       "locator": null
     },
     {
@@ -62,9 +50,45 @@
       "locator": null
     },
     {
+      "url": "https://www.uts.edu.au/for-students/international/guides-for-international-students/contentassets/utsi-listing-grid-international-undergraduate-course-summary-table.pdf",
+      "sha256": "e9ef324d170a343a3b1a3bfd644a4f3e347660cea55777b1d838c75b3e807f02",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/guide-global.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-engineering-honours-flexible",
+      "sha256": "ce0c91e3698da3e59f43fbface2e15c22bfaf771110ade1cab53504af5d46227",
+      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-engineering-honours-ed61c8bab5.html",
+      "locator": null
+    },
+    {
+      "url": "https://qilt.edu.au/docs/default-source/default-document-library/2025-gos-international-report.pdf?sfvrsn=a7656b9a_4",
+      "sha256": "522afb417eb570786e429a943ba77e365567ecae7e5206ba8af8b915582dbb24",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/qilt-gos2025-international.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://qilt.edu.au/docs/default-source/default-document-library/gos_2025_international_report_tables.zip?sfvrsn=5e0b873_1",
+      "sha256": "31d5594e03779b5319697f6909f4919e9b0948003a8381b6322fd3d642da2f85",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/qilt2025-tables.zip",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/course/2027/C10235",
       "sha256": "4b0bdf333f94b3e66c95b3d5f64ea1ba329220e5c77e1b90934eb2658bd5d062",
       "raw_file": "scratch/full-catalog/australia-enrichment/uts/detail-C10235.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/courses/bachelor-of-accounting",
+      "sha256": "b70b99b029764eb06671a264f47350c80e4f6fb70ee4caf66edf90c81d39f32c",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/accounting-course.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/domestic-applicants/domestic-undergraduate-applications/bachelor-of-accounting-application",
+      "sha256": "bd58aade6ae673f5a51fd7cb1f49e7f5c4db5beadac9e29825e8b4e16077bddf",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/accounting-apply.html",
       "locator": null
     },
     {
@@ -947,12 +971,6 @@
       "url": "https://coursehandbook.uts.edu.au/course/2027/C09066",
       "sha256": "ae0486958366cceaf2457d766aff8e115d8e1e94706bb1078973bf02daf8b77c",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-bachelor-of-engineering-honours-ed61c8bab5.html",
-      "locator": null
-    },
-    {
-      "url": "https://www.uts.edu.au/courses/bachelor-of-engineering-honours-flexible",
-      "sha256": "ce0c91e3698da3e59f43fbface2e15c22bfaf771110ade1cab53504af5d46227",
-      "raw_file": "scratch/full-catalog/uts-enrichment/admissions-layer/international/uts-bachelor-of-engineering-honours-ed61c8bab5.html",
       "locator": null
     },
     {
@@ -1904,9 +1922,21 @@
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj01090.html",
+      "sha256": "78ef77f31a1a4f33bb43f875b2c70ccc86f4a5cae174f89bc80c9f451dc2a31d",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ01090-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01103",
       "sha256": "768f45758c5a809524ace2adc02c9b0412cc3902f87a8dbac404ca5b293b422c",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-biotechnology-4392dfaff3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj01103.html",
+      "sha256": "2311af9d7daa57189468531650c7d0752b0aff12e66bc2fda1990c0dea5fad98",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ01103-2024.html",
       "locator": null
     },
     {
@@ -2048,6 +2078,12 @@
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj09447.html",
+      "sha256": "e290e63e97b375d32e9f6e0fbb261ec7bf8553e824c74da39a508f5218748436",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ09447-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09453",
       "sha256": "a1ae4f021ce78cff07129a1ce5de1eb490cb93dbe3fce6e63b46604373e8b6b4",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-chinese-language-and-culture-1a478aa251.html",
@@ -2093,6 +2129,12 @@
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10051",
       "sha256": "01f7df74d5f7e579e1b96b50faf2bb035eb5ca3a401aad98d1d1ec7720105f6d",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-creative-writing-6fe0700aee.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj10051.html",
+      "sha256": "cc79cb1f798351f64c8cb6852614a2f4ba50985bc7ce9a7f962863a0a003bcaa",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ10051-2024.html",
       "locator": null
     },
     {
@@ -2156,6 +2198,12 @@
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj10056.html",
+      "sha256": "c27d3520ff91df0bcd24a54837fb772d6b6d0cdc9d1f3319f30fcaa1d2deb9fe",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ10056-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09479",
       "sha256": "4e20046c95e04c637483992f326a988a9304141ad7861aea42546fd3ed24676c",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-digital-and-social-media-b0dcb9d378.html",
@@ -2165,6 +2213,12 @@
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10050",
       "sha256": "4d42f4f9d00d9608ae2c71550cc77667de3322c394071d3f45b5e574e89a860a",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-digital-and-social-media-dfaedf86b9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj10050.html",
+      "sha256": "d64b3bc55bcba6b8bb1e5314a941c586ecd2576774013d54a023532fe4176cc2",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ10050-2024.html",
       "locator": null
     },
     {
@@ -2276,6 +2330,12 @@
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj01160.html",
+      "sha256": "7dbe595d78a69243a50a884ab7c726414ff73ab8a4a6b75200ba713099ea0f8a",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ01160-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01089",
       "sha256": "3cab329e676373d6dbf5602be4a5f4f52b976c9a534ae244def1cda8f55a2907",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-environmental-science-eaf8bda240.html",
@@ -2372,6 +2432,12 @@
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj09448.html",
+      "sha256": "13ee1c09be5c0237a84ede8f1ef8aab1445c5eda57681af4d4dc22dd07562f3a",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ09448-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09454",
       "sha256": "80e983f22441239f5bec6ee89df81b03cb06569a3825efcbb0ab5072f54a2132",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-french-language-and-culture-68370ba35a.html",
@@ -2387,6 +2453,12 @@
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09449",
       "sha256": "6f5a3a98f613c2bc8b9e9237b3e2970b31ed368a5d42d5eaa0c153e2f0bae8c1",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-german-language-and-culture-cfe68be7d5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj09449.html",
+      "sha256": "d831237e56ad9507c5ce72931a6184660085c887504652be2f6d7d33a17f94cc",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ09449-2024.html",
       "locator": null
     },
     {
@@ -2438,9 +2510,21 @@
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj07112.html",
+      "sha256": "30a8b842b8dd2ee17a222ca05b3ccbea778a857d95f9f978c67fd2c65b79b550",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ07112-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07147",
       "sha256": "a8c5b41d9c277c20c1a7bd35e78f616cd8ad7fd62d3e9fc15c873d9e7e518e8c",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-human-society-and-its-environment-primary-specialisation-7dcb7515c8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj07147.html",
+      "sha256": "a0326164fc2a0ee5d26db15ca7dbbce84c6e503cb0aaf06a8ec720fe6ac000b6",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ07147-2024.html",
       "locator": null
     },
     {
@@ -2498,6 +2582,12 @@
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj09450.html",
+      "sha256": "15c6880b2f6b3dbc10fd256d1be3e7d88ff24d8d55e845108ca2b21f8c1e0e1d",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ09450-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09456",
       "sha256": "54cac80cb4f3882063954e88de19a131bab7bd40b21c9f66031089dfc744a32c",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-italian-language-and-culture-3cd9b4f09e.html",
@@ -2513,6 +2603,12 @@
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09451",
       "sha256": "84220a2c91932ddc36e0799bba2d7a4e220ebcf15730588781e1adfec48ebbd9",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-japanese-language-and-culture-838a21f04b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj09451.html",
+      "sha256": "3507b3f05e5c275a68339ad71f82d7b86bb22f738c5c237f7bbc1a208e281d21",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ09451-2024.html",
       "locator": null
     },
     {
@@ -2543,6 +2639,12 @@
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10046",
       "sha256": "fcc98abff21d0c5489c85e6da0d640c0237be768f674f69efbb015c333a99821",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-journalism-3c57752ccb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj10046.html",
+      "sha256": "6d9e90a75cf6271243992ac380fb0f9cf9337d4d92225357a8adb4ffda2da6c2",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ10046-2024.html",
       "locator": null
     },
     {
@@ -2579,6 +2681,12 @@
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09399",
       "sha256": "9982d7cd0b18005ce6039226accab49da0fa81fd7effbae37dbce762a9122e19",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-legal-studies-b1f8b8c328.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj09399.html",
+      "sha256": "3710a9fbf7194a6b465c57e7c38842ed5a5f9abeea91bdb0f22c556a96899a9d",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ09399-2024.html",
       "locator": null
     },
     {
@@ -2627,6 +2735,12 @@
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07113",
       "sha256": "90545de973849006dd245ff67e21fc3027ff206c9e50e95d783ad3d8df4b261f",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-mathematics-f33bb0290e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj07113.html",
+      "sha256": "690018bfe1bdd6b24829f1469664ed6c2cbfc634fc90a2aace5689daf1f7d8f0",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ07113-2024.html",
       "locator": null
     },
     {
@@ -2702,6 +2816,12 @@
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj10047.html",
+      "sha256": "74c98c028cb9bf63ba3a7fb868151b6bf5ca924265a7cc91f1608c88aff54c5e",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ10047-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09485",
       "sha256": "1413f0631dc338c1ab66098dc53f833d087897975594c585501df1796157a456",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-media-business-ee13473722.html",
@@ -2756,9 +2876,21 @@
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj01174.html",
+      "sha256": "cf0bf01fbfc197313023bafd61a05ac2728d20e8c169ef396c0ef1c9a9fcaf65",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ01174-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01159",
       "sha256": "4b4548bf835752e93ab060ccdf1c23953ac1d049750438a6f0dcc7f33fcf1019",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-medical-biotechnology-92ce641aa6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj01159.html",
+      "sha256": "0d2fdb894cf1febc1bac562828a39ec25dd2f6a1df29107fc9f66fa1f30b84e7",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ01159-2024.html",
       "locator": null
     },
     {
@@ -2780,6 +2912,12 @@
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj01105.html",
+      "sha256": "31d6c33a7055830d86bc51cd62404ce996ae135218f4c7b8bb451f19718ce43a",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ01105-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ01193",
       "sha256": "57b3946bc3ea75b9e99833cc6652004d1a442791b46192398802f4ca02af37ec",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-medical-science-c85a611c94.html",
@@ -2795,6 +2933,12 @@
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10063",
       "sha256": "0a160261198e9d20cd4bf3ad38ce1f15f60b7bdeb3369a331266024e023ee4b8",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-music-and-sound-design-1ea058dc1e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj10063.html",
+      "sha256": "a684db033e9164cf44556512b8de43a71bd11b6a6487819b8fd0fdb7a35dd06c",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ10063-2024.html",
       "locator": null
     },
     {
@@ -2831,6 +2975,12 @@
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07116",
       "sha256": "b84e4d55bce553281b6e91e3193900c90dc1cdadd4a1f3d9362a0ea34cfa4e4d",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-personal-development-health-and-physical-education-84a901b096.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj07116.html",
+      "sha256": "519c6e13430b2d7451c938fd3017f815bb191937088b6124ffb582dffc8bfaf0",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ07116-2024.html",
       "locator": null
     },
     {
@@ -2894,9 +3044,21 @@
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj07118.html",
+      "sha256": "9dc2c9d024d4704bb4953839a70e6a711a4385548b300180eaccc9c14cce6dfd",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ07118-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07107",
       "sha256": "7b0834f60804525d8605668612e8df05db69e59be66340b3d86ea354a38ebceb",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-primary-461807905a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj07107.html",
+      "sha256": "724665054b7de1346800396192b0b92758e09d7ecf3703a1790fe8cd1f69842a",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ07107-2024.html",
       "locator": null
     },
     {
@@ -2906,15 +3068,33 @@
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj07135.html",
+      "sha256": "027bcaafb5b5cfbbb72c90903e22abe0a48c37678bc30239a75361592022c1e9",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ07135-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07109",
       "sha256": "436771d5e59a1f5efea05d83f5f44ecc580af0fe96ded77ce275f915ed70a6cc",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-primary-a-ef1195cc30.html",
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj07109.html",
+      "sha256": "9db3c709c20543f59c4e2ae4072a19467f546f1c5d379a5d6e37fb62f722cdc6",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ07109-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10048",
       "sha256": "b18d1b7ad25b123c5fee12e67c208ab202cd91faa887a78fa01b89863c597b7d",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-public-communication-f7b4fb99a6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj10048.html",
+      "sha256": "ec074501731de273d1fba2fa2bb27ba08e50bb73c8961987a05c5af3e7637d05",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ10048-2024.html",
       "locator": null
     },
     {
@@ -2936,6 +3116,12 @@
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj07117.html",
+      "sha256": "96e20b4b7a727129676fc5f03b93c94c9926f1b07247f1cc005fc88880b6a546",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ07117-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07150",
       "sha256": "c3cfcb594e111f47135147d723162519191a9c019d4f97e3239dd7f4f7712cfc",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-science-and-technology-primary-specialisation-2c65325df2.html",
@@ -2948,9 +3134,21 @@
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj07115.html",
+      "sha256": "f80352eb51604a9a09b45b009b7d3bd98f8ca7564f2e5854084b16dc5f1117ed",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ07115-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07136",
       "sha256": "328b175bab38167480cc490391212d3dd3d00979b019163f771704571496f941",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-secondary-a6c41b8274.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj07136.html",
+      "sha256": "a68edf10eee5c2efe0f67e9a2287a2cca0dc6297fe207ff16da06bb997d8d4ac",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ07136-2024.html",
       "locator": null
     },
     {
@@ -2960,15 +3158,33 @@
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj07108.html",
+      "sha256": "b93d397e6fb28386775434ad90c75a18eabb820914756f0df0d119a913d933f0",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ07108-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07119",
       "sha256": "fdf930215da8be80fb56af786b6bf7d4087de7a1203d91a72f08718112c9f478",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-secondary-5b88cfc455.html",
       "locator": null
     },
     {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj07119.html",
+      "sha256": "415ccabd16ab541ddb2d59f72d498d72256336679e16008aa512edc4506c8ec0",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ07119-2024.html",
+      "locator": null
+    },
+    {
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ07110",
       "sha256": "0d464b6d5dbf43b9216f9fc15de4c7b9dc3090b0f8c66171ba7709a29951c38c",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-secondary-a-4674c930d9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj07110.html",
+      "sha256": "fdb24057a0711c1d730b96639f4401e124313e3fc420b01788b371b055ce0971",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ07110-2024.html",
       "locator": null
     },
     {
@@ -2981,6 +3197,12 @@
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ10049",
       "sha256": "f039b2776deaed4e87e106fc6c0857cbeb31076b3fa709bbd4fa2d008f16945c",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-social-and-political-sciences-2da961015f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj10049.html",
+      "sha256": "ae981941df4b01fedce31a89ca73b5b0bd11705a5ae08da909846c3c418c05ca",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ10049-2024.html",
       "locator": null
     },
     {
@@ -3011,6 +3233,12 @@
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09452",
       "sha256": "7fd7665624d7f8ce65c0af18eb588e89fcd2f94510a50279d247ef971e77443e",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-spanish-language-and-culture-ecd11befaa.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbook.uts.edu.au/2024/directory/maj09452.html",
+      "sha256": "2cc17d5c84e12dbae8cd577060ba550d79c2118c2948f85a1fe38a823caa6b58",
+      "raw_file": "scratch/full-catalog/uts-enrichment/continuation-raw/MAJ09452-2024.html",
       "locator": null
     },
     {
@@ -3071,6 +3299,288 @@
       "url": "https://coursehandbook.uts.edu.au/aos/2027/MAJ09477",
       "sha256": "2986f15ab3246ecd96e2da7646191bd1c92e9063c7877de7e2e8c5143fef8a9c",
       "raw_file": "scratch/full-catalog/australia-gap-enrichment/uts/uts-writing-and-publishing-94795deb49.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92032",
+      "sha256": "814bedf44f0456c00b855f3bc2b76a26b4a1c3ef268bae67aee672ab3dedfead",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92032.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM91873",
+      "sha256": "5ca00dc031543b422d8987c643ab7ca1d29daf29eaadba5de6e79f15bd188976",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM91873.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92011",
+      "sha256": "a9a5594a9f038a9f45a0fbfdb6c1aead7fe6d540a3755bc25807a9658d649dfa",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92011.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92012",
+      "sha256": "5419dff124fd8f6d01fe1ef59b7d40deee871299b7259025352eeb8b26e73e31",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92012.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM91998",
+      "sha256": "70bacc56929701193bb346b7bdd81ae1c453552ae88ae3ddad0771e8929f908b",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM91998.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92010",
+      "sha256": "e9d382d195e7c713d8c65c3bb977fcefe1fada8f1c25d90e10ea1958df06da05",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92010.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92067",
+      "sha256": "dc64f5225422e173284c906fa90ddfb68091dc99c0229ee5297ef11cd9b0ecb2",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92067.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92064",
+      "sha256": "b74381664627aec95e4f1c6a34c0c1348a34e4575be3fdc67e1eec6ba12ab48d",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92064.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92061",
+      "sha256": "30645f495dc2cd258c5b08264c5d1c57132a5bc4da5aebd668c0e22b97ff8d9a",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92061.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92071",
+      "sha256": "0daae5fdd2a985b883b5c074a014b4e9ec3ed56ba5b1c2856bd2afe51fab8ddf",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92071.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92035",
+      "sha256": "f244e4b557b4336b83141f486b69678c427a6a5b8a98fa121b5fd36fa8b8b83d",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92035.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM91882",
+      "sha256": "516e37fb98ca31e91c87f657aac0d3e8c1cb8692c02576d633fcf73b826e03d5",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM91882.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92031",
+      "sha256": "63279f5e7601f5774664285ed599b9e82c807c4ee8a29763ba04cb8140229c61",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92031.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92049",
+      "sha256": "7f8fdb9b5bf9be57b81129bf5fea785f68e28340bea26d5e166f2286dc71475a",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92049.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/CBK92420",
+      "sha256": "661a4af18bb116305f72c18d3329da6c4cc65e49dacfa75f8e789c60d984e146",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/CBK92420.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/CBK92437",
+      "sha256": "2ea6dd8ff1162016e06b7ba584ef1bc2a1219f794564b5b97a617e0fff3c174e",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/CBK92437.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM91309",
+      "sha256": "973956dcbfc922ccf8f9c090560368d320d2d868fffaec52c4eec2aaf40b7679",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM91309.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92088",
+      "sha256": "dab560ed453bafc254f0070c3fde9a049c84a21e046dec5b3bbd7180bd2c9abf",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92088.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM90838",
+      "sha256": "804065d05d66d09276fed5e0bf807ad8133d8a6ef1d84501db4502bbb3d46f67",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM90838.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM90559",
+      "sha256": "187e7bedb25314dcb0feb3dc90c378d245e964000f5da13c986583da1650a43f",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM90559.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92073",
+      "sha256": "458a265bdb0e7465b6da82e3f275ccf6880b7b44dcfd8418e4a330e9265020f1",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92073.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92070",
+      "sha256": "289c73f2ad531112fe2ae4284ffaf5498d4570aa073994e6918bb5cb793286af",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92070.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92068",
+      "sha256": "2b9604360cbb2ed2724fd978cba4e75d920e242ec2532016b46b5cf347dd9de8",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92068.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92063",
+      "sha256": "77d5c8d8eef2a397b93a908707d9bd93b25b839f439629cd468aa6e4bbbcfdfe",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92063.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92019",
+      "sha256": "7b6bb0953b1f856690aa331ab64e50a4fb4449eedb969a02f403ee06d867863e",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92019.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92047",
+      "sha256": "b3533c2132f6418ad815be54f8ecd552e892002de5ec661bc6632bd705822935",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92047.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92066",
+      "sha256": "11518d8733b96a0b28674edaaca351e31a10203b10923c7e19b4c24aac500c3b",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92066.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92072",
+      "sha256": "e375f102acef5a90d8e628da2d957fe9165216fe5bd6e1ebadaf11f7925e433d",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92072.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92062",
+      "sha256": "17c837bfd2510befd5c4e6c598f5ebc4d1253c1160d13d29a0216465c8dfae7d",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92062.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM90558",
+      "sha256": "23ca5ed0446576b38de41353145f40b513a31f0a11e0fd5b5cd921bb20804abf",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM90558.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92089",
+      "sha256": "8379055d85040d92a242127f33c002b88dc309157e5b51b4e78dd969f8f8d7ab",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92089.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92087",
+      "sha256": "67935bbd89ac59597a59fcbcf31440b4c07f986e39bb12ec16589e9bbe799db6",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92087.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92014",
+      "sha256": "b35fb00fa3ba36f9b4de8e1d845d1efac873e0de7877ce6f4ee2733b48c70d6d",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92014.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92033",
+      "sha256": "8dd3542abe80a151ae6ee1d8c62d9ac9cd86ea22bf4a0c53702f7738a67b9e38",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92033.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92051",
+      "sha256": "2858455f1e68609f0f600002e98fab152f5ce2557f96965a499d71597f032085",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92051.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/CBK92417",
+      "sha256": "0b4b0424229b7f629d53a2c1015aaff4a550582baa943ab65a84da1af9a862bf",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/CBK92417.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/CBK92413",
+      "sha256": "55f1d3af12433d888d53074f397128829bef10b4949347cb0c8c61f3fb2e2ae9",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/CBK92413.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92052",
+      "sha256": "7d402627b11c5d015016ece5e066058e7ba0bea9e45ec2b4f931b8cfb7dce309",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92052.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/CBK92412",
+      "sha256": "69564e810d8bb169d1eba53b86ad04f0bb14dca4d395849aae60edaef6583cb6",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/CBK92412.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/CBK92440",
+      "sha256": "f9651acfd665fbf274121c9457e89c26b1560b4d0bd938ab2a594f518d563baf",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/CBK92440.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92074",
+      "sha256": "d7a4ecf3af344cb7941ec585df9c1702ffd1ba6a33eb3d28f2da03ec6a2f07ad",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92074.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/CBK92419",
+      "sha256": "adf1ead3e3eee23f17d34adb4d74a5ab1c4b9db79f20dadc5129bc212b375ab7",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/CBK92419.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/CBK92435",
+      "sha256": "99fccb9ef93e8a25861464c7a8fe0ed3b9171e73384aae0c2fff19b43384ea42",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/CBK92435.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92016",
+      "sha256": "2844933bcd6e0fbf8d0cc96c17e22cf1bbbebd143f74033bc6258e36252fa500",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92016.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92086",
+      "sha256": "aebc8018ca97e0f151c5deba302c32dc74bc240bcdf3442a80fb8b5833d2eba5",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92086.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92050",
+      "sha256": "9c5304cc91464393ce7740964eb2c98ecc6529ee0a17183cc6ecafc027c20dab",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92050.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/aos/2027/STM92034",
+      "sha256": "0bca759501d48e379af15b9a9ef830615b480aaa368a42d9b8a914d4d1a0c376",
+      "raw_file": "scratch/full-catalog/uts-enrichment/stream-raw/STM92034.html",
       "locator": null
     }
   ]

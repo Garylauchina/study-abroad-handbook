@@ -1,6 +1,6 @@
 {
   "university_id": "nyu",
-  "checked_at": "2026-09-12",
+  "checked_at": "2026-09-13",
   "coverage": {
     "status": "complete",
     "count": 173,
@@ -14,6 +14,12 @@
         "bytes": 1151940,
         "raw_file": "scratch/full-catalog/us-b/nyu/index.html",
         "meta_file": "scratch/full-catalog/us-b/nyu/index.source.json"
+      },
+      {
+        "url": "https://bulletins.nyu.edu/undergraduate/individualized-study/programs/individualized-major-ba/",
+        "sha256": "83cd7cf6a8c8e81bacae86d388f1b11e0cb3c222fd7364ef2e919255154087e7",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/nyu-individualized-major-cab98922a1.html",
+        "locator": "Program Requirements; Program Policies; Learning Outcomes"
       }
     ],
     "gaps": [
@@ -1646,19 +1652,25 @@
       "name_en": "Individualized Major",
       "degree_label": "BA",
       "official_url": "https://bulletins.nyu.edu/undergraduate/individualized-study/programs/individualized-major-ba/",
-      "intake": null,
-      "duration": null,
+      "intake": "2026–2027课程目录",
+      "duration": "4年参考计划；总128学分",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://bulletins.nyu.edu/programs/",
-      "source_period": "2026-2027",
+      "source_period": "2026-09-13核对官方资料；课程、招生与费用适用年度见正文",
       "raw_key": "Individualized Major (BA)",
       "academic_unit": [
         "Gallatin"
       ],
-      "entry_route": null,
+      "entry_route": "Gallatin本科入口；入学后与导师共同拟定跨学科研究方向",
       "entity_type": "bachelor program",
-      "id": "nyu-individualized-major-cab98922a1"
+      "id": "nyu-individualized-major-cab98922a1",
+      "name": "自主设计跨学科专业（Gallatin BA）",
+      "subject": "艺术与设计",
+      "subjects": [
+        "艺术与设计",
+        "人文"
+      ]
     },
     {
       "name_en": "Information Systems and Technology",

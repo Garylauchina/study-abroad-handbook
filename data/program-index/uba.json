@@ -1,6 +1,6 @@
 {
   "university_id": "uba",
-  "checked_at": "2026-09-12",
+  "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
     "count": 101,
@@ -95,11 +95,66 @@
         "url": "https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/IF-2023-01888733-UBA-SG%25REC%20%28PROFESORADO%29_0.pdf",
         "sha256": "e323aa7c763cd8c23910c1f5cf312e5b145528de45bf6a5ae6567857dfa89f75",
         "raw_file": "scratch/full-catalog/uba-enrichment/raw/plan-66-25.pdf"
+      },
+      {
+        "url": "https://podologia.fmed.uba.ar/posgrado.htm",
+        "sha256": "f21c9302b76fe8f6099c37ef8862994d0bc30e7ca13d0d606da76ea1a01c82e0",
+        "raw_file": "scratch/full-catalog/school-only-remainders/uba-us-agent/raw/uba-podo-lic-dom.html",
+        "locator": "Chrome实际读取DOM #contenido"
+      },
+      {
+        "url": "https://podologia.fmed.uba.ar/Podologia/cuadro.png",
+        "sha256": "4c4c9e2cf59657939d7d2ade8a0c6b1c92b413efee14c5d8002be69136664146",
+        "raw_file": "scratch/full-catalog/school-only-remainders/uba-us-agent/raw/uba-podo-lic-plan-browser.png",
+        "locator": "官方cuadro.png完整浏览器截图；总计三行及课程表"
+      },
+      {
+        "url": "https://fmed.uba.ar/index.php/direccion-de-licenciaturas-y-tecnicaturas/inscripcion-carreras-1o-cuatrimestre-2025",
+        "sha256": "9feb183734fbdc386bf37ec34a033c7c17284c7141598fbbbc77a1aa132256a6",
+        "raw_file": "scratch/full-catalog/school-only-remainders/uba-us-agent/raw/uba-podo-lic-2025.html",
+        "locator": "Período de inscripción; carreras list"
+      },
+      {
+        "url": "https://fmed.uba.ar/direccion-de-licenciaturas-y-tecnicaturas/inscripcion-carreras-1o-cuatrimestre-2026",
+        "sha256": "5a2991f637b2f7afd7963a5eff45cf202ecc9b834a20cd048f293b786cd63adf",
+        "raw_file": "scratch/full-catalog/school-only-remainders/uba-us-agent/raw/uba-podo-lic-2026-1.html",
+        "locator": "Las carreras que ofertan materias para ingresantes"
+      },
+      {
+        "url": "https://fmed.uba.ar/direccion-de-licenciaturas-y-tecnicaturas/inscripcion-carreras-2o-cuatrimestre-2026",
+        "sha256": "df27b2b6edad6f47e5c450388243401dfd41987a2fd8a559619121e05c043dd6",
+        "raw_file": "scratch/full-catalog/school-only-remainders/uba-us-agent/raw/uba-podo-lic-2026-2.html",
+        "locator": "Las carreras que ofertan materias para ingresantes"
+      },
+      {
+        "url": "https://www.fmed.uba.ar/carreras/licenciatura-en-podologia/plan-de-estudios",
+        "sha256": "047e38abd9fa6f17f9093a3323f6d33d81a82150d778c04eb1dfea7ea79cae15",
+        "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-88-24.html",
+        "locator": null
+      },
+      {
+        "url": "https://www.fmed.uba.ar/carreras/licenciatura-en-podologia/ingreso-la-licenciatura",
+        "sha256": "2b2ba50bf1bfdfaeeb8efcfe8948d32ee967526ef1cea5345bf0d6738607f981",
+        "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-88-25.html",
+        "locator": null
+      },
+      {
+        "url": "https://codigo.rec.uba.ar/libros_xiii__odonto/libro-xiii-facultad-de-odontologia/titulo-4-carrera-de-odontologia/capitulo-a-plan-2021/",
+        "sha256": "ffc79d2a42fafca4471185da455f252d878e32f74f5df0044a53477799627356",
+        "raw_file": "scratch/full-catalog/school-only-remainders/uba-us-agent/raw/uba-dent-plan.html",
+        "locator": "I; IV–VIII; XII; footnotes RESCS-2024-1828"
+      },
+      {
+        "url": "http://odontologia.uba.ar/?page_id=166",
+        "sha256": "1d11e3528ef45308e7905d1b6f86f75c9ac14d3dc2f0d0c33a08f100b9480474",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/uba-dent-entry.html",
+        "locator": "Inscripción ingresantes segundo cuatrimestre 2026"
       }
     ],
     "gaps": [
       "中央目录以Grado入口为范围，学制、具体授予资格和招生年度尚待逐课程核实。",
-      "已纠正一组跨院景观学位重复并新增文学教师；Podología本科身份及Letras Clásicas是否独立学位仍有待确认，不能宣称目录完全闭合。"
+      "已纠正一组跨院景观学位重复并新增文学教师；Podología已确认为指定UBA技术资格之后的本科补充学程；Letras Clásicas是否独立学位仍有待确认，不能宣称目录完全闭合。",
+      "足病学2025代码066与2026两期名单不一致，2027开放未确认；牙科按法定2021计划及2024修订/2025适用核六年含CBC，不能把已结束的2026学院入学时间当2027首次CBC窗口。"
     ]
   },
   "programs": [
@@ -1490,19 +1545,29 @@
       "id": "uba-licenciatura-en-obstetricia-eba0475372"
     },
     {
-      "name_en": "Licenciatura en Podología",
-      "degree_label": "Carrera de grado（具体授予名称见官方课程）",
-      "official_url": "https://www.fmed.uba.ar/carreras/licenciatura-en-podologia/ingreso-la-licenciatura",
+      "name_en": "Licenciatura en Podología — Ciclo de Complementación Curricular",
+      "degree_label": "Licenciatura en Podología (Ciclo de Complementación Curricular)",
+      "official_url": "https://podologia.fmed.uba.ar/posgrado.htm",
       "discovery_source_url": "https://www.uba.ar/carreras/11",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
+      "source_period": "2026-09-13核对官方资料；课程、招生与费用适用年度见正文",
+      "intake": "本科补充入口；2027窗口本轮未取得",
+      "duration": "787小时补充阶段；历时未核",
       "campus": null,
       "language": null,
       "raw_key": "https://www.fmed.uba.ar/carreras/licenciatura-en-podologia/ingreso-la-licenciatura",
       "academic_unit": "Ciencias Médicas",
       "listing_note": "官方列于Ciencias Médicas",
-      "id": "uba-licenciatura-en-podolog-a-1eeeec780e"
+      "id": "uba-licenciatura-en-podolog-a-1eeeec780e",
+      "entry_route": "须先取得UBA指定Podólogo/a Universitario/a技术资格；不接受仅凭高中直接进入",
+      "record_type": "本科补充学程（指定UBA技术资格后续）",
+      "entity_type": "本科补充学程（指定UBA技术资格后续）",
+      "status": "2025曾列招生；2026名单未列，2027开放待核",
+      "requires_prior_qualification": "指定UBA Podólogo/a Universitario/a技术资格，不是普通高中CBC直入",
+      "name": "足病学本科补充学程（限指定UBA技术资格）",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ]
     },
     {
       "name_en": "Licenciatura en Producción de Bioimágenes",
@@ -1537,18 +1602,26 @@
     },
     {
       "name_en": "Odontología",
-      "degree_label": "Carrera de grado（具体授予名称见官方课程）",
-      "official_url": "http://www.odon.uba.ar/",
+      "degree_label": "Odontólogo/a",
+      "official_url": "https://codigo.rec.uba.ar/libros_xiii__odonto/libro-xiii-facultad-de-odontologia/titulo-4-carrera-de-odontologia/capitulo-a-plan-2021/",
       "discovery_source_url": "https://www.uba.ar/carreras/12",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
-      "campus": null,
+      "source_period": "2026-09-13核对官方资料；课程、招生与费用适用年度见正文",
+      "intake": "现行Plan2021及2025修订；2027窗口待核",
+      "duration": "6年（含CBC）",
+      "campus": "CBC校址及UBA牙学院、大学医院",
       "language": null,
       "raw_key": "http://www.odon.uba.ar/",
       "academic_unit": "Odontología",
       "listing_note": "官方列于Odontología",
-      "id": "uba-odontolog-a-47af9b69e4"
+      "id": "uba-odontolog-a-47af9b69e4",
+      "record_type": "六年牙医职业学位（含CBC）",
+      "entity_type": "六年牙医职业学位（含CBC）",
+      "name": "牙医学（Odontólogo/a）",
+      "entry_route": "先通过CBC全部六科，再办理牙学院专业阶段入学",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ]
     },
     {
       "name_en": "Licenciatura en Psicología",

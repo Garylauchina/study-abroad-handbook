@@ -429,6 +429,7 @@ hide:
 - {&#x27;note&#x27;: &#x27;Current directory presence is distinct from open admissions; entry year is not stated on search cards.&#x27;}
 - 目录345张卡片减3项非学士已闭合为342条；其中1项明确停招、2项旧插读详情缺失。70条实质页面仅2026或2025版本，费用保留各自年份，未据目录存在断言当年开放。
 - 专业毕业统计和独立完整授课语种仍待补；职业方向不是课程就业率。旧价不是2027已定价。
+- 两旧插读项详情404；MMedSc PoSH与另列MSci的正式替代关系、Public and Global Health MSci当前开放未确认，继续仅目录资料。
 
 - [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true)
 - [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-bsc)
@@ -783,5 +784,8 @@ hide:
 - [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/theoretical-physics-msci)
 - [官方目录来源](https://www.birmingham.ac.uk/international/students/country/china/gaokao)
 - [官方目录来源](https://www.birmingham.ac.uk/study/international/fees/scholarships)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/health-management-and-leadership-msci-intercalated-degree)
+- [官方目录来源](https://www.birmingham.ac.uk/about/college-of-medicine-and-health/undergraduate-degree-courses)
+- [官方目录来源](https://www.birmingham.ac.uk/study/courses?term=public+health)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

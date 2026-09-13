@@ -4313,41 +4313,88 @@
     },
     {
       "university_id": "nyu",
+      "inventory_id": "nyu-individualized-major-cab98922a1",
       "raw_key": "Individualized Major (BA)",
       "name_en": "Individualized Major",
+      "degree_label": "BA",
       "official_url": "https://bulletins.nyu.edu/undergraduate/individualized-study/programs/individualized-major-ba/",
-      "checked_at": "2026-09-12",
+      "source_period": "2026-2027",
+      "checked_at": "2026-09-13",
+      "research_status": "partial",
       "sections": {
         "overview": [
           {
-            "label": "目录学位与年度",
-            "text": "官方本科目录登记学位／路径：BA；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "label": "自主设计课程",
+            "text": "学生在导师指导下围绕问题、主题或创作实践设计concentration，结合Gallatin研讨课和NYU其他学院课程。跨院选课仍受先修及学院限制；不是任意组合都会获批。",
             "source_ids": [
-              "USBENR-f6bd5c3b31d11c"
+              "REM-nyu-individualized-major-cab98922a1"
+            ]
+          },
+          {
+            "label": "毕业学分与核心",
+            "text": "BA共128学分；每年32学分是四年参考进度。至少32学分为Gallatin课程，其中一年级跨学科研讨4学分可计入跨学科研讨16学分要求，不能重复相加；还须满足文理分布、历史文化及批判种族研究要求。",
+            "source_ids": [
+              "REM-nyu-individualized-major-cab98922a1"
+            ]
+          },
+          {
+            "label": "选课与毕业边界",
+            "text": "至少64学分须在Gallatin入学后完成，且至少64学分来自课堂课程；独立研究、实习、tutorial和私人课程不计入后者。课程计入历史类别时，同一课不能同时填两个历史类别。",
+            "source_ids": [
+              "REM-nyu-individualized-major-cab98922a1"
             ],
-            "extraction_locator": "program title / catalogue edition"
+            "extraction_locator": "Policies: Classroom Credits; Graduation Requirements; Historical and Cultural Requirements"
           }
         ],
-        "admissions": [],
-        "applications": [],
+        "admissions": [
+          {
+            "label": "在读专业计划与答辩",
+            "text": "完成第64学分所在学期末前交导师批准的IAPC计划。毕业须通过Colloquium口试，准备5–8页论述及20–25部作品书目；这是大学在读任务，不是高中申请材料。",
+            "source_ids": [
+              "REM-nyu-individualized-major-cab98922a1"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "招生及特殊路线",
+            "text": "普通本科申请由NYU Undergraduate Admissions统一处理。目录列多项需另行合资格申请的五年本硕路径，本条BA不等于自动录取这些硕士；本轮未取得BA单独的2027追加截止。",
+            "source_ids": [
+              "REM-nyu-individualized-major-cab98922a1"
+            ]
+          }
+        ],
         "fees": [],
-        "outcomes": []
+        "outcomes": [
+          {
+            "label": "学习成果边界",
+            "text": "培养把不同学术或艺术兴趣整合为有广度、深度和连贯性的研究计划，以及分析写作、口头交流与项目执行能力。目录学习成果不等于毕业就业统计，本轮未取得本专业分母明确的数据。",
+            "source_ids": [
+              "REM-nyu-individualized-major-cab98922a1"
+            ]
+          }
+        ]
       },
       "sources": [
         {
-          "id": "USBENR-f6bd5c3b31d11c",
-          "title": "Individualized Major — 官方本科课程目录",
+          "id": "REM-nyu-individualized-major-cab98922a1",
+          "title": "NYU 2026–2027 Bulletin — Individualized Major (BA)",
           "url": "https://bulletins.nyu.edu/undergraduate/individualized-study/programs/individualized-major-ba/",
-          "checked_at": "2026-09-12",
-          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "checked_at": "2026-09-13",
+          "supports": "Gallatin自主concentration、128总学分、32核心及重叠规则、IAPC/口试、课堂和在读学分、跨院选课及学习成果边界",
           "sha256": "83cd7cf6a8c8e81bacae86d388f1b11e0cb3c222fd7364ef2e919255154087e7",
-          "locator": "main/content > program section headings"
+          "locator": "Program Requirements; Program Policies; Learning Outcomes"
         }
       ],
-      "display_fields": {},
-      "research_status": "directory_only",
-      "degree_label": "BA",
-      "inventory_id": "nyu-individualized-major-cab98922a1"
+      "display_fields": {
+        "name": "自主设计跨学科专业（Gallatin BA）",
+        "intake": "2026–2027课程目录",
+        "duration": "4年参考计划；总128学分",
+        "entry_summary": "Gallatin本科入口；入学后与导师共同拟定跨学科研究方向"
+      },
+      "coverage_notes": [
+        "本轮未新增学校共用政策；保留现有profile。专业独立2027截止、额外收费或奖学金未取得，不能据此认定没有。"
+      ]
     },
     {
       "university_id": "nyu",
@@ -5925,7 +5972,7 @@
       "sources": [
         {
           "id": "USBENR-ab99baf63c5240",
-          "title": "Nursing  (Accelerated 15-Month) — 官方本科课程目录",
+          "title": "Nursing (Accelerated 15-Month) — 官方本科课程目录",
           "url": "https://bulletins.nyu.edu/undergraduate/nursing/programs/nursing-accelerated-15-month-bs/",
           "checked_at": "2026-09-12",
           "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
@@ -5980,7 +6027,7 @@
       "sources": [
         {
           "id": "USBENR-03dd32052ab330",
-          "title": "Nursing  (Traditional 4-Year) — 官方本科课程目录",
+          "title": "Nursing (Traditional 4-Year) — 官方本科课程目录",
           "url": "https://bulletins.nyu.edu/undergraduate/nursing/programs/nursing-traditional-4-year-bs/",
           "checked_at": "2026-09-12",
           "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",

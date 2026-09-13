@@ -82,6 +82,6 @@ hide:
 - [官方项目页面或项目所在目录](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/medical-science-bmedsc-intercalated-degree)
 - [官方目录](https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true)
 
-<div class="catalog-source" id="source-p-BHM-684b7f2322aa52fa"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/medical-science-bmedsc-intercalated-degree">Medical Science (Intercalated Degree)  BMedSci：官方课程详情 ↗</a><p>学位、学制与版本；校区；授课语言边界；医学科学插读培养结构；专业申请条件；2027 插读申请；国际生学费与年份；插读资助缺口；毕业资料缺口</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-BHM-684b7f2322aa52fa"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/medical-science-bmedsc-intercalated-degree">Medical Science (Intercalated Degree) BMedSci：官方课程详情 ↗</a><p>学位、学制与版本；校区；授课语言边界；医学科学插读培养结构；专业申请条件；2027 插读申请；国际生学费与年份；插读资助缺口；毕业资料缺口</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/birmingham/">← 返回伯明翰大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -3188,62 +3188,117 @@
     },
     {
       "university_id": "bristol",
+      "inventory_id": "bristol-film-and-english-ba-96be281525",
       "raw_key": "https://www.bristol.ac.uk/study/undergraduate/2027/film-television/ba-film-and-english",
       "name_en": "Film and English (BA)",
+      "degree_label": "BA",
       "official_url": "https://www.bristol.ac.uk/study/undergraduate/2027/film-television/ba-film-and-english/",
-      "checked_at": "2026-09-12",
+      "source_period": "2027 course and entry requirements;2026-entry fee reference",
+      "checked_at": "2026-09-13",
+      "research_status": "partial",
       "sections": {
         "overview": [
           {
-            "label": "目录学习安排",
-            "text": "学位 BA；学制 3 年 全日制；入学 2027。",
+            "label": "课程内容",
+            "text": "结合影视历史、理论、制作实践及英语文学；文学范围从中世纪到当代，包含诗歌、小说和戏剧分析，后续可选创意写作。末年有创意产业实习和论文机会，不表示人人已获实习职位。",
             "source_ids": [
-              "UKENR-89548d16aea724"
-            ],
-            "extraction_locator": "Official directory entry: https://www.bristol.ac.uk/study/undergraduate/2027/film-television/ba-film-and-english"
+              "REM-bristol-film-and-english-ba-96be281525"
+            ]
+          },
+          {
+            "label": "学制与地点",
+            "text": "三年全日制，Clifton校区；课程不提供非全日制学习。",
+            "source_ids": [
+              "REM-bristol-film-and-english-ba-96be281525"
+            ]
           }
         ],
-        "admissions": [],
-        "applications": [],
-        "fees": [],
-        "outcomes": []
+        "admissions": [
+          {
+            "label": "2027标准资格",
+            "text": "A-level AAB；IB总分34、HL合计17。页面GCSE栏注明无特定科目；本轮未取得作品集或试演要求，不能从其他影视课程推定。",
+            "source_ids": [
+              "REM-bristol-film-and-english-ba-96be281525"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS总分7.0，写作7.0、其余6.5（Profile B）；替代英语资格按学校政策。",
+            "source_ids": [
+              "REM-bristol-film-and-english-ba-96be281525"
+            ]
+          },
+          {
+            "label": "2027选拔及面试",
+            "text": "2027招生说明以学业记录排序，GCSE占20%、A-level占80%，同等资格按大学评估；不能把权重直接换算为高考分。通常不面试，特殊情况仍可安排；文书一般不评分，但同分无法区分时可参考。",
+            "source_ids": [
+              "REM-bristol-as-film-english"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请入口",
+            "text": "2027课程通过UCAS，代码6T3X；本轮课程页未取得独立截止。",
+            "source_ids": [
+              "REM-bristol-film-and-english-ba-96be281525"
+            ]
+          },
+          {
+            "label": "2027高年级转入",
+            "text": "2027说明通常从第一年读起；已在合适专业完成大一者可申请考虑转入第二年，但不接受第三年转入，且不保证获批。",
+            "source_ids": [
+              "REM-bristol-as-film-english"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "实际报价年份",
+            "text": "虽然页面为2027课程，学费脚注明确这里只报价2026入学：国际生首年£31,300，之后可能逐年调整；2027费用本轮未确认。实习/海外年份不可直接按首年相乘。",
+            "source_ids": [
+              "REM-bristol-film-and-english-ba-96be281525"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养及毕业证据",
+            "text": "课程提供文学批评、影视分析与制作实践，以及末年行业实践机会；本轮未取得本课程独立毕业调查，不把教学机会当实际就业结果。",
+            "source_ids": [
+              "REM-bristol-film-and-english-ba-96be281525"
+            ]
+          }
+        ]
       },
       "sources": [
         {
-          "id": "UKENR-89548d16aea724",
-          "title": "bristol 官方本科目录",
-          "url": "https://www.bristol.ac.uk/study/undergraduate/search/",
-          "checked_at": "2026-09-12",
-          "supports": "目录中的课程名称、学位和已明确的学制／入学年份／校区",
-          "sha256": "0b3fb52ef774a6f8094c2f2da4a5afcc889370ffae3a7a400fb968ad6b60d16e",
-          "locator": "https://www.bristol.ac.uk/study/undergraduate/2027/film-television/ba-film-and-english"
+          "id": "REM-bristol-film-and-english-ba-96be281525",
+          "title": "University of Bristol — Film and English (BA) 官方课程资料",
+          "url": "https://www.bristol.ac.uk/study/undergraduate/2027/film-television/ba-film-and-english/",
+          "checked_at": "2026-09-13",
+          "supports": "课程内容；学制与地点；2027标准资格；英语；申请入口；实际报价年份；培养及毕业证据",
+          "sha256": "e8683c80f81e9a1e75bf1a10feda4f473f6e0f9447350e43c58978ff6588350b"
+        },
+        {
+          "id": "REM-bristol-as-film-english",
+          "url": "https://www.bristol.ac.uk/study/media/undergraduate/admissions-statements/2027/film-english.pdf",
+          "title": "Bristol 2027 Film and English Admissions Statement",
+          "checked_at": "2026-09-13",
+          "sha256": "04dada936c016807fda9b55b9ef6ce9ab3d7d93397edce0be1252feb3f725726",
+          "supports": "2027学术排序、通常无面试及特殊面试例外、高年级转入边界",
+          "locator": "PDF pages1–2; version1.0 May2026; explicitly2027"
         }
       ],
-      "coverage_notes": [
-        "Individual course payload unavailable: fetch_error; only directory-level facts retained."
-      ],
       "display_fields": {
-        "duration": "3 年 全日制",
-        "intake": "2027"
-      },
-      "coverage": {
-        "overview": true,
-        "admissions": false,
-        "applications": false,
-        "fees": false,
-        "outcomes": false
-      },
-      "detail_payload_acquired": false,
-      "research_status": "directory_only",
-      "substantive_coverage": {
-        "course_content": false,
-        "entry_conditions": false,
-        "fee_amount": false,
-        "career_directions": false,
-        "outcome_statistics": false
-      },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "bristol-film-and-english-ba-96be281525"
+        "intake": "2027课程；学费为2026参考",
+        "name": "电影与英语文学",
+        "duration": "3年全日制",
+        "campus": "Clifton",
+        "tuition_summary": "2026入学国际生首年£31,300；2027报价未确认",
+        "entry_summary": "2027标准A-level AAB；IB34/HL17；英语Profile B",
+        "tuition_label": "2026入学国际费参考"
+      }
     },
     {
       "university_id": "bristol",
@@ -10249,62 +10304,98 @@
     },
     {
       "university_id": "bristol",
+      "inventory_id": "bristol-economics-and-accounting-with-professional-placement-bsc-0216786a2a",
       "raw_key": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-economics-and-accounting-with-professional-placement",
       "name_en": "Economics and Accounting with Professional Placement (BSc)",
+      "degree_label": "BSc",
       "official_url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-economics-and-accounting-with-professional-placement/",
-      "checked_at": "2026-09-12",
+      "source_period": "2027 course and entry requirements;2026-entry fee reference",
+      "checked_at": "2026-09-13",
+      "research_status": "partial",
       "sections": {
         "overview": [
           {
-            "label": "目录学习安排",
-            "text": "学位 BSc；学制 4 年 全日制；入学 2027。",
+            "label": "课程内容",
+            "text": "结合经济学、会计和金融；前两年学习微观/宏观分析、财务与管理会计、量化研究方法。第三年带薪会计实习，末年可选产业经济学、企业报告及金融市场等。",
             "source_ids": [
-              "UKENR-89548d16aea724"
-            ],
-            "extraction_locator": "Official directory entry: https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-economics-and-accounting-with-professional-placement"
+              "REM-bristol-economics-and-accounting-with-professional-placement-bsc-0216786a2a"
+            ]
+          },
+          {
+            "label": "学制与地点",
+            "text": "四年全日制；前两年Clifton，后续按选课可能涉及Temple Quarter，第三年在雇主处实习。",
+            "source_ids": [
+              "REM-bristol-economics-and-accounting-with-professional-placement-bsc-0216786a2a"
+            ]
           }
         ],
-        "admissions": [],
-        "applications": [],
-        "fees": [],
-        "outcomes": []
+        "admissions": [
+          {
+            "label": "校内竞争转入",
+            "text": "只能从BSc Economics and Accounting（UCAS LN14）转入，不接受外部申请者直接申请本路线。按第一年考试成绩择优，另须合格雇主的实习聘用offer。",
+            "source_ids": [
+              "REM-bristol-economics-and-accounting-with-professional-placement-bsc-0216786a2a"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "页面指定Profile G：IELTS总分6.5，阅读/听力7.0，其他不低于6.0；其他合资格英语证书按学校专页。",
+            "source_ids": [
+              "REM-bristol-economics-and-accounting-with-professional-placement-bsc-0216786a2a"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请路线",
+            "text": "高中申请者应先核LN14原课程资格；本条没有独立外部UCAS入口。校内申请和雇主招聘的确切2027截止本轮未取得。",
+            "source_ids": [
+              "REM-bristol-economics-and-accounting-with-professional-placement-bsc-0216786a2a"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "实际报价年份",
+            "text": "虽然页面为2027课程，学费脚注明确这里只报价2026入学：国际生首年£28,200，之后可能逐年调整；2027费用本轮未确认。实习/海外年份不可直接按首年相乘。",
+            "source_ids": [
+              "REM-bristol-economics-and-accounting-with-professional-placement-bsc-0216786a2a"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "专业资格与毕业边界",
+            "text": "课程涉及CIMA、ICAEW、ICAS、CIPFA与ACCA认可课程；页面同时保留ACCA五年复评预计2026年7月出结果的说明，本轮未取得最终复评结果。实习可积累ICAEW资格进程，学位不等于自动取得会计师执业资格；所列雇主案例不是就业率。",
+            "source_ids": [
+              "REM-bristol-economics-and-accounting-with-professional-placement-bsc-0216786a2a"
+            ]
+          }
+        ]
       },
       "sources": [
         {
-          "id": "UKENR-89548d16aea724",
-          "title": "bristol 官方本科目录",
-          "url": "https://www.bristol.ac.uk/study/undergraduate/search/",
-          "checked_at": "2026-09-12",
-          "supports": "目录中的课程名称、学位和已明确的学制／入学年份／校区",
-          "sha256": "0b3fb52ef774a6f8094c2f2da4a5afcc889370ffae3a7a400fb968ad6b60d16e",
-          "locator": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-economics-and-accounting-with-professional-placement"
+          "id": "REM-bristol-economics-and-accounting-with-professional-placement-bsc-0216786a2a",
+          "title": "University of Bristol — Economics and Accounting with Professional Placement (BSc) 官方课程资料",
+          "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-economics-and-accounting-with-professional-placement/",
+          "checked_at": "2026-09-13",
+          "supports": "课程内容；学制与地点；校内竞争转入；英语；申请路线；实际报价年份；专业资格与毕业边界",
+          "sha256": "eb26066bc5e6b5b2532d53fe5c8b78eb57d5efc4d4e3df35ab44269f3bb74fa8"
         }
       ],
-      "coverage_notes": [
-        "Individual course payload unavailable: fetch_error; only directory-level facts retained."
-      ],
       "display_fields": {
-        "duration": "4 年 全日制",
-        "intake": "2027"
+        "intake": "2027课程；学费为2026参考",
+        "name": "经济与会计（含专业实习，校内转入）",
+        "duration": "4年全日制",
+        "campus": "Clifton；后续可含Temple Quarter及实习地点",
+        "tuition_summary": "2026入学国际生首年£28,200；2027报价未确认",
+        "entry_summary": "仅从LN14经济与会计校内转入；按大一成绩和实习雇主offer竞争",
+        "tuition_label": "2026入学国际费参考"
       },
-      "coverage": {
-        "overview": true,
-        "admissions": false,
-        "applications": false,
-        "fees": false,
-        "outcomes": false
-      },
-      "detail_payload_acquired": false,
-      "research_status": "directory_only",
-      "substantive_coverage": {
-        "course_content": false,
-        "entry_conditions": false,
-        "fee_amount": false,
-        "career_directions": false,
-        "outcome_statistics": false
-      },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "bristol-economics-and-accounting-with-professional-placement-bsc-0216786a2a"
+      "excluded_school_sections": [
+        "admissions",
+        "applications"
+      ]
     },
     {
       "university_id": "bristol",
@@ -12161,62 +12252,117 @@
     },
     {
       "university_id": "bristol",
+      "inventory_id": "bristol-environmental-geoscience-bsc-e4eba872ba",
       "raw_key": "https://www.bristol.ac.uk/study/undergraduate/2027/geoscience/bsc-environmental-geoscience",
       "name_en": "Environmental Geoscience (BSc)",
+      "degree_label": "BSc",
       "official_url": "https://www.bristol.ac.uk/study/undergraduate/2027/geoscience/bsc-environmental-geoscience/",
-      "checked_at": "2026-09-12",
+      "source_period": "2027 course and entry requirements;2026-entry fee reference",
+      "checked_at": "2026-09-13",
+      "research_status": "partial",
       "sections": {
         "overview": [
           {
-            "label": "目录学习安排",
-            "text": "学位 BSc；学制 3 年 全日制；入学 2027。",
+            "label": "课程内容",
+            "text": "结合地质、生物、化学与物理研究地表、海洋和大气，训练编程、数值建模、化学实验及数据分析；可选水文地质、环境影响评估、海洋气候等，第三年独立项目。",
             "source_ids": [
-              "UKENR-89548d16aea724"
-            ],
-            "extraction_locator": "Official directory entry: https://www.bristol.ac.uk/study/undergraduate/2027/geoscience/bsc-environmental-geoscience"
+              "REM-bristol-environmental-geoscience-bsc-e4eba872ba"
+            ]
+          },
+          {
+            "label": "学制与地点",
+            "text": "三年全日制，Clifton校区；课程不提供非全日制学习。",
+            "source_ids": [
+              "REM-bristol-environmental-geoscience-bsc-e4eba872ba"
+            ]
           }
         ],
-        "admissions": [],
-        "applications": [],
-        "fees": [],
-        "outcomes": []
+        "admissions": [
+          {
+            "label": "2027标准成绩与科目",
+            "text": "A-level ABB，须两门科学相关科目；IB总分32、HL合计16，两个科学相关HL均至少5。官方允许科目包括生物、化学、数学/进阶数学、物理、环境科学、地质、计算机、地理、海洋科学；不是必须化学加物理。",
+            "source_ids": [
+              "REM-bristol-environmental-geoscience-bsc-e4eba872ba"
+            ]
+          },
+          {
+            "label": "数学及英语",
+            "text": "GCSE数学6/B或认可同等资格；IELTS总分6.5且各项6.5（Profile C）。上述不是高考百分制转换。",
+            "source_ids": [
+              "REM-bristol-environmental-geoscience-bsc-e4eba872ba"
+            ]
+          },
+          {
+            "label": "2027选拔及面试",
+            "text": "2027招生说明以学业记录排序，GCSE占20%、A-level占80%，同等资格按大学评估；不能把权重直接换算为高考分。通常不面试，特殊情况仍可安排；文书一般不评分，但同分无法区分时可参考。",
+            "source_ids": [
+              "REM-bristol-as-earth-sciences"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请入口",
+            "text": "2027课程通过UCAS，代码F640；本页未核到课程专门截止，普通校级时限另列。",
+            "source_ids": [
+              "REM-bristol-environmental-geoscience-bsc-e4eba872ba"
+            ]
+          },
+          {
+            "label": "2027高年级转入",
+            "text": "2027说明不考虑转入第二年或第三年。",
+            "source_ids": [
+              "REM-bristol-as-earth-sciences"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "实际报价年份",
+            "text": "虽然页面为2027课程，学费脚注明确这里只报价2026入学：国际生首年£31,300，之后可能逐年调整；2027费用本轮未确认。实习/海外年份不可直接按首年相乘。",
+            "source_ids": [
+              "REM-bristol-environmental-geoscience-bsc-e4eba872ba"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "认可及去向证据",
+            "text": "网页列The Geological Society（TGS）认可，并说明培养科学计算、数据分析、环境评估与实地研究能力；本轮未取得该专业带届次和分母的就业率。",
+            "source_ids": [
+              "REM-bristol-environmental-geoscience-bsc-e4eba872ba"
+            ]
+          }
+        ]
       },
       "sources": [
         {
-          "id": "UKENR-89548d16aea724",
-          "title": "bristol 官方本科目录",
-          "url": "https://www.bristol.ac.uk/study/undergraduate/search/",
-          "checked_at": "2026-09-12",
-          "supports": "目录中的课程名称、学位和已明确的学制／入学年份／校区",
-          "sha256": "0b3fb52ef774a6f8094c2f2da4a5afcc889370ffae3a7a400fb968ad6b60d16e",
-          "locator": "https://www.bristol.ac.uk/study/undergraduate/2027/geoscience/bsc-environmental-geoscience"
+          "id": "REM-bristol-environmental-geoscience-bsc-e4eba872ba",
+          "title": "University of Bristol — Environmental Geoscience (BSc) 官方课程资料",
+          "url": "https://www.bristol.ac.uk/study/undergraduate/2027/geoscience/bsc-environmental-geoscience/",
+          "checked_at": "2026-09-13",
+          "supports": "课程内容；学制与地点；2027标准成绩与科目；数学及英语；申请入口；实际报价年份；认可及去向证据",
+          "sha256": "0da6d37ca5abf61e860829c1276fa4dcb406aaf870d19ad22931a2dfa936152d"
+        },
+        {
+          "id": "REM-bristol-as-earth-sciences",
+          "url": "https://www.bristol.ac.uk/study/media/undergraduate/admissions-statements/2027/earth-sciences.pdf",
+          "title": "Bristol 2027 Earth Sciences Admissions Statement",
+          "checked_at": "2026-09-13",
+          "sha256": "bb5b2f217d49a393bd66d2a6ba53aaaf142936514f7c6ad14d45eb48f254a5a3",
+          "supports": "2027学术排序、通常无面试及特殊面试例外、高年级转入边界",
+          "locator": "PDF pages1–2; version1.0 May2026; explicitly2027"
         }
       ],
-      "coverage_notes": [
-        "Individual course payload unavailable: challenge_or_empty; only directory-level facts retained."
-      ],
       "display_fields": {
-        "duration": "3 年 全日制",
-        "intake": "2027"
-      },
-      "coverage": {
-        "overview": true,
-        "admissions": false,
-        "applications": false,
-        "fees": false,
-        "outcomes": false
-      },
-      "detail_payload_acquired": false,
-      "research_status": "directory_only",
-      "substantive_coverage": {
-        "course_content": false,
-        "entry_conditions": false,
-        "fee_amount": false,
-        "career_directions": false,
-        "outcome_statistics": false
-      },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "bristol-environmental-geoscience-bsc-e4eba872ba"
+        "intake": "2027课程；学费为2026参考",
+        "name": "环境地球科学",
+        "duration": "3年全日制",
+        "campus": "Clifton",
+        "tuition_summary": "2026入学国际生首年£31,300；2027报价未确认",
+        "entry_summary": "2027标准A-level ABB含两门科学相关科目；IB32/HL16含两门HL5",
+        "tuition_label": "2026入学国际费参考"
+      }
     },
     {
       "university_id": "bristol",

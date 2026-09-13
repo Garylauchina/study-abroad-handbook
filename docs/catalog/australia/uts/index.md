@@ -23,15 +23,24 @@ hide:
 
 ## 专业与申请资料
 
-358 个专业条目 · 0 个含详细资料 · 323 个补有专业资料 · 35 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+397 个专业条目 · 0 个含详细资料 · 397 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=uts#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-24cp-psychology-honours-research-stream-4c04eec067/">心理学荣誉研究方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-2d-animation-stream-844ffc9021/">二维动画方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-3d-animation-stream-edab129285/">三维动画方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-accelerated-program-enrolled-nurse-ebf8c78363/">护理学士加速入口（登记护士）</a><small>护理学士内的资历减免入口 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-accounting-7c320a38ad/">会计学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-advertising-and-marketing-communications-6791220ac3/">广告与营销传播</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-animation-stream-2374b4b67f/">动画方向（共同专业课程）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-architecture-stream-ca37c7b780/">建筑方向（景观建筑学位内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-architecture-stream-89e220e345/">建筑方向（建筑与创意创新组合内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-architecture-stream-d7074418e5/">建筑方向（建筑学位内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-architecture-stream-e168430f31/">建筑方向（室内建筑学位内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-artificial-intelligence-and-data-analytics-654ffaae4b/">人工智能与数据分析</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-bachelor-of-accounting-06f5767be4/">Bachelor of Accounting</a><small>Bachelor of Accounting · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-bachelor-of-accounting-06f5767be4/">会计学士（本地生奖学金合作项目）</a><small>Bachelor of Accounting · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-bachelor-of-advanced-science-da1a6caa35/">高等理学学士</a><small>Bachelor of Advanced Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-bachelor-of-advanced-science-bachelor-of-creative-intelligence-an-4f04fda170/">高等理学与创意智能创新双学士</a><small>Bachelor of Advanced Science Bachelor of Creative Intelligence and Innovation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-bachelor-of-artificial-intelligence-caebf07a74/">人工智能学士</a><small>Bachelor of Artificial Intelligence · 部分专业资料已核实</small></article>
@@ -191,8 +200,8 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-biology-chemistry-earth-and-environmental-science-e610a34364/">生物、化学、地球与环境科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-biomedical-engineering-cf43d58b0f/">生物医学工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-biomedical-engineering-0adf9b42cc/">生物医学工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-biomedical-science-29df3374aa/">生物医学科学</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-biotechnology-4392dfaff3/">生物技术</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-biomedical-science-29df3374aa/">生物医学科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-biotechnology-4392dfaff3/">生物技术</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-biotechnology-f0fa4abe88/">生物技术</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-biotechnology-e7fc2db849/">生物技术</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-biotechnology-927309e4ea/">生物技术</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
@@ -215,7 +224,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-chemistry-honours-7036a38971/">化学（荣誉方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-chemistry-and-physics-6ea6f53b07/">化学与物理</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-chemistry-and-physics-mathematics-4fd47a793c/">化学、物理与数学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-chinese-language-and-culture-064925b591/">中国语言与文化</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-chinese-language-and-culture-064925b591/">中国语言与文化</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-chinese-language-and-culture-1a478aa251/">中国语言与文化</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-chinese-language-and-culture-international-honours-0693962d78/">中国语言与文化（国际荣誉方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-civil-engineering-099568ef22/">土木工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
@@ -223,7 +232,8 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-civil-engineering-fb6e2173f5/">土木工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-civil-and-environmental-engineering-75879ed0a9/">土木与环境工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-creative-arts-primary-specialisation-1758c06fcd/">创意艺术（小学教育方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-creative-writing-6fe0700aee/">创意写作</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-creative-writing-6fe0700aee/">创意写作</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-creative-writing-stream-ce787ca189/">创意写作方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-crime-scene-investigation-d5cf535cab/">犯罪现场调查</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-crime-scene-investigation-16315ee12a/">犯罪现场调查</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-cybersecurity-and-privacy-e189a8235f/">网络安全与隐私</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
@@ -233,12 +243,15 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-data-science-engineering-d91374c490/">数据科学工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-data-science-engineering-78a4abc31f/">数据科学工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-data-science-engineering-fa2706e5da/">数据科学工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-design-leadership-4c89bcdd1a/">设计领导力</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-design-leadership-4c89bcdd1a/">设计领导力</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-design-studies-71f1eb2e5a/">设计研究方向（共同组件）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-digital-forensics-07042f9978/">数字取证</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-digital-forensics-454a02c5ab/">数字取证</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-digital-and-social-media-b0dcb9d378/">数字与社交媒体</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-digital-and-social-media-dfaedf86b9/">数字与社交媒体</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-digital-and-social-media-dfaedf86b9/">数字与社交媒体</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-digital-and-social-media-865afdd385/">数字与社交媒体</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-digital-and-social-media-stream-c6d1e9478c/">数字与社交媒体方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-digital-and-social-media-stream-media-business-f7fb0f1639/">数字与社交媒体方向（媒体商业课程内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-economics-cf7a1aeb2b/">经济学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-electrical-engineering-bd68c4a6eb/">电气工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-electrical-engineering-db5e928631/">电气工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
@@ -247,15 +260,17 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-electronic-engineering-40b617bffb/">电子工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-electronic-engineering-f951f4e59c/">电子工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-electronic-engineering-2e0d5c65f5/">电子工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-embedded-systems-aa0043a742/">嵌入式系统方向（工程课程组件）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-engineering-and-technology-studies-1605f34397/">工程与技术研究</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-english-primary-specialisation-d908e42569/">英语（小学教育方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-enterprise-software-development-f229898c13/">企业软件开发</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-enterprise-software-development-6ce65b4fc4/">企业软件开发</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-enterprise-software-development-eaa0498334/">企业软件开发</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-environmental-biology-a55bf876e5/">环境生物学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-environmental-biotechnology-80b5b29b35/">环境生物技术</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-environmental-biotechnology-80b5b29b35/">环境生物技术</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-environmental-science-eaf8bda240/">环境科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-environmental-sciences-honours-c88af612db/">环境科学（荣誉方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-environmental-sciences-stream-651e17b32e/">环境科学方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-events-9e17b374d2/">活动管理</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-exercise-science-8ab745f1de/">运动科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-exercise-therapy-fda842d062/">运动治疗</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
@@ -265,13 +280,15 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-flexible-engineering-540d336d93/">灵活组合工程方向</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-flexible-engineering-28332ca08c/">灵活组合工程方向</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-flexible-engineering-09c0d83636/">灵活组合工程方向</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-flexible-major-5a5e82445f/">自由组合方向（体育与运动科学）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-food-science-and-technology-honours-ddb9ad80b1/">食品科学与技术（荣誉方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-forensic-science-honours-8d0e4c09cb/">法庭科学（荣誉方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-forensics-ffcc4d5e61/">法庭科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-french-language-and-culture-746b22a55e/">法国语言与文化</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-foundations-of-law-stream-1fd0372cf3/">法律基础方向（商科学位内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-french-language-and-culture-746b22a55e/">法国语言与文化</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-french-language-and-culture-68370ba35a/">法国语言与文化</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-french-language-and-culture-international-honours-2eb9311358/">法国语言与文化（国际荣誉方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-german-language-and-culture-cfe68be7d5/">德国语言与文化</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-german-language-and-culture-cfe68be7d5/">德国语言与文化</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-german-language-and-culture-3c6c43210a/">德国语言与文化</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-german-language-and-culture-international-honours-f65f4c9591/">德国语言与文化（国际荣誉方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-global-health-cec8f90a16/">全球健康</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
@@ -279,31 +296,42 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-health-promotion-790aec5224/">健康促进</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-health-promotion-72ab6a0f9e/">健康促进</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-human-resource-management-40c0700b51/">人力资源管理</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-human-society-and-its-environment-9e33016fd5/">人类社会及其环境</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-human-society-and-its-environment-primary-specialisation-7dcb7515c8/">人类社会及其环境（小学教育方向）</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-human-society-and-its-environment-9e33016fd5/">人类社会及其环境</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-human-society-and-its-environment-primary-specialisation-7dcb7515c8/">人类社会及其环境（小学教育方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-human-structure-and-function-26c0e48b06/">人体结构与功能</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-human-structure-and-function-48ce18e5b5/">人体结构与功能</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-indigenous-health-8016ad3ffc/">原住民健康</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-indigenous-health-b94d55e420/">原住民健康</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-information-technology-24735da5cc/">信息技术</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-interaction-design-c5dd36980b/">交互设计</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-interior-architecture-stream-c29e70ee28/">室内建筑方向（创意创新组合内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-interior-architecture-stream-713a71260a/">室内建筑方向（室内建筑学位内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-interior-architecture-stream-644518f94c/">室内建筑方向（景观建筑学位内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-interior-architecture-stream-e2f29df0a9/">室内建筑方向（建筑学位内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-international-business-4f273b74a0/">国际商务</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-international-business-d8494fea14/">国际商务</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-italian-language-and-culture-c6acc5c668/">意大利语言与文化</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-italian-language-and-culture-c6acc5c668/">意大利语言与文化</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-italian-language-and-culture-3cd9b4f09e/">意大利语言与文化</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-italian-language-and-culture-international-honours-1e93567f6a/">意大利语言与文化（国际荣誉方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-japanese-language-and-culture-838a21f04b/">日本语言与文化</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-japanese-language-and-culture-838a21f04b/">日本语言与文化</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-japanese-language-and-culture-ab578eee2f/">日本语言与文化</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-japanese-language-and-culture-international-honours-b18bbdb2ae/">日本语言与文化（国际荣誉方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-journalism-291834ebe6/">新闻学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-journalism-2b9e3cd76a/">新闻学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-journalism-3c57752ccb/">新闻学</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-journalism-3c57752ccb/">新闻学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-journalism-stream-691a9d49e2/">新闻方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-journalism-stream-media-business-5553bd7e0b/">新闻方向（媒体商业课程内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-justice-and-legal-studies-565bb1bf72/">司法与法律研究</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-landscape-architecture-honours-stream-2fa483eede/">景观建筑荣誉方向（学位内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-landscape-architecture-stream-b64e6261d4/">景观建筑方向（室内建筑学位内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-landscape-architecture-stream-0e05270d8b/">景观建筑方向（建筑学位内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-languages-primary-specialisation-05172b642d/">语言（小学教育方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-latin-americas-bdae2576aa/">拉丁美洲研究</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-law-for-business-1d78929ca5/">商用法律方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-legal-futures-and-technology-0a789c6d13/">法律未来与技术</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-legal-futures-and-technology-0892fde8e6/">法律未来与技术</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-legal-studies-b1f8b8c328/">法律研究</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-legal-studies-b1f8b8c328/">法律研究</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-life-sciences-stream-9ea61d9d0f/">生命科学方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-life-and-environmental-sciences-af5cb49fdb/">生命与环境科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-management-a3ae7e96f7/">管理学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-management-010690e59b/">管理学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
@@ -311,9 +339,10 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-marine-biology-2152789bb8/">海洋生物学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-marketing-d486728c1d/">市场营销</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-mathematical-analysis-6f13aa4248/">数学分析</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-mathematics-f33bb0290e/">数学</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-mathematics-f33bb0290e/">数学教学方法（历史课程）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-mathematics-eceaa900ac/">数学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-mathematics-primary-specialisation-23837020aa/">数学（小学教育方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-mathematics-stream-2f08a7efeb/">数学方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-mathematics-and-mathematics-physics-e33bfc5ae6/">数学及数学／物理方向</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-mechanical-engineering-b1e28da1da/">机械工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-mechanical-engineering-24c13666c0/">机械工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
@@ -322,60 +351,70 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-mechatronic-engineering-2baa79d566/">机电一体化工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-mechatronic-engineering-fd94e6a2b5/">机电一体化工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-mechatronic-engineering-0d0a30e1c7/">机电一体化工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-media-arts-stream-d9f7130255/">媒体艺术方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-media-arts-and-production-a56927773b/">媒体艺术与制作</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-media-arts-and-production-e1e5917ae0/">媒体艺术与制作</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-media-arts-and-production-e1e5917ae0/">媒体艺术与制作</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-media-business-ee13473722/">媒体商业</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-media-business-b218c32be9/">媒体商业</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-media-business-54a00264a9/">媒体商业</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-media-business-a9b049988f/">媒体商业</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-media-business-stream-c40cf4cb51/">媒体商业方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-media-business-stream-digital-and-social-media-7cd9fd2f99/">媒体商业方向（数字与社交媒体课程内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-media-business-stream-journalism-b60604d3ed/">媒体商业方向（新闻课程内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-media-business-stream-public-relations-and-advertising-8acb1271cd/">媒体商业方向（公共关系与广告课程内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-medical-biotechnology-894b59539e/">医学生物技术</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-medical-biotechnology-2f054bdbb4/">医学生物技术</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-medical-biotechnology-92ce641aa6/">医学生物技术</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-medical-biotechnology-2f054bdbb4/">医学生物技术</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-medical-biotechnology-92ce641aa6/">医学生物技术</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-medical-science-8d1ec5d1ee/">医学科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-medical-science-52c27cafcd/">医学科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-medical-science-6f56e90763/">医学科学</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-medical-science-6f56e90763/">医学科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-medical-science-c85a611c94/">医学科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-medical-science-honours-f7e92ecdef/">医学科学（荣誉方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-medical-and-health-related-sciences-62de70b04b/">医学及健康相关科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-medical-and-health-related-sciences-8a4cca162b/">医学及健康相关科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-medical-and-health-related-sciences-d6d3eb2a1e/">医学及健康相关科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-music-and-sound-design-1ea058dc1e/">音乐与声音设计</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-music-and-sound-design-1ea058dc1e/">音乐与声音设计</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-music-and-sound-design-de5f19a4b4/">音乐与声音设计</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-music-and-sound-design-stream-3db88b9eee/">音乐与声音设计方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-networking-and-cybersecurity-7e8ceb3b2b/">网络技术与网络安全</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-pathology-d735b3aba9/">病理学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-pathology-61e1b00906/">病理学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-pathology-7b497f3981/">病理学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-personal-development-health-and-physical-education-84a901b096/">个人发展、健康与体育教育</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-personal-development-health-and-physical-education-84a901b096/">个人发展、健康与体育教育</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-pharmaceutical-sciences-830d11dbc5/">药物科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-pharmaceutical-sciences-honours-2cb3f01b85/">药物科学（荣誉方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-physics-8677c188c3/">物理学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-physics-stream-2062f4dd43/">物理方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-physics-and-mathematics-b495ba0fd0/">物理与数学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-physics-and-quantum-technology-45dd37c82b/">物理与量子技术</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-physics-and-quantum-technology-honours-9679567e55/">物理与量子技术（荣誉方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-population-health-f4727e7766/">人群健康</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-population-health-4fee697945/">人群健康</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-pre-medicine-cbb123f45d/">医学预科方向</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-primary-7f776324d0/">小学教育方向</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-primary-461807905a/">小学教育方向</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-primary-58b5c0591d/">小学教育方向</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-primary-a-ef1195cc30/">小学教育方向 A</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-public-communication-f7b4fb99a6/">公共传播</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-primary-7f776324d0/">小学教育方向</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-primary-461807905a/">小学教育方向</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-primary-58b5c0591d/">小学教育方向</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-primary-a-ef1195cc30/">小学教育方向 A</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-public-communication-f7b4fb99a6/">公共传播</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-public-relations-and-advertising-stream-74d380feee/">公共关系与广告方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-public-relations-and-advertising-stream-media-business-3fb800e64e/">公共关系与广告方向（媒体商业课程内）</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-quantum-computing-3c9996a2d5/">量子计算</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-quantum-technology-1f23251553/">量子技术</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-science-ae73f35976/">科学</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-science-ae73f35976/">科学教学方法（历史课程）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-science-and-technology-primary-specialisation-2c65325df2/">科学与技术（小学教育方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-science-mathematics-2e1f4d66ac/">科学／数学</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-secondary-a6c41b8274/">中学教育方向</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-secondary-9015390f53/">中学教育方向</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-secondary-5b88cfc455/">中学教育方向</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-secondary-a-4674c930d9/">中学教育方向 A</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-science-mathematics-2e1f4d66ac/">科学与数学教学方法（历史课程）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-secondary-a6c41b8274/">中学教育方向</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-secondary-9015390f53/">中学教育方向</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-secondary-5b88cfc455/">中学教育方向</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-secondary-a-4674c930d9/">中学教育方向 A</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-service-design-ecc1286752/">服务设计</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-social-and-political-sciences-2da961015f/">社会与政治科学</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-social-and-political-sciences-2da961015f/">社会与政治科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-social-and-political-sciences-c2e218ea69/">社会与政治科学</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-social-and-political-sciences-stream-33f9e549fc/">社会与政治科学方向</a><small>所属本科学位内的课程方向（不另授学位） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-software-engineering-522b1f0b47/">软件工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-software-engineering-6deeada6ef/">软件工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-software-engineering-3eb93af2ea/">软件工程</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-spanish-language-and-culture-ecd11befaa/">西班牙语言与文化</a><small>Undergraduate major within a bachelor degree · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-spanish-language-and-culture-ecd11befaa/">西班牙语言与文化</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-spanish-language-and-culture-international-honours-1326472389/">西班牙语言与文化（国际荣誉方向）</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-spanish-language-and-culture-major-afb5f8a3c2/">西班牙语言与文化主修</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-sport-business-30b636b871/">体育商业</a><small>Undergraduate major within a bachelor degree · 部分专业资料已核实</small></article>
@@ -393,62 +432,72 @@ hide:
 
 ### 入学条件
 
-<p class="catalog-fact"><strong>同校共用：中国学历评估：</strong>中国普通高中申请者可凭达到要求的高考总分，或在认可高校完成至少一个全日制学年的本科阶段学习申请评估。A-Level、完整 IB Diploma 等按各自学历类别评估；本轮未取得2027各课程高考分数表，不能将本地 ATAR 或2026数值替代。</p>
-<p class="fact-sources"><a href="#source-u-uts-shared-china">官方依据</a> · <a href="#source-u-uts-shared-guide-china2026">官方依据</a></p>
+<p class="catalog-fact"><strong>同校共用：中国学历评估：</strong>中国普通高中申请者可凭达到要求的高考总分，或在认可高校完成至少一个全日制学年的本科阶段学习申请评估；仅近期高中毕业者等特殊入口另有排除。2027全球本科摘要表为所列47个课程码提供参考分数，并非全校完整要求。</p>
+<p class="fact-sources"><a href="#source-u-uts-shared-china">官方依据</a> · <a href="#source-u-uts-guide-global2027">官方依据</a></p>
 
 <p class="catalog-fact"><strong>同校共用：英语证明：</strong>多数本科课程的基准为 IELTS Academic 总分6.5、写作6.0；双学位取两组成课程中较高标准。教师教育、护理及心理科学荣誉课程另有专门标准。符合学校规定的英语授课学习经历可申请证明路径，须有院校正式授课语言证明；并非就读任何英语课程即自动豁免。</p>
 <p class="fact-sources"><a href="#source-u-uts-shared-english">官方依据</a></p>
+
+<p class="catalog-fact"><strong>A-Level与IB资格口径：</strong>GCE A Levels按最好的三门A2计总积分：A*=6、A=5、B=4、C=3、D=2、E=1。IB须获得完整Diploma，按总分含奖励/扣分评估；2027表把已出分IB与Predicted IB分列，不能互换。</p>
+<p class="fact-sources"><a href="#source-u-uts-shared-china">官方依据</a> · <a href="#source-u-uts-guide-global2027">官方依据</a></p>
 
 ### 申请安排
 
 <p class="catalog-fact"><strong>同校共用：申请渠道和材料：</strong>大陆高考等非澳洲 Year 12 国际申请者通常直接向 UTS International 申请；澳洲 Year 12 国际申请者可按 ATAR 经 UAC。直接申请使用 UTS Application Portal 或国际申请表；提交认证成绩/学历及英语证明，中文文件同时附正式英文译文。作品集、个人陈述或经历证明依课程要求。</p>
 <p class="fact-sources"><a href="#source-u-uts-shared-admissions-procedure">官方依据</a> · <a href="#source-u-uts-shared-apply">官方依据</a></p>
 
-<p class="catalog-fact"><strong>同校共用：2027境外申请参考截止：</strong>2027 Autumn 的境外国际本科/授课课程一般截止2026年11月30日；2027 Spring一般截止2027年4月30日。适用于主日历及页面列出的健康、教师教育日历；具体课程可能另有截止、仅单季开课或内部转入要求。</p>
+<p class="catalog-fact"><strong>同校共用：2027境外申请参考截止：</strong>2027 Autumn 的境外国际本科/授课课程一般截止2026年11月30日；2027 Spring一般截止2027年4月30日。适用于主日历及页面列出的健康、教师教育日历；具体课程可能另有截止、仅单季开课或内部转入要求。 尚未参加2027高考者应按取得最终成绩与课程开学时间选择批次，不能把2026年截止理解为适用所有2027高中毕业生。</p>
 <p class="fact-sources"><a href="#source-u-uts-shared-dates2026">官方依据</a> · <a href="#source-u-uts-shared-dates2027">官方依据</a></p>
 
 ### 学费与资助
 
-<p class="catalog-fact"><strong>国际学费与申请费：</strong>学费按课程和年度不同，通常每个教学期预缴；国际申请费A$100不退，当前UTS学生申请第二学位或UTS College在读衔接者有页面规定豁免。本轮未取得全部2027本科统一费用区间；2026中文表须保留其原年别。</p>
-<p class="fact-sources"><a href="#source-u-uts-profile-fees">官方依据</a></p>
+<p class="catalog-fact"><strong>国际学费与申请费：</strong>国际学费通常按教学期预缴，实际按年度、课程、学分与所选科目计。2027指南按每session列价，课程网页（如工程荣誉Flexible示例）另列首年和全程估算，均非锁价。国际申请费AUD100不退；当前UTS学生申请第二学位或UTS College衔接有页面规定豁免。</p>
+<p class="fact-sources"><a href="#source-u-uts-profile-fees">官方依据</a> · <a href="#source-u-uts-guide-global2027">官方依据</a> · <a href="#source-u-uts-C09066-international-page">官方依据</a></p>
 
 <p class="catalog-fact"><strong>同校共用：高考奖学金及更早期限：</strong>按高考录取、入学前一年内参加高考的中国国际新生可自动参与评选；须在悉尼全日制就读，政府资助生及同时持其他 UTS 奖学金者等不符合。秋季2名获75%学费、春季1名获50%，最长8学期，现行条款覆盖至Spring2029。争取2027 Autumn奖学金须2026年9月30日前递交入学申请；获奖仍按成绩竞争。</p>
 <p class="fact-sources"><a href="#source-u-uts-shared-gaokao-scholarship">官方依据</a></p>
 
 ### 毕业生情况
 
-<p class="catalog-fact"><strong>结果统计缺口：</strong>本轮未取得完整覆盖本科专业、明确毕业届次及国际生分组的就业调查。部分手册宣传就业数字缺少本轮核实的分母和样本，未写成课程就业率。</p>
-<p class="fact-sources"><a href="#source-u-uts-profile-apply">官方依据</a></p>
+<p class="catalog-fact"><strong>大学级国际本科调查（非专业/中国学生统计）：</strong>QILT 2023–2025三个调查年合并结果：UTS在澳完成学历的国际本科毕业答卷中，全职就业率49.0%，90%置信区间45.9%–52.1%。分母为可全职就业者，全职指每周至少35小时；并非全部毕业生，也不把单纯深造算就业。调查通常在完成课程后4–6个月进行；本轮未取得UTS该指标精确样本人数（报告图仅保留n≥25机构）。</p>
+<p class="fact-sources"><a href="#source-u-uts-qilt-intl2025">官方依据</a> · <a href="#source-u-uts-qilt-intl2025-tables">官方依据</a></p>
+
+<p class="catalog-fact"><strong>薪酬与比较边界：</strong>同一2023–2025合并调查，UTS国际本科毕业生在澳大利亚全职工作者的年薪中位数AUD65,000，90%置信区间62,800–67,200；不是全部国际生或某专业起薪。2025改变了劳动力定义，未工作且仅被动求职者不再列入可就业分母，因此与旧年趋势不能直接比较。各专业及中国学生分组仍未取得。</p>
+<p class="fact-sources"><a href="#source-u-uts-qilt-intl2025">官方依据</a> · <a href="#source-u-uts-qilt-intl2025-tables">官方依据</a></p>
 
 ### 学校资料来源
 
-<div class="catalog-source" id="source-u-uts-profile-apply"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants">uts 官方资料：apply ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-uts-profile-fees"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/fees-costs/international-fees">uts 官方资料：fees ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-uts-shared-china"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants/academic-entry-requirements">Academic entry requirements for international students ↗</a><p>Academic entry requirements for international students</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-u-uts-shared-guide-china2026"><div><a href="https://www.uts.edu.au/for-students/international/guides-for-international-students/contentassets/utsi-listing-grid-international-undergraduate-course-summary-table-china.pdf">2026年国际学生本科课程摘要 ↗</a><p>2026年国际学生本科课程摘要</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-uts-shared-english"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/eligibility/english-language-requirements">English language requirements ↗</a><p>English language requirements</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-uts-shared-admissions-procedure"><div><a href="https://www.uts.edu.au/about/leadership-governance/policies/a-z/admissions-procedure">Admissions Procedure ↗</a><p>Admissions Procedure</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-uts-shared-apply"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants">Applying to UTS as an international student ↗</a><p>Applying to UTS as an international student</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-uts-shared-dates2026"><div><a href="https://www.uts.edu.au/for-students/current-students/managing-your-course/important-dates/principal-dates/2026-principal-dates">2026 Principal dates ↗</a><p>2026 Principal dates</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-uts-shared-dates2027"><div><a href="https://www.uts.edu.au/for-students/current-students/managing-your-course/important-dates/principal-dates/2027-principal-dates">2027 Principal dates ↗</a><p>2027 Principal dates</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-uts-shared-gaokao-scholarship"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-scholarship-for-gaokao-students-from-peoples-republic-of-china">UTS Scholarship for Gaokao Students from People’s Republic of China ↗</a><p>UTS Scholarship for Gaokao Students from People’s Republic of China</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-uts-guide-global2027"><div><a href="https://www.uts.edu.au/for-students/international/guides-for-international-students/contentassets/utsi-listing-grid-international-undergraduate-course-summary-table.pdf">2027 International Undergraduate Course Summary Table（2026年6月编制） ↗</a><p>2027所列课程代码的参考高考/750、GCE A Levels、IB和预测IB分数、每session学费；非全校完整录取政策</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-uts-C09066-international-page"><div><a href="https://www.uts.edu.au/courses/bachelor-of-engineering-honours-flexible">Bachelor of Engineering (Honours) (Flexible) — course admissions ↗</a><p>正式课程码、国际生栏目、入学和2027参考学费；公开Career options职业方向示例</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-uts-qilt-intl2025"><div><a href="https://qilt.edu.au/docs/default-source/default-document-library/2025-gos-international-report.pdf?sfvrsn=a7656b9a_4">QILT 2025 GOS International Report（2026年6月） ↗</a><p>2023–25国际本科合并调查范围、毕业后4–6个月、就业分母、薪酬范围与2025方法变化；PDF31/32/57–58页</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-uts-qilt-intl2025-tables"><div><a href="https://qilt.edu.au/docs/default-source/default-document-library/gos_2025_international_report_tables.zip?sfvrsn=5e0b873_1">QILT 2025 GOS International Report Tables ↗</a><p>官方ZIP内xlsx：FTE_UG_UNI_3YP_INST_FIG C37；SAL_UG_UNI_3YP_INST_FIG C38；UTS大学级国际本科2023–25合并结果</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 358 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 397 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>All bachelor-bearing undergraduate degrees and catalog majors/undergraduate specialisations/honours fields; UTS stream mapping remains pending</p>
+<p><strong>统计范围：</strong>155学位入口、203主修代码及39本科方向/共享组件；含历史课程和专用资格入口，非397独立高中招生学位</p>
 
-<p><strong>对账方法：</strong>{&quot;course&quot;: {&quot;total&quot;: 444, &quot;pages&quot;: [0, 100, 200, 300, 400], &quot;unique_uris&quot;: 444}, &quot;aos&quot;: {&quot;total&quot;: 957, &quot;pages&quot;: [0, 100, 200, 300, 400, 500, 600, 700, 800, 900], &quot;unique_uris&quot;: 955}, &quot;all_pages_fetched&quot;: true, &quot;unsw_selected_major_honours_count&quot;: null} 154学位及203主修按2027手册逐项复核；134学位取得2027国际学费，80学位补公开职业方向示例；空课程及旧年通知保留明确缺口。</p>
+<p><strong>对账方法：</strong>保留358稳定身份，逐35现年空主修沿官方历史目录取2024课程并标当前资格缺口；2027指南50行47码精确匹配，39stream以实际本科父树引用配对。</p>
 
 <p><strong>排除项：</strong>Public Courseloop API endpoint and POST schema read from official frontend JavaScript；Filter implementationYear to official current_year; request all pages of 100 and assert row count equals API total；Program: official Undergraduate line; UNSW additionally confirm bachelor award in every full program page; Monash/UTS bachelor title prefix；UNSW fields: explicit level=major or honours plus studyLevelValue=ugrd; Monash explicit undergraduate field categories; UTS Major with Undergraduate or Unrestricted career；No minor, individual subject, diploma, certificate or standalone postgraduate degree promoted to bachelor；Keep restricted/offshore/ADFA fields where published; no applicant-nationality exclusion</p>
 
 **尚未解决的目录缺口：**
 
-- Parent-degree/major compatibility inheritance pending; field records are not independent awards
-- Duration/campus/language omitted unless explicit in read source
-- Stream and Sub-major categories excluded from major inventory because these also contain curriculum building blocks; named stream/degree-specialisation mapping still requires separate reconciliation
-- 34主修当前详情空白、1主修仅2023旧通知；2027精确高考门槛尚未取得。部分荣誉为退出授位、另有本科后及境外合作入口，不能把目录条数当作高中直申选项数。
+- 35主修当前父学位、2027完整课程和准入仍未取得，已补2024历史课程并明确标年。
+- 268stream中39已成对、164为非独立课程块，65仍未闭合（25响应阻断、40未取得当前本科父链）；不能宣称递归全目录完整。
+- 2027高考非750满分省份转换、C10242新旧方向官方对照未取得；三项Feb/Jul与Autumn来源差异同时保留。
+- 2027指南每session与招生页首年/全程单位不同，8课程有1元差异；未自行乘学期数或消除差异。
+- 学院或中国学生分母的逐专业就业/薪酬尚未取得；QILT2023–25国际本科大学级统计不扩至海外校区或专业。
+- 登记护士加速入口的全部境外签证适用、减免后报价及部分历史学分表不闭合仍需校方资料。
 
 - [官方目录来源](https://coursehandbook.uts.edu.au/api/search/search-academic-items)
 - [官方目录来源](https://coursehandbook.uts.edu.au/api/search/search-academic-items)
@@ -466,5 +515,602 @@ hide:
 - [官方目录来源](https://coursehandbook.uts.edu.au/api/search/search-academic-items)
 - [官方目录来源](https://coursehandbook.uts.edu.au/api/search/search-academic-items)
 - [官方目录来源](https://coursehandbook.uts.edu.au/api/search/search-academic-items)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10235)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-accounting)
+- [官方目录来源](https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/domestic-applicants/domestic-undergraduate-applications/bachelor-of-accounting-application)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10347)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-advanced-science-pharmaceutical-sciences)
+- [官方目录来源](https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants/academic-entry-requirements)
+- [官方目录来源](https://www.uts.edu.au/about/leadership-governance/policies/a-z/admissions-procedure)
+- [官方目录来源](https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants)
+- [官方目录来源](https://www.uts.edu.au/for-students/admissions-entry/eligibility/english-language-requirements)
+- [官方目录来源](https://www.uts.edu.au/for-students/current-students/managing-your-course/important-dates/principal-dates/2026-principal-dates)
+- [官方目录来源](https://www.uts.edu.au/for-students/current-students/managing-your-course/important-dates/principal-dates/2027-principal-dates)
+- [官方目录来源](https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-scholarship-for-gaokao-students-from-peoples-republic-of-china)
+- [官方目录来源](https://www.uts.edu.au/for-students/international/guides-for-international-students/contentassets/utsi-listing-grid-international-undergraduate-course-summary-table.pdf)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10352)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-advanced-science-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10474)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-artificial-intelligence)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10487)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09167)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10026)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-business)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10226)
+- [官方目录来源](https://www.uts.edu.au/about/uts-vision/initiatives/internationalisation/transnational-education/silc)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10326)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-business-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09133)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10125)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-business-bachelor-of-laws)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09084)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-business-bachelor-of-laws-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10411)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-business-bachelor-of-sustainability-and-environment)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10449)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-business-master-of-teaching-in-secondary-education)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10369)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-creative-writing)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10377)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-creative-writing-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10378)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-creative-writing-bachelor-of-laws)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09089)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-creative-writing-bachelor-of-laws-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10405)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-creative-writing-master-of-teaching-in-secondary-education)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10371)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-digital-and-social-media)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10359)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-digital-and-social-media-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10379)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-digital-and-social-media-bachelor-of-laws)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09091)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-digital-and-social-media-bachelor-of-laws-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10361)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-journalism)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10376)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-journalism-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10380)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-journalism-bachelor-of-laws)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09093)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-journalism-bachelor-of-laws-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10451)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-media-business)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10454)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-media-business-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10455)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-media-business-bachelor-of-laws)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10456)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-media-business-bachelor-of-laws-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10363)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-public-relations-and-advertising)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10374)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-public-relations-and-advertising-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10382)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-public-relations-and-advertising-bachelor-of-laws)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09095)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-public-relations-and-advertising-bachelor-of-laws-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10364)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-social-and-political-sciences)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10375)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-social-and-political-sciences-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10383)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-social-and-political-sciences-bachelor-of-laws)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09096)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-communication-in-social-and-political-sciences-bachelor-of-laws-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10476)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-computing-science)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09119)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-computing-science-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10214)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-construction-project-management)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09122)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-creative-intelligence-and-innovation-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09130)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-creative-production-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10460)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-creative-production-in-animation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10461)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-creative-production-in-animation-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10362)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-creative-production-in-media-arts)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10373)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-creative-production-in-media-arts-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10381)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-creative-production-in-media-arts-bachelor-of-laws)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09094)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-creative-production-in-media-arts-bachelor-of-laws-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10276)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-creative-production-in-music-and-sound-design)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10465)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-creative-production-in-music-and-sound-design-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10446)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-criminology)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10472)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-criminology-bachelor-of-cybersecurity)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10448)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-criminology-bachelor-of-forensic-science)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10471)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-cybersecurity)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09166)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09131)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-design-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09048)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-design-honours-in-architecture)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10004)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-design-in-architecture)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10325)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-design-in-architecture-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10413)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-design-in-architecture-master-of-architecture)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10306)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-design-in-fashion-and-textiles)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10321)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-design-in-fashion-and-textiles-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10271)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-design-in-interior-architecture)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10322)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-design-in-interior-architecture-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10304)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-design-in-product-design)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10323)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-design-in-product-design-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10308)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-design-in-visual-communication)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10324)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-design-in-visual-communication-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10348)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-economics)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10386)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-economics-bachelor-of-laws)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09120)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-economics-bachelor-of-laws-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10445)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-economics-bachelor-of-sustainability-and-environment)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10450)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-economics-master-of-teaching-in-secondary-education)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10480)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-education-futures-master-of-teaching-in-primary-education)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09066)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-engineering-honours-flexible)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09070)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-engineering-honours-bachelor-of-business)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09076)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-engineering-honours-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09147)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09148)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09074)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-engineering-honours-bachelor-of-medical-science)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09072)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-engineering-honours-bachelor-of-science)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09171)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-engineering-honours-bachelor-of-sustainability-and-environment)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09067)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-engineering-honours-diploma-in-professional-engineering-practice-mechatronic)
+- [官方目录来源](https://www.uts.edu.au/for-students/current-students/managing-your-course/current-students-information-engineering-and-information-technology/undergraduate/diploma-it-professional-practice)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10066)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-engineering-science)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10223)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-environmental-biology)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10486)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-fashion-business)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10482)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-food-science-and-technology)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10483)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-food-science-and-technology-bachelor-of-business)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10387)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-forensic-science)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10389)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-forensic-science-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09149)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10391)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-forensic-science-bachelor-of-laws)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09121)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-forensic-science-bachelor-of-laws-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10229)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-games-development)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10395)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-information-systems)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10278)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-information-systems-bachelor-of-business)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10485)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-information-systems-bachelor-of-sustainability-and-environment)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10148)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-information-technology)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10143)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-information-technology-co-op)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09019)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-information-technology-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10488)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10219)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-information-technology-bachelor-of-business)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10327)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-information-technology-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09162)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10245)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-information-technology-bachelor-of-laws)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09088)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-information-technology-bachelor-of-laws-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10484)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-information-technology-bachelor-of-sustainability-and-environment)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10345)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-information-technology-diploma-in-information-technology-professional-practice)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09079)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-landscape-architecture-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10124)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-laws)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09083)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-laws-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09098)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-laws-honours-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10338)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-laws-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10342)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-management)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10355)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-management-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09153)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10412)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-management-bachelor-of-sustainability-and-environment)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10228)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-marine-biology-and-climate-change)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10457)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-mathematical-sciences)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09129)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-mathematical-sciences-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09155)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10184)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-medical-science-medical-and-health-related-sciences)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10481)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-medical-science-laboratory-medicine-professional)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10163)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-medical-science-bachelor-of-business)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09156)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10131)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-medical-science-bachelor-of-laws)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09086)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-medical-science-bachelor-of-laws-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10225)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-midwifery)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09051)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-midwifery-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10329)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-midwifery-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10172)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-molecular-biotechnology)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10169)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-molecular-biotechnology-bachelor-of-business)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10122)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-nursing)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09018)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-nursing-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10351)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-nursing-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10310)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-property-economics)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09170)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-psychological-science-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10477)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-psychology)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09169)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-psychology-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10478)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-psychology-bachelor-of-criminology)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10242)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-science-life-and-environmental-sciences-physics-and-mathematics)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09168)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-science-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10162)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-science-bachelor-of-business)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10330)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-science-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09160)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10126)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-science-bachelor-of-laws)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09085)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-science-bachelor-of-laws-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10399)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-science-bachelor-of-sustainability-and-environment)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10404)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-science-master-of-teaching-in-secondary-education)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10301)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-sport-and-exercise-management)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10300)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-sport-and-exercise-science-exercise-science)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-sport-and-exercise-science-exercise-therapy)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C09057)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-sport-and-exercise-science-honours)
+- [官方目录来源](https://coursehandbook.uts.edu.au/course/2027/C10328)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-sport-and-exercise-science-bachelor-of-creative-intelligence-and-innovation)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08437)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08981)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ10053)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01149)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01153)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07132)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03473)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03472)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01090)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj01090.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01103)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj01103.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01192)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01117)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01119)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01186)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08997)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ02080)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09401)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08965)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07142)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07143)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03545)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03544)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03546)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01148)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01152)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01087)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01100)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01189)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01079)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01184)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07151)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07131)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09447)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj09447.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09453)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09470)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03002)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03025)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03134)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03001)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07145)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ10051)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj10051.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01150)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01154)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ02900)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ02081)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ10061)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ10059)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03515)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03518)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03517)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ10056)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj10056.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09479)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ10050)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj10050.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09487)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01155)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01151)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09209)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03537)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03413)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03005)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03028)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03527)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03524)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03525)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03538)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07146)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ02097)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03444)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03519)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01082)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01160)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj01160.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01089)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01185)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08975)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ06216)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ06234)
+- [官方目录来源](https://www.uts.edu.au/courses/bachelor-of-sport-and-exercise-science-exercise-therapy)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08957)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08979)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08440)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03542)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03540)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03541)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01208)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01210)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ10060)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09448)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj09448.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09454)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09471)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09449)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj09449.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09455)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09472)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ06268)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ06247)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ06271)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ06245)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08446)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07112)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj07112.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07147)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj07147.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ06249)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ06269)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ06270)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ06246)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ02041)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ02092)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08964)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08442)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09450)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj09450.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09456)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09473)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09451)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj09451.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09457)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09474)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09486)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09478)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ10046)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj10046.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ10058)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07148)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09445)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09444)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09443)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09399)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj09399.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01214)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08438)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08517)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08966)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01112)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08441)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01156)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07113)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj07113.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01095)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07134)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07149)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03012)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03007)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03030)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03139)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03507)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03505)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03504)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09481)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ10047)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj10047.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09485)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09484)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09482)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09483)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01178)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01180)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01179)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01196)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01174)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj01174.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01159)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj01159.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01114)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01120)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01105)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj01105.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01193)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01209)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ10063)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj10063.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ10062)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03445)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ06256)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ06257)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ06255)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07116)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj07116.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01176)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01211)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01088)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01215)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01118)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01187)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ06272)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ06248)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01175)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07118)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj07118.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07107)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj07107.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07135)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj07135.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07109)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj07109.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ10048)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj10048.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ02901)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01188)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07117)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj07117.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07150)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07115)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj07115.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07136)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj07136.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07108)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj07108.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07119)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj07119.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ07110)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj07110.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ10055)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ10049)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj10049.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09476)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03520)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03522)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ03523)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09452)
+- [官方目录来源](https://www.handbook.uts.edu.au/2024/directory/maj09452.html)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09475)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09458)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08976)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ01169)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09480)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09488)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08995)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ08996)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09489)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/MAJ09477)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92032)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM91873)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92011)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92012)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM91998)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92010)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92067)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92064)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92061)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92071)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92035)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM91882)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92031)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92049)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/CBK92420)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/CBK92437)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM91309)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92088)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM90838)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM90559)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92073)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92070)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92068)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92063)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92019)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92047)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92066)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92072)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92062)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM90558)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92089)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92087)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92014)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92033)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92051)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/CBK92417)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/CBK92413)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92052)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/CBK92412)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/CBK92440)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92074)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/CBK92419)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/CBK92435)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92016)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92086)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92050)
+- [官方目录来源](https://coursehandbook.uts.edu.au/aos/2027/STM92034)
+- [官方目录来源](https://www.uts.edu.au/for-students/admissions-entry/fees-costs/international-fees)
+- [官方目录来源](https://qilt.edu.au/docs/default-source/default-document-library/2025-gos-international-report.pdf?sfvrsn=a7656b9a_4)
+- [官方目录来源](https://qilt.edu.au/docs/default-source/default-document-library/gos_2025_international_report_tables.zip?sfvrsn=5e0b873_1)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

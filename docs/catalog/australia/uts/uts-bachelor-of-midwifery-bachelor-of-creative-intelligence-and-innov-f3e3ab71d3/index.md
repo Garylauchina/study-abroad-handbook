@@ -38,7 +38,7 @@ hide:
 
 <p><strong>目录条目类别：</strong>degree</p>
 
-<p><strong>申请路径：</strong>Published undergraduate bachelor / combined bachelor pathway</p>
+<p><strong>申请路径：</strong>限本地生入口；不适用普通国际新生。</p>
 
 <p class="catalog-fact"><strong>课程内容与路径：</strong>把助产科学、理论、模拟和临床实践与跨学科复杂问题、创新及情景规划结合。助产最低144学分加创新96；创新前三年七月及暑期集中修读后再读一年，只能与专业学位组合完成。国际生开放与临床资格须按对应招生页确认。</p>
 <p class="fact-sources"><a href="#source-p-uts-handbook-c10329">官方依据</a></p>
@@ -71,13 +71,6 @@ hide:
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
 
-<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
-
-<p class="catalog-fact"><strong>结果统计缺口：</strong>本轮未取得完整覆盖本科专业、明确毕业届次及国际生分组的就业调查。部分手册宣传就业数字缺少本轮核实的分母和样本，未写成课程就业率。</p>
-<p class="fact-sources"><a href="#source-u-uts-profile-apply">官方依据</a></p>
-
-</details>
-
 ## 官方来源与核验记录 {#sources}
 
 目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
@@ -87,6 +80,5 @@ hide:
 
 <div class="catalog-source" id="source-p-uts-handbook-c10329"><div><a href="https://coursehandbook.uts.edu.au/course/2027/C10329">UTS 2027 手册：Bachelor of Midwifery Bachelor of Creative Intelligence and Innovation（C10329） ↗</a><p>2027手册中的课程身份、公开说明、课程结构、Notes及侧栏学习安排；不是所有申请者的新生录取确认。</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-uts-C10329-international-page"><div><a href="https://www.uts.edu.au/courses/bachelor-of-midwifery-bachelor-of-creative-intelligence-and-innovation">Bachelor of Midwifery Bachelor of Creative Intelligence and Innovation — course admissions ↗</a><p>正式课程码、国际生栏目、入学和2027参考学费</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-u-uts-profile-apply"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants">uts 官方资料：apply ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/australia/uts/">← 返回悉尼科技大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

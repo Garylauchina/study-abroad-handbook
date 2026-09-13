@@ -19,7 +19,7 @@ hide:
 
 <p class="program-title-en">MMedSc PoSH Health Management and Leadership - Intercalated Degree</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>未取得现行报价</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>旧入口费用（未确认）</span><strong>未取得现行报价</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>Birmingham (Edgbaston) · <strong>授课语言：</strong>尚未核实</p>
 
@@ -34,18 +34,19 @@ hide:
 
 <p><strong>授予学位 / 项目类型：</strong>MMedSc</p>
 
-<p><strong>目录适用期：</strong>Current undergraduate directory checked 2026-09-12; directory does not give entry year</p>
+<p><strong>目录适用期：</strong>2026-09-13核对官方资料；课程、招生与费用适用年度见正文</p>
 
-<p><strong>申请路径：</strong>intercalated undergraduate degree; current medical/dental studies required</p>
+<p><strong>申请路径：</strong>旧插读条目；现行专业详情本轮未取得</p>
 
-<p><strong>目录状态：</strong>listed_current</p>
+<p><strong>目录状态：</strong>旧目录身份待核；2027开放与授位关系未确认</p>
 
-<p class="catalog-fact"><strong>旧插读条目仍待核：</strong>当前本科目录保留此医学/牙科在读插读名称，但原详情网址本轮访问失败；未取得可确认现行课程内容、招生年份、费用及截止的专业页。不能把它当作普通高中直入或凭同名项目推定已经合并。</p>
-<p class="fact-sources"><a href="#source-p-BHM-c8359df34001ea3e">官方依据</a></p>
+<p class="catalog-fact"><strong>旧名称与现行不同学位：</strong>旧目录卡片仍列MMedSc PoSH名称，详情链接本轮404。现行医学学院清单及独立课程页列Health Management and Leadership MSci，且已被本站另一个稳定ID收录；本轮未取得MMedSc与MSci正式改名/替代通知，不把现行MSci课程和价格直接移植为第二个当前学位。</p>
+<p class="fact-sources"><a href="#source-p-REM-birmingham-old-directory">官方依据</a> · <a href="#source-p-REM-birmingham-health-current">官方依据</a> · <a href="#source-p-REM-birmingham-med-list">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
-旧插读条目；现行专业详情本轮未取得
+<p class="catalog-fact"><strong>申请身份边界：</strong>此旧条目属于在读插读，不能按普通高中本科入口申请。当前MSci专页要求医学/牙医学在读，但旧MMedSc目前是否另行接受申请本轮未确认。</p>
+<p class="fact-sources"><a href="#source-p-REM-birmingham-old-directory">官方依据</a> · <a href="#source-p-REM-birmingham-health-current">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -66,6 +67,8 @@ hide:
 - [官方项目页面或项目所在目录](https://www.birmingham.ac.uk/undergraduate/courses/med/health-management-leadership-intercalated-degree.aspx)
 - [官方目录](https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true)
 
-<div class="catalog-source" id="source-p-BHM-c8359df34001ea3e"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&amp;pageSize=500&amp;preventScrollTop=true">伯明翰官方本科完整目录 ↗</a><p>旧插读条目仍待核</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-REM-birmingham-old-directory"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&amp;pageSize=500&amp;preventScrollTop=true">伯明翰旧本科目录实际课程卡片 ↗</a><p>旧名称与现行不同学位；申请身份边界</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-REM-birmingham-health-current"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/health-management-and-leadership-msci-intercalated-degree">Health Management and Leadership MSci 当前独立课程页 ↗</a><p>旧名称与现行不同学位；申请身份边界</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-REM-birmingham-med-list"><div><a href="https://www.birmingham.ac.uk/about/college-of-medicine-and-health/undergraduate-degree-courses">伯明翰医学与健康学院当前本科及插读清单 ↗</a><p>旧名称与现行不同学位</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/birmingham/">← 返回伯明翰大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

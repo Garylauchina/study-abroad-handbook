@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-183 个专业条目 · 0 个含详细资料 · 182 个补有专业资料 · 1 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+183 个专业条目 · 0 个含详细资料 · 183 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=columbia#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -74,7 +74,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-climate-and-sustainability-b0ca7b73c4/">Climate and Sustainability</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-cognitive-science-33919ab9c3/">Cognitive Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-cognitive-science-4a10ba7ee5/">Cognitive Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-combined-plan-ba-bs-387b2d63dc/">Combined Plan BA/BS</a><small>Bachelor of Arts + Bachelor of Science · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-combined-plan-ba-bs-387b2d63dc/">文理学士与工程学士联合计划（3+2或4+2）</a><small>Bachelor of Arts + Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-comparative-literature-and-society-ba3c3e0783/">Comparative Literature and Society</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-comparative-literature-and-society-4de3faf641/">Comparative Literature and Society</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-computational-biology-5d80ca7ecc/">Computational Biology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
@@ -337,5 +337,7 @@ hide:
 - [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/urban-studies/)
 - [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/visual-arts/)
 - [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/womens-gender-studies/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/combined-plan-programs/)
+- [官方目录来源](https://bulletin.columbia.edu/general-studies/academic-policies/study-within-graduate-professional-schools/combined-program/)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

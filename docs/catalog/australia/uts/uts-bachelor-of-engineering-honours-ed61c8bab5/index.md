@@ -38,7 +38,7 @@ hide:
 
 <p><strong>目录条目类别：</strong>degree</p>
 
-<p><strong>申请路径：</strong>Published undergraduate bachelor / combined bachelor pathway</p>
+<p><strong>申请路径：</strong>2027参考：高考471/750；A-Level积分8；IB/预测IB 27/32；另需英语及课程条件</p>
 
 <p class="catalog-fact"><strong>课程内容与路径：</strong>通过实践、技术理论与行业联系训练复杂工程系统的设计、管理和改进。198学分含48工程核心、6专业实践（含12周行业经验）、120主修及24选修或专业方向。土木环境、电气电子、机械机电三类联合主修须选对应专业方向；其余可选副主修或跨学科加选修。申请时选主修，Flexible学生须在首年末决定是否转具体主修。</p>
 <p class="fact-sources"><a href="#source-p-uts-handbook-c09066">官方依据</a></p>
@@ -48,7 +48,7 @@ hide:
 
 ## 入学条件 {#admissions}
 
-<p class="catalog-fact"><strong>学历资格与中国申请者：</strong>须完成澳洲 Year 12、AQF Diploma 或符合要求的海外同等学历。中国资格可凭合格高考总分或认可高校至少一年全日制本科阶段学习评估；本轮未取得2027本课程具体高考分数。学历达标不保证录取。</p>
+<p class="catalog-fact"><strong>学历资格与中国申请者：</strong>须完成澳洲 Year 12、AQF Diploma 或符合要求的海外同等学历。中国资格可凭合格高考总分或认可高校至少一年全日制本科阶段学习评估；学历达标不保证录取。</p>
 <p class="fact-sources"><a href="#source-p-uts-C09066-international-page">官方依据</a> · <a href="#source-p-uts-shared-china">官方依据</a></p>
 
 <p class="catalog-fact"><strong>预备知识（非高考分数换算）：</strong>HSC Mathematics Extension 1、Physics、English Standard；建议 English Advanced，生物医学/化工/土木/土木环境方向建议化学，软件方向建议编程基础。这是官方 Assumed knowledge 的学习准备要求；本轮未取得对应中国单科强制分数表。</p>
@@ -56,6 +56,9 @@ hide:
 
 <p class="catalog-fact"><strong>英语证明：</strong>按现行本科基准及本课程英语要求，IELTS Academic 总分6.5、写作6.0；双学位以组成课程较高标准为准。英语授课经历的替代证明须满足学校规定，不能仅凭英文课程名称豁免。</p>
 <p class="fact-sources"><a href="#source-p-uts-shared-english">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027国际资格参考分数：</strong>高考 471/750，GCE A Levels 积分 8，IB 27／预测IB 32。为2027国际指南参考，编制于2026年6月，须同时满足课程英语、特殊资格及名额要求；高考非750满分地区的转换本轮未核实。</p>
+<p class="fact-sources"><a href="#source-p-uts-guide-global2027">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -76,6 +79,9 @@ hide:
 <p class="catalog-fact"><strong>高考奖学金及提前申请：</strong>高考录取的合格中国国际新生可自动获奖学金评审：须高考在入学前1年内、Sydney全日制就读，另有政府资助及其他奖学金排除条款。秋季2名75%学费、春季1名50%，最长8学期；申请2027 Autumn奖学金须2026年9月30日前递交入学申请。竞争性评选不保证获奖。</p>
 <p class="fact-sources"><a href="#source-p-uts-shared-gaokao-scholarship">官方依据</a></p>
 
+<p class="catalog-fact"><strong>2027指南学费单位：</strong>全球国际本科摘要表列 AUD 28,620/教学期（session）；指南编制于2026年6月。此为每session参考，与课程网页首年及全程估算分开理解；不自行乘学期数当锁定全程总价。</p>
+<p class="fact-sources"><a href="#source-p-uts-guide-global2027">官方依据</a></p>
+
 ## 毕业生情况 {#outcomes}
 
 <p class="catalog-fact"><strong>职业方向及统计范围：</strong>官网列出的可能职业方向示例包括场地与工程设施服务、咨询、智慧城市建设。这些是培养和职业方向说明，未提供可比毕业届次、国际生样本、就业率或薪酬统计。</p>
@@ -83,8 +89,11 @@ hide:
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
-<p class="catalog-fact"><strong>结果统计缺口：</strong>本轮未取得完整覆盖本科专业、明确毕业届次及国际生分组的就业调查。部分手册宣传就业数字缺少本轮核实的分母和样本，未写成课程就业率。</p>
-<p class="fact-sources"><a href="#source-u-uts-profile-apply">官方依据</a></p>
+<p class="catalog-fact"><strong>大学级国际本科调查（非专业/中国学生统计）：</strong>QILT 2023–2025三个调查年合并结果：UTS在澳完成学历的国际本科毕业答卷中，全职就业率49.0%，90%置信区间45.9%–52.1%。分母为可全职就业者，全职指每周至少35小时；并非全部毕业生，也不把单纯深造算就业。调查通常在完成课程后4–6个月进行；本轮未取得UTS该指标精确样本人数（报告图仅保留n≥25机构）。</p>
+<p class="fact-sources"><a href="#source-u-uts-qilt-intl2025">官方依据</a> · <a href="#source-u-uts-qilt-intl2025-tables">官方依据</a></p>
+
+<p class="catalog-fact"><strong>薪酬与比较边界：</strong>同一2023–2025合并调查，UTS国际本科毕业生在澳大利亚全职工作者的年薪中位数AUD65,000，90%置信区间62,800–67,200；不是全部国际生或某专业起薪。2025改变了劳动力定义，未工作且仅被动求职者不再列入可就业分母，因此与旧年趋势不能直接比较。各专业及中国学生分组仍未取得。</p>
+<p class="fact-sources"><a href="#source-u-uts-qilt-intl2025">官方依据</a> · <a href="#source-u-uts-qilt-intl2025-tables">官方依据</a></p>
 
 </details>
 
@@ -104,6 +113,8 @@ hide:
 <div class="catalog-source" id="source-p-uts-shared-dates2026"><div><a href="https://www.uts.edu.au/for-students/current-students/managing-your-course/important-dates/principal-dates/2026-principal-dates">2026 Principal dates ↗</a><p>2026 Principal dates</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-uts-shared-dates2027"><div><a href="https://www.uts.edu.au/for-students/current-students/managing-your-course/important-dates/principal-dates/2027-principal-dates">2027 Principal dates ↗</a><p>2027 Principal dates</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-uts-shared-gaokao-scholarship"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-scholarship-for-gaokao-students-from-peoples-republic-of-china">UTS Scholarship for Gaokao Students from People’s Republic of China ↗</a><p>UTS Scholarship for Gaokao Students from People’s Republic of China</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-u-uts-profile-apply"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants">uts 官方资料：apply ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-uts-guide-global2027"><div><a href="https://www.uts.edu.au/for-students/international/guides-for-international-students/contentassets/utsi-listing-grid-international-undergraduate-course-summary-table.pdf">2027 International Undergraduate Course Summary Table（2026年6月编制） ↗</a><p>2027所列课程代码的参考高考/750、GCE A Levels、IB和预测IB分数、每session学费；非全校完整录取政策</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-uts-qilt-intl2025"><div><a href="https://qilt.edu.au/docs/default-source/default-document-library/2025-gos-international-report.pdf?sfvrsn=a7656b9a_4">QILT 2025 GOS International Report（2026年6月） ↗</a><p>2023–25国际本科合并调查范围、毕业后4–6个月、就业分母、薪酬范围与2025方法变化；PDF31/32/57–58页</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-uts-qilt-intl2025-tables"><div><a href="https://qilt.edu.au/docs/default-source/default-document-library/gos_2025_international_report_tables.zip?sfvrsn=5e0b873_1">QILT 2025 GOS International Report Tables ↗</a><p>官方ZIP内xlsx：FTE_UG_UNI_3YP_INST_FIG C37；SAL_UG_UNI_3YP_INST_FIG C38；UTS大学级国际本科2023–25合并结果</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/australia/uts/">← 返回悉尼科技大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

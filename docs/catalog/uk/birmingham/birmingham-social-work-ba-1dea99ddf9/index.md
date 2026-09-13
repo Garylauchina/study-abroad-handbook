@@ -121,7 +121,7 @@ hide:
 - [官方项目页面或项目所在目录](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-work-courses/social-work-ba)
 - [官方目录](https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true)
 
-<div class="catalog-source" id="source-p-BHM-b94b6f962c73567a"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/subjects/social-work-courses/social-work-ba">Social Work  BA：官方课程详情 ↗</a><p>学位、学制与版本；授课语言边界；课程内容举例；A-level / IB 标准门槛；课程英语门槛；2027 申请渠道；课程申请代码；国际生学费与年份；官网职业方向</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-BHM-b94b6f962c73567a"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/subjects/social-work-courses/social-work-ba">Social Work BA：官方课程详情 ↗</a><p>学位、学制与版本；授课语言边界；课程内容举例；A-level / IB 标准门槛；课程英语门槛；2027 申请渠道；课程申请代码；国际生学费与年份；官网职业方向</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-BHM-c8359df34001ea3e"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&amp;pageSize=500&amp;preventScrollTop=true">伯明翰官方完整本科目录 ↗</a><p>目录列示校区</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-BHM-d3d4d8b5799952e8"><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">UCAS：2027 普通本科截止 ↗</a><p>2027 申请渠道</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-BHM-4f34a731b591924e"><div><a href="https://www.birmingham.ac.uk/international/students/country/china/gaokao">伯明翰：中国高考要求 ↗</a><p>中国普高与高考（英国校区普通本科）</p><small>核验 2026-09-13</small></div></div>

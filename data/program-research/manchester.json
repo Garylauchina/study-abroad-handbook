@@ -15764,59 +15764,86 @@
     },
     {
       "university_id": "manchester",
+      "inventory_id": "manchester-geography-b1603dd93d",
       "raw_key": "22121",
       "name_en": "Geography",
+      "degree_label": "BA",
       "official_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22121/ba-geography/",
-      "checked_at": "2026-09-12",
+      "source_period": "2027 entry",
+      "checked_at": "2026-09-13",
+      "research_status": "partial",
       "sections": {
         "overview": [
           {
-            "label": "目录学习安排",
-            "text": "学位 BA；学制 3 年；入学 2027。",
+            "label": "2027课程内容",
+            "text": "侧重人文地理，研究城市化、移民、地缘政治、能源与社会不平等，结合社会科学研究方法。第一年同时打人文/自然地理和数据科学基础，随后加强GIS、实地调查、数据分析，末年完成独立论文。",
             "source_ids": [
-              "UKENR-552ded10965767"
-            ],
-            "extraction_locator": "Official directory entry: 22121"
+              "REM-22121-full"
+            ]
+          },
+          {
+            "label": "学制与结构来源差异",
+            "text": "正文列一年级至三年级，末年论文以社会科学研究为主；当前顶栏Duration仍为TBA，保留正文实际分年安排，不把TBA解释为停招。",
+            "source_ids": [
+              "REM-22121-full"
+            ]
           }
         ],
-        "admissions": [],
-        "applications": [],
-        "fees": [],
-        "outcomes": []
+        "admissions": [
+          {
+            "label": "2027课程成绩缺口",
+            "text": "当前完整页未列本课程A-level、IB或中国资格具体录取分数和先修科目；不能套其他地理课程或按旧年推算。",
+            "source_ids": [
+              "REM-22121-full"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027申请资料边界",
+            "text": "课程页所列UCAS代码L700、院校M20，但How to apply仍TBA；具体开放状态与课程截止本轮未确认。学校普通申请日期不能证明本课程已可提交。",
+            "source_ids": [
+              "REM-22121-full"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "课程费用缺口及实地调查",
+            "text": "本轮未取得该课程2027国际学费；页面表示课程实地调查不另收费，行程仍会因安全和可行性评估调整。",
+            "source_ids": [
+              "REM-22121-full"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "专业认可与职业方向",
+            "text": "课程获英国皇家地理学会（与IBG）认可。官网列环境管理、可持续发展、规划、GIS与数据分析、公共政策、咨询和教育等去向；未给该学位及中国学生的毕业届次、就业分母或薪资统计。",
+            "source_ids": [
+              "REM-22121-full"
+            ]
+          }
+        ]
       },
       "sources": [
         {
-          "id": "UKENR-552ded10965767",
-          "title": "Geography 官方课程页",
-          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22121/ba-geography/",
-          "checked_at": "2026-09-12",
-          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
-          "sha256": "9ef048ff2aeb93ce500112e9c95ef7ed363f2e025c8cf519d9aea0b25e1208f5",
-          "locator": "See each fact extraction_locator"
+          "id": "REM-22121-full",
+          "title": "University of Manchester — Geography 官方课程资料",
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22121/ba-geography/all-content/",
+          "checked_at": "2026-09-13",
+          "supports": "2027课程内容；学制与结构来源差异；2027课程成绩缺口；2027申请资料边界；课程费用缺口及实地调查；专业认可与职业方向",
+          "sha256": "975a1eedbf410f8bf412c8737e86358571c4c625a3bcbc921b03818df82d22b4"
         }
       ],
       "display_fields": {
-        "duration": "3 年",
-        "intake": "2027"
-      },
-      "coverage": {
-        "overview": true,
-        "admissions": false,
-        "applications": false,
-        "fees": false,
-        "outcomes": false
-      },
-      "detail_payload_acquired": true,
-      "research_status": "directory_only",
-      "substantive_coverage": {
-        "course_content": false,
-        "entry_conditions": false,
-        "fee_amount": false,
-        "career_directions": false,
-        "outcome_statistics": false
-      },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "manchester-geography-b1603dd93d"
+        "intake": "2027",
+        "name": "地理学（人文地理BA）",
+        "duration": "3年（正文按年级结构；顶栏TBA）",
+        "entry_summary": "2027已核课程内容；具体成绩与科目门槛本轮未取得",
+        "tuition_summary": "本轮未取得该课程2027学费",
+        "outcomes_summary": "专业职业方向已核；未取得本课程就业率"
+      }
     },
     {
       "university_id": "manchester",
@@ -16040,59 +16067,86 @@
     },
     {
       "university_id": "manchester",
+      "inventory_id": "manchester-geography-with-international-study-af6d279027",
       "raw_key": "22123",
       "name_en": "Geography with International Study",
+      "degree_label": "BA",
       "official_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22123/ba-geography-with-international-study/",
-      "checked_at": "2026-09-12",
+      "source_period": "2027 entry",
+      "checked_at": "2026-09-13",
+      "research_status": "partial",
       "sections": {
         "overview": [
           {
-            "label": "目录学习安排",
-            "text": "学位 BA；学制 4 年；入学 2027。",
+            "label": "2027课程内容",
+            "text": "侧重人文地理，研究城市化、移民、地缘政治、能源与社会不平等，结合社会科学研究方法。第一年同时打人文/自然地理和数据科学基础，随后加强GIS、实地调查、数据分析，末年完成独立论文。",
             "source_ids": [
-              "UKENR-08693fc61b5c3d"
-            ],
-            "extraction_locator": "Official directory entry: 22123"
+              "REM-22123-full"
+            ]
+          },
+          {
+            "label": "学制与结构来源差异",
+            "text": "正文列一年级至四年级，第三年在海外伙伴大学学习、第四年回曼彻斯特完成论文；当前顶栏Duration仍为TBA，保留正文实际分年安排，不把TBA解释为停招。",
+            "source_ids": [
+              "REM-22123-full"
+            ]
           }
         ],
-        "admissions": [],
-        "applications": [],
-        "fees": [],
-        "outcomes": []
+        "admissions": [
+          {
+            "label": "2027课程成绩缺口",
+            "text": "当前完整页未列本课程A-level、IB或中国资格具体录取分数和先修科目；不能套其他地理课程或按旧年推算。",
+            "source_ids": [
+              "REM-22123-full"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027申请资料边界",
+            "text": "课程页所列UCAS代码LF78、院校M20，但How to apply仍TBA；具体开放状态与课程截止本轮未确认。学校普通申请日期不能证明本课程已可提交。",
+            "source_ids": [
+              "REM-22123-full"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "课程费用缺口及实地调查",
+            "text": "本轮未取得该课程2027国际学费；页面表示课程实地调查不另收费，行程仍会因安全和可行性评估调整。",
+            "source_ids": [
+              "REM-22123-full"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "专业认可与职业方向",
+            "text": "课程获英国皇家地理学会（与IBG）认可。官网列环境管理、可持续发展、规划、GIS与数据分析、公共政策、咨询和教育等去向；未给该学位及中国学生的毕业届次、就业分母或薪资统计。",
+            "source_ids": [
+              "REM-22123-full"
+            ]
+          }
+        ]
       },
       "sources": [
         {
-          "id": "UKENR-08693fc61b5c3d",
-          "title": "Geography with International Study 官方课程页",
-          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22123/ba-geography-with-international-study/",
-          "checked_at": "2026-09-12",
-          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
-          "sha256": "a168ea36253a17895b980d40d180ed3ce46bfd4c80d0b3d44302f88e74473e02",
-          "locator": "See each fact extraction_locator"
+          "id": "REM-22123-full",
+          "title": "University of Manchester — Geography with International Study 官方课程资料",
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22123/ba-geography-with-international-study/all-content/",
+          "checked_at": "2026-09-13",
+          "supports": "2027课程内容；学制与结构来源差异；2027课程成绩缺口；2027申请资料边界；课程费用缺口及实地调查；专业认可与职业方向",
+          "sha256": "b6676a6800ecfdf4a7d8b03196fb1c3da57e4c18e710e64fb7d9027016f60806"
         }
       ],
       "display_fields": {
-        "duration": "4 年",
-        "intake": "2027"
-      },
-      "coverage": {
-        "overview": true,
-        "admissions": false,
-        "applications": false,
-        "fees": false,
-        "outcomes": false
-      },
-      "detail_payload_acquired": true,
-      "research_status": "directory_only",
-      "substantive_coverage": {
-        "course_content": false,
-        "entry_conditions": false,
-        "fee_amount": false,
-        "career_directions": false,
-        "outcome_statistics": false
-      },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "manchester-geography-with-international-study-af6d279027"
+        "intake": "2027",
+        "name": "地理学（人文地理BA，含海外学习）",
+        "duration": "4年（正文按年级结构；顶栏TBA）",
+        "entry_summary": "2027已核课程内容；具体成绩与科目门槛本轮未取得",
+        "tuition_summary": "本轮未取得该课程2027学费",
+        "outcomes_summary": "专业职业方向已核；未取得本课程就业率"
+      }
     },
     {
       "university_id": "manchester",
@@ -16316,59 +16370,86 @@
     },
     {
       "university_id": "manchester",
+      "inventory_id": "manchester-geography-with-international-study-e9d5024679",
       "raw_key": "22124",
       "name_en": "Geography with International Study",
+      "degree_label": "BSc",
       "official_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22124/bsc-geography-with-international-study/",
-      "checked_at": "2026-09-12",
+      "source_period": "2027 entry",
+      "checked_at": "2026-09-13",
+      "research_status": "partial",
       "sections": {
         "overview": [
           {
-            "label": "目录学习安排",
-            "text": "学位 BSc；学制 4 年；入学 2027。",
+            "label": "2027课程内容",
+            "text": "侧重自然地理，研究碳循环、地貌变化、生物多样性、污染与环境修复，并训练实验室及科学研究方法。第一年同时打人文/自然地理和数据科学基础，随后加强GIS、实地调查、数据分析，末年完成独立论文。",
             "source_ids": [
-              "UKENR-07e677581059f5"
-            ],
-            "extraction_locator": "Official directory entry: 22124"
+              "REM-22124-full"
+            ]
+          },
+          {
+            "label": "学制与结构来源差异",
+            "text": "正文列一年级至四年级，第三年在海外伙伴大学学习、第四年回曼彻斯特完成论文；当前顶栏Duration仍为TBA，保留正文实际分年安排，不把TBA解释为停招。",
+            "source_ids": [
+              "REM-22124-full"
+            ]
           }
         ],
-        "admissions": [],
-        "applications": [],
-        "fees": [],
-        "outcomes": []
+        "admissions": [
+          {
+            "label": "2027课程成绩缺口",
+            "text": "当前完整页未列本课程A-level、IB或中国资格具体录取分数和先修科目；不能套其他地理课程或按旧年推算。",
+            "source_ids": [
+              "REM-22124-full"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027申请资料边界",
+            "text": "课程页所列UCAS代码FL87、院校M20，但How to apply仍TBA；具体开放状态与课程截止本轮未确认。学校普通申请日期不能证明本课程已可提交。",
+            "source_ids": [
+              "REM-22124-full"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "课程费用缺口及实地调查",
+            "text": "本轮未取得该课程2027国际学费；页面表示课程实地调查不另收费，行程仍会因安全和可行性评估调整。",
+            "source_ids": [
+              "REM-22124-full"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "专业认可与职业方向",
+            "text": "课程获英国皇家地理学会（与IBG）认可。官网列环境管理、可持续发展、规划、GIS与数据分析、公共政策、咨询和教育等去向；未给该学位及中国学生的毕业届次、就业分母或薪资统计。",
+            "source_ids": [
+              "REM-22124-full"
+            ]
+          }
+        ]
       },
       "sources": [
         {
-          "id": "UKENR-07e677581059f5",
-          "title": "Geography with International Study 官方课程页",
-          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22124/bsc-geography-with-international-study/",
-          "checked_at": "2026-09-12",
-          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
-          "sha256": "bfd3220c130fec8ec4b0baccd39c0a840eee8bc106b291beb10b84844c370a10",
-          "locator": "See each fact extraction_locator"
+          "id": "REM-22124-full",
+          "title": "University of Manchester — Geography with International Study 官方课程资料",
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22124/bsc-geography-with-international-study/all-content/",
+          "checked_at": "2026-09-13",
+          "supports": "2027课程内容；学制与结构来源差异；2027课程成绩缺口；2027申请资料边界；课程费用缺口及实地调查；专业认可与职业方向",
+          "sha256": "93eacba3abef2e10e8757f58cced9ad2faf1ffd9104dd9556f7828ad08085a6c"
         }
       ],
       "display_fields": {
-        "duration": "4 年",
-        "intake": "2027"
-      },
-      "coverage": {
-        "overview": true,
-        "admissions": false,
-        "applications": false,
-        "fees": false,
-        "outcomes": false
-      },
-      "detail_payload_acquired": true,
-      "research_status": "directory_only",
-      "substantive_coverage": {
-        "course_content": false,
-        "entry_conditions": false,
-        "fee_amount": false,
-        "career_directions": false,
-        "outcome_statistics": false
-      },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "manchester-geography-with-international-study-e9d5024679"
+        "intake": "2027",
+        "name": "地理学（自然地理BSc，含海外学习）",
+        "duration": "4年（正文按年级结构；顶栏TBA）",
+        "entry_summary": "2027已核课程内容；具体成绩与科目门槛本轮未取得",
+        "tuition_summary": "本轮未取得该课程2027学费",
+        "outcomes_summary": "专业职业方向已核；未取得本课程就业率"
+      }
     },
     {
       "university_id": "manchester",
@@ -33518,59 +33599,85 @@
     },
     {
       "university_id": "manchester",
+      "inventory_id": "manchester-nursing-practice-cpd-86c5781243",
       "raw_key": "00623",
       "name_en": "Nursing Practice (CPD)",
+      "degree_label": "Bachelor of Science (Honours)",
       "official_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00623/bsc-nursing-practice-cpd/",
-      "checked_at": "2026-09-12",
+      "source_period": "2027 entry",
+      "checked_at": "2026-09-13",
+      "research_status": "partial",
       "sections": {
         "overview": [
           {
-            "label": "目录学习安排",
-            "text": "学位 Bachelor of Science (Honours)；学制 Up to 5 年 (part-time)；入学 2027。",
+            "label": "课程与学分",
+            "text": "将Level 6继续专业教育单元累计为120学分，最长五年非全日制完成BSc (Hons)。选项涉及新生儿重症、肿瘤护理、姑息照护、眼科、烧伤康复及研究论文；单科CPD本身不等于完整学士学位。",
             "source_ids": [
-              "UKENR-e40817caf34868"
-            ],
-            "extraction_locator": "Official directory entry: 00623"
+              "REM-00623-full"
+            ]
           }
         ],
-        "admissions": [],
-        "applications": [],
-        "fees": [],
-        "outcomes": []
+        "admissions": [
+          {
+            "label": "专业资格入口",
+            "text": "总体入口要求合资格护士或其他健康专业人员；完整Nursing Practice BSc (Hons)说明具体面向合资格护士、助产士。本轮未确认海外资格如何认定；不是大陆高中直接入学路径。",
+            "source_ids": [
+              "REM-00623-full"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027申请渠道",
+            "text": "须向cpd.nursing@manchester.ac.uk提供已有护理资格详情联系申请；本轮课程页未列确切截止。单科CPD有另外入口，不能代替学位申请。",
+            "source_ids": [
+              "REM-00623-full"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027费用缺口",
+            "text": "课程页明确学费To be announced；本轮未取得国际资历申请者的学费、资助及签证适用，不套普通全日制本科报价。",
+            "source_ids": [
+              "REM-00623-full"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "注册与职业边界",
+            "text": "课程用于已合资格人员的专业发展，不适用于希望首次取得NMC护士注册的本科生；本轮未取得本课程带届次和分母的就业统计。",
+            "source_ids": [
+              "REM-00623-full"
+            ]
+          }
+        ]
       },
       "sources": [
         {
-          "id": "UKENR-e40817caf34868",
-          "title": "Nursing Practice (CPD) 官方课程页",
-          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00623/bsc-nursing-practice-cpd/",
-          "checked_at": "2026-09-12",
-          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
-          "sha256": "b8aeb3507c9dc35185ac697c7c5499439cad32fa2aae1579a0350aa692f419de",
-          "locator": "See each fact extraction_locator"
+          "id": "REM-00623-full",
+          "title": "University of Manchester — Nursing Practice (CPD) 官方课程资料",
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00623/bsc-nursing-practice-cpd/all-content/",
+          "checked_at": "2026-09-13",
+          "supports": "课程与学分；专业资格入口；2027申请渠道；2027费用缺口；注册与职业边界",
+          "sha256": "ff18d4fff2537003668ff7c1f4273ba6789ff5b9022d13793781ca3e2514de3e"
         }
       ],
       "display_fields": {
-        "duration": "Up to 5 年 (part-time)",
-        "intake": "2027"
+        "intake": "2027",
+        "name": "护理实践（在职继续专业教育）",
+        "duration": "最长5年，非全日制",
+        "entry_summary": "已有护理/助产专业资历的Level 6 CPD学位；不是初始护士资格入口",
+        "tuition_summary": "2027课程页费用待公布",
+        "tuition_label": "进修学位费用"
       },
-      "coverage": {
-        "overview": true,
-        "admissions": false,
-        "applications": false,
-        "fees": false,
-        "outcomes": false
-      },
-      "detail_payload_acquired": true,
-      "research_status": "directory_only",
-      "substantive_coverage": {
-        "course_content": false,
-        "entry_conditions": false,
-        "fee_amount": false,
-        "career_directions": false,
-        "outcome_statistics": false
-      },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "manchester-nursing-practice-cpd-86c5781243"
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ]
     }
   ],
   "profile": {

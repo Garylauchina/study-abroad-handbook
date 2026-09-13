@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-173 个专业条目 · 0 个含详细资料 · 172 个补有专业资料 · 1 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+173 个专业条目 · 0 个含详细资料 · 173 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=nyu#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -117,7 +117,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/nyu/nyu-history-3cb0f4db35/">History</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/nyu/nyu-hospitality-travel-and-tourism-management-fd58682960/">Hospitality, Travel and Tourism Management</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/nyu/nyu-humanities-a9cee5fea0/">Humanities</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/nyu/nyu-individualized-major-cab98922a1/">Individualized Major</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/nyu/nyu-individualized-major-cab98922a1/">自主设计跨学科专业（Gallatin BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/nyu/nyu-information-systems-and-technology-fac6bec336/">Information Systems and Technology</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/nyu/nyu-instrumental-performance-c844ebfec2/">Instrumental Performance</a><small>BM · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/nyu/nyu-integrated-design-and-media-2f0b680cee/">Integrated Design and Media</a><small>BS · 部分专业资料已核实</small></article>
@@ -252,5 +252,6 @@ hide:
 - Integrated bachelor/graduate pathways are distinguished from bachelor-only records; not counted as separate standalone graduate programs.
 
 - [官方目录来源](https://bulletins.nyu.edu/programs/)
+- [官方目录来源](https://bulletins.nyu.edu/undergraduate/individualized-study/programs/individualized-major-ba/)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

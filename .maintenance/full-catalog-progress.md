@@ -172,3 +172,19 @@ scratch忽略且不提交；data/.maintenance只保存可公开事实、来源�
 - 下批scratch：Boston194由agent核150，root接44本硕/BS-DPT；UTS358由agent复用正确322补缺口36并查目录；NTU补33现行second-major框架与30具名内部方向，数学由旧4track改核2026正式5specialisations。未修改产品前须另冻结与核验。
 
 - 第十一批最终核验：strict165.82秒；17273HTML、974898内部引用、19270搜索条目、545.8MB通过。8 Node/4研究/2资产测试（研究在最终数据后复跑）、来源及生成一致性、741文件隐私扫描、git diff通过。修17旧附加主修学位标签与BCSA中英标签，NTU来源标题CR正规化解决6页生成一致性。Chrome实际点击美国/CMU得319条、卡塔尔人工智能2条；目视多哈AI/导演停招/NTU戏剧停开、Sheffield旧EEE学科薪资边界、UChicago加勒比方向及390px多哈首屏。证据release11-browser与release11-*-final日志。待提交部署与线上等字节检查。
+
+- 第十一批de40aa9c2ecee5b10beddeced8099dfed796fcac已发布；Actions34730315639 build/deploy均success。线上首页、catalog索引与6个本批专业页全部HTTP200并逐字节等于本地；catalog SHA f3af4d15058fdf3dbc058c5b6916af116cfafe346aebba4451b3bd4f932ce205。Chrome已目视线上CMU-Q人工智能地点/年度/学费；证明release11-online-check.json与release11-browser/live-cmu-qatar-ai.txt。
+
+## 第十二批本地资料整合与复核
+
+- 南洋理工117保留＋66新增＝183：28学位内方向、2路径、33现行第二主修框架及3语言子项；146来源对。数学2026为130AU/5方向、物理132与应用物理131分开，33框架不任意展开组合。root核CSGR课程PDF的PPGA29/free2与HTML26/free5冲突、停开的食品第二主修、REP国籍限制及BTech成人资格；目录继续partial。
+- 悉尼科技358保留＋39具名stream＝397：597来源对。35空现年主修补2024历史课程但不称2027开放；2027国际指南47代码、每session费用及实际/预测IB逐列配对，8课程与年费有1元差异。C10235仅澳籍/PR近期高中及奖学金时间，C10413近期高中限制、STM91998护理资历减免、65未闭合stream均保留。QILT2023–25合并国际本科49.0%全职与65,000薪资的分母/90%区间不当专业结果。
+- 波士顿194原记录＋60新增−7同源别名＝247：2个遗漏Theatre Arts BFA、58学位内方向；19旧专业明确停招但保留历史页。150普通项目由代理逐源研究，44衔接由root研究并接受核心/linked双重独立复核；237实际导入来源对。新生、在读本硕、非全日制完成入口及已停招隔离；BS/DPT例外为普通新生一次申请，升段仍有GPA要求。
+- BU已修独立复核发现：4项无据职业描述收窄、艺术MA大四秋申请、BMB32学分与分组不闭合；Sargent BS后DPT官网123,394不能按分项重算，明确差额而不替官网造总价；CAS/Pardee范围和Pardee→GRS收费链、BS/MPH排除及单条来源补齐。GRS旧2026截止、SPH42/48及June1/15、CFA执照MA/音乐MM不同费率、DPT2024/25统计与就业年份冲突分别说明。最终44事实SHA faa0c2309afaaf1882d36bfeba775af1a6e2d0ce04259f653f1640fd9572eedb，linked复核PASS。
+- 本批尚待其余学校级资料缺口合并、BU普通项目独立抽查、最终构建/浏览器/线上验收。当前目录和详情仍不能宣称96校全量完成。
+
+- 其余19项已按旧ID增量核验并合入10校，学校profile及其他事实保留：16补实质课程/专属要求、2伯明翰旧插读仍目录待核、1密歇根Plant Biology按2026年4月明确停办移出当前目录并保留更正页。UBA足病学是指定UBA技术资格后续的787小时本科补充学程，2027开放未知；牙医六年5572小时含CBC。Bristol2027资格/旧2026费率、UCL2026历史课程/学徒禁Student visa、Manchester CPD初始注册排除均单列。
+- BU普通独立复核46组原文及2张毕业PDF图表完成（review SHA ca966860d417f567a3eb3011c2cbe2f7c2d8a10aaf511573104bf7d04ecf1b57）。两必须修正已由root核源实施：Theatre Arts–Performance除两独白还要第三件戏剧领域视频/文字；音乐12月1日仅按需预筛且作曲例外、表演ED1不预筛，1月8/9/15日期冲突仍保留。音乐剧新增方向首屏元数据包含BFA/BM及Voice范围。
+- 下一批仅scratch：Oxford正式UCAS/语言路线和Senior Status本科入口、UIUC149具名内部方向、UBC两校多学位与校历对账。Root新查KCL分页边界轮流遗漏BEng/MEng，已取得缺失H611四年MEng及requirements/teaching/fees/careers原文，并继续全148候选分栏目核验；暂未并入本次产品。
+
+- 第十二批最终核验：strict186.25秒；17438HTML、988937内部引用、19452搜索条目、554.0MB（最终日志见release12-site-final.log）通过。8 Node/4研究/2资产测试、来源与生成一致性、2790文件隐私扫描、git diff通过；/home/五处为官方URL路径已逐条人工确认。Chrome实际国家→BU247筛选、音乐剧中文唯一命中、BFA/BM限定、Theatre第三件材料、BS/DPT分阶段费用/毕业口径、NTU成人BTech和UTS护理减免已核；最终补核艺术标签、密歇根停办更正及390px UBA足病学首屏无横向溢出。全站17220条：36详细、17182部分专业、2学校级；55目录完整、41部分，88更正。仍未达96校全部专业详情完整。待提交并做线上同字节验收。

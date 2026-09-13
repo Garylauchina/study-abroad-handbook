@@ -26036,6 +26036,114 @@
         "outcomes"
       ],
       "inventory_id": "columbia-global-affairs-and-public-policy-221b6d93cf"
+    },
+    {
+      "university_id": "columbia",
+      "inventory_id": "columbia-combined-plan-ba-bs-387b2d63dc",
+      "raw_key": "seas-combined-plan-ba-bs",
+      "name_en": "Combined Plan BA/BS",
+      "degree_label": "Bachelor of Arts + Bachelor of Science",
+      "official_url": "https://www.engineering.columbia.edu/academics/programs/undergraduate-programs/combined-plan-babs",
+      "source_period": "2026–2027 Columbia Engineering and GS bulletins",
+      "checked_at": "2026-09-13",
+      "research_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "双学位结构",
+            "text": "3+2或4+2结构：先在文理学院完成该校学位、主修及目标工程先修，再到Columbia Engineering在四学期内完成BS。Columbia College、Barnard和GS路线最终授予BA及工程BS；外校文理阶段须满足本校学位规则。",
+            "source_ids": [
+              "REM-columbia-combined-catalog"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在读申请与身份",
+            "text": "Columbia College、Barnard、GS及合作文理学院学生可申请；也欢迎非合作校申请者。建议第一年联系原校顾问规划先修；录取决定后不能更改工程主修。",
+            "source_ids": [
+              "REM-columbia-combined-catalog"
+            ]
+          },
+          {
+            "label": "仅GS学生的建议条件",
+            "text": "GS 2026–2027规则建议GPA至少3.5，工程课每门B/3.0；至少三年全日制大学学习、GS学位核心与主修及工程数学/科学先修完成、良好学术/纪律状态和英语能力，并有GS导师、数学及科学教师三封推荐。3.5及B是建议措辞，不能变成所有合作校必录线。",
+            "source_ids": [
+              "REM-columbia-combined-gs"
+            ]
+          },
+          {
+            "label": "GS所用先修版本",
+            "text": "GS要求参照开始原大学本科当年的Curriculum Guide，完成目标工程数学、科学等先修；本条共用框架没有单一工程课表，具体科目随工程主修及入学版本核对。",
+            "source_ids": [
+              "REM-columbia-combined-gs"
+            ],
+            "extraction_locator": "Eligibility; Curriculum Guide"
+          }
+        ],
+        "applications": [
+          {
+            "label": "在读申请时间边界",
+            "text": "GS学生在第三年或第四年申请。2027专门申请截止及英语考试数值本轮未取得；不能把哥大普通高中申请期限视作本计划期限。",
+            "source_ids": [
+              "REM-columbia-combined-gs",
+              "REM-columbia-combined-catalog"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "分阶段费用缺口",
+            "text": "原大学文理阶段与哥大工程阶段分开就读；本轮未取得适用于2027申请者的两阶段收费及资助细则，不将哥大普通本科年费乘以全程年数。",
+            "source_ids": [
+              "REM-columbia-combined-catalog"
+            ],
+            "extraction_locator": "Combined Plan structure; admissions referral for financial aid"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业身份与数据边界",
+            "text": "完成两阶段分别取得文理及工程学位。目录链接的4–2 MS、BS/MS等研究生路径属于其他项目；本轮未取得Combined Plan独立且注明毕业届次、样本的就业率或薪资。",
+            "source_ids": [
+              "REM-columbia-combined-catalog"
+            ],
+            "extraction_locator": "Final paragraphs and related programs"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "REM-columbia-combined-catalog",
+          "title": "Columbia Engineering 2026–2027 Bulletin — Combined Plan Programs",
+          "url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/combined-plan-programs/",
+          "checked_at": "2026-09-13",
+          "supports": "3+2/4+2结构、不同机构学位、非合作校可申请、录取后不能改主修、其他研究生计划边界",
+          "sha256": "91e0415804384703d42ffe191e356848399316b1bd9fd6c04dddb3b657c8e302",
+          "locator": "The Combined Plan Program within Columbia University; The Combined Plan with Other Affiliated Colleges"
+        },
+        {
+          "id": "REM-columbia-combined-gs",
+          "title": "Columbia GS 2026–2027 Bulletin — SEAS Combined Program",
+          "url": "https://bulletin.columbia.edu/general-studies/academic-policies/study-within-graduate-professional-schools/combined-program/",
+          "checked_at": "2026-09-13",
+          "supports": "仅GS路径的资格建议、工程先修版本、大学第三/四年申请",
+          "sha256": "933ad7c6bd39f012c3839784cc414b33755326dd87c8efebd9116ac34dc551a0",
+          "locator": "Columbia Engineering Combined Plan Program; Eligibility"
+        }
+      ],
+      "display_fields": {
+        "name": "文理学士与工程学士联合计划（3+2或4+2）",
+        "intake": "2026–2027课程目录",
+        "duration": "5或6年（3+2或4+2）",
+        "entry_summary": "先读文理学院并完成先修，再竞争申请工程阶段；不是直接高中工程录取"
+      },
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ]
     }
   ],
   "profile": {

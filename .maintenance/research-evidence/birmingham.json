@@ -1712,6 +1712,18 @@
       "locator": "hero; courseYearItems; course sections yearOfEntry=2027; courseDelivery[2027]; entryRequirements[2027].englishLanguageRequirements; courseModules[2027] .modulesComposer.items[1].tabItems[0].content.table[0], .modulesComposer.items[1].tabItems[0].content.table[0], .modulesComposer.items[1].tabItems[0].content.table[0]; entryRequirements[2027].details; courseApplicationProcess[2027]; courseFees[2027]; admissions applicability; career[2027] curriculum-related career content, excluding generic alumni advertising; career[2027] professional registration and foundation training"
     },
     {
+      "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/health-management-and-leadership-msci-intercalated-degree",
+      "sha256": "011f5164996f83cbe4fa069889667546f26eb00ba1a70573527e37231cdd1c2f",
+      "raw_file": "scratch/full-catalog/school-only-remainders/raw/birmingham-health-current.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/undergraduate-degree-courses",
+      "sha256": "f875b4bec2eaeb20386a4fe66b1dca74acec3ed7fbd8d5b5b4e1f39cea72fb01",
+      "raw_file": "scratch/full-catalog/school-only-remainders/raw/birmingham-med-list.html",
+      "locator": null
+    },
+    {
       "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/modern-languages-and-history-ba",
       "sha256": "0fe620435f2e0eb0fed2bbc9641a3c8adc477a9583e2e487f56a768dfdba9ca5",
       "raw_file": "scratch/full-catalog/birmingham-enrichment/raw/course-ccb900813f1602d4.html",
@@ -2022,6 +2034,12 @@
       "sha256": "36c1a57f7ee1ffc86e462e3950725e6c415d94ec3ffb08412a6fd294253e1f65",
       "raw_file": "scratch/full-catalog/birmingham-enrichment/raw/course-06071efebde5976d.html",
       "locator": "hero; courseYearItems; course sections yearOfEntry=2025; defaultCourseYear vs hero.startDate and courseFees; hero.campus; hero.duration; courseDelivery[2025]; entryRequirements[2025].englishLanguageRequirements; courseModules[2025] .modulesComposer.items[2].tabItems[0].content.table[0], .modulesComposer.items[2].tabItems[0].content.table[0], .modulesComposer.items[2].tabItems[1].content.table[0]; entryRequirements[2025].requirements; courseFees[2025].internationalFeesContent; lowerComposer; career[2025] curriculum-related career content, excluding generic alumni advertising"
+    },
+    {
+      "url": "https://www.birmingham.ac.uk/study/courses?term=public+health",
+      "sha256": "58f5e3ad7a774d8af973604e9be80b826e607bce155febdf04b2e8b5074e6986",
+      "raw_file": "scratch/full-catalog/school-only-remainders/raw/birmingham-public-search.html",
+      "locator": null
     },
     {
       "url": "https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/robotics-artificial-intelligence-ai-beng-dubai",

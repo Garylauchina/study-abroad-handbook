@@ -11,7 +11,8 @@
       {
         "url": "https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true",
         "sha256": "4c5950051ee207e378a28445eab160dd5552882b86dc236bb4f7c333d3ab2797",
-        "raw_file": "scratch/full-catalog/uk/birmingham/raw/directory-all-dom.html"
+        "raw_file": "scratch/full-catalog/uk/birmingham/raw/directory-all-dom.html",
+        "locator": null
       },
       {
         "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-bsc",
@@ -1772,6 +1773,24 @@
         "url": "https://www.birmingham.ac.uk/study/international/fees/scholarships",
         "sha256": "8fc46c19fa2ca5104e42db5c6602732138156b15595adf906ba5f34843a426a6",
         "raw_file": "scratch/full-catalog/birmingham-enrichment/raw/course-d5abade91ebc91d5.html"
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/health-management-and-leadership-msci-intercalated-degree",
+        "sha256": "011f5164996f83cbe4fa069889667546f26eb00ba1a70573527e37231cdd1c2f",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/birmingham-health-current.html",
+        "locator": null
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/about/college-of-medicine-and-health/undergraduate-degree-courses",
+        "sha256": "f875b4bec2eaeb20386a4fe66b1dca74acec3ed7fbd8d5b5b4e1f39cea72fb01",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/birmingham-med-list.html",
+        "locator": null
+      },
+      {
+        "url": "https://www.birmingham.ac.uk/study/courses?term=public+health",
+        "sha256": "58f5e3ad7a774d8af973604e9be80b826e607bce155febdf04b2e8b5074e6986",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/birmingham-public-search.html",
+        "locator": null
       }
     ],
     "gaps": [
@@ -1779,7 +1798,8 @@
         "note": "Current directory presence is distinct from open admissions; entry year is not stated on search cards."
       },
       "目录345张卡片减3项非学士已闭合为342条；其中1项明确停招、2项旧插读详情缺失。70条实质页面仅2026或2025版本，费用保留各自年份，未据目录存在断言当年开放。",
-      "专业毕业统计和独立完整授课语种仍待补；职业方向不是课程就业率。旧价不是2027已定价。"
+      "专业毕业统计和独立完整授课语种仍待补；职业方向不是课程就业率。旧价不是2027已定价。",
+      "两旧插读项详情404；MMedSc PoSH与另列MSci的正式替代关系、Public and Global Health MSci当前开放未确认，继续仅目录资料。"
     ]
   },
   "programs": [
@@ -6688,14 +6708,19 @@
       "campus": "Birmingham (Edgbaston)",
       "language": null,
       "discovery_source_url": "https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true",
-      "source_period": "Current undergraduate directory checked 2026-09-12; directory does not give entry year",
+      "source_period": "2026-09-13核对官方资料；课程、招生与费用适用年度见正文",
       "ucas_code": null,
-      "entry_route": "intercalated undergraduate degree; current medical/dental studies required",
+      "entry_route": "旧插读条目；现行专业详情本轮未取得",
       "requires_prior_degree": null,
-      "status": "listed_current",
+      "status": "旧目录身份待核；2027开放与授位关系未确认",
       "source_course_type": null,
       "id": "birmingham-mmedsc-posh-health-management-and-leadership-intercalated-degree-8715d05bb5",
-      "name": "PoSH 卫生管理与领导力（在读插读课程）"
+      "name": "PoSH 卫生管理与领导力（在读插读课程）",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康",
+        "商科"
+      ]
     },
     {
       "name_en": "Modern Languages and History BA",
@@ -7642,14 +7667,18 @@
       "campus": "Birmingham (Edgbaston)",
       "language": null,
       "discovery_source_url": "https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true",
-      "source_period": "Current undergraduate directory checked 2026-09-12; directory does not give entry year",
+      "source_period": "2026-09-13核对官方资料；课程、招生与费用适用年度见正文",
       "ucas_code": null,
-      "entry_route": "intercalated undergraduate degree; current medical/dental studies required",
+      "entry_route": "旧插读条目；现行专业详情本轮未取得",
       "requires_prior_degree": null,
-      "status": "listed_current",
+      "status": "旧目录身份待核；2027开放与授位关系未确认",
       "source_course_type": null,
       "id": "birmingham-public-and-global-health-sciences-msci-intercalated-degree-efc5d8cb94",
-      "name": "公共与全球卫生科学（在读插读课程）"
+      "name": "公共与全球卫生科学（在读插读课程）",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ]
     },
     {
       "name_en": "Robotics and Artificial Intelligence (AI) BEng (Dubai)",

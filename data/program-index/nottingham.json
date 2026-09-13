@@ -1,6 +1,6 @@
 {
   "university_id": "nottingham",
-  "checked_at": "2026-09-12",
+  "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
     "count": 222,
@@ -14,6 +14,12 @@
         "bytes": 819863,
         "raw_file": "scratch/full-catalog/uk/nottingham/raw/directory-api.html",
         "meta_file": "scratch/full-catalog/uk/nottingham/raw/directory-api.meta.json"
+      },
+      {
+        "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/2026/Electronic-Engineering-with-a-Year-in-Industry-MEng-Hons.html",
+        "sha256": "85bc47c8576f82a0bc02f1f371cdb223937f8483cc9fe70cbc26b11ded2f1486",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c.html",
+        "locator": null
       }
     ],
     "gaps": [
@@ -4207,20 +4213,25 @@
       "name_en": "Electronic Engineering with a Year in Industry MEng Hons",
       "degree_label": "MEng Hons",
       "official_url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/2026/Electronic-Engineering-with-a-Year-in-Industry-MEng-Hons.html",
-      "intake": "September 2026",
-      "duration": "5 years full-time",
+      "intake": "2026年9月参考；2027入口未确认",
+      "duration": "5年全日制",
       "campus": "University Park Campus",
       "language": null,
       "discovery_source_url": "https://www.nottingham.ac.uk/bin/uon/coursepages.json",
-      "source_period": "2026 entry",
+      "source_period": "2026-09-13核对官方资料；课程、招生与费用适用年度见正文",
       "raw_key": "U7UETENGY3-2026",
       "base_course_key": "U7UETENGY3",
       "ucas_code": "H61C",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
+      "entry_route": "2026标准AAA含数学和指定科学/技术科目；IELTS6.0各5.5",
       "requires_prior_degree": null,
       "status": "prior_or_unspecified_intake",
       "source_subject": "Electrical and electronic engineering",
-      "id": "nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c"
+      "id": "nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c",
+      "name": "电子工程（含行业实习年，本硕贯通）",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Veterinary Medicine and Surgery April BVMBVS with BVMedSci",

@@ -6044,42 +6044,138 @@
     },
     {
       "raw_key": "https://www.fmed.uba.ar/carreras/licenciatura-en-podologia/ingreso-la-licenciatura",
-      "name_en": "Licenciatura en Podología",
-      "degree_label": "Carrera de grado（具体授予名称见官方课程）",
-      "official_url": "https://www.fmed.uba.ar/carreras/licenciatura-en-podologia/ingreso-la-licenciatura",
+      "name_en": "Licenciatura en Podología — Ciclo de Complementación Curricular",
+      "degree_label": "Licenciatura en Podología (Ciclo de Complementación Curricular)",
+      "official_url": "https://podologia.fmed.uba.ar/posgrado.htm",
       "university_id": "uba",
       "inventory_id": "uba-licenciatura-en-podolog-a-1eeeec780e",
-      "checked_at": "2026-09-12",
-      "research_status": "directory_only",
+      "checked_at": "2026-09-13",
+      "research_status": "partial",
       "display_fields": {
-        "entry_summary": "官网同页一处写CBC全部通过，另一处写注册劳动与社会、科学思维及哲学3科，两者不一致；须向学院确认当前Lic入口。不能据此认定中国高中生已满足资格。"
+        "name": "足病学本科补充学程（限指定UBA技术资格）",
+        "duration": "787小时补充阶段；历时未核",
+        "intake": "本科补充入口；2027窗口本轮未取得",
+        "entry_summary": "须先取得UBA指定Podólogo/a Universitario/a技术资格；不接受仅凭高中直接进入",
+        "outcomes_summary": "已核临床及研究课程；未取得该Licenciatura独立就业统计"
       },
       "sections": {
         "overview": [
           {
-            "label": "学位身份待澄清",
-            "text": "中央目录与专业网页使用Licenciatura en Podología，但当前“Plan de Estudios”实际链接的文件题名为Tecnicatura de Podología。本轮不能将专科课表认作学士培养计划，也未确认学士项目现行完整学制。",
+            "label": "实际本科身份",
+            "text": "系站把Licenciatura明确为Ciclo de Complementación Curricular，即已有指定大学技术资格后的本科补充学程；2025学院公告另列代码066。不是仅凭高中毕业直接进入的足病学学位。",
             "source_ids": [
-              "uba-follow-88-24"
-            ],
-            "extraction_locator": "HTML正文；页内标题：Buscar / Licenciatura en Podología / Sobre la carrera / Publicaciones en Cartelera / Enlaces más usados / Enlaces de Interés / Paraguay 2155, Ciudad Autónoma de Buenos Aires"
+              "REMX-uba-podo-lic-dom",
+              "REMX-uba-podo-lic-2025"
+            ]
+          },
+          {
+            "label": "补充课程与课时",
+            "text": "实际Licenciatura课表列11门，共787小时：407理论、380实践。包括社会学、人类学、心理学、公共卫生、临床及影像足病症候学、矫形辅具应用、科研方法、卫生技术与教育，以及160小时综合临床实践。",
+            "source_ids": [
+              "REMX-uba-podo-lic-plan-browser"
+            ]
+          },
+          {
+            "label": "旧入口页面的冲突",
+            "text": "旧Licenciatura栏目链接Tecnicatura课表，入学页又并列“CBC全通过”和“注册三科”。这些页面不能充当本补充学程的直接高中入口；本条采用系站明确列出的补充学程身份并保留差异。",
+            "source_ids": [
+              "uba-follow-88-24",
+              "uba-follow-88-25",
+              "REMX-uba-podo-lic-dom"
+            ]
           }
         ],
         "admissions": [
           {
-            "label": "实际入学入口",
-            "text": "官网同页一处写CBC全部通过，另一处写注册劳动与社会、科学思维及哲学3科，两者不一致；须向学院确认当前Lic入口。不能据此认定中国高中生已满足资格。",
+            "label": "必须先有指定UBA资格",
+            "text": "要求持UBA按Res(CS)6122/09及3908/15技术培养计划颁发的Podólogo/a Universitario/a，并提交经合法认证的完整中学及大学学历证明。未取得可接受中国高中或外校足病文凭直接替代的条款。",
             "source_ids": [
-              "uba-follow-88-25"
-            ],
-            "extraction_locator": "HTML正文；页内标题：Buscar / Licenciatura en Podología / Requisitos / Fechas en que me inscribo / Cómo me inscribo: / Documentación que necesito: / Sobre la carrera / Publicaciones en Cartelera / Enlaces más usados / Enlaces de Interés / Paraguay 2155, Ciudad Autónoma de Buenos Aires"
+              "REMX-uba-podo-lic-dom"
+            ]
+          },
+          {
+            "label": "在读实践要求",
+            "text": "每科常规学习资格要求至少80%实践课出勤，并通过规定的阶段考试；这是在读要求，不是招生考试分数。",
+            "source_ids": [
+              "REMX-uba-podo-lic-dom"
+            ]
           }
         ],
-        "applications": [],
+        "applications": [
+          {
+            "label": "已结束的具体报名参考",
+            "text": "2025第一学期第二周期及补充周期报名为2月10日至3月14日，公告明确包括足病学066，并转介学院远程入学办理。该窗口已结束；本轮未取得2027该补充学程的准确窗口。",
+            "source_ids": [
+              "REMX-uba-podo-lic-2025"
+            ]
+          },
+          {
+            "label": "2026与下一轮范围",
+            "text": "本轮核对的2026第一、第二学期第二周期及补充周期招生名单均未列足病学。2025曾列名不能证明2027开放，下一轮是否招收及日期仍需学院确认。",
+            "source_ids": [
+              "REMX-uba-podo-lic-2026-1",
+              "REMX-uba-podo-lic-2026-2"
+            ]
+          }
+        ],
         "fees": [],
-        "outcomes": []
+        "outcomes": [
+          {
+            "label": "毕业资料缺口",
+            "text": "已核本科补充学程的临床、研究与卫生教育课程。本轮未取得该Licenciatura独立的毕业就业率、薪资及执业权限扩展证据，不能把技术资格职业权限自动当作本科新增权限。",
+            "source_ids": [
+              "REMX-uba-podo-lic-dom",
+              "REMX-uba-podo-lic-plan-browser"
+            ]
+          }
+        ]
       },
       "sources": [
+        {
+          "id": "REMX-uba-podo-lic-dom",
+          "title": "UBA Escuela de Podología — Licenciatura, Ciclo de Complementación Curricular",
+          "url": "https://podologia.fmed.uba.ar/posgrado.htm",
+          "checked_at": "2026-09-13",
+          "supports": "本科补充学程及指定UBA技术资格前置、认证材料、出勤要求",
+          "sha256": "f21c9302b76fe8f6099c37ef8862994d0bc30e7ca13d0d606da76ea1a01c82e0",
+          "locator": "Chrome实际读取DOM #contenido"
+        },
+        {
+          "id": "REMX-uba-podo-lic-plan-browser",
+          "title": "UBA Podología — Licenciatura补充学程课表",
+          "url": "https://podologia.fmed.uba.ar/Podologia/cuadro.png",
+          "checked_at": "2026-09-13",
+          "supports": "11课程787小时，其中407理论、380实践；逐课程课时",
+          "sha256": "4c4c9e2cf59657939d7d2ade8a0c6b1c92b413efee14c5d8002be69136664146",
+          "locator": "官方cuadro.png完整浏览器截图；总计三行及课程表"
+        },
+        {
+          "id": "REMX-uba-podo-lic-2025",
+          "title": "UBA Medicina — Inscripción a Carreras 1º Cuatrimestre 2025",
+          "url": "https://fmed.uba.ar/index.php/direccion-de-licenciaturas-y-tecnicaturas/inscripcion-carreras-1o-cuatrimestre-2025",
+          "checked_at": "2026-09-13",
+          "supports": "Licenciatura en Podología代码066、第二周期/补充周期2025报名",
+          "sha256": "9feb183734fbdc386bf37ec34a033c7c17284c7141598fbbbc77a1aa132256a6",
+          "locator": "Período de inscripción; carreras list"
+        },
+        {
+          "id": "REMX-uba-podo-lic-2026-1",
+          "title": "UBA Medicina — Inscripción a Carreras 1º Cuatrimestre 2026",
+          "url": "https://fmed.uba.ar/direccion-de-licenciaturas-y-tecnicaturas/inscripcion-carreras-1o-cuatrimestre-2026",
+          "checked_at": "2026-09-13",
+          "supports": "2026第一学期第二周期/补充周期列名清单不含足病学",
+          "sha256": "5a2991f637b2f7afd7963a5eff45cf202ecc9b834a20cd048f293b786cd63adf",
+          "locator": "Las carreras que ofertan materias para ingresantes"
+        },
+        {
+          "id": "REMX-uba-podo-lic-2026-2",
+          "title": "UBA Medicina — Inscripción a Carreras 2º Cuatrimestre 2026",
+          "url": "https://fmed.uba.ar/direccion-de-licenciaturas-y-tecnicaturas/inscripcion-carreras-2o-cuatrimestre-2026",
+          "checked_at": "2026-09-13",
+          "supports": "2026第二学期第二周期/补充周期列名清单不含足病学",
+          "sha256": "df27b2b6edad6f47e5c450388243401dfd41987a2fd8a559619121e05c043dd6",
+          "locator": "Las carreras que ofertan materias para ingresantes"
+        },
         {
           "id": "uba-follow-88-24",
           "title": "Plan de Estudios | Facultad de Medicina UBA",
@@ -6098,17 +6194,17 @@
         }
       ],
       "coverage_notes": [
-        "本轮未取得可明确判断是否含CBC的全程学制。",
-        "本轮未取得该专业下一轮学院报名日期；CBC首次申请周期另见学校规则。",
-        "专业额外器材／实习等费用及可适用国际生的专属资助本轮未取得。",
-        "本轮未取得带毕业年份、调查群体、分母与回访范围的本专业就业率或薪资统计；职业方向不等于实际毕业表现。",
-        "西班牙语招生资格见学校规则；本轮未取得本专业逐门授课语言承诺。"
+        "本轮未取得本科补充阶段的准确学年历时、2027费用及资助；787小时不能推算为一年。",
+        "2027窗口及中国或其他境外大学资格能否替代指定UBA资格，本轮未取得。",
+        "西班牙语页面不等于逐课授课语种承诺，本轮未核实单列英语路径。"
       ],
       "excluded_school_sections": [
         "admissions",
         "applications",
-        "fees"
-      ]
+        "fees",
+        "outcomes"
+      ],
+      "source_period": "现行系站补充学程说明；2025已结束招生公告"
     },
     {
       "raw_key": "https://www.fmed.uba.ar/carreras/curso-de-tec-radiologo-universitario-lic-en-produccion-de-bioimagenes/plan-de-estudios",
@@ -6268,47 +6364,112 @@
     {
       "raw_key": "http://www.odon.uba.ar/",
       "name_en": "Odontología",
-      "degree_label": "Carrera de grado（具体授予名称见官方课程）",
-      "official_url": "http://www.odon.uba.ar/",
+      "degree_label": "Odontólogo/a",
+      "official_url": "https://codigo.rec.uba.ar/libros_xiii__odonto/libro-xiii-facultad-de-odontologia/titulo-4-carrera-de-odontologia/capitulo-a-plan-2021/",
       "university_id": "uba",
       "inventory_id": "uba-odontolog-a-47af9b69e4",
-      "checked_at": "2026-09-12",
-      "research_status": "directory_only",
-      "display_fields": {},
+      "checked_at": "2026-09-13",
+      "research_status": "partial",
+      "display_fields": {
+        "name": "牙医学（Odontólogo/a）",
+        "duration": "6年（含CBC）",
+        "intake": "现行Plan2021及2025修订；2027窗口待核",
+        "campus": "CBC校址及UBA牙学院、大学医院",
+        "entry_summary": "先通过CBC全部六科，再办理牙学院专业阶段入学",
+        "outcomes_summary": "官方列口腔诊疗、康复及研究能力；未核实专业就业统计"
+      },
       "sections": {
         "overview": [
           {
-            "label": "目录及证据缺口",
-            "text": "UBA中央目录将牙医学列为该学院的本科项目；本轮学院课程PDF因TLS连接错误尚未取得，未据第三方填充学制、课程或入口条件。",
+            "label": "正式学位与六年结构",
+            "text": "正式授予Odontólogo/a，面授共六年：第一年为CBC两个学期；第二至第六年在牙学院、大学牙科医院及其他UBA医院完成专业阶段。",
             "source_ids": [
-              "uba-directory-dentistry"
+              "REMX-uba-dent-plan"
             ],
-            "extraction_locator": "HTML正文；页内标题：Facultades y Carreras / Odontología"
+            "extraction_locator": "I and VI"
+          },
+          {
+            "label": "总课时与临床课程",
+            "text": "共5,572小时：必修5,484、选修课程20、定向选修模块68。由基础科学进入牙科修复、牙周、牙髓、外科及临床；第六年成人综合牙医学含受督导专业实践，并有老年口腔、法医牙科及社区服务。",
+            "source_ids": [
+              "REMX-uba-dent-plan"
+            ],
+            "extraction_locator": "VI–VII; Caja curricular"
+          },
+          {
+            "label": "培养版本",
+            "text": "Plan2021从2022学年实施；正式汇编保留2024决议修订并注明自2025适用于本方案学生。2027另行调整本轮未取得。",
+            "source_ids": [
+              "REMX-uba-dent-plan"
+            ],
+            "extraction_locator": "XII. Aplicación; footnote 2"
           }
         ],
-        "admissions": [],
-        "applications": [],
+        "admissions": [
+          {
+            "label": "先完成CBC再进牙学院",
+            "text": "2026学院报名要求CBC六科全部通过、不得欠科。正式方案的CBC包括化学、数学、物理与生物物理、生物与细胞生物学、社会与国家、科学思维；并非中国高中毕业即跳过CBC。",
+            "source_ids": [
+              "REMX-uba-dent-plan",
+              "REMX-uba-dent-entry"
+            ],
+            "extraction_locator": "Plan VIII second-year prerequisites; faculty Requisitos"
+          },
+          {
+            "label": "外国申请者的学院材料",
+            "text": "学院阶段要求UBA认证的中学毕业材料、出生证明、DNI、CBC证明和照片等；外国学生临时或暂准居留须有效，续签办理中者提交移民手续证明。中国学历等同认可与最初CBC入口仍须按学校规则核对。",
+            "source_ids": [
+              "REMX-uba-dent-entry"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2026已结束学院窗口",
+            "text": "第二学期新生预报名为2026年8月10日09:00至8月14日18:00；通过学院预报名系统填写，仍需提交指定材料完成正式入学。此为CBC后学院阶段，不能当作2027首次CBC申请日期。",
+            "source_ids": [
+              "REMX-uba-dent-entry"
+            ]
+          }
+        ],
         "fees": [],
-        "outcomes": []
+        "outcomes": [
+          {
+            "label": "专业能力与统计边界",
+            "text": "正式方案涵盖口腔疾病预防、诊断、治疗和康复，以及卫生规划、牙科鉴定和研究。培养能力与实际就业调查不同；本轮未取得本专业毕业届次、样本和范围明确的就业率或薪资。",
+            "source_ids": [
+              "REMX-uba-dent-plan"
+            ],
+            "extraction_locator": "IV–V"
+          }
+        ]
       },
       "sources": [
         {
-          "id": "uba-directory-dentistry",
-          "title": "Carreras de la UBA",
-          "url": "https://www.uba.ar/carreras/12",
-          "checked_at": "2026-09-12",
-          "supports": "目录及证据缺口",
-          "sha256": "005526c1836b8d4b9efec8dc7da81f3df59481a67b05b0e9710ec31ea8bcb2b0"
+          "id": "REMX-uba-dent-plan",
+          "title": "Código UBA — Odontología, Plan 2021",
+          "url": "https://codigo.rec.uba.ar/libros_xiii__odonto/libro-xiii-facultad-de-odontologia/titulo-4-carrera-de-odontologia/capitulo-a-plan-2021/",
+          "checked_at": "2026-09-13",
+          "supports": "Odontólogo/a、面授六年含CBC、5572小时及课程/毕业能力/先修、版本修订",
+          "sha256": "ffc79d2a42fafca4471185da455f252d878e32f74f5df0044a53477799627356",
+          "locator": "I; IV–VIII; XII; footnotes RESCS-2024-1828"
+        },
+        {
+          "id": "REMX-uba-dent-entry",
+          "title": "UBA Odontología — Ingresantes 2026, segundo cuatrimestre",
+          "url": "http://odontologia.uba.ar/?page_id=166",
+          "checked_at": "2026-09-13",
+          "supports": "CBC六科全通过后的学院2026报名、材料、外国人居留说明",
+          "sha256": "1d11e3528ef45308e7905d1b6f86f75c9ac14d3dc2f0d0c33a08f100b9480474",
+          "locator": "Inscripción ingresantes segundo cuatrimestre 2026"
         }
       ],
       "coverage_notes": [
-        "本轮未取得可明确判断是否含CBC的全程学制。",
-        "专业入口的额外先修、考试或资格本轮未取得；校级政策不能证明不存在例外。",
-        "本轮未取得该专业下一轮学院报名日期；CBC首次申请周期另见学校规则。",
-        "专业额外器材／实习等费用及可适用国际生的专属资助本轮未取得。",
-        "本轮未取得带毕业年份、调查群体、分母与回访范围的本专业就业率或薪资统计；职业方向不等于实际毕业表现。",
-        "西班牙语招生资格见学校规则；本轮未取得本专业逐门授课语言承诺。"
-      ]
+        "2027首次CBC与牙学院专业阶段的准确日期须分别核对，本条2026学院报名窗口已结束。",
+        "本轮未取得本专业额外器材、临床实习费用及专属国际生资助。",
+        "本轮未取得各门课程授课语种承诺或单列英语入口。"
+      ],
+      "source_period": "Plan2021（2022实施、2024修订自2025适用）；2026第二学期学院报名"
     },
     {
       "raw_key": "https://www.psi.uba.ar/psicologia.php?var=academica/carrerasdegrado/psicologia/index.php",

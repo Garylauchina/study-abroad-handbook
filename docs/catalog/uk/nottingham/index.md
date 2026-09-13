@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-222 个专业条目 · 0 个含详细资料 · 221 个补有专业资料 · 1 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+222 个专业条目 · 0 个含详细资料 · 222 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=nottingham#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -117,7 +117,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/nottingham/nottingham-electronic-engineering-with-a-year-abroad-beng-hons-a700e37871/">Electronic Engineering with a Year Abroad BEng Hons</a><small>BEng Hons · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/nottingham/nottingham-electronic-engineering-with-a-year-abroad-meng-hons-371943857c/">Electronic Engineering with a Year Abroad MEng Hons</a><small>MEng Hons · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/nottingham/nottingham-electronic-engineering-with-a-year-in-industry-beng-hons-1f323c27e4/">Electronic Engineering with a Year in Industry BEng Hons</a><small>BEng Hons · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/nottingham/nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c/">Electronic Engineering with a Year in Industry MEng Hons</a><small>MEng Hons · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/nottingham/nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c/">电子工程（含行业实习年，本硕贯通）</a><small>MEng Hons · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/nottingham/nottingham-electronic-and-computer-engineering-beng-hons-e550cf4157/">Electronic and Computer Engineering BEng Hons</a><small>BEng Hons · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/nottingham/nottingham-electronic-and-computer-engineering-meng-hons-aaa93221ae/">Electronic and Computer Engineering MEng Hons</a><small>MEng Hons · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/nottingham/nottingham-electronic-and-computer-engineering-with-a-year-abroad-beng-hons-d6aef92a94/">Electronic and Computer Engineering with a Year Abroad BEng Hons</a><small>BEng Hons · 部分专业资料已核实</small></article>
@@ -294,5 +294,6 @@ hide:
 - Scope is the published UK undergraduate directory feed; Malaysia and Ningbo campus catalogues are not established as covered by this feed.
 
 - [官方目录来源](https://www.nottingham.ac.uk/bin/uon/coursepages.json)
+- [官方目录来源](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/2026/Electronic-Engineering-with-a-Year-in-Industry-MEng-Hons.html)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Biomedical Science</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027手册；本条新生安排见申请条件</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027目录；课程参考为2024</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已补学校共用资料，专业专属详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -34,11 +34,16 @@ hide:
 
 <p><strong>授予学位 / 项目类型：</strong>Undergraduate major within a bachelor degree</p>
 
-<p><strong>目录适用期：</strong>2027</p>
+<p><strong>目录适用期：</strong>2027目录；课程为2024历史参考</p>
 
 <p><strong>目录条目类别：</strong>major</p>
 
-<p><strong>申请路径：</strong>Degree-internal catalog field; not an independent degree</p>
+<p><strong>申请路径：</strong>2027仅核目录身份；课程为2024历史参考，当前父学位/选入资格未核实</p>
+
+<p><strong>目录状态：</strong>2027目录身份；2024历史课程参考，当前父学位/准入仍待核</p>
+
+<p class="catalog-fact"><strong>课程内容（2024历史参考）：</strong>2024结构为78学分：化学、细胞与遗传学、人体解剖生理、代谢生化、微生物、血液学、组织学、免疫学、病理生理和感染诊断等占72学分，另在输血科学、精准医学等选6学分。 此为同代码2024存档，不替代2027选课计划。</p>
+<p class="fact-sources"><a href="#source-p-uts-archive-maj01090-2024">官方依据</a></p>
 
 <p class="catalog-fact"><strong>本条资料缺口：</strong>已确认2027手册中的 MAJ01090 主修代码，但该页面未提供课程介绍、课程树或培养目标；本轮154个已采集学位的结构也未发现它的直接引用。现行父学位及实际开设情况仍需核实，不能据此认定停开。</p>
 <p class="fact-sources"><a href="#source-p-uts-handbook-maj01090">官方依据</a></p>
@@ -48,54 +53,31 @@ hide:
 
 ## 入学条件 {#admissions}
 
-按所属学位入读及内部选主修；代码 MAJ01090
-
-<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
-
-<p class="catalog-fact"><strong>同校共用：中国学历评估：</strong>中国普通高中申请者可凭达到要求的高考总分，或在认可高校完成至少一个全日制学年的本科阶段学习申请评估。A-Level、完整 IB Diploma 等按各自学历类别评估；本轮未取得2027各课程高考分数表，不能将本地 ATAR 或2026数值替代。</p>
-<p class="fact-sources"><a href="#source-u-uts-shared-china">官方依据</a> · <a href="#source-u-uts-shared-guide-china2026">官方依据</a></p>
-
-<p class="catalog-fact"><strong>同校共用：英语证明：</strong>多数本科课程的基准为 IELTS Academic 总分6.5、写作6.0；双学位取两组成课程中较高标准。教师教育、护理及心理科学荣誉课程另有专门标准。符合学校规定的英语授课学习经历可申请证明路径，须有院校正式授课语言证明；并非就读任何英语课程即自动豁免。</p>
-<p class="fact-sources"><a href="#source-u-uts-shared-english">官方依据</a></p>
-
-</details>
+<p class="catalog-fact"><strong>当前入口与资格缺口：</strong>本条保留为官方主修代码；本轮未取得其2027父学位、新生或在读选入资格。不能把历史大学课程当高考先修条件，也不能直接套同名现行主修的门槛。</p>
+<p class="fact-sources"><a href="#source-p-uts-handbook-maj01090">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
-
-<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
-
-<p class="catalog-fact"><strong>同校共用：申请渠道和材料：</strong>大陆高考等非澳洲 Year 12 国际申请者通常直接向 UTS International 申请；澳洲 Year 12 国际申请者可按 ATAR 经 UAC。直接申请使用 UTS Application Portal 或国际申请表；提交认证成绩/学历及英语证明，中文文件同时附正式英文译文。作品集、个人陈述或经历证明依课程要求。</p>
-<p class="fact-sources"><a href="#source-u-uts-shared-admissions-procedure">官方依据</a> · <a href="#source-u-uts-shared-apply">官方依据</a></p>
-
-<p class="catalog-fact"><strong>同校共用：2027境外申请参考截止：</strong>2027 Autumn 的境外国际本科/授课课程一般截止2026年11月30日；2027 Spring一般截止2027年4月30日。适用于主日历及页面列出的健康、教师教育日历；具体课程可能另有截止、仅单季开课或内部转入要求。</p>
-<p class="fact-sources"><a href="#source-u-uts-shared-dates2026">官方依据</a> · <a href="#source-u-uts-shared-dates2027">官方依据</a></p>
-
-</details>
+<p class="catalog-fact"><strong>2027申请适用范围：</strong>本轮未取得此代码2027可申请的独立入口及截止。查到课程存档不代表当前招生；先由UTS确认对应父学位及学生适用届次。</p>
+<p class="fact-sources"><a href="#source-p-uts-handbook-maj01090">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
-
-<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
-
-<p class="catalog-fact"><strong>国际学费与申请费：</strong>学费按课程和年度不同，通常每个教学期预缴；国际申请费A$100不退，当前UTS学生申请第二学位或UTS College在读衔接者有页面规定豁免。本轮未取得全部2027本科统一费用区间；2026中文表须保留其原年别。</p>
-<p class="fact-sources"><a href="#source-u-uts-profile-fees">官方依据</a></p>
-
-<p class="catalog-fact"><strong>同校共用：高考奖学金及更早期限：</strong>按高考录取、入学前一年内参加高考的中国国际新生可自动参与评选；须在悉尼全日制就读，政府资助生及同时持其他 UTS 奖学金者等不符合。秋季2名获75%学费、春季1名获50%，最长8学期，现行条款覆盖至Spring2029。争取2027 Autumn奖学金须2026年9月30日前递交入学申请；获奖仍按成绩竞争。</p>
-<p class="fact-sources"><a href="#source-u-uts-shared-gaokao-scholarship">官方依据</a></p>
-
-</details>
+<p class="catalog-fact"><strong>主修费用边界：</strong>本条不是独立学位；本轮未核实当前父学位和2027对应费率，不另列整套学位学费，也不继承悉尼普通国际新生奖学金资格。</p>
+<p class="fact-sources"><a href="#source-p-uts-handbook-maj01090">官方依据</a></p>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>毕业资料缺口：</strong>本轮未取得该主修代码按毕业届次、回应人数及国际生范围定义的就业或薪酬结果。历史课程内容不证明当期职业注册或就业结果。</p>
+<p class="fact-sources"><a href="#source-p-uts-archive-maj01090-2024">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
-<p class="catalog-fact"><strong>结果统计缺口：</strong>本轮未取得完整覆盖本科专业、明确毕业届次及国际生分组的就业调查。部分手册宣传就业数字缺少本轮核实的分母和样本，未写成课程就业率。</p>
-<p class="fact-sources"><a href="#source-u-uts-profile-apply">官方依据</a></p>
+<p class="catalog-fact"><strong>大学级国际本科调查（非专业/中国学生统计）：</strong>QILT 2023–2025三个调查年合并结果：UTS在澳完成学历的国际本科毕业答卷中，全职就业率49.0%，90%置信区间45.9%–52.1%。分母为可全职就业者，全职指每周至少35小时；并非全部毕业生，也不把单纯深造算就业。调查通常在完成课程后4–6个月进行；本轮未取得UTS该指标精确样本人数（报告图仅保留n≥25机构）。</p>
+<p class="fact-sources"><a href="#source-u-uts-qilt-intl2025">官方依据</a> · <a href="#source-u-uts-qilt-intl2025-tables">官方依据</a></p>
+
+<p class="catalog-fact"><strong>薪酬与比较边界：</strong>同一2023–2025合并调查，UTS国际本科毕业生在澳大利亚全职工作者的年薪中位数AUD65,000，90%置信区间62,800–67,200；不是全部国际生或某专业起薪。2025改变了劳动力定义，未工作且仅被动求职者不再列入可就业分母，因此与旧年趋势不能直接比较。各专业及中国学生分组仍未取得。</p>
+<p class="fact-sources"><a href="#source-u-uts-qilt-intl2025">官方依据</a> · <a href="#source-u-uts-qilt-intl2025-tables">官方依据</a></p>
 
 </details>
 
@@ -107,15 +89,8 @@ hide:
 - [官方目录](https://coursehandbook.uts.edu.au/search?ct=aos)
 
 <div class="catalog-source" id="source-p-uts-handbook-maj01090"><div><a href="https://coursehandbook.uts.edu.au/aos/2027/MAJ01090">UTS 2027 手册：Biomedical Science（MAJ01090） ↗</a><p>2027手册中的课程身份、公开说明、课程结构、Notes及侧栏学习安排；不是所有申请者的新生录取确认。</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-u-uts-profile-apply"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants">uts 官方资料：apply ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-uts-profile-fees"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/fees-costs/international-fees">uts 官方资料：fees ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-uts-shared-china"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants/academic-entry-requirements">Academic entry requirements for international students ↗</a><p>Academic entry requirements for international students</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-u-uts-shared-guide-china2026"><div><a href="https://www.uts.edu.au/for-students/international/guides-for-international-students/contentassets/utsi-listing-grid-international-undergraduate-course-summary-table-china.pdf">2026年国际学生本科课程摘要 ↗</a><p>2026年国际学生本科课程摘要</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-u-uts-shared-english"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/eligibility/english-language-requirements">English language requirements ↗</a><p>English language requirements</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-u-uts-shared-admissions-procedure"><div><a href="https://www.uts.edu.au/about/leadership-governance/policies/a-z/admissions-procedure">Admissions Procedure ↗</a><p>Admissions Procedure</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-u-uts-shared-apply"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants">Applying to UTS as an international student ↗</a><p>Applying to UTS as an international student</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-u-uts-shared-dates2026"><div><a href="https://www.uts.edu.au/for-students/current-students/managing-your-course/important-dates/principal-dates/2026-principal-dates">2026 Principal dates ↗</a><p>2026 Principal dates</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-u-uts-shared-dates2027"><div><a href="https://www.uts.edu.au/for-students/current-students/managing-your-course/important-dates/principal-dates/2027-principal-dates">2027 Principal dates ↗</a><p>2027 Principal dates</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-u-uts-shared-gaokao-scholarship"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/scholarships/scholarships-search/uts-scholarship-for-gaokao-students-from-peoples-republic-of-china">UTS Scholarship for Gaokao Students from People’s Republic of China ↗</a><p>UTS Scholarship for Gaokao Students from People’s Republic of China</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-uts-archive-maj01090-2024"><div><a href="https://www.handbook.uts.edu.au/2024/directory/maj01090.html">UTS Handbook 2024：MAJ01090 Biomedical Science ↗</a><p>2024官方历史课程表及总学分；不证明2027开设或招生</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-uts-qilt-intl2025"><div><a href="https://qilt.edu.au/docs/default-source/default-document-library/2025-gos-international-report.pdf?sfvrsn=a7656b9a_4">QILT 2025 GOS International Report（2026年6月） ↗</a><p>2023–25国际本科合并调查范围、毕业后4–6个月、就业分母、薪酬范围与2025方法变化；PDF31/32/57–58页</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-uts-qilt-intl2025-tables"><div><a href="https://qilt.edu.au/docs/default-source/default-document-library/gos_2025_international_report_tables.zip?sfvrsn=5e0b873_1">QILT 2025 GOS International Report Tables ↗</a><p>官方ZIP内xlsx：FTE_UG_UNI_3YP_INST_FIG C37；SAL_UG_UNI_3YP_INST_FIG C38；UTS大学级国际本科2023–25合并结果</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/australia/uts/">← 返回悉尼科技大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

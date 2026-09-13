@@ -794,6 +794,36 @@
       "locator": null
     },
     {
+      "url": "https://podologia.fmed.uba.ar/posgrado.htm",
+      "sha256": "f21c9302b76fe8f6099c37ef8862994d0bc30e7ca13d0d606da76ea1a01c82e0",
+      "raw_file": "scratch/full-catalog/school-only-remainders/uba-us-agent/raw/uba-podo-lic-dom.html",
+      "locator": "Chrome实际读取DOM #contenido"
+    },
+    {
+      "url": "https://podologia.fmed.uba.ar/Podologia/cuadro.png",
+      "sha256": "4c4c9e2cf59657939d7d2ade8a0c6b1c92b413efee14c5d8002be69136664146",
+      "raw_file": "scratch/full-catalog/school-only-remainders/uba-us-agent/raw/uba-podo-lic-plan-browser.png",
+      "locator": "官方cuadro.png完整浏览器截图；总计三行及课程表"
+    },
+    {
+      "url": "https://fmed.uba.ar/index.php/direccion-de-licenciaturas-y-tecnicaturas/inscripcion-carreras-1o-cuatrimestre-2025",
+      "sha256": "9feb183734fbdc386bf37ec34a033c7c17284c7141598fbbbc77a1aa132256a6",
+      "raw_file": "scratch/full-catalog/school-only-remainders/uba-us-agent/raw/uba-podo-lic-2025.html",
+      "locator": "Período de inscripción; carreras list"
+    },
+    {
+      "url": "https://fmed.uba.ar/direccion-de-licenciaturas-y-tecnicaturas/inscripcion-carreras-1o-cuatrimestre-2026",
+      "sha256": "5a2991f637b2f7afd7963a5eff45cf202ecc9b834a20cd048f293b786cd63adf",
+      "raw_file": "scratch/full-catalog/school-only-remainders/uba-us-agent/raw/uba-podo-lic-2026-1.html",
+      "locator": "Las carreras que ofertan materias para ingresantes"
+    },
+    {
+      "url": "https://fmed.uba.ar/direccion-de-licenciaturas-y-tecnicaturas/inscripcion-carreras-2o-cuatrimestre-2026",
+      "sha256": "df27b2b6edad6f47e5c450388243401dfd41987a2fd8a559619121e05c043dd6",
+      "raw_file": "scratch/full-catalog/school-only-remainders/uba-us-agent/raw/uba-podo-lic-2026-2.html",
+      "locator": "Las carreras que ofertan materias para ingresantes"
+    },
+    {
       "url": "https://www.fmed.uba.ar/carreras/licenciatura-en-podologia/plan-de-estudios",
       "sha256": "047e38abd9fa6f17f9093a3323f6d33d81a82150d778c04eb1dfea7ea79cae15",
       "raw_file": "scratch/full-catalog/uba-enrichment/raw/follow-88-24.html",
@@ -830,10 +860,16 @@
       "locator": null
     },
     {
-      "url": "https://www.uba.ar/carreras/12",
-      "sha256": "005526c1836b8d4b9efec8dc7da81f3df59481a67b05b0e9710ec31ea8bcb2b0",
-      "raw_file": "scratch/full-catalog/uba-enrichment/raw/directory-dentistry.html",
-      "locator": null
+      "url": "https://codigo.rec.uba.ar/libros_xiii__odonto/libro-xiii-facultad-de-odontologia/titulo-4-carrera-de-odontologia/capitulo-a-plan-2021/",
+      "sha256": "ffc79d2a42fafca4471185da455f252d878e32f74f5df0044a53477799627356",
+      "raw_file": "scratch/full-catalog/school-only-remainders/uba-us-agent/raw/uba-dent-plan.html",
+      "locator": "I; IV–VIII; XII; footnotes RESCS-2024-1828"
+    },
+    {
+      "url": "http://odontologia.uba.ar/?page_id=166",
+      "sha256": "1d11e3528ef45308e7905d1b6f86f75c9ac14d3dc2f0d0c33a08f100b9480474",
+      "raw_file": "scratch/full-catalog/school-only-remainders/raw/uba-dent-entry.html",
+      "locator": "Inscripción ingresantes segundo cuatrimestre 2026"
     },
     {
       "url": "https://www.psi.uba.ar/psicologia/",

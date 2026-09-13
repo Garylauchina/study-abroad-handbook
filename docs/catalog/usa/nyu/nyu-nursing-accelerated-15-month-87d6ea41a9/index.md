@@ -68,11 +68,11 @@ hide:
 
 ## 官方来源与核验记录 {#sources}
 
-目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
+目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
 
 - [官方项目页面或项目所在目录](https://bulletins.nyu.edu/undergraduate/nursing/programs/nursing-accelerated-15-month-bs/)
 - [官方目录](https://bulletins.nyu.edu/programs/)
 
-<div class="catalog-source" id="source-p-USBENR-ab99baf63c5240"><div><a href="https://bulletins.nyu.edu/undergraduate/nursing/programs/nursing-accelerated-15-month-bs/">Nursing  (Accelerated 15-Month) — 官方本科课程目录 ↗</a><p>目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-USBENR-ab99baf63c5240"><div><a href="https://bulletins.nyu.edu/undergraduate/nursing/programs/nursing-accelerated-15-month-bs/">Nursing (Accelerated 15-Month) — 官方本科课程目录 ↗</a><p>目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/nyu/">← 返回纽约大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

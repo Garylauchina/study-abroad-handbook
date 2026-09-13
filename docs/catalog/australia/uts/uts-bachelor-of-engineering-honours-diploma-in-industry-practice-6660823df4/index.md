@@ -38,7 +38,7 @@ hide:
 
 <p><strong>目录条目类别：</strong>degree</p>
 
-<p><strong>申请路径：</strong>Published undergraduate bachelor / combined bachelor pathway</p>
+<p><strong>申请路径：</strong>行业实践文凭组合；2027国际直接入口未核实。</p>
 
 <p class="catalog-fact"><strong>课程内容与路径：</strong>结合工程理论、专业技术和两段真实工作场所实习。240学分含48核心、120主修及毕业项目、48专业实践、24选修，并要求48周认可实习。土木环境、电气电子及机械机电联合主修须以对应专业方向替代选修；土木Structures路径推荐12学分指定研究生结构课。申请时选主修，Flexible学生首年末决定方向。</p>
 <p class="fact-sources"><a href="#source-p-uts-handbook-c09067">官方依据</a></p>
@@ -68,8 +68,11 @@ hide:
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
-<p class="catalog-fact"><strong>结果统计缺口：</strong>本轮未取得完整覆盖本科专业、明确毕业届次及国际生分组的就业调查。部分手册宣传就业数字缺少本轮核实的分母和样本，未写成课程就业率。</p>
-<p class="fact-sources"><a href="#source-u-uts-profile-apply">官方依据</a></p>
+<p class="catalog-fact"><strong>大学级国际本科调查（非专业/中国学生统计）：</strong>QILT 2023–2025三个调查年合并结果：UTS在澳完成学历的国际本科毕业答卷中，全职就业率49.0%，90%置信区间45.9%–52.1%。分母为可全职就业者，全职指每周至少35小时；并非全部毕业生，也不把单纯深造算就业。调查通常在完成课程后4–6个月进行；本轮未取得UTS该指标精确样本人数（报告图仅保留n≥25机构）。</p>
+<p class="fact-sources"><a href="#source-u-uts-qilt-intl2025">官方依据</a> · <a href="#source-u-uts-qilt-intl2025-tables">官方依据</a></p>
+
+<p class="catalog-fact"><strong>薪酬与比较边界：</strong>同一2023–2025合并调查，UTS国际本科毕业生在澳大利亚全职工作者的年薪中位数AUD65,000，90%置信区间62,800–67,200；不是全部国际生或某专业起薪。2025改变了劳动力定义，未工作且仅被动求职者不再列入可就业分母，因此与旧年趋势不能直接比较。各专业及中国学生分组仍未取得。</p>
+<p class="fact-sources"><a href="#source-u-uts-qilt-intl2025">官方依据</a> · <a href="#source-u-uts-qilt-intl2025-tables">官方依据</a></p>
 
 </details>
 
@@ -83,6 +86,7 @@ hide:
 <div class="catalog-source" id="source-p-uts-handbook-c09067"><div><a href="https://coursehandbook.uts.edu.au/course/2027/C09067">UTS 2027 手册：Bachelor of Engineering (Honours) Diploma in Industry Practice（C09067） ↗</a><p>2027手册中的课程身份、公开说明、课程结构、Notes及侧栏学习安排；不是所有申请者的新生录取确认。</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-uts-C09067-international-page"><div><a href="https://www.uts.edu.au/courses/bachelor-of-engineering-honours-diploma-in-professional-engineering-practice-mechatronic">Bachelor of Engineering (Honours) Diploma in Industry Practice (Mechatronic) — course admissions ↗</a><p>正式课程码、国际生栏目、入学和2027参考学费；公开Career options职业方向示例</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-uts-shared-diploma-entry"><div><a href="https://www.uts.edu.au/for-students/current-students/managing-your-course/current-students-information-engineering-and-information-technology/undergraduate/diploma-it-professional-practice">Diploma in Industry Practice ↗</a><p>Diploma in Industry Practice</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-u-uts-profile-apply"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants">uts 官方资料：apply ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uts-qilt-intl2025"><div><a href="https://qilt.edu.au/docs/default-source/default-document-library/2025-gos-international-report.pdf?sfvrsn=a7656b9a_4">QILT 2025 GOS International Report（2026年6月） ↗</a><p>2023–25国际本科合并调查范围、毕业后4–6个月、就业分母、薪酬范围与2025方法变化；PDF31/32/57–58页</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-uts-qilt-intl2025-tables"><div><a href="https://qilt.edu.au/docs/default-source/default-document-library/gos_2025_international_report_tables.zip?sfvrsn=5e0b873_1">QILT 2025 GOS International Report Tables ↗</a><p>官方ZIP内xlsx：FTE_UG_UNI_3YP_INST_FIG C37；SAL_UG_UNI_3YP_INST_FIG C38；UTS大学级国际本科2023–25合并结果</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/australia/uts/">← 返回悉尼科技大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

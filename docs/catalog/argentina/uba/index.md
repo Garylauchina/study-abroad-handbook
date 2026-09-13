@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-101 个专业条目 · 0 个含详细资料 · 99 个补有专业资料 · 2 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+101 个专业条目 · 0 个含详细资料 · 101 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=uba#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -90,14 +90,14 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-obstetricia-eba0475372/">Licenciatura en Obstetricia</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-paleontolog-a-b98e9f8e23/">古生物学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-planificaci-n-y-dise-o-del-paisaje-d51a934e57/">景观规划与设计</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-podolog-a-1eeeec780e/">Licenciatura en Podología</a><small>Carrera de grado（具体授予名称见官方课程） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-podolog-a-1eeeec780e/">足病学本科补充学程（限指定UBA技术资格）</a><small>Licenciatura en Podología (Ciclo de Complementación Curricular) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-producci-n-de-bioim-genes-e218786248/">Licenciatura en Producción de Bioimágenes</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-psicolog-a-fa2f7da9d0/">Licenciatura en Psicología</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-relaciones-del-trabajo-f58d66523c/">Licenciatura en Relaciones del Trabajo</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-sistemas-de-informaci-n-de-las-organizaciones-a6c5f237c3/">组织信息系统</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-licenciatura-en-trabajo-social-4c4b8ee68e/">Licenciatura en Trabajo Social</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-medicina-b5326f10a1/">医学</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-odontolog-a-47af9b69e4/">Odontología</a><small>Carrera de grado（具体授予名称见官方课程） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-odontolog-a-47af9b69e4/">牙医学（Odontólogo/a）</a><small>Odontólogo/a · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesor-a-de-ense-anza-secundaria-normal-y-especial-en-sociolog-1e95738d5b/">Profesor/a de Enseñanza Secundaria, Normal y Especial en Sociología</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-en-biolog-a-4d6b8e738a/">生物学大学教师</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/argentina/uba/uba-profesorado-universitario-en-computaci-n-5d57a6b8a7/">计算机大学教师</a><small>Carrera de grado（具体授予名称见官方课程） · 部分专业资料已核实</small></article>
@@ -194,7 +194,8 @@ hide:
 **尚未解决的目录缺口：**
 
 - 中央目录以Grado入口为范围，学制、具体授予资格和招生年度尚待逐课程核实。
-- 已纠正一组跨院景观学位重复并新增文学教师；Podología本科身份及Letras Clásicas是否独立学位仍有待确认，不能宣称目录完全闭合。
+- 已纠正一组跨院景观学位重复并新增文学教师；Podología已确认为指定UBA技术资格之后的本科补充学程；Letras Clásicas是否独立学位仍有待确认，不能宣称目录完全闭合。
+- 足病学2025代码066与2026两期名单不一致，2027开放未确认；牙科按法定2021计划及2024修订/2025适用核六年含CBC，不能把已结束的2026学院入学时间当2027首次CBC窗口。
 
 - [官方目录来源](https://www.uba.ar/carreras/1)
 - [官方目录来源](https://www.uba.ar/carreras/2)
@@ -211,5 +212,14 @@ hide:
 - [官方目录来源](https://www.uba.ar/carreras/13)
 - [官方目录来源](https://letras.filo.uba.ar/content/plan-de-estudios)
 - [官方目录来源](https://letras.filo.uba.ar/sites/letras.filo.uba.ar/files/documentos/IF-2023-01888733-UBA-SG%25REC%20%28PROFESORADO%29_0.pdf)
+- [官方目录来源](https://podologia.fmed.uba.ar/posgrado.htm)
+- [官方目录来源](https://podologia.fmed.uba.ar/Podologia/cuadro.png)
+- [官方目录来源](https://fmed.uba.ar/index.php/direccion-de-licenciaturas-y-tecnicaturas/inscripcion-carreras-1o-cuatrimestre-2025)
+- [官方目录来源](https://fmed.uba.ar/direccion-de-licenciaturas-y-tecnicaturas/inscripcion-carreras-1o-cuatrimestre-2026)
+- [官方目录来源](https://fmed.uba.ar/direccion-de-licenciaturas-y-tecnicaturas/inscripcion-carreras-2o-cuatrimestre-2026)
+- [官方目录来源](https://www.fmed.uba.ar/carreras/licenciatura-en-podologia/plan-de-estudios)
+- [官方目录来源](https://www.fmed.uba.ar/carreras/licenciatura-en-podologia/ingreso-la-licenciatura)
+- [官方目录来源](https://codigo.rec.uba.ar/libros_xiii__odonto/libro-xiii-facultad-de-odontologia/titulo-4-carrera-de-odontologia/capitulo-a-plan-2021/)
+- [官方目录来源](http://odontologia.uba.ar/?page_id=166)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

@@ -19,7 +19,7 @@ hide:
 
 <p class="program-title-en">Public and Global Health Sciences  MSci - Intercalated Degree</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>未取得现行报价</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>旧入口费用（未确认）</span><strong>未取得现行报价</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>Birmingham (Edgbaston) · <strong>授课语言：</strong>尚未核实</p>
 
@@ -34,14 +34,14 @@ hide:
 
 <p><strong>授予学位 / 项目类型：</strong>MSci</p>
 
-<p><strong>目录适用期：</strong>Current undergraduate directory checked 2026-09-12; directory does not give entry year</p>
+<p><strong>目录适用期：</strong>2026-09-13核对官方资料；课程、招生与费用适用年度见正文</p>
 
-<p><strong>申请路径：</strong>intercalated undergraduate degree; current medical/dental studies required</p>
+<p><strong>申请路径：</strong>旧插读条目；现行专业详情本轮未取得</p>
 
-<p><strong>目录状态：</strong>listed_current</p>
+<p><strong>目录状态：</strong>旧目录身份待核；2027开放与授位关系未确认</p>
 
-<p class="catalog-fact"><strong>旧插读条目仍待核：</strong>当前本科目录保留此医学/牙科在读插读名称，但原详情网址本轮访问失败；未取得可确认现行课程内容、招生年份、费用及截止的专业页。不能把它当作普通高中直入或凭同名项目推定已经合并。</p>
-<p class="fact-sources"><a href="#source-p-BHM-c8359df34001ea3e">官方依据</a></p>
+<p class="catalog-fact"><strong>仍未解决的目录身份差异：</strong>当前搜索卡片仍列Public and Global Health Sciences MSci、全日制Edgbaston面授并提及公共/全球卫生研究训练，但原详情网址本轮404；医学学院当前完整插读清单没有列此名称。本轮未取得停招、替代或2027招生的正式说明，不把搜索卡片短简介当完整课程。</p>
+<p class="fact-sources"><a href="#source-p-REM-birmingham-public-search">官方依据</a> · <a href="#source-p-REM-birmingham-med-list">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -66,6 +66,7 @@ hide:
 - [官方项目页面或项目所在目录](https://www.birmingham.ac.uk/undergraduate/courses/med/publicandglobalhealthsciencemsci-intercalateddegree.aspx)
 - [官方目录](https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true)
 
-<div class="catalog-source" id="source-p-BHM-c8359df34001ea3e"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&amp;pageSize=500&amp;preventScrollTop=true">伯明翰官方本科完整目录 ↗</a><p>旧插读条目仍待核</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-REM-birmingham-public-search"><div><a href="https://www.birmingham.ac.uk/study/courses?term=public+health">伯明翰公共卫生搜索结果中的Public and Global Health Sciences MSci卡片 ↗</a><p>仍未解决的目录身份差异</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-REM-birmingham-med-list"><div><a href="https://www.birmingham.ac.uk/about/college-of-medicine-and-health/undergraduate-degree-courses">伯明翰医学与健康学院当前本科及插读清单 ↗</a><p>仍未解决的目录身份差异</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/birmingham/">← 返回伯明翰大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

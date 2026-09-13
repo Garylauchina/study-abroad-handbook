@@ -86668,6 +86668,190 @@
         "outcomes"
       ],
       "inventory_id": "ucl-science-and-engineering-for-social-change-with-integrated-foundat-522d26a1b3"
+    },
+    {
+      "university_id": "ucl",
+      "inventory_id": "ucl-bulgarian-and-yiddish-ba-9901ba0ee0",
+      "raw_key": null,
+      "name_en": "Bulgarian and Yiddish BA",
+      "degree_label": "Bachelor of Arts (BA)",
+      "official_url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=2",
+      "source_period": "2027 directory; 2026-entry details only",
+      "checked_at": "2026-09-13",
+      "research_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "2026课程参考",
+            "text": "四年480学分；学习两门语言及相关文学、电影、历史和语言学，第一年含犹太研究导论；第三年分赴两种语言所在地区学习或获批实习，末年回UCL并可选论文。",
+            "source_ids": [
+              "REM-ucl-bulgarian-2026"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "2026参考门槛",
+            "text": "A-level ABB并有一门外语（不一定这两门）；两种语言均从零开始须向院系确认。IB34、HL合计16，须含保加利亚语或意第绪语、每门HL至少5；GCSE英语6/B、数学4/C。不同资格的科目文字确有差别，未擅自统一。",
+            "source_ids": [
+              "REM-ucl-bulgarian-2026"
+            ]
+          },
+          {
+            "label": "2026英语与选拔",
+            "text": "英语要求Level4，课程可能通过电话面试核语言能力。本轮未核2027课程具体中国资格及语言政策，不套其他语言组合。",
+            "source_ids": [
+              "REM-ucl-bulgarian-2026"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "当前与旧年周期",
+            "text": "2027目录仍标coming soon；2026参考为UCAS R7BY、2026年1月14日截止，已结束。旧页的2027链接返回总目录，本轮未取得2027专门申请开放和截止。",
+            "source_ids": [
+              "REM-ucl-bulgarian-2026",
+              "REM-ucl-bulgarian-coming"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2026/27国际学费参考",
+            "text": "国际生全日制年费£32,000；第三年海外费用另受安排影响，不以四倍推全程承诺。2027课程费本轮未取得。",
+            "source_ids": [
+              "REM-ucl-bulgarian-2026"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业数据边界",
+            "text": "页面职业举例含翻译、口译、教育及进一步研究；百分比来自两个院系英国/欧盟2017–2022届合并调查，不能当本双语组合或中国学生就业率，本条不复制数值。",
+            "source_ids": [
+              "REM-ucl-bulgarian-2026"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "REM-ucl-bulgarian-2026",
+          "title": "UCL — Bulgarian and Yiddish BA 官方课程资料",
+          "url": "https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-yiddish-ba-2026",
+          "checked_at": "2026-09-13",
+          "supports": "2026课程参考；2026参考门槛；2026英语与选拔；当前与旧年周期；2026/27国际学费参考；毕业数据边界",
+          "sha256": "9d0757ffa83bfb77fe23e823dc4520d24a4f9fe805ca6498294b4250b0234c3b",
+          "capture_method": "Official public page text returned by web tool, stored as exact JSON string"
+        },
+        {
+          "id": "REM-ucl-bulgarian-coming",
+          "title": "UCL — Bulgarian and Yiddish BA 官方课程资料",
+          "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?search=bulgarian-and-yiddish-ba",
+          "checked_at": "2026-09-13",
+          "supports": "当前与旧年周期",
+          "sha256": "d0639ed80edde96e24d32061fe35da40ddcd4ea5d48f7134777d9f203884b8f7",
+          "capture_method": "Official public page text returned by web tool, stored as exact JSON string"
+        }
+      ],
+      "display_fields": {
+        "name": "保加利亚语与意第绪语（2026课程参考）",
+        "intake": "2027目录coming soon；详情参考2026",
+        "duration": "4年全日制（2026参考）",
+        "campus": "London, Bloomsbury；第三年海外",
+        "entry_summary": "2027仍coming soon；2026 ABB含一门外语，2027门槛未确认",
+        "tuition_summary": "2026/27国际年学费£32,000；2027未确认",
+        "tuition_label": "2026/27国际学费参考"
+      },
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ]
+    },
+    {
+      "university_id": "ucl",
+      "inventory_id": "ucl-mathematics-and-secondary-mathematics-education-teacher-degree-ap-d13a4c3197",
+      "raw_key": null,
+      "name_en": "Mathematics and Secondary Mathematics Education Teacher Degree Apprenticeship BSc",
+      "degree_label": "Bachelor of Science (BSc)",
+      "official_url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=15",
+      "source_period": "Current IOE course page: header September2025; applications2025-10-07 to2026-07-22;2027 unverified",
+      "checked_at": "2026-09-13",
+      "research_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "学徒课程",
+            "text": "结合微积分、线性代数、数学分析、统计计算、数学教育和教学实践，四年全日制；整体约40%大学学习、60%学校在岗，所有模块必修。",
+            "source_ids": [
+              "REM-ucl-tda-web"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "资格及成绩",
+            "text": "须16岁以上、在英格兰居住至少三年、没有已有数学相关学位；不接受Student visa。标准A-level BBB含数学B及两门认可科目；IB32、HL合计15含数学HL6，另须GCSE英语与数学4/C或指定同等资格。入学还须职业健康和增强DBS审查；签订雇用合同后由学校承担检查费用。",
+            "source_ids": [
+              "REM-ucl-tda-web"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "独立渠道及年份",
+            "text": "通过DfE Apply选择雇用学校。页面申请窗口为2025-10-07至2026-07-22，已结束，顶栏开学仍写September2025；本轮未确认2027周期，不把旧截止改成2027。",
+            "source_ids": [
+              "REM-ucl-tda-web"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "学徒费用",
+            "text": "合资格学徒不缴课程学费并领取雇主工资，但不适用student finance或ITT training bursary；往返雇用学校及UCL交通自付。不是向普通国际学生提供免费学位。",
+            "source_ids": [
+              "REM-ucl-tda-web"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "教师资格",
+            "text": "通过课程End Point Assessment后取得QTS，可任教中学数学至A-level；未取得本专业毕业就业统计。",
+            "source_ids": [
+              "REM-ucl-tda-web"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "REM-ucl-tda-web",
+          "title": "UCL — Mathematics and Secondary Mathematics Education Teacher Degree Apprenticeship BSc 官方课程资料",
+          "url": "https://www.ucl.ac.uk/ioe/courses/apprenticeships/mathematics-and-secondary-mathematics-education-teacher-degree-apprenticeship-bsc-qts",
+          "checked_at": "2026-09-13",
+          "supports": "学徒课程；资格及成绩；独立渠道及年份；学徒费用；教师资格",
+          "sha256": "d0639ed80edde96e24d32061fe35da40ddcd4ea5d48f7134777d9f203884b8f7",
+          "capture_method": "Official public page text returned by web tool, stored as exact JSON string"
+        }
+      ],
+      "display_fields": {
+        "name": "数学与中学数学教育教师学徒制",
+        "duration": "4年全日制",
+        "campus": "UCL Bloomsbury与雇用学校",
+        "intake": "页面申请截止2026-07-22；2027未确认",
+        "entry_summary": "不接受Student visa；须在英格兰居住至少3年并有雇用学校",
+        "tuition_summary": "合资格学徒无需支付学费；普通国际生不适用",
+        "tuition_label": "学徒制费用（合资格雇员）"
+      },
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ]
     }
   ],
   "profile": {

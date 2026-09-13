@@ -3,9 +3,9 @@
   "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 145,
+    "count": 144,
     "scope": "Ann Arbor当前本科顶层学位／主修及已逐项核实的内部方向和补全入口",
-    "method": "保留原140稳定ID；新增BBS主修、口腔卫生补全、体育管理两个方向及最后本科IONM方向。LSA71、工程19、SMTD29及其他学院逐项原文对账；目录仍未完全闭合。",
+    "method": "保留原140稳定ID；新增BBS主修、口腔卫生补全、体育管理两个方向及最后本科IONM方向。LSA71、工程19、SMTD29及其他学院逐项原文对账；目录仍未完全闭合。；2026-09-13按官方明确2026年4月停办说明移出Plant Biology，旧链接保留更正。",
     "exclusions": "Exclude explicit sub-majors and certificate from independent-degree count, preserving them in submajors/excluded files. Replace broad SMTD and Stamps discipline listings with named awards. Merge same joint major repeated under two colleges. Keep second-entry/continuing-student majors.",
     "sources": [
       {
@@ -1617,10 +1617,21 @@
         "sha256": "6ccca37598a1b4fc6bd83f4aa8699a383e4545d6bfff00e43d50577610e2c60e",
         "raw_file": "scratch/full-catalog/michigan-enrichment/followup/d6752ba26b8f833af5ee.html",
         "locator": "当前适用年度、申请者身份及费用／资助范围"
+      },
+      {
+        "url": "https://prod.lsa.umich.edu/biology/undergraduates/majors---minors.html",
+        "sha256": "7e5aaf3528c0ada42477246a2510667d50f81ec6635de4bc1e4a51485ca5855c",
+        "raw_file": "scratch/full-catalog/school-only-remainders/uba-us-agent/raw/michigan-biology-majors-prod.html",
+        "locator": "Plant Biology heading; DISCONTINUED AS OF APRIL 2026"
+      },
+      {
+        "url": "https://prod.lsa.umich.edu/content/dam/biology-assets/PLANTBIO-MAJOR.pdf",
+        "sha256": "276b79f1b34d440e3700eff60d3fc01d1447c842f18d1de7bf7547bfbff6c033",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/michigan-plant-pdf.html",
+        "locator": "PDF pages 1–4; footer Updated 11/15/24"
       }
     ],
     "gaps": [
-      "旧Plant Biology未列当前LSA72主修，尚无明确停招、更名或替代关系证据，保留旧条目并隔离普通新生规则。",
       "工程Robotics五方向、数学及生物物理等全部内部方向尚未逐个独立收录；当前145条不代表全量专业与详情已完成。",
       "多数学位2027—2028费用、独立毕业调查及逐课程授课语言仍有缺口；2026—2027费率为明确学院与学分层级参考。",
       "明确区分高中新生、大学转入、校内主修申报、既有美国注册专业人士补全及本科最后批次。"
@@ -3419,21 +3430,6 @@
       "entity_type": "major",
       "id": "michigan-piano-performance-bb38cef35e",
       "name": "钢琴表演音乐学士"
-    },
-    {
-      "name_en": "Plant Biology",
-      "degree_label": "本科项目（学位名称尚未核实）",
-      "official_url": "https://lsa.umich.edu/lsa/academics/majors-minors.html#plant_biology-maj",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://admissions.umich.edu/academics-majors/majors-degrees",
-      "source_period": "Current official directory, checked 2026-09-12",
-      "raw_key": "Plant Biology | College of Literature, Science, and the Arts (LSA)",
-      "academic_unit": "College of Literature, Science, and the Arts (LSA)",
-      "entity_type": "major",
-      "id": "michigan-plant-biology-267b379902"
     },
     {
       "name_en": "Polish",

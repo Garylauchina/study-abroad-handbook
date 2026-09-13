@@ -38,7 +38,7 @@ hide:
 
 <p><strong>目录条目类别：</strong>degree</p>
 
-<p><strong>申请路径：</strong>Published undergraduate bachelor / combined bachelor pathway</p>
+<p><strong>申请路径：</strong>限本地生入口；不适用普通国际新生。</p>
 
 <p class="catalog-fact"><strong>课程内容与路径：</strong>学习孕期、分娩及产后妇女与新生儿照护，把助产理论、科学、模拟及临床实践结合，面向澳大利亚助产士注册的专业培养。最低144学分，全日制每学期四门课；国际生是否开放、临床准入及毕业注册条件另须核实。</p>
 <p class="fact-sources"><a href="#source-p-uts-handbook-c10225">官方依据</a></p>
@@ -72,13 +72,6 @@ hide:
 <p class="catalog-fact"><strong>职业方向及统计范围：</strong>官网列出的可能职业方向示例包括助产士职业方向、临床助产顾问方向、助产教育管理。这些是培养和职业方向说明，未提供可比毕业届次、国际生样本、就业率或薪酬统计。相应注册、后续学习及用人资格仍须另外满足，不能仅凭该本科授位推定取得执业资格。</p>
 <p class="fact-sources"><a href="#source-p-uts-C10225-international-page">官方依据</a></p>
 
-<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
-
-<p class="catalog-fact"><strong>结果统计缺口：</strong>本轮未取得完整覆盖本科专业、明确毕业届次及国际生分组的就业调查。部分手册宣传就业数字缺少本轮核实的分母和样本，未写成课程就业率。</p>
-<p class="fact-sources"><a href="#source-u-uts-profile-apply">官方依据</a></p>
-
-</details>
-
 ## 官方来源与核验记录 {#sources}
 
 目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
@@ -88,6 +81,5 @@ hide:
 
 <div class="catalog-source" id="source-p-uts-handbook-c10225"><div><a href="https://coursehandbook.uts.edu.au/course/2027/C10225">UTS 2027 手册：Bachelor of Midwifery（C10225） ↗</a><p>2027手册中的课程身份、公开说明、课程结构、Notes及侧栏学习安排；不是所有申请者的新生录取确认。</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-uts-C10225-international-page"><div><a href="https://www.uts.edu.au/courses/bachelor-of-midwifery">Bachelor of Midwifery — course admissions ↗</a><p>正式课程码、国际生栏目、入学和2027参考学费；公开Career options职业方向示例</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-u-uts-profile-apply"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants">uts 官方资料：apply ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/australia/uts/">← 返回悉尼科技大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

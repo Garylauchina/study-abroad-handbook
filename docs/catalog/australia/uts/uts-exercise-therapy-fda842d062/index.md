@@ -40,7 +40,7 @@ hide:
 
 <p><strong>所属学位：</strong>Bachelor of Sport and Exercise Science</p>
 
-<p><strong>申请路径：</strong>Degree-internal catalog field; not an independent degree</p>
+<p><strong>申请路径：</strong>不向国际生或非近期中学毕业者开放；接续物理治疗硕士仍需GPA≥5.0及面试</p>
 
 <p class="catalog-fact"><strong>课程内容与路径：</strong>2027 学位内主修结构共 48 学分，其中核心课 42 学分，其余按指定选项或课程组完成。已列课程内容包括运动评估与处方、运动医学和康复、运动科学实践、技能习得及脑与行为。另含 6 学分跨学科选修。当前官方招生页明确此主修不接收国际学生或非近期离校申请者（non-recent school leavers）。其接续 UTS 物理治疗硕士的保证入口仍以 GPA 至少 5.0 和内部面试成功为条件；主修本身不是物理治疗师注册资格。</p>
 <p class="fact-sources"><a href="#source-p-uts-handbook-maj06234">官方依据</a> · <a href="#source-p-uts-exercise-therapy-admission-agent">官方依据</a></p>
@@ -69,13 +69,6 @@ hide:
 <p class="catalog-fact"><strong>后续物理治疗硕士条件：</strong>完成此主修后接续 UTS 物理治疗硕士的保证入口，仍须维持 GPA 至少 5.0 且内部面试成功。物理治疗师注册资格与后续硕士完成相关，不能由本科主修直接推定。</p>
 <p class="fact-sources"><a href="#source-p-uts-exercise-therapy-admission-agent">官方依据</a></p>
 
-<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
-
-<p class="catalog-fact"><strong>结果统计缺口：</strong>本轮未取得完整覆盖本科专业、明确毕业届次及国际生分组的就业调查。部分手册宣传就业数字缺少本轮核实的分母和样本，未写成课程就业率。</p>
-<p class="fact-sources"><a href="#source-u-uts-profile-apply">官方依据</a></p>
-
-</details>
-
 ## 官方来源与核验记录 {#sources}
 
 目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
@@ -86,6 +79,5 @@ hide:
 <div class="catalog-source" id="source-p-uts-handbook-maj06234"><div><a href="https://coursehandbook.uts.edu.au/aos/2027/MAJ06234">UTS 2027 手册：Exercise Therapy（MAJ06234） ↗</a><p>2027手册中的课程身份、公开说明、课程结构、Notes及侧栏学习安排；不是所有申请者的新生录取确认。</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-uts-handbook-c10300"><div><a href="https://coursehandbook.uts.edu.au/course/2027/C10300">UTS 2027 手册：Bachelor of Sport and Exercise Science（C10300） ↗</a><p>2027手册中的课程身份、公开说明、课程结构、Notes及侧栏学习安排；不是所有申请者的新生录取确认。</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-uts-exercise-therapy-admission-agent"><div><a href="https://www.uts.edu.au/courses/bachelor-of-sport-and-exercise-science-exercise-therapy">UTS Bachelor of Sport and Exercise Science (Exercise Therapy) — Admissions information ↗</a><p>运动治疗主修不向国际学生及non-recent school leavers开放，物理治疗硕士有条件衔接，不能以主修直接取得注册资格。</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-u-uts-profile-apply"><div><a href="https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants">uts 官方资料：apply ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/australia/uts/">← 返回悉尼科技大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

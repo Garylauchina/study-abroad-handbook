@@ -1532,5 +1532,140 @@
         "sha256": "efd6a4de95f1c3c292bb27e69f052fe31b1c0ce15dede730dbea3793ec8e4dd6"
       }
     ]
+  },
+  {
+    "id": "boston-greek-ancient-c13e34c208",
+    "university_id": "boston",
+    "name_en": "Greek—Ancient",
+    "reason": "此名称与现行主记录指向同一官方授位和课程计划，已合并为一个入口；没有证据支持把目录别名计作另一学位。旧链接保留以说明更正。",
+    "checked_at": "2026-09-13",
+    "replacement_inventory_id": "boston-ancient-greek-latin-72da36322e",
+    "sources": [
+      {
+        "id": "BU-0a0029bcd2e4d1ad",
+        "title": "BA in Ancient Greek & Latin — BU 官方课程目录",
+        "url": "https://www.bu.edu/academics/cas/programs/classical-studies/ba-ancient-greek/",
+        "checked_at": "2026-09-13",
+        "sha256": "d09946b0940db67e7deb944af5012dba686dc1a8c548c9fbbde219f0c24f01a3"
+      }
+    ]
+  },
+  {
+    "id": "boston-history-of-art-architecture-793cb5cc38",
+    "university_id": "boston",
+    "name_en": "History of Art & Architecture",
+    "reason": "此名称与现行主记录指向同一官方授位和课程计划，已合并为一个入口；没有证据支持把目录别名计作另一学位。旧链接保留以说明更正。",
+    "checked_at": "2026-09-13",
+    "replacement_inventory_id": "boston-art-architecture-history-of-c7a48cf10a",
+    "sources": [
+      {
+        "id": "BU-bb52f78e57cd9e50",
+        "title": "BA in History of Art & Architecture — BU 官方课程目录",
+        "url": "https://www.bu.edu/academics/cas/programs/art-history/ba/",
+        "checked_at": "2026-09-13",
+        "sha256": "92f8d3803e8f215674b1f29533bda8677fad0d106ae4467042fdf0be453b7d86"
+      }
+    ]
+  },
+  {
+    "id": "boston-performance-music-689d10f11c",
+    "university_id": "boston",
+    "name_en": "Performance, Music",
+    "reason": "此名称与现行主记录指向同一官方授位和课程计划，已合并为一个入口；没有证据支持把目录别名计作另一学位。旧链接保留以说明更正。",
+    "checked_at": "2026-09-13",
+    "replacement_inventory_id": "boston-music-performance-614c39a926",
+    "sources": [
+      {
+        "id": "BU-9fb225b6da14f4dc",
+        "title": "Bachelor of Music (BM) in Performance — BU 官方课程目录",
+        "url": "https://www.bu.edu/academics/cfa/programs/school-of-music/performance/bm/",
+        "checked_at": "2026-09-13",
+        "sha256": "6806f991b9f9e032d7a74416f5793c033787500adfa20af13c815cf1d4997db7"
+      }
+    ]
+  },
+  {
+    "id": "boston-theatre-stage-management-d48c4d5036",
+    "university_id": "boston",
+    "name_en": "Theatre–Stage Management",
+    "reason": "此名称与现行主记录指向同一官方授位和课程计划，已合并为一个入口；没有证据支持把目录别名计作另一学位。旧链接保留以说明更正。",
+    "checked_at": "2026-09-13",
+    "replacement_inventory_id": "boston-stage-management-f834392d65",
+    "sources": [
+      {
+        "id": "BU-b02bc0e2462d4644",
+        "title": "BFA–Theatre, Stage Management major — BU 官方课程目录",
+        "url": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/stage-management/bfa/",
+        "checked_at": "2026-09-13",
+        "sha256": "a5135b1783b1d0f5bb580101dfb8625c5b2104619eefed15f01aa95f52c46b33"
+      }
+    ]
+  },
+  {
+    "id": "boston-theatre-technical-production-33f835b43c",
+    "university_id": "boston",
+    "name_en": "Theatre–Technical Production",
+    "reason": "此名称与现行主记录指向同一官方授位和课程计划，已合并为一个入口；没有证据支持把目录别名计作另一学位。旧链接保留以说明更正。",
+    "checked_at": "2026-09-13",
+    "replacement_inventory_id": "boston-technical-production-f8bbc279e5",
+    "sources": [
+      {
+        "id": "BU-27a64d91893275af",
+        "title": "BFA–Theatre, Technical Production major — BU 官方课程目录",
+        "url": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/technical-production/bfa/",
+        "checked_at": "2026-09-13",
+        "sha256": "b3dec17d11ede6cfe08af807497a6fceb0ed230d0578ba4f57548bcff1f7bfc9"
+      }
+    ]
+  },
+  {
+    "id": "boston-music-performance-2999a68e06",
+    "university_id": "boston",
+    "name_en": "Music Performance",
+    "reason": "此名称与现行主记录指向同一官方授位和课程计划，已合并为一个入口；没有证据支持把目录别名计作另一学位。旧链接保留以说明更正。",
+    "checked_at": "2026-09-13",
+    "replacement_inventory_id": "boston-music-education-584e4eaaa8",
+    "sources": [
+      {
+        "id": "BURJ-course-148",
+        "title": "音乐表演BM→音乐教育MM（教师初始执照） — BU官方学位课程目录",
+        "url": "https://www.bu.edu/academics/cfa/programs/school-of-music/music-education/bm-mm/",
+        "checked_at": "2026-09-13",
+        "sha256": "9d6eccdb8ab42d9b64e54d26779b19eb4a2fd7835558a8538bb21ea07a1a2fcd"
+      }
+    ]
+  },
+  {
+    "id": "boston-performance-music-113b5f2d7f",
+    "university_id": "boston",
+    "name_en": "Performance, Music",
+    "reason": "此名称与现行主记录指向同一官方授位和课程计划，已合并为一个入口；没有证据支持把目录别名计作另一学位。旧链接保留以说明更正。",
+    "checked_at": "2026-09-13",
+    "replacement_inventory_id": "boston-music-education-584e4eaaa8",
+    "sources": [
+      {
+        "id": "BURJ-course-153",
+        "title": "音乐表演BM→音乐教育MM（教师初始执照） — BU官方学位课程目录",
+        "url": "https://www.bu.edu/academics/cfa/programs/school-of-music/music-education/bm-mm/",
+        "checked_at": "2026-09-13",
+        "sha256": "9d6eccdb8ab42d9b64e54d26779b19eb4a2fd7835558a8538bb21ea07a1a2fcd"
+      }
+    ]
+  },
+  {
+    "id": "michigan-plant-biology-267b379902",
+    "university_id": "michigan",
+    "name_en": "Plant Biology",
+    "reason": "官网明确该专业自2026年4月停办，故移出当前专业清单。旧链接保留更正说明；2024培养方案仅供历史参考。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "REMX-michigan-biology-majors-prod",
+        "title": "U-M Program in Biology — Majors & Minors",
+        "url": "https://prod.lsa.umich.edu/biology/undergraduates/majors---minors.html",
+        "checked_at": "2026-09-13",
+        "sha256": "7e5aaf3528c0ada42477246a2510667d50f81ec6635de4bc1e4a51485ca5855c"
+      }
+    ]
   }
 ]

@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-165 个专业条目 · 0 个含详细资料 · 163 个补有专业资料 · 2 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+165 个专业条目 · 0 个含详细资料 · 165 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=purdue#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -173,7 +173,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-science-education-aafdbeb969/">Science Education</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-selling-and-sales-management-ab97d1395d/">Selling and Sales Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-social-studies-education-567f54787d/">Social Studies Education</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-sociology-1f23b5d3b7/">Sociology</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-sociology-1f23b5d3b7/">社会学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-sound-for-the-performing-arts-f88bc50646/">Sound for the Performing Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-special-education-mild-and-intense-intervention-p-12-064b61c7ba/">Special Education: Mild and Intense Intervention P-12</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-speech-language-and-hearing-sciences-737e8b65ac/">Speech, Language and Hearing Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
@@ -188,7 +188,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-ux-design-28b3def1dd/">UX Design</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-unmanned-aerial-systems-d7211bc986/">Unmanned Aerial Systems</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-veterinary-technology-9e2b9e60a5/">Veterinary Technology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-virtual-design-and-construction-6a49cd55c6/">Virtual Design and Construction</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-virtual-design-and-construction-6a49cd55c6/">虚拟设计与施工</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-visual-communication-design-7728cbffc0/">Visual Communication Design</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-web-programming-and-design-a6b5529ba7/">Web Programming and Design</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-wildlife-science-ef66665ce4/">Wildlife Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
@@ -264,5 +264,8 @@ hide:
 - Duration and language not inferred.
 
 - [官方目录来源](https://admissions.purdue.edu/academics/majors/)
+- [官方目录来源](https://www.cla.purdue.edu/academic/sociology/undergraduate/BA_in_Sociology.html)
+- [官方目录来源](https://www.cla.purdue.edu/academic/sociology/undergraduate/Career_Exploration_Sociology.html)
+- [官方目录来源](https://polytechnic.purdue.edu/academics/virtual-design-and-construction)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

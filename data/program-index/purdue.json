@@ -1,6 +1,6 @@
 {
   "university_id": "purdue",
-  "checked_at": "2026-09-12",
+  "checked_at": "2026-09-13",
   "coverage": {
     "status": "complete",
     "count": 165,
@@ -14,6 +14,24 @@
         "bytes": 153360,
         "raw_file": "scratch/full-catalog/us-b/purdue/index.html",
         "meta_file": "scratch/full-catalog/us-b/purdue/index.source.json"
+      },
+      {
+        "url": "https://www.cla.purdue.edu/academic/sociology/undergraduate/BA_in_Sociology.html",
+        "sha256": "b3a242ad11b01c9c40c17707f3cd6289bb0580aca1cad9f7382536583ecbed44",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/purdue-soc-dept.html",
+        "locator": "Bachelor Degree in Sociology"
+      },
+      {
+        "url": "https://www.cla.purdue.edu/academic/sociology/undergraduate/Career_Exploration_Sociology.html",
+        "sha256": "bab4c324ea220229a301d1461d78a74f985d1fc107253bbccc5900361e4ff382",
+        "raw_file": "scratch/full-catalog/school-only-remainders/uba-us-agent/raw/purdue-soc-career.html",
+        "locator": "What Can I Do with a Sociology Degree?; Internships; Academic Evaluation; Compensation"
+      },
+      {
+        "url": "https://polytechnic.purdue.edu/academics/virtual-design-and-construction",
+        "sha256": "45d010ff2595ea68d0afdfa3225d853578a6d9b59de9c61e35e5cec8103b95af",
+        "raw_file": "scratch/full-catalog/school-only-remainders/raw/purdue-vdc-dept.html",
+        "locator": "School; Locations; Course highlights; Careers; Potential Employers"
       }
     ],
     "gaps": [
@@ -2348,16 +2366,21 @@
       "degree_label": "Bachelor of Arts",
       "official_url": "https://admissions.purdue.edu/majors/sociology/",
       "intake": null,
-      "duration": null,
+      "duration": "4年参考课程计划",
       "campus": "West Lafayette",
       "language": null,
       "discovery_source_url": "https://admissions.purdue.edu/academics/majors/?paged=10",
-      "source_period": "Current admissions directory, last modified 2026-08-28",
+      "source_period": "2026-09-13核对官方资料；课程、招生与费用适用年度见正文",
       "raw_key": "Sociology | Bachelor of Arts",
       "academic_unit": "Liberal Arts",
       "entity_type": "bachelor program",
-      "entry_route": null,
-      "id": "purdue-sociology-1f23b5d3b7"
+      "entry_route": "已核专业课程；2027专业额外招生条件本轮未取得",
+      "id": "purdue-sociology-1f23b5d3b7",
+      "name": "社会学",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Sound for the Performing Arts",
@@ -2592,12 +2615,18 @@
       "campus": "West Lafayette",
       "language": null,
       "discovery_source_url": "https://admissions.purdue.edu/academics/majors/?paged=11",
-      "source_period": "Current admissions directory, last modified 2026-08-28",
+      "source_period": "2026-09-13核对官方资料；课程、招生与费用适用年度见正文",
       "raw_key": "Virtual Design and Construction | Bachelor of Science",
       "academic_unit": "Purdue Polytechnic Institute",
       "entity_type": "bachelor program",
-      "entry_route": null,
-      "id": "purdue-virtual-design-and-construction-6a49cd55c6"
+      "entry_route": "已核专业课程；2027专业额外招生条件本轮未取得",
+      "id": "purdue-virtual-design-and-construction-6a49cd55c6",
+      "name": "虚拟设计与施工",
+      "subject": "艺术与设计",
+      "subjects": [
+        "艺术与设计",
+        "工程"
+      ]
     },
     {
       "name_en": "Visual Communication Design",

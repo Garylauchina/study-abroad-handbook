@@ -22036,60 +22036,103 @@
       "raw_key": "U7UETENGY3-2026",
       "name_en": "Electronic Engineering with a Year in Industry MEng Hons",
       "official_url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/2026/Electronic-Engineering-with-a-Year-in-Industry-MEng-Hons.html",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
-            "label": "目录学习安排",
-            "text": "学位 MEng Hons；学制 5 年 全日制；入学 September 2026；地点 University Park Campus。",
+            "label": "2026课程内容",
+            "text": "电子工程本硕贯通：从电子系统、计算和通信基础，进阶至嵌入式系统、集成电路与相关工程选项；结合个人及团队实验项目。第三年有行业需求方参与的实践设计项目，第四年为行业实习，再回校完成第五年。",
             "source_ids": [
-              "UKENR-bcd95ddec608d8"
-            ],
-            "extraction_locator": "Official directory entry: U7UETENGY3-2026"
+              "REM-nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c"
+            ]
+          },
+          {
+            "label": "学习安排",
+            "text": "2026入口五年全日制，University Park校区。大一至大二每周平均约20小时接触教学，连同作业自学可超过40小时；不是仅20小时总学习量。",
+            "source_ids": [
+              "REM-nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c"
+            ]
           }
         ],
-        "admissions": [],
-        "applications": [],
-        "fees": [],
-        "outcomes": []
+        "admissions": [
+          {
+            "label": "2026 A-level先修",
+            "text": "标准AAA，须数学，加电子、计算机、物理、化学、生物、进阶数学、Design and Technology: Systems Control或Design Engineering H404之一；GCSE英语4/C。中国高考适用性不能从此英国资格表自行换算。",
+            "source_ids": [
+              "REM-nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c"
+            ]
+          },
+          {
+            "label": "2026 IB和英语",
+            "text": "IB总分34或三门Higher Level Certificates取得666；数学为HL6 AA、HL6 AI或SL7 AA，另需生物/化学/物理/计算机之一HL6。IELTS总分6.0且各项至少5.5，其他认可资格按校级英语专页。",
+            "source_ids": [
+              "REM-nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c"
+            ]
+          },
+          {
+            "label": "实习年并非保证",
+            "text": "学生负责取得实习岗位，须符合校方学术要求和雇主条件；未获得岗位或选择不实习时可转入不含行业年的版本，毕业学位名称随之变化。",
+            "source_ids": [
+              "REM-nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "年度及申请缺口",
+            "text": "此页入口明确为2026年9月，UCAS H61C；本轮未取得同路线2027专门页面和有效截止。不能将校级2027申请日直接标作此2026周期仍开放。",
+            "source_ids": [
+              "REM-nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2026国际生报价",
+            "text": "2026入口页面国际分栏列£33,000/年；实习年可能用降低的费率，须另核，不能按普通学年乘五。页面链接国际本科及工程学院资助，但本轮未核该路线2027具体金额和条件。",
+            "source_ids": [
+              "REM-nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "认可和调查边界",
+            "text": "课程页明确IET认证文字为部分满足Chartered Engineer学术要求，本条按原文保留、不推定自动取得注册。其毕业数字合并全校electrical and electronic engineering本科2021/22–2022/23，且指标包含深造；不是此实习路线或中国学生就业率，本条不套其数值。职业方向包括电子、通信、AI与自动化。",
+            "source_ids": [
+              "REM-nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c"
+            ]
+          }
+        ]
       },
       "sources": [
         {
-          "id": "UKENR-bcd95ddec608d8",
-          "title": "nottingham 官方本科目录",
-          "url": "https://www.nottingham.ac.uk/bin/uon/coursepages.json",
-          "checked_at": "2026-09-12",
-          "supports": "目录中的课程名称、学位和已明确的学制／入学年份／校区",
-          "sha256": "e75fab41562a20670d6d5a8e82b0dbdc0fe23f0967bf680eb02bbc2ca3bcf135",
-          "locator": "U7UETENGY3-2026"
+          "id": "REM-nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c",
+          "title": "University of Nottingham — Electronic Engineering with a Year in Industry MEng Hons 官方课程资料",
+          "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/2026/Electronic-Engineering-with-a-Year-in-Industry-MEng-Hons.html",
+          "checked_at": "2026-09-13",
+          "supports": "2026课程内容；学习安排；2026 A-level先修；2026 IB和英语；实习年并非保证；年度及申请缺口；2026国际生报价；认可和调查边界",
+          "sha256": "85bc47c8576f82a0bc02f1f371cdb223937f8483cc9fe70cbc26b11ded2f1486"
         }
       ],
-      "coverage_notes": [
-        "Individual course payload unavailable: fetch_error; only directory-level facts retained."
-      ],
       "display_fields": {
-        "duration": "5 年 全日制",
+        "name": "电子工程（含行业实习年，本硕贯通）",
+        "intake": "2026年9月参考；2027入口未确认",
+        "duration": "5年全日制",
         "campus": "University Park Campus",
-        "intake": "September 2026"
+        "entry_summary": "2026标准AAA含数学和指定科学/技术科目；IELTS6.0各5.5",
+        "tuition_summary": "2026入口国际年费£33,000；实习年另计",
+        "outcomes_summary": "官方电子工程职业方向；未取得本路线独立就业率",
+        "tuition_label": "2026国际学费参考"
       },
-      "coverage": {
-        "overview": true,
-        "admissions": false,
-        "applications": false,
-        "fees": false,
-        "outcomes": false
-      },
-      "detail_payload_acquired": false,
-      "research_status": "directory_only",
-      "substantive_coverage": {
-        "course_content": false,
-        "entry_conditions": false,
-        "fee_amount": false,
-        "career_directions": false,
-        "outcome_statistics": false
-      },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
-      "inventory_id": "nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c"
+      "detail_payload_acquired": true,
+      "research_status": "partial",
+      "inventory_id": "nottingham-electronic-engineering-with-a-year-in-industry-meng-hons-a9df66348c",
+      "degree_label": "MEng Hons",
+      "excluded_school_sections": [
+        "applications",
+        "fees"
+      ]
     },
     {
       "university_id": "nottingham",

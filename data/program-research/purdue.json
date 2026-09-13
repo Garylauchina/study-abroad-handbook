@@ -10140,42 +10140,88 @@
     },
     {
       "university_id": "purdue",
+      "inventory_id": "purdue-sociology-1f23b5d3b7",
       "raw_key": "Sociology | Bachelor of Arts",
       "name_en": "Sociology",
+      "degree_label": "Bachelor of Arts",
       "official_url": "https://admissions.purdue.edu/majors/sociology/",
-      "checked_at": "2026-09-12",
+      "source_period": "Current admissions directory, last modified 2026-08-28",
+      "checked_at": "2026-09-13",
+      "research_status": "partial",
       "sections": {
         "overview": [
           {
-            "label": "目录身份",
-            "text": "官方目录收录 Sociology；本轮未取得可用专业详情，尚未补录课程专属条件。",
+            "label": "专业内容",
+            "text": "研究社会关系与制度，涵盖社会/政治运动、种族和性别不平等、家庭、宗教、阶层、权力及人口变化，分析制度如何回应社会需求。",
             "source_ids": [
-              "USBENR-2d5a19f744dd66"
-            ],
-            "extraction_locator": "official majors directory entry"
+              "REM-purdue-soc-dept"
+            ]
+          },
+          {
+            "label": "学位与学制",
+            "text": "学院将其列为通往社会学Bachelor of Arts的四年课程计划；另有Degree in 3链接，但本轮未核该加速路径条件，不将三年作为普通学制。",
+            "source_ids": [
+              "REM-purdue-soc-dept"
+            ]
+          },
+          {
+            "label": "实习课程",
+            "text": "经认可的社会服务或刑事司法机构实习可通过SOC423取得学分；需完成工时及课程报告、日志、期末论文和机构评价。实习机构无必须支付报酬的义务。",
+            "source_ids": [
+              "REMX-purdue-soc-career"
+            ]
           }
         ],
-        "admissions": [],
+        "admissions": [
+          {
+            "label": "专业招生缺口",
+            "text": "本轮已核社会学学位与课程说明，但未取得2027本专业特定先修、追加材料或校内转专业门槛。另列的学校共用条件不能证明本专业没有例外。",
+            "source_ids": [
+              "REM-purdue-soc-dept"
+            ]
+          }
+        ],
         "applications": [],
         "fees": [],
-        "outcomes": []
+        "outcomes": [
+          {
+            "label": "职业方向与调查边界",
+            "text": "社会学专栏列人力资源、市场研究、政策分析、社会科学研究等方向，不能把相邻Law and Society栏的律师岗位当作本学位直接资格。本轮未取得本专业届次和分母明确的就业数字。",
+            "source_ids": [
+              "REMX-purdue-soc-career"
+            ]
+          }
+        ]
       },
       "sources": [
         {
-          "id": "USBENR-2d5a19f744dd66",
-          "title": "Purdue 官方本科目录",
-          "url": "https://admissions.purdue.edu/academics/majors/?paged=10",
-          "checked_at": "2026-09-12",
-          "supports": "本专业目录身份；详情页本轮未取得",
-          "sha256": "24c4d1d359ea39a0cb6e6c613c7593c4a6cc0e86228bccabeaa24f2ba54f622f",
-          "locator": null
+          "id": "REM-purdue-soc-dept",
+          "title": "Purdue Sociology — Bachelor Degree in Sociology",
+          "url": "https://www.cla.purdue.edu/academic/sociology/undergraduate/BA_in_Sociology.html",
+          "checked_at": "2026-09-13",
+          "supports": "社会学具体主题、BA及四年课程计划",
+          "sha256": "b3a242ad11b01c9c40c17707f3cd6289bb0580aca1cad9f7382536583ecbed44",
+          "locator": "Bachelor Degree in Sociology"
+        },
+        {
+          "id": "REMX-purdue-soc-career",
+          "title": "Purdue Sociology — Career Exploration",
+          "url": "https://www.cla.purdue.edu/academic/sociology/undergraduate/Career_Exploration_Sociology.html",
+          "checked_at": "2026-09-13",
+          "supports": "社会学专业职业方向；SOC423实习及可能无薪",
+          "sha256": "bab4c324ea220229a301d1461d78a74f985d1fc107253bbccc5900361e4ff382",
+          "locator": "What Can I Do with a Sociology Degree?; Internships; Academic Evaluation; Compensation"
         }
       ],
-      "display_fields": {},
-      "research_status": "directory_only",
-      "coverage_notes": "本轮详情抓取未成功；仅保留官方目录身份，未补专业条件。",
-      "degree_label": "Bachelor of Arts",
-      "inventory_id": "purdue-sociology-1f23b5d3b7"
+      "display_fields": {
+        "name": "社会学",
+        "campus": "West Lafayette",
+        "entry_summary": "已核专业课程；2027专业额外招生条件本轮未取得",
+        "duration": "4年参考课程计划"
+      },
+      "coverage_notes": [
+        "本轮未新增学校共用政策；保留现有profile。专业独立2027截止、额外收费或奖学金未取得，不能据此认定没有。"
+      ]
     },
     {
       "university_id": "purdue",
@@ -11119,42 +11165,71 @@
     },
     {
       "university_id": "purdue",
+      "inventory_id": "purdue-virtual-design-and-construction-6a49cd55c6",
       "raw_key": "Virtual Design and Construction | Bachelor of Science",
       "name_en": "Virtual Design and Construction",
+      "degree_label": "Bachelor of Science",
       "official_url": "https://admissions.purdue.edu/majors/virtual-design-construction/",
-      "checked_at": "2026-09-12",
+      "source_period": "Current admissions directory, last modified 2026-08-28",
+      "checked_at": "2026-09-13",
+      "research_status": "partial",
       "sections": {
         "overview": [
           {
-            "label": "目录身份",
-            "text": "官方目录收录 Virtual Design and Construction；本轮未取得可用专业详情，尚未补录课程专属条件。",
+            "label": "专业内容",
+            "text": "在Bowen建设学院学习建筑图学、三维建模、商业施工BIM及项目协调，结合无人机、激光扫描、数字孪生和AI工具。课程实践包括碰撞检测、施工动画和技术展示。",
             "source_ids": [
-              "USBENR-a8d3c6ea590913"
-            ],
-            "extraction_locator": "official majors directory entry"
+              "REM-purdue-vdc-dept"
+            ]
+          },
+          {
+            "label": "专业与校区",
+            "text": "Bowen建设学院将其列为West Lafayette本科major。课程中的建筑图学由二维文档进入三维表达，商业施工BIM结合场地规划、跨工种协调与碰撞检测；本轮未取得完整学分及学制。",
+            "source_ids": [
+              "REM-purdue-vdc-dept"
+            ]
           }
         ],
-        "admissions": [],
+        "admissions": [
+          {
+            "label": "专业招生缺口",
+            "text": "本轮已核该major的学院与专业课程，但未取得2027专业特定先修、追加材料或校内转专业门槛。学校共用条件不能证明本专业没有例外。",
+            "source_ids": [
+              "REM-purdue-vdc-dept"
+            ]
+          }
+        ],
         "applications": [],
         "fees": [],
-        "outcomes": []
+        "outcomes": [
+          {
+            "label": "官方职业方向",
+            "text": "列BIM协调、项目管理和施工技术等职业方向；雇主表标为Potential Employers，只表示可能雇主，不是已证实毕业录用或就业率。",
+            "source_ids": [
+              "REM-purdue-vdc-dept"
+            ]
+          }
+        ]
       },
       "sources": [
         {
-          "id": "USBENR-a8d3c6ea590913",
-          "title": "Purdue 官方本科目录",
-          "url": "https://admissions.purdue.edu/academics/majors/?paged=11",
-          "checked_at": "2026-09-12",
-          "supports": "本专业目录身份；详情页本轮未取得",
-          "sha256": "24c4d1d359ea39a0cb6e6c613c7593c4a6cc0e86228bccabeaa24f2ba54f622f",
-          "locator": null
+          "id": "REM-purdue-vdc-dept",
+          "title": "Purdue Polytechnic — Virtual Design and Construction",
+          "url": "https://polytechnic.purdue.edu/academics/virtual-design-and-construction",
+          "checked_at": "2026-09-13",
+          "supports": "本科major、West Lafayette、建筑图学与BIM课程、潜在职业和雇主边界",
+          "sha256": "45d010ff2595ea68d0afdfa3225d853578a6d9b59de9c61e35e5cec8103b95af",
+          "locator": "School; Locations; Course highlights; Careers; Potential Employers"
         }
       ],
-      "display_fields": {},
-      "research_status": "directory_only",
-      "coverage_notes": "本轮详情抓取未成功；仅保留官方目录身份，未补专业条件。",
-      "degree_label": "Bachelor of Science",
-      "inventory_id": "purdue-virtual-design-and-construction-6a49cd55c6"
+      "display_fields": {
+        "name": "虚拟设计与施工",
+        "campus": "West Lafayette",
+        "entry_summary": "已核专业课程；2027专业额外招生条件本轮未取得"
+      },
+      "coverage_notes": [
+        "本轮未新增学校共用政策；保留现有profile。专业独立2027截止、额外收费或奖学金未取得，不能据此认定没有。"
+      ]
     },
     {
       "university_id": "purdue",

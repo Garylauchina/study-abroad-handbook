@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-582 个专业条目 · 2 个含详细资料 · 578 个补有专业资料 · 2 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+582 个专业条目 · 2 个含详细资料 · 580 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=ucl#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -118,7 +118,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-bulgarian-and-spanish-ba-8bb8491dbe/">Bulgarian and Spanish BA</a><small>Bachelor of Arts (BA) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-bulgarian-and-swedish-ba-6b8fe7153c/">Bulgarian and Swedish BA</a><small>Bachelor of Arts (BA) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-bulgarian-and-ukrainian-ba-c7d393fc7d/">Bulgarian and Ukrainian BA</a><small>Bachelor of Arts (BA) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-bulgarian-and-yiddish-ba-9901ba0ee0/">Bulgarian and Yiddish BA</a><small>Bachelor of Arts (BA) · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-bulgarian-and-yiddish-ba-9901ba0ee0/">保加利亚语与意第绪语（2026课程参考）</a><small>Bachelor of Arts (BA) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-business-and-health-health-science-bsc-b9cdf5f61d/">Business and Health (Health Science) BSc</a><small>Bachelor of Science (BSc) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-business-and-health-health-science-msci-aac35b8912/">Business and Health (Health Science) MSci</a><small>Master in Science (MSci) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-business-and-health-health-technology-bsc-8ae19d0cd3/">Business and Health (Health Technology) BSc</a><small>Bachelor of Science (BSc) · 部分专业资料已核实</small></article>
@@ -429,7 +429,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-mathematics-msci-9845227f56/">Mathematics MSci</a><small>Master in Science (MSci) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-mathematics-and-physics-bsc-f6e745a75f/">Mathematics and Physics BSc</a><small>Bachelor of Science (BSc) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-mathematics-and-physics-msci-2db08da49d/">Mathematics and Physics MSci</a><small>Master in Science (MSci) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-mathematics-and-secondary-mathematics-education-teacher-degree-ap-d13a4c3197/">Mathematics and Secondary Mathematics Education Teacher Degree Apprenticeship BSc</a><small>Bachelor of Science (BSc) · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-mathematics-and-secondary-mathematics-education-teacher-degree-ap-d13a4c3197/">数学与中学数学教育教师学徒制</a><small>Bachelor of Science (BSc) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-mathematics-and-statistical-science-bsc-2f8626e38e/">Mathematics and Statistical Science BSc</a><small>Bachelor of Science (BSc) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-mathematics-and-statistical-science-msci-b726e68111/">Mathematics and Statistical Science MSci</a><small>Master in Science (MSci) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-mathematics-with-economics-bsc-6b336d188a/">Mathematics with Economics BSc</a><small>Bachelor of Science (BSc) · 部分专业资料已核实</small></article>
@@ -672,6 +672,7 @@ hide:
 - Current listing is not proof that applications are still open; status listed_current means present in the current directory.
 - Nested study options can require transfer after initial enrolment; individual-course route classification is pending.
 - Engineering Foundation Year is a grouped foundation entry with no degree badge; its individual progression awards/UCAS routes are not fully expanded.
+- 保加利亚/意第绪2027详情仍coming soon，已核2026历史课程；数学教师学徒不适用Student visa且2027周期未确认。
 
 - [官方目录来源](https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=13)
 - [官方目录来源](https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=2)
@@ -697,5 +698,8 @@ hide:
 - [官方目录来源](https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=16)
 - [官方目录来源](https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=7)
 - [官方目录来源](https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/engineering-foundation-year)
+- [官方目录来源](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-yiddish-ba-2026)
+- [官方目录来源](https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?search=bulgarian-and-yiddish-ba)
+- [官方目录来源](https://www.ucl.ac.uk/ioe/courses/apprenticeships/mathematics-and-secondary-mathematics-education-teacher-degree-apprenticeship-bsc-qts)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

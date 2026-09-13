@@ -200,10 +200,16 @@
       "locator": "See each fact extraction_locator"
     },
     {
-      "url": "https://www.bristol.ac.uk/study/undergraduate/search/",
-      "sha256": "0b3fb52ef774a6f8094c2f2da4a5afcc889370ffae3a7a400fb968ad6b60d16e",
-      "raw_file": "scratch/full-catalog/uk/bristol/raw/directory-0.html",
-      "locator": "https://www.bristol.ac.uk/study/undergraduate/2027/geoscience/bsc-environmental-geoscience"
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/film-television/ba-film-and-english/",
+      "sha256": "e8683c80f81e9a1e75bf1a10feda4f473f6e0f9447350e43c58978ff6588350b",
+      "raw_file": "scratch/full-catalog/school-only-remainders/raw/bristol-film-and-english-ba-96be281525.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/media/undergraduate/admissions-statements/2027/film-english.pdf",
+      "sha256": "04dada936c016807fda9b55b9ef6ce9ab3d7d93397edce0be1252feb3f725726",
+      "raw_file": "scratch/full-catalog/school-only-remainders/raw/bristol-as-film-english.pdf",
+      "locator": "PDF pages1–2; version1.0 May2026; explicitly2027"
     },
     {
       "url": "https://www.bristol.ac.uk/study/undergraduate/2027/modern-languages/ba-film-and-modern-languages/",
@@ -602,6 +608,12 @@
       "locator": "See each fact extraction_locator"
     },
     {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-economics-and-accounting-with-professional-placement/",
+      "sha256": "eb26066bc5e6b5b2532d53fe5c8b78eb57d5efc4d4e3df35ab44269f3bb74fa8",
+      "raw_file": "scratch/full-catalog/school-only-remainders/raw/bristol-economics-and-accounting-with-professional-placement-bsc-0216786a2a.html",
+      "locator": null
+    },
+    {
       "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-economics-and-accounting-with-study-abroad/",
       "sha256": "1ec3b87472f3ff26ae7b51497cffc04a769a1df6b39e735f1981ce8be28b069e",
       "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-a40a4a40d5e9b3.html",
@@ -702,6 +714,18 @@
       "sha256": "d8480c4b433895f4e5cf2a3f2814c54e68ffebaa19507b7796f51d6773d671ea",
       "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-0ad2dca51ac1c5.html",
       "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/geoscience/bsc-environmental-geoscience/",
+      "sha256": "0da6d37ca5abf61e860829c1276fa4dcb406aaf870d19ad22931a2dfa936152d",
+      "raw_file": "scratch/full-catalog/school-only-remainders/raw/bristol-environmental-geoscience-bsc-e4eba872ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/media/undergraduate/admissions-statements/2027/earth-sciences.pdf",
+      "sha256": "bb5b2f217d49a393bd66d2a6ba53aaaf142936514f7c6ad14d45eb48f254a5a3",
+      "raw_file": "scratch/full-catalog/school-only-remainders/raw/bristol-as-earth-sciences.pdf",
+      "locator": "PDF pages1–2; version1.0 May2026; explicitly2027"
     },
     {
       "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-finance/",
