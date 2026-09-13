@@ -5,7 +5,7 @@
     "status": "partial",
     "count": 390,
     "scope": "2026–2027本科及专业学位校历中可识别学位名称的正式专业、主修、荣誉、联合荣誉组件与专项方向。",
-    "method": "完整A–Z共1396节点；读取167个本科院系programs节点并合并校历导航的605个含本科/专业学位标签条目，按URL去重后排除辅修、基础年及聚合入口。 逐页核验后再合并3处学院间重复条目，并移除1处院系总览。 另据现行招生页补Music BA，以及音乐学院明确列出的在读后BMus+BSc双学位路径；旧Faculty Program按实际队列合并至MusicStudies。 逐项深化4条既有BCL/JD路线，明确基础105、荣誉120和两主修123完整学位学分及主修36组件；补当前在读CGPA、英法证明、LSAT、申请材料及费用适用档，390库存保持。",
+    "method": "完整A–Z共1396节点；读取167个本科院系programs节点并合并校历导航的605个含本科/专业学位标签条目，按URL去重后排除辅修、基础年及聚合入口。 逐页核验后再合并3处学院间重复条目，并移除1处院系总览。 另据现行招生页补Music BA，以及音乐学院明确列出的在读后BMus+BSc双学位路径；旧Faculty Program按实际队列合并至MusicStudies。 逐项深化4条既有BCL/JD路线，明确基础105、荣誉120和两主修123完整学位学分及主修36组件；补当前在读CGPA、英法证明、LSAT、申请材料及费用适用档，390库存保持。 本次定向深化6条牙医、医学、两护理及两康复本科路线，119事实保留入学／课程／费用年度及先前学历差别；仍390目录，不刷新全校原核验日期。",
     "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
     "sources": [
       {
@@ -2223,11 +2223,187 @@
         "url": "https://www.mcgill.ca/caps/files/caps/destination_survey_class_2023.pdf",
         "sha256": "ff6acb04609d244c3cfa75a6b2346bc43c9631db634375a57eacdba9b379eb5c",
         "raw_file": "scratch/full-catalog/root/mcgill-outcomes-pdf.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/curriculum",
+        "sha256": "b36e7520b9d008568a8f6fd535875bd89dea27f133d77ce36f6e19b420f585cd",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-curriculum.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/offer-admission-dmd-program",
+        "sha256": "89c4b07966ed5a5bd2c436d32d7f7f78027f466db2250446f9a9cd9b9073ad03",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-offer.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=91&field_fee_residency_status_tid=141",
+        "sha256": "3613944fb1f9d82d4ad076ddaf066fcdc771567a07bd80db718025b848379541",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-international-fees.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/dentistry/programs/language-proficiency",
+        "sha256": "a3ba6748c4621a8404367418c2aeb6e7b819c845a21154ab61e1dc49aa9cc49b",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-language.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/how-apply",
+        "sha256": "af9a456c0fd26906a53ef1eee3114b32cce8aee07620079c873bfddb19e73cc1",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-application.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/requirements",
+        "sha256": "7f4d5fbb8f3e44ba2e7d9f3b2a52264fb25ffeca6a2e465e17e0d5cd69373c24",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-requirements.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/applicant-categories",
+        "sha256": "4d3fe0cc26b48a38cfafac68d0cb097b439561f13c8f4ee5679f85046b5b1ec8",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-categories.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/selection-process",
+        "sha256": "2f34181ce0566ee67cfc27fa8bbb3ab916eb238041f6eb13ebab5fadc493a01b",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-selection.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/supporting-documents",
+        "sha256": "79e0363c9b070d036edc222a04401cf9f8e8e895f7311e661f9c18e1e815362d",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-materials.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/ugme/mdcm-program/curriculum-structure",
+        "sha256": "c62f9a3d2b30768f1e8730e5e0c7a2ab5532423f330796aa0b37304e03c9e1de",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-curriculum.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/ugme/mdcm-program/curriculum-structure/curriculum-components",
+        "sha256": "e8447bb644f3ea37c8e5373560597edc8df27fffbbe518e3115c06370b6612a9",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-curriculum-components.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/medadmissions/applying/application-process",
+        "sha256": "8486d6b8a3d1e3e491d6ca91d0aacbd51867fce21f40af51afe2a42c6d23f94d",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-application.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/medadmissions/applying/requirements/general-requirements/language",
+        "sha256": "f78c6e8f17c36ed4703ea55c8839f1e457707ffe3bf46f6dc4c46cf8fefd877b",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-language.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/ugme/mdcm-program/curriculum-structure/program-learning-outcomes",
+        "sha256": "f5115f26083ae4c5a08bacae55c471a077ad9734951c40f0afa9174a1e83025e",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-objectives.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/medadmissions/applying/requirements-edu/degree-requirements",
+        "sha256": "7555aef0abfff7f8acca3135e153a596fdc99c91afa470b12bf8e13b6bf1a0cc",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-degree.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/medadmissions/applying/requirements/general-requirements",
+        "sha256": "c97b4aa039310bbc3d39d3e15aa8afcfb12616b91a00197787917eb3a8afbceb",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-general.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/medadmissions/applying/requirements-edu/basic-science-prerequisites",
+        "sha256": "1ecfec2212040b42a5eadfe01aa0f856bab5005567bde8ecf7843795b146e723",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-science.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/medadmissions/applying/categories/int",
+        "sha256": "273face614e2a27398215fad082e45487da4df12583f475cec41728ddd0541aa",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-international.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/medadmissions/applying/elements/casper",
+        "sha256": "4e131caa5b9e8477ad19a914ecef329ad4116b4b77fdfbb718bbe0ff724ff9a6",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-casper.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/medadmissions/applying/elements",
+        "sha256": "f51ed1cc61af4750a7b5a5e4625cab457d725da45dec75dfef11d5508cb79d86",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-materials.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=92&field_fee_residency_status_tid=141",
+        "sha256": "fec161554fbe2af9867a399705262d78cdadac95ae30b528a37105620f7ee4f5",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-international-fees.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/nursing/programs/bachelor-programs/bscn/course-study",
+        "sha256": "91d34dadbe9b64ac63a99c95d41b16a7e607ee8a9223cb8d7c1515fa695d5109",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/nursing-bscn-curriculum.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/undergraduate-admissions/french-proficiency",
+        "sha256": "2f7d8ecb23f2330deee2b49b72a68110ec1415b22fa87304a187b888009d2e3a",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/undergraduate-french.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/international/china",
+        "sha256": "e268b1938b3da6ab83423cfb1632314ee0c621de474687b86f0941341d7e15b5",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/china-qualifications.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/nursing/apply/bachelor-programs",
+        "sha256": "69ae8ec72cc004cfad515ebb8e7b5bc9f2ec9acf8873957d1c6d65cdfbc100b2",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/nursing-apply.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=171&field_fee_residency_status_tid=141",
+        "sha256": "dd6c821147afb71bf98d179f2f99ba62b91096cebccc8d260c815ffd7881da2b",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/nursing-international-fees.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/nursing/programs/bachelors-programs/bachelors-nursing-integrated/course-study",
+        "sha256": "3dad77ab0c42dd37b51678b5b5befef2a41a90be636502f1f7af10f1c194ee01",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/nursing-bni-curriculum.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/undergraduate-admissions/program/nursing-integrated",
+        "sha256": "2732306fbbb24ac8718c21c270d74d337ce025ccab74fb9790ae1f5aa4680ec7",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/nursing-integrated-overview.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/nursing/programs/bachelor-programs/bachelor-nursing-integrated/bni-program-clinical-studies",
+        "sha256": "87a859559cb784be7aba875db45468bee602c2f9928d379f2716b5193cdc9816",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/nursing-bni-clinical.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/nursing/programs/bachelor-programs/bachelor-nursing-integrated/admission-criteria",
+        "sha256": "4d1b140761ed1d2424af5753faf0de269bcb58a8479318b85316dbfee1e4eb95",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/nursing-bni-admissions.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/spot/programs/admissions/undergraduate-programs",
+        "sha256": "a82f22910530dc04296e37c9b5d469c376732c14cd21dff24cf4189ee6adc274",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/rehabilitation-admissions.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/spot/application-route",
+        "sha256": "76e70fbe1818f1da9306f76a7ec103b343bbe9ac2537ca0c3577fc32522fefaa",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/rehabilitation-route-china-highschool.ax.txt"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=77&field_fee_residency_status_tid=141",
+        "sha256": "61194fc6408498143a890443b4e5784015a25b93cb94c7505d09e2391c77bf76",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/ot-international-fees.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/spot/programs/pt",
+        "sha256": "438024123442ae8a2ae3ebebdf448f69bbe43fd0f8214d2e1fd81d6d1b900f0a",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/rehabilitation-pt.html"
+      },
+      {
+        "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=78&field_fee_residency_status_tid=141",
+        "sha256": "e504b8e0f1d1f6ee747bb1dd82680b9895378ea892ff07ffbaa6fb6c48b1c280",
+        "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/pt-international-fees.html"
       }
     ],
     "gaps": [
       "目录中的独立方向和联合荣誉组件不等于独立学位数；尚需逐学院核对停招状态、遗漏的无学位标签节点及Second Degree限制。",
-      "法律4路线的课程结构为已保存2026–2027校历，2027入口日历与2026/27国际费分开。2027/28学费、后续学年排课、主修/荣誉在读年度截止与独立毕业调查仍待补；WRIT496在SAO与校历的清单差异保留。"
+      "法律4路线的课程结构为已保存2026–2027校历，2027入口日历与2026/27国际费分开。2027/28学费、后续学年排课、主修/荣誉在读年度截止与独立毕业调查仍待补；WRIT496在SAO与校历的清单差异保留。",
+      "本批6健康路线保留BNI3／5年与65／66学分、护理103／106及136／139等模型差异、PT后续硕士61／63学分、医学面试到场／线上及2027国际1席与通用2席等冲突。2027全课程细则、2027/28费用、项目专属毕业调查与部分大学先修对照仍未全部取得。"
     ]
   },
   "programs": [
@@ -5128,7 +5304,7 @@
       "campus": null,
       "language": null,
       "raw_key": "https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/",
-      "entry_note": "专业学位路径；适用的先前大学学习、语言及申请者身份条件尚待逐项核实，不能按普通高中直申理解。",
+      "entry_note": "先有120学分学士／认可等同学历及指定科学实验课；Casper；国际法语证明可延后至第三年临床前",
       "id": "mcgill-dentistry-four-year-program-d-m-d-62f3bade11"
     },
     {
@@ -6226,7 +6402,7 @@
       "campus": null,
       "language": null,
       "raw_key": "https://coursecatalogue.mcgill.ca/en/undergraduate/medicine-health-sciences/professional/programs/mdcm/",
-      "entry_note": "专业学位路径；适用的先前大学学习、语言及申请者身份条件尚待逐项核实，不能按普通高中直申理解。",
+      "entry_note": "2027国际预计1席；学士及七门科学实验先修；Casper；Montreal法语B2／OutaouaisC1与校区资格另核",
       "id": "mcgill-medicine-m-d-c-m-20e7442e22"
     },
     {
@@ -6396,7 +6572,8 @@
       "campus": null,
       "language": null,
       "raw_key": "https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/",
-      "id": "mcgill-nursing-b-sc-n-8d7abb2dda"
+      "id": "mcgill-nursing-b-sc-n-8d7abb2dda",
+      "entry_note": "中国高中可按本科招生规则申请；数学及至少两门生化物理，通常各年及先修85%以上；法语B2；一般须U0"
     },
     {
       "name_en": "Integrated Nursing (B.N.I.)",
@@ -6409,7 +6586,8 @@
       "campus": null,
       "language": null,
       "raw_key": "https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/integrated-nursing-bni/",
-      "id": "mcgill-integrated-nursing-b-n-i-7af37b41ff"
+      "id": "mcgill-integrated-nursing-b-n-i-7af37b41ff",
+      "entry_note": "魁省护理DEC衔接；专页近5年与校历3年规则冲突；临床前须有效OIIQ执照，中国高中不直入"
     },
     {
       "name_en": "Occupational Therapy Major (B.Sc.) (Rehabilitation Science)",
@@ -6422,7 +6600,8 @@
       "campus": null,
       "language": null,
       "raw_key": "https://coursecatalogue.mcgill.ca/en/undergraduate/physical-occupational-therapy/physical-occupational-therapy-programs/occupational-therapy-bsc-rehabilitation-science/",
-      "id": "mcgill-occupational-therapy-major-b-sc-rehabilitation-science-8f43fa8d5f"
+      "id": "mcgill-occupational-therapy-major-b-sc-rehabilitation-science-8f43fa8d5f",
+      "entry_note": "非加拿大公民／非魁省高中选择器要求进一步大学学习；本科90学分，硕士与执照另计；Casper＋法语B2"
     },
     {
       "name_en": "Physical Therapy Major (B.Sc.) (Rehabilitation Science)",
@@ -6435,7 +6614,8 @@
       "campus": null,
       "language": null,
       "raw_key": "https://coursecatalogue.mcgill.ca/en/undergraduate/physical-occupational-therapy/physical-occupational-therapy-programs/physical-therapy-bsc-rehabilitation-science/",
-      "id": "mcgill-physical-therapy-major-b-sc-rehabilitation-science-a266b13a92"
+      "id": "mcgill-physical-therapy-major-b-sc-rehabilitation-science-a266b13a92",
+      "entry_note": "大学先修入口及Casper／法语B2；本科90学分不授执业资格，后续硕士61／63学分资料差异保留"
     },
     {
       "name_en": "Anatomy and Cell Biology Major (B.Sc.)",

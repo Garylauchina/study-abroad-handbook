@@ -1388,6 +1388,60 @@
       "locator": null
     },
     {
+      "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/curriculum",
+      "sha256": "b36e7520b9d008568a8f6fd535875bd89dea27f133d77ce36f6e19b420f585cd",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-curriculum.html",
+      "locator": "Curriculum > DMD I–IV / Year Total | Curriculum first graduation-cohort sentence; offer > Financial aid; actual fee Yr1"
+    },
+    {
+      "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/offer-admission-dmd-program",
+      "sha256": "89c4b07966ed5a5bd2c436d32d7f7f78027f466db2250446f9a9cd9b9073ad03",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-offer.html",
+      "locator": "Program Description; offer > Find a place to live | Curriculum first graduation-cohort sentence; offer > Financial aid; actual fee Yr1 | Send final marks / immigration / immunization / Orientation | Accept offer / deferral / Financial aid | Program Description; international nonUSA recognition letter"
+    },
+    {
+      "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=91&field_fee_residency_status_tid=141",
+      "sha256": "3613944fb1f9d82d4ad076ddaf066fcdc771567a07bd80db718025b848379541",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-international-fees.html",
+      "locator": "Curriculum first graduation-cohort sentence; offer > Financial aid; actual fee Yr1 | Selected174/91/141; table cohort columns and insurance note"
+    },
+    {
+      "url": "https://www.mcgill.ca/dentistry/programs/language-proficiency",
+      "sha256": "a3ba6748c4621a8404367418c2aeb6e7b819c845a21154ab61e1dc49aa9cc49b",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-language.html",
+      "locator": "Language > English / French and international exception | English referral; university English > exemptions / IELTS"
+    },
+    {
+      "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/how-apply",
+      "sha256": "af9a456c0fd26906a53ef1eee3114b32cce8aee07620079c873bfddb19e73cc1",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-application.html",
+      "locator": "Language > English / French and international exception | Application opening schedule; materials > Casper / French | Materials1–7; application schedule; selection > asynchronous MMI / final"
+    },
+    {
+      "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/requirements",
+      "sha256": "7f4d5fbb8f3e44ba2e7d9f3b2a52264fb25ffeca6a2e465e17e0d5cd69373c24",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-requirements.html",
+      "locator": "Primary / Second-Alternate Bachelors degree; International Applicants | Basic Science Requirements > table and Grading | Basic Science Requirements > date / course count / expired courses | Eligibility for atypical degrees; Primary degree; COVID19 | Students enrolled in a graduate program; Student transfers"
+    },
+    {
+      "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/applicant-categories",
+      "sha256": "4d3fe0cc26b48a38cfafac68d0cb097b439561f13c8f4ee5679f85046b5b1ec8",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-categories.html",
+      "locator": "Primary / Second-Alternate Bachelors degree; International Applicants"
+    },
+    {
+      "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/selection-process",
+      "sha256": "2f34181ce0566ee67cfc27fa8bbb3ab916eb238041f6eb13ebab5fadc493a01b",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-selection.html",
+      "locator": "Interview selection; 2026 admission statistics > International | Materials1–7; application schedule; selection > asynchronous MMI / final | Admission statistics versus program description"
+    },
+    {
+      "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/supporting-documents",
+      "sha256": "79e0363c9b070d036edc222a04401cf9f8e8e895f7311e661f9c18e1e815362d",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/dentistry-materials.html",
+      "locator": "Application opening schedule; materials > Casper / French | Materials1–7; application schedule; selection > asynchronous MMI / final"
+    },
+    {
       "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/integrated-studies-education/kindergarten-elementary-bed/",
       "sha256": "44bbad19062655d4c9103aad3f22da5fb3fee04e1ba118f48ca9307e6d07e55d",
       "raw_file": "scratch/full-catalog/root/mcgill-program-212.html",
@@ -2018,6 +2072,78 @@
       "locator": null
     },
     {
+      "url": "https://www.mcgill.ca/ugme/mdcm-program/curriculum-structure",
+      "sha256": "c62f9a3d2b30768f1e8730e5e0c7a2ab5532423f330796aa0b37304e03c9e1de",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-curriculum.html",
+      "locator": "Four curricular components and detailed components | Language NB; English/French communication; objectives date; schema links"
+    },
+    {
+      "url": "https://www.mcgill.ca/ugme/mdcm-program/curriculum-structure/curriculum-components",
+      "sha256": "e8447bb644f3ea37c8e5373560597edc8df27fffbbe518e3115c06370b6612a9",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-curriculum-components.html",
+      "locator": "Four curricular components and detailed components | Required Courses200; Elective Course0–4; Clerkship"
+    },
+    {
+      "url": "https://www.mcgill.ca/medadmissions/applying/application-process",
+      "sha256": "8486d6b8a3d1e3e491d6ca91d0aacbd51867fce21f40af51afe2a42c6d23f94d",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-application.html",
+      "locator": "Language NB; English/French communication; objectives date; schema links | Schedule; supporting-documents table International row"
+    },
+    {
+      "url": "https://www.mcgill.ca/medadmissions/applying/requirements/general-requirements/language",
+      "sha256": "f78c6e8f17c36ed4703ea55c8839f1e457707ffe3bf46f6dc4c46cf8fefd877b",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-language.html",
+      "locator": "Language NB; English/French communication; objectives date; schema links | French minimum; exemptions; SCS test | English Language Proficiency; university exemptions and IELTS | Program Description; supervised clinical target; French licensure"
+    },
+    {
+      "url": "https://www.mcgill.ca/ugme/mdcm-program/curriculum-structure/program-learning-outcomes",
+      "sha256": "f5115f26083ae4c5a08bacae55c471a077ad9734951c40f0afa9174a1e83025e",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-objectives.html",
+      "locator": "Language NB; English/French communication; objectives date; schema links | Program Description; supervised clinical target; French licensure"
+    },
+    {
+      "url": "https://www.mcgill.ca/medadmissions/applying/requirements-edu/degree-requirements",
+      "sha256": "7555aef0abfff7f8acca3135e153a596fdc99c91afa470b12bf8e13b6bf1a0cc",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-degree.html",
+      "locator": "Primary / Second-Alternate Bachelors degree | Eligibility atypical degrees; General opening exclusions"
+    },
+    {
+      "url": "https://www.mcgill.ca/medadmissions/applying/requirements/general-requirements",
+      "sha256": "c97b4aa039310bbc3d39d3e15aa8afcfb12616b91a00197787917eb3a8afbceb",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-general.html",
+      "locator": "Eligibility atypical degrees; General opening exclusions | Key numbers; Special notes; general summary table"
+    },
+    {
+      "url": "https://www.mcgill.ca/medadmissions/applying/requirements-edu/basic-science-prerequisites",
+      "sha256": "1ecfec2212040b42a5eadfe01aa0f856bab5005567bde8ecf7843795b146e723",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-science.html",
+      "locator": "Basic Science Courses; labs; minimum grades | Date/count; recommended sciences; Substitution"
+    },
+    {
+      "url": "https://www.mcgill.ca/medadmissions/applying/categories/int",
+      "sha256": "273face614e2a27398215fad082e45487da4df12583f475cec41728ddd0541aa",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-international.html",
+      "locator": "Key numbers; Special notes; general summary table | International key numbers; Program Description"
+    },
+    {
+      "url": "https://www.mcgill.ca/medadmissions/applying/elements/casper",
+      "sha256": "4e131caa5b9e8477ad19a914ecef329ad4116b4b77fdfbb718bbe0ff724ff9a6",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-casper.html",
+      "locator": "2027 latest dates; registration; Pre-interview ranking"
+    },
+    {
+      "url": "https://www.mcgill.ca/medadmissions/applying/elements",
+      "sha256": "f51ed1cc61af4750a7b5a5e4625cab457d725da45dec75dfef11d5508cb79d86",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-materials.html",
+      "locator": "Schedule; supporting-documents table International row"
+    },
+    {
+      "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=92&field_fee_residency_status_tid=141",
+      "sha256": "fec161554fbe2af9867a399705262d78cdadac95ae30b528a37105620f7ee4f5",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/medicine-international-fees.html",
+      "locator": "Selected174/92/141; cohort table and notes a–c"
+    },
+    {
       "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/composition-major-bmus/",
       "sha256": "d096ef88047692b9c272782dcc952f347b09162d5ad9b1be223b3856a2dff203",
       "raw_file": "scratch/full-catalog/root/mcgill-program-297.html",
@@ -2132,10 +2258,64 @@
       "locator": null
     },
     {
+      "url": "https://www.mcgill.ca/nursing/programs/bachelor-programs/bscn/course-study",
+      "sha256": "91d34dadbe9b64ac63a99c95d41b16a7e607ee8a9223cb8d7c1515fa695d5109",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/nursing-bscn-curriculum.html",
+      "locator": "U0 Required27; complementary6/7; U1–U3 totals | U1–U3 course table; Required86; complementary | U3 registration footnotes; Important Notice U1 table | U0 note; Nursing admission > transfers | BScN exemptions; test components; TFI and licensure notes"
+    },
+    {
+      "url": "https://www.mcgill.ca/undergraduate-admissions/french-proficiency",
+      "sha256": "2f7d8ecb23f2330deee2b49b72a68110ec1415b22fa87304a187b888009d2e3a",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/undergraduate-french.html",
+      "locator": "French opening and components; PT programme stages | IELTS/exemptions; OT/PT French components"
+    },
+    {
+      "url": "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/international/china",
+      "sha256": "e268b1938b3da6ab83423cfb1632314ee0c621de474687b86f0941341d7e15b5",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/china-qualifications.html",
+      "locator": "Admission review; minimum grades; Nursing prerequisites | Admission review versus Supporting documentation | 2027 event scope; deadlines; incomplete application note | Applicant routing; China deadlines"
+    },
+    {
+      "url": "https://www.mcgill.ca/nursing/apply/bachelor-programs",
+      "sha256": "69ae8ec72cc004cfad515ebb8e7b5bc9f2ec9acf8873957d1c6d65cdfbc100b2",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/nursing-apply.html",
+      "locator": "Applicant routing; China deadlines"
+    },
+    {
+      "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=171&field_fee_residency_status_tid=141",
+      "sha256": "dd6c821147afb71bf98d179f2f99ba62b91096cebccc8d260c815ffd7881da2b",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/nursing-international-fees.html",
+      "locator": "Selected174/171/141; current table2026column | Fee Note2; credit totals | Placement remote students funding note; shared fees"
+    },
+    {
       "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/integrated-nursing-bni/",
       "sha256": "5b0e10b11e0a330c8383a1caf64eb1eb3c84b531d61cc5ad7fe122fbcf4c6142",
       "raw_file": "scratch/full-catalog/root/mcgill-program-310.html",
       "locator": null
+    },
+    {
+      "url": "https://www.mcgill.ca/nursing/programs/bachelors-programs/bachelors-nursing-integrated/course-study",
+      "sha256": "3dad77ab0c42dd37b51678b5b5befef2a41a90be636502f1f7af10f1c194ee01",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/nursing-bni-curriculum.html",
+      "locator": "BNI92/advanced27; Required55; complementary4; electives6 | Required courses; full-time U2 table | Summer clinical course; course4352023/24 note | Part-time form; clinical documents / placement | Fee Note2; credit totals"
+    },
+    {
+      "url": "https://www.mcgill.ca/undergraduate-admissions/program/nursing-integrated",
+      "sha256": "2732306fbbb24ac8718c21c270d74d337ce025ccab74fb9790ae1f5aa4680ec7",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/nursing-integrated-overview.html",
+      "locator": "Modalities; clinical courses / placement considerations | Admission criteria; delivery mode paragraph | Program overview/accreditation; careers | Careers example list"
+    },
+    {
+      "url": "https://www.mcgill.ca/nursing/programs/bachelor-programs/bachelor-nursing-integrated/bni-program-clinical-studies",
+      "sha256": "87a859559cb784be7aba875db45468bee602c2f9928d379f2716b5193cdc9816",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/nursing-bni-clinical.html",
+      "locator": "Modalities; clinical courses / placement considerations | Summer clinical course; course4352023/24 note | Recommended Rscore; clinical requirements | English exemptions; clinical license; French list BScN only | Part-time form; clinical documents / placement | Placement remote students funding note; shared fees"
+    },
+    {
+      "url": "https://www.mcgill.ca/nursing/programs/bachelor-programs/bachelor-nursing-integrated/admission-criteria",
+      "sha256": "4d1b140761ed1d2424af5753faf0de269bcb58a8479318b85316dbfee1e4eb95",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/nursing-bni-admissions.html",
+      "locator": "Current admission criteria versus BNI entrance requirements | Recommended Rscore; clinical requirements | Admission criteria; delivery mode paragraph"
     },
     {
       "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/physical-occupational-therapy/physical-occupational-therapy-programs/occupational-therapy-bsc-rehabilitation-science/",
@@ -2162,6 +2342,24 @@
       "locator": null
     },
     {
+      "url": "https://www.mcgill.ca/spot/programs/admissions/undergraduate-programs",
+      "sha256": "a82f22910530dc04296e37c9b5d469c376732c14cd21dff24cf4189ee6adc274",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/rehabilitation-admissions.html",
+      "locator": "Admissions overview63 versus PT master61/1072/5semesters | Admissions Process and Casper"
+    },
+    {
+      "url": "https://www.mcgill.ca/spot/application-route",
+      "sha256": "76e70fbe1818f1da9306f76a7ec103b343bbe9ac2537ca0c3577fc32522fefaa",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/rehabilitation-route-china-highschool.ax.txt",
+      "locator": "Three selected dropdowns and displayed results/links | 2027 event scope; actual result"
+    },
+    {
+      "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=77&field_fee_residency_status_tid=141",
+      "sha256": "61194fc6408498143a890443b4e5784015a25b93cb94c7505d09e2391c77bf76",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/ot-international-fees.html",
+      "locator": "Selected174/77/141; nonpracticing title; cohort and insurance"
+    },
+    {
       "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/physical-occupational-therapy/physical-occupational-therapy-programs/physical-therapy-bsc-rehabilitation-science/",
       "sha256": "1d8bede8d30cad01bd364be91fc5becd09c955f643633aae4d88aa7a2c020f58",
       "raw_file": "scratch/full-catalog/root/mcgill-program-312.html",
@@ -2172,6 +2370,18 @@
       "sha256": "e51881fd3d07e37eacbfa94166710f2969eb39d9bdf2a9fb44e2db7cc01fac4c",
       "raw_file": "scratch/full-catalog/root/mcgill-fee-78.html",
       "locator": null
+    },
+    {
+      "url": "https://www.mcgill.ca/spot/programs/pt",
+      "sha256": "438024123442ae8a2ae3ebebdf448f69bbe43fd0f8214d2e1fd81d6d1b900f0a",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/rehabilitation-pt.html",
+      "locator": "Admissions overview63 versus PT master61/1072/5semesters | French opening and components; PT programme stages | PT degree stage; Program Accreditation | About Profession versus BSc description"
+    },
+    {
+      "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=78&field_fee_residency_status_tid=141",
+      "sha256": "e504b8e0f1d1f6ee747bb1dd82680b9895378ea892ff07ffbaa6fb6c48b1c280",
+      "raw_file": "scratch/full-catalog/mcgill-health-enrichment/raw/pt-international-fees.html",
+      "locator": "Selected174/78/141; nonpracticing label and notes"
     },
     {
       "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/anatomy-cell-biology/anatomy-cell-biology-major-bsc/",

@@ -114,7 +114,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-computer-science-and-biology-major-b-sc-d237f2c818/">计算机科学与生物学主修</a><small>B.Sc. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-concentration-majeure-langue-et-litt-rature-fran-aises-traduction-ed1e69493b/">法语语言与文学—翻译主修</a><small>B.A. &amp; Sc. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-concentration-majeure-langue-et-litt-rature-fran-aises-tudes-et-p-cd5fa14d88/">法语语言与文学—文学研究与实践主修</a><small>B.A. &amp; Sc. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-dentistry-four-year-program-d-m-d-62f3bade11/">牙医学（DMD）</a><small>D.M.D. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-dentistry-four-year-program-d-m-d-62f3bade11/">牙医学（DMD，学士后四年制）</a><small>D.M.D. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-dietetics-major-b-sc-nutr-sc-fe84ebccf2/">膳食营养学</a><small>B.Sc.(Nutr.Sc.) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-double-sp-cialisation-langue-litt-rature-fran-aises-tudes-et-prat-0041defd4c/">法语语言与文学—文学研究与实践联合荣誉组成部分</a><small>B.A. &amp; Sc. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-early-music-performance-major-baroque-violin-viola-cello-viola-da-f45da87e5d/">古乐演奏—历史乐器</a><small>B.Mus. · 部分专业资料已核实</small></article>
@@ -229,7 +229,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-immunology-interdepartmental-honours-b-sc-f28580f2d2/">跨系免疫学（荣誉）</a><small>B.Sc. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-information-technology-management-concentration-b-com-c401d069ad/">信息技术管理方向（BCom）</a><small>B.Com. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-information-technology-management-major-b-com-7b07fa80e4/">信息技术管理主修（BCom）</a><small>B.Com. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-integrated-nursing-b-n-i-7af37b41ff/">护理学文凭衔接（BNI）</a><small>B.N.I. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-integrated-nursing-b-n-i-7af37b41ff/">护理学文凭衔接（BNI，校内／在线模式）</a><small>B.N.I. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-international-business-concentration-b-com-3b82e43e72/">国际商务方向（BCom）</a><small>B.Com. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-international-development-studies-honours-b-a-cbf1206f5f/">国际发展研究（荣誉）</a><small>B.A. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-international-development-studies-joint-honours-component-b-a-sc-de412822da/">国际发展研究联合荣誉组成部分</a><small>B.A. &amp; Sc. · 部分专业资料已核实</small></article>
@@ -295,7 +295,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-mathematics-and-statistics-for-management-major-b-com-4b1101948a/">管理类数学与统计主修（BCom）</a><small>B.Com. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-mechanical-engineering-b-eng-3f99f4608e/">机械工程</a><small>B.Eng. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-mechanical-engineering-honours-b-eng-3cba9f2266/">机械工程（荣誉）</a><small>B.Eng. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-medicine-m-d-c-m-20e7442e22/">医学（MDCM）</a><small>M.D.,C.M. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-medicine-m-d-c-m-20e7442e22/">医学（MDCM，学士后四年制）</a><small>M.D.,C.M. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-microbiology-and-immunology-honours-b-sc-d8a637f673/">微生物学与免疫学（荣誉）</a><small>B.Sc. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-microbiology-and-immunology-liberal-program-core-science-componen-fbd2a6aa59/">微生物学与免疫学—博雅理学核心</a><small>B.Sc. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-microbiology-and-immunology-major-b-sc-8ae10cb967/">微生物学与免疫学主修</a><small>B.Sc. · 部分专业资料已核实</small></article>
@@ -307,13 +307,13 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-music-studies-major-b-mus-c2881ba0e3/">音乐研究</a><small>B.Mus. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-neuroscience-honours-b-sc-ccaa227161/">神经科学（荣誉）</a><small>B.Sc. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-neuroscience-major-b-sc-d1b3af03f5/">神经科学主修</a><small>B.Sc. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-nursing-b-sc-n-8d7abb2dda/">护理学（BSc）</a><small>B.Sc.(N.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-nursing-b-sc-n-8d7abb2dda/">护理学（BScN）</a><small>B.Sc.(N.) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-nutrition-honours-b-sc-nutr-sc-44428f2406/">营养科学（荣誉）</a><small>B.Sc.(Nutr.Sc.) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-nutrition-major-food-function-and-safety-b-sc-nutr-sc-e40cb99d6d/">营养科学—食品功能与安全</a><small>B.Sc.(Nutr.Sc.) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-nutrition-major-global-nutrition-b-sc-nutr-sc-aaf570109d/">营养科学—全球营养</a><small>B.Sc.(Nutr.Sc.) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-nutrition-major-metabolism-health-and-disease-b-sc-nutr-sc-3085480601/">营养科学—代谢、健康与疾病</a><small>B.Sc.(Nutr.Sc.) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-nutrition-major-sports-nutrition-b-sc-nutr-sc-4294853383/">营养科学—运动营养</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-occupational-therapy-major-b-sc-rehabilitation-science-8f43fa8d5f/">康复科学—作业治疗</a><small>B.Sc. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-occupational-therapy-major-b-sc-rehabilitation-science-8f43fa8d5f/">康复科学学士—作业治疗（BSc，非执业阶段）</a><small>B.Sc. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-operations-management-concentration-b-com-4f4da492ec/">运营管理方向（BCom）</a><small>B.Com. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-organizational-behaviour-and-human-resources-management-major-b-c-0b7305f483/">组织行为与人力资源管理主修（BCom）</a><small>B.Com. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-performance-orchestral-instruments-major-b-mus-57a212438b/">管弦乐器演奏</a><small>B.Mus. · 部分专业资料已核实</small></article>
@@ -328,7 +328,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-philosophy-joint-honours-component-b-a-839019deec/">哲学联合荣誉组成部分</a><small>B.A. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-philosophy-major-concentration-b-a-sc-5f15b51a5f/">哲学主修</a><small>B.A. &amp; Sc. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-philosophy-major-concentration-b-a-8f770e138d/">哲学主修</a><small>B.A. · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-physical-therapy-major-b-sc-rehabilitation-science-a266b13a92/">康复科学—物理治疗</a><small>B.Sc. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-physical-therapy-major-b-sc-rehabilitation-science-a266b13a92/">康复科学学士—物理治疗（BSc，非执业阶段）</a><small>B.Sc. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-physical-and-health-education-b-ed-25404fd398/">体育与健康教育</a><small>B.Ed. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-physics-honours-b-sc-12c38134fa/">物理学（荣誉）</a><small>B.Sc. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-physics-liberal-program-core-science-component-b-sc-a02a3e7ee6/">物理学—博雅理学核心</a><small>B.Sc. · 部分专业资料已核实</small></article>
@@ -470,7 +470,7 @@ hide:
 
 <p><strong>统计范围：</strong>2026–2027本科及专业学位校历中可识别学位名称的正式专业、主修、荣誉、联合荣誉组件与专项方向。</p>
 
-<p><strong>对账方法：</strong>完整A–Z共1396节点；读取167个本科院系programs节点并合并校历导航的605个含本科/专业学位标签条目，按URL去重后排除辅修、基础年及聚合入口。 逐页核验后再合并3处学院间重复条目，并移除1处院系总览。 另据现行招生页补Music BA，以及音乐学院明确列出的在读后BMus+BSc双学位路径；旧Faculty Program按实际队列合并至MusicStudies。 逐项深化4条既有BCL/JD路线，明确基础105、荣誉120和两主修123完整学位学分及主修36组件；补当前在读CGPA、英法证明、LSAT、申请材料及费用适用档，390库存保持。</p>
+<p><strong>对账方法：</strong>完整A–Z共1396节点；读取167个本科院系programs节点并合并校历导航的605个含本科/专业学位标签条目，按URL去重后排除辅修、基础年及聚合入口。 逐页核验后再合并3处学院间重复条目，并移除1处院系总览。 另据现行招生页补Music BA，以及音乐学院明确列出的在读后BMus+BSc双学位路径；旧Faculty Program按实际队列合并至MusicStudies。 逐项深化4条既有BCL/JD路线，明确基础105、荣誉120和两主修123完整学位学分及主修36组件；补当前在读CGPA、英法证明、LSAT、申请材料及费用适用档，390库存保持。 本次定向深化6条牙医、医学、两护理及两康复本科路线，119事实保留入学／课程／费用年度及先前学历差别；仍390目录，不刷新全校原核验日期。</p>
 
 <p><strong>排除项：</strong>排除独立辅修、证书及非本科项目；具体边界见统计范围。</p>
 
@@ -478,6 +478,7 @@ hide:
 
 - 目录中的独立方向和联合荣誉组件不等于独立学位数；尚需逐学院核对停招状态、遗漏的无学位标签节点及Second Degree限制。
 - 法律4路线的课程结构为已保存2026–2027校历，2027入口日历与2026/27国际费分开。2027/28学费、后续学年排课、主修/荣誉在读年度截止与独立毕业调查仍待补；WRIT496在SAO与校历的清单差异保留。
+- 本批6健康路线保留BNI3／5年与65／66学分、护理103／106及136／139等模型差异、PT后续硕士61／63学分、医学面试到场／线上及2027国际1席与通用2席等冲突。2027全课程细则、2027/28费用、项目专属毕业调查与部分大学先修对照仍未全部取得。
 
 - [官方目录来源](https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/other-programs/)
 - [官方目录来源](https://www.mcgill.ca/undergraduate-admissions/program/music)
@@ -922,5 +923,40 @@ hide:
 - [官方目录来源](https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-honours-bsc/)
 - [官方目录来源](https://www.mcgill.ca/undergraduate-admissions/apply)
 - [官方目录来源](https://www.mcgill.ca/caps/files/caps/destination_survey_class_2023.pdf)
+- [官方目录来源](https://www.mcgill.ca/dentistry/4-year-dmd-program/curriculum)
+- [官方目录来源](https://www.mcgill.ca/dentistry/4-year-dmd-program/offer-admission-dmd-program)
+- [官方目录来源](https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=91&field_fee_residency_status_tid=141)
+- [官方目录来源](https://www.mcgill.ca/dentistry/programs/language-proficiency)
+- [官方目录来源](https://www.mcgill.ca/dentistry/4-year-dmd-program/how-apply)
+- [官方目录来源](https://www.mcgill.ca/dentistry/4-year-dmd-program/requirements)
+- [官方目录来源](https://www.mcgill.ca/dentistry/4-year-dmd-program/applicant-categories)
+- [官方目录来源](https://www.mcgill.ca/dentistry/4-year-dmd-program/selection-process)
+- [官方目录来源](https://www.mcgill.ca/dentistry/4-year-dmd-program/supporting-documents)
+- [官方目录来源](https://www.mcgill.ca/ugme/mdcm-program/curriculum-structure)
+- [官方目录来源](https://www.mcgill.ca/ugme/mdcm-program/curriculum-structure/curriculum-components)
+- [官方目录来源](https://www.mcgill.ca/medadmissions/applying/application-process)
+- [官方目录来源](https://www.mcgill.ca/medadmissions/applying/requirements/general-requirements/language)
+- [官方目录来源](https://www.mcgill.ca/ugme/mdcm-program/curriculum-structure/program-learning-outcomes)
+- [官方目录来源](https://www.mcgill.ca/medadmissions/applying/requirements-edu/degree-requirements)
+- [官方目录来源](https://www.mcgill.ca/medadmissions/applying/requirements/general-requirements)
+- [官方目录来源](https://www.mcgill.ca/medadmissions/applying/requirements-edu/basic-science-prerequisites)
+- [官方目录来源](https://www.mcgill.ca/medadmissions/applying/categories/int)
+- [官方目录来源](https://www.mcgill.ca/medadmissions/applying/elements/casper)
+- [官方目录来源](https://www.mcgill.ca/medadmissions/applying/elements)
+- [官方目录来源](https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=92&field_fee_residency_status_tid=141)
+- [官方目录来源](https://www.mcgill.ca/nursing/programs/bachelor-programs/bscn/course-study)
+- [官方目录来源](https://www.mcgill.ca/undergraduate-admissions/french-proficiency)
+- [官方目录来源](https://www.mcgill.ca/undergraduate-admissions/apply/requirements/international/china)
+- [官方目录来源](https://www.mcgill.ca/nursing/apply/bachelor-programs)
+- [官方目录来源](https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=171&field_fee_residency_status_tid=141)
+- [官方目录来源](https://www.mcgill.ca/nursing/programs/bachelors-programs/bachelors-nursing-integrated/course-study)
+- [官方目录来源](https://www.mcgill.ca/undergraduate-admissions/program/nursing-integrated)
+- [官方目录来源](https://www.mcgill.ca/nursing/programs/bachelor-programs/bachelor-nursing-integrated/bni-program-clinical-studies)
+- [官方目录来源](https://www.mcgill.ca/nursing/programs/bachelor-programs/bachelor-nursing-integrated/admission-criteria)
+- [官方目录来源](https://www.mcgill.ca/spot/programs/admissions/undergraduate-programs)
+- [官方目录来源](https://www.mcgill.ca/spot/application-route)
+- [官方目录来源](https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=77&field_fee_residency_status_tid=141)
+- [官方目录来源](https://www.mcgill.ca/spot/programs/pt)
+- [官方目录来源](https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=78&field_fee_residency_status_tid=141)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

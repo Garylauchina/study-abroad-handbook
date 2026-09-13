@@ -16928,14 +16928,17 @@
       "inventory_id": "mcgill-dentistry-four-year-program-d-m-d-62f3bade11",
       "name_en": "Dentistry (Four-Year Program) (D.M.D.)",
       "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dentistry-dmd/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "research_status": "partially_verified",
       "display_fields": {
-        "name": "牙医学（DMD）",
-        "duration": "4年专业学位；前置学士另计",
-        "entry_summary": "学士后四年牙医；国际生须Casper，第三年临床前法语B2及本国认可函。",
-        "intake": "2027",
-        "tuition_summary": "2026/27参考 CAD 133,122.13／实际首年"
+        "name": "牙医学（DMD，学士后四年制）",
+        "duration": "4年全日制专业学位；先前学士另计",
+        "entry_summary": "先有120学分学士／认可等同学历及指定科学实验课；Casper；国际法语证明可延后至第三年临床前",
+        "intake": "2027年秋季；当前课程表与费用年度分别标明",
+        "tuition_summary": "2026/27参考：CAD133,122.13学费／首年64学分；2027/28待核",
+        "campus": "Montréal；医牙基础教学楼、牙科学院及医院临床点",
+        "language": "教学英语；国际生第三年临床前须具备法语B2",
+        "outcomes_summary": "本专业毕业就业／薪资统计本轮未取得；专业资格与后续训练另见详情"
       },
       "sections": {
         "overview": [
@@ -16948,10 +16951,47 @@
           },
           {
             "label": "专业学分与学位结构",
-            "text": "校历标注本专业／方向权重221学分；该数字可能仅对应主修、荣誉或专项组件，完整学位、基础年及其他必修要求还须同时满足。标题与正文出现不同数字时，以上方说明所列差异为准。",
+            "text": "2026–2027校历列DMD四年完整专业课程221学分；申请所需的先前学士学习不包含在该专业课程总量内。",
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "四年的学分和临床递进",
+            "text": "学院当前课程表摘要总221学分，四年列64、54、67、36；校历第三年逐行学分为66.99，含三个2.33的部分课程，67为摘要舍入。首年医牙基础与口腔导论，二年牙体修复、牙髓、儿童牙科和牙周等训练，三年综合临床与4学分暑期诊所，四年高级临床、伦理及执业管理；含暑期学习。",
+            "source_ids": [
+              "MCH-dentistry-curriculum",
+              "program"
+            ],
+            "extraction_locator": "Curriculum > DMD I–IV / Year Total"
+          },
+          {
+            "label": "先临床训练及医院轮转",
+            "text": "校历列医院口腔颌面外科、儿童牙科、社区牙诊所及疼痛单位轮转。大部分最初16个月在Strathcona及McIntyre教学楼，前临床阶段主要在2001 McGill College Avenue设施；各年具体安排按学院落实。",
+            "source_ids": [
+              "program",
+              "MCH-dentistry-offer"
+            ],
+            "extraction_locator": "Program Description; offer > Find a place to live"
+          },
+          {
+            "label": "课程资料的届别边界",
+            "text": "课程网页开头的PDF明确给2027年及以前毕业者；它不是2027新入学课程表。当前HTML表首年64学分，而录取后旧年说明仍写61；保留两种资料的届别，不将旧年学分混入本轮费用。",
+            "source_ids": [
+              "MCH-dentistry-curriculum",
+              "MCH-dentistry-offer",
+              "MCH-dentistry-international-fees"
+            ],
+            "extraction_locator": "Curriculum first graduation-cohort sentence; offer > Financial aid; actual fee Yr1"
+          },
+          {
+            "label": "教学语言与临床法语",
+            "text": "主要教学与沟通语言为英语，可用英法提交申请。国际类别可暂不提交法语证明，但必须在第三年进入临床前达到B2；学院不建议完全不懂法语者依靠入学后高负荷期间补齐。",
+            "source_ids": [
+              "MCH-dentistry-language",
+              "MCH-dentistry-application"
+            ],
+            "extraction_locator": "Language > English / French and international exception"
           }
         ],
         "admissions": [
@@ -16977,6 +17017,64 @@
             "source_ids": [
               "dmd-offer"
             ]
+          },
+          {
+            "label": "学位及既往学习的具体规则",
+            "text": "作为申请基础的学位须获认可，通常120学分四年制，不限学科并应全日制；90学分例外与魁省DEC背景有关。申请时应有足够已评分课程；第二学士另要求至少60学分、11月1日前45连续新评分学分，其余至少15须入学年7月31日前完成，不能按高中成绩替代。",
+            "source_ids": [
+              "MCH-dentistry-requirements",
+              "MCH-dentistry-categories"
+            ],
+            "extraction_locator": "Primary / Second-Alternate Bachelors degree; International Applicants"
+          },
+          {
+            "label": "科学先修、实验与最低分",
+            "text": "须生物6、普通或物理化学6、有机化学3、物理6学分及实验；本牙医路径允许3学分微积分替半数物理，不要求微积分实验。大学课程通常须C或该校毕业合格线，AP至少4、IB HL至少5、A-level至少C；这些是先修有效性标准，不是总体录取门槛。",
+            "source_ids": [
+              "MCH-dentistry-requirements"
+            ],
+            "extraction_locator": "Basic Science Requirements > table and Grading"
+          },
+          {
+            "label": "未完成先修及较早课程",
+            "text": "11月1日前至少完成七门中的四门及实验并提交成绩，其余最多三门可在入学前5月31日补齐；一门不能同时满足两类要求。超过八年的科学课可通过自学更新知识，网页没有强制一律重修；远程课程须等同且实验仍要满足。",
+            "source_ids": [
+              "MCH-dentistry-requirements"
+            ],
+            "extraction_locator": "Basic Science Requirements > date / course count / expired courses"
+          },
+          {
+            "label": "学位记录及特殊情况",
+            "text": "学位至少50%学分应在授位院校完成，非正式学习经验抵学分不得超过10%。普通课程每学期最多一门3学分通过／不通过、且不超过总学分10%，科学先修不适用该宽限；Winter2020疫情例外须按专段另审。",
+            "source_ids": [
+              "MCH-dentistry-requirements"
+            ],
+            "extraction_locator": "Eligibility for atypical degrees; Primary degree; COVID19"
+          },
+          {
+            "label": "在读研究生及跨医牙转入",
+            "text": "牙医不能同时注册另一学习项目；研究生通常在最后一年申请，7月31日前须交论文提交证明，接受录取后10工作日内还须导师进度信。医牙之间不能直接转学：需重新申请相应一年级并接受正常选拔。",
+            "source_ids": [
+              "MCH-dentistry-requirements"
+            ],
+            "extraction_locator": "Students enrolled in a graduate program; Student transfers"
+          },
+          {
+            "label": "面试筛选及历史国际样本",
+            "text": "面试前评审为学术70%（本科cGPA60%及学术背景10%）、Casper20%、CV10%；研究生成绩不并入本科GPA。2026国际类别29人申请、12人面试、3人录取，三组平均cGPA分别3.69、3.84、3.84；仅历史国际总体，不是中国录取率或2027配额。",
+            "source_ids": [
+              "MCH-dentistry-selection"
+            ],
+            "extraction_locator": "Interview selection; 2026 admission statistics > International"
+          },
+          {
+            "label": "英语证明的适用条件",
+            "text": "需提交英语证据者可用IELTS Academic总6.5、各项6.0，不接受单项重考且须考试机构直送；在非英语国家上英语授课学校本身不自动豁免。大学列其他资格及居住／学习豁免，按个人文件评估；法语要求仍另行满足。",
+            "source_ids": [
+              "MCH-dentistry-language",
+              "english"
+            ],
+            "extraction_locator": "English referral; university English > exemptions / IELTS"
           }
         ],
         "applications": [
@@ -16986,6 +17084,33 @@
             "source_ids": [
               "dmd-doc"
             ]
+          },
+          {
+            "label": "本轮具体时间和考试",
+            "text": "2027入学周期：11月1日21:00 EST申请、11月3日23:59 EST普通支持材料；需当时交法语证明的类别按11月1日更早要求。Casper最后英文2026年10月15日、法文10月22日，至少提前3天注册，每周期一次；已申请送分的处理延迟不等于可逾期考试。",
+            "source_ids": [
+              "MCH-dentistry-application",
+              "MCH-dentistry-materials"
+            ],
+            "extraction_locator": "Application opening schedule; materials > Casper / French"
+          },
+          {
+            "label": "材料与面试形式",
+            "text": "上传全部高教成绩、Academic History Workbook、CV和核实人等；中文成绩须原文加学校或认证译文。2027年1月底预计邀请，2月上中旬为异步线上MMI；指定窗口内一次完成，最终排序主要依据MMI并兼顾学术及非学术，未公布最终固定百分比。",
+            "source_ids": [
+              "MCH-dentistry-materials",
+              "MCH-dentistry-application",
+              "MCH-dentistry-selection"
+            ],
+            "extraction_locator": "Materials1–7; application schedule; selection > asynchronous MMI / final"
+          },
+          {
+            "label": "接受录取后的时间边界",
+            "text": "现存录取后页面明确仍有2026/27迎新与注册资料；一般要求最终成绩／学位、国际相关材料和CPR/AED在入学年7月31日前，疫苗材料6月1日前。2027具体录取信和清单需再确认，不将2026年8月19日迎新平移到2027。",
+            "source_ids": [
+              "MCH-dentistry-offer"
+            ],
+            "extraction_locator": "Send final marks / immigration / immunization / Orientation"
           }
         ],
         "fees": [
@@ -16995,6 +17120,42 @@
             "source_ids": [
               "fee-91"
             ]
+          },
+          {
+            "label": "国际首年与后续列不能相加",
+            "text": "2026/27费表的2026新生列确为64学分，已列金额含国际医保1212及牙科保险150。二年设备材料20654.36对应表内另一入学届；不能据同一表的四届列相加承诺2027新生全程价格。",
+            "source_ids": [
+              "MCH-dentistry-international-fees"
+            ],
+            "extraction_locator": "Selected174/91/141; table cohort columns and insurance note"
+          },
+          {
+            "label": "押金与资助入口",
+            "text": "国际接受录取押金CAD1000且不可退、抵后续学费；延期段仍笼统写500，不能据此降低国际押金。页面有McCall MacBain等奖助入口及学院内部入学奖，不能将入口当已获资助；本轮未取得2027奖助资格／金额完整核验。",
+            "source_ids": [
+              "MCH-dentistry-offer"
+            ],
+            "extraction_locator": "Accept offer / deferral / Financial aid"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业路径与执业认可限制",
+            "text": "临床培养覆盖诊断、治疗及社区服务；非美国国际获录者须本国主管机关认可及执业资格证明函。该要求未证明中国主管机关必定出函，也不等于个人已获得任何地区牙医执照。",
+            "source_ids": [
+              "program",
+              "MCH-dentistry-offer"
+            ],
+            "extraction_locator": "Program Description; international nonUSA recognition letter"
+          },
+          {
+            "label": "毕业调查缺口",
+            "text": "本轮未取得本DMD具明确届别、分母和回应率的毕业就业或薪资统计。招生页的申请、面试与录取数字属于入学选拔数据，不当作毕业结果。",
+            "source_ids": [
+              "MCH-dentistry-selection",
+              "program"
+            ],
+            "extraction_locator": "Admission statistics versus program description"
           }
         ]
       },
@@ -17046,13 +17207,122 @@
           "checked_at": "2026-09-12",
           "supports": "Fall2026新生学费与强制附加费；其他学生档不混用",
           "sha256": "809f305b723f56b4c0067edfbba71993f081ce41f126138f61680ba29f08fc39"
+        },
+        {
+          "id": "MCH-dentistry-curriculum",
+          "title": "Curriculum | 4-Year DMD Program | Faculty of Dental Medicine and Oral Health Sciences - McGill University",
+          "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/curriculum",
+          "checked_at": "2026-09-13",
+          "supports": "四年的学分和临床递进；课程资料的届别边界",
+          "sha256": "b36e7520b9d008568a8f6fd535875bd89dea27f133d77ce36f6e19b420f585cd",
+          "capture_format": "public_html",
+          "locator": "Curriculum > DMD I–IV / Year Total | Curriculum first graduation-cohort sentence; offer > Financial aid; actual fee Yr1"
+        },
+        {
+          "id": "MCH-dentistry-offer",
+          "title": "Offer of admission DMD program | 4-Year DMD Program | Faculty of Dental Medicine and Oral Health Sciences - McGill University",
+          "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/offer-admission-dmd-program",
+          "checked_at": "2026-09-13",
+          "supports": "先临床训练及医院轮转；课程资料的届别边界；接受录取后的时间边界；押金与资助入口；毕业路径与执业认可限制",
+          "sha256": "89c4b07966ed5a5bd2c436d32d7f7f78027f466db2250446f9a9cd9b9073ad03",
+          "capture_format": "public_html",
+          "locator": "Program Description; offer > Find a place to live | Curriculum first graduation-cohort sentence; offer > Financial aid; actual fee Yr1 | Send final marks / immigration / immunization / Orientation | Accept offer / deferral / Financial aid | Program Description; international nonUSA recognition letter"
+        },
+        {
+          "id": "MCH-dentistry-international-fees",
+          "title": "McGill 2026/27 国际生费用：DMD 首年64学分",
+          "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=91&field_fee_residency_status_tid=141",
+          "checked_at": "2026-09-13",
+          "supports": "课程资料的届别边界；国际首年与后续列不能相加",
+          "sha256": "3613944fb1f9d82d4ad076ddaf066fcdc771567a07bd80db718025b848379541",
+          "capture_format": "public_html",
+          "locator": "Curriculum first graduation-cohort sentence; offer > Financial aid; actual fee Yr1 | Selected174/91/141; table cohort columns and insurance note"
+        },
+        {
+          "id": "MCH-dentistry-language",
+          "title": "Language proficiency | Faculty of Dental Medicine and Oral Health Sciences - McGill University",
+          "url": "https://www.mcgill.ca/dentistry/programs/language-proficiency",
+          "checked_at": "2026-09-13",
+          "supports": "教学语言与临床法语；英语证明的适用条件",
+          "sha256": "a3ba6748c4621a8404367418c2aeb6e7b819c845a21154ab61e1dc49aa9cc49b",
+          "capture_format": "public_html",
+          "locator": "Language > English / French and international exception | English referral; university English > exemptions / IELTS"
+        },
+        {
+          "id": "MCH-dentistry-application",
+          "title": "How to apply | 4-Year DMD Program | Faculty of Dental Medicine and Oral Health Sciences - McGill University",
+          "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/how-apply",
+          "checked_at": "2026-09-13",
+          "supports": "教学语言与临床法语；本轮具体时间和考试；材料与面试形式",
+          "sha256": "af9a456c0fd26906a53ef1eee3114b32cce8aee07620079c873bfddb19e73cc1",
+          "capture_format": "public_html",
+          "locator": "Language > English / French and international exception | Application opening schedule; materials > Casper / French | Materials1–7; application schedule; selection > asynchronous MMI / final"
+        },
+        {
+          "id": "MCH-dentistry-requirements",
+          "title": "Requirements | 4-Year DMD Program | Faculty of Dental Medicine and Oral Health Sciences - McGill University",
+          "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/requirements",
+          "checked_at": "2026-09-13",
+          "supports": "学位及既往学习的具体规则；科学先修、实验与最低分；未完成先修及较早课程；学位记录及特殊情况；在读研究生及跨医牙转入",
+          "sha256": "7f4d5fbb8f3e44ba2e7d9f3b2a52264fb25ffeca6a2e465e17e0d5cd69373c24",
+          "capture_format": "public_html",
+          "locator": "Primary / Second-Alternate Bachelors degree; International Applicants | Basic Science Requirements > table and Grading | Basic Science Requirements > date / course count / expired courses | Eligibility for atypical degrees; Primary degree; COVID19 | Students enrolled in a graduate program; Student transfers"
+        },
+        {
+          "id": "MCH-dentistry-categories",
+          "title": "Applicant Categories | 4-Year DMD Program | Faculty of Dental Medicine and Oral Health Sciences - McGill University",
+          "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/applicant-categories",
+          "checked_at": "2026-09-13",
+          "supports": "学位及既往学习的具体规则",
+          "sha256": "4d3fe0cc26b48a38cfafac68d0cb097b439561f13c8f4ee5679f85046b5b1ec8",
+          "capture_format": "public_html",
+          "locator": "Primary / Second-Alternate Bachelors degree; International Applicants"
+        },
+        {
+          "id": "MCH-dentistry-selection",
+          "title": "Selection process | 4-Year DMD Program | Faculty of Dental Medicine and Oral Health Sciences - McGill University",
+          "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/selection-process",
+          "checked_at": "2026-09-13",
+          "supports": "面试筛选及历史国际样本；材料与面试形式；毕业调查缺口",
+          "sha256": "2f34181ce0566ee67cfc27fa8bbb3ab916eb238041f6eb13ebab5fadc493a01b",
+          "capture_format": "public_html",
+          "locator": "Interview selection; 2026 admission statistics > International | Materials1–7; application schedule; selection > asynchronous MMI / final | Admission statistics versus program description"
+        },
+        {
+          "id": "english",
+          "title": "McGill 本科英语能力",
+          "url": "https://www.mcgill.ca/undergraduate-admissions/apply/english-proficiency",
+          "checked_at": "2026-09-12",
+          "supports": "IELTS、TOEFL新旧量表及管理、TESL、音乐差别",
+          "sha256": "5504ee1d7dff455464bc7bf748af2089d4cc24fa9d960c8fbf6cb146a2dcb46b"
+        },
+        {
+          "id": "MCH-dentistry-materials",
+          "title": "Supporting Documents | 4-Year DMD Program | Faculty of Dental Medicine and Oral Health Sciences - McGill University",
+          "url": "https://www.mcgill.ca/dentistry/4-year-dmd-program/supporting-documents",
+          "checked_at": "2026-09-13",
+          "supports": "本轮具体时间和考试；材料与面试形式",
+          "sha256": "79e0363c9b070d036edc222a04401cf9f8e8e895f7311e661f9c18e1e815362d",
+          "capture_format": "public_html",
+          "locator": "Application opening schedule; materials > Casper / French | Materials1–7; application schedule; selection > asynchronous MMI / final"
         }
       ],
       "excluded_school_sections": [
         "admissions",
         "applications",
         "fees"
-      ]
+      ],
+      "degree_label": "D.M.D.",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_requirements": true,
+        "application_process": true,
+        "fee_amount": true,
+        "fee_period": "2026/27; Fall2026 new entrant; actual medical/dental Year1 or Fall/Winter30credits as stated",
+        "outcome_statistics": false,
+        "entry_2027_confirmed": true,
+        "year_specific_module_schedule_2027": false
+      }
     },
     {
       "university_id": "mcgill",
@@ -24515,14 +24785,17 @@
       "inventory_id": "mcgill-medicine-m-d-c-m-20e7442e22",
       "name_en": "Medicine (M.D.,C.M.)",
       "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/medicine-health-sciences/professional/programs/mdcm/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "research_status": "partially_verified",
       "display_fields": {
-        "name": "医学（MDCM）",
-        "duration": "4年专业学位；前置学士另计",
-        "entry_summary": "学士后医学，2027预计国际1席；须专业科学先修及入学前法语。",
-        "intake": "2027",
-        "tuition_summary": "2026/27参考 CAD 74,678.31／实际首年"
+        "name": "医学（MDCM，学士后四年制）",
+        "duration": "4年全日制；先前学士另计",
+        "entry_summary": "2027国际预计1席；学士及七门科学实验先修；Casper；Montreal法语B2／OutaouaisC1与校区资格另核",
+        "intake": "2027年秋季；国际类别无冬夏入学",
+        "tuition_summary": "2026/27参考：CAD74,678.31学费／首年63学分；2027/28待核",
+        "campus": "Montreal或Outaouais按录取类别核定；临床点另行安排",
+        "language": "Montreal英语教学及临床英法语；Outaouais法语教学",
+        "outcomes_summary": "本专业毕业就业／薪资统计本轮未取得；专业资格与后续训练另见详情"
       },
       "sections": {
         "overview": [
@@ -24535,10 +24808,40 @@
           },
           {
             "label": "专业学分与学位结构",
-            "text": "校历标注本专业／方向权重200-204学分；该数字可能仅对应主修、荣誉或专项组件，完整学位、基础年及其他必修要求还须同时满足。标题与正文出现不同数字时，以上方说明所列差异为准。",
+            "text": "2026–2027校历列MDCM必修200学分及选修0–4学分，总200–204；这是完整医学专业课程，先前学士另计。",
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "基础、临床过渡与轮转",
+            "text": "第一年及第二年前半为医牙基础，第二年后半转临床，三四年在监督下参加轮转。贯穿四年的Physicianship包括沟通、伦理、专业身份与导师小组；研究基础课从研究方案设计延伸到证据分析。",
+            "source_ids": [
+              "program",
+              "MCH-medicine-curriculum",
+              "MCH-medicine-curriculum-components"
+            ],
+            "extraction_locator": "Four curricular components and detailed components"
+          },
+          {
+            "label": "轮转及课程选择",
+            "text": "必修轮转涵盖内外科、家庭医学、精神、妇产、儿科、麻醉、老年及急诊，也有公共卫生、研究／临床选修和住院医过渡。校历规定必修200、额外选修0–4学分，共200–204，不是只计一个主修组件。",
+            "source_ids": [
+              "program",
+              "MCH-medicine-curriculum-components"
+            ],
+            "extraction_locator": "Required Courses200; Elective Course0–4; Clerkship"
+          },
+          {
+            "label": "地点、语言与目标年度",
+            "text": "Montreal教学英语、临床可能英法双语或法语；Outaouais教学及考试法语，国际申请者是否可选该校区仍须按类别确认。课程目标页最后更新2023年6月；课程图Class2028-on是届别标识，不能当2028入学政策。",
+            "source_ids": [
+              "MCH-medicine-application",
+              "MCH-medicine-language",
+              "MCH-medicine-objectives",
+              "MCH-medicine-curriculum"
+            ],
+            "extraction_locator": "Language NB; English/French communication; objectives date; schema links"
           }
         ],
         "admissions": [
@@ -24557,6 +24860,65 @@
               "md-int",
               "md-french"
             ]
+          },
+          {
+            "label": "学位完成及已评分学分",
+            "text": "任何学科获认可120学分四年学士或正式等同，须入学年7月31日前授位；魁省DEC后90学分是特定例外。申请时须至少60连续评分学分，Winter2020受影响者45的例外不可泛化。第二学士最少60学分，其中45在11月1日前、其余至少15在7月31日前完成。",
+            "source_ids": [
+              "MCH-medicine-degree"
+            ],
+            "extraction_locator": "Primary / Second-Alternate Bachelors degree"
+          },
+          {
+            "label": "学业记录与不可适用者",
+            "text": "非典型学位至少50%学分在授位学校修读、非正式经历抵学分不超过10%；无评分叙述式成绩不接受。已在加拿大或美国取得医学本科学位、或参加过当地住院医训练者不符合普通MDCM入口；IMG另有身份和资格规则。",
+            "source_ids": [
+              "MCH-medicine-degree",
+              "MCH-medicine-general"
+            ],
+            "extraction_locator": "Eligibility atypical degrees; General opening exclusions"
+          },
+          {
+            "label": "七门科学课及最低成绩",
+            "text": "七门至少21学分：生物两门、普通化学两门、物理两门、有机化学一门，均需实验。一门不兼抵两项；大学课一般至少C或该校毕业合格线，AP4、IB HL5、A-level C。不能借牙医的微积分替物理规则。",
+            "source_ids": [
+              "MCH-medicine-science"
+            ],
+            "extraction_locator": "Basic Science Courses; labs; minimum grades"
+          },
+          {
+            "label": "先修进度及替代审查",
+            "text": "11月1日前至少完成四门科学先修，最多三门可入学前5月31日补齐、1月须提供注册证明。高阶专业课一般不替代缺失基础课，9月30日后学院可不再考虑替代请求。生理、分子与细胞生物为建议，不是新增必修门槛。",
+            "source_ids": [
+              "MCH-medicine-science"
+            ],
+            "extraction_locator": "Date/count; recommended sciences; Substitution"
+          },
+          {
+            "label": "国际竞争参考与名额口径",
+            "text": "2027国际专页预计1席，优先较高学位GPA；3.5或以上才有竞争力，低于3.3只在异常情况考虑。通用页仍写国际最多2席，应与2027专页区分；这些不保证录取。",
+            "source_ids": [
+              "MCH-medicine-international",
+              "MCH-medicine-general"
+            ],
+            "extraction_locator": "Key numbers; Special notes; general summary table"
+          },
+          {
+            "label": "医学法语证明比牙医更早",
+            "text": "Montreal要求B2、Outaouais C1，须申请截止前提交合格证明或豁免材料。医学豁免包括三年全日制法语中学／高教或本轮法语Casper等，不是牙医的一年；SCS书面测试每周期重考，获邀后口语，口语有效一年。",
+            "source_ids": [
+              "MCH-medicine-language"
+            ],
+            "extraction_locator": "French minimum; exemptions; SCS test"
+          },
+          {
+            "label": "英语及测试选择",
+            "text": "需英语证明者参照大学认可清单，例如IELTS Academic6.5、各项6.0且不接受单项重考。非英语国家英语授课本身不自动豁免；医学页按境外非英语教育及申请清单判断。法语证据不能替代英语。",
+            "source_ids": [
+              "MCH-medicine-language",
+              "english"
+            ],
+            "extraction_locator": "English Language Proficiency; university exemptions and IELTS"
           }
         ],
         "applications": [
@@ -24567,6 +24929,23 @@
               "md-int",
               "md-apply"
             ]
+          },
+          {
+            "label": "Casper及面试前评审",
+            "text": "本轮MDCM最后Casper英文2026年10月15日、法文10月22日；至少提前3天注册并向McGill送分，仅本申请周期有效，Snapshot和Duet不用。面试前学术70%、Casper20%、CV10%；不能当最终录取权重。",
+            "source_ids": [
+              "MCH-medicine-casper"
+            ],
+            "extraction_locator": "2027 latest dates; registration; Pre-interview ranking"
+          },
+          {
+            "label": "材料类别及2027窗口",
+            "text": "2026年9月1日开，11月1日申请与材料双截止；2027年1月25日目标邀请。普通国际需护照／出生证、成绩、workbook、CV／核实人、Casper和语言；MCCQE或MD等同证明属于IMG，研究计划与推荐信仅相应MD-PhD，不能统一要求。",
+            "source_ids": [
+              "MCH-medicine-application",
+              "MCH-medicine-materials"
+            ],
+            "extraction_locator": "Schedule; supporting-documents table International row"
           }
         ],
         "fees": [
@@ -24576,6 +24955,35 @@
             "source_ids": [
               "fee-92"
             ]
+          },
+          {
+            "label": "实际首年费用及校区差别",
+            "text": "2026/27国际2026新生实际63学分，首年总表含医保1212及牙保150。后续学年收费受入学届、学分和校区影响，表注明部分年按最低学分计；不将四列当同一届全程价格。本轮未取得2027/28报价或本项目奖助完整资格。",
+            "source_ids": [
+              "MCH-medicine-international-fees"
+            ],
+            "extraction_locator": "Selected174/92/141; cohort table and notes a–c"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "医学毕业与住院医阶段",
+            "text": "MDCM毕业可申请在监督住院医训练环境中的执业资格，不能立即独立行医。课程培养目标是未分专科医师层级的监督临床能力，后续训练、执照和法语职业要求另行满足。",
+            "source_ids": [
+              "program",
+              "MCH-medicine-objectives",
+              "MCH-medicine-language"
+            ],
+            "extraction_locator": "Program Description; supervised clinical target; French licensure"
+          },
+          {
+            "label": "毕业数据的核验边界",
+            "text": "本轮未取得MDCM按毕业届别、回应率及国际生身份明确的就业／住院医匹配统计；73平均申请者、8平均面试等只属于入学参考，不充当毕业结果。",
+            "source_ids": [
+              "MCH-medicine-international",
+              "program"
+            ],
+            "extraction_locator": "International key numbers; Program Description"
           }
         ]
       },
@@ -24627,13 +25035,156 @@
           "checked_at": "2026-09-12",
           "supports": "Fall2026新生学费与强制附加费；其他学生档不混用",
           "sha256": "a09f87402ddd88eaece8959157fce05e384a4fcb9b231e590b28ef64c55c2c13"
+        },
+        {
+          "id": "MCH-medicine-curriculum",
+          "title": "Curriculum Structure | Undergraduate Medical Education - McGill University",
+          "url": "https://www.mcgill.ca/ugme/mdcm-program/curriculum-structure",
+          "checked_at": "2026-09-13",
+          "supports": "基础、临床过渡与轮转；地点、语言与目标年度",
+          "sha256": "c62f9a3d2b30768f1e8730e5e0c7a2ab5532423f330796aa0b37304e03c9e1de",
+          "capture_format": "public_html",
+          "locator": "Four curricular components and detailed components | Language NB; English/French communication; objectives date; schema links"
+        },
+        {
+          "id": "MCH-medicine-curriculum-components",
+          "title": "Curriculum Components | Undergraduate Medical Education - McGill University",
+          "url": "https://www.mcgill.ca/ugme/mdcm-program/curriculum-structure/curriculum-components",
+          "checked_at": "2026-09-13",
+          "supports": "基础、临床过渡与轮转；轮转及课程选择",
+          "sha256": "e8447bb644f3ea37c8e5373560597edc8df27fffbbe518e3115c06370b6612a9",
+          "capture_format": "public_html",
+          "locator": "Four curricular components and detailed components | Required Courses200; Elective Course0–4; Clerkship"
+        },
+        {
+          "id": "MCH-medicine-application",
+          "title": "The Application Process | Undergraduate Medical Admissions - McGill University",
+          "url": "https://www.mcgill.ca/medadmissions/applying/application-process",
+          "checked_at": "2026-09-13",
+          "supports": "地点、语言与目标年度；材料类别及2027窗口",
+          "sha256": "8486d6b8a3d1e3e491d6ca91d0aacbd51867fce21f40af51afe2a42c6d23f94d",
+          "capture_format": "public_html",
+          "locator": "Language NB; English/French communication; objectives date; schema links | Schedule; supporting-documents table International row"
+        },
+        {
+          "id": "MCH-medicine-language",
+          "title": "Language Proficiency | Undergraduate Medical Admissions - McGill University",
+          "url": "https://www.mcgill.ca/medadmissions/applying/requirements/general-requirements/language",
+          "checked_at": "2026-09-13",
+          "supports": "地点、语言与目标年度；医学法语证明比牙医更早；英语及测试选择；医学毕业与住院医阶段",
+          "sha256": "f78c6e8f17c36ed4703ea55c8839f1e457707ffe3bf46f6dc4c46cf8fefd877b",
+          "capture_format": "public_html",
+          "locator": "Language NB; English/French communication; objectives date; schema links | French minimum; exemptions; SCS test | English Language Proficiency; university exemptions and IELTS | Program Description; supervised clinical target; French licensure"
+        },
+        {
+          "id": "MCH-medicine-objectives",
+          "title": "MDCM Program Learning Objectives | Undergraduate Medical Education - McGill University",
+          "url": "https://www.mcgill.ca/ugme/mdcm-program/curriculum-structure/program-learning-outcomes",
+          "checked_at": "2026-09-13",
+          "supports": "地点、语言与目标年度；医学毕业与住院医阶段",
+          "sha256": "f5115f26083ae4c5a08bacae55c471a077ad9734951c40f0afa9174a1e83025e",
+          "capture_format": "public_html",
+          "locator": "Language NB; English/French communication; objectives date; schema links | Program Description; supervised clinical target; French licensure"
+        },
+        {
+          "id": "MCH-medicine-degree",
+          "title": "Undergraduate Degree Requirements | Undergraduate Medical Admissions - McGill University",
+          "url": "https://www.mcgill.ca/medadmissions/applying/requirements-edu/degree-requirements",
+          "checked_at": "2026-09-13",
+          "supports": "学位完成及已评分学分；学业记录与不可适用者",
+          "sha256": "7555aef0abfff7f8acca3135e153a596fdc99c91afa470b12bf8e13b6bf1a0cc",
+          "capture_format": "public_html",
+          "locator": "Primary / Second-Alternate Bachelors degree | Eligibility atypical degrees; General opening exclusions",
+          "final_url": "https://www.mcgill.ca/medadmissions/applying/requirements/requirements-edu/degree-requirements"
+        },
+        {
+          "id": "MCH-medicine-general",
+          "title": "General Requirements | Undergraduate Medical Admissions - McGill University",
+          "url": "https://www.mcgill.ca/medadmissions/applying/requirements/general-requirements",
+          "checked_at": "2026-09-13",
+          "supports": "学业记录与不可适用者；国际竞争参考与名额口径",
+          "sha256": "c97b4aa039310bbc3d39d3e15aa8afcfb12616b91a00197787917eb3a8afbceb",
+          "capture_format": "public_html",
+          "locator": "Eligibility atypical degrees; General opening exclusions | Key numbers; Special notes; general summary table"
+        },
+        {
+          "id": "MCH-medicine-science",
+          "title": "Prerequisite Science Courses for MDCM Applicants | Undergraduate Medical Admissions - McGill University",
+          "url": "https://www.mcgill.ca/medadmissions/applying/requirements-edu/basic-science-prerequisites",
+          "checked_at": "2026-09-13",
+          "supports": "七门科学课及最低成绩；先修进度及替代审查",
+          "sha256": "1ecfec2212040b42a5eadfe01aa0f856bab5005567bde8ecf7843795b146e723",
+          "capture_format": "public_html",
+          "locator": "Basic Science Courses; labs; minimum grades | Date/count; recommended sciences; Substitution",
+          "final_url": "https://www.mcgill.ca/medadmissions/applying/requirements/requirements-edu/basic-science-prerequisites"
+        },
+        {
+          "id": "MCH-medicine-international",
+          "title": "International residents with an undergraduate degree | Undergraduate Medical Admissions - McGill University",
+          "url": "https://www.mcgill.ca/medadmissions/applying/categories/int",
+          "checked_at": "2026-09-13",
+          "supports": "国际竞争参考与名额口径；毕业数据的核验边界",
+          "sha256": "273face614e2a27398215fad082e45487da4df12583f475cec41728ddd0541aa",
+          "capture_format": "public_html",
+          "locator": "Key numbers; Special notes; general summary table | International key numbers; Program Description"
+        },
+        {
+          "id": "english",
+          "title": "McGill 本科英语能力",
+          "url": "https://www.mcgill.ca/undergraduate-admissions/apply/english-proficiency",
+          "checked_at": "2026-09-12",
+          "supports": "IELTS、TOEFL新旧量表及管理、TESL、音乐差别",
+          "sha256": "5504ee1d7dff455464bc7bf748af2089d4cc24fa9d960c8fbf6cb146a2dcb46b"
+        },
+        {
+          "id": "MCH-medicine-casper",
+          "title": "Casper Test | Undergraduate Medical Admissions - McGill University",
+          "url": "https://www.mcgill.ca/medadmissions/applying/elements/casper",
+          "checked_at": "2026-09-13",
+          "supports": "Casper及面试前评审",
+          "sha256": "4e131caa5b9e8477ad19a914ecef329ad4116b4b77fdfbb718bbe0ff724ff9a6",
+          "capture_format": "public_html",
+          "locator": "2027 latest dates; registration; Pre-interview ranking",
+          "final_url": "https://www.mcgill.ca/medadmissions/applying/requirements/elements/casper"
+        },
+        {
+          "id": "MCH-medicine-materials",
+          "title": "Supporting Documents | Undergraduate Medical Admissions - McGill University",
+          "url": "https://www.mcgill.ca/medadmissions/applying/elements",
+          "checked_at": "2026-09-13",
+          "supports": "材料类别及2027窗口",
+          "sha256": "f51ed1cc61af4750a7b5a5e4625cab457d725da45dec75dfef11d5508cb79d86",
+          "capture_format": "public_html",
+          "locator": "Schedule; supporting-documents table International row",
+          "final_url": "https://www.mcgill.ca/medadmissions/applying/requirements/elements"
+        },
+        {
+          "id": "MCH-medicine-international-fees",
+          "title": "McGill 2026/27 国际生费用：MDCM 首年63学分",
+          "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=92&field_fee_residency_status_tid=141",
+          "checked_at": "2026-09-13",
+          "supports": "实际首年费用及校区差别",
+          "sha256": "fec161554fbe2af9867a399705262d78cdadac95ae30b528a37105620f7ee4f5",
+          "capture_format": "public_html",
+          "locator": "Selected174/92/141; cohort table and notes a–c"
         }
       ],
       "excluded_school_sections": [
         "admissions",
         "applications",
         "fees"
-      ]
+      ],
+      "degree_label": "M.D.,C.M.",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_requirements": true,
+        "application_process": true,
+        "fee_amount": true,
+        "fee_period": "2026/27; Fall2026 new entrant; actual medical/dental Year1 or Fall/Winter30credits as stated",
+        "outcome_statistics": false,
+        "entry_2027_confirmed": true,
+        "year_specific_module_schedule_2027": false
+      }
     },
     {
       "university_id": "mcgill",
@@ -25980,15 +26531,17 @@
       "inventory_id": "mcgill-nursing-b-sc-n-8d7abb2dda",
       "name_en": "Nursing (B.Sc.(N.))",
       "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/nursing-bscn/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "research_status": "partially_verified",
       "display_fields": {
-        "name": "护理学（BSc）",
-        "duration": "3至4年，含暑期；按入学背景核定",
-        "entry_summary": "所属学位须满足中国高中资格与先修；专业内部选拔和继续条件见详情。",
-        "language": "英语教学及专业法语B2要求；豁免另核",
-        "tuition_summary": "2026/27参考 CAD 35,561.10／秋冬30学分",
-        "intake": "2027学位入口；课程校历2026/27"
+        "name": "护理学（BScN）",
+        "duration": "U1–U3为3年；须U0者4年，均含暑期",
+        "entry_summary": "中国高中可按本科招生规则申请；数学及至少两门生化物理，通常各年及先修85%以上；法语B2；一般须U0",
+        "language": "教学英语；入学法语四项均B2或适用豁免",
+        "tuition_summary": "2026/27参考：CAD35,561.10学费／秋冬30学分；暑期另计",
+        "intake": "2027年秋季普通本科入口；课程校历2026/27",
+        "campus": "护理学院及医院、社区和居家临床点；具体授课楼另核",
+        "outcomes_summary": "本专业毕业就业／薪资统计本轮未取得；专业资格与后续训练另见详情"
       },
       "sections": {
         "overview": [
@@ -26001,10 +26554,45 @@
           },
           {
             "label": "专业学分与学位结构",
-            "text": "校历标注本专业／方向权重103学分；该数字可能仅对应主修、荣誉或专项组件，完整学位、基础年及其他必修要求还须同时满足。标题与正文出现不同数字时，以上方说明所列差异为准。",
+            "text": "2026–2027校历列护理U1–U3课程103学分（86必修、8指定选修、9选修）；须读U0者另加33或34学分，完整四年为136或137。",
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "U0与完整学位学分",
+            "text": "U1–U3为103学分：必修86、指定选修8及自由选修9。未完成等同基础者还须U0的33或34学分，完整四年136或137；数学基础决定选MATH139四学分或MATH140三学分，不把两门同时加入。",
+            "source_ids": [
+              "program",
+              "MCH-nursing-bscn-curriculum"
+            ],
+            "extraction_locator": "U0 Required27; complementary6/7; U1–U3 totals"
+          },
+          {
+            "label": "逐年培养与统计选择",
+            "text": "专业三年分别37、37、29学分：从病理生理、家庭发展与健康评估，进至药理、急慢性护理及临床，最后学习政策、伦理、社区项目和重症护理。统计为EDPE375／PSYC204或认可等同；护理实习NUR1333与431只是冬夏排课互换，学位仍须完成两者。",
+            "source_ids": [
+              "program",
+              "MCH-nursing-bscn-curriculum"
+            ],
+            "extraction_locator": "U1–U3 course table; Required86; complementary"
+          },
+          {
+            "label": "末年实践及特殊转轨",
+            "text": "末年5学分NUR1530／531二选一，国际Ambassador选项须获选后调整注册，不保证名额。已有学士者在U2暑期结束可能申请转MScA-N，课程页提2月1日申请，具体资格和届别另核；不将此当已获硕士位置。",
+            "source_ids": [
+              "MCH-nursing-bscn-curriculum"
+            ],
+            "extraction_locator": "U3 registration footnotes; Important Notice U1 table"
+          },
+          {
+            "label": "地点与授课语言",
+            "text": "课程包括社区健康中心、医院、其他机构及居家临床体验；大学教学语言英语，患者照护须法语能力。具体个人教学楼和临床点本轮未取得安排，不由学院联系地址推定全程校区。",
+            "source_ids": [
+              "nursing",
+              "MCH-undergraduate-french"
+            ],
+            "extraction_locator": "Undergraduate Programs; French proficiency opening"
           }
         ],
         "admissions": [
@@ -26021,6 +26609,40 @@
             "source_ids": [
               "french"
             ]
+          },
+          {
+            "label": "中国学历、会考和高考",
+            "text": "中国高中评估高一、高二及高三期中成绩与全部会考／APT；每年平均和先修通常至少85%，录取可能更高。高考如参加则提交，不是所有人必须报考。先修为数学及生物、化学、物理中至少两门，并达到高中会考层级。",
+            "source_ids": [
+              "MCH-china-qualifications"
+            ],
+            "extraction_locator": "Admission review; minimum grades; Nursing prerequisites"
+          },
+          {
+            "label": "会考格式与材料页差异",
+            "text": "若会考仅合格／不合格或未举办，上方资格段允许额外外考、学校毕业考试／排名及个案评估；下方材料段仍更严格要求外考并有旧SATII字样。不能把SAT视为一律替代已有会考，具体材料应向招生确认。",
+            "source_ids": [
+              "MCH-china-qualifications"
+            ],
+            "extraction_locator": "Admission review versus Supporting documentation"
+          },
+          {
+            "label": "基础课程等同及转学生",
+            "text": "高中入学者一般先读U0；IB、A-level及转学／第二学位申请者逐课核等同，数学和科学通常须近五年完成。校历对本校跨院转入要求学业良好、通常CGPA至少2.70（3.0以上更理想），外校转学生授位须至少60学分在McGill完成；均非保证转入。",
+            "source_ids": [
+              "MCH-nursing-bscn-curriculum",
+              "nursing"
+            ],
+            "extraction_locator": "U0 note; Nursing admission > transfers"
+          },
+          {
+            "label": "专业法语及材料",
+            "text": "护理法语须听说读写各B2；本科法语页列专属教育豁免，包括魁省法语大学60学分、境外法语大学连续两年本科等，不能套医学三年规则。认可测试各组件须符合，TFI不接受；入学法语和以后执照法语是不同环节。",
+            "source_ids": [
+              "MCH-undergraduate-french",
+              "MCH-nursing-bscn-curriculum"
+            ],
+            "extraction_locator": "BScN exemptions; test components; TFI and licensure notes"
           }
         ],
         "fees": [
@@ -26038,6 +26660,54 @@
               "nursing",
               "fee-171"
             ]
+          },
+          {
+            "label": "暑期及费用模型边界",
+            "text": "2026/27护理共享表按秋冬30学分及2026新生列计；BScN暑期另收教学、行政与版权费。表仍用106／139学分模型，与校历103及四年136／137不同；以实际注册账单为准，不估算完整四年。",
+            "source_ids": [
+              "MCH-nursing-international-fees",
+              "program"
+            ],
+            "extraction_locator": "Fee Note1; programme/U0 credits"
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027海外学历申请",
+            "text": "最后就读海外或美国中学／大学者，官方2027日期页明确护理申请截止1月15日；中国资格页一般材料3月1日。法语等专门清单仍须满足，名额满时不完整申请可能提前取消。",
+            "source_ids": [
+              "dates",
+              "MCH-china-qualifications"
+            ],
+            "extraction_locator": "2027 event scope; deadlines; incomplete application note"
+          },
+          {
+            "label": "护理入口选择与资助窗口",
+            "text": "未持魁省180A0护理DEC且不属于本校转入／重读者按BScN入口；已有本校记录走对应转学或重读流程。中国资格页主要入学奖1月21日、助学金接受录取后30天为通用参考，资格及2027资助结果未单独核实。",
+            "source_ids": [
+              "MCH-nursing-apply",
+              "MCH-china-qualifications"
+            ],
+            "extraction_locator": "Applicant routing; China deadlines"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业与执照",
+            "text": "校历说明完成BScN后可参加适用执照考试，课程有CASN认可；这不等于直接获得魁省或中国护理执照。学院培养临床判断、社区护理及领导能力，实际注册仍按专业机构要求。",
+            "source_ids": [
+              "program",
+              "nursing"
+            ],
+            "extraction_locator": "Program Description; accreditation"
+          },
+          {
+            "label": "就业统计缺口",
+            "text": "本轮未取得本BScN具有届别、样本数和回应率的就业／薪资数据；全校调查另在学校资料中限定，不能替代本护理学位结果。",
+            "source_ids": [
+              "program"
+            ],
+            "extraction_locator": "Program description does not provide cohort employment statistics"
           }
         ]
       },
@@ -26081,8 +26751,77 @@
           "checked_at": "2026-09-12",
           "supports": "BScN和BNI的前置资格、学分及学制",
           "sha256": "70c35b3c418dacdc2519873a59599efe750d63813ee95d26b3e4c6c04f727e2d"
+        },
+        {
+          "id": "MCH-nursing-bscn-curriculum",
+          "title": "Course of Study | Ingram School of Nursing - McGill University",
+          "url": "https://www.mcgill.ca/nursing/programs/bachelor-programs/bscn/course-study",
+          "checked_at": "2026-09-13",
+          "supports": "U0与完整学位学分；逐年培养与统计选择；末年实践及特殊转轨；基础课程等同及转学生；专业法语及材料",
+          "sha256": "91d34dadbe9b64ac63a99c95d41b16a7e607ee8a9223cb8d7c1515fa695d5109",
+          "capture_format": "public_html",
+          "locator": "U0 Required27; complementary6/7; U1–U3 totals | U1–U3 course table; Required86; complementary | U3 registration footnotes; Important Notice U1 table | U0 note; Nursing admission > transfers | BScN exemptions; test components; TFI and licensure notes"
+        },
+        {
+          "id": "MCH-undergraduate-french",
+          "title": "French language proficiency | Undergraduate Admissions - McGill University",
+          "url": "https://www.mcgill.ca/undergraduate-admissions/french-proficiency",
+          "checked_at": "2026-09-13",
+          "supports": "地点与授课语言；专业法语及材料",
+          "sha256": "2f7d8ecb23f2330deee2b49b72a68110ec1415b22fa87304a187b888009d2e3a",
+          "capture_format": "public_html",
+          "locator": "Undergraduate Programs; French proficiency opening | BScN exemptions; test components; TFI and licensure notes"
+        },
+        {
+          "id": "MCH-china-qualifications",
+          "title": "China (PRC) Senior High School Graduation Diploma | Undergraduate Admissions - McGill University",
+          "url": "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/international/china",
+          "checked_at": "2026-09-13",
+          "supports": "中国学历、会考和高考；会考格式与材料页差异；2027海外学历申请；护理入口选择与资助窗口",
+          "sha256": "e268b1938b3da6ab83423cfb1632314ee0c621de474687b86f0941341d7e15b5",
+          "capture_format": "public_html",
+          "locator": "Admission review; minimum grades; Nursing prerequisites | Admission review versus Supporting documentation | 2027 event scope; deadlines; incomplete application note | Applicant routing; China deadlines"
+        },
+        {
+          "id": "dates",
+          "title": "McGill 2027国际普通本科截止",
+          "url": "https://www.mcgill.ca/importantdates/channels/event/application-deadline-fall-2027-admission-undergraduate-programs-applicants-studying-or-who-last-370820",
+          "checked_at": "2026-09-12",
+          "supports": "2027年1月15日及适用学院范围",
+          "sha256": "76116aa808bf2be5659dea3b45140a0838444c17c855eadf9f6ff4dda50ff980"
+        },
+        {
+          "id": "MCH-nursing-apply",
+          "title": "Applying to Bachelor Programs in Nursing | Ingram School of Nursing - McGill University",
+          "url": "https://www.mcgill.ca/nursing/apply/bachelor-programs",
+          "checked_at": "2026-09-13",
+          "supports": "护理入口选择与资助窗口",
+          "sha256": "69ae8ec72cc004cfad515ebb8e7b5bc9f2ec9acf8873957d1c6d65cdfbc100b2",
+          "capture_format": "public_html",
+          "locator": "Applicant routing; China deadlines"
+        },
+        {
+          "id": "MCH-nursing-international-fees",
+          "title": "McGill 2026/27 国际生费用：BScN／BNI 共享秋冬30学分参考表",
+          "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=171&field_fee_residency_status_tid=141",
+          "checked_at": "2026-09-13",
+          "supports": "暑期及费用模型边界",
+          "sha256": "dd6c821147afb71bf98d179f2f99ba62b91096cebccc8d260c815ffd7881da2b",
+          "capture_format": "public_html",
+          "locator": "Fee Note1; programme/U0 credits"
         }
-      ]
+      ],
+      "degree_label": "B.Sc.(N.)",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_requirements": true,
+        "application_process": true,
+        "fee_amount": true,
+        "fee_period": "2026/27; Fall2026 new entrant; actual medical/dental Year1 or Fall/Winter30credits as stated",
+        "outcome_statistics": false,
+        "entry_2027_confirmed": true,
+        "year_specific_module_schedule_2027": false
+      }
     },
     {
       "university_id": "mcgill",
@@ -26090,12 +26829,17 @@
       "inventory_id": "mcgill-integrated-nursing-b-n-i-7af37b41ff",
       "name_en": "Integrated Nursing (B.N.I.)",
       "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/nursing/nursing/integrated-nursing-bni/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "research_status": "partially_verified",
       "display_fields": {
-        "name": "护理学文凭衔接（BNI）",
-        "duration": "2年大学衔接阶段；前置CEGEP护理文凭另计",
-        "entry_summary": "魁北克CEGEP护理文凭衔接；中国高中不直接进入。"
+        "name": "护理学文凭衔接（BNI，校内／在线模式）",
+        "duration": "McGill阶段2年全日制或3年非全日制；前置DEC另计",
+        "entry_summary": "魁省护理DEC衔接；专页近5年与校历3年规则冲突；临床前须有效OIIQ执照，中国高中不直入",
+        "campus": "校内或在线学术课程；全部临床线下，可能须赴Montréal",
+        "language": "大学教学语言英语；临床语言与OIIQ资格按安排核定",
+        "intake": "秋季衔接入口；当前专页3月1日截止，独立2027细则待核",
+        "tuition_summary": "2026/27共享护理表CAD35,561.10／秋冬30学分；BNI个人与在线账单另核",
+        "outcomes_summary": "本专业毕业就业／薪资统计本轮未取得；专业资格与后续训练另见详情"
       },
       "sections": {
         "overview": [
@@ -26109,10 +26853,47 @@
           },
           {
             "label": "专业学分与学位结构",
-            "text": "校历标注本专业／方向权重65学分；该数字可能仅对应主修、荣誉或专项组件，完整学位、基础年及其他必修要求还须同时满足。标题与正文出现不同数字时，以上方说明所列差异为准。",
+            "text": "2026–2027校历列BNI在McGill修65学分（55必修、4指定实践、6选修）；这是大学衔接阶段课程，前置文凭资格另见招生说明。",
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "学分与在读模式",
+            "text": "学院课程总框架92学分，其中护理DEC抵27，入McGill U2后修65。校历为55必修、4学分实践二选一和6选修（至少3学分300级以上）；全日制两年五学期，非全日制三年须批准的修课计划。",
+            "source_ids": [
+              "program",
+              "MCH-nursing-bni-curriculum"
+            ],
+            "extraction_locator": "BNI92/advanced27; Required55; complementary4; electives6"
+          },
+          {
+            "label": "课程及统计替代口径",
+            "text": "先学病理生理、研究、慢性与危重健康评估，继而药理、伤口护理、社区实践、政策及伦理。校历55必修中列PSYC204；学院课程表又允许EDPE375／PSYC204或等同，具体替代须确认。",
+            "source_ids": [
+              "program",
+              "MCH-nursing-bni-curriculum"
+            ],
+            "extraction_locator": "Required courses; full-time U2 table"
+          },
+          {
+            "label": "在线也须现场临床",
+            "text": "校内与在线是同一BNI的两种录取模式，获录后按所选模式修课；所有临床均线下，包括NUR1434、431、432。CPO统筹临床岗位，学生不得自行安排；住得远者可能需到大Montréal地区，旅宿资助不保证。",
+            "source_ids": [
+              "program",
+              "MCH-nursing-integrated-overview",
+              "MCH-nursing-bni-clinical"
+            ],
+            "extraction_locator": "Modalities; clinical courses / placement considerations"
+          },
+          {
+            "label": "实践时间与旧停课标记",
+            "text": "全日制第一或非全日制第二个暑期有临床课，5月初至6月底须全程可用并跟随带教排班。课程表NUR1435的2023/24未开仅是旧年度标记，不作为2027停开证据。",
+            "source_ids": [
+              "MCH-nursing-bni-clinical",
+              "MCH-nursing-bni-curriculum"
+            ],
+            "extraction_locator": "Summer clinical course; course4352023/24 note"
           }
         ],
         "admissions": [
@@ -26122,6 +26903,102 @@
             "source_ids": [
               "nursing"
             ]
+          },
+          {
+            "label": "前置DEC期限存在冲突",
+            "text": "当前Admission criteria列180A0护理DEC须近五年取得，并称校内／在线同条件；原校历仍列180A0／180A1且三年内申请。两处范围不同，不能自行断言已放宽全部资格；中国高中或普通海外护理文凭不直接等同魁省DEC。",
+            "source_ids": [
+              "MCH-nursing-bni-admissions",
+              "nursing"
+            ],
+            "extraction_locator": "Current admission criteria versus BNI entrance requirements"
+          },
+          {
+            "label": "推荐R-score与执照条件",
+            "text": "专页R-score25.5以上是建议而非保证或统一硬线。进入每段临床前须有效且active的OIIQ执照及获批准的临床文件；不是只在线上课便可绕过实习资格。",
+            "source_ids": [
+              "MCH-nursing-bni-admissions",
+              "MCH-nursing-bni-clinical"
+            ],
+            "extraction_locator": "Recommended Rscore; clinical requirements"
+          },
+          {
+            "label": "语言证据不套普通高中路径",
+            "text": "大学以英语教学；符合英语豁免的魁省CEGEP等资格按官方条件审，不能要求每人重复IELTS。BNI另需已核临床执照及现场安排；本轮未取得针对所有BNI申请者统一新增法语B2考试条款，不把只列BScN的通用法语页套入。",
+            "source_ids": [
+              "english",
+              "MCH-nursing-bni-clinical",
+              "MCH-undergraduate-french"
+            ],
+            "extraction_locator": "English exemptions; clinical license; French list BScN only"
+          }
+        ],
+        "applications": [
+          {
+            "label": "专属申请及双模式选择",
+            "text": "当前BNI专页要求3月1日前完成申请，但没有单独2027年度标签。可同时选择校内和在线作为两个项目选择，若两者均录取只能接受一份；本轮不据此新增两个独立学位。",
+            "source_ids": [
+              "MCH-nursing-bni-admissions",
+              "MCH-nursing-integrated-overview"
+            ],
+            "extraction_locator": "Admission criteria; delivery mode paragraph"
+          },
+          {
+            "label": "非全日制及临床安排",
+            "text": "选择非全日制前须向本科学生事务办公室提交规定表格，之后按三年课序修读。临床前需及时完成平台资料并响应CPO；具体个人OIIQ／境外居住资格仍须确认。",
+            "source_ids": [
+              "MCH-nursing-bni-curriculum",
+              "MCH-nursing-bni-clinical"
+            ],
+            "extraction_locator": "Part-time form; clinical documents / placement"
+          }
+        ],
+        "fees": [
+          {
+            "label": "共享费表仅为参考",
+            "text": "2026/27护理共享表2026新生档的秋冬30学分学费为CAD35561.10、列示合计39105.18；表覆盖BScN及BNI，但这不是BNI65学分全程总价，也不是2027/28报价。",
+            "source_ids": [
+              "MCH-nursing-international-fees"
+            ],
+            "extraction_locator": "Selected174/171/141; current table2026column"
+          },
+          {
+            "label": "在线收费和学分差异",
+            "text": "同页BNI注释写66学分，与校历／学院65不同；在线备注有运动休闲费不收及魁省外学习采用非管制费率。含运动费的共享合计不能当个人在线BNI精确应付；实际学分、所在地和账单须核。",
+            "source_ids": [
+              "MCH-nursing-international-fees",
+              "program",
+              "MCH-nursing-bni-curriculum"
+            ],
+            "extraction_locator": "Fee Note2; credit totals"
+          },
+          {
+            "label": "临床附加成本及资助缺口",
+            "text": "远距离临床可能需交通和临时住宿，学院说明资助有时可得但不保证。本轮未取得2027BNI个人奖助、精确在线附加费或完整项目报价。",
+            "source_ids": [
+              "MCH-nursing-bni-clinical",
+              "MCH-nursing-international-fees"
+            ],
+            "extraction_locator": "Placement remote students funding note; shared fees"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "已有护士的本科进阶",
+            "text": "BNI在既有护理DEC和临床执照基础上加强家庭中心护理、危重护理、社区及研究能力。校历列CASN认可，营销总览却仍写截至2024；本轮不据该旧终止年份判断当前停招或撤销认可。",
+            "source_ids": [
+              "nursing",
+              "MCH-nursing-integrated-overview"
+            ],
+            "extraction_locator": "Program overview/accreditation; careers"
+          },
+          {
+            "label": "毕业统计缺口",
+            "text": "本轮未取得BNI分校内／在线模式且有届别、分母和回应率的就业或薪资统计。网页列危重护理等职业例子，不能当本批毕业生实际比例。",
+            "source_ids": [
+              "MCH-nursing-integrated-overview"
+            ],
+            "extraction_locator": "Careers example list"
           }
         ]
       },
@@ -26141,13 +27018,93 @@
           "checked_at": "2026-09-12",
           "supports": "BScN和BNI的前置资格、学分及学制",
           "sha256": "70c35b3c418dacdc2519873a59599efe750d63813ee95d26b3e4c6c04f727e2d"
+        },
+        {
+          "id": "MCH-nursing-bni-curriculum",
+          "title": "Course of Study (BNI on campus) | Ingram School of Nursing - McGill University",
+          "url": "https://www.mcgill.ca/nursing/programs/bachelors-programs/bachelors-nursing-integrated/course-study",
+          "checked_at": "2026-09-13",
+          "supports": "学分与在读模式；课程及统计替代口径；实践时间与旧停课标记；非全日制及临床安排；在线收费和学分差异",
+          "sha256": "3dad77ab0c42dd37b51678b5b5befef2a41a90be636502f1f7af10f1c194ee01",
+          "capture_format": "public_html",
+          "locator": "BNI92/advanced27; Required55; complementary4; electives6 | Required courses; full-time U2 table | Summer clinical course; course4352023/24 note | Part-time form; clinical documents / placement | Fee Note2; credit totals",
+          "final_url": "https://www.mcgill.ca/nursing/programs/bachelor-programs/bachelor-nursing-integrated/course-study"
+        },
+        {
+          "id": "MCH-nursing-integrated-overview",
+          "title": "Nursing (Integrated) | Undergraduate Admissions - McGill University",
+          "url": "https://www.mcgill.ca/undergraduate-admissions/program/nursing-integrated",
+          "checked_at": "2026-09-13",
+          "supports": "在线也须现场临床；专属申请及双模式选择；已有护士的本科进阶；毕业统计缺口",
+          "sha256": "2732306fbbb24ac8718c21c270d74d337ce025ccab74fb9790ae1f5aa4680ec7",
+          "capture_format": "public_html",
+          "locator": "Modalities; clinical courses / placement considerations | Admission criteria; delivery mode paragraph | Program overview/accreditation; careers | Careers example list"
+        },
+        {
+          "id": "MCH-nursing-bni-clinical",
+          "title": "BNI Program - Clinical Studies | Ingram School of Nursing - McGill University",
+          "url": "https://www.mcgill.ca/nursing/programs/bachelor-programs/bachelor-nursing-integrated/bni-program-clinical-studies",
+          "checked_at": "2026-09-13",
+          "supports": "在线也须现场临床；实践时间与旧停课标记；推荐R-score与执照条件；语言证据不套普通高中路径；非全日制及临床安排；临床附加成本及资助缺口",
+          "sha256": "87a859559cb784be7aba875db45468bee602c2f9928d379f2716b5193cdc9816",
+          "capture_format": "public_html",
+          "locator": "Modalities; clinical courses / placement considerations | Summer clinical course; course4352023/24 note | Recommended Rscore; clinical requirements | English exemptions; clinical license; French list BScN only | Part-time form; clinical documents / placement | Placement remote students funding note; shared fees"
+        },
+        {
+          "id": "MCH-nursing-bni-admissions",
+          "title": "Admission criteria | Ingram School of Nursing - McGill University",
+          "url": "https://www.mcgill.ca/nursing/programs/bachelor-programs/bachelor-nursing-integrated/admission-criteria",
+          "checked_at": "2026-09-13",
+          "supports": "前置DEC期限存在冲突；推荐R-score与执照条件；专属申请及双模式选择",
+          "sha256": "4d1b140761ed1d2424af5753faf0de269bcb58a8479318b85316dbfee1e4eb95",
+          "capture_format": "public_html",
+          "locator": "Current admission criteria versus BNI entrance requirements | Recommended Rscore; clinical requirements | Admission criteria; delivery mode paragraph"
+        },
+        {
+          "id": "english",
+          "title": "McGill 本科英语能力",
+          "url": "https://www.mcgill.ca/undergraduate-admissions/apply/english-proficiency",
+          "checked_at": "2026-09-12",
+          "supports": "IELTS、TOEFL新旧量表及管理、TESL、音乐差别",
+          "sha256": "5504ee1d7dff455464bc7bf748af2089d4cc24fa9d960c8fbf6cb146a2dcb46b"
+        },
+        {
+          "id": "MCH-undergraduate-french",
+          "title": "French language proficiency | Undergraduate Admissions - McGill University",
+          "url": "https://www.mcgill.ca/undergraduate-admissions/french-proficiency",
+          "checked_at": "2026-09-13",
+          "supports": "语言证据不套普通高中路径",
+          "sha256": "2f7d8ecb23f2330deee2b49b72a68110ec1415b22fa87304a187b888009d2e3a",
+          "capture_format": "public_html",
+          "locator": "English exemptions; clinical license; French list BScN only"
+        },
+        {
+          "id": "MCH-nursing-international-fees",
+          "title": "McGill 2026/27 国际生费用：BScN／BNI 共享秋冬30学分参考表",
+          "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=171&field_fee_residency_status_tid=141",
+          "checked_at": "2026-09-13",
+          "supports": "共享费表仅为参考；在线收费和学分差异；临床附加成本及资助缺口",
+          "sha256": "dd6c821147afb71bf98d179f2f99ba62b91096cebccc8d260c815ffd7881da2b",
+          "capture_format": "public_html",
+          "locator": "Selected174/171/141; current table2026column | Fee Note2; credit totals | Placement remote students funding note; shared fees"
         }
       ],
       "excluded_school_sections": [
         "admissions",
         "applications",
         "fees"
-      ]
+      ],
+      "degree_label": "B.N.I.",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_requirements": true,
+        "application_process": true,
+        "fee_amount": true,
+        "fee_period": "2026/27; Fall2026 new entrant; actual medical/dental Year1 or Fall/Winter30credits as stated",
+        "outcome_statistics": false,
+        "entry_2027_confirmed": false,
+        "year_specific_module_schedule_2027": false
+      }
     },
     {
       "university_id": "mcgill",
@@ -26155,14 +27112,17 @@
       "inventory_id": "mcgill-occupational-therapy-major-b-sc-rehabilitation-science-8f43fa8d5f",
       "name_en": "Occupational Therapy Major (B.Sc.) (Rehabilitation Science)",
       "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/physical-occupational-therapy/physical-occupational-therapy-programs/occupational-therapy-bsc-rehabilitation-science/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "research_status": "partially_verified",
       "display_fields": {
-        "name": "康复科学—作业治疗",
-        "language": "英语教学及专业法语B2要求；豁免另核",
-        "entry_summary": "非魁北克高中须先补大学先修；本科后另有专业硕士及执照阶段。",
-        "tuition_summary": "2026/27参考 CAD 35,561.10／秋冬30学分",
-        "duration": "90学分本科；符合条件后另读约1.5年专业硕士"
+        "name": "康复科学学士—作业治疗（BSc，非执业阶段）",
+        "language": "大学教学英语；入学法语四项B2或适用豁免",
+        "entry_summary": "非加拿大公民／非魁省高中选择器要求进一步大学学习；本科90学分，硕士与执照另计；Casper＋法语B2",
+        "tuition_summary": "2026/27本科参考：CAD35,561.10学费／秋冬30学分；不含硕士",
+        "duration": "U1–U3本科90学分；条件合格后另有约1.5年应用硕士",
+        "campus": "本科授课与临床具体地点本轮未取得完整说明",
+        "intake": "2027秋季；非魁省高中须先补大学学习",
+        "outcomes_summary": "本专业毕业就业／薪资统计本轮未取得；专业资格与后续训练另见详情"
       },
       "sections": {
         "overview": [
@@ -26176,7 +27136,7 @@
           },
           {
             "label": "专业学分与学位结构",
-            "text": "校历标注本专业／方向权重90学分；该数字可能仅对应主修、荣誉或专项组件，完整学位、基础年及其他必修要求还须同时满足。标题与正文出现不同数字时，以上方说明所列差异为准。",
+            "text": "2026–2027校历列作业治疗康复科学本科90学分（75必修、15指定选修）；该数字为本BSc课程总量，后续应用硕士另计。",
             "source_ids": [
               "program"
             ]
@@ -26187,6 +27147,31 @@
             "source_ids": [
               "spot"
             ]
+          },
+          {
+            "label": "作业活动及本科课程",
+            "text": "校历75必修加15指定选修，共90学分。基础含人体解剖、生理、统计、研究及生物力学；专业聚焦日常作业表现、精神健康、休闲活动、治疗策略和社会心理实践。ANAT321／323只能选一门，不能两门相加。",
+            "source_ids": [
+              "program"
+            ],
+            "extraction_locator": "Required75; anatomy footnote; complementary15"
+          },
+          {
+            "label": "选修时间与限制",
+            "text": "15指定选修须U3前完成，范围含心理、管理、学术写作、社会／人类学；非熟练者英法第二语言最多6学分。Sports Medicine Practicum3学分需选拔面试，个人兴趣课程最多3；不是任意辅修组合。",
+            "source_ids": [
+              "program"
+            ],
+            "extraction_locator": "Complementary courses15 and restrictions"
+          },
+          {
+            "label": "教学语言及资格阶段",
+            "text": "大学教学英语，但临床相关专业需法语能力。此90学分BSc为本科基础和非执业阶段；最终学年满足学术及其他条件才保留相应应用硕士位置，不能把介绍的硕士临床训练视为本科已经完成。",
+            "source_ids": [
+              "MCH-undergraduate-french",
+              "MCH-rehabilitation-admissions"
+            ],
+            "extraction_locator": "French opening; overview/progression conditional place"
           }
         ],
         "admissions": [
@@ -26210,6 +27195,31 @@
             "source_ids": [
               "spot"
             ]
+          },
+          {
+            "label": "实际选择器的中国高中路径",
+            "text": "已实际选择成为OT／PT、非加拿大公民和非魁省高中，结果要求进一步教育：先在McGill或其他大学完成相关先修后申请本科转入，或先完成学士再申请应用硕士Qualifying Year。页面转介先修链接仍含2018/19旧校历，2027精确大学先修组合本轮未闭合。",
+            "source_ids": [
+              "MCH-rehabilitation-route-actual"
+            ],
+            "extraction_locator": "Three selected dropdowns and displayed result/links"
+          },
+          {
+            "label": "2027本科评审和Casper",
+            "text": "2027招生页允许符合条件的不同学历类别申请，评审含学术、当周期Casper和法语；本校跨院转入也须Casper。仅秋季入学，具体考试日期按测试平台，页面未提供可直接采用的2027日程；不借医牙10月日期。",
+            "source_ids": [
+              "MCH-rehabilitation-admissions"
+            ],
+            "extraction_locator": "Admissions process; Casper recent score/date links"
+          },
+          {
+            "label": "英语和法语证据",
+            "text": "需英语证明者可按大学规则用IELTS Academic6.5、各项6.0，单项重考不接受。法语听说读写各B2，认可教育豁免按OT/PT列表；不能套牙医国际生第三年才补法语的例外。",
+            "source_ids": [
+              "english",
+              "MCH-undergraduate-french"
+            ],
+            "extraction_locator": "IELTS/exemptions; OT/PT French tests/components"
           }
         ],
         "applications": [
@@ -26219,6 +27229,16 @@
             "source_ids": [
               "dates"
             ]
+          },
+          {
+            "label": "材料日程与先修缺口",
+            "text": "2027年1月15日截止适用于最后在海外或美国中学、学院或大学学习的相关本科申请者；它不赋予中国高中直接进入本专业的资格。转学、大学先修及Casper具体清单仍须按个人入口办理。",
+            "source_ids": [
+              "dates",
+              "MCH-rehabilitation-route-actual",
+              "MCH-rehabilitation-admissions"
+            ],
+            "extraction_locator": "2027 event applicant scope; actual route; centralized admissions"
           }
         ],
         "fees": [
@@ -26228,6 +27248,33 @@
             "source_ids": [
               "fee-77"
             ]
+          },
+          {
+            "label": "本科收费与硕士分开",
+            "text": "2026/27国际2026新生档按秋冬30学分的非执业本科计算，表含医保1212及牙保150。应用硕士、Qualifying Year及后续临床学年的价格不在该本科表内；本轮未取得2027/28报价或本专业奖助资格。",
+            "source_ids": [
+              "MCH-ot-international-fees"
+            ],
+            "extraction_locator": "Selected174/77/141; nonpracticing title; cohort and insurance"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "后续资格有条件衔接",
+            "text": "2027本科招生页列后续应用硕士63学分、约1.5年，合格后才具申请执照资格；本科毕业本身不授予作业治疗执业资格。硕士保留位置附最终学年学术及其他要求，不是无条件双学位录取。",
+            "source_ids": [
+              "MCH-rehabilitation-admissions",
+              "program"
+            ],
+            "extraction_locator": "Overview and conditional Masters place"
+          },
+          {
+            "label": "专业毕业统计缺口",
+            "text": "本轮未取得此本科有届别、分母和回应率的就业／升硕统计，不能由课程介绍推算实际就业或升学比例。",
+            "source_ids": [
+              "program"
+            ],
+            "extraction_locator": "BSc program scope; no cohort employment data in this source"
           }
         ]
       },
@@ -26279,13 +27326,72 @@
           "checked_at": "2026-09-12",
           "supports": "Fall2026新生学费与强制附加费；其他学生档不混用",
           "sha256": "6ed639d87d131060c327d6f327ddb095e33fc0475ee27f780bdab3ac1bbba9fb"
+        },
+        {
+          "id": "MCH-undergraduate-french",
+          "title": "French language proficiency | Undergraduate Admissions - McGill University",
+          "url": "https://www.mcgill.ca/undergraduate-admissions/french-proficiency",
+          "checked_at": "2026-09-13",
+          "supports": "教学语言及资格阶段；英语和法语证据",
+          "sha256": "2f7d8ecb23f2330deee2b49b72a68110ec1415b22fa87304a187b888009d2e3a",
+          "capture_format": "public_html",
+          "locator": "French opening; overview/progression conditional place | IELTS/exemptions; OT/PT French tests/components"
+        },
+        {
+          "id": "MCH-rehabilitation-admissions",
+          "title": "Undergraduate Programs | School of Physical & Occupational Therapy - McGill University",
+          "url": "https://www.mcgill.ca/spot/programs/admissions/undergraduate-programs",
+          "checked_at": "2026-09-13",
+          "supports": "教学语言及资格阶段；2027本科评审和Casper；材料日程与先修缺口；后续资格有条件衔接",
+          "sha256": "a82f22910530dc04296e37c9b5d469c376732c14cd21dff24cf4189ee6adc274",
+          "capture_format": "public_html",
+          "locator": "French opening; overview/progression conditional place | Admissions process; Casper recent score/date links | 2027 event applicant scope; actual route; centralized admissions | Overview and conditional Masters place"
+        },
+        {
+          "id": "MCH-rehabilitation-route-actual",
+          "title": "McGill SPOT：非加拿大公民／非魁省高中实际资格选择结果",
+          "url": "https://www.mcgill.ca/spot/application-route",
+          "checked_at": "2026-09-13",
+          "supports": "实际选择器的中国高中路径；材料日程与先修缺口",
+          "sha256": "76e70fbe1818f1da9306f76a7ec103b343bbe9ac2537ca0c3577fc32522fefaa",
+          "capture_format": "browser_accessibility_snapshot",
+          "locator": "Three selected dropdowns and displayed result/links | 2027 event applicant scope; actual route; centralized admissions"
+        },
+        {
+          "id": "english",
+          "title": "McGill 本科英语能力",
+          "url": "https://www.mcgill.ca/undergraduate-admissions/apply/english-proficiency",
+          "checked_at": "2026-09-12",
+          "supports": "IELTS、TOEFL新旧量表及管理、TESL、音乐差别",
+          "sha256": "5504ee1d7dff455464bc7bf748af2089d4cc24fa9d960c8fbf6cb146a2dcb46b"
+        },
+        {
+          "id": "MCH-ot-international-fees",
+          "title": "McGill 2026/27 国际生费用：非执业康复科学作业治疗本科秋冬30学分",
+          "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=77&field_fee_residency_status_tid=141",
+          "checked_at": "2026-09-13",
+          "supports": "本科收费与硕士分开",
+          "sha256": "61194fc6408498143a890443b4e5784015a25b93cb94c7505d09e2391c77bf76",
+          "capture_format": "public_html",
+          "locator": "Selected174/77/141; nonpracticing title; cohort and insurance"
         }
       ],
       "excluded_school_sections": [
         "admissions",
         "applications",
         "fees"
-      ]
+      ],
+      "degree_label": "B.Sc.",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_requirements": true,
+        "application_process": true,
+        "fee_amount": true,
+        "fee_period": "2026/27; Fall2026 new entrant; actual medical/dental Year1 or Fall/Winter30credits as stated",
+        "outcome_statistics": false,
+        "entry_2027_confirmed": true,
+        "year_specific_module_schedule_2027": false
+      }
     },
     {
       "university_id": "mcgill",
@@ -26293,14 +27399,17 @@
       "inventory_id": "mcgill-physical-therapy-major-b-sc-rehabilitation-science-a266b13a92",
       "name_en": "Physical Therapy Major (B.Sc.) (Rehabilitation Science)",
       "official_url": "https://coursecatalogue.mcgill.ca/en/undergraduate/physical-occupational-therapy/physical-occupational-therapy-programs/physical-therapy-bsc-rehabilitation-science/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "research_status": "partially_verified",
       "display_fields": {
-        "name": "康复科学—物理治疗",
-        "language": "英语教学及专业法语B2要求；豁免另核",
-        "entry_summary": "非魁北克高中须先补大学先修；本科后另有专业硕士及执照阶段。",
-        "tuition_summary": "2026/27参考 CAD 35,561.10／秋冬30学分",
-        "duration": "90学分本科；符合条件后另读约1.5年专业硕士"
+        "name": "康复科学学士—物理治疗（BSc，非执业阶段）",
+        "language": "大学教学英语；入学法语四项B2或适用豁免",
+        "entry_summary": "大学先修入口及Casper／法语B2；本科90学分不授执业资格，后续硕士61／63学分资料差异保留",
+        "tuition_summary": "2026/27本科参考：CAD35,561.10学费／秋冬30学分；不含硕士",
+        "duration": "U1–U3本科90学分；后续应用硕士学分存在61／63差异",
+        "campus": "本科授课与后续临床地点按学院安排；具体校区待核",
+        "intake": "2027秋季；非魁省高中须先补大学学习",
+        "outcomes_summary": "本专业毕业就业／薪资统计本轮未取得；专业资格与后续训练另见详情"
       },
       "sections": {
         "overview": [
@@ -26314,7 +27423,7 @@
           },
           {
             "label": "专业学分与学位结构",
-            "text": "校历标注本专业／方向权重90学分；该数字可能仅对应主修、荣誉或专项组件，完整学位、基础年及其他必修要求还须同时满足。标题与正文出现不同数字时，以上方说明所列差异为准。",
+            "text": "2026–2027校历列物理治疗康复科学本科90学分（81必修、6–9指定选修、0–3个人兴趣选修）；后续应用硕士另计。",
             "source_ids": [
               "program"
             ]
@@ -26325,6 +27434,40 @@
             "source_ids": [
               "spot"
             ]
+          },
+          {
+            "label": "物理治疗本科课程",
+            "text": "81必修、6–9指定选修、0–3个人兴趣课，共90。人体解剖、生理、统计和研究之外，重点运动、生物力学、骨科、神经及心肺康复；ANAT321／323只能选一门，不把两者重复计入81。",
+            "source_ids": [
+              "program"
+            ],
+            "extraction_locator": "Required81 and anatomy footnote; complementary/elective"
+          },
+          {
+            "label": "指定选修及实践组件",
+            "text": "指定选修在U3前完成，可选心理、管理、写作、社会／人类学及语言；非熟练者英法第二语言最多6学分。PHTH301 Sports Medicine Practicum3学分可作U2指定选修，个人兴趣最多3；不是另一个独立学位。",
+            "source_ids": [
+              "program"
+            ],
+            "extraction_locator": "Complementary6–9; PHTH301; elective0–3"
+          },
+          {
+            "label": "硕士学分和临床小时差异",
+            "text": "2027本科招生页说衔接63学分、约1.5年应用硕士；当前PT专业页说61学分、五学期并含1072小时临床。两处尚未统一，本轮不自行选一种改写全部；这些小时属于后续硕士，绝非本科临床时数。",
+            "source_ids": [
+              "MCH-rehabilitation-admissions",
+              "MCH-rehabilitation-pt"
+            ],
+            "extraction_locator": "Admissions overview63 versus PT master61/1072/5semesters"
+          },
+          {
+            "label": "教学语言与校区边界",
+            "text": "大学教学英语，OT/PT本科入学须满足法语四项B2或特定教育豁免；具体本科授课楼、医院和后续临床点本轮未取得完整安排，不将学院通讯地址当所有学习地点。",
+            "source_ids": [
+              "MCH-undergraduate-french",
+              "MCH-rehabilitation-pt"
+            ],
+            "extraction_locator": "French opening and components; PT programme stages"
           }
         ],
         "admissions": [
@@ -26348,6 +27491,31 @@
             "source_ids": [
               "spot"
             ]
+          },
+          {
+            "label": "实际选择器要求进一步学习",
+            "text": "实际选择非加拿大公民、非魁省高中后，页面要求先修进一步大学课程再申请本科转入，或先完成学士申请硕士Qualifying Year。旧链接仍转介2018/19先修校历，本轮未取得全部2027大学先修对照，不按中国高中直接录取。",
+            "source_ids": [
+              "MCH-rehabilitation-route-actual"
+            ],
+            "extraction_locator": "Three selected dropdowns and displayed results/links"
+          },
+          {
+            "label": "当期Casper和学术评审",
+            "text": "本科录取依据学术、Casper及法语；本校跨院申请也需当周期成绩，往年不能直接沿用。2027招生页未列精确考试日期，须按适用测试平台，不能复制医牙的10月截止。",
+            "source_ids": [
+              "MCH-rehabilitation-admissions"
+            ],
+            "extraction_locator": "Admissions Process and Casper"
+          },
+          {
+            "label": "英语及法语分开满足",
+            "text": "需英语测试者可用IELTS Academic6.5、单项6.0且不接受单项重考；官方其他英语豁免另审。法语听说读写各B2，使用OT/PT教育豁免及测试清单，不能套医牙的特殊延后证明安排。",
+            "source_ids": [
+              "english",
+              "MCH-undergraduate-french"
+            ],
+            "extraction_locator": "IELTS/exemptions; OT/PT French components"
           }
         ],
         "applications": [
@@ -26357,6 +27525,15 @@
             "source_ids": [
               "dates"
             ]
+          },
+          {
+            "label": "国际本科日期的适用范围",
+            "text": "2027年1月15日适用于最后在海外／美国中学或大学学习的本科申请者；资格选择器仍要求中国高中背景先补大学学习。其它身份的转学日程、先修和个人清单另核，不能以截止日期代替准入审查。",
+            "source_ids": [
+              "dates",
+              "MCH-rehabilitation-route-actual"
+            ],
+            "extraction_locator": "2027 event scope; actual result"
           }
         ],
         "fees": [
@@ -26366,6 +27543,33 @@
             "source_ids": [
               "fee-78"
             ]
+          },
+          {
+            "label": "只含非执业本科阶段",
+            "text": "2026/27国际2026新生档按秋冬30学分BSc非执业阶段计，含表列医保1212及牙保150；后续应用硕士、Qualifying Year及临床阶段不在此报价内。本轮未取得2027/28项目费或奖助资格。",
+            "source_ids": [
+              "MCH-pt-international-fees"
+            ],
+            "extraction_locator": "Selected174/78/141; nonpracticing label and notes"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "本科、硕士及认可的区别",
+            "text": "本科毕业不能申请物理治疗执照；专业页所述PEAC fully compliant至2029年5月15日针对应用硕士。不得把硕士认可自动贴到本科，或把它当个人注册／毕业时仍有效的保证。",
+            "source_ids": [
+              "MCH-rehabilitation-pt"
+            ],
+            "extraction_locator": "PT degree stage; Program Accreditation"
+          },
+          {
+            "label": "毕业调查缺口",
+            "text": "本轮未取得本BSc按届别、样本数及回应率报告的毕业就业、薪资或升硕比例。专业页对物理治疗工作和技能的介绍只属职业方向，不是毕业调查。",
+            "source_ids": [
+              "MCH-rehabilitation-pt",
+              "program"
+            ],
+            "extraction_locator": "About Profession versus BSc description"
           }
         ]
       },
@@ -26417,13 +27621,82 @@
           "checked_at": "2026-09-12",
           "supports": "Fall2026新生学费与强制附加费；其他学生档不混用",
           "sha256": "e51881fd3d07e37eacbfa94166710f2969eb39d9bdf2a9fb44e2db7cc01fac4c"
+        },
+        {
+          "id": "MCH-rehabilitation-admissions",
+          "title": "Undergraduate Programs | School of Physical & Occupational Therapy - McGill University",
+          "url": "https://www.mcgill.ca/spot/programs/admissions/undergraduate-programs",
+          "checked_at": "2026-09-13",
+          "supports": "硕士学分和临床小时差异；当期Casper和学术评审",
+          "sha256": "a82f22910530dc04296e37c9b5d469c376732c14cd21dff24cf4189ee6adc274",
+          "capture_format": "public_html",
+          "locator": "Admissions overview63 versus PT master61/1072/5semesters | Admissions Process and Casper"
+        },
+        {
+          "id": "MCH-rehabilitation-pt",
+          "title": "Physical Therapy Program | School of Physical & Occupational Therapy - McGill University",
+          "url": "https://www.mcgill.ca/spot/programs/pt",
+          "checked_at": "2026-09-13",
+          "supports": "硕士学分和临床小时差异；教学语言与校区边界；本科、硕士及认可的区别；毕业调查缺口",
+          "sha256": "438024123442ae8a2ae3ebebdf448f69bbe43fd0f8214d2e1fd81d6d1b900f0a",
+          "capture_format": "public_html",
+          "locator": "Admissions overview63 versus PT master61/1072/5semesters | French opening and components; PT programme stages | PT degree stage; Program Accreditation | About Profession versus BSc description"
+        },
+        {
+          "id": "MCH-undergraduate-french",
+          "title": "French language proficiency | Undergraduate Admissions - McGill University",
+          "url": "https://www.mcgill.ca/undergraduate-admissions/french-proficiency",
+          "checked_at": "2026-09-13",
+          "supports": "教学语言与校区边界；英语及法语分开满足",
+          "sha256": "2f7d8ecb23f2330deee2b49b72a68110ec1415b22fa87304a187b888009d2e3a",
+          "capture_format": "public_html",
+          "locator": "French opening and components; PT programme stages | IELTS/exemptions; OT/PT French components"
+        },
+        {
+          "id": "MCH-rehabilitation-route-actual",
+          "title": "McGill SPOT：非加拿大公民／非魁省高中实际资格选择结果",
+          "url": "https://www.mcgill.ca/spot/application-route",
+          "checked_at": "2026-09-13",
+          "supports": "实际选择器要求进一步学习；国际本科日期的适用范围",
+          "sha256": "76e70fbe1818f1da9306f76a7ec103b343bbe9ac2537ca0c3577fc32522fefaa",
+          "capture_format": "browser_accessibility_snapshot",
+          "locator": "Three selected dropdowns and displayed results/links | 2027 event scope; actual result"
+        },
+        {
+          "id": "english",
+          "title": "McGill 本科英语能力",
+          "url": "https://www.mcgill.ca/undergraduate-admissions/apply/english-proficiency",
+          "checked_at": "2026-09-12",
+          "supports": "IELTS、TOEFL新旧量表及管理、TESL、音乐差别",
+          "sha256": "5504ee1d7dff455464bc7bf748af2089d4cc24fa9d960c8fbf6cb146a2dcb46b"
+        },
+        {
+          "id": "MCH-pt-international-fees",
+          "title": "McGill 2026/27 国际生费用：非执业康复科学物理治疗本科秋冬30学分",
+          "url": "https://www.mcgill.ca/student-accounts/tuition-charges/fallwinter-term-tuition-and-fees/undergraduate-fees?field_fee_academic_year_tid=174&field_fee_degree_tid%5B%5D=78&field_fee_residency_status_tid=141",
+          "checked_at": "2026-09-13",
+          "supports": "只含非执业本科阶段",
+          "sha256": "e504b8e0f1d1f6ee747bb1dd82680b9895378ea892ff07ffbaa6fb6c48b1c280",
+          "capture_format": "public_html",
+          "locator": "Selected174/78/141; nonpracticing label and notes"
         }
       ],
       "excluded_school_sections": [
         "admissions",
         "applications",
         "fees"
-      ]
+      ],
+      "degree_label": "B.Sc.",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_requirements": true,
+        "application_process": true,
+        "fee_amount": true,
+        "fee_period": "2026/27; Fall2026 new entrant; actual medical/dental Year1 or Fall/Winter30credits as stated",
+        "outcome_statistics": false,
+        "entry_2027_confirmed": true,
+        "year_specific_module_schedule_2027": false
+      }
     },
     {
       "university_id": "mcgill",
