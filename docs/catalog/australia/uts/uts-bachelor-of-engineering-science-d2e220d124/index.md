@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>悉尼 City 校区 · <strong>授课语言：</strong>英语（手册标示）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（9）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-chemical-process-engineering-e18506b27c/">化学过程工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-civil-engineering-4c9b9526f3/">土木工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-data-science-engineering-d91374c490/">数据科学工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-electrical-engineering-bd68c4a6eb/">电气工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-electronic-engineering-40b617bffb/">电子工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-flexible-engineering-540d336d93/">灵活组合工程方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-mechanical-engineering-3f3c5567c6/">机械工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-mechatronic-engineering-2baa79d566/">机电一体化工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-software-engineering-522b1f0b47/">软件工程</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

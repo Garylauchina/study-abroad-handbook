@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（10）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-rep-aerospace-engineering/">REP：航空航天工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-rep-bioengineering/">REP：生物工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-rep-chemical-and-biomolecular-engineering/">REP：化学与生物分子工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-rep-civil-engineering/">REP：土木工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-rep-computer-engineering/">REP：计算机工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-rep-computer-science/">REP：计算机科学</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-rep-electrical-and-electronic-engineering/">REP：电气与电子工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-rep-environmental-engineering/">REP：环境工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-rep-materials-engineering/">REP：材料工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-rep-mechanical-engineering/">REP：机械工程</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

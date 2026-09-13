@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语与法语双语</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（3）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-honours-law-b-c-l-j-d-149242ac55/">法律双学位荣誉方向（BCL/JD Honours）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-major-concentration-law-with-major-concentration-commercial-negot-b881181e53/">法律双学位：商业谈判与争议解决主修</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/mcgill-major-concentration-law-with-major-international-human-rights-and-7433602442/">法律双学位：国际人权与发展主修</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

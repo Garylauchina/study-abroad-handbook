@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<strong>所属课程或升读路径</strong><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-science-in-natural-resources-80456b59e3/">自然资源理学士（共同学位入口）</a></li></ul><details><summary>已收录的相关路线与方向（2）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-conservation-science-and-management-specialization-0383ed6c9a/">自然保护：科学与管理方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-conservation-global-perspectives-specialization-047dcc2b1c/">自然保护：全球视野方向</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

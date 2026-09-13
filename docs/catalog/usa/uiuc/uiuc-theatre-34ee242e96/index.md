@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（9）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-acting-ca08556c60/">戏剧（BFA）：戏剧表演</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-arts-entertainment-technology-487dfca739/">戏剧（BFA）：艺术与娱乐技术</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-costume-design-technology-db43805052/">戏剧（BFA）：戏剧服装设计与技术</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-lighting-design-technology-aec6c24164/">戏剧（BFA）：灯光设计与技术</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-scenic-design-ab33f50654/">戏剧（BFA）：舞台美术设计</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-scenic-technology-68ed3755c7/">戏剧（BFA）：舞台技术</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-sound-design-technology-5b8f0a0ef6/">戏剧（BFA）：声音设计与技术</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-stage-management-8203663ad6/">戏剧（BFA）：舞台监督</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-theatre-studies-2d5a6971b4/">戏剧（BFA）：戏剧研究</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

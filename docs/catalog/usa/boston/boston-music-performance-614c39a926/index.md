@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（9）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-performance-strings-28ebeb5fcb/">音乐表演：弦乐领域</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-performance-woodwinds-16beea09cb/">音乐表演：木管领域</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-performance-brass-e94f1cd1e6/">音乐表演：铜管领域</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-performance-percussion-c22d672c22/">音乐表演：打击乐领域</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-performance-piano-785bb1e1d2/">音乐表演：钢琴领域</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-performance-collaborative-piano-ee68109857/">音乐表演：钢琴合作艺术领域</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-performance-organ-435e6c52c1/">音乐表演：管风琴领域</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-performance-voice-52b6083f77/">音乐表演：声乐领域</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-musical-theatre-concentration-eabd60dda1/">音乐剧方向</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

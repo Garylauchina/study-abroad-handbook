@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（6）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-honours-0ba4fa7417/">数学（荣誉）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-differential-equations-and-analysis-4497d763e0/">数学：微分方程与分析方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-computational-mathematics-4af350003c/">数学：计算数学方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-mathematics-of-information-6c2a13ca26/">数学：信息数学方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-mathematical-modelling-daa0853b8a/">数学：数学建模方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-classical-mathematical-structures-b99f2a9def/">数学：经典数学结构方向</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

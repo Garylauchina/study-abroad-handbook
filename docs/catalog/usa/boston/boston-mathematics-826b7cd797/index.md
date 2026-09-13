@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（3）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-pure-mathematics-2745d2a606/">数学：纯数学方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-applied-mathematics-8781a6ece5/">数学：应用数学方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-statistics-9f4838ea48/">数学：统计方向</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

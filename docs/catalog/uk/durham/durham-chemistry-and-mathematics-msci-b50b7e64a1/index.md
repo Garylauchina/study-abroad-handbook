@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>杜伦市（具体教学地点按课表） · <strong>授课语言：</strong>英语</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（1）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/durham/durham-chemistry-and-mathematics-with-placement-d7b33392ae/">化学与数学（实习年）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

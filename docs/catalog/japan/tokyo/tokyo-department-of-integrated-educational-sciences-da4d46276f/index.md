@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>日语为主</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（3）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/japan/tokyo/tokyo-major-in-history-and-philosophy-of-education-51f37987e2/">教育学专修（教育史与哲学）</a></li><li><a class="" href="/study-abroad-handbook/catalog/japan/tokyo/tokyo-major-in-social-sciences-in-education-5a27bfff2c/">教育社会科学专修</a></li><li><a class="" href="/study-abroad-handbook/catalog/japan/tokyo/tokyo-major-in-developmental-sciences-2ed19a44a8/">心身发展科学专修</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

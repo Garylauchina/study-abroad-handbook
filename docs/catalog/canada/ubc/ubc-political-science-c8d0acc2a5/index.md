@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（3）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-political-science-honours-2e005cf429/">政治学（荣誉）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-political-science-with-international-relations-honours-6f449ba297/">政治学与国际关系（荣誉）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-political-science-politics-policy-and-administration-option-670231d3cc/">政治学：政治、政策与行政（方向）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

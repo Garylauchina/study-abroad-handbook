@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（8）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-fashion-60a97606d3/">工作室艺术（BFASA）：时装</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-illustration-bb7a159836/">工作室艺术（BFASA）：插画</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-interdisciplinary-practice-4d5bbec4e8/">工作室艺术（BFASA）：跨学科艺术实践</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-new-media-e9a1a309c1/">工作室艺术（BFASA）：新媒体艺术</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-painting-68622e59a1/">工作室艺术（BFASA）：绘画</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-photography-79bbbdb774/">工作室艺术（BFASA）：摄影</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-printmaking-6f81400996/">工作室艺术（BFASA）：版画</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-sculpture-f431454163/">工作室艺术（BFASA）：雕塑</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

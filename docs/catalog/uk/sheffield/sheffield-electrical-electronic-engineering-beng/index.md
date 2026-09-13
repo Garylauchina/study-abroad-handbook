@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>谢菲尔德校本部 · <strong>授课语言：</strong>英语</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（4）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-8be07c2c2d/">电气与电子工程—电气方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electronic-and-semiconductor-d1b609132b/">电气与电子工程—电子与半导体方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-and-electronic-57eb7b1cd6/">电气与电子工程—电气与电子方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electronic-and-communication-926ad54135/">电气与电子工程—电子与通信方向</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 ## 专业说明 {#overview}

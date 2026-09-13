@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>卡塔尔多哈（Education City） · <strong>授课语言：</strong>本轮未取得本学位统一授课语言声明</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（4）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-qatar-biomedical-sciences-track-88a5396e93/">生物科学（卡塔尔校区）—生物医学科学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-qatar-cell-and-developmental-biology-track-43b46988bb/">生物科学（卡塔尔校区）—细胞与发育生物学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-qatar-genetics-and-molecular-biology-track-e7c13f27a5/">生物科学（卡塔尔校区）—遗传学与分子生物学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-qatar-neuroscience-track-a6ea014f81/">生物科学（卡塔尔校区）—神经科学</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

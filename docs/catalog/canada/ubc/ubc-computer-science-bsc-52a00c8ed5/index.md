@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（5）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-honours-eea3c5096c/">计算机科学（荣誉）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-major-artificial-intelligence-e6f087cc46/">计算机科学主修：人工智能方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-honours-artificial-intelligence-b63ece6bc6/">计算机科学荣誉：人工智能方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-software-engineering-major-ae4512034d/">计算机科学与软件工程（主修方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-and-software-engineering-honours-4483092829/">计算机科学与软件工程（荣誉方向）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

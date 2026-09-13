@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>Southbank · <strong>授课语言：</strong>本轮未取得本荣誉学位专属授课语言说明</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（5）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-composition-78b06ea8eb/">作曲（音乐荣誉学士方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-interactive-composition-c582e65cb3/">交互作曲（音乐荣誉学士方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-jazz-improvisation-d8af853d18/">爵士与即兴（音乐荣誉学士方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-musicology-ethnomusicology-4fd48f12a2/">音乐学与民族音乐学（音乐荣誉学士方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-performance-3382b76956/">表演（音乐荣誉学士方向）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

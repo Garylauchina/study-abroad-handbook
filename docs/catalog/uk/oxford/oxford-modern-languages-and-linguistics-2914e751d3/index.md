@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（11）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-french-and-linguistics-7464562bc6/">法语与语言学</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-german-and-linguistics-4cf4044314/">德语与语言学</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-modern-greek-and-linguistics-a06b20a3cf/">现代希腊语与语言学</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-italian-and-linguistics-a603ac95d7/">意大利语与语言学</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-portuguese-and-linguistics-997baaec6e/">葡萄牙语与语言学</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-russian-and-linguistics-42dc555c3d/">俄语与语言学</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-spanish-and-linguistics-45ea478d26/">西班牙语与语言学</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-beginners-german-and-linguistics-e751419171/">初学者德语与语言学</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-beginners-modern-greek-and-linguistics-19dcdf73bd/">初学者现代希腊语与语言学</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-beginners-italian-and-linguistics-8d1dd73f70/">初学者意大利语与语言学</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-beginners-portuguese-and-linguistics-129a3c4284/">初学者葡萄牙语与语言学</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

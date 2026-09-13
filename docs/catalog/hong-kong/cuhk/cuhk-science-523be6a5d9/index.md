@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（11）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-biochemistry-43185dc8b8/">生物化学</a></li><li><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-biology-d237694d9a/">生物学</a></li><li><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-cell-and-molecular-biology-740cb4599d/">细胞及分子生物学</a></li><li><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-chemistry-543828b3d3/">化学</a></li><li><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-food-and-nutritional-sciences-3a2f84ccf0/">食品及营养科学</a></li><li><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-mathematics-554fc32f33/">数学</a></li><li><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-molecular-biotechnology-804b2c4642/">分子生物技术学</a></li><li><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-physics-17c89cc9d2/">物理</a></li><li><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-statistics-9be57f8bc1/">统计学</a></li><li><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-biology-and-chemistry-double-major-programme-0bea4cd248/">生物学及化学双主修（第一主修：生物学）</a></li><li><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-chemistry-and-biology-double-major-programme-b999dafbee/">化学及生物学双主修（第一主修：化学）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

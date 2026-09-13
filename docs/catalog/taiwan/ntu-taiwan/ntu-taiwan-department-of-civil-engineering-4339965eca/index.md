@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>本轮未核实本项目统一授课语种</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（6）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-50101/">土木工程—土木学群（A）</a></li><li><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-50102/">土木工程—轨道运输学群（B）</a></li><li><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-50103/">土木工程—建筑学群（C）</a></li><li><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-50104/">土木工程—环境工程学群（D）</a></li><li><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-50106/">土木工程—土木构造学群（F）</a></li><li><a class="" href="/study-abroad-handbook/catalog/taiwan/ntu-taiwan/ntu-taiwan-curriculum-50107/">土木工程—防灾与永续学群（G）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>卡塔尔多哈（Education City） · <strong>授课语言：</strong>本轮未取得本学位统一授课语言声明</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（5）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computer-science-qatar-algorithms-and-complexity-98c3dfd8bf/">计算机科学（卡塔尔校区）—算法与复杂性</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computer-science-qatar-computer-systems-80fce4269b/">计算机科学（卡塔尔校区）—计算机系统</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computer-science-qatar-machine-learning-55c4930c49/">计算机科学（卡塔尔校区）—机器学习</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computer-science-qatar-principles-of-programming-languages-182856157e/">计算机科学（卡塔尔校区）—编程语言原理</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computer-science-qatar-security-and-privacy-e4711c0aea/">计算机科学（卡塔尔校区）—安全与隐私</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

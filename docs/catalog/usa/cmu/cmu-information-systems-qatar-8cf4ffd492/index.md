@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>卡塔尔多哈（Education City） · <strong>授课语言：</strong>本轮未取得本学位统一授课语言声明</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（3）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-information-systems-qatar-information-security-and-privacy-a994a916ae/">信息系统（卡塔尔校区）—信息安全与隐私</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-information-systems-qatar-data-science-57695f9cde/">信息系统（卡塔尔校区）—数据科学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-information-systems-qatar-emerging-technology-management-ba734f0c36/">信息系统（卡塔尔校区）—新兴技术管理</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

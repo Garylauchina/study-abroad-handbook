@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（4）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-middle-grades-education-literacy-1da7c6b87b/">初中阶段教育（五至八年级）：读写教育</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-middle-grades-education-mathematics-124db7e54e/">初中阶段教育（五至八年级）：数学教育</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-middle-grades-education-science-29a21735bf/">初中阶段教育（五至八年级）：科学教育</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-middle-grades-education-social-science-d0053f4c5e/">初中阶段教育（五至八年级）：社会科学教育</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

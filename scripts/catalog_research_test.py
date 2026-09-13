@@ -8,11 +8,38 @@ import unittest
 from catalog_research import attach_research, validate_record
 from render_catalog import load_catalog, validate_source_dates
 from import_catalog_research import match_program
+from catalog_relations import attach_relations
+from render_catalog import related_courses
 
 ROOT = Path(__file__).resolve().parents[1]
 
 
 class ResearchTests(unittest.TestCase):
+    def test_catalog_paths_link_to_stable_pages_without_inheriting_rules(self):
+        parent = {'id':'stable-page', 'inventory_identity':{'id':'catalog-parent'}, 'name':'课程 <A>', 'university_id':'school', 'entry_summary':'Parents only'}
+        second = {'id':'second-parent', 'name':'另一课程', 'university_id':'school'}
+        child = {'id':'internal-stage', 'name':'校内方向', 'university_id':'school', 'parent_program_ids':['catalog-parent','second-parent'], 'entry_summary':'Requires prior study'}
+        attach_relations([parent, second, child])
+        self.assertEqual(child['entry_summary'], 'Requires prior study')
+        self.assertEqual([p['id'] for p in child['related_parents']], ['stable-page','second-parent'])
+        self.assertEqual(parent['related_children'], [{'id':'internal-stage','name':'校内方向'}])
+        markup = related_courses(child, 'country')
+        self.assertIn('/study-abroad-handbook/catalog/country/school/stable-page/', markup)
+        self.assertIn('课程 &lt;A&gt;', markup)
+        self.assertIn('不等于独立招生项目', markup)
+        bad = copy.deepcopy(child); bad['parent_program_ids'] = ['stable-page','catalog-parent']
+        with self.assertRaisesRegex(AssertionError, 'Duplicate resolved parent'):
+            attach_relations([parent, bad])
+        bad = copy.deepcopy(child); bad['parent_program_ids'] = ['missing']
+        with self.assertRaisesRegex(AssertionError, 'Unknown parent'):
+            attach_relations([parent, bad])
+        bad['parent_program_ids'] = ['stable-page']; bad['university_id'] = 'other'
+        with self.assertRaisesRegex(AssertionError, 'Cross-school parent'):
+            attach_relations([parent, bad])
+        parent['inventory_identity']['parent_program_ids'] = ['internal-stage']
+        with self.assertRaisesRegex(AssertionError, 'Cyclic program'):
+            attach_relations([parent, second, child])
+
     def test_incremental_updates_retain_each_sources_verification_date(self):
         program = {'checked_at':'2026-09-13', 'sources':[
             {'checked_at':'2026-09-12'}, {'checked_at':'2026-09-13'}]}

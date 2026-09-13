@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<strong>所属课程或升读路径</strong><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-asian-and-middle-eastern-studies-5f57825d88/">亚洲与中东研究</a></li></ul><details><summary>已收录的相关路线与方向（8）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-akkadian-6d9ab93c33/">阿拉伯语，辅修阿卡德语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-aramaic-and-syriac-ba000fe21f/">阿拉伯语，辅修阿拉米语与叙利亚语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-armenian-4d141dbe3b/">阿拉伯语，辅修亚美尼亚语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-early-iranian-21995f52be/">阿拉伯语，辅修早期伊朗语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-hebrew-55b5eb08e5/">阿拉伯语，辅修希伯来语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-hindi-urdu-a8ddc3cee5/">阿拉伯语，辅修印地语／乌尔都语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-persian-b069f164bc/">阿拉伯语，辅修波斯语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-arabic-with-turkish-45782cf94d/">阿拉伯语，辅修土耳其语</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

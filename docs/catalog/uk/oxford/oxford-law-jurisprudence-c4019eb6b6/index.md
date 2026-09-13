@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（6）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-law-with-european-law-the-netherlands-6b2ba0d122/">法学与欧洲法（荷兰研修年）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-law-with-french-law-e64c5f0ee7/">法学与法国法（欧洲研修年）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-law-with-german-law-8b52090993/">法学与德国法（欧洲研修年）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-law-with-italian-law-25c5a1d0fe/">法学与意大利法（欧洲研修年）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-law-with-spanish-law-bd1bbeabfe/">法学与西班牙法（欧洲研修年）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-ba-in-jurisprudence-with-senior-status-3ff64f12ce/">法学（已有学位者加速本科路线）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（5）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-math-computational-modelling/">数学科学：计算数学与建模</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-math-cryptography-cybersecurity/">数学科学：密码学与网络安全</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-math-data-analytics-statistical-learning/">数学科学：数据分析与统计学习</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-math-fintech-quantitative-analysis/">数学科学：金融科技与量化分析</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-math-pure-mathematics/">数学科学：纯数学</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

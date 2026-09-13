@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（3）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-germanic-studies-german-business-commercial-studies-dbfe3aceec/">日耳曼语言与文化研究：德国商务与商业研究</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-germanic-studies-german-studies-9d8d9a6abc/">日耳曼语言与文化研究：德国研究</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-germanic-studies-scandinavian-studies-a5142c6fa2/">日耳曼语言与文化研究：斯堪的纳维亚研究</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

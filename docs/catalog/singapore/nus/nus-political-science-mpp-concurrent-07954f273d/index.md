@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>NUS文社科学院本科阶段、李光耀公共政策学院硕士阶段；具体地点按课表 · <strong>授课语言：</strong>英语（NUS）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<strong>所属课程或升读路径</strong><ul><li><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-honours-bachelor-of-social-sciences-honours-bach-0fe6e97c15/">文社科学士与公共政策本硕衔接</a></li></ul><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

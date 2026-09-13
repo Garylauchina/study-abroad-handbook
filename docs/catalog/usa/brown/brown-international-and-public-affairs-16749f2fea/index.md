@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>普罗维登斯（Providence）校本部 · <strong>授课语言：</strong>英语；语言文学课依目标语言</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（6）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-international-and-public-affairs-development-38f88d22d9/">国际与公共事务—发展</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-international-and-public-affairs-security-571a5e714f/">国际与公共事务—安全</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-international-and-public-affairs-policy-governance-0a674ce64a/">国际与公共事务—政策与治理</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-international-and-public-affairs-development-professional-track-9e8757b387/">国际与公共事务—发展（专业实践方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-international-and-public-affairs-security-professional-track-6b311f68f7/">国际与公共事务—安全（专业实践方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-international-and-public-affairs-policy-governance-professional-track-a3930bbcbc/">国际与公共事务—政策与治理（专业实践方向）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

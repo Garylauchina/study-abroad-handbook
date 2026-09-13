@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>美国匹兹堡 · <strong>授课语言：</strong>本轮未取得本专业统一授课语言声明</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（4）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-art-drawing-painting-print-media-and-photography-dp3-3a0e7b4b10/">美术（艺术学士）—素描、绘画、版画与摄影</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-art-sculpture-installation-and-site-work-sis-bb957f38c0/">美术（艺术学士）—雕塑、装置与场域创作</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-art-electronic-and-time-based-work-etb-79851401c6/">美术（艺术学士）—电子与时间媒介创作</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-art-social-practice-sp-385a5a0648/">美术（艺术学士）—社会实践艺术</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

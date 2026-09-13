@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>悉尼 City 校区 · <strong>授课语言：</strong>英语（手册标示）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（8）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-biotechnology-honours-c0af3d27bc/">生物技术（荣誉方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-chemistry-honours-7036a38971/">化学（荣誉方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-environmental-sciences-honours-c88af612db/">环境科学（荣誉方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-food-science-and-technology-honours-ddb9ad80b1/">食品科学与技术（荣誉方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-forensic-science-honours-8d0e4c09cb/">法庭科学（荣誉方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-medical-science-honours-f7e92ecdef/">医学科学（荣誉方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-pharmaceutical-sciences-honours-2cb3f01b85/">药物科学（荣誉方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-physics-and-quantum-technology-honours-9679567e55/">物理与量子技术（荣誉方向）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

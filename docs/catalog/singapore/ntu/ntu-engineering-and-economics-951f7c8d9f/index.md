@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（10）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-aerospace-engineering-and-economics-75eb7d3ce7/">航空航天工程与经济学（双学位）</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-bioengineering-and-economics-dd7bded7ec/">生物工程与经济学（双学位）</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-chemical-and-biomolecular-engineering-and-economics-56d0615185/">化学与生物分子工程与经济学（双学位）</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-civil-engineering-and-economics-defb27b8d8/">土木工程与经济学（双学位）</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-computer-engineering-and-economics-ca5d01ab14/">计算机工程与经济学（双学位）</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-electrical-and-electronic-engineering-and-economics-62090bfbd1/">电机与电子工程与经济学（双学位）</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-environmental-engineering-and-economics-ad67c125c8/">环境工程与经济学（双学位）</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-information-engineering-and-media-and-economics-dbd4b22772/">信息工程与媒体与经济学（双学位）</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-materials-engineering-and-economics-9bdbdacf99/">材料工程与经济学（双学位）</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-mechanical-engineering-and-economics-46fc6225f7/">机械工程与经济学（双学位）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

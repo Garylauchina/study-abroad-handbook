@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>美国匹兹堡 · <strong>授课语言：</strong>本轮未取得本专业统一授课语言声明</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（10）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-business-administration-accounting-9b895d7f2d/">工商管理（理学学士）—会计</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-business-administration-ai-and-business-d3fcb66045/">工商管理（理学学士）—人工智能与商业</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-business-administration-business-analytics-and-technologies-01840a22ac/">工商管理（理学学士）—商业分析与技术</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-business-administration-entrepreneurship-8e38db9470/">工商管理（理学学士）—创业</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-business-administration-finance-4b8a60a577/">工商管理（理学学士）—金融</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-business-administration-global-economics-and-business-c3fdad6c1f/">工商管理（理学学士）—全球经济与商业</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-business-administration-marketing-management-6b1d33fb9c/">工商管理（理学学士）—营销管理</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-business-administration-operations-management-0d28e670a8/">工商管理（理学学士）—运营管理</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-business-administration-product-management-75716e6588/">工商管理（理学学士）—产品管理</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-business-administration-strategic-management-145e547dae/">工商管理（理学学士）—战略管理</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

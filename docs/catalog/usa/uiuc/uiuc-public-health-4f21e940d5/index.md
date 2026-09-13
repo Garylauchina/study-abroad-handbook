@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（4）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-public-health-community-health-practice-e72b4e5eeb/">公共卫生：社区健康实践</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-public-health-epidemiology-426153f768/">公共卫生：流行病学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-public-health-health-administration-and-policy-be5d5ca070/">公共卫生：卫生管理与政策</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-public-health-health-education-promotion-b21403e5b4/">公共卫生：健康教育与促进</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

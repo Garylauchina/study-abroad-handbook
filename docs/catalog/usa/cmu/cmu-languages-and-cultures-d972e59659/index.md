@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>美国匹兹堡 · <strong>授课语言：</strong>本轮未取得本专业统一授课语言声明</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（10）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-languages-and-cultures-arabic-studies-07a284eadd/">语言与文化—阿拉伯研究</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-languages-and-cultures-chinese-studies-c0dc786a29/">语言与文化—中国研究</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-languages-and-cultures-german-studies-5a32e9292f/">语言与文化—德语研究</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-languages-and-cultures-global-french-studies-face149156/">语言与文化—全球法语研究</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-languages-and-cultures-hispanic-studies-2464c3ecd0/">语言与文化—西语世界研究</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-languages-and-cultures-italian-studies-6731efe14b/">语言与文化—意大利研究</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-languages-and-cultures-japanese-studies-af35b97d2e/">语言与文化—日本研究</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-languages-and-cultures-korean-studies-54fb7d6be9/">语言与文化—韩国研究</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-languages-and-cultures-russian-studies-67a778af3b/">语言与文化—俄罗斯研究</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-languages-and-cultures-comparative-studies-19f7df75b4/">语言与文化—比较语言文化研究</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

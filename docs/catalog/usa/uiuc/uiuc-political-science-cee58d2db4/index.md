@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（7）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-citizen-politics-8c288c4a1f/">政治学：公民政治</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-civic-leadership-8bb87bb3f1/">政治学：公民领导</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-general-political-science-c9ad115a89/">政治学：综合政治学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-international-relations-4ff2656f50/">政治学：国际关系</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-law-power-ee5869bde2/">政治学：法律与权力</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-public-policy-and-democratic-institution-d0ac6aa4b9/">政治学：公共政策与民主制度</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-world-politics-9a028c2765/">政治学：世界政治</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

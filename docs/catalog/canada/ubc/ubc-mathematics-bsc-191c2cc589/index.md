@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>Okanagan · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（4）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematics-honours-eea632dc06/">数学（荣誉）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-applied-mathematics-concentration-089df148ab/">应用数学（方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-pure-mathematics-concentration-128fde4510/">纯数学（方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mathematical-finance-concentration-6f9d37cde3/">数理金融（方向）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

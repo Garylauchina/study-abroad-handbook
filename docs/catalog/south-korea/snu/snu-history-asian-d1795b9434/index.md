@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>韩语为主；逐科语种须核</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<strong>所属课程或升读路径</strong><ul><li><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-dept-of-history-7392592c56/">历史学（含韩国史、亚洲史及西方史方向）</a></li></ul><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

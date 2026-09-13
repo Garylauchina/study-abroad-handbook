@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>City, Grafton · <strong>授课语言：</strong>英语；外语及毛利语语言课程例外</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（7）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-biodiversity-ecology-and-evolution-d1b3e74c0e/">生物多样性、生态与进化（理学士）</a></li><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-cell-and-molecular-bioscience-67987bd09f/">细胞与分子生物科学（理学士）</a></li><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-physics-medical-physics-and-imaging-technology-pathway-d1fc272eed/">物理学：医学物理与成像技术路径（理学士）</a></li><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-physics-photonics-pathway-f109048176/">物理学：光子学路径（理学士）</a></li><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-statistics-applied-statistics-pathway-ebabc7f664/">统计学：应用统计路径（理学士）</a></li><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-statistics-statistics-and-probability-pathway-0564308692/">统计学：统计与概率路径（理学士）</a></li><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-applied-exercise-and-sport-sciences-3a473d22b9/">应用运动与体育科学（理学士）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

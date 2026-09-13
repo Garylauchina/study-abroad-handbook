@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（7）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-arthistory-african-62901075a2/">艺术史—非洲艺术</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-arthistory-asian-pre-1800-d9c6819121/">艺术史—1800年前亚洲艺术</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-arthistory-asian-post-1800-31edfe409e/">艺术史—1800年后亚洲艺术</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-arthistory-european-and-american-pre-1800-74b367c05a/">艺术史—1800年前欧洲与美洲艺术</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-arthistory-european-and-american-post-1800-d951a5abf6/">艺术史—1800年后欧洲与美洲艺术</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-arthistory-latin-american-976f18c0f7/">艺术史—拉丁美洲艺术</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-arthistory-theory-and-methodology-c929b1bc91/">艺术史—理论与方法</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

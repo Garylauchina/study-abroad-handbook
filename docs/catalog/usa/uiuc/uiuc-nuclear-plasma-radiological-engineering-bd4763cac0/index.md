@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（3）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-nuclear-plasma-radiological-enginee-plasma-fusion-science-engineering-9b3956a10c/">核、等离子体与放射工程：等离子体与聚变科学工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-nuclear-plasma-radiological-enginee-power-safety-environment-b048da7bff/">核、等离子体与放射工程：动力、安全与环境</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-nuclear-plasma-radiological-enginee-radiological-medical-instrumentation-app-2d90613821/">核、等离子体与放射工程：放射、医学与仪器应用</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

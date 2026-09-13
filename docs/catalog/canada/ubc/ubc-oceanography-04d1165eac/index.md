@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（5）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-oceanography-and-biology-combined-major-111c6b8d5a/">海洋学与生物学（联合主修）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-oceanography-and-chemistry-combined-major-7cf12e0044/">海洋学与化学（联合主修）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-oceanography-and-physics-combined-major-d72c51daf9/">海洋学与物理学（联合主修）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-fisheries-oceanography-honours-a73a895ec5/">渔业海洋学（荣誉）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-oceanography-and-biology-combined-honours-13bdb8de76/">海洋学与生物学（联合荣誉）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

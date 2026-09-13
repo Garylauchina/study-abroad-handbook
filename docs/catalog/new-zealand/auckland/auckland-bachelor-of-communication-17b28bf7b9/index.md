@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>City · <strong>授课语言：</strong>英语；外语及毛利语语言课程例外</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（3）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-communication-and-social-change-cef0fb223c/">传播与社会变革（传播学士）</a></li><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-communication-and-technology-218459738a/">传播与技术（传播学士）</a></li><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-communication-in-leadership-3b10cd6a80/">领导力传播（传播学士）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

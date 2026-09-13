@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>谢菲尔德；实习或海外学习按课程安排 · <strong>授课语言：</strong>授课语种待逐模块核实；已核英语门槛</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（6）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-biomedical-5f4b44df7a/">综合工程（MEng (Hons)本硕一体）—生物医学方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-civil-structural-5489851049/">综合工程（MEng (Hons)本硕一体）—土木与结构方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-software-e34595d918/">综合工程（MEng (Hons)本硕一体）—电气与软件方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-energy-sustainability-2e7344e1fe/">综合工程（MEng (Hons)本硕一体）—能源与可持续发展方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechanical-aerospace-3a3153eaee/">综合工程（MEng (Hons)本硕一体）—机械与航空航天方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-general-500dda81a3/">综合工程（MEng (Hons)本硕一体）—综合工程方向</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

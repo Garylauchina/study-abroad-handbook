@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（3）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-sport-science-and-management-high-performance-sport-40ffacca2f/">体育科学与管理—高水平竞技体育</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-sport-science-and-management-fitness-and-health-f47a3d328b/">体育科学与管理—健康与健身</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-sport-science-and-management-sport-management-a964b63495/">体育科学与管理—体育管理</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

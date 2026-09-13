@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>普罗维登斯（Providence）校本部 · <strong>授课语言：</strong>英语；语言文学课依目标语言</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（8）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-classics-07a1e68f38/">古典学—一般古典学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-greek-c695820412/">古典学—希腊语</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-latin-7a7882ecd3/">古典学—拉丁语</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-greek-and-latin-5ce9f2b65f/">古典学—希腊语与拉丁语</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-south-asian-classics-573584c0b0/">古典学—南亚古典学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-sanskrit-630e838824/">古典学—梵语</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-greek-and-sanskrit-6eb2be16a3/">古典学—希腊语与梵语</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-classics-latin-and-sanskrit-e44956533d/">古典学—拉丁语与梵语</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

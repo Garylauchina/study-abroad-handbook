@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（2）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-education-human-development-child-adolescent-mental-health-6d787b1978/">教育与人类发展：儿童与青少年心理健康</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-education-human-development-deaf-studies-deaf-education-dbfaa32e77/">教育与人类发展：聋人研究与聋人教育</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>美国匹兹堡 · <strong>授课语言：</strong>本轮未取得本专业统一授课语言声明</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（7）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-besa-biomedical-engineering-26ac0ce956/">生物医学工程（BESA学术方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-besa-chemical-engineering-e9a1e8d6b3/">化学工程（BESA学术方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-besa-civil-engineering-1b75f0bae4/">土木工程（BESA学术方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-besa-electrical-computer-engineering-7a4bc506eb/">电气与计算机工程（BESA学术方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-besa-environmental-engineering-72ca5247b6/">环境工程（BESA学术方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-besa-materials-science-engineering-efcab8c220/">材料科学与工程（BESA学术方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-besa-mechanical-engineering-805bc9606c/">机械工程（BESA学术方向）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

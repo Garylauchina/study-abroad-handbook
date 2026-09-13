@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（8）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-law-exchange-plus-nyu-llm-c052bf618c/">法学荣誉学士＋纽约大学法学硕士</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-law-exchange-plus-bu-llm-8e91d476eb/">法学荣誉学士＋波士顿大学法学硕士</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-law-exchange-plus-erasmus-llm-0ae5298262/">法学荣誉学士＋鹿特丹伊拉斯谟大学法学硕士</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-law-exchange-plus-kcl-llm-08d5528c48/">法学荣誉学士＋伦敦国王学院法学硕士</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-law-exchange-plus-melbourne-llm-7d7398a24e/">法学荣誉学士＋墨尔本大学法学硕士</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-law-exchange-plus-toronto-llm-ef378aed72/">法学荣誉学士＋多伦多大学法学硕士</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-law-exchange-plus-ie-mdbi-d13a851d5f/">法学荣誉学士＋IE大学数字商业与创新硕士</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-law-exchange-plus-ie-msbt-28240e8f8a/">法学荣誉学士＋IE大学可持续发展与商业转型硕士</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

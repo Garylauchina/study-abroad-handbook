@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语（NUS）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（5）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-economics-mpp-concurrent-945fe69ba6/">经济学与公共政策本硕衔接</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-political-science-mpp-concurrent-07954f273d/">政治学与公共政策本硕衔接</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-sociology-mpp-concurrent-088bd49099/">社会学与公共政策本硕衔接</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-social-work-mpp-concurrent-c19b07ddb2/">社会工作与公共政策本硕衔接</a></li><li><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-ppe-mpp-concurrent-0da11653a5/">哲学、政治与经济学（PPE）与公共政策本硕衔接</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

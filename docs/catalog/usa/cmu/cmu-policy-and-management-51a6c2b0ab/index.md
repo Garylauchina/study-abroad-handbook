@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>美国匹兹堡 · <strong>授课语言：</strong>本轮未取得本专业统一授课语言声明</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（5）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-policy-and-management-analytics-concentration-1167b1a54b/">政策与管理—分析方法</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-policy-and-management-policy-concentration-8539d0af80/">政策与管理—公共政策</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-policy-and-management-management-concentration-39d16ce059/">政策与管理—管理</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-policy-and-management-law-concentration-a2500e4f39/">政策与管理—法律研究</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-policy-and-management-additional-major-a6a9ec12bc/">政策与管理（附加主修）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

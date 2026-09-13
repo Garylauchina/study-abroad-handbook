@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（6）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-bioprocess-engineering-and-industrial-bi-30c9379c3c/">农业与生物工程：生物加工工程与工业生物技术</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-off-highway-vehicle-and-equipment-engine-cbe1bae566/">农业与生物工程：非公路车辆与装备工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-renewable-energy-systems-engineering-b3cf68e0a0/">农业与生物工程：可再生能源系统工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-soil-and-water-resources-engineering-5524462d81/">农业与生物工程：土壤与水资源工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-sustainable-ecological-and-environmental-e90bbb7295/">农业与生物工程：可持续生态与环境系统工程</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-synthetic-biological-engineering-92b74b0480/">农业与生物工程：合成生物工程</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

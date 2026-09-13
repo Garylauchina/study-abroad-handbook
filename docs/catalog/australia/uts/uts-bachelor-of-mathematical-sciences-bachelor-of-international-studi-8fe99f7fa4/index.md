@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>悉尼 City 校区 · <strong>授课语言：</strong>英语（手册标示）；海外国际研究阶段语言按相应方向</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（6）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-chinese-language-and-culture-1a478aa251/">中国语言与文化</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-french-language-and-culture-68370ba35a/">法国语言与文化</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-german-language-and-culture-3c6c43210a/">德国语言与文化</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-italian-language-and-culture-3cd9b4f09e/">意大利语言与文化</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-japanese-language-and-culture-ab578eee2f/">日本语言与文化</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/uts/uts-spanish-language-and-culture-major-afb5f8a3c2/">西班牙语言与文化主修</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

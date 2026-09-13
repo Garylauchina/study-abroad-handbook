@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（10）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-behavioral-neuroscience-6416905442/">心理学：行为神经科学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-clinical-community-psychology-0b5f39ad5e/">心理学：临床与社区心理学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-cognitive-neuroscience-e6053b80e5/">心理学：认知神经科学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-cognitive-psychology-f0e91293a4/">心理学：认知心理学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-developmental-psychology-214293dcce/">心理学：发展心理学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-diversity-science-84bdba86c5/">心理学：多样性科学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-intradisciplinary-psychology-f29935acdb/">心理学：心理学学科内综合方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-organizational-psychology-06abcad041/">心理学：组织心理学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-personality-psychology-e703ff12c8/">心理学：人格心理学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-social-psychology-dbd9f417de/">心理学：社会心理学</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

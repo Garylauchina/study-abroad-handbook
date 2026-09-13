@@ -9,6 +9,7 @@ from datetime import date
 from urllib.parse import urlsplit
 from catalog_inventory import load_inventories, coverage_text, inventory_markdown
 from catalog_research import attach_research, profile_markdown
+from catalog_relations import attach_relations
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = '/study-abroad-handbook/'
@@ -81,7 +82,22 @@ def load_catalog():
         assert cited == sources.keys(), f'{p["id"]}: unused sources {sources.keys() - cited}'
     programs = load_inventories(ROOT, universities, programs)
     attach_research(ROOT, universities, programs)
+    attach_relations(programs)
     return countries, universities, programs
+
+def related_courses(p, country_id):
+    parents, children = p.get('related_parents', []), p.get('related_children', [])
+    if not parents and not children:
+        return ''
+    def items(records):
+        return '<ul>' + ''.join('<li>' + link(route(country_id, p['university_id'], x['id']), x['name']) + '</li>' for x in records) + '</ul>'
+    body = '<nav class="catalog-related" aria-label="课程与方向">\n'
+    if parents:
+        body += '<strong>所属课程或升读路径</strong>' + items(parents)
+    if children:
+        body += f'<details><summary>已收录的相关路线与方向（{len(children)}）</summary>' + items(children) + '</details>'
+    body += '<p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>\n\n'
+    return body
 
 def front(title, wide=False, program_context=None):
     hidden = ['toc', 'navigation'] if wide else ['toc']
@@ -195,6 +211,7 @@ def generate():
                 body += f'<p class="catalog-eyebrow">{esc(u["name"])} · {esc(p["degree"])} · {esc(p["subject"])}</p>\n\n# {p["name"].strip()}\n\n<p class="program-title-en">{esc(p["name_en"])}</p>\n\n'
                 body += '<div class="program-at-a-glance">' + ''.join(f'<div><span>{esc(label)}</span><strong>{esc(value)}</strong></div>' for label,value in [('入学年度',p['intake']),('学制',p['duration']),(p.get('tuition_label','国际生学费'),p['tuition_summary'])]) + '</div>\n\n'
                 body += f'<p class="program-location"><strong>校区：</strong>{esc(p["campus"])} · <strong>授课语言：</strong>{esc(p["language"])}</p>\n\n'
+                body += related_courses(p, c['id'])
                 body += '<nav class="program-jumps" aria-label="专业详情章节">' + ''.join(f'<a href="#{key}">{title}</a>' for key,title in SECTIONS) + '</nav>\n\n'
                 if p['detail_status'] != 'detailed':
                     body += inventory_markdown(p, esc)

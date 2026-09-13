@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（6）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-engineering-energy-technologies-and-sustainability-d0cc303502/">工程本科：能源技术与可持续发展方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-engineering-machine-learning-7b97ec514a/">工程本科：机器学习方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-engineering-manufacturing-engineering-3f5692d8aa/">工程本科：制造工程方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-engineering-nanotechnology-325dd36557/">工程本科：纳米技术方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-engineering-robotics-9a25856321/">工程本科：机器人学方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-engineering-technology-innovation-2e791ba0f2/">工程本科：技术创新方向</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

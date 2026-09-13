@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>美国匹兹堡 · <strong>授课语言：</strong>本轮未取得本专业统一授课语言声明</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（5）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-mathematical-sciences-operations-research-and-statistics-5de486d2de/">数学科学（理学学士）—运筹学与统计</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-mathematical-sciences-statistics-38c037b2c1/">数学科学（理学学士）—统计学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-mathematical-sciences-discrete-mathematics-and-logic-2641ada948/">数学科学（理学学士）—离散数学与逻辑</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-mathematical-sciences-computational-and-applied-mathematics-872e987e87/">数学科学（理学学士）—计算与应用数学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-mathematical-sciences-additional-major-64ec1b4ed3/">数学科学（理学学士）（附加主修）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

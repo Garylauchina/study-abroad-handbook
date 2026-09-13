@@ -1,0 +1,1863 @@
+{
+  "audit": {
+    "university_id": "cambridge",
+    "baseline": 32,
+    "total": 58,
+    "new": 26,
+    "existing_facts": 486,
+    "existing_facts_verbatim": 485,
+    "existing_exact_changes": 1,
+    "new_record_facts": 206,
+    "new_parent_facts": 3,
+    "program_facts": 695,
+    "profile_facts": 14,
+    "profile_new_facts": 10,
+    "source_pairs": 143,
+    "new_ids": [
+      "cambridge-archaeology-track-73079711a3",
+      "cambridge-assyriology-track-dedbb99575",
+      "cambridge-biological-anthropology-track-6983ac2229",
+      "cambridge-egyptology-track-be76ebce60",
+      "cambridge-biological-anthropology-and-archaeology-track-a0601137fd",
+      "cambridge-assyriology-and-egyptology-track-27a4b186c4",
+      "cambridge-classics-3-year-2565820f33",
+      "cambridge-classics-4-year-3dcff9dde0",
+      "cambridge-hsps-politics-international-relations-internal-track",
+      "cambridge-hsps-social-anthropology-internal-track",
+      "cambridge-hsps-sociology-internal-track",
+      "cambridge-hsps-politics-sociology-internal-track",
+      "cambridge-hsps-social-anthropology-politics-internal-track",
+      "cambridge-hsps-social-anthropology-modern-religion-internal-track",
+      "cambridge-hsps-sociology-criminology-internal-track",
+      "cambridge-hsps-sociology-social-anthropology-internal-track",
+      "cambridge-nst-biological-and-biomedical-sciences-part-ii",
+      "cambridge-nst-physical-sciences-part-ii",
+      "cambridge-nst-astrophysics-part-ii",
+      "cambridge-nst-astrophysics-part-iii",
+      "cambridge-nst-biochemistry-part-ii",
+      "cambridge-nst-biochemistry-part-iii",
+      "cambridge-nst-chemistry-part-ii",
+      "cambridge-nst-chemistry-part-iii",
+      "cambridge-nst-earth-sciences-part-ii",
+      "cambridge-nst-earth-sciences-part-iii"
+    ],
+    "coverage": "partial",
+    "all_fields_complete": false,
+    "bindings": [
+      {
+        "package": "cambridge-internal-archaeology-audit",
+        "author": {
+          "path": "scratch/full-catalog/cambridge-internal-archaeology-audit/FROZEN.json",
+          "sha256": "1d03fbee4700925756bfbf935fb1f7823f1d50833c101adcd73d3354d5cab67d"
+        },
+        "review": {
+          "path": "scratch/full-catalog/cambridge-internal-archaeology-audit/review-root/independent-review.json",
+          "sha256": "4233c94721a0362d71e83d89f80b03d4f76fd53f241539b06b1bcb938efef70c"
+        },
+        "review_frozen": {
+          "path": "scratch/full-catalog/cambridge-internal-archaeology-audit/review-root/FROZEN.json",
+          "sha256": "be2399996730b4de1da99884225717bc54f6e61d20359cca41d275935bc8c719"
+        }
+      },
+      {
+        "package": "cambridge-internal-humanities-audit",
+        "author": {
+          "path": "scratch/full-catalog/cambridge-internal-humanities-audit/FROZEN.json",
+          "sha256": "bf0bfe02c5c8c22e31d119f703493c4d3f4808e27a5f314678455f3807735adb"
+        },
+        "review": {
+          "path": "scratch/full-catalog/cambridge-internal-humanities-audit/review/independent-review.json",
+          "sha256": "9f9a69d8435604a7674df3c72a5e4f4a0293447da4464ab43fc7fde2480d432c"
+        },
+        "review_frozen": {
+          "path": "scratch/full-catalog/cambridge-internal-humanities-audit/review/FROZEN.json",
+          "sha256": "f6cc332fbbb39d797b8cd7ca2a6a72715d727a300cc6a1d348db69a1613b74f3"
+        }
+      },
+      {
+        "package": "cambridge-china-entry-depth",
+        "author": {
+          "path": "scratch/full-catalog/cambridge-china-entry-depth/FROZEN.json",
+          "sha256": "a84377d7da19350db1b15113c038415f276cfacf8f8842cd5e3b09f204c620d3"
+        },
+        "review": {
+          "path": "scratch/full-catalog/cambridge-china-entry-depth/review/independent-review.json",
+          "sha256": "164af57b910b0e58ec43869a0ef9d48f068082e96b7ba16355abd06d6011817b"
+        },
+        "review_frozen": {
+          "path": "scratch/full-catalog/cambridge-china-entry-depth/review/FROZEN.json",
+          "sha256": "dde4827efb2b3e1a64990f31779688ed875f79836abeede7cb38e9b291a4c95f"
+        }
+      },
+      {
+        "package": "cambridge-internal-natsci-audit",
+        "author": {
+          "path": "scratch/full-catalog/cambridge-internal-natsci-audit/FROZEN.json",
+          "sha256": "b89a8610883774ef289ab012e326a335b6d52a60ee693f96d0bb8b04a20649d4"
+        },
+        "review": {
+          "path": "scratch/full-catalog/cambridge-internal-natsci-audit/review/independent-review.json",
+          "sha256": "54c38f077fcd09c2b3d894160f62eaaa0bc49400f1c0a3ba2922dc4201a11528"
+        },
+        "review_frozen": {
+          "path": "scratch/full-catalog/cambridge-internal-natsci-audit/review/FROZEN.json",
+          "sha256": "c9faa6612d6bfc1fa3b6cb53f9a3151cff7009a727218076825495e34418c2c0"
+        }
+      }
+    ]
+  },
+  "parent_fact_changes": [
+    {
+      "inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+      "section": "overview",
+      "index": 4,
+      "before": {
+        "label": "考古、亚述与埃及方向的学习",
+        "text": "考古二年含理论实践、数据分析、地区或时期研究及一门选项，三年含论文和高阶考古研究。亚述方向学习阿卡德语、美索不达米亚考古及相关科目，苏美尔语须当年开设；埃及方向结合古埃及语言与考古。上述方向均列二年结束后的4周田野工作或研学，具体安排随方向。",
+        "source_ids": [
+          "CAMDEPTH-6cf001f3e3608c69"
+        ],
+        "extraction_locator": "#course-outline"
+      },
+      "after": {
+        "label": "考古、亚述与埃及方向的学习",
+        "text": "考古二年含理论实践、数据分析、地区或时期研究及一门选项，三年含论文和高阶考古研究。亚述方向学习阿卡德语、美索不达米亚考古及相关科目，苏美尔语须当年开设；埃及方向结合古埃及语言与考古。课程总览将相关实践概括为三年级开始前4周田野工作或研学，未限定必须全部在二年结束后。2025版规章另细分考古方向升Part IIA前2周挖掘，以及升Part IIB前累计1周访学加4周实践；亚述和埃及方向升Part IIB前则为4周批准访学、博物馆学习或田野活动，等值豁免与届次按系确认。",
+        "source_ids": [
+          "CAMDEPTH-6cf001f3e3608c69",
+          "CAMAR-7bc4937103282525"
+        ],
+        "extraction_locator": "#course-outline;2025 S&O pp277–278 Regulations12–13"
+      },
+      "additional_sources": [
+        {
+          "id": "CAMAR-7bc4937103282525",
+          "title": "剑桥2025版规章：考古学Tripos第276–281页",
+          "url": "https://www.admin.cam.ac.uk/univ/so/pdfs/2025/Cambridge-Statutes-and-Ordinances-2025.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "考古学六方向、I/IIA/IIB阶段、转换许可、累计实践、各方向指定科目和语言先修、论文；只使用第276–281页",
+          "source_period": "2025版；纳入截至2025-09-30的修订",
+          "sha256": "7bc49371032825251138d5563e83986bfda62ed4224bd2cb83d8d1b5667c1bfb",
+          "raw_file": "scratch/full-catalog/cambridge-internal-archaeology-audit/raw/ordinances-2025.pdf",
+          "capture_format": "official_pdf",
+          "locator": "See individual fact extraction_locator"
+        }
+      ],
+      "reason": "before starting third year不等于只能二年结束后；新规章补足分阶段累计实践。保留原来源与原checked_at，仅增加本轮精确证据。"
+    }
+  ],
+  "normalisation": [
+    {
+      "id": "cambridge-archaeology-track-73079711a3",
+      "before": {
+        "id": "cambridge-archaeology-track-73079711a3",
+        "university_id": "cambridge",
+        "name_en": "Archaeology",
+        "name": "考古学方向",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1#archaeology-track",
+        "raw_key": "archaeology-part-ii:archaeology",
+        "record_type": "本科内部分流方向",
+        "subject": "考古",
+        "subjects": [
+          "考古"
+        ],
+        "parent_inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+        "parent_name_en": "Archaeology, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
+        "intake": "校内方向；母课程2027入学，未来分流年度课程另核",
+        "duration": "本科总计3年；本方向通常为第2–3年",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1",
+        "source_period": "当前公开方向；2025版规章及2026–27科目公告分别标注",
+        "entry_route": "先经V400入读考古学BA，完成共同首年后校内分流；不是独立高中招生入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route"
+      },
+      "after": {
+        "id": "cambridge-archaeology-track-73079711a3",
+        "university_id": "cambridge",
+        "name_en": "Archaeology",
+        "name": "考古学方向",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1#archaeology-track",
+        "raw_key": "archaeology-part-ii:archaeology",
+        "record_type": "本科内部分流方向",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "parent_inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+        "parent_name_en": "Archaeology, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
+        "intake": "校内方向；母课程2027入学，未来分流年度课程另核",
+        "duration": "本科总计3年；本方向通常为第2–3年",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1",
+        "source_period": "当前公开方向；2025版规章及2026–27科目公告分别标注",
+        "entry_route": "先经V400入读考古学BA，完成共同首年后校内分流；不是独立高中招生入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；入口身份与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-archaeology-ba-hons-0cb97da692"
+        ],
+        "entity_type": "本科内部分流方向",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Reviewed identity retained; explicit relationships and controlled Chinese display categories."
+    },
+    {
+      "id": "cambridge-assyriology-track-dedbb99575",
+      "before": {
+        "id": "cambridge-assyriology-track-dedbb99575",
+        "university_id": "cambridge",
+        "name_en": "Assyriology",
+        "name": "亚述学方向",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1#assyriology-track",
+        "raw_key": "archaeology-part-ii:assyriology",
+        "record_type": "本科内部分流方向",
+        "subject": "古代语言与文明",
+        "subjects": [
+          "古代语言与文明"
+        ],
+        "parent_inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+        "parent_name_en": "Archaeology, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
+        "intake": "校内方向；母课程2027入学，未来分流年度课程另核",
+        "duration": "本科总计3年；本方向通常为第2–3年",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1",
+        "source_period": "当前公开方向；2025版规章及2026–27科目公告分别标注",
+        "entry_route": "先经V400入读考古学BA，完成共同首年后校内分流；不是独立高中招生入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route"
+      },
+      "after": {
+        "id": "cambridge-assyriology-track-dedbb99575",
+        "university_id": "cambridge",
+        "name_en": "Assyriology",
+        "name": "亚述学方向",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1#assyriology-track",
+        "raw_key": "archaeology-part-ii:assyriology",
+        "record_type": "本科内部分流方向",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "parent_inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+        "parent_name_en": "Archaeology, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
+        "intake": "校内方向；母课程2027入学，未来分流年度课程另核",
+        "duration": "本科总计3年；本方向通常为第2–3年",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1",
+        "source_period": "当前公开方向；2025版规章及2026–27科目公告分别标注",
+        "entry_route": "先经V400入读考古学BA，完成共同首年后校内分流；不是独立高中招生入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；入口身份与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-archaeology-ba-hons-0cb97da692"
+        ],
+        "entity_type": "本科内部分流方向",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Reviewed identity retained; explicit relationships and controlled Chinese display categories."
+    },
+    {
+      "id": "cambridge-biological-anthropology-track-6983ac2229",
+      "before": {
+        "id": "cambridge-biological-anthropology-track-6983ac2229",
+        "university_id": "cambridge",
+        "name_en": "Biological Anthropology",
+        "name": "生物人类学方向",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1#biological-anthropology-track",
+        "raw_key": "archaeology-part-ii:biological-anthropology",
+        "record_type": "本科内部分流方向",
+        "subject": "人类学",
+        "subjects": [
+          "人类学"
+        ],
+        "parent_inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+        "parent_name_en": "Archaeology, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
+        "intake": "校内方向；母课程2027入学，未来分流年度课程另核",
+        "duration": "本科总计3年；本方向通常为第2–3年",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1",
+        "source_period": "当前公开方向；2025版规章及2026–27科目公告分别标注",
+        "entry_route": "先经V400入读考古学BA，完成共同首年后校内分流；不是独立高中招生入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route"
+      },
+      "after": {
+        "id": "cambridge-biological-anthropology-track-6983ac2229",
+        "university_id": "cambridge",
+        "name_en": "Biological Anthropology",
+        "name": "生物人类学方向",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1#biological-anthropology-track",
+        "raw_key": "archaeology-part-ii:biological-anthropology",
+        "record_type": "本科内部分流方向",
+        "subject": "社会科学",
+        "subjects": [
+          "社会科学"
+        ],
+        "parent_inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+        "parent_name_en": "Archaeology, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
+        "intake": "校内方向；母课程2027入学，未来分流年度课程另核",
+        "duration": "本科总计3年；本方向通常为第2–3年",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1",
+        "source_period": "当前公开方向；2025版规章及2026–27科目公告分别标注",
+        "entry_route": "先经V400入读考古学BA，完成共同首年后校内分流；不是独立高中招生入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；入口身份与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-archaeology-ba-hons-0cb97da692"
+        ],
+        "entity_type": "本科内部分流方向",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Reviewed identity retained; explicit relationships and controlled Chinese display categories."
+    },
+    {
+      "id": "cambridge-egyptology-track-be76ebce60",
+      "before": {
+        "id": "cambridge-egyptology-track-be76ebce60",
+        "university_id": "cambridge",
+        "name_en": "Egyptology",
+        "name": "埃及学方向",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1#egyptology-track",
+        "raw_key": "archaeology-part-ii:egyptology",
+        "record_type": "本科内部分流方向",
+        "subject": "古代语言与文明",
+        "subjects": [
+          "古代语言与文明"
+        ],
+        "parent_inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+        "parent_name_en": "Archaeology, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
+        "intake": "校内方向；母课程2027入学，未来分流年度课程另核",
+        "duration": "本科总计3年；本方向通常为第2–3年",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1",
+        "source_period": "当前公开方向；2025版规章及2026–27科目公告分别标注",
+        "entry_route": "先经V400入读考古学BA，完成共同首年后校内分流；不是独立高中招生入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route"
+      },
+      "after": {
+        "id": "cambridge-egyptology-track-be76ebce60",
+        "university_id": "cambridge",
+        "name_en": "Egyptology",
+        "name": "埃及学方向",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1#egyptology-track",
+        "raw_key": "archaeology-part-ii:egyptology",
+        "record_type": "本科内部分流方向",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "parent_inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+        "parent_name_en": "Archaeology, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
+        "intake": "校内方向；母课程2027入学，未来分流年度课程另核",
+        "duration": "本科总计3年；本方向通常为第2–3年",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1",
+        "source_period": "当前公开方向；2025版规章及2026–27科目公告分别标注",
+        "entry_route": "先经V400入读考古学BA，完成共同首年后校内分流；不是独立高中招生入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；入口身份与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-archaeology-ba-hons-0cb97da692"
+        ],
+        "entity_type": "本科内部分流方向",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Reviewed identity retained; explicit relationships and controlled Chinese display categories."
+    },
+    {
+      "id": "cambridge-biological-anthropology-and-archaeology-track-a0601137fd",
+      "before": {
+        "id": "cambridge-biological-anthropology-and-archaeology-track-a0601137fd",
+        "university_id": "cambridge",
+        "name_en": "Biological Anthropology and Archaeology",
+        "name": "生物人类学与考古学联合方向",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1#archaeology-and-biological-anthropology-combined",
+        "raw_key": "archaeology-part-ii:biological-anthropology-and-archaeology",
+        "record_type": "本科内部联合方向",
+        "subject": "人类学",
+        "subjects": [
+          "人类学"
+        ],
+        "parent_inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+        "parent_name_en": "Archaeology, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
+        "intake": "校内方向；母课程2027入学，未来分流年度课程另核",
+        "duration": "本科总计3年；本方向通常为第2–3年",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1",
+        "source_period": "当前公开方向；2025版规章及2026–27科目公告分别标注",
+        "entry_route": "先经V400入读考古学BA，完成共同首年后校内分流；不是独立高中招生入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route"
+      },
+      "after": {
+        "id": "cambridge-biological-anthropology-and-archaeology-track-a0601137fd",
+        "university_id": "cambridge",
+        "name_en": "Biological Anthropology and Archaeology",
+        "name": "生物人类学与考古学联合方向",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1#archaeology-and-biological-anthropology-combined",
+        "raw_key": "archaeology-part-ii:biological-anthropology-and-archaeology",
+        "record_type": "本科内部联合方向",
+        "subject": "社会科学",
+        "subjects": [
+          "社会科学"
+        ],
+        "parent_inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+        "parent_name_en": "Archaeology, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
+        "intake": "校内方向；母课程2027入学，未来分流年度课程另核",
+        "duration": "本科总计3年；本方向通常为第2–3年",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1",
+        "source_period": "当前公开方向；2025版规章及2026–27科目公告分别标注",
+        "entry_route": "先经V400入读考古学BA，完成共同首年后校内分流；不是独立高中招生入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；入口身份与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-archaeology-ba-hons-0cb97da692"
+        ],
+        "entity_type": "本科内部联合方向",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Reviewed identity retained; explicit relationships and controlled Chinese display categories."
+    },
+    {
+      "id": "cambridge-assyriology-and-egyptology-track-27a4b186c4",
+      "before": {
+        "id": "cambridge-assyriology-and-egyptology-track-27a4b186c4",
+        "university_id": "cambridge",
+        "name_en": "Assyriology and Egyptology",
+        "name": "亚述学与埃及学联合方向",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1#egyptology-and-assyriology-combined",
+        "raw_key": "archaeology-part-ii:assyriology-and-egyptology",
+        "record_type": "本科内部联合方向",
+        "subject": "古代语言与文明",
+        "subjects": [
+          "古代语言与文明"
+        ],
+        "parent_inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+        "parent_name_en": "Archaeology, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
+        "intake": "校内方向；母课程2027入学，未来分流年度课程另核",
+        "duration": "本科总计3年；本方向通常为第2–3年",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1",
+        "source_period": "当前公开方向；2025版规章及2026–27科目公告分别标注",
+        "entry_route": "先经V400入读考古学BA，完成共同首年后校内分流；不是独立高中招生入口",
+        "requires_prior_degree": false,
+        "status": "candidate_current_internal_route"
+      },
+      "after": {
+        "id": "cambridge-assyriology-and-egyptology-track-27a4b186c4",
+        "university_id": "cambridge",
+        "name_en": "Assyriology and Egyptology",
+        "name": "亚述学与埃及学联合方向",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1#egyptology-and-assyriology-combined",
+        "raw_key": "archaeology-part-ii:assyriology-and-egyptology",
+        "record_type": "本科内部联合方向",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "parent_inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+        "parent_name_en": "Archaeology, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
+        "intake": "校内方向；母课程2027入学，未来分流年度课程另核",
+        "duration": "本科总计3年；本方向通常为第2–3年",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1",
+        "source_period": "当前公开方向；2025版规章及2026–27科目公告分别标注",
+        "entry_route": "先经V400入读考古学BA，完成共同首年后校内分流；不是独立高中招生入口",
+        "requires_prior_degree": false,
+        "status": "官网已列；入口身份与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-archaeology-ba-hons-0cb97da692"
+        ],
+        "entity_type": "本科内部联合方向",
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Reviewed identity retained; explicit relationships and controlled Chinese display categories."
+    },
+    {
+      "id": "cambridge-classics-3-year-2565820f33",
+      "before": {
+        "id": "cambridge-classics-3-year-2565820f33",
+        "university_id": "cambridge",
+        "name_en": "Classics (3-year course)",
+        "name": "古典学（3年制招生路线）",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/classics-ba-hons",
+        "raw_key": "Q800",
+        "record_type": "具名本科招生年制",
+        "subject": "古典学",
+        "subjects": [
+          "古典学"
+        ],
+        "parent_inventory_id": "cambridge-classics-ba-hons-55ef8cda1d",
+        "parent_name_en": "Classics, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/classics-ba-hons",
+        "intake": "2027",
+        "duration": "3年，全日制",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.classics.cam.ac.uk/prospective/undergraduate",
+        "source_period": "2027招生代码与2026–27在读阶段分别核对",
+        "entry_route": "高中申请可选择的古典学3年路线；UCAS Q800，须满足该路线古典语言起点和学院要求",
+        "requires_prior_degree": false,
+        "status": "candidate_current_admission_route"
+      },
+      "after": {
+        "id": "cambridge-classics-3-year-2565820f33",
+        "university_id": "cambridge",
+        "name_en": "Classics (3-year course)",
+        "name": "古典学（3年制招生路线）",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/classics-ba-hons",
+        "raw_key": "Q800",
+        "record_type": "具名本科招生年制",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "parent_inventory_id": "cambridge-classics-ba-hons-55ef8cda1d",
+        "parent_name_en": "Classics, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/classics-ba-hons",
+        "intake": "2027",
+        "duration": "3年，全日制",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.classics.cam.ac.uk/prospective/undergraduate",
+        "source_period": "2027招生代码与2026–27在读阶段分别核对",
+        "entry_route": "高中申请可选择的古典学3年路线；UCAS Q800，须满足该路线古典语言起点和学院要求",
+        "requires_prior_degree": false,
+        "status": "官网已列；入口身份与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-classics-ba-hons-55ef8cda1d"
+        ],
+        "entity_type": "具名本科招生年制",
+        "independent_school_entry": true,
+        "ucas_code": "Q800",
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Reviewed identity retained; explicit relationships and controlled Chinese display categories."
+    },
+    {
+      "id": "cambridge-classics-4-year-3dcff9dde0",
+      "before": {
+        "id": "cambridge-classics-4-year-3dcff9dde0",
+        "university_id": "cambridge",
+        "name_en": "Classics (4-year course)",
+        "name": "古典学（4年制招生路线）",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/classics-ba-hons",
+        "raw_key": "Q801",
+        "record_type": "具名本科招生年制",
+        "subject": "古典学",
+        "subjects": [
+          "古典学"
+        ],
+        "parent_inventory_id": "cambridge-classics-ba-hons-55ef8cda1d",
+        "parent_name_en": "Classics, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/classics-ba-hons",
+        "intake": "2027",
+        "duration": "4年，全日制",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.classics.cam.ac.uk/prospective/undergraduate",
+        "source_period": "2027招生代码与2026–27在读阶段分别核对",
+        "entry_route": "高中申请可选择的古典学4年路线；UCAS Q801，须满足该路线古典语言起点和学院要求",
+        "requires_prior_degree": false,
+        "status": "candidate_current_admission_route"
+      },
+      "after": {
+        "id": "cambridge-classics-4-year-3dcff9dde0",
+        "university_id": "cambridge",
+        "name_en": "Classics (4-year course)",
+        "name": "古典学（4年制招生路线）",
+        "degree_label": "BA (Hons)",
+        "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/classics-ba-hons",
+        "raw_key": "Q801",
+        "record_type": "具名本科招生年制",
+        "subject": "人文",
+        "subjects": [
+          "人文"
+        ],
+        "parent_inventory_id": "cambridge-classics-ba-hons-55ef8cda1d",
+        "parent_name_en": "Classics, BA (Hons)",
+        "parent_program_url": "https://www.undergraduate.study.cam.ac.uk/courses/classics-ba-hons",
+        "intake": "2027",
+        "duration": "4年，全日制",
+        "campus": null,
+        "language": null,
+        "discovery_source_url": "https://www.classics.cam.ac.uk/prospective/undergraduate",
+        "source_period": "2027招生代码与2026–27在读阶段分别核对",
+        "entry_route": "高中申请可选择的古典学4年路线；UCAS Q801，须满足该路线古典语言起点和学院要求",
+        "requires_prior_degree": false,
+        "status": "官网已列；入口身份与适用年份见正文",
+        "parent_program_ids": [
+          "cambridge-classics-ba-hons-55ef8cda1d"
+        ],
+        "entity_type": "具名本科招生年制",
+        "independent_school_entry": true,
+        "ucas_code": "Q801",
+        "counts_as_additional_degree_award": false
+      },
+      "reason": "Reviewed identity retained; explicit relationships and controlled Chinese display categories."
+    },
+    {
+      "id": "cambridge-hsps-politics-international-relations-internal-track",
+      "before": {
+        "candidate_id": "cambridge-hsps-politics-international-relations-internal-track",
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Politics and International Relations",
+        "name": "政治与国际关系（HSPS在读方向）",
+        "name_en": "Politics and International Relations",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "in_course_part_ii_track",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "internal_single_subject_track",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Politics and International Relations",
+        "name": "政治与国际关系（HSPS在读方向）",
+        "name_en": "Politics and International Relations",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "本科学位内Part II方向",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "本科内部分流方向",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-hsps-politics-international-relations-internal-track",
+        "subject": "社会科学",
+        "subjects": [
+          "社会科学"
+        ],
+        "status": "官网已列；在读年度与选科条件见正文",
+        "duration": "HSPS全程3年；本方向在第2、3年",
+        "intake": "2027父入口列名；课程细则按2026/27在读年度"
+      },
+      "reason": "Candidate stable ID adopted; in-course BA identity retained; display translated to Chinese."
+    },
+    {
+      "id": "cambridge-hsps-social-anthropology-internal-track",
+      "before": {
+        "candidate_id": "cambridge-hsps-social-anthropology-internal-track",
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Social Anthropology",
+        "name": "社会人类学（HSPS在读方向）",
+        "name_en": "Social Anthropology",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "in_course_part_ii_track",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "internal_single_subject_track",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Social Anthropology",
+        "name": "社会人类学（HSPS在读方向）",
+        "name_en": "Social Anthropology",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "本科学位内Part II方向",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "本科内部分流方向",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-hsps-social-anthropology-internal-track",
+        "subject": "社会科学",
+        "subjects": [
+          "社会科学"
+        ],
+        "status": "官网已列；在读年度与选科条件见正文",
+        "duration": "HSPS全程3年；本方向在第2、3年",
+        "intake": "2027父入口列名；课程细则按2026/27在读年度"
+      },
+      "reason": "Candidate stable ID adopted; in-course BA identity retained; display translated to Chinese."
+    },
+    {
+      "id": "cambridge-hsps-sociology-internal-track",
+      "before": {
+        "candidate_id": "cambridge-hsps-sociology-internal-track",
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Sociology",
+        "name": "社会学（HSPS在读方向）",
+        "name_en": "Sociology",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "in_course_part_ii_track",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "internal_single_subject_track",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Sociology",
+        "name": "社会学（HSPS在读方向）",
+        "name_en": "Sociology",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "本科学位内Part II方向",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "本科内部分流方向",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-hsps-sociology-internal-track",
+        "subject": "社会科学",
+        "subjects": [
+          "社会科学"
+        ],
+        "status": "官网已列；在读年度与选科条件见正文",
+        "duration": "HSPS全程3年；本方向在第2、3年",
+        "intake": "2027父入口列名；课程细则按2026/27在读年度"
+      },
+      "reason": "Candidate stable ID adopted; in-course BA identity retained; display translated to Chinese."
+    },
+    {
+      "id": "cambridge-hsps-politics-sociology-internal-track",
+      "before": {
+        "candidate_id": "cambridge-hsps-politics-sociology-internal-track",
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Politics and Sociology",
+        "name": "政治学与社会学（HSPS在读方向）",
+        "name_en": "Politics and Sociology",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "in_course_part_ii_track",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "internal_joint_subject_track",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Politics and Sociology",
+        "name": "政治学与社会学（HSPS在读方向）",
+        "name_en": "Politics and Sociology",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "本科学位内Part II方向",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "本科内部分流方向",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-hsps-politics-sociology-internal-track",
+        "subject": "社会科学",
+        "subjects": [
+          "社会科学"
+        ],
+        "status": "官网已列；在读年度与选科条件见正文",
+        "duration": "HSPS全程3年；本方向在第2、3年",
+        "intake": "2027父入口列名；课程细则按2026/27在读年度"
+      },
+      "reason": "Candidate stable ID adopted; in-course BA identity retained; display translated to Chinese."
+    },
+    {
+      "id": "cambridge-hsps-social-anthropology-politics-internal-track",
+      "before": {
+        "candidate_id": "cambridge-hsps-social-anthropology-politics-internal-track",
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Social Anthropology and Politics",
+        "name": "社会人类学与政治学（HSPS在读方向）",
+        "name_en": "Social Anthropology and Politics",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "in_course_part_ii_track",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "internal_joint_subject_track",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Social Anthropology and Politics",
+        "name": "社会人类学与政治学（HSPS在读方向）",
+        "name_en": "Social Anthropology and Politics",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "本科学位内Part II方向",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "本科内部分流方向",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-hsps-social-anthropology-politics-internal-track",
+        "subject": "社会科学",
+        "subjects": [
+          "社会科学"
+        ],
+        "status": "官网已列；在读年度与选科条件见正文",
+        "duration": "HSPS全程3年；本方向在第2、3年",
+        "intake": "2027父入口列名；课程细则按2026/27在读年度"
+      },
+      "reason": "Candidate stable ID adopted; in-course BA identity retained; display translated to Chinese."
+    },
+    {
+      "id": "cambridge-hsps-social-anthropology-modern-religion-internal-track",
+      "before": {
+        "candidate_id": "cambridge-hsps-social-anthropology-modern-religion-internal-track",
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Social Anthropology and Religious Studies (Modern Religion)",
+        "name": "社会人类学与宗教研究（现代宗教）（HSPS在读方向）",
+        "name_en": "Social Anthropology and Religious Studies (Modern Religion)",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "in_course_part_ii_track",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "internal_joint_subject_track",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Social Anthropology and Religious Studies (Modern Religion)",
+        "name": "社会人类学与宗教研究（现代宗教）（HSPS在读方向）",
+        "name_en": "Social Anthropology and Religious Studies (Modern Religion)",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "本科学位内Part II方向",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "本科内部分流方向",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-hsps-social-anthropology-modern-religion-internal-track",
+        "subject": "社会科学",
+        "subjects": [
+          "社会科学"
+        ],
+        "status": "官网已列；在读年度与选科条件见正文",
+        "duration": "HSPS全程3年；本方向在第2、3年",
+        "intake": "2027父入口列名；课程细则按2026/27在读年度"
+      },
+      "reason": "Candidate stable ID adopted; in-course BA identity retained; display translated to Chinese."
+    },
+    {
+      "id": "cambridge-hsps-sociology-criminology-internal-track",
+      "before": {
+        "candidate_id": "cambridge-hsps-sociology-criminology-internal-track",
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Sociology and Criminology",
+        "name": "社会学与犯罪学（HSPS在读方向）",
+        "name_en": "Sociology and Criminology",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "in_course_part_ii_track",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "internal_joint_subject_track",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Sociology and Criminology",
+        "name": "社会学与犯罪学（HSPS在读方向）",
+        "name_en": "Sociology and Criminology",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "本科学位内Part II方向",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "本科内部分流方向",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-hsps-sociology-criminology-internal-track",
+        "subject": "社会科学",
+        "subjects": [
+          "社会科学"
+        ],
+        "status": "官网已列；在读年度与选科条件见正文",
+        "duration": "HSPS全程3年；本方向在第2、3年",
+        "intake": "2027父入口列名；课程细则按2026/27在读年度"
+      },
+      "reason": "Candidate stable ID adopted; in-course BA identity retained; display translated to Chinese."
+    },
+    {
+      "id": "cambridge-hsps-sociology-social-anthropology-internal-track",
+      "before": {
+        "candidate_id": "cambridge-hsps-sociology-social-anthropology-internal-track",
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Sociology and Social Anthropology",
+        "name": "社会学与社会人类学（HSPS在读方向）",
+        "name_en": "Sociology and Social Anthropology",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "in_course_part_ii_track",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "internal_joint_subject_track",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false
+      },
+      "after": {
+        "university_id": "cambridge",
+        "raw_key": "HSPS|Part II|Sociology and Social Anthropology",
+        "name": "社会学与社会人类学（HSPS在读方向）",
+        "name_en": "Sociology and Social Anthropology",
+        "degree_label": "BA (Hons) — HSPS内部方向",
+        "parent_inventory_id": "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21",
+        "parent_program_ids": [
+          "cambridge-human-social-and-political-sciences-ba-hons-d4dadd7f21"
+        ],
+        "entity_type": "本科学位内Part II方向",
+        "requires_prior_degree": false,
+        "official_url": "https://www.hsps.cam.ac.uk/track-options",
+        "record_type": "本科内部分流方向",
+        "independent_school_entry": false,
+        "independent_degree_award": false,
+        "discovery_source_url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "source_period": "2026/27 Part IIA及IIB现行选课；2027本科入口列名；2027入学者未来Part II课程尚未确认",
+        "entry_stage": "after_first_year",
+        "counts_as_additional_admission_programme": false,
+        "id": "cambridge-hsps-sociology-social-anthropology-internal-track",
+        "subject": "社会科学",
+        "subjects": [
+          "社会科学"
+        ],
+        "status": "官网已列；在读年度与选科条件见正文",
+        "duration": "HSPS全程3年；本方向在第2、3年",
+        "intake": "2027父入口列名；课程细则按2026/27在读年度"
+      },
+      "reason": "Candidate stable ID adopted; in-course BA identity retained; display translated to Chinese."
+    },
+    {
+      "id": "cambridge-nst-biological-and-biomedical-sciences-part-ii",
+      "before": {
+        "candidate_id": "cambridge-nst-biological-and-biomedical-sciences-part-ii",
+        "route_key": "NST|Part II|Biological and Biomedical Sciences",
+        "university_id": "cambridge",
+        "name_en": "Biological and Biomedical Sciences — Part II",
+        "name": "生物与生物医学科学（广义方向）（Part II）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "BA内第三年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-medicine-mb-and-bchir-b4f8b5b9d3",
+          "cambridge-veterinary-medicine-vetmb-3d7ab7d67e"
+        ],
+        "entry_route": "university_internal_part_ii_selection",
+        "requires_prior_degree": false,
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定inventory ID并审核范围；不是独立高中招生项目。",
+        "display_proposal": {
+          "name": "生物与生物医学科学（广义方向）（Part II）",
+          "duration": "NST第三年，一个学年",
+          "entry_summary": "大学在读Part IB后选科；具体先修／批准见本阶段。",
+          "tuition_summary": "承载NatSci仅有2026入学参考£44,214／年；2027及跨学位／跨Tripos适用价须另核。",
+          "outcomes_summary": "已有课程培养／职业方向描述；未取得此内部路线独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-biological-and-biomedical-sciences-part-ii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part II|Biological and Biomedical Sciences",
+        "name": "生物与生物医学科学（广义方向）（Part II）",
+        "name_en": "Biological and Biomedical Sciences — Part II",
+        "official_url": "https://www.biology.cam.ac.uk/undergrads/nst/bbs/Info",
+        "degree_label": "BA（本科第三年方向）",
+        "study_level": "本科",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-medicine-mb-and-bchir-b4f8b5b9d3",
+          "cambridge-veterinary-medicine-vetmb-3d7ab7d67e"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科学位内Part II方向",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第三年，一个学年",
+        "entry_route": "大学在读Part IB后选科；具体先修／批准见本阶段。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null
+      },
+      "reason": "PartII/III kept separate within undergraduate BA/MSci; approved parent route list used only for navigation, no admission or fee inheritance."
+    },
+    {
+      "id": "cambridge-nst-physical-sciences-part-ii",
+      "before": {
+        "candidate_id": "cambridge-nst-physical-sciences-part-ii",
+        "route_key": "NST|Part II|Physical Sciences",
+        "university_id": "cambridge",
+        "name_en": "Physical Sciences — Part II",
+        "name": "物理科学（广义方向）（Part II）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "BA内第三年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "entry_route": "university_internal_part_ii_selection",
+        "requires_prior_degree": false,
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定inventory ID并审核范围；不是独立高中招生项目。",
+        "display_proposal": {
+          "name": "物理科学（广义方向）（Part II）",
+          "duration": "NST第三年，一个学年",
+          "entry_summary": "大学在读Part IB后选科；具体先修／批准见本阶段。",
+          "tuition_summary": "承载NatSci仅有2026入学参考£44,214／年；2027及跨学位／跨Tripos适用价须另核。",
+          "outcomes_summary": "已有课程培养／职业方向描述；未取得此内部路线独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-physical-sciences-part-ii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part II|Physical Sciences",
+        "name": "物理科学（广义方向）（Part II）",
+        "name_en": "Physical Sciences — Part II",
+        "official_url": "https://www.natsci.tripos.cam.ac.uk/course-structure/year-three-part-ii",
+        "degree_label": "BA（本科第三年方向）",
+        "study_level": "本科",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科学位内Part II方向",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第三年，一个学年",
+        "entry_route": "大学在读Part IB后选科；具体先修／批准见本阶段。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null
+      },
+      "reason": "PartII/III kept separate within undergraduate BA/MSci; approved parent route list used only for navigation, no admission or fee inheritance."
+    },
+    {
+      "id": "cambridge-nst-astrophysics-part-ii",
+      "before": {
+        "candidate_id": "cambridge-nst-astrophysics-part-ii",
+        "route_key": "NST|Part II|Astrophysics",
+        "university_id": "cambridge",
+        "name_en": "Astrophysics — Part II",
+        "name": "天体物理学（Part II）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "BA内第三年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-mathematics-ba-hons-and-mmath-978e108d0d"
+        ],
+        "entry_route": "university_internal_part_ii_selection",
+        "requires_prior_degree": false,
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定inventory ID并审核范围；不是独立高中招生项目。",
+        "display_proposal": {
+          "name": "天体物理学（Part II）",
+          "duration": "NST第三年，一个学年",
+          "entry_summary": "大学在读Part IB后选科；具体先修／批准见本阶段。",
+          "tuition_summary": "承载NatSci仅有2026入学参考£44,214／年；2027及跨学位／跨Tripos适用价须另核。",
+          "outcomes_summary": "已有课程培养／职业方向描述；未取得此内部路线独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-astrophysics-part-ii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part II|Astrophysics",
+        "name": "天体物理学（Part II）",
+        "name_en": "Astrophysics — Part II",
+        "official_url": "https://www.ast.cam.ac.uk/students/prospective-students/undergraduate/part-ii",
+        "degree_label": "BA（本科第三年方向）",
+        "study_level": "本科",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-mathematics-ba-hons-and-mmath-978e108d0d"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科学位内Part II方向",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第三年，一个学年",
+        "entry_route": "大学在读Part IB后选科；具体先修／批准见本阶段。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null
+      },
+      "reason": "PartII/III kept separate within undergraduate BA/MSci; approved parent route list used only for navigation, no admission or fee inheritance."
+    },
+    {
+      "id": "cambridge-nst-astrophysics-part-iii",
+      "before": {
+        "candidate_id": "cambridge-nst-astrophysics-part-iii",
+        "route_key": "NST|Part III|Astrophysics",
+        "university_id": "cambridge",
+        "name_en": "Astrophysics — Part III",
+        "name": "天体物理学（Part III）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "本科贯通路线内第四年MSci阶段；不是外部MASt",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-mathematics-ba-hons-and-mmath-978e108d0d"
+        ],
+        "entry_route": "university_internal_part_iii_progression",
+        "requires_prior_degree": false,
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定inventory ID并审核范围；不是独立高中招生项目。",
+        "display_proposal": {
+          "name": "天体物理学（Part III）",
+          "duration": "NST第四年，一个学年（须另获准升读）",
+          "entry_summary": "大学在读Part II后申请升读；须按对应学科及适用年度成绩／研究要求，不是高中直入。",
+          "tuition_summary": "承载NatSci仅有2026入学参考£44,214／年；2027及跨学位／跨Tripos适用价须另核。",
+          "outcomes_summary": "已有课程培养／职业方向描述；未取得此内部路线独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-astrophysics-part-iii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part III|Astrophysics",
+        "name": "天体物理学（Part III）",
+        "name_en": "Astrophysics — Part III",
+        "official_url": "https://www.ast.cam.ac.uk/students/prospective-students/undergraduate/part-iiimast",
+        "degree_label": "MSci（本科贯通第四年阶段）",
+        "study_level": "本科贯通硕士阶段",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-mathematics-ba-hons-and-mmath-978e108d0d"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科贯通课程内Part III升读阶段",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第四年，一个学年（须另获准升读）",
+        "entry_route": "大学在读Part II后申请升读；须按对应学科及适用年度成绩／研究要求，不是高中直入。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null,
+        "listing_note": "这是本科贯通课程内的第四年升读阶段，须满足成绩与资格要求，并尚未正式获授BA；不是已经毕业后重新申请的入口。 官方页同时介绍的外部MASt申请不属于本条目的范围。"
+      },
+      "reason": "PartII/III kept separate within undergraduate BA/MSci; approved parent route list used only for navigation, no admission or fee inheritance."
+    },
+    {
+      "id": "cambridge-nst-biochemistry-part-ii",
+      "before": {
+        "candidate_id": "cambridge-nst-biochemistry-part-ii",
+        "route_key": "NST|Part II|Biochemistry",
+        "university_id": "cambridge",
+        "name_en": "Biochemistry — Part II",
+        "name": "生物化学（Part II）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "BA内第三年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-medicine-mb-and-bchir-b4f8b5b9d3",
+          "cambridge-veterinary-medicine-vetmb-3d7ab7d67e"
+        ],
+        "entry_route": "university_internal_part_ii_selection",
+        "requires_prior_degree": false,
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定inventory ID并审核范围；不是独立高中招生项目。",
+        "display_proposal": {
+          "name": "生物化学（Part II）",
+          "duration": "NST第三年，一个学年",
+          "entry_summary": "大学在读Part IB后选科；具体先修／批准见本阶段。",
+          "tuition_summary": "承载NatSci仅有2026入学参考£44,214／年；2027及跨学位／跨Tripos适用价须另核。",
+          "outcomes_summary": "已有课程培养／职业方向描述；未取得此内部路线独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-biochemistry-part-ii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part II|Biochemistry",
+        "name": "生物化学（Part II）",
+        "name_en": "Biochemistry — Part II",
+        "official_url": "https://www.bioc.cam.ac.uk/teaching/third-year/biochemistry",
+        "degree_label": "BA（本科第三年方向）",
+        "study_level": "本科",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+          "cambridge-medicine-mb-and-bchir-b4f8b5b9d3",
+          "cambridge-veterinary-medicine-vetmb-3d7ab7d67e"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科学位内Part II方向",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第三年，一个学年",
+        "entry_route": "大学在读Part IB后选科；具体先修／批准见本阶段。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null
+      },
+      "reason": "PartII/III kept separate within undergraduate BA/MSci; approved parent route list used only for navigation, no admission or fee inheritance."
+    },
+    {
+      "id": "cambridge-nst-biochemistry-part-iii",
+      "before": {
+        "candidate_id": "cambridge-nst-biochemistry-part-iii",
+        "route_key": "NST|Part III|Biochemistry",
+        "university_id": "cambridge",
+        "name_en": "Biochemistry — Part III",
+        "name": "生物化学（Part III）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "本科贯通路线内第四年MSci阶段；不是外部MASt",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "entry_route": "university_internal_part_iii_progression",
+        "requires_prior_degree": false,
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定inventory ID并审核范围；不是独立高中招生项目。",
+        "display_proposal": {
+          "name": "生物化学（Part III）",
+          "duration": "NST第四年，一个学年（须另获准升读）",
+          "entry_summary": "大学在读Part II后申请升读；须按对应学科及适用年度成绩／研究要求，不是高中直入。",
+          "tuition_summary": "承载NatSci仅有2026入学参考£44,214／年；2027及跨学位／跨Tripos适用价须另核。",
+          "outcomes_summary": "已有课程培养／职业方向描述；未取得此内部路线独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-biochemistry-part-iii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part III|Biochemistry",
+        "name": "生物化学（Part III）",
+        "name_en": "Biochemistry — Part III",
+        "official_url": "https://www.bioc.cam.ac.uk/teaching/fourth-year/biochemistry",
+        "degree_label": "MSci（本科贯通第四年阶段）",
+        "study_level": "本科贯通硕士阶段",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科贯通课程内Part III升读阶段",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第四年，一个学年（须另获准升读）",
+        "entry_route": "大学在读Part II后申请升读；须按对应学科及适用年度成绩／研究要求，不是高中直入。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null,
+        "listing_note": "这是本科贯通课程内的第四年升读阶段，须满足成绩与资格要求，并尚未正式获授BA；不是已经毕业后重新申请的入口。"
+      },
+      "reason": "PartII/III kept separate within undergraduate BA/MSci; approved parent route list used only for navigation, no admission or fee inheritance."
+    },
+    {
+      "id": "cambridge-nst-chemistry-part-ii",
+      "before": {
+        "candidate_id": "cambridge-nst-chemistry-part-ii",
+        "route_key": "NST|Part II|Chemistry",
+        "university_id": "cambridge",
+        "name_en": "Chemistry — Part II",
+        "name": "化学（Part II）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "BA内第三年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "entry_route": "university_internal_part_ii_selection",
+        "requires_prior_degree": false,
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定inventory ID并审核范围；不是独立高中招生项目。",
+        "display_proposal": {
+          "name": "化学（Part II）",
+          "duration": "NST第三年，一个学年",
+          "entry_summary": "大学在读Part IB后选科；具体先修／批准见本阶段。",
+          "tuition_summary": "承载NatSci仅有2026入学参考£44,214／年；2027及跨学位／跨Tripos适用价须另核。",
+          "outcomes_summary": "已有课程培养／职业方向描述；未取得此内部路线独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-chemistry-part-ii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part II|Chemistry",
+        "name": "化学（Part II）",
+        "name_en": "Chemistry — Part II",
+        "official_url": "https://teaching.ch.cam.ac.uk/admission-part-ii-and-part-iii",
+        "degree_label": "BA（本科第三年方向）",
+        "study_level": "本科",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科学位内Part II方向",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第三年，一个学年",
+        "entry_route": "大学在读Part IB后选科；具体先修／批准见本阶段。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null
+      },
+      "reason": "PartII/III kept separate within undergraduate BA/MSci; approved parent route list used only for navigation, no admission or fee inheritance."
+    },
+    {
+      "id": "cambridge-nst-chemistry-part-iii",
+      "before": {
+        "candidate_id": "cambridge-nst-chemistry-part-iii",
+        "route_key": "NST|Part III|Chemistry",
+        "university_id": "cambridge",
+        "name_en": "Chemistry — Part III",
+        "name": "化学（Part III）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "本科贯通路线内第四年MSci阶段；不是外部MASt",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "entry_route": "university_internal_part_iii_progression",
+        "requires_prior_degree": false,
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定inventory ID并审核范围；不是独立高中招生项目。",
+        "display_proposal": {
+          "name": "化学（Part III）",
+          "duration": "NST第四年，一个学年（须另获准升读）",
+          "entry_summary": "大学在读Part II后申请升读；须按对应学科及适用年度成绩／研究要求，不是高中直入。",
+          "tuition_summary": "承载NatSci仅有2026入学参考£44,214／年；2027及跨学位／跨Tripos适用价须另核。",
+          "outcomes_summary": "已有课程培养／职业方向描述；未取得此内部路线独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-chemistry-part-iii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part III|Chemistry",
+        "name": "化学（Part III）",
+        "name_en": "Chemistry — Part III",
+        "official_url": "https://teaching.ch.cam.ac.uk/admission-part-ii-and-part-iii",
+        "degree_label": "MSci（本科贯通第四年阶段）",
+        "study_level": "本科贯通硕士阶段",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科贯通课程内Part III升读阶段",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第四年，一个学年（须另获准升读）",
+        "entry_route": "大学在读Part II后申请升读；须按对应学科及适用年度成绩／研究要求，不是高中直入。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null,
+        "listing_note": "这是本科贯通课程内的第四年升读阶段，须满足成绩与资格要求，并尚未正式获授BA；不是已经毕业后重新申请的入口。"
+      },
+      "reason": "PartII/III kept separate within undergraduate BA/MSci; approved parent route list used only for navigation, no admission or fee inheritance."
+    },
+    {
+      "id": "cambridge-nst-earth-sciences-part-ii",
+      "before": {
+        "candidate_id": "cambridge-nst-earth-sciences-part-ii",
+        "route_key": "NST|Part II|Earth Sciences",
+        "university_id": "cambridge",
+        "name_en": "Earth Sciences — Part II",
+        "name": "地球科学（Part II）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "BA内第三年阶段",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "entry_route": "university_internal_part_ii_selection",
+        "requires_prior_degree": false,
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定inventory ID并审核范围；不是独立高中招生项目。",
+        "display_proposal": {
+          "name": "地球科学（Part II）",
+          "duration": "NST第三年，一个学年",
+          "entry_summary": "大学在读Part IB后选科；具体先修／批准见本阶段。",
+          "tuition_summary": "承载NatSci仅有2026入学参考£44,214／年；2027及跨学位／跨Tripos适用价须另核。",
+          "outcomes_summary": "已有课程培养／职业方向描述；未取得此内部路线独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-earth-sciences-part-ii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part II|Earth Sciences",
+        "name": "地球科学（Part II）",
+        "name_en": "Earth Sciences — Part II",
+        "official_url": "https://www.esc.cam.ac.uk/undergraduate",
+        "degree_label": "BA（本科第三年方向）",
+        "study_level": "本科",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科学位内Part II方向",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第三年，一个学年",
+        "entry_route": "大学在读Part IB后选科；具体先修／批准见本阶段。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null
+      },
+      "reason": "PartII/III kept separate within undergraduate BA/MSci; approved parent route list used only for navigation, no admission or fee inheritance."
+    },
+    {
+      "id": "cambridge-nst-earth-sciences-part-iii",
+      "before": {
+        "candidate_id": "cambridge-nst-earth-sciences-part-iii",
+        "route_key": "NST|Part III|Earth Sciences",
+        "university_id": "cambridge",
+        "name_en": "Earth Sciences — Part III",
+        "name": "地球科学（Part III）",
+        "record_type_proposal": "specialisation",
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "award_context": "本科贯通路线内第四年MSci阶段；不是外部MASt",
+        "eligible_parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "entry_route": "university_internal_part_iii_progression",
+        "requires_prior_degree": false,
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "checked_at": "2026-09-13",
+        "import_ready": false,
+        "normalisation_note": "待root分配稳定inventory ID并审核范围；不是独立高中招生项目。",
+        "display_proposal": {
+          "name": "地球科学（Part III）",
+          "duration": "NST第四年，一个学年（须另获准升读）",
+          "entry_summary": "大学在读Part II后申请升读；须按对应学科及适用年度成绩／研究要求，不是高中直入。",
+          "tuition_summary": "承载NatSci仅有2026入学参考£44,214／年；2027及跨学位／跨Tripos适用价须另核。",
+          "outcomes_summary": "已有课程培养／职业方向描述；未取得此内部路线独立毕业统计。"
+        }
+      },
+      "after": {
+        "id": "cambridge-nst-earth-sciences-part-iii",
+        "university_id": "cambridge",
+        "raw_key": "NST|Part III|Earth Sciences",
+        "name": "地球科学（Part III）",
+        "name_en": "Earth Sciences — Part III",
+        "official_url": "https://www.esc.cam.ac.uk/undergraduate",
+        "degree_label": "MSci（本科贯通第四年阶段）",
+        "study_level": "本科贯通硕士阶段",
+        "parent_program_ids": [
+          "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3"
+        ],
+        "parent_program_id": "cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3",
+        "parent_degree_label": "Natural Sciences BA (Hons) / MSci",
+        "entity_type": "本科贯通课程内Part III升读阶段",
+        "record_type": "本科内部分流与升读阶段",
+        "requires_prior_degree": false,
+        "independent_school_entry": false,
+        "counts_as_additional_degree_award": false,
+        "discovery_source_url": "https://www.natsci.tripos.cam.ac.uk/course-structure",
+        "source_period": "2026–27在读规则参考／2027招生目录列名",
+        "intake": "2026–27在读规则参考／2027招生目录列名",
+        "duration": "NST第四年，一个学年（须另获准升读）",
+        "entry_route": "大学在读Part II后申请升读；须按对应学科及适用年度成绩／研究要求，不是高中直入。",
+        "status": "官网已列；适用年度与升读条件见正文",
+        "subject": "自然科学",
+        "subjects": [
+          "自然科学"
+        ],
+        "campus": null,
+        "language": null,
+        "listing_note": "这是本科贯通课程内的第四年升读阶段，须满足成绩与资格要求，并尚未正式获授BA；不是已经毕业后重新申请的入口。"
+      },
+      "reason": "PartII/III kept separate within undergraduate BA/MSci; approved parent route list used only for navigation, no admission or fee inheritance."
+    }
+  ],
+  "code_review_sha256": "762ede9a67d9dec2ed688bc7d2dcce3dc3fea8d5fd05d351975916a63afc8251",
+  "privacy_metadata_sanitisation": [
+    {
+      "inventory_id": "cambridge-nst-biological-and-biomedical-sciences-part-ii",
+      "source_id": "CAMNST-international-fees-2026",
+      "removed_nonpublic_field": "reused_from"
+    },
+    {
+      "inventory_id": "cambridge-nst-physical-sciences-part-ii",
+      "source_id": "CAMNST-international-fees-2026",
+      "removed_nonpublic_field": "reused_from"
+    },
+    {
+      "inventory_id": "cambridge-nst-astrophysics-part-ii",
+      "source_id": "CAMNST-international-fees-2026",
+      "removed_nonpublic_field": "reused_from"
+    },
+    {
+      "inventory_id": "cambridge-nst-astrophysics-part-iii",
+      "source_id": "CAMNST-international-fees-2026",
+      "removed_nonpublic_field": "reused_from"
+    },
+    {
+      "inventory_id": "cambridge-nst-biochemistry-part-ii",
+      "source_id": "CAMNST-international-fees-2026",
+      "removed_nonpublic_field": "reused_from"
+    },
+    {
+      "inventory_id": "cambridge-nst-biochemistry-part-iii",
+      "source_id": "CAMNST-international-fees-2026",
+      "removed_nonpublic_field": "reused_from"
+    },
+    {
+      "inventory_id": "cambridge-nst-chemistry-part-ii",
+      "source_id": "CAMNST-international-fees-2026",
+      "removed_nonpublic_field": "reused_from"
+    },
+    {
+      "inventory_id": "cambridge-nst-chemistry-part-iii",
+      "source_id": "CAMNST-international-fees-2026",
+      "removed_nonpublic_field": "reused_from"
+    },
+    {
+      "inventory_id": "cambridge-nst-earth-sciences-part-ii",
+      "source_id": "CAMNST-international-fees-2026",
+      "removed_nonpublic_field": "reused_from"
+    },
+    {
+      "inventory_id": "cambridge-nst-earth-sciences-part-iii",
+      "source_id": "CAMNST-international-fees-2026",
+      "removed_nonpublic_field": "reused_from"
+    }
+  ],
+  "public_copy_edits": [
+    {
+      "inventory_id": "cambridge-nst-astrophysics-part-ii",
+      "section": "overview",
+      "before": {
+        "label": "Part II与Part III分开",
+        "text": "Astrophysics可从NST或数学在读阶段进入，第三年Part II通常接在数学或物理Part IB之后；第四年Part III是另有升读要求的内部MSci。院系也招外部MASt申请人，虽一起上课仍是不同研究生入口，本候选不收为本科新入口。",
+        "source_ids": [
+          "CAMNST-astro-index",
+          "CAMNST-astro-part3",
+          "CAMNST-structure"
+        ],
+        "extraction_locator": "Prospective undergraduate; Part III/MASt internal versus external candidates; NST structure"
+      },
+      "after": {
+        "label": "Part II与Part III分开",
+        "text": "Astrophysics可从NST或数学在读阶段进入，第三年Part II通常接在数学或物理Part IB之后；第四年Part III是另有升读要求的内部MSci。院系也招外部MASt申请人，虽一起上课仍是不同研究生入口，本条目仅收录本科在读路径。",
+        "source_ids": [
+          "CAMNST-astro-index",
+          "CAMNST-astro-part3",
+          "CAMNST-structure"
+        ],
+        "extraction_locator": "Prospective undergraduate; Part III/MASt internal versus external candidates; NST structure"
+      },
+      "reason": "将作者候选稿用语改为公开条目用语；课程事实及引用不变。"
+    },
+    {
+      "inventory_id": "cambridge-nst-astrophysics-part-iii",
+      "section": "overview",
+      "before": {
+        "label": "Part II与Part III分开",
+        "text": "Astrophysics可从NST或数学在读阶段进入，第三年Part II通常接在数学或物理Part IB之后；第四年Part III是另有升读要求的内部MSci。院系也招外部MASt申请人，虽一起上课仍是不同研究生入口，本候选不收为本科新入口。",
+        "source_ids": [
+          "CAMNST-astro-index",
+          "CAMNST-astro-part3",
+          "CAMNST-structure"
+        ],
+        "extraction_locator": "Prospective undergraduate; Part III/MASt internal versus external candidates; NST structure"
+      },
+      "after": {
+        "label": "Part II与Part III分开",
+        "text": "Astrophysics可从NST或数学在读阶段进入，第三年Part II通常接在数学或物理Part IB之后；第四年Part III是另有升读要求的内部MSci。院系也招外部MASt申请人，虽一起上课仍是不同研究生入口，本条目仅收录本科在读路径。",
+        "source_ids": [
+          "CAMNST-astro-index",
+          "CAMNST-astro-part3",
+          "CAMNST-structure"
+        ],
+        "extraction_locator": "Prospective undergraduate; Part III/MASt internal versus external candidates; NST structure"
+      },
+      "reason": "将作者候选稿用语改为公开条目用语；课程事实及引用不变。"
+    },
+    {
+      "inventory_id": "cambridge-nst-astrophysics-part-iii",
+      "section": "admissions",
+      "before": {
+        "label": "数学自动升读说法保留差异",
+        "text": "院系未注明适用年的页面称Part II数学First可自动升读，非First通常还须II.1、三门理论物理alpha并通过面试；但明确2026–27的正式规章称数学候选逐案审查。当前候选按需确认／非保证展示，未把First自动升读认作当届无条件权利。",
+        "source_ids": [
+          "CAMNST-astro-part3",
+          "CAMNST-part3-regulations-2026"
+        ],
+        "extraction_locator": "Department Mathematics entry versus Reporter 2026–27 Astrophysics"
+      },
+      "after": {
+        "label": "数学自动升读说法保留差异",
+        "text": "院系未注明适用年的页面称Part II数学First可自动升读，非First通常还须II.1、三门理论物理alpha并通过面试；但明确2026–27的正式规章称数学候选逐案审查。此处须另行确认，未把First自动升读认作当届无条件权利。",
+        "source_ids": [
+          "CAMNST-astro-part3",
+          "CAMNST-part3-regulations-2026"
+        ],
+        "extraction_locator": "Department Mathematics entry versus Reporter 2026–27 Astrophysics"
+      },
+      "reason": "将作者候选稿用语改为公开条目用语；课程事实及引用不变。"
+    }
+  ],
+  "source_supports_public_copy_changes": 101
+}

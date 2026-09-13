@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>Okanagan · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（5）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-computer-science-honours-d901d1e8e2/">计算机科学（荣誉）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-software-engineering-and-application-development-concentration-e1381ec4a9/">软件工程与应用开发（方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-ai-and-data-driven-computing-concentration-b82cdafe66/">人工智能与数据驱动计算（方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-visual-computing-concentration-7423d16dfe/">视觉计算（方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-high-performance-computing-concentration-ccc5610d70/">高性能计算（方向）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

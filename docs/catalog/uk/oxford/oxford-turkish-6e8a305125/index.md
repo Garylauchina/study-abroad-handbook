@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<strong>所属课程或升读路径</strong><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-asian-and-middle-eastern-studies-5f57825d88/">亚洲与中东研究</a></li></ul><details><summary>已收录的相关路线与方向（6）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-turkish-with-arabic-7067a069cd/">土耳其语，辅修阿拉伯语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-turkish-with-armenian-91b0faa9c6/">土耳其语，辅修亚美尼亚语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-turkish-with-early-iranian-2b82cc9292/">土耳其语，辅修早期伊朗语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-turkish-with-hebrew-4371423f33/">土耳其语，辅修希伯来语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-turkish-with-hindi-urdu-648b7c227f/">土耳其语，辅修印地语／乌尔都语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-turkish-with-persian-f2f4021ff6/">土耳其语，辅修波斯语</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

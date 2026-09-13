@@ -77,6 +77,36 @@ hide:
 <p class="catalog-fact"><strong>英语：录取与面试不同：</strong>IELTS Academic录取通常总分7.5、各项通常7.0以上；6.5／6.0是申请面试阶段的建议能力，不能当作录取标准。语言考试一般须在开学日仍处于两年有效期，通常同次达标。</p>
 <p class="fact-sources"><a href="#source-u-UKENR-e7398085a4510f">官方依据</a></p>
 
+<p class="catalog-fact"><strong>2027中国学历要求适用范围：</strong>当前国际学历页明确适用于2027入学或延期2028入学，页面称2026年3月更新。应按课程所需科目、开设该课程的学院和资格组共同判断；高考申请者仍须参加课程要求的入学考试，成绩门槛不是免考或保证录取。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考省前0.1%组：13所学院：</strong>Churchill、Clare、Downing、Emmanuel、Girton、Homerton、Hughes Hall、Lucy Cavendish、Magdalene、Peterhouse、Queens’、Trinity、Wolfson。通常高考有条件录取要求本省前0.1%，并期待科学竞赛、AP等额外学术表现，相关科目和个别情况由学院评估。本组不期待或强制要求AST；已有AST成绩可被使用。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考三科90%或前1%–3%组：8所学院：</strong>Fitzwilliam、Murray Edwards、Newnham、Pembroke、Robinson、St Catharine’s、St John’s、Trinity Hall。通常最低条件为3门相关核心科目各至少90%，或整体成绩位列本省同届前1%–3%。仅用高考、没有A-level等额外正式资格者，官网建议另提供最多3门相关AST；这里是建议，不能改写为人人必考AST。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>不单独接受高考组：8所学院：</strong>Christ’s、Corpus Christi、Gonville &amp; Caius、Jesus、King’s、Selwyn、Sidney Sussex、St Edmund’s。须有额外认可学术资格；页面举A-level、完整IB或至少5门AP各5分，并另区分下列组合条件。AST在本组也不是被期待或强制要求的考试，已有成绩可供参考。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考与国际资格如何组合：</strong>上述不单独接受高考组：少于3门A-level、未修完整IB或AP不带SAT／ACT者，还被期待取得省前0.1%，或可能以英国以外大学本科第一年作为补充；后一方式须向所选学院确认。至少3门A-level、完整IB或AP结合SAT／ACT者，仅按这些资格考虑。不能把“可能接受大学一年”改成自动转学，也不能把5门AP的门数和各5分要求省略。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>按所读课程体系选择学历条目：</strong>官网要求：所学课程体系与所在国家不同，应查看该课程体系来源国的资格规定。例如在中国学习美国课程，应核美国资格条目，而非仅凭居住在中国套用高考路径。本轮未新增核定美国资格页的SAT／ACT分数，不以此段推算分数要求。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语条件由录取学院决定：</strong>学院会结合学历、书面测评／作品、面试和教育背景决定英语条件，可采用高中英语资格或认可测试。入学时通常期待CEFR四项均达到较好的C1水平；学校要求能参加英语学术面试并完成英文授课和考核，语言专业或海外阶段的具体授课语种仍须逐课程核查。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-english-af6f6cf0bcda">官方依据</a></p>
+
+<p class="catalog-fact"><strong>面试能力不等于必须已交雅思成绩：</strong>申请时建议英语能力相当于IELTS Academic总分至少6.5、单项不低于6.0；这只是面试能力建议。若尚未考试，申请中不必附正式IELTS或其他英语测试成绩单。获录取后仍须满足实际英语条件，不能把面试建议分数当录取门槛。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-english-af6f6cf0bcda">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语资格的具体选项：</strong>IELTS Academic通常总分至少7.5、各项通常至少7.0；Cambridge C2 Proficiency总分至少200、各项不低于185；C1 Advanced总分至少193、各项不低于185，并须其他英语能力证据。官网亦接受能证明C1以上的相应高中毕业资格例子；中国高考英语分数本身未在该列表给出等同线，不自行换算。当前未列出的测试不因遗漏就被本手册宣告禁止。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-english-af6f6cf0bcda">官方依据</a></p>
+
+<p class="catalog-fact"><strong>未满18岁的普通申请安排：</strong>学院通常不常规招收18岁以下学生；入学时未满18岁者应尽早联系拟申学院，可能有额外安排，学校不建议此类申请者作open application。入学未满16岁还可能有额外条件和限制。医学与兽医另有课程明确年龄节点，不能用此一般说明豁免。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-english-af6f6cf0bcda">官方依据</a></p>
+
 </details>
 
 ## 申请安排 {#applications}
@@ -113,7 +143,7 @@ hide:
 
 ## 官方来源与核验记录 {#sources}
 
-目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
+目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
 
 - [官方项目页面或项目所在目录](https://www.undergraduate.study.cam.ac.uk/courses/theology-religion-philosophy-of-religion-ba-hons)
 - [官方目录](https://www.undergraduate.study.cam.ac.uk/courses)
@@ -129,5 +159,7 @@ hide:
 <div class="catalog-source" id="source-u-UKENR-e7398085a4510f"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements#english-language-requirements">Cambridge 本科入学与英语要求 ↗</a><p>英语录取标准和面试建议门槛</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-e0ae11f40594ce"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs">Cambridge 国际生费用 ↗</a><p>2026国际年费表、2027公布时间、额外College fees</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-f5da9307fd5b4a"><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS 2026／2027申请日历 ↗</a><p>2027申请提交、牛剑和医学早截止、常规平等审理截止</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-CAMCN-china-22eb27604528"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-entry-requirements">剑桥中国学历要求：2027学院分组及补充资格 ↗</a><p>本轮逐条读对应公开正文；仅核此处招生细项，不重新认证原费用和其他共用政策</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-CAMCN-english-af6f6cf0bcda"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements">剑桥英语条件、面试能力及未满18岁申请 ↗</a><p>本轮逐条读对应公开正文；仅核此处招生细项，不重新认证原费用和其他共用政策</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/cambridge/">← 返回剑桥大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

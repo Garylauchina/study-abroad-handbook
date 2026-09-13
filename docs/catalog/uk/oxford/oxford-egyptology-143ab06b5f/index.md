@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<strong>所属课程或升读路径</strong><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-asian-and-middle-eastern-studies-5f57825d88/">亚洲与中东研究</a></li></ul><details><summary>已收录的相关路线与方向（8）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-akkadian-8f52033e0f/">埃及学，辅修阿卡德语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-arabic-c93adeb54d/">埃及学，辅修阿拉伯语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-aramaic-and-syriac-568c097986/">埃及学，辅修阿拉米语与叙利亚语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-coptic-e25b7b7717/">埃及学，辅修科普特语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-demotic-40a6880294/">埃及学，辅修世俗体埃及语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-early-iranian-8822f012eb/">埃及学，辅修早期伊朗语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-hebrew-biblical-and-rabbinic-2ff755111e/">埃及学，辅修希伯来语（圣经与拉比文献）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-egyptology-with-archaeology-and-anthropology-daf00ca21e/">埃及学，辅修考古学与人类学</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

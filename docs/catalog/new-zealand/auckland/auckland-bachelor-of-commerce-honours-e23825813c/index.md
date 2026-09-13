@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>City · <strong>授课语言：</strong>英语；外语及毛利语语言课程例外</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（8）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-accounting-8ab11e4ab3/">会计学（商学荣誉学士）</a></li><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-commercial-law-252d45e89e/">商法（商学荣誉学士）</a></li><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-economics-79ae4c67c7/">经济学（商学荣誉学士）</a></li><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-finance-7153926a32/">金融学（商学荣誉学士）</a></li><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-global-management-and-innovation-8d9e5e16aa/">全球管理与创新（商学荣誉学士）</a></li><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-information-systems-47dc9cd886/">信息系统（商学荣誉学士）</a></li><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-marketing-62515d2373/">市场营销（商学荣誉学士）</a></li><li><a class="" href="/study-abroad-handbook/catalog/new-zealand/auckland/auckland-operations-and-supply-chain-management-872a492ae2/">运营与供应链管理（商学荣誉学士）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

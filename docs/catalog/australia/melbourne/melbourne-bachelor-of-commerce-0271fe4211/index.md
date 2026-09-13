@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>Parkville · <strong>授课语言：</strong>英语</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（10）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-ethics-sustainability-1947b3048b/">伦理与可持续性专项</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-econometrics-627916fecd/">计量经济学专项</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-economic-policy-d5c8fecc22/">经济政策专项</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-computational-finance-804819c543/">计算金融专项</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-valuation-modelling-ee8ec0a0e8/">估值与建模专项</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-human-resource-management-db0abf2efe/">人力资源管理专项</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-supply-chain-management-bdf92b7bde/">供应链管理专项</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-digital-marketing-bbbcfa8970/">数字营销专项</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-strategic-marketing-f022ef99b4/">战略营销专项</a></li><li><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-actuarial-risk-management-8d2e2e7720/">精算风险管理专项</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

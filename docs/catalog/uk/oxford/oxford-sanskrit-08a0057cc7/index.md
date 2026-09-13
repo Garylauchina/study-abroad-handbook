@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<strong>所属课程或升读路径</strong><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-asian-and-middle-eastern-studies-5f57825d88/">亚洲与中东研究</a></li></ul><details><summary>已收录的相关路线与方向（6）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-sanskrit-with-early-iranian-a8d73bf6a1/">梵语，辅修早期伊朗语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-sanskrit-with-hindi-233f6c27f2/">梵语，辅修印地语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-sanskrit-with-pali-10629a905a/">梵语，辅修巴利语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-sanskrit-with-persian-96c628369c/">梵语，辅修波斯语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-sanskrit-with-prakrit-56964e921c/">梵语，辅修普拉克里特语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-sanskrit-with-tibetan-e38e160fb0/">梵语，辅修藏语</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

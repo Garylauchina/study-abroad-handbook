@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（7）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-hospitality-administration-hospitality-marketing-192d4940c0/">酒店与服务业管理：酒店与服务业营销方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-hospitality-administration-event-management-592bb41775/">酒店与服务业管理：活动管理方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-hospitality-administration-hospitality-real-estate-development-2e01a5515e/">酒店与服务业管理：酒店与服务业地产开发方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-hospitality-administration-revenue-management-analytics-1d7276038d/">酒店与服务业管理：收益管理与分析方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-hospitality-administration-hospitality-accounting-finance-10155229e2/">酒店与服务业管理：酒店与服务业会计金融方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-hospitality-administration-hospitality-entrepreneurship-628456f4a9/">酒店与服务业管理：酒店与服务业创业方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-hospitality-administration-hospitality-retailing-feed5e562c/">酒店与服务业管理：酒店与服务业零售方向</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

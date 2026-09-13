@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（10）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-accounting-e216665cbf/">会计（BCom方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-business-technology-management-4362d8b6b5/">商业技术管理（BCom方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-entrepreneurship-227a7aac95/">创业（BCom方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-finance-0801f72426/">金融（BCom方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-general-business-management-ea295a807a/">综合商业管理（BCom方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-global-supply-chain-and-logistics-management-7c652cec7d/">全球供应链与物流管理（BCom方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-marketing-d9231ad099/">市场营销（BCom方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-organizational-behaviour-and-human-resources-1e6176241a/">组织行为与人力资源（BCom方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-operations-and-logistics-f2b4b154c2/">运营与物流（BCom方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-real-estate-1337661ef2/">房地产（BCom方向）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

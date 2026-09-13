@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>Okanagan · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（8）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-accounting-bcom-concentration-0948aa761c/">商学：会计方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-business-technology-management-bcom-concentration-4f9d5ca3bd/">商学：商业技术管理方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-entrepreneurship-bcom-concentration-c30250a5d5/">商学：创业方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-finance-bcom-concentration-5007310772/">商学：金融方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-general-business-management-bcom-concentration-7fc4135df8/">商学：综合商业管理方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-marketing-bcom-concentration-518877ebdb/">商学：市场营销方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-operations-and-logistics-bcom-concentration-6e39dd1641/">商学：运营与物流方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-organizational-behaviour-and-human-resources-bcom-concentration-ca07e46e32/">商学：组织行为与人力资源方向</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

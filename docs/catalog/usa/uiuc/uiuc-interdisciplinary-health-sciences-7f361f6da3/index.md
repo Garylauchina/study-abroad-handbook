@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（4）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-health-sciences-health-across-the-lifespan-23bd09aa7a/">跨学科健康科学：全生命周期健康</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-health-sciences-health-behavior-change-and-rehabilitatio-ce811f2559/">跨学科健康科学：健康行为改变与康复</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-health-sciences-health-diversity-and-disability-2914dec18b/">跨学科健康科学：健康多样性与残障</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-health-sciences-health-technology-4a3d95c9c8/">跨学科健康科学：健康技术</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

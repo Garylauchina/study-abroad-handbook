@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>Okanagan · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（5）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-philosophy-politics-and-economics-honours-6d8f142350/">哲学、政治与经济（荣誉）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-philosophy-emphasis-option-00b788621a/">哲学侧重（方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-political-science-emphasis-option-f85cff0a15/">政治学侧重（方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-economics-emphasis-option-b6fb4cda8c/">经济学侧重（方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-law-emphasis-option-01cd9d2527/">法律侧重（方向）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

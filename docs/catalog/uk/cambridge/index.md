@@ -23,21 +23,38 @@ hide:
 
 ## 专业与申请资料
 
-32 个专业条目 · 0 个含详细资料 · 32 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+58 个专业条目 · 0 个含详细资料 · 58 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=cambridge#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-anglo-saxon-norse-and-celtic-ba-hons-35519eda27/">盎格鲁—撒克逊、古北欧与凯尔特研究（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-archaeology-track-73079711a3/">考古学方向</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-archaeology-ba-hons-0cb97da692/">考古学（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-architecture-ba-hons-and-march-b395ac55e2/">建筑学（BA Hons／MArch）</a><small>BA (Hons) and MArch · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-asian-and-middle-eastern-studies-ba-hons-63cde5a980/">亚洲与中东研究（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-assyriology-track-dedbb99575/">亚述学方向</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-assyriology-and-egyptology-track-27a4b186c4/">亚述学与埃及学联合方向</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-astrophysics-part-ii/">天体物理学（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-astrophysics-part-iii/">天体物理学（Part III）</a><small>MSci（本科贯通第四年阶段） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-biochemistry-part-ii/">生物化学（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-biochemistry-part-iii/">生物化学（Part III）</a><small>MSci（本科贯通第四年阶段） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-biological-anthropology-track-6983ac2229/">生物人类学方向</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-biological-anthropology-and-archaeology-track-a0601137fd/">生物人类学与考古学联合方向</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-biological-and-biomedical-sciences-part-ii/">生物与生物医学科学（广义方向）（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9/">化学工程与生物技术（BA Hons／MEng）</a><small>BA (Hons) and MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-chemistry-part-ii/">化学（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-chemistry-part-iii/">化学（Part III）</a><small>MSci（本科贯通第四年阶段） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-classics-3-year-2565820f33/">古典学（3年制招生路线）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-classics-4-year-3dcff9dde0/">古典学（4年制招生路线）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-classics-ba-hons-55ef8cda1d/">古典学（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-computer-science-ba-hons-and-meng-a29f97f030/">计算机科学（文学学士／工程硕士）</a><small>BA (Hons) and MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-design-ba-hons-and-mdes-b9f6cb3d16/">设计（文学学士／设计硕士）</a><small>BA (Hons) and MDes · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-earth-sciences-part-ii/">地球科学（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-earth-sciences-part-iii/">地球科学（Part III）</a><small>MSci（本科贯通第四年阶段） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-economics-ba-hons-a6d141a9e8/">经济学（文学学士）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-education-ba-hons-39a2386e5b/">教育学（文学学士）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-egyptology-track-be76ebce60/">埃及学方向</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-engineering-ba-hons-and-meng-329b6daa0b/">工程学（文学学士／工程硕士）</a><small>BA (Hons) and MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-english-ba-hons-7ee7deac9d/">英语文学（文学学士）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-environment-law-and-economics-ba-hons-bdc598eda4/">环境、法律与经济（文学学士）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
@@ -57,7 +74,16 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-music-ba-hons-f12f797f66/">音乐（BA荣誉）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-natural-sciences-ba-hons-and-msci-60d7fa36f3/">自然科学（BA荣誉／MSci）</a><small>BA (Hons) and MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-philosophy-ba-hons-3025dcf226/">哲学（BA荣誉）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-nst-physical-sciences-part-ii/">物理科学（广义方向）（Part II）</a><small>BA（本科第三年方向） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-politics-international-relations-internal-track/">政治与国际关系（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-politics-sociology-internal-track/">政治学与社会学（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-psychological-and-behavioural-sciences-ba-hons-ba034603eb/">心理与行为科学（BA荣誉）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-social-anthropology-internal-track/">社会人类学（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-social-anthropology-politics-internal-track/">社会人类学与政治学（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-social-anthropology-modern-religion-internal-track/">社会人类学与宗教研究（现代宗教）（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-sociology-internal-track/">社会学（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-sociology-criminology-internal-track/">社会学与犯罪学（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-sociology-social-anthropology-internal-track/">社会学与社会人类学（HSPS在读方向）</a><small>BA (Hons) — HSPS内部方向 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-theology-religion-and-philosophy-of-religion-ba-hons-2c3b78a432/">神学、宗教与宗教哲学（BA荣誉）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-veterinary-medicine-vetmb-3d7ab7d67e/">兽医学（VetMB；2027招生附认证条件）</a><small>VetMB · 部分专业资料已核实</small></article></div>
 
@@ -72,6 +98,36 @@ hide:
 
 <p class="catalog-fact"><strong>英语：录取与面试不同：</strong>IELTS Academic录取通常总分7.5、各项通常7.0以上；6.5／6.0是申请面试阶段的建议能力，不能当作录取标准。语言考试一般须在开学日仍处于两年有效期，通常同次达标。</p>
 <p class="fact-sources"><a href="#source-u-UKENR-e7398085a4510f">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027中国学历要求适用范围：</strong>当前国际学历页明确适用于2027入学或延期2028入学，页面称2026年3月更新。应按课程所需科目、开设该课程的学院和资格组共同判断；高考申请者仍须参加课程要求的入学考试，成绩门槛不是免考或保证录取。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考省前0.1%组：13所学院：</strong>Churchill、Clare、Downing、Emmanuel、Girton、Homerton、Hughes Hall、Lucy Cavendish、Magdalene、Peterhouse、Queens’、Trinity、Wolfson。通常高考有条件录取要求本省前0.1%，并期待科学竞赛、AP等额外学术表现，相关科目和个别情况由学院评估。本组不期待或强制要求AST；已有AST成绩可被使用。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考三科90%或前1%–3%组：8所学院：</strong>Fitzwilliam、Murray Edwards、Newnham、Pembroke、Robinson、St Catharine’s、St John’s、Trinity Hall。通常最低条件为3门相关核心科目各至少90%，或整体成绩位列本省同届前1%–3%。仅用高考、没有A-level等额外正式资格者，官网建议另提供最多3门相关AST；这里是建议，不能改写为人人必考AST。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>不单独接受高考组：8所学院：</strong>Christ’s、Corpus Christi、Gonville &amp; Caius、Jesus、King’s、Selwyn、Sidney Sussex、St Edmund’s。须有额外认可学术资格；页面举A-level、完整IB或至少5门AP各5分，并另区分下列组合条件。AST在本组也不是被期待或强制要求的考试，已有成绩可供参考。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考与国际资格如何组合：</strong>上述不单独接受高考组：少于3门A-level、未修完整IB或AP不带SAT／ACT者，还被期待取得省前0.1%，或可能以英国以外大学本科第一年作为补充；后一方式须向所选学院确认。至少3门A-level、完整IB或AP结合SAT／ACT者，仅按这些资格考虑。不能把“可能接受大学一年”改成自动转学，也不能把5门AP的门数和各5分要求省略。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>按所读课程体系选择学历条目：</strong>官网要求：所学课程体系与所在国家不同，应查看该课程体系来源国的资格规定。例如在中国学习美国课程，应核美国资格条目，而非仅凭居住在中国套用高考路径。本轮未新增核定美国资格页的SAT／ACT分数，不以此段推算分数要求。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语条件由录取学院决定：</strong>学院会结合学历、书面测评／作品、面试和教育背景决定英语条件，可采用高中英语资格或认可测试。入学时通常期待CEFR四项均达到较好的C1水平；学校要求能参加英语学术面试并完成英文授课和考核，语言专业或海外阶段的具体授课语种仍须逐课程核查。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-english-af6f6cf0bcda">官方依据</a></p>
+
+<p class="catalog-fact"><strong>面试能力不等于必须已交雅思成绩：</strong>申请时建议英语能力相当于IELTS Academic总分至少6.5、单项不低于6.0；这只是面试能力建议。若尚未考试，申请中不必附正式IELTS或其他英语测试成绩单。获录取后仍须满足实际英语条件，不能把面试建议分数当录取门槛。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-english-af6f6cf0bcda">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语资格的具体选项：</strong>IELTS Academic通常总分至少7.5、各项通常至少7.0；Cambridge C2 Proficiency总分至少200、各项不低于185；C1 Advanced总分至少193、各项不低于185，并须其他英语能力证据。官网亦接受能证明C1以上的相应高中毕业资格例子；中国高考英语分数本身未在该列表给出等同线，不自行换算。当前未列出的测试不因遗漏就被本手册宣告禁止。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-english-af6f6cf0bcda">官方依据</a></p>
+
+<p class="catalog-fact"><strong>未满18岁的普通申请安排：</strong>学院通常不常规招收18岁以下学生；入学时未满18岁者应尽早联系拟申学院，可能有额外安排，学校不建议此类申请者作open application。入学未满16岁还可能有额外条件和限制。医学与兽医另有课程明确年龄节点，不能用此一般说明豁免。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-english-af6f6cf0bcda">官方依据</a></p>
 
 ### 申请安排
 
@@ -89,25 +145,28 @@ hide:
 <div class="catalog-source" id="source-u-UKENR-e7398085a4510f"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements#english-language-requirements">Cambridge 本科入学与英语要求 ↗</a><p>英语录取标准和面试建议门槛</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-e0ae11f40594ce"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs">Cambridge 国际生费用 ↗</a><p>2026国际年费表、2027公布时间、额外College fees</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-f5da9307fd5b4a"><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS 2026／2027申请日历 ↗</a><p>2027申请提交、牛剑和医学早截止、常规平等审理截止</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-CAMCN-china-22eb27604528"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-entry-requirements">剑桥中国学历要求：2027学院分组及补充资格 ↗</a><p>本轮逐条读对应公开正文；仅核此处招生细项，不重新认证原费用和其他共用政策</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-CAMCN-english-af6f6cf0bcda"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements">剑桥英语条件、面试能力及未满18岁申请 ↗</a><p>本轮逐条读对应公开正文；仅核此处招生细项，不重新认证原费用和其他共用政策</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 32 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 58 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>本科学位及本科后医学入口32项；原33项官方招生目录中，独立本科前置CertHE Foundation Year移至范围更正页。内部具名方向、组合和授位阶段尚未全部闭合。</p>
+<p><strong>统计范围：</strong>32个课程概览及既有入口、2个古典学UCAS年制路线、24个校内方向／升读阶段，共58条；条目数不是独立学位或高中招生项目数。</p>
 
-<p><strong>对账方法：</strong>保留2026年9月12日完整A–Z原始33项对账记录；2026年9月13日逐页补核全部课程内容和2027招生条件，识别Foundation Year为一年制本科前置证书并移出学位目录，32个现有本科学位/本科后医学入口均补有课程专属资料。课程内具名专研、语言组合及升读阶段未自动新造高中招生入口，完整内部方向仍待逐项核验。</p>
+<p><strong>对账方法：</strong>保留原招生入口对账与Foundation CertHE排除记录；逐源新增考古4单＋2联合方向、古典学Q800/Q801、HSPS3单＋5联合方向、自然科学6个Part II和4个Part III阶段。各方向链接所属课程；同一学位的概览、申请路线与内部阶段分别标注，未把任意选课组合相乘生成项目。</p>
 
-<p><strong>排除项：</strong>全部学科；保留本科入口贯通学位及有本科先修条件的本科医学，明确Home/Overseas与2027认证条件。独立证书及本科前置CertHE不计作本科学位；保留旧链接范围说明。</p>
+<p><strong>排除项：</strong>独立本科前置CertHE和外部MASt等纯研究生入口不计；保留本科贯通MSci阶段及有前置本科学历要求的既有本科医学入口，逐条注明身份。未完成研究的具名方向、语言组合和科目选择不自动补造。</p>
 
 **尚未解决的目录缺口：**
 
-- 考古、HSPS、语言、自然科学等内部具名路径及本科后转入Management/Manufacturing等路线，尚未与每个官方学位阶段和招生身份逐项闭合；现有32入口不表示所有内部方向已完成。
+- 当前58条包含32既有课程概览、2申请年制及24校内方向/阶段；自然科学其余具名方向、语言组合、工程专研与Management/Manufacturing等校内转入路线尚未全部逐项闭合，不能称完整内部目录。
 - 2027实际大学与学院学费尚未公布，官网计划最迟2026年10月1日发布；保留2026参考价和原来源日期。医学/兽医第三年按所修课程与原前临床入学年费率，不能把医学年价乘6。
-- 中国大陆具体学历等同、英语成绩、学院加条件和奖助仍须按课程和申请人身份核查；A-level/IB标准不能直接换算高考分数。A101仅适用Home费率身份且需前置学位，不继承普通国际本科申请/费用。
+- 已补中国大陆高考按29学院三组资格、AST差异、国际课程适用规则及英语证书/面试语言区分；个案资格仍取决于课程、学院与学历组合。A101仅Home且需前置学位，校内方向不继承普通高中招生申请条件。
 - 兽医2027招生取决于RCVS后续认证决定：当前conditional，下次访问2026年10月；EAEVE另已获Accreditation，不解除RCVS条件。此处不是已确认停招或个人执业承诺。
 - Design首年5门与列6项、数学STEP一门/两门表述等当前来源差异保留；自然科学第二年生物课程名2027年春再确认。
 - 专业和内部方向独立可比毕业届次、统计分母及薪资仍不齐。自然科学47%是2022年8月至2023年7月毕业者调查应答率，不是就业率。一般职业方向与认证不等于自动注册、职位或工作签证。
+- 本次在读方向主要依据2025版规章和2026–27课程表；不能直接平移为2027入学者未来高年级课表。考古实践周数/论文与旧网页、B6/E4当年停开、A62源内冲突；自然科学目录年份、升读成绩和获授BA时点均按来源分别说明。
 
 - [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses)
 - [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/anglo-saxon-norse-celtic-ba-hons)
@@ -191,5 +250,68 @@ hide:
 - [官方目录来源](https://www.rcvs.org.uk/about-us/what-we-do/accrediting-qualifications/accrediting-veterinary-qualifications)
 - [官方目录来源](https://www.eaeve.org/fileadmin/downloads/establishments_status/ESEVT_Status_of_EAEVE_Establishments_27May2026.pdf)
 - [官方目录来源](https://www.vet.cam.ac.uk/about/accreditation)
+- [官方目录来源](https://www.admin.cam.ac.uk/univ/so/pdfs/2025/Cambridge-Statutes-and-Ordinances-2025.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/track-options)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/OneYearPartIIregs26-27approved_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/01%20SingleTrackPOLIS2026-27PartItoPartIIA_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/09%20SingleTrackPOLIS2026-27PartIIAtoPartIIB_0.pdf)
+- [官方目录来源](https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1)
+- [官方目录来源](https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1)
+- [官方目录来源](https://storage.googleapis.com/public-apsua-23dbefd3/2025-26/utarch.pdf)
+- [官方目录来源](https://www.admin.cam.ac.uk/reporter/2025-26/weekly/6833/section4.shtml)
+- [官方目录来源](https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1)
+- [官方目录来源](https://www.arch.cam.ac.uk/about-us/mesopotamia/mesopotamia-studies/mesopotamia-ugrad-studies)
+- [官方目录来源](https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1)
+- [官方目录来源](https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1)
+- [官方目录来源](https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1)
+- [官方目录来源](https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1)
+- [官方目录来源](https://www.arch.cam.ac.uk/prospective-students/undergraduates/course-structure-1)
+- [官方目录来源](https://www.arch.cam.ac.uk/about-us/egyptology)
+- [官方目录来源](https://www.classics.cam.ac.uk/prospective/undergraduate)
+- [官方目录来源](https://www.classics.cam.ac.uk/student-information/undergraduate-students)
+- [官方目录来源](https://www.hsps.cam.ac.uk/course-structure)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/Part%20IIA%20options%20booklet%202026-27%20-%2028-04-26.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/track-options)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/02%20SingleTrackSocAnth2026-27PartItoPartIIA_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/10%20SingleTrackSocAnth2026-27PartIIAtoPartIIBv2_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/track-options)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/03%20SingleTrackSociology2026-27PartItoPartIIA_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/11%20SingleTrackSociology2026-27PartIIAtoPartIIB_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/track-options)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/04%20JointTrackPOLIS%26Sociology2026-27PartItoPartIIA_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/12%20JointTrackPOLIS%26Sociology2026-27PartIIAtoPartIIB_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/track-options)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/05%20JointTrackSocAnth%26POLIS2026-27PartItoPartIIA_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/13%20JointTrackSocAnth%26POLIS2026-27PartIIAtoPartIIB_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/track-options)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/06%20JointTrackSocAnth%26Religion2026-27PartItoPartIIA_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/14%20JointTrackSocAnth%26Religion2026-27PartIIAtoPartIIB_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/track-options)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/07%20JointTrackSociology%26CRIM2026-27PartItoPartIIA_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/15%20JointTrackSociology%26Criminology2026-27PartIIAtoPartIIB_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/track-options)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/08%20JointTrackSociology%26SocAnth2026-27PartItoPartIIA_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/sites/default/files/16%20JointTrackSociology%26SocialAnthropology2026-27PartIIAtoPartIIB_0.pdf)
+- [官方目录来源](https://www.hsps.cam.ac.uk/track-options)
+- [官方目录来源](https://www.natsci.tripos.cam.ac.uk/course-structure)
+- [官方目录来源](https://www.biology.cam.ac.uk/undergrads/nst/bbs/Info)
+- [官方目录来源](https://www.biology.cam.ac.uk/undergrads/nst/bbs/subject-combinations)
+- [官方目录来源](https://www.bioc.cam.ac.uk/teaching/fourth-year/biochemistry)
+- [官方目录来源](https://www.biology.cam.ac.uk/undergrads/nst/bbs/Assessment)
+- [官方目录来源](https://www.admin.cam.ac.uk/reporter/2025-26/weekly/6811/6811.pdf)
+- [官方目录来源](https://www.natsci.tripos.cam.ac.uk/course-structure/year-three-part-ii)
+- [官方目录来源](https://www.admin.cam.ac.uk/reporter/2025-26/weekly/6800/section5.shtml)
+- [官方目录来源](https://teaching.ch.cam.ac.uk/files/Start%20of%20Term%20Arrangements/Part%20II%20course%20guide%202025%20.pdf)
+- [官方目录来源](https://www.ast.cam.ac.uk/students/prospective-students/undergraduate)
+- [官方目录来源](https://www.ast.cam.ac.uk/students/prospective-students/undergraduate/part-ii)
+- [官方目录来源](https://www.ast.cam.ac.uk/students/prospective-students/undergraduate/part-iiimast)
+- [官方目录来源](https://www.natsci.tripos.cam.ac.uk/course-structure/year-four-part-iii)
+- [官方目录来源](https://www.bioc.cam.ac.uk/teaching/third-year/biochemistry)
+- [官方目录来源](https://www.bioc.cam.ac.uk/teaching/fourth-year/biochemistry/examinations)
+- [官方目录来源](https://teaching.ch.cam.ac.uk/admission-part-ii-and-part-iii)
+- [官方目录来源](https://teaching.ch.cam.ac.uk/introduction-chemistry-courses-cambridge)
+- [官方目录来源](https://www.natsci.tripos.cam.ac.uk/admissions/course-costs)
+- [官方目录来源](https://www.esc.cam.ac.uk/undergraduate)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

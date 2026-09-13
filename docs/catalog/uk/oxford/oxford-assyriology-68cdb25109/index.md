@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<strong>所属课程或升读路径</strong><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-asian-and-middle-eastern-studies-5f57825d88/">亚洲与中东研究</a></li></ul><details><summary>已收录的相关路线与方向（8）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-arabic-6e521c84fc/">亚述学，辅修阿拉伯语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-aramaic-and-syriac-1f59bc2577/">亚述学，辅修阿拉米语与叙利亚语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-early-iranian-49e3992467/">亚述学，辅修早期伊朗语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-egyptian-6c06f564f9/">亚述学，辅修古埃及语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-hebrew-biblical-and-rabbinic-93a9e47c86/">亚述学，辅修希伯来语（圣经与拉比文献）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-hittite-0e3a8cdf00/">亚述学，辅修赫梯语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-sumerian-0eac3cabc5/">亚述学，辅修苏美尔语</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/oxford/oxford-assyriology-with-archaeology-and-anthropology-6c46f93d50/">亚述学，辅修考古学与人类学</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

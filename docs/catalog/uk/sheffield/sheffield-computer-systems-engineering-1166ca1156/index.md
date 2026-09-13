@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>谢菲尔德；实习或海外学习按课程安排 · <strong>授课语言：</strong>授课语种待逐模块核实；已核英语门槛</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（2）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-microelectronics-e6a03ff456/">计算机系统工程（MEng本硕一体）—微电子方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-ai-systems-236a34fe0c/">计算机系统工程（MEng本硕一体）—人工智能系统方向</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

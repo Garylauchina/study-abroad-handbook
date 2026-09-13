@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>美国匹兹堡 · <strong>授课语言：</strong>本轮未取得本专业统一授课语言声明</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（3）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-design-communications-9ff323fe58/">设计（设计学士）—传播设计</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-design-products-bbb2e2ff69/">设计（设计学士）—产品设计</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-design-environments-22707e8011/">设计（设计学士）—环境设计</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

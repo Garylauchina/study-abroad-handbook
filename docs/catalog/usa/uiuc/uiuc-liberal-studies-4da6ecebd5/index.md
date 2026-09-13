@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>在线教学 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（3）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-liberal-studies-global-perspectives-8ffd8eb344/">博雅研究（在线学位完成项目）：全球视野</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-liberal-studies-health-and-society-ee07ad1db6/">博雅研究（在线学位完成项目）：健康与社会</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-liberal-studies-management-studies-5a27390424/">博雅研究（在线学位完成项目）：管理研究</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

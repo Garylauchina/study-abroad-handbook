@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>香港中文大学；逐课程教学地点本轮未核实 · <strong>授课语言：</strong>本轮未核实逐科授课语言</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<strong>所属课程或升读路径</strong><ul><li><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-science-523be6a5d9/">理学（共同招生入口）</a></li></ul><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

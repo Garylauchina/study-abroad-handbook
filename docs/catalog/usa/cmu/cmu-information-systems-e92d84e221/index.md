@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>美国匹兹堡 · <strong>授课语言：</strong>本轮未取得本专业统一授课语言声明</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（8）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-information-systems-ai-management-a9b2d46058/">信息系统—人工智能管理</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-information-systems-data-analytics-edb28c3b52/">信息系统—数据分析</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-information-systems-health-information-systems-3f2c8531cb/">信息系统—健康信息系统</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-information-systems-information-security-d24ae81e4c/">信息系统—信息安全</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-information-systems-product-management-760f6bf155/">信息系统—产品管理</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-information-systems-technology-arts-enterprises-c35ddbf1a3/">信息系统—技术与艺术企业</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-information-systems-technology-international-development-e36dc0f5f3/">信息系统—技术与国际发展</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-information-systems-user-experience-ux-design-ddd4384220/">信息系统—用户体验设计</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

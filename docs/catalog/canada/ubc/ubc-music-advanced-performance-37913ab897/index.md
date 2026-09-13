@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（7）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-guitar-f8bb3e6e2b/">吉他（音乐学士主修）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-harpsichord-f4572bcf13/">羽管键琴（音乐学士主修）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-opera-779ba18c33/">歌剧（音乐学士主修）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-orchestral-instrument-7dbcc7e6fe/">管弦乐器（音乐学士主修）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-organ-4cb0bf7d08/">管风琴（音乐学士主修）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-piano-637ce5cf49/">钢琴（音乐学士主修）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-voice-53cd974201/">声乐（音乐学士主修）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

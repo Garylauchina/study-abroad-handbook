@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>普罗维登斯（Providence）校本部 · <strong>授课语言：</strong>英语；语言文学课依目标语言</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（8）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-history-philosophy-of-science-9588cf0593/">科学、技术与社会—科学史与科学哲学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-gender-science-09da569d8b/">科学、技术与社会—性别与科学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-race-science-ethnicity-94ecb225e5/">科学、技术与社会—种族、科学与族裔</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-health-medicine-9f167bc117/">科学、技术与社会—健康与医学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-representing-science-in-literature-culture-0abe761a2f/">科学、技术与社会—文学文化中的科学表现</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-policy-persuasion-the-rhetoric-of-science-f228539adb/">科学、技术与社会—政策、说服与科学修辞</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-environment-society-14775d02bc/">科学、技术与社会—环境与社会</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/brown/brown-science-technology-and-society-independent-focus-2413cb53d0/">科学、技术与社会—自主专题</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

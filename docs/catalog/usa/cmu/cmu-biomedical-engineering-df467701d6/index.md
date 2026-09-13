@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>美国匹兹堡 · <strong>授课语言：</strong>本轮未取得本专业统一授课语言声明</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（6）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biomedical-engineering-biomechanics-bmec-track-e4a19f7ff1/">生物医学工程（工程学生附加主修）—生物力学</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biomedical-engineering-biomedical-computation-and-modeling-bcam-track-58ffa867ea/">生物医学工程（工程学生附加主修）—生物医学计算与建模</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biomedical-engineering-biomedical-devices-bmdv-track-43f417bee1/">生物医学工程（工程学生附加主修）—生物医学器械</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biomedical-engineering-neuroengineering-and-biomedical-imaging-nebi-track-be25c10d01/">生物医学工程（工程学生附加主修）—神经工程与生物医学成像</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biomedical-engineering-tissue-and-cell-biotherapeutics-tcb-track-8e2106becd/">生物医学工程（工程学生附加主修）—组织与细胞生物治疗</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biomedical-engineering-self-designed-biomedical-engineering-sbme-track-96c72a455d/">生物医学工程（工程学生附加主修）—自拟生物医学工程方向</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

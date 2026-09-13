@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（8）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-politics-international-relations-internal-track/">政治与国际关系（HSPS在读方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-social-anthropology-internal-track/">社会人类学（HSPS在读方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-sociology-internal-track/">社会学（HSPS在读方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-politics-sociology-internal-track/">政治学与社会学（HSPS在读方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-social-anthropology-politics-internal-track/">社会人类学与政治学（HSPS在读方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-social-anthropology-modern-religion-internal-track/">社会人类学与宗教研究（现代宗教）（HSPS在读方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-sociology-criminology-internal-track/">社会学与犯罪学（HSPS在读方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-hsps-sociology-social-anthropology-internal-track/">社会学与社会人类学（HSPS在读方向）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
@@ -55,6 +58,9 @@ hide:
 <p class="catalog-fact"><strong>转方向与考核限制：</strong>不能改方向，只有双学科转为其中一个学科的例外。考核主要为考试，部分作业；末年可用10,000词论文替一门，通常不能补考。跨课程转读另须学院及院系批准，不保证获准。</p>
 <p class="fact-sources"><a href="#source-p-CAMH9-4ed7e5b22a9abc3f">官方依据</a></p>
 
+<p class="catalog-fact"><strong>共同考核规则：</strong>IIA与IIB每年四门，其中至少三门须部分或全部以笔试考核；不得重复已用于剑桥大学考试的同一科目。具体论文替换与不可并选组合按各方向图表办理。</p>
+<p class="fact-sources"><a href="#source-p-CAMIT-01113eb88ad099b6">官方依据</a> · <a href="#source-p-CAMIT-5332fd7869124db3">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 <p class="catalog-fact"><strong>最低A-level／IB及科目要求：</strong>A level: A*AA IB: 41-42 分, with 776：HL Other qualifications : Check which other qualifications we accept . We don&#x27;t ask for any specific subjects to apply to Human, Social,及Political Sciences. We recommend these subjects for a strong application: 英语 (language 或 literature) History Languages (ancient 或 modern)</p>
@@ -66,6 +72,9 @@ hide:
 <p class="catalog-fact"><strong>2027标准与书面材料：</strong>2027／2028延期最低A*AA、IB41–42且HL776；不指定必修科目，英语、历史和古今语言是推荐，并非必须全部修读。须交2份书面作品；个别学院可要求更高分或指定科目成绩。</p>
 <p class="fact-sources"><a href="#source-p-CAMH9-4ed7e5b22a9abc3f">官方依据</a></p>
 
+<p class="catalog-fact"><strong>One-Year Part II另行资格：</strong>一年Part II不是普通高中入口：须符合剑桥其他Honours考试、居校学期和部门书面许可等专门条件，仅列政治与国际关系、社会学、社会人类学单方向。不能把它解释为任意境外学士均可申请。</p>
+<p class="fact-sources"><a href="#source-p-CAMIT-47f9326de6b7d324">官方依据</a></p>
+
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
 <p class="catalog-fact"><strong>高考必须按学院组核对：</strong>中国资格按学院分组，不能使用一个全校高考线：一组通常需本省前0.1%并期待额外学术成果；另一组要求3门相关核心科目各90%或本省前1–3%，并建议高考路径提交最多3门AST；还有学院不接受单独高考，需额外认可资格。各组所属学院、附加资格和专业考试均以中国条目为准。</p>
@@ -74,12 +83,45 @@ hide:
 <p class="catalog-fact"><strong>英语：录取与面试不同：</strong>IELTS Academic录取通常总分7.5、各项通常7.0以上；6.5／6.0是申请面试阶段的建议能力，不能当作录取标准。语言考试一般须在开学日仍处于两年有效期，通常同次达标。</p>
 <p class="fact-sources"><a href="#source-u-UKENR-e7398085a4510f">官方依据</a></p>
 
+<p class="catalog-fact"><strong>2027中国学历要求适用范围：</strong>当前国际学历页明确适用于2027入学或延期2028入学，页面称2026年3月更新。应按课程所需科目、开设该课程的学院和资格组共同判断；高考申请者仍须参加课程要求的入学考试，成绩门槛不是免考或保证录取。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考省前0.1%组：13所学院：</strong>Churchill、Clare、Downing、Emmanuel、Girton、Homerton、Hughes Hall、Lucy Cavendish、Magdalene、Peterhouse、Queens’、Trinity、Wolfson。通常高考有条件录取要求本省前0.1%，并期待科学竞赛、AP等额外学术表现，相关科目和个别情况由学院评估。本组不期待或强制要求AST；已有AST成绩可被使用。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考三科90%或前1%–3%组：8所学院：</strong>Fitzwilliam、Murray Edwards、Newnham、Pembroke、Robinson、St Catharine’s、St John’s、Trinity Hall。通常最低条件为3门相关核心科目各至少90%，或整体成绩位列本省同届前1%–3%。仅用高考、没有A-level等额外正式资格者，官网建议另提供最多3门相关AST；这里是建议，不能改写为人人必考AST。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>不单独接受高考组：8所学院：</strong>Christ’s、Corpus Christi、Gonville &amp; Caius、Jesus、King’s、Selwyn、Sidney Sussex、St Edmund’s。须有额外认可学术资格；页面举A-level、完整IB或至少5门AP各5分，并另区分下列组合条件。AST在本组也不是被期待或强制要求的考试，已有成绩可供参考。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考与国际资格如何组合：</strong>上述不单独接受高考组：少于3门A-level、未修完整IB或AP不带SAT／ACT者，还被期待取得省前0.1%，或可能以英国以外大学本科第一年作为补充；后一方式须向所选学院确认。至少3门A-level、完整IB或AP结合SAT／ACT者，仅按这些资格考虑。不能把“可能接受大学一年”改成自动转学，也不能把5门AP的门数和各5分要求省略。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>按所读课程体系选择学历条目：</strong>官网要求：所学课程体系与所在国家不同，应查看该课程体系来源国的资格规定。例如在中国学习美国课程，应核美国资格条目，而非仅凭居住在中国套用高考路径。本轮未新增核定美国资格页的SAT／ACT分数，不以此段推算分数要求。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-china-22eb27604528">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语条件由录取学院决定：</strong>学院会结合学历、书面测评／作品、面试和教育背景决定英语条件，可采用高中英语资格或认可测试。入学时通常期待CEFR四项均达到较好的C1水平；学校要求能参加英语学术面试并完成英文授课和考核，语言专业或海外阶段的具体授课语种仍须逐课程核查。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-english-af6f6cf0bcda">官方依据</a></p>
+
+<p class="catalog-fact"><strong>面试能力不等于必须已交雅思成绩：</strong>申请时建议英语能力相当于IELTS Academic总分至少6.5、单项不低于6.0；这只是面试能力建议。若尚未考试，申请中不必附正式IELTS或其他英语测试成绩单。获录取后仍须满足实际英语条件，不能把面试建议分数当录取门槛。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-english-af6f6cf0bcda">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语资格的具体选项：</strong>IELTS Academic通常总分至少7.5、各项通常至少7.0；Cambridge C2 Proficiency总分至少200、各项不低于185；C1 Advanced总分至少193、各项不低于185，并须其他英语能力证据。官网亦接受能证明C1以上的相应高中毕业资格例子；中国高考英语分数本身未在该列表给出等同线，不自行换算。当前未列出的测试不因遗漏就被本手册宣告禁止。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-english-af6f6cf0bcda">官方依据</a></p>
+
+<p class="catalog-fact"><strong>未满18岁的普通申请安排：</strong>学院通常不常规招收18岁以下学生；入学时未满18岁者应尽早联系拟申学院，可能有额外安排，学校不建议此类申请者作open application。入学未满16岁还可能有额外条件和限制。医学与兽医另有课程明确年龄节点，不能用此一般说明豁免。</p>
+<p class="fact-sources"><a href="#source-u-CAMCN-english-af6f6cf0bcda">官方依据</a></p>
+
 </details>
 
 ## 申请安排 {#applications}
 
 <p class="catalog-fact"><strong>2027学院测评范围：</strong>HSPS的学院测评范围为Hughes Hall、King’s、Newnham；获面试邀请后由学院通知形式和安排，无需事先注册。</p>
 <p class="fact-sources"><a href="#source-p-CAMH9-d26cca0493ad8944">官方依据</a></p>
+
+<p class="catalog-fact"><strong>特殊一年制注册：</strong>One-Year Part II须直接联系目标部门；不能使用普通在读选课表登记。书面许可时点及详细居校资格以2026/27专门规章为准。</p>
+<p class="fact-sources"><a href="#source-p-CAMIT-f8bc2c1f2c944b24">官方依据</a> · <a href="#source-p-CAMIT-47f9326de6b7d324">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -110,7 +152,7 @@ hide:
 
 ## 官方来源与核验记录 {#sources}
 
-目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
+目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
 
 - [官方项目页面或项目所在目录](https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons)
 - [官方目录](https://www.undergraduate.study.cam.ac.uk/courses)
@@ -119,9 +161,15 @@ hide:
 <div class="catalog-source" id="source-p-UKENR-e0ae11f40594ce"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs">Cambridge 国际学费：2026参考、2027发布日期 ↗</a><p>具名课程2026国际年费；2027尚未公布；额外学院费</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-CAMH9-4ed7e5b22a9abc3f"><div><a href="https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons">Human, Social, and Political Sciences, BA (Hons) — 已展开课程、费用及2027资格 ↗</a><p>逐年课程、考核及具体外出/升读范围；公开Overview附加成本与职业群体；Entry requirements所列2027/2028延期资格，未重核旧国际年费与中国共用政策</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-CAMH9-d26cca0493ad8944"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/after/college-assessments">College admission assessments — 2027课程／学院分组 ↗</a><p>获面试邀请后的学院测评、是否需注册、该具名课程实际学院名单／格式／2026考试日；不同课程不互套</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMIT-f8bc2c1f2c944b24"><div><a href="https://www.hsps.cam.ac.uk/track-options">HSPS Track Options — 2026/27 ↗</a><p>用于核对：特殊一年制注册；适用年份及资格见各条说明。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMIT-47f9326de6b7d324"><div><a href="https://www.hsps.cam.ac.uk/sites/default/files/OneYearPartIIregs26-27approved_0.pdf">HSPS One-Year Part II Criteria 2026–27 ↗</a><p>用于核对：One-Year Part II另行资格、特殊一年制注册；适用年份及资格见各条说明。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMIT-01113eb88ad099b6"><div><a href="https://www.hsps.cam.ac.uk/sites/default/files/01%20SingleTrackPOLIS2026-27PartItoPartIIA_0.pdf">Politics and International Relations — 2026/27 Part I to Part IIA combination chart ↗</a><p>用于核对：共同考核规则；适用年份及资格见各条说明。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-CAMIT-5332fd7869124db3"><div><a href="https://www.hsps.cam.ac.uk/sites/default/files/09%20SingleTrackPOLIS2026-27PartIIAtoPartIIB_0.pdf">Politics and International Relations — 2026/27 Part IIA to Part IIB combination chart ↗</a><p>用于核对：共同考核规则；适用年份及资格见各条说明。</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-14c8a54910c8e1"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-entry-requirements">Cambridge 国际学历要求：中国 ↗</a><p>学院分组高考要求及补充资格</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-e7398085a4510f"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements#english-language-requirements">Cambridge 本科入学与英语要求 ↗</a><p>英语录取标准和面试建议门槛</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-e0ae11f40594ce"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs">Cambridge 国际生费用 ↗</a><p>2026国际年费表、2027公布时间、额外College fees</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-UKENR-f5da9307fd5b4a"><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS 2026／2027申请日历 ↗</a><p>2027申请提交、牛剑和医学早截止、常规平等审理截止</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-CAMCN-china-22eb27604528"><div><a href="https://www.undergraduate.study.cam.ac.uk/international-students/international-entry-requirements">剑桥中国学历要求：2027学院分组及补充资格 ↗</a><p>本轮逐条读对应公开正文；仅核此处招生细项，不重新认证原费用和其他共用政策</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-CAMCN-english-af6f6cf0bcda"><div><a href="https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements">剑桥英语条件、面试能力及未满18岁申请 ↗</a><p>本轮逐条读对应公开正文；仅核此处招生细项，不重新认证原费用和其他共用政策</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/cambridge/">← 返回剑桥大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

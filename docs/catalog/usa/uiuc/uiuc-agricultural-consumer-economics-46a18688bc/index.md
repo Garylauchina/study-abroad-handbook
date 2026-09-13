@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（9）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-agri-accounting-98b0d16bb8/">农业与消费者经济学：农业会计</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-agribusiness-markets-management-651d3e690c/">农业与消费者经济学：农业企业市场与管理</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-consumer-economics-finance-3d5f2c29a2/">农业与消费者经济学：消费者经济与金融</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-environmental-economics-policy-8f454480c7/">农业与消费者经济学：环境经济与政策</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-farm-management-a704683947/">农业与消费者经济学：农场管理</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-finance-in-agribusiness-ba2ade086d/">农业与消费者经济学：农业企业金融</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-financial-planning-5dc38867a6/">农业与消费者经济学：财务规划</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-policy-international-trade-development-ed0c1743ea/">农业与消费者经济学：政策、国际贸易与发展</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-public-policy-law-4dcdfdc1c5/">农业与消费者经济学：公共政策与法律</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

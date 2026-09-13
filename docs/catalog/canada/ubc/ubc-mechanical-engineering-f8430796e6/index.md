@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（5）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mechanical-engineering-aerospace-option-e81c2929ab/">机械工程：航空航天方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mechanical-engineering-biomechanics-and-medical-devices-option-5d1106191a/">机械工程：生物力学与医疗器械方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mechanical-engineering-energy-and-environment-option-d2c6e5a8df/">机械工程：能源与环境方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mechanical-engineering-mechatronics-option-e9cf3c2a09/">机械工程：机电一体化方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-mechanical-engineering-naval-architecture-and-marine-engineering-188a046091/">机械工程：船舶设计与海洋工程方向</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

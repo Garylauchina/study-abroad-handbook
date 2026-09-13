@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>Vancouver · <strong>授课语言：</strong>英语为主（学校通则；语言课程及校外阶段另核）</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<strong>所属课程或升读路径</strong><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-bachelor-of-science-in-natural-resources-80456b59e3/">自然资源理学士（共同学位入口）</a></li></ul><details><summary>已收录的相关路线与方向（6）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-sciences-honours-410b257b44/">森林科学（荣誉研究方向）</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-sciences-plant-genetics-genomics-physiology-58e84b1279/">森林科学：植物遗传、基因组与生理</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-sciences-forest-ecology-and-management-50a58b41b8/">森林科学：森林生态与管理</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-sciences-biodiversity-conservation-and-management-6f09f8f32a/">森林科学：生物多样性保护与管理</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-sciences-international-forestry-sustainability-c30abeef8c/">森林科学：国际林业与可持续性</a></li><li><a class="" href="/study-abroad-handbook/catalog/canada/ubc/ubc-forest-sciences-geomatics-mensuration-17e8302b9a/">森林科学：地理空间技术与森林测量</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>首尔冠岳（院系地址；教学安排另核） · <strong>授课语言：</strong>韩语为主</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（5）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-digital-healthcare-24843817a3/">数字医疗（先进融合学部内主修）</a></li><li><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-integrative-data-science-fa7605ca08/">融合数据科学（先进融合学部内主修）</a></li><li><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-sustainable-technology-9d6508ff22/">可持续技术（先进融合学部内主修）</a></li><li><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-intelligent-semiconductor-system-93a58b1d6e/">智能半导体系统（先进融合学部内主修）</a></li><li><a class="" href="/study-abroad-handbook/catalog/south-korea/snu/snu-innovative-pharmaceutical-sciences-981ee0e4b0/">创新药物科学（先进融合学部内主修）</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

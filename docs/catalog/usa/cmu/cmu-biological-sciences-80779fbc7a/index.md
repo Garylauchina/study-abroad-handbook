@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>美国匹兹堡 · <strong>授课语言：</strong>本轮未取得本专业统一授课语言声明</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（5）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-biochemistry-track-987a8763f2/">生物科学（理学学士）—生物化学方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-biomedical-sciences-track-83c55d5023/">生物科学（理学学士）—生物医学科学方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-cell-and-developmental-biology-track-f146c057bc/">生物科学（理学学士）—细胞与发育生物学方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-genetics-and-molecular-biology-track-1b29bf31f8/">生物科学（理学学士）—遗传学与分子生物学方向</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-neuroscience-track-fe8ec8675c/">生物科学（理学学士）—神经科学方向</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（4）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-engineering-technology-management-f-agricultural-production-processing-e064122226/">农业系统工程技术与管理：农业生产与加工</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-engineering-technology-management-f-construction-management-748f67dfb4/">农业系统工程技术与管理：施工管理</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-engineering-technology-management-f-digital-precision-agriculture-a216c6a4c5/">农业系统工程技术与管理：数字与精准农业</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-engineering-technology-management-f-energy-the-environment-f9edc1a061/">农业系统工程技术与管理：能源与环境</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 

@@ -23,6 +23,9 @@ hide:
 
 <p class="program-location"><strong>校区：</strong>美国匹兹堡 · <strong>授课语言：</strong>本轮未取得本专业统一授课语言声明</p>
 
+<nav class="catalog-related" aria-label="课程与方向">
+<details><summary>已收录的相关路线与方向（6）</summary><ul><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-drama-acting-068497d901/">戏剧（艺术学士）—表演</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-drama-design-0458f0a477/">戏剧（艺术学士）—舞台设计</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-drama-directing-358c0ec159/">戏剧（艺术学士）—导演</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-drama-dramaturgy-b31067e7b3/">戏剧（艺术学士）—戏剧构作</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-drama-musical-theater-b395b9af0b/">戏剧（艺术学士）—音乐剧</a></li><li><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-drama-production-technology-and-management-ptm-8171d0ef2f/">戏剧（艺术学士）—制作技术与管理</a></li></ul></details><p>方向、组合与升读阶段不等于独立招生项目，具体资格见各条目。</p></nav>
+
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
