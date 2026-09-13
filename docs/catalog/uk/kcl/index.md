@@ -28,14 +28,14 @@ hide:
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=kcl#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-accounting-finance-bsc-6ba70712d3/">会计与金融（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-accounting-finance-with-year-in-industry-bsc-a5c5206633/">会计与金融（含行业实践年）</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-anatomy-developmental-human-biology-bsc-0e1f696c7e/">解剖学、发育与人体生物学（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-anatomy-developmental-human-biology-ibsc-3f696c97c5/">解剖学、发育与人体生物学（医学插读iBSc）</a><small>iBSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-ancient-history-ba-8d67327bd1/">古代史（BA）</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-artificial-intelligence-philosophy-bsc-43a16848d2/">人工智能与哲学</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-artificial-intelligence-bsc-c547ca82eb/">人工智能（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-artificial-intelligence-msci-780bef0a10/">人工智能（MSci）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-accounting-finance-bsc-6ba70712d3/">会计与金融 理学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-accounting-finance-with-year-in-industry-bsc-a5c5206633/">会计与金融（行业实习年）理学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-anatomy-developmental-human-biology-bsc-0e1f696c7e/">解剖学、发育与人类生物学 理学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-anatomy-developmental-human-biology-ibsc-3f696c97c5/">解剖学、发育与人类生物学 插读理学士</a><small>iBSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-ancient-history-ba-8d67327bd1/">古代史 文学士</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-artificial-intelligence-philosophy-bsc-43a16848d2/">人工智能与哲学 理学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-artificial-intelligence-bsc-c547ca82eb/">人工智能 理学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-artificial-intelligence-msci-780bef0a10/">人工智能 综合理学硕士（本科入口）</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-artificial-intelligence-with-a-year-in-industry-bsc-739d0dd809/">人工智能（BSc，含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-biochemistry-bsc-c5e2207738/">生物化学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-biomedical-engineering-beng-00f03c0381/">生物医学工程（BEng）</a><small>BEng · 部分专业资料已核实</small></article>
@@ -73,7 +73,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-management-with-year-in-industry-bsc-7b5aaf88aa/">经济与管理（BSc，含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-economics-bsc-0304407354/">经济学（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-electronic-engineering-beng-0f1cdceea9/">电子工程（BEng）</a><small>BEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-electronic-engineering-meng-add0fec710/">电子工程（MEng）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-electronic-engineering-meng-add0fec710/">电子工程 综合工程硕士（本科入口）</a><small>MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-modern-languages-french-german-portuguese-or-spanish-with-70c18a0997/">英语文学与现代语言（BA，含海外年）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-ba-5fa4c259ea/">英语文学（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-english-language-linguistics-ba-7f91d5a573/">英语语言与语言学（BA）</a><small>BA · 部分专业资料已核实</small></article>
@@ -210,24 +210,20 @@ hide:
 
 <p><strong>统计范围：</strong>148个已发现目录入口中，145个本科及本科在读路线；3个本科后护理硕士另留更正页，内部路径仍待全量对账</p>
 
-<p><strong>对账方法：</strong>复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。 再逐课核12计算机、数学与通用工程项目及各自China分支、年度模块与费用，原145入口保持。 再核12电子工程、化学、物理及相关组合课程，实读12个China分支和43个年度模块视图；原145身份不变，未据在读海外安排另造高中招生入口。 再深化12条生物医学工程、数据分析、环境地理、欧洲研究、物理哲学及PrimaryCare插读，实际12China分支和41年度视图；保持145库存及原身份，仅精确入口限制。已完成这一层级分栏研究118项，仍余27项待深化。 本批继续深化15条社科、语言、商科及博雅课程，298事实，15实际China分支、50年度模块和国际费用视图；本批后这一层级已深化133条，仍余12条。IBAM按两校官方声明明确KCL BSc加EDHEC International BBA，145原ID保持。 本批深化最后12条既有数学、自然科学、心理及战争研究课程，227事实和108来源引用；现有145条均有已采集资料；其中136条完成后续分栏深化流程，最早9条仍是部分补源，尚待同等深度核验。独立路线与所有信息字段并未全齐。</p>
+<p><strong>对账方法：</strong>以官方本科目录和独立课程页对账，当前收录145个本科及本科插读条目；3个本科后护理硕士已移至更正记录。145条均补有逐课程研究资料，课程内容、条件、申请、国际费用和职业信息分别列明已核内容及缺口。插读、本科入口贯通硕士、跨校学位与普通高中直入分别说明；内部具名路线及全部信息字段仍未闭合。</p>
 
 <p><strong>排除项：</strong>Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes；本科后首次注册护理MNurs/MSc不计本科项目；MBBS/BDS仍按专业学士保留并注明前置学历。</p>
 
 **尚未解决的目录缺口：**
 
-- 仍有现有课程尚未完成独立分栏补源；所有本科内部路径及完整资格继续逐项核验。
-- 37健康医学、12人文、12艺术媒体、12法律商科与12理工课程已分别取得2027/28课程费用信息；伙伴校旧年度参考、实习减额和全程总费用按各项目边界说明。
-- 英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；Medicine MBBS和人文、艺术媒体、法律商科、理工各12项已逐页取得China资格分支，其余课程不由A-level/IB反推高考直入。
-- iBSc内部／外部申请日与侧栏状态、牙科及部分医学模块学分存在官方差异，均保留原范围；空截止栏不作推断。
-- 本批职业页多为职业注册、服务或案例，未取得专业独立毕业届别、分母、就业率或薪资。
-- 艺术媒体部分年度学分表、比较文学电影交换年段存在官网表述差异；英语语言与语言学校区未确认，创意写作及全球媒体专业页未列截止日期。
-- 法律母页香港LLM与独立香港JD不得混同；M124澳法旧交叉提及未确认为现行独立入口，伙伴阶段未来费率、若干年度学分及资格差异仍按正文待核。
-- 新补12理工项目的部分年度模块数量和跨课程表述有差异；实习/海外费用、2027英语更新与本路线独立毕业数据仍依各条缺口，不能套用商学院规则。
-- 本批理工12项仍缺2027最终英语更新、独立毕业统计及部分外出年度费额；两天体课程旧年份声明、物理哲学375与360学分差异、MSci项目OR分组均在各条保留。具名在读海外变体尚未与独立UCAS身份全部闭合。
-- 本批保留欧洲研究90学分年度和配额差异、物理哲学MSci495总量、PrimaryCare开放与截止冲突及海外仅MBBS在读资格；部分2027最终英语/海外费与独立毕业统计仍待补。具名在读变体尚未与独立录取身份全部闭合。
-- 本批保留政治学BA/BSc与营销选修学分、现代语言及国际关系分年表差异；EDHEC约30000欧元缺明确收费周期且属旧年度上下文，不作2027伙伴年费。具名在读方向与全量独立入口仍待对账，2027最终英语及毕业统计仍未全核。
-- 具名海外和实习路线仍待逐一对账；数学统计及心理论文的学分差异、自然科学待批选修、Quantitative Mathematics 2027暂定状态均保留。2027最终英语和专业毕业统计仍未全核。
+- 具名海外、行业年及其他在读方向尚未与所有独立招生身份逐项闭合；法律母页香港LLM与独立香港JD不得混同，M124旧澳法交叉说明未确认为现行独立入口。
+- 英语共用政策明确适用2026/27，2027/28最终测试清单及个案录取通知条件仍须另核；各课程具体中国学历、科目与医学在读要求分别列明，不从A-level或IB总分反推高考直入。
+- 插读专业专用内部／外部截止与侧栏状态存在冲突；解剖插读另有2026年10月1日开放说明。创意写作及全球媒体部分申请日期仍缺，不用其他课程窗口代替。
+- 海外、行业及伙伴阶段未来收费不由首年费用推算；EDHEC约30000欧元属旧年度上下文且收费周期不明，不作2027伙伴年费。课程奖助未确认前不自动扣减。
+- 牙科卫生治疗的Overseas资格排除与国际报价并列；不能仅凭有国际价格认定中国申请者可入读。插读不收押金也不等于免学费。
+- 医学牙科、语言与社科、数学统计、物理哲学、营销等部分学分或年度安排存在来源差异；会计行业首年135、人工智能MSci研究项目0、心理论文45/60等均在详情保留，不自行补齐或降低毕业要求。
+- 自然科学部分选修尚待开发批准；量化数学总览仍标2027暂定，古代史及两条天体课程保留旧年份声明。当前目录存在不保证未来全部课程、选修或岗位开放。
+- 课程独立可比毕业届次、统计分母、就业率及薪资仍未取得；院系服务、雇主举例和职业资格说明不当作本专业毕业调查或自动执业保证。部分全程授课语种及具体校区仍待核，英语测试Band不能代替授课语言证明。
 
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=9)
@@ -1172,5 +1168,87 @@ hide:
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/entry-requirements)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/careers)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

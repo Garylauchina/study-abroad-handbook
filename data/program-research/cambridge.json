@@ -6,7 +6,7 @@
       "raw_key": null,
       "name_en": "Anglo-Saxon, Norse, and Celtic, BA (Hons)",
       "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/anglo-saxon-norse-celtic-ba-hons",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -24,6 +24,30 @@
               "UKENR-94e05c1fa6b7d0"
             ],
             "extraction_locator": "[class*=field-course-duration]"
+          },
+          {
+            "label": "研究对象与教学",
+            "text": "研究早期中世纪不列颠、爱尔兰及斯堪的纳维亚的历史、文化、语言和文学，可选择研读古英语、古诺斯语及中世纪威尔士语、爱尔兰语、拉丁语材料。前两年通常每周10–15小时讲座与课堂，另有研讨和小组督导。",
+            "source_ids": [
+              "CAMDEPTH-cc965dd346c75cdd"
+            ],
+            "extraction_locator": "#course-outline"
+          },
+          {
+            "label": "第一、二年的选课与考核",
+            "text": "首年没有统一必修卷，从10门历史或语言文学科目中选6门，参加其中4门考试。二年可继续6门并全部考试，或以论文及／或1–2门神学、英语、现代中世纪语言、考古、历史的借读科目，替换原选科目中的最多3门。",
+            "source_ids": [
+              "CAMDEPTH-cc965dd346c75cdd"
+            ],
+            "extraction_locator": "#course-outline"
+          },
+          {
+            "label": "末年结构与论文",
+            "text": "第三年从17门范围中选4门；可以按规则以相关院系课程替换一门，也可选此前二年末未参加考试的科目。另须完成9,000–12,000词研究论文；全程采用考试和课程作业考核，通常不能补考。这里概述当前课程结构，不保证未来每门选修都开设。",
+            "source_ids": [
+              "CAMDEPTH-cc965dd346c75cdd"
+            ],
+            "extraction_locator": "#course-outline"
           }
         ],
         "admissions": [
@@ -53,6 +77,14 @@
               "UKENR-e0ae11f40594ce"
             ],
             "extraction_locator": "2026 table named course: Anglo-Saxon, Norse, and Celtic"
+          },
+          {
+            "label": "课程专属附加支出",
+            "text": "当前课程页说明本专业没有强制的额外课程费用；这不免除大学学费、学院费、生活费和一般学习开支。",
+            "source_ids": [
+              "CAMDEPTH-cc965dd346c75cdd"
+            ],
+            "extraction_locator": "#overview Course costs"
           }
         ],
         "outcomes": [
@@ -84,6 +116,15 @@
           "supports": "具名课程2026国际年费；2027尚未公布；额外学院费",
           "sha256": "0945f1b96cc8f2b05eb157b4e1a0afa87af69e1231a2dc111220e586f6bb70aa",
           "locator": "International tuition fees for 2026 entry table; exact named course"
+        },
+        {
+          "id": "CAMDEPTH-cc965dd346c75cdd",
+          "title": "Anglo-Saxon, Norse, and Celtic, BA (Hons) — 当前课程、考核及附加成本",
+          "url": "https://www.undergraduate.study.cam.ac.uk/courses/anglo-saxon-norse-celtic-ba-hons",
+          "checked_at": "2026-09-13",
+          "supports": "实际公开Course outline与Overview课程成本；年份和选修例子分别标注，不重新认证旧招生及大学学费",
+          "sha256": "cc965dd346c75cddf9807123ba923f37d962612d82197ae83c9714035ba1cdcc",
+          "locator": "#course-outline; #overview Course costs; actual public Chrome tabs archived"
         }
       ],
       "display_fields": {
@@ -101,22 +142,25 @@
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Chinese course structure additions; original source-linked admission and fee facts retained; full fields remain incomplete",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
         "fee_amount": true,
         "career_directions": true,
         "outcome_statistics": false
       },
-      "inventory_id": "cambridge-anglo-saxon-norse-and-celtic-ba-hons-35519eda27"
+      "inventory_id": "cambridge-anglo-saxon-norse-and-celtic-ba-hons-35519eda27",
+      "coverage_notes": [
+        "2026-09-13新增当前官网公开逐年课程与附加支出；原招生和2026大学年费及来源日期保持，不表示2027所有费用或内部具名路线均已核齐。"
+      ]
     },
     {
       "university_id": "cambridge",
       "raw_key": null,
       "name_en": "Archaeology, BA (Hons)",
       "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -134,6 +178,38 @@
               "UKENR-f6fdce1ab68528"
             ],
             "extraction_locator": "[class*=field-course-duration]"
+          },
+          {
+            "label": "教学与首年基础",
+            "text": "通常每周6–8场讲座、1–2次小组督导，并可能有语言课、研讨及实践。首年先修3门考古、语言或生物人类学核心选项（部分可能必修）；第四门可继续核心，或选心理学、社会人类学、政治与国际关系、社会学。",
+            "source_ids": [
+              "CAMDEPTH-6cf001f3e3608c69"
+            ],
+            "extraction_locator": "#course-outline"
+          },
+          {
+            "label": "二三年内部方向",
+            "text": "可选择考古学、亚述学、埃及学或生物人类学，也可组合为考古学与生物人类学、亚述学与埃及学。这是同一本科内的方向安排，本条不据此增加六个独立高中招生入口。",
+            "source_ids": [
+              "CAMDEPTH-6cf001f3e3608c69"
+            ],
+            "extraction_locator": "#course-outline"
+          },
+          {
+            "label": "考古、亚述与埃及方向的学习",
+            "text": "考古二年含理论实践、数据分析、地区或时期研究及一门选项，三年含论文和高阶考古研究。亚述方向学习阿卡德语、美索不达米亚考古及相关科目，苏美尔语须当年开设；埃及方向结合古埃及语言与考古。上述方向均列二年结束后的4周田野工作或研学，具体安排随方向。",
+            "source_ids": [
+              "CAMDEPTH-6cf001f3e3608c69"
+            ],
+            "extraction_locator": "#course-outline"
+          },
+          {
+            "label": "生物人类学及考核",
+            "text": "生物人类学二年含数据分析和2–3门相关科目，研究人类演化、比较人类生物学、生态与行为，并可按规则选外系科目；三年修专门及核心课程并完成论文。全专业每年有考试和作业，部分含实践或田野考核；多数学生末年写10,000词论文，通常不能补考。",
+            "source_ids": [
+              "CAMDEPTH-6cf001f3e3608c69"
+            ],
+            "extraction_locator": "#course-outline"
           }
         ],
         "admissions": [
@@ -163,6 +239,14 @@
               "UKENR-e0ae11f40594ce"
             ],
             "extraction_locator": "2026 table named course: Archaeology"
+          },
+          {
+            "label": "田野与研学资助的范围",
+            "text": "二年复活节期间考古学及考古／生物人类学方向的必需考察由院系资助。二年暑期4周活动中，院系组织的田野方案当前约£800且由院系全额承担；研学资助当前最高£1,400，只明确用于埃及与美索不达米亚方向。自选其他田野方案仅获等额支持，超出部分自付；这些是当前项目支出与支持，非2027固定学费或每人必得现金。",
+            "source_ids": [
+              "CAMDEPTH-6cf001f3e3608c69"
+            ],
+            "extraction_locator": "#overview Course costs"
           }
         ],
         "outcomes": []
@@ -185,6 +269,15 @@
           "supports": "具名课程2026国际年费；2027尚未公布；额外学院费",
           "sha256": "0945f1b96cc8f2b05eb157b4e1a0afa87af69e1231a2dc111220e586f6bb70aa",
           "locator": "International tuition fees for 2026 entry table; exact named course"
+        },
+        {
+          "id": "CAMDEPTH-6cf001f3e3608c69",
+          "title": "Archaeology, BA (Hons) — 当前课程、考核及附加成本",
+          "url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
+          "checked_at": "2026-09-13",
+          "supports": "实际公开Course outline与Overview课程成本；年份和选修例子分别标注，不重新认证旧招生及大学学费",
+          "sha256": "6cf001f3e3608c691c40e3f56022d8a5111ad9b1428e559be4ca3bf53ebaf857",
+          "locator": "#course-outline; #overview Course costs; actual public Chrome tabs archived"
         }
       ],
       "display_fields": {
@@ -202,22 +295,25 @@
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Chinese course structure additions; original source-linked admission and fee facts retained; full fields remain incomplete",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
         "fee_amount": true,
         "career_directions": false,
         "outcome_statistics": false
       },
-      "inventory_id": "cambridge-archaeology-ba-hons-0cb97da692"
+      "inventory_id": "cambridge-archaeology-ba-hons-0cb97da692",
+      "coverage_notes": [
+        "2026-09-13新增当前官网公开逐年课程与附加支出；原招生和2026大学年费及来源日期保持，不表示2027所有费用或内部具名路线均已核齐。"
+      ]
     },
     {
       "university_id": "cambridge",
       "raw_key": null,
       "name_en": "Architecture, BA (Hons) and MArch",
       "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/architecture-ba-hons-march",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -243,6 +339,30 @@
               "UKENR-8e5daf7a734db4"
             ],
             "extraction_locator": "Programme structure / modules area"
+          },
+          {
+            "label": "工作室与考核",
+            "text": "通常每周两天在设计工作室；首年另有每周6–7场讲座、每两周3次课堂和3次小组督导。模型、绘图和设计作品集通过提交及展示评定，工作室每年占总成绩50%；其余含论文、作业、口头展示或考试，通常不能重考。",
+            "source_ids": [
+              "CAMDEPTH-992493eccd60a90f"
+            ],
+            "extraction_locator": "#course-outline"
+          },
+          {
+            "label": "前三年的课程结构",
+            "text": "首年大部分与Design共同教学，六组讲授内容为专业技能、形态与力、环境设计、材料制作及1800年前后的建筑史理论。二年四门必修为专业技能II、材料制作II、结构设计、环境设计II，另选四门短期史论课程。三年除全年建筑设计，须修专业技能III，再选两门史论和两门技术课程；列举选项随年度变化，其中二年示例明确属2025/26。",
+            "source_ids": [
+              "CAMDEPTH-992493eccd60a90f"
+            ],
+            "extraction_locator": "#course-outline"
+          },
+          {
+            "label": "第四年MArch与转向Design",
+            "text": "可选第四年硕士阶段，目前要求三年成绩至少2.i；包括全年设计项目、论文或等同研究项目及专业技能IV。首年后转Design须证明数学能力，转入后二年用数学与编程I替代两门选修。获准升读或转向均有条件，不将本科入口理解为无需审核即可取得硕士或建筑师注册。",
+            "source_ids": [
+              "CAMDEPTH-992493eccd60a90f"
+            ],
+            "extraction_locator": "#course-outline"
           }
         ],
         "admissions": [
@@ -272,6 +392,14 @@
               "UKENR-e0ae11f40594ce"
             ],
             "extraction_locator": "2026 table named course: Architecture"
+          },
+          {
+            "label": "材料、安全装备和考察费用",
+            "text": "当前额外支出列安全靴约£30；院系承担模型制作及绘图材料，但不承担笔、铅笔、胶水等基础文具消耗。首年必需考察的交通、门票、住宿由院系承担，学生承担饮食；不能据此把其他生活和全部境外开支视为已含。",
+            "source_ids": [
+              "CAMDEPTH-992493eccd60a90f"
+            ],
+            "extraction_locator": "#overview Course costs"
           }
         ],
         "outcomes": []
@@ -294,6 +422,15 @@
           "supports": "具名课程2026国际年费；2027尚未公布；额外学院费",
           "sha256": "0945f1b96cc8f2b05eb157b4e1a0afa87af69e1231a2dc111220e586f6bb70aa",
           "locator": "International tuition fees for 2026 entry table; exact named course"
+        },
+        {
+          "id": "CAMDEPTH-992493eccd60a90f",
+          "title": "Architecture, BA (Hons) and MArch — 当前课程、考核及附加成本",
+          "url": "https://www.undergraduate.study.cam.ac.uk/courses/architecture-ba-hons-march",
+          "checked_at": "2026-09-13",
+          "supports": "实际公开Course outline与Overview课程成本；年份和选修例子分别标注，不重新认证旧招生及大学学费",
+          "sha256": "992493eccd60a90f696e6739ee44d916cc5c679a130bbd3a4c301aebcb799f3b",
+          "locator": "#course-outline; #overview Course costs; actual public Chrome tabs archived"
         }
       ],
       "display_fields": {
@@ -311,7 +448,7 @@
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Chinese course structure additions; original source-linked admission and fee facts retained; full fields remain incomplete",
       "substantive_coverage": {
         "course_content": true,
         "entry_conditions": true,
@@ -319,14 +456,17 @@
         "career_directions": false,
         "outcome_statistics": false
       },
-      "inventory_id": "cambridge-architecture-ba-hons-and-march-b395ac55e2"
+      "inventory_id": "cambridge-architecture-ba-hons-and-march-b395ac55e2",
+      "coverage_notes": [
+        "2026-09-13新增当前官网公开逐年课程与附加支出；原招生和2026大学年费及来源日期保持，不表示2027所有费用或内部具名路线均已核齐。"
+      ]
     },
     {
       "university_id": "cambridge",
       "raw_key": null,
       "name_en": "Asian and Middle Eastern Studies, BA (Hons)",
       "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/asian-middle-eastern-studies-ba-hons",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -344,6 +484,30 @@
               "UKENR-602b281597aef9"
             ],
             "extraction_locator": "[class*=field-course-duration]"
+          },
+          {
+            "label": "语言和区域研究",
+            "text": "通常每周12–14小时教学。首年强化所选语言的听说读写，并修4–6门东亚或中东导论；中东语言与欧洲语言组合首年大致等量，之后可调整。二年继续语言，中文和日语路线还必修古典语言；历史、文学、政治、宗教或语言学选项逐年变动。",
+            "source_ids": [
+              "CAMDEPTH-845b4529f0318b61"
+            ],
+            "extraction_locator": "#course-outline"
+          },
+          {
+            "label": "海外年与末年",
+            "text": "通常第三年在海外至少8个月；中文或日语路线须在院系认可的所在国大学学习，日语也提供部分实习机会，阿拉伯语、波斯语及希伯来语有不同国家与活动选择。第四年修4门进一步课程，至少一门高阶语言，另完成12,000词论文。通过Part IB的中文或日语路线学生可申请院系批准，以学习另一语言代替第三年海外安排；这不是自动豁免。",
+            "source_ids": [
+              "CAMDEPTH-845b4529f0318b61"
+            ],
+            "extraction_locator": "#course-outline Years 3 and 4; #overview Course costs final paragraph (approved Chinese/Japanese alternative)"
+          },
+          {
+            "label": "考核安排",
+            "text": "通常每年末通过笔试、口试及／或作业评定；日语部分半门课程在所属学期末考核，第四年另评论文。通常不能补考；当前选修主题和海外机会不代表未来每项均有名额。",
+            "source_ids": [
+              "CAMDEPTH-845b4529f0318b61"
+            ],
+            "extraction_locator": "#course-outline"
           }
         ],
         "admissions": [
@@ -373,6 +537,14 @@
               "UKENR-e0ae11f40594ce"
             ],
             "extraction_locator": "2026 table named course: Asian and Middle Eastern Studies"
+          },
+          {
+            "label": "教材和海外年费用",
+            "text": "当前课程页提示个别学生每年特定教材可能花费£300或更多，黑白A4打印每张10p、彩色60p。海外年的日常生活及相关交通由学生承担，院系承担海外机构及／或私人导师的授课费；剑桥本校海外年学费须另查，不能据此写成海外年免学费。Turing只列可申请入口，本轮未核个人资格或资助金额。",
+            "source_ids": [
+              "CAMDEPTH-845b4529f0318b61"
+            ],
+            "extraction_locator": "#overview Course costs"
           }
         ],
         "outcomes": [
@@ -404,6 +576,15 @@
           "supports": "具名课程2026国际年费；2027尚未公布；额外学院费",
           "sha256": "0945f1b96cc8f2b05eb157b4e1a0afa87af69e1231a2dc111220e586f6bb70aa",
           "locator": "International tuition fees for 2026 entry table; exact named course"
+        },
+        {
+          "id": "CAMDEPTH-845b4529f0318b61",
+          "title": "Asian and Middle Eastern Studies, BA (Hons) — 当前课程、考核及附加成本",
+          "url": "https://www.undergraduate.study.cam.ac.uk/courses/asian-middle-eastern-studies-ba-hons",
+          "checked_at": "2026-09-13",
+          "supports": "实际公开Course outline与Overview课程成本；年份和选修例子分别标注，不重新认证旧招生及大学学费",
+          "sha256": "845b4529f0318b61ecb0ff73e53ebbbb99c497579fca1badcf0b44ebdfbfc9e5",
+          "locator": "#course-outline; #overview Course costs; actual public Chrome tabs archived"
         }
       ],
       "display_fields": {
@@ -421,22 +602,25 @@
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Chinese course structure additions; original source-linked admission and fee facts retained; full fields remain incomplete",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
         "fee_amount": true,
         "career_directions": true,
         "outcome_statistics": false
       },
-      "inventory_id": "cambridge-asian-and-middle-eastern-studies-ba-hons-63cde5a980"
+      "inventory_id": "cambridge-asian-and-middle-eastern-studies-ba-hons-63cde5a980",
+      "coverage_notes": [
+        "2026-09-13新增当前官网公开逐年课程与附加支出；原招生和2026大学年费及来源日期保持，不表示2027所有费用或内部具名路线均已核齐。"
+      ]
     },
     {
       "university_id": "cambridge",
       "raw_key": null,
       "name_en": "Chemical Engineering and Biotechnology, BA (Hons) and MEng",
       "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/chemical-engineering-biotechnology-ba-hons-meng",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -462,6 +646,30 @@
               "UKENR-76d632cacb4d21"
             ],
             "extraction_locator": "Programme structure / modules area"
+          },
+          {
+            "label": "教学和前两年基础",
+            "text": "通常每周10场讲座、2–3次督导，前两年实验较多，项目比重逐年增加。首年结合细胞生物学、材料与工程基础、化工及生技原理，以及自然科学Part IA的化学和数学，并做设计制造、化学实验、计算和专业技能训练。二年进入热力学、流体与传递过程、反应分离、数据分析及安全，配合实验和设计项目。",
+            "source_ids": [
+              "CAMDEPTH-1ac386639090a0c8"
+            ],
+            "extraction_locator": "#course-outline"
+          },
+          {
+            "label": "第三年工厂设计及BA出口",
+            "text": "三年先学高阶生技、平衡热力学、反应工程、分离和过程控制，随后团队设计制造特定化学或生物产品的工厂，综合设备、控制、安全环境及经济评估。完成第三年可获BA离校，多数学生继续第四年。",
+            "source_ids": [
+              "CAMDEPTH-1ac386639090a0c8"
+            ],
+            "extraction_locator": "#course-outline"
+          },
+          {
+            "label": "第四年研究与MEng",
+            "text": "升入第四年取决于之前考试表现；成功完成后获BA与MEng。当前必修能源技术、可持续性和高阶设计，并做实验、理论或计算研究项目，另选4个主题。制药工程、计算流体、生物物理等只列为往年选项，不能当作2027保证开设的清单。考核结合考试与作业，通常不能补考。",
+            "source_ids": [
+              "CAMDEPTH-1ac386639090a0c8"
+            ],
+            "extraction_locator": "#course-outline"
           }
         ],
         "admissions": [
@@ -499,6 +707,14 @@
               "UKENR-e0ae11f40594ce"
             ],
             "extraction_locator": "2026 table named course: Chemical Engineering and Biotechnology"
+          },
+          {
+            "label": "实验设备的当前估价",
+            "text": "当前课程页列校方认可科学计算器约£20、实验服约£15、防护眼镜约£5，均为设备估价；它们不包含在读年总学费和全部生活预算的核实范围内。",
+            "source_ids": [
+              "CAMDEPTH-1ac386639090a0c8"
+            ],
+            "extraction_locator": "#overview Course costs"
           }
         ],
         "outcomes": []
@@ -521,6 +737,15 @@
           "supports": "具名课程2026国际年费；2027尚未公布；额外学院费",
           "sha256": "0945f1b96cc8f2b05eb157b4e1a0afa87af69e1231a2dc111220e586f6bb70aa",
           "locator": "International tuition fees for 2026 entry table; exact named course"
+        },
+        {
+          "id": "CAMDEPTH-1ac386639090a0c8",
+          "title": "Chemical Engineering and Biotechnology, BA (Hons) and MEng — 当前课程、考核及附加成本",
+          "url": "https://www.undergraduate.study.cam.ac.uk/courses/chemical-engineering-biotechnology-ba-hons-meng",
+          "checked_at": "2026-09-13",
+          "supports": "实际公开Course outline与Overview课程成本；年份和选修例子分别标注，不重新认证旧招生及大学学费",
+          "sha256": "1ac386639090a0c8ee52d57c6cb81df2a28949b5d6589d1827280b67bd5421d3",
+          "locator": "#course-outline; #overview Course costs; actual public Chrome tabs archived"
         }
       ],
       "display_fields": {
@@ -538,7 +763,7 @@
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Chinese course structure additions; original source-linked admission and fee facts retained; full fields remain incomplete",
       "substantive_coverage": {
         "course_content": true,
         "entry_conditions": true,
@@ -546,14 +771,17 @@
         "career_directions": false,
         "outcome_statistics": false
       },
-      "inventory_id": "cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9"
+      "inventory_id": "cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9",
+      "coverage_notes": [
+        "2026-09-13新增当前官网公开逐年课程与附加支出；原招生和2026大学年费及来源日期保持，不表示2027所有费用或内部具名路线均已核齐。"
+      ]
     },
     {
       "university_id": "cambridge",
       "raw_key": null,
       "name_en": "Classics, BA (Hons)",
       "official_url": "https://www.undergraduate.study.cam.ac.uk/courses/classics-ba-hons",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -579,6 +807,30 @@
               "UKENR-0279954f495c70"
             ],
             "extraction_locator": "Programme structure / modules area"
+          },
+          {
+            "label": "三年与四年路线的教学",
+            "text": "四年路线先有预备年，集中提升拉丁语、阅读原典并接触古希腊语及古典主题；之后进入共同Part IA/IB/II。三年路线前两年（四年路线第二、三年）通常每周8–10场讲座、至少两次小组督导，并按需要加语言课。",
+            "source_ids": [
+              "CAMDEPTH-89b02b8380a54ad7"
+            ],
+            "extraction_locator": "#course-outline"
+          },
+          {
+            "label": "Part IA与IB结构",
+            "text": "Part IA阅读希腊和拉丁原典，并学习古代史、考古艺术、哲学、语言学及古典传统；除考试还交两篇非文学主题文章。Part IB必修希腊语翻译和拉丁语翻译，另选文学、哲学、历史、考古或语言学，作文可选；年末考试并交2–4篇文章，语言考试按入学起点分组评进步。",
+            "source_ids": [
+              "CAMDEPTH-89b02b8380a54ad7"
+            ],
+            "extraction_locator": "#course-outline"
+          },
+          {
+            "label": "末年专门化与考核",
+            "text": "Part II选四门，可集中于单一学科或跨领域，包含文学、哲学、历史、艺术考古、历史语言学及允许的外系课程。可用古典学领域的研究论文替代其中一门，论文不是所有学生共同必选；通常不能补考。",
+            "source_ids": [
+              "CAMDEPTH-89b02b8380a54ad7"
+            ],
+            "extraction_locator": "#course-outline"
           }
         ],
         "admissions": [
@@ -597,6 +849,14 @@
               "UKENR-0279954f495c70"
             ],
             "extraction_locator": "heading Submitted work, excluding historical applicant grey-box"
+          },
+          {
+            "label": "三年路线入学前的希腊语准备",
+            "text": "获三年路线录取且此前没有希腊语A-level、GCSE或等同资格者，入学前须完成30小时希腊语教学，通常被要求参加JACT暑校。四年路线另通常参加剑桥古典学院系的入学前暑校；二者对象和成本安排不同。",
+            "source_ids": [
+              "CAMDEPTH-89b02b8380a54ad7"
+            ],
+            "extraction_locator": "#overview Course costs"
           }
         ],
         "applications": [],
@@ -608,6 +868,22 @@
               "UKENR-e0ae11f40594ce"
             ],
             "extraction_locator": "2026 table named course: Classics"
+          },
+          {
+            "label": "2027起的希腊语暑校支持",
+            "text": "自2027年夏季起，对没有既往希腊语资格且被要求参加JACT补足30小时的录取者，学院系承担全部授课与住宿费；有希腊语基础者仅被鼓励参加，可按家庭收入申请部分或全额助学金。官网所列£1,095是2025寄宿课程旧价且不含交通，不作2027报价；交通另计。",
+            "source_ids": [
+              "CAMDEPTH-89b02b8380a54ad7"
+            ],
+            "extraction_locator": "#overview Course costs"
+          },
+          {
+            "label": "四年路线暑校及可选学习成本",
+            "text": "四年路线通常参加的剑桥院系暑校免课程费，含住宿及半膳；学生承担14天期间午餐和往返交通。普通教材无需购买，自购常用新书估价£350且属可选；考古田野机会均可选，所列活动成本由院系承担。以上支持不免除大学学费及常规生活支出。",
+            "source_ids": [
+              "CAMDEPTH-89b02b8380a54ad7"
+            ],
+            "extraction_locator": "#overview Course costs"
           }
         ],
         "outcomes": [
@@ -639,6 +915,15 @@
           "supports": "具名课程2026国际年费；2027尚未公布；额外学院费",
           "sha256": "0945f1b96cc8f2b05eb157b4e1a0afa87af69e1231a2dc111220e586f6bb70aa",
           "locator": "International tuition fees for 2026 entry table; exact named course"
+        },
+        {
+          "id": "CAMDEPTH-89b02b8380a54ad7",
+          "title": "Classics, BA (Hons) — 当前课程、考核及附加成本",
+          "url": "https://www.undergraduate.study.cam.ac.uk/courses/classics-ba-hons",
+          "checked_at": "2026-09-13",
+          "supports": "实际公开Course outline与Overview课程成本；年份和选修例子分别标注，不重新认证旧招生及大学学费",
+          "sha256": "89b02b8380a54ad72d9201336806dd7be117000f3da48ba5bb9000f1e774fa33",
+          "locator": "#course-outline; #overview Course costs; actual public Chrome tabs archived"
         }
       ],
       "display_fields": {
@@ -656,7 +941,7 @@
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Chinese course structure additions; original source-linked admission and fee facts retained; full fields remain incomplete",
       "substantive_coverage": {
         "course_content": true,
         "entry_conditions": true,
@@ -664,7 +949,10 @@
         "career_directions": true,
         "outcome_statistics": false
       },
-      "inventory_id": "cambridge-classics-ba-hons-55ef8cda1d"
+      "inventory_id": "cambridge-classics-ba-hons-55ef8cda1d",
+      "coverage_notes": [
+        "2026-09-13新增当前官网公开逐年课程与附加支出；原招生和2026大学年费及来源日期保持，不表示2027所有费用或内部具名路线均已核齐。"
+      ]
     },
     {
       "university_id": "cambridge",

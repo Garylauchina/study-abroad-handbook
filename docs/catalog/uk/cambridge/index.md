@@ -28,12 +28,12 @@ hide:
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=cambridge#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-anglo-saxon-norse-and-celtic-ba-hons-35519eda27/">Anglo-Saxon, Norse, and Celtic, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-archaeology-ba-hons-0cb97da692/">Archaeology, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-architecture-ba-hons-and-march-b395ac55e2/">Architecture, BA (Hons) and MArch</a><small>BA (Hons) and MArch · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-asian-and-middle-eastern-studies-ba-hons-63cde5a980/">Asian and Middle Eastern Studies, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9/">Chemical Engineering and Biotechnology, BA (Hons) and MEng</a><small>BA (Hons) and MEng · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-classics-ba-hons-55ef8cda1d/">Classics, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-anglo-saxon-norse-and-celtic-ba-hons-35519eda27/">盎格鲁—撒克逊、古北欧与凯尔特研究（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-archaeology-ba-hons-0cb97da692/">考古学（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-architecture-ba-hons-and-march-b395ac55e2/">建筑学（BA Hons／MArch）</a><small>BA (Hons) and MArch · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-asian-and-middle-eastern-studies-ba-hons-63cde5a980/">亚洲与中东研究（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9/">化学工程与生物技术（BA Hons／MEng）</a><small>BA (Hons) and MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-classics-ba-hons-55ef8cda1d/">古典学（BA Hons）</a><small>BA (Hons) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-computer-science-ba-hons-and-meng-a29f97f030/">Computer Science, BA (Hons) and MEng</a><small>BA (Hons) and MEng · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-design-ba-hons-and-mdes-b9f6cb3d16/">Design, BA (Hons) and MDes</a><small>BA (Hons) and MDes · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/cambridge-economics-ba-hons-a6d141a9e8/">Economics, BA (Hons)</a><small>BA (Hons) · 部分专业资料已核实</small></article>
@@ -93,18 +93,56 @@ hide:
 
 ## 专业目录覆盖记录
 
-**已完成所列官方目录范围的对账**，共 33 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 33 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>All subjects, no search keyword or subject filters；Preserve independent titles, joint degrees, foundation/placement/study-abroad variants if separately listed；Retain graduate-entry undergraduate courses and flag entry route; exclude pure postgraduate awards</p>
+<p><strong>统计范围：</strong>保留已于2026-09-12对账的33个本科课程招生入口；课程内部具名方向、组合、授位阶段及年限制变体尚未逐项闭合。</p>
 
-<p><strong>对账方法：</strong>[{&quot;page&quot;: &quot;single complete A–Z&quot;, &quot;count&quot;: 33, &quot;first&quot;: &quot;Anglo-Saxon, Norse, and Celtic, BA (Hons)&quot;, &quot;last&quot;: &quot;Veterinary Medicine, VetMB&quot;, &quot;pagination_links_found&quot;: 0}]</p>
+<p><strong>对账方法：</strong>[{&quot;page&quot;: &quot;single complete A–Z&quot;, &quot;count&quot;: 33, &quot;first&quot;: &quot;Anglo-Saxon, Norse, and Celtic, BA (Hons)&quot;, &quot;last&quot;: &quot;Veterinary Medicine, VetMB&quot;, &quot;pagination_links_found&quot;: 0}] 当前33入口逐项保留；本轮核前6课程公开逐年内容时确认考古的4单方向和2组合、建筑升读及古典学3/4年等内部路径须进一步对账。未将课内选项新造为独立高中招生入口，故广口径目录状态调整为partial。</p>
 
 <p><strong>排除项：</strong>All subjects, no search keyword or subject filters；Preserve independent titles, joint degrees, foundation/placement/study-abroad variants if separately listed；Retain graduate-entry undergraduate courses and flag entry route; exclude pure postgraduate awards</p>
 
 **尚未解决的目录缺口：**
 
 - Directory has 33 course-level admissions entries. Subject pathways within broad entry courses are not fabricated as separate admissions programmes. Award alternatives on the same official entry page remain combined.
+- 33个入口的目录核对完成不等于课程内部全部具名方向及2027所有字段已核齐；本轮只补6个已有课程的学习结构和附加支出，其余27未刷新。
 
 - [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/anglo-saxon-norse-celtic-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/architecture-ba-hons-march)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/asian-middle-eastern-studies-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/chemical-engineering-biotechnology-ba-hons-meng)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/classics-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/computer-science-ba-hons-meng)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/design-ba-hons-mdes)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/economics-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/education-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/english-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/environment-law-economics-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/foundation-year)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/geography-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/history-politics-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/history-of-art-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/history-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/law-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/linguistics-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/mathematics-ba-hons-mmath)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/medicine-graduate-course-mb-bchir)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/medicine-mb-bchir)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/modern-medieval-languages-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/music-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/philosophy-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/psychological-behavioural-sciences-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/theology-religion-philosophy-of-religion-ba-hons)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/courses/veterinary-medicine-vetmb)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/international-students/international-entry-requirements)
+- [官方目录来源](https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements#english-language-requirements)
+- [官方目录来源](https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

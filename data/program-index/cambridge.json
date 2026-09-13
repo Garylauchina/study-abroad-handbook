@@ -2,10 +2,10 @@
   "university_id": "cambridge",
   "checked_at": "2026-09-12",
   "coverage": {
-    "status": "complete",
+    "status": "partial",
     "count": 33,
-    "scope": "All subjects, no search keyword or subject filters；Preserve independent titles, joint degrees, foundation/placement/study-abroad variants if separately listed；Retain graduate-entry undergraduate courses and flag entry route; exclude pure postgraduate awards",
-    "method": "[{\"page\": \"single complete A–Z\", \"count\": 33, \"first\": \"Anglo-Saxon, Norse, and Celtic, BA (Hons)\", \"last\": \"Veterinary Medicine, VetMB\", \"pagination_links_found\": 0}]",
+    "scope": "保留已于2026-09-12对账的33个本科课程招生入口；课程内部具名方向、组合、授位阶段及年限制变体尚未逐项闭合。",
+    "method": "[{\"page\": \"single complete A–Z\", \"count\": 33, \"first\": \"Anglo-Saxon, Norse, and Celtic, BA (Hons)\", \"last\": \"Veterinary Medicine, VetMB\", \"pagination_links_found\": 0}] 当前33入口逐项保留；本轮核前6课程公开逐年内容时确认考古的4单方向和2组合、建筑升读及古典学3/4年等内部路径须进一步对账。未将课内选项新造为独立高中招生入口，故广口径目录状态调整为partial。",
     "exclusions": "All subjects, no search keyword or subject filters；Preserve independent titles, joint degrees, foundation/placement/study-abroad variants if separately listed；Retain graduate-entry undergraduate courses and flag entry route; exclude pure postgraduate awards",
     "sources": [
       {
@@ -14,10 +14,196 @@
         "bytes": 81766,
         "raw_file": "scratch/full-catalog/uk/cambridge/raw/directory-0.html",
         "meta_file": "scratch/full-catalog/uk/cambridge/raw/directory-0.meta.json"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/anglo-saxon-norse-celtic-ba-hons",
+        "sha256": "cc965dd346c75cddf9807123ba923f37d962612d82197ae83c9714035ba1cdcc",
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-anglo-saxon-norse-and-celtic-ba-hons-35519eda27.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/international-students/international-fees-and-costs",
+        "sha256": "0945f1b96cc8f2b05eb157b4e1a0afa87af69e1231a2dc111220e586f6bb70aa",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/international-fees.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/archaeology-ba-hons",
+        "sha256": "6cf001f3e3608c691c40e3f56022d8a5111ad9b1428e559be4ca3bf53ebaf857",
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-archaeology-ba-hons-0cb97da692.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/architecture-ba-hons-march",
+        "sha256": "992493eccd60a90f696e6739ee44d916cc5c679a130bbd3a4c301aebcb799f3b",
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-architecture-ba-hons-and-march-b395ac55e2.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/asian-middle-eastern-studies-ba-hons",
+        "sha256": "845b4529f0318b61ecb0ff73e53ebbbb99c497579fca1badcf0b44ebdfbfc9e5",
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-asian-and-middle-eastern-studies-ba-hons-63cde5a980.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/chemical-engineering-biotechnology-ba-hons-meng",
+        "sha256": "1ac386639090a0c8ee52d57c6cb81df2a28949b5d6589d1827280b67bd5421d3",
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/classics-ba-hons",
+        "sha256": "89b02b8380a54ad72d9201336806dd7be117000f3da48ba5bb9000f1e774fa33",
+        "raw_file": "scratch/full-catalog/cambridge-course-depth/raw/cambridge-classics-ba-hons-55ef8cda1d.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/computer-science-ba-hons-meng",
+        "sha256": "77004a399f38fe945a20b046315affa041b9cb74def7faefa3405addc5d8285e",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-798d31e4fd78cd.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/design-ba-hons-mdes",
+        "sha256": "816a226067015232f8bdb32c4d7cffb14afaa91dd6db22d54b567adb978d7873",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-0c3a712feb8353.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/economics-ba-hons",
+        "sha256": "03cb7696a0028729b6ffe1fb5233f29574ed06947ce88cddccc2995832115584",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-f7a4ba83c53df4.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/education-ba-hons",
+        "sha256": "0313131b4389177b965b8b53b09d62f5a15d3024c4032606494a352063152029",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-fac538283b26d7.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/engineering-ba-hons-meng",
+        "sha256": "debb5b12e6a7fcc5daf1f7540e504f815e58d8605ee95f74292d8db9df680475",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-9641ea953b3acb.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/english-ba-hons",
+        "sha256": "144059cef8216fd37930e4b7556c250fc89743faa925b8e547920db5ec3d68c6",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-62750169560b94.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/environment-law-economics-ba-hons",
+        "sha256": "c7247e0cbfd282a2ae22f2312321562dd34bd36c249e0ebbbcf1429e20a667ac",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-ac71998f6b19e2.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/foundation-year",
+        "sha256": "f48bdb72bfce7d4c7e19b10fb9195c3a310682716afa36889ea5053a7f417d02",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-7c241ed586962e.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/geography-ba-hons",
+        "sha256": "a9ea9e24076a704c8a16ae6387dbac0d0606316348e0a78accdcff81ecbd8a6f",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-3c8f2f895a9fc9.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/history-modern-languages-ba-hons",
+        "sha256": "5eecc965a003b4d6c0f7320053e28719b7e8b53fb400bddd682bc8c2874c0871",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-e5a83b6a7bbef9.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/history-politics-ba-hons",
+        "sha256": "6432bd8fe8a4abfd7b12b68b71028dac8ddb646f991c08ab45037df9c6e30410",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-a46d1d3d18ad66.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/history-of-art-ba-hons",
+        "sha256": "60f8be91c0c76a64ba5f75db6370e3f8586f33de20d5449725c779979a83248d",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-48e5ebd987fd2b.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/history-ba-hons",
+        "sha256": "84f1e91ef7a37a231922cb17d374afc7fbdbf2bab86c7e9fe88936e275a99ad4",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-9dd14d261f61da.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/human-social-political-sciences-ba-hons",
+        "sha256": "4ed7e5b22a9abc3f63215be930e7fda9900189ecce97541956dede6ee32a1f85",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-222ca0e10ad346.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/law-ba-hons",
+        "sha256": "a888a72431af18926416d56202073b75ebdfe95cf435f112a1c6cc531daf65e1",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-f61f7ca02c26f2.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-modern-languages-ba-hons",
+        "sha256": "781390083896e35d24c32ca53c09f3a24d9c1a3e2df08c8dae1618055294870f",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-05d6803fdc2aca.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/linguistics-ba-hons",
+        "sha256": "6c4d04ca66efbe2ce4a78849f18e35d7edf3bfdb4b1f389cb76ab46d963cfd06",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-daf1351fe1c11e.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/mathematics-ba-hons-mmath",
+        "sha256": "15367abf67ae373e2de6153b83ea8d7ee85e2e4260244fb9632d0bb40b5d0668",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-cce05126afc5df.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-graduate-course-mb-bchir",
+        "sha256": "c98a524c1ea04e581b551a57f4ea05497ce4ea4090dd03417de81471595022fc",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-0bb499840ee6ac.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/medicine-mb-bchir",
+        "sha256": "844a8a10f6bb0bced6f02e9b142355ef55a3ca87b592efaf72c05a0a2c8df4e9",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-949487d6852c7b.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/modern-medieval-languages-ba-hons",
+        "sha256": "2d5b8159edcb691b5e6a7a16979ef230262ad22f66951960c294327222a6c193",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-a5e50c087e3b74.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/music-ba-hons",
+        "sha256": "5d5dba99d1adb828cfd593524dabbd95dc7b8a47d3b4242c3c46e56bfe758af2",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-3f382193112c4f.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/natural-sciences-ba-hons-msci",
+        "sha256": "bfb86cc704620eaf8b193260c83fc2a2c8c410fd11db0eebfdf7b425a47f555c",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-0d54a031eeee0d.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/philosophy-ba-hons",
+        "sha256": "e6caa2b255cf96fc3663a9de3f2fef45db668f3c360d09d7ed400d534038424b",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-55fa5129f27cef.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/psychological-behavioural-sciences-ba-hons",
+        "sha256": "c89d816f23228bb50ed1e5f439801fb42808f8fb2296f46a35a6bc830b330bb9",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-a2608f62c19c1c.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/theology-religion-philosophy-of-religion-ba-hons",
+        "sha256": "dba9d06d7fcec16f31d1c3f938099ad266a69616427e46994fafa7ae18f86940",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-f61e8b402ff2ca.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/courses/veterinary-medicine-vetmb",
+        "sha256": "77d7ddcf863cd01d4033f8ef06d82b419d6e5dcad1094153cacf0100cb486d56",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/course-9c24d34a2c54fb.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/international-students/international-entry-requirements",
+        "sha256": "22eb276045281d2b2535890569f47512ccb0ecdb5b450a54d4a5bc0619cf0946",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/china.html"
+      },
+      {
+        "url": "https://www.undergraduate.study.cam.ac.uk/apply/before/entry-requirements#english-language-requirements",
+        "sha256": "af6f6cf0bcda39fbc30201ffb4753eda654908f906ac8ac1c0cb6f90f235a100",
+        "raw_file": "scratch/full-catalog/uk-enrichment/cambridge/raw/english-policy.html"
+      },
+      {
+        "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+        "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
+        "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html"
       }
     ],
     "gaps": [
-      "Directory has 33 course-level admissions entries. Subject pathways within broad entry courses are not fabricated as separate admissions programmes. Award alternatives on the same official entry page remain combined."
+      "Directory has 33 course-level admissions entries. Subject pathways within broad entry courses are not fabricated as separate admissions programmes. Award alternatives on the same official entry page remain combined.",
+      "33个入口的目录核对完成不等于课程内部全部具名方向及2027所有字段已核齐；本轮只补6个已有课程的学习结构和附加支出，其余27未刷新。"
     ]
   },
   "programs": [
@@ -34,7 +220,12 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-anglo-saxon-norse-and-celtic-ba-hons-35519eda27"
+      "id": "cambridge-anglo-saxon-norse-and-celtic-ba-hons-35519eda27",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ],
+      "name": "盎格鲁—撒克逊、古北欧与凯尔特研究（BA Hons）"
     },
     {
       "name_en": "Archaeology, BA (Hons)",
@@ -49,7 +240,8 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-archaeology-ba-hons-0cb97da692"
+      "id": "cambridge-archaeology-ba-hons-0cb97da692",
+      "name": "考古学（BA Hons）"
     },
     {
       "name_en": "Architecture, BA (Hons) and MArch",
@@ -64,7 +256,8 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-architecture-ba-hons-and-march-b395ac55e2"
+      "id": "cambridge-architecture-ba-hons-and-march-b395ac55e2",
+      "name": "建筑学（BA Hons／MArch）"
     },
     {
       "name_en": "Asian and Middle Eastern Studies, BA (Hons)",
@@ -79,7 +272,8 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-asian-and-middle-eastern-studies-ba-hons-63cde5a980"
+      "id": "cambridge-asian-and-middle-eastern-studies-ba-hons-63cde5a980",
+      "name": "亚洲与中东研究（BA Hons）"
     },
     {
       "name_en": "Chemical Engineering and Biotechnology, BA (Hons) and MEng",
@@ -94,7 +288,8 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9"
+      "id": "cambridge-chemical-engineering-and-biotechnology-ba-hons-and-meng-94837ec9d9",
+      "name": "化学工程与生物技术（BA Hons／MEng）"
     },
     {
       "name_en": "Classics, BA (Hons)",
@@ -109,7 +304,8 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "cambridge-classics-ba-hons-55ef8cda1d"
+      "id": "cambridge-classics-ba-hons-55ef8cda1d",
+      "name": "古典学（BA Hons）"
     },
     {
       "name_en": "Computer Science, BA (Hons) and MEng",

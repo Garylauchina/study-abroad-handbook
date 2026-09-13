@@ -92,6 +92,60 @@
       "locator": "Careers page > destinations / employability / careers support"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc",
+      "sha256": "1cd1af139d88fb48fc682a7311fdd93e95c1ec42daf65c155769dd3881234c98",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/nav-dom-0.html",
+      "locator": "Overview / Course essentials / Programme disclaimer / actual Key Information / Base campus"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/entry-requirements",
+      "sha256": "6368770b312a6b43e0111394ff78fe481768d477b62676536c8f5a855a7f3849",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-accounting-finance-bsc-6ba70712d3-requirements.html",
+      "locator": "Public A-level / IB / Other requirements / Selection process"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/teaching-and-modules",
+      "sha256": "fbd47caa5516496ca15eeb562b777ce5c3d296d5c26cce852b1c6c7046654209",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-accounting-finance-bsc-6ba70712d3-teaching.html",
+      "locator": "Public teaching methods / assessment / Course Structure"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/entry-requirements",
+      "sha256": "f5fbe50a428206e2d367b965be86133facc847734014fb8734a7441c845995e6",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/china-dom-0.html",
+      "locator": "Actual selected China > awards; visible qualifications and full conditions"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/teaching-and-modules",
+      "sha256": "0bffd05625b433682f5cc4cbf5c68e67b3bd4f7315fb4de6d85e32dcb8ecbfa4",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-0-year-1.html",
+      "locator": "Actual Year 1 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/teaching-and-modules",
+      "sha256": "42098bd9cdac9e1827d7ae796ca56409e8e6b36e2e016ed18e2f8b3c44fbbd10",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-0-year-2.html",
+      "locator": "Actual Year 2 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/teaching-and-modules",
+      "sha256": "730eca8c5a1bd4284c53a2267987d964e03ebe55ad08b7f84461c8f14f722f1c",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-0-year-3.html",
+      "locator": "Actual Year 3 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/fees",
+      "sha256": "fdc5c7de20c6dac3095e7dd4ec0ed161b34c3d77da8954bd7bf94f6a040bf96d",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/fees-dom-0.html",
+      "locator": "Actual International tuition / deposit / Additional costs / Further fee information / Key Information"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/careers",
+      "sha256": "3309d4f3f162523259498323261167e31b30dc16674ee182077840a006bd1e0e",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/careers-dom-0.html",
+      "locator": "Public Careers body, stated population and limits"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc",
       "sha256": "4920518ff6daaf9e52a4774c120d691d0544596bc7e3676e615259c35dbd3d58",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-cde080cbb0577f.html",
@@ -114,6 +168,72 @@
       "sha256": "bcc696543aba9d407885ba4e90b18230f8df34dad6b7708bd5d2f2fdc1fdc565",
       "raw_file": "scratch/full-catalog/kcl-supplement/full-tabs/580bdce9003ee059.html",
       "locator": "Careers page > destinations / employability / careers support"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc",
+      "sha256": "463d085762fe09524175af189783362b3c4e93b9f52255cebddad608ea184000",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/nav-dom-1.html",
+      "locator": "Overview / Course essentials / Programme disclaimer / actual Key Information / Base campus"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/entry-requirements",
+      "sha256": "ec05fa00812c4acf0b58f022b49a8d149f614ad62dbfcaf7c78ba6dc2edea9a6",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-accounting-finance-with-year-in-industry-bsc-a5c5206633-requirements.html",
+      "locator": "Public A-level / IB / Other requirements / Selection process"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/teaching-and-modules",
+      "sha256": "6d65f1b422ea65ad8da6ca23f0013a20485013ea32f102b5d9078f26860e709c",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-accounting-finance-with-year-in-industry-bsc-a5c5206633-teaching.html",
+      "locator": "Public teaching methods / assessment / Course Structure"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/entry-requirements",
+      "sha256": "a1efb2d5d32b4a6e8ac81f207152ad24d38226e1c07e592f0e4c10c271b706a6",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/china-dom-1.html",
+      "locator": "Actual selected China > awards; visible qualifications and full conditions"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/teaching-and-modules",
+      "sha256": "ba93f7de6f1c1ab3a58868b16b9b343a4b7485e5a60521e8ba6d32d405dfe129",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-1-year-1.html",
+      "locator": "Actual Year 1 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/teaching-and-modules",
+      "sha256": "50bad8a8791d4d6e99a5ca107151921802c4d88c2d6db1aed3727e130dc0cfc2",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-1-year-2.html",
+      "locator": "Actual Year 2 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/teaching-and-modules",
+      "sha256": "b003ff8547681fc036acec122e0c01eaffb9d6bd0833fbbb50f7f721227bee03",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-1-year-3.html",
+      "locator": "Actual Year 3 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/teaching-and-modules",
+      "sha256": "5c07d91e9472bf491bbf61f7990454fbf5dffe30c83f9df8ae043c6f175397c3",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-1-year-4.html",
+      "locator": "Actual Year 4 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/fees",
+      "sha256": "e80182ed47e138d67661cfff739d9e1a72a7663d543ddb81568d4bfa0b680043",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/fees-dom-1.html",
+      "locator": "Actual International tuition / deposit / Additional costs / Further fee information / Key Information"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc/careers",
+      "sha256": "310b57d2fbb79ae5d67df593a4c24eeea2cc6ebb10788344a904083ca3a70290",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/careers-dom-1.html",
+      "locator": "Public Careers body, stated population and limits"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/business/undergraduate/global-placements",
+      "sha256": "5fe93bab078f2900b5cfdb88aac66df1b329a8d1a7c683ac089eed673c61705f",
+      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/placements.html",
+      "locator": "Global Placements explicit eligibility"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc",
@@ -146,6 +266,60 @@
       "locator": "Careers page > destinations / employability / careers support"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc",
+      "sha256": "3cdb4aa6cf7b9cc074a1b290245c83140e4449e0cb6c925cda59a1a93b9a3dce",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/nav-dom-2.html",
+      "locator": "Overview / Course essentials / Programme disclaimer / actual Key Information / Base campus"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/entry-requirements",
+      "sha256": "8a81f8a5ebb9693d8dc7813ba3b5d58014e98f366e3f52c39ec54e8da71ac693",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-anatomy-developmental-human-biology-bsc-0e1f696c7e-requirements.html",
+      "locator": "Public A-level / IB / Other requirements / Selection process"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/teaching-and-modules",
+      "sha256": "f46fc55e7cffeb0f8223665229017534b581cd6b5c7a3e14b6fb25f7832a9715",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-anatomy-developmental-human-biology-bsc-0e1f696c7e-teaching.html",
+      "locator": "Public teaching methods / assessment / Course Structure"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/entry-requirements",
+      "sha256": "51094ce1cdc434a207ccb90e252817f3703ed661f9d8b77a6ef658ef2306eaa2",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/china-dom-2.html",
+      "locator": "Actual selected China > awards; visible qualifications and full conditions"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/teaching-and-modules",
+      "sha256": "d575dd38ff6119d22cd8cdd36120e15b444a000568b81c3ea457e43f5933202e",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-2-year-1.html",
+      "locator": "Actual Year 1 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/teaching-and-modules",
+      "sha256": "0d0c58060014e1898bc9f4794ce4c6e2e6a28f59c26d054106b8a426cc871ebe",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-2-year-2.html",
+      "locator": "Actual Year 2 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/teaching-and-modules",
+      "sha256": "d24422069177852df07c1118c33bc0b9fed15607a327db9c35a7fef1e9e21bdb",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-2-year-3.html",
+      "locator": "Actual Year 3 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/fees",
+      "sha256": "e44d4f46546d39bf426987e703dc978e43a3df21c8d74228869dbe93fccddc73",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/fees-dom-2.html",
+      "locator": "Actual International tuition / deposit / Additional costs / Further fee information / Key Information"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc/careers",
+      "sha256": "7f2696b1be58ff012184f90e2de4f4d5f6acb1e0bcb79daab990f9576558a053",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/careers-dom-2.html",
+      "locator": "Public Careers body, stated population and limits"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc",
       "sha256": "d1aa674e2604ba997caa1a7da4562d2915f657ae6b16db936e5c10f01f679a86",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-72ba64bb323009.html",
@@ -176,6 +350,48 @@
       "locator": "Other requirements > Entry requirements; International applications"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc",
+      "sha256": "d24f2f98f886136d0405b634805da09cf89af3f8ad10f8c2a7f3521f01ff8781",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/nav-dom-3.html",
+      "locator": "Overview / Course essentials / Programme disclaimer / actual Key Information / Base campus"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/entry-requirements",
+      "sha256": "69ea717da5c006960c3a4c7fa087104eb1003ff17ecab6a3c294821abb861d09",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-anatomy-developmental-human-biology-ibsc-3f696c97c5-requirements.html",
+      "locator": "Public A-level / IB / Other requirements / Selection process"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/teaching-and-modules",
+      "sha256": "93a0704c4e15f65467a350b15713f34b5d636d55a3b237a581b6c7e58d88c814",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-anatomy-developmental-human-biology-ibsc-3f696c97c5-teaching.html",
+      "locator": "Public teaching methods / assessment / Course Structure"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/entry-requirements",
+      "sha256": "8a1220362e0eeda9c7238929754d1ade5b920f99b5e066534fcb8da66314d536",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/china-dom-3.html",
+      "locator": "Actual selected China > awards; visible qualifications and full conditions"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/teaching-and-modules",
+      "sha256": "9a1b8ac8ae298020e47ac126ef22561f38ad7fbb65e381d801091f6f37221f9d",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-3-year-1.html",
+      "locator": "Actual Year 1 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/fees",
+      "sha256": "866b44a4886cfdcf1d7d1aec2e54420a7c0a5b8cc57318422e22d713171541f5",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/fees-dom-3.html",
+      "locator": "Actual International tuition / deposit / Additional costs / Further fee information / Key Information"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc/careers",
+      "sha256": "394dfffeb4a2ddf0309ffb377567129ea2e50c5b07afe2e935435acd058ed7b2",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/careers-dom-3.html",
+      "locator": "Public Careers body, stated population and limits"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba",
       "sha256": "4a1b5388bd2647b0df9f0093feaeb449fe03fb0b180ef9dcaeacedf67cc96540",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-2e0ad7ac7ddc3e.html",
@@ -200,6 +416,60 @@
       "locator": "Careers page > destinations / employability / careers support"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba",
+      "sha256": "aff72df4055a8d2cf0df6f2fc6c249e8ac33e6f2c03be99da396cf6fa889372b",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/nav-dom-4.html",
+      "locator": "Overview / Course essentials / Programme disclaimer / actual Key Information / Base campus"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/entry-requirements",
+      "sha256": "87b2b3e38796eaab815b3e028984da41225ac54de70cd244cc12157e1940ebea",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-ancient-history-ba-8d67327bd1-requirements.html",
+      "locator": "Public A-level / IB / Other requirements / Selection process"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/teaching-and-modules",
+      "sha256": "a8cbd0522cd8b2e7b16ad6403215715bae668f3db7fa1b9f0de2858a592a1741",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-ancient-history-ba-8d67327bd1-teaching.html",
+      "locator": "Public teaching methods / assessment / Course Structure"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/entry-requirements",
+      "sha256": "a556d64f8aa3757d3b4ab029f8aeed42e76b74f6e70351dae7006a42055a16ec",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/china-dom-4.html",
+      "locator": "Actual selected China > awards; visible qualifications and full conditions"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/teaching-and-modules",
+      "sha256": "8d8cabfbaa7af6d89f0bae4d3d270042b7e0383ee048743466c9acea08814b9e",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-4-year-1.html",
+      "locator": "Actual Year 1 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/teaching-and-modules",
+      "sha256": "7f2ad606c175446a8bb316502371fa4a361a875bba4b276ee46af0f823b51a42",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-4-year-2.html",
+      "locator": "Actual Year 2 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/teaching-and-modules",
+      "sha256": "5a51bee6aeaeb5a050ee55265007c742d49f687a9c924d18cb08bbd2452177fb",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-4-year-3.html",
+      "locator": "Actual Year 3 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/fees",
+      "sha256": "8a940836e7986ded6c1b9458eda283d536de44237ab66dc4d427ce562c05911b",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/fees-dom-4.html",
+      "locator": "Actual International tuition / deposit / Additional costs / Further fee information / Key Information"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba/careers",
+      "sha256": "c9c473d31f9a16518414200ba37be10c0e156e6a1dbbb9ac485376926ede5f4f",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/careers-dom-4.html",
+      "locator": "Public Careers body, stated population and limits"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci",
       "sha256": "601c3882ea8eee5c40b8c6597efefbe5cf91786f4cc16de9fb7aefb4d2114482",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-d8e0b6e81dba61.html",
@@ -216,6 +486,66 @@
       "sha256": "ed927032ff4638f454267e5f95bce7b16aa035a3aeab0cc19b395969e1e42f04",
       "raw_file": "scratch/full-catalog/kcl-supplement/full-tabs/2e7324238669e5a0.html",
       "locator": "A-level; requiredSubjects; International Baccalaureate; contextual entry"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci",
+      "sha256": "b15dc043531526394f0f1e83ead1f50a418bb2f52275bdb4723012523ef69a01",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/nav-dom-7.html",
+      "locator": "Overview / Course essentials / Programme disclaimer / actual Key Information / Base campus"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/entry-requirements",
+      "sha256": "c992549e2bb3f2644a5cc3150ebf9589fd36fe9e586fa0df45505233f16dae18",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-artificial-intelligence-msci-780bef0a10-requirements.html",
+      "locator": "Public A-level / IB / Other requirements / Selection process"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/teaching-and-modules",
+      "sha256": "54c8db72c2944e340abfd4777c4c9c0299d4e81d104f554e311a04925a21ae22",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-artificial-intelligence-msci-780bef0a10-teaching.html",
+      "locator": "Public teaching methods / assessment / Course Structure"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/entry-requirements",
+      "sha256": "3df3de6c635ca0af2bb20c8593d87db77cb4c04d096e08c75d1c7b8795516dda",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/china-dom-7.html",
+      "locator": "Actual selected China > awards; visible qualifications and full conditions"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/teaching-and-modules",
+      "sha256": "dee34551a1806e9ee81246a5cc9a4f1c3b0755034cb860db45378dc6cfc77104",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-7-year-1.html",
+      "locator": "Actual Year 1 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/teaching-and-modules",
+      "sha256": "0a2934aadff6941a597d9d3556fba0cd88b7e00ec252aa8f98252a9df5cb4f17",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-7-year-2.html",
+      "locator": "Actual Year 2 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/teaching-and-modules",
+      "sha256": "2eb5be09ff657ba7e586a796ed68ab796485b9092325b0cff2d6a6dbd45277be",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-7-year-3.html",
+      "locator": "Actual Year 3 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/teaching-and-modules",
+      "sha256": "05088550d32070b0800f31250463b8966a30495521674aea3cb548f7aefb8961",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-7-year-4.html",
+      "locator": "Actual Year 4 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/fees",
+      "sha256": "5b273a5708e81a0a3263479c58639aa22ba386c94f660495ddb22ceb01a18d2f",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/fees-dom-7.html",
+      "locator": "Actual International tuition / deposit / Additional costs / Further fee information / Key Information"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci/careers",
+      "sha256": "b624fc1ec6cccf1c5ec356ebcf3f6c6c806a0c891bea386a730f904f337a28d4",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/careers-dom-7.html",
+      "locator": "Public Careers body, stated population and limits"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc",
@@ -248,6 +578,60 @@
       "locator": "Careers page > destinations / employability / careers support"
     },
     {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc",
+      "sha256": "77bbd8e99548054791bc828a50187d80cca52fb02fce5ebe3ce709fcbe46f22e",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/nav-dom-6.html",
+      "locator": "Overview / Course essentials / Programme disclaimer / actual Key Information / Base campus"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/entry-requirements",
+      "sha256": "38b73351a38600cb05c9ea11abf873c615ba46053ceeabb9562342f50df43a1a",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-artificial-intelligence-bsc-c547ca82eb-requirements.html",
+      "locator": "Public A-level / IB / Other requirements / Selection process"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/teaching-and-modules",
+      "sha256": "4847abe6032fb365fd43d08875798188534e924e5160d03efb3038908125d9c4",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-artificial-intelligence-bsc-c547ca82eb-teaching.html",
+      "locator": "Public teaching methods / assessment / Course Structure"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/entry-requirements",
+      "sha256": "3f3246d3bc3b9bfa113d5bb9fd1027eaccaeff40fd6b2951cafb25e7eb17ef8a",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/china-dom-6.html",
+      "locator": "Actual selected China > awards; visible qualifications and full conditions"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/teaching-and-modules",
+      "sha256": "154442670dd494832e94490c4afa90dae7844236c4dcdf85fcf4d478240fc2e3",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-6-year-1.html",
+      "locator": "Actual Year 1 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/teaching-and-modules",
+      "sha256": "139e6f9bed49d0dbae4351b8eb6b54a14443a8639b7c73adf227eb48de6d0d65",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-6-year-2.html",
+      "locator": "Actual Year 2 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/teaching-and-modules",
+      "sha256": "d6e06757bc2bd6537866fe8555dfe1d97e84d77336d4ddbc8789fd5266b397bd",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-6-year-3.html",
+      "locator": "Actual Year 3 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/fees",
+      "sha256": "580dd96c133fd3616ebf509149a4b215775f4447592304e9fbc92e21c5b39a30",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/fees-dom-6.html",
+      "locator": "Actual International tuition / deposit / Additional costs / Further fee information / Key Information"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc/careers",
+      "sha256": "0a1040b02d0526c45eafd0731e7350a1301f3b65c98a3f12fa7f89619b27b175",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/careers-dom-6.html",
+      "locator": "Public Careers body, stated population and limits"
+    },
+    {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy",
       "sha256": "344a0dd2ae9e7aa9e9484adf42dadc1248548f8aa7465316f66e4731b5b8300f",
       "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-f1bedb82bbcef3.html",
@@ -270,6 +654,60 @@
       "sha256": "fa54b9a9169e761e9a24aad1e3ead01d962c03df953abffcc0e4f091802b3300",
       "raw_file": "scratch/full-catalog/kcl-supplement/full-tabs/b14193980c9e7c0c.html",
       "locator": "Careers page > destinations / employability / careers support"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy",
+      "sha256": "35ed04e1ca6d41034e2a7afaaec8abd58c3be14705cf70316d9270cbd478410e",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/nav-dom-5.html",
+      "locator": "Overview / Course essentials / Programme disclaimer / actual Key Information / Base campus"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/entry-requirements",
+      "sha256": "47eeb597e63b9827078b464e5f97c0667512ae76a99965cc326b858df871599e",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-artificial-intelligence-philosophy-bsc-43a16848d2-requirements.html",
+      "locator": "Public A-level / IB / Other requirements / Selection process"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/teaching-and-modules",
+      "sha256": "077c40ce9f71acf123357634c3a83046eebd7247dbcb2663e359aea4a8ed351e",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-artificial-intelligence-philosophy-bsc-43a16848d2-teaching.html",
+      "locator": "Public teaching methods / assessment / Course Structure"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/entry-requirements",
+      "sha256": "5565f55b34ead312ae755e8ca1167cd591cdc4f897491db16c02f823477e2020",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/china-dom-5.html",
+      "locator": "Actual selected China > awards; visible qualifications and full conditions"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/teaching-and-modules",
+      "sha256": "ec8f32af4699e7bf7749d7d77f98c3c021549d2564e69337396f0e157d1238d1",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-5-year-1.html",
+      "locator": "Actual Year 1 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/teaching-and-modules",
+      "sha256": "b7e51ec02acd1ea475ccd5504ca5e6e12b5e664a87559fa5a859362cbe99b21b",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-5-year-2.html",
+      "locator": "Actual Year 2 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/teaching-and-modules",
+      "sha256": "80b1c10bf1b877cfc369e647d6843ef8c40f04b51662cebca53ff251751c8c54",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-5-year-3.html",
+      "locator": "Actual Year 3 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/fees",
+      "sha256": "ac00745bd40370503b6a9bc4fb08a0d7127c92154143fa77f22578a3bbda7aef",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/fees-dom-5.html",
+      "locator": "Actual International tuition / deposit / Additional costs / Further fee information / Key Information"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy/careers",
+      "sha256": "132a77ff9a881e39ecdddadd5a0954b19859739219d1e1c1da2b94d80513b806",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/careers-dom-5.html",
+      "locator": "Public Careers body, stated population and limits"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc",
@@ -522,12 +960,6 @@
       "sha256": "803c35c97a44b5a9edd7c675d8fd8fbbb00be4ee8a8c8f40128bc8dc587b7107",
       "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/review/china-dom-8.html",
       "locator": "Actual selected China > Award > Gao Kao / Zhao Kao / Maple Leaf World Schools"
-    },
-    {
-      "url": "https://www.kcl.ac.uk/business/undergraduate/global-placements",
-      "sha256": "5fe93bab078f2900b5cfdb88aac66df1b329a8d1a7c683ac089eed673c61705f",
-      "raw_file": "scratch/full-catalog/kcl-law-business-enrichment/raw/placements.html",
-      "locator": "Global Placements explicit eligibility"
     },
     {
       "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc/fees",
@@ -5586,6 +6018,66 @@
       "sha256": "fd726865cf7115684c7257900f54a743284c321582adeea48f8e9d57738ee0b9",
       "raw_file": "scratch/full-catalog/kcl-supplement/raw/careers.html",
       "locator": "Careers page > destinations / employability / careers support"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng",
+      "sha256": "2a18ecd2f17b3c6bd09609fd6c8626287bda881c5fe31b67e81258e1fb3cedf0",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/nav-dom-8.html",
+      "locator": "Overview / Course essentials / Programme disclaimer / actual Key Information / Base campus"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/entry-requirements",
+      "sha256": "150a74d5b712721579c34c7588ec49df381450aa3577a3a3dbd2d21a7101c242",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-electronic-engineering-meng-add0fec710-requirements.html",
+      "locator": "Public A-level / IB / Other requirements / Selection process"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/teaching-and-modules",
+      "sha256": "0459b44ee83416a4e25f93a99c0e4fe1d426b718eab6f0dd0c42606f03f94f81",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/raw/kcl-electronic-engineering-meng-add0fec710-teaching.html",
+      "locator": "Public teaching methods / assessment / Course Structure"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/entry-requirements",
+      "sha256": "355983563909e6d5a1a3e67df6b013e153a5e7c2fb2653898924cd92ebd85f8a",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/china-dom-8.html",
+      "locator": "Actual selected China > awards; visible qualifications and full conditions"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/teaching-and-modules",
+      "sha256": "4b473de696e44913027921d2028bf3e4109bebef35e374072a059e1ebc274a2a",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-8-year-1.html",
+      "locator": "Actual Year 1 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/teaching-and-modules",
+      "sha256": "6281156f8ba5e3de7c562b8c4d1c1cdb3369c57c5ca0703e3c927f3b142100a7",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-8-year-2.html",
+      "locator": "Actual Year 2 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/teaching-and-modules",
+      "sha256": "5bc2c49b9cf66e328fa29466b1aa3b77d2aaab2b6d3d3b4980f27a9fd880f4f4",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-8-year-3.html",
+      "locator": "Actual Year 3 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/teaching-and-modules",
+      "sha256": "3265a2c1e131607cd99cc6b0f9f9ac6164c09cf2f16df8979e909e7f68ca57d5",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/capture/modules-dom-8-year-4.html",
+      "locator": "Actual Year 4 selector > required/optional modules and text"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/fees",
+      "sha256": "1931cade089906870690bda312346f8fea245b6b99d66ce7f6a67037a9b42c77",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/fees-dom-8.html",
+      "locator": "Actual International tuition / deposit / Additional costs / Further fee information / Key Information"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng/careers",
+      "sha256": "001365406c36dc63b6e13483547d1dbbceb5c6dcd23777a85f8227f5f592038c",
+      "raw_file": "scratch/full-catalog/kcl-earliest9-enrichment/review-fees/raw/careers-dom-8.html",
+      "locator": "Public Careers body, stated population and limits"
     }
   ]
 }
