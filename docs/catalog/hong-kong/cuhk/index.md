@@ -23,14 +23,14 @@ hide:
 
 ## 专业与申请资料
 
-84 个专业条目 · 2 个含详细资料 · 82 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+95 个专业条目 · 2 个含详细资料 · 93 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=cuhk#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-aerospace-science-and-earth-informatics-x-double-major-programme-d8cc2c330c/">Aerospace Science and Earth Informatics &amp; X Double Major Programme</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-anthropology-0bdc97590b/">Anthropology</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-architectural-studies-0957e56193/">Architectural Studies</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-architectural-studies-0957e56193/">建筑学</a><small>Bachelor of Social Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-artificial-intelligence-systems-and-technologies-f636dcc5a0/">Artificial Intelligence: Systems and Technologies</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-bba-ibba-jd-double-degree-programme-300d3c5272/">BBA(IBBA)-JD Double Degree Programme</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-bachelor-of-laws-4206a5c4b7/">Bachelor of Laws</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
@@ -39,40 +39,47 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-computer-science-bsc/">计算机科学理学士（CSE首年后分流）</a><small>Bachelor of Science in Computer Science · 含详细资料</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-economics-bssc/">经济学社会科学学士</a><small>Bachelor of Social Science in Economics · 含详细资料</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-bimodal-bilingual-studies-adaa60a760/">Bimodal Bilingual Studies</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-biochemistry-43185dc8b8/">生物化学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-biology-d237694d9a/">生物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-biology-and-chemistry-double-major-programme-0bea4cd248/">生物学及化学双主修（第一主修：生物学）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-biomedical-engineering-4e80ec17c5/">Biomedical Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-biomedical-sciences-efdffdb750/">Biomedical Sciences</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-biotechnology-entrepreneurship-and-healthcare-management-ff1bc9e1b4/">Biotechnology, Entrepreneurship and Healthcare Management</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-cell-and-molecular-biology-740cb4599d/">细胞及分子生物学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-chemistry-543828b3d3/">化学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-chemistry-and-biology-double-major-programme-b999dafbee/">化学及生物学双主修（第一主修：化学）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-chinese-language-studies-ba-and-chinese-language-education-bed-26a6df2e37/">Chinese Language Studies (BA) and Chinese Language Education (BEd)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-chinese-language-and-literature-9e1c7c42db/">Chinese Language and Literature</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-chinese-medicine-0a92040479/">Chinese Medicine</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-chinese-studies-5299b8ffe4/">Chinese Studies</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-community-health-practice-755e528f79/">Community Health Practice</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-computational-data-science-dc21b33cbf/">Computational Data Science</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-computer-engineering-490951d8e6/">Computer Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-computer-science-and-engineering-d0fbcbc97b/">Computer Science and Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-data-science-and-policy-studies-4d2a3c12a7/">Data Science and Policy Studies</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-computer-engineering-490951d8e6/">计算机工程</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-computer-science-and-engineering-d0fbcbc97b/">计算机科学与工程（共同招生入口）</a><small>本科共同入口（后分 BEng Computer Engineering / BSc Computer Science） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-data-science-and-policy-studies-4d2a3c12a7/">数据科学与政策研究</a><small>Bachelor of Social Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-diplomacy-and-international-studies-85d990719b/">Diplomacy and International Studies</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-early-childhood-education-4a5806b176/">Early Childhood Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-early-childhood-education-ba-fcf81391d5/">Early Childhood Education (BA)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-earth-and-environmental-sciences-0905f263c2/">Earth and Environmental Sciences</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-earth-and-environmental-sciences-0905f263c2/">地球与环境科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-economics-cuhk-tsinghua-university-dual-undergraduate-degree-prog-3e4e1a571a/">Economics (CUHK-Tsinghua University Dual Undergraduate Degree Programme)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-electronic-engineering-545b702af6/">Electronic Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-energy-and-environmental-engineering-964b250702/">Energy and Environmental Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-english-9f38b57317/">English</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-english-studies-ba-and-english-language-education-bed-1cff3690ba/">English Studies (BA) and English Language Education (BEd)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-enrichment-mathematics-f9378802bf/">Enrichment Mathematics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-enrichment-stream-in-theoretical-physics-5dd9b73f02/">Enrichment Stream in Theoretical Physics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-enrichment-mathematics-f9378802bf/">数学精研</a><small>Bachelor of Science（数学精研方向） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-enrichment-stream-in-theoretical-physics-5dd9b73f02/">理论物理精研</a><small>Bachelor of Science（理论物理精研方向） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-exercise-science-and-health-education-a406dd342d/">Exercise Science and Health Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-financial-technology-d92ab61a50/">Financial Technology</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-fine-arts-7ce79eae6a/">Fine Arts</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-food-and-nutritional-sciences-3a2f84ccf0/">食品及营养科学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-gender-studies-ac99b24770/">Gender Studies</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-geography-and-resource-management-5c2d4bf0ce/">Geography and Resource Management</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-geography-and-resource-management-5c2d4bf0ce/">地理与资源管理学</a><small>Bachelor of Social Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-gerontology-b8142338c0/">Gerontology</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-global-business-studies-ca6a460873/">Global Business Studies</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-global-communication-e723980900/">Global Communication</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-global-economics-and-finance-44aa271435/">Global Economics and Finance</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-global-studies-42921c4208/">Global Studies</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-government-and-public-administration-7e9e3d62e8/">Government and Public Administration</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-global-communication-e723980900/">全球传播</a><small>Bachelor of Social Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-global-economics-and-finance-44aa271435/">环球经济与金融</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-global-studies-42921c4208/">全球研究</a><small>Bachelor of Social Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-government-and-public-administration-7e9e3d62e8/">政治与行政学</a><small>Bachelor of Social Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-history-902ce1981c/">History</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-hospitality-and-real-estate-f3c96f2ad2/">Hospitality and Real Estate</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-human-movement-science-and-health-studies-06a3aababa/">Human Movement Science and Health Studies</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
@@ -81,21 +88,24 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-integrated-bachelor-of-business-administration-programme-2cd272ef0a/">Integrated Bachelor of Business Administration Programme</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-interdisciplinary-data-analytics-x-double-major-programme-c96137c331/">Interdisciplinary Data Analytics &amp; X Double Major Programme</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-japanese-studies-66d8d55203/">Japanese Studies</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-journalism-and-communication-fbb96f3c14/">Journalism and Communication</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-journalism-and-communication-fbb96f3c14/">新闻与传播学</a><small>Bachelor of Social Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-learning-design-and-technology-909ad7f88a/">Learning Design and Technology</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-linguistics-fdfc8afc60/">Linguistics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-materials-science-and-engineering-5e2a74630d/">Materials Science and Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-mathematics-554fc32f33/">数学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-mathematics-and-information-engineering-eac5f5b8a9/">Mathematics and Information Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-mathematics-and-mathematics-education-26b3fa41da/">Mathematics and Mathematics Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-mechanical-and-automation-engineering-bf51ee3e04/">Mechanical and Automation Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-molecular-biotechnology-804b2c4642/">分子生物技术学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-music-2101f32f77/">Music</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-natural-sciences-f6fd553248/">Natural Sciences</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-nursing-c3607b5ea1/">Nursing</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-pharmacy-ba991f4e72/">Pharmacy</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-philosophy-7468c88fe1/">Philosophy</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-physical-education-exercise-science-and-health-a800d4797b/">Physical Education, Exercise Science and Health</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-physics-17c89cc9d2/">物理</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-professional-accountancy-c454119516/">Professional Accountancy</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-psychology-b0978c9aa2/">Psychology</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-psychology-b0978c9aa2/">心理学</a><small>Bachelor of Social Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-public-health-1e5ca63271/">Public Health</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-public-history-7d153b8dbf/">Public History</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-public-humanities-91ee82878a/">Public Humanities</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
@@ -103,15 +113,16 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-quantitative-finance-and-risk-management-science-dacd3cbab7/">Quantitative Finance and Risk Management Science</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-religious-studies-2e95a04e36/">Religious Studies</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-risk-management-science-192d59cca5/">Risk Management Science</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-science-523be6a5d9/">Science</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-social-science-broad-based-9b713b3943/">Social Science (Broad-based)</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-social-work-44a5a4fb73/">Social Work</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-science-523be6a5d9/">理学（共同招生入口）</a><small>本科共同入口（按最终主修授予 Bachelor of Science） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-social-science-broad-based-9b713b3943/">社会科学（共同招生入口）</a><small>本科共同入口（最终学位依主修：BSSc等；GLEF为BSc） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-social-work-44a5a4fb73/">社会工作</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-society-and-sustainable-development-75119025ee/">Society and Sustainable Development</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-sociology-8ed5119998/">Sociology</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-sociology-8ed5119998/">社会学</a><small>Bachelor of Social Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-statistics-9be57f8bc1/">统计学</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-systems-engineering-and-engineering-management-6610d54419/">Systems Engineering and Engineering Management</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-theology-74724309c9/">Theology</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-translation-d511d7108b/">Translation</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-urban-studies-867eb13db8/">Urban Studies</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-urban-studies-867eb13db8/">城市研究</a><small>Bachelor of Social Science · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -128,6 +139,12 @@ hide:
 <p class="catalog-fact"><strong>英语与2027更新范围：</strong>当前本科英语最低IELTS Academic总分6.0。TOEFL页明确2026入学参考：旧制80；2026年1月21日起考试4.5/6或80/120，2027及以后待复核。接受其他学历替代；线上版/单项重考等限制须按原页。</p>
 <p class="fact-sources"><a href="#source-u-cuhk-policy-10">官方依据</a></p>
 
+<p class="catalog-fact"><strong>在读分流与高中申请分开：</strong>理学、社科及CSE共同入口的申报规则按入学届次和学生身份区分；2026级在2027/2028年分流的日期不能当作2027高中申请窗口。高考应届生不得使用国际学历通道代替统招。</p>
+<p class="fact-sources"><a href="#source-u-cuhk-sup-international">官方依据</a> · <a href="#source-u-cuhk-sup-science-declaration">官方依据</a> · <a href="#source-u-cuhk-sup-social-declaration">官方依据</a> · <a href="#source-u-cuhk-sup-cse-allocation">官方依据</a></p>
+
+<p class="catalog-fact"><strong>授课语言不能一概写英语：</strong>大学FAQ说明课程采用中文、英语或两者；国际生可选英语课程，但这不保证每个主修全部课程为英语。全球传播必修课英语、政治与行政学英语及粤语等具体说明优先于校级概括。</p>
+<p class="fact-sources"><a href="#source-u-cuhk-sup-international-faq">官方依据</a> · <a href="#source-u-cuhk-sup-entry-gcomn">官方依据</a> · <a href="#source-u-cuhk-sup-entry-gpadn">官方依据</a></p>
+
 ### 申请安排
 
 <p class="catalog-fact"><strong>高考申请与专业分流：</strong>高考申请按各省提前批志愿系统及当年计划办理，无全省统一日期；2026周期已结束，2027省计划和期限本轮未取得。录取大类后按专业规则在第一或第二年确定主修。</p>
@@ -138,7 +155,7 @@ hide:
 
 ### 学费与资助
 
-<p class="catalog-fact"><strong>非本地年学费：</strong>2026/27非本地普通本科年学费港币214,000元；2026届以后年度调整上限3%。双校/双学位收费可能不同；本轮未取得2027新生完整收费表。</p>
+<p class="catalog-fact"><strong>非本地年学费：</strong>2026/27非本地普通本科年学费港币214,000元；2026入学届在读年度调价上限3%。双校/双学位收费可能不同；本轮未取得2027新生完整收费表。</p>
 <p class="fact-sources"><a href="#source-u-cuhk-policy-6">官方依据</a></p>
 
 <p class="catalog-fact"><strong>高考奖学金条件：</strong>2026奖学金最低资格为理工/物理630分，文史/历史/综合600分（以750满分），或所属应考组别全省前0.5%；另须英语130/150。须满足志愿及名额规则，最低资格不保证获奖；通常最多四年，续领年度GPA要求3.0。</p>
@@ -154,27 +171,158 @@ hide:
 
 ### 学校资料来源
 
-<div class="catalog-source" id="source-u-cuhk-policy-8"><div><a href="https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/regulation/">cuhk 官方本科资料：policy-8 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-cuhk-policy-10"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/">cuhk 官方本科资料：policy-10 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-cuhk-policy-13"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/">cuhk 官方本科资料：policy-13 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-cuhk-policy-6"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/">cuhk 官方本科资料：policy-6 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-cuhk-policy-9"><div><a href="https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/scholarship/">cuhk 官方本科资料：policy-9 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-policy-8"><div><a href="https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/regulation/">招生章程 - 香港中文大学本科招生 ↗</a><p>本页当前入学/申请/费用/奖学金正文；年度按事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-policy-10"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/">Requirements - CUHK Undergraduate Admissions ↗</a><p>本页当前入学/申请/费用/奖学金正文；年度按事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-policy-13"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/">Important Dates - CUHK Undergraduate Admissions ↗</a><p>本页当前入学/申请/费用/奖学金正文；年度按事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-policy-6"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/">FAQ - CUHK Undergraduate Admissions ↗</a><p>本页当前入学/申请/费用/奖学金正文；年度按事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-policy-9"><div><a href="https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/scholarship/">奖学金章程 - 香港中文大学本科招生 ↗</a><p>本页当前入学/申请/费用/奖学金正文；年度按事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-sup-international"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/">Requirements - CUHK Undergraduate Admissions ↗</a><p>资格总则及学院/学系分流标题</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-sup-science-declaration"><div><a href="https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/curriculum/major-declaration-for-science-students/">Major Declaration for SCIENCE Students | Faculty of Science, The Chinese University of Hong Kong ↗</a><p>资格总则及学院/学系分流标题</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-sup-social-declaration"><div><a href="https://socsc.cuhk.edu.hk/social-science-broad-based/current-student/major-declaration/">Major Declaration | Faculty of Social Science, The Chinese University of Hong Kong ↗</a><p>资格总则及学院/学系分流标题</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-sup-cse-allocation"><div><a href="https://www.cse.cuhk.edu.hk/academics/major-allocation/">Major Allocation (For CENGN &amp; CSCIN Only) – CUHK CSE ↗</a><p>资格总则及学院/学系分流标题</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-sup-international-faq"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/">FAQ - CUHK Undergraduate Admissions ↗</a><p>FAQ06；两个专业语言段落</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-sup-entry-gcomn"><div><a href="https://admission.cuhk.edu.hk/programme/gcomn/">Global Communication - CUHK Undergraduate Admissions ↗</a><p>FAQ06；两个专业语言段落</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-sup-entry-gpadn"><div><a href="https://admission.cuhk.edu.hk/programme/gpadn/">Government and Public Administration - CUHK Undergraduate Admissions ↗</a><p>FAQ06；两个专业语言段落</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 84 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 95 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
+<p><strong>统计范围：</strong>84官方一级入口＋11具名在读理学主修／双主修；非95个独立高中志愿</p>
 
-<p><strong>对账方法：</strong>[{&quot;faculty_tables&quot;: 8, &quot;rows&quot;: 99, &quot;pagination&quot;: &quot;All faculty accordions contain full rows in original DOM; no pager&quot;}]</p>
+<p><strong>对账方法：</strong>官方8学院99行去重84URL与原目录逐项一致；理学共同入口按9单主修与2不同第一主修双主修展开，不重复EESC。社科及CSE按实际申请身份和分流条件分别核验。</p>
 
 <p><strong>排除项：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
 
 **尚未解决的目录缺口：**
 
-- Broad-based Science, Social Science and Computer Science &amp; Engineering entries contain multiple majors; detailed pathways still need reconciliation.
-- Passport and senior-year restrictions are retained from row footnotes. Qualifications not inferred from English website.
+- 本批展开理学主修层及三类共同入口；生物学习套餐、物理/数学/统计/地理/社科内部concentrations、STARS、NSCI七个高级入学concentrations以及多项双主修/双学位尚未逐条配对，本包不宣称全校最末级全量。
+- 当前招生总目录及国际重要日期均仍为2026；2027完整新生资格、各省高考计划、收费及截止未取得。GLEF2027/28已公布的是校内转系。
+- GRMD/Urban有具届次的去向描述，但未取得分母、回复率、非本地子样本或薪资。其他营销比例不转成可比就业率。
 
 - [官方目录来源](https://admission.cuhk.edu.hk/programmes/list/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/anthn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/bmbln/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/chlln/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/chesb/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/engen/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/faasn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/histn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/jaspn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/lingn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/muscn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/philn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/histn-puh/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/puhsn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/relsn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/theon/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/trann/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/bajdn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/behmn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/ibbac-gbs/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/glefn/)
+- [官方目录来源](https://www.glef.cuhk.edu.hk/program-structure/study-scheme/)
+- [官方目录来源](https://www.glef.cuhk.edu.hk/site/assets/files/1816/glefn_eng_26_formatted.pdf)
+- [官方目录来源](https://www.glef.cuhk.edu.hk/admission/cuhk-applicants/)
+- [官方目录来源](https://admission.cuhk.edu.hk/fees-financing-your-studies/fees/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/htmgb/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/ifaab/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/ibbac/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/indan/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/paccn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/qfinn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/qfrmn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/cledn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/becen/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/chedn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/eledn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/eshen/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/hmshn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/ldten/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/bmedn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/peshn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/asein/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/aistn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/bmegn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/cdasn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/cengn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/bcsen/)
+- [官方目录来源](https://www.cse.cuhk.edu.hk/admission/cengn/)
+- [官方目录来源](https://www.cse.cuhk.edu.hk/academics/major-allocation/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/cscin/)
+- [官方目录来源](https://www.cse.cuhk.edu.hk/admission/cscin/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/elegn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/eeenn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/ftecn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/iergn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/masen/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/miegn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/maegn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/seemn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/lawsn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/list/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/dipln/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/medun-gps/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/medun/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/bmscn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/bcmen/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/chprn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/bscgb/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/nursn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/pharn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/phpcn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/eescn/)
+- [官方目录来源](https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/eesc/)
+- [官方目录来源](https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/curriculum/major-declaration-for-science-students/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/mathn/)
+- [官方目录来源](https://www.math.cuhk.edu.hk/student-centre/academic-advice/GenReq-Enrichment-2026-27)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/physn%e2%80%90erp/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/nscin/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/rmscn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/bscin/)
+- [官方目录来源](https://www.sci.cuhk.edu.hk/bsci/)
+- [官方目录来源](https://chem.cuhk.edu.hk/wp-content/uploads/DMP_BICH_Bio-Chem_2026-27.pdf)
+- [官方目录来源](https://chem.cuhk.edu.hk/wp-content/uploads/DMP_CHBI_Chem-Bio_2026-27.pdf)
+- [官方目录来源](https://www.sci.cuhk.edu.hk/wp-content/uploads/bich-declaration.pdf)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/archn/)
+- [官方目录来源](https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/01_BSSCN-Study-Scheme_2026-27.pdf)
+- [官方目录来源](https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/02_Faculty-Package_2026-27.pdf)
+- [官方目录来源](https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/03_Notes-on-Major-Declaration-2026-27_Broad-based.pdf)
+- [官方目录来源](https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/04_Notes-on-Major-Declaration-2026-27_Gaokao.pdf)
+- [官方目录来源](https://socsc.cuhk.edu.hk/social-science-broad-based/current-student/major-declaration/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/dspsn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/econn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/ecotu/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/gdrsn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/grmdn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/gcomn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/glsdn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/gpadn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/commn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/psycn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/bsscn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/sowkn/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/socin-ssd/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/socin/)
+- [官方目录来源](https://admission.cuhk.edu.hk/programme/urspn/)
+- [官方目录来源](https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/bche/)
+- [官方目录来源](https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/Handbook/view_document.aspx?id=1765&seq=1&lang=en)
+- [官方目录来源](https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/)
+- [官方目录来源](https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/scholarships/)
+- [官方目录来源](https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/biol/)
+- [官方目录来源](https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/cmbi/)
+- [官方目录来源](https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/chem/)
+- [官方目录来源](https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/fnsc/)
+- [官方目录来源](https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/math/)
+- [官方目录来源](https://www.math.cuhk.edu.hk/student-centre/academic-advice/MathsReq-BBScience-2026-27)
+- [官方目录来源](https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/mbte/)
+- [官方目录来源](https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/phys/)
+- [官方目录来源](https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/stat/)
+- [官方目录来源](https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/bich/)
+- [官方目录来源](https://chem.cuhk.edu.hk/undergraduate/curriculum/dmbc/)
+- [官方目录来源](https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/regulation/)
+- [官方目录来源](https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/)
+- [官方目录来源](https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/scholarship/)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

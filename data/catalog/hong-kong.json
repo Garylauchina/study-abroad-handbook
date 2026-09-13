@@ -606,7 +606,7 @@
       "duration": "4 年",
       "campus": "沙田校区（香港新界）",
       "language": "英语／中文（具体课程须核对）",
-      "entry_summary": "2026：高考工科类，英语≥120/150；首年CSE后按规定分流CS",
+      "entry_summary": "2026高中先入BCSEN；首年后依课程注册、成绩与容量分流",
       "tuition_summary": "2026/27非本地首年：HK$214,000",
       "outcomes_summary": "已核实职业方向；本专业就业率、薪酬及升学率的可靠统计待补",
       "sections": {
@@ -691,6 +691,20 @@
             "source_ids": [
               "cuhk-computer-science-bsc-cuhk-ib"
             ]
+          },
+          {
+            "label": "本地高年级与国际新生区分",
+            "text": "独立高年级途径供本地副学位/高级文凭申请人，系页通常期望整体GPA至少3.0及大学语言条件；不能套用于大陆非本地高中生。后者先进入BCSEN，再参加学系主修分配。",
+            "source_ids": [
+              "cuhk-sup-computer-science"
+            ]
+          },
+          {
+            "label": "BCSEN分流资格与优先规则",
+            "text": "本地及国际新生（本地senior-year除外）先入BCSEN。分流时须已正式注册ENGG1110/ESTR1002、ENGG1111、ENGG1120/ESTR1005、ENGG1125/ESTR1007（获豁免课程除外），适用的学业察看须在第二学期末解除。符合指定HKDSE组合，或入学持可续期学费奖学金者，另须年末CGPA至少3.0方获第一志愿保证；其他合资格者依志愿与容量分配。",
+            "source_ids": [
+              "cuhk-sup-cse-allocation"
+            ]
           }
         ],
         "applications": [
@@ -716,6 +730,13 @@
             "source_ids": [
               "cuhk-computer-science-bsc-cuhk-ias-dates",
               "cuhk-computer-science-bsc-cuhk-ias-req"
+            ]
+          },
+          {
+            "label": "在读主修选择与逾期",
+            "text": "常规分流在一年级第二学期结束后办理，网页列3月填志愿、6月分配、7月提交结果、8月更新CUSIS。未提交志愿者按CGPA和余额最后处理，不接受迟交；这是年度在读流程，2027新生入学窗口仍待核。",
+            "source_ids": [
+              "cuhk-sup-cse-allocation"
             ]
           }
         ],
@@ -747,6 +768,20 @@
             "text": "大学FAQ说明录取的全日制本科生自动获入学奖学金考虑，无须另填申请，以学业表现等择优；本轮未取得本专业国际资格新生统一奖金额和续领门槛，须以个别奖励通知为准。",
             "source_ids": [
               "cuhk-computer-science-bsc-cuhk-faq"
+            ]
+          },
+          {
+            "label": "本地高年级与完整本科收费分别核对",
+            "text": "本轮学系资料确认该独立高级入学入口面向本地申请者；对应高年级收费尚未取得。本页非本地普通年费仅供经BCSEN共同入口修读完整本科学位者参考，不作为该本地高年级入口的非本地报价。",
+            "source_ids": [
+              "cuhk-sup-computer-science"
+            ]
+          },
+          {
+            "label": "2026/27保证金",
+            "text": "非本地本科另收港币450元保证金；此项与年学费分列，不能当作本主修另收一份学费。",
+            "source_ids": [
+              "cuhk-sup-fees"
             ]
           }
         ],
@@ -859,9 +894,36 @@
           "url": "https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/fees/",
           "checked_at": "2026-09-12",
           "supports": "2026–27非本地首年学费HK214000及后续年度调整上限3%"
+        },
+        {
+          "id": "cuhk-sup-computer-science",
+          "title": "B.Sc. in Computer Science (CSCIN) – CUHK CSE",
+          "url": "https://www.cse.cuhk.edu.hk/admission/cscin/",
+          "checked_at": "2026-09-13",
+          "supports": "学位标题与Curriculum/Overview；共同入口4Years",
+          "locator": "学位标题与Curriculum/Overview；共同入口4Years",
+          "sha256": "7e7c804ca313bedf98dc0c3a23e21731a550a03ccf787b5f07d94fcb58ac80a4"
+        },
+        {
+          "id": "cuhk-sup-fees",
+          "title": "Fees - CUHK Undergraduate Admissions",
+          "url": "https://admission.cuhk.edu.hk/fees-financing-your-studies/fees/",
+          "checked_at": "2026-09-13",
+          "supports": "Non-Local Students 及星号脚注",
+          "locator": "Non-Local Students 及星号脚注",
+          "sha256": "16ebe3436305593916559cd974bf4369758fa623ee5fe1aef3094ea717a0a2d5"
+        },
+        {
+          "id": "cuhk-sup-cse-allocation",
+          "title": "Major Allocation (For CENGN & CSCIN Only) – CUHK CSE",
+          "url": "https://www.cse.cuhk.edu.hk/academics/major-allocation/",
+          "checked_at": "2026-09-13",
+          "supports": "Eligibility；PriorityAllocation(i)(ii)及#",
+          "locator": "Eligibility；PriorityAllocation(i)(ii)及#",
+          "sha256": "f44f29bbadb1087e805c8b423be51bf6de5a0f2473430add8b893b0433f049ea"
         }
       ],
-      "checked_at": "2026-09-12"
+      "checked_at": "2026-09-13"
     },
     {
       "id": "cuhk-economics-bssc",
@@ -874,7 +936,7 @@
       "duration": "4 年",
       "campus": "沙田校区（香港新界）",
       "language": "英语／中文（具体课程须核对）",
-      "entry_summary": "2026：高考人文类，英语≥120/150；国际资格另行申请",
+      "entry_summary": "2026高考可选经济学；经社科大类分流须第二学期学期GPA至少2.0",
       "tuition_summary": "2026/27非本地首年：HK$214,000",
       "outcomes_summary": "已核实职业方向；本专业就业率、薪酬及升学率的可靠统计待补",
       "sections": {
@@ -905,6 +967,21 @@
             "text": "大学实行中英双语教学，具体科目可用中文、英文或两者。国际招生FAQ说明有足够英语课程供国际生修读；本轮未取得本专业全部必修课逐门语种清单，不能确认全程全英文。",
             "source_ids": [
               "cuhk-economics-bssc-cuhk-faq"
+            ]
+          },
+          {
+            "label": "具体课程与训练",
+            "text": "以经济理论、统计和数据工具分析政策、市场与金融问题，可在经济理论、金融经济、商业经济、中国经济、数据分析五方向中最多选两项。",
+            "source_ids": [
+              "cuhk-sup-entry-econn"
+            ]
+          },
+          {
+            "label": "2026级社科大类课程量",
+            "text": "2026级社科大类课程表中，本主修共72学分：学院基础9、必修27、选修36；一般学位合计至少123学分。该表适用于所列大类路径，不替代个人豁免决定。学院基础须含ECON2011（基础微观经济学）并按规定另选不同学科两门。",
+            "source_ids": [
+              "cuhk-sup-social-scheme-2026",
+              "cuhk-sup-social-package-2026"
             ]
           }
         ],
@@ -952,6 +1029,14 @@
               "cuhk-economics-bssc-cuhk-econ-faq",
               "cuhk-economics-bssc-cuhk-ib"
             ]
+          },
+          {
+            "label": "2026级共同入口分流条件",
+            "text": "2026级经社会科学大类的学生须一年级第二学期学期GPA至少2.0才可申报。本次2026/27分流文件未为此主修另列额外准入条件；仍须满足所修课程及毕业规定。",
+            "source_ids": [
+              "cuhk-sup-social-declaration-broad",
+              "cuhk-sup-social-declaration-gaokao"
+            ]
           }
         ],
         "applications": [
@@ -977,6 +1062,13 @@
             "source_ids": [
               "cuhk-economics-bssc-cuhk-ias-dates",
               "cuhk-economics-bssc-cuhk-ias-req"
+            ]
+          },
+          {
+            "label": "2026级分流周期",
+            "text": "2026入学大类学生在2027年6月按学院指定平台和时间申报；具体日期和系统届时开放。2027新生国际申请完整日历本轮未取得，不能把该在读日期当作高中申请截止。",
+            "source_ids": [
+              "cuhk-sup-social-declaration"
             ]
           }
         ],
@@ -1008,6 +1100,14 @@
             "text": "大学FAQ说明录取的全日制本科生自动获入学奖学金考虑，无须另填申请，以学业表现等择优；本轮未取得本专业国际资格新生统一奖金额和续领门槛，须以个别奖励通知为准。",
             "source_ids": [
               "cuhk-economics-bssc-cuhk-faq"
+            ]
+          },
+          {
+            "label": "2026/27保证金",
+            "text": "非本地本科另收港币450元保证金；此项与年学费分列，不能当作本主修另收一份学费。",
+            "source_ids": [
+              "cuhk-policy-6",
+              "cuhk-sup-fees"
             ]
           }
         ],
@@ -1126,9 +1226,82 @@
           "url": "https://admission.econ.cuhk.edu.hk/ug/bssc-economics/career-prospect/",
           "checked_at": "2026-09-12",
           "supports": "银行金融、政府监管、教育和深造等方向；网页百分比缺统计年份和分母，未采用"
+        },
+        {
+          "id": "cuhk-sup-social-scheme-2026",
+          "title": "social-scheme-2026",
+          "url": "https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/01_BSSCN-Study-Scheme_2026-27.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "2026普通大类表第1页对应列；FacultyPackage对应主修及CourseList",
+          "locator": "2026普通大类表第1页对应列；FacultyPackage对应主修及CourseList",
+          "sha256": "e8450623ce4cb4e7e776ef193c8d8ec06f3d391f22dcf80d57717c52617937ec"
+        },
+        {
+          "id": "cuhk-sup-social-declaration-broad",
+          "title": "social-declaration-broad",
+          "url": "https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/03_Notes-on-Major-Declaration-2026-27_Broad-based.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "条1、3及相应主修段落",
+          "locator": "条1、3及相应主修段落",
+          "sha256": "3d526def339eb67ad6d6ab96b953ecc05f82d12d84150a35045a654f1f7f7a7e"
+        },
+        {
+          "id": "cuhk-sup-social-declaration",
+          "title": "Major Declaration | Faculty of Social Science, The Chinese University of Hong Kong",
+          "url": "https://socsc.cuhk.edu.hk/social-science-broad-based/current-student/major-declaration/",
+          "checked_at": "2026-09-13",
+          "supports": "For students admitted in2026；June2027",
+          "locator": "For students admitted in2026；June2027",
+          "sha256": "3a6b0c3843c554a5793d92416eb1ac081343c523b2bde67929402b02408f21ed"
+        },
+        {
+          "id": "cuhk-sup-social-package-2026",
+          "title": "social-package-2026",
+          "url": "https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/02_Faculty-Package_2026-27.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "2026普通大类表第1页对应列；FacultyPackage对应主修及CourseList",
+          "locator": "2026普通大类表第1页对应列；FacultyPackage对应主修及CourseList",
+          "sha256": "564bc61ce0d8814a63c53a147f9779dfdebd26d5fb59add65900ac7c823e86de"
+        },
+        {
+          "id": "cuhk-sup-fees",
+          "title": "Fees - CUHK Undergraduate Admissions",
+          "url": "https://admission.cuhk.edu.hk/fees-financing-your-studies/fees/",
+          "checked_at": "2026-09-13",
+          "supports": "Non-Local Students 及星号脚注",
+          "locator": "Non-Local Students 及星号脚注",
+          "sha256": "16ebe3436305593916559cd974bf4369758fa623ee5fe1aef3094ea717a0a2d5"
+        },
+        {
+          "id": "cuhk-sup-social-declaration-gaokao",
+          "title": "social-declaration-gaokao",
+          "url": "https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/04_Notes-on-Major-Declaration-2026-27_Gaokao.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "条1、3及相应主修段落",
+          "locator": "条1、3及相应主修段落",
+          "sha256": "47e39358aae9667e20de9dcfd5fc20b45f96e724c6d41013c429d899865188a6"
+        },
+        {
+          "id": "cuhk-policy-6",
+          "title": "cuhk 官方本科资料：policy-6",
+          "url": "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "618f4d507b9f59ad6824f158f69349275a246df380169410db5776a1e4658590",
+          "sha256": "618f4d507b9f59ad6824f158f69349275a246df380169410db5776a1e4658590",
+          "locator": "原批次已核课程／政策正文，保留有效事实"
+        },
+        {
+          "id": "cuhk-sup-entry-econn",
+          "title": "Economics - CUHK Undergraduate Admissions",
+          "url": "https://admission.cuhk.edu.hk/programme/econn/",
+          "checked_at": "2026-09-13",
+          "supports": "Programme Introduction/Craft Your Path",
+          "locator": "Programme Introduction/Craft Your Path",
+          "sha256": "1ffc1a23220037e71b27256f9abc48af3f094a9ffe076b671b7c9dfe488fa296"
         }
       ],
-      "checked_at": "2026-09-12"
+      "checked_at": "2026-09-13"
     }
   ]
 }

@@ -47,6 +47,16 @@ hide:
 <p class="catalog-fact">大学实行中英双语教学，具体科目可用中文、英文或两者。国际招生FAQ说明有足够英语课程供国际生修读；本轮未取得本专业全部必修课逐门语种清单，不能确认全程全英文。</p>
 <p class="fact-sources"><a href="#source-cuhk-economics-bssc-cuhk-faq">依据 3</a></p>
 
+### 具体课程与训练
+
+<p class="catalog-fact">以经济理论、统计和数据工具分析政策、市场与金融问题，可在经济理论、金融经济、商业经济、中国经济、数据分析五方向中最多选两项。</p>
+<p class="fact-sources"><a href="#source-cuhk-sup-entry-econn">依据 22</a></p>
+
+### 2026级社科大类课程量
+
+<p class="catalog-fact">2026级社科大类课程表中，本主修共72学分：学院基础9、必修27、选修36；一般学位合计至少123学分。该表适用于所列大类路径，不替代个人豁免决定。学院基础须含ECON2011（基础微观经济学）并按规定另选不同学科两门。</p>
+<p class="fact-sources"><a href="#source-cuhk-sup-social-scheme-2026">依据 15</a> · <a href="#source-cuhk-sup-social-package-2026">依据 18</a></p>
+
 ## 入学条件 {#admissions}
 
 ### 高考招生类别与选科
@@ -79,6 +89,11 @@ hide:
 <p class="catalog-fact">学系FAQ说明高中未读经济学也可申请。2026 IB偏好表列数学或物理（SL／HL）的良好成绩；该表为偏好科目而非公布的保证录取门槛，本轮未取得本专业A-Level或IB具体竞争成绩线。</p>
 <p class="fact-sources"><a href="#source-cuhk-economics-bssc-cuhk-econ-faq">依据 8</a> · <a href="#source-cuhk-economics-bssc-cuhk-ib">依据 9</a></p>
 
+### 2026级共同入口分流条件
+
+<p class="catalog-fact">2026级经社会科学大类的学生须一年级第二学期学期GPA至少2.0才可申报。本次2026/27分流文件未为此主修另列额外准入条件；仍须满足所修课程及毕业规定。</p>
+<p class="fact-sources"><a href="#source-cuhk-sup-social-declaration-broad">依据 16</a> · <a href="#source-cuhk-sup-social-declaration-gaokao">依据 20</a></p>
+
 ## 申请安排 {#applications}
 
 ### 大陆高考申请入口
@@ -95,6 +110,11 @@ hide:
 
 <p class="catalog-fact">经海外／其他学历非本地网上申请。2026入学提前轮截止2025年11月13日、常规轮2026年1月8日，延长截止2026年5月29日；首学期2026年9月上旬开始。截至2026-09-12该周期已结束，2027日期本轮未取得。</p>
 <p class="fact-sources"><a href="#source-cuhk-economics-bssc-cuhk-ias-dates">依据 12</a> · <a href="#source-cuhk-economics-bssc-cuhk-ias-req">依据 7</a></p>
+
+### 2026级分流周期
+
+<p class="catalog-fact">2026入学大类学生在2027年6月按学院指定平台和时间申报；具体日期和系统届时开放。2027新生国际申请完整日历本轮未取得，不能把该在读日期当作高中申请截止。</p>
+<p class="fact-sources"><a href="#source-cuhk-sup-social-declaration">依据 17</a></p>
 
 ## 学费与资助 {#fees}
 
@@ -118,6 +138,11 @@ hide:
 <p class="catalog-fact">大学FAQ说明录取的全日制本科生自动获入学奖学金考虑，无须另填申请，以学业表现等择优；本轮未取得本专业国际资格新生统一奖金额和续领门槛，须以个别奖励通知为准。</p>
 <p class="fact-sources"><a href="#source-cuhk-economics-bssc-cuhk-faq">依据 3</a></p>
 
+### 2026/27保证金
+
+<p class="catalog-fact">非本地本科另收港币450元保证金；此项与年学费分列，不能当作本主修另收一份学费。</p>
+<p class="fact-sources"><a href="#source-cuhk-policy-6">依据 21</a> · <a href="#source-cuhk-sup-fees">依据 19</a></p>
+
 ## 毕业生情况 {#outcomes}
 
 ### 已核实的职业方向
@@ -132,7 +157,7 @@ hide:
 
 ## 官方来源与核验记录 {#sources}
 
-资料核验：**2026-09-12**。课程招生年份与毕业调查年份分别记录；历史毕业结果不表示未来个人结果。
+资料核验：**2026-09-13**。课程招生年份与毕业调查年份分别记录；历史毕业结果不表示未来个人结果。
 
 <div class="catalog-source" id="source-cuhk-economics-bssc-cuhk-econ"><span class="source-number">01</span><div><a href="https://admission.econ.cuhk.edu.hk/ug/bssc-economics/programme-structure/curriculum/">香港中文大学经济学社会科学学士课程结构 ↗</a><p>ECONN四年、123学分、72主修学分、荣誉社会科学学士及2026–27课程入口</p><small>admission.econ.cuhk.edu.hk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-cuhk-economics-bssc-cuhk-econ-contact"><span class="source-number">02</span><div><a href="https://admission.econ.cuhk.edu.hk/ug/contact-us/">香港中文大学经济学系联系地址 ↗</a><p>沙田校区利黄瑶璧楼</p><small>admission.econ.cuhk.edu.hk · 核验 2026-09-12</small></div></div>
@@ -148,5 +173,13 @@ hide:
 <div class="catalog-source" id="source-cuhk-economics-bssc-cuhk-ias-dates"><span class="source-number">12</span><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/">香港中文大学2026国际生申请日期 ↗</a><p>2026提前、常规及延长截止、2026年9月教学开始</p><small>admission.cuhk.edu.hk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-cuhk-economics-bssc-cuhk-fee"><span class="source-number">13</span><div><a href="https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/fees/">香港中文大学内地高考生学费及住宿费 ↗</a><p>2026–27非本地首年学费HK214000及后续年度调整上限3%</p><small>admission.cuhk.edu.hk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-cuhk-economics-bssc-cuhk-econ-career"><span class="source-number">14</span><div><a href="https://admission.econ.cuhk.edu.hk/ug/bssc-economics/career-prospect/">香港中文大学经济学本科职业方向 ↗</a><p>银行金融、政府监管、教育和深造等方向；网页百分比缺统计年份和分母，未采用</p><small>admission.econ.cuhk.edu.hk · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-cuhk-sup-social-scheme-2026"><span class="source-number">15</span><div><a href="https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/01_BSSCN-Study-Scheme_2026-27.pdf">social-scheme-2026 ↗</a><p>2026普通大类表第1页对应列；FacultyPackage对应主修及CourseList</p><small>socsc.cuhk.edu.hk · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-cuhk-sup-social-declaration-broad"><span class="source-number">16</span><div><a href="https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/03_Notes-on-Major-Declaration-2026-27_Broad-based.pdf">social-declaration-broad ↗</a><p>条1、3及相应主修段落</p><small>socsc.cuhk.edu.hk · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-cuhk-sup-social-declaration"><span class="source-number">17</span><div><a href="https://socsc.cuhk.edu.hk/social-science-broad-based/current-student/major-declaration/">Major Declaration | Faculty of Social Science, The Chinese University of Hong Kong ↗</a><p>For students admitted in2026；June2027</p><small>socsc.cuhk.edu.hk · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-cuhk-sup-social-package-2026"><span class="source-number">18</span><div><a href="https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/02_Faculty-Package_2026-27.pdf">social-package-2026 ↗</a><p>2026普通大类表第1页对应列；FacultyPackage对应主修及CourseList</p><small>socsc.cuhk.edu.hk · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-cuhk-sup-fees"><span class="source-number">19</span><div><a href="https://admission.cuhk.edu.hk/fees-financing-your-studies/fees/">Fees - CUHK Undergraduate Admissions ↗</a><p>Non-Local Students 及星号脚注</p><small>admission.cuhk.edu.hk · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-cuhk-sup-social-declaration-gaokao"><span class="source-number">20</span><div><a href="https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/04_Notes-on-Major-Declaration-2026-27_Gaokao.pdf">social-declaration-gaokao ↗</a><p>条1、3及相应主修段落</p><small>socsc.cuhk.edu.hk · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-cuhk-policy-6"><span class="source-number">21</span><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/">cuhk 官方本科资料：policy-6 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>admission.cuhk.edu.hk · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-cuhk-sup-entry-econn"><span class="source-number">22</span><div><a href="https://admission.cuhk.edu.hk/programme/econn/">Economics - CUHK Undergraduate Admissions ↗</a><p>Programme Introduction/Craft Your Path</p><small>admission.cuhk.edu.hk · 核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/">← 返回香港中文大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

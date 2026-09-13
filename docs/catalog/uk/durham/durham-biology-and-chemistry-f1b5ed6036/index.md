@@ -36,7 +36,7 @@ hide:
 
 <p><strong>目录适用期：</strong>current course search; 2027 selected where explicitly included, other years retained if no 2027 date</p>
 
-<p><strong>申请路径：</strong>undergraduate; detailed entry route not yet verified</p>
+<p><strong>申请路径：</strong>高考总分参考80%；指定科目、英语及额外考核另核</p>
 
 <p><strong>目录状态：</strong>listed_current</p>
 
@@ -65,6 +65,9 @@ hide:
 
 <p class="catalog-fact"><strong>课程英语：</strong>所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。</p>
 <p class="fact-sources"><a href="#source-p-DUR-8e16d58ea321e391">官方依据</a> · <a href="#source-p-DUR-c601e145c79550bf">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027新生A-level实验考核适用范围：</strong>若所修理科A-level含实践考核，须参加并通过该部分。官网明确此条仅适用于英格兰考试局的A-level考生；不据此认定中国高考、IB或其他考试须另参加同一实践考核，也不是本路线在读转入时重新参加高中考试的要求。</p>
+<p class="fact-sources"><a href="#source-p-DUR-240ca47eb483d67a">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -137,7 +140,7 @@ hide:
 - [官方项目页面或项目所在目录](https://www.durham.ac.uk/study/courses/biology-and-chemistry-cf11/)
 - [官方目录](https://dur.ac.uk/search/?searchstax[query]=*&searchstax[page]=1&searchstax[facets][0]=tabs:sectiontype_ss:course&searchstax[model]=main%20site)
 
-<div class="catalog-source" id="source-p-DUR-240ca47eb483d67a"><div><a href="https://www.durham.ac.uk/study/courses/biology-and-chemistry-cf11/">Biology and Chemistry CF11 - Durham University ↗</a><p>课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-DUR-240ca47eb483d67a"><div><a href="https://www.durham.ac.uk/study/courses/biology-and-chemistry-cf11/">Biology and Chemistry CF11 - Durham University ↗</a><p>课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向；General requirements中的英格兰考试局A-level实验考核适用条件</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-DUR-970b6f63932e8825"><div><a href="https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/">Programme Info - Durham University ↗</a><p>校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-DUR-6312d45d1af6e8b2"><div><a href="https://www.durham.ac.uk/study/undergraduate/">Undergraduate - Durham University ↗</a><p>大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-DUR-fa72b907f382d619"><div><a href="https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/">Philosophy, Politics and Economics VL52 - Durham University ↗</a><p>2027课程页China栏目所列学校资格换算；具体专业需另核</p><small>核验 2026-09-13</small></div></div>

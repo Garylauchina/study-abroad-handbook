@@ -36,7 +36,7 @@ hide:
 
 <p><strong>目录适用期：</strong>current course search; 2027 selected where explicitly included, other years retained if no 2027 date</p>
 
-<p><strong>申请路径：</strong>undergraduate; detailed entry route not yet verified</p>
+<p><strong>申请路径：</strong>高考总分参考80%；指定科目、英语及额外考核另核</p>
 
 <p><strong>目录状态：</strong>listed_current</p>
 
@@ -52,6 +52,9 @@ hide:
 <p class="catalog-fact"><strong>大学所在地：</strong>本科官网说明大学位于英国杜伦市；具体教学楼及校外、海外阶段按课程安排确认。</p>
 <p class="fact-sources"><a href="#source-p-DUR-6312d45d1af6e8b2">官方依据</a></p>
 
+<p class="catalog-fact"><strong>首次招生年度：</strong>2026/27规章对CF17及海外／实习版本明确标注首次入学2027/28。2027课程入口与未来在读转换分开；2022/23历史毕业调查不可能是这个首次招生版本本身的毕业生。</p>
+<p class="fact-sources"><a href="#source-p-DURMNP-81811be8ecb481a7">官方依据</a> · <a href="#source-p-DUR-1e890a08f6772d3d">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 <p class="catalog-fact"><strong>专业标准及科目：</strong>2027标准A-level：A*AA。生物、化学或人体生物学之一须A，再加一门理科；心理、数学和地理也计理科。</p>
@@ -65,6 +68,12 @@ hide:
 
 <p class="catalog-fact"><strong>课程英语：</strong>所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。</p>
 <p class="fact-sources"><a href="#source-p-DUR-8e16d58ea321e391">官方依据</a> · <a href="#source-p-DUR-c601e145c79550bf">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027新生GCSE数学要求：</strong>课程UK条件另要求GCSE Mathematics达到Grade 5（官网同时写grade B）或等值。中国学历如何满足该等值须向招生方确认，不能用IELTS替代数学资格，也不把它当在读转入时重新参加GCSE的要求。</p>
+<p class="fact-sources"><a href="#source-p-DUR-1e890a08f6772d3d">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027新生A-level实验考核适用范围：</strong>若所修理科A-level含实践考核，须参加并通过该部分。官网明确此条仅适用于英格兰考试局的A-level考生；不据此认定中国高考、IB或其他考试须另参加同一实践考核，也不是本路线在读转入时重新参加高中考试的要求。</p>
+<p class="fact-sources"><a href="#source-p-DUR-1e890a08f6772d3d">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -117,8 +126,8 @@ hide:
 
 ## 毕业生情况 {#outcomes}
 
-<p class="catalog-fact"><strong>历史毕业调查及范围：</strong>课程页引用HESA 2022/23届英国／欧盟及国际毕业生、毕业15个月数据：就业或继续学习89%，平均薪资£34,400（英镑）。本UCAS独立样本量及中国籍分组未注明。</p>
-<p class="fact-sources"><a href="#source-p-DUR-1e890a08f6772d3d">官方依据</a></p>
+<p class="catalog-fact"><strong>网页所引历史群体（非2027首届本项目）：</strong>此课程首次入学为2027/28；网页另引用HESA 2022/23英国／欧盟及国际毕业生、毕业15个月的历史群体，就业或继续学习89%、平均薪资£34,400。该旧届数据不能代表新CF17毕业生；本轮未取得它对应的完整专业分组、分母或中国籍单列样本。</p>
+<p class="fact-sources"><a href="#source-p-DUR-1e890a08f6772d3d">官方依据</a> · <a href="#source-p-DURMNP-81811be8ecb481a7">官方依据</a></p>
 
 <p class="catalog-fact"><strong>课程页职业举例：</strong>学科职业介绍涉及软件、数据科学、银行金融、会计等方向，不是录用比例。</p>
 <p class="fact-sources"><a href="#source-p-DUR-1e890a08f6772d3d">官方依据</a></p>
@@ -137,7 +146,7 @@ hide:
 - [官方项目页面或项目所在目录](https://www.durham.ac.uk/study/courses/biology-and-psychology-cf17/)
 - [官方目录](https://dur.ac.uk/search/?searchstax[query]=*&searchstax[page]=1&searchstax[facets][0]=tabs:sectiontype_ss:course&searchstax[model]=main%20site)
 
-<div class="catalog-source" id="source-p-DUR-1e890a08f6772d3d"><div><a href="https://www.durham.ac.uk/study/courses/biology-and-psychology-cf17/">Biology and Psychology CF17 - Durham University ↗</a><p>课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-DUR-1e890a08f6772d3d"><div><a href="https://www.durham.ac.uk/study/courses/biology-and-psychology-cf17/">Biology and Psychology CF17 - Durham University ↗</a><p>课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向；General requirements中的英格兰考试局A-level实验考核适用条件</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-DUR-970b6f63932e8825"><div><a href="https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/">Programme Info - Durham University ↗</a><p>校级交换项目页明确杜伦采用英语教学；不套用交换生入学豁免</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-DUR-6312d45d1af6e8b2"><div><a href="https://www.durham.ac.uk/study/undergraduate/">Undergraduate - Durham University ↗</a><p>大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-DUR-fa72b907f382d619"><div><a href="https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/">Philosophy, Politics and Economics VL52 - Durham University ↗</a><p>2027课程页China栏目所列学校资格换算；具体专业需另核</p><small>核验 2026-09-13</small></div></div>
@@ -146,6 +155,7 @@ hide:
 <div class="catalog-source" id="source-p-DUR-8328a7e36cb0b348"><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">ucas-2027 ↗</a><p>2027年1月13日18:00英国时间平等审理截止</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-DUR-53ba6a5c16c6ba54"><div><a href="https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/">Tuition Fees - Durham University ↗</a><p>国际学费首年口径、后年上涨与通知政策</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-DUR-5b5c241bb25f9cb2"><div><a href="https://www.durham.ac.uk/study/scholarships/international/">International - Durham University ↗</a><p>2026/27奖学金及本硕博适用群体</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-DURMNP-81811be8ecb481a7"><div><a href="https://apps.dur.ac.uk/faculty.handbook/2026/UG/programme/CF19">Durham BSc Biology and Psychology with Placement Year [First intake 2027-28] regulations 2026/27 ↗</a><p>此具名在读路线的课程学分、当前届别、升读、外出注册与完成边界；不将内部代码视为2027独立UCAS入口</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-DUR-fa72b907f382d619"><div><a href="https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/">Philosophy, Politics and Economics VL52 - Durham University ↗</a><p>2027课程页China栏目所列学校资格换算；具体专业需另核</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-DUR-dd0424611640cdba"><div><a href="https://www.durham.ac.uk/departments/centres/academic-development/study/foundation/eligibility/">Eligibility - Durham University ↗</a><p>英国Foundation申请身份及一般学术资格</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-DUR-6312d45d1af6e8b2"><div><a href="https://www.durham.ac.uk/study/undergraduate/">Undergraduate - Durham University ↗</a><p>大学本科页说明杜伦市所在地、2023/24全校毕业数据与国际预科区别</p><small>核验 2026-09-13</small></div></div>

@@ -36,7 +36,7 @@ hide:
 
 <p><strong>目录适用期：</strong>current course search; 2027 selected where explicitly included, other years retained if no 2027 date</p>
 
-<p><strong>申请路径：</strong>undergraduate; detailed entry route not yet verified</p>
+<p><strong>申请路径：</strong>高考总分参考76%；指定科目、英语及额外考核另核</p>
 
 <p><strong>目录状态：</strong>listed_current</p>
 
@@ -65,6 +65,9 @@ hide:
 
 <p class="catalog-fact"><strong>课程英语：</strong>所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。</p>
 <p class="fact-sources"><a href="#source-p-DUR-8e16d58ea321e391">官方依据</a> · <a href="#source-p-DUR-c601e145c79550bf">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027 GCSE科目要求：</strong>2027新生招生页另要求数学GCSE至少5级或旧B级／认可等同资格；4级或旧C级是符合contextual offer者的另定条件，不能普遍套用。本轮未核实中国学校成绩的对应认定。</p>
+<p class="fact-sources"><a href="#source-p-DUR-5d092b391be30dd8">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 

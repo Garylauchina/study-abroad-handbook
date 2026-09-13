@@ -67,6 +67,12 @@ hide:
 <p class="catalog-fact"><strong>英语与2027更新范围：</strong>当前本科英语最低IELTS Academic总分6.0。TOEFL页明确2026入学参考：旧制80；2026年1月21日起考试4.5/6或80/120，2027及以后待复核。接受其他学历替代；线上版/单项重考等限制须按原页。</p>
 <p class="fact-sources"><a href="#source-u-cuhk-policy-10">官方依据</a></p>
 
+<p class="catalog-fact"><strong>在读分流与高中申请分开：</strong>理学、社科及CSE共同入口的申报规则按入学届次和学生身份区分；2026级在2027/2028年分流的日期不能当作2027高中申请窗口。高考应届生不得使用国际学历通道代替统招。</p>
+<p class="fact-sources"><a href="#source-u-cuhk-sup-international">官方依据</a> · <a href="#source-u-cuhk-sup-science-declaration">官方依据</a> · <a href="#source-u-cuhk-sup-social-declaration">官方依据</a> · <a href="#source-u-cuhk-sup-cse-allocation">官方依据</a></p>
+
+<p class="catalog-fact"><strong>授课语言不能一概写英语：</strong>大学FAQ说明课程采用中文、英语或两者；国际生可选英语课程，但这不保证每个主修全部课程为英语。全球传播必修课英语、政治与行政学英语及粤语等具体说明优先于校级概括。</p>
+<p class="fact-sources"><a href="#source-u-cuhk-sup-international-faq">官方依据</a> · <a href="#source-u-cuhk-sup-entry-gcomn">官方依据</a> · <a href="#source-u-cuhk-sup-entry-gpadn">官方依据</a></p>
+
 </details>
 
 ## 申请安排 {#applications}
@@ -91,7 +97,7 @@ hide:
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
-<p class="catalog-fact"><strong>非本地年学费：</strong>2026/27非本地普通本科年学费港币214,000元；2026届以后年度调整上限3%。双校/双学位收费可能不同；本轮未取得2027新生完整收费表。</p>
+<p class="catalog-fact"><strong>非本地年学费：</strong>2026/27非本地普通本科年学费港币214,000元；2026入学届在读年度调价上限3%。双校/双学位收费可能不同；本轮未取得2027新生完整收费表。</p>
 <p class="fact-sources"><a href="#source-u-cuhk-policy-6">官方依据</a></p>
 
 <p class="catalog-fact"><strong>高考奖学金条件：</strong>2026奖学金最低资格为理工/物理630分，文史/历史/综合600分（以750满分），或所属应考组别全省前0.5%；另须英语130/150。须满足志愿及名额规则，最低资格不保证获奖；通常最多四年，续领年度GPA要求3.0。</p>
@@ -116,7 +122,7 @@ hide:
 
 ## 官方来源与核验记录 {#sources}
 
-目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
+目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
 
 - [官方项目页面或项目所在目录](https://admission.cuhk.edu.hk/programme/histn/)
 - [官方目录](https://admission.cuhk.edu.hk/programmes/list/)
@@ -124,10 +130,17 @@ hide:
 <div class="catalog-source" id="source-p-cuhk-detail-0ea6636bf64547fa969d"><div><a href="https://admission.cuhk.edu.hk/programme/histn/">cuhk 官方本科资料：detail-0ea6636bf64547fa969d ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-cuhk-route-directory"><div><a href="https://admission.cuhk.edu.hk/programmes/list/">CUHK 2026本科课程及申请路线一览 ↗</a><p>申请类别、资格限制与条目身份</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-p-cuhk-policy-6"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/">cuhk 官方本科资料：policy-6 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-cuhk-policy-8"><div><a href="https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/regulation/">cuhk 官方本科资料：policy-8 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-cuhk-policy-10"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/">cuhk 官方本科资料：policy-10 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-cuhk-policy-13"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/">cuhk 官方本科资料：policy-13 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-cuhk-policy-6"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/">cuhk 官方本科资料：policy-6 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-cuhk-policy-9"><div><a href="https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/scholarship/">cuhk 官方本科资料：policy-9 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-policy-8"><div><a href="https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/regulation/">招生章程 - 香港中文大学本科招生 ↗</a><p>本页当前入学/申请/费用/奖学金正文；年度按事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-policy-10"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/">Requirements - CUHK Undergraduate Admissions ↗</a><p>本页当前入学/申请/费用/奖学金正文；年度按事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-policy-13"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/">Important Dates - CUHK Undergraduate Admissions ↗</a><p>本页当前入学/申请/费用/奖学金正文；年度按事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-policy-6"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/">FAQ - CUHK Undergraduate Admissions ↗</a><p>本页当前入学/申请/费用/奖学金正文；年度按事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-policy-9"><div><a href="https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/scholarship/">奖学金章程 - 香港中文大学本科招生 ↗</a><p>本页当前入学/申请/费用/奖学金正文；年度按事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-sup-international"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/">Requirements - CUHK Undergraduate Admissions ↗</a><p>资格总则及学院/学系分流标题</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-sup-science-declaration"><div><a href="https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/curriculum/major-declaration-for-science-students/">Major Declaration for SCIENCE Students | Faculty of Science, The Chinese University of Hong Kong ↗</a><p>资格总则及学院/学系分流标题</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-sup-social-declaration"><div><a href="https://socsc.cuhk.edu.hk/social-science-broad-based/current-student/major-declaration/">Major Declaration | Faculty of Social Science, The Chinese University of Hong Kong ↗</a><p>资格总则及学院/学系分流标题</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-sup-cse-allocation"><div><a href="https://www.cse.cuhk.edu.hk/academics/major-allocation/">Major Allocation (For CENGN &amp; CSCIN Only) – CUHK CSE ↗</a><p>资格总则及学院/学系分流标题</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-sup-international-faq"><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/">FAQ - CUHK Undergraduate Admissions ↗</a><p>FAQ06；两个专业语言段落</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-sup-entry-gcomn"><div><a href="https://admission.cuhk.edu.hk/programme/gcomn/">Global Communication - CUHK Undergraduate Admissions ↗</a><p>FAQ06；两个专业语言段落</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-cuhk-sup-entry-gpadn"><div><a href="https://admission.cuhk.edu.hk/programme/gpadn/">Government and Public Administration - CUHK Undergraduate Admissions ↗</a><p>FAQ06；两个专业语言段落</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/">← 返回香港中文大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

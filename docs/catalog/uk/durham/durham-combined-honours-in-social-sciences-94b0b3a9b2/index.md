@@ -36,7 +36,7 @@ hide:
 
 <p><strong>目录适用期：</strong>current course search; 2027 selected where explicitly included, other years retained if no 2027 date</p>
 
-<p><strong>申请路径：</strong>undergraduate; detailed entry route not yet verified</p>
+<p><strong>申请路径：</strong>高考总分参考80%；指定科目、英语及额外考核另核；所选学科另有GCSE及先修条件</p>
 
 <p><strong>目录状态：</strong>listed_current</p>
 
@@ -65,6 +65,15 @@ hide:
 
 <p class="catalog-fact"><strong>课程英语：</strong>所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。</p>
 <p class="fact-sources"><a href="#source-p-DUR-8e16d58ea321e391">官方依据</a> · <a href="#source-p-DUR-c601e145c79550bf">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027母项目GCSE附加条件：</strong>2027新生若选Sport须GCSE英语语言Grade 5；若选Business须GCSE数学Grade 6。中国高中／高考对应这些GCSE项的具体核定本轮未取得。</p>
+<p class="fact-sources"><a href="#source-p-DUR-943e15359bfe4df0">官方依据</a></p>
+
+<p class="catalog-fact"><strong>具体学科先修补充：</strong>2027选经济须A-level数学A；选英语文学、历史或音乐须该科A；进阶中、法、德、日、意、俄、西语须相应语言A；阿、法、德、意、俄、西语路径还列一门现代外语A。IB相应科目须HL6；经济数学可AA/AI的HL6或SL7。以上须按所选学科组合分别满足。</p>
+<p class="fact-sources"><a href="#source-p-DUR-943e15359bfe4df0">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考科目与衔接边界：</strong>学校中国栏目另列：要求数学的课程，高考数学须80%；申请英语文学须高考语文、英语各80%。高考总分80%不是免除所选学科条件；历史、音乐和具体语言的逐科中国等同本轮未取得。仅高中毕业但不满足直入条件者可另查国际学习中心衔接，须符合对应升读条件。</p>
+<p class="fact-sources"><a href="#source-p-DUR-943e15359bfe4df0">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 

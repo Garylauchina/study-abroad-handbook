@@ -84,6 +84,16 @@ hide:
 <p class="catalog-fact">官方2026 IB表在“Good Grades in Preferred Subjects”下列：HL数学，以及HL生物／化学／计算机科学／物理中一门。属于偏好科目说明；本轮未取得CSE具体IB科目分数或A-Level科目成绩线，不改写成未列出的硬性要求。</p>
 <p class="fact-sources"><a href="#source-cuhk-computer-science-bsc-cuhk-ib">依据 9</a></p>
 
+### 本地高年级与国际新生区分
+
+<p class="catalog-fact">独立高年级途径供本地副学位/高级文凭申请人，系页通常期望整体GPA至少3.0及大学语言条件；不能套用于大陆非本地高中生。后者先进入BCSEN，再参加学系主修分配。</p>
+<p class="fact-sources"><a href="#source-cuhk-sup-computer-science">依据 14</a></p>
+
+### BCSEN分流资格与优先规则
+
+<p class="catalog-fact">本地及国际新生（本地senior-year除外）先入BCSEN。分流时须已正式注册ENGG1110/ESTR1002、ENGG1111、ENGG1120/ESTR1005、ENGG1125/ESTR1007（获豁免课程除外），适用的学业察看须在第二学期末解除。符合指定HKDSE组合，或入学持可续期学费奖学金者，另须年末CGPA至少3.0方获第一志愿保证；其他合资格者依志愿与容量分配。</p>
+<p class="fact-sources"><a href="#source-cuhk-sup-cse-allocation">依据 16</a></p>
+
 ## 申请安排 {#applications}
 
 ### 大陆高考申请入口
@@ -100,6 +110,11 @@ hide:
 
 <p class="catalog-fact">经海外／其他学历非本地网上申请。2026入学提前轮截止2025年11月13日、常规轮2026年1月8日，延长截止2026年5月29日；首学期2026年9月上旬开始。截至2026-09-12该周期已结束，2027日期本轮未取得。</p>
 <p class="fact-sources"><a href="#source-cuhk-computer-science-bsc-cuhk-ias-dates">依据 12</a> · <a href="#source-cuhk-computer-science-bsc-cuhk-ias-req">依据 8</a></p>
+
+### 在读主修选择与逾期
+
+<p class="catalog-fact">常规分流在一年级第二学期结束后办理，网页列3月填志愿、6月分配、7月提交结果、8月更新CUSIS。未提交志愿者按CGPA和余额最后处理，不接受迟交；这是年度在读流程，2027新生入学窗口仍待核。</p>
+<p class="fact-sources"><a href="#source-cuhk-sup-cse-allocation">依据 16</a></p>
 
 ## 学费与资助 {#fees}
 
@@ -123,6 +138,16 @@ hide:
 <p class="catalog-fact">大学FAQ说明录取的全日制本科生自动获入学奖学金考虑，无须另填申请，以学业表现等择优；本轮未取得本专业国际资格新生统一奖金额和续领门槛，须以个别奖励通知为准。</p>
 <p class="fact-sources"><a href="#source-cuhk-computer-science-bsc-cuhk-faq">依据 4</a></p>
 
+### 本地高年级与完整本科收费分别核对
+
+<p class="catalog-fact">本轮学系资料确认该独立高级入学入口面向本地申请者；对应高年级收费尚未取得。本页非本地普通年费仅供经BCSEN共同入口修读完整本科学位者参考，不作为该本地高年级入口的非本地报价。</p>
+<p class="fact-sources"><a href="#source-cuhk-sup-computer-science">依据 14</a></p>
+
+### 2026/27保证金
+
+<p class="catalog-fact">非本地本科另收港币450元保证金；此项与年学费分列，不能当作本主修另收一份学费。</p>
+<p class="fact-sources"><a href="#source-cuhk-sup-fees">依据 15</a></p>
+
 ## 毕业生情况 {#outcomes}
 
 ### 已核实的毕业方向
@@ -137,7 +162,7 @@ hide:
 
 ## 官方来源与核验记录 {#sources}
 
-资料核验：**2026-09-12**。课程招生年份与毕业调查年份分别记录；历史毕业结果不表示未来个人结果。
+资料核验：**2026-09-13**。课程招生年份与毕业调查年份分别记录；历史毕业结果不表示未来个人结果。
 
 <div class="catalog-source" id="source-cuhk-computer-science-bsc-cuhk-cs"><span class="source-number">01</span><div><a href="https://www.cse.cuhk.edu.hk/admission/cscin/">香港中文大学计算机科学理学士 ↗</a><p>CSCIN学位、学科内容、认证及职业方向；不套用高年级入学GPA</p><small>www.cse.cuhk.edu.hk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-cuhk-computer-science-bsc-cuhk-cse"><span class="source-number">02</span><div><a href="https://admission.cuhk.edu.hk/programme/bcsen/">香港中文大学CSE共同招生BCSEN ↗</a><p>四年制、面向高考及国际资格、首年CSE再分计算机科学/工程、沙田地址及毕业方向</p><small>admission.cuhk.edu.hk · 核验 2026-09-12</small></div></div>
@@ -152,5 +177,8 @@ hide:
 <div class="catalog-source" id="source-cuhk-computer-science-bsc-cuhk-plan"><span class="source-number">11</span><div><a href="https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/admission/">香港中文大学2026内地招生计划 ↗</a><p>各省志愿截止以本省考试院公告为准</p><small>admission.cuhk.edu.hk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-cuhk-computer-science-bsc-cuhk-ias-dates"><span class="source-number">12</span><div><a href="https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/">香港中文大学2026国际生申请日期 ↗</a><p>2026提前、常规及延长截止、2026年9月教学开始</p><small>admission.cuhk.edu.hk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-cuhk-computer-science-bsc-cuhk-fee"><span class="source-number">13</span><div><a href="https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/fees/">香港中文大学内地高考生学费及住宿费 ↗</a><p>2026–27非本地首年学费HK214000及后续年度调整上限3%</p><small>admission.cuhk.edu.hk · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-cuhk-sup-computer-science"><span class="source-number">14</span><div><a href="https://www.cse.cuhk.edu.hk/admission/cscin/">B.Sc. in Computer Science (CSCIN) – CUHK CSE ↗</a><p>学位标题与Curriculum/Overview；共同入口4Years</p><small>www.cse.cuhk.edu.hk · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-cuhk-sup-fees"><span class="source-number">15</span><div><a href="https://admission.cuhk.edu.hk/fees-financing-your-studies/fees/">Fees - CUHK Undergraduate Admissions ↗</a><p>Non-Local Students 及星号脚注</p><small>admission.cuhk.edu.hk · 核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-cuhk-sup-cse-allocation"><span class="source-number">16</span><div><a href="https://www.cse.cuhk.edu.hk/academics/major-allocation/">Major Allocation (For CENGN &amp; CSCIN Only) – CUHK CSE ↗</a><p>Eligibility；PriorityAllocation(i)(ii)及#</p><small>www.cse.cuhk.edu.hk · 核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/">← 返回香港中文大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

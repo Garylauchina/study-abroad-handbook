@@ -6,13 +6,26 @@ import tempfile
 import unittest
 
 from catalog_research import attach_research, validate_record
-from render_catalog import load_catalog
+from render_catalog import load_catalog, validate_source_dates
 from import_catalog_research import match_program
 
 ROOT = Path(__file__).resolve().parents[1]
 
 
 class ResearchTests(unittest.TestCase):
+    def test_incremental_updates_retain_each_sources_verification_date(self):
+        program = {'checked_at':'2026-09-13', 'sources':[
+            {'checked_at':'2026-09-12'}, {'checked_at':'2026-09-13'}]}
+        original = copy.deepcopy(program)
+        validate_source_dates(program)
+        self.assertEqual(program, original)
+        program['sources'][1]['checked_at'] = '2026-09-14'
+        with self.assertRaisesRegex(AssertionError, 'Source verified after'):
+            validate_source_dates(program)
+        program['sources'][1]['checked_at'] = '2026-02-30'
+        with self.assertRaises(ValueError):
+            validate_source_dates(program)
+
     def test_parallel_degrees_require_unambiguous_identity(self):
         shared = {'raw_key':'psychology','official_url':'https://example.edu/psychology','name_en':'Psychology'}
         inventory = [dict(shared, id='psych-ba', degree_label='BA'), dict(shared, id='psych-bs', degree_label='BS')]

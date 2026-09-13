@@ -5,6 +5,7 @@ import html
 import json
 import hashlib
 import re
+from datetime import date
 from urllib.parse import urlsplit
 from catalog_inventory import load_inventories, coverage_text, inventory_markdown
 from catalog_research import attach_research, profile_markdown
@@ -25,6 +26,13 @@ def route(country, university=None, program=None):
 
 def link(path, text, cls=''):
     return f'<a class="{cls}" href="{BASE}{path}">{esc(text)}</a>'
+
+def validate_source_dates(program):
+    """A later addition must retain the original sources' verification dates."""
+    checked = date.fromisoformat(program['checked_at'])
+    for source in program['sources']:
+        assert re.fullmatch(r'\d{4}-\d{2}-\d{2}', source['checked_at'])
+        assert date.fromisoformat(source['checked_at']) <= checked, 'Source verified after program update'
 
 def load_catalog():
     countries, universities, programs = [], [], []
@@ -59,10 +67,10 @@ def load_catalog():
         assert re.fullmatch(r'\d{4}-\d{2}-\d{2}', p['checked_at'])
         sources = {s['id']: s for s in p['sources']}
         assert sources and len(sources) == len(p['sources'])
+        validate_source_dates(p)
         for s in sources.values():
             assert re.fullmatch(r'[a-zA-Z0-9-]+', s['id']), s['id']
             assert urlsplit(s['url']).scheme == 'https' and s['title'] and s['supports']
-            assert s['checked_at'] == p['checked_at']
         cited = set()
         for key, _ in SECTIONS:
             assert p['sections'][key], f'{p["id"]}: empty section {key}'

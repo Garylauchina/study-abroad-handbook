@@ -36,7 +36,7 @@ hide:
 
 <p><strong>目录适用期：</strong>current course search; 2027 selected where explicitly included, other years retained if no 2027 date</p>
 
-<p><strong>申请路径：</strong>undergraduate; detailed entry route not yet verified</p>
+<p><strong>申请路径：</strong>高考总分参考76%；指定科目、英语及额外考核另核；另有GCSE数学要求</p>
 
 <p><strong>目录状态：</strong>listed_current</p>
 
@@ -65,6 +65,12 @@ hide:
 
 <p class="catalog-fact"><strong>课程英语：</strong>所属本科／基础年栏目为Band B：IELTS总分6.5，单项至少6.0。其他认可考试、证明和豁免按官方条件。</p>
 <p class="fact-sources"><a href="#source-p-DUR-8e16d58ea321e391">官方依据</a> · <a href="#source-p-DUR-c601e145c79550bf">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027母项目GCSE附加条件：</strong>2027普通新生还须GCSE数学至少Grade 5（原页并列Grade B）或同等资格；contextual的Grade 4/C不适用于所有申请者。中国高中／高考对应该项的具体核定本轮未取得。</p>
+<p class="fact-sources"><a href="#source-p-DUR-cfae57cb6ad88608">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027英国A-level实验部分：</strong>仅对使用英格兰考试局、修读带实验部分的Science A-level申请者：须参加并通过该实验部分，作为入学条件。这不是面向所有中国高考申请者的生物实验统考要求。</p>
+<p class="fact-sources"><a href="#source-p-DUR-cfae57cb6ad88608">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 

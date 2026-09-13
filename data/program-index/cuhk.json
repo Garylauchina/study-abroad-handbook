@@ -1,24 +1,638 @@
 {
   "university_id": "cuhk",
-  "checked_at": "2026-09-12",
+  "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 84,
-    "scope": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
-    "method": "[{\"faculty_tables\": 8, \"rows\": 99, \"pagination\": \"All faculty accordions contain full rows in original DOM; no pager\"}]",
+    "count": 95,
+    "scope": "84官方一级入口＋11具名在读理学主修／双主修；非95个独立高中志愿",
+    "method": "官方8学院99行去重84URL与原目录逐项一致；理学共同入口按9单主修与2不同第一主修双主修展开，不重复EESC。社科及CSE按实际申请身份和分流条件分别核验。",
     "exclusions": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
     "sources": [
       {
         "url": "https://admission.cuhk.edu.hk/programmes/list/",
         "sha256": "27c2d33578d6c242baeadd2562aef9afb96bb2c717bb72e5813b6e2657241945",
-        "bytes": 810325,
-        "raw_file": "scratch/full-catalog/asia/cuhk/raw/directory-dom.html",
-        "meta_file": "scratch/full-catalog/asia/cuhk/raw/directory-dom.meta.json"
+        "raw_file": "scratch/full-catalog/asia/cuhk/raw/directory-dom.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/anthn/",
+        "sha256": "566c817cd767818aebf4afdff8495e3b5b5059c54224cacb4e53cc90d7931e53",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-087fbfe03c7c3e8be2c4.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/faq/",
+        "sha256": "618f4d507b9f59ad6824f158f69349275a246df380169410db5776a1e4658590",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/international-faq.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/bmbln/",
+        "sha256": "cb2947f0cfd5dbd8bf41b832ce33c4da9dcb41c8b83ea2be799a49ec51515b77",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-de163fbf75ca26fd97f0.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/chlln/",
+        "sha256": "ae781929f94911fbc8011d7cb8f62ee43c41821340f21726fafcf4e819983ad5",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-15b142472d0e0716a4a0.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/chesb/",
+        "sha256": "81163ad87c5c3ec30edbacd5fee74324a870b47bb9e1232b66bdb02dfde8b56c",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-39c36caa477c72d86753.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/engen/",
+        "sha256": "73e527b836323372d8715b94487f87e5f488fd2d65e9e628037000d4aa70613d",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-62b484d063528a9d8956.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/faasn/",
+        "sha256": "cdb1ccc2a5dcd2498f4a2513e8b2ae82f49bda7cb1a2993310a536fcd54ae3b1",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-821a25e03c626ffe59e3.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/histn/",
+        "sha256": "4bf13a3bdcede2beafeb527a4b4340a8b5fe96aef8012f44ea2111871629aed3",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-0ea6636bf64547fa969d.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/jaspn/",
+        "sha256": "9e8d13ef5828f3a1ba25f672ef479e1e854f5b186955d4f93eaacaae5aa6a841",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-628cba50179486afc1c0.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/lingn/",
+        "sha256": "39616eebfc1a79c0b50085b2a16a15de750fb286ee5659f4b0bdedc8424f030d",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-90a6bead312662f14da3.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/muscn/",
+        "sha256": "23eebc6b8a49ef251d915ca9978dbb052934ebca92106d8a92a76b010f42240c",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-339c80655de45384ee62.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/philn/",
+        "sha256": "61d106407612c520e823f211f1114c7c450a9b3a3ae47837afc5522c53c43412",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-86a69f717ec004b30525.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/histn-puh/",
+        "sha256": "bb0b8957139d4196f690aef780a12cabbc34dfaf6af804a12cac092ade3099b3",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-84b42f85cdc97d2ac722.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/puhsn/",
+        "sha256": "5bea898221ecd817197be29dffc224adb5306684668326abb089e7b2d85e6eb8",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-338df48862ab6d78d8e1.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/relsn/",
+        "sha256": "303a9856d3973e99ffce1098f26975875294f7acca571cc13f4625f3d73cab87",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-e0660cbc3e496adc2606.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/theon/",
+        "sha256": "e528500667a084afac9a3ef871ca35faf2f8e9ee90d35ca87e832a0fffb6dc76",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-051d182eeedad0bf9215.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/trann/",
+        "sha256": "826ef890810c0ea24bc673537de063d97a829d8ada112de9847ab277ff4fa8ff",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-22167453218595fae5f3.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/bajdn/",
+        "sha256": "c1ab737d546163ed664f788a8075f898af7f13d9ff0bb342437e37c234750a41",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-dbb0954f14836adae530.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/behmn/",
+        "sha256": "e55d56622a33200189e241af5b8e7f2f6eb4b7e8988b01f837948f5a0153f41c",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-6b370cabcb05e04f0280.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/ibbac-gbs/",
+        "sha256": "444bdb3a075faa3b36fabb71a9533e22b1415b319213aea5010784dadca2a1be",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-5d8108e667ccfc1007ac.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/glefn/",
+        "sha256": "45f64700c1d743d190afdc277746746d6c0a61fcf410b414ed7196a4da4bef52",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-939a15e4e97366f8686a.html"
+      },
+      {
+        "url": "https://www.glef.cuhk.edu.hk/program-structure/study-scheme/",
+        "sha256": "e9082b1d3c5d265a87c41b039c56287fad823a8970f2c6ec27861f10efb765b3",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/glef-study.html"
+      },
+      {
+        "url": "https://www.glef.cuhk.edu.hk/site/assets/files/1816/glefn_eng_26_formatted.pdf",
+        "sha256": "450a0bda168c81e7d13d8ebe516ffac481e2d98aac456c2d78ebdd9c92e0e561",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/glef-scheme-2026.pdf"
+      },
+      {
+        "url": "https://www.glef.cuhk.edu.hk/admission/cuhk-applicants/",
+        "sha256": "271b74ca5bef86585c93e86629fba15af42ec811a98da9346b312a002ecf3133",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/glef-transfer.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/fees-financing-your-studies/fees/",
+        "sha256": "16ebe3436305593916559cd974bf4369758fa623ee5fe1aef3094ea717a0a2d5",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/fees.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/htmgb/",
+        "sha256": "038a125001e4a5845fedbfb9de327c98b4d0963f1652cf14461c039bb04a3c93",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-3143e610e14825f0a5a8.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/ifaab/",
+        "sha256": "82e652e3f57af8783086ac9f12244462220c1d8bce902c051257b43ce7f43d21",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-68e2a2dcbfbed7180996.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/ibbac/",
+        "sha256": "e9036a2fbb3a55281d6f23266497d24d808187768aa34378577232fac5f28699",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-a8d1f9c90a92d15ea94a.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/indan/",
+        "sha256": "2f97f4d85574ab45d2cc6613452497cbff509a0cde59a0cfc5dc5813aabed59d",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-87807b32ca1bb6ec8fe4.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/paccn/",
+        "sha256": "7bafd2f15a40ecec649bff661c4472fbaff9fb7b03ac06251fe0682f1bc054cb",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-fb8759b1281e1a85aca5.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/qfinn/",
+        "sha256": "f9e1f305675d4c99658cff698e58cbad669c89a3e769b274ae4e8260c4a6dd79",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-c5f3e5df805b62cc557a.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/qfrmn/",
+        "sha256": "411ad0005b08f37248ddfb6fa7fbd0bb59ee8d42f69a0750d6b17f113ade6d2b",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-344cd9bc72b46c974f93.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/cledn/",
+        "sha256": "ef20ed645591c5d9a5ffc4dd5667a4e8a12a80b7d6b2d3d5eaab9a121ad6af82",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-2c976212583166d1b01c.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/becen/",
+        "sha256": "b3737a5cf565f8213336cbb2fa7767854ae54d3d4ebf90f262a00cafb267f072",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-657ed1407944f8c7ad11.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/chedn/",
+        "sha256": "08740ab7d376a3441b62fe8d3e008598f4d57f3db6d12b38945de1d04d00b898",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-0edbe9421a566cbc15c8.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/eledn/",
+        "sha256": "6e08975a8d85c6413270254c3874f124ed8eec552d39b8d2d3ee09f2c54b33b9",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-db5fcdf38e3d139f0e98.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/eshen/",
+        "sha256": "4a25fea7b87f2418d7afb5d37502d42f86ad0b867fb5e7bee5812be023c1224b",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-d6886452ddef46ee5fa4.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/hmshn/",
+        "sha256": "41708bfa94133af298c60f87d67ff15da652101202eddbd72d813748ee7e8f50",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-2997a749325daa30f2bd.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/ldten/",
+        "sha256": "85c5a0b4a6d220a0aa392184913ecd57b1622ec49988dcda4a616c37b6ff7342",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-e5417956cfc206df29ca.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/bmedn/",
+        "sha256": "a2b0b80d19aabf10824d26ed3251b3310c44dc8b799b3a5fb0623e347421af7f",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-d60a4d69fbc435107cd2.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/peshn/",
+        "sha256": "0f7a2f7954562b76cec77a6829857b784f1ee0e018772e362b132536a4dcd89b",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-3c0fc0523cc009817489.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/asein/",
+        "sha256": "43c4d1172306d951f5bd0fe6d7ea6ce90b32def4bcb581b39a07bb8f01d7f883",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-9bf81fb356813f5e6910.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/aistn/",
+        "sha256": "42de695a5a7a4bc9c62b8b86186002ceac84c97715a981a294ee39eb0219155d",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-03b1655e7a72595d4b4b.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/bmegn/",
+        "sha256": "e3a0a7f37801587e7294c4c3fbb1bdf35643b0471a6a9de31b401664b527325a",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-ae72a12ca378258f4e4c.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/cdasn/",
+        "sha256": "2788f0e6a735891697622f4ea8189c3fc22aec6a559fce79bbc14ec5c9e5065d",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-5eb09fc19cb9f30eda85.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/cengn/",
+        "sha256": "9d22333b4f6a9b48ccfce56f5b64daf2a0b36a4a9b3f6a68dc77372d983b7289",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-f664632975960f3adfce.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/bcsen/",
+        "sha256": "fc3a19bfd98e2ca4b4a576747149538997e57d47dd57ea6edc97aef5d3b238c5",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-cd110478b38c23989a97.html"
+      },
+      {
+        "url": "https://www.cse.cuhk.edu.hk/admission/cengn/",
+        "sha256": "4adad8acf91bc73e8996a48ce621491294805b32c866f60fa0de29b6ec340722",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/computer-engineering.html"
+      },
+      {
+        "url": "https://www.cse.cuhk.edu.hk/academics/major-allocation/",
+        "sha256": "f44f29bbadb1087e805c8b423be51bf6de5a0f2473430add8b893b0433f049ea",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/cse-allocation.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/cscin/",
+        "sha256": "2753887483555d15c5bd4acd483aa7c7463374c314deb88dff9b136f96bb79d9",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-e8629425e35b7dd7fada.html"
+      },
+      {
+        "url": "https://www.cse.cuhk.edu.hk/admission/cscin/",
+        "sha256": "7e7c804ca313bedf98dc0c3a23e21731a550a03ccf787b5f07d94fcb58ac80a4",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/computer-science.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/elegn/",
+        "sha256": "595f0d96f6615ff9dbab143478bf55e1110e2c0bf00786a92f3b138b356c208d",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-bd2a4701952751aa7fdf.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/eeenn/",
+        "sha256": "49a63791e8caa06d81d11cda5ef5f4fff7897198ef5f45ae04eef9e199d26b0e",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-5ad2d893711cf96e71d9.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/ftecn/",
+        "sha256": "c0956814ff71cc5c33506e7c853a60825fab3f670ac36520c73ea442c2f469fa",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-8e9ae35dc9689dfd589b.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/iergn/",
+        "sha256": "6907073948b07364f0cec7f0772be36a89b769014ed4988dc82c43b03bd6fe02",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-f172cd0ba28ba62ed900.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/masen/",
+        "sha256": "9e4aed8d1bdd97df6f1658f1b04f343d97b133c484a44b9b1e8ced9de26bf3a1",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-fd9aa4c9664a1f6b5396.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/miegn/",
+        "sha256": "7ce093ba9484e224d9f41388ca69b9cf05cfdc6d6d4de2bd2d3caa3c7d0a560e",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-7b803e4659af6c9ded24.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/maegn/",
+        "sha256": "60480e8ec4e766ce81a52926fbf842449395928617a234e11985c70bff012f7f",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-a3c395364c9d991c4699.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/seemn/",
+        "sha256": "aa8ce96d5771a99797c0e178c45537632bcbddfe72dd750c924ce7601c773d9a",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-556e6360e87f0c94abe4.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/lawsn/",
+        "sha256": "8e65285874c2881b7e4f72d411aa09581674ef63c830cc48940c7f81f7b09b75",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-b5e30bfb75bdc2ee480d.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/list/",
+        "sha256": "e54396e26dfca341f451dc79a95a0cd06af6d83ebb9c8938e0ceeb41823e5847",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/gaokao-list.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/dipln/",
+        "sha256": "2af3ac1ebef0b7861cf7c139ec8844df613924ca10378dac024c42061104acaa",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-15268c95a69da1e2c1ce.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/medun-gps/",
+        "sha256": "6cf5067707cc7ab56ecbae84c0b7e8a0d8bc1e27a40302e888054c4fc008f807",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-16910a79841f130bf02c.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/medun/",
+        "sha256": "c3bd73b511b026fca42b1f9e6113b83612013431cf3fb10f35d47893a304b911",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-e390bfe3c0651c7ecc63.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/bmscn/",
+        "sha256": "31f951d3cbf70d212550992ead7f24d8e8d5e4cf3d936137a69e60e4d5e37715",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-12eb65fc472f085ec4d1.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/bcmen/",
+        "sha256": "fe912bae9d84d2322ca3d3448528da9bda5946b6a03066181717aa0100e28275",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-21259b5c65796af06361.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/chprn/",
+        "sha256": "0db9e3e109f14fb79b379ed8e4635a34dfd90a263fd963c0ad5c701548b40c8b",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-dfede6bf32eb86edb3f0.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/bscgb/",
+        "sha256": "6ca0d7848cb80f51b1b41f23771c2e850fe6edbbf0a855f29218e34b7f7aa4f0",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-328ff5df5a4f6fa2e07c.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/nursn/",
+        "sha256": "494df73092af4719c1a7e7e8b2f9bd3babce64b67bf0b36097b71fdd7490478c",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-aad1e1b5d033182c4c0f.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/pharn/",
+        "sha256": "3a6c12383c0e639e65765c683b13959c285aea010aec9a637ac3cb8a6d7a2aa8",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-d92314170b7dad26760a.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/phpcn/",
+        "sha256": "5a0aa56db1f63f217c1cb476bd2e5ca5e1769eb72cc66d9c7c2dc73f7b8a4ed5",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-532f6a5000d08aa27f3f.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/eescn/",
+        "sha256": "6450578a66a02b1bf0bfd0193e11410dc80ec041abda9301a4d9b40316b20a3e",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-992029734f4ab4df1c9e.html"
+      },
+      {
+        "url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/eesc/",
+        "sha256": "08858eecb1f50a8021eb4f78be5499f081efcc0cfa53515f2cc1d75f44b647a5",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/sci-eesc.html"
+      },
+      {
+        "url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/curriculum/major-declaration-for-science-students/",
+        "sha256": "004b1c863e2c0fc9d3ed13fa2471d2f2dcbeda77804fa667a964228057e9b47a",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/science-declaration.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/mathn/",
+        "sha256": "26cc98c57d98ca29790d67713a2b6354b09513544af5ce208b338be859e1a746",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-5da9314c3e72fdb8754e.html"
+      },
+      {
+        "url": "https://www.math.cuhk.edu.hk/student-centre/academic-advice/GenReq-Enrichment-2026-27",
+        "sha256": "14806ee29817aa6cf727a279632a4d8d2de60e1fb1459ed214a297d16145b5d8",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/math-enrichment-2026.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/physn%e2%80%90erp/",
+        "sha256": "b321a4137abe6ac5d4257b73061cc17f937177263c079c2a88b04d5c027af979",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/entry-physn-erp.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/nscin/",
+        "sha256": "f9fe0c9bff8c6f4e68e21a2a5e9fbbcde7037a06c9d6634e8dc21d4c6ebfcc7f",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-e250ab1ddf82c55b89e2.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/rmscn/",
+        "sha256": "08d95209c93246ac766beb0b4703b17e6aca319d2c538165489ec5dd920c7b63",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-1a71ddb2d2ccf5a1fa67.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/bscin/",
+        "sha256": "d3b71c5e007eee5830ed93df1d4fe31fcd7dc8eea3e56d8f91898ed4533f6765",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-10b5acc3cc56caacf804.html"
+      },
+      {
+        "url": "https://www.sci.cuhk.edu.hk/bsci/",
+        "sha256": "3943e48788992a23d0ab0705858e778dd487ab830529cbc7097aa9dd6918d97e",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/science-faculty.html"
+      },
+      {
+        "url": "https://chem.cuhk.edu.hk/wp-content/uploads/DMP_BICH_Bio-Chem_2026-27.pdf",
+        "sha256": "16f36d6031351c5c5d28a39cfe65f7d123ccc416e5a5abdf1542f80c1a759c51",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/bich-scheme-2026.pdf"
+      },
+      {
+        "url": "https://chem.cuhk.edu.hk/wp-content/uploads/DMP_CHBI_Chem-Bio_2026-27.pdf",
+        "sha256": "4e033b9c7c4e6576a3fdcc2f378b0451895cedb3760549126c61411afc2bc9e6",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/chbi-scheme-2026.pdf"
+      },
+      {
+        "url": "https://www.sci.cuhk.edu.hk/wp-content/uploads/bich-declaration.pdf",
+        "sha256": "797be55a235644312dba83f90ed404c260383f9ca93cc00fe15bc47e9271034c",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/bich-declaration.pdf"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/archn/",
+        "sha256": "e92768ee041ae745d927096c0bc79f0a50f63bd46006f0aab9a72fdbc5b7da0b",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/entry-archn.html"
+      },
+      {
+        "url": "https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/01_BSSCN-Study-Scheme_2026-27.pdf",
+        "sha256": "e8450623ce4cb4e7e776ef193c8d8ec06f3d391f22dcf80d57717c52617937ec",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/social-scheme-2026.pdf"
+      },
+      {
+        "url": "https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/02_Faculty-Package_2026-27.pdf",
+        "sha256": "564bc61ce0d8814a63c53a147f9779dfdebd26d5fb59add65900ac7c823e86de",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/social-package-2026.pdf"
+      },
+      {
+        "url": "https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/03_Notes-on-Major-Declaration-2026-27_Broad-based.pdf",
+        "sha256": "3d526def339eb67ad6d6ab96b953ecc05f82d12d84150a35045a654f1f7f7a7e",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/social-declaration-broad.pdf"
+      },
+      {
+        "url": "https://socsc.cuhk.edu.hk/wp-content/uploads/Social_Science_BroadBase/04_Notes-on-Major-Declaration-2026-27_Gaokao.pdf",
+        "sha256": "47e39358aae9667e20de9dcfd5fc20b45f96e724c6d41013c429d899865188a6",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/social-declaration-gaokao.pdf"
+      },
+      {
+        "url": "https://socsc.cuhk.edu.hk/social-science-broad-based/current-student/major-declaration/",
+        "sha256": "3a6b0c3843c554a5793d92416eb1ac081343c523b2bde67929402b02408f21ed",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/social-declaration.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/dspsn/",
+        "sha256": "5264e7e9844ea737beb4de66a32af1017bdaea17dbc0b92086ecf563e47b8a89",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/entry-dspsn.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/econn/",
+        "sha256": "1ffc1a23220037e71b27256f9abc48af3f094a9ffe076b671b7c9dfe488fa296",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/entry-econn.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/ecotu/",
+        "sha256": "b4695b089ca08ad23f7b859fa07e40c93c271651bd910ae5a0afabe859552067",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-7d5d553c0fedcf4306ac.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/gdrsn/",
+        "sha256": "f699ebacdefee426680b5213e9102aa556c0941414c2de0f85614f03f9c230b3",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-5d94bd800a1a1b3a6c1c.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/grmdn/",
+        "sha256": "423ac825bb284ee25f563e2785806964242b513b8546f55bda28baead7d45e72",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/entry-grmdn.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/gcomn/",
+        "sha256": "3f9502ca5b6eb5453f8fbf59c7e980e185529b0cbe1d16a24a37edddb583697e",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/entry-gcomn.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/glsdn/",
+        "sha256": "3de7dba203e71a213cc41492c487300e97ac89f50871d365d16b5f6259532e73",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/entry-glsdn.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/gpadn/",
+        "sha256": "5753cf540a17cabec5737c2fe3310d7d379696db7479b437004c78c1b484cbaa",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/entry-gpadn.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/commn/",
+        "sha256": "a51de5bbaaf100abfbd63becafc9706438ef1e98ee9b9420a321d9084cd7e159",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/entry-commn.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/psycn/",
+        "sha256": "4da467afa8d64d44905d2ad1541ea8a22a20f13c7b86f770aca1ee3d65194e24",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/entry-psycn.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/bsscn/",
+        "sha256": "fa47a19e8a75628e2e129338502f256324c678929877bb04325a4b7956cdd069",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-94e4b0e488c5baf78d1f.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/sowkn/",
+        "sha256": "3536ca55e0815e48014ccf669bd4a475c0a9a8b420f53b8e6f140dfc223ee953",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/entry-sowkn.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/socin-ssd/",
+        "sha256": "96f2c4fdfd147c3515d089f4e97b41c531ed370f81c146d1bd40ac70146d41b4",
+        "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/cuhk/detail-2a6c653c948404d6d221.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/socin/",
+        "sha256": "679057811fdfacbcef6006ce1e9875861cae0dbccf67b5172d5a7ad37e00056b",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/entry-socin.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/programme/urspn/",
+        "sha256": "918afa85b24cd25f99f74b8a166a1ee4028d47e8892ee8b2d8a3f7b20f3cf7c1",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/entry-urspn.html"
+      },
+      {
+        "url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/bche/",
+        "sha256": "d8128c2952a622058ab0e4dcddf8be265036fae1bc1cfe446c7e71ccc7ed14f4",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/sci-bche.html"
+      },
+      {
+        "url": "https://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/Handbook/view_document.aspx?id=1765&seq=1&lang=en",
+        "sha256": "e9361189fcad4ae8e7bc63451803b69fcd90060df380b66b6a81c142d0d78b71",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/general-regulations-2026-confirmed.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/requirements/",
+        "sha256": "b7b166c872106dfe815add0504476f036111c6600f4e7a5904f571b1ef3423c3",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/international.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/scholarships/",
+        "sha256": "a527a9fb27d2a456607b9fb22c858e5adc729bfb9a59c36734426c2d0d829986",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/scholarships.html"
+      },
+      {
+        "url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/biol/",
+        "sha256": "c2fec10b6216bbe663bac8dd5c83b369370bd6773033128f7584065d4e3dda21",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/sci-biol.html"
+      },
+      {
+        "url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/cmbi/",
+        "sha256": "03fd4dde09b4aa64ec067628a321c8b6cc27fe5fc0a8e78d0416b185e1fa2ec5",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/sci-cmbi.html"
+      },
+      {
+        "url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/chem/",
+        "sha256": "55efb30680c7ed162e1401d15851e4826eb2b9dc6a244bcd56c6e00fa758d0ae",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/sci-chem.html"
+      },
+      {
+        "url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/fnsc/",
+        "sha256": "4215f3142a93d1dd591688766c2dd6a4339f7049bcf3e0ae3d843e0cf75209b4",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/sci-fnsc.html"
+      },
+      {
+        "url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/math/",
+        "sha256": "2b983c9b2fffa338f8237be614c6cf53e6e0651b1c010477eba2f39da8646443",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/sci-math.html"
+      },
+      {
+        "url": "https://www.math.cuhk.edu.hk/student-centre/academic-advice/MathsReq-BBScience-2026-27",
+        "sha256": "75254ab8774063e82cdc123741dfed95979a0f9a8ae0bd8183edcd830e3eb6a9",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/math-science-2026.html"
+      },
+      {
+        "url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/mbte/",
+        "sha256": "a39648cbd3133b69511e69114c2c7aaf18505a310f0b67faefb248facb35bcf5",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/sci-mbte.html"
+      },
+      {
+        "url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/phys/",
+        "sha256": "0e13768a8db82e658f64cf3daa25131fb4eb364b5d793ce3acf381f7d2c162a8",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/sci-phys.html"
+      },
+      {
+        "url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/stat/",
+        "sha256": "9cefa73d20869a6bd38c4e0e6033c36b4698742717a7be8f02d9077fe3aecabd",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/sci-stat.html"
+      },
+      {
+        "url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/bich/",
+        "sha256": "01ebb1ebcb3412d52a489e204f45fff816498770196f22b9ec65692f1f56c797",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/sci-bich.html"
+      },
+      {
+        "url": "https://chem.cuhk.edu.hk/undergraduate/curriculum/dmbc/",
+        "sha256": "8b045c253001932bc8a54b8e59f8b3f5b2f9d1b6d741c00864b78a3020adaf91",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/bich-curriculum.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/regulation/",
+        "sha256": "84ddc8bb17df4b78a282603611c1c0ff68d4f9cb957e322fec281c0149515567",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/gaokao-regulation.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/important-dates/",
+        "sha256": "159bc1cb6c0185391e85984182de54526ce55e3a9de84dcf235a389b3f3545d0",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/international-dates.html"
+      },
+      {
+        "url": "https://admission.cuhk.edu.hk/sc/application/mainland-gaokao/scholarship/",
+        "sha256": "c2fe3cf0e52974895c34e3bc63adcd952a91df91610063009df0676ceff222e6",
+        "raw_file": "scratch/full-catalog/cuhk-supplement/raw/gaokao-scholarships.html"
       }
     ],
     "gaps": [
-      "Broad-based Science, Social Science and Computer Science & Engineering entries contain multiple majors; detailed pathways still need reconciliation.",
-      "Passport and senior-year restrictions are retained from row footnotes. Qualifications not inferred from English website."
+      "本批展开理学主修层及三类共同入口；生物学习套餐、物理/数学/统计/地理/社科内部concentrations、STARS、NSCI七个高级入学concentrations以及多项双主修/双学位尚未逐条配对，本包不宣称全校最末级全量。",
+      "当前招生总目录及国际重要日期均仍为2026；2027完整新生资格、各省高考计划、收费及截止未取得。GLEF2027/28已公布的是校内转系。",
+      "GRMD/Urban有具届次的去向描述，但未取得分母、回复率、非本地子样本或薪资。其他营销比例不转成可比就业率。"
     ]
   },
   "programs": [
@@ -573,16 +1187,16 @@
     },
     {
       "name_en": "Global Economics and Finance",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Science (Honours)",
       "official_url": "https://admission.cuhk.edu.hk/programme/glefn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "GLEFN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "entry_route": "高考及社科大类学生须先修一年后竞争提前转系；国际学历独立入口另按资格。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -594,7 +1208,16 @@
       "source_note_ids": [],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-global-economics-and-finance-44aa271435"
+      "id": "cuhk-global-economics-and-finance-44aa271435",
+      "eligible_parent_program_ids": [
+        "cuhk-social-science-broad-based-9b713b3943"
+      ],
+      "name": "环球经济与金融",
+      "subject": "经济",
+      "subjects": [
+        "经济",
+        "商科"
+      ]
     },
     {
       "name_en": "Hospitality and Real Estate",
@@ -1144,16 +1767,16 @@
     },
     {
       "name_en": "Computer Engineering",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Engineering",
       "official_url": "https://admission.cuhk.edu.hk/programme/cengn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "完整本科4年；旧目录独立入口为本地高年级2年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "CENGN",
-      "entry_route": "Senior Year Entry only",
+      "entry_route": "高中生先入BCSEN，大一后分主修；旧目录2年入口仅本地副学位衔接。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -1162,20 +1785,29 @@
       "source_note_ids": [],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-computer-engineering-490951d8e6"
+      "id": "cuhk-computer-engineering-490951d8e6",
+      "eligible_parent_program_ids": [
+        "cuhk-computer-science-and-engineering-d0fbcbc97b"
+      ],
+      "name": "计算机工程",
+      "subject": "计算机",
+      "subjects": [
+        "计算机",
+        "工程"
+      ]
     },
     {
       "name_en": "Computer Science",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Science",
       "official_url": "https://admission.cuhk.edu.hk/programme/cscin/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "完整本科4年；旧目录独立入口为本地高年级2年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "CSCIN",
-      "entry_route": "Senior Year Entry only",
+      "entry_route": "高中生先入BCSEN，大一后分主修；旧目录2年入口仅本地副学位衔接。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -1185,20 +1817,28 @@
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
       "id": "cuhk-computer-science-2ac838f332",
-      "detailed_program_id": "cuhk-computer-science-bsc"
+      "detailed_program_id": "cuhk-computer-science-bsc",
+      "eligible_parent_program_ids": [
+        "cuhk-computer-science-and-engineering-d0fbcbc97b"
+      ],
+      "name": "计算机科学",
+      "subject": "计算机",
+      "subjects": [
+        "计算机"
+      ]
     },
     {
       "name_en": "Computer Science and Engineering",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "本科共同入口（后分 BEng Computer Engineering / BSc Computer Science）",
       "official_url": "https://admission.cuhk.edu.hk/programme/bcsen/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "BCSEN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "entry_route": "共同入口，大一后分BEng计算机工程或BSc计算机科学；课程/GPA和分配容量有条件。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -1213,8 +1853,14 @@
         "remark_17"
       ],
       "applicant_limitations": [],
-      "record_type": "programme_or_stream",
-      "id": "cuhk-computer-science-and-engineering-d0fbcbc97b"
+      "record_type": "common_admission_scheme",
+      "id": "cuhk-computer-science-and-engineering-d0fbcbc97b",
+      "name": "计算机科学与工程（共同招生入口）",
+      "subject": "计算机",
+      "subjects": [
+        "计算机",
+        "工程"
+      ]
     },
     {
       "name_en": "Electronic Engineering",
@@ -1752,16 +2398,16 @@
     },
     {
       "name_en": "Earth and Environmental Sciences",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Science",
       "official_url": "https://admission.cuhk.edu.hk/programme/eescn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "EESCN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "entry_route": "既有独立EESC入口，也可由理学分流；大陆高考仍按大类规则。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -1773,20 +2419,28 @@
       "source_note_ids": [],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-earth-and-environmental-sciences-0905f263c2"
+      "id": "cuhk-earth-and-environmental-sciences-0905f263c2",
+      "eligible_parent_program_ids": [
+        "cuhk-science-523be6a5d9"
+      ],
+      "name": "地球与环境科学",
+      "subject": "环境与农业",
+      "subjects": [
+        "环境与农业"
+      ]
     },
     {
       "name_en": "Enrichment Mathematics",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Science（数学精研方向）",
       "official_url": "https://admission.cuhk.edu.hk/programme/mathn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "MATHN-ERM",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "entry_route": "高考生先经理学修读对应主修，最快两个学年后按遴选规则申报精研；2027条件待核。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -1800,20 +2454,25 @@
       ],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-enrichment-mathematics-f9378802bf"
+      "id": "cuhk-enrichment-mathematics-f9378802bf",
+      "name": "数学精研",
+      "subject": "数学与统计",
+      "subjects": [
+        "数学与统计"
+      ]
     },
     {
       "name_en": "Enrichment Stream in Theoretical Physics",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Science（理论物理精研方向）",
       "official_url": "https://admission.cuhk.edu.hk/programme/physn%e2%80%90erp/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "PHYSN-ERP",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "entry_route": "高考生先经理学修读对应主修，最快两个学年后按遴选规则申报精研；2027条件待核。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -1825,7 +2484,12 @@
       "source_note_ids": [],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-enrichment-stream-in-theoretical-physics-5dd9b73f02"
+      "id": "cuhk-enrichment-stream-in-theoretical-physics-5dd9b73f02",
+      "name": "理论物理精研",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
     },
     {
       "name_en": "Natural Sciences",
@@ -1882,16 +2546,16 @@
     },
     {
       "name_en": "Science",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "本科共同入口（按最终主修授予 Bachelor of Science）",
       "official_url": "https://admission.cuhk.edu.hk/programme/bscin/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "BSCIN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "entry_route": "先入理学，再按公开考试或大学课程条件选主修；单、双主修门槛不同。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -1905,21 +2569,26 @@
         "remark_2"
       ],
       "applicant_limitations": [],
-      "record_type": "programme_or_stream",
-      "id": "cuhk-science-523be6a5d9"
+      "record_type": "common_admission_scheme",
+      "id": "cuhk-science-523be6a5d9",
+      "name": "理学（共同招生入口）",
+      "subject": "待分类",
+      "subjects": [
+        "待分类"
+      ]
     },
     {
       "name_en": "Architectural Studies",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Social Science",
       "official_url": "https://admission.cuhk.edu.hk/programme/archn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "ARCHN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "entry_route": "高考生可第一年选择此主修，但入学时可能须通过学系面试；也可先经社科大类再申报。拟读建筑须按学院要求提交设计作品集。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -1934,20 +2603,28 @@
       ],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-architectural-studies-0957e56193"
+      "id": "cuhk-architectural-studies-0957e56193",
+      "eligible_parent_program_ids": [
+        "cuhk-social-science-broad-based-9b713b3943"
+      ],
+      "name": "建筑学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Data Science and Policy Studies",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Social Science",
       "official_url": "https://admission.cuhk.edu.hk/programme/dspsn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "DSPSN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "entry_route": "高考生可第一年选择此主修，也可先经社科大类再申报；实际录取仍依大类与学系安排。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -1961,20 +2638,28 @@
       ],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-data-science-and-policy-studies-4d2a3c12a7"
+      "id": "cuhk-data-science-and-policy-studies-4d2a3c12a7",
+      "eligible_parent_program_ids": [
+        "cuhk-social-science-broad-based-9b713b3943"
+      ],
+      "name": "数据科学与政策研究",
+      "subject": "计算机",
+      "subjects": [
+        "计算机"
+      ]
     },
     {
       "name_en": "Economics",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Social Science",
       "official_url": "https://admission.cuhk.edu.hk/programme/econn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "ECONN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "entry_route": "高考生可第一年选择此主修，也可先经社科大类再申报；实际录取仍依大类与学系安排。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -1988,7 +2673,15 @@
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
       "id": "cuhk-economics-e26e32568e",
-      "detailed_program_id": "cuhk-economics-bssc"
+      "detailed_program_id": "cuhk-economics-bssc",
+      "eligible_parent_program_ids": [
+        "cuhk-social-science-broad-based-9b713b3943"
+      ],
+      "name": "经济学",
+      "subject": "经济",
+      "subjects": [
+        "经济"
+      ]
     },
     {
       "name_en": "Economics (CUHK-Tsinghua University Dual Undergraduate Degree Programme)",
@@ -2049,16 +2742,16 @@
     },
     {
       "name_en": "Geography and Resource Management",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Social Science",
       "official_url": "https://admission.cuhk.edu.hk/programme/grmdn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "GRMDN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "entry_route": "高考生可第一年选择此主修，也可先经社科大类再申报；实际录取仍依大类与学系安排。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -2071,20 +2764,29 @@
       "source_note_ids": [],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-geography-and-resource-management-5c2d4bf0ce"
+      "id": "cuhk-geography-and-resource-management-5c2d4bf0ce",
+      "eligible_parent_program_ids": [
+        "cuhk-social-science-broad-based-9b713b3943"
+      ],
+      "name": "地理与资源管理学",
+      "subject": "商科",
+      "subjects": [
+        "商科",
+        "社会科学"
+      ]
     },
     {
       "name_en": "Global Communication",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Social Science",
       "official_url": "https://admission.cuhk.edu.hk/programme/gcomn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
-      "language": null,
+      "language": "必修课英语；其他课程依开课安排",
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "GCOMN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "entry_route": "高考生可第一年选择此主修，但入学时可能须通过学系面试；也可先经社科大类再申报。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -2098,20 +2800,28 @@
       ],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-global-communication-e723980900"
+      "id": "cuhk-global-communication-e723980900",
+      "eligible_parent_program_ids": [
+        "cuhk-social-science-broad-based-9b713b3943"
+      ],
+      "name": "全球传播",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Global Studies",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Social Science",
       "official_url": "https://admission.cuhk.edu.hk/programme/glsdn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "GLSDN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "entry_route": "高考生可第一年选择此主修，也可先经社科大类再申报；实际录取仍依大类与学系安排。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -2123,20 +2833,28 @@
       "source_note_ids": [],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-global-studies-42921c4208"
+      "id": "cuhk-global-studies-42921c4208",
+      "eligible_parent_program_ids": [
+        "cuhk-social-science-broad-based-9b713b3943"
+      ],
+      "name": "全球研究",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Government and Public Administration",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Social Science",
       "official_url": "https://admission.cuhk.edu.hk/programme/gpadn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
-      "language": null,
+      "language": "英语及粤语",
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "GPADN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "entry_route": "高考生可第一年选择此主修，也可先经社科大类再申报；实际录取仍依大类与学系安排。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -2151,20 +2869,29 @@
       ],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-government-and-public-administration-7e9e3d62e8"
+      "id": "cuhk-government-and-public-administration-7e9e3d62e8",
+      "eligible_parent_program_ids": [
+        "cuhk-social-science-broad-based-9b713b3943"
+      ],
+      "name": "政治与行政学",
+      "subject": "商科",
+      "subjects": [
+        "商科",
+        "社会科学"
+      ]
     },
     {
       "name_en": "Journalism and Communication",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Social Science",
       "official_url": "https://admission.cuhk.edu.hk/programme/commn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "COMMN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "entry_route": "高考生可第一年选择此主修，也可先经社科大类再申报；实际录取仍依大类与学系安排。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -2179,20 +2906,28 @@
       ],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-journalism-and-communication-fbb96f3c14"
+      "id": "cuhk-journalism-and-communication-fbb96f3c14",
+      "eligible_parent_program_ids": [
+        "cuhk-social-science-broad-based-9b713b3943"
+      ],
+      "name": "新闻与传播学",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Psychology",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Social Science",
       "official_url": "https://admission.cuhk.edu.hk/programme/psycn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "PSYCN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "entry_route": "大陆高考生不能第一年直定心理学，必须经社科大类、完成首年后申报。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -2207,20 +2942,28 @@
       ],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-psychology-b0978c9aa2"
+      "id": "cuhk-psychology-b0978c9aa2",
+      "eligible_parent_program_ids": [
+        "cuhk-social-science-broad-based-9b713b3943"
+      ],
+      "name": "心理学",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Social Science (Broad-based)",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "本科共同入口（最终学位依主修：BSSc等；GLEF为BSc）",
       "official_url": "https://admission.cuhk.edu.hk/programme/bsscn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "BSSCN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "entry_route": "一般大类12主修，高考大类13主修；首年成绩及部分专业遴选有条件，GLEF须转系。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -2234,21 +2977,26 @@
         "remark_2"
       ],
       "applicant_limitations": [],
-      "record_type": "programme_or_stream",
-      "id": "cuhk-social-science-broad-based-9b713b3943"
+      "record_type": "common_admission_scheme",
+      "id": "cuhk-social-science-broad-based-9b713b3943",
+      "name": "社会科学（共同招生入口）",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Social Work",
       "degree_label": "本科项目（学位名称尚未核实）",
       "official_url": "https://admission.cuhk.edu.hk/programme/sowkn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "SOWKN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "entry_route": "合资格国际学历可走独立入口；高考仍按大类，2026级高考社科大类可分流，普通大类12项不含社工。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -2262,7 +3010,16 @@
       ],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-social-work-44a5a4fb73"
+      "id": "cuhk-social-work-44a5a4fb73",
+      "eligible_parent_program_ids": [
+        "cuhk-social-science-broad-based-9b713b3943"
+      ],
+      "parent_applicant_scope": "仅2026入学内地高考社会科学大类分流；普通大类12项不含社工",
+      "name": "社会工作",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Society and Sustainable Development",
@@ -2292,16 +3049,16 @@
     },
     {
       "name_en": "Sociology",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Social Science",
       "official_url": "https://admission.cuhk.edu.hk/programme/socin/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "SOCIN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "entry_route": "高考生可第一年选择此主修，但入学时可能须通过学系面试；也可先经社科大类再申报。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -2316,20 +3073,28 @@
       ],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-sociology-8ed5119998"
+      "id": "cuhk-sociology-8ed5119998",
+      "eligible_parent_program_ids": [
+        "cuhk-social-science-broad-based-9b713b3943"
+      ],
+      "name": "社会学",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Urban Studies",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "Bachelor of Social Science",
       "official_url": "https://admission.cuhk.edu.hk/programme/urspn/",
-      "intake": "2026",
-      "duration": null,
+      "intake": "2026 入学资料；2027 新生要求本轮未确认",
+      "duration": "4 年",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
       "source_period": "Programme / Stream List (2026 Entry)",
       "raw_key": "URSPN",
-      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "entry_route": "高考生可第一年选择此主修，但入学时可能须通过学系面试；也可先经社科大类再申报。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "applicant_schemes": [
@@ -2343,7 +3108,356 @@
       ],
       "applicant_limitations": [],
       "record_type": "programme_or_stream",
-      "id": "cuhk-urban-studies-867eb13db8"
+      "id": "cuhk-urban-studies-867eb13db8",
+      "eligible_parent_program_ids": [
+        "cuhk-social-science-broad-based-9b713b3943"
+      ],
+      "name": "城市研究",
+      "subject": "待分类",
+      "subjects": [
+        "待分类"
+      ]
+    },
+    {
+      "id": "cuhk-biochemistry-43185dc8b8",
+      "university_id": "cuhk",
+      "raw_key": "SCI-BCHE",
+      "name_en": "Biochemistry",
+      "name": "生物化学",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/bche/",
+      "discovery_source_url": "https://www.sci.cuhk.edu.hk/bsci/",
+      "source_period": "2026/27 科学主修及分流规则",
+      "intake": "2026 入学届；2027 新生要求本轮未确认",
+      "duration": "4 年所属本科标准学制；分流不另加四年",
+      "campus": "香港中文大学；逐课程教学地点本轮未核实",
+      "language": "本轮未核实逐科授课语言",
+      "record_type": "所属理学学位内具名主修",
+      "entry_route": "先入读理学 BSCIN，再按成绩及课程条件申报；非独立高中直申。",
+      "parent_program_id": "cuhk-science-523be6a5d9",
+      "parent_degree_label": "Bachelor of Science",
+      "status": "listed_current",
+      "requires_prior_degree": false,
+      "applicant_limitations": [
+        "非独立高中直申代码；2027 新生及分流规则未核实"
+      ],
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ],
+      "entity_type": "所属理学学位内具名主修",
+      "parent_program_url": "https://admission.cuhk.edu.hk/programme/bscin/",
+      "parent_name_en": "Science"
+    },
+    {
+      "id": "cuhk-biology-d237694d9a",
+      "university_id": "cuhk",
+      "raw_key": "SCI-BIOL",
+      "name_en": "Biology",
+      "name": "生物学",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/biol/",
+      "discovery_source_url": "https://www.sci.cuhk.edu.hk/bsci/",
+      "source_period": "2026/27 科学主修及分流规则",
+      "intake": "2026 入学届；2027 新生要求本轮未确认",
+      "duration": "4 年所属本科标准学制；分流不另加四年",
+      "campus": "香港中文大学；逐课程教学地点本轮未核实",
+      "language": "本轮未核实逐科授课语言",
+      "record_type": "所属理学学位内具名主修",
+      "entry_route": "先入读理学 BSCIN，再按成绩及课程条件申报；非独立高中直申。",
+      "parent_program_id": "cuhk-science-523be6a5d9",
+      "parent_degree_label": "Bachelor of Science",
+      "status": "listed_current",
+      "requires_prior_degree": false,
+      "applicant_limitations": [
+        "非独立高中直申代码；2027 新生及分流规则未核实"
+      ],
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ],
+      "entity_type": "所属理学学位内具名主修",
+      "parent_program_url": "https://admission.cuhk.edu.hk/programme/bscin/",
+      "parent_name_en": "Science"
+    },
+    {
+      "id": "cuhk-cell-and-molecular-biology-740cb4599d",
+      "university_id": "cuhk",
+      "raw_key": "SCI-CMBI",
+      "name_en": "Cell and Molecular Biology",
+      "name": "细胞及分子生物学",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/cmbi/",
+      "discovery_source_url": "https://www.sci.cuhk.edu.hk/bsci/",
+      "source_period": "2026/27 科学主修及分流规则",
+      "intake": "2026 入学届；2027 新生要求本轮未确认",
+      "duration": "4 年所属本科标准学制；分流不另加四年",
+      "campus": "香港中文大学；逐课程教学地点本轮未核实",
+      "language": "本轮未核实逐科授课语言",
+      "record_type": "所属理学学位内具名主修",
+      "entry_route": "先入读理学 BSCIN，再按成绩及课程条件申报；非独立高中直申。",
+      "parent_program_id": "cuhk-science-523be6a5d9",
+      "parent_degree_label": "Bachelor of Science",
+      "status": "listed_current",
+      "requires_prior_degree": false,
+      "applicant_limitations": [
+        "非独立高中直申代码；2027 新生及分流规则未核实"
+      ],
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ],
+      "entity_type": "所属理学学位内具名主修",
+      "parent_program_url": "https://admission.cuhk.edu.hk/programme/bscin/",
+      "parent_name_en": "Science"
+    },
+    {
+      "id": "cuhk-chemistry-543828b3d3",
+      "university_id": "cuhk",
+      "raw_key": "SCI-CHEM",
+      "name_en": "Chemistry",
+      "name": "化学",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/chem/",
+      "discovery_source_url": "https://www.sci.cuhk.edu.hk/bsci/",
+      "source_period": "2026/27 科学主修及分流规则",
+      "intake": "2026 入学届；2027 新生要求本轮未确认",
+      "duration": "4 年所属本科标准学制；分流不另加四年",
+      "campus": "香港中文大学；逐课程教学地点本轮未核实",
+      "language": "本轮未核实逐科授课语言",
+      "record_type": "所属理学学位内具名主修",
+      "entry_route": "先入读理学 BSCIN，再按成绩及课程条件申报；非独立高中直申。",
+      "parent_program_id": "cuhk-science-523be6a5d9",
+      "parent_degree_label": "Bachelor of Science",
+      "status": "listed_current",
+      "requires_prior_degree": false,
+      "applicant_limitations": [
+        "非独立高中直申代码；2027 新生及分流规则未核实"
+      ],
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ],
+      "entity_type": "所属理学学位内具名主修",
+      "parent_program_url": "https://admission.cuhk.edu.hk/programme/bscin/",
+      "parent_name_en": "Science"
+    },
+    {
+      "id": "cuhk-food-and-nutritional-sciences-3a2f84ccf0",
+      "university_id": "cuhk",
+      "raw_key": "SCI-FNSC",
+      "name_en": "Food and Nutritional Sciences",
+      "name": "食品及营养科学",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/fnsc/",
+      "discovery_source_url": "https://www.sci.cuhk.edu.hk/bsci/",
+      "source_period": "2026/27 科学主修及分流规则",
+      "intake": "2026 入学届；2027 新生要求本轮未确认",
+      "duration": "4 年所属本科标准学制；分流不另加四年",
+      "campus": "香港中文大学；逐课程教学地点本轮未核实",
+      "language": "本轮未核实逐科授课语言",
+      "record_type": "所属理学学位内具名主修",
+      "entry_route": "先入读理学 BSCIN，再按成绩及课程条件申报；非独立高中直申。",
+      "parent_program_id": "cuhk-science-523be6a5d9",
+      "parent_degree_label": "Bachelor of Science",
+      "status": "listed_current",
+      "requires_prior_degree": false,
+      "applicant_limitations": [
+        "非独立高中直申代码；2027 新生及分流规则未核实"
+      ],
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ],
+      "entity_type": "所属理学学位内具名主修",
+      "parent_program_url": "https://admission.cuhk.edu.hk/programme/bscin/",
+      "parent_name_en": "Science"
+    },
+    {
+      "id": "cuhk-mathematics-554fc32f33",
+      "university_id": "cuhk",
+      "raw_key": "SCI-MATH",
+      "name_en": "Mathematics",
+      "name": "数学",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/math/",
+      "discovery_source_url": "https://www.sci.cuhk.edu.hk/bsci/",
+      "source_period": "2026/27 科学主修及分流规则",
+      "intake": "2026 入学届；2027 新生要求本轮未确认",
+      "duration": "4 年所属本科标准学制；分流不另加四年",
+      "campus": "香港中文大学；逐课程教学地点本轮未核实",
+      "language": "本轮未核实逐科授课语言",
+      "record_type": "所属理学学位内具名主修",
+      "entry_route": "先入读理学 BSCIN，再按成绩及课程条件申报；非独立高中直申。",
+      "parent_program_id": "cuhk-science-523be6a5d9",
+      "parent_degree_label": "Bachelor of Science",
+      "status": "listed_current",
+      "requires_prior_degree": false,
+      "applicant_limitations": [
+        "非独立高中直申代码；2027 新生及分流规则未核实"
+      ],
+      "subject": "数学与统计",
+      "subjects": [
+        "数学与统计"
+      ],
+      "entity_type": "所属理学学位内具名主修",
+      "parent_program_url": "https://admission.cuhk.edu.hk/programme/bscin/",
+      "parent_name_en": "Science"
+    },
+    {
+      "id": "cuhk-molecular-biotechnology-804b2c4642",
+      "university_id": "cuhk",
+      "raw_key": "SCI-MBTE",
+      "name_en": "Molecular Biotechnology",
+      "name": "分子生物技术学",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/mbte/",
+      "discovery_source_url": "https://www.sci.cuhk.edu.hk/bsci/",
+      "source_period": "2026/27 科学主修及分流规则",
+      "intake": "2026 入学届；2027 新生要求本轮未确认",
+      "duration": "4 年所属本科标准学制；分流不另加四年",
+      "campus": "香港中文大学；逐课程教学地点本轮未核实",
+      "language": "本轮未核实逐科授课语言",
+      "record_type": "所属理学学位内具名主修",
+      "entry_route": "先入读理学 BSCIN，再按成绩及课程条件申报；非独立高中直申。",
+      "parent_program_id": "cuhk-science-523be6a5d9",
+      "parent_degree_label": "Bachelor of Science",
+      "status": "listed_current",
+      "requires_prior_degree": false,
+      "applicant_limitations": [
+        "非独立高中直申代码；2027 新生及分流规则未核实"
+      ],
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ],
+      "entity_type": "所属理学学位内具名主修",
+      "parent_program_url": "https://admission.cuhk.edu.hk/programme/bscin/",
+      "parent_name_en": "Science"
+    },
+    {
+      "id": "cuhk-physics-17c89cc9d2",
+      "university_id": "cuhk",
+      "raw_key": "SCI-PHYS",
+      "name_en": "Physics",
+      "name": "物理",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/phys/",
+      "discovery_source_url": "https://www.sci.cuhk.edu.hk/bsci/",
+      "source_period": "2026/27 科学主修及分流规则",
+      "intake": "2026 入学届；2027 新生要求本轮未确认",
+      "duration": "4 年所属本科标准学制；分流不另加四年",
+      "campus": "香港中文大学；逐课程教学地点本轮未核实",
+      "language": "本轮未核实逐科授课语言",
+      "record_type": "所属理学学位内具名主修",
+      "entry_route": "先入读理学 BSCIN，再按成绩及课程条件申报；非独立高中直申。",
+      "parent_program_id": "cuhk-science-523be6a5d9",
+      "parent_degree_label": "Bachelor of Science",
+      "status": "listed_current",
+      "requires_prior_degree": false,
+      "applicant_limitations": [
+        "非独立高中直申代码；2027 新生及分流规则未核实"
+      ],
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ],
+      "entity_type": "所属理学学位内具名主修",
+      "parent_program_url": "https://admission.cuhk.edu.hk/programme/bscin/",
+      "parent_name_en": "Science"
+    },
+    {
+      "id": "cuhk-statistics-9be57f8bc1",
+      "university_id": "cuhk",
+      "raw_key": "SCI-STAT",
+      "name_en": "Statistics",
+      "name": "统计学",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.sci.cuhk.edu.hk/academic/undergraduate-studies/programmes-offered/stat/",
+      "discovery_source_url": "https://www.sci.cuhk.edu.hk/bsci/",
+      "source_period": "2026/27 科学主修及分流规则",
+      "intake": "2026 入学届；2027 新生要求本轮未确认",
+      "duration": "4 年所属本科标准学制；分流不另加四年",
+      "campus": "香港中文大学；逐课程教学地点本轮未核实",
+      "language": "本轮未核实逐科授课语言",
+      "record_type": "所属理学学位内具名主修",
+      "entry_route": "先入读理学 BSCIN，再按成绩及课程条件申报；非独立高中直申。",
+      "parent_program_id": "cuhk-science-523be6a5d9",
+      "parent_degree_label": "Bachelor of Science",
+      "status": "listed_current",
+      "requires_prior_degree": false,
+      "applicant_limitations": [
+        "非独立高中直申代码；2027 新生及分流规则未核实"
+      ],
+      "subject": "数学与统计",
+      "subjects": [
+        "数学与统计"
+      ],
+      "entity_type": "所属理学学位内具名主修",
+      "parent_program_url": "https://admission.cuhk.edu.hk/programme/bscin/",
+      "parent_name_en": "Science"
+    },
+    {
+      "id": "cuhk-biology-and-chemistry-double-major-programme-0bea4cd248",
+      "university_id": "cuhk",
+      "raw_key": "SCI-BICH",
+      "name_en": "Biology and Chemistry Double Major Programme",
+      "name": "生物学及化学双主修（第一主修：生物学）",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://chem.cuhk.edu.hk/wp-content/uploads/DMP_BICH_Bio-Chem_2026-27.pdf",
+      "discovery_source_url": "https://www.sci.cuhk.edu.hk/bsci/",
+      "source_period": "2026/27 科学主修及分流规则",
+      "intake": "2026 入学届；2027 新生要求本轮未确认",
+      "duration": "4 年所属本科标准学制；分流不另加四年",
+      "campus": "香港中文大学；逐课程教学地点本轮未核实",
+      "language": "本轮未核实逐科授课语言",
+      "record_type": "所属理学学位内双主修",
+      "entry_route": "先入读理学 BSCIN，再按成绩及课程条件申报；非独立高中直申。",
+      "parent_program_id": "cuhk-science-523be6a5d9",
+      "parent_degree_label": "Bachelor of Science",
+      "status": "listed_current",
+      "requires_prior_degree": false,
+      "applicant_limitations": [
+        "非独立高中直申代码；2027 新生及分流规则未核实"
+      ],
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ],
+      "entity_type": "所属理学学位内双主修",
+      "parent_program_url": "https://admission.cuhk.edu.hk/programme/bscin/",
+      "parent_name_en": "Science"
+    },
+    {
+      "id": "cuhk-chemistry-and-biology-double-major-programme-b999dafbee",
+      "university_id": "cuhk",
+      "raw_key": "SCI-CHBI",
+      "name_en": "Chemistry and Biology Double Major Programme",
+      "name": "化学及生物学双主修（第一主修：化学）",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://chem.cuhk.edu.hk/wp-content/uploads/DMP_CHBI_Chem-Bio_2026-27.pdf",
+      "discovery_source_url": "https://www.sci.cuhk.edu.hk/bsci/",
+      "source_period": "2026/27 科学主修及分流规则",
+      "intake": "2026 入学届；2027 新生要求本轮未确认",
+      "duration": "4 年所属本科标准学制；分流不另加四年",
+      "campus": "香港中文大学；逐课程教学地点本轮未核实",
+      "language": "本轮未核实逐科授课语言",
+      "record_type": "所属理学学位内双主修",
+      "entry_route": "先入读理学 BSCIN，再按成绩及课程条件申报；非独立高中直申。",
+      "parent_program_id": "cuhk-science-523be6a5d9",
+      "parent_degree_label": "Bachelor of Science",
+      "status": "listed_current",
+      "requires_prior_degree": false,
+      "applicant_limitations": [
+        "非独立高中直申代码；2027 新生及分流规则未核实"
+      ],
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ],
+      "entity_type": "所属理学学位内双主修",
+      "parent_program_url": "https://admission.cuhk.edu.hk/programme/bscin/",
+      "parent_name_en": "Science"
     }
   ]
 }
