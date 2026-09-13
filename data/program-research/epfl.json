@@ -4,14 +4,15 @@
     {
       "inventory_id": "epfl-architecture-3ecfcc40c8",
       "raw_key": "https://www.epfl.ch/education/bachelor/programs/architecture/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "display_fields": {
         "name": "建筑学",
         "duration": "通常3年；180 ECTS",
-        "language": "以法语为主；B2要求、C1建议",
-        "entry_summary": "中国高中学历须核对入学考试或CMS预科路径。",
-        "tuition_summary": "适用三倍学费者 CHF 2,190／学期，另有费用",
-        "outcomes_summary": "官方培养及职业方向已补；本科就业统计待核实"
+        "language": "以法语为主；部分英语课程，法语B2要求/C1建议",
+        "entry_summary": "大陆普高走CMS审查或入学考试；IB及International A-level另按资格类别，不能凭高考直接推定录取。",
+        "tuition_summary": "适用外国学生通常 CHF 2,240/学期（其中学费2,190）；2025秋起政策",
+        "outcomes_summary": "已核培养及后续方向；未取得本专业本科就业率/薪资调查",
+        "intake": "课程计划2026–27；2027–28专属入学细则待核"
       },
       "sections": {
         "overview": [
@@ -20,6 +21,48 @@
             "text": "通过建筑工作坊将实践与理论结合，学习建筑历史、城市与土地、建造技术、表达建模，并配合几何和物理。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "学位层级与课程年度",
+            "text": "本项仍是现有独立本科入口；通常 3 年、180 ECTS，由第一学年 60 ECTS 和其后两年 120 ECTS 组成。本轮逐课及考核依据为 2026–27 正式计划，未将其冒充 2027–28 新生未来三年的固定课程表。",
+            "source_ids": [
+              "rulebook-01-2026"
+            ],
+            "extraction_locator": "Art.2; official 2026–27 study plan"
+          },
+          {
+            "label": "第一年课程（2026–27）",
+            "text": "第一年围绕建筑几何、数学、结构理论、建筑物理、建筑理论与历史，以及 BA1/BA2 项目理论与评论展开。AR-114 数字建模在 2026–27 表中仅供指定重修生，不当作新生共同必修。",
+            "source_ids": [
+              "plan-01-sheet-998240901"
+            ],
+            "extraction_locator": "Cycle propédeutique, course rows and notes"
+          },
+          {
+            "label": "第二、三年课程与考核",
+            "text": "二年级将地区与城市分析、进阶计算机辅助设计、建筑史、设备与气候策略、集体住宅和建筑表达结合工作室。三年级继续 BA5/BA6 设计项目，并学习建造体系、能源改造、项目管理及指定理论选修。工作室涉及学期内考核，理论课可有笔试、口试或论文加口试。",
+            "source_ids": [
+              "plan-01-sheet-1300628638",
+              "rulebook-01-2026"
+            ],
+            "extraction_locator": "Cycle Bachelor; Art.3 and bachelor chapter"
+          },
+          {
+            "label": "学分与方向边界",
+            "text": "2026–27 规章列二年级项目 20 ECTS、三年级项目 24 ECTS，另有跨年 SHS/MGT 8 ECTS。本科阶段总量仍为 180 ECTS。规章把 2026–27 新二年级 ENAC 周的 4 ECTS 并入理论组，列 36；公开表仍把理论 32 与 ENAC 周 4 分列，可据此理解其呈现差异。旧三年级继续使用原共同设计组，AR-226 建筑史录制课 4 ECTS 仅供指定重修生，不重复加到普通课程量。",
+            "source_ids": [
+              "rulebook-01-2026",
+              "plan-01-sheet-1300628638"
+            ],
+            "extraction_locator": "Bachelor cycle credit groups and cohort notes"
+          },
+          {
+            "label": "授课语言范围",
+            "text": "本科大部分课程以法语授课，二年级起计划可能含最多50%的英语课程；部分数学物理可选英语或德语。入学页面要求法语至少B2并强烈建议C1，英语课程存在不意味着全英语本科。",
+            "source_ids": [
+              "teaching-languages",
+              "admission-current"
             ]
           }
         ],
@@ -30,6 +73,76 @@
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "就业数据的学历边界",
+            "text": "本轮取得的官方2022届就业调查在2023年8月中至9月中访问硕士与博士毕业生，未覆盖本项本科毕业生。因此不将该报告的就业率、薪资或学院分项转作本项本科结果；本科届次、答卷数和中国学生统计仍未取得。",
+            "source_ids": [
+              "outcomes-2022"
+            ],
+            "extraction_locator": "Report Preamble, printed page1/PDF page3"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "入校后的第一年升读条件",
+            "text": "2026–27 本专业规章要求冬季考试后第一个考核组平均至少 3.50/6 才可进入春季；夏季考试后3个组各至少 4.00/6 才通过第一学年。这些是大学在读考核，不是高考百分比。第一年表中的 coefficients 是评分权重，不能直接当各课 ECTS。",
+            "source_ids": [
+              "rulebook-01-2026"
+            ],
+            "extraction_locator": "Propedeutic examinations"
+          },
+          {
+            "label": "专业选课、转入或后续阶段条件",
+            "text": "进入建筑硕士前须完成一年实习。规章第 8 条具体为 12 个月全职，其中至少连续 6 个月在同一建筑事务所；可在成功完成本科二年级后开始，须经学院认可。完成 180 ECTS 本科不等于已完成这项硕士前实习。",
+            "source_ids": [
+              "rulebook-01-2026"
+            ],
+            "extraction_locator": "Programme-specific bachelor rules / department current page"
+          }
+        ],
+        "applications": [
+          {
+            "label": "第三年交换的在读资格",
+            "text": "本专业 2026–27 规章要求第一年考试平均至少 4.50/6，欧洲以外交换至少 5.00/6，并已取得第二年全部 60 ECTS，还须目的地及学院批准。通过二、三年级外部转入者，学校总则不允许第三年学术交换；上述成绩不构成高中直接申请交换路线。",
+            "source_ids": [
+              "rulebook-01-2026",
+              "admission-current"
+            ],
+            "extraction_locator": "Mobility article; admission Other higher education"
+          },
+          {
+            "label": "高中申请与课程注册的区别",
+            "text": "本项高中申请沿用学校按学历类别划分的本科/CMS程序；常规申请是11月中旬至次年4月30日，补件节点见学校资料。2026–27 学生课程注册日并非 2027 高中新生录取截止，本轮未取得本专业单列的 2027–28 新生截止。",
+            "source_ids": [
+              "apply-current",
+              "academic-calendar"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科收费范围与年度",
+            "text": "对因学习来瑞士且不满足豁免的外国学生，本科当前按学期收 CHF 2,190 学费，加三项费用后通常账单 CHF 2,240。规则自2025年秋生效、首次指数调整计划2029年；这是学校本科收费政策，不是本专业单独报价或未来全程价格保证。",
+            "source_ids": [
+              "fees-current"
+            ]
+          },
+          {
+            "label": "建筑学习额外预算",
+            "text": "学校外国学生预算表在学习用品栏提示建筑考察费用更高，列第一年 CHF 1,500、以后年度 CHF 800。页面未单独标这两数的适用学年，也未明确应如何与一般用品 CHF 1,200/年叠加，故不自行合计。",
+            "source_ids": [
+              "financing"
+            ],
+            "extraction_locator": "Approximate budget for foreigner: Supplies note"
+          },
+          {
+            "label": "建筑/土木专项助学金入口",
+            "text": "Orlando Lauti Foundation 面向建筑、土木本科及硕士等指定项目，但须已成功完成在 EPFL 的一年；瑞士或意大利国籍优先。当前目录列2026–27申请批次，具体金额和中国申请者获资助概率未取得，不能用于抵减新生预算。",
+            "source_ids": [
+              "scholarships"
+            ],
+            "extraction_locator": "Orlando Lauti Foundation"
           }
         ]
       },
@@ -41,23 +154,125 @@
           "checked_at": "2026-09-12",
           "supports": "本科培养结构、硕士衔接及职业方向",
           "sha256": "41fce2a870374dce7a1130d650ba0c1219b663ebad3b274f624b8848b9ecac8e"
+        },
+        {
+          "id": "rulebook-01-2026",
+          "title": "EPFL Architecture：2026–27本科及硕士考核规章",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vRLQlH1P7_qGAu8xc8ivih7LGBAWteeDUUtWa_CQLM-MrecYgm7o9wbipmTg7oLFhc1QYyily1if8AY/pub",
+          "checked_at": "2026-09-13",
+          "supports": "学位层级与课程年度",
+          "sha256": "63bf5c7d043c4bd071a7785df53ef4f3515a07b1b90584aad962d85810b1f402",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-01-sheet-998240901",
+          "title": "EPFL Architecture：2026–27第一学年正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8bIWjtTxyYdABQUIGNKis0rfdJgirEjiOf1NNAbEMz9JToyMWaMueKJQB2vOLil11ike5IYlv2j2v/pubhtml/sheet?headers=false&gid=998240901",
+          "checked_at": "2026-09-13",
+          "supports": "第一年课程（2026–27）",
+          "sha256": "8c82c9fdac107b32dbb431448d79740695d7195683645e98a2e10b23786dd0c2",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-01-sheet-1300628638",
+          "title": "EPFL Architecture：2026–27本科二、三年级正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8bIWjtTxyYdABQUIGNKis0rfdJgirEjiOf1NNAbEMz9JToyMWaMueKJQB2vOLil11ike5IYlv2j2v/pubhtml/sheet?headers=false&gid=1300628638",
+          "checked_at": "2026-09-13",
+          "supports": "第二、三年课程与考核",
+          "sha256": "c8d245bb47d16979b942214e5cf7dadcf0545784c9b91abd33d27d0e4069e16d",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "admission-current",
+          "title": "EPFL当前本科及CMS资格：大陆高中、IB与A-level",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
+          "checked_at": "2026-09-13",
+          "supports": "第三年交换的在读资格",
+          "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "apply-current",
+          "title": "EPFL本科/CMS申请程序",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "academic-calendar",
+          "title": "EPFL 2026–27在校学期日历",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "e4ba2933b1209a1be2a422d20a1e7b3e81383575f536b8e02fb4e185f1ad088f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "fees-current",
+          "title": "EPFL学期学费与其他收费",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "本科收费范围与年度",
+          "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "outcomes-2022",
+          "title": "EPFL 2022届硕士与博士就业调查（2024年5月报告）",
+          "url": "https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "就业数据的学历边界",
+          "sha256": "6fdf20064c0104d8a10610bdb7e035a8d003072889021a8b97cb34f9d6fcf1f2",
+          "capture_format": "public_HTTP_PDF"
+        },
+        {
+          "id": "financing",
+          "title": "EPFL学生生活预算：外国学生参考表",
+          "url": "https://www.epfl.ch/education/studies/en/financing-study/",
+          "checked_at": "2026-09-13",
+          "supports": "建筑学习额外预算",
+          "sha256": "66ae0ad0db8bfe039a2ec26ba95d2b79096724d026d341f4bf6c56dfef83704e",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "scholarships",
+          "title": "EPFL奖学金及按专业资助入口",
+          "url": "https://www.epfl.ch/education/studies/en/support-scholarships/",
+          "checked_at": "2026-09-13",
+          "supports": "建筑/土木专项助学金入口",
+          "sha256": "d184751fe17b91825db2f34f1db510e250da6e18b4e7fa744570e6e92f0dbcb9",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "teaching-languages",
+          "title": "EPFL各学习阶段授课语言",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/",
+          "checked_at": "2026-09-13",
+          "supports": "授课语言范围",
+          "sha256": "eb2054d2512e577f36f0c92d32172a860593aa4b95be5cc1ccb5a093ae251748",
+          "capture_format": "public_HTTP_HTML"
         }
       ],
       "university_id": "epfl",
       "name_en": "Architecture",
-      "official_url": "https://www.epfl.ch/education/bachelor/programs/architecture/"
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/architecture/",
+      "research_status": "partial",
+      "degree_label": "Bachelor"
     },
     {
       "inventory_id": "epfl-chemistry-and-chemical-engineering-eb3a64bfda",
       "raw_key": "https://www.epfl.ch/education/bachelor/programs/chemistry-and-chemical-engineering/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "display_fields": {
         "name": "化学与化学工程",
         "duration": "通常3年；180 ECTS",
-        "language": "以法语为主；B2要求、C1建议",
-        "entry_summary": "中国高中学历须核对入学考试或CMS预科路径。",
-        "tuition_summary": "适用三倍学费者 CHF 2,190／学期，另有费用",
-        "outcomes_summary": "官方培养及职业方向已补；本科就业统计待核实"
+        "language": "以法语为主；部分英语课程，法语B2要求/C1建议",
+        "entry_summary": "大陆普高走CMS审查或入学考试；IB及International A-level另按资格类别，不能凭高考直接推定录取。",
+        "tuition_summary": "适用外国学生通常 CHF 2,240/学期（其中学费2,190）；2025秋起政策",
+        "outcomes_summary": "已核培养及后续方向；未取得本专业本科就业率/薪资调查",
+        "intake": "课程计划2026–27；2027–28专属入学细则待核"
       },
       "sections": {
         "overview": [
@@ -67,6 +282,52 @@
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "学位层级与课程年度",
+            "text": "本项仍是现有独立本科入口；通常 3 年、180 ECTS，由第一学年 60 ECTS 和其后两年 120 ECTS 组成。本轮逐课及考核依据为 2026–27 正式计划，未将其冒充 2027–28 新生未来三年的固定课程表。",
+            "source_ids": [
+              "rulebook-02-2026"
+            ],
+            "extraction_locator": "Art.2; official 2026–27 study plan"
+          },
+          {
+            "label": "第一年课程（2026–27）",
+            "text": "第一年学习分析、线性代数、力学与热力学、高等普通化学 I/II，配合化学实验 I/II、信息计算通信和可持续发展。",
+            "source_ids": [
+              "plan-02-sheet-1221264202"
+            ],
+            "extraction_locator": "Cycle propédeutique, course rows and notes"
+          },
+          {
+            "label": "第二、三年课程与考核",
+            "text": "二年级共同部分覆盖元素与配位化学、有机反应、分析分离及实验、量子化学和光谱、生物化学、化工与传递过程、统计和编程。三年级选择化学或化学工程方向：化学包括制备、结构分析、建模和实验物理化学，再选三组模块；化工包括生化工程、反应器模拟、传递与分离、过程控制及反应工程。",
+            "source_ids": [
+              "plan-02-sheet-1766420484",
+              "plan-02-sheet-1692082192",
+              "plan-02-sheet-1646053759",
+              "rulebook-02-2026"
+            ],
+            "extraction_locator": "Cycle Bachelor; Art.3 and bachelor chapter"
+          },
+          {
+            "label": "学分与方向边界",
+            "text": "二年级专业课程 56 ECTS、三年级方向课程 56 ECTS，另有跨二、三年级 SHS/MGT 8 ECTS，共 120 ECTS。化学三年级为共同组 20 加三个各 12 ECTS 的模块；化工为 17、17、16 ECTS 三组及 6 ECTS 选修。它们属于同一本科内的两条方向，不是本轮新增两个独立学位。",
+            "source_ids": [
+              "rulebook-02-2026",
+              "plan-02-sheet-1766420484",
+              "plan-02-sheet-1692082192",
+              "plan-02-sheet-1646053759"
+            ],
+            "extraction_locator": "Bachelor cycle credit groups and cohort notes"
+          },
+          {
+            "label": "授课语言范围",
+            "text": "本科大部分课程以法语授课，二年级起计划可能含最多50%的英语课程；部分数学物理可选英语或德语。入学页面要求法语至少B2并强烈建议C1，英语课程存在不意味着全英语本科。",
+            "source_ids": [
+              "teaching-languages",
+              "admission-current"
+            ]
           }
         ],
         "outcomes": [
@@ -75,6 +336,68 @@
             "text": "后续可选择偏研究的分子与生物化学硕士，或偏工业过程的化工与生物技术硕士。 本次项目页未取得可比的本科就业率、薪资及样本数据。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "就业数据的学历边界",
+            "text": "本轮取得的官方2022届就业调查在2023年8月中至9月中访问硕士与博士毕业生，未覆盖本项本科毕业生。因此不将该报告的就业率、薪资或学院分项转作本项本科结果；本科届次、答卷数和中国学生统计仍未取得。",
+            "source_ids": [
+              "outcomes-2022"
+            ],
+            "extraction_locator": "Report Preamble, printed page1/PDF page3"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "入校后的第一年升读条件",
+            "text": "2026–27 本专业规章要求冬季考试后第一个考核组平均至少 3.50/6 才可进入春季；夏季考试后2个组各至少 4.00/6 才通过第一学年。这些是大学在读考核，不是高考百分比。第一年表中的 coefficients 是评分权重，不能直接当各课 ECTS。",
+            "source_ids": [
+              "rulebook-02-2026"
+            ],
+            "extraction_locator": "Propedeutic examinations"
+          },
+          {
+            "label": "专业选课、转入或后续阶段条件",
+            "text": "须在三年级开始前选择化学或化学工程方向；选择影响以后无附加先修进入对应硕士的条件。部分三年级实验课有各自课程表先修，须已取得该课程学分或通过所属考核组补偿取得；这是在校选课要求。",
+            "source_ids": [
+              "rulebook-02-2026"
+            ],
+            "extraction_locator": "Programme-specific bachelor rules / department current page"
+          },
+          {
+            "label": "化学方向重修者的学分过渡",
+            "text": "2026–27 规章第 23 条只针对重修 CH-329 制备化学 II 者：该实验由 8 降为 6 ECTS，须在任课教师指导下完成相当于 2 ECTS 的短项目，使该课达到 8，或修 CH-332 药物化学补足 2。不能将这项旧课重修安排加到所有新入学者的标准学分中。",
+            "source_ids": [
+              "rulebook-02-2026"
+            ],
+            "extraction_locator": "Art.23 Cycle Bachelor, orientation chimie, group5"
+          }
+        ],
+        "applications": [
+          {
+            "label": "第三年交换的在读资格",
+            "text": "本专业 2026–27 规章要求第一年考试平均至少 4.50/6，欧洲以外交换至少 5.00/6，并已取得第二年全部 60 ECTS，还须目的地及学院批准。通过二、三年级外部转入者，学校总则不允许第三年学术交换；上述成绩不构成高中直接申请交换路线。",
+            "source_ids": [
+              "rulebook-02-2026",
+              "admission-current"
+            ],
+            "extraction_locator": "Mobility article; admission Other higher education"
+          },
+          {
+            "label": "高中申请与课程注册的区别",
+            "text": "本项高中申请沿用学校按学历类别划分的本科/CMS程序；常规申请是11月中旬至次年4月30日，补件节点见学校资料。2026–27 学生课程注册日并非 2027 高中新生录取截止，本轮未取得本专业单列的 2027–28 新生截止。",
+            "source_ids": [
+              "apply-current",
+              "academic-calendar"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科收费范围与年度",
+            "text": "对因学习来瑞士且不满足豁免的外国学生，本科当前按学期收 CHF 2,190 学费，加三项费用后通常账单 CHF 2,240。规则自2025年秋生效、首次指数调整计划2029年；这是学校本科收费政策，不是本专业单独报价或未来全程价格保证。",
+            "source_ids": [
+              "fees-current"
             ]
           }
         ]
@@ -87,23 +410,125 @@
           "checked_at": "2026-09-12",
           "supports": "本科培养结构、硕士衔接及职业方向",
           "sha256": "e905f97a514bd6e31c145d9bbb845751fbd5bbb90a6655d0b2e5d5abe57d06fc"
+        },
+        {
+          "id": "rulebook-02-2026",
+          "title": "EPFL Chemistry and Chemical Engineering：2026–27本科及硕士考核规章",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vRmrH4ldu1JeXHAODriCqb_AATij5i2hhnLxcRnmmXkanxdEDiGpfjnViX_jT2gubO6Bm7ro7ooy5dp/pub",
+          "checked_at": "2026-09-13",
+          "supports": "学位层级与课程年度",
+          "sha256": "0371f40dbd5be75506f86294a4cd43c6935619f402607286968d46e353bff8a7",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-02-sheet-1221264202",
+          "title": "EPFL Chemistry and Chemical Engineering：2026–27第一学年正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTffZgm-Bm42A4stKZBEC2BsIK6b1slFhTfY7xve-cxXt4UVnPshluA5cbEtEqlDt7t7oioGC_dWaQh/pubhtml/sheet?headers=false&gid=1221264202",
+          "checked_at": "2026-09-13",
+          "supports": "第一年课程（2026–27）",
+          "sha256": "c7642fb5f792c15f7739b89cc483132c84dbe2df24983fa0cccfb3fbf6301e95",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-02-sheet-1766420484",
+          "title": "EPFL Chemistry and Chemical Engineering：2026–27本科二、三年级正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTffZgm-Bm42A4stKZBEC2BsIK6b1slFhTfY7xve-cxXt4UVnPshluA5cbEtEqlDt7t7oioGC_dWaQh/pubhtml/sheet?headers=false&gid=1766420484",
+          "checked_at": "2026-09-13",
+          "supports": "第二、三年课程与考核",
+          "sha256": "6d246abdead9b05b9d4b945032ff4fa3f4276ad3e5f82dc04cb012ef9aa67e89",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-02-sheet-1692082192",
+          "title": "EPFL Chemistry and Chemical Engineering：2026–27本科二、三年级正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTffZgm-Bm42A4stKZBEC2BsIK6b1slFhTfY7xve-cxXt4UVnPshluA5cbEtEqlDt7t7oioGC_dWaQh/pubhtml/sheet?headers=false&gid=1692082192",
+          "checked_at": "2026-09-13",
+          "supports": "第二、三年课程与考核",
+          "sha256": "0090e86a00f958e48d327bb9e8534df3e5ad5e8dcbea200a33a7d9046ddbbda3",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-02-sheet-1646053759",
+          "title": "EPFL Chemistry and Chemical Engineering：2026–27本科二、三年级正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTffZgm-Bm42A4stKZBEC2BsIK6b1slFhTfY7xve-cxXt4UVnPshluA5cbEtEqlDt7t7oioGC_dWaQh/pubhtml/sheet?headers=false&gid=1646053759",
+          "checked_at": "2026-09-13",
+          "supports": "第二、三年课程与考核",
+          "sha256": "588cb835a805746378a45f57160debaceeb8283befb9d907f12826833d53cbe7",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "admission-current",
+          "title": "EPFL当前本科及CMS资格：大陆高中、IB与A-level",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
+          "checked_at": "2026-09-13",
+          "supports": "第三年交换的在读资格",
+          "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "apply-current",
+          "title": "EPFL本科/CMS申请程序",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "academic-calendar",
+          "title": "EPFL 2026–27在校学期日历",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "e4ba2933b1209a1be2a422d20a1e7b3e81383575f536b8e02fb4e185f1ad088f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "fees-current",
+          "title": "EPFL学期学费与其他收费",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "本科收费范围与年度",
+          "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "outcomes-2022",
+          "title": "EPFL 2022届硕士与博士就业调查（2024年5月报告）",
+          "url": "https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "就业数据的学历边界",
+          "sha256": "6fdf20064c0104d8a10610bdb7e035a8d003072889021a8b97cb34f9d6fcf1f2",
+          "capture_format": "public_HTTP_PDF"
+        },
+        {
+          "id": "teaching-languages",
+          "title": "EPFL各学习阶段授课语言",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/",
+          "checked_at": "2026-09-13",
+          "supports": "授课语言范围",
+          "sha256": "eb2054d2512e577f36f0c92d32172a860593aa4b95be5cc1ccb5a093ae251748",
+          "capture_format": "public_HTTP_HTML"
         }
       ],
       "university_id": "epfl",
       "name_en": "Chemistry and Chemical Engineering",
-      "official_url": "https://www.epfl.ch/education/bachelor/programs/chemistry-and-chemical-engineering/"
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/chemistry-and-chemical-engineering/",
+      "research_status": "partial",
+      "degree_label": "Bachelor"
     },
     {
       "inventory_id": "epfl-civil-engineering-21ab809923",
       "raw_key": "https://www.epfl.ch/education/bachelor/programs/civil-engineering/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "display_fields": {
         "name": "土木工程",
         "duration": "通常3年；180 ECTS",
-        "language": "以法语为主；B2要求、C1建议",
-        "entry_summary": "中国高中学历须核对入学考试或CMS预科路径。",
-        "tuition_summary": "适用三倍学费者 CHF 2,190／学期，另有费用",
-        "outcomes_summary": "官方培养及职业方向已补；本科就业统计待核实"
+        "language": "以法语为主；部分英语课程，法语B2要求/C1建议",
+        "entry_summary": "大陆普高走CMS审查或入学考试；IB及International A-level另按资格类别，不能凭高考直接推定录取。",
+        "tuition_summary": "适用外国学生通常 CHF 2,240/学期（其中学费2,190）；2025秋起政策",
+        "outcomes_summary": "已核培养及后续方向；未取得本专业本科就业率/薪资调查",
+        "intake": "课程计划2026–27；2027–28专属入学细则待核"
       },
       "sections": {
         "overview": [
@@ -112,6 +537,48 @@
             "text": "数理基础贯穿三年，从首年即接触静力学、地质、结构和材料；后续包括土与流体力学、水力和综合项目。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "学位层级与课程年度",
+            "text": "本项仍是现有独立本科入口；通常 3 年、180 ECTS，由第一学年 60 ECTS 和其后两年 120 ECTS 组成。本轮逐课及考核依据为 2026–27 正式计划，未将其冒充 2027–28 新生未来三年的固定课程表。",
+            "source_ids": [
+              "rulebook-03-2026"
+            ],
+            "extraction_locator": "Art.2; official 2026–27 study plan"
+          },
+          {
+            "label": "第一年课程（2026–27）",
+            "text": "第一年有分析、线性代数、普通化学、力学与热力学、结构导论、材料、静力学和工程编程。",
+            "source_ids": [
+              "plan-03-sheet-1423736282"
+            ],
+            "extraction_locator": "Cycle propédeutique, course rows and notes"
+          },
+          {
+            "label": "第二、三年课程与考核",
+            "text": "二年级深化分析、概率统计与优化，以及流体、连续介质、土力学和结构力学，并引入地质、机器学习、交通系统及结构安全。三年级覆盖水力设计、岩土与地下工程、混凝土和钢结构、结构数值建模、交通与城市热力学，并完成土木项目。",
+            "source_ids": [
+              "plan-03-sheet-447564859",
+              "rulebook-03-2026"
+            ],
+            "extraction_locator": "Cycle Bachelor; Art.3 and bachelor chapter"
+          },
+          {
+            "label": "学分与方向边界",
+            "text": "二年级三组为 15、22、15 ECTS；三年级专业组 45、项目 5、选修 6 ECTS；另有共同设计 4 与 SHS/MGT 8 ECTS，共 120 ECTS。木结构、BIM、环境水文等列在选修池，不能表述为全部必修。",
+            "source_ids": [
+              "rulebook-03-2026",
+              "plan-03-sheet-447564859"
+            ],
+            "extraction_locator": "Bachelor cycle credit groups and cohort notes"
+          },
+          {
+            "label": "授课语言范围",
+            "text": "本科大部分课程以法语授课，二年级起计划可能含最多50%的英语课程；部分数学物理可选英语或德语。入学页面要求法语至少B2并强烈建议C1，英语课程存在不意味着全英语本科。",
+            "source_ids": [
+              "teaching-languages",
+              "admission-current"
             ]
           }
         ],
@@ -122,6 +589,70 @@
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "就业数据的学历边界",
+            "text": "本轮取得的官方2022届就业调查在2023年8月中至9月中访问硕士与博士毕业生，未覆盖本项本科毕业生。因此不将该报告的就业率、薪资或学院分项转作本项本科结果；本科届次、答卷数和中国学生统计仍未取得。",
+            "source_ids": [
+              "outcomes-2022"
+            ],
+            "extraction_locator": "Report Preamble, printed page1/PDF page3"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "入校后的第一年升读条件",
+            "text": "2026–27 本专业规章要求冬季考试后第一个考核组平均至少 3.50/6 才可进入春季；夏季考试后2个组各至少 4.00/6 才通过第一学年。这些是大学在读考核，不是高考百分比。第一年表中的 coefficients 是评分权重，不能直接当各课 ECTS。",
+            "source_ids": [
+              "rulebook-03-2026"
+            ],
+            "extraction_locator": "Propedeutic examinations"
+          },
+          {
+            "label": "专业选课、转入或后续阶段条件",
+            "text": "选修组可在学院预先批准后选读未列入本专业计划的其他 EPFL 本科课程。院系明确本科学位是继续工程师培养的学术阶段，并非完成全部职业训练。",
+            "source_ids": [
+              "rulebook-03-2026",
+              "plan-03-sheet-447564859",
+              "department-03"
+            ],
+            "extraction_locator": "Programme-specific bachelor rules / department current page"
+          }
+        ],
+        "applications": [
+          {
+            "label": "第三年交换的在读资格",
+            "text": "本专业 2026–27 规章要求第一年考试平均至少 4.50/6，欧洲以外交换至少 5.00/6，并已取得第二年全部 60 ECTS，还须目的地及学院批准。通过二、三年级外部转入者，学校总则不允许第三年学术交换；上述成绩不构成高中直接申请交换路线。",
+            "source_ids": [
+              "rulebook-03-2026",
+              "admission-current"
+            ],
+            "extraction_locator": "Mobility article; admission Other higher education"
+          },
+          {
+            "label": "高中申请与课程注册的区别",
+            "text": "本项高中申请沿用学校按学历类别划分的本科/CMS程序；常规申请是11月中旬至次年4月30日，补件节点见学校资料。2026–27 学生课程注册日并非 2027 高中新生录取截止，本轮未取得本专业单列的 2027–28 新生截止。",
+            "source_ids": [
+              "apply-current",
+              "academic-calendar"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科收费范围与年度",
+            "text": "对因学习来瑞士且不满足豁免的外国学生，本科当前按学期收 CHF 2,190 学费，加三项费用后通常账单 CHF 2,240。规则自2025年秋生效、首次指数调整计划2029年；这是学校本科收费政策，不是本专业单独报价或未来全程价格保证。",
+            "source_ids": [
+              "fees-current"
+            ]
+          },
+          {
+            "label": "建筑/土木专项助学金入口",
+            "text": "Orlando Lauti Foundation 面向建筑、土木本科及硕士等指定项目，但须已成功完成在 EPFL 的一年；瑞士或意大利国籍优先。当前目录列2026–27申请批次，具体金额和中国申请者获资助概率未取得，不能用于抵减新生预算。",
+            "source_ids": [
+              "scholarships"
+            ],
+            "extraction_locator": "Orlando Lauti Foundation"
           }
         ]
       },
@@ -133,23 +664,125 @@
           "checked_at": "2026-09-12",
           "supports": "本科培养结构、硕士衔接及职业方向",
           "sha256": "c7733675fa8dc7f12365ef32aee7327d3acae3864a3f2eac3d638c8ad89a99bf"
+        },
+        {
+          "id": "rulebook-03-2026",
+          "title": "EPFL Civil Engineering：2026–27本科及硕士考核规章",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vRTNBKQuvb6njrmkoW6okTV1YRA2SuJ1XwtSKxKQb2myukPh1ud36uvREMGda6Bih7ysvGUpOB15ZKQ/pub",
+          "checked_at": "2026-09-13",
+          "supports": "学位层级与课程年度",
+          "sha256": "858f49b1275d4205ac92c170f8a6705752d6d532d55d7c1b875e3d982e1a897c",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-03-sheet-1423736282",
+          "title": "EPFL Civil Engineering：2026–27第一学年正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQE5IEoxFGRYb-d_8nV9p8viVsTLd7fVOw6LrJ5vfPEXcidOmuWN-no_ATZac5okEIIK6YXWdeecmmR/pubhtml/sheet?headers=false&gid=1423736282",
+          "checked_at": "2026-09-13",
+          "supports": "第一年课程（2026–27）",
+          "sha256": "44886e6f4cc269db5b297751369636bb0de96e255140bc04223d7fb42f797beb",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-03-sheet-447564859",
+          "title": "EPFL Civil Engineering：2026–27本科二、三年级正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQE5IEoxFGRYb-d_8nV9p8viVsTLd7fVOw6LrJ5vfPEXcidOmuWN-no_ATZac5okEIIK6YXWdeecmmR/pubhtml/sheet?headers=false&gid=447564859",
+          "checked_at": "2026-09-13",
+          "supports": "第二、三年课程与考核",
+          "sha256": "c67dbeb0a7ca61dd927cef3c8f46fd2dd4e3eddc42a1602fe3ce8b366c7aa8bc",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "department-03",
+          "title": "Bachelor ‒ ENAC SGC ‐ EPFL",
+          "url": "https://www.epfl.ch/schools/enac/education/civil-engineering/formation-en/bachelor-en/",
+          "checked_at": "2026-09-13",
+          "supports": "专业选课、转入或后续阶段条件",
+          "sha256": "f7ed826fcfa3cae28e901b0acec57fccadba4bf2661500ed2e3e06035d6cfa01",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "admission-current",
+          "title": "EPFL当前本科及CMS资格：大陆高中、IB与A-level",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
+          "checked_at": "2026-09-13",
+          "supports": "第三年交换的在读资格",
+          "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "apply-current",
+          "title": "EPFL本科/CMS申请程序",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "academic-calendar",
+          "title": "EPFL 2026–27在校学期日历",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "e4ba2933b1209a1be2a422d20a1e7b3e81383575f536b8e02fb4e185f1ad088f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "fees-current",
+          "title": "EPFL学期学费与其他收费",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "本科收费范围与年度",
+          "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "outcomes-2022",
+          "title": "EPFL 2022届硕士与博士就业调查（2024年5月报告）",
+          "url": "https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "就业数据的学历边界",
+          "sha256": "6fdf20064c0104d8a10610bdb7e035a8d003072889021a8b97cb34f9d6fcf1f2",
+          "capture_format": "public_HTTP_PDF"
+        },
+        {
+          "id": "scholarships",
+          "title": "EPFL奖学金及按专业资助入口",
+          "url": "https://www.epfl.ch/education/studies/en/support-scholarships/",
+          "checked_at": "2026-09-13",
+          "supports": "建筑/土木专项助学金入口",
+          "sha256": "d184751fe17b91825db2f34f1db510e250da6e18b4e7fa744570e6e92f0dbcb9",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "teaching-languages",
+          "title": "EPFL各学习阶段授课语言",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/",
+          "checked_at": "2026-09-13",
+          "supports": "授课语言范围",
+          "sha256": "eb2054d2512e577f36f0c92d32172a860593aa4b95be5cc1ccb5a093ae251748",
+          "capture_format": "public_HTTP_HTML"
         }
       ],
       "university_id": "epfl",
       "name_en": "Civil Engineering",
-      "official_url": "https://www.epfl.ch/education/bachelor/programs/civil-engineering/"
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/civil-engineering/",
+      "research_status": "partial",
+      "degree_label": "Bachelor"
     },
     {
       "inventory_id": "epfl-communication-systems-2a3c1e23e8",
       "raw_key": "https://www.epfl.ch/education/bachelor/programs/communication-systems/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "display_fields": {
         "name": "通信系统",
         "duration": "通常3年；180 ECTS",
-        "language": "以法语为主；B2要求、C1建议",
-        "entry_summary": "中国高中学历须核对入学考试或CMS预科路径。",
-        "tuition_summary": "适用三倍学费者 CHF 2,190／学期，另有费用",
-        "outcomes_summary": "官方培养及职业方向已补；本科就业统计待核实"
+        "language": "以法语为主；部分英语课程，法语B2要求/C1建议",
+        "entry_summary": "大陆普高走CMS审查或入学考试；IB及International A-level另按资格类别，不能凭高考直接推定录取。",
+        "tuition_summary": "适用外国学生通常 CHF 2,240/学期（其中学费2,190）；2025秋起政策",
+        "outcomes_summary": "已核培养及后续方向；未取得本专业本科就业率/薪资调查",
+        "intake": "课程计划2026–27；2027–28专属入学细则待核"
       },
       "sections": {
         "overview": [
@@ -159,6 +792,49 @@
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "学位层级与课程年度",
+            "text": "本项仍是现有独立本科入口；通常 3 年、180 ECTS，由第一学年 60 ECTS 和其后两年 120 ECTS 组成。本轮逐课及考核依据为 2026–27 正式计划，未将其冒充 2027–28 新生未来三年的固定课程表。",
+            "source_ids": [
+              "rulebook-04-2026"
+            ],
+            "extraction_locator": "Art.2; official 2026–27 study plan"
+          },
+          {
+            "label": "第一年课程（2026–27）",
+            "text": "第一年与计算机科学共同培养：分析、线性代数、力学、编程导论、面向对象编程、信息计算通信与数字系统。2026 年秋起使用三考核组；此前入读学生仍按原届次规则。",
+            "source_ids": [
+              "plan-04-sheet-763269472",
+              "rulebook-04-2026"
+            ],
+            "extraction_locator": "Cycle propédeutique, course rows and notes; cohort transition rules"
+          },
+          {
+            "label": "第二、三年课程与考核",
+            "text": "二年级必修算法、分析、信号处理、计算机系统、机器学习、电磁学与概率统计；三年级核心为代数、安全与隐私、通信随机模型和数字通信原理，并有项目与选修。",
+            "source_ids": [
+              "plan-04-sheet-762119346",
+              "rulebook-04-2026"
+            ],
+            "extraction_locator": "Cycle Bachelor; Art.3 and bachelor chapter"
+          },
+          {
+            "label": "学分与方向边界",
+            "text": "二年级核心 A/B 组分别 22/24 ECTS，三年级 C 组 22；项目 8、选修 36、跨年 SHS/MGT 8 ECTS，共 120 ECTS。第三年经学院事先批准，计划外课程总计最多 12 ECTS；指定可选研究项目 COM-307 为 8 ECTS。",
+            "source_ids": [
+              "rulebook-04-2026",
+              "plan-04-sheet-762119346"
+            ],
+            "extraction_locator": "Bachelor cycle credit groups and cohort notes"
+          },
+          {
+            "label": "授课语言范围",
+            "text": "本科大部分课程以法语授课，二年级起计划可能含最多50%的英语课程；部分数学物理可选英语或德语。入学页面要求法语至少B2并强烈建议C1，英语课程存在不意味着全英语本科。",
+            "source_ids": [
+              "teaching-languages",
+              "admission-current"
+            ]
           }
         ],
         "outcomes": [
@@ -167,6 +843,60 @@
             "text": "可继续计算机、数据科学或网络安全等硕士；页面所列发展路径不是本科就业调查。 本次项目页未取得可比的本科就业率、薪资及样本数据。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "就业数据的学历边界",
+            "text": "本轮取得的官方2022届就业调查在2023年8月中至9月中访问硕士与博士毕业生，未覆盖本项本科毕业生。因此不将该报告的就业率、薪资或学院分项转作本项本科结果；本科届次、答卷数和中国学生统计仍未取得。",
+            "source_ids": [
+              "outcomes-2022"
+            ],
+            "extraction_locator": "Report Preamble, printed page1/PDF page3"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "入校后的第一年升读条件",
+            "text": "2026–27 本专业规章要求冬季考试后第一个考核组平均至少 3.50/6 才可进入春季；夏季考试后3个组各至少 4.00/6 才通过第一学年。2026 年秋前入读者另有旧届次规则。这些是大学在读考核，不是高考百分比。第一年表中的 coefficients 是评分权重，不能直接当各课 ECTS。",
+            "source_ids": [
+              "rulebook-04-2026"
+            ],
+            "extraction_locator": "Propedeutic examinations"
+          },
+          {
+            "label": "专业选课、转入或后续阶段条件",
+            "text": "院系提供 Computer Science and Systems、Software and Data Science、Theory and Quantum、Machine Learning and Bio 四种选修搭配建议，明确仅为 recommendations。学生可自行设计满足学分规则的组合；它们不构成四个新学位或强制分流。",
+            "source_ids": [
+              "comm-tracks"
+            ],
+            "extraction_locator": "Programme-specific bachelor rules / department current page"
+          }
+        ],
+        "applications": [
+          {
+            "label": "第三年交换的在读资格",
+            "text": "本专业 2026–27 规章要求第一年考试平均至少 4.50/6，欧洲以外交换至少 5.00/6，并已取得第二年全部 60 ECTS，还须目的地及学院批准。通过二、三年级外部转入者，学校总则不允许第三年学术交换；上述成绩不构成高中直接申请交换路线。",
+            "source_ids": [
+              "rulebook-04-2026",
+              "admission-current"
+            ],
+            "extraction_locator": "Mobility article; admission Other higher education"
+          },
+          {
+            "label": "高中申请与课程注册的区别",
+            "text": "本项高中申请沿用学校按学历类别划分的本科/CMS程序；常规申请是11月中旬至次年4月30日，补件节点见学校资料。2026–27 学生课程注册日并非 2027 高中新生录取截止，本轮未取得本专业单列的 2027–28 新生截止。",
+            "source_ids": [
+              "apply-current",
+              "academic-calendar"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科收费范围与年度",
+            "text": "对因学习来瑞士且不满足豁免的外国学生，本科当前按学期收 CHF 2,190 学费，加三项费用后通常账单 CHF 2,240。规则自2025年秋生效、首次指数调整计划2029年；这是学校本科收费政策，不是本专业单独报价或未来全程价格保证。",
+            "source_ids": [
+              "fees-current"
             ]
           }
         ]
@@ -179,23 +909,116 @@
           "checked_at": "2026-09-12",
           "supports": "本科培养结构、硕士衔接及职业方向",
           "sha256": "9f836aa13f2743d1be2aa549747e5d3a29e6769ab663e6ada991e6d8f92ffc3b"
+        },
+        {
+          "id": "rulebook-04-2026",
+          "title": "EPFL Communication Systems：2026–27本科及硕士考核规章",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vRKNhQsUQjUDA0GbSOq3iz2nVfaLn-P5kPVqaJ1v3RJKdGJAXzsqfWaOyzVgMmdUAciuHlpEBwgNgA8/pub",
+          "checked_at": "2026-09-13",
+          "supports": "学位层级与课程年度",
+          "sha256": "b9001a4a52046d0f4ccab198a151d128468c8c8e7aa2c2548ab69e6461685a60",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-04-sheet-763269472",
+          "title": "EPFL Communication Systems：2026–27第一学年正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSB1gSHaqomqZxAfgKu9NUFlNJSLjnC2yjxhpmvIduvoTIPjqozr9wW9Xe3wpAItSw79G8155_Czhme/pubhtml/sheet?headers=false&gid=763269472",
+          "checked_at": "2026-09-13",
+          "supports": "第一年课程（2026–27）",
+          "sha256": "2e7364ed78385a1fd8634331fff4f093e01842b7e32c4dac8ff91852141e6900",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-04-sheet-762119346",
+          "title": "EPFL Communication Systems：2026–27本科二、三年级正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSB1gSHaqomqZxAfgKu9NUFlNJSLjnC2yjxhpmvIduvoTIPjqozr9wW9Xe3wpAItSw79G8155_Czhme/pubhtml/sheet?headers=false&gid=762119346",
+          "checked_at": "2026-09-13",
+          "supports": "第二、三年课程与考核",
+          "sha256": "4b42db55041c18a1ec42368076ec8fefb0889f1c6e7687dda9301e8813e6797c",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "comm-tracks",
+          "title": "通信系统本科选修搭配建议",
+          "url": "https://www.epfl.ch/schools/ic/education/bachelor/communication-systems/tracks-cs/",
+          "checked_at": "2026-09-13",
+          "supports": "专业选课、转入或后续阶段条件",
+          "sha256": "696d1c734f275e9a6301d4035b80eb24e46128b01db34930bbdfaca28d1d63af",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "admission-current",
+          "title": "EPFL当前本科及CMS资格：大陆高中、IB与A-level",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
+          "checked_at": "2026-09-13",
+          "supports": "第三年交换的在读资格",
+          "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "apply-current",
+          "title": "EPFL本科/CMS申请程序",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "academic-calendar",
+          "title": "EPFL 2026–27在校学期日历",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "e4ba2933b1209a1be2a422d20a1e7b3e81383575f536b8e02fb4e185f1ad088f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "fees-current",
+          "title": "EPFL学期学费与其他收费",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "本科收费范围与年度",
+          "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "outcomes-2022",
+          "title": "EPFL 2022届硕士与博士就业调查（2024年5月报告）",
+          "url": "https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "就业数据的学历边界",
+          "sha256": "6fdf20064c0104d8a10610bdb7e035a8d003072889021a8b97cb34f9d6fcf1f2",
+          "capture_format": "public_HTTP_PDF"
+        },
+        {
+          "id": "teaching-languages",
+          "title": "EPFL各学习阶段授课语言",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/",
+          "checked_at": "2026-09-13",
+          "supports": "授课语言范围",
+          "sha256": "eb2054d2512e577f36f0c92d32172a860593aa4b95be5cc1ccb5a093ae251748",
+          "capture_format": "public_HTTP_HTML"
         }
       ],
       "university_id": "epfl",
       "name_en": "Communication Systems",
-      "official_url": "https://www.epfl.ch/education/bachelor/programs/communication-systems/"
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/communication-systems/",
+      "research_status": "partial",
+      "degree_label": "Bachelor"
     },
     {
       "inventory_id": "epfl-computer-science-f50dd1f536",
       "raw_key": "https://www.epfl.ch/education/bachelor/programs/computer-science/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "display_fields": {
         "name": "计算机科学",
         "duration": "通常3年；180 ECTS",
-        "language": "以法语为主；B2要求、C1建议",
-        "entry_summary": "中国高中学历须核对入学考试或CMS预科路径。",
-        "tuition_summary": "适用三倍学费者 CHF 2,190／学期，另有费用",
-        "outcomes_summary": "官方培养及职业方向已补；本科就业统计待核实"
+        "language": "以法语为主；部分英语课程，法语B2要求/C1建议",
+        "entry_summary": "大陆普高走CMS审查或入学考试；IB及International A-level另按资格类别，不能凭高考直接推定录取。",
+        "tuition_summary": "适用外国学生通常 CHF 2,240/学期（其中学费2,190）；2025秋起政策",
+        "outcomes_summary": "已核培养及后续方向；未取得本专业本科就业率/薪资调查",
+        "intake": "课程计划2026–27；2027–28专属入学细则待核"
       },
       "sections": {
         "overview": [
@@ -205,6 +1028,49 @@
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "学位层级与课程年度",
+            "text": "本项仍是现有独立本科入口；通常 3 年、180 ECTS，由第一学年 60 ECTS 和其后两年 120 ECTS 组成。本轮逐课及考核依据为 2026–27 正式计划，未将其冒充 2027–28 新生未来三年的固定课程表。",
+            "source_ids": [
+              "rulebook-05-2026"
+            ],
+            "extraction_locator": "Art.2; official 2026–27 study plan"
+          },
+          {
+            "label": "第一年课程（2026–27）",
+            "text": "第一年与通信系统共同培养：分析、线性代数、力学、编程导论、面向对象编程、信息计算通信与数字系统。2026 年秋起三个考核组适用新入读者，原入读者保留其旧届次规则。",
+            "source_ids": [
+              "plan-05-sheet-693566922",
+              "rulebook-05-2026"
+            ],
+            "extraction_locator": "Cycle propédeutique, course rows and notes; cohort transition rules"
+          },
+          {
+            "label": "第二、三年课程与考核",
+            "text": "二年级核心为算法、分析、软件构建、计算机架构和系统、概率统计；三年级核心为安全与隐私、数据密集型系统和计算理论。项目可涉及智能物件或软件产品，并另设物理/生物课程及广泛选修。",
+            "source_ids": [
+              "plan-05-sheet-638027018",
+              "rulebook-05-2026"
+            ],
+            "extraction_locator": "Cycle Bachelor; Art.3 and bachelor chapter"
+          },
+          {
+            "label": "学分与方向边界",
+            "text": "二年级 A/B 组各 22 ECTS，三年级 C 组 18；项目/物理生物/选修合组 50，其中项目 8、物理生物 4、选修 38；另有 SHS/MGT 8 ECTS，共 120。不能把 50 和其内部 8/4/38 再重复计入。",
+            "source_ids": [
+              "rulebook-05-2026",
+              "plan-05-sheet-638027018"
+            ],
+            "extraction_locator": "Bachelor cycle credit groups and cohort notes"
+          },
+          {
+            "label": "授课语言范围",
+            "text": "本科大部分课程以法语授课，二年级起计划可能含最多50%的英语课程；部分数学物理可选英语或德语。入学页面要求法语至少B2并强烈建议C1，英语课程存在不意味着全英语本科。",
+            "source_ids": [
+              "teaching-languages",
+              "admission-current"
+            ]
           }
         ],
         "outcomes": [
@@ -213,6 +1079,60 @@
             "text": "信息技术、软件与计算系统，或继续计算机、数据科学和网络安全等硕士。 本次项目页未取得可比的本科就业率、薪资及样本数据。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "就业数据的学历边界",
+            "text": "本轮取得的官方2022届就业调查在2023年8月中至9月中访问硕士与博士毕业生，未覆盖本项本科毕业生。因此不将该报告的就业率、薪资或学院分项转作本项本科结果；本科届次、答卷数和中国学生统计仍未取得。",
+            "source_ids": [
+              "outcomes-2022"
+            ],
+            "extraction_locator": "Report Preamble, printed page1/PDF page3"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "入校后的第一年升读条件",
+            "text": "2026–27 本专业规章要求冬季考试后第一个考核组平均至少 3.50/6 才可进入春季；夏季考试后3个组各至少 4.00/6 才通过第一学年。2026 年秋前入读者另有旧届次规则。这些是大学在读考核，不是高考百分比。第一年表中的 coefficients 是评分权重，不能直接当各课 ECTS。",
+            "source_ids": [
+              "rulebook-05-2026"
+            ],
+            "extraction_locator": "Propedeutic examinations"
+          },
+          {
+            "label": "专业选课、转入或后续阶段条件",
+            "text": "第三年计划外课程总计最多 12 ECTS，均须学院事先批准，其中可认可课程码 CS/COM、各 6 ECTS 的硕士选修。指定可选研究项目 CS-304 为 8 ECTS；这种选课许可不把本科改成硕士，也不保证任意硕士课均可计入。",
+            "source_ids": [
+              "rulebook-05-2026"
+            ],
+            "extraction_locator": "Programme-specific bachelor rules / department current page"
+          }
+        ],
+        "applications": [
+          {
+            "label": "第三年交换的在读资格",
+            "text": "本专业 2026–27 规章要求第一年考试平均至少 4.50/6，欧洲以外交换至少 5.00/6，并已取得第二年全部 60 ECTS，还须目的地及学院批准。通过二、三年级外部转入者，学校总则不允许第三年学术交换；上述成绩不构成高中直接申请交换路线。",
+            "source_ids": [
+              "rulebook-05-2026",
+              "admission-current"
+            ],
+            "extraction_locator": "Mobility article; admission Other higher education"
+          },
+          {
+            "label": "高中申请与课程注册的区别",
+            "text": "本项高中申请沿用学校按学历类别划分的本科/CMS程序；常规申请是11月中旬至次年4月30日，补件节点见学校资料。2026–27 学生课程注册日并非 2027 高中新生录取截止，本轮未取得本专业单列的 2027–28 新生截止。",
+            "source_ids": [
+              "apply-current",
+              "academic-calendar"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科收费范围与年度",
+            "text": "对因学习来瑞士且不满足豁免的外国学生，本科当前按学期收 CHF 2,190 学费，加三项费用后通常账单 CHF 2,240。规则自2025年秋生效、首次指数调整计划2029年；这是学校本科收费政策，不是本专业单独报价或未来全程价格保证。",
+            "source_ids": [
+              "fees-current"
             ]
           }
         ]
@@ -225,23 +1145,107 @@
           "checked_at": "2026-09-12",
           "supports": "本科培养结构、硕士衔接及职业方向",
           "sha256": "6be98a79f21140a2a1eaed8411f8a957983def58f8fe884a66d323c004ff3ff4"
+        },
+        {
+          "id": "rulebook-05-2026",
+          "title": "EPFL Computer Science：2026–27本科及硕士考核规章",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vTRCwrb3dBLr3RcR1KzhuEgIP6HUrp_nNJQD63P69VtsjU2ez9YvM9M6LEGPMuOVVLPzkckArFxHeb1/pub",
+          "checked_at": "2026-09-13",
+          "supports": "学位层级与课程年度",
+          "sha256": "e12db2e4593afca404d5580b28698d05e0c1ac38552a311fd7ee64adba49cd0b",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-05-sheet-693566922",
+          "title": "EPFL Computer Science：2026–27第一学年正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQeuayRt43R7oTNyYDLPsnu5dK46klGqdS9XR5lPr9ND492CYR2-zJQVG0Zt3u8eKoz5-weU0HFOBPO/pubhtml/sheet?headers=false&gid=693566922",
+          "checked_at": "2026-09-13",
+          "supports": "第一年课程（2026–27）",
+          "sha256": "c7b8e91c9138d8208b13fa0d8d5a1891dfd0aa4198a652b02e1681d57f3e3a6f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-05-sheet-638027018",
+          "title": "EPFL Computer Science：2026–27本科二、三年级正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQeuayRt43R7oTNyYDLPsnu5dK46klGqdS9XR5lPr9ND492CYR2-zJQVG0Zt3u8eKoz5-weU0HFOBPO/pubhtml/sheet?headers=false&gid=638027018",
+          "checked_at": "2026-09-13",
+          "supports": "第二、三年课程与考核",
+          "sha256": "901679f0838a9576bc6cb8804daa97e920605207adfb863a04a544297e0a55fd",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "admission-current",
+          "title": "EPFL当前本科及CMS资格：大陆高中、IB与A-level",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
+          "checked_at": "2026-09-13",
+          "supports": "第三年交换的在读资格",
+          "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "apply-current",
+          "title": "EPFL本科/CMS申请程序",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "academic-calendar",
+          "title": "EPFL 2026–27在校学期日历",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "e4ba2933b1209a1be2a422d20a1e7b3e81383575f536b8e02fb4e185f1ad088f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "fees-current",
+          "title": "EPFL学期学费与其他收费",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "本科收费范围与年度",
+          "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "outcomes-2022",
+          "title": "EPFL 2022届硕士与博士就业调查（2024年5月报告）",
+          "url": "https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "就业数据的学历边界",
+          "sha256": "6fdf20064c0104d8a10610bdb7e035a8d003072889021a8b97cb34f9d6fcf1f2",
+          "capture_format": "public_HTTP_PDF"
+        },
+        {
+          "id": "teaching-languages",
+          "title": "EPFL各学习阶段授课语言",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/",
+          "checked_at": "2026-09-13",
+          "supports": "授课语言范围",
+          "sha256": "eb2054d2512e577f36f0c92d32172a860593aa4b95be5cc1ccb5a093ae251748",
+          "capture_format": "public_HTTP_HTML"
         }
       ],
       "university_id": "epfl",
       "name_en": "Computer Science",
-      "official_url": "https://www.epfl.ch/education/bachelor/programs/computer-science/"
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/computer-science/",
+      "research_status": "partial",
+      "degree_label": "Bachelor"
     },
     {
       "inventory_id": "epfl-electrical-and-electronic-engineering-990f7360b2",
       "raw_key": "https://www.epfl.ch/education/bachelor/programs/electrical-and-electronic-engineering/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "display_fields": {
         "name": "电气与电子工程",
         "duration": "通常3年；180 ECTS",
-        "language": "以法语为主；B2要求、C1建议",
-        "entry_summary": "中国高中学历须核对入学考试或CMS预科路径。",
-        "tuition_summary": "适用三倍学费者 CHF 2,190／学期，另有费用",
-        "outcomes_summary": "官方培养及职业方向已补；本科就业统计待核实"
+        "language": "以法语为主；部分英语课程，法语B2要求/C1建议",
+        "entry_summary": "大陆普高走CMS审查或入学考试；IB及International A-level另按资格类别，不能凭高考直接推定录取。",
+        "tuition_summary": "适用外国学生通常 CHF 2,240/学期（其中学费2,190）；2025秋起政策",
+        "outcomes_summary": "已核培养及后续方向；未取得本专业本科就业率/薪资调查",
+        "intake": "课程计划2026–27；2027–28专属入学细则待核"
       },
       "sections": {
         "overview": [
@@ -251,6 +1255,48 @@
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "学位层级与课程年度",
+            "text": "本项仍是现有独立本科入口；通常 3 年、180 ECTS，由第一学年 60 ECTS 和其后两年 120 ECTS 组成。本轮逐课及考核依据为 2026–27 正式计划，未将其冒充 2027–28 新生未来三年的固定课程表。",
+            "source_ids": [
+              "rulebook-06-2026"
+            ],
+            "extraction_locator": "Art.2; official 2026–27 study plan"
+          },
+          {
+            "label": "第一年课程（2026–27）",
+            "text": "第一年学习分析、代数、力学与热力学、电学科技、电路系统、编程、机械设计基础和材料。",
+            "source_ids": [
+              "plan-06-sheet-1859562965"
+            ],
+            "extraction_locator": "Cycle propédeutique, course rows and notes"
+          },
+          {
+            "label": "第二、三年课程与考核",
+            "text": "二年级包括高等分析、数值与概率、量子和电磁物理，以及电子学、场与波、数字逻辑、微控制器、信号系统和数据科学。三年级共同部分包括人工智能、控制、能量转换、数字设计、嵌入式系统、信号处理和电气项目。",
+            "source_ids": [
+              "plan-06-sheet-1499180982",
+              "rulebook-06-2026"
+            ],
+            "extraction_locator": "Cycle Bachelor; Art.3 and bachelor chapter"
+          },
+          {
+            "label": "学分与方向边界",
+            "text": "二年级基础组 27、专业组 30；三年级共同核心 31、选修至少 9、方向组 15 ECTS；跨年 SHS/MGT 8，共 120。课程表按年列 61/59 ECTS，不能改为各 60。方向组的 15 由 12 ECTS 课程加 3 ECTS 实验构成。",
+            "source_ids": [
+              "rulebook-06-2026",
+              "plan-06-sheet-1499180982"
+            ],
+            "extraction_locator": "Bachelor cycle credit groups and cohort notes"
+          },
+          {
+            "label": "授课语言范围",
+            "text": "本科大部分课程以法语授课，二年级起计划可能含最多50%的英语课程；部分数学物理可选英语或德语。入学页面要求法语至少B2并强烈建议C1，英语课程存在不意味着全英语本科。",
+            "source_ids": [
+              "teaching-languages",
+              "admission-current"
+            ]
           }
         ],
         "outcomes": [
@@ -259,6 +1305,62 @@
             "text": "电子、信息与能源技术等行业，后续硕士进一步集中专业方向。 本次项目页未取得可比的本科就业率、薪资及样本数据。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "就业数据的学历边界",
+            "text": "本轮取得的官方2022届就业调查在2023年8月中至9月中访问硕士与博士毕业生，未覆盖本项本科毕业生。因此不将该报告的就业率、薪资或学院分项转作本项本科结果；本科届次、答卷数和中国学生统计仍未取得。",
+            "source_ids": [
+              "outcomes-2022"
+            ],
+            "extraction_locator": "Report Preamble, printed page1/PDF page3"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "入校后的第一年升读条件",
+            "text": "2026–27 本专业规章要求冬季考试后第一个考核组平均至少 3.50/6 才可进入春季；夏季考试后2个组各至少 4.00/6 才通过第一学年。这些是大学在读考核，不是高考百分比。第一年表中的 coefficients 是评分权重，不能直接当各课 ECTS。",
+            "source_ids": [
+              "rulebook-06-2026"
+            ],
+            "extraction_locator": "Propedeutic examinations"
+          },
+          {
+            "label": "专业选课、转入或后续阶段条件",
+            "text": "院系说明从微纳电子、信息通信、能源相关三个主题中选两个准备硕士方向；正式 2026–27 表称第三主题为 Science et technologies de l’énergie，院系介绍称 Smart Grids Science and Technology。本轮保留能源方向这一共同范围，不把两种名称再建成两个学位。",
+            "source_ids": [
+              "department-06",
+              "rulebook-06-2026",
+              "plan-06-sheet-1499180982"
+            ],
+            "extraction_locator": "Programme-specific bachelor rules / department current page"
+          }
+        ],
+        "applications": [
+          {
+            "label": "第三年交换的在读资格",
+            "text": "本专业 2026–27 规章要求第一年考试平均至少 4.50/6，欧洲以外交换至少 5.00/6，并已取得第二年全部 60 ECTS，还须目的地及学院批准。本专业课程表另列二、三年级不均分的学分量；这里保留交换条款原写的 60 ECTS，不自行换算为 61 或解释为允许少修。通过二、三年级外部转入者，学校总则不允许第三年学术交换；上述成绩不构成高中直接申请交换路线。",
+            "source_ids": [
+              "rulebook-06-2026",
+              "admission-current"
+            ],
+            "extraction_locator": "Mobility article; admission Other higher education"
+          },
+          {
+            "label": "高中申请与课程注册的区别",
+            "text": "本项高中申请沿用学校按学历类别划分的本科/CMS程序；常规申请是11月中旬至次年4月30日，补件节点见学校资料。2026–27 学生课程注册日并非 2027 高中新生录取截止，本轮未取得本专业单列的 2027–28 新生截止。",
+            "source_ids": [
+              "apply-current",
+              "academic-calendar"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科收费范围与年度",
+            "text": "对因学习来瑞士且不满足豁免的外国学生，本科当前按学期收 CHF 2,190 学费，加三项费用后通常账单 CHF 2,240。规则自2025年秋生效、首次指数调整计划2029年；这是学校本科收费政策，不是本专业单独报价或未来全程价格保证。",
+            "source_ids": [
+              "fees-current"
             ]
           }
         ]
@@ -271,23 +1373,116 @@
           "checked_at": "2026-09-12",
           "supports": "本科培养结构、硕士衔接及职业方向",
           "sha256": "cd3eb44f472692b5dcd0c0172beaa268ebc430b342b6f60f5351a7bf70c9a7c1"
+        },
+        {
+          "id": "rulebook-06-2026",
+          "title": "EPFL Electrical and Electronic Engineering：2026–27本科及硕士考核规章",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vSQIr-xQaUFJni9Rcn_cwgZAshLwgaPGDvIqWirVrcJ7lJtJF-xvNfp4nsI3IleLP--_DIyjwk914Ia/pub",
+          "checked_at": "2026-09-13",
+          "supports": "学位层级与课程年度",
+          "sha256": "29b222bc6b1704f0a84bf15cad00b4a7c03696fcc31b163cc9a0a4c4258f2231",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-06-sheet-1859562965",
+          "title": "EPFL Electrical and Electronic Engineering：2026–27第一学年正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTeQEN5kfuJgFg4Q_XbYJCMr84fk1p4AbvVlGAlJp2ev1IkfnEV-ZecULEaOlg9Wqxi8yHnAeWzfee0/pubhtml/sheet?headers=false&gid=1859562965",
+          "checked_at": "2026-09-13",
+          "supports": "第一年课程（2026–27）",
+          "sha256": "ad696972a88b7f5f4a7d54797f74f2befc348684bf03a56af4dc83ca555da619",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-06-sheet-1499180982",
+          "title": "EPFL Electrical and Electronic Engineering：2026–27本科二、三年级正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTeQEN5kfuJgFg4Q_XbYJCMr84fk1p4AbvVlGAlJp2ev1IkfnEV-ZecULEaOlg9Wqxi8yHnAeWzfee0/pubhtml/sheet?headers=false&gid=1499180982",
+          "checked_at": "2026-09-13",
+          "supports": "第二、三年课程与考核",
+          "sha256": "aa45ca2eb2933d95940320f22838dc8aa4fd49e2b924cb72828470290b462b01",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "department-06",
+          "title": "SEL Overview BSc – STI – School of Engineering – EPFL",
+          "url": "https://sti.epfl.ch/sel/overview-bsc/",
+          "checked_at": "2026-09-13",
+          "supports": "专业选课、转入或后续阶段条件",
+          "sha256": "07d83d9ee233060406b39a4e66e9574a42c6361969a516f7da11b1ba16b9df5d",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "admission-current",
+          "title": "EPFL当前本科及CMS资格：大陆高中、IB与A-level",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
+          "checked_at": "2026-09-13",
+          "supports": "第三年交换的在读资格",
+          "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "apply-current",
+          "title": "EPFL本科/CMS申请程序",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "academic-calendar",
+          "title": "EPFL 2026–27在校学期日历",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "e4ba2933b1209a1be2a422d20a1e7b3e81383575f536b8e02fb4e185f1ad088f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "fees-current",
+          "title": "EPFL学期学费与其他收费",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "本科收费范围与年度",
+          "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "outcomes-2022",
+          "title": "EPFL 2022届硕士与博士就业调查（2024年5月报告）",
+          "url": "https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "就业数据的学历边界",
+          "sha256": "6fdf20064c0104d8a10610bdb7e035a8d003072889021a8b97cb34f9d6fcf1f2",
+          "capture_format": "public_HTTP_PDF"
+        },
+        {
+          "id": "teaching-languages",
+          "title": "EPFL各学习阶段授课语言",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/",
+          "checked_at": "2026-09-13",
+          "supports": "授课语言范围",
+          "sha256": "eb2054d2512e577f36f0c92d32172a860593aa4b95be5cc1ccb5a093ae251748",
+          "capture_format": "public_HTTP_HTML"
         }
       ],
       "university_id": "epfl",
       "name_en": "Electrical and Electronic Engineering",
-      "official_url": "https://www.epfl.ch/education/bachelor/programs/electrical-and-electronic-engineering/"
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/electrical-and-electronic-engineering/",
+      "research_status": "partial",
+      "degree_label": "Bachelor"
     },
     {
       "inventory_id": "epfl-environmental-sciences-and-engineering-e172fe3fda",
       "raw_key": "https://www.epfl.ch/education/bachelor/programs/environmental-sciences-and-engineering/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "display_fields": {
         "name": "环境科学与工程",
         "duration": "通常3年；180 ECTS",
-        "language": "以法语为主；B2要求、C1建议",
-        "entry_summary": "中国高中学历须核对入学考试或CMS预科路径。",
-        "tuition_summary": "适用三倍学费者 CHF 2,190／学期，另有费用",
-        "outcomes_summary": "官方培养及职业方向已补；本科就业统计待核实"
+        "language": "以法语为主；部分英语课程，法语B2要求/C1建议",
+        "entry_summary": "大陆普高走CMS审查或入学考试；IB及International A-level另按资格类别，不能凭高考直接推定录取。",
+        "tuition_summary": "适用外国学生通常 CHF 2,240/学期（其中学费2,190）；2025秋起政策",
+        "outcomes_summary": "已核培养及后续方向；未取得本专业本科就业率/薪资调查",
+        "intake": "课程计划2026–27；2027–28专属入学细则待核"
       },
       "sections": {
         "overview": [
@@ -297,6 +1492,48 @@
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "学位层级与课程年度",
+            "text": "本项仍是现有独立本科入口；通常 3 年、180 ECTS，由第一学年 60 ECTS 和其后两年 120 ECTS 组成。本轮逐课及考核依据为 2026–27 正式计划，未将其冒充 2027–28 新生未来三年的固定课程表。",
+            "source_ids": [
+              "rulebook-07-2026"
+            ],
+            "extraction_locator": "Art.2; official 2026–27 study plan"
+          },
+          {
+            "label": "第一年课程（2026–27）",
+            "text": "第一年以分析、代数、力学与热力学、普通化学为基础，同时学习生物、环境工程导论、概率统计、信息计算和项目编程。",
+            "source_ids": [
+              "plan-07-sheet-1423736282"
+            ],
+            "extraction_locator": "Cycle propédeutique, course rows and notes"
+          },
+          {
+            "label": "第二、三年课程与考核",
+            "text": "二年级将流体与电磁物理、计算和估计方法、地理信息系统，同大气物理与气候、环境化学、生态与微生物结合。三年级学习环境系统评价、水文、大气物理化学、环境与建设法律、遥感、水与废物处理，并有环境选修。",
+            "source_ids": [
+              "plan-07-sheet-447564859",
+              "rulebook-07-2026"
+            ],
+            "extraction_locator": "Cycle Bachelor; Art.3 and bachelor chapter"
+          },
+          {
+            "label": "学分与方向边界",
+            "text": "二年级三个考核组为 17、20、15 ECTS；三年级为 22、21、至少 9 ECTS；共同设计与 SHS/MGT 各 8，共 120 ECTS。土壤科学旧课在 2026–27 有改为大气物理与气候系统的过渡安排，旧项目简介不作为当届逐课清单。",
+            "source_ids": [
+              "rulebook-07-2026",
+              "plan-07-sheet-447564859"
+            ],
+            "extraction_locator": "Bachelor cycle credit groups and cohort notes"
+          },
+          {
+            "label": "授课语言范围",
+            "text": "本科大部分课程以法语授课，二年级起计划可能含最多50%的英语课程；部分数学物理可选英语或德语。入学页面要求法语至少B2并强烈建议C1，英语课程存在不意味着全英语本科。",
+            "source_ids": [
+              "teaching-languages",
+              "admission-current"
+            ]
           }
         ],
         "outcomes": [
@@ -305,6 +1542,60 @@
             "text": "咨询、公共部门和产业中的环境监测、建模、水及废物处理、场地治理和资源管理。 本次项目页未取得可比的本科就业率、薪资及样本数据。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "就业数据的学历边界",
+            "text": "本轮取得的官方2022届就业调查在2023年8月中至9月中访问硕士与博士毕业生，未覆盖本项本科毕业生。因此不将该报告的就业率、薪资或学院分项转作本项本科结果；本科届次、答卷数和中国学生统计仍未取得。",
+            "source_ids": [
+              "outcomes-2022"
+            ],
+            "extraction_locator": "Report Preamble, printed page1/PDF page3"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "入校后的第一年升读条件",
+            "text": "2026–27 本专业规章要求冬季考试后第一个考核组平均至少 3.50/6 才可进入春季；夏季考试后2个组各至少 4.00/6 才通过第一学年。这些是大学在读考核，不是高考百分比。第一年表中的 coefficients 是评分权重，不能直接当各课 ECTS。",
+            "source_ids": [
+              "rulebook-07-2026"
+            ],
+            "extraction_locator": "Propedeutic examinations"
+          },
+          {
+            "label": "专业选课、转入或后续阶段条件",
+            "text": "经提交理由并获学院批准，选修中可纳入其他 EPFL 专业本科课程，最多 6 ECTS，排除 SHS。选修超出最低学分时，按规章该组平均计入所有参加考核的课程。",
+            "source_ids": [
+              "rulebook-07-2026"
+            ],
+            "extraction_locator": "Programme-specific bachelor rules / department current page"
+          }
+        ],
+        "applications": [
+          {
+            "label": "第三年交换的在读资格",
+            "text": "本专业 2026–27 规章要求第一年考试平均至少 4.50/6，欧洲以外交换至少 5.00/6，并已取得第二年全部 60 ECTS，还须目的地及学院批准。通过二、三年级外部转入者，学校总则不允许第三年学术交换；上述成绩不构成高中直接申请交换路线。",
+            "source_ids": [
+              "rulebook-07-2026",
+              "admission-current"
+            ],
+            "extraction_locator": "Mobility article; admission Other higher education"
+          },
+          {
+            "label": "高中申请与课程注册的区别",
+            "text": "本项高中申请沿用学校按学历类别划分的本科/CMS程序；常规申请是11月中旬至次年4月30日，补件节点见学校资料。2026–27 学生课程注册日并非 2027 高中新生录取截止，本轮未取得本专业单列的 2027–28 新生截止。",
+            "source_ids": [
+              "apply-current",
+              "academic-calendar"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科收费范围与年度",
+            "text": "对因学习来瑞士且不满足豁免的外国学生，本科当前按学期收 CHF 2,190 学费，加三项费用后通常账单 CHF 2,240。规则自2025年秋生效、首次指数调整计划2029年；这是学校本科收费政策，不是本专业单独报价或未来全程价格保证。",
+            "source_ids": [
+              "fees-current"
             ]
           }
         ]
@@ -317,23 +1608,107 @@
           "checked_at": "2026-09-12",
           "supports": "本科培养结构、硕士衔接及职业方向",
           "sha256": "b4086ab9c554591ea975f39ae09bfd03dbe9f232e96eb6690748a70d8e567c1c"
+        },
+        {
+          "id": "rulebook-07-2026",
+          "title": "EPFL Environmental Sciences and Engineering：2026–27本科及硕士考核规章",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vSBKOTp7nZOLVKIyvzUY9nOwJxlcWRe94_UACfl8wM0fvyCF28t10tXj6eVpQCcPGgsR_donnaW7ToO/pub",
+          "checked_at": "2026-09-13",
+          "supports": "学位层级与课程年度",
+          "sha256": "a11e730f25ec13699d3b7332626aae51446fe4fc01e55f5792ad9f3231809aef",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-07-sheet-1423736282",
+          "title": "EPFL Environmental Sciences and Engineering：2026–27第一学年正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTYgOBEWVXkwvPIrDGlzbh7z_9BTLxfdpveqA5HcZDUBTYjSuPrYExtDPxV7FGDLIbLPGJlV9sXdaUD/pubhtml/sheet?headers=false&gid=1423736282",
+          "checked_at": "2026-09-13",
+          "supports": "第一年课程（2026–27）",
+          "sha256": "073a6b3bc3978b51621239729fffaa74d77afc2aef926115b9af0b257002c842",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-07-sheet-447564859",
+          "title": "EPFL Environmental Sciences and Engineering：2026–27本科二、三年级正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTYgOBEWVXkwvPIrDGlzbh7z_9BTLxfdpveqA5HcZDUBTYjSuPrYExtDPxV7FGDLIbLPGJlV9sXdaUD/pubhtml/sheet?headers=false&gid=447564859",
+          "checked_at": "2026-09-13",
+          "supports": "第二、三年课程与考核",
+          "sha256": "d6188d593283a42b9b23bc91f351fc7ae04c99d0913ecdb10f78895eda8e4405",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "admission-current",
+          "title": "EPFL当前本科及CMS资格：大陆高中、IB与A-level",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
+          "checked_at": "2026-09-13",
+          "supports": "第三年交换的在读资格",
+          "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "apply-current",
+          "title": "EPFL本科/CMS申请程序",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "academic-calendar",
+          "title": "EPFL 2026–27在校学期日历",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "e4ba2933b1209a1be2a422d20a1e7b3e81383575f536b8e02fb4e185f1ad088f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "fees-current",
+          "title": "EPFL学期学费与其他收费",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "本科收费范围与年度",
+          "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "outcomes-2022",
+          "title": "EPFL 2022届硕士与博士就业调查（2024年5月报告）",
+          "url": "https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "就业数据的学历边界",
+          "sha256": "6fdf20064c0104d8a10610bdb7e035a8d003072889021a8b97cb34f9d6fcf1f2",
+          "capture_format": "public_HTTP_PDF"
+        },
+        {
+          "id": "teaching-languages",
+          "title": "EPFL各学习阶段授课语言",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/",
+          "checked_at": "2026-09-13",
+          "supports": "授课语言范围",
+          "sha256": "eb2054d2512e577f36f0c92d32172a860593aa4b95be5cc1ccb5a093ae251748",
+          "capture_format": "public_HTTP_HTML"
         }
       ],
       "university_id": "epfl",
       "name_en": "Environmental Sciences and Engineering",
-      "official_url": "https://www.epfl.ch/education/bachelor/programs/environmental-sciences-and-engineering/"
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/environmental-sciences-and-engineering/",
+      "research_status": "partial",
+      "degree_label": "Bachelor"
     },
     {
       "inventory_id": "epfl-life-sciences-engineering-ba4884f974",
       "raw_key": "https://www.epfl.ch/education/bachelor/programs/life-sciences-engineering/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "display_fields": {
         "name": "生命科学工程",
         "duration": "通常3年；180 ECTS",
-        "language": "以法语为主；B2要求、C1建议",
-        "entry_summary": "中国高中学历须核对入学考试或CMS预科路径。",
-        "tuition_summary": "适用三倍学费者 CHF 2,190／学期，另有费用",
-        "outcomes_summary": "官方培养及职业方向已补；本科就业统计待核实"
+        "language": "以法语为主；部分英语课程，法语B2要求/C1建议",
+        "entry_summary": "大陆普高走CMS审查或入学考试；IB及International A-level另按资格类别，不能凭高考直接推定录取。",
+        "tuition_summary": "适用外国学生通常 CHF 2,240/学期（其中学费2,190）；2025秋起政策",
+        "outcomes_summary": "已核培养及后续方向；未取得本专业本科就业率/薪资调查",
+        "intake": "课程计划2026–27；2027–28专属入学细则待核"
       },
       "sections": {
         "overview": [
@@ -343,6 +1718,48 @@
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "学位层级与课程年度",
+            "text": "本项仍是现有独立本科入口；通常 3 年、180 ECTS，由第一学年 60 ECTS 和其后两年 120 ECTS 组成。本轮逐课及考核依据为 2026–27 正式计划，未将其冒充 2027–28 新生未来三年的固定课程表。",
+            "source_ids": [
+              "rulebook-08-2026"
+            ],
+            "extraction_locator": "Art.2; official 2026–27 study plan"
+          },
+          {
+            "label": "第一年课程（2026–27）",
+            "text": "第一年为分析、代数、力学与热力学、普通化学、生物有机化学、普通生物、信息计算及面向对象编程。",
+            "source_ids": [
+              "plan-08-sheet-1226210574"
+            ],
+            "extraction_locator": "Cycle propédeutique, course rows and notes"
+          },
+          {
+            "label": "第二、三年课程与考核",
+            "text": "二年级学习数学物理与统计学习、生命科学软件工程、生物化学、细胞分子生物和综合实验。三年级分工程、生物工程、生命科学、定量生物与数据、实验生命科学几组；涉及动力系统、信号、电路、成像、生理与本科项目等，具体按各组选课表而非全部选修必读。",
+            "source_ids": [
+              "plan-08-sheet-1387618313",
+              "rulebook-08-2026"
+            ],
+            "extraction_locator": "Cycle Bachelor; Art.3 and bachelor chapter"
+          },
+          {
+            "label": "学分与方向边界",
+            "text": "二年级数学物理 30、生命科学与计算机 26 ECTS；三年级五组分别为 16、8、8、8、16；跨年 SHS/MGT 8，共 120 ECTS。课程先修按课程说明核实，可通过课程学分或所属组补偿认可。",
+            "source_ids": [
+              "rulebook-08-2026",
+              "plan-08-sheet-1387618313"
+            ],
+            "extraction_locator": "Bachelor cycle credit groups and cohort notes"
+          },
+          {
+            "label": "授课语言范围",
+            "text": "本科大部分课程以法语授课，二年级起计划可能含最多50%的英语课程；部分数学物理可选英语或德语。入学页面要求法语至少B2并强烈建议C1，英语课程存在不意味着全英语本科。",
+            "source_ids": [
+              "teaching-languages",
+              "admission-current"
+            ]
           }
         ],
         "outcomes": [
@@ -351,6 +1768,60 @@
             "text": "医疗技术或制药研发、医院和研究机构技术设施、生物技术咨询；该学位不等于临床医学资格。 本次项目页未取得可比的本科就业率、薪资及样本数据。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "就业数据的学历边界",
+            "text": "本轮取得的官方2022届就业调查在2023年8月中至9月中访问硕士与博士毕业生，未覆盖本项本科毕业生。因此不将该报告的就业率、薪资或学院分项转作本项本科结果；本科届次、答卷数和中国学生统计仍未取得。",
+            "source_ids": [
+              "outcomes-2022"
+            ],
+            "extraction_locator": "Report Preamble, printed page1/PDF page3"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "入校后的第一年升读条件",
+            "text": "2026–27 本专业规章要求冬季考试后第一个考核组平均至少 3.50/6 才可进入春季；夏季考试后2个组各至少 4.00/6 才通过第一学年。这些是大学在读考核，不是高考百分比。第一年表中的 coefficients 是评分权重，不能直接当各课 ECTS。",
+            "source_ids": [
+              "rulebook-08-2026"
+            ],
+            "extraction_locator": "Propedeutic examinations"
+          },
+          {
+            "label": "专业选课、转入或后续阶段条件",
+            "text": "第三年交换除共同成绩门槛外，方案须包含电气电子系统 I 等值 4 ECTS、信号系统 I/II 等值 8、生命科学动力系统等值 4。规章与当前课程表的成像/信号课程组成并不完全同名，本轮保留交换规章的原要求，不自行替换等值课程。",
+            "source_ids": [
+              "rulebook-08-2026"
+            ],
+            "extraction_locator": "Programme-specific bachelor rules / department current page"
+          }
+        ],
+        "applications": [
+          {
+            "label": "第三年交换的在读资格",
+            "text": "本专业 2026–27 规章要求第一年考试平均至少 4.50/6，欧洲以外交换至少 5.00/6，并已取得第二年全部 60 ECTS，还须目的地及学院批准。通过二、三年级外部转入者，学校总则不允许第三年学术交换；上述成绩不构成高中直接申请交换路线。",
+            "source_ids": [
+              "rulebook-08-2026",
+              "admission-current"
+            ],
+            "extraction_locator": "Mobility article; admission Other higher education"
+          },
+          {
+            "label": "高中申请与课程注册的区别",
+            "text": "本项高中申请沿用学校按学历类别划分的本科/CMS程序；常规申请是11月中旬至次年4月30日，补件节点见学校资料。2026–27 学生课程注册日并非 2027 高中新生录取截止，本轮未取得本专业单列的 2027–28 新生截止。",
+            "source_ids": [
+              "apply-current",
+              "academic-calendar"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科收费范围与年度",
+            "text": "对因学习来瑞士且不满足豁免的外国学生，本科当前按学期收 CHF 2,190 学费，加三项费用后通常账单 CHF 2,240。规则自2025年秋生效、首次指数调整计划2029年；这是学校本科收费政策，不是本专业单独报价或未来全程价格保证。",
+            "source_ids": [
+              "fees-current"
             ]
           }
         ]
@@ -363,23 +1834,107 @@
           "checked_at": "2026-09-12",
           "supports": "本科培养结构、硕士衔接及职业方向",
           "sha256": "7f8cc5f5d50bbe6324655b42ff1ddf58790c120450e7f850ae0ffb155cce97aa"
+        },
+        {
+          "id": "rulebook-08-2026",
+          "title": "EPFL Life Sciences Engineering：2026–27本科及硕士考核规章",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vQzcLx4kZ2gobzTR3jBdIfxWZmO4-82W82rUZsSlBn0Kix6oSLU1y7aPWaI-7OhcAwInoAuoaMvPYCX/pub",
+          "checked_at": "2026-09-13",
+          "supports": "学位层级与课程年度",
+          "sha256": "e9171bd9c7989fced56dab5fbf88e7f12ffd0960e071ce887fa728fbcfdb1b6d",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-08-sheet-1226210574",
+          "title": "EPFL Life Sciences Engineering：2026–27第一学年正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQBFQKMiQdC13nNimcqCWw4SWFW8e06QVGTGRQ93ENnM0EDoTpPLQFVyvBbXCh-QSVei7IHASqolsxd/pubhtml/sheet?headers=false&gid=1226210574",
+          "checked_at": "2026-09-13",
+          "supports": "第一年课程（2026–27）",
+          "sha256": "43b81f8c2efb432bfd11c51529d5d8bd68cd947172f5236fcabd4f7d69f36b7f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-08-sheet-1387618313",
+          "title": "EPFL Life Sciences Engineering：2026–27本科二、三年级正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQBFQKMiQdC13nNimcqCWw4SWFW8e06QVGTGRQ93ENnM0EDoTpPLQFVyvBbXCh-QSVei7IHASqolsxd/pubhtml/sheet?headers=false&gid=1387618313",
+          "checked_at": "2026-09-13",
+          "supports": "第二、三年课程与考核",
+          "sha256": "50456a158b3bd372edf953f1b51aa4e2ff628e3c9c5edc640c20b8a2daacbff7",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "admission-current",
+          "title": "EPFL当前本科及CMS资格：大陆高中、IB与A-level",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
+          "checked_at": "2026-09-13",
+          "supports": "第三年交换的在读资格",
+          "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "apply-current",
+          "title": "EPFL本科/CMS申请程序",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "academic-calendar",
+          "title": "EPFL 2026–27在校学期日历",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "e4ba2933b1209a1be2a422d20a1e7b3e81383575f536b8e02fb4e185f1ad088f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "fees-current",
+          "title": "EPFL学期学费与其他收费",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "本科收费范围与年度",
+          "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "outcomes-2022",
+          "title": "EPFL 2022届硕士与博士就业调查（2024年5月报告）",
+          "url": "https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "就业数据的学历边界",
+          "sha256": "6fdf20064c0104d8a10610bdb7e035a8d003072889021a8b97cb34f9d6fcf1f2",
+          "capture_format": "public_HTTP_PDF"
+        },
+        {
+          "id": "teaching-languages",
+          "title": "EPFL各学习阶段授课语言",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/",
+          "checked_at": "2026-09-13",
+          "supports": "授课语言范围",
+          "sha256": "eb2054d2512e577f36f0c92d32172a860593aa4b95be5cc1ccb5a093ae251748",
+          "capture_format": "public_HTTP_HTML"
         }
       ],
       "university_id": "epfl",
       "name_en": "Life Sciences Engineering",
-      "official_url": "https://www.epfl.ch/education/bachelor/programs/life-sciences-engineering/"
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/life-sciences-engineering/",
+      "research_status": "partial",
+      "degree_label": "Bachelor"
     },
     {
       "inventory_id": "epfl-materials-science-and-engineering-ef601d78d5",
       "raw_key": "https://www.epfl.ch/education/bachelor/programs/materials-science-and-engineering/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "display_fields": {
         "name": "材料科学与工程",
         "duration": "通常3年；180 ECTS",
-        "language": "以法语为主；B2要求、C1建议",
-        "entry_summary": "中国高中学历须核对入学考试或CMS预科路径。",
-        "tuition_summary": "适用三倍学费者 CHF 2,190／学期，另有费用",
-        "outcomes_summary": "官方培养及职业方向已补；本科就业统计待核实"
+        "language": "以法语为主；部分英语课程，法语B2要求/C1建议",
+        "entry_summary": "大陆普高走CMS审查或入学考试；IB及International A-level另按资格类别，不能凭高考直接推定录取。",
+        "tuition_summary": "适用外国学生通常 CHF 2,240/学期（其中学费2,190）；2025秋起政策",
+        "outcomes_summary": "已核培养及后续方向；未取得本专业本科就业率/薪资调查",
+        "intake": "课程计划2026–27；2027–28专属入学细则待核"
       },
       "sections": {
         "overview": [
@@ -389,6 +1944,48 @@
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "学位层级与课程年度",
+            "text": "本项仍是现有独立本科入口；通常 3 年、180 ECTS，由第一学年 60 ECTS 和其后两年 120 ECTS 组成。本轮逐课及考核依据为 2026–27 正式计划，未将其冒充 2027–28 新生未来三年的固定课程表。",
+            "source_ids": [
+              "rulebook-09-2026"
+            ],
+            "extraction_locator": "Art.2; official 2026–27 study plan"
+          },
+          {
+            "label": "第一年课程（2026–27）",
+            "text": "第一年学习数学、物理、普通化学、材料科学导论，另有电学、机械设计、信息计算和可持续发展。",
+            "source_ids": [
+              "plan-09-sheet-1656358281"
+            ],
+            "extraction_locator": "Cycle propédeutique, course rows and notes"
+          },
+          {
+            "label": "第二、三年课程与考核",
+            "text": "二年级学习材料热力学、概率、有机化学、量子和电磁物理，以及金属合金、连续介质、材料强度、流变、结构和实验。三年级深化陶瓷与胶体、聚合物复合材料、腐蚀、晶体、显微和原子尺度建模、相变、界面及材料项目。",
+            "source_ids": [
+              "plan-09-sheet-1064037037",
+              "rulebook-09-2026"
+            ],
+            "extraction_locator": "Cycle Bachelor; Art.3 and bachelor chapter"
+          },
+          {
+            "label": "学分与方向边界",
+            "text": "二年级基础科学 37、材料基础 19 ECTS；三年级材料深化 56；跨年 SHS/MGT 8，共 120 ECTS。项目与实验属于培养组成；本科条目没有把硕士企业实习并入这 120 ECTS。",
+            "source_ids": [
+              "rulebook-09-2026",
+              "plan-09-sheet-1064037037"
+            ],
+            "extraction_locator": "Bachelor cycle credit groups and cohort notes"
+          },
+          {
+            "label": "授课语言范围",
+            "text": "本科大部分课程以法语授课，二年级起计划可能含最多50%的英语课程；部分数学物理可选英语或德语。入学页面要求法语至少B2并强烈建议C1，英语课程存在不意味着全英语本科。",
+            "source_ids": [
+              "teaching-languages",
+              "admission-current"
+            ]
           }
         ],
         "outcomes": [
@@ -397,6 +1994,60 @@
             "text": "生物医学、航空航天、食品和体育技术中的材料开发、制造与回收。 本次项目页未取得可比的本科就业率、薪资及样本数据。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "就业数据的学历边界",
+            "text": "本轮取得的官方2022届就业调查在2023年8月中至9月中访问硕士与博士毕业生，未覆盖本项本科毕业生。因此不将该报告的就业率、薪资或学院分项转作本项本科结果；本科届次、答卷数和中国学生统计仍未取得。",
+            "source_ids": [
+              "outcomes-2022"
+            ],
+            "extraction_locator": "Report Preamble, printed page1/PDF page3"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "入校后的第一年升读条件",
+            "text": "2026–27 本专业规章要求冬季考试后第一个考核组平均至少 3.50/6 才可进入春季；夏季考试后2个组各至少 4.00/6 才通过第一学年。这些是大学在读考核，不是高考百分比。第一年表中的 coefficients 是评分权重，不能直接当各课 ECTS。",
+            "source_ids": [
+              "rulebook-09-2026"
+            ],
+            "extraction_locator": "Propedeutic examinations"
+          },
+          {
+            "label": "专业选课、转入或后续阶段条件",
+            "text": "院系说明在 EPFL 工程学院 STI 成功通过第一学年者，可直接进入材料本科第二年。这是校内已有学习的转换途径；大陆高中申请仍须先符合本科/CMS的适用资格。",
+            "source_ids": [
+              "department-09"
+            ],
+            "extraction_locator": "Programme-specific bachelor rules / department current page"
+          }
+        ],
+        "applications": [
+          {
+            "label": "第三年交换的在读资格",
+            "text": "本专业 2026–27 规章要求第一年考试平均至少 4.50/6，欧洲以外交换至少 5.00/6，并已取得第二年全部 60 ECTS，还须目的地及学院批准。通过二、三年级外部转入者，学校总则不允许第三年学术交换；上述成绩不构成高中直接申请交换路线。",
+            "source_ids": [
+              "rulebook-09-2026",
+              "admission-current"
+            ],
+            "extraction_locator": "Mobility article; admission Other higher education"
+          },
+          {
+            "label": "高中申请与课程注册的区别",
+            "text": "本项高中申请沿用学校按学历类别划分的本科/CMS程序；常规申请是11月中旬至次年4月30日，补件节点见学校资料。2026–27 学生课程注册日并非 2027 高中新生录取截止，本轮未取得本专业单列的 2027–28 新生截止。",
+            "source_ids": [
+              "apply-current",
+              "academic-calendar"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科收费范围与年度",
+            "text": "对因学习来瑞士且不满足豁免的外国学生，本科当前按学期收 CHF 2,190 学费，加三项费用后通常账单 CHF 2,240。规则自2025年秋生效、首次指数调整计划2029年；这是学校本科收费政策，不是本专业单独报价或未来全程价格保证。",
+            "source_ids": [
+              "fees-current"
             ]
           }
         ]
@@ -409,23 +2060,116 @@
           "checked_at": "2026-09-12",
           "supports": "本科培养结构、硕士衔接及职业方向",
           "sha256": "85f8ad80bf04dd5fb361ca7e9bcdf59e313a2edbbe34180c99921f0d17aabb77"
+        },
+        {
+          "id": "rulebook-09-2026",
+          "title": "EPFL Materials Science and Engineering：2026–27本科及硕士考核规章",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vShwTj2Nhu6kyMAZnNfEsjZhC84aI3vBiZ8vfz5l4hKr17YYUId2JrSDyup5cNMj1pR3lcKUdC-wt-Z/pub",
+          "checked_at": "2026-09-13",
+          "supports": "学位层级与课程年度",
+          "sha256": "c1ac527352052424eb1268728699a2bfb2c163314ec2d340dd31ea83843d1f49",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-09-sheet-1656358281",
+          "title": "EPFL Materials Science and Engineering：2026–27第一学年正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQeXfwLrvfuY36sBFNc2BYVLspVLWrJcRqSqfpOeaYyQ6XluvTHMpkWHBKaXbH56zn_0UhwFXIgh2C7/pubhtml/sheet?headers=false&gid=1656358281",
+          "checked_at": "2026-09-13",
+          "supports": "第一年课程（2026–27）",
+          "sha256": "202411556b8a1c5fe300f162fffe12955d6cd5b8cbb5454126e9ad66e386ad2a",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-09-sheet-1064037037",
+          "title": "EPFL Materials Science and Engineering：2026–27本科二、三年级正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQeXfwLrvfuY36sBFNc2BYVLspVLWrJcRqSqfpOeaYyQ6XluvTHMpkWHBKaXbH56zn_0UhwFXIgh2C7/pubhtml/sheet?headers=false&gid=1064037037",
+          "checked_at": "2026-09-13",
+          "supports": "第二、三年课程与考核",
+          "sha256": "7a9d23cf6c65df8d53de263714290ccb8e8bcae5caa1b48ab702c3c7e8ece1d4",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "department-09",
+          "title": "BSc in Materials Science & Engineering – STI – School of Engineering – EPFL",
+          "url": "https://sti.epfl.ch/smx/bsc-in-materials-science-engineering/",
+          "checked_at": "2026-09-13",
+          "supports": "专业选课、转入或后续阶段条件",
+          "sha256": "3919c8ca1814a546ac630e16833e6c855b31750d80c972ab859f0e5eb94acd89",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "admission-current",
+          "title": "EPFL当前本科及CMS资格：大陆高中、IB与A-level",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
+          "checked_at": "2026-09-13",
+          "supports": "第三年交换的在读资格",
+          "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "apply-current",
+          "title": "EPFL本科/CMS申请程序",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "academic-calendar",
+          "title": "EPFL 2026–27在校学期日历",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "e4ba2933b1209a1be2a422d20a1e7b3e81383575f536b8e02fb4e185f1ad088f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "fees-current",
+          "title": "EPFL学期学费与其他收费",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "本科收费范围与年度",
+          "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "outcomes-2022",
+          "title": "EPFL 2022届硕士与博士就业调查（2024年5月报告）",
+          "url": "https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "就业数据的学历边界",
+          "sha256": "6fdf20064c0104d8a10610bdb7e035a8d003072889021a8b97cb34f9d6fcf1f2",
+          "capture_format": "public_HTTP_PDF"
+        },
+        {
+          "id": "teaching-languages",
+          "title": "EPFL各学习阶段授课语言",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/",
+          "checked_at": "2026-09-13",
+          "supports": "授课语言范围",
+          "sha256": "eb2054d2512e577f36f0c92d32172a860593aa4b95be5cc1ccb5a093ae251748",
+          "capture_format": "public_HTTP_HTML"
         }
       ],
       "university_id": "epfl",
       "name_en": "Materials Science and Engineering",
-      "official_url": "https://www.epfl.ch/education/bachelor/programs/materials-science-and-engineering/"
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/materials-science-and-engineering/",
+      "research_status": "partial",
+      "degree_label": "Bachelor"
     },
     {
       "inventory_id": "epfl-mathematics-6e59668f3b",
       "raw_key": "https://www.epfl.ch/education/bachelor/programs/mathematics/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "display_fields": {
         "name": "数学",
         "duration": "通常3年；180 ECTS",
-        "language": "以法语为主；B2要求、C1建议",
-        "entry_summary": "中国高中学历须核对入学考试或CMS预科路径。",
-        "tuition_summary": "适用三倍学费者 CHF 2,190／学期，另有费用",
-        "outcomes_summary": "官方培养及职业方向已补；本科就业统计待核实"
+        "language": "以法语为主；部分英语课程，法语B2要求/C1建议",
+        "entry_summary": "大陆普高走CMS审查或入学考试；IB及International A-level另按资格类别，不能凭高考直接推定录取。",
+        "tuition_summary": "适用外国学生通常 CHF 2,240/学期（其中学费2,190）；2025秋起政策",
+        "outcomes_summary": "已核培养及后续方向；未取得本专业本科就业率/薪资调查",
+        "intake": "课程计划2026–27；2027–28专属入学细则待核"
       },
       "sections": {
         "overview": [
@@ -435,6 +2179,48 @@
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "学位层级与课程年度",
+            "text": "本项仍是现有独立本科入口；通常 3 年、180 ECTS，由第一学年 60 ECTS 和其后两年 120 ECTS 组成。本轮逐课及考核依据为 2026–27 正式计划，未将其冒充 2027–28 新生未来三年的固定课程表。",
+            "source_ids": [
+              "rulebook-10-2026"
+            ],
+            "extraction_locator": "Art.2; official 2026–27 study plan"
+          },
+          {
+            "label": "第一年课程（2026–27）",
+            "text": "第一年强化实分析、向量分析、线性代数、基础代数结构、离散数学、力学与电磁流体物理，并有软件开发和信息计算。",
+            "source_ids": [
+              "plan-10-sheet-2008343721"
+            ],
+            "extraction_locator": "Cycle propédeutique, course rows and notes"
+          },
+          {
+            "label": "第二、三年课程与考核",
+            "text": "二年级学习数值分析、群与环域、Lebesgue/Fourier 分析、复分析、微分几何、概率、统计与拓扑。三年级从指定数学课程池选课，内容包括代数几何、数论、泛函分析、偏微分方程、优化、随机过程、统计等，并完成数学项目。",
+            "source_ids": [
+              "plan-10-sheet-1289285449",
+              "rulebook-10-2026"
+            ],
+            "extraction_locator": "Cycle Bachelor; Art.3 and bachelor chapter"
+          },
+          {
+            "label": "学分与方向边界",
+            "text": "二年级基础组 56 ECTS；三年级选修 44、数学项目 12；跨年 SHS/MGT 8，共 120。规章要求选修至少 40 ECTS 来自本科数学表 1 或数学硕士选修池，表 2 最多选一门。表 2 表头写最多 4 ECTS，却同时列 CS-250 算法 I 为 8、CS-233 机器学习导论为 6 ECTS；本轮不推断超额部分如何认可或这些课程可无条件任选，须依正式规则并向学院确认。",
+            "source_ids": [
+              "rulebook-10-2026",
+              "plan-10-sheet-1289285449"
+            ],
+            "extraction_locator": "Bachelor cycle credit groups and cohort notes"
+          },
+          {
+            "label": "授课语言范围",
+            "text": "本科大部分课程以法语授课，二年级起计划可能含最多50%的英语课程；部分数学物理可选英语或德语。入学页面要求法语至少B2并强烈建议C1，英语课程存在不意味着全英语本科。",
+            "source_ids": [
+              "teaching-languages",
+              "admission-current"
+            ]
           }
         ],
         "outcomes": [
@@ -443,6 +2229,51 @@
             "text": "可继续数学、应用数学或统计学硕士，走向理论研究或定量应用。 本次项目页未取得可比的本科就业率、薪资及样本数据。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "就业数据的学历边界",
+            "text": "本轮取得的官方2022届就业调查在2023年8月中至9月中访问硕士与博士毕业生，未覆盖本项本科毕业生。因此不将该报告的就业率、薪资或学院分项转作本项本科结果；本科届次、答卷数和中国学生统计仍未取得。",
+            "source_ids": [
+              "outcomes-2022"
+            ],
+            "extraction_locator": "Report Preamble, printed page1/PDF page3"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "入校后的第一年升读条件",
+            "text": "2026–27 本专业规章要求冬季考试后第一个考核组平均至少 3.50/6 才可进入春季；夏季考试后2个组各至少 4.00/6 才通过第一学年。这些是大学在读考核，不是高考百分比。第一年表中的 coefficients 是评分权重，不能直接当各课 ECTS。",
+            "source_ids": [
+              "rulebook-10-2026"
+            ],
+            "extraction_locator": "Propedeutic examinations"
+          },
+          {
+            "label": "专业选课、转入或后续阶段条件",
+            "text": "数学项目由数学学部关联导师指导，须先取得二年级基础科学组学分才可开始。第三年交换规章写第一年考试平均至少 4.50，并完成二年级 60 ECTS；本数学规章未像部分其他学部另列非欧洲 5.00，具体目的地仍须审批。",
+            "source_ids": [
+              "rulebook-10-2026"
+            ],
+            "extraction_locator": "Programme-specific bachelor rules / department current page"
+          }
+        ],
+        "applications": [
+          {
+            "label": "高中申请与课程注册的区别",
+            "text": "本项高中申请沿用学校按学历类别划分的本科/CMS程序；常规申请是11月中旬至次年4月30日，补件节点见学校资料。2026–27 学生课程注册日并非 2027 高中新生录取截止，本轮未取得本专业单列的 2027–28 新生截止。",
+            "source_ids": [
+              "apply-current",
+              "academic-calendar"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科收费范围与年度",
+            "text": "对因学习来瑞士且不满足豁免的外国学生，本科当前按学期收 CHF 2,190 学费，加三项费用后通常账单 CHF 2,240。规则自2025年秋生效、首次指数调整计划2029年；这是学校本科收费政策，不是本专业单独报价或未来全程价格保证。",
+            "source_ids": [
+              "fees-current"
             ]
           }
         ]
@@ -455,23 +2286,107 @@
           "checked_at": "2026-09-12",
           "supports": "本科培养结构、硕士衔接及职业方向",
           "sha256": "796a4e633d5137c2bf53a7e900ba12b311374350a1fc60109a98a865bf1c61ff"
+        },
+        {
+          "id": "rulebook-10-2026",
+          "title": "EPFL Mathematics：2026–27本科及硕士考核规章",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vTRcBSyFcKdfPnZvBszmv3JxMVDKB0Yz_LVDTwHLkTp0j-YkIYY_HoUbcbqhi4TXl34G-Fz-iSnwqrQ/pub",
+          "checked_at": "2026-09-13",
+          "supports": "学位层级与课程年度",
+          "sha256": "c15fc33abaffb5ea995fd86ba8940e020cf65108f85a213c7ce47d9ee06d16e5",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-10-sheet-2008343721",
+          "title": "EPFL Mathematics：2026–27第一学年正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQATp93seisoUYbnPzNUSen0DpGo5WOQzLC6uJ52alb4t4z4B6mMQwG9fTiuXz6pu9Ao-RtTR1VkYPF/pubhtml/sheet?headers=false&gid=2008343721",
+          "checked_at": "2026-09-13",
+          "supports": "第一年课程（2026–27）",
+          "sha256": "ff908f84ac1893b4ddaf3b37069a6f3a92642608c9ea5e4bd6ebd943c894eaa8",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-10-sheet-1289285449",
+          "title": "EPFL Mathematics：2026–27本科二、三年级正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQATp93seisoUYbnPzNUSen0DpGo5WOQzLC6uJ52alb4t4z4B6mMQwG9fTiuXz6pu9Ao-RtTR1VkYPF/pubhtml/sheet?headers=false&gid=1289285449",
+          "checked_at": "2026-09-13",
+          "supports": "第二、三年课程与考核",
+          "sha256": "44851f9d2d6f12db8b13187d1e40fbd51b292e5916481e632a6256698ee85ecb",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "apply-current",
+          "title": "EPFL本科/CMS申请程序",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "academic-calendar",
+          "title": "EPFL 2026–27在校学期日历",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "e4ba2933b1209a1be2a422d20a1e7b3e81383575f536b8e02fb4e185f1ad088f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "fees-current",
+          "title": "EPFL学期学费与其他收费",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "本科收费范围与年度",
+          "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "outcomes-2022",
+          "title": "EPFL 2022届硕士与博士就业调查（2024年5月报告）",
+          "url": "https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "就业数据的学历边界",
+          "sha256": "6fdf20064c0104d8a10610bdb7e035a8d003072889021a8b97cb34f9d6fcf1f2",
+          "capture_format": "public_HTTP_PDF"
+        },
+        {
+          "id": "teaching-languages",
+          "title": "EPFL各学习阶段授课语言",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/",
+          "checked_at": "2026-09-13",
+          "supports": "授课语言范围",
+          "sha256": "eb2054d2512e577f36f0c92d32172a860593aa4b95be5cc1ccb5a093ae251748",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "admission-current",
+          "title": "EPFL当前本科及CMS资格：大陆高中、IB与A-level",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
+          "checked_at": "2026-09-13",
+          "supports": "授课语言范围",
+          "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
+          "capture_format": "public_HTTP_HTML"
         }
       ],
       "university_id": "epfl",
       "name_en": "Mathematics",
-      "official_url": "https://www.epfl.ch/education/bachelor/programs/mathematics/"
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/mathematics/",
+      "research_status": "partial",
+      "degree_label": "Bachelor"
     },
     {
       "inventory_id": "epfl-mechanical-engineering-8a715270ad",
       "raw_key": "https://www.epfl.ch/education/bachelor/programs/mechanical-engineering/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "display_fields": {
         "name": "机械工程",
         "duration": "通常3年；180 ECTS",
-        "language": "以法语为主；B2要求、C1建议",
-        "entry_summary": "中国高中学历须核对入学考试或CMS预科路径。",
-        "tuition_summary": "适用三倍学费者 CHF 2,190／学期，另有费用",
-        "outcomes_summary": "官方培养及职业方向已补；本科就业统计待核实"
+        "language": "以法语为主；部分英语课程，法语B2要求/C1建议",
+        "entry_summary": "大陆普高走CMS审查或入学考试；IB及International A-level另按资格类别，不能凭高考直接推定录取。",
+        "tuition_summary": "适用外国学生通常 CHF 2,240/学期（其中学费2,190）；2025秋起政策",
+        "outcomes_summary": "已核培养及后续方向；未取得本专业本科就业率/薪资调查",
+        "intake": "课程计划2026–27；2027–28专属入学细则待核"
       },
       "sections": {
         "overview": [
@@ -481,6 +2396,48 @@
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "学位层级与课程年度",
+            "text": "本项仍是现有独立本科入口；通常 3 年、180 ECTS，由第一学年 60 ECTS 和其后两年 120 ECTS 组成。本轮逐课及考核依据为 2026–27 正式计划，未将其冒充 2027–28 新生未来三年的固定课程表。",
+            "source_ids": [
+              "rulebook-11-2026"
+            ],
+            "extraction_locator": "Art.2; official 2026–27 study plan"
+          },
+          {
+            "label": "第一年课程（2026–27）",
+            "text": "第一年学习分析、代数、力学、热力学，配合机械构造 I/II、材料、尺度律、结构力学基础、电学及信息计算。",
+            "source_ids": [
+              "plan-11-sheet-3431055"
+            ],
+            "extraction_locator": "Cycle propédeutique, course rows and notes"
+          },
+          {
+            "label": "第二、三年课程与考核",
+            "text": "二年级包括数值与概率分析、电磁学、材料力学、生产工艺、动力系统、编程、流体、结构力学与热力学。当前三年级表有控制、传热、振动、有限元、人工智能、产品设计、测量及并行工程项目，但明确混列旧届次过渡课程；不把该表作为 2027 新生完整三年固定课表。",
+            "source_ids": [
+              "plan-11-sheet-935005322",
+              "rulebook-11-2026"
+            ],
+            "extraction_locator": "Cycle Bachelor; Art.3 and bachelor chapter"
+          },
+          {
+            "label": "学分与方向边界",
+            "text": "规章列二年级三个组 22、16、18 ECTS；第三年组 22、21 和选修 13；跨年 SHS/MGT 8，共 120。公开表当前第三年另以 38、9、9 过渡分组显示，且规章某些块编号前后不一致。本轮同时保留总量与这项届次/编号差异，个人选课须按所属届次核对。",
+            "source_ids": [
+              "rulebook-11-2026",
+              "plan-11-sheet-935005322"
+            ],
+            "extraction_locator": "Bachelor cycle credit groups and cohort notes"
+          },
+          {
+            "label": "授课语言范围",
+            "text": "本科大部分课程以法语授课，二年级起计划可能含最多50%的英语课程；部分数学物理可选英语或德语。入学页面要求法语至少B2并强烈建议C1，英语课程存在不意味着全英语本科。",
+            "source_ids": [
+              "teaching-languages",
+              "admission-current"
+            ]
           }
         ],
         "outcomes": [
@@ -489,6 +2446,62 @@
             "text": "机械设计制造、控制、能源和相关工程行业；具体岗位随后续专业训练而异。 本次项目页未取得可比的本科就业率、薪资及样本数据。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "就业数据的学历边界",
+            "text": "本轮取得的官方2022届就业调查在2023年8月中至9月中访问硕士与博士毕业生，未覆盖本项本科毕业生。因此不将该报告的就业率、薪资或学院分项转作本项本科结果；本科届次、答卷数和中国学生统计仍未取得。",
+            "source_ids": [
+              "outcomes-2022"
+            ],
+            "extraction_locator": "Report Preamble, printed page1/PDF page3"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "入校后的第一年升读条件",
+            "text": "2026–27 本专业规章要求冬季考试后第一个考核组平均至少 3.50/6 才可进入春季；夏季考试后2个组各至少 4.00/6 才通过第一学年。这些是大学在读考核，不是高考百分比。第一年表中的 coefficients 是评分权重，不能直接当各课 ECTS。",
+            "source_ids": [
+              "rulebook-11-2026"
+            ],
+            "extraction_locator": "Propedeutic examinations"
+          },
+          {
+            "label": "专业选课、转入或后续阶段条件",
+            "text": "2026–27 规章指定 Measurement techniques 与 Projet d’ingénierie simultanée 为必修；选修须考虑以后拟读硕士的先修。院系亦允许 STI 第一学年通过者直接转入机械第二年；不能据此跳过外国高中入学资格。",
+            "source_ids": [
+              "department-11",
+              "rulebook-11-2026",
+              "plan-11-sheet-935005322"
+            ],
+            "extraction_locator": "Programme-specific bachelor rules / department current page"
+          }
+        ],
+        "applications": [
+          {
+            "label": "第三年交换的在读资格",
+            "text": "本专业 2026–27 规章要求第一年考试平均至少 4.50/6，欧洲以外交换至少 5.00/6，并已取得第二年全部 60 ECTS，还须目的地及学院批准。通过二、三年级外部转入者，学校总则不允许第三年学术交换；上述成绩不构成高中直接申请交换路线。",
+            "source_ids": [
+              "rulebook-11-2026",
+              "admission-current"
+            ],
+            "extraction_locator": "Mobility article; admission Other higher education"
+          },
+          {
+            "label": "高中申请与课程注册的区别",
+            "text": "本项高中申请沿用学校按学历类别划分的本科/CMS程序；常规申请是11月中旬至次年4月30日，补件节点见学校资料。2026–27 学生课程注册日并非 2027 高中新生录取截止，本轮未取得本专业单列的 2027–28 新生截止。",
+            "source_ids": [
+              "apply-current",
+              "academic-calendar"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科收费范围与年度",
+            "text": "对因学习来瑞士且不满足豁免的外国学生，本科当前按学期收 CHF 2,190 学费，加三项费用后通常账单 CHF 2,240。规则自2025年秋生效、首次指数调整计划2029年；这是学校本科收费政策，不是本专业单独报价或未来全程价格保证。",
+            "source_ids": [
+              "fees-current"
             ]
           }
         ]
@@ -501,23 +2514,116 @@
           "checked_at": "2026-09-12",
           "supports": "本科培养结构、硕士衔接及职业方向",
           "sha256": "f39ac840c927e7639df69a695d5a95e5aa6c0e4358818d101cd24362cd596aad"
+        },
+        {
+          "id": "rulebook-11-2026",
+          "title": "EPFL Mechanical Engineering：2026–27本科及硕士考核规章",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vRvrigW3yhvQdUYLvmWw27ioSaGtypaPiKhM9OL4I1VY2WGfhr6v7KNBKB-0lij2CFCA-LtYKNiOebC/pub",
+          "checked_at": "2026-09-13",
+          "supports": "学位层级与课程年度",
+          "sha256": "bc8433fd1baaa96333c145db9df30631761b25255d98b924cbca0f02f9e13ea1",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-11-sheet-3431055",
+          "title": "EPFL Mechanical Engineering：2026–27第一学年正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vShIQAoFCpjBG3ivDgtJX5Aim4V5SRbLZ_AAurwqqc_6uvnZXGdTeKyGLHvWp7D3_VhCXdGtpK4F2kL/pubhtml/sheet?headers=false&gid=3431055",
+          "checked_at": "2026-09-13",
+          "supports": "第一年课程（2026–27）",
+          "sha256": "cc358ed557b7630be3c8d5e41200d9d133c6ccfdf22bbf1e1ff92b2b3ea57a91",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-11-sheet-935005322",
+          "title": "EPFL Mechanical Engineering：2026–27本科二、三年级正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vShIQAoFCpjBG3ivDgtJX5Aim4V5SRbLZ_AAurwqqc_6uvnZXGdTeKyGLHvWp7D3_VhCXdGtpK4F2kL/pubhtml/sheet?headers=false&gid=935005322",
+          "checked_at": "2026-09-13",
+          "supports": "第二、三年课程与考核",
+          "sha256": "943e89f150eda74c399e06d196bf2f9a7140932172bb9e4de04a4c70e2c10e4c",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "department-11",
+          "title": "SGM Overview – STI – School of Engineering – EPFL",
+          "url": "https://sti.epfl.ch/sgm/overview/",
+          "checked_at": "2026-09-13",
+          "supports": "专业选课、转入或后续阶段条件",
+          "sha256": "369b791b7c31aec2d639778fc414c8bc756b100969d7a3aadc653e3508e0ce48",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "admission-current",
+          "title": "EPFL当前本科及CMS资格：大陆高中、IB与A-level",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
+          "checked_at": "2026-09-13",
+          "supports": "第三年交换的在读资格",
+          "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "apply-current",
+          "title": "EPFL本科/CMS申请程序",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "academic-calendar",
+          "title": "EPFL 2026–27在校学期日历",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "e4ba2933b1209a1be2a422d20a1e7b3e81383575f536b8e02fb4e185f1ad088f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "fees-current",
+          "title": "EPFL学期学费与其他收费",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "本科收费范围与年度",
+          "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "outcomes-2022",
+          "title": "EPFL 2022届硕士与博士就业调查（2024年5月报告）",
+          "url": "https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "就业数据的学历边界",
+          "sha256": "6fdf20064c0104d8a10610bdb7e035a8d003072889021a8b97cb34f9d6fcf1f2",
+          "capture_format": "public_HTTP_PDF"
+        },
+        {
+          "id": "teaching-languages",
+          "title": "EPFL各学习阶段授课语言",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/",
+          "checked_at": "2026-09-13",
+          "supports": "授课语言范围",
+          "sha256": "eb2054d2512e577f36f0c92d32172a860593aa4b95be5cc1ccb5a093ae251748",
+          "capture_format": "public_HTTP_HTML"
         }
       ],
       "university_id": "epfl",
       "name_en": "Mechanical Engineering",
-      "official_url": "https://www.epfl.ch/education/bachelor/programs/mechanical-engineering/"
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/mechanical-engineering/",
+      "research_status": "partial",
+      "degree_label": "Bachelor"
     },
     {
       "inventory_id": "epfl-microengineering-66b5207340",
       "raw_key": "https://www.epfl.ch/education/bachelor/programs/microengineering/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "display_fields": {
         "name": "微技术工程",
         "duration": "通常3年；180 ECTS",
-        "language": "以法语为主；B2要求、C1建议",
-        "entry_summary": "中国高中学历须核对入学考试或CMS预科路径。",
-        "tuition_summary": "适用三倍学费者 CHF 2,190／学期，另有费用",
-        "outcomes_summary": "官方培养及职业方向已补；本科就业统计待核实"
+        "language": "以法语为主；部分英语课程，法语B2要求/C1建议",
+        "entry_summary": "大陆普高走CMS审查或入学考试；IB及International A-level另按资格类别，不能凭高考直接推定录取。",
+        "tuition_summary": "适用外国学生通常 CHF 2,240/学期（其中学费2,190）；2025秋起政策",
+        "outcomes_summary": "已核培养及后续方向；未取得本专业本科就业率/薪资调查",
+        "intake": "课程计划2026–27；2027–28专属入学细则待核"
       },
       "sections": {
         "overview": [
@@ -526,6 +2632,48 @@
             "text": "首年学习科学工具并开展CAD设计，第二年工艺实习将设计落实；后续覆盖控制、电子光子、产品和生产，并完成综合项目。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "学位层级与课程年度",
+            "text": "本项仍是现有独立本科入口；通常 3 年、180 ECTS，由第一学年 60 ECTS 和其后两年 120 ECTS 组成。本轮逐课及考核依据为 2026–27 正式计划，未将其冒充 2027–28 新生未来三年的固定课程表。",
+            "source_ids": [
+              "rulebook-12-2026"
+            ],
+            "extraction_locator": "Art.2; official 2026–27 study plan"
+          },
+          {
+            "label": "第一年课程（2026–27）",
+            "text": "第一年将分析、代数、物理、电工、材料与机械构造、概率统计及项目编程结合。",
+            "source_ids": [
+              "plan-12-sheet-52877395"
+            ],
+            "extraction_locator": "Cycle propédeutique, course rows and notes"
+          },
+          {
+            "label": "第二、三年课程与考核",
+            "text": "二年级学习数值分析与优化、数据统计、电磁学、机构设计、电子学、材料、逻辑系统和微控制器，并完成加工实践。三年级分系统控制、电子光子学、产品生产，覆盖控制与信号、光学、半导体、嵌入式机器人、传感器、制造与微加工。",
+            "source_ids": [
+              "plan-12-sheet-2054127741",
+              "rulebook-12-2026"
+            ],
+            "extraction_locator": "Cycle Bachelor; Art.3 and bachelor chapter"
+          },
+          {
+            "label": "学分与方向边界",
+            "text": "二年级基础 23、微技术 32 ECTS；三年级系统控制 21、电子光子 15、产品生产 15、选修 6；跨年 SHS/MGT 8，共 120。表中按年为 59/61 ECTS；加工实践须由学院判定通过，表注在 EPFL 车间、学期外完成 4×8 小时。",
+            "source_ids": [
+              "rulebook-12-2026",
+              "plan-12-sheet-2054127741"
+            ],
+            "extraction_locator": "Bachelor cycle credit groups and cohort notes"
+          },
+          {
+            "label": "授课语言范围",
+            "text": "本科大部分课程以法语授课，二年级起计划可能含最多50%的英语课程；部分数学物理可选英语或德语。入学页面要求法语至少B2并强烈建议C1，英语课程存在不意味着全英语本科。",
+            "source_ids": [
+              "teaching-languages",
+              "admission-current"
             ]
           }
         ],
@@ -536,6 +2684,76 @@
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "就业数据的学历边界",
+            "text": "本轮取得的官方2022届就业调查在2023年8月中至9月中访问硕士与博士毕业生，未覆盖本项本科毕业生。因此不将该报告的就业率、薪资或学院分项转作本项本科结果；本科届次、答卷数和中国学生统计仍未取得。",
+            "source_ids": [
+              "outcomes-2022"
+            ],
+            "extraction_locator": "Report Preamble, printed page1/PDF page3"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "入校后的第一年升读条件",
+            "text": "2026–27 本专业规章要求冬季考试后第一个考核组平均至少 3.50/6 才可进入春季；夏季考试后2个组各至少 4.00/6 才通过第一学年。这些是大学在读考核，不是高考百分比。第一年表中的 coefficients 是评分权重，不能直接当各课 ECTS。",
+            "source_ids": [
+              "rulebook-12-2026"
+            ],
+            "extraction_locator": "Propedeutic examinations"
+          },
+          {
+            "label": "专业选课、转入或后续阶段条件",
+            "text": "2026–27 专属先修表要求机构设计 I→II、电子学 I→II、材料工程 I→II、逻辑系统→微控制器。分析 III→IV 只是强烈建议。先修课程学分已获或其考核组已补偿通过均可满足；不得当作中国高中须已修大学课程的入学要求。",
+            "source_ids": [
+              "micro-prerequisites-2026"
+            ],
+            "extraction_locator": "Programme-specific bachelor rules / department current page"
+          },
+          {
+            "label": "三年级具体先修（2026–27）",
+            "text": "自动控制需分析 IV；信号系统 I 需分析 III/IV、数值分析与优化及数据统计，系统 II 还需系统 I；光学和传感器需电磁物理，嵌入式与机器人需逻辑系统和微控制器。高级微加工实践需微加工 I；选修电子电路系统需电子学 I/II。新必修半导体器件物理没有形式先修，但期望牢固数学物理背景。",
+            "source_ids": [
+              "micro-prerequisites-2026"
+            ],
+            "extraction_locator": "Pages1–3; all bullet conditions"
+          }
+        ],
+        "applications": [
+          {
+            "label": "第三年交换的在读资格",
+            "text": "本专业 2026–27 规章要求第一年考试平均至少 4.50/6，欧洲以外交换至少 5.00/6，并已取得第二年全部 60 ECTS，还须目的地及学院批准。本专业课程表另列二、三年级不均分的学分量；这里保留交换条款原写的 60 ECTS，不自行换算为 61 或解释为允许少修。通过二、三年级外部转入者，学校总则不允许第三年学术交换；上述成绩不构成高中直接申请交换路线。",
+            "source_ids": [
+              "rulebook-12-2026",
+              "admission-current"
+            ],
+            "extraction_locator": "Mobility article; admission Other higher education"
+          },
+          {
+            "label": "高中申请与课程注册的区别",
+            "text": "本项高中申请沿用学校按学历类别划分的本科/CMS程序；常规申请是11月中旬至次年4月30日，补件节点见学校资料。2026–27 学生课程注册日并非 2027 高中新生录取截止，本轮未取得本专业单列的 2027–28 新生截止。",
+            "source_ids": [
+              "apply-current",
+              "academic-calendar"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科收费范围与年度",
+            "text": "对因学习来瑞士且不满足豁免的外国学生，本科当前按学期收 CHF 2,190 学费，加三项费用后通常账单 CHF 2,240。规则自2025年秋生效、首次指数调整计划2029年；这是学校本科收费政策，不是本专业单独报价或未来全程价格保证。",
+            "source_ids": [
+              "fees-current"
+            ]
+          },
+          {
+            "label": "微技术专项助学金入口",
+            "text": "学校列 Charles-Edouard Guillaume Foundation 为微技术学生提供社会助学金，年度截止9月30日；本轮未取得明确适用于大陆新生的金额与全部资格，须按该基金当期文件核验。",
+            "source_ids": [
+              "scholarships"
+            ],
+            "extraction_locator": "Charles-Edouard Guillaume Foundation"
           }
         ]
       },
@@ -547,23 +2765,125 @@
           "checked_at": "2026-09-12",
           "supports": "本科培养结构、硕士衔接及职业方向",
           "sha256": "63dc17bacf2f54a10ebb7135d74cb1592cd93665cecebd2644ce407b82eb034b"
+        },
+        {
+          "id": "rulebook-12-2026",
+          "title": "EPFL Microengineering：2026–27本科及硕士考核规章",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vSG-PJwic-mwjz7xnByokru-SP1H9DekiP2O-OixTsyi1RXv47F5AgfvqX5U_cUnKNiRnGKDZG0JHMV/pub",
+          "checked_at": "2026-09-13",
+          "supports": "学位层级与课程年度",
+          "sha256": "b0668bf76c5fb015706d7295b1fed7a4df8d5d9705641cadca7c2929fbc84b30",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-12-sheet-52877395",
+          "title": "EPFL Microengineering：2026–27第一学年正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVaLtmyvl5wP6XFS4nrxy4m2UJ-jz1PeUthagH3__6BlJ8CdkccNFR51Lqc-IG8d_-Yd3iSqNDqzvG/pubhtml/sheet?headers=false&gid=52877395",
+          "checked_at": "2026-09-13",
+          "supports": "第一年课程（2026–27）",
+          "sha256": "2f5b4e2366a66a1add3fb21599c5400a2860f9243486e64f93a2bcc41aca6078",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-12-sheet-2054127741",
+          "title": "EPFL Microengineering：2026–27本科二、三年级正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVaLtmyvl5wP6XFS4nrxy4m2UJ-jz1PeUthagH3__6BlJ8CdkccNFR51Lqc-IG8d_-Yd3iSqNDqzvG/pubhtml/sheet?headers=false&gid=2054127741",
+          "checked_at": "2026-09-13",
+          "supports": "第二、三年课程与考核",
+          "sha256": "e24063311210e36f1d0dc2edda2df41a1c08a3e292380300475714ce3e1fa359",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "micro-prerequisites-2026",
+          "title": "EPFL微技术本科2026–27课程先修要求",
+          "url": "https://sti.epfl.ch/wp-content/uploads/2026/07/26-27-Prerequis_mise-a-jour.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "专业选课、转入或后续阶段条件",
+          "sha256": "b8c11816f75bf3934dc2a53f4b387bc7e8b37b15ab3bf4bf71a233a51e9675ef",
+          "capture_format": "public_HTTP_PDF"
+        },
+        {
+          "id": "admission-current",
+          "title": "EPFL当前本科及CMS资格：大陆高中、IB与A-level",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
+          "checked_at": "2026-09-13",
+          "supports": "第三年交换的在读资格",
+          "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "apply-current",
+          "title": "EPFL本科/CMS申请程序",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "academic-calendar",
+          "title": "EPFL 2026–27在校学期日历",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "e4ba2933b1209a1be2a422d20a1e7b3e81383575f536b8e02fb4e185f1ad088f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "fees-current",
+          "title": "EPFL学期学费与其他收费",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "本科收费范围与年度",
+          "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "outcomes-2022",
+          "title": "EPFL 2022届硕士与博士就业调查（2024年5月报告）",
+          "url": "https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "就业数据的学历边界",
+          "sha256": "6fdf20064c0104d8a10610bdb7e035a8d003072889021a8b97cb34f9d6fcf1f2",
+          "capture_format": "public_HTTP_PDF"
+        },
+        {
+          "id": "scholarships",
+          "title": "EPFL奖学金及按专业资助入口",
+          "url": "https://www.epfl.ch/education/studies/en/support-scholarships/",
+          "checked_at": "2026-09-13",
+          "supports": "微技术专项助学金入口",
+          "sha256": "d184751fe17b91825db2f34f1db510e250da6e18b4e7fa744570e6e92f0dbcb9",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "teaching-languages",
+          "title": "EPFL各学习阶段授课语言",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/",
+          "checked_at": "2026-09-13",
+          "supports": "授课语言范围",
+          "sha256": "eb2054d2512e577f36f0c92d32172a860593aa4b95be5cc1ccb5a093ae251748",
+          "capture_format": "public_HTTP_HTML"
         }
       ],
       "university_id": "epfl",
       "name_en": "Microengineering",
-      "official_url": "https://www.epfl.ch/education/bachelor/programs/microengineering/"
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/microengineering/",
+      "research_status": "partial",
+      "degree_label": "Bachelor"
     },
     {
       "inventory_id": "epfl-physics-3c3e614ebd",
       "raw_key": "https://www.epfl.ch/education/bachelor/programs/physics/",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "display_fields": {
         "name": "物理学",
         "duration": "通常3年；180 ECTS",
-        "language": "以法语为主；B2要求、C1建议",
-        "entry_summary": "中国高中学历须核对入学考试或CMS预科路径。",
-        "tuition_summary": "适用三倍学费者 CHF 2,190／学期，另有费用",
-        "outcomes_summary": "官方培养及职业方向已补；本科就业统计待核实"
+        "language": "以法语为主；部分英语课程，法语B2要求/C1建议",
+        "entry_summary": "大陆普高走CMS审查或入学考试；IB及International A-level另按资格类别，不能凭高考直接推定录取。",
+        "tuition_summary": "适用外国学生通常 CHF 2,240/学期（其中学费2,190）；2025秋起政策",
+        "outcomes_summary": "已核培养及后续方向；未取得本专业本科就业率/薪资调查",
+        "intake": "课程计划2026–27；2027–28专属入学细则待核"
       },
       "sections": {
         "overview": [
@@ -573,6 +2893,48 @@
             "source_ids": [
               "program"
             ]
+          },
+          {
+            "label": "学位层级与课程年度",
+            "text": "本项仍是现有独立本科入口；通常 3 年、180 ECTS，由第一学年 60 ECTS 和其后两年 120 ECTS 组成。本轮逐课及考核依据为 2026–27 正式计划，未将其冒充 2027–28 新生未来三年的固定课程表。",
+            "source_ids": [
+              "rulebook-13-2026"
+            ],
+            "extraction_locator": "Art.2; official 2026–27 study plan"
+          },
+          {
+            "label": "第一年课程（2026–27）",
+            "text": "第一年强化高等分析、线性代数、力学与热力学，并有计量实验、面向对象编程和信息计算。",
+            "source_ids": [
+              "plan-13-sheet-163614375"
+            ],
+            "extraction_locator": "Cycle propédeutique, course rows and notes"
+          },
+          {
+            "label": "第二、三年课程与考核",
+            "text": "二年级进入分析力学、量子力学、物理 III/IV、数学方法、数值物理、数据与概率统计，并继续实验。三年级核心包括原子分子与光学、经典电动力学、粒子、固体、统计及量子物理 II；可选天体物理、核物理、等离子体、软物质、生物物理等。",
+            "source_ids": [
+              "plan-13-sheet-2022845147",
+              "rulebook-13-2026"
+            ],
+            "extraction_locator": "Cycle Bachelor; Art.3 and bachelor chapter"
+          },
+          {
+            "label": "学分与方向边界",
+            "text": "二年级三个组为 21、25、10 ECTS；三年级核心 34、实验等组 16、选修 6；跨年 SHS/MGT 8，共 120 ECTS。各选修需单独通过；专业采用学期内实验考核以及按课程表指定的考试。",
+            "source_ids": [
+              "rulebook-13-2026",
+              "plan-13-sheet-2022845147"
+            ],
+            "extraction_locator": "Bachelor cycle credit groups and cohort notes"
+          },
+          {
+            "label": "授课语言范围",
+            "text": "本科大部分课程以法语授课，二年级起计划可能含最多50%的英语课程；部分数学物理可选英语或德语。入学页面要求法语至少B2并强烈建议C1，英语课程存在不意味着全英语本科。",
+            "source_ids": [
+              "teaching-languages",
+              "admission-current"
+            ]
           }
         ],
         "outcomes": [
@@ -581,6 +2943,60 @@
             "text": "基础与应用研究、技术项目、公共或企业管理及教学；职业方向不构成本科就业率。 本次项目页未取得可比的本科就业率、薪资及样本数据。",
             "source_ids": [
               "program"
+            ]
+          },
+          {
+            "label": "就业数据的学历边界",
+            "text": "本轮取得的官方2022届就业调查在2023年8月中至9月中访问硕士与博士毕业生，未覆盖本项本科毕业生。因此不将该报告的就业率、薪资或学院分项转作本项本科结果；本科届次、答卷数和中国学生统计仍未取得。",
+            "source_ids": [
+              "outcomes-2022"
+            ],
+            "extraction_locator": "Report Preamble, printed page1/PDF page3"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "入校后的第一年升读条件",
+            "text": "2026–27 本专业规章要求冬季考试后第一个考核组平均至少 3.50/6 才可进入春季；夏季考试后2个组各至少 4.00/6 才通过第一学年。这些是大学在读考核，不是高考百分比。第一年表中的 coefficients 是评分权重，不能直接当各课 ECTS。",
+            "source_ids": [
+              "rulebook-13-2026"
+            ],
+            "extraction_locator": "Propedeutic examinations"
+          },
+          {
+            "label": "专业选课、转入或后续阶段条件",
+            "text": "院系介绍第一年计量实验每周 3 小时、第二年实验每周一个下午、第三年实验每周一天。这是当前教学安排说明，未据此将每周课时换算为独立学分或额外学制。",
+            "source_ids": [
+              "department-13"
+            ],
+            "extraction_locator": "Programme-specific bachelor rules / department current page"
+          }
+        ],
+        "applications": [
+          {
+            "label": "第三年交换的在读资格",
+            "text": "本专业 2026–27 规章要求第一年考试平均至少 4.50/6，欧洲以外交换至少 5.00/6，并已取得第二年全部 60 ECTS，还须目的地及学院批准。通过二、三年级外部转入者，学校总则不允许第三年学术交换；上述成绩不构成高中直接申请交换路线。",
+            "source_ids": [
+              "rulebook-13-2026",
+              "admission-current"
+            ],
+            "extraction_locator": "Mobility article; admission Other higher education"
+          },
+          {
+            "label": "高中申请与课程注册的区别",
+            "text": "本项高中申请沿用学校按学历类别划分的本科/CMS程序；常规申请是11月中旬至次年4月30日，补件节点见学校资料。2026–27 学生课程注册日并非 2027 高中新生录取截止，本轮未取得本专业单列的 2027–28 新生截止。",
+            "source_ids": [
+              "apply-current",
+              "academic-calendar"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科收费范围与年度",
+            "text": "对因学习来瑞士且不满足豁免的外国学生，本科当前按学期收 CHF 2,190 学费，加三项费用后通常账单 CHF 2,240。规则自2025年秋生效、首次指数调整计划2029年；这是学校本科收费政策，不是本专业单独报价或未来全程价格保证。",
+            "source_ids": [
+              "fees-current"
             ]
           }
         ]
@@ -593,15 +3009,107 @@
           "checked_at": "2026-09-12",
           "supports": "本科培养结构、硕士衔接及职业方向",
           "sha256": "2745c05190c8e9dbc0bbff981cec54d731ce55556de163b65f3410d5b364d3bf"
+        },
+        {
+          "id": "rulebook-13-2026",
+          "title": "EPFL Physics：2026–27本科及硕士考核规章",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vTUInMStA1IkNVGeLgVC8EMFm5VRKCnuMq53vVDt7rX4B22r01IMT7XQyiiwdhLTebRkQNqhRWe0CYb/pub",
+          "checked_at": "2026-09-13",
+          "supports": "学位层级与课程年度",
+          "sha256": "02b418a3c36f984f4f9fb6113105515f1f2aba4b55ab0c6025ca534d5f38ecc5",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-13-sheet-163614375",
+          "title": "EPFL Physics：2026–27第一学年正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSnKftyztx2CkMrBIfN_v_SUXuVaF5RK6IIChsGyUYKsTPdfdvkyby1xFMWom6H6yqL7fZe7AIlStAO/pubhtml/sheet?headers=false&gid=163614375",
+          "checked_at": "2026-09-13",
+          "supports": "第一年课程（2026–27）",
+          "sha256": "40c94a71eeec576ae6234d418ef04ad26109155113c1289bc2b4710179ab0b0b",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "plan-13-sheet-2022845147",
+          "title": "EPFL Physics：2026–27本科二、三年级正式课程表",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSnKftyztx2CkMrBIfN_v_SUXuVaF5RK6IIChsGyUYKsTPdfdvkyby1xFMWom6H6yqL7fZe7AIlStAO/pubhtml/sheet?headers=false&gid=2022845147",
+          "checked_at": "2026-09-13",
+          "supports": "第二、三年课程与考核",
+          "sha256": "cdc48e873589135b1aae0fea701c78999576223141407507fedb8b5404d2e891",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "department-13",
+          "title": "Bachelor ‒ SPH ‐ EPFL",
+          "url": "https://www.epfl.ch/schools/sb/sph/bachelor/",
+          "checked_at": "2026-09-13",
+          "supports": "专业选课、转入或后续阶段条件",
+          "sha256": "d54993a6a0b8aa10439d501f4fe2ef9aadce478e60dc1fd48ec9061f38a5f61a",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "admission-current",
+          "title": "EPFL当前本科及CMS资格：大陆高中、IB与A-level",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
+          "checked_at": "2026-09-13",
+          "supports": "第三年交换的在读资格",
+          "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "apply-current",
+          "title": "EPFL本科/CMS申请程序",
+          "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "academic-calendar",
+          "title": "EPFL 2026–27在校学期日历",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/",
+          "checked_at": "2026-09-13",
+          "supports": "高中申请与课程注册的区别",
+          "sha256": "e4ba2933b1209a1be2a422d20a1e7b3e81383575f536b8e02fb4e185f1ad088f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "fees-current",
+          "title": "EPFL学期学费与其他收费",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
+          "checked_at": "2026-09-13",
+          "supports": "本科收费范围与年度",
+          "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
+          "capture_format": "public_HTTP_HTML"
+        },
+        {
+          "id": "outcomes-2022",
+          "title": "EPFL 2022届硕士与博士就业调查（2024年5月报告）",
+          "url": "https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "就业数据的学历边界",
+          "sha256": "6fdf20064c0104d8a10610bdb7e035a8d003072889021a8b97cb34f9d6fcf1f2",
+          "capture_format": "public_HTTP_PDF"
+        },
+        {
+          "id": "teaching-languages",
+          "title": "EPFL各学习阶段授课语言",
+          "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/",
+          "checked_at": "2026-09-13",
+          "supports": "授课语言范围",
+          "sha256": "eb2054d2512e577f36f0c92d32172a860593aa4b95be5cc1ccb5a093ae251748",
+          "capture_format": "public_HTTP_HTML"
         }
       ],
       "university_id": "epfl",
       "name_en": "Physics",
-      "official_url": "https://www.epfl.ch/education/bachelor/programs/physics/"
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/physics/",
+      "research_status": "partial",
+      "degree_label": "Bachelor"
     }
   ],
   "profile": {
-    "checked_at": "2026-09-12",
+    "checked_at": "2026-09-13",
     "sections": {
       "admissions": [
         {
@@ -626,6 +3134,47 @@
           "source_ids": [
             "admissions"
           ]
+        },
+        {
+          "label": "大陆普高的学科组合（2026表/当前总则）",
+          "text": "CMS中国行明确属2026参考。普通科学高中须读七类：数学、物理、证书国官方语言、第二现代语言、化学或生物、历史/地理/经济之一，以及应用数学/计算机/哲学/第三现代语言之一。最终成绩单至少六类，必须含最高可读层次数学物理；两科及总平均各至少80%。CMS属于选拔预备年，满足这些不保证录取，也不是直接本科高考线。",
+          "source_ids": [
+            "cms-country-current",
+            "admission-current"
+          ],
+          "extraction_locator": "CMS PDF p1 validity / p5 China; non-EU/EFTA/UK branch"
+        },
+        {
+          "label": "学科等同与先前大学学习",
+          "text": "一门综合课只出一个成绩不能满足两门独立科目要求。已开始大学或预科者原则上不能再申请CMS；相关大学最终失败/被开除，或离开多个未完成大学专业者另有不可录取限制，这类限制也可能排除入学考试。必须如实申报全部既往学习，不能把CMS/考试写成无条件兜底。",
+          "source_ids": [
+            "admission-current"
+          ],
+          "extraction_locator": "Restrictions; non-EU subject interpretation"
+        },
+        {
+          "label": "IB国际课程资格",
+          "text": "IB Diploma须HL数学、物理及化学/生物/计算机之一；SL或HL还须两门现代语言和历史/地理/经济/哲学之一。普通申请者总分须至少38/42（不含附加分）、数学物理各至少6/7，数学AA/AI均接受；仍须法语并受第一年名额排序。瑞士及特定工作居留身份另有例外，不能套给普通大陆来读者。",
+          "source_ids": [
+            "admission-current"
+          ],
+          "extraction_locator": "International Baccalaureate branch"
+        },
+        {
+          "label": "英国A-level与International A-level并非同类",
+          "text": "英国资格通常要求数学、物理、化学/生物/计算机之一在A-level达到A或Advanced Higher达到1，并具GCSE或更高的英语、第二现代语言及历史或地理。EPFL明确第三国认证的International A-level归非EU/EFTA/UK类别；无国家认证的International A-level及Pre-U只可经入学考试。因此不直接把三门A当大陆国际学校本科直入标准。",
+          "source_ids": [
+            "admission-current"
+          ],
+          "extraction_locator": "United Kingdom branch including international qualifications"
+        },
+        {
+          "label": "本科授课语言与法语证据",
+          "text": "CMS全部法语。本科大多法语，二年级起可能含最多50%的英语课；数学/物理部分课提供英语或德语选择。当前本科资格要求法语B2、强烈建议C1，未在高中学法语的外国申请者须在申请时证明水平。本轮未取得可通用换算的IELTS/TOEFL替代法语规则。",
+          "source_ids": [
+            "teaching-languages",
+            "admission-current"
+          ]
         }
       ],
       "applications": [
@@ -642,6 +3191,40 @@
           "source_ids": [
             "exam"
           ]
+        },
+        {
+          "label": "申请材料与外国证书费用",
+          "text": "4月30日前须完成第一阶段表格、缴费并交身份证件、照片、高中最后两年成绩及适用的大学、居留、法语资料；7月10日前补最终材料，晚发证件仅按特定规则可延至9月30日。文件须为法/英/德/意语，否则附合法认证译文。外国证书申请费CHF150；未完成或撤回不退款。录取仅适用于下一学年，间隔年须重新申请。",
+          "source_ids": [
+            "apply-current"
+          ],
+          "extraction_locator": "Application procedure and documents"
+        },
+        {
+          "label": "录取后换专业与双重注册限制",
+          "text": "普通录取者原则上可在学年开始前转到另一本科专业，但受第一年名额限制者、直接录取第二或第三年者不适用这项换专业许可。EPFL不允许同时在另一大学注册；先前已在其他大学就读者须不迟于9月30日提交已取消该校注册的证明，否则录取取消。",
+          "source_ids": [
+            "apply-current"
+          ],
+          "extraction_locator": "Rules: Double matriculation; Changing program"
+        },
+        {
+          "label": "2027考试分组与公开日程差异",
+          "text": "科学组为数学I、数学II、物理、计算机与科学计算、化学；完整考试另有生物、法语、另一现代语言、历史、地理。须科学组达标才可考通识组，个别免考由学校依规则认定。2027大纲写科学组1月18–22日、通识8月；考试网页写通识8–9月且报名期仍待公布。本轮保留这处范围差异，不自行指定通识考试日。",
+          "source_ids": [
+            "exam-program-2027",
+            "entrance-exam-current"
+          ],
+          "extraction_locator": "2027 programme PDF p2; current entrance exam calendar"
+        },
+        {
+          "label": "2026–27课程计划与2027新生年度界限",
+          "text": "现行完整课程规章为2026–27，已核在校秋季课程2026年9月7日开始。学校申请总则明确仅对当前年度有效；本轮未取得2027–28全部录取细则或正式全年课表，不能把在校课程注册与高中新生申请混用。",
+          "source_ids": [
+            "academic-calendar",
+            "admission-current"
+          ],
+          "extraction_locator": "Autumn semester26-27; ongoing-year policy"
         }
       ],
       "fees": [
@@ -658,6 +3241,38 @@
           "source_ids": [
             "exam"
           ]
+        },
+        {
+          "label": "学习期间预算（估算与表内差异）",
+          "text": "学校预算页总述建议约CHF29,000/年生活费另加学费；同页外国学生12个月明细表合计CHF25,219（不含学费）。住房参考CHF900/月、用品CHF1,200/年；保险、租房押金等按个人情况变化。两种官网估算均未标独立适用学年，本轮不将其合成精确2027总价。",
+          "source_ids": [
+            "financing"
+          ],
+          "extraction_locator": "Intro and Approximate budget for foreigner"
+        },
+        {
+          "label": "交换与全学期不修学分的收费",
+          "text": "通常去外校修计入学位的学分仍须缴EPFL学费；整学期没有任何获取学分的学习工作者按页面条件可只缴CHF50。不能把所有实习或交换都认定免学费。当前三倍费首次指数调整计划为2029年，但个人豁免资格仍需校方审核。",
+          "source_ids": [
+            "fees-current"
+          ],
+          "extraction_locator": "General fee exemptions; exchange; indexation"
+        },
+        {
+          "label": "普通国际学生的社会助学金边界",
+          "text": "国际学生一般须已在EPFL至少一年且成功完成第一年周期，遇到突发意外的家庭/财务困难才可申请社会助学金，并须先寻求其他资金。学校明确不能为预算规划不足兜底；只因学费三倍上涨陷入困难另走过渡补贴。此类资助不能作为大陆新生第一年已有奖学金。",
+          "source_ids": [
+            "social-scholarship"
+          ],
+          "extraction_locator": "I am an international student; tripling adjustment"
+        },
+        {
+          "label": "本科卓越奖学金资格",
+          "text": "本科卓越奖学金CHF10,000并非向所有国际新生普遍开放；候选需满足页面列明的瑞士国籍/C居留、难民或无国籍、招生条例第1条规定的证书，或在瑞士居住完成中学等至少一项资格。上述条例证书的完整范围本轮未另核，不能自行等同大陆高中证书。还评学业及课外表现；住房为申请预留但自费，不能当免费住宿。普通大陆普高资格本身不证明符合奖项身份。",
+          "source_ids": [
+            "excellence-eligibility"
+          ],
+          "extraction_locator": "Eligibility a-d; composition and payment"
         }
       ],
       "outcomes": [
@@ -667,6 +3282,14 @@
           "source_ids": [
             "directory"
           ]
+        },
+        {
+          "label": "官方就业调查的实际群体",
+          "text": "2024年5月报告研究2022届硕士及博士，问卷采集为2023年8月中至9月中；不是本科毕业调查。本轮保留其作为学历范围证据，不把报告整体或分学院的就业率/薪资投射到13个本科或中国学生。",
+          "source_ids": [
+            "outcomes-2022"
+          ],
+          "extraction_locator": "PDF p3 / printed p1 Preamble"
         }
       ]
     },
@@ -726,6 +3349,114 @@
         "checked_at": "2026-09-12",
         "supports": "本科学位、三年及180 ECTS，继续硕士路径",
         "sha256": "a84840f549c4ccf5d81bc8a483ce8766226868f4be3ac829afca58a4f88e9644"
+      },
+      {
+        "id": "cms-country-current",
+        "title": "EPFL CMS 2026各国资格：中国第5页",
+        "url": "https://www.epfl.ch/education/admission/wp-content/uploads/2019/01/Conditions-CMS.pdf",
+        "checked_at": "2026-09-13",
+        "supports": "大陆普高的学科组合（2026表/当前总则）",
+        "sha256": "2151bfbe2e89ad46f000f7691441a1debb42b21be5871238f407618eef09d267",
+        "capture_format": "public_HTTP_PDF"
+      },
+      {
+        "id": "admission-current",
+        "title": "EPFL当前本科及CMS资格：大陆高中、IB与A-level",
+        "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
+        "checked_at": "2026-09-13",
+        "supports": "大陆普高的学科组合（2026表/当前总则）",
+        "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
+        "capture_format": "public_HTTP_HTML"
+      },
+      {
+        "id": "teaching-languages",
+        "title": "EPFL各学习阶段授课语言",
+        "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/",
+        "checked_at": "2026-09-13",
+        "supports": "本科授课语言与法语证据",
+        "sha256": "eb2054d2512e577f36f0c92d32172a860593aa4b95be5cc1ccb5a093ae251748",
+        "capture_format": "public_HTTP_HTML"
+      },
+      {
+        "id": "apply-current",
+        "title": "EPFL本科/CMS申请程序",
+        "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
+        "checked_at": "2026-09-13",
+        "supports": "申请材料与外国证书费用",
+        "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
+        "capture_format": "public_HTTP_HTML"
+      },
+      {
+        "id": "exam-program-2027",
+        "title": "EPFL 2027入学考试大纲与安排",
+        "url": "https://www.epfl.ch/education/admission/wp-content/uploads/2026/04/ProgrammeExAdm2027.pdf",
+        "checked_at": "2026-09-13",
+        "supports": "2027考试分组与公开日程差异",
+        "sha256": "ecf0dc9f2bf873bb33947ded4f060c9218fb8a1a1f47d0b92fef699c0c3226d0",
+        "capture_format": "public_HTTP_PDF"
+      },
+      {
+        "id": "entrance-exam-current",
+        "title": "EPFL入学考试：当前日程与费用",
+        "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/admission-examination/",
+        "checked_at": "2026-09-13",
+        "supports": "2027考试分组与公开日程差异",
+        "sha256": "942bf5f0e4aa478df426cf4464fb752ed986deb12196d6459b17ba0c989ee566",
+        "capture_format": "public_HTTP_HTML"
+      },
+      {
+        "id": "academic-calendar",
+        "title": "EPFL 2026–27在校学期日历",
+        "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/",
+        "checked_at": "2026-09-13",
+        "supports": "2026–27课程计划与2027新生年度界限",
+        "sha256": "e4ba2933b1209a1be2a422d20a1e7b3e81383575f536b8e02fb4e185f1ad088f",
+        "capture_format": "public_HTTP_HTML"
+      },
+      {
+        "id": "financing",
+        "title": "EPFL学生生活预算：外国学生参考表",
+        "url": "https://www.epfl.ch/education/studies/en/financing-study/",
+        "checked_at": "2026-09-13",
+        "supports": "学习期间预算（估算与表内差异）",
+        "sha256": "66ae0ad0db8bfe039a2ec26ba95d2b79096724d026d341f4bf6c56dfef83704e",
+        "capture_format": "public_HTTP_HTML"
+      },
+      {
+        "id": "fees-current",
+        "title": "EPFL学期学费与其他收费",
+        "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
+        "checked_at": "2026-09-13",
+        "supports": "交换与全学期不修学分的收费",
+        "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
+        "capture_format": "public_HTTP_HTML"
+      },
+      {
+        "id": "social-scholarship",
+        "title": "EPFL社会助学金：国际学生适用条件",
+        "url": "https://www.epfl.ch/education/studies/en/epfl-social-scholarship/",
+        "checked_at": "2026-09-13",
+        "supports": "普通国际学生的社会助学金边界",
+        "sha256": "91caf1b0cc07c0f0783eb6e3c693c7a7104e2bb61073ab87a4342ee3fd24d8bf",
+        "capture_format": "public_HTTP_HTML"
+      },
+      {
+        "id": "excellence-eligibility",
+        "title": "EPFL本科卓越奖学金资格及条件",
+        "url": "https://www.epfl.ch/education/bachelor/fr/bourses-dexcellence-bachelor/conditions-dadmission-candidature/",
+        "checked_at": "2026-09-13",
+        "supports": "本科卓越奖学金资格",
+        "sha256": "a30424854e3946f55a8654420bfbb3ff52e7add374d66652360d221ea0d5b379",
+        "capture_format": "public_HTTP_HTML"
+      },
+      {
+        "id": "outcomes-2022",
+        "title": "EPFL 2022届硕士与博士就业调查（2024年5月报告）",
+        "url": "https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf",
+        "checked_at": "2026-09-13",
+        "supports": "官方就业调查的实际群体",
+        "sha256": "6fdf20064c0104d8a10610bdb7e035a8d003072889021a8b97cb34f9d6fcf1f2",
+        "capture_format": "public_HTTP_PDF"
       }
     ],
     "university_id": "epfl"

@@ -10,31 +10,31 @@
     {
       "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
       "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
-      "raw_file": "scratch/full-catalog/root/epfl-admissions.html",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/admission-current.html",
       "locator": null
     },
     {
       "url": "https://www.epfl.ch/education/admission/wp-content/uploads/2019/01/Conditions-CMS.pdf",
       "sha256": "2151bfbe2e89ad46f000f7691441a1debb42b21be5871238f407618eef09d267",
-      "raw_file": "scratch/full-catalog/root/epfl-cms.html",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/cms-country-current.pdf",
       "locator": null
     },
     {
       "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
       "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
-      "raw_file": "scratch/full-catalog/root/epfl-apply.html",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/apply-current.html",
       "locator": null
     },
     {
       "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/admission-examination/",
       "sha256": "942bf5f0e4aa478df426cf4464fb752ed986deb12196d6459b17ba0c989ee566",
-      "raw_file": "scratch/full-catalog/root/epfl-exam.html",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/entrance-exam-current.html",
       "locator": null
     },
     {
       "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
       "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
-      "raw_file": "scratch/full-catalog/root/epfl-fees.html",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/fees-current.html",
       "locator": null
     },
     {
@@ -44,9 +44,75 @@
       "locator": null
     },
     {
+      "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/",
+      "sha256": "eb2054d2512e577f36f0c92d32172a860593aa4b95be5cc1ccb5a093ae251748",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/teaching-languages.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/admission/wp-content/uploads/2026/04/ProgrammeExAdm2027.pdf",
+      "sha256": "ecf0dc9f2bf873bb33947ded4f060c9218fb8a1a1f47d0b92fef699c0c3226d0",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/exam-program-2027.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/",
+      "sha256": "e4ba2933b1209a1be2a422d20a1e7b3e81383575f536b8e02fb4e185f1ad088f",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/academic-calendar.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/studies/en/financing-study/",
+      "sha256": "66ae0ad0db8bfe039a2ec26ba95d2b79096724d026d341f4bf6c56dfef83704e",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/financing.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/studies/en/epfl-social-scholarship/",
+      "sha256": "91caf1b0cc07c0f0783eb6e3c693c7a7104e2bb61073ab87a4342ee3fd24d8bf",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/social-scholarship.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/bachelor/fr/bourses-dexcellence-bachelor/conditions-dadmission-candidature/",
+      "sha256": "a30424854e3946f55a8654420bfbb3ff52e7add374d66652360d221ea0d5b379",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/excellence-eligibility.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf",
+      "sha256": "6fdf20064c0104d8a10610bdb7e035a8d003072889021a8b97cb34f9d6fcf1f2",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/outcomes-2022.pdf",
+      "locator": null
+    },
+    {
       "url": "https://www.epfl.ch/education/bachelor/programs/architecture/",
       "sha256": "41fce2a870374dce7a1130d650ba0c1219b663ebad3b274f624b8848b9ecac8e",
       "raw_file": "scratch/full-catalog/root/epfl-detail-01.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRLQlH1P7_qGAu8xc8ivih7LGBAWteeDUUtWa_CQLM-MrecYgm7o9wbipmTg7oLFhc1QYyily1if8AY/pub",
+      "sha256": "63bf5c7d043c4bd071a7785df53ef4f3515a07b1b90584aad962d85810b1f402",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/rulebook-01-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8bIWjtTxyYdABQUIGNKis0rfdJgirEjiOf1NNAbEMz9JToyMWaMueKJQB2vOLil11ike5IYlv2j2v/pubhtml/sheet?headers=false&gid=998240901",
+      "sha256": "8c82c9fdac107b32dbb431448d79740695d7195683645e98a2e10b23786dd0c2",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-01-sheet-998240901.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8bIWjtTxyYdABQUIGNKis0rfdJgirEjiOf1NNAbEMz9JToyMWaMueKJQB2vOLil11ike5IYlv2j2v/pubhtml/sheet?headers=false&gid=1300628638",
+      "sha256": "c8d245bb47d16979b942214e5cf7dadcf0545784c9b91abd33d27d0e4069e16d",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-01-sheet-1300628638.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/studies/en/support-scholarships/",
+      "sha256": "d184751fe17b91825db2f34f1db510e250da6e18b4e7fa744570e6e92f0dbcb9",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/scholarships.html",
       "locator": null
     },
     {
@@ -56,9 +122,63 @@
       "locator": null
     },
     {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRmrH4ldu1JeXHAODriCqb_AATij5i2hhnLxcRnmmXkanxdEDiGpfjnViX_jT2gubO6Bm7ro7ooy5dp/pub",
+      "sha256": "0371f40dbd5be75506f86294a4cd43c6935619f402607286968d46e353bff8a7",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/rulebook-02-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTffZgm-Bm42A4stKZBEC2BsIK6b1slFhTfY7xve-cxXt4UVnPshluA5cbEtEqlDt7t7oioGC_dWaQh/pubhtml/sheet?headers=false&gid=1221264202",
+      "sha256": "c7642fb5f792c15f7739b89cc483132c84dbe2df24983fa0cccfb3fbf6301e95",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-02-sheet-1221264202.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTffZgm-Bm42A4stKZBEC2BsIK6b1slFhTfY7xve-cxXt4UVnPshluA5cbEtEqlDt7t7oioGC_dWaQh/pubhtml/sheet?headers=false&gid=1766420484",
+      "sha256": "6d246abdead9b05b9d4b945032ff4fa3f4276ad3e5f82dc04cb012ef9aa67e89",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-02-sheet-1766420484.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTffZgm-Bm42A4stKZBEC2BsIK6b1slFhTfY7xve-cxXt4UVnPshluA5cbEtEqlDt7t7oioGC_dWaQh/pubhtml/sheet?headers=false&gid=1692082192",
+      "sha256": "0090e86a00f958e48d327bb9e8534df3e5ad5e8dcbea200a33a7d9046ddbbda3",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-02-sheet-1692082192.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTffZgm-Bm42A4stKZBEC2BsIK6b1slFhTfY7xve-cxXt4UVnPshluA5cbEtEqlDt7t7oioGC_dWaQh/pubhtml/sheet?headers=false&gid=1646053759",
+      "sha256": "588cb835a805746378a45f57160debaceeb8283befb9d907f12826833d53cbe7",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-02-sheet-1646053759.html",
+      "locator": null
+    },
+    {
       "url": "https://www.epfl.ch/education/bachelor/programs/civil-engineering/",
       "sha256": "c7733675fa8dc7f12365ef32aee7327d3acae3864a3f2eac3d638c8ad89a99bf",
       "raw_file": "scratch/full-catalog/root/epfl-detail-03.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRTNBKQuvb6njrmkoW6okTV1YRA2SuJ1XwtSKxKQb2myukPh1ud36uvREMGda6Bih7ysvGUpOB15ZKQ/pub",
+      "sha256": "858f49b1275d4205ac92c170f8a6705752d6d532d55d7c1b875e3d982e1a897c",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/rulebook-03-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQE5IEoxFGRYb-d_8nV9p8viVsTLd7fVOw6LrJ5vfPEXcidOmuWN-no_ATZac5okEIIK6YXWdeecmmR/pubhtml/sheet?headers=false&gid=1423736282",
+      "sha256": "44886e6f4cc269db5b297751369636bb0de96e255140bc04223d7fb42f797beb",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-03-sheet-1423736282.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQE5IEoxFGRYb-d_8nV9p8viVsTLd7fVOw6LrJ5vfPEXcidOmuWN-no_ATZac5okEIIK6YXWdeecmmR/pubhtml/sheet?headers=false&gid=447564859",
+      "sha256": "c67dbeb0a7ca61dd927cef3c8f46fd2dd4e3eddc42a1602fe3ce8b366c7aa8bc",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-03-sheet-447564859.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/schools/enac/education/civil-engineering/formation-en/bachelor-en/",
+      "sha256": "f7ed826fcfa3cae28e901b0acec57fccadba4bf2661500ed2e3e06035d6cfa01",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/department-03.html",
       "locator": null
     },
     {
@@ -68,9 +188,51 @@
       "locator": null
     },
     {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRKNhQsUQjUDA0GbSOq3iz2nVfaLn-P5kPVqaJ1v3RJKdGJAXzsqfWaOyzVgMmdUAciuHlpEBwgNgA8/pub",
+      "sha256": "b9001a4a52046d0f4ccab198a151d128468c8c8e7aa2c2548ab69e6461685a60",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/rulebook-04-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSB1gSHaqomqZxAfgKu9NUFlNJSLjnC2yjxhpmvIduvoTIPjqozr9wW9Xe3wpAItSw79G8155_Czhme/pubhtml/sheet?headers=false&gid=763269472",
+      "sha256": "2e7364ed78385a1fd8634331fff4f093e01842b7e32c4dac8ff91852141e6900",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-04-sheet-763269472.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSB1gSHaqomqZxAfgKu9NUFlNJSLjnC2yjxhpmvIduvoTIPjqozr9wW9Xe3wpAItSw79G8155_Czhme/pubhtml/sheet?headers=false&gid=762119346",
+      "sha256": "4b42db55041c18a1ec42368076ec8fefb0889f1c6e7687dda9301e8813e6797c",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-04-sheet-762119346.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/schools/ic/education/bachelor/communication-systems/tracks-cs/",
+      "sha256": "696d1c734f275e9a6301d4035b80eb24e46128b01db34930bbdfaca28d1d63af",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/comm-tracks.html",
+      "locator": null
+    },
+    {
       "url": "https://www.epfl.ch/education/bachelor/programs/computer-science/",
       "sha256": "6be98a79f21140a2a1eaed8411f8a957983def58f8fe884a66d323c004ff3ff4",
       "raw_file": "scratch/full-catalog/root/epfl-detail-05.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vTRCwrb3dBLr3RcR1KzhuEgIP6HUrp_nNJQD63P69VtsjU2ez9YvM9M6LEGPMuOVVLPzkckArFxHeb1/pub",
+      "sha256": "e12db2e4593afca404d5580b28698d05e0c1ac38552a311fd7ee64adba49cd0b",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/rulebook-05-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQeuayRt43R7oTNyYDLPsnu5dK46klGqdS9XR5lPr9ND492CYR2-zJQVG0Zt3u8eKoz5-weU0HFOBPO/pubhtml/sheet?headers=false&gid=693566922",
+      "sha256": "c7b8e91c9138d8208b13fa0d8d5a1891dfd0aa4198a652b02e1681d57f3e3a6f",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-05-sheet-693566922.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQeuayRt43R7oTNyYDLPsnu5dK46klGqdS9XR5lPr9ND492CYR2-zJQVG0Zt3u8eKoz5-weU0HFOBPO/pubhtml/sheet?headers=false&gid=638027018",
+      "sha256": "901679f0838a9576bc6cb8804daa97e920605207adfb863a04a544297e0a55fd",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-05-sheet-638027018.html",
       "locator": null
     },
     {
@@ -80,9 +242,51 @@
       "locator": null
     },
     {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vSQIr-xQaUFJni9Rcn_cwgZAshLwgaPGDvIqWirVrcJ7lJtJF-xvNfp4nsI3IleLP--_DIyjwk914Ia/pub",
+      "sha256": "29b222bc6b1704f0a84bf15cad00b4a7c03696fcc31b163cc9a0a4c4258f2231",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/rulebook-06-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTeQEN5kfuJgFg4Q_XbYJCMr84fk1p4AbvVlGAlJp2ev1IkfnEV-ZecULEaOlg9Wqxi8yHnAeWzfee0/pubhtml/sheet?headers=false&gid=1859562965",
+      "sha256": "ad696972a88b7f5f4a7d54797f74f2befc348684bf03a56af4dc83ca555da619",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-06-sheet-1859562965.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTeQEN5kfuJgFg4Q_XbYJCMr84fk1p4AbvVlGAlJp2ev1IkfnEV-ZecULEaOlg9Wqxi8yHnAeWzfee0/pubhtml/sheet?headers=false&gid=1499180982",
+      "sha256": "aa45ca2eb2933d95940320f22838dc8aa4fd49e2b924cb72828470290b462b01",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-06-sheet-1499180982.html",
+      "locator": null
+    },
+    {
+      "url": "https://sti.epfl.ch/sel/overview-bsc/",
+      "sha256": "07d83d9ee233060406b39a4e66e9574a42c6361969a516f7da11b1ba16b9df5d",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/department-06.html",
+      "locator": null
+    },
+    {
       "url": "https://www.epfl.ch/education/bachelor/programs/environmental-sciences-and-engineering/",
       "sha256": "b4086ab9c554591ea975f39ae09bfd03dbe9f232e96eb6690748a70d8e567c1c",
       "raw_file": "scratch/full-catalog/root/epfl-detail-07.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vSBKOTp7nZOLVKIyvzUY9nOwJxlcWRe94_UACfl8wM0fvyCF28t10tXj6eVpQCcPGgsR_donnaW7ToO/pub",
+      "sha256": "a11e730f25ec13699d3b7332626aae51446fe4fc01e55f5792ad9f3231809aef",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/rulebook-07-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTYgOBEWVXkwvPIrDGlzbh7z_9BTLxfdpveqA5HcZDUBTYjSuPrYExtDPxV7FGDLIbLPGJlV9sXdaUD/pubhtml/sheet?headers=false&gid=1423736282",
+      "sha256": "073a6b3bc3978b51621239729fffaa74d77afc2aef926115b9af0b257002c842",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-07-sheet-1423736282.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTYgOBEWVXkwvPIrDGlzbh7z_9BTLxfdpveqA5HcZDUBTYjSuPrYExtDPxV7FGDLIbLPGJlV9sXdaUD/pubhtml/sheet?headers=false&gid=447564859",
+      "sha256": "d6188d593283a42b9b23bc91f351fc7ae04c99d0913ecdb10f78895eda8e4405",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-07-sheet-447564859.html",
       "locator": null
     },
     {
@@ -92,9 +296,51 @@
       "locator": null
     },
     {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vQzcLx4kZ2gobzTR3jBdIfxWZmO4-82W82rUZsSlBn0Kix6oSLU1y7aPWaI-7OhcAwInoAuoaMvPYCX/pub",
+      "sha256": "e9171bd9c7989fced56dab5fbf88e7f12ffd0960e071ce887fa728fbcfdb1b6d",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/rulebook-08-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQBFQKMiQdC13nNimcqCWw4SWFW8e06QVGTGRQ93ENnM0EDoTpPLQFVyvBbXCh-QSVei7IHASqolsxd/pubhtml/sheet?headers=false&gid=1226210574",
+      "sha256": "43b81f8c2efb432bfd11c51529d5d8bd68cd947172f5236fcabd4f7d69f36b7f",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-08-sheet-1226210574.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQBFQKMiQdC13nNimcqCWw4SWFW8e06QVGTGRQ93ENnM0EDoTpPLQFVyvBbXCh-QSVei7IHASqolsxd/pubhtml/sheet?headers=false&gid=1387618313",
+      "sha256": "50456a158b3bd372edf953f1b51aa4e2ff628e3c9c5edc640c20b8a2daacbff7",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-08-sheet-1387618313.html",
+      "locator": null
+    },
+    {
       "url": "https://www.epfl.ch/education/bachelor/programs/materials-science-and-engineering/",
       "sha256": "85f8ad80bf04dd5fb361ca7e9bcdf59e313a2edbbe34180c99921f0d17aabb77",
       "raw_file": "scratch/full-catalog/root/epfl-detail-09.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vShwTj2Nhu6kyMAZnNfEsjZhC84aI3vBiZ8vfz5l4hKr17YYUId2JrSDyup5cNMj1pR3lcKUdC-wt-Z/pub",
+      "sha256": "c1ac527352052424eb1268728699a2bfb2c163314ec2d340dd31ea83843d1f49",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/rulebook-09-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQeXfwLrvfuY36sBFNc2BYVLspVLWrJcRqSqfpOeaYyQ6XluvTHMpkWHBKaXbH56zn_0UhwFXIgh2C7/pubhtml/sheet?headers=false&gid=1656358281",
+      "sha256": "202411556b8a1c5fe300f162fffe12955d6cd5b8cbb5454126e9ad66e386ad2a",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-09-sheet-1656358281.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQeXfwLrvfuY36sBFNc2BYVLspVLWrJcRqSqfpOeaYyQ6XluvTHMpkWHBKaXbH56zn_0UhwFXIgh2C7/pubhtml/sheet?headers=false&gid=1064037037",
+      "sha256": "7a9d23cf6c65df8d53de263714290ccb8e8bcae5caa1b48ab702c3c7e8ece1d4",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-09-sheet-1064037037.html",
+      "locator": null
+    },
+    {
+      "url": "https://sti.epfl.ch/smx/bsc-in-materials-science-engineering/",
+      "sha256": "3919c8ca1814a546ac630e16833e6c855b31750d80c972ab859f0e5eb94acd89",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/department-09.html",
       "locator": null
     },
     {
@@ -104,9 +350,51 @@
       "locator": null
     },
     {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vTRcBSyFcKdfPnZvBszmv3JxMVDKB0Yz_LVDTwHLkTp0j-YkIYY_HoUbcbqhi4TXl34G-Fz-iSnwqrQ/pub",
+      "sha256": "c15fc33abaffb5ea995fd86ba8940e020cf65108f85a213c7ce47d9ee06d16e5",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/rulebook-10-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQATp93seisoUYbnPzNUSen0DpGo5WOQzLC6uJ52alb4t4z4B6mMQwG9fTiuXz6pu9Ao-RtTR1VkYPF/pubhtml/sheet?headers=false&gid=2008343721",
+      "sha256": "ff908f84ac1893b4ddaf3b37069a6f3a92642608c9ea5e4bd6ebd943c894eaa8",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-10-sheet-2008343721.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQATp93seisoUYbnPzNUSen0DpGo5WOQzLC6uJ52alb4t4z4B6mMQwG9fTiuXz6pu9Ao-RtTR1VkYPF/pubhtml/sheet?headers=false&gid=1289285449",
+      "sha256": "44851f9d2d6f12db8b13187d1e40fbd51b292e5916481e632a6256698ee85ecb",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-10-sheet-1289285449.html",
+      "locator": null
+    },
+    {
       "url": "https://www.epfl.ch/education/bachelor/programs/mechanical-engineering/",
       "sha256": "f39ac840c927e7639df69a695d5a95e5aa6c0e4358818d101cd24362cd596aad",
       "raw_file": "scratch/full-catalog/root/epfl-detail-11.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRvrigW3yhvQdUYLvmWw27ioSaGtypaPiKhM9OL4I1VY2WGfhr6v7KNBKB-0lij2CFCA-LtYKNiOebC/pub",
+      "sha256": "bc8433fd1baaa96333c145db9df30631761b25255d98b924cbca0f02f9e13ea1",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/rulebook-11-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vShIQAoFCpjBG3ivDgtJX5Aim4V5SRbLZ_AAurwqqc_6uvnZXGdTeKyGLHvWp7D3_VhCXdGtpK4F2kL/pubhtml/sheet?headers=false&gid=3431055",
+      "sha256": "cc358ed557b7630be3c8d5e41200d9d133c6ccfdf22bbf1e1ff92b2b3ea57a91",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-11-sheet-3431055.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vShIQAoFCpjBG3ivDgtJX5Aim4V5SRbLZ_AAurwqqc_6uvnZXGdTeKyGLHvWp7D3_VhCXdGtpK4F2kL/pubhtml/sheet?headers=false&gid=935005322",
+      "sha256": "943e89f150eda74c399e06d196bf2f9a7140932172bb9e4de04a4c70e2c10e4c",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-11-sheet-935005322.html",
+      "locator": null
+    },
+    {
+      "url": "https://sti.epfl.ch/sgm/overview/",
+      "sha256": "369b791b7c31aec2d639778fc414c8bc756b100969d7a3aadc653e3508e0ce48",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/department-11.html",
       "locator": null
     },
     {
@@ -116,9 +404,57 @@
       "locator": null
     },
     {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vSG-PJwic-mwjz7xnByokru-SP1H9DekiP2O-OixTsyi1RXv47F5AgfvqX5U_cUnKNiRnGKDZG0JHMV/pub",
+      "sha256": "b0668bf76c5fb015706d7295b1fed7a4df8d5d9705641cadca7c2929fbc84b30",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/rulebook-12-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVaLtmyvl5wP6XFS4nrxy4m2UJ-jz1PeUthagH3__6BlJ8CdkccNFR51Lqc-IG8d_-Yd3iSqNDqzvG/pubhtml/sheet?headers=false&gid=52877395",
+      "sha256": "2f5b4e2366a66a1add3fb21599c5400a2860f9243486e64f93a2bcc41aca6078",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-12-sheet-52877395.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRVaLtmyvl5wP6XFS4nrxy4m2UJ-jz1PeUthagH3__6BlJ8CdkccNFR51Lqc-IG8d_-Yd3iSqNDqzvG/pubhtml/sheet?headers=false&gid=2054127741",
+      "sha256": "e24063311210e36f1d0dc2edda2df41a1c08a3e292380300475714ce3e1fa359",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-12-sheet-2054127741.html",
+      "locator": null
+    },
+    {
+      "url": "https://sti.epfl.ch/wp-content/uploads/2026/07/26-27-Prerequis_mise-a-jour.pdf",
+      "sha256": "b8c11816f75bf3934dc2a53f4b387bc7e8b37b15ab3bf4bf71a233a51e9675ef",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/micro-prerequisites-2026.pdf",
+      "locator": null
+    },
+    {
       "url": "https://www.epfl.ch/education/bachelor/programs/physics/",
       "sha256": "2745c05190c8e9dbc0bbff981cec54d731ce55556de163b65f3410d5b364d3bf",
       "raw_file": "scratch/full-catalog/root/epfl-detail-13.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vTUInMStA1IkNVGeLgVC8EMFm5VRKCnuMq53vVDt7rX4B22r01IMT7XQyiiwdhLTebRkQNqhRWe0CYb/pub",
+      "sha256": "02b418a3c36f984f4f9fb6113105515f1f2aba4b55ab0c6025ca534d5f38ecc5",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/rulebook-13-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSnKftyztx2CkMrBIfN_v_SUXuVaF5RK6IIChsGyUYKsTPdfdvkyby1xFMWom6H6yqL7fZe7AIlStAO/pubhtml/sheet?headers=false&gid=163614375",
+      "sha256": "40c94a71eeec576ae6234d418ef04ad26109155113c1289bc2b4710179ab0b0b",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-13-sheet-163614375.html",
+      "locator": null
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSnKftyztx2CkMrBIfN_v_SUXuVaF5RK6IIChsGyUYKsTPdfdvkyby1xFMWom6H6yqL7fZe7AIlStAO/pubhtml/sheet?headers=false&gid=2022845147",
+      "sha256": "cdc48e873589135b1aae0fea701c78999576223141407507fedb8b5404d2e891",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/plan-13-sheet-2022845147.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/schools/sb/sph/bachelor/",
+      "sha256": "d54993a6a0b8aa10439d501f4fe2ef9aadce478e60dc1fd48ec9061f38a5f61a",
+      "raw_file": "scratch/full-catalog/epfl-all13-depth/raw/department-13.html",
       "locator": null
     }
   ]

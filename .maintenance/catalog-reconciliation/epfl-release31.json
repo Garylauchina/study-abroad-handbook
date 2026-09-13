@@ -1,0 +1,504 @@
+{
+  "university_id": "epfl",
+  "total": 13,
+  "new": 0,
+  "updated": 13,
+  "program_facts": 174,
+  "profile_facts": 22,
+  "old_facts_preserved": 34,
+  "old_source_objects_preserved": 20,
+  "added_program_facts": 148,
+  "added_profile_facts": 14,
+  "source_pairs": 76,
+  "source_references": 162,
+  "author_frozen_sha256": "dbc21c418c5786164121381f2bbb285cce8501fd5264306090c54b27a0523f51",
+  "course_review_sha256": "20063120db4d15ab37614f5ac49bb6367ea89c6f9634335aa4da57c8b471eb70",
+  "course_review_frozen_sha256": "49318dadeceaf5699903b5663cd1f42e66791422e570d0385755ab1145b79aa9",
+  "policy_review_sha256": "9818f97eac5f00465b9f12672d8e76866cd3c2716c01779ff6de7cfc07d35a59",
+  "policy_review_frozen_sha256": "2760b85c44ff0f2ca4a94802907c3e67e1f58d6f7b265792ca066b6c009dc98c",
+  "locks_verified": {
+    "scratch/full-catalog/epfl-all13-depth/FROZEN.json": 509,
+    "scratch/full-catalog/root/epfl13-course-review/FROZEN.json": 119,
+    "scratch/full-catalog/epfl-all13-depth/policy-review/FROZEN.json": 50
+  },
+  "coverage_status": "partial",
+  "source_conflicts": [
+    {
+      "key": "MA-list2",
+      "classification": "unresolved table heading versus listed course credits",
+      "detail": "Bachelor table2 row58 labels maximum4ECTS while rows59/60 list CS2508ECTS and CS2336ECTS. Rulebook Art7 requires at least40ECTS from table1 or MasterMath and at most one table2 course. Do not infer excess credit recognition or unconditional selection.",
+      "source_keys": [
+        "rulebook-10-2026",
+        "plan-10-sheet-1289285449"
+      ],
+      "extraction_locator": "published Bachelor sheet rows58–60 and footnote****; rulebook Bachelor optional courses"
+    },
+    {
+      "key": "AR-ENAC",
+      "classification": "explained cohort/layout difference",
+      "detail": "2026 new second-year rule Art7 moves ENAC4 into theory36; table theory32 + separately ENAC4. AR2264 is repeaters-only. Do not sum old third-year bloc5 with new second-year arrangement.",
+      "source_keys": [
+        "rulebook-01-2026",
+        "plan-01-2026"
+      ]
+    },
+    {
+      "key": "GM-cohort",
+      "classification": "cohort and block numbering differences",
+      "detail": "Current sheet explicitly marks third-year transition and rules Art22 keep old cohorts in previous blocks. Rule Art5 says6blocks but later lists7 inclSHS, and Art7/8 options numbering differs. Preserve annual source scope and mandatory named courses without claiming unified current cohort table.",
+      "source_keys": [
+        "rulebook-11-2026",
+        "plan-11-2026"
+      ]
+    },
+    {
+      "key": "EL-MT-year-load",
+      "classification": "genuine uneven annual loads, not conflict",
+      "detail": "EE sheet credits61/59, Micro59/61 for second/third years; total120. Mobility rules still phrase second-year60; no conversion to a universal60-per-year plan.",
+      "source_keys": [
+        "plan-06-2026",
+        "plan-12-2026"
+      ]
+    },
+    {
+      "key": "SV-mobility",
+      "classification": "source wording difference",
+      "detail": "2026–27 mobility article requires equivalent electrical4, signalsI/II8,dynamical4; current engineering course block lists optics/imaging. Do not invent equivalent mapping.",
+      "source_keys": [
+        "rulebook-08-2026",
+        "plan-08-2026"
+      ]
+    },
+    {
+      "key": "exam2027",
+      "classification": "date range different granularity",
+      "detail": "Current exam page August–September2027;2027 programme PDF August2027, general programme forthcoming March2027. Retain both, no exact day inferred.",
+      "source_keys": [
+        "entrance-exam-current",
+        "exam-program-2027"
+      ]
+    },
+    {
+      "key": "budget",
+      "classification": "two official indicative budgets",
+      "detail": "Intro approximatelyCHF29000 living excludingtuition;foreign tableCHF25219 excludingtuition. Undated estimate, no fabricated total or inflation.",
+      "source_keys": [
+        "financing"
+      ]
+    },
+    {
+      "key": "social-grant-table",
+      "classification": "unresolved year-heading inconsistency, excluded dates",
+      "detail": "Second2026–27 form table says support autumn2027 but deadlinesDec2026/Feb2027 and paymentsMarch/April2027. This date table not used for factual programme application deadlines.",
+      "source_keys": [
+        "social-scholarship"
+      ]
+    }
+  ],
+  "internal_route_disposition": [
+    {
+      "programme": "Chemistry and Chemical Engineering",
+      "names": [
+        "Chimie",
+        "Génie chimique"
+      ],
+      "status": "two formal third-year internal orientations; explained in parent, not yet separate inventory",
+      "source_keys": [
+        "rulebook-02-2026",
+        "plan-02-2026"
+      ]
+    },
+    {
+      "programme": "Electrical and Electronic Engineering",
+      "names": [
+        "Micro et Nanoélectronique",
+        "Technologies de l’information et de la communication",
+        "Science et technologies de l’énergie"
+      ],
+      "status": "internal orientation modules, no extra bachelor degree; department terminology differs for energy",
+      "source_keys": [
+        "rulebook-06-2026",
+        "plan-06-2026",
+        "department-06"
+      ]
+    },
+    {
+      "programme": "Communication Systems",
+      "names": [
+        "Computer Science and Systems",
+        "Software and Data Science",
+        "Theory and Quantum",
+        "Machine Learning and Bio"
+      ],
+      "status": "explicitly recommended optional combinations, not independent routes/awards",
+      "source_keys": [
+        "comm-tracks"
+      ]
+    },
+    {
+      "programme": "All13",
+      "names": [
+        "Master specialisations",
+        "Master minors",
+        "MSc Mathematical Engineering",
+        "MSc Physics Engineering",
+        "MSc Robotics"
+      ],
+      "status": "masters excluded from bachelor additions; workbook tabs retained as navigation only",
+      "source_keys": [
+        "official-study-plans",
+        "study-structure"
+      ]
+    }
+  ],
+  "metadata_changes": [
+    {
+      "inventory_id": "epfl-architecture-3ecfcc40c8",
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/architecture/",
+      "before": {
+        "name_en": "Architecture",
+        "degree_label": "Bachelor",
+        "official_url": "https://www.epfl.ch/education/bachelor/programs/architecture/",
+        "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+        "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+        "intake": null,
+        "duration": "通常3年（180 ECTS）",
+        "campus": null,
+        "language": null,
+        "raw_key": "https://www.epfl.ch/education/bachelor/programs/architecture/",
+        "id": "epfl-architecture-3ecfcc40c8"
+      },
+      "proposed_fields": {
+        "name": "建筑学",
+        "source_period": "当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实"
+      },
+      "identity_change": false,
+      "reason": "保留原英文名、学位、ID、URL；只补中文显示及来源年度边界"
+    },
+    {
+      "inventory_id": "epfl-chemistry-and-chemical-engineering-eb3a64bfda",
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/chemistry-and-chemical-engineering/",
+      "before": {
+        "name_en": "Chemistry and Chemical Engineering",
+        "degree_label": "Bachelor",
+        "official_url": "https://www.epfl.ch/education/bachelor/programs/chemistry-and-chemical-engineering/",
+        "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+        "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+        "intake": null,
+        "duration": "通常3年（180 ECTS）",
+        "campus": null,
+        "language": null,
+        "raw_key": "https://www.epfl.ch/education/bachelor/programs/chemistry-and-chemical-engineering/",
+        "id": "epfl-chemistry-and-chemical-engineering-eb3a64bfda"
+      },
+      "proposed_fields": {
+        "name": "化学与化学工程",
+        "source_period": "当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实"
+      },
+      "identity_change": false,
+      "reason": "保留原英文名、学位、ID、URL；只补中文显示及来源年度边界"
+    },
+    {
+      "inventory_id": "epfl-civil-engineering-21ab809923",
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/civil-engineering/",
+      "before": {
+        "name_en": "Civil Engineering",
+        "degree_label": "Bachelor",
+        "official_url": "https://www.epfl.ch/education/bachelor/programs/civil-engineering/",
+        "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+        "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+        "intake": null,
+        "duration": "通常3年（180 ECTS）",
+        "campus": null,
+        "language": null,
+        "raw_key": "https://www.epfl.ch/education/bachelor/programs/civil-engineering/",
+        "id": "epfl-civil-engineering-21ab809923"
+      },
+      "proposed_fields": {
+        "name": "土木工程",
+        "source_period": "当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实"
+      },
+      "identity_change": false,
+      "reason": "保留原英文名、学位、ID、URL；只补中文显示及来源年度边界"
+    },
+    {
+      "inventory_id": "epfl-communication-systems-2a3c1e23e8",
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/communication-systems/",
+      "before": {
+        "name_en": "Communication Systems",
+        "degree_label": "Bachelor",
+        "official_url": "https://www.epfl.ch/education/bachelor/programs/communication-systems/",
+        "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+        "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+        "intake": null,
+        "duration": "通常3年（180 ECTS）",
+        "campus": null,
+        "language": null,
+        "raw_key": "https://www.epfl.ch/education/bachelor/programs/communication-systems/",
+        "id": "epfl-communication-systems-2a3c1e23e8"
+      },
+      "proposed_fields": {
+        "name": "通信系统",
+        "source_period": "当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实"
+      },
+      "identity_change": false,
+      "reason": "保留原英文名、学位、ID、URL；只补中文显示及来源年度边界"
+    },
+    {
+      "inventory_id": "epfl-computer-science-f50dd1f536",
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/computer-science/",
+      "before": {
+        "name_en": "Computer Science",
+        "degree_label": "Bachelor",
+        "official_url": "https://www.epfl.ch/education/bachelor/programs/computer-science/",
+        "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+        "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+        "intake": null,
+        "duration": "通常3年（180 ECTS）",
+        "campus": null,
+        "language": null,
+        "raw_key": "https://www.epfl.ch/education/bachelor/programs/computer-science/",
+        "id": "epfl-computer-science-f50dd1f536"
+      },
+      "proposed_fields": {
+        "name": "计算机科学",
+        "source_period": "当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实"
+      },
+      "identity_change": false,
+      "reason": "保留原英文名、学位、ID、URL；只补中文显示及来源年度边界"
+    },
+    {
+      "inventory_id": "epfl-electrical-and-electronic-engineering-990f7360b2",
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/electrical-and-electronic-engineering/",
+      "before": {
+        "name_en": "Electrical and Electronic Engineering",
+        "degree_label": "Bachelor",
+        "official_url": "https://www.epfl.ch/education/bachelor/programs/electrical-and-electronic-engineering/",
+        "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+        "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+        "intake": null,
+        "duration": "通常3年（180 ECTS）",
+        "campus": null,
+        "language": null,
+        "raw_key": "https://www.epfl.ch/education/bachelor/programs/electrical-and-electronic-engineering/",
+        "id": "epfl-electrical-and-electronic-engineering-990f7360b2"
+      },
+      "proposed_fields": {
+        "name": "电气与电子工程",
+        "source_period": "当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实"
+      },
+      "identity_change": false,
+      "reason": "保留原英文名、学位、ID、URL；只补中文显示及来源年度边界"
+    },
+    {
+      "inventory_id": "epfl-environmental-sciences-and-engineering-e172fe3fda",
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/environmental-sciences-and-engineering/",
+      "before": {
+        "name_en": "Environmental Sciences and Engineering",
+        "degree_label": "Bachelor",
+        "official_url": "https://www.epfl.ch/education/bachelor/programs/environmental-sciences-and-engineering/",
+        "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+        "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+        "intake": null,
+        "duration": "通常3年（180 ECTS）",
+        "campus": null,
+        "language": null,
+        "raw_key": "https://www.epfl.ch/education/bachelor/programs/environmental-sciences-and-engineering/",
+        "id": "epfl-environmental-sciences-and-engineering-e172fe3fda"
+      },
+      "proposed_fields": {
+        "name": "环境科学与工程",
+        "source_period": "当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实"
+      },
+      "identity_change": false,
+      "reason": "保留原英文名、学位、ID、URL；只补中文显示及来源年度边界"
+    },
+    {
+      "inventory_id": "epfl-life-sciences-engineering-ba4884f974",
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/life-sciences-engineering/",
+      "before": {
+        "name_en": "Life Sciences Engineering",
+        "degree_label": "Bachelor",
+        "official_url": "https://www.epfl.ch/education/bachelor/programs/life-sciences-engineering/",
+        "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+        "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+        "intake": null,
+        "duration": "通常3年（180 ECTS）",
+        "campus": null,
+        "language": null,
+        "raw_key": "https://www.epfl.ch/education/bachelor/programs/life-sciences-engineering/",
+        "id": "epfl-life-sciences-engineering-ba4884f974"
+      },
+      "proposed_fields": {
+        "name": "生命科学工程",
+        "source_period": "当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实"
+      },
+      "identity_change": false,
+      "reason": "保留原英文名、学位、ID、URL；只补中文显示及来源年度边界"
+    },
+    {
+      "inventory_id": "epfl-materials-science-and-engineering-ef601d78d5",
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/materials-science-and-engineering/",
+      "before": {
+        "name_en": "Materials Science and Engineering",
+        "degree_label": "Bachelor",
+        "official_url": "https://www.epfl.ch/education/bachelor/programs/materials-science-and-engineering/",
+        "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+        "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+        "intake": null,
+        "duration": "通常3年（180 ECTS）",
+        "campus": null,
+        "language": null,
+        "raw_key": "https://www.epfl.ch/education/bachelor/programs/materials-science-and-engineering/",
+        "id": "epfl-materials-science-and-engineering-ef601d78d5"
+      },
+      "proposed_fields": {
+        "name": "材料科学与工程",
+        "source_period": "当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实"
+      },
+      "identity_change": false,
+      "reason": "保留原英文名、学位、ID、URL；只补中文显示及来源年度边界"
+    },
+    {
+      "inventory_id": "epfl-mathematics-6e59668f3b",
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/mathematics/",
+      "before": {
+        "name_en": "Mathematics",
+        "degree_label": "Bachelor",
+        "official_url": "https://www.epfl.ch/education/bachelor/programs/mathematics/",
+        "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+        "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+        "intake": null,
+        "duration": "通常3年（180 ECTS）",
+        "campus": null,
+        "language": null,
+        "raw_key": "https://www.epfl.ch/education/bachelor/programs/mathematics/",
+        "id": "epfl-mathematics-6e59668f3b"
+      },
+      "proposed_fields": {
+        "name": "数学",
+        "source_period": "当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实"
+      },
+      "identity_change": false,
+      "reason": "保留原英文名、学位、ID、URL；只补中文显示及来源年度边界"
+    },
+    {
+      "inventory_id": "epfl-mechanical-engineering-8a715270ad",
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/mechanical-engineering/",
+      "before": {
+        "name_en": "Mechanical Engineering",
+        "degree_label": "Bachelor",
+        "official_url": "https://www.epfl.ch/education/bachelor/programs/mechanical-engineering/",
+        "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+        "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+        "intake": null,
+        "duration": "通常3年（180 ECTS）",
+        "campus": null,
+        "language": null,
+        "raw_key": "https://www.epfl.ch/education/bachelor/programs/mechanical-engineering/",
+        "id": "epfl-mechanical-engineering-8a715270ad"
+      },
+      "proposed_fields": {
+        "name": "机械工程",
+        "source_period": "当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实"
+      },
+      "identity_change": false,
+      "reason": "保留原英文名、学位、ID、URL；只补中文显示及来源年度边界"
+    },
+    {
+      "inventory_id": "epfl-microengineering-66b5207340",
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/microengineering/",
+      "before": {
+        "name_en": "Microengineering",
+        "degree_label": "Bachelor",
+        "official_url": "https://www.epfl.ch/education/bachelor/programs/microengineering/",
+        "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+        "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+        "intake": null,
+        "duration": "通常3年（180 ECTS）",
+        "campus": null,
+        "language": null,
+        "raw_key": "https://www.epfl.ch/education/bachelor/programs/microengineering/",
+        "id": "epfl-microengineering-66b5207340"
+      },
+      "proposed_fields": {
+        "name": "微技术工程",
+        "source_period": "当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实"
+      },
+      "identity_change": false,
+      "reason": "保留原英文名、学位、ID、URL；只补中文显示及来源年度边界"
+    },
+    {
+      "inventory_id": "epfl-physics-3c3e614ebd",
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/physics/",
+      "before": {
+        "name_en": "Physics",
+        "degree_label": "Bachelor",
+        "official_url": "https://www.epfl.ch/education/bachelor/programs/physics/",
+        "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+        "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+        "intake": null,
+        "duration": "通常3年（180 ECTS）",
+        "campus": null,
+        "language": null,
+        "raw_key": "https://www.epfl.ch/education/bachelor/programs/physics/",
+        "id": "epfl-physics-3c3e614ebd"
+      },
+      "proposed_fields": {
+        "name": "物理学",
+        "source_period": "当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实"
+      },
+      "identity_change": false,
+      "reason": "保留原英文名、学位、ID、URL；只补中文显示及来源年度边界"
+    }
+  ],
+  "notes": "13 main admission programmes; 2026–27 curricula and current dated policies; no assertion that all internal routes or all96universities are complete.",
+  "classification_patch": {
+    "id": "epfl-communication-systems-2a3c1e23e8",
+    "before": {
+      "name_en": "Communication Systems",
+      "degree_label": "Bachelor",
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/communication-systems/",
+      "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+      "source_period": "当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实",
+      "intake": null,
+      "duration": "通常3年（180 ECTS）",
+      "campus": null,
+      "language": null,
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/communication-systems/",
+      "id": "epfl-communication-systems-2a3c1e23e8",
+      "name": "通信系统"
+    },
+    "after": {
+      "name_en": "Communication Systems",
+      "degree_label": "Bachelor",
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/communication-systems/",
+      "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+      "source_period": "当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实",
+      "intake": null,
+      "duration": "通常3年（180 ECTS）",
+      "campus": null,
+      "language": null,
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/communication-systems/",
+      "id": "epfl-communication-systems-2a3c1e23e8",
+      "name": "通信系统",
+      "subjects": [
+        "工程",
+        "计算机"
+      ],
+      "subject": "工程"
+    },
+    "rationale": "通信网络、信号、信息论和计算机系统；旧关键词 Communication 自动归社科错误。",
+    "evidence": {
+      "id": "program",
+      "url": "https://www.epfl.ch/education/bachelor/programs/communication-systems/",
+      "sha256": "9f836aa13f2743d1be2aa549747e5d3a29e6769ab663e6ada991e6d8f92ffc3b"
+    },
+    "browser_check": {
+      "工程": 1,
+      "计算机": 1,
+      "社会科学": 0
+    },
+    "review_status": "Root primary-source and rendered-browser verification passed; no independent classification review claimed."
+  }
+}

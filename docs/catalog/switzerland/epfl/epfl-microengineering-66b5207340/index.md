@@ -19,9 +19,9 @@ hide:
 
 <p class="program-title-en">Microengineering</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>通常3年；180 ECTS</strong></div><div><span>国际生学费</span><strong>适用三倍学费者 CHF 2,190／学期，另有费用</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>课程计划2026–27；2027–28专属入学细则待核</strong></div><div><span>学制</span><strong>通常3年；180 ECTS</strong></div><div><span>国际生学费</span><strong>适用外国学生通常 CHF 2,240/学期（其中学费2,190）；2025秋起政策</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>以法语为主；B2要求、C1建议</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>以法语为主；部分英语课程，法语B2要求/C1建议</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -34,14 +34,36 @@ hide:
 
 <p><strong>授予学位 / 项目类型：</strong>Bachelor</p>
 
-<p><strong>目录适用期：</strong>官网当前目录；未标明确入学年度，核对于2026-09-12</p>
+<p><strong>目录适用期：</strong>当前本科入口2026-09-13对账；正式课程计划2026–27；2027–28单独招生细则未全部核实</p>
 
 <p class="catalog-fact"><strong>本科课程内容：</strong>首年学习科学工具并开展CAD设计，第二年工艺实习将设计落实；后续覆盖控制、电子光子、产品和生产，并完成综合项目。</p>
 <p class="fact-sources"><a href="#source-p-program">官方依据</a></p>
 
+<p class="catalog-fact"><strong>学位层级与课程年度：</strong>本项仍是现有独立本科入口；通常 3 年、180 ECTS，由第一学年 60 ECTS 和其后两年 120 ECTS 组成。本轮逐课及考核依据为 2026–27 正式计划，未将其冒充 2027–28 新生未来三年的固定课程表。</p>
+<p class="fact-sources"><a href="#source-p-rulebook-12-2026">官方依据</a></p>
+
+<p class="catalog-fact"><strong>第一年课程（2026–27）：</strong>第一年将分析、代数、物理、电工、材料与机械构造、概率统计及项目编程结合。</p>
+<p class="fact-sources"><a href="#source-p-plan-12-sheet-52877395">官方依据</a></p>
+
+<p class="catalog-fact"><strong>第二、三年课程与考核：</strong>二年级学习数值分析与优化、数据统计、电磁学、机构设计、电子学、材料、逻辑系统和微控制器，并完成加工实践。三年级分系统控制、电子光子学、产品生产，覆盖控制与信号、光学、半导体、嵌入式机器人、传感器、制造与微加工。</p>
+<p class="fact-sources"><a href="#source-p-plan-12-sheet-2054127741">官方依据</a> · <a href="#source-p-rulebook-12-2026">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学分与方向边界：</strong>二年级基础 23、微技术 32 ECTS；三年级系统控制 21、电子光子 15、产品生产 15、选修 6；跨年 SHS/MGT 8，共 120。表中按年为 59/61 ECTS；加工实践须由学院判定通过，表注在 EPFL 车间、学期外完成 4×8 小时。</p>
+<p class="fact-sources"><a href="#source-p-rulebook-12-2026">官方依据</a> · <a href="#source-p-plan-12-sheet-2054127741">官方依据</a></p>
+
+<p class="catalog-fact"><strong>授课语言范围：</strong>本科大部分课程以法语授课，二年级起计划可能含最多50%的英语课程；部分数学物理可选英语或德语。入学页面要求法语至少B2并强烈建议C1，英语课程存在不意味着全英语本科。</p>
+<p class="fact-sources"><a href="#source-p-teaching-languages">官方依据</a> · <a href="#source-p-admission-current">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-中国高中学历须核对入学考试或CMS预科路径。
+<p class="catalog-fact"><strong>入校后的第一年升读条件：</strong>2026–27 本专业规章要求冬季考试后第一个考核组平均至少 3.50/6 才可进入春季；夏季考试后2个组各至少 4.00/6 才通过第一学年。这些是大学在读考核，不是高考百分比。第一年表中的 coefficients 是评分权重，不能直接当各课 ECTS。</p>
+<p class="fact-sources"><a href="#source-p-rulebook-12-2026">官方依据</a></p>
+
+<p class="catalog-fact"><strong>专业选课、转入或后续阶段条件：</strong>2026–27 专属先修表要求机构设计 I→II、电子学 I→II、材料工程 I→II、逻辑系统→微控制器。分析 III→IV 只是强烈建议。先修课程学分已获或其考核组已补偿通过均可满足；不得当作中国高中须已修大学课程的入学要求。</p>
+<p class="fact-sources"><a href="#source-p-micro-prerequisites-2026">官方依据</a></p>
+
+<p class="catalog-fact"><strong>三年级具体先修（2026–27）：</strong>自动控制需分析 IV；信号系统 I 需分析 III/IV、数值分析与优化及数据统计，系统 II 还需系统 I；光学和传感器需电磁物理，嵌入式与机器人需逻辑系统和微控制器。高级微加工实践需微加工 I；选修电子电路系统需电子学 I/II。新必修半导体器件物理没有形式先修，但期望牢固数学物理背景。</p>
+<p class="fact-sources"><a href="#source-p-micro-prerequisites-2026">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -54,11 +76,30 @@ hide:
 <p class="catalog-fact"><strong>法语和名额：</strong>本科要求法语至少B2，强烈建议C1；未在高中学习法语的外国申请者须提供语言证明。自2025起至少四年，本科一年级总人数限制为3,000；已通过CMS或入学考试者按校方规定获接收，其他资格另按适用规则排序。</p>
 <p class="fact-sources"><a href="#source-u-admissions">官方依据</a></p>
 
+<p class="catalog-fact"><strong>大陆普高的学科组合（2026表/当前总则）：</strong>CMS中国行明确属2026参考。普通科学高中须读七类：数学、物理、证书国官方语言、第二现代语言、化学或生物、历史/地理/经济之一，以及应用数学/计算机/哲学/第三现代语言之一。最终成绩单至少六类，必须含最高可读层次数学物理；两科及总平均各至少80%。CMS属于选拔预备年，满足这些不保证录取，也不是直接本科高考线。</p>
+<p class="fact-sources"><a href="#source-u-cms-country-current">官方依据</a> · <a href="#source-u-admission-current">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学科等同与先前大学学习：</strong>一门综合课只出一个成绩不能满足两门独立科目要求。已开始大学或预科者原则上不能再申请CMS；相关大学最终失败/被开除，或离开多个未完成大学专业者另有不可录取限制，这类限制也可能排除入学考试。必须如实申报全部既往学习，不能把CMS/考试写成无条件兜底。</p>
+<p class="fact-sources"><a href="#source-u-admission-current">官方依据</a></p>
+
+<p class="catalog-fact"><strong>IB国际课程资格：</strong>IB Diploma须HL数学、物理及化学/生物/计算机之一；SL或HL还须两门现代语言和历史/地理/经济/哲学之一。普通申请者总分须至少38/42（不含附加分）、数学物理各至少6/7，数学AA/AI均接受；仍须法语并受第一年名额排序。瑞士及特定工作居留身份另有例外，不能套给普通大陆来读者。</p>
+<p class="fact-sources"><a href="#source-u-admission-current">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英国A-level与International A-level并非同类：</strong>英国资格通常要求数学、物理、化学/生物/计算机之一在A-level达到A或Advanced Higher达到1，并具GCSE或更高的英语、第二现代语言及历史或地理。EPFL明确第三国认证的International A-level归非EU/EFTA/UK类别；无国家认证的International A-level及Pre-U只可经入学考试。因此不直接把三门A当大陆国际学校本科直入标准。</p>
+<p class="fact-sources"><a href="#source-u-admission-current">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本科授课语言与法语证据：</strong>CMS全部法语。本科大多法语，二年级起可能含最多50%的英语课；数学/物理部分课提供英语或德语选择。当前本科资格要求法语B2、强烈建议C1，未在高中学法语的外国申请者须在申请时证明水平。本轮未取得可通用换算的IELTS/TOEFL替代法语规则。</p>
+<p class="fact-sources"><a href="#source-u-teaching-languages">官方依据</a> · <a href="#source-u-admission-current">官方依据</a></p>
+
 </details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>第三年交换的在读资格：</strong>本专业 2026–27 规章要求第一年考试平均至少 4.50/6，欧洲以外交换至少 5.00/6，并已取得第二年全部 60 ECTS，还须目的地及学院批准。本专业课程表另列二、三年级不均分的学分量；这里保留交换条款原写的 60 ECTS，不自行换算为 61 或解释为允许少修。通过二、三年级外部转入者，学校总则不允许第三年学术交换；上述成绩不构成高中直接申请交换路线。</p>
+<p class="fact-sources"><a href="#source-p-rulebook-12-2026">官方依据</a> · <a href="#source-p-admission-current">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高中申请与课程注册的区别：</strong>本项高中申请沿用学校按学历类别划分的本科/CMS程序；常规申请是11月中旬至次年4月30日，补件节点见学校资料。2026–27 学生课程注册日并非 2027 高中新生录取截止，本轮未取得本专业单列的 2027–28 新生截止。</p>
+<p class="fact-sources"><a href="#source-p-apply-current">官方依据</a> · <a href="#source-p-academic-calendar">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -68,11 +109,27 @@ hide:
 <p class="catalog-fact"><strong>2027入学考试：</strong>科学科目考试为2027年1月18日至22日，通识科目为2027年8至9月。核验时官网明确报名期和退考截止仍待公布；考试报名与本科/CMS申请不能混为一个截止日。</p>
 <p class="fact-sources"><a href="#source-u-exam">官方依据</a></p>
 
+<p class="catalog-fact"><strong>申请材料与外国证书费用：</strong>4月30日前须完成第一阶段表格、缴费并交身份证件、照片、高中最后两年成绩及适用的大学、居留、法语资料；7月10日前补最终材料，晚发证件仅按特定规则可延至9月30日。文件须为法/英/德/意语，否则附合法认证译文。外国证书申请费CHF150；未完成或撤回不退款。录取仅适用于下一学年，间隔年须重新申请。</p>
+<p class="fact-sources"><a href="#source-u-apply-current">官方依据</a></p>
+
+<p class="catalog-fact"><strong>录取后换专业与双重注册限制：</strong>普通录取者原则上可在学年开始前转到另一本科专业，但受第一年名额限制者、直接录取第二或第三年者不适用这项换专业许可。EPFL不允许同时在另一大学注册；先前已在其他大学就读者须不迟于9月30日提交已取消该校注册的证明，否则录取取消。</p>
+<p class="fact-sources"><a href="#source-u-apply-current">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027考试分组与公开日程差异：</strong>科学组为数学I、数学II、物理、计算机与科学计算、化学；完整考试另有生物、法语、另一现代语言、历史、地理。须科学组达标才可考通识组，个别免考由学校依规则认定。2027大纲写科学组1月18–22日、通识8月；考试网页写通识8–9月且报名期仍待公布。本轮保留这处范围差异，不自行指定通识考试日。</p>
+<p class="fact-sources"><a href="#source-u-exam-program-2027">官方依据</a> · <a href="#source-u-entrance-exam-current">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026–27课程计划与2027新生年度界限：</strong>现行完整课程规章为2026–27，已核在校秋季课程2026年9月7日开始。学校申请总则明确仅对当前年度有效；本轮未取得2027–28全部录取细则或正式全年课表，不能把在校课程注册与高中新生申请混用。</p>
+<p class="fact-sources"><a href="#source-u-academic-calendar">官方依据</a> · <a href="#source-u-admission-current">官方依据</a></p>
+
 </details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>本科收费范围与年度：</strong>对因学习来瑞士且不满足豁免的外国学生，本科当前按学期收 CHF 2,190 学费，加三项费用后通常账单 CHF 2,240。规则自2025年秋生效、首次指数调整计划2029年；这是学校本科收费政策，不是本专业单独报价或未来全程价格保证。</p>
+<p class="fact-sources"><a href="#source-p-fees-current">官方依据</a></p>
+
+<p class="catalog-fact"><strong>微技术专项助学金入口：</strong>学校列 Charles-Edouard Guillaume Foundation 为微技术学生提供社会助学金，年度截止9月30日；本轮未取得明确适用于大陆新生的金额与全部资格，须按该基金当期文件核验。</p>
+<p class="fact-sources"><a href="#source-p-scholarships">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -82,6 +139,18 @@ hide:
 <p class="catalog-fact"><strong>考试另收费：</strong>外国高中学历的入学考试注册费CHF 150；精简考试另CHF 550，全科考试另CHF 800。注册费不退，考试类型由学校决定；这些费用不是本科每学期学费。</p>
 <p class="fact-sources"><a href="#source-u-exam">官方依据</a></p>
 
+<p class="catalog-fact"><strong>学习期间预算（估算与表内差异）：</strong>学校预算页总述建议约CHF29,000/年生活费另加学费；同页外国学生12个月明细表合计CHF25,219（不含学费）。住房参考CHF900/月、用品CHF1,200/年；保险、租房押金等按个人情况变化。两种官网估算均未标独立适用学年，本轮不将其合成精确2027总价。</p>
+<p class="fact-sources"><a href="#source-u-financing">官方依据</a></p>
+
+<p class="catalog-fact"><strong>交换与全学期不修学分的收费：</strong>通常去外校修计入学位的学分仍须缴EPFL学费；整学期没有任何获取学分的学习工作者按页面条件可只缴CHF50。不能把所有实习或交换都认定免学费。当前三倍费首次指数调整计划为2029年，但个人豁免资格仍需校方审核。</p>
+<p class="fact-sources"><a href="#source-u-fees-current">官方依据</a></p>
+
+<p class="catalog-fact"><strong>普通国际学生的社会助学金边界：</strong>国际学生一般须已在EPFL至少一年且成功完成第一年周期，遇到突发意外的家庭/财务困难才可申请社会助学金，并须先寻求其他资金。学校明确不能为预算规划不足兜底；只因学费三倍上涨陷入困难另走过渡补贴。此类资助不能作为大陆新生第一年已有奖学金。</p>
+<p class="fact-sources"><a href="#source-u-social-scholarship">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本科卓越奖学金资格：</strong>本科卓越奖学金CHF10,000并非向所有国际新生普遍开放；候选需满足页面列明的瑞士国籍/C居留、难民或无国籍、招生条例第1条规定的证书，或在瑞士居住完成中学等至少一项资格。上述条例证书的完整范围本轮未另核，不能自行等同大陆高中证书。还评学业及课外表现；住房为申请预留但自费，不能当免费住宿。普通大陆普高资格本身不证明符合奖项身份。</p>
+<p class="fact-sources"><a href="#source-u-excellence-eligibility">官方依据</a></p>
+
 </details>
 
 ## 毕业生情况 {#outcomes}
@@ -89,21 +158,38 @@ hide:
 <p class="catalog-fact"><strong>后续学习与职业方向（非毕业调查）：</strong>微型系统、精密技术、便携通信、医疗器械或钟表等领域，可继续微技术或机器人硕士。 本次项目页未取得可比的本科就业率、薪资及样本数据。</p>
 <p class="fact-sources"><a href="#source-p-program">官方依据</a></p>
 
+<p class="catalog-fact"><strong>就业数据的学历边界：</strong>本轮取得的官方2022届就业调查在2023年8月中至9月中访问硕士与博士毕业生，未覆盖本项本科毕业生。因此不将该报告的就业率、薪资或学院分项转作本项本科结果；本科届次、答卷数和中国学生统计仍未取得。</p>
+<p class="fact-sources"><a href="#source-p-outcomes-2022">官方依据</a></p>
+
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
 <p class="catalog-fact"><strong>本科与职业训练阶段：</strong>EPFL本科通常三年、180 ECTS，是继续硕士学习的基础。各专业页面把职业方向与硕士阶段放在一起介绍；这些行业说明不能被解释为本科毕业即达到职业资格，也不构成就业率或薪资统计。</p>
 <p class="fact-sources"><a href="#source-u-directory">官方依据</a></p>
 
+<p class="catalog-fact"><strong>官方就业调查的实际群体：</strong>2024年5月报告研究2022届硕士及博士，问卷采集为2023年8月中至9月中；不是本科毕业调查。本轮保留其作为学历范围证据，不把报告整体或分学院的就业率/薪资投射到13个本科或中国学生。</p>
+<p class="fact-sources"><a href="#source-u-outcomes-2022">官方依据</a></p>
+
 </details>
 
 ## 官方来源与核验记录 {#sources}
 
-目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
+目录核验日期：**2026-09-13**；该日期不代表招生、学费与毕业信息已核验。
 
 - [官方项目页面或项目所在目录](https://www.epfl.ch/education/bachelor/programs/microengineering/)
 - [官方目录](https://www.epfl.ch/education/bachelor/programs/)
 
 <div class="catalog-source" id="source-p-program"><div><a href="https://www.epfl.ch/education/bachelor/programs/microengineering/">EPFL官方本科项目：Microengineering ↗</a><p>本科培养结构、硕士衔接及职业方向</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-rulebook-12-2026"><div><a href="https://docs.google.com/document/d/e/2PACX-1vSG-PJwic-mwjz7xnByokru-SP1H9DekiP2O-OixTsyi1RXv47F5AgfvqX5U_cUnKNiRnGKDZG0JHMV/pub">EPFL Microengineering：2026–27本科及硕士考核规章 ↗</a><p>学位层级与课程年度</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-plan-12-sheet-52877395"><div><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVaLtmyvl5wP6XFS4nrxy4m2UJ-jz1PeUthagH3__6BlJ8CdkccNFR51Lqc-IG8d_-Yd3iSqNDqzvG/pubhtml/sheet?headers=false&amp;gid=52877395">EPFL Microengineering：2026–27第一学年正式课程表 ↗</a><p>第一年课程（2026–27）</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-plan-12-sheet-2054127741"><div><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVaLtmyvl5wP6XFS4nrxy4m2UJ-jz1PeUthagH3__6BlJ8CdkccNFR51Lqc-IG8d_-Yd3iSqNDqzvG/pubhtml/sheet?headers=false&amp;gid=2054127741">EPFL Microengineering：2026–27本科二、三年级正式课程表 ↗</a><p>第二、三年课程与考核</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-micro-prerequisites-2026"><div><a href="https://sti.epfl.ch/wp-content/uploads/2026/07/26-27-Prerequis_mise-a-jour.pdf">EPFL微技术本科2026–27课程先修要求 ↗</a><p>专业选课、转入或后续阶段条件</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-admission-current"><div><a href="https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/">EPFL当前本科及CMS资格：大陆高中、IB与A-level ↗</a><p>第三年交换的在读资格</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-apply-current"><div><a href="https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/">EPFL本科/CMS申请程序 ↗</a><p>高中申请与课程注册的区别</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-academic-calendar"><div><a href="https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/">EPFL 2026–27在校学期日历 ↗</a><p>高中申请与课程注册的区别</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-fees-current"><div><a href="https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/">EPFL学期学费与其他收费 ↗</a><p>本科收费范围与年度</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-outcomes-2022"><div><a href="https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf">EPFL 2022届硕士与博士就业调查（2024年5月报告） ↗</a><p>就业数据的学历边界</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-scholarships"><div><a href="https://www.epfl.ch/education/studies/en/support-scholarships/">EPFL奖学金及按专业资助入口 ↗</a><p>微技术专项助学金入口</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-teaching-languages"><div><a href="https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/">EPFL各学习阶段授课语言 ↗</a><p>授课语言范围</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-china"><div><a href="https://www.swissuniversities.ch/en/topics/studying/admission-to-universities/countries-1">Swissuniversities：中国资格表2026/27 ↗</a><p>EPFL高中学历及考试路径</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-admissions"><div><a href="https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/">EPFL本科/CMS录取规则 ↗</a><p>非EU/EFTA/UK学历、语言、名额及材料要求</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-cms"><div><a href="https://www.epfl.ch/education/admission/wp-content/uploads/2019/01/Conditions-CMS.pdf">EPFL CMS各国资格表（中国见第5页） ↗</a><p>中国科学高中证书、学科覆盖及80%门槛；已渲染核对中国行</p><small>核验 2026-09-12</small></div></div>
@@ -111,5 +197,17 @@ hide:
 <div class="catalog-source" id="source-u-exam"><div><a href="https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/admission-examination/">EPFL入学考试 ↗</a><p>2027科学考试日期、报名期未公布、注册及考试费用</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-fees"><div><a href="https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/">EPFL学费及其他费用 ↗</a><p>2025秋季起学费分组、学期账单构成、豁免边界</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-directory"><div><a href="https://www.epfl.ch/education/bachelor/programs/">EPFL本科课程目录 ↗</a><p>本科学位、三年及180 ECTS，继续硕士路径</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cms-country-current"><div><a href="https://www.epfl.ch/education/admission/wp-content/uploads/2019/01/Conditions-CMS.pdf">EPFL CMS 2026各国资格：中国第5页 ↗</a><p>大陆普高的学科组合（2026表/当前总则）</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-admission-current"><div><a href="https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/">EPFL当前本科及CMS资格：大陆高中、IB与A-level ↗</a><p>大陆普高的学科组合（2026表/当前总则）</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-teaching-languages"><div><a href="https://www.epfl.ch/education/studies/en/rules-and-procedures/teaching_languages/">EPFL各学习阶段授课语言 ↗</a><p>本科授课语言与法语证据</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-apply-current"><div><a href="https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/">EPFL本科/CMS申请程序 ↗</a><p>申请材料与外国证书费用</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-exam-program-2027"><div><a href="https://www.epfl.ch/education/admission/wp-content/uploads/2026/04/ProgrammeExAdm2027.pdf">EPFL 2027入学考试大纲与安排 ↗</a><p>2027考试分组与公开日程差异</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-entrance-exam-current"><div><a href="https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/admission-examination/">EPFL入学考试：当前日程与费用 ↗</a><p>2027考试分组与公开日程差异</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-academic-calendar"><div><a href="https://www.epfl.ch/education/studies/en/rules-and-procedures/academic-calendar/">EPFL 2026–27在校学期日历 ↗</a><p>2026–27课程计划与2027新生年度界限</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-financing"><div><a href="https://www.epfl.ch/education/studies/en/financing-study/">EPFL学生生活预算：外国学生参考表 ↗</a><p>学习期间预算（估算与表内差异）</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-fees-current"><div><a href="https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/">EPFL学期学费与其他收费 ↗</a><p>交换与全学期不修学分的收费</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-social-scholarship"><div><a href="https://www.epfl.ch/education/studies/en/epfl-social-scholarship/">EPFL社会助学金：国际学生适用条件 ↗</a><p>普通国际学生的社会助学金边界</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-excellence-eligibility"><div><a href="https://www.epfl.ch/education/bachelor/fr/bourses-dexcellence-bachelor/conditions-dadmission-candidature/">EPFL本科卓越奖学金资格及条件 ↗</a><p>本科卓越奖学金资格</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-outcomes-2022"><div><a href="https://www.epfl.ch/about/recruiting/wp-content/uploads/2024/10/Survey-report-on-the-professional-integration-of-EPFL-graduates-2022.pdf">EPFL 2022届硕士与博士就业调查（2024年5月报告） ↗</a><p>官方就业调查的实际群体</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/switzerland/epfl/">← 返回洛桑联邦理工学院</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>
