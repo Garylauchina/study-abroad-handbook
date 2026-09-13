@@ -4501,7 +4501,7 @@
       "name_en": "Philosophy",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/philosophy/",
       "checked_at": "2026-09-13",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；2027新生申请与2026/27费用分别标明",
       "enrichment_status": "partial",
       "sections": {
         "overview": [
@@ -4528,7 +4528,7 @@
           },
           {
             "label": "尚待逐项复核",
-            "text": "本轮未逐项完成具体校区、全程授课语言、专业特殊招生与毕业职业统计的核验。",
+            "text": "具体校区、全程授课语言和本专业毕业职业统计仍待核；本次已补下方2026/27具名路线、培养结构及在读申请条件。",
             "source_ids": [
               "uchicago-program-c5817ff6ca8cf15f"
             ]
@@ -4540,12 +4540,61 @@
               "UCHG-degree-requirements",
               "UCHG-enrollment"
             ]
+          },
+          {
+            "label": "三条哲学BA路线的准确总量",
+            "text": "哲学授予BA：Standard Track专业1000 units、Intensive Track 1300、Philosophy and Allied Fields 1200。后两者现已按具名在读路线单列，三张表不能相加，也不是三个并授学位。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "Standard Track课程与申报",
+            "text": "标准路线为共同前六课600，再加四门哲学选修400，共1000 units。标准主修可通过学生门户申报，无须另向哲学系提交路线申请；强化及相关领域路线有独立在读申请。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "三条路线共同的前六门课",
+            "text": "先修200 units哲学史：PHIL 25000、26000、27000中两门；逻辑100 units：20100或20012；再修300 units领域分布课，在实用哲学A与理论哲学B之间选2A+1B或1A+2B。课程应按年度批准名单选修。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "哲学史、逻辑替代与免修",
+            "text": "PHIL 25200与26200两门合计可满足25000的一季度哲学史要求，同时两课都可计入专业课程数。MATH 27700或27800可免逻辑要求，但不给PHIL课程学分；PHIL 29400也可满足逻辑要求。免掉要求不能直接当作获赠专业units。PHIL 20100与20012即使两门都修，也只能一门计入毕业所需学分。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "在读进度与课程成绩",
+            "text": "所有主修者须在大三冬季与Assistant Director of Undergraduate Studies会面，检查毕业计划及论文安排。专业课一般须正式等级；PHIL 29901采用P/F，只有Intensive Track可将其计入专业。Standard或Allied学生仅在选择并获准写BA论文时须修两学期Senior Seminar，且只有29902计入专业；未选论文者不因这条规则而须修两学期研讨。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "BA论文与荣誉不是自动取得",
+            "text": "Intensive Track必须写BA论文；其余路线可申请论文选项，通常要求哲学GPA≥3.25，较低者可申诉。毕业荣誉另须优秀论文及符合系内成绩要求，不因进入Intensive就自动授予。论文须完成大四秋29901及冬29902，不能将二者都计入Standard或Allied的专业学分。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "转学与外校课程计入",
+            "text": "哲学转学生原则上满足相同专业要求。外校课程须向DUS提交课程大纲审核；目录说通常不超过3门可计入，不能把所有已修课程自动转为本专业学分。Allied Fields的其他学科课也须逐课批准。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
           }
         ],
         "admissions": [
           {
             "label": "专业特殊要求待核",
-            "text": "本轮未完成本条宣告主修、转入、荣誉、表演试演、作品集或全部学习单元先修条件的逐项核验；校级共同规则不能替代特有要求。",
+            "text": "本次已核下列分班/在读申报、路线选拔与荣誉要求；全部课程逐课先修、2027/28后续变动和个别转入安排尚未穷尽，不能把校级新生规则代替在读选拔。",
             "source_ids": [
               "uchicago-program-c5817ff6ca8cf15f"
             ]
@@ -4564,6 +4613,13 @@
             "source_ids": [
               "uchicago-requirements-dom",
               "uchicago-international-dom"
+            ]
+          },
+          {
+            "label": "强化与相关领域分别申请",
+            "text": "Intensive Track须不晚于大二春季第4周申请；Allied Fields在大二春中段提交计划、目的陈述及哲学导师同意。两者不是标准主修门户申报后自动获得的标签。",
+            "source_ids": [
+              "UCHMP-philosophy"
             ]
           }
         ],
@@ -4679,16 +4735,25 @@
           "checked_at": "2026-09-13",
           "supports": "本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数",
           "sha256": "1b752906f097ecdacf9fb4299ff4ad12555f612a2036aedb2d0679df304f9b4a"
+        },
+        {
+          "id": "UCHMP-philosophy",
+          "title": "2026/27 Philosophy：Standard、Intensive、Allied Fields",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/philosophy/",
+          "checked_at": "2026-09-13",
+          "supports": "本条具名主修或在读方向的课程、申请、成绩与毕业要求；不是高中录取分数线",
+          "sha256": "3794e30a0973ba54ee5515d2517b21f5ebe47099e6c45e5cb7319a26ebbc48f0"
         }
       ],
       "display_fields": {
         "tuition_summary": "2026/27本科USD75,960／学年；服务费1,677、UPASS318及保险等另计，2027/28待核。",
         "name": "哲学",
-        "duration": "通常4年／12个秋冬春季度"
+        "duration": "通常4年／12个秋冬春季度",
+        "entry_summary": "College哲学BA：Standard 1000、Intensive 1300、Allied Fields 1200专业units，后两者另申请。"
       },
       "verified_curriculum_structure": true,
       "inventory_id": "uchicago-philosophy-4b63fe40b6",
-      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "degree_label": "BA",
       "research_status": "program_researched"
     },
     {
@@ -5474,7 +5539,7 @@
       "name_en": "Mathematics",
       "official_url": "http://collegecatalog.uchicago.edu/thecollege/mathematics/",
       "checked_at": "2026-09-13",
-      "source_period": "current admissions list; no academic year stated",
+      "source_period": "2026/27 College Catalog；2027新生申请与2026/27费用分别标明",
       "enrichment_status": "partial",
       "sections": {
         "overview": [
@@ -5501,7 +5566,7 @@
           },
           {
             "label": "尚待逐项复核",
-            "text": "本轮未逐项完成具体校区、全程授课语言、专业特殊招生与毕业职业统计的核验。",
+            "text": "具体校区、全程授课语言和本专业毕业职业统计仍待核；本次已补下方2026/27具名路线、培养结构及在读申请条件。",
             "source_ids": [
               "uchicago-program-b2a5a98ef2d1eaf7"
             ]
@@ -5513,12 +5578,61 @@
               "UCHG-degree-requirements",
               "UCHG-enrollment"
             ]
+          },
+          {
+            "label": "已核四种数学学位路线",
+            "text": "2026/27数学系列BA Mathematics、BS Mathematics、BS Applied Mathematics及BS Mathematics with Specialization in Economics。后两条现有独立检索页；原数学BA/BS页面和既有课程依据保留。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "数学BA与BS的专业总量",
+            "text": "BA专业表合计1400 units，BS合计1700；两者各另列Core 400。共同包括第三季度化学/物理、证明、线性代数、三季度分析、两门批准数学选修和四门非数学PSCD课。BA再列第一季度代数及第二季度代数/批准替代；BS须前两季度代数，并多修三门同一非数学PSCD部门课程。各课程须满足批准清单与课程重复计入规则。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "数学学位与CAAM不能同时主修",
+            "text": "学校明确只能取得数学系的一种本科学位；四种数学学位中的任何一种都不能再与Computational and Applied Mathematics（CAAM）同时作为主修。独立列出这些路线供比较，不表示可以并修取得多个数学学位。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "微积分、证明与分析基础",
+            "text": "数学各路线通常要求三季度微积分（或较高课程/考试证明能力），MATH 20250线性代数及三季度分析。分析可选标准20300–20500、加速20310–20510、探究20320–20520或荣誉20700–20900整套。证明准备为MATH 16300、16310或15910；相关证明课程有互斥规则，以20700作为本校第一门数学课者可免该项。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "Core与专业学分分开计算",
+            "text": "各表另列400 units的共同Core：前两季度物理或化学及前两季度微积分。表内专业合计不包含这400 units，更不是整个4200 units的College学位；不能把不同BA、BS、应用数学和经济学方向的课程表相加。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "学业成绩要求",
+            "text": "计入数学专业的课程须取正式等级。证明课、线性代数、三季度分析及第一季度代数须各≥C−；数学BS的第二季度代数亦须≥C−。计入专业的批准课程须平均≥C；数学经济学方向的每门经济课须≥C。专业要求之外的20000级数学课可依规则P/F，30000级研究生数学课须正式等级。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "Honors属于额外毕业条件",
+            "text": "荣誉须数学GPA≥3.25、总GPA≥3.0，所有数学课无低于C−和W；完成一套荣誉分析或荣誉代数且各≥B−，另从代数、分析、拓扑指定表选至少5课且各≥B−并覆盖三组。一个课程不能同时计入该荣誉整套与额外5课；两套均修时可分别分配。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
           }
         ],
         "admissions": [
           {
             "label": "专业特殊要求待核",
-            "text": "本轮未完成本条宣告主修、转入、荣誉、表演试演、作品集或全部学习单元先修条件的逐项核验；校级共同规则不能替代特有要求。",
+            "text": "本次已核下列分班/在读申报、路线选拔与荣誉要求；全部课程逐课先修、2027/28后续变动和个别转入安排尚未穷尽，不能把校级新生规则代替在读选拔。",
             "source_ids": [
               "uchicago-program-b2a5a98ef2d1eaf7"
             ]
@@ -5537,6 +5651,20 @@
             "source_ids": [
               "uchicago-requirements-dom",
               "uchicago-international-dom"
+            ]
+          },
+          {
+            "label": "先申请College，分班不是录取考试",
+            "text": "本条是College内的主修/学位路线。入校前的数学分班决定起修课，不是本专业高中录取考试。新生须完成暑期线上分班；较高层级分班及微积分学分认定按学校邀请/九月安排。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "AP、IB及A-Level的数学分班边界",
+            "text": "AP Calculus BC 5或IB Higher Level数学7可获荣誉微积分等课程的邀请，但不能跳过线上分班规则。数学目录说明A-Level/O-Level不给本系分班或课程学分；这条不表示学校不接受这些学历申请本科。",
+            "source_ids": [
+              "UCHMP-mathematics"
             ]
           }
         ],
@@ -5652,12 +5780,21 @@
           "checked_at": "2026-09-13",
           "supports": "本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数",
           "sha256": "1b752906f097ecdacf9fb4299ff4ad12555f612a2036aedb2d0679df304f9b4a"
+        },
+        {
+          "id": "UCHMP-mathematics",
+          "title": "2026/27 Mathematics：BA、BS、应用数学与经济学专门方向",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/mathematics/",
+          "checked_at": "2026-09-13",
+          "supports": "本条具名主修或在读方向的课程、申请、成绩与毕业要求；不是高中录取分数线",
+          "sha256": "d0c6893159a8b3a19a60a81f1fc294c52d65a1f5eeecf46cc93ae87f0efeb337"
         }
       ],
       "display_fields": {
         "tuition_summary": "2026/27本科USD75,960／学年；服务费1,677、UPASS318及保险等另计，2027/28待核。",
         "name": "数学",
-        "duration": "通常4年／12个秋冬春季度"
+        "duration": "通常4年／12个秋冬春季度",
+        "entry_summary": "College在读主修；BA专业1400、BS1700 units，应用数学和经济学专门方向另列。"
       },
       "verified_curriculum_structure": true,
       "inventory_id": "uchicago-mathematics-7c0aab6dc6",
@@ -13678,6 +13815,1061 @@
         "entry_summary": "先获College录取、申报父主修，再按方向要求制定在读课程计划；不是额外独立高中申请学位。",
         "tuition_summary": "2026/27本科USD75,960／学年；服务费1,677、UPASS318及保险等另计，2027/28待核。"
       }
+    },
+    {
+      "university_id": "uchicago",
+      "inventory_id": "uchicago-applied-mathematics-bs-d6967eea31",
+      "raw_key": "2026-27:applied-mathematics-bs",
+      "name_en": "Applied Mathematics",
+      "degree_label": "BS",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/mathematics/",
+      "checked_at": "2026-09-13",
+      "source_period": "2026/27 College Catalog；2027新生申请与2026/27费用分别标明",
+      "enrichment_status": "partial",
+      "research_status": "program_researched",
+      "verified_curriculum_structure": true,
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "sections": {
+        "admissions": [
+          {
+            "label": "先申请College，分班不是录取考试",
+            "text": "本条是College内的主修/学位路线。入校前的数学分班决定起修课，不是本专业高中录取考试。新生须完成暑期线上分班；较高层级分班及微积分学分认定按学校邀请/九月安排。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "AP、IB及A-Level的数学分班边界",
+            "text": "AP Calculus BC 5或IB Higher Level数学7可获荣誉微积分等课程的邀请，但不能跳过线上分班规则。数学目录说明A-Level/O-Level不给本系分班或课程学分；这条不表示学校不接受这些学历申请本科。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "中国高中材料与综合评估",
+            "text": "国际新生与其他新生同样申请，按就读高中背景评估；需要完整中学成绩、学校报告和两位学科教师评估，非英文成绩附认证翻译及评分制。没有辅导员可由教师/学校管理者提交学校报告，本轮未取得高考统一录取线。",
+            "source_ids": [
+              "uchicago-requirements-dom",
+              "uchicago-international-dom"
+            ]
+          },
+          {
+            "label": "SAT/ACT可选及英语",
+            "text": "SAT/ACT不强制，当前No Harm政策只在成绩有利时用于审查，对本土、国际和转学生均适用。国际生可自愿以英语考试证明能力，若申请其他材料已充分体现英语，不强制正式分数；学校不设入学后ESL补习通道。",
+            "source_ids": [
+              "uchicago-requirements-dom",
+              "uchicago-international-dom"
+            ]
+          },
+          {
+            "label": "先入College再申报主修",
+            "text": "一年级通常记Common Year；春季第8周周一起可开始申报主修，此后可调整。学校要求大二结束前正式申报；部分专业另需会谈或选拔。",
+            "source_ids": [
+              "UCHG-programsofstudy"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027新生申请日历",
+            "text": "Common App或Coalition on Scoir。ED I与EA截止2026-11-02，ED II与RD截止2027-01-04；通常仅秋季入学。需两篇学校补充文书，非need-based资助申请者申请费US$90，申请此资助者免申请费。",
+            "source_ids": [
+              "uchicago-application-dom",
+              "uchicago-requirements-dom"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际生资助申请方法",
+            "text": "国际生如可能需要资助须申请入学时同时申请，学校满足获录取且申请者认定需要，方案不以贷款填补。国际生用UChicago账户中的Student Financial Aid Worksheet及收入资产证明，不交CSS Profile或FAFSA；国际转学生不获该经济资助。",
+            "source_ids": [
+              "uchicago-aid-dom"
+            ]
+          },
+          {
+            "label": "Merit奖适用范围",
+            "text": "本科新生自动考虑部分学费的merit奖，国际转学生不符合此奖；奖项有限不能作为确定资金来源。",
+            "source_ids": [
+              "uchicago-aid-dom"
+            ]
+          },
+          {
+            "label": "2026/27本科费用与预算",
+            "text": "2026/27本科纯学费USD75,960／学年，Student Services Fee 1,677、UPASS 318另计。校内住宿官方年度预算103,821，含餐宿21,414、书本1,800、个人1,950及交通估值702；校外预算100,407、通勤91,407。交通按住址调整，并非独立补贴。2026首次入学者前两年各另收Class Fee 720；上述预算均未含健康保险，2027/28未核实。",
+            "source_ids": [
+              "UCHG-costs-dom"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "本科毕业学分与修读期限",
+            "text": "2026/27全学位通常4年、12个秋冬春季度；每季度3或4课为全日制，两者学费相同。毕业需至少4200 units，其中至少3800由正式修课取得（2017秋后入学），另须完成Core和至少一个主修、总GPA1.75及主辅修GPA2.0；至少6个非暑期驻校季度和1800本校课程units，且每个主修或辅修至少一半要求须在本校修读完成。专业列出的1000–1900 units不是整个学位总学分。",
+            "source_ids": [
+              "UCHG-degree-requirements",
+              "UCHG-enrollment"
+            ]
+          },
+          {
+            "label": "本路线毕业生数据尚缺",
+            "text": "未取得有毕业届次、响应样本及中国/国际学生口径的本路线就业率、薪酬或升学率。现有培养要求和升学建议不能替代该统计。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          }
+        ],
+        "overview": [
+          {
+            "label": "学位与目录身份",
+            "text": "数学系正式授予BS in Applied Mathematics。本条与另一独立主修Computational and Applied Mathematics（CAAM）分开，不能按中文“应用数学”合并。属于College本科在读选定的学位路线。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "专业课程表：1700 units",
+            "text": "2026/27表合计1700 units：第三季度化学/物理100、证明准备100、线性代数100、分析300、数值分析100、代数100、复变/常微分/偏微分方程300及六门非数学PSCD课600。另有Core 400及全学位要求。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "应用数学必修与选课",
+            "text": "数值分析选MATH 21100或21200；代数选25400或25700；MATH 27000、27300、27500三门均列为本路线要求。六门非数学Physical Sciences Collegiate Division课程中至少三门须来自同一部门，并受目录批准课程清单限制。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "官方文字与分项口径待确认",
+            "text": "正文提到六门数学以外课程；课程表却另列第三季度化学/物理100和六门非数学PSCD课程600。本站按表保留1700总量及各项，不自行认定两项可以重复使用或据此减学分；实际选课应请数学系确认。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "数学学位与CAAM不能同时主修",
+            "text": "学校明确只能取得数学系的一种本科学位；四种数学学位中的任何一种都不能再与Computational and Applied Mathematics（CAAM）同时作为主修。独立列出这些路线供比较，不表示可以并修取得多个数学学位。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "微积分、证明与分析基础",
+            "text": "数学各路线通常要求三季度微积分（或较高课程/考试证明能力），MATH 20250线性代数及三季度分析。分析可选标准20300–20500、加速20310–20510、探究20320–20520或荣誉20700–20900整套。证明准备为MATH 16300、16310或15910；相关证明课程有互斥规则，以20700作为本校第一门数学课者可免该项。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "Core与专业学分分开计算",
+            "text": "各表另列400 units的共同Core：前两季度物理或化学及前两季度微积分。表内专业合计不包含这400 units，更不是整个4200 units的College学位；不能把不同BA、BS、应用数学和经济学方向的课程表相加。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "学业成绩要求",
+            "text": "计入数学专业的课程须取正式等级。证明课、线性代数、三季度分析及第一季度代数须各≥C−；数学BS的第二季度代数亦须≥C−。计入专业的批准课程须平均≥C；数学经济学方向的每门经济课须≥C。专业要求之外的20000级数学课可依规则P/F，30000级研究生数学课须正式等级。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "Honors属于额外毕业条件",
+            "text": "荣誉须数学GPA≥3.25、总GPA≥3.0，所有数学课无低于C−和W；完成一套荣誉分析或荣誉代数且各≥B−，另从代数、分析、拓扑指定表选至少5课且各≥B−并覆盖三组。一个课程不能同时计入该荣誉整套与额外5课；两套均修时可分别分配。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "资料仍有边界",
+            "text": "已按2026/27课程目录核对本路线；2027/28课程变动、具体校区和全程授课语言仍须逐项确认。当前费用取2026/27，未改写成2027/28报价。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "uchicago-requirements-dom",
+          "title": "uchicago 官方本科资料：requirements-dom",
+          "url": "https://collegeadmissions.uchicago.edu/apply/application/required-materials/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "ca4face0cef9d5bf63dee73ce2831ae5f7e3e6bf31e0c82ca4e79cc1b4e85996",
+          "sha256": "ca4face0cef9d5bf63dee73ce2831ae5f7e3e6bf31e0c82ca4e79cc1b4e85996"
+        },
+        {
+          "id": "uchicago-international-dom",
+          "title": "uchicago 官方本科资料：international-dom",
+          "url": "https://collegeadmissions.uchicago.edu/apply/international-applicants/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "b4fd60a408e93ef2d11b5d3faa62a11c539d43abfd41d823188f25bfd91769de",
+          "sha256": "b4fd60a408e93ef2d11b5d3faa62a11c539d43abfd41d823188f25bfd91769de"
+        },
+        {
+          "id": "uchicago-application-dom",
+          "title": "uchicago 官方本科资料：application-dom",
+          "url": "https://collegeadmissions.uchicago.edu/apply/application/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "c3aafa74a9e4993ed0cc2946ee0982260d99da5c580a365f6a2c79c2688efb0b",
+          "sha256": "c3aafa74a9e4993ed0cc2946ee0982260d99da5c580a365f6a2c79c2688efb0b"
+        },
+        {
+          "id": "uchicago-aid-dom",
+          "title": "uchicago 官方本科资料：aid-dom",
+          "url": "https://collegeadmissions.uchicago.edu/financial-support/international-financial-aid/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "ef8253fa032f61479192f5647d1158c2e04be4f4373c84ee530a6e4930b95c3e",
+          "sha256": "ef8253fa032f61479192f5647d1158c2e04be4f4373c84ee530a6e4930b95c3e"
+        },
+        {
+          "id": "UCHG-costs-dom",
+          "title": "UChicago本科2026–2027 Cost of Attendance",
+          "url": "https://financialaid.uchicago.edu/undergraduate/how-aid-works/undergraduate-costs/",
+          "checked_at": "2026-09-13",
+          "supports": "年度本科纯学费、服务费与UPASS、三种住宿预算、2026新生前两年另720/年及不含保险；Chrome费用表上部已目视",
+          "sha256": "a0725e64e56e21172e0945e4f13830da1155dd3afb3e76ceec976e4602bed400"
+        },
+        {
+          "id": "UCHG-programsofstudy",
+          "title": "本科主修目录及在读申报（2026/27）",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/programsofstudy/",
+          "checked_at": "2026-09-13",
+          "supports": "本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数",
+          "sha256": "c7d52169fb910e8267b434395bd86852a27e01ca7daf0c5ef502cc29cd70f198"
+        },
+        {
+          "id": "UCHG-degree-requirements",
+          "title": "本科全学位毕业要求（2026/27）",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/degreerequirements/",
+          "checked_at": "2026-09-13",
+          "supports": "本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数",
+          "sha256": "c199eccffada87db2064df6af19639d2d0fecc388f87a9054380611be07090b9"
+        },
+        {
+          "id": "UCHG-enrollment",
+          "title": "本科修读负担和季度上限（2026/27）",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/gradingandacademicstatus/",
+          "checked_at": "2026-09-13",
+          "supports": "本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数",
+          "sha256": "1b752906f097ecdacf9fb4299ff4ad12555f612a2036aedb2d0679df304f9b4a"
+        },
+        {
+          "id": "UCHMP-mathematics",
+          "title": "2026/27 Mathematics：BA、BS、应用数学与经济学专门方向",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/mathematics/",
+          "checked_at": "2026-09-13",
+          "supports": "本条具名主修或在读方向的课程、申请、成绩与毕业要求；不是高中录取分数线",
+          "sha256": "d0c6893159a8b3a19a60a81f1fc294c52d65a1f5eeecf46cc93ae87f0efeb337"
+        }
+      ],
+      "display_fields": {
+        "name": "应用数学（BS）",
+        "duration": "通常4年／12个秋冬春季度",
+        "entry_summary": "入读College后选BS路线；1700专业units，课程成绩与分班规则另列。",
+        "tuition_summary": "2026/27本科USD75,960／学年；服务费1,677、UPASS318及保险等另计，2027/28待核。",
+        "outcomes_summary": "课程及毕业要求已核；本路线就业、薪酬和升学统计尚缺。"
+      }
+    },
+    {
+      "university_id": "uchicago",
+      "inventory_id": "uchicago-mathematics-economics-specialization-bs-0478f6a461",
+      "raw_key": "2026-27:mathematics-economics-specialization-bs",
+      "name_en": "Mathematics with Specialization in Economics",
+      "degree_label": "BS",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/mathematics/",
+      "checked_at": "2026-09-13",
+      "source_period": "2026/27 College Catalog；2027新生申请与2026/27费用分别标明",
+      "enrichment_status": "partial",
+      "research_status": "program_researched",
+      "verified_curriculum_structure": true,
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "sections": {
+        "admissions": [
+          {
+            "label": "先申请College，分班不是录取考试",
+            "text": "本条是College内的主修/学位路线。入校前的数学分班决定起修课，不是本专业高中录取考试。新生须完成暑期线上分班；较高层级分班及微积分学分认定按学校邀请/九月安排。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "AP、IB及A-Level的数学分班边界",
+            "text": "AP Calculus BC 5或IB Higher Level数学7可获荣誉微积分等课程的邀请，但不能跳过线上分班规则。数学目录说明A-Level/O-Level不给本系分班或课程学分；这条不表示学校不接受这些学历申请本科。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "中国高中材料与综合评估",
+            "text": "国际新生与其他新生同样申请，按就读高中背景评估；需要完整中学成绩、学校报告和两位学科教师评估，非英文成绩附认证翻译及评分制。没有辅导员可由教师/学校管理者提交学校报告，本轮未取得高考统一录取线。",
+            "source_ids": [
+              "uchicago-requirements-dom",
+              "uchicago-international-dom"
+            ]
+          },
+          {
+            "label": "SAT/ACT可选及英语",
+            "text": "SAT/ACT不强制，当前No Harm政策只在成绩有利时用于审查，对本土、国际和转学生均适用。国际生可自愿以英语考试证明能力，若申请其他材料已充分体现英语，不强制正式分数；学校不设入学后ESL补习通道。",
+            "source_ids": [
+              "uchicago-requirements-dom",
+              "uchicago-international-dom"
+            ]
+          },
+          {
+            "label": "先入College再申报主修",
+            "text": "一年级通常记Common Year；春季第8周周一起可开始申报主修，此后可调整。学校要求大二结束前正式申报；部分专业另需会谈或选拔。",
+            "source_ids": [
+              "UCHG-programsofstudy"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027新生申请日历",
+            "text": "Common App或Coalition on Scoir。ED I与EA截止2026-11-02，ED II与RD截止2027-01-04；通常仅秋季入学。需两篇学校补充文书，非need-based资助申请者申请费US$90，申请此资助者免申请费。",
+            "source_ids": [
+              "uchicago-application-dom",
+              "uchicago-requirements-dom"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际生资助申请方法",
+            "text": "国际生如可能需要资助须申请入学时同时申请，学校满足获录取且申请者认定需要，方案不以贷款填补。国际生用UChicago账户中的Student Financial Aid Worksheet及收入资产证明，不交CSS Profile或FAFSA；国际转学生不获该经济资助。",
+            "source_ids": [
+              "uchicago-aid-dom"
+            ]
+          },
+          {
+            "label": "Merit奖适用范围",
+            "text": "本科新生自动考虑部分学费的merit奖，国际转学生不符合此奖；奖项有限不能作为确定资金来源。",
+            "source_ids": [
+              "uchicago-aid-dom"
+            ]
+          },
+          {
+            "label": "2026/27本科费用与预算",
+            "text": "2026/27本科纯学费USD75,960／学年，Student Services Fee 1,677、UPASS 318另计。校内住宿官方年度预算103,821，含餐宿21,414、书本1,800、个人1,950及交通估值702；校外预算100,407、通勤91,407。交通按住址调整，并非独立补贴。2026首次入学者前两年各另收Class Fee 720；上述预算均未含健康保险，2027/28未核实。",
+            "source_ids": [
+              "UCHG-costs-dom"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "本科毕业学分与修读期限",
+            "text": "2026/27全学位通常4年、12个秋冬春季度；每季度3或4课为全日制，两者学费相同。毕业需至少4200 units，其中至少3800由正式修课取得（2017秋后入学），另须完成Core和至少一个主修、总GPA1.75及主辅修GPA2.0；至少6个非暑期驻校季度和1800本校课程units，且每个主修或辅修至少一半要求须在本校修读完成。专业列出的1000–1900 units不是整个学位总学分。",
+            "source_ids": [
+              "UCHG-degree-requirements",
+              "UCHG-enrollment"
+            ]
+          },
+          {
+            "label": "本路线毕业生数据尚缺",
+            "text": "未取得有毕业届次、响应样本及中国/国际学生口径的本路线就业率、薪酬或升学率。现有培养要求和升学建议不能替代该统计。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          }
+        ],
+        "overview": [
+          {
+            "label": "学位与成绩单标注",
+            "text": "正式名称BS in Mathematics with Specialization in Economics，专门方向在成绩单上注明。它是数学学位，不等于经济学第二学位，也不是数学与所有经济方向的自由双学位组合。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "专业课程表：1800 units",
+            "text": "表列1800 units：第三季度化学/物理100、证明100、线性代数100、分析300、代数100、两门指定数学选修200、概率100、统计100、经济分析300、计量经济100及三门经济选修300；另列Core 400，整个College学位仍须至少4200。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "数学与经济必修",
+            "text": "代数25400或25700；概率STAT 25100或25150；经济分析ECON 20000–20200或荣誉20010–20210；计量21020或21030。两门数学选修来自MATH 27000、27100、27200、27300、23500、26200指定六选二。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "统计替代有正文与表格差异",
+            "text": "正文列STAT 23400或24400，课程表另加STAT 24410作为可选项。两处并列保存；计划使用24410时须向系内确认适用学年，不能仅凭表格假定已满足所有要求。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "经济选修与Booth课程批准",
+            "text": "三门经济选修须高于ECON 20210且不能用21010；符合条件的ECMA可计入。Booth 40000以上课程须有至少ECON 20100先修并覆盖本系未教的经济理论，经事先申请批准；不接受修后追认，普通会计、投资或创业课不能直接替代经济选修。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "升学建议与结果边界",
+            "text": "目录建议未来读经济研究生者修CMSC 15100并考虑更多统计。这是课程建议，不是强制入学科目，也不是升研率或就业保证。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "数学学位与CAAM不能同时主修",
+            "text": "学校明确只能取得数学系的一种本科学位；四种数学学位中的任何一种都不能再与Computational and Applied Mathematics（CAAM）同时作为主修。独立列出这些路线供比较，不表示可以并修取得多个数学学位。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "微积分、证明与分析基础",
+            "text": "数学各路线通常要求三季度微积分（或较高课程/考试证明能力），MATH 20250线性代数及三季度分析。分析可选标准20300–20500、加速20310–20510、探究20320–20520或荣誉20700–20900整套。证明准备为MATH 16300、16310或15910；相关证明课程有互斥规则，以20700作为本校第一门数学课者可免该项。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "Core与专业学分分开计算",
+            "text": "各表另列400 units的共同Core：前两季度物理或化学及前两季度微积分。表内专业合计不包含这400 units，更不是整个4200 units的College学位；不能把不同BA、BS、应用数学和经济学方向的课程表相加。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "学业成绩要求",
+            "text": "计入数学专业的课程须取正式等级。证明课、线性代数、三季度分析及第一季度代数须各≥C−；数学BS的第二季度代数亦须≥C−。计入专业的批准课程须平均≥C；数学经济学方向的每门经济课须≥C。专业要求之外的20000级数学课可依规则P/F，30000级研究生数学课须正式等级。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "Honors属于额外毕业条件",
+            "text": "荣誉须数学GPA≥3.25、总GPA≥3.0，所有数学课无低于C−和W；完成一套荣誉分析或荣誉代数且各≥B−，另从代数、分析、拓扑指定表选至少5课且各≥B−并覆盖三组。一个课程不能同时计入该荣誉整套与额外5课；两套均修时可分别分配。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          },
+          {
+            "label": "资料仍有边界",
+            "text": "已按2026/27课程目录核对本路线；2027/28课程变动、具体校区和全程授课语言仍须逐项确认。当前费用取2026/27，未改写成2027/28报价。",
+            "source_ids": [
+              "UCHMP-mathematics"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "uchicago-requirements-dom",
+          "title": "uchicago 官方本科资料：requirements-dom",
+          "url": "https://collegeadmissions.uchicago.edu/apply/application/required-materials/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "ca4face0cef9d5bf63dee73ce2831ae5f7e3e6bf31e0c82ca4e79cc1b4e85996",
+          "sha256": "ca4face0cef9d5bf63dee73ce2831ae5f7e3e6bf31e0c82ca4e79cc1b4e85996"
+        },
+        {
+          "id": "uchicago-international-dom",
+          "title": "uchicago 官方本科资料：international-dom",
+          "url": "https://collegeadmissions.uchicago.edu/apply/international-applicants/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "b4fd60a408e93ef2d11b5d3faa62a11c539d43abfd41d823188f25bfd91769de",
+          "sha256": "b4fd60a408e93ef2d11b5d3faa62a11c539d43abfd41d823188f25bfd91769de"
+        },
+        {
+          "id": "uchicago-application-dom",
+          "title": "uchicago 官方本科资料：application-dom",
+          "url": "https://collegeadmissions.uchicago.edu/apply/application/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "c3aafa74a9e4993ed0cc2946ee0982260d99da5c580a365f6a2c79c2688efb0b",
+          "sha256": "c3aafa74a9e4993ed0cc2946ee0982260d99da5c580a365f6a2c79c2688efb0b"
+        },
+        {
+          "id": "uchicago-aid-dom",
+          "title": "uchicago 官方本科资料：aid-dom",
+          "url": "https://collegeadmissions.uchicago.edu/financial-support/international-financial-aid/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "ef8253fa032f61479192f5647d1158c2e04be4f4373c84ee530a6e4930b95c3e",
+          "sha256": "ef8253fa032f61479192f5647d1158c2e04be4f4373c84ee530a6e4930b95c3e"
+        },
+        {
+          "id": "UCHG-costs-dom",
+          "title": "UChicago本科2026–2027 Cost of Attendance",
+          "url": "https://financialaid.uchicago.edu/undergraduate/how-aid-works/undergraduate-costs/",
+          "checked_at": "2026-09-13",
+          "supports": "年度本科纯学费、服务费与UPASS、三种住宿预算、2026新生前两年另720/年及不含保险；Chrome费用表上部已目视",
+          "sha256": "a0725e64e56e21172e0945e4f13830da1155dd3afb3e76ceec976e4602bed400"
+        },
+        {
+          "id": "UCHG-programsofstudy",
+          "title": "本科主修目录及在读申报（2026/27）",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/programsofstudy/",
+          "checked_at": "2026-09-13",
+          "supports": "本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数",
+          "sha256": "c7d52169fb910e8267b434395bd86852a27e01ca7daf0c5ef502cc29cd70f198"
+        },
+        {
+          "id": "UCHG-degree-requirements",
+          "title": "本科全学位毕业要求（2026/27）",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/degreerequirements/",
+          "checked_at": "2026-09-13",
+          "supports": "本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数",
+          "sha256": "c199eccffada87db2064df6af19639d2d0fecc388f87a9054380611be07090b9"
+        },
+        {
+          "id": "UCHG-enrollment",
+          "title": "本科修读负担和季度上限（2026/27）",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/gradingandacademicstatus/",
+          "checked_at": "2026-09-13",
+          "supports": "本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数",
+          "sha256": "1b752906f097ecdacf9fb4299ff4ad12555f612a2036aedb2d0679df304f9b4a"
+        },
+        {
+          "id": "UCHMP-mathematics",
+          "title": "2026/27 Mathematics：BA、BS、应用数学与经济学专门方向",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/mathematics/",
+          "checked_at": "2026-09-13",
+          "supports": "本条具名主修或在读方向的课程、申请、成绩与毕业要求；不是高中录取分数线",
+          "sha256": "d0c6893159a8b3a19a60a81f1fc294c52d65a1f5eeecf46cc93ae87f0efeb337"
+        }
+      ],
+      "display_fields": {
+        "name": "数学：经济学专门方向（BS）",
+        "duration": "通常4年／12个秋冬春季度",
+        "entry_summary": "入读College后选数学BS经济学方向；1800专业units，经济课须各≥C。",
+        "tuition_summary": "2026/27本科USD75,960／学年；服务费1,677、UPASS318及保险等另计，2027/28待核。",
+        "outcomes_summary": "课程及毕业要求已核；本路线就业、薪酬和升学统计尚缺。"
+      }
+    },
+    {
+      "university_id": "uchicago",
+      "inventory_id": "uchicago-philosophy-intensive-track-ba-0a14b25f21",
+      "raw_key": "2026-27:philosophy-intensive-track-ba",
+      "name_en": "Philosophy — Intensive Track",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/philosophy/",
+      "checked_at": "2026-09-13",
+      "source_period": "2026/27 College Catalog；2027新生申请与2026/27费用分别标明",
+      "enrichment_status": "partial",
+      "research_status": "program_researched",
+      "verified_curriculum_structure": true,
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "sections": {
+        "admissions": [
+          {
+            "label": "申请时间与选拔",
+            "text": "须不晚于大二春季第4周向系内申请Intensive Track。不能仅通过学校主修申报页面自动加入，也不能把该在读申请日期当作2027国际新生申请截止日。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "中国高中材料与综合评估",
+            "text": "国际新生与其他新生同样申请，按就读高中背景评估；需要完整中学成绩、学校报告和两位学科教师评估，非英文成绩附认证翻译及评分制。没有辅导员可由教师/学校管理者提交学校报告，本轮未取得高考统一录取线。",
+            "source_ids": [
+              "uchicago-requirements-dom",
+              "uchicago-international-dom"
+            ]
+          },
+          {
+            "label": "SAT/ACT可选及英语",
+            "text": "SAT/ACT不强制，当前No Harm政策只在成绩有利时用于审查，对本土、国际和转学生均适用。国际生可自愿以英语考试证明能力，若申请其他材料已充分体现英语，不强制正式分数；学校不设入学后ESL补习通道。",
+            "source_ids": [
+              "uchicago-requirements-dom",
+              "uchicago-international-dom"
+            ]
+          },
+          {
+            "label": "先入College再申报主修",
+            "text": "一年级通常记Common Year；春季第8周周一起可开始申报主修，此后可调整。学校要求大二结束前正式申报；部分专业另需会谈或选拔。",
+            "source_ids": [
+              "UCHG-programsofstudy"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027新生申请日历",
+            "text": "Common App或Coalition on Scoir。ED I与EA截止2026-11-02，ED II与RD截止2027-01-04；通常仅秋季入学。需两篇学校补充文书，非need-based资助申请者申请费US$90，申请此资助者免申请费。",
+            "source_ids": [
+              "uchicago-application-dom",
+              "uchicago-requirements-dom"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际生资助申请方法",
+            "text": "国际生如可能需要资助须申请入学时同时申请，学校满足获录取且申请者认定需要，方案不以贷款填补。国际生用UChicago账户中的Student Financial Aid Worksheet及收入资产证明，不交CSS Profile或FAFSA；国际转学生不获该经济资助。",
+            "source_ids": [
+              "uchicago-aid-dom"
+            ]
+          },
+          {
+            "label": "Merit奖适用范围",
+            "text": "本科新生自动考虑部分学费的merit奖，国际转学生不符合此奖；奖项有限不能作为确定资金来源。",
+            "source_ids": [
+              "uchicago-aid-dom"
+            ]
+          },
+          {
+            "label": "2026/27本科费用与预算",
+            "text": "2026/27本科纯学费USD75,960／学年，Student Services Fee 1,677、UPASS 318另计。校内住宿官方年度预算103,821，含餐宿21,414、书本1,800、个人1,950及交通估值702；校外预算100,407、通勤91,407。交通按住址调整，并非独立补贴。2026首次入学者前两年各另收Class Fee 720；上述预算均未含健康保险，2027/28未核实。",
+            "source_ids": [
+              "UCHG-costs-dom"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "本科毕业学分与修读期限",
+            "text": "2026/27全学位通常4年、12个秋冬春季度；每季度3或4课为全日制，两者学费相同。毕业需至少4200 units，其中至少3800由正式修课取得（2017秋后入学），另须完成Core和至少一个主修、总GPA1.75及主辅修GPA2.0；至少6个非暑期驻校季度和1800本校课程units，且每个主修或辅修至少一半要求须在本校修读完成。专业列出的1000–1900 units不是整个学位总学分。",
+            "source_ids": [
+              "UCHG-degree-requirements",
+              "UCHG-enrollment"
+            ]
+          },
+          {
+            "label": "本路线毕业生数据尚缺",
+            "text": "未取得有毕业届次、响应样本及中国/国际学生口径的本路线就业率、薪酬或升学率。现有培养要求和升学建议不能替代该统计。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          }
+        ],
+        "overview": [
+          {
+            "label": "路线身份与培养方式",
+            "text": "Philosophy BA的具名Intensive Track，采用小班、导师课程及毕业论文。它属于在读选拔路线，不是高中生单独申请的另一个学位。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "专业课程表：1300 units",
+            "text": "共同前六课600，加Junior Tutorial 29200（100）、Senior Tutorial 29300（100）、Intensive Track Seminar 29601（100）、Senior Seminar 29901及29902（200），再加两门哲学选修200，共1300 units。全学位另须完成College要求。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "教程、研讨与论文时间",
+            "text": "Junior Tutorial在大三、Senior Tutorial在大四任一季度；毕业研讨及论文在大四秋冬。29601概述写可在大三或大四秋，具体进度段写大三秋；本站保留这一差异，排课前须与系内确认。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "三条路线共同的前六门课",
+            "text": "先修200 units哲学史：PHIL 25000、26000、27000中两门；逻辑100 units：20100或20012；再修300 units领域分布课，在实用哲学A与理论哲学B之间选2A+1B或1A+2B。课程应按年度批准名单选修。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "哲学史、逻辑替代与免修",
+            "text": "PHIL 25200与26200两门合计可满足25000的一季度哲学史要求，同时两课都可计入专业课程数。MATH 27700或27800可免逻辑要求，但不给PHIL课程学分；PHIL 29400也可满足逻辑要求。免掉要求不能直接当作获赠专业units。PHIL 20100与20012即使两门都修，也只能一门计入毕业所需学分。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "在读进度与课程成绩",
+            "text": "所有主修者须在大三冬季与Assistant Director of Undergraduate Studies会面，检查毕业计划及论文安排。专业课一般须正式等级；PHIL 29901采用P/F，只有Intensive Track可将其计入专业。Standard或Allied学生仅在选择并获准写BA论文时须修两学期Senior Seminar，且只有29902计入专业；未选论文者不因这条规则而须修两学期研讨。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "BA论文与荣誉不是自动取得",
+            "text": "Intensive Track必须写BA论文；其余路线可申请论文选项，通常要求哲学GPA≥3.25，较低者可申诉。毕业荣誉另须优秀论文及符合系内成绩要求，不因进入Intensive就自动授予。论文须完成大四秋29901及冬29902，不能将二者都计入Standard或Allied的专业学分。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "转学与外校课程计入",
+            "text": "哲学转学生原则上满足相同专业要求。外校课程须向DUS提交课程大纲审核；目录说通常不超过3门可计入，不能把所有已修课程自动转为本专业学分。Allied Fields的其他学科课也须逐课批准。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "资料仍有边界",
+            "text": "已按2026/27课程目录核对本路线；2027/28课程变动、具体校区和全程授课语言仍须逐项确认。当前费用取2026/27，未改写成2027/28报价。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "uchicago-requirements-dom",
+          "title": "uchicago 官方本科资料：requirements-dom",
+          "url": "https://collegeadmissions.uchicago.edu/apply/application/required-materials/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "ca4face0cef9d5bf63dee73ce2831ae5f7e3e6bf31e0c82ca4e79cc1b4e85996",
+          "sha256": "ca4face0cef9d5bf63dee73ce2831ae5f7e3e6bf31e0c82ca4e79cc1b4e85996"
+        },
+        {
+          "id": "uchicago-international-dom",
+          "title": "uchicago 官方本科资料：international-dom",
+          "url": "https://collegeadmissions.uchicago.edu/apply/international-applicants/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "b4fd60a408e93ef2d11b5d3faa62a11c539d43abfd41d823188f25bfd91769de",
+          "sha256": "b4fd60a408e93ef2d11b5d3faa62a11c539d43abfd41d823188f25bfd91769de"
+        },
+        {
+          "id": "uchicago-application-dom",
+          "title": "uchicago 官方本科资料：application-dom",
+          "url": "https://collegeadmissions.uchicago.edu/apply/application/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "c3aafa74a9e4993ed0cc2946ee0982260d99da5c580a365f6a2c79c2688efb0b",
+          "sha256": "c3aafa74a9e4993ed0cc2946ee0982260d99da5c580a365f6a2c79c2688efb0b"
+        },
+        {
+          "id": "uchicago-aid-dom",
+          "title": "uchicago 官方本科资料：aid-dom",
+          "url": "https://collegeadmissions.uchicago.edu/financial-support/international-financial-aid/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "ef8253fa032f61479192f5647d1158c2e04be4f4373c84ee530a6e4930b95c3e",
+          "sha256": "ef8253fa032f61479192f5647d1158c2e04be4f4373c84ee530a6e4930b95c3e"
+        },
+        {
+          "id": "UCHG-costs-dom",
+          "title": "UChicago本科2026–2027 Cost of Attendance",
+          "url": "https://financialaid.uchicago.edu/undergraduate/how-aid-works/undergraduate-costs/",
+          "checked_at": "2026-09-13",
+          "supports": "年度本科纯学费、服务费与UPASS、三种住宿预算、2026新生前两年另720/年及不含保险；Chrome费用表上部已目视",
+          "sha256": "a0725e64e56e21172e0945e4f13830da1155dd3afb3e76ceec976e4602bed400"
+        },
+        {
+          "id": "UCHG-programsofstudy",
+          "title": "本科主修目录及在读申报（2026/27）",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/programsofstudy/",
+          "checked_at": "2026-09-13",
+          "supports": "本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数",
+          "sha256": "c7d52169fb910e8267b434395bd86852a27e01ca7daf0c5ef502cc29cd70f198"
+        },
+        {
+          "id": "UCHG-degree-requirements",
+          "title": "本科全学位毕业要求（2026/27）",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/degreerequirements/",
+          "checked_at": "2026-09-13",
+          "supports": "本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数",
+          "sha256": "c199eccffada87db2064df6af19639d2d0fecc388f87a9054380611be07090b9"
+        },
+        {
+          "id": "UCHG-enrollment",
+          "title": "本科修读负担和季度上限（2026/27）",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/gradingandacademicstatus/",
+          "checked_at": "2026-09-13",
+          "supports": "本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数",
+          "sha256": "1b752906f097ecdacf9fb4299ff4ad12555f612a2036aedb2d0679df304f9b4a"
+        },
+        {
+          "id": "UCHMP-philosophy",
+          "title": "2026/27 Philosophy：Standard、Intensive、Allied Fields",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/philosophy/",
+          "checked_at": "2026-09-13",
+          "supports": "本条具名主修或在读方向的课程、申请、成绩与毕业要求；不是高中录取分数线",
+          "sha256": "3794e30a0973ba54ee5515d2517b21f5ebe47099e6c45e5cb7319a26ebbc48f0"
+        }
+      ],
+      "display_fields": {
+        "name": "哲学：强化路线（BA）",
+        "duration": "通常4年／12个秋冬春季度",
+        "entry_summary": "College在读者不晚于大二春季第4周申请；1300专业units，须BA论文。",
+        "tuition_summary": "2026/27本科USD75,960／学年；服务费1,677、UPASS318及保险等另计，2027/28待核。",
+        "outcomes_summary": "课程及毕业要求已核；本路线就业、薪酬和升学统计尚缺。"
+      }
+    },
+    {
+      "university_id": "uchicago",
+      "inventory_id": "uchicago-philosophy-allied-fields-ba-0127bee3ff",
+      "raw_key": "2026-27:philosophy-allied-fields-ba",
+      "name_en": "Philosophy and Allied Fields",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/philosophy/",
+      "checked_at": "2026-09-13",
+      "source_period": "2026/27 College Catalog；2027新生申请与2026/27费用分别标明",
+      "enrichment_status": "partial",
+      "research_status": "program_researched",
+      "verified_curriculum_structure": true,
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "sections": {
+        "admissions": [
+          {
+            "label": "申请材料与批准",
+            "text": "在大二春季中段向DUS申请，交样例课程计划、学习目的陈述及一名哲学教师同意担任指导者的证明；计划中的非PHIL课程须明确获批。大二结束前的学校主修申报要求仍须遵守。",
+            "source_ids": [
+              "UCHMP-philosophy",
+              "UCHG-programsofstudy"
+            ]
+          },
+          {
+            "label": "中国高中材料与综合评估",
+            "text": "国际新生与其他新生同样申请，按就读高中背景评估；需要完整中学成绩、学校报告和两位学科教师评估，非英文成绩附认证翻译及评分制。没有辅导员可由教师/学校管理者提交学校报告，本轮未取得高考统一录取线。",
+            "source_ids": [
+              "uchicago-requirements-dom",
+              "uchicago-international-dom"
+            ]
+          },
+          {
+            "label": "SAT/ACT可选及英语",
+            "text": "SAT/ACT不强制，当前No Harm政策只在成绩有利时用于审查，对本土、国际和转学生均适用。国际生可自愿以英语考试证明能力，若申请其他材料已充分体现英语，不强制正式分数；学校不设入学后ESL补习通道。",
+            "source_ids": [
+              "uchicago-requirements-dom",
+              "uchicago-international-dom"
+            ]
+          },
+          {
+            "label": "先入College再申报主修",
+            "text": "一年级通常记Common Year；春季第8周周一起可开始申报主修，此后可调整。学校要求大二结束前正式申报；部分专业另需会谈或选拔。",
+            "source_ids": [
+              "UCHG-programsofstudy"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027新生申请日历",
+            "text": "Common App或Coalition on Scoir。ED I与EA截止2026-11-02，ED II与RD截止2027-01-04；通常仅秋季入学。需两篇学校补充文书，非need-based资助申请者申请费US$90，申请此资助者免申请费。",
+            "source_ids": [
+              "uchicago-application-dom",
+              "uchicago-requirements-dom"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际生资助申请方法",
+            "text": "国际生如可能需要资助须申请入学时同时申请，学校满足获录取且申请者认定需要，方案不以贷款填补。国际生用UChicago账户中的Student Financial Aid Worksheet及收入资产证明，不交CSS Profile或FAFSA；国际转学生不获该经济资助。",
+            "source_ids": [
+              "uchicago-aid-dom"
+            ]
+          },
+          {
+            "label": "Merit奖适用范围",
+            "text": "本科新生自动考虑部分学费的merit奖，国际转学生不符合此奖；奖项有限不能作为确定资金来源。",
+            "source_ids": [
+              "uchicago-aid-dom"
+            ]
+          },
+          {
+            "label": "2026/27本科费用与预算",
+            "text": "2026/27本科纯学费USD75,960／学年，Student Services Fee 1,677、UPASS 318另计。校内住宿官方年度预算103,821，含餐宿21,414、书本1,800、个人1,950及交通估值702；校外预算100,407、通勤91,407。交通按住址调整，并非独立补贴。2026首次入学者前两年各另收Class Fee 720；上述预算均未含健康保险，2027/28未核实。",
+            "source_ids": [
+              "UCHG-costs-dom"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "本科毕业学分与修读期限",
+            "text": "2026/27全学位通常4年、12个秋冬春季度；每季度3或4课为全日制，两者学费相同。毕业需至少4200 units，其中至少3800由正式修课取得（2017秋后入学），另须完成Core和至少一个主修、总GPA1.75及主辅修GPA2.0；至少6个非暑期驻校季度和1800本校课程units，且每个主修或辅修至少一半要求须在本校修读完成。专业列出的1000–1900 units不是整个学位总学分。",
+            "source_ids": [
+              "UCHG-degree-requirements",
+              "UCHG-enrollment"
+            ]
+          },
+          {
+            "label": "本路线毕业生数据尚缺",
+            "text": "未取得有毕业届次、响应样本及中国/国际学生口径的本路线就业率、薪酬或升学率。现有培养要求和升学建议不能替代该统计。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          }
+        ],
+        "overview": [
+          {
+            "label": "路线身份与自拟跨学科计划",
+            "text": "Philosophy BA的Philosophy and Allied Fields路线，在哲学问题基础上形成连贯的跨学科计划。目录举数学、生物、经济等关联例子；这些是个人计划范例，不据此另造全部学科自由组合。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "专业课程表：1200 units",
+            "text": "共同前六课600，另选六课600，其中至少一门是PHIL，合计1200 units。相关领域课程须在批准计划内；这些主修units不替代College的Core、驻校和全学位总量要求。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "论文选项如何计入",
+            "text": "BA论文可选，须申请并满足系内条件。采用论文选项时须修大四秋冬Senior Seminar，但本路线只有29902可计入1200，29901不能额外冲抵主修课。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "三条路线共同的前六门课",
+            "text": "先修200 units哲学史：PHIL 25000、26000、27000中两门；逻辑100 units：20100或20012；再修300 units领域分布课，在实用哲学A与理论哲学B之间选2A+1B或1A+2B。课程应按年度批准名单选修。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "哲学史、逻辑替代与免修",
+            "text": "PHIL 25200与26200两门合计可满足25000的一季度哲学史要求，同时两课都可计入专业课程数。MATH 27700或27800可免逻辑要求，但不给PHIL课程学分；PHIL 29400也可满足逻辑要求。免掉要求不能直接当作获赠专业units。PHIL 20100与20012即使两门都修，也只能一门计入毕业所需学分。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "在读进度与课程成绩",
+            "text": "所有主修者须在大三冬季与Assistant Director of Undergraduate Studies会面，检查毕业计划及论文安排。专业课一般须正式等级；PHIL 29901采用P/F，只有Intensive Track可将其计入专业。Standard或Allied学生仅在选择并获准写BA论文时须修两学期Senior Seminar，且只有29902计入专业；未选论文者不因这条规则而须修两学期研讨。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "BA论文与荣誉不是自动取得",
+            "text": "Intensive Track必须写BA论文；其余路线可申请论文选项，通常要求哲学GPA≥3.25，较低者可申诉。毕业荣誉另须优秀论文及符合系内成绩要求，不因进入Intensive就自动授予。论文须完成大四秋29901及冬29902，不能将二者都计入Standard或Allied的专业学分。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "转学与外校课程计入",
+            "text": "哲学转学生原则上满足相同专业要求。外校课程须向DUS提交课程大纲审核；目录说通常不超过3门可计入，不能把所有已修课程自动转为本专业学分。Allied Fields的其他学科课也须逐课批准。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          },
+          {
+            "label": "资料仍有边界",
+            "text": "已按2026/27课程目录核对本路线；2027/28课程变动、具体校区和全程授课语言仍须逐项确认。当前费用取2026/27，未改写成2027/28报价。",
+            "source_ids": [
+              "UCHMP-philosophy"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "uchicago-requirements-dom",
+          "title": "uchicago 官方本科资料：requirements-dom",
+          "url": "https://collegeadmissions.uchicago.edu/apply/application/required-materials/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "ca4face0cef9d5bf63dee73ce2831ae5f7e3e6bf31e0c82ca4e79cc1b4e85996",
+          "sha256": "ca4face0cef9d5bf63dee73ce2831ae5f7e3e6bf31e0c82ca4e79cc1b4e85996"
+        },
+        {
+          "id": "uchicago-international-dom",
+          "title": "uchicago 官方本科资料：international-dom",
+          "url": "https://collegeadmissions.uchicago.edu/apply/international-applicants/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "b4fd60a408e93ef2d11b5d3faa62a11c539d43abfd41d823188f25bfd91769de",
+          "sha256": "b4fd60a408e93ef2d11b5d3faa62a11c539d43abfd41d823188f25bfd91769de"
+        },
+        {
+          "id": "uchicago-application-dom",
+          "title": "uchicago 官方本科资料：application-dom",
+          "url": "https://collegeadmissions.uchicago.edu/apply/application/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "c3aafa74a9e4993ed0cc2946ee0982260d99da5c580a365f6a2c79c2688efb0b",
+          "sha256": "c3aafa74a9e4993ed0cc2946ee0982260d99da5c580a365f6a2c79c2688efb0b"
+        },
+        {
+          "id": "uchicago-aid-dom",
+          "title": "uchicago 官方本科资料：aid-dom",
+          "url": "https://collegeadmissions.uchicago.edu/financial-support/international-financial-aid/",
+          "checked_at": "2026-09-12",
+          "supports": "本条学术/英语/申请/资助/费用事实及适用范围",
+          "raw_sha256": "ef8253fa032f61479192f5647d1158c2e04be4f4373c84ee530a6e4930b95c3e",
+          "sha256": "ef8253fa032f61479192f5647d1158c2e04be4f4373c84ee530a6e4930b95c3e"
+        },
+        {
+          "id": "UCHG-costs-dom",
+          "title": "UChicago本科2026–2027 Cost of Attendance",
+          "url": "https://financialaid.uchicago.edu/undergraduate/how-aid-works/undergraduate-costs/",
+          "checked_at": "2026-09-13",
+          "supports": "年度本科纯学费、服务费与UPASS、三种住宿预算、2026新生前两年另720/年及不含保险；Chrome费用表上部已目视",
+          "sha256": "a0725e64e56e21172e0945e4f13830da1155dd3afb3e76ceec976e4602bed400"
+        },
+        {
+          "id": "UCHG-programsofstudy",
+          "title": "本科主修目录及在读申报（2026/27）",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/programsofstudy/",
+          "checked_at": "2026-09-13",
+          "supports": "本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数",
+          "sha256": "c7d52169fb910e8267b434395bd86852a27e01ca7daf0c5ef502cc29cd70f198"
+        },
+        {
+          "id": "UCHG-degree-requirements",
+          "title": "本科全学位毕业要求（2026/27）",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/degreerequirements/",
+          "checked_at": "2026-09-13",
+          "supports": "本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数",
+          "sha256": "c199eccffada87db2064df6af19639d2d0fecc388f87a9054380611be07090b9"
+        },
+        {
+          "id": "UCHG-enrollment",
+          "title": "本科修读负担和季度上限（2026/27）",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/gradingandacademicstatus/",
+          "checked_at": "2026-09-13",
+          "supports": "本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数",
+          "sha256": "1b752906f097ecdacf9fb4299ff4ad12555f612a2036aedb2d0679df304f9b4a"
+        },
+        {
+          "id": "UCHMP-philosophy",
+          "title": "2026/27 Philosophy：Standard、Intensive、Allied Fields",
+          "url": "http://collegecatalog.uchicago.edu/thecollege/philosophy/",
+          "checked_at": "2026-09-13",
+          "supports": "本条具名主修或在读方向的课程、申请、成绩与毕业要求；不是高中录取分数线",
+          "sha256": "3794e30a0973ba54ee5515d2517b21f5ebe47099e6c45e5cb7319a26ebbc48f0"
+        }
+      ],
+      "display_fields": {
+        "name": "哲学与相关领域（BA）",
+        "duration": "通常4年／12个秋冬春季度",
+        "entry_summary": "College在读者大二春中段申请获批；1200专业units，非PHIL课逐项批准。",
+        "tuition_summary": "2026/27本科USD75,960／学年；服务费1,677、UPASS318及保险等另计，2027/28待核。",
+        "outcomes_summary": "课程及毕业要求已核；本路线就业、薪酬和升学统计尚缺。"
+      }
     }
   ],
   "profile": {
@@ -13704,7 +14896,7 @@
         },
         {
           "label": "先入College再申报主修",
-          "text": "一年级通常记Common Year；春季第8周周一起可开始申报主修，此后可调整。学校要求大二结束前正式申报；部分专业另需会谈或选拔。CEGU专业页另给大三春首周的最迟期限，不能据此忽略学校较早的共同要求。",
+          "text": "一年级通常记Common Year；春季第8周周一起可开始申报主修，此后可调整。学校要求大二结束前正式申报；部分专业另需会谈或选拔。",
           "source_ids": [
             "UCHG-programsofstudy"
           ]

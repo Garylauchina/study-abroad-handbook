@@ -45,15 +45,36 @@ hide:
 <p class="catalog-fact"><strong>具体学习单元示例：</strong>本科培养表列出的单元：Basic Number Theory（MATH 17500）；Basic Geometry（MATH 17600）。示例不代表全部必修或当年保证开课，需核对必修/选修与授课安排。</p>
 <p class="fact-sources"><a href="#source-p-uchicago-program-b2a5a98ef2d1eaf7">官方依据</a></p>
 
-<p class="catalog-fact"><strong>尚待逐项复核：</strong>本轮未逐项完成具体校区、全程授课语言、专业特殊招生与毕业职业统计的核验。</p>
+<p class="catalog-fact"><strong>尚待逐项复核：</strong>具体校区、全程授课语言和本专业毕业职业统计仍待核；本次已补下方2026/27具名路线、培养结构及在读申请条件。</p>
 <p class="fact-sources"><a href="#source-p-uchicago-program-b2a5a98ef2d1eaf7">官方依据</a></p>
 
 <p class="catalog-fact"><strong>College全学位学分与修读期：</strong>本科通常4年、12个秋冬春季度；每季3或4课为全日制。全学位至少4200 units，2017秋后新生至少3800由正式修课取得；此外须满足Core、主修、语言能力、驻校和GPA要求。下方主修课程表合计并不是整个学位学分。</p>
 <p class="fact-sources"><a href="#source-p-UCHG-degree-requirements">官方依据</a> · <a href="#source-p-UCHG-enrollment">官方依据</a></p>
 
+<p class="catalog-fact"><strong>已核四种数学学位路线：</strong>2026/27数学系列BA Mathematics、BS Mathematics、BS Applied Mathematics及BS Mathematics with Specialization in Economics。后两条现有独立检索页；原数学BA/BS页面和既有课程依据保留。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-mathematics">官方依据</a></p>
+
+<p class="catalog-fact"><strong>数学BA与BS的专业总量：</strong>BA专业表合计1400 units，BS合计1700；两者各另列Core 400。共同包括第三季度化学/物理、证明、线性代数、三季度分析、两门批准数学选修和四门非数学PSCD课。BA再列第一季度代数及第二季度代数/批准替代；BS须前两季度代数，并多修三门同一非数学PSCD部门课程。各课程须满足批准清单与课程重复计入规则。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-mathematics">官方依据</a></p>
+
+<p class="catalog-fact"><strong>数学学位与CAAM不能同时主修：</strong>学校明确只能取得数学系的一种本科学位；四种数学学位中的任何一种都不能再与Computational and Applied Mathematics（CAAM）同时作为主修。独立列出这些路线供比较，不表示可以并修取得多个数学学位。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-mathematics">官方依据</a></p>
+
+<p class="catalog-fact"><strong>微积分、证明与分析基础：</strong>数学各路线通常要求三季度微积分（或较高课程/考试证明能力），MATH 20250线性代数及三季度分析。分析可选标准20300–20500、加速20310–20510、探究20320–20520或荣誉20700–20900整套。证明准备为MATH 16300、16310或15910；相关证明课程有互斥规则，以20700作为本校第一门数学课者可免该项。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-mathematics">官方依据</a></p>
+
+<p class="catalog-fact"><strong>Core与专业学分分开计算：</strong>各表另列400 units的共同Core：前两季度物理或化学及前两季度微积分。表内专业合计不包含这400 units，更不是整个4200 units的College学位；不能把不同BA、BS、应用数学和经济学方向的课程表相加。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-mathematics">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学业成绩要求：</strong>计入数学专业的课程须取正式等级。证明课、线性代数、三季度分析及第一季度代数须各≥C−；数学BS的第二季度代数亦须≥C−。计入专业的批准课程须平均≥C；数学经济学方向的每门经济课须≥C。专业要求之外的20000级数学课可依规则P/F，30000级研究生数学课须正式等级。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-mathematics">官方依据</a></p>
+
+<p class="catalog-fact"><strong>Honors属于额外毕业条件：</strong>荣誉须数学GPA≥3.25、总GPA≥3.0，所有数学课无低于C−和W；完成一套荣誉分析或荣誉代数且各≥B−，另从代数、分析、拓扑指定表选至少5课且各≥B−并覆盖三组。一个课程不能同时计入该荣誉整套与额外5课；两套均修时可分别分配。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-mathematics">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-<p class="catalog-fact"><strong>专业特殊要求待核：</strong>本轮未完成本条宣告主修、转入、荣誉、表演试演、作品集或全部学习单元先修条件的逐项核验；校级共同规则不能替代特有要求。</p>
+<p class="catalog-fact"><strong>专业特殊要求待核：</strong>本次已核下列分班/在读申报、路线选拔与荣誉要求；全部课程逐课先修、2027/28后续变动和个别转入安排尚未穷尽，不能把校级新生规则代替在读选拔。</p>
 <p class="fact-sources"><a href="#source-p-uchicago-program-b2a5a98ef2d1eaf7">官方依据</a></p>
 
 <p class="catalog-fact"><strong>所属入口共同规则：中国高中材料与综合评估：</strong>国际新生与其他新生同样申请，按就读高中背景评估；需要完整中学成绩、学校报告和两位学科教师评估，非英文成绩附认证翻译及评分制。没有辅导员可由教师/学校管理者提交学校报告，本轮未取得高考统一录取线。</p>
@@ -61,6 +82,12 @@ hide:
 
 <p class="catalog-fact"><strong>所属入口共同规则：SAT/ACT可选及英语：</strong>SAT/ACT不强制，当前No Harm政策只在成绩有利时用于审查，对本土、国际和转学生均适用。国际生可自愿以英语考试证明能力，若申请其他材料已充分体现英语，不强制正式分数；学校不设入学后ESL补习通道。</p>
 <p class="fact-sources"><a href="#source-p-uchicago-requirements-dom">官方依据</a> · <a href="#source-p-uchicago-international-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>先申请College，分班不是录取考试：</strong>本条是College内的主修/学位路线。入校前的数学分班决定起修课，不是本专业高中录取考试。新生须完成暑期线上分班；较高层级分班及微积分学分认定按学校邀请/九月安排。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-mathematics">官方依据</a></p>
+
+<p class="catalog-fact"><strong>AP、IB及A-Level的数学分班边界：</strong>AP Calculus BC 5或IB Higher Level数学7可获荣誉微积分等课程的邀请，但不能跳过线上分班规则。数学目录说明A-Level/O-Level不给本系分班或课程学分；这条不表示学校不接受这些学历申请本科。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-mathematics">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -70,7 +97,7 @@ hide:
 <p class="catalog-fact"><strong>SAT/ACT可选及英语：</strong>SAT/ACT不强制，当前No Harm政策只在成绩有利时用于审查，对本土、国际和转学生均适用。国际生可自愿以英语考试证明能力，若申请其他材料已充分体现英语，不强制正式分数；学校不设入学后ESL补习通道。</p>
 <p class="fact-sources"><a href="#source-u-uchicago-requirements-dom">官方依据</a> · <a href="#source-u-uchicago-international-dom">官方依据</a></p>
 
-<p class="catalog-fact"><strong>先入College再申报主修：</strong>一年级通常记Common Year；春季第8周周一起可开始申报主修，此后可调整。学校要求大二结束前正式申报；部分专业另需会谈或选拔。CEGU专业页另给大三春首周的最迟期限，不能据此忽略学校较早的共同要求。</p>
+<p class="catalog-fact"><strong>先入College再申报主修：</strong>一年级通常记Common Year；春季第8周周一起可开始申报主修，此后可调整。学校要求大二结束前正式申报；部分专业另需会谈或选拔。</p>
 <p class="fact-sources"><a href="#source-u-UCHG-programsofstudy">官方依据</a></p>
 
 </details>
@@ -141,6 +168,7 @@ hide:
 <div class="catalog-source" id="source-p-UCHG-costs-dom"><div><a href="https://financialaid.uchicago.edu/undergraduate/how-aid-works/undergraduate-costs/">UChicago本科2026–2027 Cost of Attendance ↗</a><p>年度本科纯学费、服务费与UPASS、三种住宿预算、2026新生前两年另720/年及不含保险；Chrome费用表上部已目视</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UCHG-degree-requirements"><div><a href="http://collegecatalog.uchicago.edu/thecollege/degreerequirements/">本科全学位毕业要求（2026/27） ↗</a><p>本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UCHG-enrollment"><div><a href="http://collegecatalog.uchicago.edu/thecollege/gradingandacademicstatus/">本科修读负担和季度上限（2026/27） ↗</a><p>本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UCHMP-mathematics"><div><a href="http://collegecatalog.uchicago.edu/thecollege/mathematics/">2026/27 Mathematics：BA、BS、应用数学与经济学专门方向 ↗</a><p>本条具名主修或在读方向的课程、申请、成绩与毕业要求；不是高中录取分数线</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-uchicago-requirements-dom"><div><a href="https://collegeadmissions.uchicago.edu/apply/application/required-materials/">uchicago 官方本科资料：requirements-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-uchicago-international-dom"><div><a href="https://collegeadmissions.uchicago.edu/apply/international-applicants/">uchicago 官方本科资料：international-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-uchicago-application-dom"><div><a href="https://collegeadmissions.uchicago.edu/apply/application/">uchicago 官方本科资料：application-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>

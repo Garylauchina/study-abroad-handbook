@@ -14,7 +14,7 @@ hide:
 先选择大学，再进入专业查看入学条件、国际生学费和毕业生情况。当前收录 2 所 QS 2027 前 100 名大学；“=”表示并列。专业详情收录情况见学校卡片。
 
 <div class="university-grid">
-<article class="university-card" data-university-id="nus"><span class="qs-rank">QS 2027 · <strong>10</strong></span><p class="catalog-eyebrow">新加坡 · 新加坡</p><h2><a class="" href="/study-abroad-handbook/catalog/singapore/nus/">新加坡国立大学</a></h2><p class="university-english">National University of Singapore</p><p class="university-coverage">144 个专业条目 · 4 个含详细资料 · 140 个补有专业资料 · 0 个仅补学校共用资料</p><a class="program-open" href="/study-abroad-handbook/catalog/singapore/nus/">查看学校与专业入口 →</a></article>
+<article class="university-card" data-university-id="nus"><span class="qs-rank">QS 2027 · <strong>10</strong></span><p class="catalog-eyebrow">新加坡 · 新加坡</p><h2><a class="" href="/study-abroad-handbook/catalog/singapore/nus/">新加坡国立大学</a></h2><p class="university-english">National University of Singapore</p><p class="university-coverage">151 个专业条目 · 4 个含详细资料 · 147 个补有专业资料 · 0 个仅补学校共用资料</p><a class="program-open" href="/study-abroad-handbook/catalog/singapore/nus/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="ntu"><span class="qs-rank">QS 2027 · <strong>12</strong></span><p class="catalog-eyebrow">新加坡 · 新加坡</p><h2><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/">南洋理工大学</a></h2><p class="university-english">Nanyang Technological University</p><p class="university-coverage">183 个专业条目 · 4 个含详细资料 · 179 个补有专业资料 · 0 个仅补学校共用资料</p><a class="program-open" href="/study-abroad-handbook/catalog/singapore/ntu/">查看学校与专业入口 →</a></article></div>
 
 <a class="md-button" href="/study-abroad-handbook/?country=singapore#program-finder">筛选这里的大学与专业 →</a>

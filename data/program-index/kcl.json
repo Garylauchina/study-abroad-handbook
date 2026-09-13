@@ -5,7 +5,7 @@
     "status": "partial",
     "count": 145,
     "scope": "148个已发现目录入口中，145个本科及本科在读路线；3个本科后护理硕士另留更正页，内部路径仍待全量对账",
-    "method": "复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。",
+    "method": "复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。",
     "exclusions": "Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes；本科后首次注册护理MNurs/MSc不计本科项目；MBBS/BDS仍按专业学士保留并注明前置学历。",
     "sources": [
       {
@@ -584,7 +584,7 @@
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-international-relations",
         "sha256": "df4d6fe9820f33c01e42a5460ab2e335a0deec9054e00407b44b789f3c564828",
-        "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-b2c2144a2e510a.html"
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-history-international-relations-ba-6588b9a859-overview.html"
       },
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba",
@@ -809,7 +809,7 @@
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc",
         "sha256": "097c6cf500945951582a4690d339ef1bf8b802f08d5253fbe7f0fce2b37f67cf",
-        "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-bfb202e051bdd5.html"
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-philosophy-politics-economics-ba-bsc-2c599e390c-overview.html"
       },
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci",
@@ -1710,12 +1710,357 @@
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/womens-health-ibsc/fees",
         "sha256": "83d3e802155de549f0d75012ef6a9911636453b67db7551f78544693d057a260",
         "raw_file": "scratch/full-catalog/kcl-health-enrichment/review/fees-dom-39.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-with-english-ba",
+        "sha256": "4daa54ff298acde94b0b6720219ad8e9eca9f924275e359517b062afb0219e9d",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-classical-studies-with-english-ba-5b6ef57016-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-with-english-ba/entry-requirements",
+        "sha256": "9dfe7e35e383f49247e2fda4337bfc91f50f52ab250c430067a67b32245018f7",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-classical-studies-with-english-ba-5b6ef57016-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-with-english-ba/teaching-and-modules",
+        "sha256": "128085a145bd78d0676886ff812a664d474910ef6f4042867a074b9b4aeeefcc",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-classical-studies-with-english-ba-5b6ef57016-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-with-english-ba/careers",
+        "sha256": "2bc5e39f569135b772f78d9d7fad00704e65a3e6517ce65b74f2179f8e2d2a16",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-classical-studies-with-english-ba-5b6ef57016-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-with-english-ba/entry-requirements",
+        "sha256": "e7dcf53fb5d55e6ac061f07bcdfbc0f35d7652d9f80cb06f050ff6c2432981ed",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/china-dom-0.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-with-english-ba/fees",
+        "sha256": "387a5ed3ea82e775614f22869b04e603dd61387cef3042b397e64623c4630dff",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/fees-dom-0.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classics-and-the-ancient-world-ba",
+        "sha256": "f6a2b400b0d58c978c1e7130e21802045ff91b59db858928d140f538fd1b9d87",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-classics-the-ancient-world-ba-3d62e79c23-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classics-and-the-ancient-world-ba/entry-requirements",
+        "sha256": "24636c6e373956e7876a576856501c3e6de578b51b0caf4aaf39a2c63422fb87",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-classics-the-ancient-world-ba-3d62e79c23-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classics-and-the-ancient-world-ba/teaching-and-modules",
+        "sha256": "480f88b46ffcf601610d47f3348d64d45e3bb390fa2abacbddd2984e49d6ea32",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-classics-the-ancient-world-ba-3d62e79c23-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classics-and-the-ancient-world-ba/careers",
+        "sha256": "94786db51007c3062c8d9a7df3603f65a45a889eb13e14e00b14db2c613642bb",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-classics-the-ancient-world-ba-3d62e79c23-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classics-and-the-ancient-world-ba/entry-requirements",
+        "sha256": "f94d697fe7f14f77c3cb36fbeb48bb785b369ef3b598df8daeb77867d8f20652",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/china-dom-1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classics-and-the-ancient-world-ba/fees",
+        "sha256": "70f18800d0a195b23014c1d6f02a7a4ccc839108051863429c14139a408b13ea",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/fees-ax-1.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-ba",
+        "sha256": "89396cd2fa3cfd28483233d3235ed2bcf10feb02cdacdd7148bd54ae93b9cab2",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-history-ba-789f6fee0a-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-ba/entry-requirements",
+        "sha256": "148a4fb60ded9063bb3db4ab790b8cae9b1b28122c2bd23498ffced0b8691d04",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-history-ba-789f6fee0a-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-ba/teaching-and-modules",
+        "sha256": "2a4aa138f26ab0054bb0f05a2cf7bfca8278fbec4c27e32e3567245a7c0e7602",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-history-ba-789f6fee0a-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-ba/careers",
+        "sha256": "95f65a34c3e118d43769f159142c76fbd1018ea85f5a6ef75236836b799adf19",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-history-ba-789f6fee0a-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-ba/entry-requirements",
+        "sha256": "aec4c1b88200047f0267484faad4e93c1dd1d47a4bd644d268af0ed74d891d8a",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/china-dom-2.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-ba/fees",
+        "sha256": "ffe75e4e5810b59038159d834ce4bebd56454133bc393740543354656684f7b2",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/fees-ax-2.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-international-relations/entry-requirements",
+        "sha256": "01d6978c423d640c1f942d4fc6c85036a5d4434fad8b821acac30ae755653d16",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-history-international-relations-ba-6588b9a859-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-international-relations/teaching-and-modules",
+        "sha256": "90d2b34c544cfee02ca0345b33ea44e578c0d086206d3ccd20c1691321cabdf5",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-history-international-relations-ba-6588b9a859-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-international-relations/entry-requirements",
+        "sha256": "b083a73bdc739d520c46ec8807220ff7043ef558102adc822bce8d2525ad7839",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/china-dom-3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-international-relations/fees",
+        "sha256": "360e15e9cace9f73dc2dda500c569dc3bea76c4dc51b41e080b2408ea9fc2a45",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/fees-ax-3.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba",
+        "sha256": "e5b8ff63bbe748329498aed7f65b770e66da9a1395738f15f98255294c3cec7e",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-history-modern-languages-french-german-portuguese-or-spanish-with-ce67d68eb3-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba/entry-requirements",
+        "sha256": "4d4aeebc48ab3ede22ceb8a3df27cd1f4f57d109c7ab0c51846b53df0417ba75",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-history-modern-languages-french-german-portuguese-or-spanish-with-ce67d68eb3-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba/teaching-and-modules",
+        "sha256": "25aa37f74d3dc6eedbe8a037a475520798b851dd608f18981623a7c359568f7d",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-history-modern-languages-french-german-portuguese-or-spanish-with-ce67d68eb3-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba/careers",
+        "sha256": "a3b85c76e3c3610938dca03607df344cb0a8d7c1246a05c1a5064461f4481ea3",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-history-modern-languages-french-german-portuguese-or-spanish-with-ce67d68eb3-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba/entry-requirements",
+        "sha256": "3bac79963e32629c2641a3f6f0bd1b47c3c64d002a31948ca456465fb44927df",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/china-dom-4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba/fees",
+        "sha256": "bba8ade90c3ae2ef196f25aed7f72be22158066cf406fbe3198d8fce65a11f35",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/fees-ax-4.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-political-economy",
+        "sha256": "6b76493b0174988883359db0334551ed5d892f53407f8bec5b788a0c6e143fc3",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-history-political-economy-ba-bsc-8a566898aa-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-political-economy/entry-requirements",
+        "sha256": "a5bfb84a6b5093a2e24f7cea4bb00587fee15b112c78d580163e04adf4eb7979",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-history-political-economy-ba-bsc-8a566898aa-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-political-economy/teaching-and-modules",
+        "sha256": "0d3e67847c376a2e96511e216edeaf24273996ee221c245d4d02763d582a4a22",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-history-political-economy-ba-bsc-8a566898aa-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-political-economy/careers",
+        "sha256": "bdc56b1075af06bcc271481a75bd4e608f1d511ce9893eb53c9ece71e6e95d52",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-history-political-economy-ba-bsc-8a566898aa-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-political-economy/entry-requirements",
+        "sha256": "b7f65309906f76c1d3ec013e24862712d2b915a8682767f53eaf0e4e3dc584b2",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/china-dom-5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-political-economy/fees",
+        "sha256": "77c01d4bd9dfd1555ba18831508b33908316a79556761cdeec424bf1c65eb347",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/fees-ax-5.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba",
+        "sha256": "0efbdfe55d4503a8d3e26fd896cb95937d500781dd75c06454efb1f233ef3614",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-philosophy-ba-7448041388-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba/entry-requirements",
+        "sha256": "320a38185051f2720437f1c83cd20ee19719515b27dc498544e8c671defcf743",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-philosophy-ba-7448041388-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba/teaching-and-modules",
+        "sha256": "27280fca45f297b34305a99d1871c9e78ae675482c060d074e38d0adb46ac29f",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-philosophy-ba-7448041388-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba/careers",
+        "sha256": "6fdeb32f560a696880f5fea3dbcd74ceef89bdad3bb17ed4b48ee22524e6f25e",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-philosophy-ba-7448041388-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba/entry-requirements",
+        "sha256": "03a9dc0fd0fe4834950e141ac4320f13593cd6b0fc6a939821c143af903ba963",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/china-dom-6.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba/fees",
+        "sha256": "cf8b590c2eda7ab629af38f0a0c0c4e3132b2c090a1029fd3e3b8f30ae433cf8",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/fees-ax-6.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-and-modern-languages-with-a-year-abroad-ba",
+        "sha256": "7f200f8f8d89a1cc5f4a4d07652e96ae34e9217e616d2941bdbbc519923667fe",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-philosophy-modern-languages-french-german-portuguese-or-spanish-w-ee56a0b5b6-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-and-modern-languages-with-a-year-abroad-ba/entry-requirements",
+        "sha256": "3db161a141921cfdeee3cdaec52b4c46c32b4229576c76cb854a34e60b42c9f2",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-philosophy-modern-languages-french-german-portuguese-or-spanish-w-ee56a0b5b6-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-and-modern-languages-with-a-year-abroad-ba/teaching-and-modules",
+        "sha256": "27a61d8ea6544a665b63387770d51fa3c05c7057a84945d924cf7b5577ecad1c",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-philosophy-modern-languages-french-german-portuguese-or-spanish-w-ee56a0b5b6-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-and-modern-languages-with-a-year-abroad-ba/careers",
+        "sha256": "2843442bc3911e93b4dadee688c8131b7bec75cb40f466f486ff32125bc82471",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-philosophy-modern-languages-french-german-portuguese-or-spanish-w-ee56a0b5b6-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-and-modern-languages-with-a-year-abroad-ba/entry-requirements",
+        "sha256": "e405cd4c222b9ed176d5faaeec16d02300f237d675029ba10dbc738c5e11fe94",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/china-dom-7.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-and-modern-languages-with-a-year-abroad-ba/fees",
+        "sha256": "6d53e13d46e55da0260c19551b99b739fbd341b8c370066846ab2bc4ff3017cb",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/fees-ax-7.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc/entry-requirements",
+        "sha256": "8f7706c3fd52bc8d4ff0499432a03236eef852c9a655d39d75975afd62ecc4f1",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-philosophy-politics-economics-ba-bsc-2c599e390c-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc/teaching-and-modules",
+        "sha256": "4cfbbe832d4c1d2b2aee857e6970befbfde11307313c80963944e36ef9a3b9d2",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-philosophy-politics-economics-ba-bsc-2c599e390c-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc/careers",
+        "sha256": "e6733861de1575cd49442c951b1dcf138843f506dcd4376b0ddb697312162643",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-philosophy-politics-economics-ba-bsc-2c599e390c-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc/entry-requirements",
+        "sha256": "a364526ee42934da97710dad6cbbcfd1cc73c3c8cc9fa49281416287911ea375",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/china-dom-8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc/fees",
+        "sha256": "ea6dcf136b605573df495b1541edc78e21be935b07f528c2ac1fae7a2fe69ff2",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/fees-dom-8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba",
+        "sha256": "ac87b429b575d7a2acddcc55e2d13b79f9c0f47e73bc41e7baf58917b02fe4aa",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-religion-philosophy-ethics-ba-fec715cc95-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba/entry-requirements",
+        "sha256": "fb17ae43bd697d92692afdf9bdc6b3258be3490d071700409e927d48f70cb41a",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-religion-philosophy-ethics-ba-fec715cc95-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba/teaching-and-modules",
+        "sha256": "0bb90a0191f5ebbb5ac111f7dd107e0a70f01152e800f6fca25bbffb555eb9fb",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-religion-philosophy-ethics-ba-fec715cc95-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba/careers",
+        "sha256": "e208b5f946f6c00f2494af19079198ad1624ae7c769f1358c091686943407d1e",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-religion-philosophy-ethics-ba-fec715cc95-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba/entry-requirements",
+        "sha256": "d28faef183fab55cff76225f36f9abed0c75d9ff08b1a739477ee2b6d65be5be",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/china-dom-9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba/fees",
+        "sha256": "be25e0374411126987c9930b7699e1b9759ac56d7ef5cb5644488ae744b9fbbf",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/fees-dom-9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba",
+        "sha256": "b8a5429f67d9b02b2591e045391e21bbcc96b3296fe1a60f50412e06b1c9a302",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-sociology-politics-and-religion-ba-c6ea9f1b88-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba/entry-requirements",
+        "sha256": "422705b2128ca21446066ed0238855ba02419a530c7281100ab74c7f3336c87d",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-sociology-politics-and-religion-ba-c6ea9f1b88-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba/teaching-and-modules",
+        "sha256": "fefac1596795a43cb28991d47b8d9c30f684b851a2207ea9630b7d32d0e3bd87",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-sociology-politics-and-religion-ba-c6ea9f1b88-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba/careers",
+        "sha256": "9093fdae4c98c513d0342592fa1e2e146f63a30099c6bdb31cd3038e9506f67d",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-sociology-politics-and-religion-ba-c6ea9f1b88-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba/entry-requirements",
+        "sha256": "157451667385524173fe9d16a6a17d846c9af39383ebf839f905112d76a05737",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/china-dom-10.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba/fees",
+        "sha256": "cef3eb32c57a741334fabc53371c6df469618fe14b45625c8b63053e565ca8ad",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/fees-dom-10.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba",
+        "sha256": "8671c44b55235a8f5e20bf0709b7596ceb613fab78eb9619a2390f8c938d4692",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-war-studies-history-ba-67b9d28bb9-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba/entry-requirements",
+        "sha256": "43cbf47c950309e0447f57caba9b63c85eac9cd342afa338a7ce503d0a99c69c",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-war-studies-history-ba-67b9d28bb9-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba/teaching-and-modules",
+        "sha256": "2785488b33461b53723a7b8136f2fcf76a6866d60a37702f22c7dd686cbf87c3",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-war-studies-history-ba-67b9d28bb9-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba/war-studies-history-ba-careers",
+        "sha256": "28370253e95d16bfef03bc1cdc397a04e3053a384d042be7eb1a80768011ae05",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/raw/kcl-war-studies-history-ba-67b9d28bb9-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba/entry-requirements",
+        "sha256": "c2d8902d62599ac02e192b7229763b79c6694d68f0533050d515594950206a2a",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/china-dom-11.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba/fees",
+        "sha256": "d0177a3341e14a9c9499c2d0970298e7cff0e3c24bf38763d4884452d364e23a",
+        "raw_file": "scratch/full-catalog/kcl-humanities-enrichment-root/review/fees-dom-11.html"
       }
     ],
     "gaps": [
-      "另有99条现有记录尚未完成独立分栏补源；所有本科内部路径及完整资格继续逐项核验。",
-      "本次37项已取得2027/28年度课程费用，但不据此外推所有145项、未来实习年或全程总费用；Home-only限制与国际报价分别说明。",
-      "英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；仅Medicine MBBS取得中国资格分支，其他课程不由A-level/IB反推高考直入。",
+      "仍有现有课程尚未完成独立分栏补源；所有本科内部路径及完整资格继续逐项核验。",
+      "37健康医学与12人文课程已取得各自2027/28费用信息，不据此外推全部145项、未来海外/实习年或全程总费用；Home-only限制与国际报价分别说明。",
+      "英语共用页面明确适用2026/27，2027录取通知及更新政策须再核；Medicine MBBS和本次12人文课程已逐页取得China资格分支，其余不由A-level/IB反推高考直入。",
       "iBSc内部／外部申请日与侧栏状态、牙科及部分医学模块学分存在官方差异，均保留原范围；空截止栏不作推断。",
       "本批职业页多为职业注册、服务或案例，未取得专业独立毕业届别、分母、就业率或薪资。"
     ]
@@ -2166,8 +2511,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=1",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "ec97a0df-f028-4576-bb72-e77aff84a86d",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "独立 BA；古典学为主修、英语为辅修",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-classical-studies-with-english-ba-5b6ef57016"
     },
@@ -3001,8 +3346,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=5",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "e677e176-e4ea-45b8-a5b9-9ab23ecfb779",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "一门现代语言与历史；共同入学后依成绩确认路线",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-history-modern-languages-french-german-portuguese-or-spanish-with-ce67d68eb3"
     },
@@ -3017,8 +3362,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=5",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "eb3d6c37-be12-4184-a5f4-f59f3512c77f",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "BA／BSc共同入口；第一年后选择其一",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-history-political-economy-ba-bsc-8a566898aa"
     },
@@ -3655,8 +4000,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=7",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "a2930ea3-1f66-48ad-a792-51939ba0aa38",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "一门现代语言与哲学；共同入口含必修海外年",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-philosophy-modern-languages-french-german-portuguese-or-spanish-w-ee56a0b5b6"
     },
@@ -3671,8 +4016,8 @@
       "discovery_source_url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=8",
       "source_period": "current published undergraduate A–Z checked 2026-09-12; directory cards do not specify intake",
       "raw_key": "038a83d8-8fa4-4679-8af8-02fa366773a4",
-      "entry_route": "undergraduate; detailed entry route not yet verified",
-      "requires_prior_degree": null,
+      "entry_route": "BA／BSc共同入口；定量必修及获批海外变体分别适用",
+      "requires_prior_degree": false,
       "status": "listed_current",
       "id": "kcl-philosophy-politics-economics-ba-bsc-2c599e390c"
     },

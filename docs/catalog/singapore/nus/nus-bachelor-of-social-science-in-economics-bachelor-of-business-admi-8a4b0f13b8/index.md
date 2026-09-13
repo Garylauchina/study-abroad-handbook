@@ -21,7 +21,7 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>具体招生届次见申请说明</strong></div><div><span>学制</span><strong>通常5年；旧会计变体可能更长</strong></div><div><span>国际生学费</span><strong>分学位／就读阶段收费；2027全程金额尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语；境外或指定语言课程另有要求</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语（NUS）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -32,11 +32,11 @@ hide:
 
 <p><strong>官方名称：</strong>Bachelor of Social Science in Economics &amp; Bachelor of Business Administration/Bachelor of Business Administration (Accountancy)</p>
 
-<p><strong>授予学位 / 项目类型：</strong>本科项目（学位名称尚未核实）</p>
+<p><strong>授予学位 / 项目类型：</strong>当前确认：BBA (Honours) + BSocSci (Honours) in Economics；旧变体适用届次待核</p>
 
 <p><strong>目录适用期：</strong>NUS Bulletin AY2026/27</p>
 
-<p><strong>目录条目类别：</strong>combined_degree_group</p>
+<p><strong>目录条目类别：</strong>本科双学位组合总览</p>
 
 <p><strong>申请路径：</strong>高中或大一后竞争，满足两学院条件</p>
 
@@ -50,6 +50,9 @@ hide:
 
 <p class="catalog-fact"><strong>NUS授课语言：</strong>NUS一般课程以英语教学；法国、早稻田及特定语言课程的当地语言要求按项目单列，不把NUS英语政策外推至所有境外课程。</p>
 <p class="fact-sources"><a href="#source-p-ASREN-dd5861bce6faef">官方依据</a></p>
+
+<p class="catalog-fact"><strong>当前名与旧六变体对账：</strong>当前FASS仅明确BBA(Honours)＋BSocSci(Honours)的经济学组合；旧专页仍留六种普通／会计、单双荣誉配置。当前普通BBA会计为主修，两页不足以证明全部旧配置对2027新生继续开放，也不足以断言已经全部停招；本轮不新增其余五项。</p>
+<p class="fact-sources"><a href="#source-p-NUSJD-31270b4ab22abe2a">官方依据</a> · <a href="#source-p-NUSJD-e48a9c58059a2f44">官方依据</a> · <a href="#source-p-NUSJD-4ab51f3f08bc0eaf">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -77,8 +80,11 @@ hide:
 - [官方项目页面或项目所在目录](http://www.nus.edu.sg/prog/bizecon/)
 - [官方目录](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/double-degree-programmes/)
 
-<div class="catalog-source" id="source-p-NUSJ-79c1ec71521023ac"><div><a href="https://fass.nus.edu.sg/special-degree-programmes/">Special Degree Programmes - NUS Faculty of Arts &amp; Social Sciences ↗</a><p>对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-p-NUSJ-6a39fc36cd7e96b2"><div><a href="https://www.nus.edu.sg/prog/bizecon/index.html">NUS - Double Degree Programme in Business Administration and Engineering ↗</a><p>对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-p-ASREN-dd5861bce6faef"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf">NUS英语要求（2026年9月版） ↗</a><p>英语教学、IELTS/TOEFL成绩有效期</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-dd5861bce6faef"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf">NUS英语要求（2026年9月版） ↗</a><p>NUS授课语言</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-NUSJ-6a39fc36cd7e96b2"><div><a href="https://www.nus.edu.sg/prog/bizecon/index.html">NUS 工商管理与经济学双学位（页面标题误写工程；按正文核验） ↗</a><p>当前与旧学位变体；在读选拔</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NUSJ-79c1ec71521023ac"><div><a href="https://fass.nus.edu.sg/special-degree-programmes/">Special Degree Programmes - NUS Faculty of Arts &amp; Social Sciences ↗</a><p>条目边界；当前与旧学位变体；费用缺口；毕业数据范围</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NUSJD-31270b4ab22abe2a"><div><a href="https://fass.nus.edu.sg/special-degree-programmes/">NUS FASS 当前具名双学位和本硕衔接 ↗</a><p>当前名与旧六变体对账</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NUSJD-4ab51f3f08bc0eaf"><div><a href="https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/">NUS BBA 2026/27起课程及具名主修 ↗</a><p>当前名与旧六变体对账</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NUSJD-e48a9c58059a2f44"><div><a href="https://www.nus.edu.sg/prog/bizecon/index.html">NUS 工商管理与经济学双学位（页面标题误写工程；按正文核验） ↗</a><p>当前名与旧六变体对账</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/singapore/nus/">← 返回新加坡国立大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

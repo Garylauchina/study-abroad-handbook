@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-144 个专业条目 · 4 个含详细资料 · 140 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+151 个专业条目 · 4 个含详细资料 · 147 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=nus#program-finder">搜索、筛选这所大学的专业 →</a>
 
@@ -34,16 +34,17 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-architecture-master-of-architecture-055c5f2250/">建筑学衔接建筑学硕士（分届路径）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-architecture-master-of-landscape-architecture-f8fc6e5b0a/">建筑学与景观建筑硕士衔接（旧目录路径）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-architecture-master-of-urban-planning-4fc4e1b925/">建筑学与城市规划本硕衔接（暂停）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-honours-bachelor-of-social-sciences-honours-bach-0fe6e97c15/">文社科学士与公共政策本硕衔接</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-ppe-mpp-concurrent-0da11653a5/">哲学、政治与经济学（PPE）与公共政策本硕衔接</a><small>Bachelor of Arts (Honours) in Philosophy, Politics, and Economics + Master in Public Policy · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-honours-bachelor-of-social-sciences-honours-bach-0fe6e97c15/">文社科学士与公共政策本硕衔接</a><small>BSocSci (Honours) in Economics/Political Science/Sociology/Social Work，或BA (Honours) in PPE + MPP · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-industrial-design-db108c123c/">工业设计</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration/">工商管理（荣誉）</a><small>Bachelor of Business Administration (Honours) · 含详细资料</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-with-honours-bachelor-of-busi-6971cbbef1/">工商管理与管理学硕士衔接</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-with-honours-bachelor-of-busi-9dbec513af/">工商管理与公共政策本硕衔接</a><small>BBA/BBA(Acc) (Honours) + Master in Public Policy · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-015f56b0e5/">工商管理与计算机科学／信息系统双学位</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-015f56b0e5/">工商管理与计算机科学／商业人工智能系统双学位（含旧IS记录）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-57823ada28/">工程与工商管理双学位</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-9bcb70b183/">工商管理与法律双荣誉学位</a><small>Bachelor of Business Administration (Honours) + Bachelor of Laws (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-037523d138/">工商管理与商业分析双学位</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-31d9b2a43c/">工商管理与传播及新媒体双学位</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-037523d138/">工商管理与商业分析双学位</a><small>BBA (Honours) + BSc (Honours) in Business Analytics；另有SOC主院BSc(Honours) + BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-31d9b2a43c/">工商管理与传播及新媒体双学位</a><small>当前确认：BBA (Honours) + BSocSci (Honours) in Communications and New Media；旧变体适用届次待核 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-artificial-intelligence-mathematics-ddp-1c1275958f/">人工智能与数学双学位</a><small>Bachelor of Computing (Artificial Intelligence) + Bachelor of Science (Mathematics) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-computing-computer-science-bachelor-of-science-in-mat-e4e171cad9/">计算机科学与数学双学位</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-computer-science/">计算机科学（荣誉）</a><small>Bachelor of Computing (Honours) in Computer Science · 含详细资料</small></article>
@@ -69,18 +70,24 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-information-technology-7d4bf00695/">信息技术（在职本科）</a><small>Bachelor of Information Technology · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-landscape-architecture-2aaaf413de/">景观建筑学</a><small>Bachelor of Landscape Architecture · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-law-master-in-public-policy-aa7191cf33/">法律与公共政策本硕衔接</a><small>LLB (Honours) + Master in Public Policy · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-analytics-bba-single-honours-e797553901/">商业分析与工商管理双学位（商业分析单荣誉）</a><small>BSc (Honours) in Business Analytics + BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-analytics-bba-double-honours-2197bbeff9/">商业分析与工商管理双学位（双荣誉）</a><small>BSc (Honours) in Business Analytics + BBA (Honours) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-science-project-and-facilities-management-bachelor-of-b8f03adb0b/">多学科学士与项目管理硕士衔接（资格待核）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-science-real-estate-master-of-urban-planning-1f0393844f/">房地产与城市规划本硕衔接（暂停）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-science-in-business-analytics-b52dbb1f9a/">商业分析</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-science-in-life-sciences-from-nus-and-doctor-of-veter-d2507f345c/">生命科学与墨尔本兽医博士衔接</a><small>BSc (Honours) in Life Sciences + Doctor of Veterinary Medicine · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-science-in-economics-bachelor-of-business-admi-8a4b0f13b8/">经济学与工商管理双学位</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-science-in-economics-bachelor-of-business-admi-8a4b0f13b8/">经济学与工商管理双学位</a><small>当前确认：BBA (Honours) + BSocSci (Honours) in Economics；旧变体适用届次待核 · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-science-in-economics-bachelor-of-computing-inf-82ce38720f/">经济学与信息系统／商业人工智能系统双学位</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-science-in-economics-bachelor-of-laws-8a489f4ba3/">经济学与法律双荣誉学位</a><small>Bachelor of Social Sciences (Honours) in Economics + Bachelor of Laws (Honours) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-science-in-economics-bachelor-of-science-busin-77d3383def/">经济学与商业分析双荣誉学位</a><small>Bachelor of Science (Honours) in Business Analytics + Bachelor of Social Sciences (Honours) in Economics · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-economics/">经济学（荣誉；CHS 共同入口）</a><small>Bachelor of Social Sciences (Honours) in Economics · 含详细资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-economics-mpp-concurrent-945fe69ba6/">经济学与公共政策本硕衔接</a><small>Bachelor of Social Sciences (Honours) in Economics + Master in Public Policy · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-political-science-mpp-concurrent-07954f273d/">政治学与公共政策本硕衔接</a><small>Bachelor of Social Sciences (Honours) in Political Science + Master in Public Policy · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-sciences-honours-in-psychology-and-master-of-p-1aedd7d8d1/">心理学荣誉学士与临床心理硕士</a><small>BSocSci (Honours) + Master of Psychology (Clinical) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-sciences-honours-in-psychology-and-master-of-s-bee0e5d842/">心理学荣誉学士与研究型硕士</a><small>BSocSci (Honours) + MSocSci (Psychology by Research) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-social-work-mpp-concurrent-c19b07ddb2/">社会工作与公共政策本硕衔接</a><small>Bachelor of Social Sciences (Honours) in Social Work + Master in Public Policy · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-social-work-public-health-cdp-0459f07789/">社会工作荣誉学士与公共卫生硕士</a><small>BSocSci (Honours) in Social Work + Master of Public Health · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-sociology-mpp-concurrent-088bd49099/">社会学与公共政策本硕衔接</a><small>Bachelor of Social Sciences (Honours) in Sociology + Master in Public Policy · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-technology-chemical-engineering-90dd1e28a3/">化学工程（兼读制技术学士）</a><small>Bachelor of Technology · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-technology-civil-engineering-a78bfae1f1/">土木工程（兼读制技术学士）</a><small>Bachelor of Technology · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-technology-electronics-engineering-9212d61e71/">电子工程（兼读制技术学士）</a><small>Bachelor of Technology · 部分专业资料已核实</small></article>
@@ -221,21 +228,22 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 143 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 150 项；这不是全字段详情的完成状态。
 
 <p><strong>统计范围：</strong>现有本科主修、音乐方向、特殊护理及兼读项目、双学位和本硕衔接组；各条注明层级和入口</p>
 
-<p><strong>对账方法：</strong>95项普通及特殊本科由独立研究者核验，33联合项目另逐项核验并交叉审阅；保留全部128旧ID，更新中文课程、实际招生及分阶段收费和毕业调查口径。 本次逐项加入8法律Exchange Plus、AI与数学双学位、社会工作MPH及2个SCALE具名本硕框架，按实际在读入口、收费阶段和年份独立复核。</p>
+<p><strong>对账方法：</strong>95项普通及特殊本科由独立研究者核验，33联合项目另逐项核验并交叉审阅；保留全部128旧ID，更新中文课程、实际招生及分阶段收费和毕业调查口径。 本次逐项加入8法律Exchange Plus、AI与数学双学位、社会工作MPH及2个SCALE具名本硕框架，按实际在读入口、收费阶段和年份独立复核。 再补商业分析两种荣誉配置及FASS五种MPP衔接，8个旧会计组合逐组对账，9个旧条目保留事实并增补现行依据。</p>
 
 <p><strong>排除项：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
 
 **尚未解决的目录缺口：**
 
 - 已收录8条Law Exchange Plus、Social Work+MPH、AI+数学及两个SCALE本硕框架；SCALE未给所有适用本科专业的封闭清单，不枚举无据自由组合。工业工程没有另造未证实的专属本硕项目。
-- 部分联合条目仍含旧会计或不同荣誉学位变体，未按所有当届组合拆分；邓迪3具名方向已补，其他在读方向继续按官方逐项对账。
+- 已拆出商业分析双荣誉/单荣誉及FASS五种MPP具名路线；旧会计授位与当前BBA主修、部分单荣誉配置的2027适用仍未全闭合。邓迪3方向已补，其他联合及在读方向继续按官方逐项对账。
 - 大多数2027/28新生收费和专业考试日期未取得；已核2026/27费表按非ASEAN国际生TG与非TG两价标年使用。
 - BAIS与旧IS课程表存在标题、学位及总学分矛盾；暂停及旧建筑衔接路径不能当2027开放招生。
 - GES调查仅用于对应学位与毕业届，未单列大陆学生；大多联合组合没有独立毕业就业率与薪资。
+- FASS大二邀请与LKYSPP最后一年申请尚缺阶段衔接表；普通MPP费表不等于CDP本硕总价。工程联合表共享学分总减量与8学分项目的关系仍待明确。
 
 - [官方目录来源](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-loo-lin-school-of-medicine-including-nursing/undergraduate-education/)
 - [官方目录来源](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-siew-toh-conservatory-of-music/undergraduate-education/)
@@ -402,5 +410,19 @@ hide:
 - [官方目录来源](https://scale.nus.edu.sg/programmes/graduate/msc-(smart-industries-and-digital-transformation)/cdp)
 - [官方目录来源](https://scale.nus.edu.sg/programmes/graduate/msc-(smart-industries-and-digital-transformation))
 - [官方目录来源](https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf)
+- [官方目录来源](https://nus.edu.sg/prog/bzabba/)
+- [官方目录来源](https://fass.nus.edu.sg/special-degree-programmes/)
+- [官方目录来源](https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/)
+- [官方目录来源](https://nus.edu.sg/prog/bizcnm/)
+- [官方目录来源](https://www.comp.nus.edu.sg/admissions/biz-aisys/)
+- [官方目录来源](https://www.comp.nus.edu.sg/programmes/sp/ddp/cba/)
+- [官方目录来源](https://cde.nus.edu.sg/undergraduate/programmes/double-degree-programme-in-engineering-business-administration/)
+- [官方目录来源](https://www.nus.edu.sg/prog/bizecon/index.html)
+- [官方目录来源](https://bba.nus.edu.sg/concurrent-degree-programme-with-master-of-public-policy/)
+- [官方目录来源](https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/mpp-curriculum)
+- [官方目录来源](https://mim.nus.edu.sg/academics/concurrent-degree-programme/)
+- [官方目录来源](https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree)
+- [官方目录来源](https://www.nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/double-degree-programmes/double-degree-programme-framework-and-guidelines)
+- [官方目录来源](https://lkyspp.nus.edu.sg/graduate-admissions/fees-and-funding)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

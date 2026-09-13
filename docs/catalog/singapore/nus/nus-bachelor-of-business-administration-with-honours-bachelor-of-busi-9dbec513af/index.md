@@ -21,7 +21,7 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>具体招生届次见申请说明</strong></div><div><span>学制</span><strong>通常至5年；最长6年</strong></div><div><span>国际生学费</span><strong>分学位／就读阶段收费；2027全程金额尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语；境外或指定语言课程另有要求</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语（NUS）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -51,6 +51,9 @@ hide:
 <p class="catalog-fact"><strong>NUS授课语言：</strong>NUS一般课程以英语教学；法国、早稻田及特定语言课程的当地语言要求按项目单列，不把NUS英语政策外推至所有境外课程。</p>
 <p class="fact-sources"><a href="#source-p-ASREN-dd5861bce6faef">官方依据</a></p>
 
+<p class="catalog-fact"><strong>2021会计计划与当前本科名称：</strong>BBA＋MPP专页仍链接2021 BBA及BBA(Accountancy)计划；普通BBA当前会计为主修。旧计划是历史课程证据，不能据此确认2027仍单独授BBA(Accountancy)，也不能用2021本科课程加现行MPP64学分替换旧联合计划。</p>
+<p class="fact-sources"><a href="#source-p-NUSJD-8ce56257b875919e">官方依据</a> · <a href="#source-p-NUSJD-4ab51f3f08bc0eaf">官方依据</a> · <a href="#source-p-NUSJD-ca4a2ada0a539867">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 <p class="catalog-fact"><strong>后续正式申请：</strong>大二末申请需GPA4.0；大三12月15日前递交正式申请及两份推荐，次年1—2月面试、3—4月结果（周期规则，非2027新生截止）。</p>
@@ -77,7 +80,10 @@ hide:
 - [官方项目页面或项目所在目录](https://bba.nus.edu.sg/concurrent-degree-programme-with-master-of-public-policy/)
 - [官方目录](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/concurrent-degree-programmes/)
 
-<div class="catalog-source" id="source-p-NUSJ-0e16c1bae5ca7338"><div><a href="https://bba.nus.edu.sg/concurrent-degree-programme-with-master-of-public-policy/">Concurrent Degree Programme with Master of Public Policy - The NUS BBA Programmes ↗</a><p>对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-p-ASREN-dd5861bce6faef"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf">NUS英语要求（2026年9月版） ↗</a><p>英语教学、IELTS/TOEFL成绩有效期</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-dd5861bce6faef"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf">NUS英语要求（2026年9月版） ↗</a><p>NUS授课语言</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-NUSJ-0e16c1bae5ca7338"><div><a href="https://bba.nus.edu.sg/concurrent-degree-programme-with-master-of-public-policy/">Concurrent Degree Programme with Master of Public Policy - The NUS BBA Programmes ↗</a><p>条目边界；培养与资格边界；后续正式申请；收费阶段；毕业数据范围</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NUSJD-4ab51f3f08bc0eaf"><div><a href="https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/">NUS BBA 2026/27起课程及具名主修 ↗</a><p>2021会计计划与当前本科名称</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NUSJD-8ce56257b875919e"><div><a href="https://bba.nus.edu.sg/concurrent-degree-programme-with-master-of-public-policy/">NUS 工商管理与MPP衔接（2021计划仍保留） ↗</a><p>2021会计计划与当前本科名称</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NUSJD-ca4a2ada0a539867"><div><a href="https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/mpp-curriculum">LKY 普通MPP课程（AY2025/26起） ↗</a><p>2021会计计划与当前本科名称</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/singapore/nus/">← 返回新加坡国立大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

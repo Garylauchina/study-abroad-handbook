@@ -23,12 +23,13 @@ hide:
 
 ## 专业与申请资料
 
-80 个专业条目 · 0 个含详细资料 · 80 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+84 个专业条目 · 0 个含详细资料 · 84 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=uchicago#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-anthropology-b91c578278/">人类学</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-applied-mathematics-bs-d6967eea31/">应用数学（BS）</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-archaeology-be0f7eb725/">考古学</a><small>B.A. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-art-history-92f55363e2/">艺术史</a><small>B.A. · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-arthistory-african-62901075a2/">艺术史—非洲艺术</a><small>B.A. · 部分专业资料已核实</small></article>
@@ -88,12 +89,15 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-law-letters-and-society-be85baa338/">法律、文学与社会</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-linguistics-6d6231bf2e/">语言学</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-mathematics-7c0aab6dc6/">数学</a><small>BA / BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-mathematics-economics-specialization-bs-0478f6a461/">数学：经济学专门方向（BS）</a><small>BS · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-media-arts-and-design-05d19f815a/">媒体艺术与设计</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-medieval-studies-71f5671cae/">中世纪研究</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-middle-eastern-studies-8e3d991b7d/">中东研究</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-music-45b7b649ff/">音乐</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-neuroscience-abb0e753ed/">神经科学</a><small>BA / BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-philosophy-4b63fe40b6/">哲学</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-philosophy-4b63fe40b6/">哲学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-philosophy-allied-fields-ba-0127bee3ff/">哲学与相关领域（BA）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-philosophy-intensive-track-ba-0a14b25f21/">哲学：强化路线（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-physics-7535106653/">物理学</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-political-science-426253f72a/">政治学</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-psychology-69d053456c/">心理学</a><small>BA · 部分专业资料已核实</small></article>
@@ -121,7 +125,7 @@ hide:
 <p class="catalog-fact"><strong>SAT/ACT可选及英语：</strong>SAT/ACT不强制，当前No Harm政策只在成绩有利时用于审查，对本土、国际和转学生均适用。国际生可自愿以英语考试证明能力，若申请其他材料已充分体现英语，不强制正式分数；学校不设入学后ESL补习通道。</p>
 <p class="fact-sources"><a href="#source-u-uchicago-requirements-dom">官方依据</a> · <a href="#source-u-uchicago-international-dom">官方依据</a></p>
 
-<p class="catalog-fact"><strong>先入College再申报主修：</strong>一年级通常记Common Year；春季第8周周一起可开始申报主修，此后可调整。学校要求大二结束前正式申报；部分专业另需会谈或选拔。CEGU专业页另给大三春首周的最迟期限，不能据此忽略学校较早的共同要求。</p>
+<p class="catalog-fact"><strong>先入College再申报主修：</strong>一年级通常记Common Year；春季第8周周一起可开始申报主修，此后可调整。学校要求大二结束前正式申报；部分专业另需会谈或选拔。</p>
 <p class="fact-sources"><a href="#source-u-UCHG-programsofstudy">官方依据</a></p>
 
 ### 申请安排
@@ -161,20 +165,21 @@ hide:
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 80 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 84 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>原60主修/已列罗曼语言子项＋20个明确主领域/课程方向/BA或BS路径；内部方向不计作独立高中招生学位</p>
+<p><strong>统计范围：</strong>原60主修/罗曼语言子项＋24个明确主领域/课程方向/BA或BS路径；内部方向不计作独立高中招生学位</p>
 
-<p><strong>对账方法：</strong>核2026/27 College Catalog八个缺口主修逐课程表与20内部条目，52既有部分课程证据保留并补中文、4年全学位规则和实际2026/27费用；独立交叉复核后修订期限和驻校比例。</p>
+<p><strong>对账方法：</strong>核2026/27 College Catalog八个缺口主修逐课程表与20内部条目，52既有部分课程证据保留并补中文、4年全学位规则和实际2026/27费用；独立交叉复核后修订期限和驻校比例。 再逐读数学和哲学目录，增4具名学位/在读路线并更新2父项；保留课程表口径差异，明确CAAM不可同时主修和论文选项条件。</p>
 
 <p><strong>排除项：</strong>Filter studiesType containing Majors；Exclude Minor-only, Joint Degree-only, specializations-only, Careers In and academic opportunities；Do not create MD/JD or premed majors</p>
 
 **尚未解决的目录缺口：**
 
-- 当前主修总目录56个母项与原60条含罗曼语言子项口径不同；Applied Mathematics B.S.及Philosophy and Allied Fields B.A.在学位表列名，仍须独立读取父目录再纳入。
-- 其余52个既有主修保留部分课程事实，全校内部方向、特殊双学位/BA-MA与附加选拔仍未全部闭合。
+- 当前主修总目录56个母项与原60条含罗曼语言子项口径不同；本次Applied Mathematics、数学经济学专门方向、Philosophy Intensive及Allied Fields已单列，全校完整目录仍须继续逐项对账。
+- 其余既有主修保留部分课程事实，全校内部方向、特殊双学位/BA-MA与附加选拔仍未全部闭合。
 - 2027/28费用、多数专业完整授课语种/特殊教学地点、按专业分母且可区分国际生的毕业统计仍有缺口。
 - 2026/27年费与校内/校外/通勤预算不同，健康保险另计；Core/主修/驻校学分不得混成另收学费的独立学位。
+- 数学应用路线外系课程口径、经济学方向STAT24410替代及哲学29601开课年段在官方正文与表/进度段间有差异，分别保留并待系内确认。
 
 - [官方目录来源](https://collegeadmissions.uchicago.edu/academics/areas-of-study/)
 - [官方目录来源](http://collegecatalog.uchicago.edu/thecollege/climate/)

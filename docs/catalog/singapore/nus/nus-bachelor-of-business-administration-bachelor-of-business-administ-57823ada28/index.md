@@ -19,9 +19,9 @@ hide:
 
 <p class="program-title-en">Bachelor of Business Administration/Bachelor of Business Administration (Accountancy) &amp; Bachelor of Engineering</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>具体招生届次见申请说明</strong></div><div><span>学制</span><strong>通常4—5年；具体组合计划待核</strong></div><div><span>国际生学费</span><strong>分学位／就读阶段收费；2027全程金额尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>具体招生届次见申请说明</strong></div><div><span>学制</span><strong>通常5年；2026/27起名义208／216学分</strong></div><div><span>国际生学费</span><strong>分学位／就读阶段收费；2027全程金额尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语；境外或指定语言课程另有要求</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语（NUS）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -45,11 +45,23 @@ hide:
 <p class="catalog-fact"><strong>条目边界：</strong>本条为联合学位或本硕衔接；具体学位变体、招生状态与入学后选拔按下列已注明范围理解。</p>
 <p class="fact-sources"><a href="#source-p-NUSJ-73bff5e785204782">官方依据</a></p>
 
-<p class="catalog-fact"><strong>工程与商业课程：</strong>官方说明将工程专业核心与组织行为、财务会计、营销、经济、商法结合，目标为具商业知识的工程人才。本轮仅取得培养说明，未取得可完整核对的最新联合课程表和各工程组合学分。</p>
-<p class="fact-sources"><a href="#source-p-NUSJ-73bff5e785204782">官方依据</a></p>
+<p class="catalog-fact"><strong>工程与商业课程：</strong>官方说明将工程专业核心与组织行为、财务会计、营销、经济、商法结合，目标为具商业知识的工程人才。本次另补下方2026/27联合课程框架及名义／共享后学分；各具体工程方向仍须依获批专业计划核对。</p>
+<p class="fact-sources"><a href="#source-p-NUSJ-73bff5e785204782">官方依据</a> · <a href="#source-p-NUSJD-b34fdbffa3dba3c1">官方依据</a></p>
 
 <p class="catalog-fact"><strong>NUS授课语言：</strong>NUS一般课程以英语教学；法国、早稻田及特定语言课程的当地语言要求按项目单列，不把NUS英语政策外推至所有境外课程。</p>
 <p class="fact-sources"><a href="#source-p-ASREN-dd5861bce6faef">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026/27起联合课程表：</strong>已取得该届起完整联合表：双荣誉通常五年，名义208学分；Accountancy主修约216。共同通识24、CDE共同16、商科共同28、工程主修80、商科60或68。工程主修含数学8、专业伦理2、综合项目8、实习10和专业核心选修52。此为组合框架，具体工程学科仍按所属专业计划，不展开所有工程×商科组合。</p>
+<p class="fact-sources"><a href="#source-p-NUSJD-b34fdbffa3dba3c1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>实习和项目不得自行豁免：</strong>双学位仍须工程实习10学分及工程专业伦理；获认可先修／文凭学分者依原文另处理。完成工程实习可满足商科工作经历的实习部分，但仍须STR1000／2000。工程综合项目与FSP4003仅经商学院批准、完成商业内容或指定创业项目才可共享，不能默认任何毕业项目可双算。</p>
+<p class="fact-sources"><a href="#source-p-NUSJD-b34fdbffa3dba3c1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学分表减免口径须核：</strong>原文名义208／216，另写获准共享综合项目后最低196／204；表中FSP4003为8学分，其余减少量未在该段完全解释。本轮保留两个官方数值及条件，不自行据8学分共享推算新总数。</p>
+<p class="fact-sources"><a href="#source-p-NUSJD-b34fdbffa3dba3c1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>当前会计与选择范围：</strong>2026/27表明确会计为商科学位major，并列七种其他商科主修；允许不选具体商科领域而完成一般管理限制课。正文仍有BBA(Accountancy)旧写法。本轮把它作为会计课程量变体，未证明其为2027另一个独立会计授位；Real Estate不在此DDP当前选择清单，不能从普通BBA九主修直接外推。</p>
+<p class="fact-sources"><a href="#source-p-NUSJD-b34fdbffa3dba3c1">官方依据</a> · <a href="#source-p-NUSJD-4ab51f3f08bc0eaf">官方依据</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -77,8 +89,10 @@ hide:
 - [官方项目页面或项目所在目录](https://cde.nus.edu.sg/undergraduate/programmes/double-degree-programme-in-engineering-business-administration/)
 - [官方目录](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/double-degree-programmes/)
 
-<div class="catalog-source" id="source-p-NUSJ-73bff5e785204782"><div><a href="https://cde.nus.edu.sg/undergraduate/programmes/double-degree-programme-in-engineering-business-administration/">Double Degree Programme in Engineering &amp; Business Administration - College of Design and Engineering ↗</a><p>对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-p-NUSJ-5846a08cfc5362c3"><div><a href="https://bba.nus.edu.sg/double-degree-programmes/">Double Degree Programmes - The NUS BBA Programmes ↗</a><p>对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-p-ASREN-dd5861bce6faef"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf">NUS英语要求（2026年9月版） ↗</a><p>英语教学、IELTS/TOEFL成绩有效期</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-dd5861bce6faef"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf">NUS英语要求（2026年9月版） ↗</a><p>NUS授课语言</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-NUSJ-5846a08cfc5362c3"><div><a href="https://bba.nus.edu.sg/double-degree-programmes/">Double Degree Programmes - The NUS BBA Programmes ↗</a><p>入口边界</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NUSJ-73bff5e785204782"><div><a href="https://cde.nus.edu.sg/undergraduate/programmes/double-degree-programme-in-engineering-business-administration/">Double Degree Programme in Engineering &amp; Business Administration - College of Design and Engineering ↗</a><p>条目边界；工程与商业课程；费用缺口；毕业数据范围</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NUSJD-4ab51f3f08bc0eaf"><div><a href="https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/">NUS BBA 2026/27起课程及具名主修 ↗</a><p>当前会计与选择范围</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NUSJD-b34fdbffa3dba3c1"><div><a href="https://cde.nus.edu.sg/undergraduate/programmes/double-degree-programme-in-engineering-business-administration/">NUS 工程与工商管理双学位（2026/27起联合课程表） ↗</a><p>2026/27起联合课程表；实习和项目不得自行豁免；学分表减免口径须核；当前会计与选择范围</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/singapore/nus/">← 返回新加坡国立大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

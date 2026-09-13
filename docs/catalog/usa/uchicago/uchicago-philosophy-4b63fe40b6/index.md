@@ -32,7 +32,7 @@ hide:
 
 <p><strong>官方名称：</strong>Philosophy</p>
 
-<p><strong>授予学位 / 项目类型：</strong>Undergraduate major; exact award label not stated in index</p>
+<p><strong>授予学位 / 项目类型：</strong>BA</p>
 
 <p><strong>目录适用期：</strong>2026/27 College Catalog；申请/费用/培养要求年度分别说明</p>
 
@@ -45,15 +45,36 @@ hide:
 <p class="catalog-fact"><strong>具体学习单元示例：</strong>本科培养表列出的单元：History of Philosophy I: Ancient Philosophy *（PHIL 25000）；History of Philosophy II: Medieval and Early Modern Philosophy（PHIL 26000）。示例不代表全部必修或当年保证开课，需核对必修/选修与授课安排。</p>
 <p class="fact-sources"><a href="#source-p-uchicago-program-c5817ff6ca8cf15f">官方依据</a></p>
 
-<p class="catalog-fact"><strong>尚待逐项复核：</strong>本轮未逐项完成具体校区、全程授课语言、专业特殊招生与毕业职业统计的核验。</p>
+<p class="catalog-fact"><strong>尚待逐项复核：</strong>具体校区、全程授课语言和本专业毕业职业统计仍待核；本次已补下方2026/27具名路线、培养结构及在读申请条件。</p>
 <p class="fact-sources"><a href="#source-p-uchicago-program-c5817ff6ca8cf15f">官方依据</a></p>
 
 <p class="catalog-fact"><strong>College全学位学分与修读期：</strong>本科通常4年、12个秋冬春季度；每季3或4课为全日制。全学位至少4200 units，2017秋后新生至少3800由正式修课取得；此外须满足Core、主修、语言能力、驻校和GPA要求。下方主修课程表合计并不是整个学位学分。</p>
 <p class="fact-sources"><a href="#source-p-UCHG-degree-requirements">官方依据</a> · <a href="#source-p-UCHG-enrollment">官方依据</a></p>
 
+<p class="catalog-fact"><strong>三条哲学BA路线的准确总量：</strong>哲学授予BA：Standard Track专业1000 units、Intensive Track 1300、Philosophy and Allied Fields 1200。后两者现已按具名在读路线单列，三张表不能相加，也不是三个并授学位。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-philosophy">官方依据</a></p>
+
+<p class="catalog-fact"><strong>Standard Track课程与申报：</strong>标准路线为共同前六课600，再加四门哲学选修400，共1000 units。标准主修可通过学生门户申报，无须另向哲学系提交路线申请；强化及相关领域路线有独立在读申请。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-philosophy">官方依据</a></p>
+
+<p class="catalog-fact"><strong>三条路线共同的前六门课：</strong>先修200 units哲学史：PHIL 25000、26000、27000中两门；逻辑100 units：20100或20012；再修300 units领域分布课，在实用哲学A与理论哲学B之间选2A+1B或1A+2B。课程应按年度批准名单选修。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-philosophy">官方依据</a></p>
+
+<p class="catalog-fact"><strong>哲学史、逻辑替代与免修：</strong>PHIL 25200与26200两门合计可满足25000的一季度哲学史要求，同时两课都可计入专业课程数。MATH 27700或27800可免逻辑要求，但不给PHIL课程学分；PHIL 29400也可满足逻辑要求。免掉要求不能直接当作获赠专业units。PHIL 20100与20012即使两门都修，也只能一门计入毕业所需学分。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-philosophy">官方依据</a></p>
+
+<p class="catalog-fact"><strong>在读进度与课程成绩：</strong>所有主修者须在大三冬季与Assistant Director of Undergraduate Studies会面，检查毕业计划及论文安排。专业课一般须正式等级；PHIL 29901采用P/F，只有Intensive Track可将其计入专业。Standard或Allied学生仅在选择并获准写BA论文时须修两学期Senior Seminar，且只有29902计入专业；未选论文者不因这条规则而须修两学期研讨。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-philosophy">官方依据</a></p>
+
+<p class="catalog-fact"><strong>BA论文与荣誉不是自动取得：</strong>Intensive Track必须写BA论文；其余路线可申请论文选项，通常要求哲学GPA≥3.25，较低者可申诉。毕业荣誉另须优秀论文及符合系内成绩要求，不因进入Intensive就自动授予。论文须完成大四秋29901及冬29902，不能将二者都计入Standard或Allied的专业学分。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-philosophy">官方依据</a></p>
+
+<p class="catalog-fact"><strong>转学与外校课程计入：</strong>哲学转学生原则上满足相同专业要求。外校课程须向DUS提交课程大纲审核；目录说通常不超过3门可计入，不能把所有已修课程自动转为本专业学分。Allied Fields的其他学科课也须逐课批准。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-philosophy">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-<p class="catalog-fact"><strong>专业特殊要求待核：</strong>本轮未完成本条宣告主修、转入、荣誉、表演试演、作品集或全部学习单元先修条件的逐项核验；校级共同规则不能替代特有要求。</p>
+<p class="catalog-fact"><strong>专业特殊要求待核：</strong>本次已核下列分班/在读申报、路线选拔与荣誉要求；全部课程逐课先修、2027/28后续变动和个别转入安排尚未穷尽，不能把校级新生规则代替在读选拔。</p>
 <p class="fact-sources"><a href="#source-p-uchicago-program-c5817ff6ca8cf15f">官方依据</a></p>
 
 <p class="catalog-fact"><strong>所属入口共同规则：中国高中材料与综合评估：</strong>国际新生与其他新生同样申请，按就读高中背景评估；需要完整中学成绩、学校报告和两位学科教师评估，非英文成绩附认证翻译及评分制。没有辅导员可由教师/学校管理者提交学校报告，本轮未取得高考统一录取线。</p>
@@ -61,6 +82,9 @@ hide:
 
 <p class="catalog-fact"><strong>所属入口共同规则：SAT/ACT可选及英语：</strong>SAT/ACT不强制，当前No Harm政策只在成绩有利时用于审查，对本土、国际和转学生均适用。国际生可自愿以英语考试证明能力，若申请其他材料已充分体现英语，不强制正式分数；学校不设入学后ESL补习通道。</p>
 <p class="fact-sources"><a href="#source-p-uchicago-requirements-dom">官方依据</a> · <a href="#source-p-uchicago-international-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>强化与相关领域分别申请：</strong>Intensive Track须不晚于大二春季第4周申请；Allied Fields在大二春中段提交计划、目的陈述及哲学导师同意。两者不是标准主修门户申报后自动获得的标签。</p>
+<p class="fact-sources"><a href="#source-p-UCHMP-philosophy">官方依据</a></p>
 
 <details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
 
@@ -70,7 +94,7 @@ hide:
 <p class="catalog-fact"><strong>SAT/ACT可选及英语：</strong>SAT/ACT不强制，当前No Harm政策只在成绩有利时用于审查，对本土、国际和转学生均适用。国际生可自愿以英语考试证明能力，若申请其他材料已充分体现英语，不强制正式分数；学校不设入学后ESL补习通道。</p>
 <p class="fact-sources"><a href="#source-u-uchicago-requirements-dom">官方依据</a> · <a href="#source-u-uchicago-international-dom">官方依据</a></p>
 
-<p class="catalog-fact"><strong>先入College再申报主修：</strong>一年级通常记Common Year；春季第8周周一起可开始申报主修，此后可调整。学校要求大二结束前正式申报；部分专业另需会谈或选拔。CEGU专业页另给大三春首周的最迟期限，不能据此忽略学校较早的共同要求。</p>
+<p class="catalog-fact"><strong>先入College再申报主修：</strong>一年级通常记Common Year；春季第8周周一起可开始申报主修，此后可调整。学校要求大二结束前正式申报；部分专业另需会谈或选拔。</p>
 <p class="fact-sources"><a href="#source-u-UCHG-programsofstudy">官方依据</a></p>
 
 </details>
@@ -141,6 +165,7 @@ hide:
 <div class="catalog-source" id="source-p-UCHG-costs-dom"><div><a href="https://financialaid.uchicago.edu/undergraduate/how-aid-works/undergraduate-costs/">UChicago本科2026–2027 Cost of Attendance ↗</a><p>年度本科纯学费、服务费与UPASS、三种住宿预算、2026新生前两年另720/年及不含保险；Chrome费用表上部已目视</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UCHG-degree-requirements"><div><a href="http://collegecatalog.uchicago.edu/thecollege/degreerequirements/">本科全学位毕业要求（2026/27） ↗</a><p>本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-p-UCHG-enrollment"><div><a href="http://collegecatalog.uchicago.edu/thecollege/gradingandacademicstatus/">本科修读负担和季度上限（2026/27） ↗</a><p>本专业学位、课程结构、在读申报与学业要求；不作为2027新生统一录取分数</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-UCHMP-philosophy"><div><a href="http://collegecatalog.uchicago.edu/thecollege/philosophy/">2026/27 Philosophy：Standard、Intensive、Allied Fields ↗</a><p>本条具名主修或在读方向的课程、申请、成绩与毕业要求；不是高中录取分数线</p><small>核验 2026-09-13</small></div></div>
 <div class="catalog-source" id="source-u-uchicago-requirements-dom"><div><a href="https://collegeadmissions.uchicago.edu/apply/application/required-materials/">uchicago 官方本科资料：requirements-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-uchicago-international-dom"><div><a href="https://collegeadmissions.uchicago.edu/apply/international-applicants/">uchicago 官方本科资料：international-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-uchicago-application-dom"><div><a href="https://collegeadmissions.uchicago.edu/apply/application/">uchicago 官方本科资料：application-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>

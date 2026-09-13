@@ -21,7 +21,7 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>具体招生届次见申请说明</strong></div><div><span>学制</span><strong>本科之外通常增加1年硕士</strong></div><div><span>国际生学费</span><strong>分学位／就读阶段收费；2027全程金额尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语；境外或指定语言课程另有要求</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语（NUS）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -56,6 +56,9 @@ hide:
 <p class="catalog-fact"><strong>校内选拔条件：</strong>当前管理学院页要求至少80本科学分（40来自所属学院／主修）、16商科或管理辅修学分平均4.0、总GPA4.0、面试及动机陈述。申请周期11月1日至7月15日未标具体年度；BBA直接条件录取仍需后续考核。</p>
 <p class="fact-sources"><a href="#source-p-NUSJ-6e0e4d237b6cd9cb">官方依据</a></p>
 
+<p class="catalog-fact"><strong>新BAIS衔接审批状态：</strong>2026 BAIS招生页对BAIS＋管理学硕士标为under approval；普通MSc Management在读框架开放并不等于此BAIS具名路线已获批。本轮保留旧BComp总览，不能承诺2027 BAIS本硕直接录取。</p>
+<p class="fact-sources"><a href="#source-p-NUSJD-db64055067605f6e">官方依据</a> · <a href="#source-p-NUSJD-6e1f13fc140766a0">官方依据</a></p>
+
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
@@ -77,8 +80,10 @@ hide:
 - [官方项目页面或项目所在目录](https://www.comp.nus.edu.sg/programmes/sp/cdp/bcomp-msc/)
 - [官方目录](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/concurrent-degree-programmes/)
 
-<div class="catalog-source" id="source-p-NUSJ-6e0e4d237b6cd9cb"><div><a href="https://mim.nus.edu.sg/academics/concurrent-degree-programme/">The NUS MSc in Management ↗</a><p>对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-p-NUSJ-e6124f7f208c63b7"><div><a href="https://www.comp.nus.edu.sg/programmes/sp/cdp/bcomp-msc/">Concurrent Degree Programme with NUS Business School in Management - NUS Computing ↗</a><p>对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-p-ASREN-dd5861bce6faef"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf">NUS英语要求（2026年9月版） ↗</a><p>英语教学、IELTS/TOEFL成绩有效期</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-dd5861bce6faef"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf">NUS英语要求（2026年9月版） ↗</a><p>NUS授课语言</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-NUSJ-6e0e4d237b6cd9cb"><div><a href="https://mim.nus.edu.sg/academics/concurrent-degree-programme/">The NUS MSc in Management ↗</a><p>条目边界；管理学课程组成；校内选拔条件；硕士单独收费</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NUSJ-e6124f7f208c63b7"><div><a href="https://www.comp.nus.edu.sg/programmes/sp/cdp/bcomp-msc/">Concurrent Degree Programme with NUS Business School in Management - NUS Computing ↗</a><p>硕士授位条件</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NUSJD-6e1f13fc140766a0"><div><a href="https://mim.nus.edu.sg/academics/concurrent-degree-programme/">NUS 管理学硕士在读衔接及旧会计毕业案例边界 ↗</a><p>新BAIS衔接审批状态</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NUSJD-db64055067605f6e"><div><a href="https://www.comp.nus.edu.sg/admissions/biz-aisys/">NUS 2026 商业人工智能系统招生及联合路径 ↗</a><p>新BAIS衔接审批状态</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/singapore/nus/">← 返回新加坡国立大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

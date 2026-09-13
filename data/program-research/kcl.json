@@ -3841,7 +3841,7 @@
       "raw_key": "ec97a0df-f028-4576-bb72-e77aff84a86d",
       "name_en": "Classical Studies with English BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-with-english-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -3859,30 +3859,137 @@
               "UKENR-ddfd8e70bc3e10"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "古典学主修与英语辅修结构",
+            "text": "前三年均可围绕兴趣选课，但须满足学科配额。第一、二年各为古典学 90 学分、英语 30 学分；末年明确古典学 90 并列英语选修，页面没有在该段重述英语学分。本课程涉及古代史、艺术考古、思想与文学，并与中世纪至现代英语文学互读。",
+            "source_ids": [
+              "KCLHU-128085a145bd78d0"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "古代语言及海外学习",
+            "text": "普通路线不要求入学前会古希腊语或拉丁语，可选语言学习。加速路线须在第一年选一门古代语言，第二、三年各修 60 学分语言／文本，并在两个暑期各修 15 学分语言课；暑期学分归属不自行推算成统一总量。第二年下学期有海外交换机会，具体名额与选课须另获批准。",
+            "source_ids": [
+              "KCLHU-128085a145bd78d0"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "校区与当前学习安排",
+            "text": "本课程总览列主要校区为 Strand 校区；全日制通常三年。本轮未取得独立明确的全程授课语言条款；英语录取分档见资格部分。",
+            "source_ids": [
+              "KCLHU-4daa54ff298acde9"
+            ],
+            "extraction_locator": "Overview > Base campuses, Course essentials, duration; Teaching > language of teaching"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAB；此为原概览总成绩；专属科目、资格与例外见本轮补充。",
             "source_ids": [
               "UKENR-ddfd8e70bc3e10"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "英语文学先修",
+            "text": "标准 A-level AAB，英语文学或英语语言与文学须 A；IB 35 总分或三门 HL 合计 17，对应英语文学／语言与文学 HL 6。古典文明、古代史或历史只是优先科目，不是另列的必修条件。可考虑转入第二年，须按转学程序个案审核，不代表保证转入。",
+            "source_ids": [
+              "KCLHU-9dfe7e35e383f492"
+            ],
+            "extraction_locator": "requirements正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在其他大学本科中的 Year 0／Integrated Foundation。上述标准 A-level／IB 不能直接换算为高考分数；Contextual 优惠也不能自动套所有中国学生。",
+            "source_ids": [
+              "KCLHU-9dfe7e35e383f492"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; Standard vs contextual requirements"
+          },
+          {
+            "label": "A-level考核例外",
+            "text": "不以 General Studies、Critical Thinking、Thinking Skills 或 Global Perspectives 计作所需 A-level，也不在评估中考虑 EPQ。以英格兰线性 A-level 理科申请者须通过实践考核；无法参加实践的 private candidates 有明示例外。这不是给所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLHU-9dfe7e35e383f492"
+            ],
+            "extraction_locator": "A-level > exclusions; linear Science practical endorsement; private candidate exception"
+          },
+          {
+            "label": "中国学历：本课程不能直接入学的类别",
+            "text": "本课程 China 分支明确不以 Gao Kao（高考）、Zhao Kao（网页标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。页面指向 International Foundation 作为替代路径信息；预科课程选择、进阶成绩及本专业科目条件仍须满足，不是保证进入本学位。",
+            "source_ids": [
+              "KCLHU-e7dcf53fb5d55e6a"
+            ],
+            "extraction_locator": "Actual selected China > three Award entries; International Foundation link"
+          },
+          {
+            "label": "本课程英语Band与年度",
+            "text": "本课程要求 Band B。已取得的英语政策明确适用 2026/27，IELTS Academic 参考为总分 7.0、每项 6.5；须在开课月份首日前两年内且单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学仍须核最新测试政策及录取条件，不将旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLHU-9dfe7e35e383f492",
+              "KCLHU-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English language band B; English policy > 2026/27 > Band B > IELTS / validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "Q8Q3；课程申请开放状态及截止须再核。",
+            "text": "Q8Q3；当前窗口及状态见本轮补充。",
             "source_ids": [
               "UKENR-ddfd8e70bc3e10"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请窗口与实际状态",
+            "text": "课程页列 UCAS Q8Q3，2027 年 9 月开课，申请截止 2027 年 1 月 13 日；本次状态为 Open（当前页面开放）。标准学历、指定科目与申请材料条件仍须同时满足。",
+            "source_ids": [
+              "KCLHU-387a5ed3ea82e775"
+            ],
+            "extraction_locator": "Chrome rendered Key Information > UCAS, Application status, Start date, Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费为 GBP £30,750／学年，明确适用 2027/28 常规授课年；后续学年可按学校条款增加。海外阶段另按适用安排收费，不以本年价格乘全部学制作为总价。",
+            "source_ids": [
+              "KCLHU-387a5ed3ea82e775"
+            ],
+            "extraction_locator": "Tuition fees > Full time tuition fees international > 2027–2028 > per year"
+          },
+          {
+            "label": "国际生押金及附加支出",
+            "text": "国际生坚定接受无条件录取时支付 £2,000 押金，入学后抵扣第一年学费。书本、打印、毕业及伦敦／跨校区交通等可能另付，海外还需预算旅行、签证及食宿。",
+            "source_ids": [
+              "KCLHU-387a5ed3ea82e775"
+            ],
+            "extraction_locator": "International tuition > deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段的收费边界",
+            "text": "海外学习时合作校通常不再收学费，但可能有申请管理费；KCL 继续收取其学费的一部分。本轮未取得本项目未来实际海外阶段明确年度与金额，不能把常规授课年价当作海外年价。",
+            "source_ids": [
+              "KCLHU-387a5ed3ea82e775"
+            ],
+            "extraction_locator": "Further fee information > overseas fees and dated OfS reference, if given"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业说明边界",
+            "text": "课程页列举法律、银行、公务、信息技术、图书馆、教育、文化遗产及媒体等领域；这些是职业方向，不代表毕业即取得律师／教师资格。本轮没有取得本学位可比届次、分母的就业率或薪资。",
+            "source_ids": [
+              "KCLHU-2bc5e39f569135b7"
+            ],
+            "extraction_locator": "careers正文；按公开模块表年份、标题及学分逐项人工摘要"
+          }
+        ]
       },
       "sources": [
         {
@@ -3893,32 +4000,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "435994c78a08a8155f7838baa65226e5df05ace7143b4ef0333f48463876788d",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLHU-4daa54ff298acde9",
+          "title": "Classical Studies with English BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-with-english-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "4daa54ff298acde94b0b6720219ad8e9eca9f924275e359517b062afb0219e9d",
+          "supports": "本课程正式身份、学制、校区及课程总览",
+          "capture_format": "public_html",
+          "locator": "Course overview; Base campuses; duration; course type",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-9dfe7e35e383f492",
+          "title": "Classical Studies with English BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-with-english-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "9dfe7e35e383f49247e2fda4337bfc91f50f52ab250c430067a67b32245018f7",
+          "supports": "本课程标准成绩、指定科目、学历与申请类别",
+          "capture_format": "public_html",
+          "locator": "Standard requirements; subjects; qualifications; additional requirements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-128085a145bd78d0",
+          "title": "Classical Studies with English BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-with-english-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "128085a145bd78d0676886ff812a664d474910ef6f4042867a074b9b4aeeefcc",
+          "supports": "公开教学页及各年模块列表的课程结构、学分和分流限制",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; visible Year 1–4 text/title/credits; not backend module descriptions",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-2bc5e39f569135b7",
+          "title": "Classical Studies with English BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-with-english-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "2bc5e39f569135b772f78d9d7fad00704e65a3e6517ce65b74f2179f8e2d2a16",
+          "supports": "官方职业方向及实际描述的群体范围；不是毕业调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; actual subject of destination statements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-e7dcf53fb5d55e6a",
+          "title": "Classical Studies with English BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-with-english-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "e7dcf53fb5d55e6ac061f07bcdfbc0f35d7652d9f80cb06f050ff6c2432981ed",
+          "supports": "本课程实际选择 China 后的三种中国学历直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "International applicants > Equivalent International qualifications > actual China selection > Award",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-dff3755b9680738d",
+          "title": "Classical Studies with English BA — 英语政策（2026/27参考）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27参考）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27参考）",
+          "source_period": "明确2026/27；不作为2027/28最终测试清单"
+        },
+        {
+          "id": "KCLHU-387a5ed3ea82e775",
+          "title": "Classical Studies with English BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-with-english-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "387a5ed3ea82e775614f22869b04e603dd61387cef3042b397e64623c4630dff",
+          "supports": "公开渲染的国际费年度、计价单位、押金和申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "Tuition fees > International; Further fee information; Key Information",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项取得本课程要求、逐年教学、职业分栏、实际 China 分支及 2027/28 国际费用。",
+        "课程选择与海外安排受批准及名额限制；学位/共同入口沿用原 ID，不生成未经核实的语种或 BA/BSc 组合。",
+        "2027英语政策与可比毕业调查仍有明确缺口。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAB；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；古典学主修＋英语辅修；AAB 且英语文学 A，古语可从零开始",
+        "name": "古典学与英语文学（BA，主修／辅修）",
+        "intake": "2027 年 9 月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核本课程职业说明；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese course-specific facts; original public evidence preserved",
       "inventory_id": "kcl-classical-studies-with-english-ba-5b6ef57016"
     },
     {
@@ -3926,7 +4117,7 @@
       "raw_key": "f0a02620-c029-4d3b-a59a-7aac2485c14f",
       "name_en": "Classics & the Ancient World BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/classics-and-the-ancient-world-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -3944,30 +4135,137 @@
               "UKENR-74419ac7301eda"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "标准路线与语言加速路线",
+            "text": "标准路线各年选 120 学分，以古代史、文学思想、艺术考古与古代语言构成。通常不允许第一年同时从零开始两门古语；已有一门 Greek／Latin 基础、继续其中级／高级同时初学另一门，须系方批准。",
+            "source_ids": [
+              "KCLHU-480f88b46ffcf601"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "加速语言与学分边界",
+            "text": "加速路线第一年语言 30＋古典选修 90，再有暑期 15；第二年 Greek 与 Latin 各 30、选修 45，再有暑期 15；末年文本 60＋选修 45。页面未清楚对齐暑期归属与逐年总量，故不自行宣布总共 360 或 390。跨院／跨校替代模块有学分上限与批准要求；第二年下学期可申请海外交换。",
+            "source_ids": [
+              "KCLHU-480f88b46ffcf601"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "校区与当前学习安排",
+            "text": "本课程总览列主要校区为 Strand 校区；全日制通常三年。本轮未取得独立明确的全程授课语言条款；英语录取分档见资格部分。",
+            "source_ids": [
+              "KCLHU-f6a2b400b0d58c97"
+            ],
+            "extraction_locator": "Overview > Base campuses, Course essentials, duration; Teaching > language of teaching"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAB；此为原概览总成绩；专属科目、资格与例外见本轮补充。",
             "source_ids": [
               "UKENR-74419ac7301eda"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "古典学入学科目",
+            "text": "标准 A-level AAB，IB 35 总分或三门 HL 合计 17；无指定必修科目。古典文明、古代史或历史属优先科目。要求分栏标题误留 Classical Studies with English，但实际 Q805 内容明确没有英语文学先修；不能套另一课程的 English A。可考虑转入第二年，须按转学程序个案审核，不代表保证转入。",
+            "source_ids": [
+              "KCLHU-24636c6e373956e7"
+            ],
+            "extraction_locator": "requirements正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在其他大学本科中的 Year 0／Integrated Foundation。上述标准 A-level／IB 不能直接换算为高考分数；Contextual 优惠也不能自动套所有中国学生。",
+            "source_ids": [
+              "KCLHU-24636c6e373956e7"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; Standard vs contextual requirements"
+          },
+          {
+            "label": "A-level考核例外",
+            "text": "不以 General Studies、Critical Thinking、Thinking Skills 或 Global Perspectives 计作所需 A-level，也不在评估中考虑 EPQ。以英格兰线性 A-level 理科申请者须通过实践考核；无法参加实践的 private candidates 有明示例外。这不是给所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLHU-24636c6e373956e7"
+            ],
+            "extraction_locator": "A-level > exclusions; linear Science practical endorsement; private candidate exception"
+          },
+          {
+            "label": "中国学历：本课程不能直接入学的类别",
+            "text": "本课程 China 分支明确不以 Gao Kao（高考）、Zhao Kao（网页标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。页面指向 International Foundation 作为替代路径信息；预科课程选择、进阶成绩及本专业科目条件仍须满足，不是保证进入本学位。",
+            "source_ids": [
+              "KCLHU-f94d697fe7f14f77"
+            ],
+            "extraction_locator": "Actual selected China > three Award entries; International Foundation link"
+          },
+          {
+            "label": "本课程英语Band与年度",
+            "text": "本课程要求 Band B。已取得的英语政策明确适用 2026/27，IELTS Academic 参考为总分 7.0、每项 6.5；须在开课月份首日前两年内且单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学仍须核最新测试政策及录取条件，不将旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLHU-24636c6e373956e7",
+              "KCLHU-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English language band B; English policy > 2026/27 > Band B > IELTS / validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "Q805；课程申请开放状态及截止须再核。",
+            "text": "Q805；当前窗口及状态见本轮补充。",
             "source_ids": [
               "UKENR-74419ac7301eda"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请窗口与实际状态",
+            "text": "课程页列 UCAS Q805，2027 年 9 月开课，申请截止 2027 年 1 月 13 日；本次状态为 Open（当前页面开放）。标准学历、指定科目与申请材料条件仍须同时满足。",
+            "source_ids": [
+              "KCLHU-70f18800d0a195b2"
+            ],
+            "extraction_locator": "Chrome rendered Key Information > UCAS, Application status, Start date, Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费为 GBP £30,750／学年，明确适用 2027/28 常规授课年；后续学年可按学校条款增加。海外阶段另按适用安排收费，不以本年价格乘全部学制作为总价。",
+            "source_ids": [
+              "KCLHU-70f18800d0a195b2"
+            ],
+            "extraction_locator": "Tuition fees > Full time tuition fees international > 2027–2028 > per year"
+          },
+          {
+            "label": "国际生押金及附加支出",
+            "text": "国际生坚定接受无条件录取时支付 £2,000 押金，入学后抵扣第一年学费。书本、打印、毕业及伦敦／跨校区交通等可能另付，海外还需预算旅行、签证及食宿。",
+            "source_ids": [
+              "KCLHU-70f18800d0a195b2"
+            ],
+            "extraction_locator": "International tuition > deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段的收费边界",
+            "text": "海外学习时合作校通常不再收学费，但可能有申请管理费；KCL 继续收取其学费的一部分。本轮未取得本项目未来实际海外阶段明确年度与金额，不能把常规授课年价当作海外年价。",
+            "source_ids": [
+              "KCLHU-70f18800d0a195b2"
+            ],
+            "extraction_locator": "Further fee information > overseas fees and dated OfS reference, if given"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业发展",
+            "text": "官方列举法律、银行、公务、信息技术、图书馆、教育、文化遗产、媒体与表演艺术，也可继续研究生学习；校友博士后经历经过硕士／博士训练，不是本科直接岗位。未取得本课程独立就业率或薪资统计。",
+            "source_ids": [
+              "KCLHU-94786db51007c306"
+            ],
+            "extraction_locator": "careers正文；按公开模块表年份、标题及学分逐项人工摘要"
+          }
+        ]
       },
       "sources": [
         {
@@ -3978,32 +4276,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "034fa6b9129277571f16a8af32fa3aa7a1f5d38a43f17240055e69d108ca8424",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLHU-f6a2b400b0d58c97",
+          "title": "Classics & the Ancient World BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classics-and-the-ancient-world-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "f6a2b400b0d58c978c1e7130e21802045ff91b59db858928d140f538fd1b9d87",
+          "supports": "本课程正式身份、学制、校区及课程总览",
+          "capture_format": "public_html",
+          "locator": "Course overview; Base campuses; duration; course type",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-24636c6e373956e7",
+          "title": "Classics & the Ancient World BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classics-and-the-ancient-world-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "24636c6e373956e7876a576856501c3e6de578b51b0caf4aaf39a2c63422fb87",
+          "supports": "本课程标准成绩、指定科目、学历与申请类别",
+          "capture_format": "public_html",
+          "locator": "Standard requirements; subjects; qualifications; additional requirements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-480f88b46ffcf601",
+          "title": "Classics & the Ancient World BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classics-and-the-ancient-world-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "480f88b46ffcf601610d47f3348d64d45e3bb390fa2abacbddd2984e49d6ea32",
+          "supports": "公开教学页及各年模块列表的课程结构、学分和分流限制",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; visible Year 1–4 text/title/credits; not backend module descriptions",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-94786db51007c306",
+          "title": "Classics & the Ancient World BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classics-and-the-ancient-world-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "94786db51007c3062c8d9a7df3603f65a45a889eb13e14e00b14db2c613642bb",
+          "supports": "官方职业方向及实际描述的群体范围；不是毕业调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; actual subject of destination statements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-f94d697fe7f14f77",
+          "title": "Classics & the Ancient World BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classics-and-the-ancient-world-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "f94d697fe7f14f77c3cb36fbeb48bb785b369ef3b598df8daeb77867d8f20652",
+          "supports": "本课程实际选择 China 后的三种中国学历直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "International applicants > Equivalent International qualifications > actual China selection > Award",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-dff3755b9680738d",
+          "title": "Classics & the Ancient World BA — 英语政策（2026/27参考）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27参考）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27参考）",
+          "source_period": "明确2026/27；不作为2027/28最终测试清单"
+        },
+        {
+          "id": "KCLHU-70f18800d0a195b2",
+          "title": "Classics & the Ancient World BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classics-and-the-ancient-world-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "70f18800d0a195b23014c1d6f02a7a4ccc839108051863429c14139a408b13ea",
+          "supports": "公开渲染的国际费年度、计价单位、押金和申请状态",
+          "capture_format": "chrome_accessibility_raw",
+          "locator": "Tuition fees > International; Further fee information; Key Information",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项取得本课程要求、逐年教学、职业分栏、实际 China 分支及 2027/28 国际费用。",
+        "课程选择与海外安排受批准及名额限制；学位/共同入口沿用原 ID，不生成未经核实的语种或 BA/BSc 组合。",
+        "2027英语政策与可比毕业调查仍有明确缺口。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAB；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAB、无必修科目；标准古典学与加速古语路线有不同选课规则",
+        "name": "古典学与古代世界（BA）",
+        "intake": "2027 年 9 月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核本课程职业说明；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese course-specific facts; original public evidence preserved",
       "inventory_id": "kcl-classics-the-ancient-world-ba-3d62e79c23"
     },
     {
@@ -9668,7 +10050,7 @@
       "raw_key": "f67aca0e-5a4f-41c2-bf7d-e40b8e476504",
       "name_en": "History BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -9686,30 +10068,137 @@
               "UKENR-4b720cd42f7a31"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "历史学方法、时期与研究",
+            "text": "首年必修史料方法、中世纪、近代早期及现代世界课程合计 120。第二年历史与记忆两门共30，再选30与60两个模块组；第三年专题及对应论文60，加主题专题30，并在独立长文或两门研究方法中选30。选课表个别30学分组却列15学分课程，需按正式选课确认，不能由标题自行补足。",
+            "source_ids": [
+              "KCLHU-2a4aa138f26ab005"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "海外学期与课程替代",
+            "text": "第二年下学期可申请交换，页面明确此时用15学分模块替代原30学分模块；实际海外学分认定须按批准方案。部分伙伴要求当地语言，不能只凭英语入学条件假定所有目的地可选。",
+            "source_ids": [
+              "KCLHU-2a4aa138f26ab005"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "校区与当前学习安排",
+            "text": "本课程总览列主要校区为 Strand 校区；全日制通常三年。本轮未取得独立明确的全程授课语言条款；英语录取分档见资格部分。",
+            "source_ids": [
+              "KCLHU-89396cd2fa3cfd28"
+            ],
+            "extraction_locator": "Overview > Base campuses, Course essentials, duration; Teaching > language of teaching"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAA；此为原概览总成绩；专属科目、资格与例外见本轮补充。",
             "source_ids": [
               "UKENR-4b720cd42f7a31"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "历史本科入口",
+            "text": "标准 A-level AAA、IB 36 总分或三门 HL 合计 18。通常期待历史 A-level／等同背景，但无历史者如清楚展示对历史学的投入仍可考虑；不接受转学。",
+            "source_ids": [
+              "KCLHU-148a4fb60ded9063"
+            ],
+            "extraction_locator": "requirements正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在其他大学本科中的 Year 0／Integrated Foundation。上述标准 A-level／IB 不能直接换算为高考分数；Contextual 优惠也不能自动套所有中国学生。",
+            "source_ids": [
+              "KCLHU-148a4fb60ded9063"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; Standard vs contextual requirements"
+          },
+          {
+            "label": "A-level考核例外",
+            "text": "不以 General Studies、Critical Thinking、Thinking Skills 或 Global Perspectives 计作所需 A-level，也不在评估中考虑 EPQ。以英格兰线性 A-level 理科申请者须通过实践考核；无法参加实践的 private candidates 有明示例外。这不是给所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLHU-148a4fb60ded9063"
+            ],
+            "extraction_locator": "A-level > exclusions; linear Science practical endorsement; private candidate exception"
+          },
+          {
+            "label": "中国学历：本课程不能直接入学的类别",
+            "text": "本课程 China 分支明确不以 Gao Kao（高考）、Zhao Kao（网页标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。页面指向 International Foundation 作为替代路径信息；预科课程选择、进阶成绩及本专业科目条件仍须满足，不是保证进入本学位。",
+            "source_ids": [
+              "KCLHU-aec4c1b88200047f"
+            ],
+            "extraction_locator": "Actual selected China > three Award entries; International Foundation link"
+          },
+          {
+            "label": "本课程英语Band与年度",
+            "text": "本课程要求 Band B。已取得的英语政策明确适用 2026/27，IELTS Academic 参考为总分 7.0、每项 6.5；须在开课月份首日前两年内且单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学仍须核最新测试政策及录取条件，不将旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLHU-148a4fb60ded9063",
+              "KCLHU-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English language band B; English policy > 2026/27 > Band B > IELTS / validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "V100；课程申请开放状态及截止须再核。",
+            "text": "V100；当前窗口及状态见本轮补充。",
             "source_ids": [
               "UKENR-4b720cd42f7a31"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请窗口与实际状态",
+            "text": "课程页列 UCAS V100，2027 年 9 月开课，申请截止 2027 年 1 月 13 日；本次状态为 Open（当前页面开放）。标准学历、指定科目与申请材料条件仍须同时满足。",
+            "source_ids": [
+              "KCLHU-ffe75e4e5810b590"
+            ],
+            "extraction_locator": "Chrome rendered Key Information > UCAS, Application status, Start date, Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费为 GBP £30,750／学年，明确适用 2027/28 常规授课年；后续学年可按学校条款增加。海外阶段另按适用安排收费，不以本年价格乘全部学制作为总价。",
+            "source_ids": [
+              "KCLHU-ffe75e4e5810b590"
+            ],
+            "extraction_locator": "Tuition fees > Full time tuition fees international > 2027–2028 > per year"
+          },
+          {
+            "label": "国际生押金及附加支出",
+            "text": "国际生坚定接受无条件录取时支付 £2,000 押金，入学后抵扣第一年学费。书本、打印、毕业及伦敦／跨校区交通等可能另付，海外还需预算旅行、签证及食宿。",
+            "source_ids": [
+              "KCLHU-ffe75e4e5810b590"
+            ],
+            "extraction_locator": "International tuition > deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段的收费边界",
+            "text": "海外学习时合作校通常不再收学费，但可能有申请管理费；KCL 继续收取其学费的一部分。本轮未取得本项目未来实际海外阶段明确年度与金额，不能把常规授课年价当作海外年价。",
+            "source_ids": [
+              "KCLHU-ffe75e4e5810b590"
+            ],
+            "extraction_locator": "Further fee information > overseas fees and dated OfS reference, if given"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业领域及数据范围",
+            "text": "职业页以 King’s History 毕业群体列报刊、NGO、法律机构、公务、学校、文化遗产、金融、商业及高校；校友故事入口还包括 BA、MA、PhD，不能当此BA独立调查。本轮未取得可比就业率或薪资。",
+            "source_ids": [
+              "KCLHU-95f65a34c3e118d4"
+            ],
+            "extraction_locator": "careers正文；按公开模块表年份、标题及学分逐项人工摘要"
+          }
+        ]
       },
       "sources": [
         {
@@ -9720,32 +10209,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "d4dada0b895518494ae3ec3c381ff77630c21cd1c097a573b3cfb67a0a055189",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLHU-89396cd2fa3cfd28",
+          "title": "History BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "89396cd2fa3cfd28483233d3235ed2bcf10feb02cdacdd7148bd54ae93b9cab2",
+          "supports": "本课程正式身份、学制、校区及课程总览",
+          "capture_format": "public_html",
+          "locator": "Course overview; Base campuses; duration; course type",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-148a4fb60ded9063",
+          "title": "History BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "148a4fb60ded9063bb3db4ab790b8cae9b1b28122c2bd23498ffced0b8691d04",
+          "supports": "本课程标准成绩、指定科目、学历与申请类别",
+          "capture_format": "public_html",
+          "locator": "Standard requirements; subjects; qualifications; additional requirements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-2a4aa138f26ab005",
+          "title": "History BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "2a4aa138f26ab0054bb0f05a2cf7bfca8278fbec4c27e32e3567245a7c0e7602",
+          "supports": "公开教学页及各年模块列表的课程结构、学分和分流限制",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; visible Year 1–4 text/title/credits; not backend module descriptions",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-95f65a34c3e118d4",
+          "title": "History BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "95f65a34c3e118d43769f159142c76fbd1018ea85f5a6ef75236836b799adf19",
+          "supports": "官方职业方向及实际描述的群体范围；不是毕业调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; actual subject of destination statements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-aec4c1b88200047f",
+          "title": "History BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "aec4c1b88200047f0267484faad4e93c1dd1d47a4bd644d268af0ed74d891d8a",
+          "supports": "本课程实际选择 China 后的三种中国学历直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "International applicants > Equivalent International qualifications > actual China selection > Award",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-dff3755b9680738d",
+          "title": "History BA — 英语政策（2026/27参考）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27参考）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27参考）",
+          "source_period": "明确2026/27；不作为2027/28最终测试清单"
+        },
+        {
+          "id": "KCLHU-ffe75e4e5810b590",
+          "title": "History BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "ffe75e4e5810b59038159d834ce4bebd56454133bc393740543354656684f7b2",
+          "supports": "公开渲染的国际费年度、计价单位、押金和申请状态",
+          "capture_format": "chrome_accessibility_raw",
+          "locator": "Tuition fees > International; Further fee information; Key Information",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项取得本课程要求、逐年教学、职业分栏、实际 China 分支及 2027/28 国际费用。",
+        "课程选择与海外安排受批准及名额限制；学位/共同入口沿用原 ID，不生成未经核实的语种或 BA/BSc 组合。",
+        "2027英语政策与可比毕业调查仍有明确缺口。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAA；通常期待历史背景，可凭学科投入获个案考虑",
+        "name": "历史学（BA）",
+        "intake": "2027 年 9 月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核本课程职业说明；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese course-specific facts; original public evidence preserved",
       "inventory_id": "kcl-history-ba-789f6fee0a"
     },
     {
@@ -9753,7 +10326,7 @@
       "raw_key": "88fe9418-df36-4c2f-aaf7-58ef527125a0",
       "name_en": "History & International Relations BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-international-relations",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -9771,30 +10344,137 @@
               "UKENR-f90353040e05d3"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "历史与国际关系各半",
+            "text": "每年通常 120 学分。首年历史技能、史料与方法 30，加历史选修 30；国际关系理论与国际体系史各 30。第二年两学科各选 60；末年历史专题 30＋相关论文或合资格独立长文 30，另选国际关系 60。采用史料分析、研讨、写作与毕业研究；教学说明毕业论文约 10,000 词。",
+            "source_ids": [
+              "KCLHU-90d2b34c544cfee0"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "交换与实习边界",
+            "text": "第二年下学期可申请合作校交换，一些目的地有德语、西语、意语或法语要求。课程不包含接受考核的实习安排；职业服务提供的经历机会不等于本课程保证的实习学分。",
+            "source_ids": [
+              "KCLHU-90d2b34c544cfee0"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "校区与当前学习安排",
+            "text": "本课程总览列主要校区为 Strand 校区；全日制通常三年。本轮未取得独立明确的全程授课语言条款；英语录取分档见资格部分。",
+            "source_ids": [
+              "KCLHU-df4d6fe9820f33c0"
+            ],
+            "extraction_locator": "Overview > Base campuses, Course essentials, duration; Teaching > language of teaching"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAA；此为原概览总成绩；专属科目、资格与例外见本轮补充。",
             "source_ids": [
               "UKENR-f90353040e05d3"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "历史背景与入学要求",
+            "text": "标准 A-level AAA，IB 36 总分或三门 HL 合计 18。一般期待修读历史 A-level 或等同资格；没有历史者如能清楚证明对该学科的兴趣与参与，仍可考虑，不能写成绝对必修。此项目不接受转学。",
+            "source_ids": [
+              "KCLHU-01d6978c423d640c"
+            ],
+            "extraction_locator": "requirements正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在其他大学本科中的 Year 0／Integrated Foundation。上述标准 A-level／IB 不能直接换算为高考分数；Contextual 优惠也不能自动套所有中国学生。",
+            "source_ids": [
+              "KCLHU-01d6978c423d640c"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; Standard vs contextual requirements"
+          },
+          {
+            "label": "A-level考核例外",
+            "text": "不以 General Studies、Critical Thinking、Thinking Skills 或 Global Perspectives 计作所需 A-level，也不在评估中考虑 EPQ。以英格兰线性 A-level 理科申请者须通过实践考核；无法参加实践的 private candidates 有明示例外。这不是给所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLHU-01d6978c423d640c"
+            ],
+            "extraction_locator": "A-level > exclusions; linear Science practical endorsement; private candidate exception"
+          },
+          {
+            "label": "中国学历：本课程不能直接入学的类别",
+            "text": "本课程 China 分支明确不以 Gao Kao（高考）、Zhao Kao（网页标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。页面指向 International Foundation 作为替代路径信息；预科课程选择、进阶成绩及本专业科目条件仍须满足，不是保证进入本学位。",
+            "source_ids": [
+              "KCLHU-b083a73bdc739d52"
+            ],
+            "extraction_locator": "Actual selected China > three Award entries; International Foundation link"
+          },
+          {
+            "label": "本课程英语Band与年度",
+            "text": "本课程要求 Band B。已取得的英语政策明确适用 2026/27，IELTS Academic 参考为总分 7.0、每项 6.5；须在开课月份首日前两年内且单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学仍须核最新测试政策及录取条件，不将旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLHU-01d6978c423d640c",
+              "KCLHU-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English language band B; English policy > 2026/27 > Band B > IELTS / validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "VL12；课程申请开放状态及截止须再核。",
+            "text": "VL12；当前窗口及状态见本轮补充。",
             "source_ids": [
               "UKENR-f90353040e05d3"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请窗口与实际状态",
+            "text": "课程页列 UCAS VL12，2027 年 9 月开课，申请截止 2027 年 1 月 13 日；本次状态为 Closed（当前页面关闭）。未来日期与 Closed 同时出现，不能据日期宣称现在可申请，也不能据 Closed 推定整个 2027 年停招；提交前须向招生部门确认。",
+            "source_ids": [
+              "KCLHU-360e15e9cace9f73"
+            ],
+            "extraction_locator": "Chrome rendered Key Information > UCAS, Application status, Start date, Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费为 GBP £35,900／学年，明确适用 2027/28 常规授课年；后续学年可按学校条款增加。海外阶段另按适用安排收费，不以本年价格乘全部学制作为总价。",
+            "source_ids": [
+              "KCLHU-360e15e9cace9f73"
+            ],
+            "extraction_locator": "Tuition fees > Full time tuition fees international > 2027–2028 > per year"
+          },
+          {
+            "label": "国际生押金及附加支出",
+            "text": "国际生坚定接受无条件录取时支付 £2,000 押金，入学后抵扣第一年学费。书本、打印、毕业及伦敦／跨校区交通等可能另付，海外还需预算旅行、签证及食宿。",
+            "source_ids": [
+              "KCLHU-360e15e9cace9f73"
+            ],
+            "extraction_locator": "International tuition > deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段的收费边界",
+            "text": "海外学习时合作校通常不再收学费，但可能有申请管理费；KCL 继续收取其学费的一部分。本轮未取得本项目未来实际海外阶段明确年度与金额，不能把常规授课年价当作海外年价。",
+            "source_ids": [
+              "KCLHU-360e15e9cace9f73"
+            ],
+            "extraction_locator": "Further fee information > overseas fees and dated OfS reference, if given"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业领域",
+            "text": "课程总览列政府、新闻、政策研究及非政府组织等方向。本轮未取得本课程可比届次、样本量的就业率或薪资；这些职业例子不代表保证录用。",
+            "source_ids": [
+              "KCLHU-df4d6fe9820f33c0"
+            ],
+            "extraction_locator": "overview正文；按公开模块表年份、标题及学分逐项人工摘要"
+          }
+        ]
       },
       "sources": [
         {
@@ -9805,32 +10485,105 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "df4d6fe9820f33c01e42a5460ab2e335a0deec9054e00407b44b789f3c564828",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLHU-df4d6fe9820f33c0",
+          "title": "History & International Relations BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-international-relations",
+          "checked_at": "2026-09-13",
+          "sha256": "df4d6fe9820f33c01e42a5460ab2e335a0deec9054e00407b44b789f3c564828",
+          "supports": "本课程正式身份、学制、校区及课程总览",
+          "capture_format": "public_html",
+          "locator": "Course overview; Base campuses; duration; course type",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-01d6978c423d640c",
+          "title": "History & International Relations BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-international-relations/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "01d6978c423d640c1f942d4fc6c85036a5d4434fad8b821acac30ae755653d16",
+          "supports": "本课程标准成绩、指定科目、学历与申请类别",
+          "capture_format": "public_html",
+          "locator": "Standard requirements; subjects; qualifications; additional requirements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-90d2b34c544cfee0",
+          "title": "History & International Relations BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-international-relations/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "90d2b34c544cfee02ca0345b33ea44e578c0d086206d3ccd20c1691321cabdf5",
+          "supports": "公开教学页及各年模块列表的课程结构、学分和分流限制",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; visible Year 1–4 text/title/credits; not backend module descriptions",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-b083a73bdc739d52",
+          "title": "History & International Relations BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-international-relations/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "b083a73bdc739d520c46ec8807220ff7043ef558102adc822bce8d2525ad7839",
+          "supports": "本课程实际选择 China 后的三种中国学历直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "International applicants > Equivalent International qualifications > actual China selection > Award",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-dff3755b9680738d",
+          "title": "History & International Relations BA — 英语政策（2026/27参考）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27参考）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27参考）",
+          "source_period": "明确2026/27；不作为2027/28最终测试清单"
+        },
+        {
+          "id": "KCLHU-360e15e9cace9f73",
+          "title": "History & International Relations BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-international-relations/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "360e15e9cace9f73dc2dda500c569dc3bea76c4dc51b41e080b2408ea9fc2a45",
+          "supports": "公开渲染的国际费年度、计价单位、押金和申请状态",
+          "capture_format": "chrome_accessibility_raw",
+          "locator": "Tuition fees > International; Further fee information; Key Information",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项取得本课程三个分栏、实际 China 分支及 2027/28 国际费用；历史与国际关系 Careers 为空，仅用该课程有正文的总览职业说明。",
+        "课程选择与海外安排受批准及名额限制；学位/共同入口沿用原 ID，不生成未经核实的语种或 BA/BSc 组合。",
+        "2027英语政策与可比毕业调查仍有明确缺口。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "当前页面 Closed；高考／Zhao Kao 不直入；AAA；一般期待历史背景，但可凭明确学科投入获个案考虑",
+        "name": "历史与国际关系（BA）",
+        "intake": "2027 年 9 月；当前页面 Closed，开放须确认",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £35,900／学年（常规授课年）",
+        "outcomes_summary": "已核本课程职业说明；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese course-specific facts; original public evidence preserved",
       "inventory_id": "kcl-history-international-relations-ba-6588b9a859"
     },
     {
@@ -9838,7 +10591,7 @@
       "raw_key": "e677e176-e4ea-45b8-a5b9-9ab23ecfb779",
       "name_en": "History & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -9856,30 +10609,148 @@
               "UKENR-24d8f30d64df50"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "历史与一门现代语言",
+            "text": "前两年各修历史 60、所选现代语言 60 学分。历史包括史料方法、跨地区时期选修；语言含按已有水平分班的语言训练与文学文化。第三年在相应语区交换、任英语语言助教或参加获批工作安置，考核因国家及活动安排而异；末年历史专题与论文合计 60，语言侧再修 60。",
+            "source_ids": [
+              "KCLHU-25aa37f74d3dc6ee"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "授课语种与学习安排",
+            "text": "正文明确按学科使用英语及所学语言授课；本条是四年带海外年的共同入口，不是同时学习四种语言的四学位组合。海外机构和具体选修会变化，部分读原文的模块不向所有零基础路线开放。",
+            "source_ids": [
+              "KCLHU-25aa37f74d3dc6ee"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "校区与当前学习安排",
+            "text": "本课程总览列主要校区为 Strand 校区；全日制四年，含海外年。授课按学科使用英语及所学现代语言，海外地点依批准路线。",
+            "source_ids": [
+              "KCLHU-e5b8ff63bbe74832",
+              "KCLHU-25aa37f74d3dc6ee"
+            ],
+            "extraction_locator": "Overview > Base campuses, Course essentials, duration; Teaching > language of teaching"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAB；此为原概览总成绩；专属科目、资格与例外见本轮补充。",
             "source_ids": [
               "UKENR-24d8f30d64df50"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "语言基础与历史背景",
+            "text": "标准 A-level AAB、IB 35 总分或三门 HL 合计 17。高级法／德／葡／西语路线须相应语言 A-level B 或等同；零基础 ab initio 路线没有该语言前置。通常期待历史背景，但能明确展示历史学科投入者可个案考虑。不能自行给 IB 语言换算等级。",
+            "source_ids": [
+              "KCLHU-4d4aeebc48ab3ede",
+              "KCLHU-25aa37f74d3dc6ee"
+            ],
+            "extraction_locator": "requirements正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "同一入口内选择路线",
+            "text": "申请时不必指定语种；获录取者夏初填语言偏好表，收到夏季最终成绩后才确定语种及高级／零基础资格。不接受转学。德语、葡语中间级班可能因人数不足不开，不等同整个语言课程停招。",
+            "source_ids": [
+              "KCLHU-4d4aeebc48ab3ede",
+              "KCLHU-25aa37f74d3dc6ee"
+            ],
+            "extraction_locator": "requirements正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在其他大学本科中的 Year 0／Integrated Foundation。上述标准 A-level／IB 不能直接换算为高考分数；Contextual 优惠也不能自动套所有中国学生。",
+            "source_ids": [
+              "KCLHU-4d4aeebc48ab3ede"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; Standard vs contextual requirements"
+          },
+          {
+            "label": "A-level考核例外",
+            "text": "不以 General Studies、Critical Thinking、Thinking Skills 或 Global Perspectives 计作所需 A-level，也不在评估中考虑 EPQ。以英格兰线性 A-level 理科申请者须通过实践考核；无法参加实践的 private candidates 有明示例外。这不是给所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLHU-4d4aeebc48ab3ede"
+            ],
+            "extraction_locator": "A-level > exclusions; linear Science practical endorsement; private candidate exception"
+          },
+          {
+            "label": "中国学历：本课程不能直接入学的类别",
+            "text": "本课程 China 分支明确不以 Gao Kao（高考）、Zhao Kao（网页标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。页面指向 International Foundation 作为替代路径信息；预科课程选择、进阶成绩及本专业科目条件仍须满足，不是保证进入本学位。",
+            "source_ids": [
+              "KCLHU-3bac79963e32629c"
+            ],
+            "extraction_locator": "Actual selected China > three Award entries; International Foundation link"
+          },
+          {
+            "label": "本课程英语Band与年度",
+            "text": "本课程要求 Band B。已取得的英语政策明确适用 2026/27，IELTS Academic 参考为总分 7.0、每项 6.5；须在开课月份首日前两年内且单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学仍须核最新测试政策及录取条件，不将旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLHU-4d4aeebc48ab3ede",
+              "KCLHU-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English language band B; English policy > 2026/27 > Band B > IELTS / validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "R903；课程申请开放状态及截止须再核。",
+            "text": "R903；当前窗口及状态见本轮补充。",
             "source_ids": [
               "UKENR-24d8f30d64df50"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请窗口与实际状态",
+            "text": "课程页列 UCAS R903，2027 年 9 月开课，申请截止 2027 年 1 月 13 日；本次状态为 Open（当前页面开放）。标准学历、指定科目与申请材料条件仍须同时满足。",
+            "source_ids": [
+              "KCLHU-bba8ade90c3ae2ef"
+            ],
+            "extraction_locator": "Chrome rendered Key Information > UCAS, Application status, Start date, Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费为 GBP £30,750／学年，明确适用 2027/28 常规授课年；后续学年可按学校条款增加。海外阶段另按适用安排收费，不以本年价格乘全部学制作为总价。",
+            "source_ids": [
+              "KCLHU-bba8ade90c3ae2ef"
+            ],
+            "extraction_locator": "Tuition fees > Full time tuition fees international > 2027–2028 > per year"
+          },
+          {
+            "label": "国际生押金及附加支出",
+            "text": "国际生坚定接受无条件录取时支付 £2,000 押金，入学后抵扣第一年学费。书本、打印、毕业及伦敦／跨校区交通等可能另付，海外还需预算旅行、签证及食宿。",
+            "source_ids": [
+              "KCLHU-bba8ade90c3ae2ef"
+            ],
+            "extraction_locator": "International tuition > deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段的收费边界",
+            "text": "海外学习时合作校通常不再收学费，但可能有申请管理费；KCL 继续收取其学费的一部分。本轮未取得本项目未来实际海外阶段明确年度与金额，不能把常规授课年价当作海外年价。",
+            "source_ids": [
+              "KCLHU-bba8ade90c3ae2ef"
+            ],
+            "extraction_locator": "Further fee information > overseas fees and dated OfS reference, if given"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业领域与资格边界",
+            "text": "课程列国际商务、媒体、科技、公务、发展、金融、教学、口笔译等领域。职业相关外语能力不等于保证取得教师／法律等受监管职业资格；本轮未取得本共同入口、具体语种及届次可比的就业率或薪资。",
+            "source_ids": [
+              "KCLHU-a3b85c76e3c36109"
+            ],
+            "extraction_locator": "careers正文；按公开模块表年份、标题及学分逐项人工摘要"
+          }
+        ]
       },
       "sources": [
         {
@@ -9890,32 +10761,117 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "3cec30cb518753bdcd1209a931b30fc36371525a7fd488f81bd08b1850997793",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLHU-e5b8ff63bbe74832",
+          "title": "History & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "e5b8ff63bbe748329498aed7f65b770e66da9a1395738f15f98255294c3cec7e",
+          "supports": "本课程正式身份、学制、校区及课程总览",
+          "capture_format": "public_html",
+          "locator": "Course overview; Base campuses; duration; course type",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-4d4aeebc48ab3ede",
+          "title": "History & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "4d4aeebc48ab3ede22ceb8a3df27cd1f4f57d109c7ab0c51846b53df0417ba75",
+          "supports": "本课程标准成绩、指定科目、学历与申请类别",
+          "capture_format": "public_html",
+          "locator": "Standard requirements; subjects; qualifications; additional requirements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-25aa37f74d3dc6ee",
+          "title": "History & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "25aa37f74d3dc6eedbe8a037a475520798b851dd608f18981623a7c359568f7d",
+          "supports": "公开教学页及各年模块列表的课程结构、学分和分流限制",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; visible Year 1–4 text/title/credits; not backend module descriptions",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-a3b85c76e3c36109",
+          "title": "History & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "a3b85c76e3c3610938dca03607df344cb0a8d7c1246a05c1a5064461f4481ea3",
+          "supports": "官方职业方向及实际描述的群体范围；不是毕业调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; actual subject of destination statements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-3bac79963e32629c",
+          "title": "History & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "3bac79963e32629c2641a3f6f0bd1b47c3c64d002a31948ca456465fb44927df",
+          "supports": "本课程实际选择 China 后的三种中国学历直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "International applicants > Equivalent International qualifications > actual China selection > Award",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-dff3755b9680738d",
+          "title": "History & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — 英语政策（2026/27参考）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27参考）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27参考）",
+          "source_period": "明确2026/27；不作为2027/28最终测试清单"
+        },
+        {
+          "id": "KCLHU-bba8ade90c3ae2ef",
+          "title": "History & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "bba8ade90c3ae2ef196f25aed7f72be22158066cf406fbe3198d8fce65a11f35",
+          "supports": "公开渲染的国际费年度、计价单位、押金和申请状态",
+          "capture_format": "chrome_accessibility_raw",
+          "locator": "Tuition fees > International; Further fee information; Key Information",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项取得本课程要求、逐年教学、职业分栏、实际 China 分支及 2027/28 国际费用。",
+        "课程选择与海外安排受批准及名额限制；学位/共同入口沿用原 ID，不生成未经核实的语种或 BA/BSc 组合。",
+        "2027英语政策与可比毕业调查仍有明确缺口。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level AAB；其他科目/考试见详情"
+        "duration": "四年（含必修海外年）",
+        "entry_summary": "高考／Zhao Kao 不直入；AAB；一门现代语言＋历史，零基础和高级路线夏季依最终成绩确认",
+        "name": "历史与现代语言（BA，含海外年）",
+        "intake": "2027 年 9 月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核本课程职业说明；未取得可比届次就业率／薪资",
+        "language": "英语及所学现代语言"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese course-specific facts; original public evidence preserved",
       "inventory_id": "kcl-history-modern-languages-french-german-portuguese-or-spanish-with-ce67d68eb3"
     },
     {
@@ -9923,7 +10879,7 @@
       "raw_key": "eb3d6c37-be12-4184-a5f4-f59f3512c77f",
       "name_en": "History & Political Economy BA/BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-political-economy",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -9941,30 +10897,138 @@
               "UKENR-831a9c2ef92ee9"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "共同一年级后分 BA／BSc",
+            "text": "首年历史技能30、世界经济与历史30、经济学原理30，再选历史30。第二年共同必修政治思想史两门各15及历史政治经济方法15；BSc另修政治科学统计15。第三年BSc再修统计II 15；所有人须完成历史或政治经济论文，由选择的论文归属决定其余选修配额。",
+            "source_ids": [
+              "KCLHU-0d3e67847c376a2e"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "交换及实习限制",
+            "text": "第二年下学期有交换机会，但 North Carolina、Sciences Po、California 等选项因经济学必修无法保证，明确不适合 BSc；Sciences Po 还要求基础法语。课程不含接受考核的实习，职业服务机会不等同本学位的保证实习。",
+            "source_ids": [
+              "KCLHU-0d3e67847c376a2e"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "校区与当前学习安排",
+            "text": "本课程总览列主要校区为 Strand 校区；全日制通常三年。本轮未取得独立明确的全程授课语言条款；英语录取分档见资格部分。",
+            "source_ids": [
+              "KCLHU-6b76493b01749888"
+            ],
+            "extraction_locator": "Overview > Base campuses, Course essentials, duration; Teaching > language of teaching"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAA；此为原概览总成绩；专属科目、资格与例外见本轮补充。",
             "source_ids": [
               "UKENR-831a9c2ef92ee9"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "本科共同入口",
+            "text": "标准 A-level AAA、IB 36 总分或三门 HL 合计 18，无硬性指定科目。通常期待历史背景，但无历史者能明确证明学科兴趣与参与仍可考虑。BA/BSc 在第一年后分流，不能为 BSc 擅加本页没有列出的高中数学硬门槛；不接受转学。",
+            "source_ids": [
+              "KCLHU-a5bfb84a6b5093a2",
+              "KCLHU-0d3e67847c376a2e"
+            ],
+            "extraction_locator": "requirements正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在其他大学本科中的 Year 0／Integrated Foundation。上述标准 A-level／IB 不能直接换算为高考分数；Contextual 优惠也不能自动套所有中国学生。",
+            "source_ids": [
+              "KCLHU-a5bfb84a6b5093a2"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; Standard vs contextual requirements"
+          },
+          {
+            "label": "A-level考核例外",
+            "text": "不以 General Studies、Critical Thinking、Thinking Skills 或 Global Perspectives 计作所需 A-level，也不在评估中考虑 EPQ。以英格兰线性 A-level 理科申请者须通过实践考核；无法参加实践的 private candidates 有明示例外。这不是给所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLHU-a5bfb84a6b5093a2"
+            ],
+            "extraction_locator": "A-level > exclusions; linear Science practical endorsement; private candidate exception"
+          },
+          {
+            "label": "中国学历：本课程不能直接入学的类别",
+            "text": "本课程 China 分支明确不以 Gao Kao（高考）、Zhao Kao（网页标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。页面指向 International Foundation 作为替代路径信息；预科课程选择、进阶成绩及本专业科目条件仍须满足，不是保证进入本学位。",
+            "source_ids": [
+              "KCLHU-b7f65309906f76c1"
+            ],
+            "extraction_locator": "Actual selected China > three Award entries; International Foundation link"
+          },
+          {
+            "label": "本课程英语Band与年度",
+            "text": "本课程要求 Band B。已取得的英语政策明确适用 2026/27，IELTS Academic 参考为总分 7.0、每项 6.5；须在开课月份首日前两年内且单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学仍须核最新测试政策及录取条件，不将旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLHU-a5bfb84a6b5093a2",
+              "KCLHU-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English language band B; English policy > 2026/27 > Band B > IELTS / validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "LV22；课程申请开放状态及截止须再核。",
+            "text": "LV22；当前窗口及状态见本轮补充。",
             "source_ids": [
               "UKENR-831a9c2ef92ee9"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请窗口与实际状态",
+            "text": "课程页列 UCAS LV22，2027 年 9 月开课，申请截止 2027 年 1 月 13 日；本次状态为 Open（当前页面开放）。标准学历、指定科目与申请材料条件仍须同时满足。",
+            "source_ids": [
+              "KCLHU-77c01d4bd9dfd155"
+            ],
+            "extraction_locator": "Chrome rendered Key Information > UCAS, Application status, Start date, Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费为 GBP £35,900／学年，明确适用 2027/28 常规授课年；后续学年可按学校条款增加。海外阶段另按适用安排收费，不以本年价格乘全部学制作为总价。",
+            "source_ids": [
+              "KCLHU-77c01d4bd9dfd155"
+            ],
+            "extraction_locator": "Tuition fees > Full time tuition fees international > 2027–2028 > per year"
+          },
+          {
+            "label": "国际生押金及附加支出",
+            "text": "国际生坚定接受无条件录取时支付 £2,000 押金，入学后抵扣第一年学费。书本、打印、毕业及伦敦／跨校区交通等可能另付，海外还需预算旅行、签证及食宿。",
+            "source_ids": [
+              "KCLHU-77c01d4bd9dfd155"
+            ],
+            "extraction_locator": "International tuition > deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段的收费边界",
+            "text": "海外学习时合作校通常不再收学费，但可能有申请管理费；KCL 继续收取其学费的一部分。本轮未取得本项目未来实际海外阶段明确年度与金额，不能把常规授课年价当作海外年价。",
+            "source_ids": [
+              "KCLHU-77c01d4bd9dfd155"
+            ],
+            "extraction_locator": "Further fee information > overseas fees and dated OfS reference, if given"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业发展",
+            "text": "职业页列研究、教学、新闻、文化管理、政治与金融等方向；没有提供 BA 与 BSc 路线分开的就业率、届次／分母或薪资。本条只列职业说明，不以学校就业排名代替本项目结果。",
+            "source_ids": [
+              "KCLHU-bdc56b1075af06bc"
+            ],
+            "extraction_locator": "careers正文；按公开模块表年份、标题及学分逐项人工摘要"
+          }
+        ]
       },
       "sources": [
         {
@@ -9975,32 +11039,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "d578ac7f7c57065a4ddb4b877435478d3a349d53d6438982ca07dc106d720d51",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLHU-6b76493b01749888",
+          "title": "History & Political Economy BA/BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-political-economy",
+          "checked_at": "2026-09-13",
+          "sha256": "6b76493b0174988883359db0334551ed5d892f53407f8bec5b788a0c6e143fc3",
+          "supports": "本课程正式身份、学制、校区及课程总览",
+          "capture_format": "public_html",
+          "locator": "Course overview; Base campuses; duration; course type",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-a5bfb84a6b5093a2",
+          "title": "History & Political Economy BA/BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-political-economy/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "a5bfb84a6b5093a2e24f7cea4bb00587fee15b112c78d580163e04adf4eb7979",
+          "supports": "本课程标准成绩、指定科目、学历与申请类别",
+          "capture_format": "public_html",
+          "locator": "Standard requirements; subjects; qualifications; additional requirements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-0d3e67847c376a2e",
+          "title": "History & Political Economy BA/BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-political-economy/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "0d3e67847c376a2e96511e216edeaf24273996ee221c245d4d02763d582a4a22",
+          "supports": "公开教学页及各年模块列表的课程结构、学分和分流限制",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; visible Year 1–4 text/title/credits; not backend module descriptions",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-bdc56b1075af06bc",
+          "title": "History & Political Economy BA/BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-political-economy/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "bdc56b1075af06bcc271481a75bd4e608f1d511ce9893eb53c9ece71e6e95d52",
+          "supports": "官方职业方向及实际描述的群体范围；不是毕业调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; actual subject of destination statements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-b7f65309906f76c1",
+          "title": "History & Political Economy BA/BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-political-economy/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "b7f65309906f76c1d3ec013e24862712d2b915a8682767f53eaf0e4e3dc584b2",
+          "supports": "本课程实际选择 China 后的三种中国学历直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "International applicants > Equivalent International qualifications > actual China selection > Award",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-dff3755b9680738d",
+          "title": "History & Political Economy BA/BSc — 英语政策（2026/27参考）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27参考）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27参考）",
+          "source_period": "明确2026/27；不作为2027/28最终测试清单"
+        },
+        {
+          "id": "KCLHU-77c01d4bd9dfd155",
+          "title": "History & Political Economy BA/BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-political-economy/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "77c01d4bd9dfd1555ba18831508b33908316a79556761cdeec424bf1c65eb347",
+          "supports": "公开渲染的国际费年度、计价单位、押金和申请状态",
+          "capture_format": "chrome_accessibility_raw",
+          "locator": "Tuition fees > International; Further fee information; Key Information",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项取得本课程要求、逐年教学、职业分栏、实际 China 分支及 2027/28 国际费用。",
+        "课程选择与海外安排受批准及名额限制；学位/共同入口沿用原 ID，不生成未经核实的语种或 BA/BSc 组合。",
+        "2027英语政策与可比毕业调查仍有明确缺口。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAA；第一年后选 BA／BSc，BSc 另有统计必修及交换限制",
+        "name": "历史与政治经济（BA／BSc共同入口）",
+        "intake": "2027 年 9 月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £35,900／学年（常规授课年）",
+        "outcomes_summary": "已核本课程职业说明；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese course-specific facts; original public evidence preserved",
       "inventory_id": "kcl-history-political-economy-ba-bsc-8a566898aa"
     },
     {
@@ -15198,7 +16346,7 @@
       "raw_key": "97a9396f-85a5-43d8-945e-3a35fe5f75fb",
       "name_en": "Philosophy BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -15216,30 +16364,129 @@
               "UKENR-44151da69d22d8"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "从共同基础到分组选修",
+            "text": "第一年八门核心课各 15 学分，涵盖伦理、逻辑、形而上学、古代／现代哲学、政治哲学、认识论与方法。第二年历史哲学、伦理政治、理论哲学三个组各取 30，再选 30；跨系或伦敦大学课程须课程负责人批准。末年选 120，含可选 30 学分论文，不是人人必须论文。第二年下学期可申请海外交换。",
+            "source_ids": [
+              "KCLHU-27280fca45f297b3"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "校区与当前学习安排",
+            "text": "本课程总览列主要校区为 Strand 校区；全日制通常三年。本轮未取得独立明确的全程授课语言条款；英语录取分档见资格部分。",
+            "source_ids": [
+              "KCLHU-0efbdfe55d4503a8"
+            ],
+            "extraction_locator": "Overview > Base campuses, Course essentials, duration; Teaching > language of teaching"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAA；此为原概览总成绩；专属科目、资格与例外见本轮补充。",
             "source_ids": [
               "UKENR-44151da69d22d8"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "哲学本科资格",
+            "text": "标准 A-level AAA、IB 36 总分或三门 HL 合计 18，无指定或优先科目。可考虑申请转入第二年，但须按转学程序个案审核，不等于保证转入。",
+            "source_ids": [
+              "KCLHU-320a38185051f272"
+            ],
+            "extraction_locator": "requirements正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在其他大学本科中的 Year 0／Integrated Foundation。上述标准 A-level／IB 不能直接换算为高考分数；Contextual 优惠也不能自动套所有中国学生。",
+            "source_ids": [
+              "KCLHU-320a38185051f272"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; Standard vs contextual requirements"
+          },
+          {
+            "label": "A-level考核例外",
+            "text": "不以 General Studies、Critical Thinking、Thinking Skills 或 Global Perspectives 计作所需 A-level，也不在评估中考虑 EPQ。以英格兰线性 A-level 理科申请者须通过实践考核；无法参加实践的 private candidates 有明示例外。这不是给所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLHU-320a38185051f272"
+            ],
+            "extraction_locator": "A-level > exclusions; linear Science practical endorsement; private candidate exception"
+          },
+          {
+            "label": "中国学历：本课程不能直接入学的类别",
+            "text": "本课程 China 分支明确不以 Gao Kao（高考）、Zhao Kao（网页标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。页面指向 International Foundation 作为替代路径信息；预科课程选择、进阶成绩及本专业科目条件仍须满足，不是保证进入本学位。",
+            "source_ids": [
+              "KCLHU-03a9dc0fd0fe4834"
+            ],
+            "extraction_locator": "Actual selected China > three Award entries; International Foundation link"
+          },
+          {
+            "label": "本课程英语Band与年度",
+            "text": "本课程要求 Band B。已取得的英语政策明确适用 2026/27，IELTS Academic 参考为总分 7.0、每项 6.5；须在开课月份首日前两年内且单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学仍须核最新测试政策及录取条件，不将旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLHU-320a38185051f272",
+              "KCLHU-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English language band B; English policy > 2026/27 > Band B > IELTS / validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "V500；课程申请开放状态及截止须再核。",
+            "text": "V500；当前窗口及状态见本轮补充。",
             "source_ids": [
               "UKENR-44151da69d22d8"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请窗口与实际状态",
+            "text": "课程页列 UCAS V500，2027 年 9 月开课，申请截止 2027 年 1 月 13 日；本次状态为 Open（当前页面开放）。标准学历、指定科目与申请材料条件仍须同时满足。",
+            "source_ids": [
+              "KCLHU-cf8b590c2eda7ab6"
+            ],
+            "extraction_locator": "Chrome rendered Key Information > UCAS, Application status, Start date, Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费为 GBP £30,750／学年，明确适用 2027/28 常规授课年；后续学年可按学校条款增加。海外阶段另按适用安排收费，不以本年价格乘全部学制作为总价。",
+            "source_ids": [
+              "KCLHU-cf8b590c2eda7ab6"
+            ],
+            "extraction_locator": "Tuition fees > Full time tuition fees international > 2027–2028 > per year"
+          },
+          {
+            "label": "国际生押金及附加支出",
+            "text": "国际生坚定接受无条件录取时支付 £2,000 押金，入学后抵扣第一年学费。书本、打印、毕业及伦敦／跨校区交通等可能另付，海外还需预算旅行、签证及食宿。",
+            "source_ids": [
+              "KCLHU-cf8b590c2eda7ab6"
+            ],
+            "extraction_locator": "International tuition > deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段的收费边界",
+            "text": "海外学习时合作校通常不再收学费，但可能有申请管理费；KCL 继续收取其学费的一部分。本轮未取得本项目未来实际海外阶段明确年度与金额，不能把常规授课年价当作海外年价。",
+            "source_ids": [
+              "KCLHU-cf8b590c2eda7ab6"
+            ],
+            "extraction_locator": "Further fee information > overseas fees and dated OfS reference, if given"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业发展",
+            "text": "职业页列法律、新闻、教学、公共政策、金融、出版、传播、慈善及文化行业，也可继续研究生学习。哲学训练带来的通用能力不等同受监管职业资格；没有取得本项目独立届次／分母及可比就业率或薪资。",
+            "source_ids": [
+              "KCLHU-6fdeb32f560a6968"
+            ],
+            "extraction_locator": "careers正文；按公开模块表年份、标题及学分逐项人工摘要"
+          }
+        ]
       },
       "sources": [
         {
@@ -15250,32 +16497,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "196b56782c48e076c4f19d01ca62fefdb8b5847bc6cb9b2da203eccf6f798358",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLHU-0efbdfe55d4503a8",
+          "title": "Philosophy BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "0efbdfe55d4503a8d3e26fd896cb95937d500781dd75c06454efb1f233ef3614",
+          "supports": "本课程正式身份、学制、校区及课程总览",
+          "capture_format": "public_html",
+          "locator": "Course overview; Base campuses; duration; course type",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-320a38185051f272",
+          "title": "Philosophy BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "320a38185051f2720437f1c83cd20ee19719515b27dc498544e8c671defcf743",
+          "supports": "本课程标准成绩、指定科目、学历与申请类别",
+          "capture_format": "public_html",
+          "locator": "Standard requirements; subjects; qualifications; additional requirements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-27280fca45f297b3",
+          "title": "Philosophy BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "27280fca45f297b34305a99d1871c9e78ae675482c060d074e38d0adb46ac29f",
+          "supports": "公开教学页及各年模块列表的课程结构、学分和分流限制",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; visible Year 1–4 text/title/credits; not backend module descriptions",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-6fdeb32f560a6968",
+          "title": "Philosophy BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "6fdeb32f560a696880f5fea3dbcd74ceef89bdad3bb17ed4b48ee22524e6f25e",
+          "supports": "官方职业方向及实际描述的群体范围；不是毕业调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; actual subject of destination statements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-03a9dc0fd0fe4834",
+          "title": "Philosophy BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "03a9dc0fd0fe4834950e141ac4320f13593cd6b0fc6a939821c143af903ba963",
+          "supports": "本课程实际选择 China 后的三种中国学历直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "International applicants > Equivalent International qualifications > actual China selection > Award",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-dff3755b9680738d",
+          "title": "Philosophy BA — 英语政策（2026/27参考）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27参考）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27参考）",
+          "source_period": "明确2026/27；不作为2027/28最终测试清单"
+        },
+        {
+          "id": "KCLHU-cf8b590c2eda7ab6",
+          "title": "Philosophy BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "cf8b590c2eda7ab629af38f0a0c0c4e3132b2c090a1029fd3e3b8f30ae433cf8",
+          "supports": "公开渲染的国际费年度、计价单位、押金和申请状态",
+          "capture_format": "chrome_accessibility_raw",
+          "locator": "Tuition fees > International; Further fee information; Key Information",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项取得本课程要求、逐年教学、职业分栏、实际 China 分支及 2027/28 国际费用。",
+        "课程选择与海外安排受批准及名额限制；学位/共同入口沿用原 ID，不生成未经核实的语种或 BA/BSc 组合。",
+        "2027英语政策与可比毕业调查仍有明确缺口。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAA、无指定科目；第二年须满足三组哲学选课配额",
+        "name": "哲学（BA）",
+        "intake": "2027 年 9 月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核本课程职业说明；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese course-specific facts; original public evidence preserved",
       "inventory_id": "kcl-philosophy-ba-7448041388"
     },
     {
@@ -15283,7 +16614,7 @@
       "raw_key": "a2930ea3-1f66-48ad-a792-51939ba0aa38",
       "name_en": "Philosophy & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-and-modern-languages-with-a-year-abroad-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -15301,30 +16632,148 @@
               "UKENR-d672fa3d9f8699"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "哲学与语言的学分结构",
+            "text": "第一年哲学 60：三个组各一门，再任选一门；现代语言 60。第二年哲学 60 中，三门 Level 5 须跨至少两组，余 15 可在规定的较高级课程中选；语言侧仍 60。第三年海外交换、语言助教或获批工作，考核依安排而异；末年哲学 60 中至少 45 为 Level 6，另修语言 60。",
+            "source_ids": [
+              "KCLHU-27a61d8ea6544a66"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "教学语种与列表边界",
+            "text": "按学科用英语与所学语言授课。德／葡语中间级班可能因人数不开；第一年表未列西语，但正式入口及后二年明确西语路线，不据表遗漏推定停招。跨语种细读模块有语言水平限制，不能保证任意选择。",
+            "source_ids": [
+              "KCLHU-27a61d8ea6544a66"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "校区与当前学习安排",
+            "text": "本课程总览列主要校区为 Strand 校区；全日制四年，含海外年。授课按学科使用英语及所学现代语言，海外地点依批准路线。",
+            "source_ids": [
+              "KCLHU-7f200f8f8d89a1cc",
+              "KCLHU-27a61d8ea6544a66"
+            ],
+            "extraction_locator": "Overview > Base campuses, Course essentials, duration; Teaching > language of teaching"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAB；此为原概览总成绩；专属科目、资格与例外见本轮补充。",
             "source_ids": [
               "UKENR-d672fa3d9f8699"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "语种和先修",
+            "text": "标准 A-level AAB、IB 35 总分或三门 HL 合计 17。高级法／德／葡／西语须相应语言 A-level B 或等同；零基础路线没有该语言前置。申请时无需选语种，获录取者夏初填偏好，最终成绩收到后确定路线资格；不接受转学。",
+            "source_ids": [
+              "KCLHU-3db161a141921cfd",
+              "KCLHU-27a61d8ea6544a66"
+            ],
+            "extraction_locator": "requirements正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "海外年不是可随意取消",
+            "text": "海外年为语言本科必需组成；仅有特殊情况可由系方酌情豁免，入学前不能保证豁免。不能把带海外年的四年共同入口当成任选三年版本。",
+            "source_ids": [
+              "KCLHU-3db161a141921cfd",
+              "KCLHU-27a61d8ea6544a66"
+            ],
+            "extraction_locator": "requirements正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在其他大学本科中的 Year 0／Integrated Foundation。上述标准 A-level／IB 不能直接换算为高考分数；Contextual 优惠也不能自动套所有中国学生。",
+            "source_ids": [
+              "KCLHU-3db161a141921cfd"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; Standard vs contextual requirements"
+          },
+          {
+            "label": "A-level考核例外",
+            "text": "不以 General Studies、Critical Thinking、Thinking Skills 或 Global Perspectives 计作所需 A-level，也不在评估中考虑 EPQ。以英格兰线性 A-level 理科申请者须通过实践考核；无法参加实践的 private candidates 有明示例外。这不是给所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLHU-3db161a141921cfd"
+            ],
+            "extraction_locator": "A-level > exclusions; linear Science practical endorsement; private candidate exception"
+          },
+          {
+            "label": "中国学历：本课程不能直接入学的类别",
+            "text": "本课程 China 分支明确不以 Gao Kao（高考）、Zhao Kao（网页标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。页面指向 International Foundation 作为替代路径信息；预科课程选择、进阶成绩及本专业科目条件仍须满足，不是保证进入本学位。",
+            "source_ids": [
+              "KCLHU-e405cd4c222b9ed1"
+            ],
+            "extraction_locator": "Actual selected China > three Award entries; International Foundation link"
+          },
+          {
+            "label": "本课程英语Band与年度",
+            "text": "本课程要求 Band B。已取得的英语政策明确适用 2026/27，IELTS Academic 参考为总分 7.0、每项 6.5；须在开课月份首日前两年内且单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学仍须核最新测试政策及录取条件，不将旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLHU-3db161a141921cfd",
+              "KCLHU-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English language band B; English policy > 2026/27 > Band B > IELTS / validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "R901；课程申请开放状态及截止须再核。",
+            "text": "R901；当前窗口及状态见本轮补充。",
             "source_ids": [
               "UKENR-d672fa3d9f8699"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请窗口与实际状态",
+            "text": "课程页列 UCAS R901，2027 年 9 月开课，申请截止 2027 年 1 月 13 日；本次状态为 Open（当前页面开放）。标准学历、指定科目与申请材料条件仍须同时满足。",
+            "source_ids": [
+              "KCLHU-6d53e13d46e55da0"
+            ],
+            "extraction_locator": "Chrome rendered Key Information > UCAS, Application status, Start date, Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费为 GBP £30,750／学年，明确适用 2027/28 常规授课年；后续学年可按学校条款增加。海外阶段另按适用安排收费，不以本年价格乘全部学制作为总价。",
+            "source_ids": [
+              "KCLHU-6d53e13d46e55da0"
+            ],
+            "extraction_locator": "Tuition fees > Full time tuition fees international > 2027–2028 > per year"
+          },
+          {
+            "label": "国际生押金及附加支出",
+            "text": "国际生坚定接受无条件录取时支付 £2,000 押金，入学后抵扣第一年学费。书本、打印、毕业及伦敦／跨校区交通等可能另付，海外还需预算旅行、签证及食宿。",
+            "source_ids": [
+              "KCLHU-6d53e13d46e55da0"
+            ],
+            "extraction_locator": "International tuition > deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段的收费边界",
+            "text": "海外学习时合作校通常不再收学费，但可能有申请管理费；KCL 继续收取其学费的一部分。本轮未取得本项目未来实际海外阶段明确年度与金额，不能把常规授课年价当作海外年价。",
+            "source_ids": [
+              "KCLHU-6d53e13d46e55da0"
+            ],
+            "extraction_locator": "Further fee information > overseas fees and dated OfS reference, if given"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业领域",
+            "text": "课程职业页列国际商务、媒体、科技、营销、公务、国际发展、法律、金融、教育及口笔译等领域。它说明语言与哲学训练的用途，没有提供分语种和届次的就业率或薪资；受监管职业仍需额外资格。",
+            "source_ids": [
+              "KCLHU-2843442bc3911e93"
+            ],
+            "extraction_locator": "careers正文；按公开模块表年份、标题及学分逐项人工摘要"
+          }
+        ]
       },
       "sources": [
         {
@@ -15335,32 +16784,117 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "7f6107e934ebc2d8bb909ae394b4c6f610108818a3c3a614d46a1af05705b4ad",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLHU-7f200f8f8d89a1cc",
+          "title": "Philosophy & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-and-modern-languages-with-a-year-abroad-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "7f200f8f8d89a1cc5f4a4d07652e96ae34e9217e616d2941bdbbc519923667fe",
+          "supports": "本课程正式身份、学制、校区及课程总览",
+          "capture_format": "public_html",
+          "locator": "Course overview; Base campuses; duration; course type",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-3db161a141921cfd",
+          "title": "Philosophy & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-and-modern-languages-with-a-year-abroad-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "3db161a141921cfdeee3cdaec52b4c46c32b4229576c76cb854a34e60b42c9f2",
+          "supports": "本课程标准成绩、指定科目、学历与申请类别",
+          "capture_format": "public_html",
+          "locator": "Standard requirements; subjects; qualifications; additional requirements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-27a61d8ea6544a66",
+          "title": "Philosophy & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-and-modern-languages-with-a-year-abroad-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "27a61d8ea6544a665b63387770d51fa3c05c7057a84945d924cf7b5577ecad1c",
+          "supports": "公开教学页及各年模块列表的课程结构、学分和分流限制",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; visible Year 1–4 text/title/credits; not backend module descriptions",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-2843442bc3911e93",
+          "title": "Philosophy & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-and-modern-languages-with-a-year-abroad-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "2843442bc3911e93b4dadee688c8131b7bec75cb40f466f486ff32125bc82471",
+          "supports": "官方职业方向及实际描述的群体范围；不是毕业调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; actual subject of destination statements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-e405cd4c222b9ed1",
+          "title": "Philosophy & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-and-modern-languages-with-a-year-abroad-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "e405cd4c222b9ed176d5faaeec16d02300f237d675029ba10dbc738c5e11fe94",
+          "supports": "本课程实际选择 China 后的三种中国学历直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "International applicants > Equivalent International qualifications > actual China selection > Award",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-dff3755b9680738d",
+          "title": "Philosophy & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — 英语政策（2026/27参考）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27参考）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27参考）",
+          "source_period": "明确2026/27；不作为2027/28最终测试清单"
+        },
+        {
+          "id": "KCLHU-6d53e13d46e55da0",
+          "title": "Philosophy & Modern Languages (French, German, Portuguese or Spanish) with a year abroad BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-and-modern-languages-with-a-year-abroad-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "6d53e13d46e55da0260c19551b99b739fbd341b8c370066846ab2bc4ff3017cb",
+          "supports": "公开渲染的国际费年度、计价单位、押金和申请状态",
+          "capture_format": "chrome_accessibility_raw",
+          "locator": "Tuition fees > International; Further fee information; Key Information",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项取得本课程要求、逐年教学、职业分栏、实际 China 分支及 2027/28 国际费用。",
+        "课程选择与海外安排受批准及名额限制；学位/共同入口沿用原 ID，不生成未经核实的语种或 BA/BSc 组合。",
+        "2027英语政策与可比毕业调查仍有明确缺口。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level AAB；其他科目/考试见详情"
+        "duration": "四年（含必修海外年）",
+        "entry_summary": "高考／Zhao Kao 不直入；AAB；哲学＋一门现代语言，海外年通常必需",
+        "name": "哲学与现代语言（BA，含海外年）",
+        "intake": "2027 年 9 月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核本课程职业说明；未取得可比届次就业率／薪资",
+        "language": "英语及所学现代语言"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese course-specific facts; original public evidence preserved",
       "inventory_id": "kcl-philosophy-modern-languages-french-german-portuguese-or-spanish-w-ee56a0b5b6"
     },
     {
@@ -15368,7 +16902,7 @@
       "raw_key": "038a83d8-8fa4-4679-8af8-02fa366773a4",
       "name_en": "Philosophy, Politics & Economics BA/BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -15386,30 +16920,137 @@
               "UKENR-385f5397218ddb"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "PPE共同入口与BA/BSc",
+            "text": "普通路线通常 360 学分、每年 120。首年政治经济哲学、哲学导论、比较政治、经济学与定量方法为核心；第二年共同必修 PPE 概念 15，BSc 另修微观、宏观、计量各 15。最后一年选 120，论文为可选；跨两系以外选修有 30 学分上限，不能把目录全部模块都算必修。",
+            "source_ids": [
+              "KCLHU-4cfbbe832d4c1d2b"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "全年海外变体",
+            "text": "课程明确可第三年整年海外，增加 120 学分并于第四年回 KCL 完成学位，授位名称含 Year Abroad。这是申请获批后的变体，不是普通三年路线必含，也不能与其他专业的海外学期规则互套。",
+            "source_ids": [
+              "KCLHU-4cfbbe832d4c1d2b"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "校区与当前学习安排",
+            "text": "本课程 Base campus 列 Strand，而 Course essentials 明确主要在 Strand 与 Waterloo 授课；全日制通常三年。本轮未取得独立明确的全程授课语言条款；英语录取分档见资格部分。",
+            "source_ids": [
+              "KCLHU-097c6cf500945951"
+            ],
+            "extraction_locator": "Overview > Base campuses, Course essentials, duration; Teaching > language of teaching"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；专属科目、资格与例外见本轮补充。",
             "source_ids": [
               "UKENR-385f5397218ddb"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "PPE入学与数学证据",
+            "text": "标准 A-level A*AA、IB 38 总分或三门 HL 合计 19；无指定 A-level 科目，但 GCSE/IGCSE 数学须 7/A。IB 可按本页用数学 AA/AI 的 SL 4 或 MYP 6 满足该较早阶段要求；没有 GCSE 的国际学生仍审等同证据，不要求凭空补考英国考试。Functional Skills 与 Access numeracy 不接受替代；不接受转学。",
+            "source_ids": [
+              "KCLHU-8f7706c3fd52bc8d"
+            ],
+            "extraction_locator": "requirements正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在其他大学本科中的 Year 0／Integrated Foundation。上述标准 A-level／IB 不能直接换算为高考分数；Contextual 优惠也不能自动套所有中国学生。",
+            "source_ids": [
+              "KCLHU-8f7706c3fd52bc8d"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; Standard vs contextual requirements"
+          },
+          {
+            "label": "A-level考核例外",
+            "text": "不以 General Studies、Critical Thinking、Thinking Skills 或 Global Perspectives 计作所需 A-level，也不在评估中考虑 EPQ。以英格兰线性 A-level 理科申请者须通过实践考核；无法参加实践的 private candidates 有明示例外。这不是给所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLHU-8f7706c3fd52bc8d"
+            ],
+            "extraction_locator": "A-level > exclusions; linear Science practical endorsement; private candidate exception"
+          },
+          {
+            "label": "中国学历：本课程不能直接入学的类别",
+            "text": "本课程 China 分支明确不以 Gao Kao（高考）、Zhao Kao（网页标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。页面指向 International Foundation 作为替代路径信息；预科课程选择、进阶成绩及本专业科目条件仍须满足，不是保证进入本学位。",
+            "source_ids": [
+              "KCLHU-a364526ee42934da"
+            ],
+            "extraction_locator": "Actual selected China > three Award entries; International Foundation link"
+          },
+          {
+            "label": "本课程英语Band与年度",
+            "text": "本课程要求 Band B。已取得的英语政策明确适用 2026/27，IELTS Academic 参考为总分 7.0、每项 6.5；须在开课月份首日前两年内且单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学仍须核最新测试政策及录取条件，不将旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLHU-8f7706c3fd52bc8d",
+              "KCLHU-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English language band B; English policy > 2026/27 > Band B > IELTS / validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "L0V0；课程申请开放状态及截止须再核。",
+            "text": "L0V0；当前窗口及状态见本轮补充。",
             "source_ids": [
               "UKENR-385f5397218ddb"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请窗口与实际状态",
+            "text": "课程页列 UCAS L0V0，2027 年 9 月开课，申请截止 2027 年 1 月 13 日；本次状态为 Open（当前页面开放）。标准学历、指定科目与申请材料条件仍须同时满足。",
+            "source_ids": [
+              "KCLHU-ea6dcf136b605573"
+            ],
+            "extraction_locator": "Chrome rendered Key Information > UCAS, Application status, Start date, Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费为 GBP £40,600／学年，明确适用 2027/28 常规授课年；后续学年可按学校条款增加。海外阶段另按适用安排收费，不以本年价格乘全部学制作为总价。",
+            "source_ids": [
+              "KCLHU-ea6dcf136b605573"
+            ],
+            "extraction_locator": "Tuition fees > Full time tuition fees international > 2027–2028 > per year"
+          },
+          {
+            "label": "国际生押金及附加支出",
+            "text": "国际生坚定接受无条件录取时支付 £2,000 押金，入学后抵扣第一年学费。书本、打印、毕业及伦敦／跨校区交通等可能另付，海外还需预算旅行、签证及食宿。",
+            "source_ids": [
+              "KCLHU-ea6dcf136b605573"
+            ],
+            "extraction_locator": "International tuition > deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段的收费边界",
+            "text": "官网当前另列：Overseas 学生海外一学期所在学年的 KCL 学费按当年正常年费三分之二计收，合作校通常不另收学费但可能有申请管理费。OfS £1,955／£1,465 明确仅为 2026/27 参考，并称 2027/28 上限未取得；不能当作中国新生未来整年海外的固定报价。",
+            "source_ids": [
+              "KCLHU-ea6dcf136b605573"
+            ],
+            "extraction_locator": "Further fee information > overseas fees and dated OfS reference, if given"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业方向",
+            "text": "本课程职业页说明政策制定、政府和传播等领域的适用技能，没有给独立就业率、薪资或 BA/BSc 路线分开数据。本轮只列职业说明，不以PPE名声推定保证职位。",
+            "source_ids": [
+              "KCLHU-e6733861de1575cd"
+            ],
+            "extraction_locator": "careers正文；按公开模块表年份、标题及学分逐项人工摘要"
+          }
+        ]
       },
       "sources": [
         {
@@ -15420,32 +17061,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "097c6cf500945951582a4690d339ef1bf8b802f08d5253fbe7f0fce2b37f67cf",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLHU-097c6cf500945951",
+          "title": "Philosophy, Politics & Economics BA/BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "097c6cf500945951582a4690d339ef1bf8b802f08d5253fbe7f0fce2b37f67cf",
+          "supports": "本课程正式身份、学制、校区及课程总览",
+          "capture_format": "public_html",
+          "locator": "Course overview; Base campuses; duration; course type",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-8f7706c3fd52bc8d",
+          "title": "Philosophy, Politics & Economics BA/BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "8f7706c3fd52bc8d4ff0499432a03236eef852c9a655d39d75975afd62ecc4f1",
+          "supports": "本课程标准成绩、指定科目、学历与申请类别",
+          "capture_format": "public_html",
+          "locator": "Standard requirements; subjects; qualifications; additional requirements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-4cfbbe832d4c1d2b",
+          "title": "Philosophy, Politics & Economics BA/BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "4cfbbe832d4c1d2b2aee857e6970befbfde11307313c80963944e36ef9a3b9d2",
+          "supports": "公开教学页及各年模块列表的课程结构、学分和分流限制",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; visible Year 1–4 text/title/credits; not backend module descriptions",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-e6733861de1575cd",
+          "title": "Philosophy, Politics & Economics BA/BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "e6733861de1575cd49442c951b1dcf138843f506dcd4376b0ddb697312162643",
+          "supports": "官方职业方向及实际描述的群体范围；不是毕业调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; actual subject of destination statements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-a364526ee42934da",
+          "title": "Philosophy, Politics & Economics BA/BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "a364526ee42934da97710dad6cbbcfd1cc73c3c8cc9fa49281416287911ea375",
+          "supports": "本课程实际选择 China 后的三种中国学历直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "International applicants > Equivalent International qualifications > actual China selection > Award",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-dff3755b9680738d",
+          "title": "Philosophy, Politics & Economics BA/BSc — 英语政策（2026/27参考）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27参考）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27参考）",
+          "source_period": "明确2026/27；不作为2027/28最终测试清单"
+        },
+        {
+          "id": "KCLHU-ea6dcf136b605573",
+          "title": "Philosophy, Politics & Economics BA/BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "ea6dcf136b605573df495b1541edc78e21be935b07f528c2ac1fae7a2fe69ff2",
+          "supports": "公开渲染的国际费年度、计价单位、押金和申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "Tuition fees > International; Further fee information; Key Information",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项取得本课程要求、逐年教学、职业分栏、实际 China 分支及 2027/28 国际费用。",
+        "课程选择与海外安排受批准及名额限制；学位/共同入口沿用原 ID，不生成未经核实的语种或 BA/BSc 组合。",
+        "2027英语政策与可比毕业调查仍有明确缺口。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "通常三年；获批全年海外后四年",
+        "entry_summary": "高考／Zhao Kao 不直入；A*AA；GCSE数学7/A或认可等同，BA/BSc有不同定量必修",
+        "name": "哲学、政治与经济（BA／BSc共同入口）",
+        "intake": "2027 年 9 月",
+        "campus": "Strand 与 Waterloo 校区",
+        "tuition_summary": "2027/28 GBP £40,600／学年（常规授课年）",
+        "outcomes_summary": "已核本课程职业说明；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese course-specific facts; original public evidence preserved",
       "inventory_id": "kcl-philosophy-politics-economics-ba-bsc-2c599e390c"
     },
     {
@@ -17484,7 +19209,7 @@
       "raw_key": "77acf80c-6d3a-4cd7-9401-36aea6a10d40",
       "name_en": "Religion, Philosophy & Ethics BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -17502,30 +19227,129 @@
               "UKENR-52916b6b8e3093"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "课程与学分规则",
+            "text": "第一年伦理、哲学神学、全球哲学、伦理史、宗教传统、圣典及殖民／去殖民课程合计 120。第二年正文要求指定组 45＋选修75，但 God 列30、其他单项15，与“三门共45”有组合冲突；不自行拼凑。末年指定组三门45＋选修75，独立研究项目30为可选。第二年可申请一个学期交换。",
+            "source_ids": [
+              "KCLHU-0bb90a0191f5ebbb"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "校区与当前学习安排",
+            "text": "本课程总览列主要校区为 Strand 校区；全日制通常三年。本轮未取得独立明确的全程授课语言条款；英语录取分档见资格部分。",
+            "source_ids": [
+              "KCLHU-ac87b429b575d7a2"
+            ],
+            "extraction_locator": "Overview > Base campuses, Course essentials, duration; Teaching > language of teaching"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAB；此为原概览总成绩；专属科目、资格与例外见本轮补充。",
             "source_ids": [
               "UKENR-52916b6b8e3093"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "宗教、哲学与伦理入口",
+            "text": "标准 A-level AAB、IB 35 总分或三门 HL 合计 17，无指定或优先科目；不接受转学。课程名不表示另有宗教信仰或神职身份条件，本轮不附加此类未列限制。",
+            "source_ids": [
+              "KCLHU-fb17ae43bd697d92"
+            ],
+            "extraction_locator": "requirements正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在其他大学本科中的 Year 0／Integrated Foundation。上述标准 A-level／IB 不能直接换算为高考分数；Contextual 优惠也不能自动套所有中国学生。",
+            "source_ids": [
+              "KCLHU-fb17ae43bd697d92"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; Standard vs contextual requirements"
+          },
+          {
+            "label": "A-level考核例外",
+            "text": "不以 General Studies、Critical Thinking、Thinking Skills 或 Global Perspectives 计作所需 A-level，也不在评估中考虑 EPQ。以英格兰线性 A-level 理科申请者须通过实践考核；无法参加实践的 private candidates 有明示例外。这不是给所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLHU-fb17ae43bd697d92"
+            ],
+            "extraction_locator": "A-level > exclusions; linear Science practical endorsement; private candidate exception"
+          },
+          {
+            "label": "中国学历：本课程不能直接入学的类别",
+            "text": "本课程 China 分支明确不以 Gao Kao（高考）、Zhao Kao（网页标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。页面指向 International Foundation 作为替代路径信息；预科课程选择、进阶成绩及本专业科目条件仍须满足，不是保证进入本学位。",
+            "source_ids": [
+              "KCLHU-d28faef183fab55c"
+            ],
+            "extraction_locator": "Actual selected China > three Award entries; International Foundation link"
+          },
+          {
+            "label": "本课程英语Band与年度",
+            "text": "本课程要求 Band B。已取得的英语政策明确适用 2026/27，IELTS Academic 参考为总分 7.0、每项 6.5；须在开课月份首日前两年内且单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学仍须核最新测试政策及录取条件，不将旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLHU-fb17ae43bd697d92",
+              "KCLHU-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English language band B; English policy > 2026/27 > Band B > IELTS / validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "VV65；课程申请开放状态及截止须再核。",
+            "text": "VV65；当前窗口及状态见本轮补充。",
             "source_ids": [
               "UKENR-52916b6b8e3093"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请窗口与实际状态",
+            "text": "课程页列 UCAS VV65，2027 年 9 月开课，申请截止 2027 年 1 月 13 日；本次状态为 Open（当前页面开放）。标准学历、指定科目与申请材料条件仍须同时满足。",
+            "source_ids": [
+              "KCLHU-be25e03744111269"
+            ],
+            "extraction_locator": "Chrome rendered Key Information > UCAS, Application status, Start date, Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费为 GBP £30,750／学年，明确适用 2027/28 常规授课年；后续学年可按学校条款增加。海外阶段另按适用安排收费，不以本年价格乘全部学制作为总价。",
+            "source_ids": [
+              "KCLHU-be25e03744111269"
+            ],
+            "extraction_locator": "Tuition fees > Full time tuition fees international > 2027–2028 > per year"
+          },
+          {
+            "label": "国际生押金及附加支出",
+            "text": "国际生坚定接受无条件录取时支付 £2,000 押金，入学后抵扣第一年学费。书本、打印、毕业及伦敦／跨校区交通等可能另付，海外还需预算旅行、签证及食宿。",
+            "source_ids": [
+              "KCLHU-be25e03744111269"
+            ],
+            "extraction_locator": "International tuition > deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段的收费边界",
+            "text": "海外学习时合作校通常不再收学费，但可能有申请管理费；KCL 继续收取其学费的一部分。本轮未取得本项目未来实际海外阶段明确年度与金额，不能把常规授课年价当作海外年价。",
+            "source_ids": [
+              "KCLHU-be25e03744111269"
+            ],
+            "extraction_locator": "Further fee information > overseas fees and dated OfS reference, if given"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业说明的群体范围",
+            "text": "课程说明培养分析、辩论、文化理解和沟通能力；就业领域段的主语是 King’s graduates，列政府、社会服务、慈善、媒体、法律、艺术及宗教组织，不能改写为本专业跟踪统计。本轮未取得本项目可比就业率／薪资。",
+            "source_ids": [
+              "KCLHU-e208b5f946f6c00f"
+            ],
+            "extraction_locator": "careers正文；按公开模块表年份、标题及学分逐项人工摘要"
+          }
+        ]
       },
       "sources": [
         {
@@ -17536,32 +19360,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "b2694cb53fd9c28d306e10afec9eb0c7332b2316f5adc21088e801232056fced",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLHU-ac87b429b575d7a2",
+          "title": "Religion, Philosophy & Ethics BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "ac87b429b575d7a2acddcc55e2d13b79f9c0f47e73bc41e7baf58917b02fe4aa",
+          "supports": "本课程正式身份、学制、校区及课程总览",
+          "capture_format": "public_html",
+          "locator": "Course overview; Base campuses; duration; course type",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-fb17ae43bd697d92",
+          "title": "Religion, Philosophy & Ethics BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "fb17ae43bd697d92692afdf9bdc6b3258be3490d071700409e927d48f70cb41a",
+          "supports": "本课程标准成绩、指定科目、学历与申请类别",
+          "capture_format": "public_html",
+          "locator": "Standard requirements; subjects; qualifications; additional requirements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-0bb90a0191f5ebbb",
+          "title": "Religion, Philosophy & Ethics BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "0bb90a0191f5ebbb5ac111f7dd107e0a70f01152e800f6fca25bbffb555eb9fb",
+          "supports": "公开教学页及各年模块列表的课程结构、学分和分流限制",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; visible Year 1–4 text/title/credits; not backend module descriptions",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-e208b5f946f6c00f",
+          "title": "Religion, Philosophy & Ethics BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "e208b5f946f6c00f2494af19079198ad1624ae7c769f1358c091686943407d1e",
+          "supports": "官方职业方向及实际描述的群体范围；不是毕业调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; actual subject of destination statements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-d28faef183fab55c",
+          "title": "Religion, Philosophy & Ethics BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "d28faef183fab55cff76225f36f9abed0c75d9ff08b1a739477ee2b6d65be5be",
+          "supports": "本课程实际选择 China 后的三种中国学历直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "International applicants > Equivalent International qualifications > actual China selection > Award",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-dff3755b9680738d",
+          "title": "Religion, Philosophy & Ethics BA — 英语政策（2026/27参考）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27参考）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27参考）",
+          "source_period": "明确2026/27；不作为2027/28最终测试清单"
+        },
+        {
+          "id": "KCLHU-be25e03744111269",
+          "title": "Religion, Philosophy & Ethics BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "be25e0374411126987c9930b7699e1b9759ac56d7ef5cb5644488ae744b9fbbf",
+          "supports": "公开渲染的国际费年度、计价单位、押金和申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "Tuition fees > International; Further fee information; Key Information",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项取得本课程要求、逐年教学、职业分栏、实际 China 分支及 2027/28 国际费用。",
+        "课程选择与海外安排受批准及名额限制；学位/共同入口沿用原 ID，不生成未经核实的语种或 BA/BSc 组合。",
+        "2027英语政策与可比毕业调查仍有明确缺口。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAB；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；宗教、哲学与伦理跨学科本科；选课须满足分组学分规则",
+        "name": "宗教、哲学与伦理（BA）",
+        "intake": "2027 年 9 月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核本课程职业说明；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese course-specific facts; original public evidence preserved",
       "inventory_id": "kcl-religion-philosophy-ethics-ba-fec715cc95"
     },
     {
@@ -17739,7 +19647,7 @@
       "raw_key": "7d569aa6-ce80-4d15-809e-e2bd80b3df0a",
       "name_en": "Sociology, Politics and Religion BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -17757,30 +19665,137 @@
               "UKENR-16486ecd835e52"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "以社会科学研究宗教",
+            "text": "首年列比较政治、宗教社会学、神话仪式、社会政治思想、宗教传统、圣典及殖民／去殖民七门各15，共105，并称无选修；未取得与完整年度要求对齐的说明，不套相邻宗教课程的30学分同名模块。第二、三年各按指定组45＋选修75；末年独立研究30为可选。",
+            "source_ids": [
+              "KCLHU-fefac1596795a43c"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "交换与主题选择",
+            "text": "第二年有一个学期海外机会；课程涉及国际关系、历史社会学、社会危机、族裔性别、移民及宗教媒体。伙伴与选修可能变化，Toronto条目另列第一学期／全年限制，实际安排须个案核定。",
+            "source_ids": [
+              "KCLHU-fefac1596795a43c"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "校区与当前学习安排",
+            "text": "本课程总览列主要校区为 Strand 校区；全日制通常三年。本轮未取得独立明确的全程授课语言条款；英语录取分档见资格部分。",
+            "source_ids": [
+              "KCLHU-b8a5429f67d9b02b"
+            ],
+            "extraction_locator": "Overview > Base campuses, Course essentials, duration; Teaching > language of teaching"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAB；此为原概览总成绩；专属科目、资格与例外见本轮补充。",
             "source_ids": [
               "UKENR-16486ecd835e52"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "社会学、政治与宗教入口",
+            "text": "标准 A-level AAB、IB 35 总分或三门 HL 合计 17，无指定或优先科目，不接受转学。个人陈述不必专门为本学位定制：学校强调思想连贯、为何读大学、兴趣及智识动机，不能自行加必须宗教工作经历。",
+            "source_ids": [
+              "KCLHU-422705b2128ca214"
+            ],
+            "extraction_locator": "requirements正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在其他大学本科中的 Year 0／Integrated Foundation。上述标准 A-level／IB 不能直接换算为高考分数；Contextual 优惠也不能自动套所有中国学生。",
+            "source_ids": [
+              "KCLHU-422705b2128ca214"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; Standard vs contextual requirements"
+          },
+          {
+            "label": "A-level考核例外",
+            "text": "不以 General Studies、Critical Thinking、Thinking Skills 或 Global Perspectives 计作所需 A-level，也不在评估中考虑 EPQ。以英格兰线性 A-level 理科申请者须通过实践考核；无法参加实践的 private candidates 有明示例外。这不是给所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLHU-422705b2128ca214"
+            ],
+            "extraction_locator": "A-level > exclusions; linear Science practical endorsement; private candidate exception"
+          },
+          {
+            "label": "中国学历：本课程不能直接入学的类别",
+            "text": "本课程 China 分支明确不以 Gao Kao（高考）、Zhao Kao（网页标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。页面指向 International Foundation 作为替代路径信息；预科课程选择、进阶成绩及本专业科目条件仍须满足，不是保证进入本学位。",
+            "source_ids": [
+              "KCLHU-1574516673855241"
+            ],
+            "extraction_locator": "Actual selected China > three Award entries; International Foundation link"
+          },
+          {
+            "label": "本课程英语Band与年度",
+            "text": "本课程要求 Band B。已取得的英语政策明确适用 2026/27，IELTS Academic 参考为总分 7.0、每项 6.5；须在开课月份首日前两年内且单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学仍须核最新测试政策及录取条件，不将旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLHU-422705b2128ca214",
+              "KCLHU-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English language band B; English policy > 2026/27 > Band B > IELTS / validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "L390；课程申请开放状态及截止须再核。",
+            "text": "L390；当前窗口及状态见本轮补充。",
             "source_ids": [
               "UKENR-16486ecd835e52"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请窗口与实际状态",
+            "text": "课程页列 UCAS L390，2027 年 9 月开课，申请截止 2027 年 1 月 13 日；本次状态为 Open（当前页面开放）。标准学历、指定科目与申请材料条件仍须同时满足。",
+            "source_ids": [
+              "KCLHU-cef3eb32c57a7413"
+            ],
+            "extraction_locator": "Chrome rendered Key Information > UCAS, Application status, Start date, Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费为 GBP £30,750／学年，明确适用 2027/28 常规授课年；后续学年可按学校条款增加。海外阶段另按适用安排收费，不以本年价格乘全部学制作为总价。",
+            "source_ids": [
+              "KCLHU-cef3eb32c57a7413"
+            ],
+            "extraction_locator": "Tuition fees > Full time tuition fees international > 2027–2028 > per year"
+          },
+          {
+            "label": "国际生押金及附加支出",
+            "text": "国际生坚定接受无条件录取时支付 £2,000 押金，入学后抵扣第一年学费。书本、打印、毕业及伦敦／跨校区交通等可能另付，海外还需预算旅行、签证及食宿。",
+            "source_ids": [
+              "KCLHU-cef3eb32c57a7413"
+            ],
+            "extraction_locator": "International tuition > deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段的收费边界",
+            "text": "海外学习时合作校通常不再收学费，但可能有申请管理费；KCL 继续收取其学费的一部分。本轮未取得本项目未来实际海外阶段明确年度与金额，不能把常规授课年价当作海外年价。",
+            "source_ids": [
+              "KCLHU-cef3eb32c57a7413"
+            ],
+            "extraction_locator": "Further fee information > overseas fees and dated OfS reference, if given"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业说明",
+            "text": "课程列政府、公务、非政府组织、社会服务、慈善、商业、教学、传播、媒体及宗教组织等领域；这表示培养基础，不证明具体职业许可证或职位保证。未提供该课程独立毕业率、就业率或薪资。",
+            "source_ids": [
+              "KCLHU-9093fdae4c98c513"
+            ],
+            "extraction_locator": "careers正文；按公开模块表年份、标题及学分逐项人工摘要"
+          }
+        ]
       },
       "sources": [
         {
@@ -17791,32 +19806,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "a63a609dc13de8610d8a45ebe90b6f84d7ac8139370bd672c85ff6d5fed9dc3e",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLHU-b8a5429f67d9b02b",
+          "title": "Sociology, Politics and Religion BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "b8a5429f67d9b02b2591e045391e21bbcc96b3296fe1a60f50412e06b1c9a302",
+          "supports": "本课程正式身份、学制、校区及课程总览",
+          "capture_format": "public_html",
+          "locator": "Course overview; Base campuses; duration; course type",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-422705b2128ca214",
+          "title": "Sociology, Politics and Religion BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "422705b2128ca21446066ed0238855ba02419a530c7281100ab74c7f3336c87d",
+          "supports": "本课程标准成绩、指定科目、学历与申请类别",
+          "capture_format": "public_html",
+          "locator": "Standard requirements; subjects; qualifications; additional requirements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-fefac1596795a43c",
+          "title": "Sociology, Politics and Religion BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "fefac1596795a43cb28991d47b8d9c30f684b851a2207ea9630b7d32d0e3bd87",
+          "supports": "公开教学页及各年模块列表的课程结构、学分和分流限制",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; visible Year 1–4 text/title/credits; not backend module descriptions",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-9093fdae4c98c513",
+          "title": "Sociology, Politics and Religion BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "9093fdae4c98c513d0342592fa1e2e146f63a30099c6bdb31cd3038e9506f67d",
+          "supports": "官方职业方向及实际描述的群体范围；不是毕业调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; actual subject of destination statements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-1574516673855241",
+          "title": "Sociology, Politics and Religion BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "157451667385524173fe9d16a6a17d846c9af39383ebf839f905112d76a05737",
+          "supports": "本课程实际选择 China 后的三种中国学历直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "International applicants > Equivalent International qualifications > actual China selection > Award",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-dff3755b9680738d",
+          "title": "Sociology, Politics and Religion BA — 英语政策（2026/27参考）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27参考）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27参考）",
+          "source_period": "明确2026/27；不作为2027/28最终测试清单"
+        },
+        {
+          "id": "KCLHU-cef3eb32c57a7413",
+          "title": "Sociology, Politics and Religion BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "cef3eb32c57a741334fabc53371c6df469618fe14b45625c8b63053e565ca8ad",
+          "supports": "公开渲染的国际费年度、计价单位、押金和申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "Tuition fees > International; Further fee information; Key Information",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项取得本课程要求、逐年教学、职业分栏、实际 China 分支及 2027/28 国际费用。",
+        "课程选择与海外安排受批准及名额限制；学位/共同入口沿用原 ID，不生成未经核实的语种或 BA/BSc 组合。",
+        "2027英语政策与可比毕业调查仍有明确缺口。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAB；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAB、无指定科目；个人陈述重思想连贯，不要求专门宗教背景",
+        "name": "社会学、政治与宗教（BA）",
+        "intake": "2027 年 9 月",
+        "campus": "Strand 校区",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核本课程职业说明；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese course-specific facts; original public evidence preserved",
       "inventory_id": "kcl-sociology-politics-and-religion-ba-c6ea9f1b88"
     },
     {
@@ -18150,7 +20249,7 @@
       "raw_key": "987b8076-bdc6-4e87-a651-7309f1e51733",
       "name_en": "War Studies & History BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -18168,30 +20267,137 @@
               "UKENR-06c6233fe1ccb8"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "两学科各半与毕业论文",
+            "text": "普通三年通常360学分，每年战争研究与历史各60。首年战争／安全导论、历史技能及时期选修；第二年全球冷战、研究方法及两学科选修；第三年课程须为Level6，并在任一学科完成一份论文。论文归属决定其余历史专题／战争研究选修配额，不把所有列名都当必修。",
+            "source_ids": [
+              "KCLHU-2785488b33461b53"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "海外学分及成绩处理",
+            "text": "可申请第二年下学期或整个第三年海外，须达到qualifying marks，但页面未给具体分数。海外学习计学分，成绩不计最终学位等级；原文没有像PPE一样说明必然新增第四年，不跨专业套此学制。跨伦敦大学选课亦有年级、学分及批准限制。",
+            "source_ids": [
+              "KCLHU-2785488b33461b53"
+            ],
+            "extraction_locator": "teaching正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "校区与当前学习安排",
+            "text": "本课程总览列主要校区为 Strand 与 Waterloo 校区；全日制通常三年。本轮未取得独立明确的全程授课语言条款；英语录取分档见资格部分。",
+            "source_ids": [
+              "KCLHU-8671c44b55235a8f"
+            ],
+            "extraction_locator": "Overview > Base campuses, Course essentials, duration; Teaching > language of teaching"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAA；此为原概览总成绩；专属科目、资格与例外见本轮补充。",
             "source_ids": [
               "UKENR-06c6233fe1ccb8"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "战争研究与历史入口",
+            "text": "标准 A-level AAA、IB 36 总分或三门 HL 合计 18。通常期待历史背景，无历史者如能清楚展示学科投入仍可考虑；不接受转学。War Studies 系可接受军方推荐信，不等于申请者必须有军人身份。",
+            "source_ids": [
+              "KCLHU-43cbf47c950309e0"
+            ],
+            "extraction_locator": "requirements正文；按公开模块表年份、标题及学分逐项人工摘要"
+          },
+          {
+            "label": "其他预科与标准学历边界",
+            "text": "英国境内其他机构的独立预科按内容个案评估；不接受非英国预科或嵌在其他大学本科中的 Year 0／Integrated Foundation。上述标准 A-level／IB 不能直接换算为高考分数；Contextual 优惠也不能自动套所有中国学生。",
+            "source_ids": [
+              "KCLHU-43cbf47c950309e0"
+            ],
+            "extraction_locator": "Additional requirements > Foundation courses; Standard vs contextual requirements"
+          },
+          {
+            "label": "A-level考核例外",
+            "text": "不以 General Studies、Critical Thinking、Thinking Skills 或 Global Perspectives 计作所需 A-level，也不在评估中考虑 EPQ。以英格兰线性 A-level 理科申请者须通过实践考核；无法参加实践的 private candidates 有明示例外。这不是给所有中国高考生另加英国理科考试。",
+            "source_ids": [
+              "KCLHU-43cbf47c950309e0"
+            ],
+            "extraction_locator": "A-level > exclusions; linear Science practical endorsement; private candidate exception"
+          },
+          {
+            "label": "中国学历：本课程不能直接入学的类别",
+            "text": "本课程 China 分支明确不以 Gao Kao（高考）、Zhao Kao（网页标为 Senior High School Examination）或 Maple Leaf World Schools Programme High School Diploma 直接录取。页面指向 International Foundation 作为替代路径信息；预科课程选择、进阶成绩及本专业科目条件仍须满足，不是保证进入本学位。",
+            "source_ids": [
+              "KCLHU-c2d8902d62599ac0"
+            ],
+            "extraction_locator": "Actual selected China > three Award entries; International Foundation link"
+          },
+          {
+            "label": "本课程英语Band与年度",
+            "text": "本课程要求 Band B。已取得的英语政策明确适用 2026/27，IELTS Academic 参考为总分 7.0、每项 6.5；须在开课月份首日前两年内且单次满足，不接受 IELTS One Skill 或 TOEFL MyBest。2027 入学仍须核最新测试政策及录取条件，不将旧年度清单当作最终保证。",
+            "source_ids": [
+              "KCLHU-43cbf47c950309e0",
+              "KCLHU-dff3755b9680738d"
+            ],
+            "extraction_locator": "Requirements > English language band B; English policy > 2026/27 > Band B > IELTS / validity"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "LV91；课程申请开放状态及截止须再核。",
+            "text": "LV91；当前窗口及状态见本轮补充。",
             "source_ids": [
               "UKENR-06c6233fe1ccb8"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "2027申请窗口与实际状态",
+            "text": "课程页列 UCAS LV91，2027 年 9 月开课，申请截止 2027 年 1 月 13 日；本次状态为 Open（当前页面开放）。标准学历、指定科目与申请材料条件仍须同时满足。",
+            "source_ids": [
+              "KCLHU-d0177a3341e14a9c"
+            ],
+            "extraction_locator": "Chrome rendered Key Information > UCAS, Application status, Start date, Application deadline"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际学费",
+            "text": "本课程国际学费为 GBP £34,000／学年，明确适用 2027/28 常规授课年；后续学年可按学校条款增加。海外阶段另按适用安排收费，不以本年价格乘全部学制作为总价。",
+            "source_ids": [
+              "KCLHU-d0177a3341e14a9c"
+            ],
+            "extraction_locator": "Tuition fees > Full time tuition fees international > 2027–2028 > per year"
+          },
+          {
+            "label": "国际生押金及附加支出",
+            "text": "国际生坚定接受无条件录取时支付 £2,000 押金，入学后抵扣第一年学费。书本、打印、毕业及伦敦／跨校区交通等可能另付，海外还需预算旅行、签证及食宿。",
+            "source_ids": [
+              "KCLHU-d0177a3341e14a9c"
+            ],
+            "extraction_locator": "International tuition > deposit; Additional costs"
+          },
+          {
+            "label": "海外阶段的收费边界",
+            "text": "官网当前另列：Overseas 学生海外一学期所在学年的 KCL 学费按当年正常年费三分之二计收，合作校通常不另收学费但可能有申请管理费。OfS £1,955／£1,465 明确仅为 2026/27 参考，并称 2027/28 上限未取得；不能当作中国新生未来整年海外的固定报价。",
+            "source_ids": [
+              "KCLHU-d0177a3341e14a9c"
+            ],
+            "extraction_locator": "Further fee information > overseas fees and dated OfS reference, if given"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业领域和身份",
+            "text": "官方列国际组织、政府部门、NGO、新闻、金融、学术及军队等毕业领域；具体岗位可能另有国籍、安全审查、专业训练或招聘要求。页面没有本入口独立届次和分母的就业率／薪资，本轮不作任职资格保证。",
+            "source_ids": [
+              "KCLHU-28370253e95d16bf"
+            ],
+            "extraction_locator": "careers正文；按公开模块表年份、标题及学分逐项人工摘要"
+          }
+        ]
       },
       "sources": [
         {
@@ -18202,32 +20408,116 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "02df7d7d1de805d43a908478ebe81de3a5213f4876318f65930e86a312a3261d",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLHU-8671c44b55235a8f",
+          "title": "War Studies & History BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "8671c44b55235a8f5e20bf0709b7596ceb613fab78eb9619a2390f8c938d4692",
+          "supports": "本课程正式身份、学制、校区及课程总览",
+          "capture_format": "public_html",
+          "locator": "Course overview; Base campuses; duration; course type",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-43cbf47c950309e0",
+          "title": "War Studies & History BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "43cbf47c950309e0447f57caba9b63c85eac9cd342afa338a7ce503d0a99c69c",
+          "supports": "本课程标准成绩、指定科目、学历与申请类别",
+          "capture_format": "public_html",
+          "locator": "Standard requirements; subjects; qualifications; additional requirements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-2785488b33461b53",
+          "title": "War Studies & History BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "2785488b33461b53723a7b8136f2fcf76a6866d60a37702f22c7dd686cbf87c3",
+          "supports": "公开教学页及各年模块列表的课程结构、学分和分流限制",
+          "capture_format": "public_html",
+          "locator": "Teaching & Modules; visible Year 1–4 text/title/credits; not backend module descriptions",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-28370253e95d16bf",
+          "title": "War Studies & History BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba/war-studies-history-ba-careers",
+          "checked_at": "2026-09-13",
+          "sha256": "28370253e95d16bfef03bc1cdc397a04e3053a384d042be7eb1a80768011ae05",
+          "supports": "官方职业方向及实际描述的群体范围；不是毕业调查",
+          "capture_format": "public_html",
+          "locator": "Careers body; actual subject of destination statements",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-c2d8902d62599ac0",
+          "title": "War Studies & History BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "c2d8902d62599ac02e192b7229763b79c6694d68f0533050d515594950206a2a",
+          "supports": "本课程实际选择 China 后的三种中国学历直接入学判定",
+          "capture_format": "chrome_public_dom",
+          "locator": "International applicants > Equivalent International qualifications > actual China selection > Award",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
+        },
+        {
+          "id": "KCLHU-dff3755b9680738d",
+          "title": "War Studies & History BA — 英语政策（2026/27参考）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "supports": "英语政策（2026/27参考）",
+          "capture_format": "public_html",
+          "locator": "英语政策（2026/27参考）",
+          "source_period": "明确2026/27；不作为2027/28最终测试清单"
+        },
+        {
+          "id": "KCLHU-d0177a3341e14a9c",
+          "title": "War Studies & History BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "d0177a3341e14a9c9499c2d0970298e7cff0e3c24bf38763d4884452d364e23a",
+          "supports": "公开渲染的国际费年度、计价单位、押金和申请状态",
+          "capture_format": "chrome_public_dom",
+          "locator": "Tuition fees > International; Further fee information; Key Information",
+          "source_period": "2027 entry; fees specifically 2027/28; older explicit periods stated in facts"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "已逐项取得本课程要求、逐年教学、职业分栏、实际 China 分支及 2027/28 国际费用。",
+        "课程选择与海外安排受批准及名额限制；学位/共同入口沿用原 ID，不生成未经核实的语种或 BA/BSc 组合。",
+        "2027英语政策与可比毕业调查仍有明确缺口。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "duration": "三年；全日制",
+        "entry_summary": "高考／Zhao Kao 不直入；AAA；战争研究＋历史，海外成绩不计最终学位等级",
+        "name": "战争研究与历史（BA）",
+        "intake": "2027 年 9 月",
+        "campus": "Strand 与 Waterloo 校区",
+        "tuition_summary": "2027/28 GBP £34,000／学年（常规授课年）",
+        "outcomes_summary": "已核本课程职业说明；未取得可比届次就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Manually authored Chinese course-specific facts; original public evidence preserved",
       "inventory_id": "kcl-war-studies-history-ba-67b9d28bb9"
     },
     {

@@ -19,9 +19,9 @@ hide:
 
 <p class="program-title-en">Bachelor of Arts (Honours)/Bachelor of Social Sciences (Honours)/Bachelor of Arts (Honours) in PPE (Philosophy, Politics, and Economics) and Master in Public Policy</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>具体招生届次见申请说明</strong></div><div><span>学制</span><strong>具体主修计划与总年限待核</strong></div><div><span>国际生学费</span><strong>分学位／就读阶段收费；2027全程金额尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>具体招生届次见申请说明</strong></div><div><span>学制</span><strong>约4.5–5年（本科及MPP合计）</strong></div><div><span>国际生学费</span><strong>分学位／就读阶段收费；2027全程金额尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语；境外或指定语言课程另有要求</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语（NUS）</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
@@ -32,11 +32,11 @@ hide:
 
 <p><strong>官方名称：</strong>Bachelor of Arts (Honours)/Bachelor of Social Sciences (Honours)/Bachelor of Arts (Honours) in PPE (Philosophy, Politics, and Economics) and Master in Public Policy</p>
 
-<p><strong>授予学位 / 项目类型：</strong>本科项目（学位名称尚未核实）</p>
+<p><strong>授予学位 / 项目类型：</strong>BSocSci (Honours) in Economics/Political Science/Sociology/Social Work，或BA (Honours) in PPE + MPP</p>
 
 <p><strong>目录适用期：</strong>NUS Bulletin AY2026/27</p>
 
-<p><strong>目录条目类别：</strong>combined_degree_group</p>
+<p><strong>目录条目类别：</strong>具名本硕衔接组合总览</p>
 
 <p><strong>申请路径：</strong>在读大二邀请，限指定主修</p>
 
@@ -51,6 +51,9 @@ hide:
 <p class="catalog-fact"><strong>NUS授课语言：</strong>NUS一般课程以英语教学；法国、早稻田及特定语言课程的当地语言要求按项目单列，不把NUS英语政策外推至所有境外课程。</p>
 <p class="fact-sources"><a href="#source-p-ASREN-dd5861bce6faef">官方依据</a></p>
 
+<p class="catalog-fact"><strong>五种具名本科分别列出：</strong>目前只确认经济、政治学、社会学、社会工作四种BSocSci(Honours)，以及PPE的BA(Honours)，各衔接MPP；本轮已添加五子路线，父框架保留，未扩大到所有BA主修。</p>
+<p class="fact-sources"><a href="#source-p-NUSJD-31270b4ab22abe2a">官方依据</a> · <a href="#source-p-NUSJD-98ebe6577fcab74a">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 在读大二邀请，限指定主修
@@ -59,6 +62,9 @@ hide:
 
 <p class="catalog-fact"><strong>校内申请：</strong>大二收到邀请后按校内通知申请；公开页未给2027具体日期、最低GPA或全程费，须核相应在读通知。</p>
 <p class="fact-sources"><a href="#source-p-NUSJ-79c1ec71521023ac">官方依据</a></p>
+
+<p class="catalog-fact"><strong>邀请与正式申请阶段待学院衔接：</strong>FASS大二邀请与公共政策学院本科最后一年申请两种公开表述均保留；本条2027专用日期与阶段衔接本轮未取得，不套BBA＋MPP的12月15日。</p>
+<p class="fact-sources"><a href="#source-p-NUSJD-31270b4ab22abe2a">官方依据</a> · <a href="#source-p-NUSJD-98ebe6577fcab74a">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
@@ -77,7 +83,9 @@ hide:
 - [官方项目页面或项目所在目录](https://fass.nus.edu.sg/special-degree-programmes/#concurrent-degree)
 - [官方目录](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/concurrent-degree-programmes/)
 
-<div class="catalog-source" id="source-p-NUSJ-79c1ec71521023ac"><div><a href="https://fass.nus.edu.sg/special-degree-programmes/">Special Degree Programmes - NUS Faculty of Arts &amp; Social Sciences ↗</a><p>对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明</p><small>核验 2026-09-13</small></div></div>
-<div class="catalog-source" id="source-p-ASREN-dd5861bce6faef"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf">NUS英语要求（2026年9月版） ↗</a><p>英语教学、IELTS/TOEFL成绩有效期</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-dd5861bce6faef"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf">NUS英语要求（2026年9月版） ↗</a><p>NUS授课语言</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-NUSJ-79c1ec71521023ac"><div><a href="https://fass.nus.edu.sg/special-degree-programmes/">Special Degree Programmes - NUS Faculty of Arts &amp; Social Sciences ↗</a><p>条目边界；当前可衔接学科；校内申请；费用缺口；毕业数据范围</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NUSJD-31270b4ab22abe2a"><div><a href="https://fass.nus.edu.sg/special-degree-programmes/">NUS FASS 当前具名双学位和本硕衔接 ↗</a><p>五种具名本科分别列出；邀请与正式申请阶段待学院衔接</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-p-NUSJD-98ebe6577fcab74a"><div><a href="https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree">LKY 公共政策本硕衔接资格和学制 ↗</a><p>五种具名本科分别列出；邀请与正式申请阶段待学院衔接</p><small>核验 2026-09-13</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/singapore/nus/">← 返回新加坡国立大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

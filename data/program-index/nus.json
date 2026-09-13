@@ -3,9 +3,9 @@
   "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 143,
+    "count": 150,
     "scope": "现有本科主修、音乐方向、特殊护理及兼读项目、双学位和本硕衔接组；各条注明层级和入口",
-    "method": "95项普通及特殊本科由独立研究者核验，33联合项目另逐项核验并交叉审阅；保留全部128旧ID，更新中文课程、实际招生及分阶段收费和毕业调查口径。 本次逐项加入8法律Exchange Plus、AI与数学双学位、社会工作MPH及2个SCALE具名本硕框架，按实际在读入口、收费阶段和年份独立复核。",
+    "method": "95项普通及特殊本科由独立研究者核验，33联合项目另逐项核验并交叉审阅；保留全部128旧ID，更新中文课程、实际招生及分阶段收费和毕业调查口径。 本次逐项加入8法律Exchange Plus、AI与数学双学位、社会工作MPH及2个SCALE具名本硕框架，按实际在读入口、收费阶段和年份独立复核。 再补商业分析两种荣誉配置及FASS五种MPP衔接，8个旧会计组合逐组对账，9个旧条目保留事实并增补现行依据。",
     "exclusions": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
     "sources": [
       {
@@ -74,7 +74,7 @@
       {
         "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-computing/undergraduate-education/",
         "sha256": "ef03a0da87cdbb109f4f3733e3717a33c73a71db6455491dac59625db0bfe2a5",
-        "raw_file": "scratch/full-catalog/asia/nus/raw/school-of-computing-ug-dom.html"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUS26-6c4c5f2083df6a.html"
       },
       {
         "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-dentistry/undergraduate-education/",
@@ -89,7 +89,7 @@
       {
         "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
         "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/english-dates-subjects-web.json"
+        "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/ASREN-dd5861bce6faef.json"
       },
       {
         "url": "https://fass.nus.edu.sg/socanth/overview-programmes-anthropology/",
@@ -99,12 +99,12 @@
       {
         "url": "https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
         "sha256": "1bb50375e3299184c60f5c1006ebe331a220e996500366513596e5a22f103d5e",
-        "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/common-NUS26-06231ba1d17578.json"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUS26-06231ba1d17578.json"
       },
       {
         "url": "https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf",
         "sha256": "8dec4235695865ea34a95af325a1bc8b367b604440826a499e14aed6e986999e",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/ges-final-web.json"
+        "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/common-NUS26-efe847f8074c14.json"
       },
       {
         "url": "https://fass.nus.edu.sg/chs/honours-programme/",
@@ -129,7 +129,7 @@
       {
         "url": "https://fass.nus.edu.sg/ecs/requirements-for-economics-major/",
         "sha256": "5401330aae59081d90e0c7f732e62fd89a1c54fb3330573808aea1ced7bc45d0",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/004.txt"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUS26-683167043e187a.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/ell/ug_el/",
@@ -174,7 +174,7 @@
       {
         "url": "https://chs.nus.edu.sg/programmes/ppe/",
         "sha256": "357bb445fc3495b1c85ff5cbbd39008a6d2dc9b3e4d13ea1032388551c35273e",
-        "raw_file": "scratch/full-catalog/nus-enrichment/raw/cnm-gls-web.json"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUS26-9a7612f4f6a192.json"
       },
       {
         "url": "https://fass.nus.edu.sg/philo/overview/academic-requirements/",
@@ -184,7 +184,7 @@
       {
         "url": "https://fass.nus.edu.sg/pol/graduation-requirements-cohort-2021-onwards/",
         "sha256": "10e97a16935add1ff28e549a726119ae36d745436c1110ba732b4f280cf1cf88",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/014-expanded.txt"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUS26-0630b9e809b17c.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/psy/honours-programme/",
@@ -194,12 +194,12 @@
       {
         "url": "https://fass.nus.edu.sg/swk/entry-graduation-requirement-undergraduate/",
         "sha256": "9b0d9ed11ba8fcc90a2d92f3cd8a281bba9ac85373ba526a608c7e89caa6da07",
-        "raw_file": "scratch/full-catalog/nus-named-pathways-supplement/raw/common-NUS26-bc74df3425eabc.txt"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUS26-bc74df3425eabc.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/socanth/overview-programmes-sociology/",
         "sha256": "a3080994d6d3bfe4a238512125570843c5eb7328f5e785f01ceac1e2006381f2",
-        "raw_file": "scratch/full-catalog/nus-enrichment/browser/017-expanded.txt"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUS26-40290663082df2.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/sas/honours-programme/",
@@ -219,7 +219,7 @@
       {
         "url": "https://www.nus.edu.sg/oam/docs/default-source/international-qualifications/cat-d-sdp.pdf",
         "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/english-dates-subjects-web.json"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-ASREN-dcc8aa412ca466.json"
       },
       {
         "url": "https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/",
@@ -504,32 +504,32 @@
       {
         "url": "https://nus.edu.sg/prog/bzabba/",
         "sha256": "1126a7c0db7dec01af4b3b95be7a9a28051177dabcfb5a13049e82fbc9795175",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-details1.txt"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUSJ-a2569a6936c13195.txt"
       },
       {
         "url": "https://nus.edu.sg/prog/bizcnm/",
         "sha256": "1126a7c0db7dec01af4b3b95be7a9a28051177dabcfb5a13049e82fbc9795175",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-details1.txt"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUSJ-96d4d58728f393a8.txt"
       },
       {
         "url": "https://fass.nus.edu.sg/special-degree-programmes/",
         "sha256": "c3973c292fb79654536ad8e50fab5ba77d208154d0e5677ef4b88ae9850930af",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-fass-pm-find.txt"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUSJ-79c1ec71521023ac.txt"
       },
       {
         "url": "https://nus.edu.sg/prog/bizsoc/",
         "sha256": "1126a7c0db7dec01af4b3b95be7a9a28051177dabcfb5a13049e82fbc9795175",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-details1.txt"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUSJ-61b8f592babdb256.txt"
       },
       {
         "url": "https://cde.nus.edu.sg/undergraduate/programmes/double-degree-programme-in-engineering-business-administration/",
         "sha256": "f3acc7bc50dacd353df5e3a9ccc8ed408266e0a93afb2852651e313ddc5c2beb",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-search-current.txt"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUSJ-73bff5e785204782.txt"
       },
       {
         "url": "https://bba.nus.edu.sg/double-degree-programmes/",
         "sha256": "ca4d042dcb3bb408da538150935ce2aac36512e95c37c5753515713d63178624",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-current-business-foreign.txt"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUSJ-5846a08cfc5362c3.txt"
       },
       {
         "url": "https://cde.nus.edu.sg/undergraduate/programmes/cde-internal-ddp/",
@@ -554,7 +554,7 @@
       {
         "url": "https://www.nus.edu.sg/prog/bizecon/index.html",
         "sha256": "b4788499a772ef4da79ce3bbcdb62fb5d847bf75527abd9224175d91e87c89b0",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-policy2.txt"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUSJ-6a39fc36cd7e96b2.txt"
       },
       {
         "url": "https://www.comp.nus.edu.sg/cug/per-cohort/ddp-ba-econs/ba-econs-26-27/",
@@ -619,7 +619,7 @@
       {
         "url": "https://bba.nus.edu.sg/concurrent-degree-programme-with-master-of-public-policy/",
         "sha256": "b4788499a772ef4da79ce3bbcdb62fb5d847bf75527abd9224175d91e87c89b0",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/ddp-business-policy2.txt"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUSJ-0e16c1bae5ca7338.txt"
       },
       {
         "url": "https://mim.nus.edu.sg/academics/concurrent-degree-programme/",
@@ -629,7 +629,7 @@
       {
         "url": "https://www.comp.nus.edu.sg/programmes/sp/cdp/bcomp-msc/",
         "sha256": "c7aa94c8c61880bf1bb359b48446863f086be036cfcdf20d350334b7c8a18bfc",
-        "raw_file": "scratch/full-catalog/nus-enrichment/joint-root/raw/cdp-fass-pm-law.txt"
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/reused-NUSJ-e6124f7f208c63b7.txt"
       },
       {
         "url": "https://www.nus.edu.sg/prog/mpplaw/admission.htm",
@@ -684,12 +684,12 @@
       {
         "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination",
         "sha256": "0abafbe12c137a089e798d233685c31ca6ecada98c71c1c1cc0d42248a537de1",
-        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/requirements-web.json"
+        "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/common-ASREN-91c45582176a42.json"
       },
       {
         "url": "https://www.nus.edu.sg/oam/admissions/important-dates",
         "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/english-dates-subjects-web.json"
+        "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/common-ASREN-0acd9e45ef5adf.json"
       },
       {
         "url": "https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
@@ -699,7 +699,7 @@
       {
         "url": "https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees",
         "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
-        "raw_file": "scratch/full-catalog/asia-rest-enrichment/nus/raw/fees-scholarship-web.json"
+        "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/common-ASREN-a7c9f06a434aa5.json"
       },
       {
         "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship",
@@ -840,14 +840,85 @@
         "url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf",
         "sha256": "ca6b9f76205896f7412693264184009840e5a268def6824ff6633d8ace05f13a",
         "raw_file": "scratch/full-catalog/nus-dundee-pathways-supplement/raw/dundee-tail-web.txt"
+      },
+      {
+        "url": "https://nus.edu.sg/prog/bzabba/",
+        "sha256": "61f39a682a7b06d41eab0a4db149ab23577c8310a9bbc215ef49dddf3f47e4f8",
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/current-variants-web.json"
+      },
+      {
+        "url": "https://fass.nus.edu.sg/special-degree-programmes/",
+        "sha256": "61f39a682a7b06d41eab0a4db149ab23577c8310a9bbc215ef49dddf3f47e4f8",
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/current-variants-web.json"
+      },
+      {
+        "url": "https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/",
+        "sha256": "2a52a9dcadeb70933e82b8950466521f166c49053c8a0409c992bd8ed8fadf64",
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/current-core-web.json"
+      },
+      {
+        "url": "https://nus.edu.sg/prog/bizcnm/",
+        "sha256": "61f39a682a7b06d41eab0a4db149ab23577c8310a9bbc215ef49dddf3f47e4f8",
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/current-variants-web.json"
+      },
+      {
+        "url": "https://www.comp.nus.edu.sg/admissions/biz-aisys/",
+        "sha256": "d6b465f22d66d76fae7a7e3db7d06bc9d12dccb92bc103e21c6610a4cff4e175",
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/mpp-details-web.json"
+      },
+      {
+        "url": "https://www.comp.nus.edu.sg/programmes/sp/ddp/cba/",
+        "sha256": "8a0ad061eb9c701b55a672baa3ba073f97dd3653a89cd9f1337050ba204a2fbb",
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/current-plans-web.json"
+      },
+      {
+        "url": "https://cde.nus.edu.sg/undergraduate/programmes/double-degree-programme-in-engineering-business-administration/",
+        "sha256": "f9bc2fa141b36b71b469e823cc889f7ff89c04ab9f685744d8307eb9aea6df7f",
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/current-last-groups-web.json"
+      },
+      {
+        "url": "https://www.nus.edu.sg/prog/bizecon/index.html",
+        "sha256": "c3cfd19b27ea86ddfab41acdd35c1a6c86cba4571f4b232fd315a60607747f73",
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/current-followup-web.json"
+      },
+      {
+        "url": "https://bba.nus.edu.sg/concurrent-degree-programme-with-master-of-public-policy/",
+        "sha256": "311cfdf0faeabbc7377ade28b72bb6294fb53c93ca5669343893923325144daa",
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/current-specific-web.json"
+      },
+      {
+        "url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/mpp-curriculum",
+        "sha256": "cf6b87158eaa618b76ed5ad909b2aa6de1b4dc70fe9410b115e16bde2979ae62",
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/mpp-fees-full-web.json"
+      },
+      {
+        "url": "https://mim.nus.edu.sg/academics/concurrent-degree-programme/",
+        "sha256": "f9bc2fa141b36b71b469e823cc889f7ff89c04ab9f685744d8307eb9aea6df7f",
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/current-last-groups-web.json"
+      },
+      {
+        "url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+        "sha256": "d6b465f22d66d76fae7a7e3db7d06bc9d12dccb92bc103e21c6610a4cff4e175",
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/mpp-details-web.json"
+      },
+      {
+        "url": "https://www.nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/double-degree-programmes/double-degree-programme-framework-and-guidelines",
+        "sha256": "2fddeede478c1113c7874ae172f83a4aba34b98cd36295c3a5295232acc9226f",
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/current-ddp-web.json"
+      },
+      {
+        "url": "https://lkyspp.nus.edu.sg/graduate-admissions/fees-and-funding",
+        "sha256": "cf6b87158eaa618b76ed5ad909b2aa6de1b4dc70fe9410b115e16bde2979ae62",
+        "raw_file": "scratch/full-catalog/nus-joint-degree-variants/raw/mpp-fees-full-web.json"
       }
     ],
     "gaps": [
       "已收录8条Law Exchange Plus、Social Work+MPH、AI+数学及两个SCALE本硕框架；SCALE未给所有适用本科专业的封闭清单，不枚举无据自由组合。工业工程没有另造未证实的专属本硕项目。",
-      "部分联合条目仍含旧会计或不同荣誉学位变体，未按所有当届组合拆分；邓迪3具名方向已补，其他在读方向继续按官方逐项对账。",
+      "已拆出商业分析双荣誉/单荣誉及FASS五种MPP具名路线；旧会计授位与当前BBA主修、部分单荣誉配置的2027适用仍未全闭合。邓迪3方向已补，其他联合及在读方向继续按官方逐项对账。",
       "大多数2027/28新生收费和专业考试日期未取得；已核2026/27费表按非ASEAN国际生TG与非TG两价标年使用。",
       "BAIS与旧IS课程表存在标题、学位及总学分矛盾；暂停及旧建筑衔接路径不能当2027开放招生。",
-      "GES调查仅用于对应学位与毕业届，未单列大陆学生；大多联合组合没有独立毕业就业率与薪资。"
+      "GES调查仅用于对应学位与毕业届，未单列大陆学生；大多联合组合没有独立毕业就业率与薪资。",
+      "FASS大二邀请与LKYSPP最后一年申请尚缺阶段衔接表；普通MPP费表不等于CDP本硕总价。工程联合表共享学分总减量与8学分项目的关系仍待明确。"
     ]
   },
   "programs": [
@@ -2591,7 +2662,7 @@
     },
     {
       "name_en": "Bachelor of Business Administration/Bachelor of Business Administration (Accountancy) & Bachelor of Science (Business Analytics)",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BBA (Honours) + BSc (Honours) in Business Analytics；另有SOC主院BSc(Honours) + BBA",
       "official_url": "http://nus.edu.sg/prog/bzabba/",
       "intake": "具体招生届次见申请说明",
       "duration": "双荣誉5年；单荣誉4.5年（须核届次）",
@@ -2603,13 +2674,13 @@
       "entry_route": "可新生选拔或完成大一后竞争；须同时满足两学院要求",
       "requires_prior_degree": null,
       "status": "listed_route_requires_verification",
-      "record_type": "combined_degree_group",
+      "record_type": "本科双学位组合总览",
       "id": "nus-bachelor-of-business-administration-bachelor-of-business-administ-037523d138",
       "name": "工商管理与商业分析双学位"
     },
     {
       "name_en": "Bachelor of Business Administration/Bachelor of Business Administration (Accountancy) & Bachelor of Social Science in Communications and New Media",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "当前确认：BBA (Honours) + BSocSci (Honours) in Communications and New Media；旧变体适用届次待核",
       "official_url": "http://nus.edu.sg/prog/bizcnm/",
       "intake": "具体招生届次见申请说明",
       "duration": "双荣誉通常5年；旧变体须核届次",
@@ -2621,7 +2692,7 @@
       "entry_route": "普通组合可高中申请；旧Accountancy组合仅大一后选拔",
       "requires_prior_degree": null,
       "status": "listed_route_requires_verification",
-      "record_type": "combined_degree_group",
+      "record_type": "本科双学位组合总览",
       "id": "nus-bachelor-of-business-administration-bachelor-of-business-administ-31d9b2a43c",
       "name": "工商管理与传播及新媒体双学位"
     },
@@ -2639,9 +2710,10 @@
       "entry_route": "高中选拔或大一后申请；2026新计算学位名称须另对齐",
       "requires_prior_degree": null,
       "status": "listed_route_requires_verification",
-      "record_type": "combined_degree_group",
+      "record_type": "本科双学位组合总览",
       "id": "nus-bachelor-of-business-administration-bachelor-of-business-administ-015f56b0e5",
-      "name": "工商管理与计算机科学／信息系统双学位"
+      "name": "工商管理与计算机科学／信息系统双学位",
+      "listing_note": "旧IS名称保留；2026另确认BAIS与BBA/Accountancy组合，新联合课程与准确会计授位仍有缺口"
     },
     {
       "name_en": "Bachelor of Business Administration/Bachelor of Business Administration (Accountancy) & Bachelor of Engineering",
@@ -2735,7 +2807,7 @@
     },
     {
       "name_en": "Bachelor of Social Science in Economics & Bachelor of Business Administration/Bachelor of Business Administration (Accountancy)",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "当前确认：BBA (Honours) + BSocSci (Honours) in Economics；旧变体适用届次待核",
       "official_url": "http://www.nus.edu.sg/prog/bizecon/",
       "intake": "具体招生届次见申请说明",
       "duration": "通常5年；旧会计变体可能更长",
@@ -2747,7 +2819,7 @@
       "entry_route": "高中或大一后竞争，满足两学院条件",
       "requires_prior_degree": null,
       "status": "listed_route_requires_verification",
-      "record_type": "combined_degree_group",
+      "record_type": "本科双学位组合总览",
       "id": "nus-bachelor-of-social-science-in-economics-bachelor-of-business-admi-8a4b0f13b8",
       "name": "经济学与工商管理双学位"
     },
@@ -3094,7 +3166,7 @@
     },
     {
       "name_en": "Bachelor of Arts (Honours)/Bachelor of Social Sciences (Honours)/Bachelor of Arts (Honours) in PPE (Philosophy, Politics, and Economics) and Master in Public Policy",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BSocSci (Honours) in Economics/Political Science/Sociology/Social Work，或BA (Honours) in PPE + MPP",
       "official_url": "https://fass.nus.edu.sg/special-degree-programmes/#concurrent-degree",
       "intake": "具体招生届次见申请说明",
       "duration": "具体主修计划与总年限待核",
@@ -3106,7 +3178,7 @@
       "entry_route": "在读大二邀请，限指定主修",
       "requires_prior_degree": null,
       "status": "listed_route_requires_verification",
-      "record_type": "combined_degree_group",
+      "record_type": "具名本硕衔接组合总览",
       "id": "nus-bachelor-of-arts-honours-bachelor-of-social-sciences-honours-bach-0fe6e97c15",
       "name": "文社科学士与公共政策本硕衔接"
     },
@@ -3625,6 +3697,191 @@
         "待分类"
       ],
       "subject": "待分类"
+    },
+    {
+      "id": "nus-business-analytics-bba-double-honours-2197bbeff9",
+      "university_id": "nus",
+      "name": "商业分析与工商管理双学位（双荣誉）",
+      "name_en": "Bachelor of Science (Honours) in Business Analytics and Bachelor of Business Administration (Honours)",
+      "degree_label": "BSc (Honours) in Business Analytics + BBA (Honours)",
+      "official_url": "https://nus.edu.sg/prog/bzabba/",
+      "raw_key": "https://nus.edu.sg/prog/bzabba/#catalog-named-business-analytics-bba-double-honours",
+      "record_type": "本科双学位授位变体",
+      "parent_program_id": "nus-bachelor-of-business-administration-bachelor-of-business-administ-037523d138",
+      "parent_name_en": "Bachelor of Business Administration/Bachelor of Business Administration (Accountancy) & Bachelor of Science (Business Analytics)",
+      "parent_program_url": "http://nus.edu.sg/prog/bzabba/",
+      "entry_route": "商学院或计算学院为主学院；高中选拔或大一后竞争",
+      "requires_prior_degree": false,
+      "status": "当前官方具名；2027专属选拔与届次须另核",
+      "intake": "现行专页；2027路线批次未核定",
+      "duration": "5年",
+      "campus": "NUS计算学院与商学院；具体教学地点按课表",
+      "language": "英语（NUS）",
+      "discovery_source_url": "https://nus.edu.sg/prog/bzabba/",
+      "source_period": "当前专页；直接选拔自2020/21、在读规则写2019/20起",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "id": "nus-business-analytics-bba-single-honours-e797553901",
+      "university_id": "nus",
+      "name": "商业分析与工商管理双学位（商业分析单荣誉）",
+      "name_en": "Bachelor of Science (Honours) in Business Analytics and Bachelor of Business Administration",
+      "degree_label": "BSc (Honours) in Business Analytics + BBA",
+      "official_url": "https://nus.edu.sg/prog/bzabba/",
+      "raw_key": "https://nus.edu.sg/prog/bzabba/#catalog-named-business-analytics-bba-single-honours",
+      "record_type": "本科双学位授位变体",
+      "parent_program_id": "nus-bachelor-of-business-administration-bachelor-of-business-administ-037523d138",
+      "parent_name_en": "Bachelor of Business Administration/Bachelor of Business Administration (Accountancy) & Bachelor of Science (Business Analytics)",
+      "parent_program_url": "http://nus.edu.sg/prog/bzabba/",
+      "entry_route": "仅计算学院为主学院；高中选拔或BZA在读大一后申请，具体新生届次另核",
+      "requires_prior_degree": false,
+      "status": "当前官方具名；2027专属选拔与届次须另核",
+      "intake": "现行专页；2027路线批次未核定",
+      "duration": "4.5年",
+      "campus": "NUS计算学院与商学院；具体教学地点按课表",
+      "language": "英语（NUS）",
+      "discovery_source_url": "https://nus.edu.sg/prog/bzabba/",
+      "source_period": "当前专页；直接选拔自2020/21、在读规则写2019/20起",
+      "subjects": [
+        "商科"
+      ],
+      "subject": "商科"
+    },
+    {
+      "id": "nus-economics-mpp-concurrent-945fe69ba6",
+      "university_id": "nus",
+      "name": "经济学与公共政策本硕衔接",
+      "name_en": "Bachelor of Social Sciences (Honours) in Economics and Master in Public Policy",
+      "degree_label": "Bachelor of Social Sciences (Honours) in Economics + Master in Public Policy",
+      "official_url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+      "raw_key": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree#catalog-named-economics-mpp-concurrent",
+      "record_type": "具名在读本硕衔接路线",
+      "parent_program_id": "nus-bachelor-of-arts-honours-bachelor-of-social-sciences-honours-bach-0fe6e97c15",
+      "parent_name_en": "Bachelor of Arts (Honours)/Bachelor of Social Sciences (Honours)/Bachelor of Arts (Honours) in PPE (Philosophy, Politics, and Economics) and Master in Public Policy",
+      "parent_program_url": "https://fass.nus.edu.sg/special-degree-programmes/#concurrent-degree",
+      "entry_route": "先有NUS指定本科主修学籍，再经校内邀请与MPP选拔",
+      "requires_prior_degree": false,
+      "status": "当前官方具名；2027专属选拔与届次须另核",
+      "intake": "现行专页；2027路线批次未核定",
+      "duration": "约4.5–5年（本科及MPP合计）",
+      "campus": "NUS文社科学院本科阶段、李光耀公共政策学院硕士阶段；具体地点按课表",
+      "language": "英语（NUS）",
+      "discovery_source_url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+      "source_period": "当前两院共同列名；普通MPP课程适用于2025/26起，CDP个人计划另核",
+      "subjects": [
+        "经济",
+        "社会科学"
+      ],
+      "subject": "经济"
+    },
+    {
+      "id": "nus-political-science-mpp-concurrent-07954f273d",
+      "university_id": "nus",
+      "name": "政治学与公共政策本硕衔接",
+      "name_en": "Bachelor of Social Sciences (Honours) in Political Science and Master in Public Policy",
+      "degree_label": "Bachelor of Social Sciences (Honours) in Political Science + Master in Public Policy",
+      "official_url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+      "raw_key": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree#catalog-named-political-science-mpp-concurrent",
+      "record_type": "具名在读本硕衔接路线",
+      "parent_program_id": "nus-bachelor-of-arts-honours-bachelor-of-social-sciences-honours-bach-0fe6e97c15",
+      "parent_name_en": "Bachelor of Arts (Honours)/Bachelor of Social Sciences (Honours)/Bachelor of Arts (Honours) in PPE (Philosophy, Politics, and Economics) and Master in Public Policy",
+      "parent_program_url": "https://fass.nus.edu.sg/special-degree-programmes/#concurrent-degree",
+      "entry_route": "先有NUS指定本科主修学籍，再经校内邀请与MPP选拔",
+      "requires_prior_degree": false,
+      "status": "当前官方具名；2027专属选拔与届次须另核",
+      "intake": "现行专页；2027路线批次未核定",
+      "duration": "约4.5–5年（本科及MPP合计）",
+      "campus": "NUS文社科学院本科阶段、李光耀公共政策学院硕士阶段；具体地点按课表",
+      "language": "英语（NUS）",
+      "discovery_source_url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+      "source_period": "当前两院共同列名；普通MPP课程适用于2025/26起，CDP个人计划另核",
+      "subjects": [
+        "社会科学"
+      ],
+      "subject": "社会科学"
+    },
+    {
+      "id": "nus-sociology-mpp-concurrent-088bd49099",
+      "university_id": "nus",
+      "name": "社会学与公共政策本硕衔接",
+      "name_en": "Bachelor of Social Sciences (Honours) in Sociology and Master in Public Policy",
+      "degree_label": "Bachelor of Social Sciences (Honours) in Sociology + Master in Public Policy",
+      "official_url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+      "raw_key": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree#catalog-named-sociology-mpp-concurrent",
+      "record_type": "具名在读本硕衔接路线",
+      "parent_program_id": "nus-bachelor-of-arts-honours-bachelor-of-social-sciences-honours-bach-0fe6e97c15",
+      "parent_name_en": "Bachelor of Arts (Honours)/Bachelor of Social Sciences (Honours)/Bachelor of Arts (Honours) in PPE (Philosophy, Politics, and Economics) and Master in Public Policy",
+      "parent_program_url": "https://fass.nus.edu.sg/special-degree-programmes/#concurrent-degree",
+      "entry_route": "先有NUS指定本科主修学籍，再经校内邀请与MPP选拔",
+      "requires_prior_degree": false,
+      "status": "当前官方具名；2027专属选拔与届次须另核",
+      "intake": "现行专页；2027路线批次未核定",
+      "duration": "约4.5–5年（本科及MPP合计）",
+      "campus": "NUS文社科学院本科阶段、李光耀公共政策学院硕士阶段；具体地点按课表",
+      "language": "英语（NUS）",
+      "discovery_source_url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+      "source_period": "当前两院共同列名；普通MPP课程适用于2025/26起，CDP个人计划另核",
+      "subjects": [
+        "社会科学"
+      ],
+      "subject": "社会科学"
+    },
+    {
+      "id": "nus-social-work-mpp-concurrent-c19b07ddb2",
+      "university_id": "nus",
+      "name": "社会工作与公共政策本硕衔接",
+      "name_en": "Bachelor of Social Sciences (Honours) in Social Work and Master in Public Policy",
+      "degree_label": "Bachelor of Social Sciences (Honours) in Social Work + Master in Public Policy",
+      "official_url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+      "raw_key": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree#catalog-named-social-work-mpp-concurrent",
+      "record_type": "具名在读本硕衔接路线",
+      "parent_program_id": "nus-bachelor-of-arts-honours-bachelor-of-social-sciences-honours-bach-0fe6e97c15",
+      "parent_name_en": "Bachelor of Arts (Honours)/Bachelor of Social Sciences (Honours)/Bachelor of Arts (Honours) in PPE (Philosophy, Politics, and Economics) and Master in Public Policy",
+      "parent_program_url": "https://fass.nus.edu.sg/special-degree-programmes/#concurrent-degree",
+      "entry_route": "先有NUS指定本科主修学籍，再经校内邀请与MPP选拔",
+      "requires_prior_degree": false,
+      "status": "当前官方具名；2027专属选拔与届次须另核",
+      "intake": "现行专页；2027路线批次未核定",
+      "duration": "约4.5–5年（本科及MPP合计）",
+      "campus": "NUS文社科学院本科阶段、李光耀公共政策学院硕士阶段；具体地点按课表",
+      "language": "英语（NUS）",
+      "discovery_source_url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+      "source_period": "当前两院共同列名；普通MPP课程适用于2025/26起，CDP个人计划另核",
+      "subjects": [
+        "社会科学"
+      ],
+      "subject": "社会科学"
+    },
+    {
+      "id": "nus-ppe-mpp-concurrent-0da11653a5",
+      "university_id": "nus",
+      "name": "哲学、政治与经济学（PPE）与公共政策本硕衔接",
+      "name_en": "Bachelor of Arts (Honours) in Philosophy, Politics, and Economics and Master in Public Policy",
+      "degree_label": "Bachelor of Arts (Honours) in Philosophy, Politics, and Economics + Master in Public Policy",
+      "official_url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+      "raw_key": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree#catalog-named-ppe-mpp-concurrent",
+      "record_type": "具名在读本硕衔接路线",
+      "parent_program_id": "nus-bachelor-of-arts-honours-bachelor-of-social-sciences-honours-bach-0fe6e97c15",
+      "parent_name_en": "Bachelor of Arts (Honours)/Bachelor of Social Sciences (Honours)/Bachelor of Arts (Honours) in PPE (Philosophy, Politics, and Economics) and Master in Public Policy",
+      "parent_program_url": "https://fass.nus.edu.sg/special-degree-programmes/#concurrent-degree",
+      "entry_route": "先有NUS指定本科主修学籍，再经校内邀请与MPP选拔",
+      "requires_prior_degree": false,
+      "status": "当前官方具名；2027专属选拔与届次须另核",
+      "intake": "现行专页；2027路线批次未核定",
+      "duration": "约4.5–5年（本科及MPP合计）",
+      "campus": "NUS文社科学院本科阶段、李光耀公共政策学院硕士阶段；具体地点按课表",
+      "language": "英语（NUS）",
+      "discovery_source_url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+      "source_period": "当前两院共同列名；普通MPP课程适用于2025/26起，CDP个人计划另核",
+      "subjects": [
+        "经济",
+        "社会科学",
+        "人文"
+      ],
+      "subject": "经济"
     }
   ]
 }

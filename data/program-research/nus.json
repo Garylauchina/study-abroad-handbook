@@ -14270,7 +14270,7 @@
     {
       "raw_key": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/double-degree-programmes/:Bachelor of Business Administration/Bachelor of Business Administration (Accountancy) & Bachelor of Science (Business Analytics)",
       "name_en": "Bachelor of Business Administration/Bachelor of Business Administration (Accountancy) & Bachelor of Science (Business Analytics)",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BBA (Honours) + BSc (Honours) in Business Analytics；另有SOC主院BSc(Honours) + BBA",
       "official_url": "http://nus.edu.sg/prog/bzabba/",
       "university_id": "nus",
       "inventory_id": "nus-bachelor-of-business-administration-bachelor-of-business-administ-037523d138",
@@ -14297,12 +14297,19 @@
             "source_ids": [
               "ASREN-dd5861bce6faef"
             ]
+          },
+          {
+            "label": "两种授位配置已拆出子条目",
+            "text": "当前专页明确双荣誉（BBA与商业分析BSc均为Honours）及计算学院为主学院的单荣誉（仅商业分析BSc带Honours）。原父项和旧Accountancy文字保留为历史目录身份；新子项不按主学院顺序重复计数。",
+            "source_ids": [
+              "NUSJD-0c4e17b5a2e42d24"
+            ]
           }
         ],
         "admissions": [
           {
             "label": "大一后申请",
-            "text": "现有BBA或BSc商业分析学生完成大一后申请需GPA至少3.75，并在大一修至少一门第二学位课程；成绩用于遴选，不是达到分数即录取。",
+            "text": "现有BBA或BSc商业分析学生完成大一后申请需GPA至少3.75；学校建议在大一修至少一门第二学位课程，成绩用于遴选，不是达到分数即录取。",
             "source_ids": [
               "NUSJ-a2569a6936c13195"
             ]
@@ -14338,6 +14345,16 @@
       },
       "sources": [
         {
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "NUS授课语言",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
           "id": "NUSJ-a2569a6936c13195",
           "title": "NUS - Double Degree Programme in Business and Business Analytics",
           "url": "https://nus.edu.sg/prog/bzabba/",
@@ -14345,23 +14362,25 @@
           "sha256": "1126a7c0db7dec01af4b3b95be7a9a28051177dabcfb5a13049e82fbc9795175",
           "capture_method": "官方网页／PDF公开文本读取结果",
           "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
-          "supports": "对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明"
+          "supports": "条目边界；项目结构；大一后申请；在读申请；费用缺口；毕业数据范围",
+          "capture_format": "web_tool_response"
         },
         {
-          "id": "ASREN-dd5861bce6faef",
-          "title": "NUS英语要求（2026年9月版）",
-          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
-          "checked_at": "2026-09-12",
-          "supports": "英语教学、IELTS/TOEFL成绩有效期",
-          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-          "locator": "PDF page1"
+          "id": "NUSJD-0c4e17b5a2e42d24",
+          "title": "NUS 商业分析与工商管理双学位的两种荣誉配置",
+          "url": "https://nus.edu.sg/prog/bzabba/",
+          "checked_at": "2026-09-13",
+          "sha256": "61f39a682a7b06d41eab0a4db149ab23577c8310a9bbc215ef49dddf3f47e4f8",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Business and Business Analytics, L4–29: awards/home faculty/duration/entry",
+          "supports": "两种授位配置已拆出子条目"
         }
       ],
       "display_fields": {
         "name": "工商管理与商业分析双学位",
         "duration": "双荣誉5年；单荣誉4.5年（须核届次）",
         "entry_summary": "可新生选拔或完成大一后竞争；须同时满足两学院要求",
-        "language": "英语；境外或指定语言课程另有要求",
+        "language": "英语（NUS）",
         "intake": "具体招生届次见申请说明",
         "tuition_summary": "分学位／就读阶段收费；2027全程金额尚未核实"
       },
@@ -14380,7 +14399,7 @@
     {
       "raw_key": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/double-degree-programmes/:Bachelor of Business Administration/Bachelor of Business Administration (Accountancy) & Bachelor of Social Science in Communications and New Media",
       "name_en": "Bachelor of Business Administration/Bachelor of Business Administration (Accountancy) & Bachelor of Social Science in Communications and New Media",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "当前确认：BBA (Honours) + BSocSci (Honours) in Communications and New Media；旧变体适用届次待核",
       "official_url": "http://nus.edu.sg/prog/bizcnm/",
       "university_id": "nus",
       "inventory_id": "nus-bachelor-of-business-administration-bachelor-of-business-administ-31d9b2a43c",
@@ -14407,6 +14426,15 @@
             "text": "NUS一般课程以英语教学；法国、早稻田及特定语言课程的当地语言要求按项目单列，不把NUS英语政策外推至所有境外课程。",
             "source_ids": [
               "ASREN-dd5861bce6faef"
+            ]
+          },
+          {
+            "label": "当前名与旧六变体对账",
+            "text": "当前FASS仅明确BBA(Honours)＋BSocSci(Honours)的传播与新媒体组合；旧专页仍留六种普通／会计、单双荣誉配置。当前普通BBA会计为主修，两页不足以证明全部旧配置对2027新生继续开放，也不足以断言已经全部停招；本轮不新增其余五项。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-cc13120420fda2a6",
+              "NUSJD-4ab51f3f08bc0eaf"
             ]
           }
         ],
@@ -14441,14 +14469,14 @@
       },
       "sources": [
         {
-          "id": "NUSJ-96d4d58728f393a8",
-          "title": "NUS - Double Degree in Business and CNM",
-          "url": "https://nus.edu.sg/prog/bizcnm/",
-          "checked_at": "2026-09-13",
-          "sha256": "1126a7c0db7dec01af4b3b95be7a9a28051177dabcfb5a13049e82fbc9795175",
-          "capture_method": "官方网页／PDF公开文本读取结果",
-          "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
-          "supports": "对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明"
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "NUS授课语言",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
         },
         {
           "id": "NUSJ-79c1ec71521023ac",
@@ -14458,23 +14486,56 @@
           "sha256": "c3973c292fb79654536ad8e50fab5ba77d208154d0e5677ef4b88ae9850930af",
           "capture_method": "官方网页／PDF公开文本读取结果",
           "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
-          "supports": "对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明"
+          "supports": "学科内容与版本",
+          "capture_format": "web_tool_response"
         },
         {
-          "id": "ASREN-dd5861bce6faef",
-          "title": "NUS英语要求（2026年9月版）",
-          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
-          "checked_at": "2026-09-12",
-          "supports": "英语教学、IELTS/TOEFL成绩有效期",
-          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-          "locator": "PDF page1"
+          "id": "NUSJ-96d4d58728f393a8",
+          "title": "NUS - Double Degree in Business and CNM",
+          "url": "https://nus.edu.sg/prog/bizcnm/",
+          "checked_at": "2026-09-13",
+          "sha256": "1126a7c0db7dec01af4b3b95be7a9a28051177dabcfb5a13049e82fbc9795175",
+          "capture_method": "官方网页／PDF公开文本读取结果",
+          "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
+          "supports": "条目边界；学科内容与版本；专页列明的在读条件；费用缺口；毕业数据范围",
+          "capture_format": "web_tool_response"
+        },
+        {
+          "id": "NUSJD-31270b4ab22abe2a",
+          "title": "NUS FASS 当前具名双学位和本硕衔接",
+          "url": "https://fass.nus.edu.sg/special-degree-programmes/",
+          "checked_at": "2026-09-13",
+          "sha256": "61f39a682a7b06d41eab0a4db149ab23577c8310a9bbc215ef49dddf3f47e4f8",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Special Degree Programmes, L257–266 Business DD; L322–331 five named MPP subjects",
+          "supports": "当前名与旧六变体对账"
+        },
+        {
+          "id": "NUSJD-4ab51f3f08bc0eaf",
+          "title": "NUS BBA 2026/27起课程及具名主修",
+          "url": "https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/",
+          "checked_at": "2026-09-13",
+          "sha256": "2a52a9dcadeb70933e82b8950466521f166c49053c8a0409c992bd8ed8fadf64",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Curriculum AY2026/27 onwards, L155–289: honours, nine majors and Accountancy",
+          "supports": "当前名与旧六变体对账"
+        },
+        {
+          "id": "NUSJD-cc13120420fda2a6",
+          "title": "NUS 工商管理与传播新媒体专页（保留旧六变体）",
+          "url": "https://nus.edu.sg/prog/bizcnm/",
+          "checked_at": "2026-09-13",
+          "sha256": "61f39a682a7b06d41eab0a4db149ab23577c8310a9bbc215ef49dddf3f47e4f8",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Business and CNM, L11–37: six award labels, late-entry and Accountancy requirements",
+          "supports": "当前名与旧六变体对账"
         }
       ],
       "display_fields": {
         "name": "工商管理与传播及新媒体双学位",
         "duration": "双荣誉通常5年；旧变体须核届次",
-        "entry_summary": "普通组合可高中申请；旧Accountancy组合仅大一后选拔",
-        "language": "英语；境外或指定语言课程另有要求",
+        "entry_summary": "当前双荣誉入口另核；旧会计及单荣誉条件不作为2027承诺",
+        "language": "英语（NUS）",
         "intake": "具体招生届次见申请说明",
         "tuition_summary": "分学位／就读阶段收费；2027全程金额尚未核实"
       },
@@ -14520,6 +14581,15 @@
             "source_ids": [
               "ASREN-dd5861bce6faef"
             ]
+          },
+          {
+            "label": "2026新名称与课程缺口",
+            "text": "2026计算学院BAIS招生页明确列Business Artificial Intelligence Systems＋Business Administration／Accountancy双学位；旧CS／IS联合页仍用Information Systems及旧课程、按2014/15起续读条件。BAIS实际具名组合有据，但本轮尚未取得新联合课程及会计授位的完整对应，不用旧IS课表充当BAIS课表，也不把BBA会计主修自动改成独立BBA(Accountancy)学位。",
+            "source_ids": [
+              "NUSJD-db64055067605f6e",
+              "NUSJD-ee316374d2fc92b8",
+              "NUSJD-4ab51f3f08bc0eaf"
+            ]
           }
         ],
         "admissions": [
@@ -14553,6 +14623,16 @@
       },
       "sources": [
         {
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "NUS授课语言",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
           "id": "NUSJ-61b8f592babdb256",
           "title": "NUS - Double Degree in Computer Science / Information Systems and Business Administration / Business Administration (Accountancy)",
           "url": "https://nus.edu.sg/prog/bizsoc/",
@@ -14560,23 +14640,45 @@
           "sha256": "1126a7c0db7dec01af4b3b95be7a9a28051177dabcfb5a13049e82fbc9795175",
           "capture_method": "官方网页／PDF公开文本读取结果",
           "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
-          "supports": "对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明"
+          "supports": "条目边界；联合培养内容；两条入口；费用缺口；毕业数据范围",
+          "capture_format": "web_tool_response"
         },
         {
-          "id": "ASREN-dd5861bce6faef",
-          "title": "NUS英语要求（2026年9月版）",
-          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
-          "checked_at": "2026-09-12",
-          "supports": "英语教学、IELTS/TOEFL成绩有效期",
-          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-          "locator": "PDF page1"
+          "id": "NUSJD-4ab51f3f08bc0eaf",
+          "title": "NUS BBA 2026/27起课程及具名主修",
+          "url": "https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/",
+          "checked_at": "2026-09-13",
+          "sha256": "2a52a9dcadeb70933e82b8950466521f166c49053c8a0409c992bd8ed8fadf64",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Curriculum AY2026/27 onwards, L155–289: honours, nine majors and Accountancy",
+          "supports": "2026新名称与课程缺口"
+        },
+        {
+          "id": "NUSJD-db64055067605f6e",
+          "title": "NUS 2026 商业人工智能系统招生及联合路径",
+          "url": "https://www.comp.nus.edu.sg/admissions/biz-aisys/",
+          "checked_at": "2026-09-13",
+          "sha256": "d6b465f22d66d76fae7a7e3db7d06bc9d12dccb92bc103e21c6610a4cff4e175",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "BAIS Open House2026, L254–270: namedDDP, managementCDP under approval",
+          "supports": "2026新名称与课程缺口"
+        },
+        {
+          "id": "NUSJD-ee316374d2fc92b8",
+          "title": "NUS CS／旧IS与商科双学位专页",
+          "url": "https://www.comp.nus.edu.sg/programmes/sp/ddp/cba/",
+          "checked_at": "2026-09-13",
+          "sha256": "8a0ad061eb9c701b55a672baa3ba073f97dd3653a89cd9f1337050ba204a2fbb",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "CS/IS with Business Administration/Accountancy L237–289; dated pre2021 continuation",
+          "supports": "2026新名称与课程缺口"
         }
       ],
       "display_fields": {
-        "name": "工商管理与计算机科学／信息系统双学位",
+        "name": "工商管理与计算机科学／商业人工智能系统双学位（含旧IS记录）",
         "duration": "组合及入学届次不同，标准年限待核",
-        "entry_summary": "高中选拔或大一后申请；2026新计算学位名称须另对齐",
-        "language": "英语；境外或指定语言课程另有要求",
+        "entry_summary": "原CS／IS路径保留；2026 BAIS组合具名，当前专属条件待核",
+        "language": "英语（NUS）",
         "intake": "具体招生届次见申请说明",
         "tuition_summary": "分学位／就读阶段收费；2027全程金额尚未核实"
       },
@@ -14611,9 +14713,10 @@
           },
           {
             "label": "工程与商业课程",
-            "text": "官方说明将工程专业核心与组织行为、财务会计、营销、经济、商法结合，目标为具商业知识的工程人才。本轮仅取得培养说明，未取得可完整核对的最新联合课程表和各工程组合学分。",
+            "text": "官方说明将工程专业核心与组织行为、财务会计、营销、经济、商法结合，目标为具商业知识的工程人才。本次另补下方2026/27联合课程框架及名义／共享后学分；各具体工程方向仍须依获批专业计划核对。",
             "source_ids": [
-              "NUSJ-73bff5e785204782"
+              "NUSJ-73bff5e785204782",
+              "NUSJD-b34fdbffa3dba3c1"
             ]
           },
           {
@@ -14621,6 +14724,35 @@
             "text": "NUS一般课程以英语教学；法国、早稻田及特定语言课程的当地语言要求按项目单列，不把NUS英语政策外推至所有境外课程。",
             "source_ids": [
               "ASREN-dd5861bce6faef"
+            ]
+          },
+          {
+            "label": "2026/27起联合课程表",
+            "text": "已取得该届起完整联合表：双荣誉通常五年，名义208学分；Accountancy主修约216。共同通识24、CDE共同16、商科共同28、工程主修80、商科60或68。工程主修含数学8、专业伦理2、综合项目8、实习10和专业核心选修52。此为组合框架，具体工程学科仍按所属专业计划，不展开所有工程×商科组合。",
+            "source_ids": [
+              "NUSJD-b34fdbffa3dba3c1"
+            ]
+          },
+          {
+            "label": "实习和项目不得自行豁免",
+            "text": "双学位仍须工程实习10学分及工程专业伦理；获认可先修／文凭学分者依原文另处理。完成工程实习可满足商科工作经历的实习部分，但仍须STR1000／2000。工程综合项目与FSP4003仅经商学院批准、完成商业内容或指定创业项目才可共享，不能默认任何毕业项目可双算。",
+            "source_ids": [
+              "NUSJD-b34fdbffa3dba3c1"
+            ]
+          },
+          {
+            "label": "学分表减免口径须核",
+            "text": "原文名义208／216，另写获准共享综合项目后最低196／204；表中FSP4003为8学分，其余减少量未在该段完全解释。本轮保留两个官方数值及条件，不自行据8学分共享推算新总数。",
+            "source_ids": [
+              "NUSJD-b34fdbffa3dba3c1"
+            ]
+          },
+          {
+            "label": "当前会计与选择范围",
+            "text": "2026/27表明确会计为商科学位major，并列七种其他商科主修；允许不选具体商科领域而完成一般管理限制课。正文仍有BBA(Accountancy)旧写法。本轮把它作为会计课程量变体，未证明其为2027另一个独立会计授位；Real Estate不在此DDP当前选择清单，不能从普通BBA九主修直接外推。",
+            "source_ids": [
+              "NUSJD-b34fdbffa3dba3c1",
+              "NUSJD-4ab51f3f08bc0eaf"
             ]
           }
         ],
@@ -14655,14 +14787,14 @@
       },
       "sources": [
         {
-          "id": "NUSJ-73bff5e785204782",
-          "title": "Double Degree Programme in Engineering & Business Administration - College of Design and Engineering",
-          "url": "https://cde.nus.edu.sg/undergraduate/programmes/double-degree-programme-in-engineering-business-administration/",
-          "checked_at": "2026-09-13",
-          "sha256": "f3acc7bc50dacd353df5e3a9ccc8ed408266e0a93afb2852651e313ddc5c2beb",
-          "capture_method": "官方网页／PDF公开文本读取结果",
-          "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
-          "supports": "对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明"
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "NUS授课语言",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
         },
         {
           "id": "NUSJ-5846a08cfc5362c3",
@@ -14672,23 +14804,46 @@
           "sha256": "ca4d042dcb3bb408da538150935ce2aac36512e95c37c5753515713d63178624",
           "capture_method": "官方网页／PDF公开文本读取结果",
           "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
-          "supports": "对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明"
+          "supports": "入口边界",
+          "capture_format": "web_tool_response"
         },
         {
-          "id": "ASREN-dd5861bce6faef",
-          "title": "NUS英语要求（2026年9月版）",
-          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
-          "checked_at": "2026-09-12",
-          "supports": "英语教学、IELTS/TOEFL成绩有效期",
-          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-          "locator": "PDF page1"
+          "id": "NUSJ-73bff5e785204782",
+          "title": "Double Degree Programme in Engineering & Business Administration - College of Design and Engineering",
+          "url": "https://cde.nus.edu.sg/undergraduate/programmes/double-degree-programme-in-engineering-business-administration/",
+          "checked_at": "2026-09-13",
+          "sha256": "f3acc7bc50dacd353df5e3a9ccc8ed408266e0a93afb2852651e313ddc5c2beb",
+          "capture_method": "官方网页／PDF公开文本读取结果",
+          "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
+          "supports": "条目边界；工程与商业课程；费用缺口；毕业数据范围",
+          "capture_format": "web_tool_response"
+        },
+        {
+          "id": "NUSJD-4ab51f3f08bc0eaf",
+          "title": "NUS BBA 2026/27起课程及具名主修",
+          "url": "https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/",
+          "checked_at": "2026-09-13",
+          "sha256": "2a52a9dcadeb70933e82b8950466521f166c49053c8a0409c992bd8ed8fadf64",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Curriculum AY2026/27 onwards, L155–289: honours, nine majors and Accountancy",
+          "supports": "当前会计与选择范围"
+        },
+        {
+          "id": "NUSJD-b34fdbffa3dba3c1",
+          "title": "NUS 工程与工商管理双学位（2026/27起联合课程表）",
+          "url": "https://cde.nus.edu.sg/undergraduate/programmes/double-degree-programme-in-engineering-business-administration/",
+          "checked_at": "2026-09-13",
+          "sha256": "f9bc2fa141b36b71b469e823cc889f7ff89c04ab9f685744d8307eb9aea6df7f",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "CDE page L184–280, especially current cohort208/216, internship, approved project double counting",
+          "supports": "2026/27起联合课程表；实习和项目不得自行豁免；学分表减免口径须核；当前会计与选择范围"
         }
       ],
       "display_fields": {
         "name": "工程与工商管理双学位",
-        "duration": "通常4—5年；具体组合计划待核",
+        "duration": "通常5年；2026/27起名义208／216学分",
         "entry_summary": "需两学院审核；工程方向和商科组合分别确认",
-        "language": "英语；境外或指定语言课程另有要求",
+        "language": "英语（NUS）",
         "intake": "具体招生届次见申请说明",
         "tuition_summary": "分学位／就读阶段收费；2027全程金额尚未核实"
       },
@@ -15148,7 +15303,7 @@
     {
       "raw_key": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/double-degree-programmes/:Bachelor of Social Science in Economics & Bachelor of Business Administration/Bachelor of Business Administration (Accountancy)",
       "name_en": "Bachelor of Social Science in Economics & Bachelor of Business Administration/Bachelor of Business Administration (Accountancy)",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "当前确认：BBA (Honours) + BSocSci (Honours) in Economics；旧变体适用届次待核",
       "official_url": "http://www.nus.edu.sg/prog/bizecon/",
       "university_id": "nus",
       "inventory_id": "nus-bachelor-of-social-science-in-economics-bachelor-of-business-admi-8a4b0f13b8",
@@ -15175,6 +15330,15 @@
             "text": "NUS一般课程以英语教学；法国、早稻田及特定语言课程的当地语言要求按项目单列，不把NUS英语政策外推至所有境外课程。",
             "source_ids": [
               "ASREN-dd5861bce6faef"
+            ]
+          },
+          {
+            "label": "当前名与旧六变体对账",
+            "text": "当前FASS仅明确BBA(Honours)＋BSocSci(Honours)的经济学组合；旧专页仍留六种普通／会计、单双荣誉配置。当前普通BBA会计为主修，两页不足以证明全部旧配置对2027新生继续开放，也不足以断言已经全部停招；本轮不新增其余五项。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-e48a9c58059a2f44",
+              "NUSJD-4ab51f3f08bc0eaf"
             ]
           }
         ],
@@ -15209,6 +15373,27 @@
       },
       "sources": [
         {
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "NUS授课语言",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUSJ-6a39fc36cd7e96b2",
+          "title": "NUS 工商管理与经济学双学位（页面标题误写工程；按正文核验）",
+          "url": "https://www.nus.edu.sg/prog/bizecon/index.html",
+          "checked_at": "2026-09-13",
+          "sha256": "b4788499a772ef4da79ce3bbcdb62fb5d847bf75527abd9224175d91e87c89b0",
+          "capture_method": "官方网页／PDF公开文本读取结果",
+          "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
+          "supports": "当前与旧学位变体；在读选拔",
+          "capture_format": "web_tool_response"
+        },
+        {
           "id": "NUSJ-79c1ec71521023ac",
           "title": "Special Degree Programmes - NUS Faculty of Arts & Social Sciences",
           "url": "https://fass.nus.edu.sg/special-degree-programmes/",
@@ -15216,33 +15401,45 @@
           "sha256": "c3973c292fb79654536ad8e50fab5ba77d208154d0e5677ef4b88ae9850930af",
           "capture_method": "官方网页／PDF公开文本读取结果",
           "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
-          "supports": "对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明"
+          "supports": "条目边界；当前与旧学位变体；费用缺口；毕业数据范围",
+          "capture_format": "web_tool_response"
         },
         {
-          "id": "NUSJ-6a39fc36cd7e96b2",
-          "title": "NUS - Double Degree Programme in Business Administration and Engineering",
+          "id": "NUSJD-31270b4ab22abe2a",
+          "title": "NUS FASS 当前具名双学位和本硕衔接",
+          "url": "https://fass.nus.edu.sg/special-degree-programmes/",
+          "checked_at": "2026-09-13",
+          "sha256": "61f39a682a7b06d41eab0a4db149ab23577c8310a9bbc215ef49dddf3f47e4f8",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Special Degree Programmes, L257–266 Business DD; L322–331 five named MPP subjects",
+          "supports": "当前名与旧六变体对账"
+        },
+        {
+          "id": "NUSJD-4ab51f3f08bc0eaf",
+          "title": "NUS BBA 2026/27起课程及具名主修",
+          "url": "https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/",
+          "checked_at": "2026-09-13",
+          "sha256": "2a52a9dcadeb70933e82b8950466521f166c49053c8a0409c992bd8ed8fadf64",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Curriculum AY2026/27 onwards, L155–289: honours, nine majors and Accountancy",
+          "supports": "当前名与旧六变体对账"
+        },
+        {
+          "id": "NUSJD-e48a9c58059a2f44",
+          "title": "NUS 工商管理与经济学双学位（页面标题误写工程；按正文核验）",
           "url": "https://www.nus.edu.sg/prog/bizecon/index.html",
           "checked_at": "2026-09-13",
-          "sha256": "b4788499a772ef4da79ce3bbcdb62fb5d847bf75527abd9224175d91e87c89b0",
-          "capture_method": "官方网页／PDF公开文本读取结果",
-          "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
-          "supports": "对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明"
-        },
-        {
-          "id": "ASREN-dd5861bce6faef",
-          "title": "NUS英语要求（2026年9月版）",
-          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
-          "checked_at": "2026-09-12",
-          "supports": "英语教学、IELTS/TOEFL成绩有效期",
-          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-          "locator": "PDF page1"
+          "sha256": "c3cfd19b27ea86ddfab41acdd35c1a6c86cba4571f4b232fd315a60607747f73",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Body Economics L7–29: six variants, compulsory two other-school courses, old Accountancy route",
+          "supports": "当前名与旧六变体对账"
         }
       ],
       "display_fields": {
         "name": "经济学与工商管理双学位",
         "duration": "通常5年；旧会计变体可能更长",
-        "entry_summary": "高中或大一后竞争，满足两学院条件",
-        "language": "英语；境外或指定语言课程另有要求",
+        "entry_summary": "当前双荣誉入口另核；旧会计及单荣誉条件不作为2027承诺",
+        "language": "英语（NUS）",
         "intake": "具体招生届次见申请说明",
         "tuition_summary": "分学位／就读阶段收费；2027全程金额尚未核实"
       },
@@ -16161,6 +16358,15 @@
             "source_ids": [
               "ASREN-dd5861bce6faef"
             ]
+          },
+          {
+            "label": "2021会计计划与当前本科名称",
+            "text": "BBA＋MPP专页仍链接2021 BBA及BBA(Accountancy)计划；普通BBA当前会计为主修。旧计划是历史课程证据，不能据此确认2027仍单独授BBA(Accountancy)，也不能用2021本科课程加现行MPP64学分替换旧联合计划。",
+            "source_ids": [
+              "NUSJD-8ce56257b875919e",
+              "NUSJD-4ab51f3f08bc0eaf",
+              "NUSJD-ca4a2ada0a539867"
+            ]
           }
         ],
         "admissions": [
@@ -16194,6 +16400,16 @@
       },
       "sources": [
         {
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "NUS授课语言",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
           "id": "NUSJ-0e16c1bae5ca7338",
           "title": "Concurrent Degree Programme with Master of Public Policy - The NUS BBA Programmes",
           "url": "https://bba.nus.edu.sg/concurrent-degree-programme-with-master-of-public-policy/",
@@ -16201,23 +16417,45 @@
           "sha256": "b4788499a772ef4da79ce3bbcdb62fb5d847bf75527abd9224175d91e87c89b0",
           "capture_method": "官方网页／PDF公开文本读取结果",
           "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
-          "supports": "对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明"
+          "supports": "条目边界；培养与资格边界；后续正式申请；收费阶段；毕业数据范围",
+          "capture_format": "web_tool_response"
         },
         {
-          "id": "ASREN-dd5861bce6faef",
-          "title": "NUS英语要求（2026年9月版）",
-          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
-          "checked_at": "2026-09-12",
-          "supports": "英语教学、IELTS/TOEFL成绩有效期",
-          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-          "locator": "PDF page1"
+          "id": "NUSJD-4ab51f3f08bc0eaf",
+          "title": "NUS BBA 2026/27起课程及具名主修",
+          "url": "https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/",
+          "checked_at": "2026-09-13",
+          "sha256": "2a52a9dcadeb70933e82b8950466521f166c49053c8a0409c992bd8ed8fadf64",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Curriculum AY2026/27 onwards, L155–289: honours, nine majors and Accountancy",
+          "supports": "2021会计计划与当前本科名称"
+        },
+        {
+          "id": "NUSJD-8ce56257b875919e",
+          "title": "NUS 工商管理与MPP衔接（2021计划仍保留）",
+          "url": "https://bba.nus.edu.sg/concurrent-degree-programme-with-master-of-public-policy/",
+          "checked_at": "2026-09-13",
+          "sha256": "311cfdf0faeabbc7377ade28b72bb6294fb53c93ca5669343893923325144daa",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "BBA/MPP L155–239, current title and linked AY2021 sample plans",
+          "supports": "2021会计计划与当前本科名称"
+        },
+        {
+          "id": "NUSJD-ca4a2ada0a539867",
+          "title": "LKY 普通MPP课程（AY2025/26起）",
+          "url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/mpp-curriculum",
+          "checked_at": "2026-09-13",
+          "sha256": "cf6b87158eaa618b76ed5ad909b2aa6de1b4dc70fe9410b115e16bde2979ae62",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "MPP Curriculum, L27–88 required64units/core/PP5050; L120 continuation; L124–125 PAE",
+          "supports": "2021会计计划与当前本科名称"
         }
       ],
       "display_fields": {
         "name": "工商管理与公共政策本硕衔接",
         "duration": "通常至5年；最长6年",
         "entry_summary": "可高中条件录取或大二末申请，硕士名额仍需再选拔",
-        "language": "英语；境外或指定语言课程另有要求",
+        "language": "英语（NUS）",
         "intake": "具体招生届次见申请说明",
         "tuition_summary": "分学位／就读阶段收费；2027全程金额尚未核实"
       },
@@ -16263,6 +16501,14 @@
             "source_ids": [
               "ASREN-dd5861bce6faef"
             ]
+          },
+          {
+            "label": "会计旧毕业名称不等于新授位",
+            "text": "当前MSc Management衔接页面向符合条件NUS本科生，BBA入口具名；页末BBA(Accountancy)学生为2019届案例。普通BBA现在会计为主修，该历史案例不能证明2027独立BBA(Accountancy)＋MSc新授位。保留旧父项、不新增同名会计衔接子项。",
+            "source_ids": [
+              "NUSJD-6e1f13fc140766a0",
+              "NUSJD-4ab51f3f08bc0eaf"
+            ]
           }
         ],
         "admissions": [
@@ -16296,6 +16542,16 @@
       },
       "sources": [
         {
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "NUS授课语言",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
           "id": "NUSJ-6e0e4d237b6cd9cb",
           "title": "The NUS MSc in Management",
           "url": "https://mim.nus.edu.sg/academics/concurrent-degree-programme/",
@@ -16303,23 +16559,35 @@
           "sha256": "86c284fecf93b0c4520d9811c730ce1d4a54b609d2cd08f53e2d31ccf53d813a",
           "capture_method": "官方网页／PDF公开文本读取结果",
           "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
-          "supports": "对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明"
+          "supports": "条目边界；管理学课程组成；校内选拔条件；硕士单独收费；毕业数据范围",
+          "capture_format": "web_tool_response"
         },
         {
-          "id": "ASREN-dd5861bce6faef",
-          "title": "NUS英语要求（2026年9月版）",
-          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
-          "checked_at": "2026-09-12",
-          "supports": "英语教学、IELTS/TOEFL成绩有效期",
-          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-          "locator": "PDF page1"
+          "id": "NUSJD-4ab51f3f08bc0eaf",
+          "title": "NUS BBA 2026/27起课程及具名主修",
+          "url": "https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/",
+          "checked_at": "2026-09-13",
+          "sha256": "2a52a9dcadeb70933e82b8950466521f166c49053c8a0409c992bd8ed8fadf64",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Curriculum AY2026/27 onwards, L155–289: honours, nine majors and Accountancy",
+          "supports": "会计旧毕业名称不等于新授位"
+        },
+        {
+          "id": "NUSJD-6e1f13fc140766a0",
+          "title": "NUS 管理学硕士在读衔接及旧会计毕业案例边界",
+          "url": "https://mim.nus.edu.sg/academics/concurrent-degree-programme/",
+          "checked_at": "2026-09-13",
+          "sha256": "f9bc2fa141b36b71b469e823cc889f7ff89c04ab9f685744d8307eb9aea6df7f",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "MSc Management CDP L76–120 current entry; L147–162 undated fees and class2019 Accountancy example",
+          "supports": "会计旧毕业名称不等于新授位"
         }
       ],
       "display_fields": {
         "name": "工商管理与管理学硕士衔接",
         "duration": "本科之外通常增加1年硕士",
         "entry_summary": "主要面向NUS在读学生；商科可另有条件直录",
-        "language": "英语；境外或指定语言课程另有要求",
+        "language": "英语（NUS）",
         "intake": "具体招生届次见申请说明",
         "tuition_summary": "分学位／就读阶段收费；2027全程金额尚未核实"
       },
@@ -16374,6 +16642,14 @@
             "source_ids": [
               "NUSJ-6e0e4d237b6cd9cb"
             ]
+          },
+          {
+            "label": "新BAIS衔接审批状态",
+            "text": "2026 BAIS招生页对BAIS＋管理学硕士标为under approval；普通MSc Management在读框架开放并不等于此BAIS具名路线已获批。本轮保留旧BComp总览，不能承诺2027 BAIS本硕直接录取。",
+            "source_ids": [
+              "NUSJD-db64055067605f6e",
+              "NUSJD-6e1f13fc140766a0"
+            ]
           }
         ],
         "applications": [],
@@ -16398,6 +16674,16 @@
       },
       "sources": [
         {
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "NUS授课语言",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
           "id": "NUSJ-6e0e4d237b6cd9cb",
           "title": "The NUS MSc in Management",
           "url": "https://mim.nus.edu.sg/academics/concurrent-degree-programme/",
@@ -16405,7 +16691,8 @@
           "sha256": "86c284fecf93b0c4520d9811c730ce1d4a54b609d2cd08f53e2d31ccf53d813a",
           "capture_method": "官方网页／PDF公开文本读取结果",
           "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
-          "supports": "对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明"
+          "supports": "条目边界；管理学课程组成；校内选拔条件；硕士单独收费",
+          "capture_format": "web_tool_response"
         },
         {
           "id": "NUSJ-e6124f7f208c63b7",
@@ -16415,23 +16702,35 @@
           "sha256": "c7aa94c8c61880bf1bb359b48446863f086be036cfcdf20d350334b7c8a18bfc",
           "capture_method": "官方网页／PDF公开文本读取结果",
           "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
-          "supports": "对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明"
+          "supports": "硕士授位条件",
+          "capture_format": "web_tool_response"
         },
         {
-          "id": "ASREN-dd5861bce6faef",
-          "title": "NUS英语要求（2026年9月版）",
-          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
-          "checked_at": "2026-09-12",
-          "supports": "英语教学、IELTS/TOEFL成绩有效期",
-          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-          "locator": "PDF page1"
+          "id": "NUSJD-6e1f13fc140766a0",
+          "title": "NUS 管理学硕士在读衔接及旧会计毕业案例边界",
+          "url": "https://mim.nus.edu.sg/academics/concurrent-degree-programme/",
+          "checked_at": "2026-09-13",
+          "sha256": "f9bc2fa141b36b71b469e823cc889f7ff89c04ab9f685744d8307eb9aea6df7f",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "MSc Management CDP L76–120 current entry; L147–162 undated fees and class2019 Accountancy example",
+          "supports": "新BAIS衔接审批状态"
+        },
+        {
+          "id": "NUSJD-db64055067605f6e",
+          "title": "NUS 2026 商业人工智能系统招生及联合路径",
+          "url": "https://www.comp.nus.edu.sg/admissions/biz-aisys/",
+          "checked_at": "2026-09-13",
+          "sha256": "d6b465f22d66d76fae7a7e3db7d06bc9d12dccb92bc103e21c6610a4cff4e175",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "BAIS Open House2026, L254–270: namedDDP, managementCDP under approval",
+          "supports": "新BAIS衔接审批状态"
         }
       ],
       "display_fields": {
         "name": "计算机学士与管理学硕士衔接",
         "duration": "本科之外通常增加1年硕士",
         "entry_summary": "主要面向NUS在读学生；商科可另有条件直录",
-        "language": "英语；境外或指定语言课程另有要求",
+        "language": "英语（NUS）",
         "intake": "具体招生届次见申请说明",
         "tuition_summary": "分学位／就读阶段收费；2027全程金额尚未核实"
       },
@@ -17176,7 +17475,7 @@
     {
       "raw_key": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/concurrent-degree-programmes/:Bachelor of Arts (Honours)/Bachelor of Social Sciences (Honours)/Bachelor of Arts (Honours) in PPE (Philosophy, Politics, and Economics) and Master in Public Policy",
       "name_en": "Bachelor of Arts (Honours)/Bachelor of Social Sciences (Honours)/Bachelor of Arts (Honours) in PPE (Philosophy, Politics, and Economics) and Master in Public Policy",
-      "degree_label": "本科项目（学位名称尚未核实）",
+      "degree_label": "BSocSci (Honours) in Economics/Political Science/Sociology/Social Work，或BA (Honours) in PPE + MPP",
       "official_url": "https://fass.nus.edu.sg/special-degree-programmes/#concurrent-degree",
       "university_id": "nus",
       "inventory_id": "nus-bachelor-of-arts-honours-bachelor-of-social-sciences-honours-bach-0fe6e97c15",
@@ -17203,6 +17502,14 @@
             "source_ids": [
               "ASREN-dd5861bce6faef"
             ]
+          },
+          {
+            "label": "五种具名本科分别列出",
+            "text": "目前只确认经济、政治学、社会学、社会工作四种BSocSci(Honours)，以及PPE的BA(Honours)，各衔接MPP；本轮已添加五子路线，父框架保留，未扩大到所有BA主修。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
           }
         ],
         "admissions": [],
@@ -17212,6 +17519,14 @@
             "text": "大二收到邀请后按校内通知申请；公开页未给2027具体日期、最低GPA或全程费，须核相应在读通知。",
             "source_ids": [
               "NUSJ-79c1ec71521023ac"
+            ]
+          },
+          {
+            "label": "邀请与正式申请阶段待学院衔接",
+            "text": "FASS大二邀请与公共政策学院本科最后一年申请两种公开表述均保留；本条2027专用日期与阶段衔接本轮未取得，不套BBA＋MPP的12月15日。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
             ]
           }
         ],
@@ -17236,6 +17551,16 @@
       },
       "sources": [
         {
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "NUS授课语言",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
           "id": "NUSJ-79c1ec71521023ac",
           "title": "Special Degree Programmes - NUS Faculty of Arts & Social Sciences",
           "url": "https://fass.nus.edu.sg/special-degree-programmes/",
@@ -17243,23 +17568,35 @@
           "sha256": "c3973c292fb79654536ad8e50fab5ba77d208154d0e5677ef4b88ae9850930af",
           "capture_method": "官方网页／PDF公开文本读取结果",
           "locator": "官方公开页面／PDF正文；多页提取文件按来源URL和标题定位",
-          "supports": "对应项目的课程、申请、收费阶段或当前状态；年份与局限在事实中说明"
+          "supports": "条目边界；当前可衔接学科；校内申请；费用缺口；毕业数据范围",
+          "capture_format": "web_tool_response"
         },
         {
-          "id": "ASREN-dd5861bce6faef",
-          "title": "NUS英语要求（2026年9月版）",
-          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
-          "checked_at": "2026-09-12",
-          "supports": "英语教学、IELTS/TOEFL成绩有效期",
-          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
-          "locator": "PDF page1"
+          "id": "NUSJD-31270b4ab22abe2a",
+          "title": "NUS FASS 当前具名双学位和本硕衔接",
+          "url": "https://fass.nus.edu.sg/special-degree-programmes/",
+          "checked_at": "2026-09-13",
+          "sha256": "61f39a682a7b06d41eab0a4db149ab23577c8310a9bbc215ef49dddf3f47e4f8",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Special Degree Programmes, L257–266 Business DD; L322–331 five named MPP subjects",
+          "supports": "五种具名本科分别列出；邀请与正式申请阶段待学院衔接"
+        },
+        {
+          "id": "NUSJD-98ebe6577fcab74a",
+          "title": "LKY 公共政策本硕衔接资格和学制",
+          "url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+          "checked_at": "2026-09-13",
+          "sha256": "d6b465f22d66d76fae7a7e3db7d06bc9d12dccb92bc103e21c6610a4cff4e175",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Concurrent Degree, L27–43: current NUS undergraduates, five FASS degrees, 4.5–5 years",
+          "supports": "五种具名本科分别列出；邀请与正式申请阶段待学院衔接"
         }
       ],
       "display_fields": {
         "name": "文社科学士与公共政策本硕衔接",
-        "duration": "具体主修计划与总年限待核",
+        "duration": "约4.5–5年（本科及MPP合计）",
         "entry_summary": "在读大二邀请，限指定主修",
-        "language": "英语；境外或指定语言课程另有要求",
+        "language": "英语（NUS）",
         "intake": "具体招生届次见申请说明",
         "tuition_summary": "分学位／就读阶段收费；2027全程金额尚未核实"
       },
@@ -21621,6 +21958,2002 @@
         "保留当前联合父项；本条仅官方具名在读方向。",
         "详细课程按2026-06-23版CHS2023/24起Annex A；在读2026申请已结束，2027窗口未知。"
       ]
+    },
+    {
+      "university_id": "nus",
+      "raw_key": "https://nus.edu.sg/prog/bzabba/#catalog-named-business-analytics-bba-double-honours",
+      "name_en": "Bachelor of Science (Honours) in Business Analytics and Bachelor of Business Administration (Honours)",
+      "degree_label": "BSc (Honours) in Business Analytics + BBA (Honours)",
+      "official_url": "https://nus.edu.sg/prog/bzabba/",
+      "inventory_id": "nus-business-analytics-bba-double-honours-2197bbeff9",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "实际授位与主学院",
+            "text": "专页明确商业分析荣誉理学士＋工商管理荣誉学士，5年；商学院和计算学院都可作为主学院。两种主学院写法只是学位排列顺序，不另计第三种学位。",
+            "source_ids": [
+              "NUSJD-0c4e17b5a2e42d24"
+            ]
+          },
+          {
+            "label": "与会计旧名的区别",
+            "text": "旧总目录把BBA(Accountancy)并列在父项名称中；当前本组合专页只列BBA，不单列会计授位变体。普通BBA当前将Accountancy作为主修，本轮不据旧名称添加会计双学位新生选项。",
+            "source_ids": [
+              "NUSJD-0c4e17b5a2e42d24",
+              "NUSJD-4ab51f3f08bc0eaf"
+            ]
+          },
+          {
+            "label": "商业分析本科基础",
+            "text": "商业分析原学位学习编程算法、计量建模、数据管理与可视化、应用系统开发，并含8学分综合项目。此处说明原本科培养内容，不能把原学位全部160学分与BBA160简单相加；双学位具体共享及项目替代仍需个人联合计划。",
+            "source_ids": [
+              "NUS26-6c4c5f2083df6a",
+              "NUSJD-f2c8fa04cfd8a0ab"
+            ]
+          },
+          {
+            "label": "工商管理本科基础",
+            "text": "BBA当前功能课程涵盖会计、营销、组织行为、商业分析与AI编程、运营技术管理及金融。普通BBA另有工作与海外经历里程碑；这些项目在本联合配置中的替代办法、商科主修和荣誉项目分配，本轮未取得当届完整课程表。",
+            "source_ids": [
+              "NUSJD-4ab51f3f08bc0eaf",
+              "NUSJD-0c4e17b5a2e42d24"
+            ]
+          },
+          {
+            "label": "共享学分规则",
+            "text": "2021/22起双学位一般允许每项主修／项目／学院要求至多40%共享，至少60%须不重叠；共同学院要求在可行范围内可全部共享，两个共同课程体系仍均须满足。全校最低160只是下限，不代表本组合仅160。",
+            "source_ids": [
+              "NUSJD-f2c8fa04cfd8a0ab"
+            ]
+          },
+          {
+            "label": "教学语言与地点",
+            "text": "两学位均在NUS计算与商学院框架内；NUS英语表明确英语为教学语言。具体课室或海外交流地点按个人计划，本轮不宣称必修境外阶段。",
+            "source_ids": [
+              "NUSJD-0c4e17b5a2e42d24",
+              "ASREN-dd5861bce6faef"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大一后选拔",
+            "text": "专页写2019/20及以后BBA／商业分析在读生：完成大一、GPA至少3.75；学校建议在大一至少修一门第二学位课程，相关成绩参与遴选。单荣誉配置须以计算学院为主学院，达到最低线不保证获录。",
+            "source_ids": [
+              "NUSJD-0c4e17b5a2e42d24"
+            ]
+          },
+          {
+            "label": "高中资格与数学",
+            "text": "直接录取仍须同时满足两学院与OAM资格。高考页仍用2026示例、未给统一百分比；未参加高考须转用其他高中学历类别。2025年12月版国际学历科目表给BBA和商业分析Year12或更高数学pass，不能换算成中国高考统一分数或套新加坡A-level科目等级。",
+            "source_ids": [
+              "NUSJD-0c4e17b5a2e42d24",
+              "ASREN-91c45582176a42",
+              "ASREN-dcc8aa412ca466"
+            ]
+          },
+          {
+            "label": "英语与当届适用",
+            "text": "高考类别另需英语成绩：2026年9月表列IELTS总分／阅读／写作均6.5，或新制TOEFL对应三项均4.5；一般须至学年开始仍在两年有效期。2027联合配置是否接受及具体名额本轮未取得单独确认。",
+            "source_ids": [
+              "ASREN-dd5861bce6faef",
+              "NUSJD-0c4e17b5a2e42d24"
+            ]
+          },
+          {
+            "label": "续读规则与旧文字差异",
+            "text": "专页在申请段把3.75称作DDP维持分数；Registrar明确2021/22起从第二个活跃常规学期两学位GPA均须3.5，累计超过140学分后不适用此续读规则。一学期不达警告、连续两学期不达须退出第二学位；本轮保留专页旧措辞并区分3.75申请线与按届次续读规则。",
+            "source_ids": [
+              "NUSJD-0c4e17b5a2e42d24",
+              "NUSJD-f2c8fa04cfd8a0ab"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "两种申请时间",
+            "text": "专页直接录取途径自2020/21起；在读邀请通常大一下4—5月校内邮件通知。2027国际学历本科总窗口为2026-12-16至2027-02-17（IB另栏），不等于大一后双学位截止；本配置2027在读日期本轮未取得。",
+            "source_ids": [
+              "NUSJD-0c4e17b5a2e42d24",
+              "ASREN-0acd9e45ef5adf"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "主学院收费逻辑",
+            "text": "Registrar双学位规则前4年按主学院prevailing fee，并明确此词指扣TG后的补助费。第5年在标准修读期内学校自动提供部分学费抵补；一学位为Computing且不涉Law者，所付与主学院该补助费挂钩。它没有在本段完整解释从未获TG国际生的抵补金额，不能默认中国生获TG或把此规则算成全程固定价。",
+            "source_ids": [
+              "NUSJD-f2c8fa04cfd8a0ab"
+            ]
+          },
+          {
+            "label": "2026/27类别金额参考",
+            "text": "非ASEAN国际新生、含GST的普通年费：Computing获TG SGD21,400、不获TG39,700；Business获TG22,200、不获TG33,400。均为2026/27新生类别参考，按实际主学院与入学届次办理；不作为2027本配置整段报价。",
+            "source_ids": [
+              "NUS26-06231ba1d17578"
+            ]
+          },
+          {
+            "label": "服务义务与资助",
+            "text": "国际本科生须实际获批并接受TG，通常毕业后为新加坡实体服务3年；不接受则用非补助费。国际本科奖学金亦须接受TG并经择优，不能假设获奖后无服务义务；联合配置的所有超期资助本轮未核。",
+            "source_ids": [
+              "ASREN-a7c9f06a434aa5",
+              "ASREN-411c00b1e61446"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "学位完成及调查缺口",
+            "text": "双学位各有一张学位证、同日授位；课程须满足两项要求。NUS2025 GES未单列本荣誉配置，不能把普通商业分析或BBA的薪资／就业率当作本双学位结果；本轮未取得此配置独立统计。",
+            "source_ids": [
+              "NUSJD-f2c8fa04cfd8a0ab",
+              "NUS26-efe847f8074c14"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ASREN-0acd9e45ef5adf",
+          "title": "NUS AY2027/28申请日期",
+          "url": "https://www.nus.edu.sg/oam/admissions/important-dates",
+          "checked_at": "2026-09-12",
+          "supports": "两种申请时间",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "AY2027/2028 International Qualifications",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-411c00b1e61446",
+          "title": "NUS International Undergraduate Scholarship",
+          "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "服务义务与资助",
+          "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+          "locator": "Eligibility/Benefits/Terms",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-91c45582176a42",
+          "title": "NUS高考申请资格（页面仍为2026）",
+          "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination",
+          "checked_at": "2026-09-12",
+          "supports": "高中资格与数学",
+          "sha256": "0abafbe12c137a089e798d233685c31ca6ecada98c71c1c1cc0d42248a537de1",
+          "locator": "Gaokao table and notes",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-a7c9f06a434aa5",
+          "title": "NUS Tuition Grant和服务义务",
+          "url": "https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees",
+          "checked_at": "2026-09-12",
+          "supports": "服务义务与资助",
+          "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+          "locator": "Fees/Tuition Grant",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-dcc8aa412ca466",
+          "title": "NUS国际学历单学位专业先修表",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/international-qualifications/cat-d-sdp.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "高中资格与数学",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF pages1–3",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "教学语言与地点；英语与当届适用",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUS26-06231ba1d17578",
+          "title": "NUS AY2026/27新生年费",
+          "url": "https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27类别金额参考",
+          "sha256": "1bb50375e3299184c60f5c1006ebe331a220e996500366513596e5a22f103d5e",
+          "locator": "PDF p2, A: New undergraduate intake AY2026/27; p14–15 notes",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUS26-6c4c5f2083df6a",
+          "title": "NUS AY2026/27 school-of-computing 本科课程",
+          "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-computing/undergraduate-education/",
+          "checked_at": "2026-09-13",
+          "supports": "商业分析本科基础",
+          "sha256": "ef03a0da87cdbb109f4f3733e3717a33c73a71db6455491dac59625db0bfe2a5",
+          "locator": "课程名称下 Degree Requirements／Curriculum Structure",
+          "capture_format": "public_html"
+        },
+        {
+          "id": "NUS26-efe847f8074c14",
+          "title": "新加坡教育部NUS 2025毕业就业调查",
+          "url": "https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "学位完成及调查缺口",
+          "sha256": "8dec4235695865ea34a95af325a1bc8b367b604440826a499e14aed6e986999e",
+          "locator": "Degree rows; notes1–10, pp1–3",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUSJD-0c4e17b5a2e42d24",
+          "title": "NUS 商业分析与工商管理双学位的两种荣誉配置",
+          "url": "https://nus.edu.sg/prog/bzabba/",
+          "checked_at": "2026-09-13",
+          "sha256": "61f39a682a7b06d41eab0a4db149ab23577c8310a9bbc215ef49dddf3f47e4f8",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Business and Business Analytics, L4–29: awards/home faculty/duration/entry",
+          "supports": "实际授位与主学院；与会计旧名的区别；工商管理本科基础；教学语言与地点；大一后选拔；高中资格与数学；英语与当届适用；续读规则与旧文字差异；两种申请时间"
+        },
+        {
+          "id": "NUSJD-4ab51f3f08bc0eaf",
+          "title": "NUS BBA 2026/27起课程及具名主修",
+          "url": "https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/",
+          "checked_at": "2026-09-13",
+          "sha256": "2a52a9dcadeb70933e82b8950466521f166c49053c8a0409c992bd8ed8fadf64",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Curriculum AY2026/27 onwards, L155–289: honours, nine majors and Accountancy",
+          "supports": "与会计旧名的区别；工商管理本科基础"
+        },
+        {
+          "id": "NUSJD-f2c8fa04cfd8a0ab",
+          "title": "NUS 双学位当前框架与按届次续读收费规则",
+          "url": "https://www.nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/double-degree-programmes/double-degree-programme-framework-and-guidelines",
+          "checked_at": "2026-09-13",
+          "sha256": "2fddeede478c1113c7874ae172f83a4aba34b98cd36295c3a5295232acc9226f",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Registrar DDP, L294–310; L335–345; L367–395; L408–412",
+          "supports": "商业分析本科基础；共享学分规则；续读规则与旧文字差异；主学院收费逻辑；学位完成及调查缺口"
+        }
+      ],
+      "display_fields": {
+        "name": "商业分析与工商管理双学位（双荣誉）",
+        "intake": "现行专页；2027路线批次未核定",
+        "duration": "5年",
+        "campus": "NUS计算学院与商学院；具体教学地点按课表",
+        "language": "英语（NUS）",
+        "entry_summary": "商学院或计算学院为主学院；高中选拔或大一后竞争",
+        "tuition_summary": "按主学院／TG状态／年份收费；2027全程未核",
+        "outcomes_summary": "未取得此荣誉配置独立毕业统计"
+      },
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "research_status": "program_researched"
+    },
+    {
+      "university_id": "nus",
+      "raw_key": "https://nus.edu.sg/prog/bzabba/#catalog-named-business-analytics-bba-single-honours",
+      "name_en": "Bachelor of Science (Honours) in Business Analytics and Bachelor of Business Administration",
+      "degree_label": "BSc (Honours) in Business Analytics + BBA",
+      "official_url": "https://nus.edu.sg/prog/bzabba/",
+      "inventory_id": "nus-business-analytics-bba-single-honours-e797553901",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "实际授位与主学院",
+            "text": "计算学院为主学院时，专页另外明确商业分析荣誉理学士＋工商管理学士，4.5年。BBA不带Honours；商学院主学院栏没有列这一配置。",
+            "source_ids": [
+              "NUSJD-0c4e17b5a2e42d24"
+            ]
+          },
+          {
+            "label": "与会计旧名的区别",
+            "text": "旧总目录把BBA(Accountancy)并列在父项名称中；当前本组合专页只列BBA，不单列会计授位变体。普通BBA当前将Accountancy作为主修，本轮不据旧名称添加会计双学位新生选项。",
+            "source_ids": [
+              "NUSJD-0c4e17b5a2e42d24",
+              "NUSJD-4ab51f3f08bc0eaf"
+            ]
+          },
+          {
+            "label": "商业分析本科基础",
+            "text": "商业分析原学位学习编程算法、计量建模、数据管理与可视化、应用系统开发，并含8学分综合项目。此处说明原本科培养内容，不能把原学位全部160学分与BBA160简单相加；双学位具体共享及项目替代仍需个人联合计划。",
+            "source_ids": [
+              "NUS26-6c4c5f2083df6a",
+              "NUSJD-f2c8fa04cfd8a0ab"
+            ]
+          },
+          {
+            "label": "工商管理本科基础",
+            "text": "BBA当前功能课程涵盖会计、营销、组织行为、商业分析与AI编程、运营技术管理及金融。普通BBA另有工作与海外经历里程碑；这些项目在本联合配置中的替代办法、商科主修和荣誉项目分配，本轮未取得当届完整课程表。",
+            "source_ids": [
+              "NUSJD-4ab51f3f08bc0eaf",
+              "NUSJD-0c4e17b5a2e42d24"
+            ]
+          },
+          {
+            "label": "共享学分规则",
+            "text": "2021/22起双学位一般允许每项主修／项目／学院要求至多40%共享，至少60%须不重叠；共同学院要求在可行范围内可全部共享，两个共同课程体系仍均须满足。全校最低160只是下限，不代表本组合仅160。",
+            "source_ids": [
+              "NUSJD-f2c8fa04cfd8a0ab"
+            ]
+          },
+          {
+            "label": "教学语言与地点",
+            "text": "两学位均在NUS计算与商学院框架内；NUS英语表明确英语为教学语言。具体课室或海外交流地点按个人计划，本轮不宣称必修境外阶段。",
+            "source_ids": [
+              "NUSJD-0c4e17b5a2e42d24",
+              "ASREN-dd5861bce6faef"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大一后选拔",
+            "text": "专页写2019/20及以后BBA／商业分析在读生：完成大一、GPA至少3.75；学校建议在大一至少修一门第二学位课程，相关成绩参与遴选。单荣誉配置须以计算学院为主学院，达到最低线不保证获录。",
+            "source_ids": [
+              "NUSJD-0c4e17b5a2e42d24"
+            ]
+          },
+          {
+            "label": "高中资格与数学",
+            "text": "直接录取仍须同时满足两学院与OAM资格。高考页仍用2026示例、未给统一百分比；未参加高考须转用其他高中学历类别。2025年12月版国际学历科目表给BBA和商业分析Year12或更高数学pass，不能换算成中国高考统一分数或套新加坡A-level科目等级。",
+            "source_ids": [
+              "NUSJD-0c4e17b5a2e42d24",
+              "ASREN-91c45582176a42",
+              "ASREN-dcc8aa412ca466"
+            ]
+          },
+          {
+            "label": "英语与当届适用",
+            "text": "高考类别另需英语成绩：2026年9月表列IELTS总分／阅读／写作均6.5，或新制TOEFL对应三项均4.5；一般须至学年开始仍在两年有效期。2027联合配置是否接受及具体名额本轮未取得单独确认。",
+            "source_ids": [
+              "ASREN-dd5861bce6faef",
+              "NUSJD-0c4e17b5a2e42d24"
+            ]
+          },
+          {
+            "label": "续读规则与旧文字差异",
+            "text": "专页在申请段把3.75称作DDP维持分数；Registrar明确2021/22起从第二个活跃常规学期两学位GPA均须3.5，累计超过140学分后不适用此续读规则。一学期不达警告、连续两学期不达须退出第二学位；本轮保留专页旧措辞并区分3.75申请线与按届次续读规则。",
+            "source_ids": [
+              "NUSJD-0c4e17b5a2e42d24",
+              "NUSJD-f2c8fa04cfd8a0ab"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "两种申请时间",
+            "text": "专页直接录取途径自2020/21起；在读邀请通常大一下4—5月校内邮件通知。2027国际学历本科总窗口为2026-12-16至2027-02-17（IB另栏），不等于大一后双学位截止；本配置2027在读日期本轮未取得。",
+            "source_ids": [
+              "NUSJD-0c4e17b5a2e42d24",
+              "ASREN-0acd9e45ef5adf"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "主学院收费逻辑",
+            "text": "Registrar双学位规则前4年按主学院prevailing fee，并明确此词指扣TG后的补助费。第5年在标准修读期内学校自动提供部分学费抵补；一学位为Computing且不涉Law者，所付与主学院该补助费挂钩。它没有在本段完整解释从未获TG国际生的抵补金额，不能默认中国生获TG或把此规则算成全程固定价。",
+            "source_ids": [
+              "NUSJD-f2c8fa04cfd8a0ab"
+            ]
+          },
+          {
+            "label": "2026/27类别金额参考",
+            "text": "非ASEAN国际新生、含GST的普通年费：Computing获TG SGD21,400、不获TG39,700；Business获TG22,200、不获TG33,400。均为2026/27新生类别参考，按实际主学院与入学届次办理；不作为2027本配置整段报价。",
+            "source_ids": [
+              "NUS26-06231ba1d17578"
+            ]
+          },
+          {
+            "label": "服务义务与资助",
+            "text": "国际本科生须实际获批并接受TG，通常毕业后为新加坡实体服务3年；不接受则用非补助费。国际本科奖学金亦须接受TG并经择优，不能假设获奖后无服务义务；联合配置的所有超期资助本轮未核。",
+            "source_ids": [
+              "ASREN-a7c9f06a434aa5",
+              "ASREN-411c00b1e61446"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "学位完成及调查缺口",
+            "text": "双学位各有一张学位证、同日授位；课程须满足两项要求。NUS2025 GES未单列本荣誉配置，不能把普通商业分析或BBA的薪资／就业率当作本双学位结果；本轮未取得此配置独立统计。",
+            "source_ids": [
+              "NUSJD-f2c8fa04cfd8a0ab",
+              "NUS26-efe847f8074c14"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ASREN-0acd9e45ef5adf",
+          "title": "NUS AY2027/28申请日期",
+          "url": "https://www.nus.edu.sg/oam/admissions/important-dates",
+          "checked_at": "2026-09-12",
+          "supports": "两种申请时间",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "AY2027/2028 International Qualifications",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-411c00b1e61446",
+          "title": "NUS International Undergraduate Scholarship",
+          "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "服务义务与资助",
+          "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+          "locator": "Eligibility/Benefits/Terms",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-91c45582176a42",
+          "title": "NUS高考申请资格（页面仍为2026）",
+          "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination",
+          "checked_at": "2026-09-12",
+          "supports": "高中资格与数学",
+          "sha256": "0abafbe12c137a089e798d233685c31ca6ecada98c71c1c1cc0d42248a537de1",
+          "locator": "Gaokao table and notes",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-a7c9f06a434aa5",
+          "title": "NUS Tuition Grant和服务义务",
+          "url": "https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees",
+          "checked_at": "2026-09-12",
+          "supports": "服务义务与资助",
+          "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+          "locator": "Fees/Tuition Grant",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-dcc8aa412ca466",
+          "title": "NUS国际学历单学位专业先修表",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/international-qualifications/cat-d-sdp.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "高中资格与数学",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF pages1–3",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "教学语言与地点；英语与当届适用",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUS26-06231ba1d17578",
+          "title": "NUS AY2026/27新生年费",
+          "url": "https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "2026/27类别金额参考",
+          "sha256": "1bb50375e3299184c60f5c1006ebe331a220e996500366513596e5a22f103d5e",
+          "locator": "PDF p2, A: New undergraduate intake AY2026/27; p14–15 notes",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUS26-6c4c5f2083df6a",
+          "title": "NUS AY2026/27 school-of-computing 本科课程",
+          "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-computing/undergraduate-education/",
+          "checked_at": "2026-09-13",
+          "supports": "商业分析本科基础",
+          "sha256": "ef03a0da87cdbb109f4f3733e3717a33c73a71db6455491dac59625db0bfe2a5",
+          "locator": "课程名称下 Degree Requirements／Curriculum Structure",
+          "capture_format": "public_html"
+        },
+        {
+          "id": "NUS26-efe847f8074c14",
+          "title": "新加坡教育部NUS 2025毕业就业调查",
+          "url": "https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "学位完成及调查缺口",
+          "sha256": "8dec4235695865ea34a95af325a1bc8b367b604440826a499e14aed6e986999e",
+          "locator": "Degree rows; notes1–10, pp1–3",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUSJD-0c4e17b5a2e42d24",
+          "title": "NUS 商业分析与工商管理双学位的两种荣誉配置",
+          "url": "https://nus.edu.sg/prog/bzabba/",
+          "checked_at": "2026-09-13",
+          "sha256": "61f39a682a7b06d41eab0a4db149ab23577c8310a9bbc215ef49dddf3f47e4f8",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Business and Business Analytics, L4–29: awards/home faculty/duration/entry",
+          "supports": "实际授位与主学院；与会计旧名的区别；工商管理本科基础；教学语言与地点；大一后选拔；高中资格与数学；英语与当届适用；续读规则与旧文字差异；两种申请时间"
+        },
+        {
+          "id": "NUSJD-4ab51f3f08bc0eaf",
+          "title": "NUS BBA 2026/27起课程及具名主修",
+          "url": "https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/",
+          "checked_at": "2026-09-13",
+          "sha256": "2a52a9dcadeb70933e82b8950466521f166c49053c8a0409c992bd8ed8fadf64",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Curriculum AY2026/27 onwards, L155–289: honours, nine majors and Accountancy",
+          "supports": "与会计旧名的区别；工商管理本科基础"
+        },
+        {
+          "id": "NUSJD-f2c8fa04cfd8a0ab",
+          "title": "NUS 双学位当前框架与按届次续读收费规则",
+          "url": "https://www.nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/double-degree-programmes/double-degree-programme-framework-and-guidelines",
+          "checked_at": "2026-09-13",
+          "sha256": "2fddeede478c1113c7874ae172f83a4aba34b98cd36295c3a5295232acc9226f",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Registrar DDP, L294–310; L335–345; L367–395; L408–412",
+          "supports": "商业分析本科基础；共享学分规则；续读规则与旧文字差异；主学院收费逻辑；学位完成及调查缺口"
+        }
+      ],
+      "display_fields": {
+        "name": "商业分析与工商管理双学位（商业分析单荣誉）",
+        "intake": "现行专页；2027路线批次未核定",
+        "duration": "4.5年",
+        "campus": "NUS计算学院与商学院；具体教学地点按课表",
+        "language": "英语（NUS）",
+        "entry_summary": "仅计算学院为主学院；高中选拔或BZA在读大一后申请，具体新生届次另核",
+        "tuition_summary": "按主学院／TG状态／年份收费；2027全程未核",
+        "outcomes_summary": "未取得此荣誉配置独立毕业统计"
+      },
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "research_status": "program_researched"
+    },
+    {
+      "university_id": "nus",
+      "raw_key": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree#catalog-named-economics-mpp-concurrent",
+      "name_en": "Bachelor of Social Sciences (Honours) in Economics and Master in Public Policy",
+      "degree_label": "Bachelor of Social Sciences (Honours) in Economics + Master in Public Policy",
+      "official_url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+      "inventory_id": "nus-economics-mpp-concurrent-945fe69ba6",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "具名本科及硕士",
+            "text": "FASS与公共政策学院共同明确：Bachelor of Social Sciences (Honours) in Economics，衔接Master in Public Policy。本条是五种指定本科学位之一，不是任意文社科专业都能选的自由组合；本科和硕士分别授位。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "本科课程基础",
+            "text": "经济本科主修至少60学分，包含微观与宏观各两级、经济数量方法、计量经济基础与计量经济学I；至少16学分为3000级、20学分为4000级以上。 上述为原主修培养要求，CDP具体共享、豁免及替换须依获准个人计划，不能把本科与普通MPP学分机械相加。",
+            "source_ids": [
+              "NUS26-683167043e187a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "MPP课程与训练",
+            "text": "普通MPP从2025/26起为64学分：8门核心32、受限选修4、专业方向选修20及其他选修8；不设方向时可用选修替代。核心覆盖经济与政治经济分析、财政、公共管理、政策基础和两级分析工具；Python或R作为受限选修。这里是普通MPP当前课程基础，未核本衔接最终须额外读多少。",
+            "source_ids": [
+              "NUSJD-ca4a2ada0a539867"
+            ]
+          },
+          {
+            "label": "实践与毕业条件",
+            "text": "普通MPP含政策分析项目，由学生小组为真实客户研究政策问题；2025起第一年另须完成不计学分PP5050职业发展课程，普通MPP毕业GPA至少3.0。CDP专属学分共享、继续／退出标准本轮未取得，不能把普通MPP最低毕业分当作录取保证。",
+            "source_ids": [
+              "NUSJD-ca4a2ada0a539867",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "年限与授课",
+            "text": "公共政策学院标本硕合计4.5—5年；不能另把四年本科加普通两年MPP写为必修六年。NUS英语为教学语言，具体跨学院课程地点按课表。",
+            "source_ids": [
+              "NUSJD-98ebe6577fcab74a",
+              "ASREN-dd5861bce6faef"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在读资格及选拔",
+            "text": "须先是该指定NUS本科路线的优秀在读生；公共政策学院说明名额有限、择优。两校级页面未给本条适用的统一最低GPA／研究生考试分数或2027完整内部选拔表，本轮不借用BBA＋MPP的GPA4.0和年级门槛。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "本科特有条件参考",
+            "text": "普通经济主修荣誉论文为选修；选论文须已修110学分（含40主修），主修平均至少4.0、总体GPA至少3.5。该条件属于经济论文，不能当作MPP录取门槛。",
+            "source_ids": [
+              "NUS26-683167043e187a"
+            ]
+          },
+          {
+            "label": "中国高中生前置路径",
+            "text": "中国高中生首先按本科国际学历类别竞争该本科入口；当前高考页仍按2026说明good pass而无统一百分比，未参加高考须按其他高中学历类别。A-level／IB申请者应使用相应学历类别，不能把高考条件套入；本科录取不附送MPP名额。",
+            "source_ids": [
+              "ASREN-91c45582176a42",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "本科英语参考",
+            "text": "2026年9月NUS英语表：高考类别IELTS总分、阅读、写作均6.5；新制TOEFL三项均4.5，须同次考试且一般至学年开始仍在两年有效期。之后MPP是否要求补交英语材料按其在读选拔通知，本轮未取得本条专属豁免承诺。",
+            "source_ids": [
+              "ASREN-dd5861bce6faef",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "两个阶段的公开说明",
+            "text": "FASS写大二会受邀申请，详细规则在学生内网；公共政策学院写在本科最后一年申请。这可能对应邀请与正式录取不同阶段，但原文没有给衔接时间表，本轮保留两种表述。不能套用商学院路线的12月15日截止。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "2027本科日期与内部期限",
+            "text": "2027/28国际学历本科（IB另栏）2026-12-16至2027-02-17申请；这是取得本科入口的时间，不是MPP内部截止。本条2027在读申请／补件／面试的具体日期本轮未取得。",
+            "source_ids": [
+              "ASREN-0acd9e45ef5adf",
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科阶段参考与收费缺口",
+            "text": "普通Humanities and Sciences非ASEAN国际新生2026/27年费：实际获TG SGD21,400、无TG36,650，含GST。这里仅本科所属类别参考；本衔接从何学期转MPP费、共享课程如何计费和2027入学金额本轮未取得。",
+            "source_ids": [
+              "NUS26-06231ba1d17578",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "普通MPP 2026入学费参考",
+            "text": "公共政策学院普通MPP AY2026入学表：国际生获研究生补助SGD16,050／学期，四学期64,200；非补助24,067／学期，四学期96,268，均含9%GST。这是普通MPP四学期报价，不能作为本衔接须缴四学期、或全程本硕总费的证明。",
+            "source_ids": [
+              "NUSJD-28ce20877fd0b431"
+            ]
+          },
+          {
+            "label": "普通MPP杂费与补助范围",
+            "text": "普通MPP 2026/27每学期学生服务费SGD170、医疗服务费165.50，含GST；后者不是本轮核实的单独保险保费。既往已获新加坡政府研究生补助／资助者，另一同级或更低级研究生课程通常无补助；本科TG不等于自动获MPP补助。",
+            "source_ids": [
+              "NUSJD-28ce20877fd0b431"
+            ]
+          },
+          {
+            "label": "本科TG与奖学金边界",
+            "text": "本科TG必须实际获批并接受，国际毕业生通常承担为新加坡实体服务3年；不获TG应以非补助费预算。NUS International Undergraduate Scholarship须接受TG并经择优，资助以正常修读期为限；对本硕衔接仅覆盖本科阶段，自开始按研究生标准收取学费时终止。具体从何学期转为MPP计费本轮未核，不把本科奖学金抵扣后续MPP费用。",
+            "source_ids": [
+              "ASREN-a7c9f06a434aa5",
+              "ASREN-411c00b1e61446"
+            ]
+          },
+          {
+            "label": "MPP奖学金入口与限制",
+            "text": "公共政策学院要求在申请时勾选奖学金考虑，考察学术与专业表现、领导力及公共服务承诺，不保证授奖；同时持有其他奖项须获学院批准。本CDP的具体奖项资格与金额本轮未取得，不能默认适用普通硕士所有奖项。",
+            "source_ids": [
+              "NUSJD-28ce20877fd0b431"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养成果与统计",
+            "text": "本硕路线结合经济学基础与政策分析、客户项目训练。NUS2025 GES没有把本具名本硕衔接单独列组；本轮未取得该路线、同届且带分母的就业或工资统计，不能套用本科主修、普通MPP或全院毕业结果。",
+            "source_ids": [
+              "NUSJD-98ebe6577fcab74a",
+              "NUSJD-ca4a2ada0a539867",
+              "NUS26-efe847f8074c14"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ASREN-0acd9e45ef5adf",
+          "title": "NUS AY2027/28申请日期",
+          "url": "https://www.nus.edu.sg/oam/admissions/important-dates",
+          "checked_at": "2026-09-12",
+          "supports": "2027本科日期与内部期限",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "AY2027/2028 International Qualifications",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-411c00b1e61446",
+          "title": "NUS International Undergraduate Scholarship",
+          "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "本科TG与奖学金边界",
+          "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+          "locator": "Eligibility/Benefits/Terms",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-91c45582176a42",
+          "title": "NUS高考申请资格（页面仍为2026）",
+          "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中生前置路径",
+          "sha256": "0abafbe12c137a089e798d233685c31ca6ecada98c71c1c1cc0d42248a537de1",
+          "locator": "Gaokao table and notes",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-a7c9f06a434aa5",
+          "title": "NUS Tuition Grant和服务义务",
+          "url": "https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees",
+          "checked_at": "2026-09-12",
+          "supports": "本科TG与奖学金边界",
+          "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+          "locator": "Fees/Tuition Grant",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "年限与授课；本科英语参考",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUS26-06231ba1d17578",
+          "title": "NUS AY2026/27新生年费",
+          "url": "https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "本科阶段参考与收费缺口",
+          "sha256": "1bb50375e3299184c60f5c1006ebe331a220e996500366513596e5a22f103d5e",
+          "locator": "PDF p2, A: New undergraduate intake AY2026/27; p14–15 notes",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUS26-683167043e187a",
+          "title": "NUS 经济学官方课程要求",
+          "url": "https://fass.nus.edu.sg/ecs/requirements-for-economics-major/",
+          "checked_at": "2026-09-13",
+          "supports": "本科课程基础；本科特有条件参考",
+          "sha256": "5401330aae59081d90e0c7f732e62fd89a1c54fb3330573808aea1ced7bc45d0",
+          "locator": "对应项目课程／资格／费用栏目",
+          "capture_format": "browser_accessibility_snapshot"
+        },
+        {
+          "id": "NUS26-efe847f8074c14",
+          "title": "新加坡教育部NUS 2025毕业就业调查",
+          "url": "https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "培养成果与统计",
+          "sha256": "8dec4235695865ea34a95af325a1bc8b367b604440826a499e14aed6e986999e",
+          "locator": "Degree rows; notes1–10, pp1–3",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUSJD-28ce20877fd0b431",
+          "title": "LKY 普通MPP 2026入学收费与补助",
+          "url": "https://lkyspp.nus.edu.sg/graduate-admissions/fees-and-funding",
+          "checked_at": "2026-09-13",
+          "sha256": "cf6b87158eaa618b76ed5ad909b2aa6de1b4dc70fe9410b115e16bde2979ae62",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Fees and Funding, L45–74: MPP AY2026 intake4sem, GST, previous graduate subsidies, misc",
+          "supports": "普通MPP 2026入学费参考；普通MPP杂费与补助范围；MPP奖学金入口与限制"
+        },
+        {
+          "id": "NUSJD-31270b4ab22abe2a",
+          "title": "NUS FASS 当前具名双学位和本硕衔接",
+          "url": "https://fass.nus.edu.sg/special-degree-programmes/",
+          "checked_at": "2026-09-13",
+          "sha256": "61f39a682a7b06d41eab0a4db149ab23577c8310a9bbc215ef49dddf3f47e4f8",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Special Degree Programmes, L257–266 Business DD; L322–331 five named MPP subjects",
+          "supports": "具名本科及硕士；在读资格及选拔；两个阶段的公开说明；2027本科日期与内部期限"
+        },
+        {
+          "id": "NUSJD-98ebe6577fcab74a",
+          "title": "LKY 公共政策本硕衔接资格和学制",
+          "url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+          "checked_at": "2026-09-13",
+          "sha256": "d6b465f22d66d76fae7a7e3db7d06bc9d12dccb92bc103e21c6610a4cff4e175",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Concurrent Degree, L27–43: current NUS undergraduates, five FASS degrees, 4.5–5 years",
+          "supports": "具名本科及硕士；本科课程基础；实践与毕业条件；年限与授课；在读资格及选拔；中国高中生前置路径；本科英语参考；两个阶段的公开说明；2027本科日期与内部期限；本科阶段参考与收费缺口；培养成果与统计"
+        },
+        {
+          "id": "NUSJD-ca4a2ada0a539867",
+          "title": "LKY 普通MPP课程（AY2025/26起）",
+          "url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/mpp-curriculum",
+          "checked_at": "2026-09-13",
+          "sha256": "cf6b87158eaa618b76ed5ad909b2aa6de1b4dc70fe9410b115e16bde2979ae62",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "MPP Curriculum, L27–88 required64units/core/PP5050; L120 continuation; L124–125 PAE",
+          "supports": "MPP课程与训练；实践与毕业条件；培养成果与统计"
+        }
+      ],
+      "display_fields": {
+        "name": "经济学与公共政策本硕衔接",
+        "intake": "现行专页；2027路线批次未核定",
+        "duration": "约4.5–5年（本科及MPP合计）",
+        "campus": "NUS文社科学院本科阶段、李光耀公共政策学院硕士阶段；具体地点按课表",
+        "language": "英语（NUS）",
+        "entry_summary": "先有NUS指定本科主修学籍，再经校内邀请与MPP选拔",
+        "tuition_summary": "本科与MPP分阶段收费；有2026参考，未核CDP总价",
+        "outcomes_summary": "未取得本具名衔接路线独立毕业统计"
+      },
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "research_status": "program_researched"
+    },
+    {
+      "university_id": "nus",
+      "raw_key": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree#catalog-named-political-science-mpp-concurrent",
+      "name_en": "Bachelor of Social Sciences (Honours) in Political Science and Master in Public Policy",
+      "degree_label": "Bachelor of Social Sciences (Honours) in Political Science + Master in Public Policy",
+      "official_url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+      "inventory_id": "nus-political-science-mpp-concurrent-07954f273d",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "具名本科及硕士",
+            "text": "FASS与公共政策学院共同明确：Bachelor of Social Sciences (Honours) in Political Science，衔接Master in Public Policy。本条是五种指定本科学位之一，不是任意文社科专业都能选的自由组合；本科和硕士分别授位。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "本科课程基础",
+            "text": "政治学主修至少60学分，包括PS1101E与政治研究方法PS3257、至少一门指定新加坡政治课程；比较政治、国际关系、政治理论、治理与公共政策四领域均须修课。至少16学分3000级、20学分4000级以上，至少52学分为PS代码。 上述为原主修培养要求，CDP具体共享、豁免及替换须依获准个人计划，不能把本科与普通MPP学分机械相加。",
+            "source_ids": [
+              "NUS26-0630b9e809b17c",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "MPP课程与训练",
+            "text": "普通MPP从2025/26起为64学分：8门核心32、受限选修4、专业方向选修20及其他选修8；不设方向时可用选修替代。核心覆盖经济与政治经济分析、财政、公共管理、政策基础和两级分析工具；Python或R作为受限选修。这里是普通MPP当前课程基础，未核本衔接最终须额外读多少。",
+            "source_ids": [
+              "NUSJD-ca4a2ada0a539867"
+            ]
+          },
+          {
+            "label": "实践与毕业条件",
+            "text": "普通MPP含政策分析项目，由学生小组为真实客户研究政策问题；2025起第一年另须完成不计学分PP5050职业发展课程，普通MPP毕业GPA至少3.0。CDP专属学分共享、继续／退出标准本轮未取得，不能把普通MPP最低毕业分当作录取保证。",
+            "source_ids": [
+              "NUSJD-ca4a2ada0a539867",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "年限与授课",
+            "text": "公共政策学院标本硕合计4.5—5年；不能另把四年本科加普通两年MPP写为必修六年。NUS英语为教学语言，具体跨学院课程地点按课表。",
+            "source_ids": [
+              "NUSJD-98ebe6577fcab74a",
+              "ASREN-dd5861bce6faef"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在读资格及选拔",
+            "text": "须先是该指定NUS本科路线的优秀在读生；公共政策学院说明名额有限、择优。两校级页面未给本条适用的统一最低GPA／研究生考试分数或2027完整内部选拔表，本轮不借用BBA＋MPP的GPA4.0和年级门槛。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "中国高中生前置路径",
+            "text": "中国高中生首先按本科国际学历类别竞争该本科入口；当前高考页仍按2026说明good pass而无统一百分比，未参加高考须按其他高中学历类别。A-level／IB申请者应使用相应学历类别，不能把高考条件套入；本科录取不附送MPP名额。",
+            "source_ids": [
+              "ASREN-91c45582176a42",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "本科英语参考",
+            "text": "2026年9月NUS英语表：高考类别IELTS总分、阅读、写作均6.5；新制TOEFL三项均4.5，须同次考试且一般至学年开始仍在两年有效期。之后MPP是否要求补交英语材料按其在读选拔通知，本轮未取得本条专属豁免承诺。",
+            "source_ids": [
+              "ASREN-dd5861bce6faef",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "两个阶段的公开说明",
+            "text": "FASS写大二会受邀申请，详细规则在学生内网；公共政策学院写在本科最后一年申请。这可能对应邀请与正式录取不同阶段，但原文没有给衔接时间表，本轮保留两种表述。不能套用商学院路线的12月15日截止。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "2027本科日期与内部期限",
+            "text": "2027/28国际学历本科（IB另栏）2026-12-16至2027-02-17申请；这是取得本科入口的时间，不是MPP内部截止。本条2027在读申请／补件／面试的具体日期本轮未取得。",
+            "source_ids": [
+              "ASREN-0acd9e45ef5adf",
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科阶段参考与收费缺口",
+            "text": "普通Humanities and Sciences非ASEAN国际新生2026/27年费：实际获TG SGD21,400、无TG36,650，含GST。这里仅本科所属类别参考；本衔接从何学期转MPP费、共享课程如何计费和2027入学金额本轮未取得。",
+            "source_ids": [
+              "NUS26-06231ba1d17578",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "普通MPP 2026入学费参考",
+            "text": "公共政策学院普通MPP AY2026入学表：国际生获研究生补助SGD16,050／学期，四学期64,200；非补助24,067／学期，四学期96,268，均含9%GST。这是普通MPP四学期报价，不能作为本衔接须缴四学期、或全程本硕总费的证明。",
+            "source_ids": [
+              "NUSJD-28ce20877fd0b431"
+            ]
+          },
+          {
+            "label": "普通MPP杂费与补助范围",
+            "text": "普通MPP 2026/27每学期学生服务费SGD170、医疗服务费165.50，含GST；后者不是本轮核实的单独保险保费。既往已获新加坡政府研究生补助／资助者，另一同级或更低级研究生课程通常无补助；本科TG不等于自动获MPP补助。",
+            "source_ids": [
+              "NUSJD-28ce20877fd0b431"
+            ]
+          },
+          {
+            "label": "本科TG与奖学金边界",
+            "text": "本科TG必须实际获批并接受，国际毕业生通常承担为新加坡实体服务3年；不获TG应以非补助费预算。NUS International Undergraduate Scholarship须接受TG并经择优，资助以正常修读期为限；对本硕衔接仅覆盖本科阶段，自开始按研究生标准收取学费时终止。具体从何学期转为MPP计费本轮未核，不把本科奖学金抵扣后续MPP费用。",
+            "source_ids": [
+              "ASREN-a7c9f06a434aa5",
+              "ASREN-411c00b1e61446"
+            ]
+          },
+          {
+            "label": "MPP奖学金入口与限制",
+            "text": "公共政策学院要求在申请时勾选奖学金考虑，考察学术与专业表现、领导力及公共服务承诺，不保证授奖；同时持有其他奖项须获学院批准。本CDP的具体奖项资格与金额本轮未取得，不能默认适用普通硕士所有奖项。",
+            "source_ids": [
+              "NUSJD-28ce20877fd0b431"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养成果与统计",
+            "text": "本硕路线结合政治学基础与政策分析、客户项目训练。NUS2025 GES没有把本具名本硕衔接单独列组；本轮未取得该路线、同届且带分母的就业或工资统计，不能套用本科主修、普通MPP或全院毕业结果。",
+            "source_ids": [
+              "NUSJD-98ebe6577fcab74a",
+              "NUSJD-ca4a2ada0a539867",
+              "NUS26-efe847f8074c14"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ASREN-0acd9e45ef5adf",
+          "title": "NUS AY2027/28申请日期",
+          "url": "https://www.nus.edu.sg/oam/admissions/important-dates",
+          "checked_at": "2026-09-12",
+          "supports": "2027本科日期与内部期限",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "AY2027/2028 International Qualifications",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-411c00b1e61446",
+          "title": "NUS International Undergraduate Scholarship",
+          "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "本科TG与奖学金边界",
+          "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+          "locator": "Eligibility/Benefits/Terms",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-91c45582176a42",
+          "title": "NUS高考申请资格（页面仍为2026）",
+          "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中生前置路径",
+          "sha256": "0abafbe12c137a089e798d233685c31ca6ecada98c71c1c1cc0d42248a537de1",
+          "locator": "Gaokao table and notes",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-a7c9f06a434aa5",
+          "title": "NUS Tuition Grant和服务义务",
+          "url": "https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees",
+          "checked_at": "2026-09-12",
+          "supports": "本科TG与奖学金边界",
+          "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+          "locator": "Fees/Tuition Grant",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "年限与授课；本科英语参考",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUS26-06231ba1d17578",
+          "title": "NUS AY2026/27新生年费",
+          "url": "https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "本科阶段参考与收费缺口",
+          "sha256": "1bb50375e3299184c60f5c1006ebe331a220e996500366513596e5a22f103d5e",
+          "locator": "PDF p2, A: New undergraduate intake AY2026/27; p14–15 notes",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUS26-0630b9e809b17c",
+          "title": "NUS 政治学官方课程要求",
+          "url": "https://fass.nus.edu.sg/pol/graduation-requirements-cohort-2021-onwards/",
+          "checked_at": "2026-09-13",
+          "supports": "本科课程基础",
+          "sha256": "10e97a16935add1ff28e549a726119ae36d745436c1110ba732b4f280cf1cf88",
+          "locator": "对应项目课程／资格／费用栏目",
+          "capture_format": "browser_accessibility_snapshot"
+        },
+        {
+          "id": "NUS26-efe847f8074c14",
+          "title": "新加坡教育部NUS 2025毕业就业调查",
+          "url": "https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "培养成果与统计",
+          "sha256": "8dec4235695865ea34a95af325a1bc8b367b604440826a499e14aed6e986999e",
+          "locator": "Degree rows; notes1–10, pp1–3",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUSJD-28ce20877fd0b431",
+          "title": "LKY 普通MPP 2026入学收费与补助",
+          "url": "https://lkyspp.nus.edu.sg/graduate-admissions/fees-and-funding",
+          "checked_at": "2026-09-13",
+          "sha256": "cf6b87158eaa618b76ed5ad909b2aa6de1b4dc70fe9410b115e16bde2979ae62",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Fees and Funding, L45–74: MPP AY2026 intake4sem, GST, previous graduate subsidies, misc",
+          "supports": "普通MPP 2026入学费参考；普通MPP杂费与补助范围；MPP奖学金入口与限制"
+        },
+        {
+          "id": "NUSJD-31270b4ab22abe2a",
+          "title": "NUS FASS 当前具名双学位和本硕衔接",
+          "url": "https://fass.nus.edu.sg/special-degree-programmes/",
+          "checked_at": "2026-09-13",
+          "sha256": "61f39a682a7b06d41eab0a4db149ab23577c8310a9bbc215ef49dddf3f47e4f8",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Special Degree Programmes, L257–266 Business DD; L322–331 five named MPP subjects",
+          "supports": "具名本科及硕士；在读资格及选拔；两个阶段的公开说明；2027本科日期与内部期限"
+        },
+        {
+          "id": "NUSJD-98ebe6577fcab74a",
+          "title": "LKY 公共政策本硕衔接资格和学制",
+          "url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+          "checked_at": "2026-09-13",
+          "sha256": "d6b465f22d66d76fae7a7e3db7d06bc9d12dccb92bc103e21c6610a4cff4e175",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Concurrent Degree, L27–43: current NUS undergraduates, five FASS degrees, 4.5–5 years",
+          "supports": "具名本科及硕士；本科课程基础；实践与毕业条件；年限与授课；在读资格及选拔；中国高中生前置路径；本科英语参考；两个阶段的公开说明；2027本科日期与内部期限；本科阶段参考与收费缺口；培养成果与统计"
+        },
+        {
+          "id": "NUSJD-ca4a2ada0a539867",
+          "title": "LKY 普通MPP课程（AY2025/26起）",
+          "url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/mpp-curriculum",
+          "checked_at": "2026-09-13",
+          "sha256": "cf6b87158eaa618b76ed5ad909b2aa6de1b4dc70fe9410b115e16bde2979ae62",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "MPP Curriculum, L27–88 required64units/core/PP5050; L120 continuation; L124–125 PAE",
+          "supports": "MPP课程与训练；实践与毕业条件；培养成果与统计"
+        }
+      ],
+      "display_fields": {
+        "name": "政治学与公共政策本硕衔接",
+        "intake": "现行专页；2027路线批次未核定",
+        "duration": "约4.5–5年（本科及MPP合计）",
+        "campus": "NUS文社科学院本科阶段、李光耀公共政策学院硕士阶段；具体地点按课表",
+        "language": "英语（NUS）",
+        "entry_summary": "先有NUS指定本科主修学籍，再经校内邀请与MPP选拔",
+        "tuition_summary": "本科与MPP分阶段收费；有2026参考，未核CDP总价",
+        "outcomes_summary": "未取得本具名衔接路线独立毕业统计"
+      },
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "research_status": "program_researched"
+    },
+    {
+      "university_id": "nus",
+      "raw_key": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree#catalog-named-sociology-mpp-concurrent",
+      "name_en": "Bachelor of Social Sciences (Honours) in Sociology and Master in Public Policy",
+      "degree_label": "Bachelor of Social Sciences (Honours) in Sociology + Master in Public Policy",
+      "official_url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+      "inventory_id": "nus-sociology-mpp-concurrent-088bd49099",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "具名本科及硕士",
+            "text": "FASS与公共政策学院共同明确：Bachelor of Social Sciences (Honours) in Sociology，衔接Master in Public Policy。本条是五种指定本科学位之一，不是任意文社科专业都能选的自由组合；本科和硕士分别授位。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "本科课程基础",
+            "text": "2021届起社会学主修至少60学分，核心为社会分析、社会研究方法、社会思想理论、社会学与人类学实践；至少36学分3000级以上（其中20学分4000级以上）。 上述为原主修培养要求，CDP具体共享、豁免及替换须依获准个人计划，不能把本科与普通MPP学分机械相加。",
+            "source_ids": [
+              "NUS26-40290663082df2",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "MPP课程与训练",
+            "text": "普通MPP从2025/26起为64学分：8门核心32、受限选修4、专业方向选修20及其他选修8；不设方向时可用选修替代。核心覆盖经济与政治经济分析、财政、公共管理、政策基础和两级分析工具；Python或R作为受限选修。这里是普通MPP当前课程基础，未核本衔接最终须额外读多少。",
+            "source_ids": [
+              "NUSJD-ca4a2ada0a539867"
+            ]
+          },
+          {
+            "label": "实践与毕业条件",
+            "text": "普通MPP含政策分析项目，由学生小组为真实客户研究政策问题；2025起第一年另须完成不计学分PP5050职业发展课程，普通MPP毕业GPA至少3.0。CDP专属学分共享、继续／退出标准本轮未取得，不能把普通MPP最低毕业分当作录取保证。",
+            "source_ids": [
+              "NUSJD-ca4a2ada0a539867",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "年限与授课",
+            "text": "公共政策学院标本硕合计4.5—5年；不能另把四年本科加普通两年MPP写为必修六年。NUS英语为教学语言，具体跨学院课程地点按课表。",
+            "source_ids": [
+              "NUSJD-98ebe6577fcab74a",
+              "ASREN-dd5861bce6faef"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在读资格及选拔",
+            "text": "须先是该指定NUS本科路线的优秀在读生；公共政策学院说明名额有限、择优。两校级页面未给本条适用的统一最低GPA／研究生考试分数或2027完整内部选拔表，本轮不借用BBA＋MPP的GPA4.0和年级门槛。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "中国高中生前置路径",
+            "text": "中国高中生首先按本科国际学历类别竞争该本科入口；当前高考页仍按2026说明good pass而无统一百分比，未参加高考须按其他高中学历类别。A-level／IB申请者应使用相应学历类别，不能把高考条件套入；本科录取不附送MPP名额。",
+            "source_ids": [
+              "ASREN-91c45582176a42",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "本科英语参考",
+            "text": "2026年9月NUS英语表：高考类别IELTS总分、阅读、写作均6.5；新制TOEFL三项均4.5，须同次考试且一般至学年开始仍在两年有效期。之后MPP是否要求补交英语材料按其在读选拔通知，本轮未取得本条专属豁免承诺。",
+            "source_ids": [
+              "ASREN-dd5861bce6faef",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "两个阶段的公开说明",
+            "text": "FASS写大二会受邀申请，详细规则在学生内网；公共政策学院写在本科最后一年申请。这可能对应邀请与正式录取不同阶段，但原文没有给衔接时间表，本轮保留两种表述。不能套用商学院路线的12月15日截止。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "2027本科日期与内部期限",
+            "text": "2027/28国际学历本科（IB另栏）2026-12-16至2027-02-17申请；这是取得本科入口的时间，不是MPP内部截止。本条2027在读申请／补件／面试的具体日期本轮未取得。",
+            "source_ids": [
+              "ASREN-0acd9e45ef5adf",
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科阶段参考与收费缺口",
+            "text": "普通Humanities and Sciences非ASEAN国际新生2026/27年费：实际获TG SGD21,400、无TG36,650，含GST。这里仅本科所属类别参考；本衔接从何学期转MPP费、共享课程如何计费和2027入学金额本轮未取得。",
+            "source_ids": [
+              "NUS26-06231ba1d17578",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "普通MPP 2026入学费参考",
+            "text": "公共政策学院普通MPP AY2026入学表：国际生获研究生补助SGD16,050／学期，四学期64,200；非补助24,067／学期，四学期96,268，均含9%GST。这是普通MPP四学期报价，不能作为本衔接须缴四学期、或全程本硕总费的证明。",
+            "source_ids": [
+              "NUSJD-28ce20877fd0b431"
+            ]
+          },
+          {
+            "label": "普通MPP杂费与补助范围",
+            "text": "普通MPP 2026/27每学期学生服务费SGD170、医疗服务费165.50，含GST；后者不是本轮核实的单独保险保费。既往已获新加坡政府研究生补助／资助者，另一同级或更低级研究生课程通常无补助；本科TG不等于自动获MPP补助。",
+            "source_ids": [
+              "NUSJD-28ce20877fd0b431"
+            ]
+          },
+          {
+            "label": "本科TG与奖学金边界",
+            "text": "本科TG必须实际获批并接受，国际毕业生通常承担为新加坡实体服务3年；不获TG应以非补助费预算。NUS International Undergraduate Scholarship须接受TG并经择优，资助以正常修读期为限；对本硕衔接仅覆盖本科阶段，自开始按研究生标准收取学费时终止。具体从何学期转为MPP计费本轮未核，不把本科奖学金抵扣后续MPP费用。",
+            "source_ids": [
+              "ASREN-a7c9f06a434aa5",
+              "ASREN-411c00b1e61446"
+            ]
+          },
+          {
+            "label": "MPP奖学金入口与限制",
+            "text": "公共政策学院要求在申请时勾选奖学金考虑，考察学术与专业表现、领导力及公共服务承诺，不保证授奖；同时持有其他奖项须获学院批准。本CDP的具体奖项资格与金额本轮未取得，不能默认适用普通硕士所有奖项。",
+            "source_ids": [
+              "NUSJD-28ce20877fd0b431"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养成果与统计",
+            "text": "本硕路线结合社会学基础与政策分析、客户项目训练。NUS2025 GES没有把本具名本硕衔接单独列组；本轮未取得该路线、同届且带分母的就业或工资统计，不能套用本科主修、普通MPP或全院毕业结果。",
+            "source_ids": [
+              "NUSJD-98ebe6577fcab74a",
+              "NUSJD-ca4a2ada0a539867",
+              "NUS26-efe847f8074c14"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ASREN-0acd9e45ef5adf",
+          "title": "NUS AY2027/28申请日期",
+          "url": "https://www.nus.edu.sg/oam/admissions/important-dates",
+          "checked_at": "2026-09-12",
+          "supports": "2027本科日期与内部期限",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "AY2027/2028 International Qualifications",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-411c00b1e61446",
+          "title": "NUS International Undergraduate Scholarship",
+          "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "本科TG与奖学金边界",
+          "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+          "locator": "Eligibility/Benefits/Terms",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-91c45582176a42",
+          "title": "NUS高考申请资格（页面仍为2026）",
+          "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中生前置路径",
+          "sha256": "0abafbe12c137a089e798d233685c31ca6ecada98c71c1c1cc0d42248a537de1",
+          "locator": "Gaokao table and notes",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-a7c9f06a434aa5",
+          "title": "NUS Tuition Grant和服务义务",
+          "url": "https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees",
+          "checked_at": "2026-09-12",
+          "supports": "本科TG与奖学金边界",
+          "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+          "locator": "Fees/Tuition Grant",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "年限与授课；本科英语参考",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUS26-06231ba1d17578",
+          "title": "NUS AY2026/27新生年费",
+          "url": "https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "本科阶段参考与收费缺口",
+          "sha256": "1bb50375e3299184c60f5c1006ebe331a220e996500366513596e5a22f103d5e",
+          "locator": "PDF p2, A: New undergraduate intake AY2026/27; p14–15 notes",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUS26-40290663082df2",
+          "title": "NUS 社会学官方课程要求",
+          "url": "https://fass.nus.edu.sg/socanth/overview-programmes-sociology/",
+          "checked_at": "2026-09-13",
+          "supports": "本科课程基础",
+          "sha256": "a3080994d6d3bfe4a238512125570843c5eb7328f5e785f01ceac1e2006381f2",
+          "locator": "对应项目课程／资格／费用栏目",
+          "capture_format": "browser_accessibility_snapshot"
+        },
+        {
+          "id": "NUS26-efe847f8074c14",
+          "title": "新加坡教育部NUS 2025毕业就业调查",
+          "url": "https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "培养成果与统计",
+          "sha256": "8dec4235695865ea34a95af325a1bc8b367b604440826a499e14aed6e986999e",
+          "locator": "Degree rows; notes1–10, pp1–3",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUSJD-28ce20877fd0b431",
+          "title": "LKY 普通MPP 2026入学收费与补助",
+          "url": "https://lkyspp.nus.edu.sg/graduate-admissions/fees-and-funding",
+          "checked_at": "2026-09-13",
+          "sha256": "cf6b87158eaa618b76ed5ad909b2aa6de1b4dc70fe9410b115e16bde2979ae62",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Fees and Funding, L45–74: MPP AY2026 intake4sem, GST, previous graduate subsidies, misc",
+          "supports": "普通MPP 2026入学费参考；普通MPP杂费与补助范围；MPP奖学金入口与限制"
+        },
+        {
+          "id": "NUSJD-31270b4ab22abe2a",
+          "title": "NUS FASS 当前具名双学位和本硕衔接",
+          "url": "https://fass.nus.edu.sg/special-degree-programmes/",
+          "checked_at": "2026-09-13",
+          "sha256": "61f39a682a7b06d41eab0a4db149ab23577c8310a9bbc215ef49dddf3f47e4f8",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Special Degree Programmes, L257–266 Business DD; L322–331 five named MPP subjects",
+          "supports": "具名本科及硕士；在读资格及选拔；两个阶段的公开说明；2027本科日期与内部期限"
+        },
+        {
+          "id": "NUSJD-98ebe6577fcab74a",
+          "title": "LKY 公共政策本硕衔接资格和学制",
+          "url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+          "checked_at": "2026-09-13",
+          "sha256": "d6b465f22d66d76fae7a7e3db7d06bc9d12dccb92bc103e21c6610a4cff4e175",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Concurrent Degree, L27–43: current NUS undergraduates, five FASS degrees, 4.5–5 years",
+          "supports": "具名本科及硕士；本科课程基础；实践与毕业条件；年限与授课；在读资格及选拔；中国高中生前置路径；本科英语参考；两个阶段的公开说明；2027本科日期与内部期限；本科阶段参考与收费缺口；培养成果与统计"
+        },
+        {
+          "id": "NUSJD-ca4a2ada0a539867",
+          "title": "LKY 普通MPP课程（AY2025/26起）",
+          "url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/mpp-curriculum",
+          "checked_at": "2026-09-13",
+          "sha256": "cf6b87158eaa618b76ed5ad909b2aa6de1b4dc70fe9410b115e16bde2979ae62",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "MPP Curriculum, L27–88 required64units/core/PP5050; L120 continuation; L124–125 PAE",
+          "supports": "MPP课程与训练；实践与毕业条件；培养成果与统计"
+        }
+      ],
+      "display_fields": {
+        "name": "社会学与公共政策本硕衔接",
+        "intake": "现行专页；2027路线批次未核定",
+        "duration": "约4.5–5年（本科及MPP合计）",
+        "campus": "NUS文社科学院本科阶段、李光耀公共政策学院硕士阶段；具体地点按课表",
+        "language": "英语（NUS）",
+        "entry_summary": "先有NUS指定本科主修学籍，再经校内邀请与MPP选拔",
+        "tuition_summary": "本科与MPP分阶段收费；有2026参考，未核CDP总价",
+        "outcomes_summary": "未取得本具名衔接路线独立毕业统计"
+      },
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "research_status": "program_researched"
+    },
+    {
+      "university_id": "nus",
+      "raw_key": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree#catalog-named-social-work-mpp-concurrent",
+      "name_en": "Bachelor of Social Sciences (Honours) in Social Work and Master in Public Policy",
+      "degree_label": "Bachelor of Social Sciences (Honours) in Social Work + Master in Public Policy",
+      "official_url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+      "inventory_id": "nus-social-work-mpp-concurrent-c19b07ddb2",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "具名本科及硕士",
+            "text": "FASS与公共政策学院共同明确：Bachelor of Social Sciences (Honours) in Social Work，衔接Master in Public Policy。本条是五种指定本科学位之一，不是任意文社科专业都能选的自由组合；本科和硕士分别授位。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "本科课程基础",
+            "text": "社会工作主修60学分，涵盖个人家庭、发展、助人、团体与社区工作、社会政策及研究评估。普通本科另在CHS要求中列两项各4学分现场实践。该实践是社会工作训练，不套另一SWK＋MPH路线的公共卫生专属实习条件。 上述为原主修培养要求，CDP具体共享、豁免及替换须依获准个人计划，不能把本科与普通MPP学分机械相加。",
+            "source_ids": [
+              "NUS26-bc74df3425eabc",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "MPP课程与训练",
+            "text": "普通MPP从2025/26起为64学分：8门核心32、受限选修4、专业方向选修20及其他选修8；不设方向时可用选修替代。核心覆盖经济与政治经济分析、财政、公共管理、政策基础和两级分析工具；Python或R作为受限选修。这里是普通MPP当前课程基础，未核本衔接最终须额外读多少。",
+            "source_ids": [
+              "NUSJD-ca4a2ada0a539867"
+            ]
+          },
+          {
+            "label": "实践与毕业条件",
+            "text": "普通MPP含政策分析项目，由学生小组为真实客户研究政策问题；2025起第一年另须完成不计学分PP5050职业发展课程，普通MPP毕业GPA至少3.0。CDP专属学分共享、继续／退出标准本轮未取得，不能把普通MPP最低毕业分当作录取保证。",
+            "source_ids": [
+              "NUSJD-ca4a2ada0a539867",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "年限与授课",
+            "text": "公共政策学院标本硕合计4.5—5年；不能另把四年本科加普通两年MPP写为必修六年。NUS英语为教学语言，具体跨学院课程地点按课表。",
+            "source_ids": [
+              "NUSJD-98ebe6577fcab74a",
+              "ASREN-dd5861bce6faef"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在读资格及选拔",
+            "text": "须先是该指定NUS本科路线的优秀在读生；公共政策学院说明名额有限、择优。两校级页面未给本条适用的统一最低GPA／研究生考试分数或2027完整内部选拔表，本轮不借用BBA＋MPP的GPA4.0和年级门槛。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "中国高中生前置路径",
+            "text": "中国高中生首先按本科国际学历类别竞争该本科入口；当前高考页仍按2026说明good pass而无统一百分比，未参加高考须按其他高中学历类别。A-level／IB申请者应使用相应学历类别，不能把高考条件套入；本科录取不附送MPP名额。",
+            "source_ids": [
+              "ASREN-91c45582176a42",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "本科英语参考",
+            "text": "2026年9月NUS英语表：高考类别IELTS总分、阅读、写作均6.5；新制TOEFL三项均4.5，须同次考试且一般至学年开始仍在两年有效期。之后MPP是否要求补交英语材料按其在读选拔通知，本轮未取得本条专属豁免承诺。",
+            "source_ids": [
+              "ASREN-dd5861bce6faef",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "两个阶段的公开说明",
+            "text": "FASS写大二会受邀申请，详细规则在学生内网；公共政策学院写在本科最后一年申请。这可能对应邀请与正式录取不同阶段，但原文没有给衔接时间表，本轮保留两种表述。不能套用商学院路线的12月15日截止。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "2027本科日期与内部期限",
+            "text": "2027/28国际学历本科（IB另栏）2026-12-16至2027-02-17申请；这是取得本科入口的时间，不是MPP内部截止。本条2027在读申请／补件／面试的具体日期本轮未取得。",
+            "source_ids": [
+              "ASREN-0acd9e45ef5adf",
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科阶段参考与收费缺口",
+            "text": "普通Humanities and Sciences非ASEAN国际新生2026/27年费：实际获TG SGD21,400、无TG36,650，含GST。这里仅本科所属类别参考；本衔接从何学期转MPP费、共享课程如何计费和2027入学金额本轮未取得。",
+            "source_ids": [
+              "NUS26-06231ba1d17578",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "普通MPP 2026入学费参考",
+            "text": "公共政策学院普通MPP AY2026入学表：国际生获研究生补助SGD16,050／学期，四学期64,200；非补助24,067／学期，四学期96,268，均含9%GST。这是普通MPP四学期报价，不能作为本衔接须缴四学期、或全程本硕总费的证明。",
+            "source_ids": [
+              "NUSJD-28ce20877fd0b431"
+            ]
+          },
+          {
+            "label": "普通MPP杂费与补助范围",
+            "text": "普通MPP 2026/27每学期学生服务费SGD170、医疗服务费165.50，含GST；后者不是本轮核实的单独保险保费。既往已获新加坡政府研究生补助／资助者，另一同级或更低级研究生课程通常无补助；本科TG不等于自动获MPP补助。",
+            "source_ids": [
+              "NUSJD-28ce20877fd0b431"
+            ]
+          },
+          {
+            "label": "本科TG与奖学金边界",
+            "text": "本科TG必须实际获批并接受，国际毕业生通常承担为新加坡实体服务3年；不获TG应以非补助费预算。NUS International Undergraduate Scholarship须接受TG并经择优，资助以正常修读期为限；对本硕衔接仅覆盖本科阶段，自开始按研究生标准收取学费时终止。具体从何学期转为MPP计费本轮未核，不把本科奖学金抵扣后续MPP费用。",
+            "source_ids": [
+              "ASREN-a7c9f06a434aa5",
+              "ASREN-411c00b1e61446"
+            ]
+          },
+          {
+            "label": "MPP奖学金入口与限制",
+            "text": "公共政策学院要求在申请时勾选奖学金考虑，考察学术与专业表现、领导力及公共服务承诺，不保证授奖；同时持有其他奖项须获学院批准。本CDP的具体奖项资格与金额本轮未取得，不能默认适用普通硕士所有奖项。",
+            "source_ids": [
+              "NUSJD-28ce20877fd0b431"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养成果与统计",
+            "text": "本硕路线结合社会工作基础与政策分析、客户项目训练。NUS2025 GES没有把本具名本硕衔接单独列组；本轮未取得该路线、同届且带分母的就业或工资统计，不能套用本科主修、普通MPP或全院毕业结果。",
+            "source_ids": [
+              "NUSJD-98ebe6577fcab74a",
+              "NUSJD-ca4a2ada0a539867",
+              "NUS26-efe847f8074c14"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ASREN-0acd9e45ef5adf",
+          "title": "NUS AY2027/28申请日期",
+          "url": "https://www.nus.edu.sg/oam/admissions/important-dates",
+          "checked_at": "2026-09-12",
+          "supports": "2027本科日期与内部期限",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "AY2027/2028 International Qualifications",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-411c00b1e61446",
+          "title": "NUS International Undergraduate Scholarship",
+          "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "本科TG与奖学金边界",
+          "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+          "locator": "Eligibility/Benefits/Terms",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-91c45582176a42",
+          "title": "NUS高考申请资格（页面仍为2026）",
+          "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中生前置路径",
+          "sha256": "0abafbe12c137a089e798d233685c31ca6ecada98c71c1c1cc0d42248a537de1",
+          "locator": "Gaokao table and notes",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-a7c9f06a434aa5",
+          "title": "NUS Tuition Grant和服务义务",
+          "url": "https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees",
+          "checked_at": "2026-09-12",
+          "supports": "本科TG与奖学金边界",
+          "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+          "locator": "Fees/Tuition Grant",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "年限与授课；本科英语参考",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUS26-06231ba1d17578",
+          "title": "NUS AY2026/27新生年费",
+          "url": "https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "本科阶段参考与收费缺口",
+          "sha256": "1bb50375e3299184c60f5c1006ebe331a220e996500366513596e5a22f103d5e",
+          "locator": "PDF p2, A: New undergraduate intake AY2026/27; p14–15 notes",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUS26-bc74df3425eabc",
+          "title": "NUS 社会工作官方课程要求",
+          "url": "https://fass.nus.edu.sg/swk/entry-graduation-requirement-undergraduate/",
+          "checked_at": "2026-09-13",
+          "supports": "本科课程基础",
+          "sha256": "9b0d9ed11ba8fcc90a2d92f3cd8a281bba9ac85373ba526a608c7e89caa6da07",
+          "locator": "对应项目课程／资格／费用栏目",
+          "capture_format": "browser_accessibility_snapshot"
+        },
+        {
+          "id": "NUS26-efe847f8074c14",
+          "title": "新加坡教育部NUS 2025毕业就业调查",
+          "url": "https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "培养成果与统计",
+          "sha256": "8dec4235695865ea34a95af325a1bc8b367b604440826a499e14aed6e986999e",
+          "locator": "Degree rows; notes1–10, pp1–3",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUSJD-28ce20877fd0b431",
+          "title": "LKY 普通MPP 2026入学收费与补助",
+          "url": "https://lkyspp.nus.edu.sg/graduate-admissions/fees-and-funding",
+          "checked_at": "2026-09-13",
+          "sha256": "cf6b87158eaa618b76ed5ad909b2aa6de1b4dc70fe9410b115e16bde2979ae62",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Fees and Funding, L45–74: MPP AY2026 intake4sem, GST, previous graduate subsidies, misc",
+          "supports": "普通MPP 2026入学费参考；普通MPP杂费与补助范围；MPP奖学金入口与限制"
+        },
+        {
+          "id": "NUSJD-31270b4ab22abe2a",
+          "title": "NUS FASS 当前具名双学位和本硕衔接",
+          "url": "https://fass.nus.edu.sg/special-degree-programmes/",
+          "checked_at": "2026-09-13",
+          "sha256": "61f39a682a7b06d41eab0a4db149ab23577c8310a9bbc215ef49dddf3f47e4f8",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Special Degree Programmes, L257–266 Business DD; L322–331 five named MPP subjects",
+          "supports": "具名本科及硕士；在读资格及选拔；两个阶段的公开说明；2027本科日期与内部期限"
+        },
+        {
+          "id": "NUSJD-98ebe6577fcab74a",
+          "title": "LKY 公共政策本硕衔接资格和学制",
+          "url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+          "checked_at": "2026-09-13",
+          "sha256": "d6b465f22d66d76fae7a7e3db7d06bc9d12dccb92bc103e21c6610a4cff4e175",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Concurrent Degree, L27–43: current NUS undergraduates, five FASS degrees, 4.5–5 years",
+          "supports": "具名本科及硕士；本科课程基础；实践与毕业条件；年限与授课；在读资格及选拔；中国高中生前置路径；本科英语参考；两个阶段的公开说明；2027本科日期与内部期限；本科阶段参考与收费缺口；培养成果与统计"
+        },
+        {
+          "id": "NUSJD-ca4a2ada0a539867",
+          "title": "LKY 普通MPP课程（AY2025/26起）",
+          "url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/mpp-curriculum",
+          "checked_at": "2026-09-13",
+          "sha256": "cf6b87158eaa618b76ed5ad909b2aa6de1b4dc70fe9410b115e16bde2979ae62",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "MPP Curriculum, L27–88 required64units/core/PP5050; L120 continuation; L124–125 PAE",
+          "supports": "MPP课程与训练；实践与毕业条件；培养成果与统计"
+        }
+      ],
+      "display_fields": {
+        "name": "社会工作与公共政策本硕衔接",
+        "intake": "现行专页；2027路线批次未核定",
+        "duration": "约4.5–5年（本科及MPP合计）",
+        "campus": "NUS文社科学院本科阶段、李光耀公共政策学院硕士阶段；具体地点按课表",
+        "language": "英语（NUS）",
+        "entry_summary": "先有NUS指定本科主修学籍，再经校内邀请与MPP选拔",
+        "tuition_summary": "本科与MPP分阶段收费；有2026参考，未核CDP总价",
+        "outcomes_summary": "未取得本具名衔接路线独立毕业统计"
+      },
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "research_status": "program_researched"
+    },
+    {
+      "university_id": "nus",
+      "raw_key": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree#catalog-named-ppe-mpp-concurrent",
+      "name_en": "Bachelor of Arts (Honours) in Philosophy, Politics, and Economics and Master in Public Policy",
+      "degree_label": "Bachelor of Arts (Honours) in Philosophy, Politics, and Economics + Master in Public Policy",
+      "official_url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+      "inventory_id": "nus-ppe-mpp-concurrent-0da11653a5",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "具名本科及硕士",
+            "text": "FASS与公共政策学院共同明确：Bachelor of Arts (Honours) in Philosophy, Politics, and Economics，衔接Master in Public Policy。本条是五种指定本科学位之一，不是任意文社科专业都能选的自由组合；本科和硕士分别授位。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "本科课程基础",
+            "text": "PPE-XDP本科至少160学分：共同40、三学科学科课程72、跨学科和独立项目28、自由选修20；学习逻辑、社会选择、经济数量分析、微观与实证方法。官网课程结构标明2024年11月版本，2027如改版须另核。 上述为原主修培养要求，CDP具体共享、豁免及替换须依获准个人计划，不能把本科与普通MPP学分机械相加。",
+            "source_ids": [
+              "NUS26-9a7612f4f6a192",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "MPP课程与训练",
+            "text": "普通MPP从2025/26起为64学分：8门核心32、受限选修4、专业方向选修20及其他选修8；不设方向时可用选修替代。核心覆盖经济与政治经济分析、财政、公共管理、政策基础和两级分析工具；Python或R作为受限选修。这里是普通MPP当前课程基础，未核本衔接最终须额外读多少。",
+            "source_ids": [
+              "NUSJD-ca4a2ada0a539867"
+            ]
+          },
+          {
+            "label": "实践与毕业条件",
+            "text": "普通MPP含政策分析项目，由学生小组为真实客户研究政策问题；2025起第一年另须完成不计学分PP5050职业发展课程，普通MPP毕业GPA至少3.0。CDP专属学分共享、继续／退出标准本轮未取得，不能把普通MPP最低毕业分当作录取保证。",
+            "source_ids": [
+              "NUSJD-ca4a2ada0a539867",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "年限与授课",
+            "text": "公共政策学院标本硕合计4.5—5年；不能另把四年本科加普通两年MPP写为必修六年。NUS英语为教学语言，具体跨学院课程地点按课表。",
+            "source_ids": [
+              "NUSJD-98ebe6577fcab74a",
+              "ASREN-dd5861bce6faef"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "在读资格及选拔",
+            "text": "须先是该指定NUS本科路线的优秀在读生；公共政策学院说明名额有限、择优。两校级页面未给本条适用的统一最低GPA／研究生考试分数或2027完整内部选拔表，本轮不借用BBA＋MPP的GPA4.0和年级门槛。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "本科特有条件参考",
+            "text": "PPE本科可高中直接申请，入围另交视频；在读转入须三门入口课平均A−且单门不低于B+，28个有成绩学分基础上总GPA至少4.0。此为取得PPE本科学籍的条件，之后仍须另竞争MPP。",
+            "source_ids": [
+              "NUS26-9a7612f4f6a192"
+            ]
+          },
+          {
+            "label": "中国高中生前置路径",
+            "text": "中国高中生首先按本科国际学历类别竞争该本科入口；当前高考页仍按2026说明good pass而无统一百分比，未参加高考须按其他高中学历类别。A-level／IB申请者应使用相应学历类别，不能把高考条件套入；本科录取不附送MPP名额。",
+            "source_ids": [
+              "ASREN-91c45582176a42",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "本科英语参考",
+            "text": "2026年9月NUS英语表：高考类别IELTS总分、阅读、写作均6.5；新制TOEFL三项均4.5，须同次考试且一般至学年开始仍在两年有效期。之后MPP是否要求补交英语材料按其在读选拔通知，本轮未取得本条专属豁免承诺。",
+            "source_ids": [
+              "ASREN-dd5861bce6faef",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "两个阶段的公开说明",
+            "text": "FASS写大二会受邀申请，详细规则在学生内网；公共政策学院写在本科最后一年申请。这可能对应邀请与正式录取不同阶段，但原文没有给衔接时间表，本轮保留两种表述。不能套用商学院路线的12月15日截止。",
+            "source_ids": [
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "2027本科日期与内部期限",
+            "text": "2027/28国际学历本科（IB另栏）2026-12-16至2027-02-17申请；这是取得本科入口的时间，不是MPP内部截止。本条2027在读申请／补件／面试的具体日期本轮未取得。",
+            "source_ids": [
+              "ASREN-0acd9e45ef5adf",
+              "NUSJD-31270b4ab22abe2a",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本科阶段参考与收费缺口",
+            "text": "普通Humanities and Sciences非ASEAN国际新生2026/27年费：实际获TG SGD21,400、无TG36,650，含GST。这里仅本科所属类别参考；本衔接从何学期转MPP费、共享课程如何计费和2027入学金额本轮未取得。",
+            "source_ids": [
+              "NUS26-06231ba1d17578",
+              "NUSJD-98ebe6577fcab74a"
+            ]
+          },
+          {
+            "label": "普通MPP 2026入学费参考",
+            "text": "公共政策学院普通MPP AY2026入学表：国际生获研究生补助SGD16,050／学期，四学期64,200；非补助24,067／学期，四学期96,268，均含9%GST。这是普通MPP四学期报价，不能作为本衔接须缴四学期、或全程本硕总费的证明。",
+            "source_ids": [
+              "NUSJD-28ce20877fd0b431"
+            ]
+          },
+          {
+            "label": "普通MPP杂费与补助范围",
+            "text": "普通MPP 2026/27每学期学生服务费SGD170、医疗服务费165.50，含GST；后者不是本轮核实的单独保险保费。既往已获新加坡政府研究生补助／资助者，另一同级或更低级研究生课程通常无补助；本科TG不等于自动获MPP补助。",
+            "source_ids": [
+              "NUSJD-28ce20877fd0b431"
+            ]
+          },
+          {
+            "label": "本科TG与奖学金边界",
+            "text": "本科TG必须实际获批并接受，国际毕业生通常承担为新加坡实体服务3年；不获TG应以非补助费预算。NUS International Undergraduate Scholarship须接受TG并经择优，资助以正常修读期为限；对本硕衔接仅覆盖本科阶段，自开始按研究生标准收取学费时终止。具体从何学期转为MPP计费本轮未核，不把本科奖学金抵扣后续MPP费用。",
+            "source_ids": [
+              "ASREN-a7c9f06a434aa5",
+              "ASREN-411c00b1e61446"
+            ]
+          },
+          {
+            "label": "MPP奖学金入口与限制",
+            "text": "公共政策学院要求在申请时勾选奖学金考虑，考察学术与专业表现、领导力及公共服务承诺，不保证授奖；同时持有其他奖项须获学院批准。本CDP的具体奖项资格与金额本轮未取得，不能默认适用普通硕士所有奖项。",
+            "source_ids": [
+              "NUSJD-28ce20877fd0b431"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "培养成果与统计",
+            "text": "本硕路线结合哲学、政治与经济学（PPE）基础与政策分析、客户项目训练。NUS2025 GES没有把本具名本硕衔接单独列组；本轮未取得该路线、同届且带分母的就业或工资统计，不能套用本科主修、普通MPP或全院毕业结果。",
+            "source_ids": [
+              "NUSJD-98ebe6577fcab74a",
+              "NUSJD-ca4a2ada0a539867",
+              "NUS26-efe847f8074c14"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ASREN-0acd9e45ef5adf",
+          "title": "NUS AY2027/28申请日期",
+          "url": "https://www.nus.edu.sg/oam/admissions/important-dates",
+          "checked_at": "2026-09-12",
+          "supports": "2027本科日期与内部期限",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "AY2027/2028 International Qualifications",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-411c00b1e61446",
+          "title": "NUS International Undergraduate Scholarship",
+          "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "本科TG与奖学金边界",
+          "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+          "locator": "Eligibility/Benefits/Terms",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-91c45582176a42",
+          "title": "NUS高考申请资格（页面仍为2026）",
+          "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中生前置路径",
+          "sha256": "0abafbe12c137a089e798d233685c31ca6ecada98c71c1c1cc0d42248a537de1",
+          "locator": "Gaokao table and notes",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-a7c9f06a434aa5",
+          "title": "NUS Tuition Grant和服务义务",
+          "url": "https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees",
+          "checked_at": "2026-09-12",
+          "supports": "本科TG与奖学金边界",
+          "sha256": "4f8215eeb616cb90f26633ca1aad12288e654cc65250dcae1cf0058061423261",
+          "locator": "Fees/Tuition Grant",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "ASREN-dd5861bce6faef",
+          "title": "NUS英语要求（2026年9月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "年限与授课；本科英语参考",
+          "sha256": "362878e5eae912051f7394bc009fae3657911d46525612f78085e43c3eb170a4",
+          "locator": "PDF page1",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUS26-06231ba1d17578",
+          "title": "NUS AY2026/27新生年费",
+          "url": "https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "本科阶段参考与收费缺口",
+          "sha256": "1bb50375e3299184c60f5c1006ebe331a220e996500366513596e5a22f103d5e",
+          "locator": "PDF p2, A: New undergraduate intake AY2026/27; p14–15 notes",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUS26-9a7612f4f6a192",
+          "title": "CHS PPE XDP课程与两种入口",
+          "url": "https://chs.nus.edu.sg/programmes/ppe/",
+          "checked_at": "2026-09-13",
+          "supports": "本科课程基础；本科特有条件参考",
+          "sha256": "357bb445fc3495b1c85ff5cbbd39008a6d2dc9b3e4d13ea1032388551c35273e",
+          "locator": "Admission Information; Curriculum Structure",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUS26-efe847f8074c14",
+          "title": "新加坡教育部NUS 2025毕业就业调查",
+          "url": "https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf",
+          "checked_at": "2026-09-13",
+          "supports": "培养成果与统计",
+          "sha256": "8dec4235695865ea34a95af325a1bc8b367b604440826a499e14aed6e986999e",
+          "locator": "Degree rows; notes1–10, pp1–3",
+          "capture_format": "web_tool_response_json_string"
+        },
+        {
+          "id": "NUSJD-28ce20877fd0b431",
+          "title": "LKY 普通MPP 2026入学收费与补助",
+          "url": "https://lkyspp.nus.edu.sg/graduate-admissions/fees-and-funding",
+          "checked_at": "2026-09-13",
+          "sha256": "cf6b87158eaa618b76ed5ad909b2aa6de1b4dc70fe9410b115e16bde2979ae62",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Fees and Funding, L45–74: MPP AY2026 intake4sem, GST, previous graduate subsidies, misc",
+          "supports": "普通MPP 2026入学费参考；普通MPP杂费与补助范围；MPP奖学金入口与限制"
+        },
+        {
+          "id": "NUSJD-31270b4ab22abe2a",
+          "title": "NUS FASS 当前具名双学位和本硕衔接",
+          "url": "https://fass.nus.edu.sg/special-degree-programmes/",
+          "checked_at": "2026-09-13",
+          "sha256": "61f39a682a7b06d41eab0a4db149ab23577c8310a9bbc215ef49dddf3f47e4f8",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Special Degree Programmes, L257–266 Business DD; L322–331 five named MPP subjects",
+          "supports": "具名本科及硕士；在读资格及选拔；两个阶段的公开说明；2027本科日期与内部期限"
+        },
+        {
+          "id": "NUSJD-98ebe6577fcab74a",
+          "title": "LKY 公共政策本硕衔接资格和学制",
+          "url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/concurrent-degree",
+          "checked_at": "2026-09-13",
+          "sha256": "d6b465f22d66d76fae7a7e3db7d06bc9d12dccb92bc103e21c6610a4cff4e175",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "Concurrent Degree, L27–43: current NUS undergraduates, five FASS degrees, 4.5–5 years",
+          "supports": "具名本科及硕士；本科课程基础；实践与毕业条件；年限与授课；在读资格及选拔；中国高中生前置路径；本科英语参考；两个阶段的公开说明；2027本科日期与内部期限；本科阶段参考与收费缺口；培养成果与统计"
+        },
+        {
+          "id": "NUSJD-ca4a2ada0a539867",
+          "title": "LKY 普通MPP课程（AY2025/26起）",
+          "url": "https://lkyspp.nus.edu.sg/graduate-programmes/master-in-public-policy-mpp/mpp-curriculum",
+          "checked_at": "2026-09-13",
+          "sha256": "cf6b87158eaa618b76ed5ad909b2aa6de1b4dc70fe9410b115e16bde2979ae62",
+          "capture_format": "web_tool_response_json_string",
+          "locator": "MPP Curriculum, L27–88 required64units/core/PP5050; L120 continuation; L124–125 PAE",
+          "supports": "MPP课程与训练；实践与毕业条件；培养成果与统计"
+        }
+      ],
+      "display_fields": {
+        "name": "哲学、政治与经济学（PPE）与公共政策本硕衔接",
+        "intake": "现行专页；2027路线批次未核定",
+        "duration": "约4.5–5年（本科及MPP合计）",
+        "campus": "NUS文社科学院本科阶段、李光耀公共政策学院硕士阶段；具体地点按课表",
+        "language": "英语（NUS）",
+        "entry_summary": "先有NUS指定本科主修学籍，再经校内邀请与MPP选拔",
+        "tuition_summary": "本科与MPP分阶段收费；有2026参考，未核CDP总价",
+        "outcomes_summary": "未取得本具名衔接路线独立毕业统计"
+      },
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "research_status": "program_researched"
     }
   ],
   "profile": {
