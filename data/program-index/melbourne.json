@@ -3,9 +3,9 @@
   "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 177,
+    "count": 179,
     "scope": "Every named bachelor and non-minor major/specialisation in 2027 official university guide pp12–13, plus Science Extended in entry table",
-    "method": "{\"pdf_pages\": 24, \"complete_major_spread_pages\": [12, 13], \"visual_review\": true, \"group_counts\": {\"Agriculture\": 3, \"Arts\": 33, \"Biomedicine\": 16, \"Commerce\": 7, \"Design\": 14, \"Fine Arts\": 9, \"Music\": 6, \"Oral Health\": 0, \"Science\": 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。 本次独立对账官方11页129个主修/辅修/方向结果：93主修URL对应115父学位关系，114已在库存、1为已更正的旧数学总项；25荣誉方向URL去重为13方向、12为申请子页；11辅修不作新学位。另补9个具名荣誉学士，现153条，原144身份及事实保留。 新补BCom总表明确列名的10个学位内specialisation，与七主修形成16个真实资格关系；Ethics共享一条，不枚举自由组合。当前163条，原153条及来源日期保持；方向课程例子、费用和职业信息明确限定父主修/父学位范围。 全majors目录25个荣誉方向结果去重为13个真实方向，6项明确无2027招生留存处置；新增7个内部荣誉方向，9条真实父学位关系，心理学共用一条连接Arts/Biomedicine/Science。原163记录保持，总170；未把普通同名主修或GDA文凭并入。 在Arts/Science/Biomedicine三个父目录79条方向关系对账后，从60个尚待详情核定的候选中新增7项有现行院系正文支持的健康理科荣誉方向，100事实和13父关系；原170条保持，总177。其他53候选仍待核，并未加入发布库存。",
+    "method": "{\"pdf_pages\": 24, \"complete_major_spread_pages\": [12, 13], \"visual_review\": true, \"group_counts\": {\"Agriculture\": 3, \"Arts\": 33, \"Biomedicine\": 16, \"Commerce\": 7, \"Design\": 14, \"Fine Arts\": 9, \"Music\": 6, \"Oral Health\": 0, \"Science\": 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。 再核Geoscience与Geology旧生分界、5个现行理学主修及旧数学总项，83旧事实保持并增17说明；更正页补4现有主修导航。 本次独立对账官方11页129个主修/辅修/方向结果：93主修URL对应115父学位关系，114已在库存、1为已更正的旧数学总项；25荣誉方向URL去重为13方向、12为申请子页；11辅修不作新学位。另补9个具名荣誉学士，现153条，原144身份及事实保留。 新补BCom总表明确列名的10个学位内specialisation，与七主修形成16个真实资格关系；Ethics共享一条，不枚举自由组合。当前163条，原153条及来源日期保持；方向课程例子、费用和职业信息明确限定父主修/父学位范围。 全majors目录25个荣誉方向结果去重为13个真实方向，6项明确无2027招生留存处置；新增7个内部荣誉方向，9条真实父学位关系，心理学共用一条连接Arts/Biomedicine/Science。原163记录保持，总170；未把普通同名主修或GDA文凭并入。 在Arts/Science/Biomedicine三个父目录79条方向关系对账后，从60个尚待详情核定的候选中新增7项有现行院系正文支持的健康理科荣誉方向，100事实和13父关系；原170条保持，总177。其他53候选仍待核，并未加入发布库存。 进一步增加Ancient World Studies和Classics两个单学科文学荣誉方向、26事实和2个真实父链；原177条保持，总179。现行BH-ARTS父目录/院系入口与2025官方语言资格参考分开，其他51个原目录候选尚未加入发布库存。",
     "exclusions": "Official PDF obtained using normal Chrome downloadMedia on observed download link; archived original + SHA256；Explicit minor-only footnote exclusions: Chinese Societies, Development Studies, Digital Studies, English Language Studies, Environmental Studies, European Studies, Japanese Societies, Law and Justice, Medieval and Early Modern Studies, South Asian Studies；Oral Health four curricular components explicitly not majors and are not separately counted；Exclude concurrent diplomas and standalone postgraduate MD/JD/DVM; Veterinary Bioscience remains bachelor major with later-selection note",
     "sources": [
       {
@@ -3312,6 +3312,21 @@
         "url": "https://medicine.unimelb.edu.au/school-structure/critcare/study/coursework-degrees/honours",
         "sha256": "f3ddb4f3c65e7a3a59df19d8815e988979610d8e5123e221f8c30e1207120f12",
         "raw_file": "scratch/full-catalog/melbourne-honours-stream-directory/raw/critical-care-browser.html"
+      },
+      {
+        "url": "https://arts.unimelb.edu.au/ancient-medieval-and-early-modern-studies/welcome/undergraduate",
+        "sha256": "90dc3c9a46801f65c09dfdb7cb1658c09b9248535b9f093b07278636b147ec31",
+        "raw_file": "scratch/full-catalog/melbourne-honours-stream-directory/raw/arts-ancient-programmes-browser.html"
+      },
+      {
+        "url": "https://arts.unimelb.edu.au/school-of-historical-and-philosophical-studies/discipline-areas/classics-and-archaeology",
+        "sha256": "37e0e7283809a25a0e51f49a3302a5e9bb3d8e19d8f9c8070c5d513cd8331f99",
+        "raw_file": "scratch/melbourne-arts-honours-first8/raw/classics-department.html"
+      },
+      {
+        "url": "https://arts.unimelb.edu.au/__data/assets/pdf_file/0006/5346348/UniMelb-Classics-and-Archaeology-UgradBooklet2025.pdf",
+        "sha256": "78d483ccefd4be5509ea52d7cdeaed78050a93491d59c1750f05f22f97700a9f",
+        "raw_file": "scratch/melbourne-arts-honours-first8/raw/classics-booklet-2025.pdf"
       }
     ],
     "gaps": [
@@ -3323,7 +3338,8 @@
       "8个荣誉学士费用仅2026国际生首年指示价，Commerce Honours专属费用未取得；2027费用、部分申请日期、授课语言及按专业/国际生分母的毕业统计仍缺。官网目录仍保留旧数学总项，不据此恢复；BA Extended仍为未确认线索。",
       "BCom专项官网称从2026起，并非已核2027课程表；多数总表25学分与商业分析页50、管理页two与三列名差异保留。专项实际科目组合、专属准入/申报和毕业统计未取得；所列2027国际费用只为父BCom估算。",
       "五音乐、视觉艺术和心理学荣誉方向的2027选拔已补；2026课程示例与国际父学位指示费保持年度和范围边界，2027逐科规章/方向学费/毕业统计仍待核。全majors中13方向不等于全校荣誉研究学科，Arts/Science/各生医院系其余具名stream尚待逐项对账。",
-      "新增七项均是本科后的荣誉学位内部研究方向，六项共享Science/Biomedicine、CriticalCare仅Biomedicine。2027项目/申请、当前课程及2026父学位国际费用分别标注；方向2027逐科收费、全量Handbook模块与毕业统计未核，不等于临床执业资格。"
+      "新增七项均是本科后的荣誉学位内部研究方向，六项共享Science/Biomedicine、CriticalCare仅Biomedicine。2027项目/申请、当前课程及2026父学位国际费用分别标注；方向2027逐科收费、全量Handbook模块与毕业统计未核，不等于临床执业资格。",
+      "两项新增文学荣誉方向的语言先修仅取得2025历史说明，当前院系仍链接不代表2027沿用；2027父学位70WAM/近5年BA和500词研究计划与方向专属缺口分别标识。100学分通常结构及2026父费均非方向2027完整模块或报价，常规申请月日未附年份，其余六个尝试候选仍缺现行详情，不以阻断或旧手册判停招。"
     ]
   },
   "programs": [
@@ -6906,6 +6922,72 @@
         "自然科学"
       ],
       "subject": "医学与健康"
+    },
+    {
+      "id": "melbourne-ancient-world-studies-4987cc8f93",
+      "university_id": "melbourne",
+      "raw_key": "honours-stream|arts|Ancient World Studies",
+      "name_en": "Ancient World Studies",
+      "degree_label": "Bachelor of Arts (Degree with Honours) — honours specialisation",
+      "parent_degree_label": "Bachelor of Arts (Degree with Honours)",
+      "parent_program_id": "melbourne-bachelor-of-arts-degree-with-honours-ac8146e0b6",
+      "parent_program_ids": [
+        "melbourne-bachelor-of-arts-degree-with-honours-ac8146e0b6"
+      ],
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-arts-degree-with-honours-ac8146e0b6"
+      ],
+      "official_url": "https://handbook.unimelb.edu.au/components/bh-arts-spec-1",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/structure/#nav",
+      "aliases": [
+        "Ancient World studies"
+      ],
+      "name": "古代世界研究（文科荣誉方向）",
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "requires_prior_degree": true,
+      "entry_route": "相关BA之后的纯荣誉方向；2025历史指南允许单一古典语言背景者考虑本方向；2027方向细则未齐。",
+      "eligibility": "完成相关BA后的第四年纯荣誉方向；非中国高中直入、非独立另授一项学士，也不提供任意combined honours。",
+      "source_period": "当前官方目录与院系；2025专属语言指南仍直接链接；2027父学位条件与2026父学位费用分别标注",
+      "status": "current_named_direction_with_partial_details",
+      "intake": "2027父学位条件已列；方向年度课程与名额未核",
+      "subjects": [
+        "人文"
+      ],
+      "subject": "人文"
+    },
+    {
+      "id": "melbourne-classics-e8fb888509",
+      "university_id": "melbourne",
+      "raw_key": "honours-stream|arts|Classics",
+      "name_en": "Classics",
+      "degree_label": "Bachelor of Arts (Degree with Honours) — honours specialisation",
+      "parent_degree_label": "Bachelor of Arts (Degree with Honours)",
+      "parent_program_id": "melbourne-bachelor-of-arts-degree-with-honours-ac8146e0b6",
+      "parent_program_ids": [
+        "melbourne-bachelor-of-arts-degree-with-honours-ac8146e0b6"
+      ],
+      "eligible_parent_program_ids": [
+        "melbourne-bachelor-of-arts-degree-with-honours-ac8146e0b6"
+      ],
+      "official_url": "https://handbook.unimelb.edu.au/components/bh-arts-spec-8",
+      "discovery_source_url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/structure/#nav",
+      "aliases": [
+        "Classics (Ancient Greek and Latin)"
+      ],
+      "name": "古典学（文科荣誉方向）",
+      "record_type": "specialisation",
+      "entity_type": "honours_specialisation",
+      "requires_prior_degree": true,
+      "entry_route": "相关BA之后的纯荣誉方向；2025历史指南要求申请前具备希腊语及拉丁语；2027具体等级另核。",
+      "eligibility": "完成相关BA后的第四年纯荣誉方向；非中国高中直入、非独立另授一项学士，也不提供任意combined honours。",
+      "source_period": "当前官方目录与院系；2025专属语言指南仍直接链接；2027父学位条件与2026父学位费用分别标注",
+      "status": "current_named_direction_with_partial_details",
+      "intake": "2027父学位条件已列；方向年度课程与名额未核",
+      "subjects": [
+        "人文"
+      ],
+      "subject": "人文"
     }
   ]
 }

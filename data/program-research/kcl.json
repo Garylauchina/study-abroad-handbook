@@ -24479,7 +24479,7 @@
       "raw_key": "6e010ace-735d-4883-821e-b4aa8540450e",
       "name_en": "Mathematics & Philosophy BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -24497,30 +24497,166 @@
               "UKENR-112b62a47ab918"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "联合课程与首年结构",
+            "text": "数学涉及分析、代数与几何，哲学涵盖逻辑及中西哲学。首年数学五门各15学分；哲学分别从逻辑／方法论、形而上学／认识论两组选15，再选15。总览另称历史、价值、理论各一门，与年度表分组不同，选课须按当前获批方案核。",
+            "source_ids": [
+              "KCLFR-1b74647746ca1d35",
+              "KCLFR-5806a4fa7f469b79"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "二年与末年的配额",
+            "text": "二年数学必修45＋选15；哲学中级逻辑15，从所列A/B清单至少两个列表取至少30，再补15。末年数学哲学15必修，全年120、两学科各至少45且Level6至少90；选修论文30并非所有学生必写。",
+            "source_ids": [
+              "KCLFR-1b74647746ca1d35",
+              "KCLFR-5806a4fa7f469b79"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "海外路线与教学",
+            "text": "获准转入四年海外路线者第三年在伙伴大学，第四年修普通末年课程。哲学重小组讨论，数学以讲授、习题课为主；考核以笔试为主，也有论文、展示与项目。本轮未取得该海外路线的具体升读均分。",
+            "source_ids": [
+              "KCLFR-1b74647746ca1d35",
+              "KCLFR-5806a4fa7f469b79"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "学制、校区及语言证据范围",
+            "text": "3年；获准海外年路线为4年；Strand校区。本轮未取得全程独立授课语言条款；英语录取Band D，不把测试等级当全程授课语种证明。",
+            "source_ids": [
+              "KCLFR-5806a4fa7f469b79",
+              "KCLFR-1b74647746ca1d35",
+              "KCLFR-5b5d917b856723e0",
+              "KCLFR-3830ef49ae9e3f47",
+              "KCLFR-32980096f3d61019"
+            ],
+            "extraction_locator": "Public course duration / actual Basecampus / exact teaching campus paragraph / Band"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-112b62a47ab918"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "数学与进阶数学条件",
+            "text": "A-level AAA须数学和进阶数学均A；未读完整进阶数学时，仅在AS进阶数学A并另有任一STEP试卷3或AEA Mathematics Merit时才可替代。IB标准原文为总36或三个HL合18，并须数学Analysis & Approaches HL6；不把IB AI或高考自行折算成此条件。",
+            "source_ids": [
+              "KCLFR-5b5d917b856723e0",
+              "KCLFR-32980096f3d61019"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "A-level计入与实践范围",
+            "text": "General Studies、Critical Thinking、Thinking Skills和Global Perspectives不计所需A-level。英格兰线性理科A-level须过实践考核，无法参加的private candidates有例外；不要求所有高考生另考此英国实践。EPQ不参与评估。",
+            "source_ids": [
+              "KCLFR-5b5d917b856723e0",
+              "KCLFR-32980096f3d61019"
+            ],
+            "extraction_locator": "Actual standard A-level notes, not inferred across programmes"
+          },
+          {
+            "label": "预科与已有学位的不同入口",
+            "text": "英国独立预科按内容个案评估；不接受非英国预科或他校主学位内Year0／Integrated Foundation。已有本科者一般可按英国2:1等同评估，高2:1／一等更有竞争力；这不是高中申请的必需前置。指定先修仍须满足，以大学学习替代须有充分相关模块且达2:1。本页可考虑重考。",
+            "source_ids": [
+              "KCLFR-5b5d917b856723e0",
+              "KCLFR-32980096f3d61019"
+            ],
+            "extraction_locator": "Exact Selection > Foundation / Graduates / Resits"
+          },
+          {
+            "label": "实际China学历判定",
+            "text": "逐课实际选择China后，高考Gao Kao、Zhao Kao（网页称Senior High School Examination）和Maple Leaf World Schools Programme High School Diploma均不用于本科直入。页面转介International Foundation，仍须核课程匹配、进阶成绩和科目，不是本学位录取保证。",
+            "source_ids": [
+              "KCLFR-32980096f3d61019"
+            ],
+            "extraction_locator": "Actual selected China > each of three Awards"
+          },
+          {
+            "label": "英语Band及测试年度",
+            "text": "本课程Band D。已取得政策明确适用2026/27，IELTS Academic参考总6.5、各项6.0；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新政策及offer，不能把旧年清单当最终新年标准。",
+            "source_ids": [
+              "KCLFR-5b5d917b856723e0",
+              "KCLFR-32980096f3d61019",
+              "KCLFR-dff3755b9680738d"
+            ],
+            "extraction_locator": "Exact course Band and English2026/27 > IELTS / validity / one sitting"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "GVC5；课程申请开放状态及截止须再核。",
+            "text": "GVC5；本轮已核实际申请状态与窗口见下列补充。",
             "source_ids": [
               "UKENR-112b62a47ab918"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "转学及延期申请",
+            "text": "本课程不接受转学。UCAS可选延期年度；offer后经King’s Apply个案批准，第二次延期仅极端不可预见情形考虑，超过两年须重申，军役／国家服务有例外。",
+            "source_ids": [
+              "KCLFR-5b5d917b856723e0",
+              "KCLFR-32980096f3d61019"
+            ],
+            "extraction_locator": "Exact Transfers / Deferrals section"
+          },
+          {
+            "label": "实际2027申请窗口",
+            "text": "实际Key Information列UCAS GVC5，Open，2027年9月入学，截止2027年1月13日。",
+            "source_ids": [
+              "KCLFR-dba5765574c95bfe"
+            ],
+            "extraction_locator": "Actual KeyInformation fields; exact old Selection date / provisional declaration when applicable"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "实际International正文列GBP £30,750／学年，适用2027/28常规授课年；后续年度可能调整，不能以首年费率乘学制当固定全程价。",
+            "source_ids": [
+              "KCLFR-dba5765574c95bfe"
+            ],
+            "extraction_locator": "Actual International tuition > year and per-year unit"
+          },
+          {
+            "label": "押金、附加支出与奖学金缺口",
+            "text": "将无条件录取确认为首选时缴£2,000押金，入学后抵首年学费。教材、打印、文具、交通和毕业等另计；本轮未取得本课程面向中国申请者的专属奖学金条件及2027截止，不预先扣除奖助。",
+            "source_ids": [
+              "KCLFR-dba5765574c95bfe"
+            ],
+            "extraction_locator": "Actual deposit and listed costs; bounded scholarship gap"
+          },
+          {
+            "label": "不同阶段费用与专属成本",
+            "text": "海外伙伴一般不另收学费但可能收申请管理费，KCL收部分学费。附段仍写2025/26 OfS £1,905及海外£1,430，并称2026/27限额尚未取得；不能当2027/28中国学生的海外年报价，也未给本课国际比例。海外生活、签证及交通另计。",
+            "source_ids": [
+              "KCLFR-dba5765574c95bfe"
+            ],
+            "extraction_locator": "Exact Further fee information and Additional costs; historical and international scopes"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "数学群体的职业举例",
+            "text": "职业页主语主要是数学毕业生，列数据、风险、咨询、财务、教学及进一步研究；所嵌学生案例实际来自数学管理金融。本轮未取得本联合专业独立届次、分母、就业率或薪资，不能把广义数学群体或雇主名单当本专业统计。",
+            "source_ids": [
+              "KCLFR-7526a000cfba6043",
+              "KCLFR-5806a4fa7f469b79"
+            ],
+            "extraction_locator": "careers public body; exact course Year and/or China view"
+          }
+        ]
       },
       "sources": [
         {
@@ -24531,32 +24667,128 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "046b5a7bdc6f8b5fca60f57ce80bec9014b787e38de836876226486860322251",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLFR-5806a4fa7f469b79",
+          "title": "Mathematics & Philosophy BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "5806a4fa7f469b7902847ff923c1126cd5bb47a653143f4fa64e975e4678b6fa",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程身份、目标、路线和公开声明",
+          "locator": "Public Overview / Course essentials / disclaimer"
+        },
+        {
+          "id": "KCLFR-1b74647746ca1d35",
+          "title": "Mathematics & Philosophy BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "1b74647746ca1d35fcf0fe215fcd47b236d30f25d8c92aae565679d3e43167fe",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程逐年度公开模块与学习方式、升读或外出限制；已与实际GUI核对",
+          "locator": "Public Required/Optional module tree / actual Year selector / Teaching / Assessment"
+        },
+        {
+          "id": "KCLFR-5b5d917b856723e0",
+          "title": "Mathematics & Philosophy BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "5b5d917b856723e0bbc00d4b2e8f2f14f75bbcb544344194ef31cebab011f1bf",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程标准A-level/IB、科目、英语、其他条件与Selectionprocess",
+          "locator": "Standard A-level / IB / Other requirements / Selectionprocess"
+        },
+        {
+          "id": "KCLFR-7526a000cfba6043",
+          "title": "Mathematics & Philosophy BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "7526a000cfba6043e271f13705d3f02b39e136af066e4c53fa8bdda854ca23b0",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "实际职业介绍和群体范围；无统计时不造率",
+          "locator": "Public Careers body; stated group and wording"
+        },
+        {
+          "id": "KCLFR-3830ef49ae9e3f47",
+          "title": "Mathematics & Philosophy BSc — nav",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "3830ef49ae9e3f47dd1814382abb6bbaa3c360b937575b785ffbc469aea7e358",
+          "capture_format": "chrome_accessibility_text",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际总览AX的Basecampus及公开导航",
+          "locator": "Actual Overview accessibility tree > Basecampus and public href"
+        },
+        {
+          "id": "KCLFR-32980096f3d61019",
+          "title": "Mathematics & Philosophy BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "32980096f3d61019fbaf5c812a408b6904aca217dfa83ffeefbd0fcf7db2c7c0",
+          "capture_format": "chrome_public_dom",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际China三学历判定及同页可见标准成绩、Other requirements和Selectionprocess；引用逐事实限定",
+          "locator": "Actual China selection > Awards; visible entry conditions and other requirements"
+        },
+        {
+          "id": "KCLFR-dff3755b9680738d",
+          "title": "Mathematics & Philosophy BSc — 英语测试政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "capture_format": "public_html",
+          "source_period": "正文明确2026/27，2027/28最终测试清单本轮未取得",
+          "supports": "英语测试政策（2026/27）",
+          "locator": "英语测试政策（2026/27）"
+        },
+        {
+          "id": "KCLFR-dba5765574c95bfe",
+          "title": "Mathematics & Philosophy BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "dba5765574c95bfe4e6cfb2ee5eb839eab919d55f4d3bf82bd4283b23a1027f3",
+          "capture_format": "chrome_public_dom",
+          "source_period": "2027/28国际常规年费；阶段或历史数字单独注明",
+          "supports": "本课程实际International2027/28年费、押金、分阶段和历史费用、实际申请字段",
+          "locator": "International tuition / deposit / Additional costs / Further fee information / KeyInformation"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本批只更新12既有ID；48核心官方正文及12实际费用逐项实读，China与全部公开年度由独立审阅者实际选择捕获。",
+        "保留全部原事实数值、引用和来源日期；仅已解决的缺口后缀逐条留ledger。",
+        "数学各路线、自然科学本科与MSci、心理外出代码及回退按独立页面，不借同类模板补条件；暂定声明和学分差异保留。"
       ],
       "display_fields": {
-        "duration": "3 年 or 4 年 with Study Abroad option",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "duration": "3年；获准海外年路线为4年",
+        "entry_summary": "高考／Zhao Kao不直入；联合荣誉本科；AAA含数学和进阶数学A；IB数学AA HL6；不接受转学",
+        "name": "数学与哲学理学士",
+        "campus": "Strand校区",
+        "language": "本轮未取得全程独立授课语言条款；英语录取Band D",
+        "intake": "2027年9月",
+        "tuition_summary": "2027/28 GBP £30,750／学年（常规授课年）",
+        "outcomes_summary": "已核职业介绍及实际群体；未取得本专业可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Individually authored Chinese with exact sources, original dates and explicit discrepancies",
       "inventory_id": "kcl-mathematics-philosophy-bsc-002bb0180a"
     },
     {
@@ -24564,7 +24796,7 @@
       "raw_key": "f81afd8b-2a1f-410c-89b2-a27c6fb88b04",
       "name_en": "Mathematics with Management & Finance BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -24582,30 +24814,166 @@
               "UKENR-4a65f4892216af"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "主辅修与前两年",
+            "text": "该课为major/minor honours，约四分之一内容为管理。首年数学六门共90，商学院选30；二年数学核心60，数学选30、商学院选30。经济学原理为30学分，不能将商科模块一概按15计算。",
+            "source_ids": [
+              "KCLFR-7e4fb769b84813bf",
+              "KCLFR-06a3165f6d9d7f80"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "末年选课与海外路线",
+            "text": "普通三年合计360学分。末年数学金融I必修15，指定管理金融组取30–45，再从数学组补足全年120；数学项目为可选。达到成绩要求并获伙伴录取者可转四年路线，第三年海外、第四年完成普通末年模块；具体均分本轮未取得。",
+            "source_ids": [
+              "KCLFR-7e4fb769b84813bf",
+              "KCLFR-06a3165f6d9d7f80"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "学制、校区及语言证据范围",
+            "text": "3年；获准海外年路线为4年；以Strand校区为主。本轮未取得全程独立授课语言条款；英语录取Band D，不把测试等级当全程授课语种证明。",
+            "source_ids": [
+              "KCLFR-06a3165f6d9d7f80",
+              "KCLFR-7e4fb769b84813bf",
+              "KCLFR-3a3bf68957870161",
+              "KCLFR-9ef2e2c0e57f3f0f",
+              "KCLFR-e24aa7e2e368b135"
+            ],
+            "extraction_locator": "Public course duration / actual Basecampus / exact teaching campus paragraph / Band"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-4a65f4892216af"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "数学标准及学历类别例外",
+            "text": "A-level A*AA，数学和进阶数学须A*A、顺序不限；AS进阶数学A替代仅另加STEP3或AEA Merit才可。IB总38或三个HL合19，数学AA HL7。本页另说国际课程体系不提供进阶数学时不要求该科，但数学须达A-level A等同；这是特定课程体系例外，不等于中国高考可直入。",
+            "source_ids": [
+              "KCLFR-3a3bf68957870161",
+              "KCLFR-e24aa7e2e368b135"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "建议准备不等于额外统考",
+            "text": "数学力学、统计及AEA／STEP是建议准备；上述AS替代路线所需测试仍是条件，不能因建议段将其取消。",
+            "source_ids": [
+              "KCLFR-3a3bf68957870161",
+              "KCLFR-e24aa7e2e368b135"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "A-level计入与实践范围",
+            "text": "英格兰线性理科A-level须过实践考核，无法参加的private candidates有例外；不要求所有高考生另考此英国实践。EPQ不参与评估。",
+            "source_ids": [
+              "KCLFR-3a3bf68957870161",
+              "KCLFR-e24aa7e2e368b135"
+            ],
+            "extraction_locator": "Actual standard A-level notes, not inferred across programmes"
+          },
+          {
+            "label": "预科与已有学位的不同入口",
+            "text": "英国独立预科按内容个案评估；不接受非英国预科或他校主学位内Year0／Integrated Foundation。已有本科者一般可按英国2:1等同评估，高2:1／一等更有竞争力；这不是高中申请的必需前置。指定先修仍须满足，以大学学习替代须有充分相关模块且达2:1。本页可考虑重考。",
+            "source_ids": [
+              "KCLFR-3a3bf68957870161",
+              "KCLFR-e24aa7e2e368b135"
+            ],
+            "extraction_locator": "Exact Selection > Foundation / Graduates / Resits"
+          },
+          {
+            "label": "实际China学历判定",
+            "text": "逐课实际选择China后，高考Gao Kao、Zhao Kao（网页称Senior High School Examination）和Maple Leaf World Schools Programme High School Diploma均不用于本科直入。页面转介International Foundation，仍须核课程匹配、进阶成绩和科目，不是本学位录取保证。",
+            "source_ids": [
+              "KCLFR-e24aa7e2e368b135"
+            ],
+            "extraction_locator": "Actual selected China > each of three Awards"
+          },
+          {
+            "label": "英语Band及测试年度",
+            "text": "本课程Band D。已取得政策明确适用2026/27，IELTS Academic参考总6.5、各项6.0；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新政策及offer，不能把旧年清单当最终新年标准。",
+            "source_ids": [
+              "KCLFR-3a3bf68957870161",
+              "KCLFR-e24aa7e2e368b135",
+              "KCLFR-dff3755b9680738d"
+            ],
+            "extraction_locator": "Exact course Band and English2026/27 > IELTS / validity / one sitting"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "G1N2；课程申请开放状态及截止须再核。",
+            "text": "G1N2；本轮已核实际申请状态与窗口见下列补充。",
             "source_ids": [
               "UKENR-4a65f4892216af"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "转学及延期申请",
+            "text": "本课程不接受转学。UCAS可选延期年度；offer后经King’s Apply个案批准，第二次延期仅极端不可预见情形考虑，超过两年须重申，军役／国家服务有例外。",
+            "source_ids": [
+              "KCLFR-3a3bf68957870161",
+              "KCLFR-e24aa7e2e368b135"
+            ],
+            "extraction_locator": "Exact Transfers / Deferrals section"
+          },
+          {
+            "label": "实际2027申请窗口",
+            "text": "实际Key Information列UCAS G1N2，Open，2027年9月入学，截止2027年1月13日。",
+            "source_ids": [
+              "KCLFR-02a56c2516dc6890"
+            ],
+            "extraction_locator": "Actual KeyInformation fields; exact old Selection date / provisional declaration when applicable"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "实际International正文列GBP £38,100／学年，适用2027/28常规授课年；后续年度可能调整，不能以首年费率乘学制当固定全程价。",
+            "source_ids": [
+              "KCLFR-02a56c2516dc6890"
+            ],
+            "extraction_locator": "Actual International tuition > year and per-year unit"
+          },
+          {
+            "label": "押金、附加支出与奖学金缺口",
+            "text": "将无条件录取确认为首选时缴£2,000押金，入学后抵首年学费。教材、打印、文具、交通和毕业等另计；本轮未取得本课程面向中国申请者的专属奖学金条件及2027截止，不预先扣除奖助。",
+            "source_ids": [
+              "KCLFR-02a56c2516dc6890"
+            ],
+            "extraction_locator": "Actual deposit and listed costs; bounded scholarship gap"
+          },
+          {
+            "label": "不同阶段费用与专属成本",
+            "text": "海外伙伴一般不收学费、可能有管理费；KCL继续按部分学费收费，并提及外出当年OfS上限，但未明确中国国际生比例或2027/28海外年金额。便携设备可为笔记本、平板或手机，便于A4阅读的电脑／平板为理想配置；相关考试计算器和海外开支另计。",
+            "source_ids": [
+              "KCLFR-02a56c2516dc6890"
+            ],
+            "extraction_locator": "Exact Further fee information and Additional costs; historical and international scopes"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "管理金融职业例子及样本边界",
+            "text": "职业页以数学及数学管理金融能力介绍精算、金融分析、会计、咨询和系统分析，列Deloitte、HSBC等雇主但没有届次、人数或统计方法。本轮不列本专业就业率、失业率或薪资；“高薪／低失业”宣传不能转成数值保证。",
+            "source_ids": [
+              "KCLFR-5cce87ef29dc58d3",
+              "KCLFR-06a3165f6d9d7f80"
+            ],
+            "extraction_locator": "careers public body; exact course Year and/or China view"
+          }
+        ]
       },
       "sources": [
         {
@@ -24616,32 +24984,128 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "16eaf98ac8e4ee168872344d6d36854e36b52b9b6360d3d8c17d63c65928e0f4",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLFR-06a3165f6d9d7f80",
+          "title": "Mathematics with Management & Finance BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "06a3165f6d9d7f809cb85489480e8b9bc7964a7f68c7cb12505a326443e4d86d",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程身份、目标、路线和公开声明",
+          "locator": "Public Overview / Course essentials / disclaimer"
+        },
+        {
+          "id": "KCLFR-7e4fb769b84813bf",
+          "title": "Mathematics with Management & Finance BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "7e4fb769b84813bf51c5e3ec2673425d9f492e9725ec2a4cdb9cf24d406dd58c",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程逐年度公开模块与学习方式、升读或外出限制；已与实际GUI核对",
+          "locator": "Public Required/Optional module tree / actual Year selector / Teaching / Assessment"
+        },
+        {
+          "id": "KCLFR-3a3bf68957870161",
+          "title": "Mathematics with Management & Finance BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "3a3bf689578701618a8afc3c113d7201942061041241ed8aa66a0721d682dece",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程标准A-level/IB、科目、英语、其他条件与Selectionprocess",
+          "locator": "Standard A-level / IB / Other requirements / Selectionprocess"
+        },
+        {
+          "id": "KCLFR-5cce87ef29dc58d3",
+          "title": "Mathematics with Management & Finance BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "5cce87ef29dc58d3d0b83866945cd45f4a683ac57a48c4a9f5df19a647669d22",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "实际职业介绍和群体范围；无统计时不造率",
+          "locator": "Public Careers body; stated group and wording"
+        },
+        {
+          "id": "KCLFR-9ef2e2c0e57f3f0f",
+          "title": "Mathematics with Management & Finance BSc — nav",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "9ef2e2c0e57f3f0f1eebf339e56c215f47d1843b6bfc2007830676b7807b3a09",
+          "capture_format": "chrome_accessibility_text",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际总览AX的Basecampus及公开导航",
+          "locator": "Actual Overview accessibility tree > Basecampus and public href"
+        },
+        {
+          "id": "KCLFR-e24aa7e2e368b135",
+          "title": "Mathematics with Management & Finance BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "e24aa7e2e368b1352887321f613326e54238fed952119057af3b2ecabb829251",
+          "capture_format": "chrome_public_dom",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际China三学历判定及同页可见标准成绩、Other requirements和Selectionprocess；引用逐事实限定",
+          "locator": "Actual China selection > Awards; visible entry conditions and other requirements"
+        },
+        {
+          "id": "KCLFR-dff3755b9680738d",
+          "title": "Mathematics with Management & Finance BSc — 英语测试政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "capture_format": "public_html",
+          "source_period": "正文明确2026/27，2027/28最终测试清单本轮未取得",
+          "supports": "英语测试政策（2026/27）",
+          "locator": "英语测试政策（2026/27）"
+        },
+        {
+          "id": "KCLFR-02a56c2516dc6890",
+          "title": "Mathematics with Management & Finance BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "02a56c2516dc6890f0e6faac97e1805a147e13ca21e9662a39a74116d0072ea6",
+          "capture_format": "chrome_public_dom",
+          "source_period": "2027/28国际常规年费；阶段或历史数字单独注明",
+          "supports": "本课程实际International2027/28年费、押金、分阶段和历史费用、实际申请字段",
+          "locator": "International tuition / deposit / Additional costs / Further fee information / KeyInformation"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本批只更新12既有ID；48核心官方正文及12实际费用逐项实读，China与全部公开年度由独立审阅者实际选择捕获。",
+        "保留全部原事实数值、引用和来源日期；仅已解决的缺口后缀逐条留ledger。",
+        "数学各路线、自然科学本科与MSci、心理外出代码及回退按独立页面，不借同类模板补条件；暂定声明和学分差异保留。"
       ],
       "display_fields": {
-        "duration": "3 年 or four 年 with a 年 abroad",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "3年；获准海外年路线为4年",
+        "entry_summary": "高考／Zhao Kao不直入；数学主修／管理金融辅修；A*AA含数学与进阶数学A*A；IB数学AA HL7；不接受转学",
+        "name": "数学（管理与金融辅修）理学士",
+        "campus": "以Strand校区为主",
+        "language": "本轮未取得全程独立授课语言条款；英语录取Band D",
+        "intake": "2027年9月",
+        "tuition_summary": "2027/28 GBP £38,100／学年（常规授课年）",
+        "outcomes_summary": "已核职业介绍及实际群体；未取得本专业可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Individually authored Chinese with exact sources, original dates and explicit discrepancies",
       "inventory_id": "kcl-mathematics-with-management-finance-bsc-2f900f166e"
     },
     {
@@ -24649,7 +25113,7 @@
       "raw_key": "24a977ea-86a5-4550-97f2-64849a8e0d93",
       "name_en": "Mathematics with Management & Finance with Year in Industry BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -24667,30 +25131,166 @@
               "UKENR-d5425d229b5468"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "四年结构与课程",
+            "text": "总述480学分。首年数学90＋商科30；二年数学核心60＋数学选30＋商科选30。第三年行业120；返校末年数学金融I15，管理金融组30–45，其余数学模块补至120。原表重复International Corporate Governance，不能当两门不同课。",
+            "source_ids": [
+              "KCLFR-a1973e1076e6f10a",
+              "KCLFR-cfbc962c3dca284a"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "行业年条件",
+            "text": "总览将第三年描述为英国公司全年实习，教学页要求达到一定成绩并找到合适岗位；学生自行申请，院系提供支持。具体均分、申请截止与考核回退本轮未取得，不套商学院的2:2或五月规则。返校可选数学与金融相关项目。",
+            "source_ids": [
+              "KCLFR-a1973e1076e6f10a",
+              "KCLFR-cfbc962c3dca284a"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "学制、校区及语言证据范围",
+            "text": "4年，第三年行业实习；以Strand校区为主；行业年在实习机构。本轮未取得全程独立授课语言条款；英语录取Band D，不把测试等级当全程授课语种证明。",
+            "source_ids": [
+              "KCLFR-cfbc962c3dca284a",
+              "KCLFR-a1973e1076e6f10a",
+              "KCLFR-1f1d9d6a480b7ed7",
+              "KCLFR-b5d870e637be8bf1",
+              "KCLFR-a8d6bd85850e378d"
+            ],
+            "extraction_locator": "Public course duration / actual Basecampus / exact teaching campus paragraph / Band"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-d5425d229b5468"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "本行业路线的数学条件",
+            "text": "A-level A*AA，数学及进阶数学A*A、顺序不限；AS进阶数学A替代须另有STEP3或AEA Merit。IB总38或三个HL合19，数学AA HL7。本页未列普通三年路线的“不提供进阶数学国际课程”例外，不自动沿用。",
+            "source_ids": [
+              "KCLFR-1f1d9d6a480b7ed7",
+              "KCLFR-a8d6bd85850e378d"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "建议准备的边界",
+            "text": "数学力学、统计、AEA／STEP属于一般建议准备；AS替代方案内的STEP／AEA要求仍须满足。",
+            "source_ids": [
+              "KCLFR-1f1d9d6a480b7ed7",
+              "KCLFR-a8d6bd85850e378d"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "A-level计入与实践范围",
+            "text": "英格兰线性理科A-level须过实践考核，无法参加的private candidates有例外；不要求所有高考生另考此英国实践。EPQ不参与评估。",
+            "source_ids": [
+              "KCLFR-1f1d9d6a480b7ed7",
+              "KCLFR-a8d6bd85850e378d"
+            ],
+            "extraction_locator": "Actual standard A-level notes, not inferred across programmes"
+          },
+          {
+            "label": "预科与已有学位的不同入口",
+            "text": "英国独立预科按内容个案评估；不接受非英国预科或他校主学位内Year0／Integrated Foundation。已有本科者一般可按英国2:1等同评估，高2:1／一等更有竞争力；这不是高中申请的必需前置。指定先修仍须满足，以大学学习替代须有充分相关模块且达2:1。本页可考虑重考。",
+            "source_ids": [
+              "KCLFR-1f1d9d6a480b7ed7",
+              "KCLFR-a8d6bd85850e378d"
+            ],
+            "extraction_locator": "Exact Selection > Foundation / Graduates / Resits"
+          },
+          {
+            "label": "实际China学历判定",
+            "text": "逐课实际选择China后，高考Gao Kao、Zhao Kao（网页称Senior High School Examination）和Maple Leaf World Schools Programme High School Diploma均不用于本科直入。页面转介International Foundation，仍须核课程匹配、进阶成绩和科目，不是本学位录取保证。",
+            "source_ids": [
+              "KCLFR-a8d6bd85850e378d"
+            ],
+            "extraction_locator": "Actual selected China > each of three Awards"
+          },
+          {
+            "label": "英语Band及测试年度",
+            "text": "本课程Band D。已取得政策明确适用2026/27，IELTS Academic参考总6.5、各项6.0；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新政策及offer，不能把旧年清单当最终新年标准。",
+            "source_ids": [
+              "KCLFR-1f1d9d6a480b7ed7",
+              "KCLFR-a8d6bd85850e378d",
+              "KCLFR-dff3755b9680738d"
+            ],
+            "extraction_locator": "Exact course Band and English2026/27 > IELTS / validity / one sitting"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "G1N3；课程申请开放状态及截止须再核。",
+            "text": "G1N3；本轮已核实际申请状态与窗口见下列补充。",
             "source_ids": [
               "UKENR-d5425d229b5468"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "转学及延期申请",
+            "text": "本课程不接受转学。UCAS可选延期年度；offer后经King’s Apply个案批准，第二次延期仅极端不可预见情形考虑，超过两年须重申，军役／国家服务有例外。",
+            "source_ids": [
+              "KCLFR-1f1d9d6a480b7ed7",
+              "KCLFR-a8d6bd85850e378d"
+            ],
+            "extraction_locator": "Exact Transfers / Deferrals section"
+          },
+          {
+            "label": "实际2027申请窗口",
+            "text": "实际Key Information列UCAS G1N3，Open，2027年9月入学，截止2027年1月13日。",
+            "source_ids": [
+              "KCLFR-57b3cc8b5f7d4e6e"
+            ],
+            "extraction_locator": "Actual KeyInformation fields; exact old Selection date / provisional declaration when applicable"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "实际International正文列GBP £38,100／学年，适用2027/28常规授课年；后续年度可能调整，不能以首年费率乘学制当固定全程价。",
+            "source_ids": [
+              "KCLFR-57b3cc8b5f7d4e6e"
+            ],
+            "extraction_locator": "Actual International tuition > year and per-year unit"
+          },
+          {
+            "label": "押金、附加支出与奖学金缺口",
+            "text": "将无条件录取确认为首选时缴£2,000押金，入学后抵首年学费。教材、打印、文具、交通和毕业等另计；本轮未取得本课程面向中国申请者的专属奖学金条件及2027截止，不预先扣除奖助。",
+            "source_ids": [
+              "KCLFR-57b3cc8b5f7d4e6e"
+            ],
+            "extraction_locator": "Actual deposit and listed costs; bounded scholarship gap"
+          },
+          {
+            "label": "不同阶段费用与专属成本",
+            "text": "行业年仍注册KCL并收部分学费；页面只提实习当年OfS上限及可能逐年增加，本轮未取得本课明确国际比例或实习年金额，不套其他课程1/3。便携设备、相关考试计算器、实习交通及生活签证支出另计。",
+            "source_ids": [
+              "KCLFR-57b3cc8b5f7d4e6e"
+            ],
+            "extraction_locator": "Exact Further fee information and Additional costs; historical and international scopes"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业与行业经验的不同证据",
+            "text": "职业页列数学管理金融领域的精算、财务、咨询等例子与雇主，并提供实习入口。没有单独识别本四年路线的毕业届次、人数、就业率或薪资；总览提到带薪岗位，也不等于学校保证实习或工资数额。",
+            "source_ids": [
+              "KCLFR-4f63c064d82c194e",
+              "KCLFR-cfbc962c3dca284a"
+            ],
+            "extraction_locator": "careers public body; exact course Year and/or China view"
+          }
+        ]
       },
       "sources": [
         {
@@ -24701,32 +25301,128 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "2a81d569eff05815468a0e54610e1f9f106293279ac1e08d7319385b2005688a",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLFR-cfbc962c3dca284a",
+          "title": "Mathematics with Management & Finance with Year in Industry BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry",
+          "checked_at": "2026-09-13",
+          "sha256": "cfbc962c3dca284a4be799cefcd5b94675ed29727cc52bc07d89b8899e084ba5",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程身份、目标、路线和公开声明",
+          "locator": "Public Overview / Course essentials / disclaimer"
+        },
+        {
+          "id": "KCLFR-a1973e1076e6f10a",
+          "title": "Mathematics with Management & Finance with Year in Industry BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "a1973e1076e6f10ad7e34a1fa5333101776f300ba42dc589509a75d227a92e69",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程逐年度公开模块与学习方式、升读或外出限制；已与实际GUI核对",
+          "locator": "Public Required/Optional module tree / actual Year selector / Teaching / Assessment"
+        },
+        {
+          "id": "KCLFR-1f1d9d6a480b7ed7",
+          "title": "Mathematics with Management & Finance with Year in Industry BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "1f1d9d6a480b7ed7ce17e237c10d37cdb90ac73f9800033af58c9c6f8f8bd34d",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程标准A-level/IB、科目、英语、其他条件与Selectionprocess",
+          "locator": "Standard A-level / IB / Other requirements / Selectionprocess"
+        },
+        {
+          "id": "KCLFR-4f63c064d82c194e",
+          "title": "Mathematics with Management & Finance with Year in Industry BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "4f63c064d82c194efa49c0d87bd1dded8cbfd81e219cedf935d6ad0f83a00662",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "实际职业介绍和群体范围；无统计时不造率",
+          "locator": "Public Careers body; stated group and wording"
+        },
+        {
+          "id": "KCLFR-b5d870e637be8bf1",
+          "title": "Mathematics with Management & Finance with Year in Industry BSc — nav",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry",
+          "checked_at": "2026-09-13",
+          "sha256": "b5d870e637be8bf1972a1c28cbd18132ec65997a3de523b51536b00c6dcdac7f",
+          "capture_format": "chrome_accessibility_text",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际总览AX的Basecampus及公开导航",
+          "locator": "Actual Overview accessibility tree > Basecampus and public href"
+        },
+        {
+          "id": "KCLFR-a8d6bd85850e378d",
+          "title": "Mathematics with Management & Finance with Year in Industry BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "a8d6bd85850e378d06d63dbd2d672af4519540a8c4983f23e41bb560d221ce8a",
+          "capture_format": "chrome_public_dom",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际China三学历判定及同页可见标准成绩、Other requirements和Selectionprocess；引用逐事实限定",
+          "locator": "Actual China selection > Awards; visible entry conditions and other requirements"
+        },
+        {
+          "id": "KCLFR-dff3755b9680738d",
+          "title": "Mathematics with Management & Finance with Year in Industry BSc — 英语测试政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "capture_format": "public_html",
+          "source_period": "正文明确2026/27，2027/28最终测试清单本轮未取得",
+          "supports": "英语测试政策（2026/27）",
+          "locator": "英语测试政策（2026/27）"
+        },
+        {
+          "id": "KCLFR-57b3cc8b5f7d4e6e",
+          "title": "Mathematics with Management & Finance with Year in Industry BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "57b3cc8b5f7d4e6e48e4e67b8a32cd00f02e5608a026aeed0ab5a4c660a633e7",
+          "capture_format": "chrome_public_dom",
+          "source_period": "2027/28国际常规年费；阶段或历史数字单独注明",
+          "supports": "本课程实际International2027/28年费、押金、分阶段和历史费用、实际申请字段",
+          "locator": "International tuition / deposit / Additional costs / Further fee information / KeyInformation"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本批只更新12既有ID；48核心官方正文及12实际费用逐项实读，China与全部公开年度由独立审阅者实际选择捕获。",
+        "保留全部原事实数值、引用和来源日期；仅已解决的缺口后缀逐条留ledger。",
+        "数学各路线、自然科学本科与MSci、心理外出代码及回退按独立页面，不借同类模板补条件；暂定声明和学分差异保留。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "4年，第三年行业实习",
+        "entry_summary": "高考／Zhao Kao不直入；四年主辅修本科；A*AA含数学／进阶数学A*A；行业岗位须自行争取；不接受转学",
+        "name": "数学（管理与金融辅修，含行业年）理学士",
+        "campus": "以Strand校区为主；行业年在实习机构",
+        "language": "本轮未取得全程独立授课语言条款；英语录取Band D",
+        "intake": "2027年9月",
+        "tuition_summary": "2027/28 GBP £38,100／学年（常规授课年）",
+        "outcomes_summary": "已核职业介绍及实际群体；未取得本专业可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Individually authored Chinese with exact sources, original dates and explicit discrepancies",
       "inventory_id": "kcl-mathematics-with-management-finance-with-year-in-industry-bsc-4dfe1b388c"
     },
     {
@@ -24734,7 +25430,7 @@
       "raw_key": "b3b54c39-140e-48a6-b7a8-fe9197d7bf3e",
       "name_en": "Mathematics with Statistics BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -24752,30 +25448,166 @@
               "UKENR-4cd42007c6a58b"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "统计训练与学分差异",
+            "text": "主辅修课程结合纯应用数学、统计建模及数据推断。首年八门各15共120；二年实际列实分析、统计建模、数学计算方法共45＋选60；末年实验设计及统计推断共30＋选75。后两年各105，与三年360总述未闭合，不从其他统计路线补缺课。",
+            "source_ids": [
+              "KCLFR-42766bbb73037f72",
+              "KCLFR-4ae2b74181b0c0ba"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "海外与学习方式",
+            "text": "可在满足均分并获伙伴录取后转四年海外路线，第三年外出、第四年回校完成末年模块。具体均分未列。课程通过讲授、习题课及自主学习，考核包括笔试、测验、在线小测和课程作业；数学项目为可选。",
+            "source_ids": [
+              "KCLFR-42766bbb73037f72",
+              "KCLFR-4ae2b74181b0c0ba"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "学制、校区及语言证据范围",
+            "text": "3年；获准海外年路线为4年；以Strand校区为主。本轮未取得全程独立授课语言条款；英语录取Band D，不把测试等级当全程授课语种证明。",
+            "source_ids": [
+              "KCLFR-4ae2b74181b0c0ba",
+              "KCLFR-42766bbb73037f72",
+              "KCLFR-04a86150245a8c01",
+              "KCLFR-3a378ecaf21fe743",
+              "KCLFR-8152a6bdc2596b18"
+            ],
+            "extraction_locator": "Public course duration / actual Basecampus / exact teaching campus paragraph / Band"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-4cd42007c6a58b"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "标准数学与国际课程例外",
+            "text": "A-level A*AA须数学／进阶数学A*A、顺序不限；AS进阶数学A替代需STEP3或AEA Merit。IB总38或三个HL合19且数学AA HL7。本页单列国际课程体系不开进阶数学时不要求该科、数学须A-level A等同；不因此接受China控件已拒的学历直接入学。",
+            "source_ids": [
+              "KCLFR-04a86150245a8c01",
+              "KCLFR-8152a6bdc2596b18"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "建议准备与转学",
+            "text": "力学、统计及AEA／STEP为一般建议准备；二年级转入可申请，但需独立审核，不是保证录取或免除先修。",
+            "source_ids": [
+              "KCLFR-04a86150245a8c01",
+              "KCLFR-8152a6bdc2596b18"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "A-level计入与实践范围",
+            "text": "英格兰线性理科A-level须过实践考核，无法参加的private candidates有例外；不要求所有高考生另考此英国实践。EPQ不参与评估。",
+            "source_ids": [
+              "KCLFR-04a86150245a8c01",
+              "KCLFR-8152a6bdc2596b18"
+            ],
+            "extraction_locator": "Actual standard A-level notes, not inferred across programmes"
+          },
+          {
+            "label": "预科与已有学位的不同入口",
+            "text": "英国独立预科按内容个案评估；不接受非英国预科或他校主学位内Year0／Integrated Foundation。已有本科者一般可按英国2:1等同评估，高2:1／一等更有竞争力；这不是高中申请的必需前置。指定先修仍须满足，以大学学习替代须有充分相关模块且达2:1。本页可考虑重考。",
+            "source_ids": [
+              "KCLFR-04a86150245a8c01",
+              "KCLFR-8152a6bdc2596b18"
+            ],
+            "extraction_locator": "Exact Selection > Foundation / Graduates / Resits"
+          },
+          {
+            "label": "实际China学历判定",
+            "text": "逐课实际选择China后，高考Gao Kao、Zhao Kao（网页称Senior High School Examination）和Maple Leaf World Schools Programme High School Diploma均不用于本科直入。页面转介International Foundation，仍须核课程匹配、进阶成绩和科目，不是本学位录取保证。",
+            "source_ids": [
+              "KCLFR-8152a6bdc2596b18"
+            ],
+            "extraction_locator": "Actual selected China > each of three Awards"
+          },
+          {
+            "label": "英语Band及测试年度",
+            "text": "本课程Band D。已取得政策明确适用2026/27，IELTS Academic参考总6.5、各项6.0；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新政策及offer，不能把旧年清单当最终新年标准。",
+            "source_ids": [
+              "KCLFR-04a86150245a8c01",
+              "KCLFR-8152a6bdc2596b18",
+              "KCLFR-dff3755b9680738d"
+            ],
+            "extraction_locator": "Exact course Band and English2026/27 > IELTS / validity / one sitting"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "GG13；课程申请开放状态及截止须再核。",
+            "text": "GG13；本轮已核实际申请状态与窗口见下列补充。",
             "source_ids": [
               "UKENR-4cd42007c6a58b"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "转学及延期申请",
+            "text": "本课程可考虑二年级转入申请，须独立审核。UCAS可选延期年度；offer后经King’s Apply个案批准，第二次延期仅极端不可预见情形考虑，超过两年须重申，军役／国家服务有例外。",
+            "source_ids": [
+              "KCLFR-04a86150245a8c01",
+              "KCLFR-8152a6bdc2596b18"
+            ],
+            "extraction_locator": "Exact Transfers / Deferrals section"
+          },
+          {
+            "label": "实际2027申请窗口",
+            "text": "实际Key Information列UCAS GG13，Open，2027年9月入学，截止2027年1月13日。",
+            "source_ids": [
+              "KCLFR-1742c490eacfde5e"
+            ],
+            "extraction_locator": "Actual KeyInformation fields; exact old Selection date / provisional declaration when applicable"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "实际International正文列GBP £38,100／学年，适用2027/28常规授课年；后续年度可能调整，不能以首年费率乘学制当固定全程价。",
+            "source_ids": [
+              "KCLFR-1742c490eacfde5e"
+            ],
+            "extraction_locator": "Actual International tuition > year and per-year unit"
+          },
+          {
+            "label": "押金、附加支出与奖学金缺口",
+            "text": "将无条件录取确认为首选时缴£2,000押金，入学后抵首年学费。教材、打印、文具、交通和毕业等另计；本轮未取得本课程面向中国申请者的专属奖学金条件及2027截止，不预先扣除奖助。",
+            "source_ids": [
+              "KCLFR-1742c490eacfde5e"
+            ],
+            "extraction_locator": "Actual deposit and listed costs; bounded scholarship gap"
+          },
+          {
+            "label": "不同阶段费用与专属成本",
+            "text": "海外伙伴一般不另收学费但可能有管理费；KCL仍收部分学费并提当年OfS上限，未列中国国际生的确切海外年比例或金额。便携设备、相关考试计算器及海外签证生活支出另计。",
+            "source_ids": [
+              "KCLFR-1742c490eacfde5e"
+            ],
+            "extraction_locator": "Exact Further fee information and Additional costs; historical and international scopes"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业范围与统计缺口",
+            "text": "本页介绍数学与统计能力可用于数据科学、精算、金融及教学，并列数学群体的近期职位与雇主，未标独立届次和分母。本轮未核本专业可比就业率及薪资，也不将同页其他专业学生视频视为本课毕业跟踪。",
+            "source_ids": [
+              "KCLFR-3197e9e05739d53b",
+              "KCLFR-4ae2b74181b0c0ba"
+            ],
+            "extraction_locator": "careers public body; exact course Year and/or China view"
+          }
+        ]
       },
       "sources": [
         {
@@ -24786,32 +25618,128 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "4cb408ce4b1f951177d08cd45242346fedae8de7ee6be9fa2f02b31d8ffa651c",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLFR-4ae2b74181b0c0ba",
+          "title": "Mathematics with Statistics BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "4ae2b74181b0c0ba51fd41079b0ca407b6dd1561d1e6a99b050ae0220f46e115",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程身份、目标、路线和公开声明",
+          "locator": "Public Overview / Course essentials / disclaimer"
+        },
+        {
+          "id": "KCLFR-42766bbb73037f72",
+          "title": "Mathematics with Statistics BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "42766bbb73037f722abcbe2c669c53d9ca516145ff25787db85deff98adff226",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程逐年度公开模块与学习方式、升读或外出限制；已与实际GUI核对",
+          "locator": "Public Required/Optional module tree / actual Year selector / Teaching / Assessment"
+        },
+        {
+          "id": "KCLFR-04a86150245a8c01",
+          "title": "Mathematics with Statistics BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "04a86150245a8c0121aa0476915871b8b9129bba02129f40abe07e2bab2a2a39",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程标准A-level/IB、科目、英语、其他条件与Selectionprocess",
+          "locator": "Standard A-level / IB / Other requirements / Selectionprocess"
+        },
+        {
+          "id": "KCLFR-3197e9e05739d53b",
+          "title": "Mathematics with Statistics BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "3197e9e05739d53b0d2e24931c458f895663725e2d611814dcdd72d553c35cb1",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "实际职业介绍和群体范围；无统计时不造率",
+          "locator": "Public Careers body; stated group and wording"
+        },
+        {
+          "id": "KCLFR-3a378ecaf21fe743",
+          "title": "Mathematics with Statistics BSc — nav",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "3a378ecaf21fe7435005c4169109260b67e2216eac02e5702e1df619b569ae10",
+          "capture_format": "chrome_accessibility_text",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际总览AX的Basecampus及公开导航",
+          "locator": "Actual Overview accessibility tree > Basecampus and public href"
+        },
+        {
+          "id": "KCLFR-8152a6bdc2596b18",
+          "title": "Mathematics with Statistics BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "8152a6bdc2596b18728831fdb0eef0416ab53ba168abab9542675b5362bfb1ff",
+          "capture_format": "chrome_public_dom",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际China三学历判定及同页可见标准成绩、Other requirements和Selectionprocess；引用逐事实限定",
+          "locator": "Actual China selection > Awards; visible entry conditions and other requirements"
+        },
+        {
+          "id": "KCLFR-dff3755b9680738d",
+          "title": "Mathematics with Statistics BSc — 英语测试政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "capture_format": "public_html",
+          "source_period": "正文明确2026/27，2027/28最终测试清单本轮未取得",
+          "supports": "英语测试政策（2026/27）",
+          "locator": "英语测试政策（2026/27）"
+        },
+        {
+          "id": "KCLFR-1742c490eacfde5e",
+          "title": "Mathematics with Statistics BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "1742c490eacfde5e0e9862882f934c1361f859f0d428dcfb246018c68c3fd3ec",
+          "capture_format": "chrome_public_dom",
+          "source_period": "2027/28国际常规年费；阶段或历史数字单独注明",
+          "supports": "本课程实际International2027/28年费、押金、分阶段和历史费用、实际申请字段",
+          "locator": "International tuition / deposit / Additional costs / Further fee information / KeyInformation"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本批只更新12既有ID；48核心官方正文及12实际费用逐项实读，China与全部公开年度由独立审阅者实际选择捕获。",
+        "保留全部原事实数值、引用和来源日期；仅已解决的缺口后缀逐条留ledger。",
+        "数学各路线、自然科学本科与MSci、心理外出代码及回退按独立页面，不借同类模板补条件；暂定声明和学分差异保留。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "3年；获准海外年路线为4年",
+        "entry_summary": "高考／Zhao Kao不直入；数学主修／统计辅修；A*AA含数学与进阶数学A*A；可申请二年级转入",
+        "name": "数学（统计学辅修）理学士",
+        "campus": "以Strand校区为主",
+        "language": "本轮未取得全程独立授课语言条款；英语录取Band D",
+        "intake": "2027年9月",
+        "tuition_summary": "2027/28 GBP £38,100／学年（常规授课年）",
+        "outcomes_summary": "已核职业介绍及实际群体；未取得本专业可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Individually authored Chinese with exact sources, original dates and explicit discrepancies",
       "inventory_id": "kcl-mathematics-with-statistics-bsc-e82791f255"
     },
     {
@@ -24819,7 +25747,7 @@
       "raw_key": "80d42534-f40f-4576-ac91-7048c754c787",
       "name_en": "Mathematics with Statistics with Year in Industry BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -24837,30 +25765,167 @@
               "UKENR-97fe485c0958cb"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "行业路线的独立配额",
+            "text": "首年八门数学统计课共120；二年必修45＋选75，与普通三年路线的60选修不同。第三年行业120；返校末年实验设计／统计推断30，加五门所列15学分选修为105，与480总述存在缺口，不能默补一门。",
+            "source_ids": [
+              "KCLFR-95599c9535d10030",
+              "KCLFR-0606a583b8c8576b"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "实习准入及返校",
+            "text": "第三年在英国公司进行全年实习，须满足成绩并自行取得岗位，院系提供申请支持；未取得具体均分、截止或未完成实习的处理规则。返校有统计与数学领域选课和可选研究项目，不能将实习支持理解为保证岗位。",
+            "source_ids": [
+              "KCLFR-95599c9535d10030",
+              "KCLFR-0606a583b8c8576b"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "学制、校区及语言证据范围",
+            "text": "4年，第三年行业实习；以Strand校区为主；行业年在实习机构。本轮未取得全程独立授课语言条款；英语录取Band D，不把测试等级当全程授课语种证明。",
+            "source_ids": [
+              "KCLFR-0606a583b8c8576b",
+              "KCLFR-95599c9535d10030",
+              "KCLFR-43d8d504864cb83f",
+              "KCLFR-1b0b003fde2b560c",
+              "KCLFR-ef1c2d92169e6434"
+            ],
+            "extraction_locator": "Public course duration / actual Basecampus / exact teaching campus paragraph / Band"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-97fe485c0958cb"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "本路线数学条件",
+            "text": "A-level A*AA，数学和进阶数学A*A、顺序不限；AS进阶数学A替代须另有STEP3或AEA Merit。IB总38或三个HL合19、数学AA HL7。本页未列普通统计路线的国际课程无进阶数学例外，不跨页套用。",
+            "source_ids": [
+              "KCLFR-43d8d504864cb83f",
+              "KCLFR-ef1c2d92169e6434"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "建议准备及转学",
+            "text": "数学力学、统计、AEA／STEP为建议准备；AS替代测试条件仍有效。可申请二年级转入，须另行审查。",
+            "source_ids": [
+              "KCLFR-43d8d504864cb83f",
+              "KCLFR-ef1c2d92169e6434"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "A-level计入与实践范围",
+            "text": "英格兰线性理科A-level须过实践考核，无法参加的private candidates有例外；不要求所有高考生另考此英国实践。EPQ不参与评估。",
+            "source_ids": [
+              "KCLFR-43d8d504864cb83f",
+              "KCLFR-ef1c2d92169e6434"
+            ],
+            "extraction_locator": "Actual standard A-level notes, not inferred across programmes"
+          },
+          {
+            "label": "预科与已有学位的不同入口",
+            "text": "英国独立预科按内容个案评估；不接受非英国预科或他校主学位内Year0／Integrated Foundation。已有本科者一般可按英国2:1等同评估，高2:1／一等更有竞争力；这不是高中申请的必需前置。指定先修仍须满足，以大学学习替代须有充分相关模块且达2:1。本页可考虑重考。",
+            "source_ids": [
+              "KCLFR-43d8d504864cb83f",
+              "KCLFR-ef1c2d92169e6434"
+            ],
+            "extraction_locator": "Exact Selection > Foundation / Graduates / Resits"
+          },
+          {
+            "label": "实际China学历判定",
+            "text": "逐课实际选择China后，高考Gao Kao、Zhao Kao（网页称Senior High School Examination）和Maple Leaf World Schools Programme High School Diploma均不用于本科直入。页面转介International Foundation，仍须核课程匹配、进阶成绩和科目，不是本学位录取保证。",
+            "source_ids": [
+              "KCLFR-ef1c2d92169e6434"
+            ],
+            "extraction_locator": "Actual selected China > each of three Awards"
+          },
+          {
+            "label": "英语Band及测试年度",
+            "text": "本课程Band D。已取得政策明确适用2026/27，IELTS Academic参考总6.5、各项6.0；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新政策及offer，不能把旧年清单当最终新年标准。",
+            "source_ids": [
+              "KCLFR-43d8d504864cb83f",
+              "KCLFR-ef1c2d92169e6434",
+              "KCLFR-dff3755b9680738d"
+            ],
+            "extraction_locator": "Exact course Band and English2026/27 > IELTS / validity / one sitting"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "GG15；课程申请开放状态及截止须再核。",
+            "text": "GG15；本轮已核实际申请状态与窗口见下列补充。",
             "source_ids": [
               "UKENR-97fe485c0958cb"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "转学及延期申请",
+            "text": "本课程可考虑二年级转入申请，须独立审核。UCAS可选延期年度；offer后经King’s Apply个案批准，第二次延期仅极端不可预见情形考虑，超过两年须重申，军役／国家服务有例外。",
+            "source_ids": [
+              "KCLFR-43d8d504864cb83f",
+              "KCLFR-ef1c2d92169e6434"
+            ],
+            "extraction_locator": "Exact Transfers / Deferrals section"
+          },
+          {
+            "label": "实际2027申请窗口",
+            "text": "实际Key Information列UCAS GG15，Open，2027年9月入学，截止2027年1月13日。招生Selection首段仍残留2025年1月31日18:00英国时间；这是旧年文字，不用来替代当前2027窗口。",
+            "source_ids": [
+              "KCLFR-00efdea1b310d959",
+              "KCLFR-43d8d504864cb83f"
+            ],
+            "extraction_locator": "Actual KeyInformation fields; exact old Selection date / provisional declaration when applicable"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "实际International正文列GBP £38,100／学年，适用2027/28常规授课年；后续年度可能调整，不能以首年费率乘学制当固定全程价。",
+            "source_ids": [
+              "KCLFR-00efdea1b310d959"
+            ],
+            "extraction_locator": "Actual International tuition > year and per-year unit"
+          },
+          {
+            "label": "押金、附加支出与奖学金缺口",
+            "text": "将无条件录取确认为首选时缴£2,000押金，入学后抵首年学费。教材、打印、文具、交通和毕业等另计；本轮未取得本课程面向中国申请者的专属奖学金条件及2027截止，不预先扣除奖助。",
+            "source_ids": [
+              "KCLFR-00efdea1b310d959"
+            ],
+            "extraction_locator": "Actual deposit and listed costs; bounded scholarship gap"
+          },
+          {
+            "label": "不同阶段费用与专属成本",
+            "text": "行业年保留KCL学籍并收部分学费，正文仅称实习当年OfS上限、可能逐年增加；本课国际比例与实习年金额本轮未取得。设备、相关考试计算器及实习交通生活签证开支另计。",
+            "source_ids": [
+              "KCLFR-00efdea1b310d959"
+            ],
+            "extraction_locator": "Exact Further fee information and Additional costs; historical and international scopes"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "数学统计职业群体",
+            "text": "职业页列数据科学、精算、会计、咨询等数学群体方向，并有进一步研究与实习入口；未给本行业年路线独立届次、人数、就业率或薪资。不能用该广义群体的宣传判定个人岗位或收入。",
+            "source_ids": [
+              "KCLFR-b9871b7ca6b4bddb",
+              "KCLFR-0606a583b8c8576b"
+            ],
+            "extraction_locator": "careers public body; exact course Year and/or China view"
+          }
+        ]
       },
       "sources": [
         {
@@ -24871,32 +25936,128 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "84ebbee642ba18e3f0ec80140252481de7e7e31955e532e7426957a2448b6f7f",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLFR-0606a583b8c8576b",
+          "title": "Mathematics with Statistics with Year in Industry BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "0606a583b8c8576b9842159ec51ee911b54e654b67017a8ce74c5d6b744bc284",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程身份、目标、路线和公开声明",
+          "locator": "Public Overview / Course essentials / disclaimer"
+        },
+        {
+          "id": "KCLFR-95599c9535d10030",
+          "title": "Mathematics with Statistics with Year in Industry BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "95599c9535d10030e0afb057819fe048771b6027770348fa358b48c5951bbf76",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程逐年度公开模块与学习方式、升读或外出限制；已与实际GUI核对",
+          "locator": "Public Required/Optional module tree / actual Year selector / Teaching / Assessment"
+        },
+        {
+          "id": "KCLFR-43d8d504864cb83f",
+          "title": "Mathematics with Statistics with Year in Industry BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "43d8d504864cb83f069d68774e01c14ced0eb191f5c7a80b67851d5a131dc154",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程标准A-level/IB、科目、英语、其他条件与Selectionprocess",
+          "locator": "Standard A-level / IB / Other requirements / Selectionprocess"
+        },
+        {
+          "id": "KCLFR-b9871b7ca6b4bddb",
+          "title": "Mathematics with Statistics with Year in Industry BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "b9871b7ca6b4bddb6ca8fb8a6593e52056cce53cb47ace08be3a76ac6c62c4ad",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "实际职业介绍和群体范围；无统计时不造率",
+          "locator": "Public Careers body; stated group and wording"
+        },
+        {
+          "id": "KCLFR-1b0b003fde2b560c",
+          "title": "Mathematics with Statistics with Year in Industry BSc — nav",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "1b0b003fde2b560cd8e201dc22db4c036117dd802b1baa37d132e96de6047e60",
+          "capture_format": "chrome_accessibility_text",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际总览AX的Basecampus及公开导航",
+          "locator": "Actual Overview accessibility tree > Basecampus and public href"
+        },
+        {
+          "id": "KCLFR-ef1c2d92169e6434",
+          "title": "Mathematics with Statistics with Year in Industry BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "ef1c2d92169e6434012212da31727620b01b99649348bd82e1563bb3a44ce72b",
+          "capture_format": "chrome_public_dom",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际China三学历判定及同页可见标准成绩、Other requirements和Selectionprocess；引用逐事实限定",
+          "locator": "Actual China selection > Awards; visible entry conditions and other requirements"
+        },
+        {
+          "id": "KCLFR-dff3755b9680738d",
+          "title": "Mathematics with Statistics with Year in Industry BSc — 英语测试政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "capture_format": "public_html",
+          "source_period": "正文明确2026/27，2027/28最终测试清单本轮未取得",
+          "supports": "英语测试政策（2026/27）",
+          "locator": "英语测试政策（2026/27）"
+        },
+        {
+          "id": "KCLFR-00efdea1b310d959",
+          "title": "Mathematics with Statistics with Year in Industry BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "00efdea1b310d95949fa1605f1620ff6cc77c857d97e0d7daab6eb0b6b28c494",
+          "capture_format": "chrome_public_dom",
+          "source_period": "2027/28国际常规年费；阶段或历史数字单独注明",
+          "supports": "本课程实际International2027/28年费、押金、分阶段和历史费用、实际申请字段",
+          "locator": "International tuition / deposit / Additional costs / Further fee information / KeyInformation"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本批只更新12既有ID；48核心官方正文及12实际费用逐项实读，China与全部公开年度由独立审阅者实际选择捕获。",
+        "保留全部原事实数值、引用和来源日期；仅已解决的缺口后缀逐条留ledger。",
+        "数学各路线、自然科学本科与MSci、心理外出代码及回退按独立页面，不借同类模板补条件；暂定声明和学分差异保留。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "4年，第三年行业实习",
+        "entry_summary": "高考／Zhao Kao不直入；四年主辅修本科；A*AA含数学与进阶数学A*A；可申请二年级转入",
+        "name": "数学（统计学辅修，含行业年）理学士",
+        "campus": "以Strand校区为主；行业年在实习机构",
+        "language": "本轮未取得全程独立授课语言条款；英语录取Band D",
+        "intake": "2027年9月",
+        "tuition_summary": "2027/28 GBP £38,100／学年（常规授课年）",
+        "outcomes_summary": "已核职业介绍及实际群体；未取得本专业可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Individually authored Chinese with exact sources, original dates and explicit discrepancies",
       "inventory_id": "kcl-mathematics-with-statistics-with-year-in-industry-bsc-8bc4d0be74"
     },
     {
@@ -27116,7 +28277,7 @@
       "raw_key": "81483d74-e632-4685-95ea-354d056783ac",
       "name_en": "Natural Sciences MSci",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -27134,30 +28295,157 @@
               "UKENR-52ef4b178f429e"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "跨学科基础与第三年",
+            "text": "首年数学方法30及生化物理、实验、编码、Future You六门各15；二年八门各15，涉及AI、大数据、复杂系统、新材料、生命健康与量子技术。三年四门15＋跨学科项目45共105；选修仍是2026/27与2027/28开发后待批准的领域说明，没有可据以填满的正式选修清单。",
+            "source_ids": [
+              "KCLFR-a487448d7993190c",
+              "KCLFR-96e0a581a8000005"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "第四年研究与授位层次",
+            "text": "这是高中后本科贯通MSci，第四年跨学科研究项目60、设计创业影响模块15及获主办系和项目负责人批准的选修45。总览称独立研究最长六个月；不是本科毕业后另申请的独立硕士，也不把研究经历当就业调查。",
+            "source_ids": [
+              "KCLFR-a487448d7993190c",
+              "KCLFR-96e0a581a8000005"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "学制、校区及语言证据范围",
+            "text": "4年本科贯通MSci；Strand、Waterloo及Guy’s校区。本轮未取得全程独立授课语言条款；英语录取Band D，不把测试等级当全程授课语种证明。",
+            "source_ids": [
+              "KCLFR-96e0a581a8000005",
+              "KCLFR-a487448d7993190c",
+              "KCLFR-35fd79b96f8c1703",
+              "KCLFR-16ea3563a04add3d",
+              "KCLFR-38573e346a5a9360"
+            ],
+            "extraction_locator": "Public course duration / actual Basecampus / exact teaching campus paragraph / Band"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-52ef4b178f429e"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "两套资格均须数学加一科",
+            "text": "A-level AAA须数学A及生物、化学、物理、计算机之一A。IB总36或三个HL合18，数学AA HL6并须上述四科之一HL6；不可把“并且”缩为仅一科。AEA／STEP、力学统计只是一般建议准备。",
+            "source_ids": [
+              "KCLFR-35fd79b96f8c1703",
+              "KCLFR-38573e346a5a9360"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "A-level计入与实践范围",
+            "text": "英格兰线性理科A-level须过实践考核，无法参加的private candidates有例外；不要求所有高考生另考此英国实践。EPQ不参与评估。",
+            "source_ids": [
+              "KCLFR-35fd79b96f8c1703",
+              "KCLFR-38573e346a5a9360"
+            ],
+            "extraction_locator": "Actual standard A-level notes, not inferred across programmes"
+          },
+          {
+            "label": "预科与已有学位的不同入口",
+            "text": "英国独立预科按内容个案评估；不接受非英国预科或他校主学位内Year0／Integrated Foundation。已有本科者一般可按英国2:1等同评估，高2:1／一等更有竞争力；这不是高中申请的必需前置。指定先修仍须满足，以大学学习替代须有充分相关模块且达2:1。本页可考虑重考。",
+            "source_ids": [
+              "KCLFR-35fd79b96f8c1703",
+              "KCLFR-38573e346a5a9360"
+            ],
+            "extraction_locator": "Exact Selection > Foundation / Graduates / Resits"
+          },
+          {
+            "label": "实际China学历判定",
+            "text": "逐课实际选择China后，高考Gao Kao、Zhao Kao（网页称Senior High School Examination）和Maple Leaf World Schools Programme High School Diploma均不用于本科直入。页面转介International Foundation，仍须核课程匹配、进阶成绩和科目，不是本学位录取保证。",
+            "source_ids": [
+              "KCLFR-38573e346a5a9360"
+            ],
+            "extraction_locator": "Actual selected China > each of three Awards"
+          },
+          {
+            "label": "英语Band及测试年度",
+            "text": "本课程Band D。已取得政策明确适用2026/27，IELTS Academic参考总6.5、各项6.0；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新政策及offer，不能把旧年清单当最终新年标准。",
+            "source_ids": [
+              "KCLFR-35fd79b96f8c1703",
+              "KCLFR-38573e346a5a9360",
+              "KCLFR-dff3755b9680738d"
+            ],
+            "extraction_locator": "Exact course Band and English2026/27 > IELTS / validity / one sitting"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "CFG2；课程申请开放状态及截止须再核。",
+            "text": "CFG2；本轮已核实际申请状态与窗口见下列补充。",
             "source_ids": [
               "UKENR-52ef4b178f429e"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "转学及延期申请",
+            "text": "本课程可考虑二年级转入申请，须独立审核。UCAS可选延期年度；offer后经King’s Apply个案批准，第二次延期仅极端不可预见情形考虑，超过两年须重申，军役／国家服务有例外。",
+            "source_ids": [
+              "KCLFR-35fd79b96f8c1703",
+              "KCLFR-38573e346a5a9360"
+            ],
+            "extraction_locator": "Exact Transfers / Deferrals section"
+          },
+          {
+            "label": "实际2027申请窗口",
+            "text": "实际Key Information列UCAS CFG2，Open，2027年9月入学，截止2027年1月13日。",
+            "source_ids": [
+              "KCLFR-660af43580b772b6"
+            ],
+            "extraction_locator": "Actual KeyInformation fields; exact old Selection date / provisional declaration when applicable"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "实际International正文列GBP £40,600／学年，适用2027/28常规授课年；后续年度可能调整，不能以首年费率乘学制当固定全程价。",
+            "source_ids": [
+              "KCLFR-660af43580b772b6"
+            ],
+            "extraction_locator": "Actual International tuition > year and per-year unit"
+          },
+          {
+            "label": "押金、附加支出与奖学金缺口",
+            "text": "将无条件录取确认为首选时缴£2,000押金，入学后抵首年学费。教材、打印、文具、交通和毕业等另计；本轮未取得本课程面向中国申请者的专属奖学金条件及2027截止，不预先扣除奖助。",
+            "source_ids": [
+              "KCLFR-660af43580b772b6"
+            ],
+            "extraction_locator": "Actual deposit and listed costs; bounded scholarship gap"
+          },
+          {
+            "label": "不同阶段费用与专属成本",
+            "text": "海外伙伴一般不收学费、可能收申请管理费，KCL会继续收部分学费；本页未列国际比例、海外年金额或确切海外研究名额。常规教材、计算器及跨校区交通等另计，不能以四年乘首年费率作固定总价。",
+            "source_ids": [
+              "KCLFR-660af43580b772b6"
+            ],
+            "extraction_locator": "Exact Further fee information and Additional costs; historical and international scopes"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "自然科学潜在方向及群体",
+            "text": "职业页列环境可持续、生命健康、数字数据等发展方向与进一步研究；PwC、IBM、Pfizer等雇主例子的主语为KCL广义科学毕业生。本轮未取得本MSci独立毕业届次、就业率、分母和薪资，不把未来行业描述当已实现结果。",
+            "source_ids": [
+              "KCLFR-6ca212ef25e2afc6",
+              "KCLFR-96e0a581a8000005"
+            ],
+            "extraction_locator": "careers public body; exact course Year and/or China view"
+          }
+        ]
       },
       "sources": [
         {
@@ -27168,32 +28456,128 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "46c5cbe4e0442b38abe408393be97fb42a834dff97184db751bcb115ef34ca9d",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLFR-96e0a581a8000005",
+          "title": "Natural Sciences MSci — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci",
+          "checked_at": "2026-09-13",
+          "sha256": "96e0a581a800000520c464af9d4f2b7584e9815dedb60cff6525e0a3e831001c",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程身份、目标、路线和公开声明",
+          "locator": "Public Overview / Course essentials / disclaimer"
+        },
+        {
+          "id": "KCLFR-a487448d7993190c",
+          "title": "Natural Sciences MSci — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "a487448d7993190cdf6fe3c0459eb52346826fdd3d43bffbea572c8d2bae267e",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程逐年度公开模块与学习方式、升读或外出限制；已与实际GUI核对",
+          "locator": "Public Required/Optional module tree / actual Year selector / Teaching / Assessment"
+        },
+        {
+          "id": "KCLFR-35fd79b96f8c1703",
+          "title": "Natural Sciences MSci — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "35fd79b96f8c1703e14a2e89f3f3d607a9cd458de309eeddacb74231a74b8847",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程标准A-level/IB、科目、英语、其他条件与Selectionprocess",
+          "locator": "Standard A-level / IB / Other requirements / Selectionprocess"
+        },
+        {
+          "id": "KCLFR-6ca212ef25e2afc6",
+          "title": "Natural Sciences MSci — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "6ca212ef25e2afc68b967d0f4712675a6ad2585781866a69bef8efdf5c1c6bb9",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "实际职业介绍和群体范围；无统计时不造率",
+          "locator": "Public Careers body; stated group and wording"
+        },
+        {
+          "id": "KCLFR-16ea3563a04add3d",
+          "title": "Natural Sciences MSci — nav",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci",
+          "checked_at": "2026-09-13",
+          "sha256": "16ea3563a04add3d65d8fe3b1550c790b3d7f6c04004550e87e57a27ac5fcfa7",
+          "capture_format": "chrome_accessibility_text",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际总览AX的Basecampus及公开导航",
+          "locator": "Actual Overview accessibility tree > Basecampus and public href"
+        },
+        {
+          "id": "KCLFR-38573e346a5a9360",
+          "title": "Natural Sciences MSci — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "38573e346a5a93609e6658cccda8c37d07789ec9ffbfee57e755793c5e862d94",
+          "capture_format": "chrome_public_dom",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际China三学历判定及同页可见标准成绩、Other requirements和Selectionprocess；引用逐事实限定",
+          "locator": "Actual China selection > Awards; visible entry conditions and other requirements"
+        },
+        {
+          "id": "KCLFR-dff3755b9680738d",
+          "title": "Natural Sciences MSci — 英语测试政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "capture_format": "public_html",
+          "source_period": "正文明确2026/27，2027/28最终测试清单本轮未取得",
+          "supports": "英语测试政策（2026/27）",
+          "locator": "英语测试政策（2026/27）"
+        },
+        {
+          "id": "KCLFR-660af43580b772b6",
+          "title": "Natural Sciences MSci — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "660af43580b772b632cdb75b1a2a30f242a3141ab6e36cb5626244a39421e119",
+          "capture_format": "chrome_public_dom",
+          "source_period": "2027/28国际常规年费；阶段或历史数字单独注明",
+          "supports": "本课程实际International2027/28年费、押金、分阶段和历史费用、实际申请字段",
+          "locator": "International tuition / deposit / Additional costs / Further fee information / KeyInformation"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本批只更新12既有ID；48核心官方正文及12实际费用逐项实读，China与全部公开年度由独立审阅者实际选择捕获。",
+        "保留全部原事实数值、引用和来源日期；仅已解决的缺口后缀逐条留ledger。",
+        "数学各路线、自然科学本科与MSci、心理外出代码及回退按独立页面，不借同类模板补条件；暂定声明和学分差异保留。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "duration": "4年本科贯通MSci",
+        "entry_summary": "高考／Zhao Kao不直入；本科本硕一体入口；AAA含数学A及生物／化学／物理／计算机之一A；可申请二年级转入",
+        "name": "自然科学本硕一体（MSci）",
+        "campus": "Strand、Waterloo及Guy’s校区",
+        "language": "本轮未取得全程独立授课语言条款；英语录取Band D",
+        "intake": "2027年9月",
+        "tuition_summary": "2027/28 GBP £40,600／学年（常规授课年）",
+        "outcomes_summary": "已核职业介绍及实际群体；未取得本专业可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Individually authored Chinese with exact sources, original dates and explicit discrepancies",
       "inventory_id": "kcl-natural-sciences-msci-4dabed4621"
     },
     {
@@ -27201,7 +28585,7 @@
       "raw_key": "82995250-9213-4d0b-803f-047f7c842aaa",
       "name_en": "Natural Sciences BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -27219,30 +28603,157 @@
               "UKENR-36585c7df43c35"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "实验、计算及研究结构",
+            "text": "首年数学方法30及实验、生化物理、编码、Future You六门各15；二年八门各15含AI、复杂系统、新材料与统计机器学习。末年四门15＋跨学科研究45共105，选修仍待2026/27、2027/28开发批准，不能把列举领域当已开设的具名模块或补算15。",
+            "source_ids": [
+              "KCLFR-6b445094a40e1fe8",
+              "KCLFR-a275c2c3238227e6"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "海外年与教学",
+            "text": "可转四年海外路线，在第二年与普通末年之间增加伙伴大学一学年，须达到规定平均分并获伙伴接收；本轮未取得具体分数。总览明确包含实验、编码、项目和口头／海报展示；本轮未取得公开考核方法细则。",
+            "source_ids": [
+              "KCLFR-6b445094a40e1fe8",
+              "KCLFR-a275c2c3238227e6"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "学制、校区及语言证据范围",
+            "text": "3年；获准海外年路线为4年；Strand、Waterloo及Guy’s校区。本轮未取得全程独立授课语言条款；英语录取Band D，不把测试等级当全程授课语种证明。",
+            "source_ids": [
+              "KCLFR-a275c2c3238227e6",
+              "KCLFR-6b445094a40e1fe8",
+              "KCLFR-a97eafeb45abba6b",
+              "KCLFR-6034ef30e6a53203",
+              "KCLFR-4b97f970e5fd183d"
+            ],
+            "extraction_locator": "Public course duration / actual Basecampus / exact teaching campus paragraph / Band"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-36585c7df43c35"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "数学及另一理科必须同时满足",
+            "text": "A-level AAA含数学A及生物、化学、物理或计算机之一A；IB总36或三个HL合18，数学AA HL6并加同四科之一HL6。力学、统计及AEA／STEP为建议准备，不另造强制入学考试。",
+            "source_ids": [
+              "KCLFR-a97eafeb45abba6b",
+              "KCLFR-4b97f970e5fd183d"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "A-level计入与实践范围",
+            "text": "英格兰线性理科A-level须过实践考核，无法参加的private candidates有例外；不要求所有高考生另考此英国实践。EPQ不参与评估。",
+            "source_ids": [
+              "KCLFR-a97eafeb45abba6b",
+              "KCLFR-4b97f970e5fd183d"
+            ],
+            "extraction_locator": "Actual standard A-level notes, not inferred across programmes"
+          },
+          {
+            "label": "预科与已有学位的不同入口",
+            "text": "英国独立预科按内容个案评估；不接受非英国预科或他校主学位内Year0／Integrated Foundation。已有本科者一般可按英国2:1等同评估，高2:1／一等更有竞争力；这不是高中申请的必需前置。指定先修仍须满足，以大学学习替代须有充分相关模块且达2:1。本页可考虑重考。",
+            "source_ids": [
+              "KCLFR-a97eafeb45abba6b",
+              "KCLFR-4b97f970e5fd183d"
+            ],
+            "extraction_locator": "Exact Selection > Foundation / Graduates / Resits"
+          },
+          {
+            "label": "实际China学历判定",
+            "text": "逐课实际选择China后，高考Gao Kao、Zhao Kao（网页称Senior High School Examination）和Maple Leaf World Schools Programme High School Diploma均不用于本科直入。页面转介International Foundation，仍须核课程匹配、进阶成绩和科目，不是本学位录取保证。",
+            "source_ids": [
+              "KCLFR-4b97f970e5fd183d"
+            ],
+            "extraction_locator": "Actual selected China > each of three Awards"
+          },
+          {
+            "label": "英语Band及测试年度",
+            "text": "本课程Band D。已取得政策明确适用2026/27，IELTS Academic参考总6.5、各项6.0；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新政策及offer，不能把旧年清单当最终新年标准。",
+            "source_ids": [
+              "KCLFR-a97eafeb45abba6b",
+              "KCLFR-4b97f970e5fd183d",
+              "KCLFR-dff3755b9680738d"
+            ],
+            "extraction_locator": "Exact course Band and English2026/27 > IELTS / validity / one sitting"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "CFG0；课程申请开放状态及截止须再核。",
+            "text": "CFG0；本轮已核实际申请状态与窗口见下列补充。",
             "source_ids": [
               "UKENR-36585c7df43c35"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "转学及延期申请",
+            "text": "本课程可考虑二年级转入申请，须独立审核。UCAS可选延期年度；offer后经King’s Apply个案批准，第二次延期仅极端不可预见情形考虑，超过两年须重申，军役／国家服务有例外。",
+            "source_ids": [
+              "KCLFR-a97eafeb45abba6b",
+              "KCLFR-4b97f970e5fd183d"
+            ],
+            "extraction_locator": "Exact Transfers / Deferrals section"
+          },
+          {
+            "label": "实际2027申请窗口",
+            "text": "实际Key Information列UCAS CFG0，Open，2027年9月入学，截止2027年1月13日。",
+            "source_ids": [
+              "KCLFR-28dba371d42b81ad"
+            ],
+            "extraction_locator": "Actual KeyInformation fields; exact old Selection date / provisional declaration when applicable"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "实际International正文列GBP £40,600／学年，适用2027/28常规授课年；后续年度可能调整，不能以首年费率乘学制当固定全程价。",
+            "source_ids": [
+              "KCLFR-28dba371d42b81ad"
+            ],
+            "extraction_locator": "Actual International tuition > year and per-year unit"
+          },
+          {
+            "label": "押金、附加支出与奖学金缺口",
+            "text": "将无条件录取确认为首选时缴£2,000押金，入学后抵首年学费。教材、打印、文具、交通和毕业等另计；本轮未取得本课程面向中国申请者的专属奖学金条件及2027截止，不预先扣除奖助。",
+            "source_ids": [
+              "KCLFR-28dba371d42b81ad"
+            ],
+            "extraction_locator": "Actual deposit and listed costs; bounded scholarship gap"
+          },
+          {
+            "label": "不同阶段费用与专属成本",
+            "text": "伙伴大学一般不收学费但可能有管理费；页面称海外当年按OfS上限收费并可能调整，未提供本课程明确国际比例或2027/28海外年金额。签证、交通、住宿、食品及所需免疫支出另计；不套兄弟课程比例。",
+            "source_ids": [
+              "KCLFR-28dba371d42b81ad"
+            ],
+            "extraction_locator": "Exact Further fee information and Additional costs; historical and international scopes"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向与实际统计边界",
+            "text": "页面讨论环境、生命健康、数字经济等可能方向，并列KCL广义科学毕业生从事数据、咨询、科研和软件工作的例子。没有本BSc独立届次与分母，本轮不列就业率或薪资；继续研究需另经申请。",
+            "source_ids": [
+              "KCLFR-7c6b04a5ef392ae4",
+              "KCLFR-a275c2c3238227e6"
+            ],
+            "extraction_locator": "careers public body; exact course Year and/or China view"
+          }
+        ]
       },
       "sources": [
         {
@@ -27253,32 +28764,128 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "60bebe3db67e7b1367324b0f153d6869abfa52f823f87ec4021878c6bf471c4a",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLFR-a275c2c3238227e6",
+          "title": "Natural Sciences BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences",
+          "checked_at": "2026-09-13",
+          "sha256": "a275c2c3238227e6e73212eed7b7903f2fe99b06cd996a41d0887feeca18cb5d",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程身份、目标、路线和公开声明",
+          "locator": "Public Overview / Course essentials / disclaimer"
+        },
+        {
+          "id": "KCLFR-6b445094a40e1fe8",
+          "title": "Natural Sciences BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "6b445094a40e1fe830f7285def33ccfbc478dc4476844b11f39128aa7c487939",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程逐年度公开模块与学习方式、升读或外出限制；已与实际GUI核对",
+          "locator": "Public Required/Optional module tree / actual Year selector / Teaching / Assessment"
+        },
+        {
+          "id": "KCLFR-a97eafeb45abba6b",
+          "title": "Natural Sciences BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "a97eafeb45abba6bd0b1175a7b0ce29490f0d83a4935640e9d7e701d860c3078",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程标准A-level/IB、科目、英语、其他条件与Selectionprocess",
+          "locator": "Standard A-level / IB / Other requirements / Selectionprocess"
+        },
+        {
+          "id": "KCLFR-7c6b04a5ef392ae4",
+          "title": "Natural Sciences BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "7c6b04a5ef392ae4e6f56fa68ddf6790ba602bf13e2463eca31dc511a2743ed9",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "实际职业介绍和群体范围；无统计时不造率",
+          "locator": "Public Careers body; stated group and wording"
+        },
+        {
+          "id": "KCLFR-6034ef30e6a53203",
+          "title": "Natural Sciences BSc — nav",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences",
+          "checked_at": "2026-09-13",
+          "sha256": "6034ef30e6a53203ca15e5b4b1013d121acedf55ec685bb64df73a2cee22c562",
+          "capture_format": "chrome_accessibility_text",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际总览AX的Basecampus及公开导航",
+          "locator": "Actual Overview accessibility tree > Basecampus and public href"
+        },
+        {
+          "id": "KCLFR-4b97f970e5fd183d",
+          "title": "Natural Sciences BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "4b97f970e5fd183da62d035755f796eea22d0a787bfde3cfbf3eb246eb57e745",
+          "capture_format": "chrome_public_dom",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际China三学历判定及同页可见标准成绩、Other requirements和Selectionprocess；引用逐事实限定",
+          "locator": "Actual China selection > Awards; visible entry conditions and other requirements"
+        },
+        {
+          "id": "KCLFR-dff3755b9680738d",
+          "title": "Natural Sciences BSc — 英语测试政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "capture_format": "public_html",
+          "source_period": "正文明确2026/27，2027/28最终测试清单本轮未取得",
+          "supports": "英语测试政策（2026/27）",
+          "locator": "英语测试政策（2026/27）"
+        },
+        {
+          "id": "KCLFR-28dba371d42b81ad",
+          "title": "Natural Sciences BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "28dba371d42b81ad8ea7ad5eebc0f41fb6fe3ea2223273424b73ca96bcbe754d",
+          "capture_format": "chrome_public_dom",
+          "source_period": "2027/28国际常规年费；阶段或历史数字单独注明",
+          "supports": "本课程实际International2027/28年费、押金、分阶段和历史费用、实际申请字段",
+          "locator": "International tuition / deposit / Additional costs / Further fee information / KeyInformation"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本批只更新12既有ID；48核心官方正文及12实际费用逐项实读，China与全部公开年度由独立审阅者实际选择捕获。",
+        "保留全部原事实数值、引用和来源日期；仅已解决的缺口后缀逐条留ledger。",
+        "数学各路线、自然科学本科与MSci、心理外出代码及回退按独立页面，不借同类模板补条件；暂定声明和学分差异保留。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "duration": "3年；获准海外年路线为4年",
+        "entry_summary": "高考／Zhao Kao不直入；跨学科本科；AAA含数学A及指定理科之一A；可申请二年级转入；海外年另审",
+        "name": "自然科学理学士",
+        "campus": "Strand、Waterloo及Guy’s校区",
+        "language": "本轮未取得全程独立授课语言条款；英语录取Band D",
+        "intake": "2027年9月",
+        "tuition_summary": "2027/28 GBP £40,600／学年（常规授课年）",
+        "outcomes_summary": "已核职业介绍及实际群体；未取得本专业可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Individually authored Chinese with exact sources, original dates and explicit discrepancies",
       "inventory_id": "kcl-natural-sciences-bsc-6983a21800"
     },
     {
@@ -27286,7 +28893,7 @@
       "raw_key": "8fbe869c-030f-4a82-a37f-484652d8b187",
       "name_en": "Natural Sciences with a Year in Industry BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -27304,30 +28911,157 @@
               "UKENR-bf6995d5a5ba6d"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "四年课程与未定选修",
+            "text": "前两年分别120，涵盖生化物理、数学、实验编码、AI、复杂系统、材料及量子技术。第三年行业120；第四年四门15＋跨学科研究45共105，其他选修仍是待开发批准的前瞻领域，不能与MSci第四年研究60混同。",
+            "source_ids": [
+              "KCLFR-8cf56c2ed4520775",
+              "KCLFR-3e112289f22bf6ce"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "行业年身份和准入",
+            "text": "实习安排在两年校内学习后、普通末年之前；须达一定成绩并自行取得合适岗位，项目提供支持。本轮未取得具体成绩数值、落实截止和回退规则，不借商学院条件或把支持写成保证实习。",
+            "source_ids": [
+              "KCLFR-8cf56c2ed4520775",
+              "KCLFR-3e112289f22bf6ce"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "学制、校区及语言证据范围",
+            "text": "4年，第三年行业实习；Strand、Waterloo及Guy’s校区；行业年在实习机构。本轮未取得全程独立授课语言条款；英语录取Band D，不把测试等级当全程授课语种证明。",
+            "source_ids": [
+              "KCLFR-3e112289f22bf6ce",
+              "KCLFR-8cf56c2ed4520775",
+              "KCLFR-1473d64030bdd1bf",
+              "KCLFR-df04a2da36e2cd45",
+              "KCLFR-3d748e7465a2a670"
+            ],
+            "extraction_locator": "Public course duration / actual Basecampus / exact teaching campus paragraph / Band"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-bf6995d5a5ba6d"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "本行业路线的双科先修",
+            "text": "A-level AAA，数学A并加生物、化学、物理或计算机之一A；IB总36或三个HL合18，数学AA HL6并加上述四科之一HL6。AEA／STEP与力学、统计为建议准备，不是本路线额外强制考试。",
+            "source_ids": [
+              "KCLFR-1473d64030bdd1bf",
+              "KCLFR-3d748e7465a2a670"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "A-level计入与实践范围",
+            "text": "英格兰线性理科A-level须过实践考核，无法参加的private candidates有例外；不要求所有高考生另考此英国实践。EPQ不参与评估。",
+            "source_ids": [
+              "KCLFR-1473d64030bdd1bf",
+              "KCLFR-3d748e7465a2a670"
+            ],
+            "extraction_locator": "Actual standard A-level notes, not inferred across programmes"
+          },
+          {
+            "label": "预科与已有学位的不同入口",
+            "text": "英国独立预科按内容个案评估；不接受非英国预科或他校主学位内Year0／Integrated Foundation。已有本科者一般可按英国2:1等同评估，高2:1／一等更有竞争力；这不是高中申请的必需前置。指定先修仍须满足，以大学学习替代须有充分相关模块且达2:1。本页可考虑重考。",
+            "source_ids": [
+              "KCLFR-1473d64030bdd1bf",
+              "KCLFR-3d748e7465a2a670"
+            ],
+            "extraction_locator": "Exact Selection > Foundation / Graduates / Resits"
+          },
+          {
+            "label": "实际China学历判定",
+            "text": "逐课实际选择China后，高考Gao Kao、Zhao Kao（网页称Senior High School Examination）和Maple Leaf World Schools Programme High School Diploma均不用于本科直入。页面转介International Foundation，仍须核课程匹配、进阶成绩和科目，不是本学位录取保证。",
+            "source_ids": [
+              "KCLFR-3d748e7465a2a670"
+            ],
+            "extraction_locator": "Actual selected China > each of three Awards"
+          },
+          {
+            "label": "英语Band及测试年度",
+            "text": "本课程Band D。已取得政策明确适用2026/27，IELTS Academic参考总6.5、各项6.0；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新政策及offer，不能把旧年清单当最终新年标准。",
+            "source_ids": [
+              "KCLFR-1473d64030bdd1bf",
+              "KCLFR-3d748e7465a2a670",
+              "KCLFR-dff3755b9680738d"
+            ],
+            "extraction_locator": "Exact course Band and English2026/27 > IELTS / validity / one sitting"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "CFG1；课程申请开放状态及截止须再核。",
+            "text": "CFG1；本轮已核实际申请状态与窗口见下列补充。",
             "source_ids": [
               "UKENR-bf6995d5a5ba6d"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "转学及延期申请",
+            "text": "本课程可考虑二年级转入申请，须独立审核。UCAS可选延期年度；offer后经King’s Apply个案批准，第二次延期仅极端不可预见情形考虑，超过两年须重申，军役／国家服务有例外。",
+            "source_ids": [
+              "KCLFR-1473d64030bdd1bf",
+              "KCLFR-3d748e7465a2a670"
+            ],
+            "extraction_locator": "Exact Transfers / Deferrals section"
+          },
+          {
+            "label": "实际2027申请窗口",
+            "text": "实际Key Information列UCAS CFG1，Open，2027年9月入学，截止2027年1月13日。",
+            "source_ids": [
+              "KCLFR-86a2900ef368ec1a"
+            ],
+            "extraction_locator": "Actual KeyInformation fields; exact old Selection date / provisional declaration when applicable"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "实际International正文列GBP £40,600／学年，适用2027/28常规授课年；后续年度可能调整，不能以首年费率乘学制当固定全程价。",
+            "source_ids": [
+              "KCLFR-86a2900ef368ec1a"
+            ],
+            "extraction_locator": "Actual International tuition > year and per-year unit"
+          },
+          {
+            "label": "押金、附加支出与奖学金缺口",
+            "text": "将无条件录取确认为首选时缴£2,000押金，入学后抵首年学费。教材、打印、文具、交通和毕业等另计；本轮未取得本课程面向中国申请者的专属奖学金条件及2027截止，不预先扣除奖助。",
+            "source_ids": [
+              "KCLFR-86a2900ef368ec1a"
+            ],
+            "extraction_locator": "Actual deposit and listed costs; bounded scholarship gap"
+          },
+          {
+            "label": "不同阶段费用与专属成本",
+            "text": "实习年仍注册KCL。页面明确国际学生按正常学费的三分之一收费；同段OfS £1,958只标2026/27入学者，不能当2027中国国际生金额。三分之一应以实际实习年度适用正常费率核算，本轮不以当前£40,600推算未来固定实习费。",
+            "source_ids": [
+              "KCLFR-86a2900ef368ec1a"
+            ],
+            "extraction_locator": "Exact Further fee information and Additional costs; historical and international scopes"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "科学群体与未来领域",
+            "text": "职业页把环境、健康、数据和科研列为方向；列举雇主对应KCL广义科学毕业生，没有行业年路线独立调查。本轮未取得本专业就业率、薪资及调查口径，暂不列数字。",
+            "source_ids": [
+              "KCLFR-53556f2975f6aaa7",
+              "KCLFR-3e112289f22bf6ce"
+            ],
+            "extraction_locator": "careers public body; exact course Year and/or China view"
+          }
+        ]
       },
       "sources": [
         {
@@ -27338,32 +29072,128 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "99650b3f08f3612195a9c1a35f98434c99ee1fc4f8409a900d006bfd343f5740",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLFR-3e112289f22bf6ce",
+          "title": "Natural Sciences with a Year in Industry BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry",
+          "checked_at": "2026-09-13",
+          "sha256": "3e112289f22bf6ce06b29306e292295bffcdab67085a0b881e34cbc379bc8407",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程身份、目标、路线和公开声明",
+          "locator": "Public Overview / Course essentials / disclaimer"
+        },
+        {
+          "id": "KCLFR-8cf56c2ed4520775",
+          "title": "Natural Sciences with a Year in Industry BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "8cf56c2ed45207751dced5b6a6a3cd45b17b9c055df06d4caa4ceee98b0ee8d2",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程逐年度公开模块与学习方式、升读或外出限制；已与实际GUI核对",
+          "locator": "Public Required/Optional module tree / actual Year selector / Teaching / Assessment"
+        },
+        {
+          "id": "KCLFR-1473d64030bdd1bf",
+          "title": "Natural Sciences with a Year in Industry BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "1473d64030bdd1bf8452b3fc870e05729207054095049c40a51b6a203b57e7c9",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程标准A-level/IB、科目、英语、其他条件与Selectionprocess",
+          "locator": "Standard A-level / IB / Other requirements / Selectionprocess"
+        },
+        {
+          "id": "KCLFR-53556f2975f6aaa7",
+          "title": "Natural Sciences with a Year in Industry BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "53556f2975f6aaa773cadcc2465f8e137d00e985f61107d13701f7915987673f",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "实际职业介绍和群体范围；无统计时不造率",
+          "locator": "Public Careers body; stated group and wording"
+        },
+        {
+          "id": "KCLFR-df04a2da36e2cd45",
+          "title": "Natural Sciences with a Year in Industry BSc — nav",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry",
+          "checked_at": "2026-09-13",
+          "sha256": "df04a2da36e2cd454ccab27d5e42482ec557369e44feeddba89d4036e25d20a5",
+          "capture_format": "chrome_accessibility_text",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际总览AX的Basecampus及公开导航",
+          "locator": "Actual Overview accessibility tree > Basecampus and public href"
+        },
+        {
+          "id": "KCLFR-3d748e7465a2a670",
+          "title": "Natural Sciences with a Year in Industry BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "3d748e7465a2a670dd27a02d4a3615ac8d4735f35067cf0b24e247f825b18ea0",
+          "capture_format": "chrome_public_dom",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际China三学历判定及同页可见标准成绩、Other requirements和Selectionprocess；引用逐事实限定",
+          "locator": "Actual China selection > Awards; visible entry conditions and other requirements"
+        },
+        {
+          "id": "KCLFR-dff3755b9680738d",
+          "title": "Natural Sciences with a Year in Industry BSc — 英语测试政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "capture_format": "public_html",
+          "source_period": "正文明确2026/27，2027/28最终测试清单本轮未取得",
+          "supports": "英语测试政策（2026/27）",
+          "locator": "英语测试政策（2026/27）"
+        },
+        {
+          "id": "KCLFR-86a2900ef368ec1a",
+          "title": "Natural Sciences with a Year in Industry BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "86a2900ef368ec1a2c667e46889d6be0c3cf101b499335c70729e5868cc3e723",
+          "capture_format": "chrome_public_dom",
+          "source_period": "2027/28国际常规年费；阶段或历史数字单独注明",
+          "supports": "本课程实际International2027/28年费、押金、分阶段和历史费用、实际申请字段",
+          "locator": "International tuition / deposit / Additional costs / Further fee information / KeyInformation"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本批只更新12既有ID；48核心官方正文及12实际费用逐项实读，China与全部公开年度由独立审阅者实际选择捕获。",
+        "保留全部原事实数值、引用和来源日期；仅已解决的缺口后缀逐条留ledger。",
+        "数学各路线、自然科学本科与MSci、心理外出代码及回退按独立页面，不借同类模板补条件；暂定声明和学分差异保留。"
       ],
       "display_fields": {
-        "duration": "4 年",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "duration": "4年，第三年行业实习",
+        "entry_summary": "高考／Zhao Kao不直入；本科行业路线；AAA含数学A及指定理科之一A；可申请二年级转入；岗位自行取得",
+        "name": "自然科学理学士（含行业年）",
+        "campus": "Strand、Waterloo及Guy’s校区；行业年在实习机构",
+        "language": "本轮未取得全程独立授课语言条款；英语录取Band D",
+        "intake": "2027年9月",
+        "tuition_summary": "2027/28 GBP £40,600／学年（常规授课年）",
+        "outcomes_summary": "已核职业介绍及实际群体；未取得本专业可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Individually authored Chinese with exact sources, original dates and explicit discrepancies",
       "inventory_id": "kcl-natural-sciences-with-a-year-in-industry-bsc-f7bff12f56"
     },
     {
@@ -34830,7 +36660,7 @@
       "raw_key": "cdd2e427-0313-4c2c-9eeb-99b058d6248d",
       "name_en": "Psychology BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -34848,30 +36678,184 @@
               "UKENR-e0d2b64a2d969a"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "研究方法与心理科学",
+            "text": "首年八门各15，研究方法贯穿脑、社会、发展与个体等领域；二年五门必修75＋三门选修45。另有不计学位的学习与职业发展活动，不能当补足学位学分。普通末年研究项目45＋选修75；四年路线返校末年亦为项目45及相应选修。",
+            "source_ids": [
+              "KCLFR-00ef0cf3dee10713",
+              "KCLFR-342c2ced19752b01"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "两类外出机会及回退",
+            "text": "C801为海外年、C802为专业实习年，均在第三年、计120。须在二年级成功申请岗位或伙伴大学学习／交换名额，并在前两年保持足够学业进度；入学时不保证安排。未能取得并完成相应机会者回到三年BSc；普通三年学生也可申请转入，但不保证。",
+            "source_ids": [
+              "KCLFR-00ef0cf3dee10713",
+              "KCLFR-342c2ced19752b01"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "校区与认证",
+            "text": "前18个月主要在Guy’s，后期依模块可能在Denmark Hill、Strand或Waterloo。课程获BPS认证；讲授、小组与实践结合。认证与学位不等于已取得临床／法证等心理师执业资格。",
+            "source_ids": [
+              "KCLFR-00ef0cf3dee10713",
+              "KCLFR-342c2ced19752b01"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "学制、校区及语言证据范围",
+            "text": "3年；海外或专业实习路线为4年；前18个月以Guy’s为主；后期可在Denmark Hill、Strand或Waterloo。本轮未取得全程独立授课语言条款；英语录取Band B，不把测试等级当全程授课语种证明。",
+            "source_ids": [
+              "KCLFR-342c2ced19752b01",
+              "KCLFR-00ef0cf3dee10713",
+              "KCLFR-f03859a33a6a1acd",
+              "KCLFR-1e7ee21603c7b688",
+              "KCLFR-7d3726f003378186"
+            ],
+            "extraction_locator": "Public course duration / actual Basecampus / exact teaching campus paragraph / Band"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-e0d2b64a2d969a"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "心理学独有科目",
+            "text": "A-level A*AA须生物、化学、数学、物理、心理学之一A，偏好生物和数学但不是两科都必修。IB总38或三个HL合19，同五科之一HL6；数学可AA或AI。",
+            "source_ids": [
+              "KCLFR-f03859a33a6a1acd",
+              "KCLFR-7d3726f003378186"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "数学基础及国际等同",
+            "text": "GCSE/IGCSE数学6/B；IB数学AA或AI SL／HL2或Middle Years数学5可满足此基础条件，不能用来替代上述HL6先修。未读GCSE的国际生须提供等同学习证据；不接受Functional Skills或Access中的Numeracy代替。",
+            "source_ids": [
+              "KCLFR-f03859a33a6a1acd",
+              "KCLFR-7d3726f003378186"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "重考与个人陈述",
+            "text": "可评估重考，但与在正常修读时限内达标者相比可能不利；近期低于门槛再转读Access／预科也属重考。陈述需呈现动机、沟通、跨学科联系及对课程理解，不等于只看总成绩。",
+            "source_ids": [
+              "KCLFR-f03859a33a6a1acd",
+              "KCLFR-7d3726f003378186"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "A-level计入与实践范围",
+            "text": "General Studies、Critical Thinking、Thinking Skills和Global Perspectives不计所需A-level。英格兰线性理科A-level须过实践考核，无法参加的private candidates有例外；不要求所有高考生另考此英国实践。EPQ不参与评估。",
+            "source_ids": [
+              "KCLFR-f03859a33a6a1acd",
+              "KCLFR-7d3726f003378186"
+            ],
+            "extraction_locator": "Actual standard A-level notes, not inferred across programmes"
+          },
+          {
+            "label": "预科与已有学位的不同入口",
+            "text": "英国独立预科按内容个案评估；不接受非英国预科或他校主学位内Year0／Integrated Foundation。已有本科者一般可按英国2:1等同评估，高2:1／一等更有竞争力；这不是高中申请的必需前置。指定先修仍须满足，以大学学习替代须有充分相关模块且达2:1。",
+            "source_ids": [
+              "KCLFR-f03859a33a6a1acd",
+              "KCLFR-7d3726f003378186"
+            ],
+            "extraction_locator": "Exact Selection > Foundation / Graduates / Resits"
+          },
+          {
+            "label": "实际China学历判定",
+            "text": "逐课实际选择China后，高考Gao Kao、Zhao Kao（网页称Senior High School Examination）和Maple Leaf World Schools Programme High School Diploma均不用于本科直入。页面转介International Foundation，仍须核课程匹配、进阶成绩和科目，不是本学位录取保证。",
+            "source_ids": [
+              "KCLFR-7d3726f003378186"
+            ],
+            "extraction_locator": "Actual selected China > each of three Awards"
+          },
+          {
+            "label": "英语Band及测试年度",
+            "text": "本课程Band B。已取得政策明确适用2026/27，IELTS Academic参考总7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新政策及offer，不能把旧年清单当最终新年标准。",
+            "source_ids": [
+              "KCLFR-f03859a33a6a1acd",
+              "KCLFR-7d3726f003378186",
+              "KCLFR-dff3755b9680738d"
+            ],
+            "extraction_locator": "Exact course Band and English2026/27 > IELTS / validity / one sitting"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "C800, C801 (with 年 abroad), C802 (with professional placement 年)；课程申请开放状态及截止须再核。",
+            "text": "C800, C801 (with 年 abroad), C802 (with professional placement 年)；本轮已核实际申请状态与窗口见下列补充。",
             "source_ids": [
               "UKENR-e0d2b64a2d969a"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "转学及延期申请",
+            "text": "本课程不接受转学。UCAS可选延期年度；offer后经King’s Apply个案批准，第二次延期仅极端不可预见情形考虑，超过两年须重申，军役／国家服务有例外。",
+            "source_ids": [
+              "KCLFR-f03859a33a6a1acd",
+              "KCLFR-7d3726f003378186"
+            ],
+            "extraction_locator": "Exact Transfers / Deferrals section"
+          },
+          {
+            "label": "实际2027申请窗口",
+            "text": "实际Key Information列UCAS C800, C801 (with year abroad), C802 (with professional placement year)，Open，2027年9月入学，截止2027年1月13日。",
+            "source_ids": [
+              "KCLFR-04d8f2499b646bb1"
+            ],
+            "extraction_locator": "Actual KeyInformation fields; exact old Selection date / provisional declaration when applicable"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "实际International正文列GBP £45,400／学年，适用2027/28常规授课年；后续年度可能调整，不能以首年费率乘学制当固定全程价。",
+            "source_ids": [
+              "KCLFR-04d8f2499b646bb1"
+            ],
+            "extraction_locator": "Actual International tuition > year and per-year unit"
+          },
+          {
+            "label": "押金、附加支出与奖学金缺口",
+            "text": "将无条件录取确认为首选时缴£2,000押金，入学后抵首年学费。教材、打印、文具、交通和毕业等另计；本轮未取得本课程面向中国申请者的专属奖学金条件及2027截止，不预先扣除奖助。",
+            "source_ids": [
+              "KCLFR-04d8f2499b646bb1"
+            ],
+            "extraction_locator": "Actual deposit and listed costs; bounded scholarship gap"
+          },
+          {
+            "label": "不同阶段费用与专属成本",
+            "text": "专业实习或全年海外时KCL收部分学费，但本页明确的国际2/3只用于海外一学期；不能套整年外出。Home £6,167未明确年度且不用于中国国际生。DBS检查等另计，首年BPS会籍已含；海外签证生活费另计。",
+            "source_ids": [
+              "KCLFR-04d8f2499b646bb1"
+            ],
+            "extraction_locator": "Exact Further fee information and Additional costs; historical and international scopes"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业训练与结果缺口",
+            "text": "职业页列健康社会服务、教育、行政、市场、金融保险等方向，并明确研究、法证、教育或临床心理师需要继续学习。没有本课独立届次、就业率或薪资；BPS认证只是有关训练路径的基础，不能写成毕业即可执业。",
+            "source_ids": [
+              "KCLFR-400472a3a9726b08",
+              "KCLFR-342c2ced19752b01"
+            ],
+            "extraction_locator": "careers public body; exact course Year and/or China view"
+          }
+        ]
       },
       "sources": [
         {
@@ -34882,32 +36866,128 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "d93f4ee52cd8c7226677b2ff7df4e467e1cd018a91c0f9b16fce04fccb5168b1",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLFR-342c2ced19752b01",
+          "title": "Psychology BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "342c2ced19752b01d9e4bd51012505227bf1981f8158555e49896ad7d6d1df9b",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程身份、目标、路线和公开声明",
+          "locator": "Public Overview / Course essentials / disclaimer"
+        },
+        {
+          "id": "KCLFR-00ef0cf3dee10713",
+          "title": "Psychology BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "00ef0cf3dee10713f65e1dacb9bab5531188687f78d3d9dbb91eaf43acbcedc6",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程逐年度公开模块与学习方式、升读或外出限制；已与实际GUI核对",
+          "locator": "Public Required/Optional module tree / actual Year selector / Teaching / Assessment"
+        },
+        {
+          "id": "KCLFR-f03859a33a6a1acd",
+          "title": "Psychology BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "f03859a33a6a1acd0a120bce73fe1a06714a42732b332212e545bd3208fe5b4f",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程标准A-level/IB、科目、英语、其他条件与Selectionprocess",
+          "locator": "Standard A-level / IB / Other requirements / Selectionprocess"
+        },
+        {
+          "id": "KCLFR-400472a3a9726b08",
+          "title": "Psychology BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "400472a3a9726b08c20b59605ccbd891677349929c57d3aebc2f03ee9b89155a",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "实际职业介绍和群体范围；无统计时不造率",
+          "locator": "Public Careers body; stated group and wording"
+        },
+        {
+          "id": "KCLFR-1e7ee21603c7b688",
+          "title": "Psychology BSc — nav",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "1e7ee21603c7b688419498534b24d565e66ba6e22e82b6a8ebd054562ad56e92",
+          "capture_format": "chrome_accessibility_text",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际总览AX的Basecampus及公开导航",
+          "locator": "Actual Overview accessibility tree > Basecampus and public href"
+        },
+        {
+          "id": "KCLFR-7d3726f003378186",
+          "title": "Psychology BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "7d3726f003378186d80afb1e06ac783e897be4749288832321ed9c4bf0aaf4bd",
+          "capture_format": "chrome_public_dom",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际China三学历判定及同页可见标准成绩、Other requirements和Selectionprocess；引用逐事实限定",
+          "locator": "Actual China selection > Awards; visible entry conditions and other requirements"
+        },
+        {
+          "id": "KCLFR-dff3755b9680738d",
+          "title": "Psychology BSc — 英语测试政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "capture_format": "public_html",
+          "source_period": "正文明确2026/27，2027/28最终测试清单本轮未取得",
+          "supports": "英语测试政策（2026/27）",
+          "locator": "英语测试政策（2026/27）"
+        },
+        {
+          "id": "KCLFR-04d8f2499b646bb1",
+          "title": "Psychology BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "04d8f2499b646bb194929424cdeda0990d2011a08cb1112822600efcae2228a0",
+          "capture_format": "chrome_public_dom",
+          "source_period": "2027/28国际常规年费；阶段或历史数字单独注明",
+          "supports": "本课程实际International2027/28年费、押金、分阶段和历史费用、实际申请字段",
+          "locator": "International tuition / deposit / Additional costs / Further fee information / KeyInformation"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本批只更新12既有ID；48核心官方正文及12实际费用逐项实读，China与全部公开年度由独立审阅者实际选择捕获。",
+        "保留全部原事实数值、引用和来源日期；仅已解决的缺口后缀逐条留ledger。",
+        "数学各路线、自然科学本科与MSci、心理外出代码及回退按独立页面，不借同类模板补条件；暂定声明和学分差异保留。"
       ],
       "display_fields": {
-        "duration": "3 年 (or four 年 with a 年 abroad or a professional placement 年)",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "3年；海外或专业实习路线为4年",
+        "entry_summary": "高考／Zhao Kao不直入；A*AA含生化数物心理之一A；GCSE数学6/B等同；C801海外、C802专业实习；不接受转学",
+        "name": "心理学理学士",
+        "campus": "前18个月以Guy’s为主；后期可在Denmark Hill、Strand或Waterloo",
+        "language": "本轮未取得全程独立授课语言条款；英语录取Band B",
+        "intake": "2027年9月",
+        "tuition_summary": "2027/28 GBP £45,400／学年（常规授课年）",
+        "outcomes_summary": "已核职业介绍及实际群体；未取得本专业可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Individually authored Chinese with exact sources, original dates and explicit discrepancies",
       "inventory_id": "kcl-psychology-bsc-aaa6e6c660"
     },
     {
@@ -34915,7 +36995,7 @@
       "raw_key": "abf73663-9a67-4793-b328-e176615ce676",
       "name_en": "Psychology and Criminology BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -34933,30 +37013,175 @@
               "UKENR-9848320457e05d"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "心理与犯罪研究的课程",
+            "text": "首年八门15涵盖心理发展、脑、犯罪与刑事司法；二年八门15含犯罪理论、社会背景及研究方法。普通末年论文45＋所列四门15选修为105，与全年120总述未闭合。四年路线返校末年却列论文60及同四选60；保留45／60差异，不从普通心理学搬配额。",
+            "source_ids": [
+              "KCLFR-d414c03cd420455f",
+              "KCLFR-a725601a34621c6b"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "专业实习和海外年条件",
+            "text": "本课C821是专业实习、C822是海外，与普通心理学编号不能互换。两类均第三年120，二年须成功申请且前两年学业进度足够；不保证入学时落实。未取得并完成相应外出者回到三年路线。零学分成长模块仅记录于成绩单，不补学位总分。",
+            "source_ids": [
+              "KCLFR-d414c03cd420455f",
+              "KCLFR-a725601a34621c6b"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "两学院与职业认证",
+            "text": "课程由IoPPN及法学院相关团队教学，前两年以Waterloo为主，部分课在Guy’s、Denmark Hill或Strand。BPS认证提供Chartered Membership的Graduate Basis，是继续专业训练的基础，不授予法律学位或临床心理师资格。",
+            "source_ids": [
+              "KCLFR-d414c03cd420455f",
+              "KCLFR-a725601a34621c6b"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "学制、校区及语言证据范围",
+            "text": "3年；专业实习或海外路线为4年；前两年以Waterloo为主；部分教学在Guy’s、Denmark Hill及Strand。本轮未取得全程独立授课语言条款；英语录取Band B，不把测试等级当全程授课语种证明。",
+            "source_ids": [
+              "KCLFR-a725601a34621c6b",
+              "KCLFR-d414c03cd420455f",
+              "KCLFR-fa2f1b366a0f0938",
+              "KCLFR-c9477e932a60b8c7",
+              "KCLFR-3a9e9cb168d81dbd"
+            ],
+            "extraction_locator": "Public course duration / actual Basecampus / exact teaching campus paragraph / Band"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-9848320457e05d"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "无高中指定科目不等于无数学要求",
+            "text": "A-level A*AA，未指定或偏好科目；IB总38或三个HL合19，没有普通心理学的理科HL6要求。但GCSE/IGCSE数学仍须6/B；IB AA或AI SL／HL2或Middle Years5可满足基础数学条件。",
+            "source_ids": [
+              "KCLFR-fa2f1b366a0f0938",
+              "KCLFR-3a9e9cb168d81dbd"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "国际数学等同与重考",
+            "text": "未读GCSE者须提供等同学习证据，Functional Skills及Access的Numeracy不可代替。重考可以考虑但正常时限内达标者可能更有利；低分后转预科或Access也算重考。陈述看动机、沟通与跨学科理解。",
+            "source_ids": [
+              "KCLFR-fa2f1b366a0f0938",
+              "KCLFR-3a9e9cb168d81dbd"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "A-level计入与实践范围",
+            "text": "General Studies、Critical Thinking、Thinking Skills和Global Perspectives不计所需A-level。英格兰线性理科A-level须过实践考核，无法参加的private candidates有例外；不要求所有高考生另考此英国实践。EPQ不参与评估。",
+            "source_ids": [
+              "KCLFR-fa2f1b366a0f0938",
+              "KCLFR-3a9e9cb168d81dbd"
+            ],
+            "extraction_locator": "Actual standard A-level notes, not inferred across programmes"
+          },
+          {
+            "label": "预科与已有学位的不同入口",
+            "text": "英国独立预科按内容个案评估；不接受非英国预科或他校主学位内Year0／Integrated Foundation。已有本科者一般可按英国2:1等同评估，高2:1／一等更有竞争力；这不是高中申请的必需前置。指定先修仍须满足，以大学学习替代须有充分相关模块且达2:1。",
+            "source_ids": [
+              "KCLFR-fa2f1b366a0f0938",
+              "KCLFR-3a9e9cb168d81dbd"
+            ],
+            "extraction_locator": "Exact Selection > Foundation / Graduates / Resits"
+          },
+          {
+            "label": "实际China学历判定",
+            "text": "逐课实际选择China后，高考Gao Kao、Zhao Kao（网页称Senior High School Examination）和Maple Leaf World Schools Programme High School Diploma均不用于本科直入。页面转介International Foundation，仍须核课程匹配、进阶成绩和科目，不是本学位录取保证。",
+            "source_ids": [
+              "KCLFR-3a9e9cb168d81dbd"
+            ],
+            "extraction_locator": "Actual selected China > each of three Awards"
+          },
+          {
+            "label": "英语Band及测试年度",
+            "text": "本课程Band B。已取得政策明确适用2026/27，IELTS Academic参考总7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新政策及offer，不能把旧年清单当最终新年标准。",
+            "source_ids": [
+              "KCLFR-fa2f1b366a0f0938",
+              "KCLFR-3a9e9cb168d81dbd",
+              "KCLFR-dff3755b9680738d"
+            ],
+            "extraction_locator": "Exact course Band and English2026/27 > IELTS / validity / one sitting"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "C820, C821 (with professional placement 年), C822 (with 年 abroad)；课程申请开放状态及截止须再核。",
+            "text": "C820, C821 (with professional placement 年), C822 (with 年 abroad)；本轮已核实际申请状态与窗口见下列补充。",
             "source_ids": [
               "UKENR-9848320457e05d"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "转学及延期申请",
+            "text": "本课程不接受转学。UCAS可选延期年度；offer后经King’s Apply个案批准，第二次延期仅极端不可预见情形考虑，超过两年须重申，军役／国家服务有例外。",
+            "source_ids": [
+              "KCLFR-fa2f1b366a0f0938",
+              "KCLFR-3a9e9cb168d81dbd"
+            ],
+            "extraction_locator": "Exact Transfers / Deferrals section"
+          },
+          {
+            "label": "实际2027申请窗口",
+            "text": "实际Key Information列UCAS C820, C821 (with professional placement year), C822 (with year abroad)，Open，2027年9月入学，截止2027年1月13日。",
+            "source_ids": [
+              "KCLFR-746f46b80b509f1b"
+            ],
+            "extraction_locator": "Actual KeyInformation fields; exact old Selection date / provisional declaration when applicable"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "实际International正文列GBP £45,400／学年，适用2027/28常规授课年；后续年度可能调整，不能以首年费率乘学制当固定全程价。",
+            "source_ids": [
+              "KCLFR-746f46b80b509f1b"
+            ],
+            "extraction_locator": "Actual International tuition > year and per-year unit"
+          },
+          {
+            "label": "押金、附加支出与奖学金缺口",
+            "text": "将无条件录取确认为首选时缴£2,000押金，入学后抵首年学费。教材、打印、文具、交通和毕业等另计；本轮未取得本课程面向中国申请者的专属奖学金条件及2027截止，不预先扣除奖助。",
+            "source_ids": [
+              "KCLFR-746f46b80b509f1b"
+            ],
+            "extraction_locator": "Actual deposit and listed costs; bounded scholarship gap"
+          },
+          {
+            "label": "不同阶段费用与专属成本",
+            "text": "本课费用正文没有Further fee information段，未取得专业实习或海外年国际收费比例；不能借普通心理学页面2/3。DBS检查和教材交通等另计，首年BPS会籍已含。常规年费不代表所有四年阶段同价。",
+            "source_ids": [
+              "KCLFR-746f46b80b509f1b"
+            ],
+            "extraction_locator": "Exact Further fee information and Additional costs; historical and international scopes"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "犯罪与心理职业的范围",
+            "text": "页面列犯罪预防、调查、罪犯管理、刑事司法及健康、教育等方向；研究、法证、教育或临床心理师及专业犯罪研究仍需后续学习。没有本联合专业的可比就业率、薪资与届次数据，不能把认证或职业例子当个人任职许可。",
+            "source_ids": [
+              "KCLFR-ee2130ced81d5d46",
+              "KCLFR-a725601a34621c6b"
+            ],
+            "extraction_locator": "careers public body; exact course Year and/or China view"
+          }
+        ]
       },
       "sources": [
         {
@@ -34967,32 +37192,128 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "0db2fc0a08dd01bbe944b8df1d122394f93d29f5a02f5cf9bb835c1e6f13eb37",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLFR-a725601a34621c6b",
+          "title": "Psychology and Criminology BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology",
+          "checked_at": "2026-09-13",
+          "sha256": "a725601a34621c6b507a66828076ad68cca174d1660d43ae7f664bf2926bdc4c",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程身份、目标、路线和公开声明",
+          "locator": "Public Overview / Course essentials / disclaimer"
+        },
+        {
+          "id": "KCLFR-d414c03cd420455f",
+          "title": "Psychology and Criminology BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "d414c03cd420455fa900b1f694618b82e02262df17f5f01b496ad3f841b503a7",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程逐年度公开模块与学习方式、升读或外出限制；已与实际GUI核对",
+          "locator": "Public Required/Optional module tree / actual Year selector / Teaching / Assessment"
+        },
+        {
+          "id": "KCLFR-fa2f1b366a0f0938",
+          "title": "Psychology and Criminology BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "fa2f1b366a0f093817860064b68a622ac8e67be4235df5863538ed0b53ea4960",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程标准A-level/IB、科目、英语、其他条件与Selectionprocess",
+          "locator": "Standard A-level / IB / Other requirements / Selectionprocess"
+        },
+        {
+          "id": "KCLFR-ee2130ced81d5d46",
+          "title": "Psychology and Criminology BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "ee2130ced81d5d46977ac91261d703b29ae0748b93ae2ed94bd1d62fc452bd21",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "实际职业介绍和群体范围；无统计时不造率",
+          "locator": "Public Careers body; stated group and wording"
+        },
+        {
+          "id": "KCLFR-c9477e932a60b8c7",
+          "title": "Psychology and Criminology BSc — nav",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology",
+          "checked_at": "2026-09-13",
+          "sha256": "c9477e932a60b8c7b41fda8b81afcf740d5e067c8796dcd946f3a6628f811276",
+          "capture_format": "chrome_accessibility_text",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际总览AX的Basecampus及公开导航",
+          "locator": "Actual Overview accessibility tree > Basecampus and public href"
+        },
+        {
+          "id": "KCLFR-3a9e9cb168d81dbd",
+          "title": "Psychology and Criminology BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "3a9e9cb168d81dbd2019dc981fce329a848964b94f7b0ef60a56fa580a88cec2",
+          "capture_format": "chrome_public_dom",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际China三学历判定及同页可见标准成绩、Other requirements和Selectionprocess；引用逐事实限定",
+          "locator": "Actual China selection > Awards; visible entry conditions and other requirements"
+        },
+        {
+          "id": "KCLFR-dff3755b9680738d",
+          "title": "Psychology and Criminology BSc — 英语测试政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "capture_format": "public_html",
+          "source_period": "正文明确2026/27，2027/28最终测试清单本轮未取得",
+          "supports": "英语测试政策（2026/27）",
+          "locator": "英语测试政策（2026/27）"
+        },
+        {
+          "id": "KCLFR-746f46b80b509f1b",
+          "title": "Psychology and Criminology BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "746f46b80b509f1b3477d1e9a36c4963adca556d812b31b025a411a816917804",
+          "capture_format": "chrome_public_dom",
+          "source_period": "2027/28国际常规年费；阶段或历史数字单独注明",
+          "supports": "本课程实际International2027/28年费、押金、分阶段和历史费用、实际申请字段",
+          "locator": "International tuition / deposit / Additional costs / Further fee information / KeyInformation"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本批只更新12既有ID；48核心官方正文及12实际费用逐项实读，China与全部公开年度由独立审阅者实际选择捕获。",
+        "保留全部原事实数值、引用和来源日期；仅已解决的缺口后缀逐条留ledger。",
+        "数学各路线、自然科学本科与MSci、心理外出代码及回退按独立页面，不借同类模板补条件；暂定声明和学分差异保留。"
       ],
       "display_fields": {
-        "duration": "3 年 (or four 年 with a 年 abroad or a professional placement 年)",
-        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+        "duration": "3年；专业实习或海外路线为4年",
+        "entry_summary": "高考／Zhao Kao不直入；联合本科A*AA无指定A-level科目；仍须GCSE数学6/B等同；C821实习、C822海外；不接受转学",
+        "name": "心理学与犯罪学理学士",
+        "campus": "前两年以Waterloo为主；部分教学在Guy’s、Denmark Hill及Strand",
+        "language": "本轮未取得全程独立授课语言条款；英语录取Band B",
+        "intake": "2027年9月",
+        "tuition_summary": "2027/28 GBP £45,400／学年（常规授课年）",
+        "outcomes_summary": "已核职业介绍及实际群体；未取得本专业可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Individually authored Chinese with exact sources, original dates and explicit discrepancies",
       "inventory_id": "kcl-psychology-and-criminology-bsc-8d069e01f9"
     },
     {
@@ -35000,7 +37321,7 @@
       "raw_key": "86e8eb66-e114-4745-b41f-e49a9be4ddec",
       "name_en": "Quantitative Mathematics BSc",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -35018,30 +37339,170 @@
               "UKENR-192da61e2251b0"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "量化建模主线",
+            "text": "首年120全必修，含两个30学分数学基础模块及微积分、计算、概率统计、量化建模；二年必修60＋选60，三年数据驱动建模和高级建模项目各15＋选90。末年按外部问题说明完成小组建模任务，需先修及模块名额，不把外部题目当受雇工作。",
+            "source_ids": [
+              "KCLFR-f2d7362389d9095b",
+              "KCLFR-4c5f265765bca2d2"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "暂定内容与海外路线",
+            "text": "当前总览仍明确课程、入学条件、费用与模块是2027暂定信息，要求2026年9月回查且不构成最终方案；本轮读取时该声明仍在。可在达学业标准及获伙伴录取后转四年海外路线，第三年外出、第四年完成普通末年课程，具体均分未取得。",
+            "source_ids": [
+              "KCLFR-f2d7362389d9095b",
+              "KCLFR-4c5f265765bca2d2"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "学制、校区及语言证据范围",
+            "text": "3年；获准海外路线为4年（课程仍标暂定）；Strand校区。本轮未取得全程独立授课语言条款；英语录取Band B，不把测试等级当全程授课语种证明。",
+            "source_ids": [
+              "KCLFR-4c5f265765bca2d2",
+              "KCLFR-f2d7362389d9095b",
+              "KCLFR-052ba3fab87494ec",
+              "KCLFR-5f640f006deb4a9f",
+              "KCLFR-599426ddd418d40c"
+            ],
+            "extraction_locator": "Public course duration / actual Basecampus / exact teaching campus paragraph / Band"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "A*AB；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "A*AB；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-192da61e2251b0"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "数学条件与原文范围",
+            "text": "当前标准A-level A*AB含数学A*，不要求完整进阶数学；IB总36或三个HL合18，数学AA HL7。另一个国际课程不开进阶数学段仍称数学A等同，与标准A*属于不同说明；不据此自动降低标准或接受已被China控件拒绝的直入学历。",
+            "source_ids": [
+              "KCLFR-052ba3fab87494ec",
+              "KCLFR-599426ddd418d40c"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "必须面试及条件边界",
+            "text": "不面试不发offer，面试通常12月至5月，细节经King’s Apply通知；fit-to-sit规则下事后不以减轻情节调整表现，现场问题须及时向招生提出。AEA／STEP及力学统计是建议准备。课程总览仍标2027暂定，不把这些要求称最终永久规则。",
+            "source_ids": [
+              "KCLFR-052ba3fab87494ec",
+              "KCLFR-599426ddd418d40c",
+              "KCLFR-4c5f265765bca2d2"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "A-level计入与实践范围",
+            "text": "General Studies、Critical Thinking、Thinking Skills和Global Perspectives不计所需A-level。EPQ不参与评估。",
+            "source_ids": [
+              "KCLFR-052ba3fab87494ec",
+              "KCLFR-599426ddd418d40c"
+            ],
+            "extraction_locator": "Actual standard A-level notes, not inferred across programmes"
+          },
+          {
+            "label": "预科与已有学位的不同入口",
+            "text": "英国独立预科按内容个案评估；不接受非英国预科或他校主学位内Year0／Integrated Foundation。已有本科者一般可按英国2:1等同评估，高2:1／一等更有竞争力；这不是高中申请的必需前置。指定先修仍须满足，以大学学习替代须有充分相关模块且达2:1。本页可考虑重考。",
+            "source_ids": [
+              "KCLFR-052ba3fab87494ec",
+              "KCLFR-599426ddd418d40c"
+            ],
+            "extraction_locator": "Exact Selection > Foundation / Graduates / Resits"
+          },
+          {
+            "label": "实际China学历判定",
+            "text": "逐课实际选择China后，高考Gao Kao、Zhao Kao（网页称Senior High School Examination）和Maple Leaf World Schools Programme High School Diploma均不用于本科直入。页面转介International Foundation，仍须核课程匹配、进阶成绩和科目，不是本学位录取保证。",
+            "source_ids": [
+              "KCLFR-599426ddd418d40c"
+            ],
+            "extraction_locator": "Actual selected China > each of three Awards"
+          },
+          {
+            "label": "英语Band及测试年度",
+            "text": "本课程Band B。已取得政策明确适用2026/27，IELTS Academic参考总7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新政策及offer，不能把旧年清单当最终新年标准。",
+            "source_ids": [
+              "KCLFR-052ba3fab87494ec",
+              "KCLFR-599426ddd418d40c",
+              "KCLFR-dff3755b9680738d"
+            ],
+            "extraction_locator": "Exact course Band and English2026/27 > IELTS / validity / one sitting"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "G010；课程申请开放状态及截止须再核。",
+            "text": "G010；本轮已核实际申请状态与窗口见下列补充。",
             "source_ids": [
               "UKENR-192da61e2251b0"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "转学及延期申请",
+            "text": "本课程不接受转学进入二年级。UCAS可选延期年度；offer后经King’s Apply个案批准，第二次延期仅极端不可预见情形考虑，超过两年须重申，军役／国家服务有例外。",
+            "source_ids": [
+              "KCLFR-052ba3fab87494ec",
+              "KCLFR-599426ddd418d40c"
+            ],
+            "extraction_locator": "Exact Transfers / Deferrals section"
+          },
+          {
+            "label": "实际2027申请窗口",
+            "text": "实际Key Information列UCAS G010，Open，2027年9月入学，截止2027年1月13日。总览仍声明2027方案暂定，面试及最终申请条件须按该课程通知核。",
+            "source_ids": [
+              "KCLFR-32210ae8851d759e",
+              "KCLFR-4c5f265765bca2d2"
+            ],
+            "extraction_locator": "Actual KeyInformation fields; exact old Selection date / provisional declaration when applicable"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "实际International正文列GBP £38,100／学年，适用2027/28常规授课年；后续年度可能调整，不能以首年费率乘学制当固定全程价。本课程总览仍标费用等资料为2027暂定，最终方案须继续核。",
+            "source_ids": [
+              "KCLFR-32210ae8851d759e",
+              "KCLFR-4c5f265765bca2d2"
+            ],
+            "extraction_locator": "Actual International tuition > year and per-year unit"
+          },
+          {
+            "label": "押金、附加支出与奖学金缺口",
+            "text": "将无条件录取确认为首选时缴£2,000押金，入学后抵首年学费。教材、打印、文具、交通和毕业等另计；本轮未取得本课程面向中国申请者的专属奖学金条件及2027截止，不预先扣除奖助。",
+            "source_ids": [
+              "KCLFR-32210ae8851d759e"
+            ],
+            "extraction_locator": "Actual deposit and listed costs; bounded scholarship gap"
+          },
+          {
+            "label": "不同阶段费用与专属成本",
+            "text": "费用页当前列2027/28 £38,100常规年费，但总览仍将费用等课程资料标暂定。海外伙伴一般不收学费、可能有管理费；KCL收部分学费并提当年OfS上限，未列本课国际比例或外出年度金额。便携设备与海外相关支出另计。",
+            "source_ids": [
+              "KCLFR-32210ae8851d759e",
+              "KCLFR-4c5f265765bca2d2"
+            ],
+            "extraction_locator": "Exact Further fee information and Additional costs; historical and international scopes"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "潜在量化职业而非已毕业结果",
+            "text": "职业页列数据科学、量化金融、建模、AI、运筹、交通物流与政策分析等可能领域，并明确仅属机会概述。课程仍标暂定2027，未取得本专业实际毕业届次与就业率／薪资；小组外部问题项目不是工作岗位或录取保证。",
+            "source_ids": [
+              "KCLFR-29ad71425533ab58",
+              "KCLFR-4c5f265765bca2d2"
+            ],
+            "extraction_locator": "careers public body; exact course Year and/or China view"
+          }
+        ]
       },
       "sources": [
         {
@@ -35052,32 +37513,128 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "09ec81b82c5a0da241aae0c27882f19a99c814c378147d56a70291dce6c4159a",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLFR-4c5f265765bca2d2",
+          "title": "Quantitative Mathematics BSc — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "4c5f265765bca2d2bd3825be6021e54a3c7b18f0fb4fddaf60df875dcc264850",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程身份、目标、路线和公开声明",
+          "locator": "Public Overview / Course essentials / disclaimer"
+        },
+        {
+          "id": "KCLFR-f2d7362389d9095b",
+          "title": "Quantitative Mathematics BSc — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "f2d7362389d9095b035064ac23dc0e2903dfed6a77ff88303dd410398239ed8b",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程逐年度公开模块与学习方式、升读或外出限制；已与实际GUI核对",
+          "locator": "Public Required/Optional module tree / actual Year selector / Teaching / Assessment"
+        },
+        {
+          "id": "KCLFR-052ba3fab87494ec",
+          "title": "Quantitative Mathematics BSc — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "052ba3fab87494ecd541b3b2a7de4c6d8b7302d8b30e992b7351404f343a5177",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程标准A-level/IB、科目、英语、其他条件与Selectionprocess",
+          "locator": "Standard A-level / IB / Other requirements / Selectionprocess"
+        },
+        {
+          "id": "KCLFR-29ad71425533ab58",
+          "title": "Quantitative Mathematics BSc — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc/careers",
+          "checked_at": "2026-09-13",
+          "sha256": "29ad71425533ab58f0d55f842a0f5edcee834d8bd60c96455bfe96fcb36c20ab",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "实际职业介绍和群体范围；无统计时不造率",
+          "locator": "Public Careers body; stated group and wording"
+        },
+        {
+          "id": "KCLFR-5f640f006deb4a9f",
+          "title": "Quantitative Mathematics BSc — nav",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc",
+          "checked_at": "2026-09-13",
+          "sha256": "5f640f006deb4a9fba07ba2406401c6ad511e1ad4775e245373aa8e5da3c2eae",
+          "capture_format": "chrome_accessibility_text",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际总览AX的Basecampus及公开导航",
+          "locator": "Actual Overview accessibility tree > Basecampus and public href"
+        },
+        {
+          "id": "KCLFR-599426ddd418d40c",
+          "title": "Quantitative Mathematics BSc — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "599426ddd418d40c54a2e5d28eaa5d0ad4c30496e42b3c7c39000085390d2e06",
+          "capture_format": "chrome_public_dom",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际China三学历判定及同页可见标准成绩、Other requirements和Selectionprocess；引用逐事实限定",
+          "locator": "Actual China selection > Awards; visible entry conditions and other requirements"
+        },
+        {
+          "id": "KCLFR-dff3755b9680738d",
+          "title": "Quantitative Mathematics BSc — 英语测试政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "capture_format": "public_html",
+          "source_period": "正文明确2026/27，2027/28最终测试清单本轮未取得",
+          "supports": "英语测试政策（2026/27）",
+          "locator": "英语测试政策（2026/27）"
+        },
+        {
+          "id": "KCLFR-32210ae8851d759e",
+          "title": "Quantitative Mathematics BSc — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "32210ae8851d759e1a17d95b813b642742d60280897bffc0cd7fe87cc4bae87f",
+          "capture_format": "chrome_public_dom",
+          "source_period": "2027/28国际常规年费；阶段或历史数字单独注明",
+          "supports": "本课程实际International2027/28年费、押金、分阶段和历史费用、实际申请字段",
+          "locator": "International tuition / deposit / Additional costs / Further fee information / KeyInformation"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本批只更新12既有ID；48核心官方正文及12实际费用逐项实读，China与全部公开年度由独立审阅者实际选择捕获。",
+        "保留全部原事实数值、引用和来源日期；仅已解决的缺口后缀逐条留ledger。",
+        "数学各路线、自然科学本科与MSci、心理外出代码及回退按独立页面，不借同类模板补条件；暂定声明和学分差异保留。"
       ],
       "display_fields": {
-        "duration": "3 年",
-        "entry_summary": "A-level A*AB；其他科目/考试见详情"
+        "duration": "3年；获准海外路线为4年（课程仍标暂定）",
+        "entry_summary": "高考／Zhao Kao不直入；暂定2027课程；A*AB含数学A*；IB数学AA HL7；必须面试；不接受二年级转入",
+        "name": "量化数学理学士",
+        "campus": "Strand校区",
+        "language": "本轮未取得全程独立授课语言条款；英语录取Band B",
+        "intake": "2027年9月（当前总览仍标暂定）",
+        "tuition_summary": "2027/28 GBP £38,100／学年（常规授课年；总览仍标暂定）",
+        "outcomes_summary": "已核职业介绍及实际群体；未取得本专业可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Individually authored Chinese with exact sources, original dates and explicit discrepancies",
       "inventory_id": "kcl-quantitative-mathematics-bsc-3f96586e9b"
     },
     {
@@ -36687,7 +39244,7 @@
       "raw_key": "f3619963-db69-4270-b5eb-2aff31265ae7",
       "name_en": "War Studies BA",
       "official_url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba",
-      "checked_at": "2026-09-12",
+      "checked_at": "2026-09-13",
       "sections": {
         "overview": [
           {
@@ -36705,30 +39262,157 @@
               "UKENR-4699b61e6b8a26"
             ],
             "extraction_locator": "public SSR routing.entry.duration"
+          },
+          {
+            "label": "战争、冲突及安全研究",
+            "text": "首年五门合120无选修，涵盖战争原因后果、现代战争史、全球经历与安全；二年研究方法及全球冷战各15，加90选修且均Level5。末年论文30＋选修90，均Level6，可研究战略、外交、网络安全、气候及冲突等。",
+            "source_ids": [
+              "KCLFR-6266519c4f584170",
+              "KCLFR-a1ada00a2a0c6470"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "外系、语言与海外学习",
+            "text": "二、三年各最多30相关同级外系／外校学分，须项目主任批准。可免费修一门语言，二或三年额外计入、或三年计入学位。二年下学期海外60或第三年全年海外须达规定成绩；海外学分计入、分数不计最终等级，具体成绩门槛及全年路线学制本轮未取得。",
+            "source_ids": [
+              "KCLFR-6266519c4f584170",
+              "KCLFR-a1ada00a2a0c6470"
+            ],
+            "extraction_locator": "teaching public body; exact course Year and/or China view"
+          },
+          {
+            "label": "学制、校区及语言证据范围",
+            "text": "3年；有海外学习选择，整年外出学制须按获批路线核；Strand及Waterloo校区。本轮未取得全程独立授课语言条款；英语录取Band B，不把测试等级当全程授课语种证明。",
+            "source_ids": [
+              "KCLFR-a1ada00a2a0c6470",
+              "KCLFR-6266519c4f584170",
+              "KCLFR-11b3d5146d88269a",
+              "KCLFR-bb6b26044d4e5244",
+              "KCLFR-3b42864eb9182dee"
+            ],
+            "extraction_locator": "Public course duration / actual Basecampus / exact teaching campus paragraph / Band"
           }
         ],
         "admissions": [
           {
             "label": "A-level概览",
-            "text": "AAA；此字段只给总成绩，课程特有科目、国际资格及例外本轮尚待完整抽取。",
+            "text": "AAA；此为原概览总成绩；本轮实际招生正文、专属先修及资格见下列补充。",
             "source_ids": [
               "UKENR-4699b61e6b8a26"
             ],
             "extraction_locator": "public SSR routing.entry.entryRequirement.entryTitle"
+          },
+          {
+            "label": "学术要求与申请身份",
+            "text": "A-level AAA，未指定或偏好科目；IB总36或三个HL合18。战争研究系接受军方推荐信只是推荐来源选项，不要求申请者服役，也不把军方／政府职业方向当特殊招生身份。",
+            "source_ids": [
+              "KCLFR-11b3d5146d88269a",
+              "KCLFR-3b42864eb9182dee"
+            ],
+            "extraction_locator": "requirements public body; exact course Year and/or China view"
+          },
+          {
+            "label": "A-level计入与实践范围",
+            "text": "General Studies、Critical Thinking、Thinking Skills和Global Perspectives不计所需A-level。英格兰线性理科A-level须过实践考核，无法参加的private candidates有例外；不要求所有高考生另考此英国实践。EPQ不参与评估。",
+            "source_ids": [
+              "KCLFR-11b3d5146d88269a",
+              "KCLFR-3b42864eb9182dee"
+            ],
+            "extraction_locator": "Actual standard A-level notes, not inferred across programmes"
+          },
+          {
+            "label": "预科与已有学位的不同入口",
+            "text": "英国独立预科按内容个案评估；不接受非英国预科或他校主学位内Year0／Integrated Foundation。已有本科者一般可按英国2:1等同评估，高2:1／一等更有竞争力；这不是高中申请的必需前置。本页可考虑重考。",
+            "source_ids": [
+              "KCLFR-11b3d5146d88269a",
+              "KCLFR-3b42864eb9182dee"
+            ],
+            "extraction_locator": "Exact Selection > Foundation / Graduates / Resits"
+          },
+          {
+            "label": "实际China学历判定",
+            "text": "逐课实际选择China后，高考Gao Kao、Zhao Kao（网页称Senior High School Examination）和Maple Leaf World Schools Programme High School Diploma均不用于本科直入。页面转介International Foundation，仍须核课程匹配、进阶成绩和科目，不是本学位录取保证。",
+            "source_ids": [
+              "KCLFR-3b42864eb9182dee"
+            ],
+            "extraction_locator": "Actual selected China > each of three Awards"
+          },
+          {
+            "label": "英语Band及测试年度",
+            "text": "本课程Band B。已取得政策明确适用2026/27，IELTS Academic参考总7.0、各项6.5；须在开课月份首日前两年内单次满足，不接受IELTS One Skill或TOEFL MyBest。2027入学仍须核更新政策及offer，不能把旧年清单当最终新年标准。",
+            "source_ids": [
+              "KCLFR-11b3d5146d88269a",
+              "KCLFR-3b42864eb9182dee",
+              "KCLFR-dff3755b9680738d"
+            ],
+            "extraction_locator": "Exact course Band and English2026/27 > IELTS / validity / one sitting"
           }
         ],
         "applications": [
           {
             "label": "UCAS代码",
-            "text": "L252；课程申请开放状态及截止须再核。",
+            "text": "L252；本轮已核实际申请状态与窗口见下列补充。",
             "source_ids": [
               "UKENR-4699b61e6b8a26"
             ],
             "extraction_locator": "public SSR routing.entry.ucasCode"
+          },
+          {
+            "label": "转学及延期申请",
+            "text": "本课程不接受转学。UCAS可选延期年度；offer后经King’s Apply个案批准，第二次延期仅极端不可预见情形考虑，超过两年须重申，军役／国家服务有例外。",
+            "source_ids": [
+              "KCLFR-11b3d5146d88269a",
+              "KCLFR-3b42864eb9182dee"
+            ],
+            "extraction_locator": "Exact Transfers / Deferrals section"
+          },
+          {
+            "label": "实际2027申请窗口",
+            "text": "实际Key Information列UCAS L252，Open，2027年9月入学，截止2027年1月13日。",
+            "source_ids": [
+              "KCLFR-8e91aed46b5e7aff"
+            ],
+            "extraction_locator": "Actual KeyInformation fields; exact old Selection date / provisional declaration when applicable"
           }
         ],
-        "fees": [],
-        "outcomes": []
+        "fees": [
+          {
+            "label": "2027/28国际常规年费",
+            "text": "实际International正文列GBP £34,000／学年，适用2027/28常规授课年；后续年度可能调整，不能以首年费率乘学制当固定全程价。",
+            "source_ids": [
+              "KCLFR-8e91aed46b5e7aff"
+            ],
+            "extraction_locator": "Actual International tuition > year and per-year unit"
+          },
+          {
+            "label": "押金、附加支出与奖学金缺口",
+            "text": "将无条件录取确认为首选时缴£2,000押金，入学后抵首年学费。教材、打印、文具、交通和毕业等另计；本轮未取得本课程面向中国申请者的专属奖学金条件及2027截止，不预先扣除奖助。",
+            "source_ids": [
+              "KCLFR-8e91aed46b5e7aff"
+            ],
+            "extraction_locator": "Actual deposit and listed costs; bounded scholarship gap"
+          },
+          {
+            "label": "不同阶段费用与专属成本",
+            "text": "海外伙伴一般不收学费但可能有管理费，KCL收部分学费。附段OfS £1,955／海外£1,465明确只是2026/27参考，并称2027/28限额未取得；不作为中国国际生2027外出报价，也未列2/3。异地考试、海外签证生活交通等另计。",
+            "source_ids": [
+              "KCLFR-8e91aed46b5e7aff"
+            ],
+            "extraction_locator": "Exact Further fee information and Additional costs; historical and international scopes"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业举例与国籍资格边界",
+            "text": "本专业职业页举例联合国、北约、NGO、政府、媒体、金融、学术及军队；没有毕业届次、人数、就业率或薪资。这些是毕业生方向，不代表中国申请者自动满足各机构国籍、招聘或任职条件。",
+            "source_ids": [
+              "KCLFR-498d4053f634bf0b",
+              "KCLFR-a1ada00a2a0c6470"
+            ],
+            "extraction_locator": "careers public body; exact course Year and/or China view"
+          }
+        ]
       },
       "sources": [
         {
@@ -36739,32 +39423,128 @@
           "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
           "sha256": "a1ada00a2a0c6470e1ca2b934e387b7711034a702427571b11e7eff95ed5f35a",
           "locator": "See each fact extraction_locator"
+        },
+        {
+          "id": "KCLFR-a1ada00a2a0c6470",
+          "title": "War Studies BA — overview",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "a1ada00a2a0c6470e1ca2b934e387b7711034a702427571b11e7eff95ed5f35a",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程身份、目标、路线和公开声明",
+          "locator": "Public Overview / Course essentials / disclaimer"
+        },
+        {
+          "id": "KCLFR-6266519c4f584170",
+          "title": "War Studies BA — teaching",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/teaching-and-modules",
+          "checked_at": "2026-09-13",
+          "sha256": "6266519c4f5841707f411b815d7c243887cba64d0849608eba29428f43e19b09",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程逐年度公开模块与学习方式、升读或外出限制；已与实际GUI核对",
+          "locator": "Public Required/Optional module tree / actual Year selector / Teaching / Assessment"
+        },
+        {
+          "id": "KCLFR-11b3d5146d88269a",
+          "title": "War Studies BA — requirements",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "11b3d5146d88269a9615423b48d4ba58cd287f577bd75a59f885327e1998ec81",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程标准A-level/IB、科目、英语、其他条件与Selectionprocess",
+          "locator": "Standard A-level / IB / Other requirements / Selectionprocess"
+        },
+        {
+          "id": "KCLFR-498d4053f634bf0b",
+          "title": "War Studies BA — careers",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/war-studies-ba-careers",
+          "checked_at": "2026-09-13",
+          "sha256": "498d4053f634bf0b412c0c5cba6aed98f30a69bb6a6e91ecbc1cda7c9ebe07b9",
+          "capture_format": "public_html",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "实际职业介绍和群体范围；无统计时不造率",
+          "locator": "Public Careers body; stated group and wording"
+        },
+        {
+          "id": "KCLFR-bb6b26044d4e5244",
+          "title": "War Studies BA — nav",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba",
+          "checked_at": "2026-09-13",
+          "sha256": "bb6b26044d4e5244e559832e6d96a443f538cafbe7bb48575e1dc30c3095d7bc",
+          "capture_format": "chrome_accessibility_text",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际总览AX的Basecampus及公开导航",
+          "locator": "Actual Overview accessibility tree > Basecampus and public href"
+        },
+        {
+          "id": "KCLFR-3b42864eb9182dee",
+          "title": "War Studies BA — China",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/entry-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "3b42864eb9182deec42e85b7e0b06c4e9c0f2ad44e540f0077a3cb5f9cd09f62",
+          "capture_format": "chrome_public_dom",
+          "source_period": "当前2027课程公开正文，Quantitative Mathematics暂定声明及其他年份冲突单独注明",
+          "supports": "本课程实际China三学历判定及同页可见标准成绩、Other requirements和Selectionprocess；引用逐事实限定",
+          "locator": "Actual China selection > Awards; visible entry conditions and other requirements"
+        },
+        {
+          "id": "KCLFR-dff3755b9680738d",
+          "title": "War Studies BA — 英语测试政策（2026/27）",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-13",
+          "sha256": "dff3755b9680738d603f196ac6042dd8c9aee353a6db8d23e038bd45c6cc5db9",
+          "capture_format": "public_html",
+          "source_period": "正文明确2026/27，2027/28最终测试清单本轮未取得",
+          "supports": "英语测试政策（2026/27）",
+          "locator": "英语测试政策（2026/27）"
+        },
+        {
+          "id": "KCLFR-8e91aed46b5e7aff",
+          "title": "War Studies BA — fees",
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/fees",
+          "checked_at": "2026-09-13",
+          "sha256": "8e91aed46b5e7aff80c1270cea389f6115a0784d5f8b92d0f8b135550f3214e9",
+          "capture_format": "chrome_public_dom",
+          "source_period": "2027/28国际常规年费；阶段或历史数字单独注明",
+          "supports": "本课程实际International2027/28年费、押金、分阶段和历史费用、实际申请字段",
+          "locator": "International tuition / deposit / Additional costs / Further fee information / KeyInformation"
         }
       ],
       "coverage_notes": [
-        "The downloaded route is Overview; Entry requirements, Fees, Teaching and Career tabs require separate data acquisition."
+        "本批只更新12既有ID；48核心官方正文及12实际费用逐项实读，China与全部公开年度由独立审阅者实际选择捕获。",
+        "保留全部原事实数值、引用和来源日期；仅已解决的缺口后缀逐条留ledger。",
+        "数学各路线、自然科学本科与MSci、心理外出代码及回退按独立页面，不借同类模板补条件；暂定声明和学分差异保留。"
       ],
       "display_fields": {
-        "duration": "3 年 with optional 年 abroad",
-        "entry_summary": "A-level AAA；其他科目/考试见详情"
+        "duration": "3年；有海外学习选择，整年外出学制须按获批路线核",
+        "entry_summary": "高考／Zhao Kao不直入；普通本科AAA；IB总36或三个HL合18，无指定科目；可用军方推荐但不要求军人身份；不接受转学",
+        "name": "战争研究文学士",
+        "campus": "Strand及Waterloo校区",
+        "language": "本轮未取得全程独立授课语言条款；英语录取Band B",
+        "intake": "2027年9月",
+        "tuition_summary": "2027/28 GBP £34,000／学年（常规授课年）",
+        "outcomes_summary": "已核职业介绍及实际群体；未取得本专业可比就业率／薪资"
       },
       "coverage": {
         "overview": true,
         "admissions": true,
         "applications": true,
-        "fees": false,
-        "outcomes": false
+        "fees": true,
+        "outcomes": true
       },
       "detail_payload_acquired": true,
       "research_status": "partially_enriched",
       "substantive_coverage": {
-        "course_content": false,
+        "course_content": true,
         "entry_conditions": true,
-        "fee_amount": false,
-        "career_directions": false,
+        "fee_amount": true,
+        "career_directions": true,
         "outcome_statistics": false
       },
-      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "translation_status": "Individually authored Chinese with exact sources, original dates and explicit discrepancies",
       "inventory_id": "kcl-war-studies-ba-d738816759"
     },
     {

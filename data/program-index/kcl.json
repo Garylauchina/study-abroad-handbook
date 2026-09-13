@@ -5,7 +5,7 @@
     "status": "partial",
     "count": 145,
     "scope": "148个已发现目录入口中，145个本科及本科在读路线；3个本科后护理硕士另留更正页，内部路径仍待全量对账",
-    "method": "复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。 再逐课核12计算机、数学与通用工程项目及各自China分支、年度模块与费用，原145入口保持。 再核12电子工程、化学、物理及相关组合课程，实读12个China分支和43个年度模块视图；原145身份不变，未据在读海外安排另造高中招生入口。 再深化12条生物医学工程、数据分析、环境地理、欧洲研究、物理哲学及PrimaryCare插读，实际12China分支和41年度视图；保持145库存及原身份，仅精确入口限制。已完成这一层级分栏研究118项，仍余27项待深化。 本批继续深化15条社科、语言、商科及博雅课程，298事实，15实际China分支、50年度模块和国际费用视图；本批后这一层级已深化133条，仍余12条。IBAM按两校官方声明明确KCL BSc加EDHEC International BBA，145原ID保持。",
+    "method": "复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。 再逐课核12计算机、数学与通用工程项目及各自China分支、年度模块与费用，原145入口保持。 再核12电子工程、化学、物理及相关组合课程，实读12个China分支和43个年度模块视图；原145身份不变，未据在读海外安排另造高中招生入口。 再深化12条生物医学工程、数据分析、环境地理、欧洲研究、物理哲学及PrimaryCare插读，实际12China分支和41年度视图；保持145库存及原身份，仅精确入口限制。已完成这一层级分栏研究118项，仍余27项待深化。 本批继续深化15条社科、语言、商科及博雅课程，298事实，15实际China分支、50年度模块和国际费用视图；本批后这一层级已深化133条，仍余12条。IBAM按两校官方声明明确KCL BSc加EDHEC International BBA，145原ID保持。 本批深化最后12条既有数学、自然科学、心理及战争研究课程，227事实和108来源引用；现有145条均有已采集资料；其中136条完成后续分栏深化流程，最早9条仍是部分补源，尚待同等深度核验。独立路线与所有信息字段并未全齐。",
     "exclusions": "Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes；本科后首次注册护理MNurs/MSc不计本科项目；MBBS/BDS仍按专业学士保留并注明前置学历。",
     "sources": [
       {
@@ -934,7 +934,7 @@
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba",
         "sha256": "a1ada00a2a0c6470e1ca2b934e387b7711034a702427571b11e7eff95ed5f35a",
-        "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-5e021d5e8468a7.html"
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-war-studies-ba-d738816759-overview.html"
       },
       {
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba",
@@ -4325,6 +4325,421 @@
         "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc/fees",
         "sha256": "6f21af46a53071c826fe63049956406ecca7b59ca5a3547015e1a966633b5e56",
         "raw_file": "scratch/full-catalog/kcl-remaining-social-enrichment/raw/fees-dom-14.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc",
+        "sha256": "5806a4fa7f469b7902847ff923c1126cd5bb47a653143f4fa64e975e4678b6fa",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-philosophy-bsc-002bb0180a-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc/teaching-and-modules",
+        "sha256": "1b74647746ca1d35fcf0fe215fcd47b236d30f25d8c92aae565679d3e43167fe",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-philosophy-bsc-002bb0180a-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc/entry-requirements",
+        "sha256": "5b5d917b856723e0bbc00d4b2e8f2f14f75bbcb544344194ef31cebab011f1bf",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-philosophy-bsc-002bb0180a-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc/careers",
+        "sha256": "7526a000cfba6043e271f13705d3f02b39e136af066e4c53fa8bdda854ca23b0",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-philosophy-bsc-002bb0180a-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc",
+        "sha256": "3830ef49ae9e3f47dd1814382abb6bbaa3c360b937575b785ffbc469aea7e358",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/nav-ax-0.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc/entry-requirements",
+        "sha256": "32980096f3d61019fbaf5c812a408b6904aca217dfa83ffeefbd0fcf7db2c7c0",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/review/china-dom-0.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc/fees",
+        "sha256": "dba5765574c95bfe4e6cfb2ee5eb839eab919d55f4d3bf82bd4283b23a1027f3",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/fees-dom-0.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc",
+        "sha256": "06a3165f6d9d7f809cb85489480e8b9bc7964a7f68c7cb12505a326443e4d86d",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-management-finance-bsc-2f900f166e-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc/teaching-and-modules",
+        "sha256": "7e4fb769b84813bf51c5e3ec2673425d9f492e9725ec2a4cdb9cf24d406dd58c",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-management-finance-bsc-2f900f166e-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc/entry-requirements",
+        "sha256": "3a3bf689578701618a8afc3c113d7201942061041241ed8aa66a0721d682dece",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-management-finance-bsc-2f900f166e-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc/careers",
+        "sha256": "5cce87ef29dc58d3d0b83866945cd45f4a683ac57a48c4a9f5df19a647669d22",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-management-finance-bsc-2f900f166e-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc",
+        "sha256": "9ef2e2c0e57f3f0f1eebf339e56c215f47d1843b6bfc2007830676b7807b3a09",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/nav-ax-1.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc/entry-requirements",
+        "sha256": "e24aa7e2e368b1352887321f613326e54238fed952119057af3b2ecabb829251",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/review/china-dom-1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc/fees",
+        "sha256": "02a56c2516dc6890f0e6faac97e1805a147e13ca21e9662a39a74116d0072ea6",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/fees-dom-1.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry",
+        "sha256": "cfbc962c3dca284a4be799cefcd5b94675ed29727cc52bc07d89b8899e084ba5",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-management-finance-with-year-in-industry-bsc-4dfe1b388c-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry/teaching-and-modules",
+        "sha256": "a1973e1076e6f10ad7e34a1fa5333101776f300ba42dc589509a75d227a92e69",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-management-finance-with-year-in-industry-bsc-4dfe1b388c-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry/entry-requirements",
+        "sha256": "1f1d9d6a480b7ed7ce17e237c10d37cdb90ac73f9800033af58c9c6f8f8bd34d",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-management-finance-with-year-in-industry-bsc-4dfe1b388c-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry/careers",
+        "sha256": "4f63c064d82c194efa49c0d87bd1dded8cbfd81e219cedf935d6ad0f83a00662",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-management-finance-with-year-in-industry-bsc-4dfe1b388c-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry",
+        "sha256": "b5d870e637be8bf1972a1c28cbd18132ec65997a3de523b51536b00c6dcdac7f",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/nav-ax-2.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry/entry-requirements",
+        "sha256": "a8d6bd85850e378d06d63dbd2d672af4519540a8c4983f23e41bb560d221ce8a",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/review/china-dom-2.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry/fees",
+        "sha256": "57b3cc8b5f7d4e6e48e4e67b8a32cd00f02e5608a026aeed0ab5a4c660a633e7",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/fees-dom-2.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc",
+        "sha256": "4ae2b74181b0c0ba51fd41079b0ca407b6dd1561d1e6a99b050ae0220f46e115",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-statistics-bsc-e82791f255-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc/teaching-and-modules",
+        "sha256": "42766bbb73037f722abcbe2c669c53d9ca516145ff25787db85deff98adff226",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-statistics-bsc-e82791f255-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc/entry-requirements",
+        "sha256": "04a86150245a8c0121aa0476915871b8b9129bba02129f40abe07e2bab2a2a39",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-statistics-bsc-e82791f255-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc/careers",
+        "sha256": "3197e9e05739d53b0d2e24931c458f895663725e2d611814dcdd72d553c35cb1",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-statistics-bsc-e82791f255-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc",
+        "sha256": "3a378ecaf21fe7435005c4169109260b67e2216eac02e5702e1df619b569ae10",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/nav-ax-3.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc/entry-requirements",
+        "sha256": "8152a6bdc2596b18728831fdb0eef0416ab53ba168abab9542675b5362bfb1ff",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/review/china-dom-3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc/fees",
+        "sha256": "1742c490eacfde5e0e9862882f934c1361f859f0d428dcfb246018c68c3fd3ec",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/fees-dom-3.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc",
+        "sha256": "0606a583b8c8576b9842159ec51ee911b54e654b67017a8ce74c5d6b744bc284",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-statistics-with-year-in-industry-bsc-8bc4d0be74-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc/teaching-and-modules",
+        "sha256": "95599c9535d10030e0afb057819fe048771b6027770348fa358b48c5951bbf76",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-statistics-with-year-in-industry-bsc-8bc4d0be74-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc/entry-requirements",
+        "sha256": "43d8d504864cb83f069d68774e01c14ced0eb191f5c7a80b67851d5a131dc154",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-statistics-with-year-in-industry-bsc-8bc4d0be74-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc/careers",
+        "sha256": "b9871b7ca6b4bddb6ca8fb8a6593e52056cce53cb47ace08be3a76ac6c62c4ad",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-mathematics-with-statistics-with-year-in-industry-bsc-8bc4d0be74-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc",
+        "sha256": "1b0b003fde2b560cd8e201dc22db4c036117dd802b1baa37d132e96de6047e60",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/nav-ax-4.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc/entry-requirements",
+        "sha256": "ef1c2d92169e6434012212da31727620b01b99649348bd82e1563bb3a44ce72b",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/review/china-dom-4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc/fees",
+        "sha256": "00efdea1b310d95949fa1605f1620ff6cc77c857d97e0d7daab6eb0b6b28c494",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/fees-dom-4.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci",
+        "sha256": "96e0a581a800000520c464af9d4f2b7584e9815dedb60cff6525e0a3e831001c",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-natural-sciences-msci-4dabed4621-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci/teaching-and-modules",
+        "sha256": "a487448d7993190cdf6fe3c0459eb52346826fdd3d43bffbea572c8d2bae267e",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-natural-sciences-msci-4dabed4621-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci/entry-requirements",
+        "sha256": "35fd79b96f8c1703e14a2e89f3f3d607a9cd458de309eeddacb74231a74b8847",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-natural-sciences-msci-4dabed4621-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci/careers",
+        "sha256": "6ca212ef25e2afc68b967d0f4712675a6ad2585781866a69bef8efdf5c1c6bb9",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-natural-sciences-msci-4dabed4621-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci",
+        "sha256": "16ea3563a04add3d65d8fe3b1550c790b3d7f6c04004550e87e57a27ac5fcfa7",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/nav-ax-5.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci/entry-requirements",
+        "sha256": "38573e346a5a93609e6658cccda8c37d07789ec9ffbfee57e755793c5e862d94",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/review/china-dom-5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci/fees",
+        "sha256": "660af43580b772b632cdb75b1a2a30f242a3141ab6e36cb5626244a39421e119",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/fees-dom-5.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences",
+        "sha256": "a275c2c3238227e6e73212eed7b7903f2fe99b06cd996a41d0887feeca18cb5d",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-natural-sciences-bsc-6983a21800-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/teaching-and-modules",
+        "sha256": "6b445094a40e1fe830f7285def33ccfbc478dc4476844b11f39128aa7c487939",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-natural-sciences-bsc-6983a21800-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/entry-requirements",
+        "sha256": "a97eafeb45abba6bd0b1175a7b0ce29490f0d83a4935640e9d7e701d860c3078",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-natural-sciences-bsc-6983a21800-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/careers",
+        "sha256": "7c6b04a5ef392ae4e6f56fa68ddf6790ba602bf13e2463eca31dc511a2743ed9",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-natural-sciences-bsc-6983a21800-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences",
+        "sha256": "6034ef30e6a53203ca15e5b4b1013d121acedf55ec685bb64df73a2cee22c562",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/nav-ax-6.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/entry-requirements",
+        "sha256": "4b97f970e5fd183da62d035755f796eea22d0a787bfde3cfbf3eb246eb57e745",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/review/china-dom-6.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/fees",
+        "sha256": "28dba371d42b81ad8ea7ad5eebc0f41fb6fe3ea2223273424b73ca96bcbe754d",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/fees-dom-6.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry",
+        "sha256": "3e112289f22bf6ce06b29306e292295bffcdab67085a0b881e34cbc379bc8407",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-natural-sciences-with-a-year-in-industry-bsc-f7bff12f56-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry/teaching-and-modules",
+        "sha256": "8cf56c2ed45207751dced5b6a6a3cd45b17b9c055df06d4caa4ceee98b0ee8d2",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-natural-sciences-with-a-year-in-industry-bsc-f7bff12f56-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry/entry-requirements",
+        "sha256": "1473d64030bdd1bf8452b3fc870e05729207054095049c40a51b6a203b57e7c9",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-natural-sciences-with-a-year-in-industry-bsc-f7bff12f56-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry/careers",
+        "sha256": "53556f2975f6aaa773cadcc2465f8e137d00e985f61107d13701f7915987673f",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-natural-sciences-with-a-year-in-industry-bsc-f7bff12f56-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry",
+        "sha256": "df04a2da36e2cd454ccab27d5e42482ec557369e44feeddba89d4036e25d20a5",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/nav-ax-7.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry/entry-requirements",
+        "sha256": "3d748e7465a2a670dd27a02d4a3615ac8d4735f35067cf0b24e247f825b18ea0",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/review/china-dom-7.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry/fees",
+        "sha256": "86a2900ef368ec1a2c667e46889d6be0c3cf101b499335c70729e5868cc3e723",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/fees-dom-7.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc",
+        "sha256": "342c2ced19752b01d9e4bd51012505227bf1981f8158555e49896ad7d6d1df9b",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-psychology-bsc-aaa6e6c660-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc/teaching-and-modules",
+        "sha256": "00ef0cf3dee10713f65e1dacb9bab5531188687f78d3d9dbb91eaf43acbcedc6",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-psychology-bsc-aaa6e6c660-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc/entry-requirements",
+        "sha256": "f03859a33a6a1acd0a120bce73fe1a06714a42732b332212e545bd3208fe5b4f",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-psychology-bsc-aaa6e6c660-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc/careers",
+        "sha256": "400472a3a9726b08c20b59605ccbd891677349929c57d3aebc2f03ee9b89155a",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-psychology-bsc-aaa6e6c660-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc",
+        "sha256": "1e7ee21603c7b688419498534b24d565e66ba6e22e82b6a8ebd054562ad56e92",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/nav-ax-8.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc/entry-requirements",
+        "sha256": "7d3726f003378186d80afb1e06ac783e897be4749288832321ed9c4bf0aaf4bd",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/review/china-dom-8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc/fees",
+        "sha256": "04d8f2499b646bb194929424cdeda0990d2011a08cb1112822600efcae2228a0",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/fees-dom-8.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology",
+        "sha256": "a725601a34621c6b507a66828076ad68cca174d1660d43ae7f664bf2926bdc4c",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-psychology-and-criminology-bsc-8d069e01f9-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology/teaching-and-modules",
+        "sha256": "d414c03cd420455fa900b1f694618b82e02262df17f5f01b496ad3f841b503a7",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-psychology-and-criminology-bsc-8d069e01f9-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology/entry-requirements",
+        "sha256": "fa2f1b366a0f093817860064b68a622ac8e67be4235df5863538ed0b53ea4960",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-psychology-and-criminology-bsc-8d069e01f9-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology/careers",
+        "sha256": "ee2130ced81d5d46977ac91261d703b29ae0748b93ae2ed94bd1d62fc452bd21",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-psychology-and-criminology-bsc-8d069e01f9-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology",
+        "sha256": "c9477e932a60b8c7b41fda8b81afcf740d5e067c8796dcd946f3a6628f811276",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/nav-ax-9.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology/entry-requirements",
+        "sha256": "3a9e9cb168d81dbd2019dc981fce329a848964b94f7b0ef60a56fa580a88cec2",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/review/china-dom-9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology/fees",
+        "sha256": "746f46b80b509f1b3477d1e9a36c4963adca556d812b31b025a411a816917804",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/fees-dom-9.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc",
+        "sha256": "4c5f265765bca2d2bd3825be6021e54a3c7b18f0fb4fddaf60df875dcc264850",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-quantitative-mathematics-bsc-3f96586e9b-overview.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc/teaching-and-modules",
+        "sha256": "f2d7362389d9095b035064ac23dc0e2903dfed6a77ff88303dd410398239ed8b",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-quantitative-mathematics-bsc-3f96586e9b-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc/entry-requirements",
+        "sha256": "052ba3fab87494ecd541b3b2a7de4c6d8b7302d8b30e992b7351404f343a5177",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-quantitative-mathematics-bsc-3f96586e9b-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc/careers",
+        "sha256": "29ad71425533ab58f0d55f842a0f5edcee834d8bd60c96455bfe96fcb36c20ab",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-quantitative-mathematics-bsc-3f96586e9b-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc",
+        "sha256": "5f640f006deb4a9fba07ba2406401c6ad511e1ad4775e245373aa8e5da3c2eae",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/nav-ax-10.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc/entry-requirements",
+        "sha256": "599426ddd418d40c54a2e5d28eaa5d0ad4c30496e42b3c7c39000085390d2e06",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/review/china-dom-10.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc/fees",
+        "sha256": "32210ae8851d759e1a17d95b813b642742d60280897bffc0cd7fe87cc4bae87f",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/fees-dom-10.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/teaching-and-modules",
+        "sha256": "6266519c4f5841707f411b815d7c243887cba64d0849608eba29428f43e19b09",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-war-studies-ba-d738816759-teaching.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/entry-requirements",
+        "sha256": "11b3d5146d88269a9615423b48d4ba58cd287f577bd75a59f885327e1998ec81",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-war-studies-ba-d738816759-requirements.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/war-studies-ba-careers",
+        "sha256": "498d4053f634bf0b412c0c5cba6aed98f30a69bb6a6e91ecbc1cda7c9ebe07b9",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/kcl-war-studies-ba-d738816759-careers.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba",
+        "sha256": "bb6b26044d4e5244e559832e6d96a443f538cafbe7bb48575e1dc30c3095d7bc",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/nav-ax-11.txt"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/entry-requirements",
+        "sha256": "3b42864eb9182deec42e85b7e0b06c4e9c0f2ad44e540f0077a3cb5f9cd09f62",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/review/china-dom-11.html"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/fees",
+        "sha256": "8e91aed46b5e7aff80c1270cea389f6115a0784d5f8b92d0f8b135550f3214e9",
+        "raw_file": "scratch/full-catalog/kcl-final-remaining12-enrichment/raw/fees-dom-11.html"
       }
     ],
     "gaps": [
@@ -4338,7 +4753,8 @@
       "新补12理工项目的部分年度模块数量和跨课程表述有差异；实习/海外费用、2027英语更新与本路线独立毕业数据仍依各条缺口，不能套用商学院规则。",
       "本批理工12项仍缺2027最终英语更新、独立毕业统计及部分外出年度费额；两天体课程旧年份声明、物理哲学375与360学分差异、MSci项目OR分组均在各条保留。具名在读海外变体尚未与独立UCAS身份全部闭合。",
       "本批保留欧洲研究90学分年度和配额差异、物理哲学MSci495总量、PrimaryCare开放与截止冲突及海外仅MBBS在读资格；部分2027最终英语/海外费与独立毕业统计仍待补。具名在读变体尚未与独立录取身份全部闭合。",
-      "本批保留政治学BA/BSc与营销选修学分、现代语言及国际关系分年表差异；EDHEC约30000欧元缺明确收费周期且属旧年度上下文，不作2027伙伴年费。具名在读方向与全量独立入口仍待对账，2027最终英语及毕业统计仍未全核。"
+      "本批保留政治学BA/BSc与营销选修学分、现代语言及国际关系分年表差异；EDHEC约30000欧元缺明确收费周期且属旧年度上下文，不作2027伙伴年费。具名在读方向与全量独立入口仍待对账，2027最终英语及毕业统计仍未全核。",
+      "具名海外和实习路线仍待逐一对账；数学统计及心理论文的学分差异、自然科学待批选修、Quantitative Mathematics 2027暂定状态均保留。2027最终英语和专业毕业统计仍未全核。"
     ]
   },
   "programs": [
@@ -5876,7 +6292,12 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-mathematics-with-management-finance-bsc-2f900f166e"
+      "id": "kcl-mathematics-with-management-finance-bsc-2f900f166e",
+      "subjects": [
+        "数学与统计",
+        "商科"
+      ],
+      "subject": "数学与统计"
     },
     {
       "name_en": "Mathematics with Management & Finance with Year in Industry BSc",
@@ -5892,7 +6313,12 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-mathematics-with-management-finance-with-year-in-industry-bsc-4dfe1b388c"
+      "id": "kcl-mathematics-with-management-finance-with-year-in-industry-bsc-4dfe1b388c",
+      "subjects": [
+        "数学与统计",
+        "商科"
+      ],
+      "subject": "数学与统计"
     },
     {
       "name_en": "Mathematics with Statistics BSc",
@@ -6072,7 +6498,11 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-natural-sciences-msci-4dabed4621"
+      "id": "kcl-natural-sciences-msci-4dabed4621",
+      "subjects": [
+        "自然科学"
+      ],
+      "subject": "自然科学"
     },
     {
       "name_en": "Natural Sciences BSc",
@@ -6088,7 +6518,11 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-natural-sciences-bsc-6983a21800"
+      "id": "kcl-natural-sciences-bsc-6983a21800",
+      "subjects": [
+        "自然科学"
+      ],
+      "subject": "自然科学"
     },
     {
       "name_en": "Natural Sciences with a Year in Industry BSc",
@@ -6104,7 +6538,11 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-natural-sciences-with-a-year-in-industry-bsc-f7bff12f56"
+      "id": "kcl-natural-sciences-with-a-year-in-industry-bsc-f7bff12f56",
+      "subjects": [
+        "自然科学"
+      ],
+      "subject": "自然科学"
     },
     {
       "name_en": "Neuroscience BSc",
@@ -6721,7 +7159,11 @@
       "entry_route": "undergraduate; detailed entry route not yet verified",
       "requires_prior_degree": null,
       "status": "listed_current",
-      "id": "kcl-war-studies-ba-d738816759"
+      "id": "kcl-war-studies-ba-d738816759",
+      "subjects": [
+        "社会科学"
+      ],
+      "subject": "社会科学"
     },
     {
       "name_en": "War Studies & History BA",

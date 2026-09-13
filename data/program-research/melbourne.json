@@ -41721,6 +41721,457 @@
         "当前/2027项目与共同申请、2026承载学位费用明确分开；父主修、医院、研究所和硕士不随意组合。"
       ],
       "translation_status": "逐源实际公开正文与父学位特有条款人工核对"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-stream|arts|Ancient World Studies",
+      "name_en": "Ancient World Studies",
+      "degree_label": "Bachelor of Arts (Degree with Honours) — honours specialisation",
+      "official_url": "https://handbook.unimelb.edu.au/components/bh-arts-spec-1",
+      "source_period": "当前官方目录与院系；2025专属语言指南仍直接链接；2027父学位条件与2026父学位费用分别标注",
+      "inventory_id": "melbourne-ancient-world-studies-4987cc8f93",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "荣誉身份与父学位",
+            "text": "本条是Bachelor of Arts (Degree with Honours)内的具名荣誉方向，在完成相关学士后修读。它与普通BA同名major分开，不是新独立授位；该方向不提供combined honours，不能自由生成组合。",
+            "source_ids": [
+              "meldir-arts-structure",
+              "meldir-arts-entry",
+              "melbourne-hon-arts-ancient-programmes-browser"
+            ]
+          },
+          {
+            "label": "方向研究领域",
+            "text": "研究主题可涉及古代历史、考古及文化的文献与实物证据。当前院系介绍希腊罗马、爱琴海、埃及及近东文明的相互联系；这是支持本方向的学科研究环境，不是2027必修科目清单。荣誉本科身份另由BH-ARTS明确列名。",
+            "source_ids": [
+              "marts-classics-department",
+              "melbourne-hon-arts-ancient-programmes-browser"
+            ]
+          },
+          {
+            "label": "荣誉阶段学分与课程边界",
+            "text": "BH-ARTS要求100个第四年学分；纯荣誉通常为50学分论文（15,000字）、12.5学分研究方法和37.5学分课程。官网同时明确结构随方向变化，故上述只是承载学位通常结构；本轮未取得本方向完整2026/2027模块表，不把通常比例当已逐科核实。毕业须各科及论文达到荣誉等级。",
+            "source_ids": [
+              "meldir-arts-structure"
+            ]
+          },
+          {
+            "label": "学制、地点与语种",
+            "text": "承载荣誉阶段为1年全日制（父页另列2年非全日制），校区Parkville。本轮未取得本方向独立教学语种声明；研究古代语言和英语考试要求不能替代授课语种证明。国际申请者可用的注册强度仍须按实际录取确认。",
+            "source_ids": [
+              "meldir-arts-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "2027起承载学位的大学学历要求",
+            "text": "须近5年内完成相关学科的Bachelor of Arts（AQF7）或认可等同，学位WAM至少70%；相关背景指目标方向的BA主修或等同。另须满足本方向指定科目及既往成绩要求。外校学历和成绩由大学折算，70%是大学成绩要求，不是高考线，达到最低要求不保证录取。",
+            "source_ids": [
+              "meldir-arts-entry"
+            ]
+          },
+          {
+            "label": "2025历史语言条件与荣誉路径",
+            "text": "2025 Open Day指南第12页提供以下历史参考（当前院系仍链接，但不据此判定为2027方向政策）：只掌握希腊语或拉丁语其中一种的荣誉申请者，可申请Ancient World Studies，并把该语言的第四年Honours研讨班计入课程。指南没有据此免除BA主修、成绩或其余方向先修；本轮未取得2027逐科代码、语言等级或具体先修的完整手册。",
+            "source_ids": [
+              "marts-classics-booklet-2025",
+              "marts-classics-department"
+            ]
+          },
+          {
+            "label": "研究计划与选拔",
+            "text": "申请须交最多500词研究计划，说明研究主题、目标及拟定论文标题等；该方向使用Arts Honours thesis proposal途径。评审考虑既往成绩、专业相关性、计划质量和导师容量。可事先联系教师征求意见，但沟通不保证指定导师，导师通常开学后分配；各方向名额可能受限。",
+            "source_ids": [
+              "meldir-arts-entry",
+              "meldir-arts-apply"
+            ]
+          },
+          {
+            "label": "英语与其他学历路径",
+            "text": "父荣誉入口列IELTS Academic总分6.5、每项至少6.0，也可按认可的全英语教学及考核经历或其他获准考试评估。非BA学历或BA完成超过5年者，官网另提示可能申请Graduate Diploma in Arts (Advanced)，这是另一个研究生资格，不自动等同本荣誉入口。",
+            "source_ids": [
+              "meldir-arts-entry"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际申请月日与2027边界",
+            "text": "当前国际生申请页列多数BA Honours年初入学截止10月31日、年中入学截止5月31日；这两条未附具体年份。该方向不在页面列出的无年中入学名单内，但本轮未取得其2027独立开放/名额和年度截止公告，不把常规月日写成已核2027批次。BH-ARTS不提供延期入学。",
+            "source_ids": [
+              "meldir-arts-apply"
+            ]
+          },
+          {
+            "label": "在校生与外校申请材料",
+            "text": "墨尔本大学在校生在学士最后一年经My Unimelb的另一课程申请入口申请；外校生走Course and scholarships applications。外校最终成绩未出可先上传现有非正式成绩单，录取后须在注册前提交满足条件的正式最终成绩；本校毕业生无需另交成绩单。纯荣誉需目标学科主修，并在同一学科完成论文及课程。",
+            "source_ids": [
+              "meldir-arts-apply"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2026父荣誉学位国际费参考",
+            "text": "BH-ARTS实际国际生视图列2026首年指示学费AUD 39,936–57,316。这是承载学位区间，不是本方向独立报价，也不能取某一端点作为确定费用。本轮未取得本方向2027费率或按科目明细账单。",
+            "source_ids": [
+              "meldir-arts-overview"
+            ]
+          },
+          {
+            "label": "额外预算与奖学金入口",
+            "text": "以上为学费参考，不能当住宿、保险、生活和其他研究支出齐全的总预算。当前古典学/考古学院系页提供Scholarships and prizes入口；本轮未核本荣誉方向适用的2027具体奖项、国际生条件、金额与截止，不把链接当自动资助或减费。",
+            "source_ids": [
+              "meldir-arts-overview",
+              "marts-classics-department"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向、后续资格与统计范围",
+            "text": "2025院系指南把古代世界研究Honours列为考古职业进阶的建议路径；同时说明中学教学通常还须读Master of Teaching、文物保护通常还需相关硕士，不能把本荣誉方向当教师或其他职业资格保证。当前院系列博物馆、教育、政府、咨询等学科就业领域；未取得本方向分届次、国际生或中国学生的就业率、薪资或升学率。",
+            "source_ids": [
+              "marts-classics-booklet-2025",
+              "marts-classics-department"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "meldir-arts-structure",
+          "title": "Bachelor of Arts (Degree with Honours)",
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/structure/#nav",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "42615ff1bdf44eee67ce2d156668a64ada06b9e24d5f48e7685f23a883395f34",
+          "supports": "正式荣誉方向目录、100个第四年学分与通常结构；不替代未取得的方向手册。"
+        },
+        {
+          "id": "meldir-arts-entry",
+          "title": "Bachelor of Arts (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/entry-requirements/#nav",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "f875fefba030089fcae46fe7ad715b5b698f249c72e3f8a61c62a4f4c0378a67",
+          "supports": "2027起BA相关大学学历、70%/5年、研究计划、英语、方向另须先修及组合限制。"
+        },
+        {
+          "id": "melbourne-hon-arts-ancient-programmes-browser",
+          "title": "Ancient/Medieval undergraduate and honours list",
+          "url": "https://arts.unimelb.edu.au/ancient-medieval-and-early-modern-studies/welcome/undergraduate",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_dom",
+          "sha256": "90dc3c9a46801f65c09dfdb7cb1658c09b9248535b9f093b07278636b147ec31",
+          "supports": "实际页面分别列普通BA与BH-ARTS，其中 Ancient World Studies、Art History、Classics、English and Theatre Studies、History 五项为荣誉方向。本轮仅用身份与English and Theatre简称对齐，不从跨时期学术介绍推具体荣誉模块。"
+        },
+        {
+          "id": "marts-classics-department",
+          "title": "Classics and Archaeology",
+          "url": "https://arts.unimelb.edu.au/school-of-historical-and-philosophical-studies/discipline-areas/classics-and-archaeology",
+          "checked_at": "2026-09-13",
+          "capture_format": "browser_visible_main_dom",
+          "sha256": "37e0e7283809a25a0e51f49a3302a5e9bb3d8e19d8f9c8070c5d513cd8331f99",
+          "supports": "当前院系古典学/考古学研究与职业领域、Honours入口和2025指南现行链接。"
+        },
+        {
+          "id": "meldir-arts-overview",
+          "title": "Bachelor of Arts (Degree with Honours) - The University of Melbourne",
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "7f8f6f683153cd910a3ee29c4a548f8cf217be74929bb04811873ed965fd1c9a",
+          "supports": "承载荣誉学位定位、学制、Parkville及2026国际首年指示费用；不等于方向单独报价。"
+        },
+        {
+          "id": "marts-classics-booklet-2025",
+          "title": "Ancient World Studies and Classics — 2025 Open Day guide",
+          "url": "https://arts.unimelb.edu.au/__data/assets/pdf_file/0006/5346348/UniMelb-Classics-and-Archaeology-UgradBooklet2025.pdf",
+          "checked_at": "2026-09-13",
+          "capture_format": "browser_downloaded_public_pdf",
+          "sha256": "78d483ccefd4be5509ea52d7cdeaed78050a93491d59c1750f05f22f97700a9f",
+          "supports": "2025指南中特定荣誉语言资格与第4年语言研讨班；职业路径与后续学历边界。普通BA科目表不是Honours课程表。"
+        },
+        {
+          "id": "meldir-arts-apply",
+          "title": "Bachelor of Arts (Degree with Honours) : How to apply - The University of Melbourne",
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/how-to-apply/#nav",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "c2e345b28d54a1a0913c1a13615f7a21fb1a0c97be93a06134b116ea88de615e",
+          "supports": "国际生常规月日、研究计划与在校/外校申请路线；原文无明确年份，不自行升为2027公告。"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "古代世界研究（文科荣誉方向）",
+        "duration": "1年全日制荣誉阶段；100学分",
+        "campus": "Parkville",
+        "language": "本方向授课语种未单独核实",
+        "intake": "2027父学位条件已列；方向年度课程与名额未核",
+        "entry_summary": "相关BA之后的纯荣誉方向；2025历史指南允许单一古典语言背景者考虑本方向；2027方向细则未齐。",
+        "tuition_label": "2026父荣誉学位参考",
+        "tuition_summary": "BA Honours 国际首年AUD 39,936–57,316；方向2027价格未核",
+        "outcomes_summary": "学科职业方向与后续学历边界已读；本荣誉方向就业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": false,
+        "specific_honours_language_path": true,
+        "parent_degree_course_structure": true,
+        "entry_conditions": true,
+        "entry_conditions_2027_direction_complete": false,
+        "application_dates": false,
+        "current_recurring_application_month_days": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "收录依据为正式荣誉父目录与实际院系语言路径；具体课程表未取，course_content=false，不能视为逐科课程核验完成。",
+        "2025指南仍由当前院系直接链接，保留2025年份；2027只核父学位条件，方向特有规则需补。",
+        "本包仅2条有实质荣誉语言路径的方向；其余6探查候选待核，不代表31文科/60候选或全校目录完整。"
+      ],
+      "translation_status": "逐源中文摘要；保持学位层级、年份和证据范围"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "honours-stream|arts|Classics",
+      "name_en": "Classics",
+      "degree_label": "Bachelor of Arts (Degree with Honours) — honours specialisation",
+      "official_url": "https://handbook.unimelb.edu.au/components/bh-arts-spec-8",
+      "source_period": "当前官方目录与院系；2025专属语言指南仍直接链接；2027父学位条件与2026父学位费用分别标注",
+      "inventory_id": "melbourne-classics-e8fb888509",
+      "checked_at": "2026-09-13",
+      "sections": {
+        "overview": [
+          {
+            "label": "荣誉身份与父学位",
+            "text": "本条是Bachelor of Arts (Degree with Honours)内的具名荣誉方向，在完成相关学士后修读。它与普通BA同名major分开，不是新独立授位；该方向不提供combined honours，不能自由生成组合。",
+            "source_ids": [
+              "meldir-arts-structure",
+              "meldir-arts-entry",
+              "melbourne-hon-arts-ancient-programmes-browser"
+            ]
+          },
+          {
+            "label": "方向研究领域",
+            "text": "研究以古希腊语和拉丁语的文本及古代文学、思想和文化为基础。当前院系研究范围还包括古代历史与考古；这里只说明学科研究背景，不把普通三年BA的语言课或考古课直接列成荣誉必修。当前BH-ARTS目录列名Classics，2025指南使用Classics (Ancient Greek and Latin)，本条沿用稳定目录身份。",
+            "source_ids": [
+              "marts-classics-department",
+              "melbourne-hon-arts-ancient-programmes-browser",
+              "marts-classics-booklet-2025"
+            ]
+          },
+          {
+            "label": "荣誉阶段学分与课程边界",
+            "text": "BH-ARTS要求100个第四年学分；纯荣誉通常为50学分论文（15,000字）、12.5学分研究方法和37.5学分课程。官网同时明确结构随方向变化，故上述只是承载学位通常结构；本轮未取得本方向完整2026/2027模块表，不把通常比例当已逐科核实。毕业须各科及论文达到荣誉等级。",
+            "source_ids": [
+              "meldir-arts-structure"
+            ]
+          },
+          {
+            "label": "学制、地点与语种",
+            "text": "承载荣誉阶段为1年全日制（父页另列2年非全日制），校区Parkville。本轮未取得本方向独立教学语种声明；研究古代语言和英语考试要求不能替代授课语种证明。国际申请者可用的注册强度仍须按实际录取确认。",
+            "source_ids": [
+              "meldir-arts-overview"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "2027起承载学位的大学学历要求",
+            "text": "须近5年内完成相关学科的Bachelor of Arts（AQF7）或认可等同，学位WAM至少70%；相关背景指目标方向的BA主修或等同。另须满足本方向指定科目及既往成绩要求。外校学历和成绩由大学折算，70%是大学成绩要求，不是高考线，达到最低要求不保证录取。",
+            "source_ids": [
+              "meldir-arts-entry"
+            ]
+          },
+          {
+            "label": "2025历史语言条件与荣誉路径",
+            "text": "2025 Open Day指南第12页提供普通主修与第四年Honours的历史区分（当前院系仍链接，但不据此判定为2027方向政策）：普通Classics主修并非必须学两种语言，但申请Classics Honours前须已掌握希腊语和拉丁语两种。只掌握一种者，指南另指Ancient World Studies Honours。本轮未取得2027所要求的具体语言等级、各科门槛和完整课程表，不从普通主修的Latin 7/8计划推算荣誉资格。",
+            "source_ids": [
+              "marts-classics-booklet-2025",
+              "marts-classics-department"
+            ]
+          },
+          {
+            "label": "研究计划与选拔",
+            "text": "申请须交最多500词研究计划，说明研究主题、目标及拟定论文标题等；该方向使用Arts Honours thesis proposal途径。评审考虑既往成绩、专业相关性、计划质量和导师容量。可事先联系教师征求意见，但沟通不保证指定导师，导师通常开学后分配；各方向名额可能受限。",
+            "source_ids": [
+              "meldir-arts-entry",
+              "meldir-arts-apply"
+            ]
+          },
+          {
+            "label": "英语与其他学历路径",
+            "text": "父荣誉入口列IELTS Academic总分6.5、每项至少6.0，也可按认可的全英语教学及考核经历或其他获准考试评估。非BA学历或BA完成超过5年者，官网另提示可能申请Graduate Diploma in Arts (Advanced)，这是另一个研究生资格，不自动等同本荣誉入口。",
+            "source_ids": [
+              "meldir-arts-entry"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际申请月日与2027边界",
+            "text": "当前国际生申请页列多数BA Honours年初入学截止10月31日、年中入学截止5月31日；这两条未附具体年份。该方向不在页面列出的无年中入学名单内，但本轮未取得其2027独立开放/名额和年度截止公告，不把常规月日写成已核2027批次。BH-ARTS不提供延期入学。",
+            "source_ids": [
+              "meldir-arts-apply"
+            ]
+          },
+          {
+            "label": "在校生与外校申请材料",
+            "text": "墨尔本大学在校生在学士最后一年经My Unimelb的另一课程申请入口申请；外校生走Course and scholarships applications。外校最终成绩未出可先上传现有非正式成绩单，录取后须在注册前提交满足条件的正式最终成绩；本校毕业生无需另交成绩单。纯荣誉需目标学科主修，并在同一学科完成论文及课程。",
+            "source_ids": [
+              "meldir-arts-apply"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2026父荣誉学位国际费参考",
+            "text": "BH-ARTS实际国际生视图列2026首年指示学费AUD 39,936–57,316。这是承载学位区间，不是本方向独立报价，也不能取某一端点作为确定费用。本轮未取得本方向2027费率或按科目明细账单。",
+            "source_ids": [
+              "meldir-arts-overview"
+            ]
+          },
+          {
+            "label": "额外预算与奖学金入口",
+            "text": "以上为学费参考，不能当住宿、保险、生活和其他研究支出齐全的总预算。当前古典学/考古学院系页提供Scholarships and prizes入口；本轮未核本荣誉方向适用的2027具体奖项、国际生条件、金额与截止，不把链接当自动资助或减费。",
+            "source_ids": [
+              "meldir-arts-overview",
+              "marts-classics-department"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向、后续资格与统计范围",
+            "text": "2025院系指南将学术工作描述为通常先完成Honours和PhD等后续学习，再申请博士后职位；中学教学通常还需Master of Teaching。当前院系列博物馆、教育、政府、行政及咨询等学科去向，属于整个古典学/考古学领域说明，不是本Classics Honours的就业调查或注册保证。未取得分届次和国际生分母的就业率、薪资或升学率。",
+            "source_ids": [
+              "marts-classics-booklet-2025",
+              "marts-classics-department"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "meldir-arts-structure",
+          "title": "Bachelor of Arts (Degree with Honours)",
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/structure/#nav",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "42615ff1bdf44eee67ce2d156668a64ada06b9e24d5f48e7685f23a883395f34",
+          "supports": "正式荣誉方向目录、100个第四年学分与通常结构；不替代未取得的方向手册。"
+        },
+        {
+          "id": "meldir-arts-entry",
+          "title": "Bachelor of Arts (Degree with Honours) : Entry requirements - The University of Melbourne",
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/entry-requirements/#nav",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "f875fefba030089fcae46fe7ad715b5b698f249c72e3f8a61c62a4f4c0378a67",
+          "supports": "2027起BA相关大学学历、70%/5年、研究计划、英语、方向另须先修及组合限制。"
+        },
+        {
+          "id": "melbourne-hon-arts-ancient-programmes-browser",
+          "title": "Ancient/Medieval undergraduate and honours list",
+          "url": "https://arts.unimelb.edu.au/ancient-medieval-and-early-modern-studies/welcome/undergraduate",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_dom",
+          "sha256": "90dc3c9a46801f65c09dfdb7cb1658c09b9248535b9f093b07278636b147ec31",
+          "supports": "实际页面分别列普通BA与BH-ARTS，其中 Ancient World Studies、Art History、Classics、English and Theatre Studies、History 五项为荣誉方向。本轮仅用身份与English and Theatre简称对齐，不从跨时期学术介绍推具体荣誉模块。"
+        },
+        {
+          "id": "marts-classics-department",
+          "title": "Classics and Archaeology",
+          "url": "https://arts.unimelb.edu.au/school-of-historical-and-philosophical-studies/discipline-areas/classics-and-archaeology",
+          "checked_at": "2026-09-13",
+          "capture_format": "browser_visible_main_dom",
+          "sha256": "37e0e7283809a25a0e51f49a3302a5e9bb3d8e19d8f9c8070c5d513cd8331f99",
+          "supports": "当前院系古典学/考古学研究与职业领域、Honours入口和2025指南现行链接。"
+        },
+        {
+          "id": "marts-classics-booklet-2025",
+          "title": "Ancient World Studies and Classics — 2025 Open Day guide",
+          "url": "https://arts.unimelb.edu.au/__data/assets/pdf_file/0006/5346348/UniMelb-Classics-and-Archaeology-UgradBooklet2025.pdf",
+          "checked_at": "2026-09-13",
+          "capture_format": "browser_downloaded_public_pdf",
+          "sha256": "78d483ccefd4be5509ea52d7cdeaed78050a93491d59c1750f05f22f97700a9f",
+          "supports": "2025指南中特定荣誉语言资格与第4年语言研讨班；职业路径与后续学历边界。普通BA科目表不是Honours课程表。"
+        },
+        {
+          "id": "meldir-arts-overview",
+          "title": "Bachelor of Arts (Degree with Honours) - The University of Melbourne",
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "7f8f6f683153cd910a3ee29c4a548f8cf217be74929bb04811873ed965fd1c9a",
+          "supports": "承载荣誉学位定位、学制、Parkville及2026国际首年指示费用；不等于方向单独报价。"
+        },
+        {
+          "id": "meldir-arts-apply",
+          "title": "Bachelor of Arts (Degree with Honours) : How to apply - The University of Melbourne",
+          "url": "https://study.unimelb.edu.au/find/courses/honours/bachelor-of-arts-degree-with-honours/how-to-apply/#nav",
+          "checked_at": "2026-09-13",
+          "capture_format": "chrome_public_main_dom",
+          "sha256": "c2e345b28d54a1a0913c1a13615f7a21fb1a0c97be93a06134b116ea88de615e",
+          "supports": "国际生常规月日、研究计划与在校/外校申请路线；原文无明确年份，不自行升为2027公告。"
+        }
+      ],
+      "excluded_school_sections": [
+        "overview",
+        "admissions",
+        "applications",
+        "fees",
+        "outcomes"
+      ],
+      "display_fields": {
+        "name": "古典学（文科荣誉方向）",
+        "duration": "1年全日制荣誉阶段；100学分",
+        "campus": "Parkville",
+        "language": "本方向授课语种未单独核实",
+        "intake": "2027父学位条件已列；方向年度课程与名额未核",
+        "entry_summary": "相关BA之后的纯荣誉方向；2025历史指南要求申请前具备希腊语及拉丁语；2027具体等级另核。",
+        "tuition_label": "2026父荣誉学位参考",
+        "tuition_summary": "BA Honours 国际首年AUD 39,936–57,316；方向2027价格未核",
+        "outcomes_summary": "学科职业方向与后续学历边界已读；本荣誉方向就业统计未取得"
+      },
+      "research_status": "program_researched",
+      "enrichment_status": "partial",
+      "detail_payload_acquired": true,
+      "substantive_coverage": {
+        "course_content": false,
+        "specific_honours_language_path": true,
+        "parent_degree_course_structure": true,
+        "entry_conditions": true,
+        "entry_conditions_2027_direction_complete": false,
+        "application_dates": false,
+        "current_recurring_application_month_days": true,
+        "fee_amount": false,
+        "parent_degree_fee_reference": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "coverage_notes": [
+        "收录依据为正式荣誉父目录与实际院系语言路径；具体课程表未取，course_content=false，不能视为逐科课程核验完成。",
+        "2025指南仍由当前院系直接链接，保留2025年份；2027只核父学位条件，方向特有规则需补。",
+        "本包仅2条有实质荣誉语言路径的方向；其余6探查候选待核，不代表31文科/60候选或全校目录完整。"
+      ],
+      "translation_status": "逐源中文摘要；保持学位层级、年份和证据范围"
     }
   ],
   "profile": {

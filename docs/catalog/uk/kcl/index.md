@@ -116,13 +116,13 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-management-modern-languages-french-german-portuguese-or-spanish-w-0b83f3d6ca/">管理与现代语言（法语、德语、葡萄牙语或西班牙语；含海外年文学学士）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-marketing-bsc-c7cc8a29dc/">市场营销（理学学士）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-marketing-with-year-in-industry-bsc-200524822b/">市场营销（含行业实习年理学学士）</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-philosophy-bsc-002bb0180a/">Mathematics &amp; Philosophy BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-philosophy-bsc-002bb0180a/">数学与哲学理学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-bsc-9da2bc288d/">数学（BSc）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-msci-dbb411c1a2/">数学（MSci，本硕一体）</a><small>MSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-management-finance-bsc-2f900f166e/">Mathematics with Management &amp; Finance BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-management-finance-with-year-in-industry-bsc-4dfe1b388c/">Mathematics with Management &amp; Finance with Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-statistics-bsc-e82791f255/">Mathematics with Statistics BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-statistics-with-year-in-industry-bsc-8bc4d0be74/">Mathematics with Statistics with Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-management-finance-bsc-2f900f166e/">数学（管理与金融辅修）理学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-management-finance-with-year-in-industry-bsc-4dfe1b388c/">数学（管理与金融辅修，含行业年）理学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-statistics-bsc-e82791f255/">数学（统计学辅修）理学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-statistics-with-year-in-industry-bsc-8bc4d0be74/">数学（统计学辅修，含行业年）理学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-year-in-industry-bsc-11d05449af/">数学（BSc，含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-mathematics-with-year-in-industry-msci-dcbfcd2cd2/">数学（MSci，本硕一体含行业实习年）</a><small>MSci · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-medical-physiology-bsc-fb8f2fdaf3/">医学生理学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
@@ -131,9 +131,9 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-modern-languages-french-german-spanish-portuguese-with-a-year-abr-5b28a228c7/">现代语言（法语、德语、西班牙语、葡萄牙语；含海外年文学学士）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-molecular-genetics-bsc-6412d6b7a6/">分子遗传学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-music-bmus-81751a2f19/">音乐（BMus）</a><small>BMus · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-natural-sciences-bsc-6983a21800/">Natural Sciences BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-natural-sciences-msci-4dabed4621/">Natural Sciences MSci</a><small>MSci · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-natural-sciences-with-a-year-in-industry-bsc-f7bff12f56/">Natural Sciences with a Year in Industry BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-natural-sciences-bsc-6983a21800/">自然科学理学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-natural-sciences-msci-4dabed4621/">自然科学本硕一体（MSci）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-natural-sciences-with-a-year-in-industry-bsc-f7bff12f56/">自然科学理学士（含行业年）</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-neuroscience-bsc-d93be1f745/">神经科学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-neuroscience-and-psychology-bsc-7a88cc02c5/">神经科学与心理学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-neuroscience-ibsc-a245d57d91/">神经科学插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article>
@@ -161,9 +161,9 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-politics-ba-bsc-727e4dc47e/">政治学（文学／理学学士）</a><small>BA/BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-politics-philosophy-law-llb-de8d98c886/">政治、哲学与法律（LLB）</a><small>LLB · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-primary-care-ibsc-3550073213/">基层医疗（iBSc，医学在读插读）</a><small>iBSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-psychology-bsc-aaa6e6c660/">Psychology BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-psychology-and-criminology-bsc-8d069e01f9/">Psychology and Criminology BSc</a><small>BSc · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-quantitative-mathematics-bsc-3f96586e9b/">Quantitative Mathematics BSc</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-psychology-bsc-aaa6e6c660/">心理学理学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-psychology-and-criminology-bsc-8d069e01f9/">心理学与犯罪学理学士</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-quantitative-mathematics-bsc-3f96586e9b/">量化数学理学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-regenerative-medicine-innovation-technology-ibsc-1df623ce1d/">再生医学与创新技术插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-religion-philosophy-ethics-ba-fec715cc95/">宗教、哲学与伦理（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-social-sciences-ba-4802989398/">社会科学（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
@@ -171,7 +171,7 @@ hide:
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-sociology-politics-and-religion-ba-c6ea9f1b88/">社会学、政治与宗教（BA）</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-sport-exercise-medical-sciences-bsc-b27cabc830/">运动与医学科学理学学士</a><small>BSc · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-war-studies-history-ba-67b9d28bb9/">战争研究与历史（BA）</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-war-studies-ba-d738816759/">War Studies BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-war-studies-ba-d738816759/">战争研究文学士</a><small>BA · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/uk/kcl/kcl-women-s-health-ibsc-9812da633f/">女性健康插读理学学士</a><small>iBSc · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
@@ -210,7 +210,7 @@ hide:
 
 <p><strong>统计范围：</strong>148个已发现目录入口中，145个本科及本科在读路线；3个本科后护理硕士另留更正页，内部路径仍待全量对账</p>
 
-<p><strong>对账方法：</strong>复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。 再逐课核12计算机、数学与通用工程项目及各自China分支、年度模块与费用，原145入口保持。 再核12电子工程、化学、物理及相关组合课程，实读12个China分支和43个年度模块视图；原145身份不变，未据在读海外安排另造高中招生入口。 再深化12条生物医学工程、数据分析、环境地理、欧洲研究、物理哲学及PrimaryCare插读，实际12China分支和41年度视图；保持145库存及原身份，仅精确入口限制。已完成这一层级分栏研究118项，仍余27项待深化。 本批继续深化15条社科、语言、商科及博雅课程，298事实，15实际China分支、50年度模块和国际费用视图；本批后这一层级已深化133条，仍余12条。IBAM按两校官方声明明确KCL BSc加EDHEC International BBA，145原ID保持。</p>
+<p><strong>对账方法：</strong>复核原十页148结果位置及现页2/3在电子工程BEng/MEng排序相同处的重复；取得MEng独立2027课程及五个相关页面，并为8旧项补课程、条件与职业资料。 本次40项健康医学逐栏复核：37本科条目补课程、专属条件、2027/28年度费用与职业资料；3护理硕士据实际授位和前置学历移出本科清单。 再逐页核12人文课程的中国学历分支、国际年费、完整年度模块和职业说明；保持现有145入口。 再逐页核12艺术媒体课程、各自China资格分支与38个年度模块展示，维持145入口。 再逐页核12法律商科项目，包含实际China分支、43年度模块展示及跨国伙伴学分、资格和收费；不新增或自由组合学位。 再逐课核12计算机、数学与通用工程项目及各自China分支、年度模块与费用，原145入口保持。 再核12电子工程、化学、物理及相关组合课程，实读12个China分支和43个年度模块视图；原145身份不变，未据在读海外安排另造高中招生入口。 再深化12条生物医学工程、数据分析、环境地理、欧洲研究、物理哲学及PrimaryCare插读，实际12China分支和41年度视图；保持145库存及原身份，仅精确入口限制。已完成这一层级分栏研究118项，仍余27项待深化。 本批继续深化15条社科、语言、商科及博雅课程，298事实，15实际China分支、50年度模块和国际费用视图；本批后这一层级已深化133条，仍余12条。IBAM按两校官方声明明确KCL BSc加EDHEC International BBA，145原ID保持。 本批深化最后12条既有数学、自然科学、心理及战争研究课程，227事实和108来源引用；现有145条均有已采集资料；其中136条完成后续分栏深化流程，最早9条仍是部分补源，尚待同等深度核验。独立路线与所有信息字段并未全齐。</p>
 
 <p><strong>排除项：</strong>Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9；Parse embedded public server-rendered listing records, not hidden browser state；Keep intercalated and graduate-entry undergraduate degrees with route notes；本科后首次注册护理MNurs/MSc不计本科项目；MBBS/BDS仍按专业学士保留并注明前置学历。</p>
 
@@ -227,6 +227,7 @@ hide:
 - 本批理工12项仍缺2027最终英语更新、独立毕业统计及部分外出年度费额；两天体课程旧年份声明、物理哲学375与360学分差异、MSci项目OR分组均在各条保留。具名在读海外变体尚未与独立UCAS身份全部闭合。
 - 本批保留欧洲研究90学分年度和配额差异、物理哲学MSci495总量、PrimaryCare开放与截止冲突及海外仅MBBS在读资格；部分2027最终英语/海外费与独立毕业统计仍待补。具名在读变体尚未与独立录取身份全部闭合。
 - 本批保留政治学BA/BSc与营销选修学分、现代语言及国际关系分年表差异；EDHEC约30000欧元缺明确收费周期且属旧年度上下文，不作2027伙伴年费。具名在读方向与全量独立入口仍待对账，2027最终英语及毕业统计仍未全核。
+- 具名海外和实习路线仍待逐一对账；数学统计及心理论文的学分差异、自然科学待批选修、Quantitative Mathematics 2027暂定状态均保留。2027最终英语和专业毕业统计仍未全核。
 
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=9)
@@ -1088,5 +1089,88 @@ hide:
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc/entry-requirements)
 - [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc/careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc/fees)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/teaching-and-modules)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/war-studies-ba-careers)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/entry-requirements)
+- [官方目录来源](https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba/fees)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。
